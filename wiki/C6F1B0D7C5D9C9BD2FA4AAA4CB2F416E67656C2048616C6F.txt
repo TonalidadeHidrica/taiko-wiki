@@ -51,5 +51,4 @@
 
 ***譜面 [#score]
 ~2人プレイの場合、手繋ぎ音符は最後の1打のみです。
-~連打は3.5拍
-~&attachref(rr3dan syusei.png,nolink);
+~&attachref(rr3dan_m2.png,nolink);
