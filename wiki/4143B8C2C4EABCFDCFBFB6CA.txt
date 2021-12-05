@@ -152,6 +152,7 @@
 |''ALiVE''|170|[[★×3>難易度表/かんたん/ALiVE]]|[[★×4>難易度表/ふつう/ALiVE]]|[[★×6>難易度表/むずかしい/ALiVE]]|[[★×9>難易度表/おに/ALiVE]]|-|
 |''waitin' for u''|180|[[★×5>難易度表/かんたん/waitin' for u]]|[[★×6>難易度表/ふつう/waitin' for u]]|[[★×6>難易度表/むずかしい/waitin' for u]]|[[★×10>難易度表/おに/waitin' for u]]|-|
 |''Dogbite''|195|[[★×4>難易度表/かんたん/Dogbite]]|[[★×6>難易度表/ふつう/Dogbite]]|[[★×7>難易度表/むずかしい/Dogbite]]|[[★×10>難易度表/おに/Dogbite]]|-|
+|''Parousia''|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|-|
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |>|>|>|>|>|>|BGCOLOR(orangered):''ナムコオリジナル''&aname(namco);|
 |''Asteroid''|144-288|[[★×5>難易度表/かんたん/Asteroid]]|[[★×7>難易度表/ふつう/Asteroid]]|[[★×8>難易度表/むずかしい/Asteroid]]|[[★×9>難易度表/おに/Asteroid]]|-|

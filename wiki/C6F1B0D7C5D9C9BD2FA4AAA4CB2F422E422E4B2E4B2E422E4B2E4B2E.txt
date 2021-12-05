@@ -1,4 +1,5 @@
 *B.B.K.K.B.K.K. [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -27,13 +28,14 @@
 -曲名のBとKはベースとキックのこと。
 -この譜面をフルコンボすると、''称号''「''LET THE BASS KICK''」を獲得できる。 
 -曲IDは、''bbkkbk''。
+
 ----
 -[[かんたん>難易度表/かんたん/B.B.K.K.B.K.K.]]
 -[[ふつう>難易度表/ふつう/B.B.K.K.B.K.K.]]
 -[[むずかしい>難易度表/むずかしい/B.B.K.K.B.K.K.]]
+-[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=Xh1NgqOU0IU&t=13s]]
 -[[楽曲MV(公式)>https://www.youtube.com/watch?v=XHtQO0aLEKI]]
 -[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88]]
--[[プレイ動画>https://www.youtube.com/watch?v=XOKtvdYqqO4]]
 
 ***コメント [#comment]
 #pcomment(,noname)

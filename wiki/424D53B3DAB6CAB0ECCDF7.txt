@@ -34,7 +34,7 @@
 |''¶ÊÌ¾''|BPM|BGCOLOR(#f30):COLOR(#111):''¤«¤ó&br;¤¿¤ó''|BGCOLOR(#8c2):COLOR(#111):''¤Õ¤Ä¤¦''|BGCOLOR(#3ab):COLOR(#111):''¤à¤º¤«&br;¤·¤¤''|BGCOLOR(#f2c):COLOR(#000):''¤ª¤Ë''|BGCOLOR(#63e):COLOR(#fff):''¤ª¤Ë&br;(Î¢)''|ºîÉÊµ­»ö|h
 |''FREEDOM DiVE¢­''&br;SIZE(11){xi}|222.22|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/FREEDOM DiVE¢­]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/FREEDOM DiVE¢­]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/FREEDOM DiVE¢­]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/FREEDOM DiVE¢­]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50]]|
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Dreadnought]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought(Î¢ÉèÌÌ)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]|
-|''Parousia''&br;SIZE(11){xi}|158|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Parousia]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Parousia]]||[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=74]]|
+|''Parousia''&br;SIZE(11){xi}|79-158|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Parousia]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Parousia]]||[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=74]]|
 
 ***ºï½ü (1¶Ê) [#sakuzyo]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c

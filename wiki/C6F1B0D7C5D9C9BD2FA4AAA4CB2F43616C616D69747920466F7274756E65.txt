@@ -1,4 +1,5 @@
 *&ruby(カラミティ){Calamity}; &ruby(フォーチュン){Fortune}; [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -32,14 +33,16 @@
 -この譜面をフルコンボすると、''称号''「''奇跡を起こす程度のドンだー''」を獲得できる。
 --元ネタは、「風神録」で初登場した東風谷早苗の持つ能力から。
 -曲IDは、''thclmt''。
+
 ----
 -[[かんたん>難易度表/かんたん/Calamity Fortune]]
 -[[ふつう>難易度表/ふつう/Calamity Fortune]]
 -[[むずかしい>難易度表/むずかしい/Calamity Fortune]]
 -おに/[[裏譜面>難易度表/おに/Calamity Fortune(裏譜面)]]
+-[[オート動画(PS4 1)>https://m.youtube.com/watch?feature=youtu.be&v=qXUZi6cBKyE]]
 -[[楽曲MV(公式)>https://www.youtube.com/watch?v=L_iSDqqhsBg]]
 -[[BMS>http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45]]
--[[プレイ動画>https://www.youtube.com/watch?v=GB6vfJpXnAk]]
+//-[[プレイ動画>https://www.youtube.com/watch?v=GB6vfJpXnAk]]
 
 ***コメント [#comment]
 -COLOR(#33f){''必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

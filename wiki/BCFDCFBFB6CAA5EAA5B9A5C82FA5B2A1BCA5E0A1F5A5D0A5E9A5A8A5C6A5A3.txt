@@ -232,6 +232,7 @@
 |''PAC-MAN CHAMPIONSHIP EDITION 2''|150|[[★×4>難易度表/かんたん/PAC‐MAN CHAMPIONSHIP EDITION 2]]|[[★×6>難易度表/ふつう/PAC‐MAN CHAMPIONSHIP EDITION 2]]|[[★×7>難易度表/むずかしい/PAC‐MAN CHAMPIONSHIP EDITION 2]]|[[★×9>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]|
 |''RAINMAKER''|165|[[★×3>難易度表/かんたん/RAINMAKER]]|[[★×4>難易度表/ふつう/RAINMAKER]]|[[★×5>難易度表/むずかしい/RAINMAKER]]|[[★×8>難易度表/おに/RAINMAKER]]|
 |''PaPaP''''a Love''|169|[[★×3>難易度表/かんたん/PaPaPa Love]]|[[★×5>難易度表/ふつう/PaPaPa Love]]|[[★×6>難易度表/むずかしい/PaPaPa Love]]|[[★×8>難易度表/おに/PaPaPa Love]]|
+|''Parousia''|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|
 |''Pastel Sealane''|140.1|[[★×5>難易度表/かんたん/Pastel Sealane]]|[[★×7>難易度表/ふつう/Pastel Sealane]]|[[★×8>難易度表/むずかしい/Pastel Sealane]]|[[★×9>難易度表/おに/Pastel Sealane]]|
 |''PERFECT HUMAN''|128|[[★×2>難易度表/かんたん/PERFECT HUMAN]]|[[★×3>難易度表/ふつう/PERFECT HUMAN]]|[[★×4>難易度表/むずかしい/PERFECT HUMAN]]|[[★×8>難易度表/おに/PERFECT HUMAN]]|
 |''Pixel Galaxy''|300|[[★×4>難易度表/かんたん/Pixel Galaxy]]|[[★×5>難易度表/ふつう/Pixel Galaxy]]|[[★×6>難易度表/むずかしい/Pixel Galaxy]]|[[★×9>難易度表/おに/Pixel Galaxy]]|

@@ -1,6 +1,5 @@
 *難易度表/むずかしい/★×8 [#title]
 #contents
--[[ノルマ難易度順(新筐体)>http://www.wikihouse.com/taiko/index.php?%C6%F1%B0%D7%C5%D9%BD%E7%2FAC15%2F%A4%E0%A4%BA%A4%AB%A4%B7%A4%A4%2F%A1%FA%A1%DF8%BE%E5%B0%CC]]((上位曲のみ))
 
 -新基準曲 ''118'' ＋ 旧基準曲 ''13'' ＝ 現在 ''131'' 曲
 --表譜面 ''119'' ＋ 裏譜面 ''20'' ＝ 現在 ''139'' 譜面

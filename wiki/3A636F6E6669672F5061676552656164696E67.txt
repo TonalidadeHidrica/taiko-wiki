@@ -975,6 +975,7 @@
 -[[コメント/難易度表/おに/POP TEAM EPIC]] コメント/ナンイドオモテ/オニ/POP TEAM EPIC
 -[[コメント/難易度表/おに/PaPaPa Love]] コメント/ナンイドオモテ/オニ/PaPaPa Love
 -[[コメント/難易度表/おに/Paradisus-Paradoxum]] コメント/ナンイドオモテ/オニ/Paradisus-Paradoxum
+-[[コメント/難易度表/おに/Parousia]] コメント/ナンイドオモテ/オニ/Parousia
 -[[コメント/難易度表/おに/Pastel Sealane]] コメント/ナンイドオモテ/オニ/Pastel Sealane
 -[[コメント/難易度表/おに/Phantom Rider]] コメント/ナンイドオモテ/オニ/Phantom Rider
 -[[コメント/難易度表/おに/Phantom Rider(裏譜面)]] コメント/ナンイドオモテ/オニ/Phantom Rider(ウラフメン)
@@ -8691,6 +8692,7 @@
 -[[難易度表/おに/POP TEAM EPIC]] ナンイドオモテ/オニ/POP TEAM EPIC
 -[[難易度表/おに/PaPaPa Love]] ナンイドオモテ/オニ/PaPaPa Love
 -[[難易度表/おに/Paradisus-Paradoxum]] ナンイドオモテ/オニ/Paradisus-Paradoxum
+-[[難易度表/おに/Parousia]] ナンイドオモテ/オニ/Parousia
 -[[難易度表/おに/Pastel Sealane]] ナンイドオモテ/オニ/Pastel Sealane
 -[[難易度表/おに/Phantom Rider]] ナンイドオモテ/オニ/Phantom Rider
 -[[難易度表/おに/Phantom Rider(裏譜面)]] ナンイドオモテ/オニ/Phantom Rider(ウラフメン)
