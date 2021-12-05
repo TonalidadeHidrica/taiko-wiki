@@ -486,8 +486,8 @@
 |〇|BGCOLOR(gold):|フリーウェイドンだー|[[COLOR(blue):Freeway3234>難易度表/おに/Freeway3234]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|そう、愛なんだぜ|[[COLOR(blue):愛なんだぜ>難易度表/おに/愛なんだぜ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|シンクロニカは眠らない|[[COLOR(blue):シンクロニカ・エアライン>難易度表/おに/シンクロニカ・エアライン]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|待ち焦がれドンだー|[[COLOR(blue):waitin' for u>難易度表/おに/waitin' for u]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|太鼓は生き甲斐|[[COLOR(blue):ALiVE>難易度表/おに/ALiVE]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):waitin' for u>難易度表/おに/waitin' for u]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|JOIN THE PAC|[[COLOR(blue):JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]をフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|

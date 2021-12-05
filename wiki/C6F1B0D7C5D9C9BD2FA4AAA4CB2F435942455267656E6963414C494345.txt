@@ -23,11 +23,12 @@
 -作詞・歌唱は、[[''葉月ゆら''>参加アーティスト一覧/葉月ゆら]]。
 -作曲・編曲は、[[''Drop''>参加アーティスト一覧/Drop]]。
 -曲IDは、''calice''。
+
 ----
 -[[かんたん>難易度表/かんたん/CYBERgenicALICE]]
 -[[ふつう>難易度表/ふつう/CYBERgenicALICE]]
 -[[むずかしい>難易度表/むずかしい/CYBERgenicALICE]]
--[[プレイ動画>https://www.youtube.com/watch?v=s3JoaFev-vM]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=s3JoaFev-vM&t=14s]]
 
 ***コメント [#comment]
 #pcomment(,noname)

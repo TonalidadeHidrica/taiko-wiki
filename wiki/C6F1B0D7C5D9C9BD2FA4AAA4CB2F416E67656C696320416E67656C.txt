@@ -29,11 +29,10 @@
 -[[かんたん>難易度表/かんたん/Angelic Angel]]
 -[[ふつう>難易度表/ふつう/Angelic Angel]]
 -[[むずかしい>難易度表/むずかしい/Angelic Angel]]
--[[プレイ動画>https://youtu.be/OA713WIsf74]]
-
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=aOgxIXJ-kfc&t=14s]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&ref(llang_m.png,nolink);
+&ref(llang_m改行.png,nolink);

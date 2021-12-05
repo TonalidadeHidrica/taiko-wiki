@@ -276,6 +276,7 @@
 |''Venomous''|224※|[[★×5>難易度表/かんたん/Venomous]]|[[★×6>難易度表/ふつう/Venomous]]|[[★×7>難易度表/むずかしい/Venomous]]|[[★×9>難易度表/おに/Venomous]]|
 |''Venomous(裏譜面)''|~|-|-|-|[[★×10>難易度表/おに/Venomous(裏譜面)]]|
 |''VERTeX''|237|[[★×5>難易度表/かんたん/VERTeX]]|[[★×7>難易度表/ふつう/VERTeX]]|[[★×8>難易度表/むずかしい/VERTeX]]|[[★×10>難易度表/おに/VERTeX]]|
+|''waitin' for u''|180|[[★×5>難易度表/かんたん/waitin' for u]]|[[★×6>難易度表/ふつう/waitin' for u]]|[[★×6>難易度表/むずかしい/waitin' for u]]|[[★×10>難易度表/おに/waitin' for u]]|
 |''Walking Through The Towers''|150|[[★×3>難易度表/かんたん/Walking Through The Towers]]|[[★×4>難易度表/ふつう/Walking Through The Towers]]|[[★×5>難易度表/むずかしい/Walking Through The Towers]]|[[★×7>難易度表/おに/Walking Through The Towers]]|
 |''WARNING×WARNING×WARNING''|172|[[★×2>難易度表/かんたん/WARNING×WARNING×WARNING]]|[[★×4>難易度表/ふつう/WARNING×WARNING×WARNING]]|[[★×5>難易度表/むずかしい/WARNING×WARNING×WARNING]]|[[★×9>難易度表/おに/WARNING×WARNING×WARNING]]|
 |''Wasabi Body Blow''|180|[[★×3>難易度表/かんたん/Wasabi Body Blow]]|[[★×4>難易度表/ふつう/Wasabi Body Blow]]|[[★×6>難易度表/むずかしい/Wasabi Body Blow]]|[[★×9>難易度表/おに/Wasabi Body Blow]]|

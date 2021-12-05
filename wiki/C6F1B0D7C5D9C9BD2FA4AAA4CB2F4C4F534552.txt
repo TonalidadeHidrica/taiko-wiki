@@ -26,8 +26,9 @@
 -[[かんたん>難易度表/かんたん/LOSER]]
 -[[ふつう>難易度表/ふつう/LOSER]]
 -[[むずかしい>難易度表/むずかしい/LOSER]]
+-[[プレイ動画>https://youtu.be/hMQ_EjwkReE]]((ミュートなし、ピッチ変更なし))
 -[[オート動画(niconico)>https://www.nicovideo.jp/watch/sm34442196?from=338]]
--[[プレイ動画(直撮り)>https://www.youtube.com/watch?v=4QpIVOH9x5U]]
+//-[[プレイ動画(直撮り)>https://www.youtube.com/watch?v=4QpIVOH9x5U]]
 
 ***コメント [#comment]
 #pcomment(,noname)

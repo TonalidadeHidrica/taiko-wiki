@@ -1,0 +1,27 @@
+*waitin' for u [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.1.4''|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|★×6|''424''|''998200点''|＋連打|2350点|
+
+***譜面構成・攻略 [#capture]
+-BPMは180。
+
+***その他 [#other]
+-アーティストは、[[''Jun Kuroda''>参加アーティスト一覧/Jun Kuroda]]。
+-譜面作成は、[[''ちはら''>譜面作成者一覧/ちはら]]。
+
+----
+-[[かんたん>難易度表/かんたん/waitin' for u]]
+-[[ふつう>難易度表/ふつう/waitin' for u]]
+-[[おに>難易度表/おに/waitin' for u]]
+//-[[プレイ動画>]]
+-[[楽曲・譜面紹介>https://taiko-ch.net/blog/?p=4722]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~HSは暫定
+~&attachref(wfu_h.png,nolink);

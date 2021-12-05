@@ -981,7 +981,7 @@
 |879|[[タイコロール>難易度表/おに/タイコロール]]|BGCOLOR(orangered):ナムオリ|tkroll||
 |880|[[夢と希望>難易度表/おに/夢と希望]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|udtymt||
 |881|[[MEGALOVANIA>難易度表/おに/MEGALOVANIA]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|udtmgl||
-|882|[[乙女解剖>難易度表/おに/乙女解剖]]|BGCOLOR(darkgray):ボカロ|?||
+|882|[[乙女解剖>難易度表/おに/乙女解剖]]|BGCOLOR(darkgray):ボカロ|mikuot||
 |883|[[サクリファイス>難易度表/おに/サクリファイス]]|BGCOLOR(hotpink):アニメ|?||
 |884|[[愛にできることはまだあるかい>難易度表/おに/愛にできることはまだあるかい]]|BGCOLOR(hotpink):アニメ|tnkai2||
 |885|[[Pretender>難易度表/おに/Pretender]]|BGCOLOR(cyan):ポップス|?||
@@ -1028,7 +1028,7 @@
 |926|[[命に嫌われている。>難易度表/おに/命に嫌われている。]]|BGCOLOR(darkgray):ボーカロイド|?||
 |927|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
 |928|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
-|929|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
+|929|[[waitin' for u>難易度表/おに/waitin' for u]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
 |930|[[ALiVE>難易度表/おに/ALiVE]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
 |931|[[JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
 
