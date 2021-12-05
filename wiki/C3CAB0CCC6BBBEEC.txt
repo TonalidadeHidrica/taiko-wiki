@@ -251,86 +251,76 @@
 -2020年6月30日のアップデートにて、十段まで先行登場。
 --玄人以降の11月後半の追加が公式Twitterにて公表された。
 --アジア版では2020年10月28日から登場。
----ただし、仕様により合格条件が一部変更されている。
+---ただし、仕様により合格条件が以下のように変更されている。
+---五級〜一級：変更点なし(日本版と同一)
+---初段〜九段：連打数条件なし(他の条件は日本版と同一)
+---十段：連打数条件なし、可の数条件は3曲の合計(魂ゲージと不可の数条件は日本版と同一)
 
 |CENTER:10|CENTER:150|CENTER:100|CENTER:75|>|>|>|CENTER:60|c
-|>|>|>|''課題曲情報''|>|>|>|CENTER:''お題''|h
-||''楽曲名''|''むずかしさ''|''ノーツ数''|>|>|>|CENTER:''合格条件&br;上段：COLOR(red){赤合格}　下段：COLOR(#cccc33){金合格}''|h
+|>|>|>|''課題曲情報''|>|>|>|''お題''|h
+||''楽曲名''|''むずかしさ''|''ノーツ数''|>|>|>|''合格条件&br;上段：COLOR(red){赤合格}　下段：COLOR(#cccc33){金合格}''|h
+|~|~|~|~|''条件1''|''条件2''|''条件3''|''条件4&br;(日本版のみ)''|h
 |BGCOLOR(beige):SIZE(16){''五級''}|>|BGCOLOR(beige):RIGHT:[[動画>https://m.youtube.com/watch?v=FI8NQo5fOFM]]((直撮り))　　[[攻略・解説>段位道場/ニジイロ2020/五級]]　　SIZE(16){''総音符数''}|BGCOLOR(beige):SIZE(16){''624''} |BGCOLOR(beige):''魂ゲージ''|BGCOLOR(beige):''たたけた数''|BGCOLOR(beige):|BGCOLOR(beige):|
 |1st|[[ロキ>難易度表/ふつう/ロキ]]|ふつう★×3|162コンボ|COLOR(red){92%以上}&br;COLOR(#cccc33){''95%以上''}|COLOR(red){786以上}&br;COLOR(#cccc33){''832以上''}|||
 |2nd|[[六兆年と一夜物語>難易度表/ふつう/六兆年と一夜物語]]|ふつう★×5|259コンボ|~|~|~|~|
 |3rd|[[LOSER>難易度表/ふつう/LOSER]]|ふつう★×5|203コンボ|~|~|~|~|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 92%(95%)以上; たたけた数786(832)以上}|
 |BGCOLOR(beige):SIZE(16){''四級''}|>|BGCOLOR(beige):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/四級]]　　SIZE(16){''総音符数''}|BGCOLOR(beige):SIZE(16){''814''}|BGCOLOR(beige):''魂ゲージ''|BGCOLOR(beige):''たたけた数''|BGCOLOR(beige):''不可''|BGCOLOR(beige):|
 |1st|[[撥条少女時計>難易度表/むずかしい/撥条少女時計]]|むずかしい★×4|302コンボ|COLOR(red){94%以上}&br;COLOR(#cccc33){''97%以上''}|COLOR(red){970以上}&br;COLOR(#cccc33){''1023以上''}|COLOR(red){84未満}&br;COLOR(#cccc33){''65未満''}||
 |2nd|[[色は匂へど散りぬるを>難易度表/むずかしい/色は匂へど 散りぬるを]]|むずかしい★×5|177コンボ|~|~|~|~|
 |3rd|[[雨とペトラ>難易度表/むずかしい/雨とペトラ]]|むずかしい★×5|335コンボ|~|~|~|~|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 94%(97%)以上; たたけた数970(1023)以上; 不可84(65)未満}|
 |BGCOLOR(beige):SIZE(16){''三級''}|>|BGCOLOR(beige):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/三級]]　　SIZE(16){''総音符数''}|BGCOLOR(beige):SIZE(16){''1085''}|BGCOLOR(beige):''魂ゲージ''|BGCOLOR(beige):''たたけた数''|BGCOLOR(beige):''不可''|BGCOLOR(beige):|
 |1st|[[やわらか戦車>難易度表/むずかしい/やわらか戦車]]|むずかしい★×6|344コンボ|COLOR(red){95%以上}&br;COLOR(#cccc33){''99%以上''}|COLOR(red){1180以上}&br;COLOR(#cccc33){''1230以上''}|COLOR(red){65未満}&br;COLOR(#cccc33){''43未満''}||
 |2nd|[[太陽系デスコ>難易度表/むずかしい/太陽系デスコ]]|むずかしい★×5|438コンボ|~|~|~|~|
 |3rd|[[ピースサイン>難易度表/むずかしい/ピースサイン]]|むずかしい★×5|303コンボ|~|~|~|~|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 95%(99%)以上; たたけた数1180(1230)以上; 不可65(43)未満}|
 |BGCOLOR(beige):SIZE(16){''二級''}|>|BGCOLOR(beige):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/二級]]　　SIZE(16){''総音符数''}|BGCOLOR(beige):SIZE(16){''1381''}|BGCOLOR(beige):''魂ゲージ''|BGCOLOR(beige):''たたけた数''|BGCOLOR(beige):''不可''|BGCOLOR(beige):|
 |1st|[[+♂(プラス男子)>難易度表/むずかしい/＋♂(プラス男子)]]|むずかしい★×6|479コンボ|COLOR(red){96%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){1555以上}&br;COLOR(#cccc33){''1604以上''}|COLOR(red){55未満}&br;COLOR(#cccc33){''27未満''}||
 |2nd|[[チルノのパーフェクトさんすう教室>難易度表/むずかしい/チルノのパーフェクトさんすう教室]]|むずかしい★×7|413コンボ|~|~|~|~|
 |3rd|[[さいたま2000>難易度表/むずかしい/さいたま2000]]|むずかしい★×7|489コンボ|~|~|~|~|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 96%(100%)以上; たたけた数1555(1604)以上; 不可55(27)未満}|
 |BGCOLOR(beige):SIZE(16){''一級''}|>|BGCOLOR(beige):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/一級]]　　SIZE(16){''総音符数''}|BGCOLOR(beige):SIZE(16){''1633''} |BGCOLOR(beige):''魂ゲージ''|BGCOLOR(beige):''たたけた数''|BGCOLOR(beige):''不可''|BGCOLOR(beige):|
 |1st|[[MEGALOVANIA>難易度表/むずかしい/MEGALOVANIA]]|むずかしい★×7|390コンボ|COLOR(red){96%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){2135以上}&br;COLOR(#cccc33){''2183以上''}|COLOR(red){40未満}&br;COLOR(#cccc33){''32未満''}||
 |2nd|[[ネクロファンタジア 〜Arr.Demetori>難易度表/むずかしい/ネクロファンタジア 〜 Arr.Demetori]]|むずかしい★×8|698コンボ|~|~|~|~|
 |3rd|[[VICTORIA>難易度表/むずかしい/VICTORIA]]|むずかしい★×8|545コンボ|~|~|~|~|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 96%(100%)以上; たたけた数2135(2183)以上; 不可40(32)未満}|
 |BGCOLOR(skyblue):SIZE(16){''初段''}|>|BGCOLOR(skyblue):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/初段]]　　SIZE(16){''総音符数''}|BGCOLOR(skyblue):SIZE(16){''1480''}|BGCOLOR(skyblue):''魂ゲージ''|BGCOLOR(skyblue):''コンボ数''|BGCOLOR(skyblue):''不可''|BGCOLOR(skyblue):''連打数''|
 |1st|[[アルカリレットウセイ>難易度表/おに/アルカリレットウセイ]]|おに★×7|434コンボ|COLOR(red){97%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){370以上}&br;COLOR(#cccc33){''520以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''15未満''}|COLOR(red){43以上}&br;COLOR(#cccc33){''54以上''}|
 |2nd|[[夏祭り>難易度表/おに/夏祭り]]|おに★×6|488コンボ|~|~|~|COLOR(red){77以上}&br;COLOR(#cccc33){''94以上''}|
 |3rd|[[ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|おに★×7|558コンボ|~|~|~|COLOR(red){0以上}&br;COLOR(#cccc33){''0以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 97%(100%)以上; コンボ数370(520)以上; 不可30(15)未満}|
 |BGCOLOR(skyblue):SIZE(16){''二段''}|>|BGCOLOR(skyblue):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/二段]]　　SIZE(16){''総音符数''}|BGCOLOR(skyblue):SIZE(16){''1660''}|BGCOLOR(skyblue):''魂ゲージ''|BGCOLOR(skyblue):''コンボ数''|BGCOLOR(skyblue):''不可''|BGCOLOR(skyblue):''連打数''|
 |1st|[[さよならエレジー>難易度表/おに/さよならエレジー]]|おに★×8|496コンボ|COLOR(red){98%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){480以上}&br;COLOR(#cccc33){''647以上''}|COLOR(red){25未満}&br;COLOR(#cccc33){''16未満''}|COLOR(red){24以上}&br;COLOR(#cccc33){''30以上''}|
 |2nd|[[ナンセンス文学>難易度表/おに/ナンセンス文学]]|おに★×7|416コンボ|~|~|~|COLOR(red){16以上}&br;COLOR(#cccc33){''20以上''}|
 |3rd|[[バーニングフォースメドレー>難易度表/おに/バーニングフォースメドレー]]|おに★×8|748コンボ|~|~|~|COLOR(red){16以上}&br;COLOR(#cccc33){''21以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 98%(100%)以上; コンボ数480(647)以上; 不可25(16)未満}|
 |BGCOLOR(skyblue):SIZE(16){''三段''}|>|BGCOLOR(skyblue):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/三段]]　　SIZE(16){''総音符数''}|BGCOLOR(skyblue):SIZE(16){''1500''}|BGCOLOR(skyblue):''魂ゲージ''|BGCOLOR(skyblue):''コンボ数''|BGCOLOR(skyblue):''不可''|BGCOLOR(skyblue):''連打数''|
 |1st|[[Altale>難易度表/おに/Altale]]|おに★×8|540コンボ|COLOR(red){99%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){590以上}&br;COLOR(#cccc33){''764以上''}|COLOR(red){24未満}&br;COLOR(#cccc33){''12未満''}|COLOR(red){180以上}&br;COLOR(#cccc33){''219以上''}|
 |2nd|[[シャルル>難易度表/おに/シャルル]]|おに★×8|381コンボ|~|~|~|COLOR(red){63以上}&br;COLOR(#cccc33){''75以上''}|
 |3rd|[[Fly away>難易度表/おに/Fly away]]|おに★×7|579コンボ|~|~|~|COLOR(red){32以上}&br;COLOR(#cccc33){''41以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 99%(100%)以上; コンボ数590(764)以上; 不可24(12)未満}|
 |BGCOLOR(skyblue):SIZE(16){''四段''}|>|BGCOLOR(skyblue):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/四段]]　　SIZE(16){''総音符数''}|BGCOLOR(skyblue):SIZE(16){''1832''}|BGCOLOR(skyblue):''魂ゲージ''|BGCOLOR(skyblue):''コンボ数''|BGCOLOR(skyblue):''不可''|BGCOLOR(skyblue):''連打数''|
 |1st|[[Synchronicity>難易度表/おに/Synchronicity]]|おに★×8|441コンボ|COLOR(red){99%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){660以上}&br;COLOR(#cccc33){''842以上''}|COLOR(red){22未満}&br;COLOR(#cccc33){''11未満''}|COLOR(red){121以上}&br;COLOR(#cccc33){''141以上''}|
 |2nd|[[カラメルタイム☆>難易度表/おに/カラメルタイム☆]]|おに★×8|722コンボ|~|~|~|COLOR(red){0以上}&br;COLOR(#cccc33){''0以上''}|
 |3rd|[[D絶対！SAMURAIインザレイン>難易度表/おに/D絶対！SAMURAIインザレイン]]|おに★×8|669コンボ|~|~|~|COLOR(red){76以上}&br;COLOR(#cccc33){''93以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 99%(100%)以上; コンボ数660(842)以上; 不可22(11)未満}|
 |BGCOLOR(skyblue):SIZE(16){''五段''}|>|BGCOLOR(skyblue):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/五段]]　　SIZE(16){''総音符数''}|BGCOLOR(skyblue):SIZE(16){''2015''}|BGCOLOR(skyblue):''魂ゲージ''|BGCOLOR(skyblue):''コンボ数''|BGCOLOR(skyblue):''不可''|BGCOLOR(skyblue):''連打数''|
 |1st|[[夜想曲Op.9-2>難易度表/おに/夜想曲Op.9-2]]|おに★×8|500コンボ|COLOR(red){99%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){825以上}&br;COLOR(#cccc33){''1007以上''}|COLOR(red){20未満}&br;COLOR(#cccc33){''10未満''}|COLOR(red){33以上}&br;COLOR(#cccc33){''40以上''}|
 |2nd|[[東京特許キョ許可局局長!!>難易度表/おに/東京特許キョ許可局局長!!]]|おに★×8|840コンボ|~|~|~|COLOR(red){71以上}&br;COLOR(#cccc33){''87以上''}|
 |3rd|[[Xa>難易度表/おに/Xa]]|おに★×9|675コンボ|~|~|~|COLOR(red){75以上}&br;COLOR(#cccc33){''94以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 99%(100%)以上; コンボ数825(1007)以上; 不可20(10)未満}|
 |BGCOLOR(red):COLOR(white):SIZE(16){''六段''}|>|BGCOLOR(red):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/六段]]　　SIZE(16){''総音符数''}|BGCOLOR(red):SIZE(16){''1912''}|BGCOLOR(red):''魂ゲージ''|BGCOLOR(red):''良''|BGCOLOR(red):''不可''|BGCOLOR(red):''連打数''|
 |1st|[[蝶戀 〜Obsession〜''(裏)''>難易度表/おに/蝶戀 〜Obsession〜(裏譜面)]]|おに★×8|553コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){1530以上}&br;COLOR(#cccc33){''1590以上''}|COLOR(red){18未満}&br;COLOR(#cccc33){''9未満''}|COLOR(red){40以上}&br;COLOR(#cccc33){''48以上''}|
 |2nd|[[めたるぽりす>難易度表/おに/めたるぽりす]]|おに★×9|594コンボ|~|~|~|COLOR(red){15以上}&br;COLOR(#cccc33){''18以上''}|
 |3rd|[[華蕾夢ミル狂詩曲〜魂ノ導〜>難易度表/おに/華蕾夢ミル狂詩曲〜魂ノ導〜]]|おに★×8|765コンボ|~|~|~|COLOR(red){4以上}&br;COLOR(#cccc33){''5以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 100%(100%)以上; 良1530(1590)以上; 不可18(9)未満}|
 |BGCOLOR(red):COLOR(white):SIZE(16){''七段''}|>|BGCOLOR(red):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/七段]]　　SIZE(16){''総音符数''}|BGCOLOR(red):SIZE(16){''2162''}|BGCOLOR(red):''魂ゲージ''|BGCOLOR(red):''良''|BGCOLOR(red):''不可''|BGCOLOR(red):''連打数''|
 |1st|[[Pixel Galaxy>難易度表/おに/Pixel Galaxy]]|おに★×9|740コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){1790以上}&br;COLOR(#cccc33){''1895以上''}|COLOR(red){16未満}&br;COLOR(#cccc33){''8未満''}|COLOR(red){0以上}&br;COLOR(#cccc33){''0以上''}|
 |2nd|[[トラストゲーム>難易度表/おに/トラストゲーム]]|おに★×9|657コンボ|~|~|~|COLOR(red){44以上}&br;COLOR(#cccc33){''52以上''}|
 |3rd|[[Venomous>難易度表/おに/Venomous]]|おに★×9|765コンボ|~|~|~|COLOR(red){33以上}&br;COLOR(#cccc33){''37以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 100%(100%)以上; 良1790(1895)以上; 不可16(8)未満}|
 |BGCOLOR(red):COLOR(white):SIZE(16){''八段''}|>|BGCOLOR(red):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/八段]]　　SIZE(16){''総音符数''}|BGCOLOR(red):SIZE(16){''2200''}|BGCOLOR(red):''魂ゲージ''|BGCOLOR(red):''良''|BGCOLOR(red):''不可''|BGCOLOR(red):''連打数''|
 |1st|[[鳳凰天舞無限崩れ>難易度表/おに/鳳凰天舞無限崩れ]]|おに★×9|689コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){1940以上}&br;COLOR(#cccc33){''2020以上''}|COLOR(red){13未満}&br;COLOR(#cccc33){''6未満''}|COLOR(red){18以上}&br;COLOR(#cccc33){''20以上''}|
 |2nd|[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]|おに★×9|734コンボ|~|~|~|COLOR(red){158以上}&br;COLOR(#cccc33){''187以上''}|
 |3rd|[[激運！七福ハッピークルー>難易度表/おに/激運！七福ハッピークルー]]|おに★×9|777コンボ|~|~|~|COLOR(red){72以上}&br;COLOR(#cccc33){''84以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 100%(100%)以上; 良1940(2020)以上; 不可13(6)未満}|
 |BGCOLOR(red):COLOR(white):SIZE(16){''九段''}|>|BGCOLOR(red):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/九段]]　　SIZE(16){''総音符数''}|BGCOLOR(red):SIZE(16){''2433''}|BGCOLOR(red):''魂ゲージ''|BGCOLOR(red):''良''|BGCOLOR(red):''不可''|BGCOLOR(red):''連打数''|
 |1st|[[ユースフルコースター>難易度表/おに/ユースフルコースター]]|おに★×9|724コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){2260以上}&br;COLOR(#cccc33){''2330以上''}|COLOR(red){12未満}&br;COLOR(#cccc33){''6未満''}|COLOR(red){44以上}&br;COLOR(#cccc33){''51以上''}|
 |2nd|[[Comona>難易度表/おに/Comona]]|おに★×9|726コンボ|~|~|~|COLOR(red){207以上}&br;COLOR(#cccc33){''243以上''}|
 |3rd|[[Clotho クロートー>難易度表/おに/Clotho クロートー]]|おに★×10|983コンボ|~|~|~|COLOR(red){6以上}&br;COLOR(#cccc33){''8以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 100%(100%)以上; 良2260(2330)以上; 不可12(6)未満}|
 |BGCOLOR(red):COLOR(white):SIZE(16){''十段''}|>|BGCOLOR(red):RIGHT:[[動画(金ドンダフル)>https://www.youtube.com/watch?v=8RhfTiXlpUM]]　　[[攻略・解説>段位道場/ニジイロ2020/十段]]　　SIZE(16){''総音符数''}|BGCOLOR(red):SIZE(16){''2426''}|BGCOLOR(red):''魂ゲージ''|BGCOLOR(red):''不可''|BGCOLOR(red):''可''|BGCOLOR(red):''連打数''|
 |1st|[[Surf Zapping>難易度表/おに/Surf Zapping]]|おに★×10|840コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){7未満}&br;COLOR(#cccc33){''3未満''}|COLOR(red){30未満}&br;COLOR(#cccc33){''13未満''}|COLOR(red){26以上}&br;COLOR(#cccc33){''31以上''}|
 |2nd|[[SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|おに★×10|839コンボ|~|~|COLOR(red){30未満}&br;COLOR(#cccc33){''13未満''}|COLOR(red){59以上}&br;COLOR(#cccc33){''70以上''}|
 |3rd|[[memoria ficta>難易度表/おに/memoria ficta]]|おに★×10|747コンボ|~|~|COLOR(red){28未満}&br;COLOR(#cccc33){''12未満''}|COLOR(red){53以上}&br;COLOR(#cccc33){''61以上''}|
-|SIZE(12){アジア版グリーンVer.合格(金合格)条件: 魂ゲージ 100%(100%)以上; 可88(38?)未満; 不可7(3)未満}|
+|>|>|>|SIZE(12){アジア版グリーンVer.における条件}|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){7未満}&br;COLOR(#cccc33){''3未満''}|COLOR(red){88未満}&br;COLOR(#cccc33){''38?未満''}|-|
 
 
 //|BGCOLOR(gray):SIZE(16){''玄人''}|>|BGCOLOR(gray):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/玄人]]　　SIZE(16){''総音符数''}|BGCOLOR(gray):SIZE(16){''????''}|BGCOLOR(gray):''魂ゲージ''|BGCOLOR(gray):''不可''|BGCOLOR(gray):''可''|BGCOLOR(gray):''連打数''|

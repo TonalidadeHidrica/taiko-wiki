@@ -1046,7 +1046,7 @@
 |944|[[令・和太鼓>難易度表/おに/令・和太鼓]]|BGCOLOR(orangered):ナムオリ|reiwad||
 |945|[[RESTART>難易度表/おに/RESTART]]|BGCOLOR(cyan):ポップス|?||
 |946|[[ミュートすればいいじゃん。>難易度表/おに/ミュートすればいいじゃん。]] |BGCOLOR(cyan):ポップス|?||
-|947|[[だれかの心臓になれたなら>難易度表/おに/だれかの心臓になれたなら]]|BGCOLOR(darkgray):ボカロ|gumida||
+|947|[[だれかの心臓になれたなら>難易度表/おに/だれかの心臓になれたなら]]|BGCOLOR(darkgray):ボカロ|?||
 |948|[[患部で止まってすぐ溶ける 〜 狂気の優曇華院>難易度表/おに/患部で止まってすぐ溶ける 〜 狂気の優曇華院]]|BGCOLOR(darkorchid):G & V|?||
 |949|[[Favorite Days>難易度表/おに/Favorite Days]]|BGCOLOR(darkorchid):G & V|?||
 |950|非公開|BGCOLOR(darkorchid):G & V|非公開||
