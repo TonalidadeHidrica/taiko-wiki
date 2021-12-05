@@ -1,11 +1,13 @@
 *ス・マ・イ・ル [#title]
 ***詳細・攻略 [#more]
 -プチアニメ「''はなかっぱ''」のOP7。
-|>|>|>|>|>|>|>|CENTER:|c
-|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.8.5''|''アニメ''|CENTER:★×2|CENTER:''31''|CENTER:''311990点''|CENTER:＋連打|CENTER:2930点|CENTER:6630点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){29010点}|CENTER:-|
-|AC16.1.0|''キッズ''|~|~|''?????0点''|~|???点|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.8.5''||BGCOLOR(orange):''アニメ''|CENTER:★×2|CENTER:''31''|CENTER:''311990点''|CENTER:＋連打|CENTER:2930点|CENTER:6630点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){29010点}|CENTER:-|
+|AC16.1.0||BGCOLOR(yellow):''キッズ''|~|~|''?????0点''|~|???点|-|
+||CENTER:iOS&br;AR|BGCOLOR(orange):''アニメ''|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|
+
 -BPMは166。
 -「''パパ・ママサポート！''」対応曲。
 -黄色連打が多い連打曲である。

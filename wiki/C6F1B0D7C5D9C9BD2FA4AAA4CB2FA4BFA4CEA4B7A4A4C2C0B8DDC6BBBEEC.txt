@@ -40,5 +40,5 @@
 #pcomment(,noname)
 
 ***设烫 [#score]
-CS1では呵稿のCOLOR(red){↑↑↑↑}COLOR(blue){↑↑↑↑}COLOR(red){↑}がCOLOR(red){↑↑↑↑}COLOR(blue){↑↑↑} SIZE(18){COLOR(red){↑}}に恃构された
-&attachref(namco.png,nolink);
+~舍奶:AC3设烫&br;讣客:CS1设烫
+~&attachref(namco_2.png,nolink);
