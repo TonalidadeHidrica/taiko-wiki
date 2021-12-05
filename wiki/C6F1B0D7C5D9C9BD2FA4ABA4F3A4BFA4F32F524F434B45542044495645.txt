@@ -1,12 +1,13 @@
 *ROCKET DIVE [#Title]
-***詳細・攻略 [#More]
 -アニメ「''AWOL -Absent Without Leave-''」のOP。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11''||CENTER:★×3|CENTER:''78''|CENTER:''?????0点''|CENTER:+連打|CENTER:1140点|CENTER:530点|
-||CENTER:iOS|~|~|CENTER:''335180点''|~|~|~|
-||CENTER:PS Vita1DL|~|~|CENTER:''337670点''|~|CENTER:1140点|CENTER:830点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''997900点''}|~|CENTER:COLOR(#ff3300){10500点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11''||BGCOLOR(cyan):''J-POP''|★×3|''78''|''?????0点''|+連打|1140点|530点|
+||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''335180点''|~|~|~|
+||PS Vita1DL|BGCOLOR(cyan):''J-POP''|~|~|''337670点''|~|1140点|830点|
+||NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+||COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''997900点''}|~|COLOR(#ff3300){10500点}|-|
+
 -BPMは183。
 -ほとんどが面で、縁は全体の約3.85%しかない（3/78）。
 -大音符が多く、15個ある（全体の約19.2%）。
@@ -18,8 +19,9 @@
 ***その他 [#other]
 -曲名の読み方は、''ロケット ダイブ''。
 -アーティストは、''hide with Spread Beaver''。
--曲IDは、''rocket''
+-曲IDは、''rocket''。
 
+----
 -[[ふつう>難易度表/ふつう/ROCKET DIVE]]
 -[[むずかしい>難易度表/むずかしい/ROCKET DIVE]]
 -[[おに>難易度表/おに/ROCKET DIVE]]

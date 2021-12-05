@@ -14,18 +14,17 @@
 -12〜22小節にかけて初見殺し気味の配置がある。単に繋げるだけなら16分だと割り切って逆餡蜜処理を推奨。また、24分はここにしか現れない。
 -ラスゴーではそれまでとは比べ物にならないレベルの難解な長複合が2本ラス殺しとして現れる。特に1本目は裏拍入りかつ奇数打なので崩されやすい。2本目もやや癖があるので要注意。ラストの縁7連打は少し遅くなっているので最後まで気を抜かないように。
 
-
-
 ***その他 [#other]
 -アーティストは、''KEN ISHII''。
 -「太鼓の達人 Ver.」とあるように、太鼓の達人に収録された音源は原曲よりBPMが速くなっている。([[ソース>https://mobile.twitter.com/K_Ishii_70Drums/status/1290539396261752833]])
 -この譜面をフルコンボすると''称号''「''JOIN THE PAC''」を獲得できる。
+
 ----
 -[[かんたん>難易度表/かんたん/JOIN THE PAC -太鼓の達人 Ver.-]]
 -[[ふつう>難易度表/ふつう/JOIN THE PAC -太鼓の達人 Ver.-]]
 -[[むずかしい>難易度表/むずかしい/JOIN THE PAC -太鼓の達人 Ver.-]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=iUQ9L7COmog&t=9s]]
 -[[公式MV(原曲)>https://www.youtube.com/watch?v=q_ID77tWbTs]]
--[[プレイ動画>https://www.youtube.com/watch?v=iUQ9L7COmog]]
 
 ***コメント [#comment]
 #pcomment(,noname)

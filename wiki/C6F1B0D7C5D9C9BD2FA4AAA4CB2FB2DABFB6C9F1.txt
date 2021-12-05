@@ -1,4 +1,5 @@
 *&ruby(はなふるまい){華振舞}; SIZE(16){和楽器バンド} [#title]
+
 ***詳細 [#detail]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -41,7 +42,7 @@
 -[[かんたん>難易度表/かんたん/華振舞]]
 -[[ふつう>難易度表/ふつう/華振舞]]
 -[[むずかしい>難易度表/むずかしい/華振舞]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=k9qYr01YtI8]]((音量小さめ・ミュート無し))
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=MUpK8THnd3Q&t=6s]]
 //-[[プレイ動画(キャプチャ,フルコンボ)>https://www.youtube.com/watch?v=crzTKOyX3U4]]
 //-[[プレイ動画(直撮り,全良)>https://www.youtube.com/watch?v=GodE0Jr6V5k]]
 
