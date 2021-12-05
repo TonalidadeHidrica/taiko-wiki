@@ -1065,7 +1065,7 @@
 --[[crossing field>難易度表/おに/crossing field]](PS Vita1、iOS、PS4 1、NS1)
 --[[We can!! HUGっと！プリキュア>難易度表/おに/We can!! HUGっと！プリキュア]](iOS)
 --[[ゲッタバンバン>難易度表/おに/ゲッタバンバン]](Wii U3、iOS)
-//--[[ロードムービー>難易度表/おに/ゲッタバンバン]](PS4 1、iOS)
+--[[ロードムービー>難易度表/おに/ゲッタバンバン]](PS4 1、iOS)
 -ボーカロイド&#8482;曲
 --[[Tell Your World>難易度表/おに/Tell Your World]](3DS1、iOS)
 --[[マトリョシカ>難易度表/おに/マトリョシカ]](Wii5、PSPDX、iOS、Wii U1、3DS2)

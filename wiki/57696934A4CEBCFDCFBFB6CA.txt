@@ -4,17 +4,13 @@
 --裏譜面 ''15'' 曲
 
 -[[公式サイト>http://taikowii-ketteiban.namco-ch.net/]]
--[[開発日記>http://taikoblog.namco-ch.net/blog/wii_4/]]
+-[[開発日記>https://web.archive.org/web/20170913182311/http://taikoblog.namco-ch.net/blog/wii_4/]]
 -[[システム詳細>CSの歴史#wii4]]
 -[[フウガとミライの太鼓教室>Wii4の収録曲/フウガとミライの太鼓教室(Wii4)]]
 -[[演奏オプション一覧]]
 -[[音色の一覧]]
 -[[隠し要素解禁条件>Wii4の収録曲/隠し要素解禁条件]]
 ----
-
-//-[[難易度順(おに)>http://www52.atwiki.jp/taikolevel/pages/51.html]]
-//↑リンク飛びません。
-
 |>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
 |BGCOLOR(cyan):~[[&color(black){%%%J-POP%%%};>#jpop]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|

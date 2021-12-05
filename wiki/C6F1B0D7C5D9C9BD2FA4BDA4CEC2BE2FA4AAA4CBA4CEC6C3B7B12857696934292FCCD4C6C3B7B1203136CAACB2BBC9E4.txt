@@ -8,12 +8,10 @@
 |CENTER:|CENTER:|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|h
 |''Wii4''|★×8|''186''|
+
 -BPMは120→150。
 -''完全精度曲''のひとつ。
 -曲IDは、''kiso14''
-
-***コメント [#comment]
-#pcomment(,noname)
 
 ***譜面 [#notes]
 &attachref(kiso14fix.png,nolink);
