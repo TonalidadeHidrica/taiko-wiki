@@ -1,7 +1,7 @@
 *GO MY WAY!!(裏譜面) [#title]
 
-***詳細・攻略 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''COLOR(red){PS Vita MSSP}''|★×7|COLOR(#909){''568}&br;COLOR(#069){519}&br;COLOR(#666){453''}|''1004070点''|+連打|510点|130点|
 |COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1001800点''}|~|COLOR(#ff3300){1680点}|-|
@@ -20,7 +20,7 @@
 -[[ふつう>難易度表/ふつう/GO MY WAY!!]]
 -[[むずかしい>難易度表/むずかしい/GO MY WAY!!]]
 -[[おに>難易度表/おに/GO MY WAY!!]]/裏譜面
--[[オート動画>http://www.youtube.com/watch?v=kdycMo5ipBw]]
+-[[オート動画>https://www.youtube.com/watch?v=kdycMo5ipBw]]
 
 ***コメント [#comment]
 #pcomment(,noname)

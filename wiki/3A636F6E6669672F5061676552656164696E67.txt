@@ -4419,6 +4419,7 @@
 -[[コメント/難易度表/ふつう/ALRIGHT*]] コメント/ナンイドオモテ/フツウ/ALRIGHT*
 -[[コメント/難易度表/ふつう/ALiVE]] コメント/ナンイドオモテ/フツウ/ALiVE
 -[[コメント/難易度表/ふつう/ANTI-HERO]] コメント/ナンイドオモテ/フツウ/ANTI-HERO
+-[[コメント/難易度表/ふつう/ANiMA]] コメント/ナンイドオモテ/フツウ/ANiMA
 -[[コメント/難易度表/ふつう/ARMAGEΔDON]] コメント/ナンイドオモテ/フツウ/ARMAGEΔDON
 -[[コメント/難易度表/ふつう/AWAKE]] コメント/ナンイドオモテ/フツウ/AWAKE
 -[[コメント/難易度表/ふつう/Abandoned Temple Final 2nd]] コメント/ナンイドオモテ/フツウ/Abandoned Temple Final 2nd
