@@ -1,20 +1,23 @@
 *Yes we are [#title]
 -ローソン「三代目 J SOUL BROTHERS Pontaカード」CMソング。
+
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.11.6''&br;AC15.11.6((アジア版))|BGCOLOR(cyan):''J-POP''|★×1|''35''|''?????0点''|＋連打|2380点|4090点|
-|COLOR(#f30){真打}|~|~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){24320点}|-|
-|AC16.1.0|BGCOLOR(cyan):''ポップス''|~|~|''989450点''|~|28270点|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.6''&br;AC15.11.6((アジア版))||BGCOLOR(cyan):''J-POP''|★×1|''35''|''?????0点''|＋連打|2380点|4090点|
+||NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#f30){真打}|||~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){24320点}|-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''989450点''|~|28270点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは128。
--平均密度は約0.32打/秒。
+-平均密度は''約0.32打/秒''。
 -[[面100%>太鼓ギネス/音符について#noedgeeasy]]。
 
 ***その他 [#other]
 -アーティストは、''[[三代目 J SOUL BROTHERS>アーティスト別収録曲#jsb3]] from [[EXILE>アーティスト別収録曲#exile]] TRIBE''。
 -作詞は、RYUJI IMAICHI・HIROOMI TOSAKA・YVES&ADAMS・JAY'ED。作曲は、MATS LIE SKARE・CHRIS HOPE・RICO GREENE。
+
 ----
 -[[ふつう>難易度表/ふつう/Yes we are]]
 -[[むずかしい>難易度表/むずかしい/Yes we are]]

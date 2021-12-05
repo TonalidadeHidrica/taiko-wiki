@@ -1,11 +1,13 @@
 *Yes we are [#title]
 -ローソン「三代目 J SOUL BROTHERS Pontaカード」CMソング。
+
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.11.6''&br;AC15.11.6((アジア版))|BGCOLOR(cyan):''J-POP''|★×7|''355''|''996750点''|＋連打|850点|245点|
-|COLOR(#f30){真打}|~|~|~|COLOR(#f30){''999020点''}|~|COLOR(#f30){2760点}|-|
-|AC16.1.0|BGCOLOR(cyan):''ポップス''|~|~|''997000点''|~|2800点|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.6''&br;AC15.11.6((アジア版))||BGCOLOR(cyan):''J-POP''|★×7|''355''|''996750点''|＋連打|850点|245点|
+||NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#f30){真打}|||~|~|COLOR(#f30){''999020点''}|~|COLOR(#f30){2760点}|-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''997000点''|~|2800点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは128。
@@ -20,6 +22,7 @@
 -アーティストは、''[[三代目 J SOUL BROTHERS>アーティスト別収録曲#jsb3]] from [[EXILE>アーティスト別収録曲#exile]] TRIBE''。
 -作詞は、RYUJI IMAICHI・HIROOMI TOSAKA・YVES&ADAMS・JAY'ED。作曲は、MATS LIE SKARE・CHRIS HOPE・RICO GREENE。
 -曲IDは、''yeswea''。
+
 ----
 -[[かんたん>難易度表/かんたん/Yes we are]]
 -[[ふつう>難易度表/ふつう/Yes we are]]

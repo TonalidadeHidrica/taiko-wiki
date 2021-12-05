@@ -20,8 +20,8 @@
 ***その他 [#other]
 -作曲は、''[[削除>参加アーティスト一覧/削除]]''。
 -本曲は2014年のBMSイベント「G2R2014 "GO BACK 2 YOUR ROOTS"」初出の[[''BMS楽曲''>BMS楽曲一覧]]。同イベントの''個人戦スコア部門優勝曲''でもある。
--楽曲そのもののBPMは、BMS譜面上のBPMより83-90。
--曲名の読み方は[[アルテール・アルターレ・アルタイルどれでも良いとのこと>https://twitter.com/sakuzyo_skz/status/584578733266243585]](削除氏のツイッターより)。このことはBMS内のreadme.txtにも記載されている。
+-楽曲自体のBPMは、BMS譜面上のBPMより83-90。
+-曲名の読み方は[[アルテール・アルターレ・アルタイル、どれでも良いとのこと>https://twitter.com/sakuzyo_skz/status/584578733266243585]](削除氏のツイッターより)。このことはBMS内のreadme.txtにも記載されている。
 --基本的には「アルテール」と呼ばれている模様。
 //-初めはver.2.1のボス曲としてDEEMOに収録されたが、のちにDEEMOとのコラボ曲としてCHUNITHMに収録された。太鼓の達人も含め、どの音ゲーでも最高難易度に設定された楽曲である。
 -曲IDは、''altale''。
@@ -32,7 +32,7 @@
 -[[ふつう>難易度表/ふつう/Altale]]
 -[[むずかしい>難易度表/むずかしい/Altale]]
 -おに/[[裏譜面>難易度表/おに/Altale(裏譜面)]]
--[[プレイ動画>https://www.youtube.com/watch?v=6n1AQhI8FtE]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=DbLat931xvI&t=13s]]
 -[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=96]]
 -[[楽曲MV(公式)>https://www.youtube.com/watch?v=ikr59Iplnlo]]
 

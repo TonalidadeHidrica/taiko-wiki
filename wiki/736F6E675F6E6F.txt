@@ -1030,7 +1030,7 @@
 |928|[[Parousia>難易度表/おに/Parousia]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
 |929|[[waitin' for u>難易度表/おに/waitin' for u]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
 |930|[[ALiVE>難易度表/おに/ALiVE]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
-|931|[[JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
+|931|[[JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|pacm40||
 
 //||[[曲名>難易度表/おに/曲名]]|BGCOLOR():|?||
 
