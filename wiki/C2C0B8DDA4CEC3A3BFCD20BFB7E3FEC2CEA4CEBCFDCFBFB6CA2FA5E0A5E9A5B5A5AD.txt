@@ -1,4 +1,5 @@
 //ムラサキ時に収録されていた情報を残すため、灰色表示の部分を削除しないでください。
+//また、サヨナラ曲の日付は"ムラサキVer.でサヨナラになった日付"を指しています。当時の情報を残すためにもサヨナラ曲の日付は変えないでください。
 *太鼓の達人 ムラサキVer. の収録曲(V9.05) [#title]
 -旧曲 ''403''  ＋ 新曲 ''51'' ＋ 隠し曲・ドンチャレ解禁曲・期間限定解禁曲・ごほうびショップ解禁曲 ''49'' − サヨナラ曲 ''136'' ＝ SIZE(20){''321''} 曲
 
@@ -97,7 +98,7 @@
 |||''レイン''|95|[[★×3>難易度表/かんたん/レイン]]|[[★×4>難易度表/ふつう/レイン]]|[[★×5>難易度表/むずかしい/レイン]]|[[★×7>難易度表/おに/レイン]]|-|
 |BGCOLOR(#ccc):''17/3/15&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''S''|BGCOLOR(#ccc):212|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/S]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/S]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/S]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/S]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''15/7/1&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''イエス''|BGCOLOR(#ccc):108|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/イエス]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/イエス]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/イエス]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/イエス]]|BGCOLOR(#ccc):-|
-|BGCOLOR(#ccc):''17/6/28&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''Punishment''&br;　　SIZE(11){9mm Parabellum Bullet}|BGCOLOR(#ccc):212※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/Punishment]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Punishment]]|BGCOLOR(#ccc):[[★×8>難易度表/むずかしい/Punishment]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/Punishment]]|BGCOLOR(#ccc):-|
+|BGCOLOR(#ccc):''17/3/15&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''Punishment''&br;　　SIZE(11){9mm Parabellum Bullet}|BGCOLOR(#ccc):212※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/Punishment]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Punishment]]|BGCOLOR(#ccc):[[★×8>難易度表/むずかしい/Punishment]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/Punishment]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''17/3/15&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''Telecastic fake show''&br;　　SIZE(11){凛として時雨}|BGCOLOR(#ccc):148-203※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/Telecastic fake show]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/Telecastic fake show]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/Telecastic fake show]]|BGCOLOR(#ccc):[[★×10>難易度表/おに/Telecastic fake show]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/10/13&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''紅''|BGCOLOR(#ccc):156.3|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/紅]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/紅]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/紅]]&br;SIZE(10){譜面分岐}|BGCOLOR(#ccc):[[★×8>難易度表/おに/紅]]|BGCOLOR(#ccc):-|
 |>|>|>|>|>|>|>|>|BGCOLOR(orange):''アニメ''&aname(anime);|
@@ -239,7 +240,7 @@
 |BGCOLOR(#ccc):''17/3/15&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''ふな ふな ふなっしー♪''&br;　　SIZE(11){〜ふなっしー公式テーマソング〜}|BGCOLOR(#ccc):152※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/ふな ふな ふなっしー♪]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ふな ふな ふなっしー♪]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/ふな ふな ふなっしー♪]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/ふな ふな ふなっしー♪]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''17/6/28&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''ぶぎ ぶぎ ふなっしー♪''&br;　　SIZE(11){〜ふなっしー公式テーマソング第二弾〜}|BGCOLOR(#ccc):170※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/ぶぎ ぶぎ ふなっしー♪]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/ぶぎ ぶぎ ふなっしー♪]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/ぶぎ ぶぎ ふなっしー♪]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/ぶぎ ぶぎ ふなっしー♪]]|BGCOLOR(#ccc):-|
 |||''くまもとサプライズ！''&br;　　SIZE(11){くまモン体操}|150|[[★×2>難易度表/かんたん/くまもとサプライズ！]]|[[★×3>難易度表/ふつう/くまもとサプライズ！]]|[[★×4>難易度表/むずかしい/くまもとサプライズ！]]|[[★×6>難易度表/おに/くまもとサプライズ！]]|-|
-|''19/3/14&br;サ''||''買ってロック''&br;　　SIZE(11){「グルト！」CMソング}|184|[[★×3>難易度表/かんたん/買ってロック]]|[[★×3>難易度表/ふつう/買ってロック]]|[[★×5>難易度表/むずかしい/買ってロック]]|[[★×7>難易度表/おに/買ってロック]]|-|
+|BGCOLOR(#ccc):''19/3/14&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''買ってロック''&br;　　SIZE(11){「グルト！」CMソング}|BGCOLOR(#ccc):184|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/買ってロック]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/買ってロック]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/買ってロック]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/買ってロック]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''17/12/6&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''あたりまえ体操''|BGCOLOR(#ccc):87-125|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/あたりまえ体操]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/あたりまえ体操]]|BGCOLOR(#ccc):[[★×1>難易度表/むずかしい/あたりまえ体操]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/あたりまえ体操]]|BGCOLOR(#ccc):-|
 |||''ココロ転がせっ！''&br;　　SIZE(11){コロコロコミック35周年応援ソング}|144|[[★×3>難易度表/かんたん/ココロ転がせっ！]]|[[★×4>難易度表/ふつう/ココロ転がせっ！]]|[[★×4>難易度表/むずかしい/ココロ転がせっ！]]|[[★×5>難易度表/おに/ココロ転がせっ！]]|-|
 |BGCOLOR(#ccc):''16/10/13&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''やわらか戦車''|BGCOLOR(#ccc):150※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/やわらか戦車]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/やわらか戦車]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/やわらか戦車]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/やわらか戦車]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/やわらか戦車(裏譜面)]]|

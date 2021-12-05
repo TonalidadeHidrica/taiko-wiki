@@ -1,23 +1,26 @@
-*戀愛ing [#ibf1fd10]
-***詳細・攻略 [#rcd86d6c]
--詳細は以下の通り：
+*戀愛ing [#title]
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11亜''、12亜|CENTER:★×9|CENTER:COLOR(#909):''580&br;COLOR(#069):434&br;COLOR(#666):383''|CENTER:''1097420点''|CENTER:＋連打|CENTER:500点|CENTER:120点|
+|CENTER:''AC11亜''&br;AC12亜|CENTER:★×9|CENTER:COLOR(#909):''580&br;COLOR(#069):434&br;COLOR(#666):383''|CENTER:''1097420点''|CENTER:＋連打|CENTER:500点|CENTER:120点|
+
+***譜面構成・攻略 [#capture]
 --[[舞孃>難易度表/おに/舞孃]]と同じ配点である。
 -全難易度を通して全ての連打（芋含む）の配置、長さが同じ。
 -BPMは約197と[[X-DAY2000>難易度表/おに/X-DAY2000]]より速く達人譜面はラストが非常に忙しい。クリア難易度は★×9の中では低めだがフルコン難易度は[[Rotter Tarmination>難易度表/おに/Rotter Tarmination]]と同程度か。
 -新筐体では、譜面分岐を考慮すれば★×8下位程度。
 -現在のC-POPの中では最速であり最難関曲。
+
+***その他 [#other]
 -アーティストは''五月天''（''メイデイ''），作詞、作曲は''アシン''（''阿信''）。
 -曲名の読み方は、''リエンアイ アイエンジー''。
-
+----
 -[[かんたん>難易度表/かんたん/戀愛ing]]
 -[[ふつう>難易度表/ふつう/戀愛ing]]
 -[[むずかしい>難易度表/むずかしい/戀愛ing]]
--[[プレイ動画(nicozon)>http://www.nicozon.net/watch/sm8453544]]
+-[[プレイ動画(niconico)>https://www.nicovideo.jp/watch/sm8453544]]
 
-***コメント [#c25762f2]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fc5c6e85]
+***譜面 [#score]
 &attachref(a1may1_m.png,nolink);

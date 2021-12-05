@@ -2,11 +2,11 @@
 -[[ノ乱シリーズ>シリーズ曲一覧#noran]]第2弾。
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.5.2''|3DS3&br;PS4 1DL&br;NS1SP|★×10|''970''|''1207330点''|380点|93点|
-|COLOR(#f30){真打}||~|~|COLOR(#f30){''1001640点''}|COLOR(#f30){1020点}|-|
-|AC16.1.0||~|~|''1008800点''|1040点|-|
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC15.5.2''|3DS3&br;PS4 1DL&br;NS1SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''970''|''1207330点''|380点|93点|
+|COLOR(#f30){真打}||~|~|~|COLOR(#f30){''1001640点''}|COLOR(#f30){1020点}|-|
+|AC16.1.0||~|~|~|''1008800点''|1040点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは''320''。
@@ -74,10 +74,10 @@
 
 ***譜面 [#score]
 //ラストの小節線はPS4 1の動画より確認
-&attachref(双竜_タイトル修正.png,nolink);
+~&attachref(双竜_タイトル修正.png,nolink);
 ~見た目画像
-&attachref(双竜ノ乱(見た目)_小節線修正.png,nolink);
+~&attachref(双竜ノ乱(見た目)_小節線修正.png,nolink);
 ~あべこべ
-&attachref(双竜ノ乱あべこべ.png,nolink);
+~&attachref(双竜ノ乱あべこべ.png,nolink);
 ~あべこべ見た目
-&attachref(双竜ノ乱あべこべ見た目.png,nolink);
+~&attachref(双竜ノ乱あべこべ見た目.png,nolink);

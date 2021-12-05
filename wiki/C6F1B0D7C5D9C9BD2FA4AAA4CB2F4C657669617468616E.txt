@@ -39,4 +39,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+1小節目の小節線は非表示です。
 ~&attachref(demlev_m.png,nolink);

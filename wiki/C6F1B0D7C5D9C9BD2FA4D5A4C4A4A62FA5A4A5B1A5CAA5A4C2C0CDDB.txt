@@ -1,17 +1,20 @@
 *イケナイ太陽 [#title]
-***詳細・攻略 [#more]
 -フジテレビ系ドラマ「''花ざかりの君たちへ〜イケメン♂パラダイス〜''」のOP曲。
---同じドラマのED曲だった[[PEACH>難易度表/ふつう/PEACH]]もAC11に収録されたが、あちらはAC12で削除された。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11''-14&br;AC11亜&br;AC12亜|CENTER:iOS|CENTER:''J-POP''|CENTER:★×4|CENTER:''168''|CENTER:''546720点''|CENTER:＋連打|CENTER:820点|CENTER:240点|
-||CENTER:PSPDXDL|~|~|~|CENTER:''546360点''|~|~|~|
-||CENTER:DS2|~|~|~|CENTER:''476740点''|~|CENTER:700点|CENTER:210点|
-|CENTER:COLOR(#ff3300){真打モード}|||~|~|CENTER:COLOR(#ff3300){''549000点''}|~|CENTER:COLOR(#ff3300){2810点}|CENTER:-|
-|CENTER:AC15.1.0|CENTER:3DS2|CENTER:''J-POP''|~|~|CENTER:''547530点''|~|CENTER:870点|CENTER:315点|
-||CENTER:PS4 1|CENTER:''ポップス''|~|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''999300点''}|~|CENTER:COLOR(#ff3300){5180点}|CENTER:-|
-|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''999820点''|~|CENTER:5940点|CENTER:-|
+--同ドラマのED曲であった[[PEACH>難易度表/おに/PEACH]]もAC11に収録されたが、あちらはAC12で削除された。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11''-14&br;AC11亜&br;AC12亜|iOS|BGCOLOR(cyan):''J-POP''|★×4|''168''|''546720点''|＋連打|820点|240点|
+||PSPDXDL|~|~|~|''546360点''|~|~|~|
+||DS2|~|~|~|''476740点''|~|700点|210点|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''549000点''}|~|COLOR(#ff3300){2810点}|-|
+|AC15.1.0|3DS2|~|~|~|''547530点''|~|870点|315点|
+||PS4 1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''999300点''}|~|COLOR(#ff3300){5180点}|-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''999820点''|~|5940点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは145。
 -連打秒数目安・・・SIZE(16){''約0.793秒''}
 -大音符が多く、22個ある（全体の約13.1%）。
@@ -40,7 +43,7 @@
 -[[かんたん>難易度表/かんたん/イケナイ太陽]]
 -[[むずかしい>難易度表/むずかしい/イケナイ太陽]]
 -[[おに>難易度表/おに/イケナイ太陽]]
--[[プレイ動画>https://youtu.be/gc3n-5ptYaI]]
+-[[プレイ動画>https://www.youtube.com/watch?v=gc3n-5ptYaI]]
 
 ***コメント [#comment]
 #pcomment(,noname)
