@@ -96,8 +96,8 @@
 ~&aname(futsu);COLOR(#666){''舍奶设烫''}~
 &attachref(genpe2_m_N.png,nolink);
 
-~&aname(kuroto);COLOR(#069){''讣客设烫''}≮ニジイロVer.ではCOLOR(#909){''茫客设烫''}≯~
+~&aname(kuroto);COLOR(#069){''讣客设烫''}≮ニジイロVer.ではCOLOR(#909){''茫客设烫''}、ラストのHSは6ⅹ3、1.5ⅹ1.25≯~
 &attachref(genpe2_m_E.png,nolink);
 
-~&aname(tatsujin);COLOR(#909){''茫客设烫''}≮ニジイロVer.ではCOLOR(#069){''讣客设烫''}≯~
+~&aname(tatsujin);COLOR(#909){''茫客设烫''}≮ニジイロVer.ではCOLOR(#069){''讣客设烫''}、ラストのHSは3ⅹ6、1.25ⅹ1.5≯~
 &attachref(genpe2_m_M.png,nolink);

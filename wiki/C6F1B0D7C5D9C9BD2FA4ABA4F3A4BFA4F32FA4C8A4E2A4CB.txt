@@ -2,13 +2,12 @@
 -ニベア花王「''8×4 ボディフレッシュ''」CMソング。
 ***詳細 [#detail]
 |>|>|>|>|>|>|>|>|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.9.4''||BGCOLOR(cyan):''J-POP''|CENTER:★×3|CENTER:''134''|CENTER:''333430点''|CENTER:＋連打|CENTER:650点|CENTER:275点|
-||NS1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){6260点}|CENTER:-|
-||CENTER:iOS|~|~|~|CENTER:''?????0点''|~|CENTER:650点|CENTER:190点|
-|CENTER:AC16.1.0||~|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:-|
-//|CENTER:AC16.1.0||~|~|~|CENTER:''997520点''|~|CENTER:7430点|CENTER:-|
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.9.4''||BGCOLOR(cyan):''J-POP''|★×3|''134''|''333430点''|＋連打|650点|275点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){6260点}|-|
+||NS1|BGCOLOR(cyan):''ポップス''|~|~|''333430点''|~|650点|275点|
+||iOS|~|~|~|''?????0点''|~|650点|190点|
+|AC16.1.0||~|~|~|''998160点''|~|7440点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約127〜254。

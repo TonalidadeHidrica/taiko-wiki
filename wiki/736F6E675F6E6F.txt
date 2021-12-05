@@ -1026,7 +1026,7 @@
 |924|[[青と夏>難易度表/おに/青と夏]]|BGCOLOR(cyan):ポップス|?||
 |925|[[秒針を噛む>難易度表/おに/秒針を噛む]]|BGCOLOR(cyan):ポップス|?||
 |926|[[命に嫌われている。>難易度表/おに/命に嫌われている。]]|BGCOLOR(darkgray):ボカロ|?||
-|927|[[Dogbite>難易度表/おに/Dogbite]]|BGCOLOR(darkorchid):G & V|?||
+|927|[[Dogbite>難易度表/おに/Dogbite]]|BGCOLOR(darkorchid):G & V|dgbite||
 |928|[[Parousia>難易度表/おに/Parousia]]|BGCOLOR(darkorchid):G & V|?||
 |929|[[waitin' for u>難易度表/おに/waitin' for u]]|BGCOLOR(darkorchid):G & V|?||
 |930|[[ALiVE>難易度表/おに/ALiVE]]|BGCOLOR(darkorchid):G & V|?||
@@ -1046,7 +1046,7 @@
 |944|[[令・和太鼓>難易度表/おに/令・和太鼓]]|BGCOLOR(orangered):ナムオリ|reiwad||
 |945|[[RESTART>難易度表/おに/RESTART]]|BGCOLOR(cyan):ポップス|?||
 |946|[[ミュートすればいいじゃん。>難易度表/おに/ミュートすればいいじゃん。]] |BGCOLOR(cyan):ポップス|?||
-|947|[[だれかの心臓になれたなら>難易度表/おに/だれかの心臓になれたなら]]|BGCOLOR(darkgray):ボカロ|?||
+|947|[[だれかの心臓になれたなら>難易度表/おに/だれかの心臓になれたなら]]|BGCOLOR(darkgray):ボカロ|gumida||
 |948|[[患部で止まってすぐ溶ける 〜 狂気の優曇華院>難易度表/おに/患部で止まってすぐ溶ける 〜 狂気の優曇華院]]|BGCOLOR(darkorchid):G & V|?||
 |949|[[Favorite Days>難易度表/おに/Favorite Days]]|BGCOLOR(darkorchid):G & V|?||
 |950|非公開|BGCOLOR(darkorchid):G & V|非公開||
