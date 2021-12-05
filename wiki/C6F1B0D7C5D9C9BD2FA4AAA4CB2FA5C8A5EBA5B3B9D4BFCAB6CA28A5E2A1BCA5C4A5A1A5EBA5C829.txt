@@ -1,4 +1,4 @@
-*トルコ行進曲(モーツァルト) [#title]
+*トルコ行進曲 SIZE(16){モーツァルト} [#title]
 ***詳細・攻略 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差||h

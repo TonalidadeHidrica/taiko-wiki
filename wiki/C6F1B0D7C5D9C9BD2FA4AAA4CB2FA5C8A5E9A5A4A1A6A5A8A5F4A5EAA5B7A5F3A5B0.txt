@@ -33,4 +33,6 @@
 #pcomment(,noname)
 
 ***╔ш╠╠ [#score]
+~BPM╩╤▓╜
+ 45╛о└с:103.49 вк 95.37 вк 100.11 вк 95.37
 &attachref(zootop_m.png,nolink);
