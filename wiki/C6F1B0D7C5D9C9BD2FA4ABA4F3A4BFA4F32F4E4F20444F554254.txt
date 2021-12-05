@@ -7,6 +7,8 @@
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){17480点}|-|
 |AC16.1.1|BGCOLOR(hotpink):''アニメ''|~|~|''995840点''|~|22510点|-|
 |~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+|AC16.2.12((日本版のみ))|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは128。

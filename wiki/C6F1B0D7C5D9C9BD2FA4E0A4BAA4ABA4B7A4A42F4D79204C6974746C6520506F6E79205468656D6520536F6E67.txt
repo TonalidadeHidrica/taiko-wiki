@@ -1,0 +1,26 @@
+*My Little Pony Theme Song [#title]
+-アニメ「''My Little Pony Friendship is Magic''（日本題:「''マイリトルポニー〜トモダチは魔法〜''」）」のOP。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PTB''|BGCOLOR(orange):''アニメ''|★×2|''170''|''?????0点''|＋連打|990点|365点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){5190点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは115-220。
+--ただし、220地帯はHS0.75がかかっており、見た目BPMは165。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/My Little Pony Theme Song]]を参照。
+----
+-[[かんたん>難易度表/かんたん/My Little Pony Theme Song]]
+-[[ふつう>難易度表/ふつう/My Little Pony Theme Song]]
+-[[おに>難易度表/おに/My Little Pony Theme Song]]
+-[[オート動画>https://www.youtube.com/watch?v=hBgebI4Mrfc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(Pony_h.png,nolink);

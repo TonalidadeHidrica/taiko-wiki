@@ -1,11 +1,11 @@
 *木星 [#title]
 ***詳細・攻略 [#more]
 -詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-||CENTER:''PSP1SP''|CENTER:★×5|CENTER:''331''|CENTER:''?????0点''|CENTER:＋連打|CENTER:660点|CENTER:180点|CENTER:''ゴーゴーバグあり''|
-||CENTER:Wii4SP|~|~|CENTER:''745220点''|~|CENTER:730点|CENTER:170点||
-||CENTER:NS1DL|~|~|CENTER:''748510点''|~|~|CENTER:210点||
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){2960点}|CENTER:-||
+|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''PSP1SP''|CENTER:BGCOLOR(gold):''クラシック''|CENTER:★×5|CENTER:''331''|CENTER:''?????0点''|CENTER:＋連打|CENTER:660点|CENTER:180点|CENTER:''ゴーゴーバグあり''|
+|CENTER:Wii4SP|~|~|~|CENTER:''745220点''|~|CENTER:730点|CENTER:170点||
+|CENTER:NS1DL|~|~|~|CENTER:''748510点''|~|~|CENTER:210点||
+|CENTER:COLOR(#ff3300){真打}|~|~|~|CENTER:COLOR(#ff3300){''1000540点''}|~|CENTER:COLOR(#ff3300){2960点}|CENTER:-||
 -BPMは約60〜161。
 --速度変化が激しく、可を出しやすい。
 -8分の複合が主体の譜面で、たまに16分も出てくる。

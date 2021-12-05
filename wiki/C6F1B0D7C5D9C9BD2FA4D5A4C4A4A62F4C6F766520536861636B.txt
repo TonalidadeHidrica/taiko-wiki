@@ -5,14 +5,21 @@
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''米TDM''&br;TDM|CENTER:★×3|CENTER:''155''|CENTER:''??????点''|CENTER:＋連打|CENTER:1190点|CENTER:360点|
 -BPMは133。
+-連打秒数目安・・・約1.09秒
 ----
 -【2人用譜面】
 -詳細は以下の通り。
 |CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''米TDM''&br;TDM|CENTER:★×3|CENTER:1P|CENTER:''128''|CENTER:''??????点''|CENTER:＋連打|CENTER:1440点|CENTER:???点|
 |~|~|CENTER:2P|CENTER:''129''|CENTER:''??????点''|~|~|~|
-----
+-連打秒数目安・・・約0.639秒×2：合計約1.278秒(1P側)
+-連打秒数目安・・・約0.639秒×3：合計約1.917秒(2P側)
+-大音符の数が同じでコンボ数と連打の本数に差があるため、2P側の方が点数が高くなる。
+
+***その他 [#me2d0f13]
 -アーティストは''B-52's''。
+
+----
 -[[かんたん>難易度表/かんたん/Love Shack]]
 -[[むずかしい>難易度表/むずかしい/Love Shack]]
 -[[おに>難易度表/おに/Love Shack]]

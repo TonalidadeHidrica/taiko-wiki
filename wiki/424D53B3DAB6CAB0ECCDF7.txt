@@ -36,7 +36,7 @@
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Dreadnought]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought(Î¢ÉèÌÌ)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]|
 |''Parousia''&br;SIZE(11){xi}|79-158|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Parousia]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Parousia]]||[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=74]]|
 
-***ºï½ü (1¶Ê) [#sakuzyo]
+***[[ºï½ü>»²²Ã¥¢¡¼¥Æ¥£¥¹¥È°ìÍ÷/ºï½ü]] (1¶Ê) [#sakuzyo]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
 |''¶ÊÌ¾''|BPM|BGCOLOR(#f30):COLOR(#111):''¤«¤ó&br;¤¿¤ó''|BGCOLOR(#8c2):COLOR(#111):''¤Õ¤Ä¤¦''|BGCOLOR(#3ab):COLOR(#111):''¤à¤º¤«&br;¤·¤¤''|BGCOLOR(#f2c):COLOR(#000):''¤ª¤Ë''|BGCOLOR(#63e):COLOR(#fff):''¤ª¤Ë&br;(Î¢)''|ºîÉÊµ­»ö|h
 |''Altale''&br;SIZE(11){ºï½ü}|83-180|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Altale]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Altale]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Altale]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale(Î¢ÉèÌÌ)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=96]]|
@@ -52,7 +52,7 @@
 |''B.B.K.K.B.K.K.''&br;SIZE(11){nora2r}|170|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/B.B.K.K.B.K.K.]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/B.B.K.K.B.K.K.]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/B.B.K.K.B.K.K.]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/B.B.K.K.B.K.K.]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88]]|
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Dreadnought]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought(Î¢ÉèÌÌ)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]|
 
-***LeaF (2¶Ê) [#leaf]
+***[[LeaF>»²²Ã¥¢¡¼¥Æ¥£¥¹¥È°ìÍ÷/LeaF]] (2¶Ê) [#leaf]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
 |''¶ÊÌ¾''|BPM|BGCOLOR(#f30):COLOR(#111):''¤«¤ó&br;¤¿¤ó''|BGCOLOR(#8c2):COLOR(#111):''¤Õ¤Ä¤¦''|BGCOLOR(#3ab):COLOR(#111):''¤à¤º¤«&br;¤·¤¤''|BGCOLOR(#f2c):COLOR(#000):''¤ª¤Ë''|BGCOLOR(#63e):COLOR(#fff):''¤ª¤Ë&br;(Î¢)''|ºîÉÊµ­»ö|h
 |''¤â¤Ú¤â¤Ú''&br;SIZE(11){LeaF}|8.33?-200|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/¤â¤Ú¤â¤Ú]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116]]|

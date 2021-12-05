@@ -1,16 +1,22 @@
 *true blue [#v940bdbc]
-***詳細・攻略 [#c4e33ea4]
 -アニメ''「ASTRO BOY 鉄腕アトム」''の前期・後期OP(中期は別の曲)だが、ジャンルはJ-POP。
--詳細は以下の通り：
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC5''||CENTER:★×4|CENTER:''88''|CENTER:''??????点''|CENTER:＋連打|CENTER:???点|CENTER:???点|
-||CENTER:CS3|~|~|CENTER:''??????点''|~|CENTER:1700点|CENTER:850点|
+|CENTER:''AC5''||CENTER:★×4|CENTER:''88''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1700点|CENTER:??0点|
+||CENTER:CS3|~|~|CENTER:''?????0点''|~|~|CENTER:850点|
+
+***譜面構成・攻略 [#capture]
+-BPMは130。
+-連打秒数目安・・・約1.808秒×2−約2.731秒：合計約6.346秒
+
+***その他 [#other]
 -アーティストは''ZONE''
 -読み方は、''トゥルー・ブルー''
--かんたん/[[レイニー・ヤンバージョン>難易度表/かんたん/true blue(レイニー・ヤン)]]
--[[ふつう>難易度表/ふつう/true blue]]/[[レイニー・ヤンバージョン>難易度表/ふつう/true blue(レイニー・ヤン)]]
--[[むずかしい>難易度表/むずかしい/true blue]]/[[レイニー・ヤンバージョン>難易度表/むずかしい/true blue(レイニー・ヤン)]]
--[[おに>難易度表/おに/true blue]]/[[レイニー・ヤンバージョン>難易度表/おに/true blue(レイニー・ヤン)]]
+----
+-かんたん/[[レイニー・ヤンバージョン>難易度表/かんたん/True Blue]]
+-[[ふつう>難易度表/ふつう/true blue]]/[[レイニー・ヤンバージョン>難易度表/ふつう/True Blue]]
+-[[むずかしい>難易度表/むずかしい/true blue]]/[[レイニー・ヤンバージョン>難易度表/むずかしい/True Blue]]
+-[[おに>難易度表/おに/true blue]]/[[レイニー・ヤンバージョン>難易度表/おに/True Blue]]
 -[[プレイ動画>https://youtube.com/watch?v=tBuZyyhqWxE]]
 
 ***コメント [#g682ddce]

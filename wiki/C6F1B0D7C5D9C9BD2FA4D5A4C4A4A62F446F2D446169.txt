@@ -1,12 +1,14 @@
-*Do-Dai [#title]
-***詳細・攻略 [#more]
--ゲーム「''THE IDOLM@STER Live For You!''」の楽曲。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12''~13&br;AC12亜|CENTER:Wii1&br;iOS|CENTER:★×5|CENTER:''247''|CENTER:''585890点''|CENTER:+連打|CENTER:620点|CENTER:170点|
-||CENTER:PSPDXDL|CENTER:★×4|~|CENTER:''535750点''|~|CENTER:610点|CENTER:150点|
-||CENTER:COLOR(red):PS Vita MS|CENTER:★×5|CENTER:''187''|CENTER:''579680点''|~|CENTER:760点|CENTER:258点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''981800点''}|~|CENTER:COLOR(#ff3300){4120点}|CENTER:-|
+*&ruby(ドーダイ){Do-Dai};[#title]
+-ゲーム「''THE IDOLM@STER LIVE FOR YOU!''」の楽曲。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12''-13|''Wii1''&br;iOS|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×5|''247''|''585890点''|+連打|620点|170点|
+|AC12亜||BGCOLOR(darkorchid):COLOR(white){''遊戲音樂''}|~|~|~|~|~|~|
+||PSPDXDL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×4|~|''535750点''|~|610点|150点|
+||COLOR(red):PS Vita MS|BGCOLOR(#99ff66):''LIVE&br;FOR YOU!''|★×5|''187''|''579680点''|~|760点|258点|
+||COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''981800点''}|~|COLOR(#ff3300){4120点}|-|
 -BPMは171。
 
 ***新譜面 [#new]
@@ -25,14 +27,10 @@
 -PSPDXで★×4に降格した。
 
 ***その他 [#other]
--曲名の読み方は、''ドーダイ''。
---通称は、''土台''。
--作詞は、''mft''。作曲は、''中川浩二''。
--譜面作成は、''くぼけん''(新譜面)。
--この曲は、''双海真美''の持ち歌である。
---アイドルマスター2で萩原雪歩の声優が交代したためWii1以前とiOS以降では音源が違う。
---アイドルマスターSP及び2では我那覇響、四条貴音が歌ったものもあるがPSPDXでも音源は変更されていない。
--曲IDは、''dodai''
+-楽曲情報は[[おに譜面>難易度表/おに/Do-Dai]]を参照。
+-譜面作成は、''[[くぼけん>譜面作成者一覧/くぼけん]]''(新譜面)。
+
+----
 -[[かんたん>難易度表/かんたん/Do-Dai]]
 -[[むずかしい>難易度表/むずかしい/Do-Dai]]
 -[[おに>難易度表/おに/Do-Dai]]

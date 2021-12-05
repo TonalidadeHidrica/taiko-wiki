@@ -33,4 +33,5 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
+-13小節目を間違えています。2.5拍に音符はありません。
 &ref(ゼビウス体操.png,nolink);

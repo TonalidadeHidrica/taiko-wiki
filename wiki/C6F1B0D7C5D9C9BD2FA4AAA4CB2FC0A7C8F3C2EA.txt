@@ -4,7 +4,7 @@
 |CENTER:''AC11亜''|CENTER:★×6|CENTER:''264''|CENTER:''937090点''|CENTER:＋連打|CENTER:1050点|CENTER:260点|
 
 ***譜面構成・攻略 [#capture]
--BPMは96。
+-BPMは約48-96。
 -連打秒数目安・・・約4.167秒
 -平均密度は、''約3.01打/秒''。
 -高得点を狙うならばいそくを推奨。
@@ -12,15 +12,16 @@
 
 ***その他 [#other]
 -アーティストは''クリスティーン・ファン''（''范&#29771;��''）。
+-曲IDは、''a1fan1''。
 ----
 -[[かんたん>難易度表/かんたん/是非題]]
 -[[ふつう>難易度表/ふつう/是非題]]
 -[[むずかしい>難易度表/むずかしい/是非題]]
--[[プレイ動画(ばいそく)>http://www.youtube.com/watch?v=qLr1EChQCM0]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=zdPAy9zp_Fc]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~黄色連打の長さは適当です。
-~&attachref(yesno.png,nolink);
+~&attachref(yesno_2.png,nolink);

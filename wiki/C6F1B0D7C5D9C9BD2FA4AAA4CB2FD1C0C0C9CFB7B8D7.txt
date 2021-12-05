@@ -1,20 +1,26 @@
-*兩隻老虎[#title]
-***詳細・攻略[#more]
--詳細は以下の通り：
+*兩隻老虎 [#title]
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC11亜''、12亜|CENTER:★×6|CENTER:''349''|CENTER:''?????0点''|CENTER:＋連打|CENTER:810点|CENTER:??0点|
+
+***譜面構成・攻略 [#capture]
 -BPMは140。
--日本でいう「グーチョキパーで何つくろう」と同じ曲。
 --連打秒数目安・・・約1.036秒×2：合計約2.071秒
 -平均密度は、''約4.25打/秒''。
 
 -16分音符は単色の3連打のみ。
 
+***その他 [#other]
+-日本でいう「グーチョキパーで何つくろう」と同じ曲。
+-曲IDは、''a1tige''。
+----
 -[[かんたん>難易度表/かんたん/兩隻老虎]]
 -[[ふつう>難易度表/ふつう/兩隻老虎]]
 -[[むずかしい>難易度表/むずかしい/兩隻老虎]]
--[[プレイ動画(未フル)>http://www.youtube.com/watch?v=9bgApzjzvN8]]
-***コメント[#comment]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=DDKslBneISc]]
+
+***コメント [#comment]
 #pcomment(,noname)
-***譜面[#fumen]
+
+***譜面 [#fumen]
 &attachref(a1tige.png,nolink);

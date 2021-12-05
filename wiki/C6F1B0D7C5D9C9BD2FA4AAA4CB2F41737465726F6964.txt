@@ -1,4 +1,4 @@
-*Asteroid [#title]
+*&ruby(アステロイド){Asteroid}; [#title]
 -スマートフォンアプリ「[[''KORG Gadget Kamata''>http://gadget.korg.com/kamata/index_jp.php]]」デモソング。
 
 ***詳細 [#more]
@@ -6,29 +6,30 @@
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.9.3SP''|BGCOLOR(lime):''バラエティ''|★×9|''784''|''1104420点''|+連打|430点|95点|
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''1006800点''}|~|COLOR(#f30){1200点}|-|
-|AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1004680点''|~|1270点|-|
+|AC16.1.0|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1004680点''|~|1270点|-|
+|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+|AC16.2.12|BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
 |~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは144-''288''。
 --32分音符が使用されているため、ほとんどの区域でBPMが倍になっている。
---32分音符の音符密度は19.2打/秒。しかし3打までしかないため24分音符の逆餡蜜でも繋がる。逆餡蜜＝24分音符の音符密度は14.4打/秒。
+---32分音符の音符密度は19.2打/秒。しかし3打までしかないため24分音符の逆餡蜜でも繋がる。逆餡蜜＝24分音符の音符密度は14.4打/秒。
 -連打秒数・・・約0.608秒−約0.087秒×4−SIZE(16){約0.087秒}×2−約0.087秒×2−SIZE(16){約0.087秒}×2−約0.087秒−SIZE(16){約0.087秒}−約0.087秒×2−SIZE(16){約0.087秒}×2−約0.087秒−SIZE(16){約0.087秒}：合計約2.17秒
--平均密度は''約5.58打/秒''。
 -中盤の低速地帯には[[8OROCHI(裏譜面)>難易度表/おに/8OROCHI(裏譜面)]]に似た追い越しギミックが存在する。
 --叩く間隔は付点8分音符である。直後の音符に繋がっているものもあるが、ソフランによって見た目が繋がっていないように見えるため注意するべき。
 -全体的にリズム難かつ複合が複雑で、逆手を使うものが多く、同レベル帯と比較しても強めの部類に入る。
 --(見た目)24分音符や32分音符が絡む複合も存在し、慣れていないとコンボを切りやすい。事前に運手を確認するなどの対策を取ろう。
---&color(red){●●}; &color(red){●};&color(blue){●};を&color(red){●●};&color(blue){●};&color(red){●};&color(blue){●};とアレンジして叩くと精度が取れやすい
+--&color(red){●●}; &color(red){●};&color(blue){○};を&color(red){●●};&color(blue){○};&color(red){●};&color(blue){○};とアレンジして叩くと精度が取れやすい
 -ラストゴーゴーの97小節以降は苛烈な長複合が続く。体力と集中力を温存し、最後まで気を抜かずに叩くべし。
---97-99小節の長複合は&color(red){●●●};&color(blue){●};/&color(red){●●};&color(blue){●};&color(red){●●};&color(blue){●};…&color(red){●●};&color(blue){●};&color(red){●●};&color(blue){●};/&color(red){●●};&color(blue){●};&color(red){●};/&color(red){●};&color(blue){●●};&color(red){●};と認識すると叩きやすいか。ただし最後の縁は逆手入りである点に注意。
---101-103小節は拍で区切ると以下のようになる(カッコは24分音符)。&br;101：&color(red){●●●●};/&color(blue){●};&color(red){●●●};/&color(blue){●};&color(red){●●●};/&color(blue){●};&color(red){●●●};|&br;102：&color(blue){●};&color(red){●●};&color(blue){●};/&color(blue){●};&color(red){●●};&color(blue){●};/&color(blue){●};&color(red){●●};&color(blue){●};/&color(blue){●};&color(red){●●};&color(blue){●};|&br;103：&color(blue){●●●●};/&color(red){●●●●};/(&color(blue){●};&color(red){●●●●●};&color(blue){●};)
+--97〜99小節の長複合は&color(red){●●●};&color(blue){○};/&color(red){●●};&color(blue){○};&color(red){●●};&color(blue){○};…&color(red){●●};&color(blue){○};&color(red){●●};&color(blue){○};/&color(red){●●};&color(blue){○};&color(red){●};/&color(red){●};&color(blue){○○};&color(red){●};と認識すると叩きやすいか。ただし最後の縁は逆手入りである点に注意。
+--101〜103小節は拍で区切ると以下のようになる(カッコは24分音符)。&br;101：&color(red){●●●●};/&color(blue){○};&color(red){●●●};/&color(blue){○};&color(red){●●●};/&color(blue){○};&color(red){●●●};|&br;102：&color(blue){○};&color(red){●●};&color(blue){○};/&color(blue){○};&color(red){●●};&color(blue){○};/&color(blue){○};&color(red){●●};&color(blue){○};/&color(blue){○};&color(red){●●};&color(blue){○};|&br;103：&color(blue){○○○○};/&color(red){●●●●};/(&color(blue){○};&color(red){●●●●●};&color(blue){○};)
 ---102小節は逆手を活用しなければならない配置となっている。どうしても叩けないのであれば複合全体を逆手から入るのも手であるが、その場合24分音符の入り手も逆手となる。
+-平均密度は''約5.58打/秒''。
 
 ***その他 [#other]
--曲名の読みは、''アステロイド''。
---英語およびドイツ語で「小惑星」という意味。
--アーティスト・譜面作成は、[[''増渕''>参加アーティスト一覧/増渕裕二]][[''裕二''>譜面作成者一覧/増渕裕二]]。
+-曲名は、英語およびドイツ語で「小惑星」という意味。
+-作曲・編曲・トラックダウン、譜面作成は、[[''増渕''>参加アーティスト一覧/増渕裕二]][[''裕二''>譜面作成者一覧/増渕裕二]]。
 --中盤の短い連打が連続する地帯は「流星群のような表現をして」いる。
 ---この部分はゲージに影響がないため、叩き逃してしまっても問題は無い。
 --サブタイトル表記の通り、本楽曲はApp Storeで配信されているモバイル音楽制作アプリ「[[''KORG Gadget''>https://itunes.apple.com/jp/app/korg-gadget/id791077159?ls=1&mt=8]]」で作曲されている。

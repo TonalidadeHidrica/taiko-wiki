@@ -1,16 +1,18 @@
-*&ruby(サイ){xi}; | Yusuke Ishiwata [#u9e0d593]
+*&ruby(サイ){xi}; | &ruby(いしわた){石渡}; &ruby(ゆうすけ){祐亮}; [#u9e0d593]
 
 **概要 [#more]
 -同人音楽制作レーベルDiverse System所属の作曲家。
 -また、[[Tatsh>参加アーティスト一覧/世阿弥]]、[[t+pazolite>参加アーティスト一覧/t+pazolite]]、[[Cranky>参加アーティスト一覧/Cranky]]と同じく''音楽ゲーム主要5社完全制覇者''である。
 -BMS作曲家としてもかなり有名である。
 --2008年開催のBMSイベント、MAXBEATにおいて「[[FREEDOM DiVE↓>難易度表/おに/FREEDOM DiVE↓]]」でデビューした。この作品は、差分である「FREEDOM DiVE [FOUR DIMENSIONS]」 がLunatic Rave2の段位認定コースの最難関・Over&#74;oyの最終4曲目に入ったことなどから、非常に高い知名度を誇っている。
+-[[Twitter>https://twitter.com/com_giko_31]]
 
-**作品一覧 [#work]
---ゲーム＆バラエティ
+**作品一覧 [#works]
+--バラエティ
 ---[[FREEDOM DiVE↓>難易度表/おに/FREEDOM DiVE↓]]
 ---[[Dread>難易度表/おに/Dreadnought]][[nought>難易度表/おに/Dreadnought(裏譜面)]](nora2rとの合作)
 ---[[Parousia>難易度表/おに/Parousia]]
+--ゲームミュージック
 ---[[ANiMA>難易度表/おに/ANiMA]]
 --ナムコオリジナル
 ---[[超絶技巧系少女>難易度表/おに/超絶技巧系少女]](作曲、ねこかぶりサイクロン名義)
@@ -21,5 +23,6 @@
 ---Glorious Crown
 ---Solar Storm
 ---Grand Chariot
+---Aragami
 **コメント[#comment]
 #pcomment(,noname)

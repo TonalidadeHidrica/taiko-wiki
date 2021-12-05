@@ -1,4 +1,4 @@
-*Seize the day [#title]
+*&ruby(シーズ){Seize}; &ruby(ザ){the}; &ruby(デイ){day}; [#title]
 -日本ファルコムのPS Vita専用ソフト「''東亰ザナドゥ''」の主題歌。
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
@@ -19,9 +19,8 @@
 -序盤と終盤で1回ずつ出てくる8分の複合6連打（●●●○○●）に注意。
 
 ***その他 [#other]
--曲名の読み方は、''シーズ ザ デイ''。
--アーティストは、''Falcom jdk BAND''。歌唱は、''SPiKA(スピカ)''。
-
+-楽曲情報は[[おに譜面>難易度表/おに/Seize the day]]を参照。
+----
 -[[かんたん>難易度表/かんたん/Seize the day]]
 -[[ふつう>難易度表/ふつう/Seize the day]]
 -[[おに>難易度表/おに/Seize the day]]

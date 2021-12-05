@@ -1,4 +1,4 @@
-*''細江慎治''（ほそえしんじ）｜''Sampling Masters MEGA''（さんぷりんぐますたーずめが）[#Title]
+*''&ruby(ほそえ){細江}; &ruby(しんじ){慎治};''｜''&ruby(サンプリング){Sampling}; &ruby(マスターズ){Masters}; &ruby(メガ){MEGA};''[#Title]
 **概要[#more]
 -Super Sweep所属（代表取締役）
 -元バンナム社員。
@@ -8,6 +8,8 @@
 -[[ロッテルダムテクノ>https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%83%86%E3%83%AB%E3%83%80%E3%83%A0%E3%83%86%E3%82%AF%E3%83%8E]]をゲームミュージックに持ち込んだ第一人者。
 --音楽ゲームにもロッテルダムテクノを数多く提供しており、「ロッテルシリーズ」として知られている。([[ROTTERDAM NATION>難易度表/おに/ROTTERDAM NATION(FOO MIX)]]、[[Rotter>難易度表/おに/Rotter Tarmination]] [[Tarmination>難易度表/おに/Rotter Tarmination(裏譜面)]]など)
 -[[Wikipedia>http://ja.wikipedia.org/wiki/%E7%B4%B0%E6%B1%9F%E6%85%8E%E6%B2%BB]]
+-[[Twitter>https://twitter.com/shinji_hosoe]]
+-[[細江慎治氏インタビュー>https://note.com/tsurumy/n/nd2d5367d9156]]
 
 **作品一覧[#work]
 --ナムコオリジナル

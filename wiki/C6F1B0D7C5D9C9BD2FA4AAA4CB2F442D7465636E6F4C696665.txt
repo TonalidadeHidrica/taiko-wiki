@@ -1,17 +1,21 @@
-*D-tecnoLife [#g429bbdc]
+*&ruby(ディー){D};-&ruby(テクノライフ){tecnoLife}; [#title]
 -アニメ[[「''BLEACH''」>アニメ別収録曲#bleach]]のOP2。
-***詳細・攻略 [#eba2e8c9]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''アニスぺ''|CENTER:★×8|CENTER:''356''|CENTER:''1042540点''|CENTER:＋連打|CENTER:930点|CENTER:200点|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''アニスぺ''|BGCOLOR(cyan):''アニメ''|★×8|''356''|''1042540点''|＋連打|930点|200点|
+
+***譜面構成・攻略 [#capture]
 -BPMは168。
+-連打秒数目安・・・約1.042秒
 -ゴーゴーに偶数連打が多い。
 -平均密度は''約4.61打/秒''。
 
 ***その他 [#other]
--曲名の読み方は、''ディー テクノライフ''。
 -アーティストは、[[''UVERworld''>アーティスト別収録曲#uvbr]]。
 --作詞・作曲は、TAKUYA∞。編曲は、UVERworld・平出悟。
--曲IDは、''bleach''
+-曲IDは、''bleach''。
 -BLEACH曲でCSに収録されているのは本曲のみ。
 
 ----
@@ -19,7 +23,7 @@
 -[[ふつう>難易度表/ふつう/D-tecnoLife]]
 -[[むずかしい>難易度表/むずかしい/D-tecnoLife]]
 -[[プレイ動画>https://www.youtube.com/watch?v=hkexjjeIqSc]](オートと同時)
-***コメント [#b2f617d3]
+***コメント [#comment]
 #pcomment(,noname)
 ***譜面 [#p5d7354d]
 &attachref(D-tecnoLife_2.png,nolink);

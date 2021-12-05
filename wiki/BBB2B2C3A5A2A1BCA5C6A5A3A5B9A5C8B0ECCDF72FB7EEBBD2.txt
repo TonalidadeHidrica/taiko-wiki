@@ -1,6 +1,8 @@
-*月子(つきこ)[#title]
+*&ruby(つきこ){月子};[#title]
 [[参加アーティスト一覧]]
 -[[Sweet Sweet Magic>難易度表/おに/Sweet Sweet Magic]]では葉月ゆらと共に歌唱を担当した。
+-[[Twitter>https://twitter.com/tsukiko_sdm]]
+
 -作品一覧
 --ナムコオリジナル
 ---[[Sweet Sweet Magic>難易度表/おに/Sweet Sweet Magic]]

@@ -1,5 +1,5 @@
-*Doom Noiz [#title]
--ゲーム''「[[ギャラガレギオンズ>http://galagalegions.namco-ch.net/]]」''のBGM。
+*&ruby(ドゥーム){Doom}; &ruby(ノイズ){Noiz}; [#title]
+-Xbox360用ソフト「[[''ギャラガレギオンズ''>http://galagalegions.namco-ch.net/index.html]]」の楽曲。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|>|CENTER:|c
@@ -11,6 +11,7 @@
 |AC15.2.0|Wii5SP&br;PS4 1DL|~|~|~|''332320点''|~|640点|190点|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''962640点''}|~|COLOR(#ff3300){5110点}|-|~|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''986100点''|~|6700点|-|~|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約160。
@@ -25,10 +26,7 @@
 --にもかかわらず、AC15でも残留した。クリアだけなら逆詐称だろう。
 
 ***その他 [#other]
--曲名の読み方は、''ドゥーム ノイズ''。
--作曲は、''小沢純子''、''[[LindaAI-CUE>参加アーティスト一覧/LindaAI-CUE]]''。
--譜面作成は、''[[エトウ>譜面作成者一覧/エトウ]]''。
--曲IDは、''doomn''。
+-楽曲情報は[[おに譜面>難易度表/おに/Doom Noiz]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/Doom Noiz]] 

@@ -3,6 +3,45 @@
 -ランキング、ミニゲーム、着せ替えなどの機能がある。
 -画面の大きさの関係で譜面のスクロール速度が遅くなっている。
 -曲の音源は打ち込みによる着メロとなっている。
+----
+''目次''
+#contents
+
+*動画リスト [#ze56f354]
+もばいるは動画自体が貴重であまり数がないので資料集代わりにここにまとめます。
+-J-POP
+--[[夏祭り>https://www.youtube.com/watch?v=5QrEtPc4jdo]]
+-アニソン
+--[[My Soul,Your Beats!>https://www.nicovideo.jp/watch/sm11853908]]
+--[[翔べ! ガンダム>https://www.nicovideo.jp/watch/sm9968801]]
+--[[窮地に立つガンダム>https://www.nicovideo.jp/watch/sm9968801]]
+--[[God knows...>https://www.nicovideo.jp/watch/sm3877802]]
+--[[アンパンマンのマーチ>https://www.youtube.com/watch?v=-c1-b3fuMOU]]
+-クラシック
+--[[リパブリック産歌>https://www.youtube.com/watch?v=dzBROTgaPrA]]
+-バラエティ
+--[[六甲おろし>https://www.youtube.com/watch?v=bl1xtEhp-qI]]
+-ゲームミュージック
+--[[ドルアーガの塔メドレー>https://www.youtube.com/watch?v=n03teDuujaQ]]
+--[[ROTTERDAM NATION>https://www.nicovideo.jp/watch/sm3569932]]
+--[[ROTTERDAM NATION>https://www.nicovideo.jp/watch/sm2012321]]
+--[[もじぴったんメドレー>https://www.nicovideo.jp/watch/sm2045271]]
+-ナムコオリジナル
+--[[さいたま2000>https://www.youtube.com/watch?v=n03teDuujaQ]]
+--[[さいたま2000(2)>https://www.nicovideo.jp/watch/sm3941591]]
+--[[きたさいたま2000>https://www.youtube.com/watch?v=CANGjzAWpQI]]
+--[[EkiBEN2000>https://www.youtube.com/watch?v=fY1NK3dCKo8]]
+--[[はたラク2000>https://www.youtube.com/watch?v=QCqfuSvjTgc]]
+--[[燎原ノ舞>https://www.nicovideo.jp/watch/sm9001113]]
+--[[燎原ノ舞(簡)>https://www.youtube.com/watch?v=zsL5W4Mpc4Q]]
+--[[燎原ノ舞(難)>https://www.youtube.com/watch?v=fqb1eGdTiqM]]
+--[[DON'T CUT>https://www.youtube.com/watch?v=wr-kN82TcZY]]
+--[[画竜点睛>https://www.youtube.com/watch?v=C5M2vmR6CJw]]
+--[[スクロール・ミカ>https://www.nicovideo.jp/watch/sm3692405]]
+--[[ハロー！どんちゃん>https://www.youtube.com/watch?v=Zx0da-MtSGo]]
+--[[太鼓ラブ！>https://www.youtube.com/watch?v=ZCTxXCzsXHg]]
+--[[フューチャー・ラボ(易)>https://www.youtube.com/watch?v=E2U7bfh5oUw]]
+--[[フューチャー・ラボ>https://www.youtube.com/watch?v=E5ShgzZ91O8]]
 
 *収録曲リスト [#od22add7]
 **J-POP [#e33f4d91]

@@ -1,0 +1,27 @@
+*&ruby(さがら){相良}; &ruby(こころ){心}; [#title]
+
+**概要 [#more]
+-フリーのシンガーソングライター。
+--同人サークル「回路-kairo-」のボーカルとして活動も行っている。
+--本作では、オリジナル曲の他に、版権曲のカバー歌唱の担当も行っている。
+-[[Wikipedia>https://ja.wikipedia.org/wiki/%E7%9B%B8%E8%89%AF%E5%BF%83]]
+
+**作品一覧 [#work]
+-ナムコオリジナル
+--[[Welcome to the Taiko Stadium!>難易度表/おに/Welcome to the Taiko Stadium!]]
+
+#region(カバー曲、彼女の歌唱と思われるものを抜粋)
+-アニメ
+--[[crossing field>難易度表/おに/crossing field]]
+--[[Rising Hope>難易度表/おに/Rising Hope]]
+--[[流星>難易度表/おに/流星]]
+--[[ADAMAS>難易度表/おに/ADAMAS]]
+--[[紅蓮華>難易度表/おに/紅蓮華]]
+--[[炎>難易度表/おに/炎]]
+--[[Realize>難易度表/おに/Realize]]
+
+#endregion
+#br
+
+**コメント [#comment]
+#pcomment(,noname)

@@ -1,15 +1,25 @@
-*小薇 [#t884e29d]
-***攻略・詳細 [#r7a57f43]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11亜''|CENTER:★×7|CENTER:''303''|CENTER:''988500点''|CENTER:＋連打|CENTER:1000点|CENTER:250点|
+*小薇 [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11亜''|BGCOLOR(lime):''華語流行音樂''|★×7|''303''|''988500点''|＋連打|1000点|250点|
+
+***譜面構成・攻略 [#capture]
+-BPMは78。
+-連打秒数目安・・・約1.474秒−約1.859秒：合計約3.333秒
 -フルコン狙いならばいそくを推奨。
+
+***その他 [#other]
 -アーティストは[[涙そうそう>難易度表/おに/涙そうそう]]の台湾語カバーバージョン「白鷺?」で有名な''黄品源''（''ホァン・ピンユェン''）。
+-曲IDは、''a1hua1''。
+----
 -[[かんたん>難易度表/かんたん/小薇]]
 -[[ふつう>難易度表/ふつう/小薇]]
 -[[むずかしい>難易度表/むずかしい/小薇]]
--[[プレイ動画>https://www.youtube.com/watch?v=UZJ3EFKS70g]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=aiAtDUaiqLk]]
+
 ***コメント[#comment]
 #pcomment(,noname)
 
 ***譜面[#score]
-&attachref(xiaowei.png,nolink);
+&attachref(xiaowei_2.png,nolink);

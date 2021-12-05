@@ -1,24 +1,28 @@
 *特務J [#title]
+
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12亜''|CENTER:★×6|CENTER:''461''|CENTER:''953600点''|CENTER:560点|CENTER:140点|
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC12亜''|BGCOLOR(lime):''華語&br;流行音樂''|★×6|''461''|''953600点''|560点|140点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは143。
 -''精度曲''のひとつ。
+-COLOR(blue){○○○}、COLOR(blue){○○}COLOR(red){●}の16分複合が非常に多い。他の複合はCOLOR(red){●●}COLOR(blue){○}が60小節に1回出てくるのみ。
 -平均密度は、''約4.03打/秒''。
--COLOR(blue){●●●}、COLOR(blue){●●}COLOR(red){●}の16分複合が非常に多い。他の複合はCOLOR(red){●●}COLOR(blue){●}が60小節に1回出てくるのみ。
 
 ***その他 [#other]
 -アーティストは、[[愛情36計>難易度表/おに/愛情36計]]や[[舞孃>難易度表/おに/舞孃]]、[[日不落>難易度表/おに/日不落]]と同じく''蔡依林(ジョリン・ツァイ)''。
+-曲IDは、''a12c06''。
+
 ----
 -[[かんたん>難易度表/かんたん/特務J]]
 -[[ふつう>難易度表/ふつう/特務J]]
 -[[むずかしい>難易度表/むずかしい/特務J]]
--[[プレイ動画>http://www.youtube.com/watch?v=mTHn90mfSHk]]
+-[[プレイ動画>https://www.youtube.com/watch?v=uNmXgfmJOik]]
 
-***コメント[#comment]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#score]
-&attachref(Agent J.png,nolink);
+***譜面 [#score]
+&attachref(Agent J_2.png,nolink);

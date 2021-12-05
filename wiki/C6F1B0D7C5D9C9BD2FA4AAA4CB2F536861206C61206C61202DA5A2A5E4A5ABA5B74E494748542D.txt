@@ -1,20 +1,28 @@
-*Sha la la -アヤカシNIGHT- [#Title]
-***詳細・攻略 [#More]
+*Sha la la -アヤカシNIGHT- [#title]
 -アニメ''「結界師」''のOP曲。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC10''|CENTER:★×6|CENTER:''383''|CENTER:''940050点''|CENTER:＋連打|CENTER:730点|CENTER:180点|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC10''|BGCOLOR(orange):''アニメ''|★×6|''383''|''940050点''|＋連打|730点|180点|
+
+***譜面構成・攻略 [#capture]
 -BPMは137。
+-16分の3連打が多い。また、36〜39小節の配置は少々厄介。
 -平均密度は、''約4.09打/秒''。
--16分の3連打が多い。また、36〜39小節目の配置は少々厄介。
+
+***その他 [#other]
 -アーティストは、''宇浦冴香''。
+--本人音源ではない。
 -曲IDは、''shala''。
+
+----
 -[[かんたん>難易度表/かんたん/Sha la la -アヤカシNIGHT-]]
 -[[ふつう>難易度表/ふつう/Sha la la -アヤカシNIGHT-]]
 -[[むずかしい>難易度表/むずかしい/Sha la la -アヤカシNIGHT-]]
 -[[プレイ動画>http://www.youtube.com/watch?v=3vhs_vjn844]]
 
-***コメント [#Comment]
+***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]

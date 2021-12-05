@@ -1,26 +1,27 @@
-*DREAMERS’ PARADISE SIZE(16){DANCE EARTH PARTY タイアップソング} [#title]
-***詳細・攻略 [#more]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.7.1|CENTER:''Wii U3DL''|CENTER:★×4|CENTER:''123''|CENTER:''527940点''|CENTER:＋連打|CENTER:1320点|CENTER:495点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''981300点''}|~|CENTER:COLOR(#ff3300){7000点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:???0点|CENTER:??0点|
-|AC16.1.0||~|~|''988990点''|~|7930点|-|
+*&ruby(ドリーマーズ){DREAMERS};' &ruby(パラダイス){PARADISE}; SIZE(16){DANCE EARTH PARTY タイアップソング} [#title]
 
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.7.1|''Wii U3DL''|BGCOLOR(cyan):''J-POP''|★×4|''123''|''527940点''|＋連打|1320点|495点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''981300点''}|~|COLOR(#ff3300){7000点}|-|
+||iOS|BGCOLOR(cyan):''ポップス''|~|~|''?????0点''|~|???点|???点|
+|AC16.1.0||~|~|~|''988990点''|~|7930点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは126。
 -黄色連打がかなり多い連打曲で、1本あたりの長さも長い。
 -全体的に付点配置が多く、リズムが取りづらい。
+-[[むずかしい>難易度表/むずかしい/DREAMERS' PARADISE]]とはコンボ数が約2.76倍離れている。
 -4分の複合が主体の譜面で、たまに8分も出てくる。
 --8分は単色の3連打までしかないが、4連続で出てくる箇所もある。
 --また、4分の複合は全体的に長めのが多い。
 -序盤と中盤で1回ずつ出てくる4分の複合13連打に注意。
 
 ***その他 [#other]
--曲名の読み方は、''ドリーマーズ パラダイス''。
--アーティストは、''DANCE EARTH PARTY''。
---''本人音源''である。
---作詞は、michico・Mummy-D。作曲は、T.Kura・michico。編曲は、T.Kura。
--曲IDは、''dparad''。
+-楽曲情報は[[おに譜面>難易度表/おに/DREAMERS' PARADISE]]を参照。
+
+----
 -[[かんたん>難易度表/かんたん/DREAMERS' PARADISE]]
 -[[むずかしい>難易度表/むずかしい/DREAMERS' PARADISE]]
 -[[おに>難易度表/おに/DREAMERS' PARADISE]]

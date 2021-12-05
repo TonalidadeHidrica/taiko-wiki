@@ -1,8 +1,10 @@
 * No Way Back(裏譜面)[#title]
 ***詳細･攻略 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii3SP''|CENTER:★×5|CENTER:''221''|CENTER:''314240点''|CENTER:＋連打|CENTER:370点|CENTER:80点|
-|CENTER:PSPDXDL|~|CENTER:''170''|CENTER:''329410点''|~|CENTER:590点|CENTER:100点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii3SP''|BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|★×5|''221''|''314240点''|＋連打|370点|80点|
+|PSPDXDL|~|~|''170''|''329410点''|~|590点|100点|
+
 -BPMは158。
 -どちらの譜面も黄色連打が多い連打曲である。
 ***Wii3の譜面 [#wii3]

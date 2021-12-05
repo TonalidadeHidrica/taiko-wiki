@@ -13,6 +13,7 @@
 ***譜面構成・攻略 [#capture]
 -BPMは266。
 --HS0.75により、連打以外の見た目BPMは199.5。
+-連打秒数目安・・・約0.883秒×2−約1.391秒−約1.334秒−約0.883秒：合計約5.375秒
 
 ***その他 [#other]
 -曲名の読みは、''タイコ ドラム モンスター''。
@@ -26,7 +27,7 @@
 ----
 -[[ふつう>難易度表/ふつう/Taiko Drum Monster]]
 -[[むずかしい>難易度表/むずかしい/Taiko Drum Monster]]
--[[おに>難易度表/おに/Taiko Drum Monster]]
+-[[おに>難易度表/おに/Taiko Drum Monster]]/[[裏譜面>難易度表/おに/Taiko Drum Monster(裏譜面)]]
 -[[楽曲コメント(第四回天下一音ゲ祭)>https://web.archive.org/web/20171210170212/http://www.otogesai.jp/tournament_music]](Web Archive)
 -[[楽曲コメント(公式ブログ)>http://taiko-ch.net/blog/?p=2111]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=6WsXtc-1ZhM]]

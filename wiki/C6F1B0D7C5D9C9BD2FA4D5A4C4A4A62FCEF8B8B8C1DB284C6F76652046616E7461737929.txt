@@ -1,9 +1,11 @@
-*&ruby(らぶ){恋};&ruby(ふぁんたじー){幻想}; (Love Fantasy) [#title]
+*&ruby(らぶ){恋};&ruby(ふぁんたじー){幻想};(Love Fantasy)((「恋幻想」のルビは「[[Wii U3公式HPの楽曲リスト>http://wiiu3.taiko-ch.net/songlist/]]」ナムコオリジナル参照。)) [#title]
 
-***詳細 [#detail]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.7.0''|CENTER:Wii U3DL&br;PS Vita1DL|CENTER:★×6|CENTER:''324''|CENTER:''649230点''|CENTER:＋連打|CENTER:590点|CENTER:158点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''997900点''}|~|CENTER:COLOR(#ff3300){2900点}|CENTER:-|
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.7.0''|Wii U3DL&br;PS Vita1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''324''|''649230点''|+連打|590点|158点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''997900点''}|~|COLOR(#ff3300){2900点}|-|
+|AC16.1.0||~|~|~|''999120点''|~|3080点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは183。
@@ -15,11 +17,7 @@
 -4分の複合と8分が何度も出てくる49〜64小節に注意。
 
 ***その他 [#other]
--アーティストは、''HONOKA''。
---作曲は、とんCHAN & ショック太郎。
--曲のプロデュースおよび譜面作成は、''カワーゲン・コラーゲン''。
--「恋幻想」のルビは「らぶふぁんたじー」である((「[[Wii U3公式HPの楽曲リスト>http://wiiu3.taiko-ch.net/songlist/]]」ナムコオリジナル参照))。
-
+-楽曲情報は[[おに>難易度表/おに/恋幻想(Love Fantasy)]]参照。
 ----
 -[[かんたん>難易度表/かんたん/恋幻想(Love Fantasy)]]
 -[[むずかしい>難易度表/むずかしい/恋幻想(Love Fantasy)]]

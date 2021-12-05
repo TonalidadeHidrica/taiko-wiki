@@ -6,7 +6,7 @@
 
 **作品一覧 [#work]
 --ナムコオリジナル
----[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]
+---[[Taiko Drum>難易度表/おに/Taiko Drum Monster]] [[Monster>難易度表/おに/Taiko Drum Monster(裏譜面)]]
 ---[[青天の黎明>難易度表/おに/青天の黎明]]
 ---[[タイコロール>難易度表/おに/タイコロール]]
 

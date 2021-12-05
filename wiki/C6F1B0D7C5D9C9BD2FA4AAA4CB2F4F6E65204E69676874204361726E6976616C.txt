@@ -2,12 +2,12 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC5''||''J-POP''|★×6|''377''|''604500点''|＋連打|-|-|
-||CS3|~|~|~|''673500点''|~|-|-|
-||iOS|~|★×8|''553''|''1049300点''|~|510点|120点|
-||3DS2DL|~|~|~|''1049630点''|~|530点|140点|
-||NS1|''ポップス''|~|~|~|~|~|~|
-|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1004080点''}|~|COLOR(#ff3300){1630点}|-|
+|''AC5''||BGCOLOR(cyan):''J-POP''|★×6|''377''|''604500点''|＋連打|-|-|
+||CS3|''J-POP''|~|~|''673500点''|~|-|-|
+||iOS|BGCOLOR(cyan):''ポップス''|★×8|''553''|''1049300点''|~|510点|120点|
+||3DS2DL|BGCOLOR(cyan):''J-POP''|~|~|''1049630点''|~|530点|140点|
+||NS1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1004080点''}|~|COLOR(#ff3300){1630点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは135。
@@ -27,14 +27,14 @@
 -[[かんたん>難易度表/かんたん/One Night Carnival]]
 -[[ふつう>難易度表/ふつう/One Night Carnival]]
 -[[むずかしい>難易度表/むずかしい/One Night Carnival]]
--[[オート動画(新譜面)>http://www.youtube.com/watch?v=lc6p5uy_Nyk]]
--[[プレイ動画(旧譜面)>https://youtube.com/watch?v=4dql3i0IHNc]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=lc6p5uy_Nyk]]
+-[[プレイ動画(旧譜面)>https://www.youtube.com/watch?v=4dql3i0IHNc]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(kishi2_m.png,nolink);
+~&attachref(kishi2_m.png,nolink);
 
 ~旧譜面
-&attachref(kishi_m2.png,nolink);
+~&attachref(kishi_m2.png,nolink);

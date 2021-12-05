@@ -1,0 +1,34 @@
+*Circle of Seasons [#title]
+-アニメ「[[''A3! SEASON AUTUMN & WINTER''>アニメ別収録曲#a3]]」のOP。
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.1.7''|BGCOLOR(hotpink):''アニメ''|★×6|''319''|''989510点''|＋連打|3090点|
+|~|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|~|~|~|
+|AC16.2.12|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
+|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
+-BPMは168。
+-16分音符は3連打のみで、複合はCOLOR(red){●●}COLOR(blue){○}5回のみ。
+-やや長めの8分音符複合が多い。
+-大音符の数は53個(全体の約16.6％)と非常に多い。但しAC16では特良抜けが得点に影響しないのが救いだろう。
+-平均密度は、''約3.66打/秒''。
+
+***その他 [#other]
+-アーティストは、''A3ders!''。
+--メンバーは、COLOR(#d13066){''佐久間咲也}(CV：酒井広大)''、COLOR(#ff8c00){''皇天馬}(CV：江口拓也)''、COLOR(#d2b48c){''摂津万里}(CV：沢城千春)''、COLOR(#00008b){''月岡紬}(CV：田丸篤志)''。
+--作詞・作曲・編曲は、大石昌良。
+
+----
+-[[かんたん>難易度表/かんたん/Circle of Seasons]]
+-[[ふつう>難易度表/ふつう/Circle of Seasons]]
+-[[むずかしい>難易度表/むずかしい/Circle of Seasons]]
+-[[プレイ動画>https://www.youtube.com/watch?v=iet93e82XaQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(A3秋冬.png,nolink);

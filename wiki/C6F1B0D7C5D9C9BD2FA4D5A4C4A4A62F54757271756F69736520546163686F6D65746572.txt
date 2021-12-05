@@ -1,4 +1,4 @@
-*Turquoise Tachometer [#title]
+*&ruby(ターコイズ ){Turquoise}; &ruby(タコメーター){Tachometer};  [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -6,6 +6,7 @@
 |''AC15.9.0SP''|PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''257''|''635980点''|+連打|740点|193点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''990900点''}|~|COLOR(#ff3300){3350点}|-|
 |AC16.1.0||~|~|~|''994880点''|~|3840点|-|
+||iOS&br;AR|~|~|~|''?????0点''|~|710点|150点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは164。
@@ -22,11 +23,8 @@
 --ただしこれは1曲を通しての平均密度であり、ゴーゴー(43〜57小節)だけは平均密度が''約3.29打/秒''になっている。
 
 ***その他 [#other]
--曲名の読み方は、''ターコイズ タコメーター''。
---略称は、''蛸蛸''など。
--アーティストは、''AJURIKA''。 
---歌唱は、''Julie''。
--曲IDは、''ta5ta5''。
+-楽曲情報は[[おに譜面>難易度表/おに/Turquoise Tachometer]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/Turquoise Tachometer]]
 -[[むずかしい>難易度表/むずかしい/Turquoise Tachometer]]
@@ -35,6 +33,8 @@
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=YlRM6E83o-E]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

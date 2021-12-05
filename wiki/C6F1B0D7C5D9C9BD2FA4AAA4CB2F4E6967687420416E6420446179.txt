@@ -2,11 +2,13 @@
 -ナムコのPS用ソフト「[[''ACE COMBAT 2''>ゲーム別収録曲#ace]]」より。(→[[公式サイト>http://www.bandainamcogames.co.jp/cs/list/acecombat2/]])
 
 ***詳細 [#more]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.6.0SP|''3DS2''&br;Wii U3|★×9|''698''|''1096960点''|+連打|480点|120点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1000800点''}|~|COLOR(#ff3300){1390点}|-|
-|AC16.1.0||~|~|''998140点''|~|1430点|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.6.0SP|''3DS2''&br;Wii U3&br;NS RPG|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×9|''698''|''1096960点''|+連打|480点|120点|
+||3DS2韓|BGCOLOR(darkorchid):COLOR(white){''&#44172;&#51076; &#51020;&#50501;''}|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''1000800点''}|~|COLOR(#ff3300){1390点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''998140点''|~|1430点|-|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約140。
@@ -31,6 +33,8 @@
 -[[オート動画(Wii U3)>https://www.youtube.com/watch?v=KbNVrkSekWw]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

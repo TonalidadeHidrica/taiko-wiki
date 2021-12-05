@@ -1,0 +1,24 @@
+*&ruby(ヴィヴィヴィヴィッド){VIVIVIVID}; [#title]
+-[[2020年の楽曲公募>太鼓の達人　楽曲募集だドン！2020]]の採用曲のひとつ。
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.1.10''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×3|''104''|''999400点''|＋連打|9550点|
+
+***譜面構成・攻略 [#capture]
+-BPMは178。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/VIVIVIVID]]を参照。
+----
+-[[ふつう>難易度表/ふつう/VIVIVIVID]]
+-[[むずかしい>難易度表/むずかしい/VIVIVIVID]]
+-[[おに>難易度表/おに/VIVIVIVID]]
+-[[プレイ動画>https://www.youtube.com/watch?v=rS0tpeo89sQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(VIVIVIVID_e.png,nolink);

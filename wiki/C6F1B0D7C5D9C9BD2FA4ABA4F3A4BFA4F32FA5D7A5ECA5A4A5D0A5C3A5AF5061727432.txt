@@ -19,7 +19,7 @@
 -[[ふつう>難易度表/ふつう/プレイバックPart2]]
 -[[むずかしい>難易度表/むずかしい/プレイバックPart2]]
 -[[おに>難易度表/おに/プレイバックPart2]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=Bg-G-wKVSGU]]
+-[[オート動画>http://www.youtube.com/watch?v=Bg-G-wKVSGU]]
 
 ***コメント [#comment]
 #pcomment(,noname)

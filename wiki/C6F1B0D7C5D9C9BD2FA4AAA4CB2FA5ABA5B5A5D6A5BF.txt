@@ -28,5 +28,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~風船は14打
-&attachref(kasabuta.png,nolink);
+&attachref(kasabuta_2.png,nolink);

@@ -1,11 +1,22 @@
-***詳細・攻略[#more]
--詳細は以下の通り：
+*怪怪女 [#title]
+-台湾の華義国際''「阿飄オンライン」''のキャンペーンソング。
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12亜''|CENTER:★×5|CENTER:''???''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点|
+|CENTER:''AC12亜''|CENTER:★×5|CENTER:COLOR(#909):''322&br;COLOR(#069):292&br;COLOR(#666):267''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは約150。
+
+***その他 [#other]
+-アーティストは''ブルーバード・フライングフィッシュ(青鳥飛魚)''。
+-曲IDは、''a12c79''。
+----
 -[[かんたん>難易度表/かんたん/怪怪女]]
 -[[ふつう>難易度表/ふつう/怪怪女]]
 -[[おに>難易度表/おに/怪怪女]]
 -[[プレイ動画>http://i.youku.com/i/UNDc2OTQ0Nzc3Mg==/videos?spm=a2hzp.8253869.0.0]]（困難一般＝普通譜面、困難，進階＝玄人譜面、困難達人＝達人譜面）
-***コメント[#comment]
+
+***コメント [#comment]
 #pcomment(,noname)
-***譜面[#fumen]
+
+***譜面 [#fumen]

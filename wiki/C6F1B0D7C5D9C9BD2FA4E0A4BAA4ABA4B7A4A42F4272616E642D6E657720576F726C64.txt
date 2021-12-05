@@ -1,10 +1,12 @@
-*Brand-new World [#title]
-***詳細・攻略 [#more]
--アニメ「''学戦都市アスタリスク''」のOP。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+*&ruby(ブラン){Brand};-&ruby(ニュー){new}; &ruby(ワールド){World}; [#title]
+-アニメ「''学戦都市アスタリスク''」のOP曲。
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |CENTER:''PS Vita1DL''|CENTER:★×6|CENTER:''223''|CENTER:''791660点''|CENTER:＋連打|CENTER:980点|CENTER:298点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''992700点''}|~|CENTER:COLOR(#ff3300){3850点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは205。
 -黄色連打が多い連打曲である。
 -全体的に裏拍配置が多く、リズムが取りづらい。
@@ -15,12 +17,8 @@
 -ラストで1回だけ出てくる8分の複合16連打に注意。
 
 ***その他 [#other]
--曲名の読み方は、''ブランニュー ワールド''。
--アーティストは、''西沢幸奏''。
---作詞・作曲は、''WEST GROUND''。
---''本人音源''である。
--同ジャンルの[[BRAND NEW WORLD>難易度表/むずかしい/BRAND NEW WORLD]]と間違えないように。
-
+-楽曲情報は[[おに譜面>難易度表/おに/Brand-new World]]を参照。
+----
 -[[かんたん>難易度表/かんたん/Brand-new World]]
 -[[ふつう>難易度表/ふつう/Brand-new World]]
 -[[おに>難易度表/おに/Brand-new World]]

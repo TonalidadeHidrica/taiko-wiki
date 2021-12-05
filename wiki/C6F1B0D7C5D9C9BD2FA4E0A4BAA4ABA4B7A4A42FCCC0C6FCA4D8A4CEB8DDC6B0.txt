@@ -1,11 +1,13 @@
-*明日への鼓動 [#title]
-***詳細・攻略 [#more]
+*&ruby(あした){明日};への&ruby(こどう){鼓動}; [#title]
 -日本ファルコムのPS3・PS Vita専用ソフト「''英雄伝説 閃の軌跡''」のOPテーマ曲。
--詳細は以下の通り：
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''|CENTER:★×6|CENTER:''482''|CENTER:''795760点''|CENTER:＋連打|CENTER:470点|CENTER:123点|
+|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×6|CENTER:''482''|CENTER:''795760点''|CENTER:＋連打|CENTER:470点|CENTER:123点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){1980点}|CENTER:-|
 |CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
+
+***譜面構成・攻略 [#capture]
 -BPMは173。
 -黄色連打が多い連打曲である。
 -全体的に裏拍配置が多く、リズムが取りづらい。
@@ -17,10 +19,9 @@
 --配色が少し複雑なので、苦手な人は分業で処理しよう。
 
 ***その他 [#other]
--歌唱は、''小寺可南子''。作曲は、''Falcom Sound Team jdk''。作詞は、''神藤由東大・一二三恭''。
--譜面作成は、''オオサワ''。
--曲IDは、''audasu''
+-楽曲情報は[[おに譜面>難易度表/おに/明日への鼓動]]を参照。
 
+----
 -[[かんたん>難易度表/かんたん/明日への鼓動]]
 -[[ふつう>難易度表/ふつう/明日への鼓動]]
 -[[おに>難易度表/おに/明日への鼓動]]

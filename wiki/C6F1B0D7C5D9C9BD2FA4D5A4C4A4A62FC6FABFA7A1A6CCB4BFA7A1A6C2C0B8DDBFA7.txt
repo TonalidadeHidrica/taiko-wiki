@@ -1,14 +1,16 @@
 *虹色・夢色・太鼓色 [#title]
 
-***攻略 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC3''||>|>|>|>|>|CENTER:''ふつうコースはなかった''|
-||CENTER:CS1|CENTER:★×5|CENTER:''199''|CENTER:''614570点''||CENTER:1000点|CENTER:270点|
-||CENTER:PSP1|CENTER:★×6|~|CENTER:''657650点''|~|~|~|
-|CENTER:AC15.1.0SP|CENTER:Wii U2SP&br;NS1|CENTER:★×5|CENTER:''175''|CENTER:''598820点''|CENTER:＋連打|~|CENTER:370点|
-||CENTER:龍が如く|~|~|CENTER:''562250点''|~|~|~|
-||CENTER:Wii4|~|~|CENTER:''595620点''|~|CENTER:950点|CENTER:280点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){5370点}|CENTER:-|
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC3''||''ポップス''|>|>|>|>|>|CENTER:''ふつうコースはなし''|
+||CS1|''ナムコ''|★×5|''199''|''614570点''||1000点|270点|
+||PSP1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|~|''657650点''|~|~|~|
+|AC15.1.0SP|Wii U2SP&br;NS1|~|★×5|''175''|''598820点''|＋連打|1000点|370点|
+||龍が如く|~|~|~|''562250点''|~|~|~|
+||Wii4&br;iOS&br;AR|~|~|~|''595620点''|~|950点|280点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){5370点}|-|
+|AC16.1.0||~|~|~|''999600点''|~|5700点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約136。気づかない程度に変速しているため注意。
@@ -23,6 +25,7 @@
 -2人用譜面が存在する。コンボ数は1人プレイ時と同一で、33〜36、57〜64小節目が変化する。
 
 ~【''新譜面''】
+-連打秒数目安・・・約0.823秒−約0.855秒：合計約1.677秒
 -AC15で譜面が書き直され16分や8分の複合は全て取り除かれた。
 -1回だけ出てくる8分の4連打に注意。
 -2人用譜面も存在する。コンボ数は1人プレイ時と同一で、33〜36小節目が変化する。
@@ -54,11 +57,11 @@
 -[[オート動画(旧譜面)>https://www.youtube.com/watch?v=SHnvwdD6QJw]]/[[2人用譜面>https://www.youtube.com/watch?v=XLZ76qSGOyU]]
 -[[プレイ動画(CS1、はじめてモード)>http://www.youtube.com/watch?v=3QLcEI0_vvo]]
 
-***コメント [#s138f25f]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#r6538a20]
-&attachref(opng2_n.png,nolink);
+***譜面 [#score]
+~&attachref(opng2_n.png,nolink);
 
-旧譜面
-&attachref(nyt_n.png,nolink);
+~旧譜面
+~&attachref(nyt_n.png,nolink);

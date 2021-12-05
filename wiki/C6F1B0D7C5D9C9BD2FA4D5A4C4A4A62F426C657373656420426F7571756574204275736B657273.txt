@@ -1,18 +1,17 @@
-*Blessed Bouquet Buskers [#title]
+*&ruby(ブレスト){Blessed}; &ruby(ブーケ){Bouquet}; &ruby(バスカーズ){Buskers};[#title]
 ***詳細 [#detail]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.9.9SP''|PS4 1DL&br;NS1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''289''|''590580点''|＋連打|600点|150点|
 |COLOR(#f30){真打}||~|~|~|COLOR(#f30){''989910点''}|~|COLOR(#f30){3010点}|-|
+||iOS&br;AR|~|~|~|''575350点''|~|570点|120点|
 |AC16.1.0||~|~|~|''996670点''|~|3430点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは188。
 
 ***その他 [#other]
--アーティストは、''[[steμ>参加アーティスト一覧/steμ]]''。
--現在はかつメダル1500枚で購入可能。
--曲IDは、''bbb''。
+-楽曲情報は[[おに譜面>難易度表/おに/Blessed Bouquet Buskers]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/Blessed Bouquet Buskers]]
 -[[むずかしい>難易度表/むずかしい/Blessed Bouquet Buskers]]
@@ -23,5 +22,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船、くすだまの長さは暫定
-&attachref(BBBふつう.png,nolink,);
+&attachref(BBB_n.png,nolink,);

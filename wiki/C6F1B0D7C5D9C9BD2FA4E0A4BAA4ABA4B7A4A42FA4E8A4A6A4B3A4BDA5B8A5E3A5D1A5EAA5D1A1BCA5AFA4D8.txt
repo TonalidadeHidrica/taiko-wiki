@@ -35,4 +35,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+-36小節目の風船は16分音符分早く設置されている
 ~&attachref(jyapar_h.png,nolink);

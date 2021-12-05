@@ -1,9 +1,12 @@
 *Be your wings [#title]
-***詳細・攻略 [#more]
 -「''テイルズ オブ バーサス''」のテーマソング。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC13|CENTER:''Wii2''|CENTER:★×6|CENTER:''233''|CENTER:''790180点''|CENTER:+連打|CENTER:850点|CENTER:220点|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC13|''Wii2''|BGCOLOR(cyan):''J-POP''|★×6|''233''|''790180点''|+連打|850点|220点|
+
+***譜面構成・攻略 [#capture]
 -BPMは138。
 -全体的に付点配置が多く、リズムが取りづらい。
 -大音符がかなり多く、48個ある（全体の約20.6%）。
@@ -15,8 +18,9 @@
 ***その他 [#other]
 -アーティストは、''GIRL NEXT DOOR''。
 --作詞は、''千紗''・''Kenn Kato''。作曲は、''鈴木大輔''。編曲は、''GIRL NEXT DOOR''・''渡辺徹''。
--曲IDは、''beyour''
+-曲IDは、''beyour''。
 
+----
 -[[かんたん>難易度表/かんたん/Be your wings]]
 -[[ふつう>難易度表/ふつう/Be your wings]]
 -[[おに>難易度表/おに/Be your wings]]

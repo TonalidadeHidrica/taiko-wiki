@@ -1,12 +1,17 @@
 *らんぶる乱舞 [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12SP''〜14|CENTER:Wii2&br;PSPDX&br;iOS|CENTER:★×5|CENTER:''222''|CENTER:''374890点''|CENTER:＋連打|CENTER:420点|CENTER:130点|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''380640点''}|~|CENTER:COLOR(#ff3300){1560点}|CENTER:-|
-|CENTER:AC15.1.0|CENTER:Wii U2|CENTER:★×4|~|CENTER:''358360点''|~|CENTER:450点|CENTER:145点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''997960点''}|~|CENTER:COLOR(#ff3300){4090点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|CENTER:''999000点''|~|CENTER:4500点|CENTER:-|
+//-[[AYAシリーズ>シリーズ曲一覧#AYA]]第一弾。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12SP''-14|Wii2SP&br;PSPDX&br;iOS|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''222''|''374890点''|+連打|420点|130点|
+|AC12亜||BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打モード}||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|COLOR(#ff3300){''380640点''}|~|COLOR(#ff3300){1560点}|-|
+|AC15.1.0|Wii U2|~|★×4|~|''358360点''|~|450点|145点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''997960点''}|~|COLOR(#ff3300){4090点}|-|
+|AC16.1.0||~|~|~|''999000点''|~|4500点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは160。
 -黄色連打が1本しかなく、ある程度連打を入れないと36(8)万点に届かない可能性がある。
 -ほとんどが面で、縁は全体の約4.05%（9/222）しかない。
@@ -17,10 +22,9 @@
 -ラストに出てくる4分の単色17連打に注意。
 
 ***その他 [#other]
--曲名の読み方は、''らんぶるらんぶ''。
--作曲は、[[Kamikaze Remix>難易度表/かんたん/Kamikaze Remix]]などと同じ''佐宗綾子''(Sampling Masters AYA)。
--曲IDは、''sweep2''(sweep1は[[Rotter Tarmination>難易度表/かんたん/Rotter Tarmination]])。
+-楽曲情報は[[おに譜面>難易度表/おに/らんぶる乱舞]]を参照。
 
+----
 -かんたん/[[裏譜面>難易度表/かんたん/らんぶる乱舞(裏譜面)]]
 -[[ふつう>難易度表/ふつう/らんぶる乱舞]]/[[裏譜面>難易度表/ふつう/らんぶる乱舞(裏譜面)]]
 -[[むずかしい>難易度表/むずかしい/らんぶる乱舞]]/[[裏譜面>難易度表/むずかしい/らんぶる乱舞(裏譜面)]]
@@ -28,6 +32,8 @@
 -[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=8a6TWpPdea0]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#fumen]

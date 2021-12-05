@@ -40,3 +40,6 @@
 
 ***ÉèÌÌ [#score]
 &attachref(anpne.png,nolink);
+
+~Wii4ÉèÌÌ
+&attachref(anpne_wii4.png,nolink);

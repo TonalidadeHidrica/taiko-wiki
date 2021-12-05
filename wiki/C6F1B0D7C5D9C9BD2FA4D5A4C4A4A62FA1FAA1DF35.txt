@@ -278,7 +278,7 @@
 |[[帰ってきたウルトラマン>難易度表/ふつう/帰ってきたウルトラマン]]|65-132※|★|
 |[[Sign>難易度表/ふつう/Sign]]|74-178|★|
 |[[少女S>難易度表/ふつう/少女S]]|136|★|
-|[[DIVE TO WORLD>難易度表/ふつう/DIVE TO WORLD]]|147|★|
+|[[DIVE TO WORLD>難易度表/ふつう/DIVE TO WORLD]]|147||
 |[[Dang Dang>難易度表/ふつう/Dang Dang]]|182|★|
 |[[CHU-BURA>難易度表/ふつう/CHU-BURA]]|179.9|★|
 |[[TONIGHT,TONIGHT,TONIGHT>難易度表/ふつう/TONIGHT,TONIGHT,TONIGHT]]|178|★|
@@ -414,3 +414,5 @@
 |[[戀愛ing>難易度表/ふつう/戀愛ing]]|197||
 |[[搖滾怎麼了!!>難易度表/ふつう/搖滾怎麼了!!]]|170||
 |[[曹操>難易度表/ふつう/曹操]]|144||
+***コメント[#comment]
+#pcomment(,noname)

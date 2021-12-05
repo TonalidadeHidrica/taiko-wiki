@@ -6,7 +6,7 @@
 |''RT''|''唱歌''|★×2|''88''|''??????点''|+連打|2040点|1020点|
 
 ***譜面構成・攻略 [#capture]
--BPMは92.25。
+-BPMは92.26。
 -4分音符の3連打(COLOR(red){●}COLOR(blue){○}COLOR(red){●})がよく出てきて、終盤には4分音符の7連打(COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●})もある。
 -最後に約4.5秒の黄色連打がある。
 

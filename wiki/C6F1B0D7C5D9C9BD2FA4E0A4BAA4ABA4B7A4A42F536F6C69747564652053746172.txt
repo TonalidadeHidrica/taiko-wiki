@@ -1,16 +1,17 @@
-*Solitude Star [#title]
+*&ruby(ソリチュード){Solitude}; &ruby(スター){Star}; [#title]
 
 ***詳細 [#more]
-|>|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''PS4 1DL''|★×7|''464''|''836400点''|＋連打|620点|140点|
-|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''985350点''}|~|COLOR(#ff3300){1890点}|-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS4 1DL''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''464''|''836400点''|＋連打|620点|140点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''985350点''}|~|COLOR(#ff3300){1890点}|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは178?。
+-BPMは178。
 
 ***その他 [#other]
--アーティストは、''春先 x beet''。
+-楽曲情報は[[おに譜面>難易度表/おに/Solitude Star]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/Solitude Star]]
 -[[ふつう>難易度表/ふつう/Solitude Star]]
@@ -18,6 +19,8 @@
 -[[オート動画>https://www.youtube.com/watch?v=DibBBeC5orE]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

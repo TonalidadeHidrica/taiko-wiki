@@ -1,15 +1,18 @@
-*Honey Heartbeat 〜10 Stars Mix〜(裏譜面) [#title]
+*&ruby(ハニー){Honey}; &ruby(ハートビート){Heartbeat}; 〜&ruby(テン){10}; &ruby(スターズ){Stars}; &ruby(ミックス){Mix};〜(裏譜面) [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.4.2''-15.4.3&br;AC15.4.5|Wii U2SP&br;3DS2DL&br;COLOR(blue){PS Vita MSSP}|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×10|''765''|''1180340点''|＋連打|430点|103点|
-|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''985340点''}|~|COLOR(#ff3300){1180点}|-|
+|''AC15.4.2''-15.4.3&br;AC15.4.5|Wii U2SP&br;3DS2DL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×10|''765''|''1180340点''|+連打|430点|103点|
+||COLOR(blue){PS Vita MS SP}|BGCOLOR(#ff99cc):''THE IDOL&br;M@STER2''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''985340点''}|~|COLOR(#ff3300){1180点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''988050点''|~|1290点|-|
-|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|~|~|~|~|~|
+|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは約142〜284。
+-BPMは約142-284。
 -連打秒数目安・・・約2.077秒×2−SIZE(16){''約1.039秒''}−SIZE(16){''1.25秒''}×3−''約1.461秒''：合計約10.405秒
 --ゴーゴータイムに大連打4本を含む5本の連打があるため連打による点が稼ぎやすい。
 -ゴーゴータイムでは[[表譜面>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]と同じくBPMが2倍になるが、第2ゴーゴー後半とラスト以外はHS0.5がかかっているため見た目の速度は変わらない。
@@ -19,28 +22,27 @@
 -コンボ数が★×10では少なく、ゴーゴータイムで頻出する複合が叩けないとクリアは厳しくなるが、繰り返しのパターンが多いため運手を覚えればクリアは楽になるだろう。
 --見た目16・24・32分音符が混同しやすいが、第2ゴーゴーの間奏部分以外の見た目24分音符は全て入り手で入る4連打なのでその後は再び入り手から入れる。
 ---参考程度に4打で区切ると、第1ゴーゴーの32分音符は逆手から入るが、4つ目の複合のみ入り手から入る。&br;
-　例：10小節目 COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●●●}/COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●●●}/COLOR(blue){●●}COLOR(red){●}&br;
+　例：10小節 COLOR(red){●●}COLOR(blue){○○} / COLOR(red){●●●●} / COLOR(blue){○○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●●}COLOR(blue){○}COLOR(red){●} / COLOR(red){●}(COLOR(red){●●●}) / COLOR(blue){○○}COLOR(red){●}&br;
 第2ゴーゴーサビ部分の32分音符は全て入り手から入る。&br;
-　例：42小節目 COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●●●}/COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●●●}COLOR(blue){●}/COLOR(red){●●●●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}&br;
+　例：42小節 COLOR(red){●●}COLOR(blue){○○} / COLOR(red){●●●●} / COLOR(blue){○○}COLOR(red){●}COLOR(blue){○} / (COLOR(red){●●●})COLOR(blue){○} / COLOR(red){●●}(COLOR(red){●●} / COLOR(red){●})COLOR(blue){○○}COLOR(red){●}&br;
 第2ゴーゴー間奏部分はHS1なので見た目は繋がってないが、32分音符は入り手、24分音符は逆手から入る。72小節は後述。&br;
-　例：66小節目 COLOR(red){●}COLOR(blue){●}COLOR(red){●●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●●}/COLOR(red){●●}&br;
+　例：66小節 COLOR(red){●}COLOR(blue){○}(COLOR(red){●●}/COLOR(red){●})COLOR(blue){○}COLOR(red){●●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●●}/COLOR(red){●●}&br;
 第3ゴーゴーの32分音符は入り手、逆手、入り手の順。&br;
-　例：42小節目 COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●●●}/COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●●●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}/COLOR(blue){●}COLOR(red){●●●}/COLOR(blue){●●}COLOR(red){●●}/COLOR(blue){●●}&br;
+　例：42小節 COLOR(red){●●}COLOR(blue){○○} / COLOR(red){●●●●} / COLOR(blue){○○}COLOR(red){●}COLOR(blue){○} / (COLOR(red){●●●})COLOR(blue){○} / COLOR(red){●}COLOR(blue){○○}COLOR(red){●} / COLOR(blue){○}(COLOR(red){●●●}) / COLOR(blue){○○}(COLOR(red){●●} / COLOR(blue){○})COLOR(blue){○}&br;
 -第2ゴーゴーの72小節に注意。32分音符は入り手、逆手、入り手、逆手と交互になる。
---4打で区切るとCOLOR(blue){●●●}COLOR(red){●}/COLOR(blue){●}COLOR(red){●●●}/COLOR(blue){●●}COLOR(red){●●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●●●●}/COLOR(blue){●●}となる。
+--4打で区切ると(COLOR(blue){○○○})COLOR(red){●} / COLOR(blue){○}(COLOR(red){●●●}) / COLOR(blue){○○}(COLOR(red){●●} / COLOR(red){●})COLOR(blue){○}COLOR(red){●}(COLOR(blue){○} / COLOR(blue){○○})COLOR(red){●}COLOR(blue){○} / COLOR(red){●●●●} / COLOR(blue){○○}となる。
 -サビの終わりから間奏にかけて[[Phantom Rider(裏譜面)>難易度表/おに/Phantom Rider(裏譜面)]]のような加速があり、間奏ではBPM284のHS1となり実質倍速になる。
--ラスト1打の''高速で流れてくる大音符''に注意。COLOR(blue){●●}COLOR(red){●●●}のように16分音符が繋がっている感覚で叩くこと。
--1曲を通しての平均密度は局所難の影響もあり''約5.22打/秒''と、新筐体の★×10の一人用譜面ではかなり低い。
+-ラスト1打の''高速で流れてくる大音符''に注意。COLOR(blue){○○}COLOR(red){●●●}のように16分音符が繋がっている感覚で叩くこと。
 
 ***その他 [#other]
--原曲情報などは[[表譜面>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]参照。
+-楽曲情報は[[表譜面>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]を参照。
 -略称は''HHB裏''、''ハニハ裏''など。
 -''アイドルマスターシリーズ初の★×10であり裏譜面''である。
 --それまではAC12増量版から収録の[[キラメキラリ>難易度表/おに/キラメキラリ]]、モモイロVer.の大型アプデ以降ならば追加された[[表譜面>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]が★×9であり最難関であった。
 --[[シリーズ>ゲーム別収録曲#imas]]第1弾の[[THE IDOLM@STER>難易度表/おに/THE IDOLM@STER]]が収録されたAC7の稼働日から約8年半が経過しての★×10追加、AC12増量版稼働日から約4年半ぶりの最難関更新である。
 --ちなみに曲名の｢''10 Stars''｣に因んだ★×10である。なお、曲名については[[表譜面>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]を参照。
 -[[表譜面>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]と同様の''765コンボ''。
---このような曲は他に[[Veno>難易度表/おに/Venomous]][[mous>難易度表/おに/Venomous(裏譜面)]]、[[キラメ>難易度表/おに/キラメキラリ]][[キラリ>難易度表/おに/キラメキラリ(裏譜面)]]がある。
+--表譜面とコンボ数が同じ曲は、他に[[Veno>難易度表/おに/Venomous]][[mous>難易度表/おに/Venomous(裏譜面)]]、[[キラメ>難易度表/おに/キラメキラリ]][[キラリ>難易度表/おに/キラメキラリ(裏譜面)]]がある。
 -モモイロVer.で唯一既存曲に追加された裏譜面である。
 -モモイロVer.12.01(2014/2/19)において、''この譜面のプレイができない''という不具合が起こっていたが、2/21に行われたVer.13.02へのアップデートにより現在は修正されている。
 --不具合により、2/19以前に開催し、その日以降に終わる予定だったこの譜面を含む大会・挑戦状の開催期間が一律「2日」延長となった。詳しくは[[こちら>http://taikoblog.namco-ch.net/blog/2014/02/acver_verupv1302.html]]を参照。

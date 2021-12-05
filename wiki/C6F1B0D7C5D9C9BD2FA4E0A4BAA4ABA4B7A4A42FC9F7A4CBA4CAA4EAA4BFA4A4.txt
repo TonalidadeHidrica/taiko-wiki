@@ -26,3 +26,7 @@
  
 ***譜面 [#z1f7ddfb]
 &attachref(I want to be a wind.png,nolink);
+
+~仕分け譜面
+~再現譜面を参考に作成した為、実際の譜面とは異なる可能性がある事をご了承ください。
+~&attachref(I want to be a wind_8.png,nolink);

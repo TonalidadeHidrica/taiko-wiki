@@ -1,28 +1,26 @@
 *only my railgun [#title]
--アニメ[[「''とある科学の&ruby(レールガン){超電磁砲};''」>アニメ別収録曲#toaru]]のOP1。
-***詳細 [#detail]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|AC15.11.0|CENTER:''PS Vita1''&br;Wii U3DL&br;PS4 1DL&br;NS1DL|CENTER:BGCOLOR(orange):''アニメ''|CENTER:★×5|CENTER:''171''|CENTER:''587600点''|CENTER:＋連打|CENTER:970点|CENTER:350点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''989720点''}|~|CENTER:COLOR(#ff3300){5360点}|CENTER:-|
-||iOS&br;AR|~|~|~|''?????0点''|~|???点|???点|
+-アニメ「[[''とある科学の&ruby(レールガン){超電磁砲};''>アニメ別収録曲#toaru]]」のOP1。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.11.0|''PS Vita1''&br;Wii U3DL&br;PS4 1DL&br;NS1DL|BGCOLOR(orange):''アニメ''|★×5|''171''|''587600点''|+連打|970点|350点|
+||''PS Vita1亜''|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''989720点''}|~|COLOR(#ff3300){5360点}|-|
+||iOS&br;AR|BGCOLOR(orange):''アニメ''|~|~|''?????0点''|~|???点|???点|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''993400点''|~|5800点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは143。
--黄色連打が多い連打曲である。
--ほとんどが面で、縁は全体の約9.94%しかない（17/171）。
+-連打秒数目安・・・約1.014秒−約1.643秒−約1.224秒−約1.014秒×2−約1.643秒：合計約7.552秒
 -速度は至って普通だが、全体的に8分がかなり多い。
 --8分は単色の3連打までしかないが、3連続で出てくる箇所もある。
---ただし、4分の複合は3連打（●●○）しかない。
+--ただし、4分の複合は3連打(COLOR(red){●●}COLOR(blue){○})しかない。
 -中盤とラストで1回ずつ出てくる付点8分の単色3連打に注意。
 --この3連打は大音符なので、1個でも特良を逃すと痛い失点になる可能性がある。
 
 ***その他 [#other]
--アーティストは、''fripSide''。
---作詞は、八木沼悟志・yuki-ka。作曲・編曲は、八木沼悟志。
--譜面作成は、[[''カワーゲン・コラーゲン''>譜面作成者一覧/カワーゲン・コラーゲン]]。
--曲IDは、''railgn''。
+-楽曲情報は[[おに譜面>難易度表/おに/only my railgun]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/only my railgun]]
 -[[むずかしい>難易度表/むずかしい/only my railgun]]
@@ -30,7 +28,9 @@
 -[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=qRaZ0ZsNfEU]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(only my railgun_normal.png,nolink);
+~&attachref(only my railgun_normal.png,nolink);

@@ -1,9 +1,10 @@
 *Material Girl [#title]
 **おに [#extreme]
 ***1人用譜面 [#b5ebc6f1]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|h
-|CENTER:''米TDM''|CENTER:★×4|CENTER:''357''|CENTER:''543000点''|CENTER:＋連打|
-|CENTER:TDM|CENTER:★×7|~|~|~|
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|h
+|''米TDM''|BGCOLOR(cyan):''POP''|★×4|''357''|''543000点''|＋連打|
+|TDM|~|★×7|~|~|~|
 
 ***2人用譜面 [#g03d386f]
 |>|>|>|>|>|CENTER:|c
@@ -13,8 +14,9 @@
 
 **むずかしい [#hard]
 ***1人用譜面 [#j6c50a3a]
-|バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''米TDM''&br;TDM|CENTER:★×4|CENTER:''357''|CENTER:''672900点''|CENTER:＋連打|CENTER:600点|CENTER:140点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''米TDM''&br;TDM|BGCOLOR(cyan):''POP''|★×4|''357''|''672900点''|＋連打|600点|140点|
 
 ***2人用譜面 [#g03d386f]
 |>|>|>|>|>|CENTER:|c
@@ -24,6 +26,7 @@
 
 **その他 [#other]
 -BPMは134。
+-連打秒数目安・・・約0.858秒×3：合計約2.575秒
 -16分音符は3連打までで、複合もCOLOR(red){●}COLOR(blue){●}のみ。
 -アーティストは''マドンナ(Madonna)''。
 -曲IDは、''mus''。

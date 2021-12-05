@@ -6,6 +6,8 @@
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
 |''AC16.1.6''|BGCOLOR(hotpink):''アニメ''|★×4|''144''|''994720点''|＋連打|6880点|
 |~|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|~|~|~|
+|AC16.2.12|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
+|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは180。
@@ -22,7 +24,7 @@ COLOR(#ff8c00){''和泉三月''}(CV:代永翼)、COLOR(#1e90ff){''四葉環''}(CV:KENN)、CO
 -[[かんたん>難易度表/かんたん/DiSCOVER THE FUTURE]]
 -[[むずかしい>難易度表/むずかしい/DiSCOVER THE FUTURE]]
 -[[おに>難易度表/おに/DiSCOVER THE FUTURE]]
-//-[[プレイ動画(キャプチャ)>]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=djlc1R9ZyUI]]
 
 ***コメント [#comment]
 #pcomment(,noname)

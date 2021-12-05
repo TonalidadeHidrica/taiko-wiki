@@ -1,4 +1,4 @@
-*遠山 明孝（とおやま あきたか）｜AJURIKA（アジュリカ） [#title]
+*&ruby(とおやま){遠山}; &ruby(あきたか){明孝};｜&ruby(アジュリカ){AJURIKA}; [#title]
 
 **概要 [#more]
 -元バンダイナムコゲームス所属。
@@ -37,6 +37,15 @@
 ---[[''N''othing but You>https://www.youtube.com/watch?v=r7vzkW79liU]]
 --「シンクロニカ」
 ---[[Snow Light>https://www.youtube.com/watch?v=wkV1PFPB2mA]]
+--「beatmania ��DX」
+---SPEED ROCKER(26 Rootage)
+---HARD BRAIN(26 Rootage)
+---Moving on(27 HEROIC VERSE)
+---TRIUMPH(27 HEROIC VERSE)
+---BEAT PRISONER(27 HEROIC VERSE)
+---BIGソムタム(28 BISTROVER)
+---LAST DAY(28 BISTROVER)
+---Burning Flame(28 BISTROVER)
 
 ***コメント [#comment]
 #pcomment(,noname)

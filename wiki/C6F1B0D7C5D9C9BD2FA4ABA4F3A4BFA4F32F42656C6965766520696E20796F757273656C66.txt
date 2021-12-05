@@ -1,9 +1,11 @@
-*Believe in yourself [#title]
-***詳細・攻略 [#more]
+*&ruby(ビリーヴ){Believe}; &ruby(イン){in}; &ruby(ユアセルフ){yourself}; [#title]
 -アニメ「''ベイビーステップ''」1期・2期のOP曲。
--詳細は以下の通り：
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''Wii U3''|CENTER:★×3|CENTER:''101''|CENTER:''?????0点''|CENTER:＋連打|CENTER:910点|CENTER:525点|
+
+***譜面構成・攻略 [#capture]
 -BPMは171。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。
 -速度が少し速く、全体的に4分がかなり多い。
@@ -14,11 +16,9 @@
 -フルコン難易度は少し高めだが、4分の複合は面と縁の交互連打しかない。
 
 ***その他 [#other]
--曲名の読み方は、''ビリーヴ イン ユアセルフ''。
--アーティストは、''阿部真央''。
---編曲は、akkin。
--譜面作成は、''すえP''。
+-楽曲情報は[[おに譜面>難易度表/おに/Believe in yourself]]を参照。
 
+----
 -[[ふつう>難易度表/ふつう/Believe in yourself]]
 -[[むずかしい>難易度表/むずかしい/Believe in yourself]]
 -[[おに>難易度表/おに/Believe in yourself]]

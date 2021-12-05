@@ -1,12 +1,15 @@
-*ミフメイ | Yusuke Yamauchi [#title]
+*ミフメイ | Yusuke Yamauchi | &ruby(やまうち){山内}; &ruby(ゆうすけ){祐介}; [#title]
 
 **概要 [#more]
 -バンダイナムコスタジオ所属。
+-本作と同社の音楽ゲーム「シンクロニカ」の二代目サウンドディレクター。
 -[[Twitter>https://twitter.com/_mifumei_]]
 
 **作品一覧 [#work]
 -ボーカロイド&#8482;曲
 ---[[future beat>難易度表/おに/future beat]]
+-ゲームミュージック
+---[[ゆらめ>難易度表/おに/ゆらめ]]
 --ナムコオリジナル
 ---[[いっそこのままで>難易度表/おに/いっそこのままで]]
 
@@ -16,7 +19,6 @@
 ---[[躍るFLAGSHIP>https://www.youtube.com/watch?v=JsaMPcHTtzA]]
 --「シンクロニカ」
 ---[[3V3R>https://www.youtube.com/watch?v=0qouxM43OXY]]
----[[ゆらめ>https://www.youtube.com/watch?v=jBFgHqdTNAQ]]
 ---[[Synchoronicity Rezonate remix>https://www.youtube.com/watch?v=9Zs30MaswXk]]
 --「crossbeats REV. SUNRISE」
 ---Faraway

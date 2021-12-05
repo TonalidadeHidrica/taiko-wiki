@@ -1,30 +1,31 @@
 *アイノカタチ feat.HIDE(GReeeeN) [#title]
 -TBS系ドラマ「''義母と娘のブルース''」主題歌。
+
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出)|ジャンル)|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15 JAEPO2019Ver.''&br;AC15.11.0|PS4 1DL&br;NS1DL|BGCOLOR(cyan):''J-POP''|★×2|''71''|''??????点''|＋連打|1730点|1455点|
-|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''??????点''}|~|COLOR(#ff3300){12290点}|-|
+|''AC15 JAEPO2019Ver.''&br;AC15.11.0||BGCOLOR(cyan):''J-POP''|★×2|''71''|''444210点''|+連打|1730点|1455点|
+||PS4 1DL&br;NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''995490点''}|~|COLOR(#ff3300){12290点}|-|
 |AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''997550点''|~|14050点|-|
-||iOS&br;AR|~|~|~|''?????0点''|~|???点|???点|
+||iOS&br;AR|~|~|~|''436140点''|~|1720点|940点|
 
 ***譜面構成・攻略 [#capture]
--BPMは88〜90。
--連打秒数目安・・・約0.6111秒×2−約2.2777秒：合計約3.4999秒
+-BPMは88-90。
+-連打秒数目安・・・約0.6111秒×2−約2.2777秒:合計約3.4999秒
+-大音符が多く、''10個''(約14.08%)ある。
 
 ***その他 [#other]
--アーティストは、''MISIA''。
---作詞・作曲は、[[COLOR(green){GReeeeN}>アーティスト別収録曲#green]]。編曲は、亀田誠治。
--曲IDは、''ainokt''。
-
+-楽曲情報は[[おに譜面>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/アイノカタチ feat.HIDE(GReeeeN)]]
 -[[むずかしい>難易度表/むずかしい/アイノカタチ feat.HIDE(GReeeeN)]]
 -[[おに>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]
-//-[[プレイ動画>https://www.youtube.com/watch?v=GFL1dkFjvOE]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(ぎぼむすふつう_.png,nolink);
+~&attachref(ぎぼむすふつう_.png,nolink);

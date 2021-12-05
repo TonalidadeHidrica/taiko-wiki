@@ -1,30 +1,27 @@
-*Abandoned Temple Final 2nd [#title]
--「''鉄拳7 FATED RETRIBUTION''」より。
+*&ruby(アバンダンド){Abandoned}; &ruby(テンプル){Temple}; &ruby(ファイナル){Final}; &ruby(セカンド){2nd}; [#title]
+-「[[''鉄拳7 FATED RETRIBUTION''>ゲーム別収録曲#tekken]]」より。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.8.2''|3DS3DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|CENTER:''339''|CENTER:''787390点''|CENTER:＋連打|CENTER:640点|CENTER:183点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''988900点''}|~|CENTER:COLOR(#ff3300){2560点}|CENTER:-|
-|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''??????0点''|~|???点|-|
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.8.2''|3DS3DL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×6|''339''|''787390点''|+連打|640点|183点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''988900点''}|~|COLOR(#ff3300){2560点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''997070点''|~|2930点|-|
+|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは276。
 --ただしHS0.5がかかっており、見かけ上のBPMは138。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
--大音符が多く、41個ある（全体の約12.1%）。
+-大音符が多く、''41個''(約12.09%)ある。
 -速度は至って普通だが、全体的に16分がかなり多い。
 --16分は単色の4連打までしかないが、そのほとんどが8分と隣接している。
 --ただしHS0.5がかかっているので、譜面自体は8分までしかない。
 -16分の3連打が8連続で出てくる64〜66小節に注意。
 
 ***その他 [#other]
--曲名の読み方は、''アバンダンド テンプル ファイナル セカンド''。
---「Abandoned Temple」は、直訳で「放棄された寺院」という意味である。
--アーティストは、''濱本理央''。
--譜面作成は、''まりも研究所''。
-
+-楽曲情報は[[おに譜面>難易度表/おに/Abandoned Temple Final 2nd]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/Abandoned Temple Final 2nd]]
 -[[ふつう>難易度表/ふつう/Abandoned Temple Final 2nd]]
@@ -36,4 +33,4 @@
 
 ***譜面 [#score]
 ~実際はBPM276 HS0.5
-&attachref(tek7fr_h.png,nolink);
+~&attachref(tek7fr_h.png,nolink);

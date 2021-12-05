@@ -1,7 +1,8 @@
 *恋愛裁判 [#title]
+
 ***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''|CENTER:★×4|CENTER:''114''|CENTER:''353690点''|CENTER:＋連打|CENTER:630点|CENTER:380点|
+|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×4|CENTER:''114''|CENTER:''353690点''|CENTER:＋連打|CENTER:630点|CENTER:380点|
 |CENTER:COLOR(#f30){真打}|~|~|CENTER:COLOR(#f30){''995240点''}|~|CENTER:COLOR(#f30){5560点}|CENTER:-|
 
 ***譜面構成・攻略 [#capture]
@@ -21,6 +22,7 @@
 -歌唱は、[[''初音ミク''>ボーカロイド別収録曲#miku]]。
 -譜面作成は、[[''しか@に〜さん''>譜面作成者一覧/しか@に〜さん]]。
 -曲IDは、''mikurs''。
+
 ----
 -[[ふつう>難易度表/ふつう/恋愛裁判]]
 -[[むずかしい>難易度表/むずかしい/恋愛裁判]]

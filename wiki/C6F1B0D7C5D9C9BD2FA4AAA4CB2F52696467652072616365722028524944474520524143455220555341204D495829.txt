@@ -1,19 +1,20 @@
 *Ridge racer(RIDGE RACER USA MIX) [#title]
--PS Vita用ソフト[[「''RIDGE RACER''」>ゲーム別収録曲#rr]]の楽曲。
+-PS Vita用ソフト「[[''RIDGE RACER''>ゲーム別収録曲#rr]]」の楽曲。
 
 ***詳細 [#more]
-|>|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''PS Vita1''|★×9|''942''|''1089370点''|＋連打|350点|80点|
-|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1001300点''}|~|COLOR(#ff3300){990点}|-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×9|''942''|''1089370点''|＋連打|350点|80点|
+|''PS Vita1亜''|BGCOLOR(darkorchid):COLOR(white){''遊戯音樂''}|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1001300点''}|~|COLOR(#ff3300){990点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは232。
 -連打秒数目安・・・SIZE(16){''約3.987秒''}
 -[[幻想のサテライト>難易度表/おに/幻想のサテライト]]や[[チキンレース>難易度表/おに/チキンレース]]などと同じく速いBPMの中で8分や16分を捌いていく高速譜面だが、時々12分音符も登場する。
---16分は多くが3連打だが、38小節目に4連打が、70小節目と71小節目に5連打が出てくる。
+--16分は多くが3連打だが、38小節に4連打が、70・71小節に5連打が出てくる。
 -第一ゴーゴーを抜けてからは、8分と12分の長複合や、8分と12分が混じった複合が出てくるようになる。
---難所となる85小節目から88小節目にかけて続く長複合は、COLOR(blue){●●}(16分)/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}×3/COLOR(red){●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●●●}/COLOR(red){●●}COLOR(blue){●●●●}と覚えるといい。
+--難所となる85〜88小節にかけて続く長複合は、COLOR(blue){○○}(16分)/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}×3/COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●●●}/COLOR(red){●●}COLOR(blue){○○○○}と覚えるといい。
 -以上のことから★×9では上位に位置するが、高速での物量が苦手なプレイヤーや★×10にこれから挑む前の練習には最適な譜面の一つともいえるので、積極的にプレイしてもいいだろう。
 -演奏時間は''約2分20秒''と長め。コンボ数も900オーバーなので、体力・集中力の両方が必要といえる。
 -平均密度は、''約6.69打/秒''。
@@ -22,7 +23,7 @@
 -セガのレーシングゲーム「''デイトナUSA''」とのコラボ楽曲としてDLC配信された。
 --曲終盤にデイトナUSAの楽曲「''Let's Go Away''」のフレーズが使用されている。
 -リッジレーサーシリーズ20周年として制作されたCD「リッジレーサー20th アニバーサリーリミックス」に本楽曲が収録されている。
--原曲は[[「''Ridge Racer''>難易度表/おに/Ridge Racer]] [[''(POWER REMIX)''」>難易度表/おに/Ridge Racer(裏譜面)]]。
+-原曲は「[[''Ridge Racer''>難易度表/おに/Ridge Racer]] [[''(POWER REMIX)''>難易度表/おに/Ridge Racer(裏譜面)]]」。
 -歌唱は、セガの''光吉猛修''。
 --[[怒槌>難易度表/おに/怒槌]]の作曲者としても知られている。
 -編曲(アレンジ)は、''[[大久保博>参加アーティスト一覧/大久保博]]''。
@@ -32,7 +33,7 @@
 -[[かんたん>難易度表/かんたん/Ridge racer (RIDGE RACER USA MIX)]]
 -[[ふつう>難易度表/ふつう/Ridge racer (RIDGE RACER USA MIX)]]
 -[[むずかしい>難易度表/むずかしい/Ridge racer (RIDGE RACER USA MIX)]]
-//-[[オート動画>https://www.youtube.com/watch?v=ZJRA4sIh83w]]
+-[[オート動画>https://www.youtube.com/watch?v=ZJRA4sIh83w]]
 
 ***コメント [#comment]
 #pcomment(,noname)

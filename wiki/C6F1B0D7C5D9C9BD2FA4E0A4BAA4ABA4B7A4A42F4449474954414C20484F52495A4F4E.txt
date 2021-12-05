@@ -1,10 +1,12 @@
-*&ruby(デジタル){DIGITAL}; &ruby(ホライズン){HORIZON}; SIZE(16){「リッジレーサー」より} [#title]
-***詳細・攻略 [#more]
+*&ruby(デジタル){DIGITAL}; &ruby(ホライズン){HORIZON}; [#title]
 -PS Vita「''&ruby(リッジ){RIDGE}; &ruby(レーサー){RACER};''」の楽曲。
--詳細は以下の通り：
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''|CENTER:★×7|CENTER:''529''|CENTER:''839020点''|CENTER:＋連打|CENTER:440点|CENTER:95点|
+|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×7|CENTER:''529''|CENTER:''839020点''|CENTER:＋連打|CENTER:440点|CENTER:95点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){1600点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは154。
 -黄色連打は3本と少なめだが、全体的に風船音符がかなり多い。
 -速度は至って普通だが、全体的に16分がかなり多い。
@@ -18,6 +20,7 @@
 --歌唱は、''Aimee Blackschleger''。
 -譜面作成は、''カワーゲン・コラーゲン''。
 
+----
 -[[かんたん>難易度表/かんたん/DIGITAL HORIZON]]
 -[[ふつう>難易度表/ふつう/DIGITAL HORIZON]]
 -[[おに>難易度表/おに/DIGITAL HORIZON]]
@@ -26,5 +29,5 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &attachref(DH_h.png,nolink);

@@ -1,4 +1,4 @@
-*''石濱 翔''（いしはま かける） [#title]
+*''&ruby(いしはま){石濱}; &ruby(かける){翔};''[#title]
 
 **概要 [#more]
 -MONACA所属。
@@ -11,21 +11,25 @@
 
 **作品一覧 [#work]
 --アニメ
----[[ダイヤモンド>難易度表/おに/ダイヤモンドハッピー]][[ハッピー>難易度表/おに/ダイヤモンドハッピー(裏譜面)]]
----[[KIRA☆Power>難易度表/おに/KIRA☆Power]]
----[[SHINING LINE*>難易度表/おに/SHINING LINE*]]
----[[START DASH SENSATION>難易度表/おに/START DASH SENSATION]]
+---[[ダイヤモンド>難易度表/おに/ダイヤモンドハッピー]][[ハッピー>難易度表/おに/ダイヤモンドハッピー(裏譜面)]] (作曲・編曲)
+---[[KIRA☆Power>難易度表/おに/KIRA☆Power]] (作曲・編曲)
+---[[SHINING LINE*>難易度表/おに/SHINING LINE*]] (作曲・編曲)
+---[[START DASH SENSATION>難易度表/おに/START DASH SENSATION]] (作曲・編曲)
 --ゲームミュージック
----[[Tu>難易度表/おに/Tulip]][[lip>難易度表/おに/Tulip(裏譜面)]]
+---[[Tu>難易度表/おに/Tulip]][[lip>難易度表/おに/Tulip(裏譜面)]] (作曲・編曲)
 --ナムコオリジナル
----[[DON'T>難易度表/おに/DON'T CUT]] [[CUT>難易度表/おに/DON'T CUT(裏譜面)]](編曲)
----[[忍者は最高>難易度表/おに/忍者は最高]]
+---[[DON'T>難易度表/おに/DON'T CUT]] [[CUT>難易度表/おに/DON'T CUT(裏譜面)]] (編曲)
+---[[忍者は最高>難易度表/おに/忍者は最高]] (作曲・編曲)
 
---太鼓の達人には収録されていないその他の作品
----Lovely Party Collection
----BEYOND THE STARLIGHT
----Kawaii make MY day!
----Pretty Liar
+-太鼓の達人には収録されていないその他の作品
+--「アイカツ！」
+---[[Lovely Party Collection>https://www.youtube.com/watch?v=m1YI_Dgysn0]]
+---[[輝きのエチュード>https://www.youtube.com/watch?v=HnV6KQPbwOM]]
+--「アイドルマスター シンデレラガールズ」
+---[[Kawaii make MY day!>https://www.youtube.com/watch?v=mU9aCPPdsvM]]
+---[[Pretty Liar>https://www.youtube.com/watch?v=svaJo_ws2UA]]
+--「WORKING'!!」
+---COOLISH WALK
 
-**コメント [#comment]
+***コメント [#comment]
 #pcomment(,noname)

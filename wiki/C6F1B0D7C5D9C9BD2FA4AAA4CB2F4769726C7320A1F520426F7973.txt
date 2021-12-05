@@ -1,22 +1,28 @@
-*Girls & Boys [#n846008b]
-***詳細・攻略 [#fb955bc6]
+*Girls & Boys [#title]
+
+***詳細 [#more]
 |>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|h
-|''米TDM''&br;TDM|★×6|''386''|''596000点''|+連打|
--BPMは130?。
+|CENTER:バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|CENTER:天井スコア|h
+|CENTER:''米TDM''|BGCOLOR(lime):''ROCK''|CENTER:★×5|CENTER:''305''|''??????0点''|
+|CENTER:TDM|~|CENTER:★×6|CENTER:''386''|''596000点''|
+
+***譜面構成・攻略 [#capture]
+-BPMは135。
+-16分は3連打までだが、密度が高いところが多い。
 -平均密度は、''約4.36打/秒''。
 
--16分は3連打までだが、密度が高いところが多い。
 ***その他 [#other]
 -アーティストは、''good sharlotte(グッド・シャーロット)''。
+
 ----
 -[[かんたん>難易度表/かんたん/Girls ＆ Boys]]
 -[[ふつう>難易度表/ふつう/Girls ＆ Boys]]
 -[[むずかしい>難易度表/むずかしい/Girls ＆ Boys]]
 -[[オート動画>https://www.youtube.com/watch?v=DoGny2txvK8]]
 
-***コメント [#ib59b7c2]
+***コメント [#comment]
 #pcomment(,noname)
+
 ***譜面[#score]
 BPMの値は暫定です。
-&attachref(GirlsBoys.png,nolink);
+~&attachref(GirlsBoys.png,nolink);

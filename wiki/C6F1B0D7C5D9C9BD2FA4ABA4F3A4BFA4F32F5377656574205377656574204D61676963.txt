@@ -1,8 +1,11 @@
 *Sweet Sweet Magic [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''3DS1''|CENTER:★×4|CENTER:''206''|CENTER:''348500点''|CENTER:＋連打|CENTER:460点|CENTER:130点|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''3DS1''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''206''|''348500点''|＋連打|460点|130点|
+
+***譜面構成・攻略 [#capture]
 -BPMは179。
 -黄色連打がかなり多い連打曲である。
 -大音符が多く、37個ある（全体の約17.96%）。
@@ -14,10 +17,9 @@
 -以上のことからフルコン難易度は高く、''下手なふつうコースよりも難しいので要注意''。
 
 ***その他 [#other]
--作詞・作曲は、''Claire''。編曲は、''Clarie・K-MASERA''。歌唱は、''葉月ゆら・月子''。
---[[''JBG音楽院''>http://www.jbg-ongakuin.com/]]が提供している楽曲である。
--曲IDは、''smagic''。
+-楽曲情報は[[おに譜面>難易度表/おに/Sweet Sweet Magic]]を参照。
 
+----
 -[[ふつう>難易度表/ふつう/Sweet Sweet Magic]]
 -[[むずかしい>難易度表/むずかしい/Sweet Sweet Magic]]
 -[[おに>難易度表/おに/Sweet Sweet Magic]]

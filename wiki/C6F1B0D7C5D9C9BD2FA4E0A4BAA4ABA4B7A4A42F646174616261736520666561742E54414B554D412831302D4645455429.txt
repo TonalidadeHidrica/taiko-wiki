@@ -1,4 +1,4 @@
-*database feat. TAKUMA(10-FEET) &br;database((Wii U3の表記)) [#title]
+*database feat.TAKUMA(10-FEET) &br;database((Wii U3の表記)) [#title]
 -アニメ「''ログ・ホライズン''」1期・2期のOP曲。
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
@@ -19,9 +19,10 @@
 --また、ラストはソフランがかかっているので、フルコン狙いの人は注意が必要。
 
 ***その他 [#other]
--アーティストは、''MAN WITH A MISSION''。
+-アーティストは、[[''MAN WITH A MISSION''>アーティスト別収録曲#mwam]]。
 --作詞は、Kamikaze Boy・Jean-Ken Johnny・TAKUMA。作曲は、Kamikaze Boy。編曲は、MAN WITH A MISSION・Kohsuke Oshima。
--曲IDは、''loghor''
+-譜面作成は、[[''アリーホット''>譜面作成者一覧/アリーホット]]。
+-曲IDは、''loghor''。
 ----
 -[[かんたん>難易度表/かんたん/database feat.TAKUMA(10-FEET)]]
 -[[ふつう>難易度表/ふつう/database feat.TAKUMA(10-FEET)]]
@@ -33,4 +34,4 @@
 
 ***譜面 [#fumen]
 ~HSは適当
-&attachref(データむずかしい.png,nolink);
+~&attachref(データむずかしい.png,nolink);

@@ -1,0 +1,29 @@
+*Shining Lights (feat. PSYQUI) [#title]
+-バンダイナムコエンターテインメントの音楽原作キャラクタープロジェクト「''電音部''」からの楽曲。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC16.1.8''||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|★×2|''187''|''996230点''|＋連打|5290点|-|
+|AC16.2.12||BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
+|AC15.11.9((アジア版))|NS1DL|~|~|~|''312760点''|~|500点|115点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''994350点''}|~|COLOR(#ff3300){4750点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは170。
+-かんたん★×2では最多コンボである。((北米版TDMに収録されているハンガリー舞曲第5番を除く))
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Shining Lights (feat. PSYQUI)]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/Shining Lights (feat. PSYQUI)]]
+-[[むずかしい>難易度表/むずかしい/Shining Lights (feat. PSYQUI)]]
+-[[おに>難易度表/おに/Shining Lights (feat. PSYQUI)]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(Shining Lights_e2.png,nolink);

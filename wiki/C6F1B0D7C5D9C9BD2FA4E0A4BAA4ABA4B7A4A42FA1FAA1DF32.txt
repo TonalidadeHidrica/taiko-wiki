@@ -55,7 +55,7 @@
 |>|>|>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|>|>|CENTER:''ジャンルごとの曲数''(ジャンルを選択するとそのジャンルに移動します)|
 |BGCOLOR(cyan):[[COLOR(black){%%%''J-POP''%%%}>#jpopo]]|BGCOLOR(orange):[[COLOR(black){%%%''アニメ''%%%}>#animeo]]|BGCOLOR(darkgray):[[COLOR(black){%%%''ボーカロイド&#8482;曲''%%%}>#vocaloo]]|BGCOLOR(magenta):[[COLOR(black){%%%''どうよう''%%%}>#kidsfalko]]|BGCOLOR(lime):[[COLOR(black){%%%''バラエティ''%%%}>#varietyo]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classico]]|BGCOLOR(darkorchid):[[COLOR(black){%%%''ゲームミュージック''%%%}>#gmo]]|BGCOLOR(orangered):[[COLOR(black){%%%''ナムコオリジナル''%%%}>#namcoo]]|BGCOLOR(gray):[[COLOR(black){%%%''TDM限定曲''%%%}>#tdm]]|''合計''|
-|   ''9''曲   |   ''11''曲   |   ''0''曲   |   ''4''曲   |   ''2''曲   |   ''1''曲   |   ''0''曲   |   ''2''曲   |   ''4''曲   |   ''33''曲   |
+|   ''9''曲   |   ''11''曲   |   ''0''曲   |   ''4''曲   |   ''2''曲   |   ''1''曲   |   ''0''曲   |   ''1''曲   |   ''4''曲   |   ''33''曲   |
 //作成途中につき、★がそのままになっています。
 ----
 |曲名|BPM((※が付いてるものは気付きにくい細かい速度変化がある))|最大コンボ数|h
@@ -93,9 +93,11 @@
 |[[歌劇「アイーダ」より凱旋行進曲>難易度表/おに/歌劇「アイーダ」より凱旋行進曲]]|75-140|''192''|
 |>|>|BGCOLOR(orangered):''ナムコオリジナル''&aname(namcoo);|
 |[[音符のうた>難易度表/むずかしい/音符のうた]]|120|''209''|
-|[[たのしい太鼓道場>難易度表/むずかしい/たのしい太鼓道場]]|150-190|★|
 |>|>|BGCOLOR(gray):''TDM限定曲''&aname(tdm);|
 |[[ABC>難易度表/おに/ABC]]|189|★|
 |[[That's The Way(I Like It)>難易度表/むずかしい/That's The Way(I Like It)]]|105?||
 |[[Lady Marmalade>難易度表/むずかしい/Lady Marmalade]]|110?|''225''|
 |[[American Girls>難易度表/むずかしい/American Girls]]|105|''226''|
+
+***コメント[#comment]
+#pcomment(,noname)

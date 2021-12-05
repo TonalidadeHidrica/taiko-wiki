@@ -1,4 +1,5 @@
 *HOT LIMIT [#title]
+-アサヒ飲料「三ツ矢サイダー」CMソング 
 ***詳細 [#detail]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h

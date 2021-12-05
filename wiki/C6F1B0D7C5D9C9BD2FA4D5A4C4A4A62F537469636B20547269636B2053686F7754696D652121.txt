@@ -1,0 +1,30 @@
+*&ruby(スティック){Stick}; &ruby(トリック){Trick}; &ruby(ショウタイム){Show&#84;ime};!! [#title]
+
+-[[2020年の楽曲公募>太鼓の達人　楽曲募集だドン！2020]]の採用曲のひとつ。
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.1.7SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''231''|''997080点''|+連打|4280点|
+//|AC15.11.8SP((アジア版))|~|~|~|''?????0点''|~|??0点|???点|
+//|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''??????0点''}|~|COLOR(#ff3300){???0点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは173。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Stick Trick ShowTime!!]]を参照。
+-小節線の本数・位置が[[おに譜面>難易度表/おに/Stick Trick ShowTime!!]]と一致するのはこのコースのみ。
+
+----
+-[[かんたん>難易度表/かんたん/Stick Trick ShowTime!!]]
+-[[むずかしい>難易度表/むずかしい/Stick Trick ShowTime!!]]
+-[[おに>難易度表/おに/Stick Trick ShowTime!!]]
+-[[プレイ動画>https://www.youtube.com/watch?v=33WDfPolx3k]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~HSは暫定
+~&attachref(STST_n.png,nolink);

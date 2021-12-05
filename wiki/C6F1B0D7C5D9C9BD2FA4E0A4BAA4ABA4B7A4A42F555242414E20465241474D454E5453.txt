@@ -1,29 +1,29 @@
-*URBAN FRAGMENTS [#title]
-***詳細・攻略 [#more]
-- 「''R4 -RIDGE RACER TYPE 4-''」のオープニング曲。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11''&br;AC11亜||CENTER:★×6|CENTER:''281''|CENTER:''792940点''|CENTER:＋連打|CENTER:780点|CENTER:210点|
-||CENTER:Wii3|~|~|CENTER:''794650点''|~|~|~|
-|CENTER:AC15.4.2SP|NS1DL|~|~|CENTER:''797420点''|~|CENTER:840点|CENTER:258点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3490点}|CENTER:-|
--BPMは142〜147。
+*&ruby(アーバン){URBAN}; &ruby(フラグメンツ){FRAGMENTS}; [#title]
+-「''[[R4 -RIDGE RACER TYPE 4->ゲーム別収録曲#rr]]''」のオープニング曲。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11''||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|''281''|''792940点''|＋連打|780点|210点|
+|AC11亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|
+||Wii3|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''794650点''|~|~|~|
+|AC15.4.2SP|NS1DL|~|~|~|''797420点''|~|840点|258点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){3490点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''997550点''|~|3550点|-|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
+-BPMは142-147。
 --開幕と中盤で細かく変化している。
 -局所難譜面で、一部の箇所に音符が密集している。
 --少ない所は4分が主体だが、多い所は8分と16分が何度も出てくる。
 -ラストは16分の3連打→3連打→6連打になっている。フルコン狙いの人は要注意。
--ただし、[[おに>難易度表/おに/URBAN FRAGMENTS]]とは違ってラストにソフランはなく、16分も全て単色しかない。
+-[[おに>難易度表/おに/URBAN FRAGMENTS]]とは違ってラストにソフランはなく、16分も全て単色しかない。
 
 ***その他 [#other]
--新筐体モモイロVer.の1月15日アップデートにより、''ごほうびショップでのごほうび楽曲として登場し、AC復活を果たした''。
--曲名の読み方は、''アーバン フラグメンツ''。
---意味は直訳で「都会の欠片」。
--作曲は、[[Naked Glow>難易度表/むずかしい/Naked Glow]]や[[SAMURAI>難易度表/むずかしい/SAMURAI ROCKET]] [[ROCKET>難易度表/むずかしい/SAMURAI ROCKET(裏譜面)]]と同じ''KOHTA TAKAHASHI''。歌唱は、''Kimara Lovelace''。
--略称は、''アーバンF''。
---ちなみにアーバンTは[[こちら>難易度表/むずかしい/URBAN TRAIL]]。
--譜面作成は、''オジマ''。
--曲IDは、''r4op''
+-楽曲情報は[[おに譜面>難易度表/おに/URBAN FRAGMENTS]]を参照。
 
+----
 -[[かんたん>難易度表/かんたん/URBAN FRAGMENTS]]
 -[[ふつう>難易度表/ふつう/URBAN FRAGMENTS]]
 -[[おに>難易度表/おに/URBAN FRAGMENTS]]

@@ -1,9 +1,13 @@
 *Break the Chain [#title]
-***詳細・攻略 [#more]
--「''仮面ライダーキバ''」のOP。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12''&br;AC12増&br;AC12亜|CENTER:''Wii1''|CENTER:★×4|CENTER:''181''|CENTER:''693480点''|CENTER:＋連打|CENTER:1110点|CENTER:310点|
+-[[「''仮面ライダーキバ''」>アニメ別収録曲#rider]]のOP。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12''&br;AC12増|''Wii1''|BGCOLOR(orange):''アニメ''|★×4|''181''|''693480点''|＋連打|1110点|310点|
+|AC12亜||BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは110。
 -[[他の>難易度表/かんたん/Break the Chain]][[3コ>難易度表/ふつう/Break the Chain]][[ース>難易度表/おに/Break the Chain]]と違い、黄色連打がある。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -16,8 +20,9 @@
 -アーティストは、''Tourbillon''。
 --ちなみに、太鼓の達人収録のものは''風雅なおと''によるカバー。
 --作詞は、藤林聖子。作曲は、鳴瀬シュウヘイ。編曲は、Tourbillon・鳴瀬シュウヘイ。
--曲IDは、''kiba''
+-曲IDは、''kiba''。
 
+----
 -[[かんたん>難易度表/かんたん/Break the Chain]]
 -[[ふつう>難易度表/ふつう/Break the Chain]]
 -[[おに>難易度表/おに/Break the Chain]]

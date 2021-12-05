@@ -7,7 +7,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは''280''。
--連打秒数目安・・・約1.696−1.2679秒：合計2.964秒
+-連打秒数目安・・・約1.696秒−''約1.268秒''：合計2.964秒
 
 ***その他 [#other]
 -アーティストは、[[''尾崎由香''>アーティスト別収録曲#ozaki]]。
@@ -17,6 +17,7 @@
 -[[かんたん>難易度表/かんたん/Smile! Smile! Smile!]]
 -[[むずかしい>難易度表/むずかしい/Smile! Smile! Smile!]]
 -[[おに>難易度表/おに/Smile! Smile! Smile!]]/[[裏譜面>難易度表/おに/Smile! Smile! Smile!(裏譜面)]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=3A4LAAKgLtI]]
 
 ***コメント [#comment]
 #pcomment(,noname)

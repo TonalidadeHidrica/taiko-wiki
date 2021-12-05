@@ -1,30 +1,21 @@
 *ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ [#title]
--Nintendo Switch用ソフト「''ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ''」のBGMメドレー。
+-Nintendo Switch用ソフト「''[[ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ>ゲーム別収録曲#pokemon]]''」のBGMメドレー。
 
-***詳細・攻略 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15 JAEPO&br;2019Ver.''&br;AC15.11.0|NS1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|''444''|''736840点''|＋連打|470点|120点|
+|''AC15 JAEPO&br;2019Ver.''&br;AC15.11.0|NS1DL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×5|''444''|''736840点''|+連打|470点|120点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''990100点''}|~|COLOR(#ff3300){2100点}|-|
-|AC16.1.0||BGCOLOR(yellow):''キッズ''|~|~|''?????0点''|~|???0点|-|
-|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+|AC16.1.0||BGCOLOR(yellow):''キッズ''|~|~|''990820点''|~|2230点|-|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|~|~|~|~|~|
+|AC16.2.12||BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは約124〜174。
+-BPMは約124-174。
 
 ***その他 [#other]
-|CENTER:|CENTER:|c
-|>|メドレー順((''太字''はゴーゴータイム))|h
-|1~11小節|〜オープニング〜|
-|11~19小節&br;50~54小節|卜キワへの道―マサラより|
-|19~41小節|''捕獲(野生のポケモン)''|
-|42~50小節|捕獲成功！(野生のポケモン)|
-|55~95小節|''戦い(VS卜レーナー)''|
-|96小節以降|勝利(VS卜レーナー)|
--編曲(アレンジ)は、''景山将太''。作曲は、''増田順一''。
--曲IDは、''pklets''。
--[[WE ARE THE CHAMP〜THE NAME OF THE GAME〜>難易度表/おに/WE ARE THE CHAMP]]と[[アドバンス・アドベンチャー〜Advance Adventure〜>難易度表/むずかしい/アドバンス・アドベンチャー〜Advance Adventure〜]]の31文字を上回り、太鼓の達人史上[[''最も曲名が長い曲''>太鼓ギネス/その他#titlelongs]]となった(35文字)。
-
+-楽曲情報は[[おに譜面>難易度表/おに/ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]]
 -[[ふつう>難易度表/ふつう/ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]]
@@ -32,7 +23,9 @@
 -[[オート動画>https://www.youtube.com/watch?v=XtANGWepQj4]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(ポケモンむずかしい.png,nolink);
+~&attachref(ポケモンむずかしい.png,nolink);

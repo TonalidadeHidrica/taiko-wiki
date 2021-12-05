@@ -1,4 +1,4 @@
-*mint tears [#title]
+*&ruby(ミント){mint}; &ruby(ティアーズ){tears}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|>|CENTER:|c
@@ -23,12 +23,7 @@
 -ゴーゴーで1回ずつ出てくる4分の複合7連打と複合9連打に注意。
 
 ***その他 [#other]
--曲名の読み方は、''ミント ティアーズ''。
---略称としては''ミンティア''が一般的。
--アーティストは、''ribbon room''。
---作詞は、cotoribbon。作曲・編曲は、silver coin。コーラスは、cotoribbon。
--譜面作成は、''タカハシ''。
--曲IDは、''mintte''。
+-楽曲情報は[[おに譜面>難易度表/おに/mint tears]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/mint tears]]
 -[[むずかしい>難易度表/むずかしい/mint tears]]
@@ -39,5 +34,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~実際は84小節まで。
+~実際は84小節まで
 ~&attachref(mint tears.png,nolink);

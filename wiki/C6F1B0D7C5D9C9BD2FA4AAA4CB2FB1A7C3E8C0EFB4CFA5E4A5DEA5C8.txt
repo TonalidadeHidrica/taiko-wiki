@@ -38,6 +38,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~新譜面
 &attachref(ヤマト(新).png,nolink);
 
 ~旧譜面&br;&attachref(yamato.png,nolink);

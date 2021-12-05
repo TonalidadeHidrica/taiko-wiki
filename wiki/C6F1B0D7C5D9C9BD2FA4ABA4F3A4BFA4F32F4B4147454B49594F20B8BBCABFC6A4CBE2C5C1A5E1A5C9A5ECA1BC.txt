@@ -1,51 +1,55 @@
-*KAGEKIYO 源平討魔伝メドレー [#title]
+*&ruby(カゲキヨ){KAGEKIYO}; SIZE(16){&ruby(げんぺいとうまでん){源平討魔伝};メドレー} [#title]
+
 ***1人用譜面 [#one]
-***詳細 [#detail]
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-||CENTER:CS3|CENTER:''ロック''|>|>|>|>|>|CENTER:''存在しない''|
-|CENTER:''AC5''-6||CENTER:''ゲーム音楽''|~|~|~|~|~|~|
-||CENTER:TDMSP|CENTER:''ナムコ&br;オリジナル''|CENTER:★×4|CENTER:''244''|CENTER:''447720点''|CENTER:＋連打|CENTER:610点|CENTER:150点|
-|CENTER:AC7||~|~|~|CENTER:''?????0点''|~|CENTER:380点|CENTER:100点|
-||CENTER:PSP1DL|~|~|~|CENTER:''326860点''|~|CENTER:350点|CENTER:110点|
-||CENTER:PSP2|CENTER:''ゲーム&br;ミュージック''|~|~|CENTER:''333000点''|~|CENTER:450点|CENTER:100点|
-|CENTER:AC8-9||CENTER:''ナムコ&br;オリジナル''|~|~|CENTER:''?????0点''|~|~|~|
-||CENTER:DS1|~|CENTER:★×5|CENTER:''165''|CENTER:''270970点''|~|CENTER:510点|CENTER:140点|
-|CENTER:AC10-14&br;AC11亜&br;AC12亜|CENTER:Wii4|CENTER:''ゲーム&br;ミュージック''|CENTER:★×4|~|CENTER:''331040点''|~|CENTER:640点|CENTER:170点|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''349980点''}|~|CENTER:COLOR(#ff3300){1990点}|CENTER:-|
-|CENTER:AC15.1.0||~|~|~|CENTER:''?????0点''|~|CENTER:650点|CENTER:245点|
-|CENTER:AC15.2.0|CENTER:Wii U3&br;PS4 1&br;NS1DL|~|~|~|CENTER:''348280点''|~|~|CENTER:248点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''988100点''}|~|CENTER:COLOR(#ff3300){5700点}|CENTER:-|
-||CENTER:iOS|~|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC5''-6||>|>|>|>|>|>|''存在しない''|
+||CS3|~|~|~|~|~|~|~|
+||米TDMSP|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|★×4|''244''|''447720点''|＋連打|610点|150点|
+||TDMSP|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|~|~|
+|AC7||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''?????0点''|~|380点|100点|
+||PSP1DL|~|~|~|''326860点''|~|350点|110点|
+||PSP2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''333000点''|~|450点|100点|
+|AC8-9||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''?????0点''|~|~|~|
+||DS1|~|★×5|''165''|''270970点''|~|510点|140点|
+|AC10-14|Wii4|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×4|~|''331040点''|~|640点|170点|
+|AC11亜&br;AC12亜||BGCOLOR(darkorchid):&COLOR(white){''遊戯音樂''};|~|~|~|~|~|~|
+|COLOR(#ff3300){真打モード}||BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|~|~|COLOR(#ff3300){''349980点''}|~|COLOR(#ff3300){1990点}|-|
+|AC15.1.0||~|~|~|''?????0点''|~|650点|245点|
+|AC15.2.0|Wii U3&br;PS4 1&br;NS1DL&br;PTB|~|~|~|''348280点''|~|~|248点|
+|WM||BGCOLOR(darkorchid):COLOR(white){''M&#250;sicas de&br;Jogos Eletr&#244;nicos''}|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''988100点''}|~|COLOR(#ff3300){5700点}|-|
+||iOS&br;AR|~|~|~|''?????0点''|~|??0点|??0点|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''994300点''|~|6020点|-|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約130。開幕で細かく変化している。
 -旧譜面は[[ふつう(新譜面)>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]とほぼ同一。
+-新譜面では[[おに>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]とのコンボ数の差は丁度600コンボである。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。
+--連打秒数目安・・・約2.693秒−約1.8077秒×2−約2.038秒：合計約8.346秒
+--DS1では''全良かつ黄色連打を合計364打以上(平均43.61打/秒以上)''入れると、''★×5の本来の基準点である38万点に到達できる''。
 -ほとんどが面で、縁は全体の約6.67%しかない（11/165）。
 -4分が主体の譜面で、たまに8分や16分も出てくる。
 --8分も16分も単色の2連打しかなく、そのほとんどが単発である。
---また、4分の複合は3連打（●○●）が2回しか出て来ない。
+--また、4分の複合は3連打（COLOR(red){●}COLOR(blue){○}COLOR(red){●}）が2回しか出て来ない。
 -16分があるのでフルコン難易度は少し高めだが、全体的にスカスカなのでクリアは簡単な方である。
 -[[オート動画(新譜面)>https://www.youtube.com/watch?v=2ys2ZxxuHQc]]
 -[[オート動画(旧譜面)>http://www.youtube.com/watch?v=b2n1sNfWhsc]]
 
 ***2人用譜面 [#two]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:TDMSP|CENTER:★×4|CENTER:1P|CENTER:''214''|CENTER:''?????0点''|CENTER:＋連打|CENTER:700点|CENTER:180点|
-|~|~|CENTER:2P|CENTER:''211''|CENTER:''?????0点''|~|~|~|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度||最大コンボ数|>|天井スコア|初項|公差|h
+|''米TDMSP''&br;TDMSP|★×4|1P|''214''|''?????0点''|＋連打|700点|180点|
+|~|~|2P|''211''|''?????0点''|~|~|~|
 -[[プレイ動画>http://www.youtube.com/watch?v=b08jBNksS7U]]
 
 ***その他 [#other]
--曲名の読み方は、''カゲキヨ げんぺいとうまでんメドレー''。
---カゲキヨとは、ゲーム「[[''源平討魔伝''>http://ja.wikipedia.org/wiki/%E6%BA%90%E5%B9%B3%E8%A8%8E%E9%AD%94%E4%BC%9D]]」(1986年)の主人公''平景清''（たいらのかげきよ）のことである。 
--メドレー順：源平討魔伝より 「大モードジングル」→「源平討魔伝のテーマ」→「小モードのテーマ」→「ボーナス・ステージ」→「小モードのテーマ」
--TDMでは''The Genji and The Heike Clans''と表記されている。
--演奏画面は新筐体とほぼ同じであるWii U3では、「源平討魔伝メドレー」の表記が省略されている。
--新筐体では、ホワイトVer.までの曲の位置と、レッドVer.からの曲の位置が大きく変更された。''かなり左に曲が移動している''ので、選曲時は注意。
--[[思い出の曲アンケート>http://form-taiko.namco-ch.net/]]では、総合で''7位''、ゲームミュージック部門で''1位''を獲得した。
--編曲・譜面作成は、''増渕裕二''。氏の代表作と言っても過言ではない。
--曲IDは、''genpe''
+-楽曲情報は[[おに(表)譜面>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]を参照。
+
+----
 -かんたん/[[裏譜面>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅い方>難易度表/かんたん/KAGYUKIYO]]
 -[[ふつう>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅い方>難易度表/ふつう/KAGYUKIYO]]
 -[[むずかしい>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅い方>難易度表/むずかしい/KAGYUKIYO]]
@@ -59,7 +63,7 @@
 
 ~旧譜面
 ~難易度は★★★★☆
-&ref(難易度表/かんたん/KAGEKIYO〜源平討魔伝メドレー〜/KAGEKIYO_easy_ac9_2.png,nolink);
+~&ref(難易度表/かんたん/KAGEKIYO〜源平討魔伝メドレー〜/KAGEKIYO_easy_ac9_2.png,nolink);
 
-~２人用譜面(TDM)
-&ref(kagekiyo_ed.png,nolink);
+~2人用譜面(TDM)
+~&ref(kagekiyo_ed.png,nolink);

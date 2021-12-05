@@ -4,10 +4,13 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.7.0''|''COLOR(red){PS Vita MS}''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|''414''|''1017460点''|＋連打|710点|190点|
-|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''967920点''}|~|COLOR(#ff3300){2180点}|-|
+|''AC15.7.0''||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|''414''|''1017460点''|＋連打|710点|190点|
+||''COLOR(red){PS Vita MS}''|BGCOLOR(red):''赤盤 EXTRA''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''967920点''}|~|COLOR(#ff3300){2180点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''981180点''|~|2370点|-|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは107。

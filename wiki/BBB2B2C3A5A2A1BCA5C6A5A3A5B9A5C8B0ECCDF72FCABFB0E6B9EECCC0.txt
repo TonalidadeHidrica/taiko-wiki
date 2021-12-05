@@ -8,6 +8,7 @@
 --ナムコオリジナル
 ---[[Phoenix>難易度表/おに/Phoenix]]
 ---[[Gold Armor>難易度表/おに/Gold Armor]]
+---[[Welcome to the Taiko Stadium!>難易度表/おに/Welcome to the Taiko Stadium!]]
 
 **コメント [#comment]
 #pcomment(,noname)

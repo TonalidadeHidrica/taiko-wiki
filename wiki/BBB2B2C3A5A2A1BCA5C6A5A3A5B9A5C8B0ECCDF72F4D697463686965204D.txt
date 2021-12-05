@@ -1,9 +1,10 @@
-*Mitchie M [#title]
+*&ruby(ミッチー){Mitchie}; &ruby(エム){M}; [#title]
 
 **概要 [#more]
 -音楽プロデューサー。ボカロPとしても有名。
 -AC6以降の太鼓の達人の製品の音楽制作に携わっている([[参考>http://mitchie-m.com/biography/]])。
 -[[公式サイト>http://mitchie-m.com/]]
+-[[Twitter>https://twitter.com/_MitchieM]]
 
 **作品一覧 [#work]
 --ナムコオリジナル

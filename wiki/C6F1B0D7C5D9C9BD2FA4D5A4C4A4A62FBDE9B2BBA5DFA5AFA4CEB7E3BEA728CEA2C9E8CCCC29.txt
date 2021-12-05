@@ -1,4 +1,4 @@
-*初音ミクの激唱(裏譜面) [#title]
+*&ruby(はつね){初音};ミクの&ruby(げきしょう){激唱};(裏譜面) [#title]
 ***詳細・攻略 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''PSPDXSP''|CENTER:★×7|CENTER:''418''|CENTER:''698790点''|CENTER:+連打|CENTER:510点|CENTER:110点|

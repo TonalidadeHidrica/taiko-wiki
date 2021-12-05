@@ -1,13 +1,20 @@
-*URBAN FRAGMENTS [#title]
-***詳細・攻略 [#more]
-- 「''R4 -RIDGE RACER TYPE 4-''」のオープニング曲。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11''&br;AC11亜||CENTER:★×4|CENTER:''116''|CENTER:''345380点''|CENTER:＋連打|CENTER:870点|CENTER:310点|
-||CENTER:Wii3|~|~|CENTER:''345920点''|~|~|~|
-|CENTER:AC15.4.2SP|NS1DL|~|~|CENTER:''354120点''|~|CENTER:910点|CENTER:475点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){8220点}|CENTER:-|
--BPMは142〜147。
+*&ruby(アーバン){URBAN}; &ruby(フラグメンツ){FRAGMENTS}; [#title]
+-「''[[R4 -RIDGE RACER TYPE 4->ゲーム別収録曲#rr]]''」のオープニング曲。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11''||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×4|''116''|''345380点''|＋連打|870点|310点|
+|AC11亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|
+||Wii3|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''345920点''|~|~|~|
+|AC15.4.2SP|NS1DL|~|~|~|''354120点''|~|910点|475点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){8220点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''997600点''|~|8600点|-|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
+-BPMは142-147。
+-連打秒数目安・・・約1.007秒−約1.4236秒×2：合計約3.854秒
 --開幕と中盤で細かく変化している。
 -4分の複合が主体の譜面で、たまに8分も出てくる。
 --8分は単色の3連打しかないが、その全てが4分と隣接している。
@@ -16,15 +23,9 @@
 -★×4にしては簡単な方だったが、AC15でも残留した。クリアだけなら逆詐称だろう。
 
 ***その他 [#other]
--新筐体モモイロVer.の1月15日アップデートにより、''ごほうびショップでのごほうび楽曲として登場し、AC復活を果たした''。
--曲名の読み方は、''アーバン フラグメンツ''。
---意味は直訳で「都会の欠片」。
--作曲は、[[Naked Glow>難易度表/かんたん/Naked Glow]]や[[SAMURAI>難易度表/かんたん/SAMURAI ROCKET]] [[ROCKET>難易度表/かんたん/SAMURAI ROCKET(裏譜面)]]と同じ''KOHTA TAKAHASHI''。歌唱は、''Kimara Lovelace''。
--略称は、''アーバンF''。
---ちなみにアーバンTは[[こちら>難易度表/かんたん/URBAN TRAIL]]。
--譜面作成は、''オジマ''。
--曲IDは、''r4op''
+-楽曲情報は[[おに譜面>難易度表/おに/URBAN FRAGMENTS]]を参照。
 
+----
 -[[ふつう>難易度表/ふつう/URBAN FRAGMENTS]]
 -[[むずかしい>難易度表/むずかしい/URBAN FRAGMENTS]]
 -[[おに>難易度表/おに/URBAN FRAGMENTS]]

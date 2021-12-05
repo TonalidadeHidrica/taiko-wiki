@@ -1,4 +1,4 @@
-*Dragon Night [#title]
+*&ruby(ドラゴン){Dragon}; &ruby(ナイト){Night}; [#title]
 
 ***詳細 [#details]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -36,6 +36,7 @@
 &br;''COLOR(#666){普通譜面}''
 -COLOR(#666){普通譜面}維持でのフルコンボも、良100程度であれば可能。
 -全体的に[[むずかしい>難易度表/むずかしい/Dragon Night]]に肉付けしたような譜面となっている。
+-可を狙っていけば、AC16では30万点台でフルコンボ可能。
 -平均密度は、''約2.86打/秒''。これは''新基準の★×8で最も低い''。
 
 ***その他 [#other]
@@ -43,7 +44,6 @@
 --J-POPでのおにコースでは、AC11に収録されていた[[DANCE2 feat.ソイソース>難易度表/おに/DANCE2 feat.ソイソース]]以来''約6年4ヵ月ぶりの登場である''。
 --また新筐体におけるJ-POP全体でも、[[ヘビーローテーション(むずかしい)>難易度表/むずかしい/ヘビーローテーション]]以来約3年5ヵ月ぶりの登場となった。
 -現在この曲をAIバトル演奏でプレイした際にAIドンと譜面分岐が異なった場合、ゲームがフリーズし再起動するバグが確認されている。
--曲名の読み方は、''ドラゴン ナイト''。
 -略称は一般的に''ドラゲナイ''。これは曲中の空耳に由来する。
 -アーティストは、[[''SEKAI NO OWARI''>アーティスト別収録曲#sekaowa]]。
 --同アーティスト初の★×8である。
@@ -55,9 +55,10 @@
 -[[かんたん>難易度表/かんたん/Dragon Night]]
 -[[ふつう>難易度表/ふつう/Dragon Night]]
 -[[むずかしい>難易度表/むずかしい/Dragon Night]]
--[[プレイ動画(Youtube)>https://www.youtube.com/watch?v=TD5Tc0Fx4-U]]((ピッチ変更なし))
--[[プレイ動画(Youtube)>https://www.youtube.com/watch?v=nTPPprmF8e4]]((ピッチ変更あり))
--[[プレイ動画(niconico)>http://www.nicovideo.jp/watch/sm25785365]]((ピッチ変更なし))
+//-[[プレイ動画(Youtube)>https://www.youtube.com/watch?v=TD5Tc0Fx4-U]]((ピッチ変更なし))
+//-[[プレイ動画(Youtube)>https://www.youtube.com/watch?v=nTPPprmF8e4]]((ピッチ変更あり))
+-[[プレイ動画(Youtube)>https://youtu.be/nQPbFK69kfk]]
+-[[プレイ動画(niconico)>http://www.nicovideo.jp/watch/sm25785365]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

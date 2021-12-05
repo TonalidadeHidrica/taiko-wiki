@@ -1,10 +1,11 @@
-*ふな ふな ふなっしー♪ [#w602f96b]
+*ふな ふな ふなっしー♪ [#title]
+
 ***詳細・攻略 [#more]
 -千葉県船橋市の非公認ゆるキャラ「[[''ふなっしー''>http://terawarosu.jimdo.com/]]」のテーマソング。
 -詳細は以下の通り：
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.5.1|''3DS2''|★×4|''169''|''526360点''|＋連打|820点|295点|
+|AC15.5.1|''3DS2''&br;3DS2韓|★×4|''169''|''526360点''|＋連打|820点|295点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''980000点''}|~|COLOR(#ff3300){4900点}|-|
 -BPMは152。
 -黄色連打がかなり多い連打曲である。
@@ -26,9 +27,9 @@
 -[[オート動画(3DS,直撮り)>http://www.youtube.com/watch?v=XLQQTyLe_5U]]
 -[[プレイ動画(AC15,キャプチャ)>http://www.youtube.com/watch?v=LAh9B3astaQ]]((ミュート回避のためキーが上げられています))
 
-***コメント [#za0cc37c]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#ec37d08b]
+***譜面 [#score]
 黄色連打は下の画像より48分音符1つ分短い
 &attachref(hyahhaaaaaaaaa.png,nolink);

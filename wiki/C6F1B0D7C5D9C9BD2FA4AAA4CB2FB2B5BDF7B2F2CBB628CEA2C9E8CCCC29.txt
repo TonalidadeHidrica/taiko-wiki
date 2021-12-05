@@ -16,11 +16,12 @@
 -50・57小節には少々難解な9連打がある。
 --前者：COLOR(red){●}COLOR(blue){○○}COLOR(red){●} / COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}
 --後者：COLOR(blue){○}COLOR(red){●●}COLOR(blue){○} / COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}COLOR(red){●}
+-1曲を通しての平均密度は、''約5.30打/秒''である。
 
 ***その他 [#other]
 -楽曲情報は[[表譜面>難易度表/おに/乙女解剖]]を参照。
-----
 
+----
 -[[かんたん>難易度表/かんたん/乙女解剖]]
 -[[ふつう>難易度表/ふつう/乙女解剖]]
 -[[むずかしい>難易度表/むずかしい/乙女解剖]]

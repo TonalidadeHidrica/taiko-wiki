@@ -11,7 +11,7 @@
 
 **作品一覧 [#work]
 --バラエティ
----Help me, ERINNNNNN!! -Cranky remix-((ニコニコ超会議2016、例大祭13、秋季例大祭'16限定))
+---[[Help me, ERINNNNNN!! -Cranky remix->難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]((ニコニコ超会議2016、例大祭13、秋季例大祭'16限定))
 ---[[conflict>難易度表/おに/conflict]]((siromaruとの合作))
 --ゲームミュージック
 ---[[ouroboros -twin stroke of the end->難易度表/おに/ouroboros -twin stroke of the end-]]((MASAKIとの合作))
@@ -23,6 +23,7 @@
 ---[[Warrior>http://www.wikihouse.com/groove/index.php?Warrior]](別Wiki)
 ---We Gonna Journey
 ---Libera me
+---HISTORIA
 
 **コメント[#comment]
 #pcomment(,noname)

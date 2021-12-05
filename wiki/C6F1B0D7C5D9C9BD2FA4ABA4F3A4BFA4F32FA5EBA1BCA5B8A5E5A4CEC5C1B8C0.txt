@@ -1,12 +1,12 @@
 *ルージュの伝言 [#title]
 -アニメ映画「[[''魔女の宅急便''>アニメ別収録曲#ghible]]」の主題歌。
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC8''||''J-POP''|CENTER:★×3|CENTER:''86''|CENTER:''324000点''|CENTER:＋連打|CENTER:1430点|CENTER:500点|
-||CENTER:iOS&br;AR|~|~|~|CENTER:''327440点''|~|CENTER:1230点|CENTER:??0点|
-||NS1DL|''アニメ''|~|~|''334760点''|~|1260点|925点|
-|COLOR(#f30){真打}|||~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){??0点}|COLOR(#f30){???点}|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC8''||BGCOLOR(cyan):''J-POP''|★×3|''86''|''324000点''|＋連打|1430点|500点|
+||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''327440点''|~|1230点|??0点|
+||NS1DL|BGCOLOR(orange):''アニメ''|~|~|''334760点''|~|1260点|925点|
+|COLOR(#f30){真打}||~|~|~|COLOR(#f30){''994660点''}|~|COLOR(#f30){11280点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは153。

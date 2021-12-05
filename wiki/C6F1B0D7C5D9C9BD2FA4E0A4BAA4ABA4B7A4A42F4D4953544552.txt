@@ -1,21 +1,20 @@
 *MISTER[#title]
-***詳細・攻略[#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDX''&br;Wii4|CENTER:★×5|CENTER:''266''|CENTER:''744400点''|CENTER:＋連打|CENTER:830点|CENTER:220点|
-|CENTER:AC15.1.0-15.4.6||~|~|CENTER:''748290点''|~|CENTER:870点|CENTER:275点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3670点}|CENTER:-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDX''&br;Wii4|BGCOLOR(lime):''バラエティ''|★×5|''266''|''744400点''|+連打|830点|220点|
+|AC15.1.0-15.4.6||~|~|~|''748290点''|~|870点|275点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''998240点''}|~|COLOR(#ff3300){3670点}|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは126。
 -連打秒数目安・・・''約1.627秒''
 -速度が遅く16分も単色の3連打までしかないが、このレベルにしてはかなり多い。
--Wii決では歌詞がハングル文字なので非対応なため、歌詞が表示されない。
--曲名の読み方は、''ミスター''。
--アーティストは、''KARA''。
---「MISTER」という曲名に反し、メンバーは全員女性である。
---作詞はSong Soo Yoon, Han Jae-Ho, Kim Seung Soo, Natsumi Watanabe, PA-NON、作曲はHan Jae-Ho, Kim Seung Soo。
---メンバーは5人いるが、1人を除く残り4人のメンバーと所属事務所との契約が2014年1月で切れる関係で、事実上解散することが決まった。
--曲IDは、''mister''。
 
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/MISTER]]を参照。
+----
 -[[かんたん>難易度表/かんたん/MISTER]]
 -[[ふつう>難易度表/ふつう/MISTER]]
 -[[おに>難易度表/おに/MISTER]]
@@ -24,5 +23,5 @@
 ***コメント[#comment]
 #pcomment(,noname)
 
-***譜面[#fumen]
-&attachref(m.png,nolink);
+***譜面[#score]
+~&attachref(m.png,nolink);

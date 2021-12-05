@@ -1,0 +1,25 @@
+*Original Color Girls!!!! [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''iOS''&br;''AR''|BGCOLOR(cyan):''ポップス''|★×3|''89''|''?????0点''|＋連打|1020点|???点|
+
+***譜面構成・攻略 [#capture]
+-BPMは130?
+--但しHS1.5がかかっており、見た目BPMは195?
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Original Color Girls!!!!]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/Original Color Girls!!!!]]
+-[[むずかしい>難易度表/むずかしい/Original Color Girls!!!!]]
+-[[おに>難易度表/おに/Original Color Girls!!!!]]
+-[[オート動画>https://www.youtube.com/watch?v=DuFxf2SMe20]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(OCG_e.png,nolink);

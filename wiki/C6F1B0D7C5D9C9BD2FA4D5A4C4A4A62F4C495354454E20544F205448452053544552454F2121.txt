@@ -1,5 +1,5 @@
-*LISTEN TO THE STEREO!! [#f382cf16]
-***詳細・攻略 [#n372cab1]
+*&ruby(リスン){LISTEN}; &ruby(トゥー){TO}; &ruby(ザ){THE}; &ruby(ステレオ){STEREO};!! [#title]
+***詳細・攻略 [#more]
 -「''家庭教師ヒットマンREBORN!''」のOP8。
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
@@ -16,10 +16,8 @@
 -ゴーゴーは8分がかなり多いが、4分の複合は1回も出て来ない。
 --ただし、ほとんどの8分が4分と隣接しているので油断は禁物。
 -★×5にしては簡単な方だったが、AC15でも残留した。クリアだけなら逆詐称だろう。
--曲名の読み方は、''リッスン トゥ ザ ステレオ！！''。
 -アーティストは、''GOING UNDER GROUND''。
 --作詞は、松本素生。作曲は、松本素生・河野丈洋。編曲は、GOING UNDER GROUND・ヒダカトオル。
--ちなみに最初の方の歌詞が「LISTEN TO THE STEREO!![[TONIGHT,TONIGHT,TONIGHT>難易度表/ふつう/TONIGHT,TONIGHT,TONIGHT]]!」である。
 -曲IDは、''listen''。
 
 -[[かんたん>難易度表/かんたん/LISTEN TO THE STEREO!!]]

@@ -1,4 +1,4 @@
-*Naked Glow [#title]
+*&ruby(ネイキッド){Naked}; &ruby(グロウ){Glow}; [#title]
 -PS用ソフト「''[[R4 -RIDGE RACER TYPE4->ゲーム別収録曲#rr]]''」より。
 
 ***詳細 [#more]
@@ -21,7 +21,6 @@
 -序盤で4回出てくる付点8分の単色3連打に注意。
 
 ***その他 [#other]
--曲名の読み方は、''ネイキッド グロウ''。
 -作曲は、[[URBAN FRAGMENTS>難易度表/かんたん/URBAN FRAGMENTS]]や[[SAMURAI>難易度表/かんたん/SAMURAI ROCKET]] [[ROCKET>難易度表/かんたん/SAMURAI ROCKET(裏譜面)]]と同じ''KOHTA TAKAHASHI''。
 --太鼓チームの''タカハシ''とは関係ない。
 -譜面作成は、''キジキジ''。

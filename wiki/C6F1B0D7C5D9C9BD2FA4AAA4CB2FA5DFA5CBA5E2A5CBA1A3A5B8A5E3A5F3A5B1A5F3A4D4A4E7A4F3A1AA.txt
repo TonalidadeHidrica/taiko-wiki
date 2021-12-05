@@ -19,15 +19,15 @@
 -AC2普通・玄人譜面は[[ふつう>難易度表/ふつう/ミニモニ。ジャンケンぴょん！]]よりコンボ数が少ない。
 
 ***その他 [#other]
--アーティストは、''[[ミニモニ。>アーティスト別収録曲#mini]]''
--曲IDは、''mini''
+-アーティストは、[[''ミニモニ。''>アーティスト別収録曲#mini]]
+-曲IDは、''mini''。
 ----
 -[[かんたん>難易度表/かんたん/ミニモニ。ジャンケンぴょん！]]
 -[[ふつう>難易度表/ふつう/ミニモニ。ジャンケンぴょん！]]
 -[[むずかしい>難易度表/むずかしい/ミニモニ。ジャンケンぴょん！]]
 -[[プレイ動画(CS2)>https://www.youtube.com/watch?v=j-Pe9iAu7R0]]
 -プレイ動画(AC2)
---[[COLOR(#666):普通譜面>http://www.youtube.com/watch?v=iV_tJNwhiJM]]/[[COLOR(#069):玄人譜面>http://www.youtube.com/watch?v=FPIV_ngYWWQ]]/[[COLOR(#909):達人譜面>http://www.youtube.com/watch?v=4KO_uEyavNc]]
+--[[COLOR(#666):普通譜面>https://www.youtube.com/watch?v=iV_tJNwhiJM]]/[[COLOR(#069):玄人譜面>https://www.youtube.com/watch?v=FPIV_ngYWWQ]]/[[COLOR(#909):達人譜面>https://www.youtube.com/watch?v=4KO_uEyavNc]]
 
 ***コメント [#comment]
 #pcomment(,noname)
@@ -35,7 +35,7 @@
 ***譜面 [#score]
 ~CS2譜面
 ~風船の打数と長さは適当です
-&attachref(mini.png,nolink);
+~&attachref(mini.png,nolink);
 
 ~AC2譜面
-&attachref(mini_AC2x.png,nolink);
+~&attachref(mini_AC2x.png,nolink);

@@ -1,0 +1,29 @@
+*&ruby(セントラル){Central}; &ruby(ドグマ){Dogma}; &ruby(パート){Pt.};2 [#title]
+-[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]の続編。
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.2.14''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''390''|''996900点''|+連打|2550点|
+
+***譜面構成・攻略 [#capture]
+-BPMは189-284?。基本BPMは189。
+-全体的に8分がかなり多い。
+--8分は単色だけでなく、複合も何度も出てくる。
+-45小節の複合5連打と、74〜75小節の15連打に注意。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Central Dogma Pt.2]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Central Dogma Pt.2]]/[[Pt.1>難易度表/かんたん/Central Dogma Pt.1]]
+-ふつう/[[Pt.1>難易度表/ふつう/Central Dogma Pt.1]]
+-[[むずかしい>難易度表/むずかしい/Central Dogma Pt.2]]/[[Pt.1>難易度表/むずかしい/Central Dogma Pt.1]]
+-[[おに>難易度表/おに/Central Dogma Pt.2]]/[[Pt.1>難易度表/おに/Central Dogma Pt.1]]/[[Pt.1(裏譜面)>難易度表/おに/Central Dogma Pt.1(裏譜面)]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(CD2_n.png,nolink);

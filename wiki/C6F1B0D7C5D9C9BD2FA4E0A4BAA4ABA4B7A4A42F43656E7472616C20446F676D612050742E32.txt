@@ -1,0 +1,32 @@
+*&ruby(セントラル){Central}; &ruby(ドグマ){Dogma}; &ruby(パート){Pt.};2 [#title]
+-[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]の続編。
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.2.14''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''684''|''1000740点''|+連打|1460点|
+
+***譜面構成・攻略 [#capture]
+-BPMは189-284?。基本BPMは189。
+-全体的に12分と16分がかなり多い。
+--12分は長いもので10連打あるほか、複合7連打もある。
+--16分は単色の3連打しかないが、72〜76小節では大量に出てくる。
+-78小節からBPMが''284''に上昇する。
+--COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}COLOR(red){●}は、COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}と区切るとよい。
+-平均密度は、''約5.76打/秒''。むずかしいコースの中では上位に食い込む高さ。[[Pt.1>難易度表/むずかしい/Central Dogma Pt.1]]よりも高く、大半のおに★×8よりも高い値である。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Central Dogma Pt.2]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Central Dogma Pt.2]]/[[Pt.1>難易度表/かんたん/Central Dogma Pt.1]]
+-[[ふつう>難易度表/ふつう/Central Dogma Pt.2]]/[[Pt.1>難易度表/ふつう/Central Dogma Pt.1]]
+-むずかしい/[[Pt.1>難易度表/むずかしい/Central Dogma Pt.1]]
+-[[おに>難易度表/おに/Central Dogma Pt.2]]/[[Pt.1>難易度表/おに/Central Dogma Pt.1]]/[[Pt.1(裏譜面)>難易度表/おに/Central Dogma Pt.1(裏譜面)]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(CD2_h.png,nolink);

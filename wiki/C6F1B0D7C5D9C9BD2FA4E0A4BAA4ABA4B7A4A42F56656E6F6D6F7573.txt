@@ -1,13 +1,16 @@
-*Venomous [#title]
--「''リッジレーサー3D''」の曲。
+*&ruby(ヴェナマス){Venomous}; [#title]
+-ナムコ「[[''リッジレーサー3D''>ゲーム別収録曲#rr]]」の楽曲。(→[[公式サイト>http://rr3d.namco-ch.net/]])
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.1.0SP''|Wii U1DL&br;PS Vita1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|''370''|''843490点''|＋連打|630点|170点|
-|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''991940点''}|~|COLOR(#ff3300){2270点}|-|
-||Wii4&br;iOS|~|~|~|''835100点''|~|600点|140点|
-|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???0点|‐|
+|WM||BGCOLOR(darkorchid):COLOR(white){''M&#250;sicas de&br;Jogos Eletr&#244;nicos''}|~|~|~|~|~|~|
+||PS Vita1亜DL|BGCOLOR(darkorchid):COLOR(white){''遊戯音樂''}|~|~|~|~|~|~|
+||Wii4&br;iOS|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|''835100点''|~|600点|140点|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''991940点''}|~|COLOR(#ff3300){2270点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''995100点''|~|2680点|‐|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約224。
@@ -19,10 +22,7 @@
 -[[おに>難易度表/おに/Venomous]](765コンボ)とはコンボ数が2倍以上離れており、難易度も雲泥の差がある。
 
 ***その他 [#other]
--曲名の読み方は、''ヴェナマス''。
---意味は｢有毒な｣や｢悪意に満ちた｣である。
--アーティストは、[[Angel Halo>難易度表/むずかしい/Angel Halo]]と同じ''濱本理央''。
--曲IDは、''rr3dve''。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/Venomous]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Venomous]]

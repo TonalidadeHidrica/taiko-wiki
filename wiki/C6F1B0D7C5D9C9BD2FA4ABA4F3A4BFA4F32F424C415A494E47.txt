@@ -1,12 +1,13 @@
 *BLAZING [#title]
 -アニメ「''ガンダム Gのレコンギスタ''」のOP1。
-***詳細・攻略 [#more]
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''|CENTER:★×4|CENTER:''135''|CENTER:''343890点''|CENTER:＋連打|CENTER:750点|CENTER:300点|
+|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×4|CENTER:''135''|CENTER:''343890点''|CENTER:＋連打|CENTER:750点|CENTER:300点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''986780点''}|~|CENTER:COLOR(#ff3300){6480点}|CENTER:-|
 
 ***譜面構成・攻略 [#capture]
--BPMは151〜190。
+-BPMは151-190。
 -黄色連打が多い連打曲である。
 -全体的に付点配置や裏拍配置が多く、リズムが取りづらい。
 -大音符が多く、16個ある（全体の約11.9%）。
@@ -20,6 +21,7 @@
 --作詞は、メイリア。作曲は、toku。
 -曲IDは、''gdmrec''。
 -同じくPS Vita1に収録された[[BLAZING VORTEX>難易度表/おに/BLAZING VORTEX]]との混同に注意。
+
 ----
 -[[ふつう>難易度表/ふつう/BLAZING]]
 -[[むずかしい>難易度表/むずかしい/BLAZING]]

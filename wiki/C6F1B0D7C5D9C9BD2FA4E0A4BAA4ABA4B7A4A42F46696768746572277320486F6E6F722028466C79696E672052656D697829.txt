@@ -1,27 +1,29 @@
-*Fighter's Honor(Flying Remix) [#b100665a]
-***詳細・攻略 [#gc6b1d2f]
--ナムコのニンテンドー3DS専用ソフト「''[[エースコンバット3D クロスランブル>http://3d.acecombat.jp/#top]]''」の楽曲。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''3DS1''|CENTER:★×4|CENTER:''304''|CENTER:''692650点''|CENTER:＋連打|CENTER:670点|CENTER:185点|
--BPMは146。
+*&ruby(ファイターズ){Fighter's}; &ruby(オナー){Honor};(&ruby(フライング){Flying}; &ruby(リミックス){Remix};) [#title]
+-ナムコのニンテンドー3DS専用ソフト「''[[エースコンバット3D クロスランブル>ゲーム別収録曲#ace]]''」の楽曲。(→[[公式サイト>http://3d.acecombat.jp/#top]])
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''3DS1''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×4|''304''|''692650点''|＋連打|670点|185点|
+
+***譜面構成・攻略 [#capture]
+-BPMは約146。
 -連打秒数目安…約1.233秒×2-約1.644秒×2:合計約5.753秒
 -レベルの割に8分の複合や16分がかなり多い。
 --16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
 --ただし、8分の複合は長くても3連打までしかない。
 -8分と16分が連続で出てくるラス殺しに注意。
--作曲は、[[No Wa>難易度表/むずかしい/No Way Back]][[y Back>難易度表/むずかしい/No Way Back(裏譜面)]]や[[IN THE ZONE>難易度表/むずかしい/IN THE ZONE]]等と同じ''椎名豪''。
--曲名の読み方は、''ファイターズ オナー（フライング リミックス）''。
---直訳すると''戦士の名誉''。
---エースコンバット3D(元ネタであるエースコンバット2)最終ミッションのコードネームと同名の楽曲。
 
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Fighter's Honor (Flying Remix)]]を参照。
+----
 -[[かんたん>難易度表/かんたん/Fighter's Honor (Flying Remix)]]
 -[[ふつう>難易度表/ふつう/Fighter's Honor (Flying Remix)]]
 -[[おに>難易度表/おに/Fighter's Honor (Flying Remix)]]
 -[[オート動画>http://www.youtube.com/watch?v=OyXy6JETB-M]]
 
-***コメント[#Comment]
+***コメント [#Comment]
 #pcomment(,noname)
 
-***譜面 [#ld3013b6]
+***譜面 [#score]
 &attachref(ace3d_h.png,nolink);

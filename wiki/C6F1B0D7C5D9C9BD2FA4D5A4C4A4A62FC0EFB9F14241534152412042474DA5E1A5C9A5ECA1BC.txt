@@ -1,11 +1,13 @@
 *戦国BASARA BGMメドレー [#title]
-***詳細・攻略 [#more]
 -カプコンのソフト「[[''戦国BASARA''>http://www.capcom.co.jp/basara/]]」シリーズのBGMメドレー。
--詳細は以下の通り：
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1DL''|CENTER:★×6|CENTER:''319''|CENTER:''634370点''|CENTER:＋連打|CENTER:510点|CENTER:150点|
+|CENTER:''PS Vita1DL''&br;''PS Vita1亜DL''|CENTER:★×6|CENTER:''319''|CENTER:''634370点''|CENTER:＋連打|CENTER:510点|CENTER:150点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''985600点''}|~|CENTER:COLOR(#ff3300){2560点}|CENTER:-|
--BPMは170〜208。
+
+***譜面構成・攻略 [#capture]
+-BPMは170-208。
 -黄色連打が多い連打曲である。
 -大音符がかなり多く、64個ある（全体の約20.06%）。
 --ほとんどがラストゴーゴーに密集しているので、1個でも特良を逃すと痛い失点になる可能性がある。
@@ -14,6 +16,10 @@
 --また8分は単色が多いが、中盤からは複合も出てくる。
 -終盤で1回だけ出てくる8分の単色7連打に注意。
 
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/戦国BASARA BGMメドレー]]を参照。
+
+----
 -[[かんたん>難易度表/かんたん/戦国BASARA BGMメドレー]]
 -[[むずかしい>難易度表/むずかしい/戦国BASARA BGMメドレー]]
 -[[おに>難易度表/おに/戦国BASARA BGMメドレー]]

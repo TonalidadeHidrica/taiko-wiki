@@ -1,7 +1,7 @@
-*ouroboros -twin stroke of the end- [#title]
+*&ruby(ウロボロス){ouroboros}; -&ruby(ツイン){twin}; &ruby(ストローク){stroke}; &ruby(オブ){of}; &ruby(ジ){the}; &ruby(エンド){end};- [#title]
 -元・全日本アミューズメント施設営業者協会連合会(AOU)主催[[「''第四回天下一音ゲ祭''」>第四回天下一音ゲ祭]]のグルーヴコースター部門ブロック決勝課題曲・全国頂上決戦決勝課題曲。
---[[「''第五回天下一音ゲ祭''」>第五回天下一音ゲ祭]]においては、相互移植曲として太鼓の達人、SOUND VOLTEX、CHUNITHMへ移植された。
---音ゲ祭による音ゲ祭参加機種移植の他、「シンクロニカ」、「Arcaea」とコラボイベントの相互移植曲としてシンクロニカ、Arcaeaへ移植された。
+--[[「''第五回天下一音ゲ祭''」>第五回天下一音ゲ祭]]においては、相互移植曲として太鼓の達人・SOUND VOLTEX・CHUNITHMへ移植された。
+--音ゲ祭による音ゲ祭参加機種移植の他「シンクロニカ」「Arcaea」「Muse Dash」「DJMAX」とコラボイベントの相互移植曲としてシンクロニカ・Arcaea・Muse Dash・DJMAXへ移植された。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -9,15 +9,15 @@
 |''AC15.10.7''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|''361''|''?????0点''|＋連打|550点|143点|
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){2410点}|-|
 |AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''990440点''|~|2740点|-|
+|AC16.2.12|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは188。
 -演奏時間は''約2分25秒''と少し長め。
 
 ***その他 [#other]
--[[''全コース''>太鼓ギネス/その他#highestdifficulty]][[''最高難易度曲''>全コース最高難易度曲一覧]]である。
--アーティストは、''[[Cranky>参加アーティスト一覧/Cranky]] VS MASAKI''。
--曲IDは、''ourobo''。
+-楽曲情報は[[おに譜面>難易度表/おに/ouroboros -twin stroke of the end-]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/ouroboros -twin stroke of the end-]]
 -[[むずかしい>難易度表/むずかしい/ouroboros -twin stroke of the end-]]

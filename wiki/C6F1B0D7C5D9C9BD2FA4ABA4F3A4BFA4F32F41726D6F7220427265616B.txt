@@ -1,0 +1,25 @@
+*&ruby(アーマー){Armor}; &ruby(ブレイク){Break}; [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''iOS''&br;''AR''|BGCOLOR(cyan):''ポップス''|★×3|''83''|''?????0点''|＋連打|??0点|???点|
+
+***譜面構成・攻略 [#capture]
+-BPMは137?
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Armor Break]]を参照。
+
+----
+
+-[[ふつう>難易度表/ふつう/Armor Break]]
+-[[むずかしい>難易度表/むずかしい/Armor Break]]
+-[[おに>難易度表/おに/Armor Break]]
+-[[オート動画>https://www.youtube.com/watch?v=ANKuvc9oIvk]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(AB_e.png,nolink);

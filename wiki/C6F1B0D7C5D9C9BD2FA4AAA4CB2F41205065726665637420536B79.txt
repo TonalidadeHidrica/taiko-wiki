@@ -1,8 +1,10 @@
-*A Perfect Sky [#Title]
--資生堂''「ANESSA」''CMソング。
+*&ruby(ア){A}; &ruby(パーフェクト){Perfect}; &ruby(スカイ){Sky}; [#Title]
+-資生堂「''ANESSA''」CMソング。
+
 ***詳細 [#More]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC9''|CENTER:★×5|CENTER:''253''|CENTER:''883340点''|CENTER:＋連打|CENTER:970点|CENTER:290点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC9''|BGCOLOR(cyan):''J-POP''|★×5|''253''|''883340点''|＋連打|970点|290点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは90。
@@ -12,8 +14,8 @@
 -大音符が一個もない。
 
 ***その他 [#other]
--曲名の読み方は''ア・パーフェクト・スカイ''。
 -アーティストは、''BONNIE PINK''。
+
 ----
 -[[かんたん>難易度表/かんたん/A Perfect Sky]]
 -[[ふつう>難易度表/ふつう/A Perfect Sky]]

@@ -1,12 +1,13 @@
 *カラフルボイス(裏譜面) [#title]
 
 ***詳細 [#detail]
-|>|>|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.11.4SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''1121''|''1202220点''|＋連打|290点|70点|
-|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''999250点''}|~|COLOR(#ff3300){850点}|-|
-|AC16.1.0SP|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''1000290点''|~|890点|-|
-|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.4SP''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''1121''|''1202220点''|＋連打|290点|70点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''999250点''}|~|COLOR(#ff3300){850点}|-|
+|AC16.1.0SP||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''1000290点''|~|890点|-|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+||iOS&br;AR|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''?????0点''|~|??0点|???点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは''240''。
@@ -17,9 +18,7 @@
 ---また、BPM240の24分がない点は[[白鳥の湖(裏譜面)>難易度表/おに/白鳥の湖〜still a duckling〜(裏譜面)]]や[[デッド・オア・ダイ>難易度表/おに/デッド・オア・ダイ]]などと共通。
 -前半に、[[春竜(裏譜面)>難易度表/おに/春竜 〜Haryu〜(裏譜面)]]や[[EterNal Ring>難易度表/おに/EterNal Ring]]のような高速12分長複合が2本存在する。配色は2本ともほぼ同じ(24小節と32小節が違うのみ)だが処理速度はそれらよりも速い。
 --12分と言えど、BPM180の16分に相当する複合を処理する感覚と同じなので侮らないように。
--117〜148小節にかけて面の単色''128連打''が襲ってくる。BPM240という速さもあり非常に鋭いコンボカッターとなっている。
---システム上では減速しており、実際はBPM160の24分128連打である。これは''歴代の24分音符では最長になる。''((ダンガンノーツなどの32分はBPMを3分の2にして48分を置いており、これもその一例に含まれている。踊り子を見ると、この地帯だけ動きが遅くなっているのが伺える。))
----しかし、ニジイロVer.では踊り子が速度変化していないので、レーン上での見た目は変わらないがBPM240の16分128連打に変更された可能性がある。
+-117〜276小節にかけて面の単色''128連打''が襲ってくる。BPM240という速さもあり非常に鋭いコンボカッターとなっている。
 --この発狂後には、8分が少しあるのみであるため回復はほぼ不可能。不可ハマりしたらゲージを一気に削られクリア失敗を招く場合がある。
 ---ちなみに[[表譜面>難易度表/おに/カラフルボイス]]と全く同じ配置・配色であるが、こちらには低速HSがかかっている。
 -平均密度は、''約8.24打/秒''。
@@ -27,12 +26,9 @@
 
 ***その他 [#other]
 -楽曲情報は[[表譜面>難易度表/おに/カラフルボイス]]を参照。
--この曲は、グリーンVer.での隠し曲である。解禁する条件は、''AIバトル演奏にて3勝すること''である。AIバトルにおける最初のごほうび解禁曲であった。
---ニジイロVer.ではしばらくの間解禁することができなかったが、6月30日にどんメダルショップに追加されたため、再び解禁が可能になった。
 -[[24分のないおに★×10譜面>太鼓ギネス/その他#no24note]]のひとつである。
 -この譜面をフルコンボすると、''称号''「''極彩色の歌声''」を獲得できる。
 --極彩色とは、 種々の鮮やかな色を用いた濃密な彩りの事である。
--''[[カラフル>難易度表/おに/カラフル]]との混同に注意。''
 
 ----
 -[[かんたん>難易度表/かんたん/カラフルボイス]]
@@ -40,6 +36,7 @@
 -[[むずかしい>難易度表/むずかしい/カラフルボイス]]
 -[[おに>難易度表/おに/カラフルボイス]]/裏譜面
 -[[プレイ動画(キャプチャ)>https://youtu.be/dAXBS9Lmh4c?t=14]]
+-[[オート動画(iOS)>https://youtu.be/CTSVittKrmk]]
 -[[公式MV>https://youtu.be/Pn8xZq-CJjQ]]
 
 ***コメント [#comment]
@@ -48,10 +45,500 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(csmclr_x3.png,nolink);
+~HSの重なっている地帯は拡大画像参照
+#region(TJA表記)
+''117-276小節''
+&br;#MEASURE 1/32
+&br;1,
+&br;#BARLINEOFF
+&br;0,
+&br;#MEASURE 1/16
+&br;1,
+&br;1,
+&br;1,
+&br;#MEASURE 1/32
+&br;#SCROLL 1.14
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 1.18
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1.14
+&br;#MEASURE 1/16
+&br;1,
+&br;1,
+&br;1,
+&br;#MEASURE 1/32
+&br;#SCROLL 1.15
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 1.23
+&br;0,
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.15
+&br;1,
+&br;1,
+&br;1,
+&br;#MEASURE 1/32
+&br;#SCROLL 1.16
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 1.3
+&br;0,
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.16
+&br;1,
+&br;1,
+&br;#SCROLL 1.17
+&br;1,
+&br;#MEASURE 1/32
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 1.36
+&br;0,
+&br;
+&br;#MEASURE 1/16
+&br;#BARLINEOFF
+&br;#SCROLL 1.179
+&br;1,
+&br;1,
+&br;1,
+&br;#MEASURE 1/32
+&br;#SCROLL 1.19
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 1.429
+&br;0,
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.19
+&br;1,
+&br;#SCROLL 1.20
+&br;1,
+&br;1,
+&br;#MEASURE 1/32
+&br;#SCROLL 1.21
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 1.5
+&br;0,
+&br;#MEASURE 1/16
+&br;#BARLINEOFF
+&br;#SCROLL 1.21
+&br;1,
+&br;#SCROLL 1.22
+&br;1,
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.23
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 1.57
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.23
+&br;1,
+&br;#SCROLL 1.24
+&br;1,
+&br;#SCROLL 1.25
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 1.649
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.259
+&br;1,
+&br;#SCROLL 1.269
+&br;1,
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.279
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 1.74
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.289
+&br;1,
+&br;1,
+&br;#SCROLL 1.299
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.309
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 1.82
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.32
+&br;1,
+&br;#SCROLL 1.33
+&br;1,
+&br;#SCROLL 1.34
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 1.91
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.35
+&br;1,
+&br;#SCROLL 1.36
+&br;1,
+&br;#SCROLL 1.37
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.38
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 2.01
+&br;0,
+&br;
+&br;#MEASURE 1/16
+&br;#BARLINEOFF
+&br;#SCROLL 1.39
+&br;1,
+&br;#SCROLL 1.4
+&br;1,
+&br;#SCROLL 1.41
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.42
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 2.11
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.43
+&br;1,
+&br;#SCROLL 1.44
+&br;1,
+&br;#SCROLL 1.45
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.46
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 2.22
+&br;#MEASURE 1/32
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.47
+&br;1,
+&br;#SCROLL 1.48
+&br;1,
+&br;#SCROLL 1.49
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.5
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 2.33
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.52
+&br;1,
+&br;#SCROLL 1.53
+&br;1,
+&br;#SCROLL 1.54
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.55
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 2.44
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.56
+&br;1,
+&br;#SCROLL 1.57
+&br;1,
+&br;#SCROLL 1.58
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.59
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 2.56
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.61
+&br;1,
+&br;#SCROLL 1.62
+&br;1,
+&br;#SCROLL 1.63
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.64
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 2.69
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.65
+&br;1,
+&br;#SCROLL 1.66
+&br;1,
+&br;#SCROLL 1.67
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.68
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 2.83
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.69
+&br;1,
+&br;#SCROLL 1.70
+&br;1,
+&br;#SCROLL 1.71
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.72
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 2.97
+&br;0,
+&br;
+&br;#MEASURE 1/16
+&br;#BARLINEOFF
+&br;#SCROLL 1.73
+&br;1,
+&br;#SCROLL 1.75
+&br;1,
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.76
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 3.12
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.77
+&br;1,
+&br;#SCROLL 1.78
+&br;1,
+&br;#SCROLL 1.79
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.8
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 3.27
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.81
+&br;1,
+&br;#SCROLL 1.82
+&br;1,
+&br;#SCROLL 1.83
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.84
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 3.44
+&br;0,
+&br;
+&br;#MEASURE 1/16
+&br;#BARLINEOFF
+&br;#SCROLL 1.84
+&br;1,
+&br;#SCROLL 1.85
+&br;1,
+&br;#SCROLL 1.86
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.87
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 3.61
+&br;0,
+&br;
+&br;#MEASURE 1/16
+&br;#BARLINEOFF
+&br;#SCROLL 1.88
+&br;1,
+&br;1,
+&br;#SCROLL 1.89
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 1.9
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 3.79
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.9
+&br;1,
+&br;#SCROLL 1.91
+&br;1,
+&br;#SCROLL 1.92
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 3.98
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.93
+&br;1,
+&br;1,
+&br;#SCROLL 1.94
+&br;1,
+&br;#MEASURE 1/32
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 4.18
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.95
+&br;1,
+&br;1,
+&br;#SCROLL 1.96
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 4.39
+&br;0,
+&br;
+&br;#MEASURE 1/16
+&br;#BARLINEOFF
+&br;#SCROLL 1.97
+&br;1,
+&br;1,
+&br;#SCROLL 1.98
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 4.61
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 1.98
+&br;1,
+&br;#SCROLL 1.99
+&br;1,
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;#SCROLL 2
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 4.84
+&br;0,
+&br;
+&br;#MEASURE 1/16
+&br;#BARLINEOFF
+&br;#SCROLL 2
+&br;1,
+&br;1,
+&br;#SCROLL 2.01
+&br;1,
+&br;
+&br;#MEASURE 1/32
+&br;1,
+&br;
+&br;#BARLINEON
+&br;#SCROLL 5.08
+&br;0,
+&br;
+&br;#BARLINEOFF
+&br;#MEASURE 1/16
+&br;#SCROLL 2.01
+&br;1,
+&br;1,
+&br;#SCROLL 2.02
+&br;1,
+#endregion
+&attachref(csmclr_x_1.png,nolink);
 
-~加速地帯の譜面画像（HSは音符のみ、実際には小節線に音符とは別のHSあり）~
-小節線は16分音符1つ右~
-&attachref(ミク色.png,nolink);
-~拡大~
-&attachref(かくだい.png,nolink);
+~117-276小節拡大(8倍)
+&attachref(csmclr_x_117-276.png,nolink);
+
+~280-287小節拡大(2倍)
+&attachref(csmclr_x_280-287.png,nolink);

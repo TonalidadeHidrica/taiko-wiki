@@ -4,7 +4,7 @@
 |>|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:AC8|CENTER:''CS6''|CENTER:★×4|CENTER:''190''|''543540点''|＋連打|720点|220点|
 ||~|~|~|''641440点''((2人プレイ,芋音符を一人で早く食べ切った場合))|~|~|~|
--BPMは160。
+-BPMは159。
 -原曲はBay City Rollers(ベイ・シティ・ローラーズ)の''Saturday Night''。
 -アーティストは''Gorie with Jasmine & Joann''。
 -曲IDは''pecori''。

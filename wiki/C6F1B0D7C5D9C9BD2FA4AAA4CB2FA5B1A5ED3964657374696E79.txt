@@ -1,4 +1,4 @@
-*¥±¥í&#x2468;destiny SIZE(16){ÅìÊýProject¥¢¥ì¥ó¥¸ Silver Forest}((&#x2468;¤Ïµ¡¼ï°ÍÂ¸Ê¸»ú¤Î¤¿¤á¡¢¥ê¥ó¥¯¤ÏÃ±¤Ë¡Ö9¡×¤ÇÉ½¤·¤Æ¤¤¤ë¡£)) [#title]
+*¥±¥í­©destiny((&#x2468;¤Ïµ¡¼ï°ÍÂ¸Ê¸»ú¤Î¤¿¤á¡¢¥ê¥ó¥¯¤ÏÃ±¤Ë¡Ö9¡×¤ÇÉ½¤·¤Æ¤¤¤ë¡£)) [#title]
 
 ***¾ÜºÙ [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -6,17 +6,18 @@
 |''AC15&br;Ä¶²ñµÄ3Ver.''&br;AC15&br;ÎãÂçº×11Ver.&br;AC15.5.0|Wii U3DL&br;NS1DL|BGCOLOR(lime):''¥Ð¥é¥¨¥Æ¥£''|¡ú¡ß9|''769''|''1092290ÅÀ''|¡ÜÏ¢ÂÇ|390ÅÀ|98ÅÀ|
 |COLOR(#ff3300){¿¿ÂÇ}||~|~|~|COLOR(#ff3300){''998420ÅÀ''}|~|COLOR(#ff3300){1190ÅÀ}|-|
 ||iOS&br;AR|~|~|~|''1079960ÅÀ''|~|330ÅÀ|90ÅÀ|
-|AC16.1.0||BGCOLOR(darkorchid):&color(white){''¥²¡¼¥à¡õ&br;¥Ð¥é¥¨¥Æ¥£''};|~|~|''994810ÅÀ''|~|1290ÅÀ|-|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''¥²¡¼¥à¡õ&br;¥Ð¥é¥¨¥Æ¥£''}|~|~|''994810ÅÀ''|~|1290ÅÀ|-|
+|AC16.2.12||BGCOLOR(lime):''¥Ð¥é¥¨¥Æ¥£''|~|~|~|~|~|~|
 
 ***ÉèÌÌ¹½À®¡¦¹¶Î¬ [#capture]
 -BPM¤Ï172¡£
 -Ï¢ÂÇÉÃ¿ôÌÜ°Â¡¦¡¦¡¦Ìó0.698ÉÃ¡ÝÌó0.523ÉÃ¡Ý''Ìó1.047ÉÃ''¡ß4¡§¹ç·×Ìó5.409ÉÃ
 -¤³¤ÎÉèÌÌ¤ÎÆñ½ê¤Ï²¿¤È¸À¤Ã¤Æ¤â4²ó½Ð¸½¤¹¤ë16Ê¬²»Éä¤ÎÄ¹Ê£¹ç¡£Ç¡²¿¤Ë¤·¤Æ¤³¤ÎÊ£¹ç¤ò¾å¼ê¤¯Ã¡¤±¤ë¤«¤¬¥¯¥ê¥¢¤ä¥Õ¥ë¥³¥ó¥Ü¤Ø¤Î¸°¤È¤Ê¤ë¡£
---1ËÜÌÜ(5¡Á9¾®Àá)¤Ï¡¢  COLOR(blue){¡ü}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡ü}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡ü}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}/¡ß3¡ÜCOLOR(blue){¡ü}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡ü}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡ü}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡ü}COLOR(red){¡ü¡ü¡ü¡ü}
---2ËÜÌÜ(25¡Á28¾®Àá)¤Ï¡¢COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü}¡ß6¡ÜCOLOR(blue){¡ü¡ü}
---3ËÜÌÜ(29¡Á32¾®Àá)¤Ï¡¢COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü}¡ß6¡ÜCOLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}
---4ËÜÌÜ(56¡Á59¾®Àá)¤Ï¡¢COLOR(red){ÌÌ16Ï¢ÂÇ}¡ÜCOLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü}¡ß4¡ÜCOLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}¡ß4¡ÜCOLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}COLOR(red){¡ü¡ü}COLOR(blue){¡ü}
---1¡¢4ËÜÌÜ¤ÎÄ¹Ê£¹ç¤Ï¡¢µÕ¼ê¤«¤éÆþ¤ë¤ÈÃ¡¤­¤ä¤¹¤¯¤Ê¤ë¾ì¹ç¤â¤¢¤ë¤¿¤á¡¢Æ¬¤ËÆþ¤ì¤Æ¤ª¤³¤¦¡£
+--1ËÜÌÜ(5¡Á9¾®Àá)¤Ï¡¢  COLOR(blue){¡û}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}/¡ß3¡ÜCOLOR(blue){¡û}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü¡ü¡ü}
+--2ËÜÌÜ(25¡Á28¾®Àá)¤Ï¡¢COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü}¡ß6¡ÜCOLOR(blue){¡û¡û}
+--3ËÜÌÜ(29¡Á32¾®Àá)¤Ï¡¢COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü}¡ß6¡ÜCOLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}
+--4ËÜÌÜ(56¡Á59¾®Àá)¤Ï¡¢COLOR(red){ÌÌ16Ï¢ÂÇ}¡ÜCOLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü}¡ß4¡ÜCOLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}¡ß4¡ÜCOLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}
+--1¡¦4ËÜÌÜ¤ÎÄ¹Ê£¹ç¤Ï¡¢µÕ¼ê¤«¤éÆþ¤ë¤ÈÃ¡¤­¤ä¤¹¤¯¤Ê¤ë¾ì¹ç¤â¤¢¤ë¤¿¤á¡¢Æ¬¤ËÆþ¤ì¤Æ¤ª¤³¤¦¡£
 --µÕ¼ê¤Ë´·¤ì¤Æ¤¤¤Ê¤¤¾ì¹ç¤Ï¡¢¥±¥í¥±¥íÃÏÂÓ¤ò¡Ö±¦Íø¤­¡×¤Ï¡Éº¸¡É¤«¤é¡¢¡Öº¸Íø¤­¡×¤Ï"±¦"¤«¤é»Ï¤á¤ë¤È¸úÎ¨¤¬ÎÉ¤¤¡£
 ---¤Á¤Ê¤ß¤Ë¡¢[[Asteroid>Æñ°×ÅÙÉ½/¤ª¤Ë/Asteroid]](BPM144)¤ÎºÇ¸å¤Ë»÷¤¿ÇÛÃÖ¤ÎÄ¹Ê£¹ç¤¬Â¸ºß¤¹¤ë¤Î¤Ç¡¢Îý½¬¤Ë»È¤Ã¤Æ¤ß¤ë¤Î¤âÎÉ¤¤¡£
 -¾åµ­¤ÎÃÏÂÓ°Ê³°¤Ï¡ú¡ß8¥¯¥é¥¹¤ÎÉèÌÌ¤Ç¤¢¤ê¡¢Ä¹¤¤Ê£¹ç¤¬ÆÀ°Õ¤Ê¥×¥ì¥¤¥ä¡¼¤«¤é¤ß¤ì¤ÐÆñ½ê¤¬¤Ê¤¤¤¿¤á¡¢¾åµé¼Ô¤Û¤ÉÁêÂÐÅª¤ËÆñÅÙ¤¬Äã¤¯´¶¤¸¤ë¤Ç¤¢¤í¤¦¡£
@@ -24,15 +25,14 @@
 -1¶Ê¤òÄÌ¤·¤Æ¤ÎÊ¿¶ÑÌ©ÅÙ¤Ï¡¢''Ìó6.58ÂÇ/ÉÃ''¤Ç¤¢¤ë¡£
 
 ***¤½¤ÎÂ¾ [#other]
--Á´ÎÉ¤Ç±éÁÕ¤·¤¿¾ì¹ç¡¢53¾®ÀáÌÜ¤ÎÂç²»Éä¤Ç¤Á¤ç¤¦¤É¥Î¥ë¥Þ¤ËÅþÃ£¤¹¤ë¡£
--¶ÊÌ¾¤ÎÆÉ¤ßÊý¤Ï¡¢''¥±¥í¤­¤å¤¦¥Ç¥¹¥Æ¥£¥Ë¡¼''¡£
--¸¶¶Ê¤Ï¡ÖÅìÊýÉ÷¿ÀÏ¿ ¡Á Mountain of Faith.¡×¤ÎEX¥Ü¥¹¡¢±ÌÌð¿ÛË¬»Ò¤Î¥Æ¡¼¥Þ¤Ç¤¢¤ë¡Ö''¥Í¥¤¥Æ¥£¥Ö¥Õ¥§¥¤¥¹''¡×¡£
--¥¢¥ì¥ó¥¸¤Ï[[Silver Forest>»²²Ã¥¢¡¼¥Æ¥£¥¹¥È°ìÍ÷/Silver Forest]]¤Î''NYO''¡¢ºî»ì¤Ï''bit''¡£
--¥Ü¡¼¥«¥ë¤Ï[[NeGa¡¿PoSi* ¥é¥Ö¡¿¥³¡¼¥ë>Æñ°×ÅÙÉ½/¤ª¤Ë/NeGa¡¿PoSi* ¥é¥Ö¡¿¥³¡¼¥ë]]¤ÈÆ±¤¸¤¯¡¢[[''¤á¤é¤ß¤Ý¤Ã¤×''>¥¢¡¼¥Æ¥£¥¹¥ÈÊÌ¼ýÏ¿¶Ê#mrmpop]]¡£
---¤Á¤Ê¤ß¤Ë¶ÊÌ¾¤Î&#x2468;¤Ï¡¢ÅìÊýProject¤ËÅÐ¾ì¤¹¤ë¥­¥ã¥é¥¯¥¿¡¼¡¢¥Á¥ë¥Î¤Î¤¢¤ÀÌ¾¤Ç¤¢¤ë¡£
+-Á´ÎÉ¤Ç±éÁÕ¤·¤¿¾ì¹ç¡¢53¾®Àá¤ÎÂç²»Éä¤Ç¤Á¤ç¤¦¤É¥Î¥ë¥Þ¤ËÅþÃ£¤¹¤ë¡£
+-¸¶¶Ê¤Ï¡¢¡Ö[[ÅìÊýÉ÷¿ÀÏ¿ ¡Á Mountain of Faith.>ÅìÊýProject¥¢¥ì¥ó¥¸³Ú¶Ê°ìÍ÷#th10]]¡×¤ÎEX¥Ü¥¹¡¢±ÌÌð¿ÛË¬»Ò¤Î¥Æ¡¼¥Þ¤Ç¤¢¤ë¡Ö''¥Í¥¤¥Æ¥£¥Ö¥Õ¥§¥¤¥¹''¡×¡£
+--¤Á¤Ê¤ß¤Ë¶ÊÌ¾¤Î¡Ö­©¡×¤Ï¡¢ÅìÊýProject¤ËÅÐ¾ì¤¹¤ë¥­¥ã¥é¥¯¥¿¡¼¡¢¥Á¥ë¥Î¤Î¤¢¤ÀÌ¾¤Î¤³¤È¡£
+-¥¢¡¼¥Æ¥£¥¹¥È¤Ï¡¢[[''Silver Forest''>»²²Ã¥¢¡¼¥Æ¥£¥¹¥È°ìÍ÷/Silver Forest]]¡£
+--ºî»ì¤Ï¡¢bit¡£ÊÔ¶Ê(¥¢¥ì¥ó¥¸)¤Ï¡¢NYO¡£²Î¾§¤Ï¡¢[[¤á¤é¤ß¤Ý¤Ã¤×>¥¢¡¼¥Æ¥£¥¹¥ÈÊÌ¼ýÏ¿¶Ê#mrmpop]]¡£
 -ÉèÌÌºîÀ®¤Ï¡¢[[''¥«¡¼¥ó''>ÉèÌÌºîÀ®¼Ô°ìÍ÷/¥«¡¼¥ó]]¡£
---Û©¤¯¡¢''"¤Á¤ç¤Ã¤È¶¯°ú¤À¤±¤É¡Ö¥±¥í&#x2468;¡×¢ª¡Ö769¡×(¥³¥ó¥Ü)¤Ë¤·¤¿"''¤È¤Î¤³¤È¡£
--¥¿¥¤¥È¥ë¤Ë¡Ö&#x2468;¡×¤È¤¢¤ëÄÌ¤ê¡¢¤ª¤Ë¥³¡¼¥¹¤ÎÆñ°×ÅÙ¤Ï¡ú¡ß9¤Ç¤¢¤ë¡£
+--Û©¤¯¡¢''"¤Á¤ç¤Ã¤È¶¯°ú¤À¤±¤É¡Ö¥±¥í­©¡×¢ª¡Ö769¡×(¥³¥ó¥Ü)¤Ë¤·¤¿"''¤È¤Î¤³¤È¡£
+-¥¿¥¤¥È¥ë¤Ë¡Ö­©¡×¤È¤¢¤ëÄÌ¤ê¡¢¤ª¤Ë¥³¡¼¥¹¤ÎÆñ°×ÅÙ¤Ï¡ú¡ß9¤Ç¤¢¤ë¡£
 -¥­¥ß¥É¥êVer.¤Ç¤Î¤³¤ÎÉèÌÌ¤Î¥é¥ó¥­¥ó¥°¤Î¥ì¥Ù¥ë¤ÏÈó¾ï¤Ë¹â¤¯¡¢''Á´¹ñ1000°Ì°ÊÆâ¤Ë¥é¥ó¥¯¥¤¥ó¤¹¤ë¤Ë¤Ï¡¢¾¯¤Ê¤¯¤È¤â110ËüÅÀÂæ¸åÈ¾(Á´ÎÉ¤Î¾ì¹ç¡¢Ï¢ÂÇ¤òÌó20ÂÇ/ÉÃ°Ê¾å)¤¬É¬Í×''¤Ç¤¢¤Ã¤¿¡£
 -¶ÊID¤Ï¡¢''thkero''¡£
 

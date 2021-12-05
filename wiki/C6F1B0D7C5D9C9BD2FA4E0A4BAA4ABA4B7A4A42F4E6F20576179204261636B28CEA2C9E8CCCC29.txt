@@ -1,9 +1,11 @@
 * No Way Back(裏譜面) [#title]
 
 ***詳細・攻略 [#more]
-|CENTER:バージョン|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-|CENTER:''Wii3''|CENTER:★×8|CENTER:''492''|CENTER:''859320点''|CENTER:＋連打|CENTER:440点|CENTER:110点|CENTER:''ゴーゴーバグあり''|
-|CENTER:PSPDXDL|~|CENTER:''511''|CENTER:''880880点''|~|CENTER:460点|~||
+|>|>|>|>|>|>|>|>|CENTER:|c
+|バージョン|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+|''Wii3''|BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|★×8|''492''|''859320点''|＋連打|440点|110点|''ゴーゴーバグあり''|
+|PSPDXDL|~|~|''511''|''880880点''|~|460点|~||
+
 -BPMは約158。
 ***Wii3の譜面 [#wii3]
 -[[表>難易度表/むずかしい/No Way Back]]とは違って、91小節目以降も小節線がある。

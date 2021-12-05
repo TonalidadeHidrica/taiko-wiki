@@ -12,23 +12,24 @@
 ***譜面構成・攻略 [#capture]
 -BPMは148-163。
 -連打秒数目安・・・約0.798秒
--16分音符の長複合が多い。配色は単純なものも多いが、所々に偶数連打や、やや複雑なものもあったりする。どちらかと言えば体力譜面であろう。
--★×9を代表する総合譜面。奇数複合、偶数複合、長複合、変拍子、速度変化、12分音符配置などありとあらゆる要素が含まれているので地力上げに最適。
+-16分長複合が多い。配色は単純なものも多いが、所々に偶数連打や、やや複雑なものもあったりする。どちらかと言えば体力譜面であろう。
+-★×9を代表する総合譜面。奇数複合、偶数複合、長複合、変拍子、速度変化、12分などありとあらゆる要素が含まれているので地力上げに最適。
 --リズムも一定でなく物量も多いので、でたらめノックにも向いている。
 -ゴーゴータイムは特に高密度で、それ以外はややリズム難な箇所が多い。
--17小節〜18小節にある13連打は&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}もしくは&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}と区切ると良い。
--19小節と20小節にまたがる16連打は連打の終わり際で崩されやすい。COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●●●}/COLOR(red){●}COLOR(blue){○}と区切ると良いであろう。
+-17〜18小節にある13連打は&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}もしくは&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}と区切ると良い。
+-19〜20小節にまたがる16連打は連打の終わり際で崩されやすい。COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●●●}/COLOR(red){●}COLOR(blue){○}と区切ると良いであろう。
 -間奏にある、縁12分+24分〜面8分はリズムを崩されやすいので注意。
 -終盤に出てくる長い複合の区切りは COLOR(blue){○○○○}/&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}
 --COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}をひたすら繰り返すが、COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}に注意。
 -平均密度は、''約6.89打/秒''。
 
 ***その他 [#other]
--作曲・編曲は、''paraμ''((パラミューと読む))。
+-作曲・編曲は、''&ruby(パラミュー){paraμ};''。
+--トラックダウンは、[[''村上正信''>参加アーティスト一覧/村上正信]]。
 -譜面作成は、''[[増渕裕二>譜面作成者一覧/増渕裕二]]''。
--新筐体でこの譜面をフルコンボすると、''称号｢アイリッシュドンだー｣''を獲得できる。
+-新筐体でこの譜面をフルコンボすると、''称号''「''アイリッシュドンだー''」を獲得できる。
 -クレオフーガ投稿時にはインストではなく、歌物として想定されて作られていたらしい。
--[[ムラサキver.段位道場>過去の段位道場#murasaki]]、[[ブルーver.段位道場>過去の段位道場#blue]]の八段1曲目課題曲となった。
+-[[ムラサキVer.段位道場>過去の段位道場#murasaki]]、[[ブルーVer.段位道場>過去の段位道場#blue]]の八段1曲目課題曲となった。
 -曲IDは、''irpunk''。
 
 ----
@@ -38,6 +39,7 @@
 -[[オート動画(Wii U2)>https://www.youtube.com/watch?v=9X83ELuuIBE]]
 
 ***コメント [#comment]
+-COLOR(red){''ここのコメントページでは、太鼓の達人においての曲に関する話題のみで書き込みをお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

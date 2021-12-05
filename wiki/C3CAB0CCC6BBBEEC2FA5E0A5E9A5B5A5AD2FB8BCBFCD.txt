@@ -31,7 +31,7 @@
 --サビでは偶数と奇数が混ざった配置が多発する。
 //この配置はリズムを崩されやすいのでこの配置は[[紫煌ノ乱>難易度表/おに/紫煌ノ乱]]で練習しよう。この曲なら終盤の24分混じりの長複合など得るものも多い。
 --序盤のゴーゴーは面を逆手、縁を利き手でおおよそ固定すると精度がとりやすいこともある。
----「COLOR(red){●　●●}COLOR(blue){●}　COLOR(red){●}COLOR(blue){●　●}COLOR(red){●}　COLOR(blue){●}COLOR(red){●　●}COLOR(blue){●}COLOR(red){●}　COLOR(blue){●}COLOR(red){●}　COLOR(blue){●}COLOR(red){●●}　COLOR(blue){●}COLOR(red){●}　COLOR(blue){●}COLOR(red){●●●}COLOR(blue){●}　COLOR(blue){●}COLOR(red){●}COLOR(blue){●}　COLOR(blue){●}COLOR(red){●●●}COLOR(blue){●}　COLOR(blue){●}COLOR(red){●●●}COLOR(blue){●}　COLOR(blue){●}COLOR(red){●}COLOR(blue){●}　COLOR(blue){●}COLOR(red){●●●●}COLOR(blue){●}COLOR(red){●}COLOR(red){●●●}」を、
+---「COLOR(red){●　●●}COLOR(blue){◯}　COLOR(red){●}COLOR(blue){◯　◯}COLOR(red){●}　COLOR(blue){◯}COLOR(red){●　●}COLOR(blue){◯}COLOR(red){●}　COLOR(blue){◯}COLOR(red){●}　COLOR(blue){◯}COLOR(red){●●}　COLOR(blue){◯}COLOR(red){●}　COLOR(blue){◯}COLOR(red){●●●}COLOR(blue){◯}　COLOR(blue){◯}COLOR(red){●}COLOR(blue){◯}　COLOR(blue){◯}COLOR(red){●●●}COLOR(blue){◯}　COLOR(blue){◯}COLOR(red){●●●}COLOR(blue){◯}　COLOR(blue){◯}COLOR(red){●}COLOR(blue){◯}　COLOR(blue){◯}COLOR(red){●●●●}COLOR(blue){◯}COLOR(red){●}COLOR(red){●●●}」を、
 　　「右　右左右　左右　右左　右左　左右左　右左　右左左　右左　右左右左右　右左右　右左右左右　　右左右左右　右左右左右左右左右左」と叩くなど。
 --また、このBPMなら利き手始動も精度がとりやすい。
 -[[Black Rose Apostle(裏譜面)>難易度表/おに/Black Rose Apostle(裏譜面)]]までに可を最低でも15は残しておければ大丈夫だろう。ただ力の入れすぎによる体力切れに注意。

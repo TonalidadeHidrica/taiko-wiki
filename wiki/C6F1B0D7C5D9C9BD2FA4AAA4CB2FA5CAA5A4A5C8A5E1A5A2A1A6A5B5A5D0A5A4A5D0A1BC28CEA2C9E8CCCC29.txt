@@ -3,17 +3,19 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.3.0SP''|Wii U1SP&br;3DS2SP&br;PS Vita1DL&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''876''|''1204740点''|400点|90点|
-|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1005880点''}|COLOR(#ff3300){1060点}|-|
-||iOS&br;AR|~|~|~|''1212730点''|400点|80点|
-|AC16.1.0||~|~|~|''1007240点''|1140点|-|
+|''AC15.3.0SP''|Wii U1SP&br;3DS2SP&br;PS Vita1DL&br;PS4 1DL&br;NS RPG SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''876''|''1204740点''|400点|90点|
+||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|
+||3DS2韓SP|BGCOLOR(orangered):''&#45224;&#53076;&br;&#50724;&#47532;&#51648;&#45328;''|~|~|~|~|~|
+||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1212730点''|~|80点|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1005880点''}|COLOR(#ff3300){1060点}|-|
+|AC16.1.0||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1007240点''|1140点|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは約114〜161。基本BPMは155。
+-BPMは約114-161。基本BPMは155。
 -''精度曲''のひとつ。
 -縁の割合は約32.77%(287/876)と少ない。
 -[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]や[[KAGEKIYO 源平討魔伝メドレー(裏譜面)>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]をさらに強化したような譜面。
---[[表譜面>難易度表/おに/ナイトメア・サバイバー]]に比べて24分音符(''BPM232.5の16分相当'')や長複合が非常に多く、技術的要素が大幅に増している。
+--[[表譜面>難易度表/おに/ナイトメア・サバイバー]]に比べて24分音符(''BPM232.5の16分音符相当'')や長複合が非常に多く、技術的要素が大幅に増している。
 -開幕以外のゴーゴータイムは、ほぼ全域がフルコンボ・全良の難所。同じくギター合わせの発狂を持つ[[No Way Back(裏譜面)>難易度表/おに/No Way Back(裏譜面)]]と似た24分音符を数多く含んだ複合地帯がある。
 --★×10の中ではBPMが比較的遅いとはいえ、''複合のレベルは非常に高い''。パターン化ができずこれという区切りはできない。また、裏拍から始まるものが多いため逆手始動の方が叩きやすくなる場合もある。
 -大きな休憩地帯はほとんどない。比較的易しい道中を安定して叩けないとクリアすら難しくなる。
@@ -21,40 +23,40 @@
 ---但し、複合パターンはほぼ同じなので一定のリズムさえ掴めば十分回復地帯となる。
 --また、BPMもそれほど速くはないのでクリア狙いや密集した譜面の確認として「はやさ」「ばいそく」を使用するのも手段の一つ。
 -道中に配置された短い6打風船(約13.3打/秒)及びラストの60打風船(約14.5打/秒)が地味に割りにくく、シングルで割るには苦しい。
---54小節の風船は、打数こそ2打と少ないが長めの16分に隣接して入力受付時間が短いことに加え、直後の55小節目最初の音符が面であるため、割る際には巻き込みにも注意が必要。
+--54小節の風船は、打数こそ2打と少ないが長めの16分音符に隣接して入力受付時間が短いことに加え、直後の55小節の最初の音符が面であるため、割る際には巻き込みにも注意が必要。
 -ラスト9打はBPMが40近く下がっているので要注意。
 -平均密度は、''約7.61打/秒''。やや遅めのBPMにしては高い数値。
 
 ***対策 [#steps]
 -逆手をどれだけ上手く使いこなせるかが攻略の第一歩。道中の6連打(COLOR(red){●●●●●}COLOR(blue){○})や発狂地帯の複合のほとんどは裏拍から始まっている。
 --小節の頭からの5連打の前に1打プラスされたものが多い。COLOR(red){●}/COLOR(red){●●●●}COLOR(blue){○}や下記の複合など。
---特に36、49、66小節目から始まる複合に対して、24分音符を利き手から捌けるようになるので非常に有利である。
----但し、48小節目からの複合はラストのCOLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}を逆手で捌かなければならないので、どう叩くかあらかじめ決めておくと良いだろう。
+-特に、36・49・66小節から始まる複合に対して、逆手入りができると24分音符を利き手から捌けるようになるので非常に有利である。
+--但し、48小節からの複合はラストのCOLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}を逆手で捌かなければならないので、どう叩くかあらかじめ決めておくと良いだろう。
 --しかし、道中の6連打などは人によっては利き手で入ったほうが安定する場合もある。
----上記のことから、自分に合った叩き方を見つけ出すことがこの譜面において最も重要なポイントとなり、詰め始めと比べて運手が大きく変わることも珍しくない。いかにこの譜面を研究しているかが鍵となるだろう。
+-上記のことから、自分に合った叩き方を見つけ出すことがこの譜面において最も重要なポイントとなり、詰め始めと比べて運手が大きく変わることも珍しくない。いかにこの譜面を研究しているかが鍵となるだろう。
 -複合の見切り方については[[下記を参照>難易度表/おに/ナイトメア・サバイバー(裏譜面)#advice]]。
 --上記にもある通り、最初の1打を逆手始動で叩いておくと楽になることがわかるだろう。
 
 ***複合見切り方一例 [#advice]
--%%%下線%%%は24分「-」は「/」と同じだが間が空いている(休符)ことを示す。&br;&br;
+-%%%下線%%%は24分音符「-」は「/」と同じだが間が空いている(休符)ことを示す。&br;&br;
 --36〜38小節&br;36 COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/%%%COLOR(red){●●}COLOR(blue){○}%%%&br;
 37 %%%COLOR(blue){○}%%%-%%%COLOR(red){●●}COLOR(blue){○○}%%%-%%%COLOR(red){●●}COLOR(blue){○○}%%%-%%%COLOR(red){●●}COLOR(blue){○}%%%-%%%COLOR(red){●●}COLOR(blue){○}%%%-COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/&br;
 38 COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●●}COLOR(blue){○}(+風船)&br;&br;
 --48〜51小節&br;
 48 COLOR(red){●●●}/&br;
-49 %%%COLOR(blue){○○○}COLOR(red){●●●}/COLOR(red){●}%%%COLOR(blue){○○}COLOR(red){●}/%%%COLOR(red){●●●}COLOR(blue){○○○}/COLOR(red){●}%%%COLOR(red){●}COLOR(blue){○○}/&br;
-50 %%%COLOR(red){●●●}COLOR(blue){○}%%%/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}%%%COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}%%%/COLOR(blue){○○}COLOR(red){●}&br;
+49 %%%COLOR(blue){○○○}COLOR(red){●●●}%%%/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/%%%COLOR(red){●●●}COLOR(blue){○○○}%%%/COLOR(red){●}COLOR(red){●}COLOR(blue){○○}/&br;
+50 %%%COLOR(red){●●●}%%%COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}%%%COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●}%%%COLOR(red){●}/COLOR(blue){○○}COLOR(red){●}&br;
 51 COLOR(red){●}&br;&br;
 --65〜69小節&br;
 65 COLOR(red){●}/&br;
 66 COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/&br;
 67 COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/&br;
-68 %%%COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●}%%%COLOR(red){●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(blue){○○}&br;
-69 %%%COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●}%%%COLOR(red){●}COLOR(blue){○}COLOR(red){●}/%%%COLOR(blue){○}COLOR(blue){○○}COLOR(red){●●●}/COLOR(red){●}%%%COLOR(blue){○○}COLOR(red){●}&br;
+68 %%%COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}%%%/COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(blue){○○}&br;
+69 %%%COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}%%%/COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/%%%COLOR(blue){○}COLOR(blue){○○}COLOR(red){●●●}%%%/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}&br;
 70 COLOR(red){●}
 
 ***その他 [#other]
--楽曲情報については[[表譜面>難易度表/おに/ナイトメア・サバイバー]]を参照。
+-楽曲情報は[[表譜面>難易度表/おに/ナイトメア・サバイバー]]を参照。
 -略称は、''ナイサバ裏''・''鯖裏''など。
 --鯖裏とする場合、[[限界突破×サバイバー(裏譜面)>難易度表/おに/限界突破×サバイバー(裏譜面)]]との混同に注意。
 -譜面作成は、[[''カーン''>譜面作成者一覧/カーン]]。
@@ -66,9 +68,12 @@
 -[[ふつう>難易度表/ふつう/ナイトメア・サバイバー]]
 -[[むずかしい>難易度表/むずかしい/ナイトメア・サバイバー]]
 -[[おに>難易度表/おに/ナイトメア・サバイバー]]/裏譜面
+-[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=mxySB5EHYLw&t=8s]]
 -[[オート動画(Wii U1)>https://www.youtube.com/watch?v=ZfC4lRavE1s]]((Wii U1仕様の関係で、HS1.05が掛かっています))
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

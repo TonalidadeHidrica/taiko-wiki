@@ -1,10 +1,12 @@
 *STEPPING WIND　風のクロノア2 [#title]
--ゲーム「''風のクロノア2 世界が望んだ忘れもの''」のミラ・ミラ大雪山ステージのBGM。
-***詳細・攻略 [#details]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER::|CENTER::|CENTER::|c
+-ゲーム「''[[風のクロノア2 世界が望んだ忘れもの>ゲーム別収録曲#klonoa]]''」のミラ・ミラ大雪山ステージのBGM。
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 ||''CS1''|★×4|''349''|''575920点''|+連打|530点|120点|
-|AC4||~|~|''??????点''|~|~|???点|
+|AC4||~|~|''?????0点''|~|~|???点|
+
+***譜面構成・攻略 [#capture]
 -BPMは164。
 -曲は比較的長め。
 -当時★×3だった[[TRAIN-TRAIN>難易度表/ふつう/TRAIN-TRAIN]]よりBPMは遅いものの、それにはない8分複合がある。
@@ -26,15 +28,13 @@
 --[[風のクロノアシリーズ>ゲーム別収録曲#klonoa]]の曲が収録されるのはこの曲以来であり、''約11年2ヶ月振り''のことである。
 -曲IDは、''klono''。
 ----
-
 -[[むずかしい>難易度表/むずかしい/STEPPING WIND]]
 -[[おに>難易度表/おに/STEPPING WIND]]
-//-[[歌詞(日本語訳付き)>http://klonoa.client.jp/text/klonoa_lang.html]]
 -[[プレイ動画>https://www.youtube.com/watch?v=_5cFLcz7hMk]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-69〜73小節については69小節の初め〜74小節まで小節線が流れてきません。
-&ref(kuronoa2_normal.png,nolink);
+~69〜73小節については69小節の初め〜74小節まで小節線が流れてきません。
+~&ref(kuronoa2_normal.png,nolink);

@@ -1,11 +1,18 @@
-*Escatumbararib&#234;((最後の「&ecirc;」(eの上に^)が機種依存文字であるためページ名は通常の「e」を使用)) [#kdcb8f95]
-***攻略・詳細 [#lc30f672]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''WM''|★×4|''304''|''?????0点''|＋連打|790点|233点|
--BPMは130?
+*&ruby(エスカトゥンバラリベ){Escatumbararib&#234;};((最後の「&ecirc;」は機種依存文字であるため、ページ名は通常の「e」を使用している)) [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''WM''|BGCOLOR(cyan):''M&#250;sicas&br;Brasileiras''|★×4|''304''|''?????0点''|＋連打|790点|233点|
+
+***譜面構成・攻略 [#capture]
+-BPMは132.472。
+-連打秒数目安・・・約1.09457秒×4：合計約4.3783秒
 -曲がかなり短い(最初の音符から最後の音符まで約86秒)。
--曲名の読み方は、''エスカトゥンバラリベ''。
+
+//***その他 [#other]
+//-曲IDは、''bresca''。
+
 ----
 -[[かんたん>難易度表/かんたん/Escatumbararibe]]
 -[[ふつう>難易度表/ふつう/Escatumbararibe]]
@@ -13,7 +20,8 @@
 -[[プレイ動画>https://www.youtube.com/watch?v=AJsG18FRna0]]
 -[[プレイ動画2(フルコンボ)>https://www.youtube.com/watch?v=3T3Pp6zVgTg]]
 
-***コメント [#oc61f485]
+***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
+~&attachref(ES.png,nolink);

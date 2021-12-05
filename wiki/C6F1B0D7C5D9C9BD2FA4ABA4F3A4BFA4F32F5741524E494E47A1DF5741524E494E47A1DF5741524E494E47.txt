@@ -1,32 +1,31 @@
 *WARNING×WARNING×WARNING [#title]
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.9.6''|NS1DL|BGCOLOR(lime):''バラエティ''|★×2|''100''|''280260点''|＋連打|740点|270点|
-|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''968000点''}|~|COLOR(#ff3300){7050点}|-|
-|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???点|-|
+|>|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|人数|>|天井スコア|初項|公差|h
+|''AC15.9.6''|NS1DL|BGCOLOR(lime):''バラエティ''|★×2|''100''|1人|''280260点''|+連打|740点|270点|
+|~|~|~|~|~|2人|''286260点''|~|~|~|
+|~|~|~|~|~|~|''287460点''((ふつうと同時にプレイしくすだまを1人で叩ききった際の点数))|~|~|~|
+|COLOR(#ff3300){真打}||~|~|~|-|COLOR(#ff3300){''968000点''}|~|COLOR(#ff3300){7050点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|-|''990200点''|~|9840点|-|
+|AC16.2.12||BGCOLOR(lime):''バラエティ''|~|~|-|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは172。
 -連打秒数目安・・・''約1.017秒''×2−約1.366秒×2−''約1.017秒×2−SIZE(16){約1.017秒}×2−SIZE(16){約1.366秒}−SIZE(16){約1.017秒}−SIZE(16){約2.063秒}''−SIZE(16){約1.366秒}:合計14.646秒
+-大音符が多く、''30個''(30%)ある。
 
 ***その他 [#other]
--原曲は、「東方紺珠伝 〜 Legacy of Lunatic Kingdom.」の5面テーマ曲「''遥か38万キロのボヤージュ''」と、5面ボス・クラウンピースのテーマである「''星条旗のピエロ''」。
--アレンジ(編曲)・作詞は、''暁Records''のACTRock。
---歌唱は、''Stack''。
--曲IDは、''thwarn''。
-
+-楽曲情報は[[おに譜面>難易度表/おに/WARNING×WARNING×WARNING]]を参照。
 ----
 -[[ふつう>難易度表/ふつう/WARNING×WARNING×WARNING]]
 -[[むずかしい>難易度表/むずかしい/WARNING×WARNING×WARNING]]
 -[[おに>難易度表/おに/WARNING×WARNING×WARNING]]
 -[[プレイ動画>https://www.youtube.com/watch?v=BVeRMsgAr0s]]
--[[公式PV(ニコニコ)>http://www.nicovideo.jp/watch/sm27818337]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船、くすだまの長さは適当
-&attachref(鰐かんたん.png,nolink);
+~風船・くすだまの長さは適当
+~&attachref(鰐かんたん.png,nolink);

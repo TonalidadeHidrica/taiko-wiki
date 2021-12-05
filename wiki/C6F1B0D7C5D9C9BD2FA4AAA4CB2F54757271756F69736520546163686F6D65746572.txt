@@ -1,4 +1,4 @@
-*Turquoise Tachometer [#title]
+*&ruby(ターコイズ ){Turquoise}; &ruby(タコメーター){Tachometer};  [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -6,34 +6,38 @@
 |''AC15.9.0SP''|PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''835''|''1102250点''|+連打|410点|100点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1000980点''}|~|COLOR(#ff3300){1180点}|-|
 |AC16.1.0||~|~|~|''1003300点''|~|1200点|-|
+||iOS&br;AR|~|~|~|''1?????0点''|~|390点|90点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは164。
 -連打秒数目安・・・''約0.884秒''×2−約0.701秒:合計約2.469秒
 -偶数連打が多く、長い複合も交じるテクニカルな譜面。
 --休憩地帯がほぼないため、体力も必須。複合は極めて複雑な訳ではないので、上級者ほど体感難易度は下がりやすい。
---9、54小節目には裏拍から入る長複合もある。逆手から入って、もしくは音符間隔に音を嵌める（9・17小節目には面、54小節目には縁）なら取りやすいか。
----9、17小節目に面を嵌めるとCOLOR(red){●●}COLOR(blue){○○}|COLOR(red){●●}COLOR(blue){○○}|COLOR(red){(●)}COLOR(blue){○○○}|COLOR(red){●●}COLOR(blue){○○}、54小節目に縁を嵌めるとCOLOR(red){● ●}COLOR(blue){○(○)}COLOR(red){●}COLOR(blue){○○}|COLOR(red){●}COLOR(blue){○}COLOR(red){●●}|COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}になれる。
+--9・54小節には裏拍から入る長複合もある。逆手から入って、もしくは音符間隔に音を嵌める（9・17小節目には面、54小節目には縁）なら取りやすいか。
+---9・17小節に面を嵌めるとCOLOR(red){●●}COLOR(blue){○○}|COLOR(red){●●}COLOR(blue){○○}|COLOR(red){(●)}COLOR(blue){○○○}|COLOR(red){●●}COLOR(blue){○○}、54小節目に縁を嵌めるとCOLOR(red){● ●}COLOR(blue){○(○)}COLOR(red){●}COLOR(blue){○○}|COLOR(red){●}COLOR(blue){○}COLOR(red){●●}|COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}になれる。
 -序盤と終盤に譜面が加速→減速するソフランがある。
 --特に序盤は追い越しで譜面が見づらいため注意が必要。
---幸い24分音符は少なく、58、59小節のみにしか配置されていない。これが最大の救いだろう。
+-幸い24分音符は少なく、58・59小節のみにしか配置されていない。これが最大の救いだろう。
 -平均密度は''約7.66打/秒''と、★×9では高め。
 
 ***その他 [#other]
--曲名の読み方は、''ターコイズ タコメーター''。
---略称は、''蛸蛸''など。
--アーティストは、[[''AJURIKA''>参加アーティスト一覧/遠山明孝]]。 
---歌唱は、''Julie''。
--この譜面と、[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]](おに)または[[Evidence of evil>難易度表/おに/Evidence of evil]](おに)を1ゲーム内でフルコンボすると、''称号''「''Seafood Seeker''」を入手できる。
+-略称は、''蛸蛸''など。
+-作曲・編曲・トラックダウンは、[[''AJURIKA''>参加アーティスト一覧/遠山明孝]]。 
+-歌唱は、''Julie''。
+-この譜面と、[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]](おに)または[[Evidence of evil>難易度表/おに/Evidence of evil]](おに)を1ゲーム内でフルコンボすると、''称号''「''Seafood Seeker''」を獲得できる。
 -曲IDは、''ta5ta5''。
+
 ----
 -[[かんたん>難易度表/かんたん/Turquoise Tachometer]]
 -[[ふつう>難易度表/ふつう/Turquoise Tachometer]]
 -[[むずかしい>難易度表/むずかしい/Turquoise Tachometer]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=4ar9PgxToNQ&t=16s]]
+-[[オート動画(PS4 1)>https://m.youtube.com/watch?v=gxIwyBcQILM&feature=youtu.be&t=3s]]
 -[[公式曲紹介>https://www.youtube.com/watch?v=vscoOcPnxZ8]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

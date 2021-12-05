@@ -1,12 +1,14 @@
 *Butter-Fly [#title]
 -アニメ「''デジモンアドベンチャー''」のOP。
 -映画「''デジモンアドベンチャー LAST EVOLUTION 絆''」主題歌。
-***詳細 [#detail]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.8.0|CENTER:''PS Vita1''&br;NS1DL&br;PS4 1DL|CENTER:★×4|CENTER:''100''|CENTER:''344630点''|CENTER:＋連打|CENTER:970点|CENTER:548点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''985650点''}|~|CENTER:COLOR(#ff3300){8370点}|CENTER:-|
-||iOS&br;AR|~|~|''?????0点''|~|930点|320点|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.8.0|''PS Vita1''&br;NS1DL&br;PS4 1DL&br;PTB|BGCOLOR(orange):''アニメ''|★×4|''100''|''344630点''|＋連打|970点|548点|
+||''PS Vita1亜''|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''985650点''}|~|COLOR(#ff3300){8370点}|-|
+||iOS&br;AR|BGCOLOR(orange):''アニメ''|~|~|''331650点''|~|930点|320点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは165。
@@ -27,7 +29,8 @@
 -譜面作成は、[[''すえP''>譜面作成者一覧/すえP]]。
 -曲IDは、''digmon''。
 -''2019年6月27日(木)7:00をもって新筐体の全てのバージョンよりサヨナラ''となった。
---14以前のACには収録されていないため、現在はPS Vita1、iOS/AR、NS1、PS4 1で遊べる。(iOS/AR、NS1、PS4 1ではDLが必要)
+--14以前のACには収録されていないため、現在は家庭用作品でしか遊べない。(PS Vita1以外ではDLが必要)
+
 -----
 -[[ふつう>難易度表/ふつう/Butter-Fly]]
 -[[むずかしい>難易度表/むずかしい/Butter-Fly]]

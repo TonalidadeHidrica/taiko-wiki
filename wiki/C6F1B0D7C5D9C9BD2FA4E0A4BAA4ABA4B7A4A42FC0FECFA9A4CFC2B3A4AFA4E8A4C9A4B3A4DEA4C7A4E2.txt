@@ -1,9 +1,8 @@
 *線路は続くよどこまでも [#title]
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC8|''CS6''|★×4|COLOR(#909):''344&br;COLOR(#069):252&br;COLOR(#666):184''|''697680点''|＋連打|770点|110点|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC8|''CS6''|BGCOLOR(magenta):''童謡・民謡''|★×4|COLOR(#909):''344&br;COLOR(#069):252&br;COLOR(#666):184''|''697680点''|＋連打|770点|110点|
 -BPMは120。
 -曲IDは、''senro''。
 -[[かんたん>難易度表/かんたん/線路は続くよどこまでも]]

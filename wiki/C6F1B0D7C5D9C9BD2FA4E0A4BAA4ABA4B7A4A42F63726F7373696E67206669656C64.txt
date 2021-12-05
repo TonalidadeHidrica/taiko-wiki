@@ -1,10 +1,13 @@
 *crossing field [#title]
--アニメ[[「''ソードアート・オンライン''」>アニメ別収録曲#sao]]のOP1。
-***詳細 [#detail]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.7.0|CENTER:''PS Vita1''&br;PS4 1DL&br;NS1DL|CENTER:★×4|CENTER:''215''|CENTER:''686530点''|CENTER:＋連打|CENTER:780点|CENTER:245点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''985660点''}|~|CENTER:COLOR(#ff3300){3640点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''674750点''|~|CENTER:750点|CENTER:190点|
+-アニメ「[[''ソードアート・オンライン''>アニメ別収録曲#sao]]」のOP1。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.7.0|''PS Vita1''&br;PS4 1DL&br;NS1DL|BGCOLOR(orange):''アニメ''|★×4|''215''|''686530点''|＋連打|780点|245点|
+||''PS Vita1亜''|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''985660点''}|~|COLOR(#ff3300){3640点}|-|
+||iOS|BGCOLOR(orange):''アニメ''|~|~|''674750点''|~|750点|190点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは179。
@@ -22,6 +25,7 @@
 -曲IDは、''saoop''。
 -''2019年12月2日(月)7:00をもって新筐体の全てのバージョンよりサヨナラ''となった。
 --14以前のACには収録されていないため、現在はこの曲が収録されている家庭用作品でのみ遊べる(PS4 1、iOS、NS1ではDLが必要)。
+
 ----
 -[[かんたん>難易度表/かんたん/crossing field]]
 -[[ふつう>難易度表/ふつう/crossing field]]

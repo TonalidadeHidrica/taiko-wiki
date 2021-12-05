@@ -1,13 +1,12 @@
-*¥Þ¥Ä¥±¥ó¥µ¥ó¥Ð­¶ [#title]
-***¾ÜºÙ¡¦¹¶Î¬ [#more]
--BPM¤ÏÌó127¡£
+*¥Þ¥Ä¥±¥ó¥µ¥ó¥Ð­¶ &br;¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐII((3DS2¤ÎÉ½µ­)) [#title]
 
-***1¿ÍÍÑÉèÌÌ [#one]
--¾ÜºÙ¤Ï°Ê²¼¤ÎÄÌ¤ê¡§
+***¾ÜºÙ¡¦¹¶Î¬ [#more]
+-BPM¤Ï127.15¡£
+***1¿ÍÍÑÉèÌÌ [#single]
 |>|CENTER:¥Ð¡¼¥¸¥ç¥ó|CENTER:¥¸¥ã¥ó¥ë|CENTER:Æñ°×ÅÙ|CENTER:ºÇÂç¥³¥ó¥Ü¿ô|>|CENTER:Å·°æ¥¹¥³¥¢|CENTER:½é¹à|CENTER:¸øº¹|CENTER:È÷¹Í|h
-||CENTER:''CS5''|CENTER:''¥Ð¥é¥¨¥Æ¥£''|CENTER:¡ú¡ß5|CENTER:''123''|CENTER:''?????0ÅÀ''|CENTER:¡ÜÏ¢ÂÇ|CENTER:970ÅÀ|CENTER:340ÅÀ|CENTER:''¥´¡¼¥´¡¼¥Ð¥°¤¢¤ê''|
-|CENTER:AC7||CENTER:''J-POP''|~|~|CENTER:''?????0ÅÀ''|~|CENTER:800ÅÀ|CENTER:220ÅÀ|~|
-||CENTER:PSP1|CENTER:''¥Ð¥é¥¨¥Æ¥£''|~|~|CENTER:''?????0ÅÀ''|~|~|~|~|
+||CENTER:''CS5''|BGCOLOR(lime):CENTER:''¥Ð¥é¥¨¥Æ¥£''|CENTER:¡ú¡ß5|CENTER:''123''|CENTER:''?????0ÅÀ''|CENTER:¡ÜÏ¢ÂÇ|CENTER:970ÅÀ|CENTER:340ÅÀ|CENTER:''¥´¡¼¥´¡¼¥Ð¥°¤¢¤ê''|
+|CENTER:AC7||BGCOLOR(cyan):CENTER:''J-POP''|~|~|CENTER:''?????0ÅÀ''|~|CENTER:800ÅÀ|CENTER:220ÅÀ|~|
+||CENTER:PSP1|BGCOLOR(lime):CENTER:''¥Ð¥é¥¨¥Æ¥£''|~|~|CENTER:''?????0ÅÀ''|~|~|~|~|
 |CENTER:AC8-9||~|~|~|CENTER:''?????0ÅÀ''|~|CENTER:890ÅÀ|CENTER:210ÅÀ||
 ||CENTER:3DS2DL|~|~|~|CENTER:''364560ÅÀ''|~|CENTER:850ÅÀ|CENTER:353ÅÀ||
 -²«¿§Ï¢ÂÇ¤¬Â¿¤¤Ï¢ÂÇ¶Ê¤Ç¤¢¤ë¡£
@@ -16,28 +15,28 @@
 -4Ê¬¤¬¼çÂÎ¤ÎÉèÌÌ¤Ç¡¢¤¿¤Þ¤Ë8Ê¬¤ä16Ê¬¤â½Ð¤Æ¤¯¤ë¡£
 --16Ê¬¤ÏÃ±¿§¤Î2Ï¢ÂÇ¤·¤«¤Ê¤¯¡¢¤½¤Î¤Û¤È¤ó¤É¤¬Ã±È¯¤Ç¤¢¤ë¡£
 --¤Þ¤¿¡¢4Ê¬¤ÎÊ£¹ç¤ÏÁ´ÂÎÅª¤ËÄ¹¤á¤Î¤¬Â¿¤¤¡£
--3²ó½Ð¤Æ¤¯¤ë4Ê¬¤ÎÊ£¹ç5Ï¢ÂÇ¡Ê¡ü¡ü¡ü¡û¡ü¡Ë¤ËÃí°Õ¡£
+-3²ó½Ð¤Æ¤¯¤ë4Ê¬¤ÎÊ£¹ç5Ï¢ÂÇ¡ÊCOLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü}¡Ë¤ËÃí°Õ¡£
 -¥Õ¥ë¥³¥óÆñ°×ÅÙ¤Ï¤«¤Ê¤ê¹â¤á¤À¤¬¡¢Á´ÂÎÅª¤ËÌ©ÅÙ¤¬Äã¤¯¥¹¥«¥¹¥«¤Ê²Õ½ê¤¬Â¿¤¤¡£
 
-***2¿ÍÍÑÉèÌÌ [#two]
--¾ÜºÙ¤Ï°Ê²¼¤ÎÄÌ¤ê¡§
+***2¿ÍÍÑÉèÌÌ [#double]
 |>|CENTER:¥Ð¡¼¥¸¥ç¥ó|CENTER:¥¸¥ã¥ó¥ë|CENTER:Æñ°×ÅÙ|>|CENTER:ºÇÂç¥³¥ó¥Ü¿ô|>|>|>|CENTER:Å·°æ¥¹¥³¥¢|CENTER:½é¹à|CENTER:¸øº¹|CENTER:È÷¹Í|h
 |~|~|~|~|CENTER:1P|CENTER:2P|>|CENTER:1P|>|CENTER:2P|~|~||h
-||CENTER:''CS5''|CENTER:''¥Ð¥é¥¨¥Æ¥£''|CENTER:¡ú¡ß5|CENTER:''120''|CENTER:''124''|CENTER:''?????0ÅÀ''|CENTER:¡ÜÏ¢ÂÇ|CENTER:''?????0ÅÀ''|CENTER:¡ÜÏ¢ÂÇ|CENTER:1000ÅÀ|CENTER:360ÅÀ|CENTER:''¥´¡¼¥´¡¼¥Ð¥°¤¢¤ê''|
-|CENTER:AC7||CENTER:''J-POP''|~|~|~|CENTER:''?????0ÅÀ''|~|CENTER:''?????0ÅÀ''|~|CENTER:800ÅÀ|CENTER:220ÅÀ|~|
-||CENTER:PSP1|CENTER:''¥Ð¥é¥¨¥Æ¥£''|~|~|~|CENTER:''?????0ÅÀ''|~|CENTER:''?????0ÅÀ''|~|||~|
+||CENTER:''CS5''|BGCOLOR(lime):CENTER:''¥Ð¥é¥¨¥Æ¥£''|CENTER:¡ú¡ß5|CENTER:''120''|CENTER:''124''|CENTER:''?????0ÅÀ''|CENTER:¡ÜÏ¢ÂÇ|CENTER:''?????0ÅÀ''|CENTER:¡ÜÏ¢ÂÇ|CENTER:1000ÅÀ|CENTER:360ÅÀ|CENTER:''¥´¡¼¥´¡¼¥Ð¥°¤¢¤ê''|
+|CENTER:AC7||BGCOLOR(cyan):CENTER:''J-POP''|~|~|~|CENTER:''?????0ÅÀ''|~|CENTER:''?????0ÅÀ''|~|CENTER:800ÅÀ|CENTER:220ÅÀ|~|
+||CENTER:PSP1|BGCOLOR(lime):CENTER:''¥Ð¥é¥¨¥Æ¥£''|~|~|~|CENTER:''?????0ÅÀ''|~|CENTER:''?????0ÅÀ''|~|||~|
 |CENTER:AC8-9||~|~|~|~|CENTER:''?????0ÅÀ''|~|CENTER:''?????0ÅÀ''|~|CENTER:890ÅÀ|CENTER:230ÅÀ|~|
 -2²óÌÜ¤Î¥´¡¼¥´¡¼¥¿¥¤¥à¤Ë¤ÆÉèÌÌ¤¬ÊÑ¤ï¤ë¡£
 -É÷Á¥¤Ï6ÂÇ¢ª5ÂÇ¡£°òÏ¢ÂÇ¤Ï¤Ê¤¤¡£
+-[[16Ê¬²»Éä¤Î³ä¹ç¤¬¹â¤¯>ÂÀ¸Ý¥®¥Í¥¹/²»Éä¤Ë¤Ä¤¤¤Æ#many16e]]¡¢1P¤Ï20.00%(24/120)¤¬16Ê¬²»Éä¤Ç¤¢¤ë¡£
 
 ***¤½¤ÎÂ¾ [#other]
--¥¢¡¼¥Æ¥£¥¹¥È¤Ï¡¢''¾¾Ê¿·ò''¡£
---ºî»ì¤Ï¡¢''µÈÊö¶Ç»Ò''¡£ºî¡¦ÊÔ¶Ê¤Ï¡¢''µÜÀîÉËÎÉ''¡£¿¶¤êÉÕ¤±¤Ï¡¢''¿¿ÅçÌÐ¼ù''¡£
+-³Ú¶Ê¾ðÊó¤Ï[[¤ª¤ËÉèÌÌ>Æñ°×ÅÙÉ½/¤ª¤Ë/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐII]]¤ò»²¾È¡£
 
--¤«¤ó¤¿¤ó/[[Â³ÊÔ>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐIII]]
--[[¤Õ¤Ä¤¦>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐII]]/[[Â³ÊÔ>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐIII]]
--[[¤à¤º¤«¤·¤¤>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐII]]/[[Â³ÊÔ>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐIII]]
--[[¤ª¤Ë>Æñ°×ÅÙÉ½/¤ª¤Ë/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐII]]/[[Â³ÊÔ>Æñ°×ÅÙÉ½/¤ª¤Ë/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐIII]]
+----
+-¤«¤ó¤¿¤ó/[[III>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐIII]]
+-[[¤Õ¤Ä¤¦>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐII]]/[[III>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐIII]]
+-[[¤à¤º¤«¤·¤¤>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐII]]/[[III>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐIII]]
+-[[¤ª¤Ë>Æñ°×ÅÙÉ½/¤ª¤Ë/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐII]]/[[III>Æñ°×ÅÙÉ½/¤ª¤Ë/¥Þ¥Ä¥±¥ó¥µ¥ó¥ÐIII]]
 -[[¥ª¡¼¥ÈÆ°²è(1¿ÍÍÑÉèÌÌ)>http://www.youtube.com/watch?v=2wjRBVmSDRU]]
 -[[¥ª¡¼¥ÈÆ°²è(2¿ÍÍÑÉèÌÌ)>http://www.youtube.com/watch?v=r3OB8EpmmQo]]
 

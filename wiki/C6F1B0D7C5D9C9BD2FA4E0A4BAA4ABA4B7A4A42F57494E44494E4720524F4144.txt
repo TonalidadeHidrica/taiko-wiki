@@ -2,8 +2,9 @@
 -「''日産キューブ''」CMソング。
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC10''|CENTER:★×4|CENTER:''135''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1420点|CENTER:420点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC10''|BGCOLOR(cyan):''J-POP''|★×4|''135''|''?????0点''|＋連打|1420点|420点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは88。
@@ -21,7 +22,9 @@
 --「曲がりくねった道」という意味である。
 -アーティストは、''絢香×コブクロ''。
 --作詞・作曲は、絢香・小渕健太郎・黒田俊介。編曲は、松浦晃久。
--アニメの[[Winding Road>難易度表/むずかしい/Winding Road]]との混同に注意。
+-[[MAN WITH A MISSION>アーティスト別収録曲#mwam]]の[[Winding Road>難易度表/むずかしい/Winding Road]]との混同に注意。
+-曲IDは、''windin''。
+
 ----
 -[[かんたん>難易度表/かんたん/WINDING ROAD]]
 -[[ふつう>難易度表/ふつう/WINDING ROAD]]

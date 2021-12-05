@@ -1,0 +1,31 @@
+*「HERO」 -Main Title- [#title]
+-フジテレビ系ドラマ「''HERO''」主題曲。
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|CENTER:''Wii U2''&br;PS Vita1DL&br;3DS3DL|CENTER:★×4|CENTER:''125''|CENTER:''532170点''|CENTER:＋連打|CENTER:1300点|CENTER:563点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''984100点''}|~|CENTER:COLOR(#ff3300){7200点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは130。
+-黄色連打が多い連打曲で、1本あたりの長さも長い。
+-全体的に付点配置が多く、リズムが取りづらい。
+-4分の複合が主体の譜面で、たまに8分も出てくる。
+--8分は3連打までしかないが、そのほとんどが4分と隣接している。
+--また8分は単色が多いが、たまに複合（●●○）も出てくる。
+--ただし、4分の複合はほとんどが面と縁の交互連打である。
+-8分の複合が3連続で出てくるラストに注意。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/「HERO」 -Main Title-]]を参照。
+----
+-[[かんたん>難易度表/かんたん/「HERO」 -Main Title-]]
+-[[むずかしい>難易度表/むずかしい/「HERO」 -Main Title-]]
+-[[おに>難易度表/おに/「HERO」 -Main Title-]]
+-[[オート動画>http://www.youtube.com/watch?v=1aoTSt850LI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(h1.png,nolink);

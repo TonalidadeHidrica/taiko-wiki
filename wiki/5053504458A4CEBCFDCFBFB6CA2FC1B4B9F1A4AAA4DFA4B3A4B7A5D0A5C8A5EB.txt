@@ -59,7 +59,7 @@
 |16|CENTER:''富山''|CENTER:[[Punishment>難易度表/おに/Punishment]]|最終コンボ|12|15|18|21|24|40|CENTER:72|104|136|156|
 |17|CENTER:石川|CENTER:[[カレ・カノ・カノン>難易度表/おに/カレ・カノ・カノン]]|叩けた数|15|19|23|27|31|51|CENTER:91|131|171|195|
 |18|CENTER:福井|CENTER:[[よく遊びよく学べ>難易度表/おに/よく遊びよく学べ]]|?????|15|19|23|27|31|51|CENTER:91|131|171|195|
-|19|CENTER:山梨|[[MAGICAL SOUND SHOWER>難易度表/おに/MAGICAL SOUND SHOWER]]|最終コンボ|12|15|18|21|24|40|CENTER:72|104|136|156|
+|19|CENTER:山梨|CENTER:[[MAGICAL SOUND SHOWER>難易度表/おに/MAGICAL SOUND SHOWER]]|最終コンボ|12|15|18|21|24|40|CENTER:72|104|136|156|
 |20|CENTER:長野|CENTER:[[The world is all one !!>難易度表/おに/The world is all one !!]]|叩けた数|16|20|25|29|34|56|100|144|188|214|
 |21|CENTER:岐阜|CENTER:[[One day>難易度表/おに/One day]]|良の数|16|20|25|29|34|56|100|144|188|214|
 |22|CENTER:静岡|CENTER:[[蒼の旋律>難易度表/おに/蒼の旋律]]|最終コンボ|12|15|18|21|24|40|CENTER:72|104|136|156|

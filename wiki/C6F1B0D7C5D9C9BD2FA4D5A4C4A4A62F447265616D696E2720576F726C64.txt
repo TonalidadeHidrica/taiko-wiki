@@ -1,0 +1,24 @@
+*&ruby(ドリーミン){Dreamin'}; &ruby(ワールド){World}; [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''iOS''&br;''AR''|BGCOLOR(cyan):''ポップス''|★×3|''138''|''?????0点''|＋連打|980点|260点|
+
+***譜面構成・攻略 [#capture]
+-BPMは118。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Dreamin' World]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Dreamin' World]]
+-[[むずかしい>難易度表/むずかしい/Dreamin' World]]
+-[[おに>難易度表/おに/Dreamin' World]]
+-[[オート動画>https://www.youtube.com/watch?v=bBRadugQUWY]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(DW_n.png,nolink);

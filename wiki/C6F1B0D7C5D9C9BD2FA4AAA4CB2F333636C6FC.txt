@@ -2,13 +2,13 @@
 -ドラマ「''赤い糸''」主題歌。
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC12増''||BGCOLOR(cyan):''J-POP''|★×7|''390''|''978510点''|＋連打|760点|170点|
-||iOS|~|~|~|''978920点''|~|750点|~|
-||Wii U3DL|~|~|~|''991740点''|~|800点|218点|
+||iOS|BGCOLOR(cyan):''ポップス''|~|~|''978920点''|~|750点|~|
+||Wii U3DL|BGCOLOR(cyan):''J-POP''|~|~|''991740点''|~|800点|218点|
 ||NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
-||COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''990200点''}|~|COLOR(#ff3300){2430点}|-|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''990200点''}|~|COLOR(#ff3300){2430点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは76。
@@ -46,7 +46,9 @@
 ***譜面 [#score]
 ~AC・Wii U3・NS1は28小節目の4拍目から内部的にゴーゴーになっている。
 ~&attachref(366d.png,nolink);
+
 ~見た目重視
 ~&attachref(366dl.png,nolink);
+
 ~28小節実際の譜面
 ~&attachref(27-29.png,nolink);

@@ -1,5 +1,4 @@
-
-|曲名|かんたん|ふつう|むずかしい|ドンだフル！|
+|CENTER:BGCOLOR(#d0d8e0):曲名|CENTER:BGCOLOR(#d15136):COLOR(#fff):''かん&br;たん''|CENTER:BGCOLOR(#6c9658):COLOR(#fff):''ふつう''|CENTER:BGCOLOR(#2b6a7e):COLOR(#fff):''むずか&br;しい''|CENTER:BGCOLOR(#dcaf2c):COLOR(#fff):''ドンだ&br;フル！''|
 |クラシック 新世界より|未収録|274|未収録|274|
 |ドラえもん音頭|101|151|253|282|
 |すすめ！ドリラー|未収録|216|未収録|302|

@@ -1,5 +1,6 @@
-*BRAND NEW WORLD [#title]
--アニメ「''ONE PIECE''」のOP6。
+*&ruby(ブラン){BRAND}; &ruby(ニュー){NEW}; &ruby(ワールド){WORLD}; [#title]
+-アニメ[[「''ONE PIECE''」>アニメ別収録曲#onepiece]]のOP6。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -21,11 +22,8 @@
 ---3回出てくる4分の単色5連打に注意。
 
 ***その他 [#other]
--曲名の読み方は、''ブラン ニュー ワールド''。
--アーティストは、''D-51''。
---作詞は、吉田安英。作曲は、吉田安英・IKUMA。編曲は、IKUMA with YOICHI WATANABE。
--曲IDは、''brand''。
--同ジャンルの[[Brand-new World>難易度表/かんたん/Brand-new World]]と間違えないように。
+-楽曲情報は[[おに譜面>難易度表/おに/BRAND NEW WORLD]]を参照。
+
 ----
 -[[ふつう>難易度表/ふつう/BRAND NEW WORLD]]
 -[[むずかしい>難易度表/むずかしい/BRAND NEW WORLD]]

@@ -1,10 +1,12 @@
 *Ridge racer (RIDGE RACER USA MIX) [#title]
-***詳細・攻略 [#more]
 -PS Vita用ソフト「''RIDGE RACER''」の楽曲。
--詳細は以下の通り：
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''|CENTER:★×7|CENTER:''519''|CENTER:''822380点''|CENTER:＋連打|CENTER:480点|CENTER:115点|
+|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×7|CENTER:''519''|CENTER:''822380点''|CENTER:＋連打|CENTER:480点|CENTER:115点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){1740点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは232。
 -黄色連打がかなり多い連打曲で、1本あたりの長さも長い。
 -全体的に付点配置や裏拍配置が多く、リズムが取りづらい。
@@ -21,8 +23,9 @@
 -原曲は、[[「''Ridge Racer''>難易度表/おに/Ridge Racer]] [[''(POWER REMIX)''」>難易度表/むずかしい/Ridge Racer(裏譜面)]]。
 -歌唱は、セガの''光吉猛修''。
 --編曲(アレンジ)は、大久保博。
--曲IDは、''rrvusa''
+-曲IDは、''rrvusa''。
 
+----
 -[[かんたん>難易度表/かんたん/Ridge racer (RIDGE RACER USA MIX)]]
 -[[ふつう>難易度表/ふつう/Ridge racer (RIDGE RACER USA MIX)]]
 -[[おに>難易度表/おに/Ridge racer (RIDGE RACER USA MIX)]]

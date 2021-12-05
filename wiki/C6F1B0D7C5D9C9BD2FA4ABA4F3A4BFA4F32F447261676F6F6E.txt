@@ -1,21 +1,18 @@
-*Dragoon [#title]
+*&ruby(ドラグーン){Dragoon}; [#title]
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.11.2''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''220''|''357780点''|＋連打|430点|123点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''??????0点''}|~|COLOR(#ff3300){3880点}|-|
 |AC16.1.0||~|~|~|''1000200点''|~|4540点|-|
-||iOS&br;AR|~|~|~|''?????0点''|~|??0点|???点|
+||iOS&br;AR|~|~|~|''356550点''|~|430点|100点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは200。
 
 ***その他 [#other]
--アーティストは、[[''Massive New Krew''>参加アーティスト一覧/Massive New Krew]]（[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]）。
--曲IDは、''dragoo''。
-
+-楽曲情報は[[おに譜面>難易度表/おに/Dragoon]]を参照。
 ----
-
 -[[ふつう>難易度表/ふつう/Dragoon]]
 -[[むずかしい>難易度表/むずかしい/Dragoon]]
 -[[おに>難易度表/おに/Dragoon]]
@@ -25,5 +22,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船の長さは暫定
-~&attachref(Dragoon Easy.png,nolink);
+~&attachref(Dragoon_Easy.png,nolink);

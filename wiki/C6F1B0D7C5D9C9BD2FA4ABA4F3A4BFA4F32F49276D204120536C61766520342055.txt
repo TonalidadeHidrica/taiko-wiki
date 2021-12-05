@@ -1,32 +1,36 @@
-* I'm A Slave 4 U [#pb8275cd]
-*** 詳細・攻略 [#p1327f43]
--【1人用譜面】
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-|CENTER:''TDM''|CENTER:''POP''|CENTER:★×2|CENTER:''109''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1000点|CENTER:500点||
-|CENTER:PSP1|CENTER:''バラエティ''|~|~|CENTER:''?????0点''|~|CENTER:960点|CENTER:330点|CENTER:''ゴーゴーバグあり''|
+*I'm A Slave 4 U [#title]
+**1人用譜面 [#single]
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+|''TDM''|BGCOLOR(cyan):''POP''|★×2|''109''|''?????0点''|＋連打|1000点|500点||
+|PSP1|BGCOLOR(lime):''バラエティ''|~|~|''?????0点''|~|960点|330点|''ゴーゴーバグあり''|
 -BPMは110。
-----
--【2人用譜面】
--詳細は以下の通り：
+-連打秒数目安・・・約1.045秒×2：合計約2.091秒
+
+**2人用譜面 [#twin]
+***詳細・攻略 [#more]
 |CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''TDM''|CENTER:★×2|CENTER:1P|CENTER:''92''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1500点|CENTER:???点|
 |~|~|CENTER:2P|CENTER:''95''|CENTER:''?????0点''|~|~|~|
-----
+
+**その他 [#other]
 -アーティストは[[Toxic>難易度表/かんたん/Toxic]]と同じく''Britney Spears（ブリトニー・スピアーズ）''。
 -曲名の読み方は''アイム・ア・スレイヴ・フォー・ユー''。
 -プロモーションビデオの過激なダンスが日本でも話題となった。
+----
 -[[ふつう>難易度表/ふつう/I'm A Slave 4 U]]
 -[[むずかしい>難易度表/むずかしい/I'm A Slave 4 U]]
 -[[おに>難易度表/おに/I'm A Slave 4 U]]
 -[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=ktnExwEVQss]]
 -[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=y8YAI1nCSn4]]
 
-*** コメント [#n543936d]
+***コメント [#comment]
 #pcomment(,noname)
 
-*** 譜面 [#ac9edfad]
+***譜面 [#score]
 ~一人用譜面
-&attachref(i4ue.png,nolink);
+~&attachref(i4ue.png,nolink);
+
 ~二人用譜面
-&attachref(i4uedp.png,nolink);
+~&attachref(i4uedp.png,nolink);

@@ -1,18 +1,24 @@
-*雙節棍 [#r40c243b]
-***詳細・攻略 [#mba43d9c]
+*雙節棍 [#title]
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC12亜|CENTER:★×5|CENTER:''238''|CENTER:''751940点''|CENTER:840点|CENTER:230点|
--BPMは101。
-- 完全精度曲である。
-- 高得点を狙うならばいそくを推奨。
-- アーティストは''周杰倫''。
-- アルバム「范特西」の9曲目。こちらでのタイトルは「雙''截''棍」。
+|CENTER:''AC12亜''|CENTER:★×5|CENTER:''238''|CENTER:''751940点''|CENTER:840点|CENTER:230点|
 
+***譜面構成・攻略 [#capture]
+-BPMは101。
+-完全精度曲である。
+-高得点を狙うならばいそくを推奨。
+
+***その他 [#other]
+-アーティストは、''周杰倫''。
+-アルバム「范特西」の9曲目。こちらでのタイトルは「雙''截''棍」。
+-曲IDは、''a12o04''。
+----
 -[[かんたん>難易度表/かんたん/雙節棍]]
 -[[ふつう>難易度表/ふつう/雙節棍]]
 -[[おに>難易度表/おに/雙節棍]]
-- [[プレイ動画（ばいそく）>http://www.youtube.com/watch?v=PLsS93c7aqo]]
-***コメント[#comment]
+
+***コメント [#comment]
 #pcomment(,noname)
-***譜面[#score]
+
+***譜面 [#score]
 &attachref(nunchaku-hard.png,nolink);

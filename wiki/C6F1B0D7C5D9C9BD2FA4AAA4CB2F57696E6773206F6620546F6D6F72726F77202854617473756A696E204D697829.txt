@@ -4,10 +4,11 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.4.0''|Wii U2&br;3DS3DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×9|''765''|''1096620点''|+連打|410点|100点|
+|''AC15.4.0''|Wii U2&br;3DS3DL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×9|''765''|''1096620点''|+連打|410点|100点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''997500点''}|~|COLOR(#ff3300){1250点}|-|
 ||iOS&br;AR|~|~|~|''1091860点''|~|380点|90点|
-|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1002150点''|~|1310点|-|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1002150点''|~|1310点|-|
+|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約160。
@@ -16,7 +17,7 @@
 -49〜50小節にある発狂がその局所難だが、24分も''BPM240の16分と同等''で予想以上に速く感じるだろう。
 --最初の縁を逆手から入れば、残りは全て入り手始動で捌くことが出来る。以下の様に区切ると叩きやすいだろう。
 ---下線部分は24分、それ以外は16分。&br;
-%%%COLOR(blue){●●●●●●●●●}%%% / COLOR(blue){●●}COLOR(red){●●}COLOR(blue){●●}COLOR(red){●●} / %%%COLOR(red){●●●}COLOR(blue){●●●}%%% / %%%COLOR(red){●●●}COLOR(blue){●●●}%%% / COLOR(blue){●●}COLOR(red){●●}COLOR(blue){●●}COLOR(red){●●●}。
+%%%COLOR(blue){○○○○○○○○○}%%% / COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●} / %%%COLOR(red){●●●}COLOR(blue){○○○}%%% / %%%COLOR(red){●●●}COLOR(blue){○○○}%%% / COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●●}。
 --発狂を叩き終えた後もやや厄介な複合がいくつかあるので注意。また、59〜65小節にある縁の12分と8分地帯ではBPM変化があるものの精度を落とさないよう心がけたい。
 -ゴーゴータイムの一部には[[No Way Back(表譜面)>難易度表/おに/No Way Back]]と共通する音符配置がある。
 -''終盤の長い連打の後に面大音符がいくつか流れてくる''。最後まで気を抜かないように。
@@ -42,4 +43,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&ref(godea2.png,nolink);
+&ref(godea2_2.png,nolink);

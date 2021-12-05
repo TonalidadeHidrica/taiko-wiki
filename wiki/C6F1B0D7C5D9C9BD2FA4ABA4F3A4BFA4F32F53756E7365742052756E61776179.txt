@@ -1,19 +1,27 @@
-*Sunset Runaway [#title]
-***詳細・攻略 [#more]
--PS2専用ゲーム「[[''クリティカルベロシティ''>http://www.bandainamcogames.co.jp/cs/list/criticalvelocity/]]」より。
--詳細は以下の通り：
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.6.0SP|''Wii U2SP''|★×4|''105''|''356890点''|＋連打|1000点|385点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''997400点''}|~|COLOR(#ff3300){7980点}|-|
+*&ruby(サンセット){Sunset}; &ruby(ランナウェイ){Runaway}; [#title]
+-PS2専用ゲーム「[[''クリティカルベロシティ''>ゲーム別収録曲#crivelo]]」より。(→[[公式サイト>http://www.bandainamcogames.co.jp/cs/list/criticalvelocity/]])
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.6.0SP|''Wii U2SP''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×4|''105''|''356890点''|＋連打|1000点|385点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''997400点''}|~|COLOR(#ff3300){7980点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''998950点''|~|9410点|-|
+|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは約154。
--黄色連打は3本と少なめだが、1本あたりの長さが長い。
+-連打秒数目安・・・約0.747秒−約0.844秒×2：合計約2.435秒
 -全体的に付点配置が多く、リズムが取りづらい。
 -大音符が多く、10個ある（全体の約9.52%）。
 -全体的に4分がかなり多いが、8分が1回も出て来ないので★×4にしては簡単な方。
 --ただし前述の通り付点配置が多いので、全良難易度は高めである。
 -中盤で1回だけ出てくる4分の複合16連打に注意。
 
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Sunset Runaway]]を参照。
+
+----
 -[[ふつう>難易度表/ふつう/Sunset Runaway]]
 -[[むずかしい>難易度表/むずかしい/Sunset Runaway]]
 -[[おに>難易度表/おに/Sunset Runaway]]
@@ -23,5 +31,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船、くすだまの長さは暫定
-&ref(crtsun_e.png,nolink);
+~風船、くすだまの長さは暫定
+~&ref(crtsun_e.png,nolink);

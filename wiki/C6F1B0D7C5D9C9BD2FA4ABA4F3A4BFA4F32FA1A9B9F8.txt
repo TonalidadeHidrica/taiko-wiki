@@ -1,0 +1,22 @@
+* &#25745;腰 [#title]
+***詳細 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12亜''|CENTER:★×4|CENTER:''98''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは約134。
+
+***その他 [#other]
+- アーティストは''羅志祥''（''ショウ・ルオ''）。
+-曲IDは、''a12c74''。
+----
+-[[ふつう>難易度表/ふつう/？腰]]
+-[[むずかしい>難易度表/むずかしい/？腰]]
+-[[おに>難易度表/おに/？腰]]
+-[[プレイ動画>https://v.youku.com/v_show/id_XMzAwNDg3NTQ5Ng==?&source=&t=125]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#q45ac60f]
+&ref(4.png,nolink);

@@ -1,0 +1,25 @@
+*Future Melody - 心から未来へ - [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''NS1DL''|BGCOLOR(darkgray):''ボーカロ&br;イド&#8482;曲''|★×7|''354''|''842300点''|＋連打|690点|188点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''990960点''}|~|COLOR(#ff3300){2580点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは154?。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Future Melody - 心から未来へ -]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Future Melody - 心から未来へ -]]
+-[[ふつう>難易度表/ふつう/Future Melody - 心から未来へ -]]
+-[[おに>難易度表/おに/Future Melody - 心から未来へ -]]
+-[[オート動画>https://www.youtube.com/watch?v=g-l8xuEaom0]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(FM_ｈ.png,nolink);

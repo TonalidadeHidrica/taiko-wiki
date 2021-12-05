@@ -1,18 +1,23 @@
 *ココロオドル [#title]
--''SDガンダムフォース''のED2。ジャンルはJ-POP。
-***詳細・攻略 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア||h
-|''CS5''|★×8|CENTER:''335''|''569600点''|''ゴーゴーバグあり''|
+-「''SDガンダムフォース''」のED2。
+***詳細 [#more]
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア||h
+|''CS5''|BGCOLOR(cyan):''J-POP''|★×8|''335''|''569600点''|''ゴーゴーバグあり''|
+
+***譜面構成・攻略 [#capture]
 -BPMは113。
--全難易度を通して黄色連打も風船もない''完全精度曲''。
+-全コース通して黄色連打も風船もない''完全精度曲''。
 -主に歌詞に合わせた譜面で、付点配置や偶数連打など、叩きにくいところも多い。
 --BPMが遅めなので「ばいそく」推奨といいたいところだが、CS5ではまだHSのオプションは登場していないので、低速が苦手だとどうしても苦戦を強いられることになる。
--26〜27小節の長い複合は、COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}×2+COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}と区切るとよいだろう。
+-26〜27小節の長い複合は、COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}COLOR(red){●}×2+COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}COLOR(red){●}と区切るとよいだろう。
+-平均密度は、''約4.66打/秒''。
+
 ***その他 [#other]
--アーティストは、[[Hero's Come Back!!>難易度表/おに/Hero's Come Back!!]]と同じく''nobodyknows+''。
+-アーティストは、[[''nobodyknows+''>アーティスト別収録曲#nobodyknows]]。
 -譜面作成は、[[''タカハシ''>譜面作成者一覧/タカハシ]](→[[ソース>https://twitter.com/Tahakashi/status/320194827457265665]])。
 -曲IDは、''kokoro''。
+-インターネット上のMADでも有名な曲。
 ----
 -[[かんたん>難易度表/かんたん/ココロオドル]]
 -[[ふつう>難易度表/ふつう/ココロオドル]]

@@ -1,0 +1,14 @@
+*拔蘿蔔 [#title]
+***詳細 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11亜''&br;AC12亜|CENTER:★×1|CENTER:''81''|CENTER:''?????0点''|CENTER:1240点|CENTER:???点|
+
+***その他 [#other]
+-曲IDは、''a1radi''。
+----
+-[[かんたん>難易度表/かんたん/拔蘿蔔]]
+-[[むずかしい>難易度表/むずかしい/拔蘿蔔]]
+-[[おに>難易度表/おに/拔蘿蔔]]
+
+***コメント [#comment]
+#pcomment(,noname)

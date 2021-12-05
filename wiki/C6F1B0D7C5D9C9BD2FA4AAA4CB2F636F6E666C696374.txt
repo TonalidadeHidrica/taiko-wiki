@@ -1,22 +1,25 @@
 *conflict [#title]
-***詳細 [#detail]
-|>|>|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.8.2''|BGCOLOR(lime):''バラエティ''|★×9|''736''|''1090670点''|＋連打|430点|110点|
-|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''999070点''}|~|COLOR(#ff3300){1310点}|-|
-|AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''994500点''|~|1350点|-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.8.2''||BGCOLOR(lime):''バラエティ''|★×9|''736''|''1090670点''|+連打|430点|110点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''999070点''}|~|COLOR(#ff3300){1310点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''994500点''|~|1350点|-|
+|AC16.2.12||BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
+||iOS&br;AR|~|~|~|''?????0点''|~|380点|100点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは160。
 -非常に多く配置された16分音符3連打が印象的な譜面。すべて合計すると''121回''出現する。
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|CENTER:|c
 |>|>|>|>|>|>|>|各3連打の出現回数|h
-|~&color(red){●●●};|24回|~&color(blue){●●●};|17回|~&color(red){●●};&color(blue){●};|10回|~&color(blue){●●};&color(red){●};|10回|
-|~&color(red){●};&color(blue){●};&color(red){●};|17回|~&color(blue){●};&color(red){●};&color(blue){●};|1回|~&color(red){●};&color(blue){●●};|25回|~&color(blue){●};&color(red){●●};|17回|
+|~&color(red){●●●};|24回|~&color(blue){○○○};|17回|~&color(red){●●};&color(blue){○};|10回|~&color(blue){○○};&color(red){●};|10回|
+|~&color(red){●};&color(blue){○};&color(red){●};|17回|~&color(blue){○};&color(red){●};&color(blue){○};|1回|~&color(red){●};&color(blue){○○};|25回|~&color(blue){○};&color(red){●●};|17回|
 -[[恋文2000>難易度表/おに/恋文2000]]や[[めたる>難易度表/おに/めたるぽりす]][[ぽりす>難易度表/おに/めたるぽりす(裏譜面)]]のように7/4拍子が分割されており、49〜70小節は4/4拍子と3/4拍子が交互に入れ替わる。
 -時折配置されているリズム崩しと24分音符がコンボカッターとなり得る。フルコンボ狙いの場合は注意すべきだろう。
 -64小節に配置されている風船を割るには''約16打/秒''が必要。シングルで割るのは厳しいかもしれない。
--平均密度は、''約5.78打/秒''。
+-平均密度は、''約5.55打/秒''。
 
 ***その他 [#other]
 -アーティストは、''siromaru + [[cranky>参加アーティスト一覧/Cranky]]''。
@@ -24,19 +27,21 @@
 -歌唱は、''Pico''。
 -この曲は、フリー音楽ゲームフォーマットのイベント「''THE BMS OF  FIGHTERS 2011 Intersection of conflict''」の優勝曲で、太鼓の達人に[[''BMS初出楽曲''>BMS楽曲一覧]]が収録されるのは''この曲が初の事例となる''。
 --なお、BMS版音源より8小節分短い。
---また、この曲は太鼓の達人の他にも様々な音楽ゲームに収録されており、2020年現在に''アーケードゲーム史上初の12機種''((Tone Sphere・Cytus・CHUNITHM・SOUND VOLTEX・グルーヴコースター・太鼓の達人・シンクロニカ・maimai・Deemo・オンゲキ・Pump It Up・WACCA（それぞれの後継機種除く）。なおそのうちTone SphereとDeemoは公式アレンジ版でのみ収録され、CHUNITHMは原曲＆公式アレンジが同時に収録される。))、家庭用ゲーム機・アプリ((SUPERBEAT XONiC・TsumaMia!・Rhythmsia・Arcaea・DanceRailRefresh・TAPSONIC TOP・Muse Dash・セブンスコード))を含む20作収録を達成した。
+--また、この曲は太鼓の達人の他にも様々な音楽ゲームに収録されており、2020年現在に''アーケードゲーム史上初の12機種''((Tone Sphere・Cytus・CHUNITHM・SOUND VOLTEX・グルーヴコースター・太鼓の達人・シンクロニカ・maimai・Deemo・オンゲキ・Pump It Up・WACCA（それぞれの後継機種除く）。なお、そのうちTone SphereとDeemoは公式アレンジ版でのみ収録され、CHUNITHMは原曲＆公式アレンジが同時に収録される。))、家庭用ゲーム機・アプリ((SUPERBEAT XONiC・TsumaMia!・Rhythmsia・Arcaea・DanceRailRefresh・TAPSONIC TOP・Muse Dash・セブンスコード))を含む20作収録を達成した。
 ---上述の曲尺は、このうちグルーヴコースターと同一のものとなっている。
 -イエローVer.では、[[東方Project>難易度表/おに/Bad Apple!! feat.nomico]][[アレンジ曲>難易度表/おに/最終鬼畜妹フランドール・S]]((ホワイトVer.まで[[Bad Apple!! feat.nomico>難易度表/おに/Bad Apple!! feat.nomico]]、レッドVer.のみ[[最終鬼畜妹フランドール・S>難易度表/おに/最終鬼畜妹フランドール・S]]))に代わり、この曲がジャンル「バラエティ」の曲選択画面で一番右となった。
---ただし次ブルーVer.では、[[INSPION>難易度表/おに/INSPION]]がこの曲に代わり、ジャンルの一番右に入っていた。
+--ただし、ブルーVer.では[[INSPION>難易度表/おに/INSPION]]がこの曲に代わり、ジャンルの一番右に入っていた。
 -譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
 -[[グリーンVer.段位道場 外伝>過去の段位道場#green-gaiden]]の「挑戦！334万点！！」の1曲目課題曲となった。
 -曲IDは、''confli''。
+
 ----
 -[[かんたん>難易度表/かんたん/conflict]]
 -[[ふつう>難易度表/ふつう/conflict]]
 -[[むずかしい>難易度表/むずかしい/conflict]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=Kv6Z-fqUobk&t=11s]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=vvmm4n_4FqQ&feature=youtu.be&t=4s]]
 -[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=74]]
--[[プレイ動画>https://www.youtube.com/watch?v=Kv6Z-fqUobk]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -1,0 +1,29 @@
+*Future Melody - 心から未来へ - [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''NS1DL''|BGCOLOR(darkgray):''ボーカロ&br;イド&#8482;曲''|★×8|''547''|''1042800点''|＋連打|560点|138点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''992950点''}|~|COLOR(#ff3300){1690点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは154。
+-1曲を通しての平均密度は、''約4.28打/秒''である。
+
+***その他 [#other]
+-歌唱は、[[''ミライ小町''>ボーカロイド別収録曲#komachi]]。
+-作曲・編曲は、''江口孝宏'' (Super&#83;weep)。
+-作詞は、''田中文久'' (Super&#83;weep)。
+-曲IDは、''mkftmd''。
+
+----
+-[[かんたん>難易度表/かんたん/Future Melody - 心から未来へ -]]
+-[[ふつう>難易度表/ふつう/Future Melody - 心から未来へ -]]
+-[[むずかしい>難易度表/むずかしい/Future Melody - 心から未来へ -]]
+-[[オート動画>https://www.youtube.com/watch?v=rJ2_ZoupCNA]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(Future Melody - 心から未来へ -.png,nolink);

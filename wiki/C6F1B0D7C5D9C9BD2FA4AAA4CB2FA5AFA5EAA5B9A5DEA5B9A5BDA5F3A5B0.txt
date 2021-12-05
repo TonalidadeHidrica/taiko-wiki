@@ -1,8 +1,7 @@
 *クリスマスソング [#title]
 -フジテレビ系ドラマ「''5→9&#12316;私に恋したお坊さん&#12316;''」主題歌。
-
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.9.0''||BGCOLOR(cyan):''J-POP''|★×7|''446''|''1000920点''|＋連打|660点|183点|
 ||NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
@@ -20,7 +19,8 @@
 ---HS1.5地帯でもやや遅めなので「ばいそく」をかけるのも良いかもしれない。
 -ゴーゴーに出てくる24分の複合11連打、最後の14連打に注意。
 -最後の小節がゴーゴータイムになっており、リザルト画面になるまで消えない。
--平均密度は、''約3.86打/秒''(暫定)。
+-縁の割合が高く、約54.26%(242/446)が縁。
+-平均密度は、''約3.86打/秒''。
 
 ***その他 [#other]
 -アーティストは、[[''back number''>アーティスト別収録曲#bknb]]。
@@ -28,7 +28,6 @@
 -''[[本人音源>本人音源曲]]''である。
 -[[イエローVer.段位道場>段位道場#normal]]の二段3曲目課題曲となった。
 -曲IDは、''bnxmas''。
-
 ----
 -[[かんたん>難易度表/かんたん/クリスマスソング]]
 -[[ふつう>難易度表/ふつう/クリスマスソング]]
@@ -40,10 +39,10 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(bnxmas_m.png,nolink);
+~&attachref(bnxmas_m.png,nolink);
 
 ~見た目
-&attachref(christmas_ov.png,nolink);
+~&attachref(christmas_ov.png,nolink);
 
 ~見た目(ばいそく)
-&attachref(christmas_ov2x.png,nolink);
+~&attachref(christmas_ov2x.png,nolink);

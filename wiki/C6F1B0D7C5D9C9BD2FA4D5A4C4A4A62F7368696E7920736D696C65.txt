@@ -1,12 +1,20 @@
 *shiny smile [#title]
-***詳細・攻略 [#more]
 -Xbox 360用ソフト「''THE IDOLM@STER Live For You!''」の楽曲。
--詳細は以下の通り；
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11SP''&br;AC11亜||CENTER:★×4|CENTER:''224''|CENTER:''?????0点''|CENTER:＋連打|CENTER:640点|CENTER:180点|
-||CENTER:DS2|~|~|CENTER:''460050点''|~|CENTER:600点|CENTER:150点|
-|CENTER:AC15.6.2|CENTER:COLOR(red){PS Vita MS}|~|CENTER:''200''|CENTER:''525100点''|~|CENTER:580点|CENTER:183点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''982750点''}|~|CENTER:COLOR(#ff3300){3550点}|CENTER:-|
+
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11SP''||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×4|''224''|''?????0点''|＋連打|640点|180点|
+|AC11亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|
+||DS2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''460050点''|~|600点|150点|
+|AC15.6.2||~|~|''200''|''525100点''|~|580点|183点|
+||COLOR(red){PS Vita MS}|BGCOLOR(#99ff66):''LIVE&br;FOR YOU!''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''982750点''}|~|COLOR(#ff3300){3550点}|-|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''994600点''|~|4970点|-|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+
 -BPMは170。
 --ただし、新譜面は51〜58小節に低速HSがかかっている（他3コースと共通）。
 
@@ -33,6 +41,7 @@
 --新譜面に変更された際に音源も変更され、響と貴音も歌っているものになった。
 ---COLOR(red){MS赤盤}には響ソロ歌唱バージョンも収録された。
 
+----
 -[[かんたん>難易度表/かんたん/shiny smile]]
 -[[むずかしい>難易度表/むずかしい/shiny smile]]
 -[[おに>難易度表/おに/shiny smile]]/[[裏譜面>難易度表/おに/shiny smile(裏譜面)]]

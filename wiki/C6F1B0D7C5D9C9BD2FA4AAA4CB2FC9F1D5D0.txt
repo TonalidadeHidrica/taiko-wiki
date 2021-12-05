@@ -11,14 +11,15 @@
 
 ***その他 [#other]
 -アーティストは、''蔡依林(ジョリン・ツァイ)''。
+-曲IDは、''a1jol1''。
 ----
 -[[かんたん>難易度表/かんたん/舞孃]]
 -[[ふつう>難易度表/ふつう/舞孃]]
 -[[むずかしい>難易度表/むずかしい/舞孃]]
--[[プレイ動画(ばいそく,直撮り)>https://www.youtube.com/watch?v=i4ozhxZuVZE]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=F80TRQBM4jM]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&ref(dancing_diva.png,nolink);
+&ref(dancing_diva_2.png,nolink);

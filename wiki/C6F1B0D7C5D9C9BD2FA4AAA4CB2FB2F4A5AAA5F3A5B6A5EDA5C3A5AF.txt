@@ -8,7 +8,7 @@
 |''CS4''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''577''|''1015000点''|+連打|-|-|
 |米TDM|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|★×9|~|~|~|-|-|
 |PSP1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|~|''1068800点''|~|-|-|
-|NS1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''1043220点''|~|560点|143点|
+|NS1DL&br;PTB|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''1043220点''|~|560点|143点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''990780点''}|~|COLOR(#ff3300){1610点}|-|
 
 ***譜面構成・攻略 [#capture1]
@@ -46,12 +46,14 @@
 -[[オート動画(米TDM、2人用譜面)>http://www.youtube.com/watch?v=7BlsaTzBDI8]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~1人用譜面
 ~米TDMでは★×9
-~NS1では79~86小節は非ゴーゴー
+~NS1以降は79~86小節は非ゴーゴー
 ~&attachref(kata.png,nolink);
 
 ~2人用譜面

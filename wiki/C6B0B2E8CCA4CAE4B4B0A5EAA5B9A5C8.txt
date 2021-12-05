@@ -48,16 +48,17 @@
 
 **新筐体 [#acnew]
 //現在の筐体では収録不可能の場合は新筐体以前の方にお願いします
-
+//(ページ編集者向けテンプレート)
 //||>|>|>|>|CENTER:64|c
 //|''曲名''(五十音順)|BGCOLOR(#f30):COLOR(#111):''かんたん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずかしい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに(裏)''|h
 //|>|>|>|>|>|BGCOLOR(cyan):''ポップス''|
 //|>|>|>|>|>|BGCOLOR(hotpink):''アニメ''|
 //|>|>|>|>|>|BGCOLOR(silver):''ボーカロイド&#8482;曲''|
-//|>|>|>|>|>|BGCOLOR(yellow):''キッズ''|
+//|>|>|>|>|>|BGCOLOR(darkorchid):''ゲームミュージック''|
+//|>|>|>|>|>|BGCOLOR(lime):''バラエティ''|
 //|>|>|>|>|>|BGCOLOR(gold):''クラシック''|
-//|>|>|>|>|>|BGCOLOR(darkorchid):''ゲーム＆バラエティ''|
 //|>|>|>|>|>|BGCOLOR(orangered):''ナムコオリジナル''|
+//|>|>|>|>|>|BGCOLOR(yellow):''キッズ''|
 
 ***ニジイロver. [#nijiiro]
 ~*リンクがあっても動画が削除されている場合はここに記載しています
@@ -66,10 +67,11 @@
 |>|>|>|>|>|BGCOLOR(cyan):''ポップス''|
 |>|>|>|>|>|BGCOLOR(hotpink):''アニメ''|
 |>|>|>|>|>|BGCOLOR(silver):''ボーカロイド&#8482;曲''|
-|>|>|>|>|>|BGCOLOR(yellow):''キッズ''|
+|>|>|>|>|>|BGCOLOR(darkorchid):''ゲームミュージック''|
+|>|>|>|>|>|BGCOLOR(lime):''バラエティ''|
 |>|>|>|>|>|BGCOLOR(gold):''クラシック''|
-|>|>|>|>|>|BGCOLOR(darkorchid):''ゲーム＆バラエティ''|
 |>|>|>|>|>|BGCOLOR(orangered):''ナムコオリジナル''|
+|>|>|>|>|>|BGCOLOR(yellow):''キッズ''|
 
 ***グリーンVer. [#green]
 ~※リンクがあっても動画が削除されている場合はここに記載しています

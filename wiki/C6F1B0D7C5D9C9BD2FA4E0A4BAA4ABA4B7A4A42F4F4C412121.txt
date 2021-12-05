@@ -1,11 +1,13 @@
 *OLA!! [#title]
 -[[映画「''クレヨンしんちゃん オラの引越し物語〜サボテン大襲撃〜''」>アニメ別収録曲#crasin]]主題歌。
-***詳細 [#detail]
-|CENTER:バージョン((太字は初出))|CENTER:ジャンル |CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii U3''|CENTER:''J-POP''|CENTER:★×6|CENTER:''173''|CENTER:''792370点''|CENTER:＋連打|CENTER:1200点|CENTER:468点|
-|CENTER:3DS3DL|CENTER:''アニメ''|~|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4950点}|CENTER:-|
-|CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''?????0点''|~|CENTER:1190点|CENTER:340点|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii U3''|BGCOLOR(cyan):''J-POP''|★×6|''173''|''792370点''|＋連打|1200点|468点|
+|3DS3DL|BGCOLOR(orange):''アニメ''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){4950点}|-|
+|iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''783360点''|~|1190点|340点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは115。
@@ -19,10 +21,8 @@
 -中盤で1回だけ出てくる16分の複合4連打と、ゴーゴーで1回だけ出てくる12分の単色7連打に注意。
 
 ***その他 [#other]
--アーティストは、[[''ゆず''>アーティスト別収録曲#yuzu]]。
---作詞・作曲は、北川悠仁。編曲は、前山田健一・北川悠仁。
--譜面作成は、[[''しか@に〜さん''>譜面作成者一覧/しか@に〜さん]]。
--曲IDは、''ola''。
+-楽曲情報は[[おに譜面>難易度表/おに/OLA!!]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/OLA!!]]
 -[[ふつう>難易度表/ふつう/OLA!!]]
@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(OLA!!_h.png,nolink);
+&attachref(OLA!!_hf.png,nolink);

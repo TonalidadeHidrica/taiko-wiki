@@ -1,11 +1,14 @@
-*Rotter Tarmination [#title]
+*&ruby(ロッテル){Rotter}; &ruby(ターミネーション){Tarmination}; [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC12''-14|Wii1&br;Wii2SP&br;Wii4SP&br;PSPDX|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|CENTER:''438''|''831790点''|＋連打|500点|130点|
-|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''846820点''}|~|COLOR(#ff3300){1730点}|-|
+|''AC12''-14|''Wii1SP''&br;Wii2SP&br;Wii4SP&br;PSPDX|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''438''|''831790点''|＋連打|500点|130点|
+|AC12亜||BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打モード}||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|COLOR(#ff3300){''846820点''}|~|COLOR(#ff3300){1730点}|-|
 |AC15.1.0|Wii U2&br;NS1DL|~|~|~|''842290点''|~|560点|150点|
-|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''992020点''}|~|COLOR(#ff3300){2030点}|-|
+|WM||BGCOLOR(orangered):''M&#250;sicas originais&br;da NAMCO''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|COLOR(#ff3300){''992020点''}|~|COLOR(#ff3300){2030点}|-|
 |AC16.1.0||~|~|~|''995860点''|~|2270点|-|
 
 ***譜面構成・攻略 [#capture]
@@ -13,22 +16,15 @@
 --[[さいたま2000>難易度表/むずかしい/さいたま2000]]、[[恋文2000>難易度表/むずかしい/恋文2000]]などと同じBPMである。
 -速度は速めだが、ほとんどが8分なのでクリアはそこまで難しくはない。
 -ぬるぽ地帯は8分までしかないが、大音符と小音符が隣接しているため両手でないと高得点が取れない家庭用では鬼門である。
--フルコン狙いならラストに出てくる●●●●●　●　●●●●●　●に要注意。適正者にとって繋ぐのはかなり難しい。
+-フルコン狙いならラストに出てくるCOLOR(red){●●●●●　●　●●●●●　●}に要注意。適正者にとって繋ぐのはかなり難しい。
 -AC12〜13の[[裏譜面>難易度表/むずかしい/Rotter Tarmination(裏譜面)]]では★×8だが、譜面自体は表譜面と同一である（いわゆる逆詐称）。当然裏の方が配点が高い。
 --AC14では、★×7になっている。
---Wii2版の裏譜面は、大音符と小音符がほとんどそのまま入れ替わったネタ譜面と化す。
+--Wii2版の[[裏譜面>難易度表/むずかしい/Rotter Tarmination(裏譜面)]]は、大音符と小音符がほとんどそのまま入れ替わったネタ譜面と化す。
+-平均密度は、''約4.09打/秒''。
 
 ***その他 [#other]
--前半を逆再生すると「私はタミー。また会ったな！」と聞こえる。
---「タミー」とは、この曲に声を当てている[[''民安ともえ''>http://ameblo.jp/tomoe-tamiyasu/]]のことである。
---これらはタミーのサンプリングボイスであり「SMILEBIT-TECHNO RIDER TAMMY 2-」に収録されている「すまいるびっと」や「たみー第四症」が元ネタにあたる。→[[参考動画>http://www.youtube.com/watch?v=LMHOncUGvmc]]
--曲名の読み方は、''ロッテル ターミネーション''。
--略称は、''ロッテル''、''表ロ''が一般的か。
--つづりは、T''e''rminationではなくT''a''rminationである。間違えやすいので注意。
---「''Termi''nation（終端、限界）」と「''Tami''yasu（民安）」をかけたものか。
--作曲は、[[Ridge>難易度表/おに/Ridge Racer]] [[Racer>難易度表/むずかしい/Ridge Racer(裏譜面)]]や[[ROTTERDAM NATION>難易度表/むずかしい/ROTTERDAM NATION(FOO MIX)]]、[[dance>難易度表/むずかしい/dance storm]] [[storm>難易度表/むずかしい/dance storm(裏譜面)]]と同じ''細江慎治''(Sampling Masters MEGA)。
--譜面作成は、''タカハシ''。
--曲IDは、''sweep1''(恐らくSampling masters MEGAが所属しているSuper&#83;weepから来ているものと思われる)。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/Rotter Tarmination]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/Rotter Tarmination]]/[[裏譜面>難易度表/かんたん/Rotter Tarmination(裏譜面)]]
 -[[ふつう>難易度表/ふつう/Rotter Tarmination]]/[[裏譜面>難易度表/ふつう/Rotter Tarmination(裏譜面)]]
@@ -37,6 +33,8 @@
 -[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=KDfua3RCJBk]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

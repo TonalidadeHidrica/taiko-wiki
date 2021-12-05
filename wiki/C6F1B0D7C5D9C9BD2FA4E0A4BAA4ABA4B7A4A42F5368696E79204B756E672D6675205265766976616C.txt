@@ -1,37 +1,38 @@
-*Shiny Kung-fu Revival [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.42''|CENTER:Wii U2DL&br;NS1DL|CENTER:★×7|CENTER:''560''|CENTER:''844510点''|CENTER:＋連打|CENTER:390点|CENTER:108点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''996980点''}|~|CENTER:COLOR(#ff3300){1580点}|CENTER:-|
+*&ruby(シャイニー){Shiny}; &ruby(カンフー){Kung-fu}; &ruby(リバイバル){Revival}; [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.5.7''|Wii U2DL&br;NS1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''560''|''844510点''|+連打|390点|108点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''996980点''}|~|COLOR(#ff3300){1580点}|-|
+|AC16.1.0||~|~|~|''996800点''|~|1780点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは222.2。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
 -中盤に速度変化があり、等速の8分が12分になっている。
--大音符が多く、71個ある（全体の約12.7%）。
+-大音符が多く、''71個''(約12.67%)ある。
 -8分の複合が主体の譜面で、16分も数がかなり多い。
 --16分は単色の3連打しかないが、連続して出てくる箇所もある。
 --また、8分の複合は全体的に長めのが多い。
 -第1・4ゴーゴーは休みがほとんどないので、適正者にとっては体力的に厳しいかもしれない。
--3回出てくる8分の複合7連打（●○○●○●○）とラストのHS4の縁の大音符に注意。
--音符密度は、''約4.63打/秒''。
---ただしこれは1曲を通しての平均密度であり、第1ゴーゴーだけは音符密度が''約6.82打/秒''になっている。
+-3回出てくる8分の複合7連打(COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○})とラストのHS3の縁の大音符に注意。
+-1曲を通しての平均密度は、''約4.63打/秒''である。
 
 ***その他 [#other]
--2015年1月のドンチャレによる先行解禁曲である。
--曲名の読み方は、''シャイニー カンフー リバイバル''。
--アーティストは、''t+pazolite''（[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]）。
---同氏は過去に「Kung-fu」を冠する曲を2曲((Kick-ass Kung-fu Carnival、Rumble Kung-fu Showdown))制作しており、この曲は3曲目にあたる。
--譜面作成は、''エトウ''。
--曲IDは、''shinyk''
-
+-楽曲情報は[[おに譜面>難易度表/おに/Shiny Kung-fu Revival]]を参照。
+----
 -[[かんたん>難易度表/かんたん/Shiny Kung-fu Revival]]
 -[[ふつう>難易度表/ふつう/Shiny Kung-fu Revival]]
 -[[おに>難易度表/おに/Shiny Kung-fu Revival]]
 -[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=EvF7PkLTAO8]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(( ﾟдﾟ )彡ハイヤー！！！！_h.png,nolink);
+~正しいHSは[[おに譜面>難易度表/おに/Shiny Kung-fu Revival]]を参照
+~&attachref(( ﾟдﾟ )彡ハイヤー！！！！_h.png,nolink);

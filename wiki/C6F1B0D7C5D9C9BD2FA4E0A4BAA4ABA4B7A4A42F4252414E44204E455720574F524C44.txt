@@ -1,5 +1,6 @@
-*BRAND NEW WORLD [#title]
--アニメ「''ONE PIECE''」のOP6。
+*&ruby(ブラン){BRAND}; &ruby(ニュー){NEW}; &ruby(ワールド){WORLD}; [#title]
+-アニメ[[「''ONE PIECE''」>アニメ別収録曲#onepiece]]のOP6。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -15,11 +16,8 @@
 --また8分の複合は4連打までしかないが、種類がそれなりに多い。
 
 ***その他 [#other]
--曲名の読み方は、''ブランド ニュー ワールド''。
--アーティストは、[[NO MORE CRY>難易度表/むずかしい/NO MORE CRY]]と同じ''D-51''。
---作詞は、吉田安英。作曲は、吉田安英・IKUMA。編曲は、IKUMA with YOICHI WATANABE。
--曲IDは、''brand''。
--同ジャンルの[[Brand-new World>難易度表/むずかしい/Brand-new World]]と間違えないように。
+-楽曲情報は[[おに譜面>難易度表/おに/BRAND NEW WORLD]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/BRAND NEW WORLD]]
 -[[ふつう>難易度表/ふつう/BRAND NEW WORLD]]

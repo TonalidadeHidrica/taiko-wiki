@@ -1,12 +1,24 @@
-*延長比賽 [#h34fc0e7]
-*** 詳細・攻略 [#g031d99e]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11亜''|CENTER:★×7|CENTER:''271''|CENTER:''994830点''|CENTER:＋連打|CENTER:1070点|CENTER:280点|
-- アーティストは''タンク・リュ''（''呂建中''）。
+*延長比賽 [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11亜''|BGCOLOR(lime):''華語流行音樂''|★×7|''271''|''994830点''|＋連打|1070点|280点|
+
+***譜面構成・攻略 [#capture]
+-BPMは96。
+--連打秒数目安・・・約1.1979秒
+
+***その他 [#other]
+-アーティストは''タンク・リュ''（''呂建中''）。
+-曲IDは、''a1tan1''。
+----
 -[[かんたん>難易度表/かんたん/延長比賽]]
 -[[ふつう>難易度表/ふつう/延長比賽]]
 -[[むずかしい>難易度表/むずかしい/延長比賽]]
-***コメント[#comment]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=FVYovfYltNs]]
+
+***コメント [#comment]
 #pcomment(,noname)
-***譜面[#score]
-&attachref(keep_fighting.png,nolink);
+
+***譜面 [#score]
+&attachref(keep_fighting_2.png,nolink);

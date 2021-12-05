@@ -1,0 +1,28 @@
+*Hand Over (Prod. TEMPLIME) [#title]
+-バンダイナムコエンターテインメントの音楽原作キャラクタープロジェクト「''電音部''」からの楽曲。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC16.1.8''||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|★×4|''203''|''990510点''|＋連打|4870点|-|
+|AC16.2.12||BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
+|AC15.11.9((アジア版))|NS1DL|~|~|~|''518440点''|~|830点|253点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''972320点''}|~|COLOR(#ff3300){4580点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは140。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Hand Over (Prod. TEMPLIME)]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Hand Over (Prod. TEMPLIME)]]
+-[[むずかしい>難易度表/むずかしい/Hand Over (Prod. TEMPLIME)]]
+-[[おに>難易度表/おに/Hand Over (Prod. TEMPLIME)]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(Hand Over_n.png,nolink);

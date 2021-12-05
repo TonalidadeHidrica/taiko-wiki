@@ -1,11 +1,14 @@
-*The Windmill Song [#qb5adc9b]
--ゲーム「''風のクロノア''」の楽曲。
---風のクロノアの楽曲が収録されることは、CS1で登場した[[STEPPING WIND>難易度表/むずかしい/STEPPING WIND]]以来、''実に約11年2ヶ月ぶり''のことである。
-***詳細 [#details]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.4.0''|★×6|''330''|''800040点''|730点|205点|
-|COLOR(#f30):真打|~|~|COLOR(#f30):''1000940点''|COLOR(#f30):2920点|-|
+*&ruby(ザ){The}; &ruby(ウィンドミル){Windmill}; &ruby(ソング){Song}; [#title]
+-ゲーム「''風のクロノア door to phantomile''」の楽曲。 Stage1-1「風の村ブリーガル」BGM。
+--クロノアシリーズの楽曲が収録されることは、CS1で登場した[[STEPPING WIND>難易度表/おに/STEPPING WIND]]以来''約11年2ヶ月ぶり''のことである。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC15.4.0''|Wii U2|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×6|''330''|''800040点''|730点|205点|
+|COLOR(#f30):真打||~|~|~|COLOR(#f30):''1000940点''|COLOR(#f30):2920点|-|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1002400点''|3020点|-|
+|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは125。
@@ -16,18 +19,22 @@
 --基準点との差は、''たったの40点しかない''。
 --''これにより、[[グレート!アニマルカイザー!!>難易度表/むずかしい/グレート!アニマルカイザー!!]]の天井スコアを下回り、この曲がむずかしい★×6に対する基準点との差が最も近い曲となった''。
 
-//***その他 [#other]
+***その他 [#other]
+-作曲は、[[''小沢純子''>参加アーティスト一覧/小沢純子]]。
+-譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。(ソースは2013/12/11生放送)
+-曲IDは、''klwind''。
+
 ----
 -[[かんたん>難易度表/かんたん/The Windmill Song]]
 -[[ふつう>難易度表/ふつう/The Windmill Song]]
 -[[おに>難易度表/おに/The Windmill Song]]
 -[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=idcboIvWr54]]
 
-***コメント [#h9d61a5d]
+***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
 -COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
-***譜面 [#obfd7a9c]
-風船の長さは適当
+***譜面 [#score]
+~風船の長さは適当
 ~&attachref(windmill_h.png,nolink);

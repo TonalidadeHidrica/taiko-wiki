@@ -1,0 +1,26 @@
+*Walking with you [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''NS1DL''|BGCOLOR(cyan):''ポップス''|★×2|''102''|''296250点''|+連打|850点|395点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''976520点''}|~|COLOR(#ff3300){8060点}|-|
+|AC16.2.18||~|~|~|''994300点''|~|9700点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは185。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Walking with you]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/Walking with you]]
+-[[むずかしい>難易度表/むずかしい/Walking with you]]
+-[[おに>難易度表/おに/Walking with you]]
+-[[オート動画>https://www.youtube.com/watch?v=OKBbsG77NOk]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(nbwalk_e.png,nolink);

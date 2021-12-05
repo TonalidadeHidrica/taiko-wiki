@@ -2,13 +2,16 @@
 -PS3用ソフト「''アイドルマスター ワンフォーオール''」のテーマソング。
 
 ***詳細・攻略 [#more]
--詳細は以下の通り：
 
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.5.0|CENTER:''3DS2''|CENTER:★×6|CENTER:''321''|CENTER:''758670点''|CENTER:＋連打|CENTER:680点|CENTER:183点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''965940点''}|~|CENTER:COLOR(#ff3300){2680点}|CENTER:-|
-||CENTER:COLOR(blue){PS Vita MS}|~|CENTER:''318''|CENTER:''763320点''|~|CENTER:690点|CENTER:188点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){???0点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.5.0|''3DS2''&br;NS RPG|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|''321''|''758670点''|＋連打|680点|183点|
+||3DS2韓|BGCOLOR(darkorchid):COLOR(white){''&#44172;&#51076; &#51020;&#50501;''}|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''965940点''}|~|COLOR(#ff3300){2680点}|-|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''?????0点''|~|??0点|-|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+||COLOR(blue){PS Vita MS}|BGCOLOR(#6699ff):''ONE FOR ALL''|~|''318''|''763320点''|~|690点|188点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){???0点}|-|
 
 -BPMは182。
 
@@ -40,6 +43,7 @@
 -作曲は、''内田哲也''。作詞は、''marhy''。
 -譜面作成は、''くぼけん''(新譜面)。
 
+----
 -[[かんたん>難易度表/かんたん/ONLY MY NOTE]]
 -[[ふつう>難易度表/ふつう/ONLY MY NOTE]]
 -[[おに>難易度表/おに/ONLY MY NOTE]]
@@ -48,12 +52,14 @@
 -[[プレイ動画(旧譜面,キャプチャ,段位道場,4:27&#12316;)>https://youtu.be/Q0VKqAsRu-k]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~新譜面
-&attachref(OMN_h.png,nolink);
+~&attachref(OMN_h.png,nolink);
 
 ~旧譜面
 ~黄色連打は下の画像より48分音符1つ分短い
-&attachref(omnote_h.png,nolink);
+~&attachref(omnote_h.png,nolink);

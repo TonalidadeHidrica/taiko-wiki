@@ -1,18 +1,24 @@
-*Are You Gonna Be My Girl [#p0192b34]
-***詳細・攻略 [#h0a4a5bb]
--詳細は以下の通り
-|CENTER:バージョン((太字は初出))||CENTER:難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''米TDM''|CENTER:おに|CENTER:★×5|CENTER:''304''|''??????点''|＋連打|CENTER:-|CENTER:-|
-|~|CENTER:むずかしい|~|~|''??????点''|~|RIGHT:???点|???点|
--BPMは210。
--12分音符主体の譜面。単色が多いが、2回出現するCOLOR(blue){●}COLOR(red){●●}COLOR(blue){●}COLOR(red){●●●}には注意。
-- アーティストは''JET''。
-- [[かんたん>難易度表/かんたん/Are You Gonna Be My Girl]]
-- [[ふつう>難易度表/ふつう/Are You Gonna Be My Girl]]
-- [[プレイ動画>https://www.youtube.com/watch?v=tY1za8AVhYU]]
+*Are You Gonna Be My Girl [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|コース|h
+|''米TDM''|BGCOLOR(lime):''ROCK''|★×5|''304''|''?????0点''|＋連打|-|-|''おに''|
+|~|~|~|~|''?????0点''|~|??0点|???点|''むずかしい''|
 
-*** コメント [#s406e6df]
+***譜面構成・攻略 [#capture]
+-BPMは210。
+-連打秒数目安・・・約0.976秒−約0.2619秒−約0.333秒−約0.5476秒：合計約2.1185秒
+-12分音符主体の譜面。単色が多いが、2回出現するCOLOR(blue){●}COLOR(red){●●}COLOR(blue){●}COLOR(red){●●●}には注意。
+
+***その他 [#other] 
+-アーティストは''JET''。
+----
+-[[かんたん>難易度表/かんたん/Are You Gonna Be My Girl]]
+-[[ふつう>難易度表/ふつう/Are You Gonna Be My Girl]]
+-[[プレイ動画>https://www.youtube.com/watch?v=tY1za8AVhYU]]
+
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#rb5fe098]
+***譜面 [#score]
 &attachref(Are You Gonna Be My Girl.png,nolink);

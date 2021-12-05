@@ -3,10 +3,10 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
-|''AC16.1.6SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''680''|''1001500点''|＋連打|1470点|
+|''AC16.1.6SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''680''|''1001500点''|+連打|1470点|
 
 ***譜面構成・攻略 [#capture]
--BPMは190-''284''。基本BPMは''284''。
+-BPMは189-''284''。基本BPMは''284''(未確定)。
 //-連打秒数目安・・・約　秒−：合計約　秒
 -ゴーゴーがかなり多い。特に前半〜中盤は4小節に1回のペースでゴーゴーがある。ラスト2回のゴーゴー以外は1小節分の短いもの。
 -非常に高速の中で容赦なく現れる8分(=BPM142の16分に相当する)を捌いていく。
@@ -14,22 +14,23 @@
 --63~65小節の複合COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●●}COLOR(blue){○}は「入った手と逆の手で最後の縁を叩く」ことに注意。
 ---「入った手で最後の縁を叩く」55~56小節の複合と叩き方を混同しないようにしたい。
 --中盤のCOLOR(blue){○}COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}、ラスゴーのCOLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}とCOLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}は練習して叩き方を覚えておきたい。
+-平均密度は''約5.60打/秒''(暫定)。多くのおに★×8に匹敵する密度。
 
 ***その他 [#other]
--アーティストは、[[''黒沢ダイスケ''>参加アーティスト一覧/黒沢ダイスケ]]。
--曲名の「central dogma」とは、[[分子生物学の中心原理>https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%89%E3%82%B0%E3%83%9E]]のことである。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/Central Dogma Pt.1]]を参照。
 
 ----
--[[かんたん>難易度表/かんたん/Central Dogma Pt.1]]
--[[ふつう>難易度表/ふつう/Central Dogma Pt.1]]
--[[おに>難易度表/おに/Central Dogma Pt.1]]
-//-[[プレイ動画>]]
+-[[かんたん>難易度表/かんたん/Central Dogma Pt.1]]/[[Pt.2>難易度表/かんたん/Central Dogma Pt.2]]
+-[[ふつう>難易度表/ふつう/Central Dogma Pt.1]]/[[Pt.2>難易度表/ふつう/Central Dogma Pt.2]]
+-むずかしい/[[Pt.2>難易度表/むずかしい/Central Dogma Pt.2]]
+-[[おに>難易度表/おに/Central Dogma Pt.1]]/[[裏譜面>難易度表/おに/Central Dogma Pt.1(裏譜面)]]/[[Pt.2>難易度表/おに/Central Dogma Pt.2]]
+-[[プレイ動画>https://www.youtube.com/watch?v=Wso-OPpGxKU]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(CD1_h.png,nolink);
+~&attachref(CD1_h2.png,nolink);
 
 ~高速地帯半速Ver.
-~&attachref(CD1_hh.png,nolink);
+~&attachref(CD1_hh2.png,nolink);

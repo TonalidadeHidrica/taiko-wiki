@@ -1,4 +1,4 @@
-*SAKURA EXHAUST [#title]
+*&ruby(サクラ){SAKURA}; &ruby(イグゾースト){EXHAUST}; [#title]
 -カプコン「''crossbeats REV. SUNRISE''」との相互移植曲。
 
 ***詳細 [#more]
@@ -19,11 +19,8 @@
 -フルコン難易度は少し高めだが、16分は全て単色しかない。
 
 ***その他 [#other]
--曲名の読み方は、''サクラ イグゾースト''。
---「EXHAUST」は、「使い尽くす」「疲弊させる」「排気ガス」などの他、「余すところなく研究する」という意味がある。
--アーティストは、''濱本理央''。
---クロスビーツでの表記は「RIO HAMAMOTO(BNSI)」。
--曲IDは、''skrexh''。
+-楽曲情報は[[おに譜面>難易度表/おに/SAKURA EXHAUST]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/SAKURA EXHAUST]]
 -[[ふつう>難易度表/ふつう/SAKURA EXHAUST]]

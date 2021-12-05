@@ -1,13 +1,15 @@
 *ハンガリー舞曲第5番 [#title]
 ***攻略・詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''CS4''|CENTER:★×5|CENTER:''270''|CENTER:''?????0点''|CENTER:+連打|CENTER:740点|CENTER:180点|
-||CENTER:米TDM&br;TDM|CENTER:★×4|~|CENTER:''?????0点''|~|CENTER:680点|CENTER:170点|
-|CENTER:AC7||CENTER:★×5|~|CENTER:''?????0点''|~|CENTER:700点|~|
-||CENTER:Wii1|~|~|CENTER:''679610点''|~|CENTER:630点|CENTER:140点|
-||CENTER:DS3&br;iOS|~|~|CENTER:''576050点''|~|CENTER:620点|~|
-||CENTER:NS1DL|~|~|CENTER:''586100点''|~|CENTER:610点|CENTER:183点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3190点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''CS4''|BGCOLOR(gold):''クラシック''|★×5|''270''|''?????0点''|+連打|740点|180点|
+||米TDM|BGCOLOR(gold):''CLASSICAL''|★×4|~|''?????0点''|~|680点|170点|
+||TDM|BGCOLOR(gold):''Classical''|~|~|~|~|~|~|
+|AC7||BGCOLOR(gold):''クラシック''|★×5|~|''?????0点''|~|700点|~|
+||Wii1|~|~|~|''679610点''|~|630点|140点|
+||DS3&br;iOS|~|~|~|''576050点''|~|620点|~|
+||NS1DL|~|~|~|''586100点''|~|610点|183点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''985710点''}|~|COLOR(#ff3300){3190点}|-|
 
 -BPMは約69〜156。
 --速度変化が激しく、可を出しやすい。

@@ -1,16 +1,22 @@
 *READY!! [#title]
+-アニメ[[「''アイドルマスター''」>アニメ別収録曲#imas]]のOP1。OP2は[[こちら>難易度表/ふつう/CHANGE!!!!]]。
+--後にゲーム「''アイドルマスター2''」(PS3版)に収録された。
 ***詳細・攻略 [#more]
--アニメ「''アイドルマスター''」のOP1。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDXDL''|CENTER:★×2|CENTER:''130''|CENTER:''432840点''|CENTER:＋連打|CENTER:930点|CENTER:250点|
-|CENTER:AC15.1.0||~|~|CENTER:''441460点''|~|CENTER:920点|CENTER:370点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){6600点}|CENTER:-|
-||CENTER:COLOR(blue):PS Vita MS|CENTER:★×4|CENTER:''120''|CENTER:''536900点''|~|CENTER:870点|CENTER:438点|
-|CENTER:COLOR(#f30):真打||~|~|CENTER:COLOR(#f30):''988310点''|~|CENTER:COLOR(#f30):5190点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDXDL''|BGCOLOR(orange):''アニメ''|★×2|''130''|''432840点''|＋連打|930点|250点|
+|AC15.1.0||~|~|~|''441460点''|~|920点|370点|
+|AC15.6.0||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};||~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){6600点}|-|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''996100点''|~|7640点|-|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+||COLOR(blue):PS Vita MS|BGCOLOR(#00cc66):''TVアニメ''|★×4|''120''|''536900点''|~|870点|438点|
+|COLOR(#f30):真打||~|~|~|COLOR(#f30):''988310点''|~|COLOR(#f30):5190点|-|
 -BPMは174。
 
-***新譜面 [#new]
+***新譜面 (COLOR(blue){PS Vita MS}限定譜面)  [#new]
 -黄色連打がかなり多い連打曲である。
 -[[かんたん>難易度表/かんたん/READY!!]]とはコンボ数が''21コンボしか''離れていない。
 --逆に、[[むずかしい>難易度表/むずかしい/READY!!]]とはコンボ数が2.45倍離れている。
@@ -21,7 +27,7 @@
 -中盤で1回だけ出てくる8分の単色4連打に注意。
 --この4連打は大音符なので、1個でも特良を逃すと痛い失点になる可能性がある。
 
-***旧譜面 [#old]
+***旧譜面 (PSPDX・AC譜面) [#old]
 -アイドルマスターシリーズ初の★×2。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -33,12 +39,14 @@
 
 ***その他 [#other]
 -歌唱は、''765PRO ALLSTARS''。
--作詞は、''yura''。作・編曲は、''神前暁''。
+-作詞は、''yura''。作・編曲は、[[''神前暁''>参加アーティスト一覧/神前暁]]。
 --[[GO MY WAY!!>難易度表/ふつう/GO MY WAY!!]]、[[キラメキラリ>難易度表/ふつう/キラメキラリ]]、[[“HELLO!!”>難易度表/ふつう/“HELLO!!”]]、[[白鳥の湖>難易度表/ふつう/白鳥の湖〜still a duckling〜]] [[〜still a duckling〜>難易度表/ふつう/白鳥の湖〜still a duckling〜(裏譜面)]]（作曲除く）でおなじみのコンビ。
--譜面作成は、''くぼけん''(新譜面)。
+-譜面作成は、[[''くぼけん''>譜面作成者一覧/くぼけん]](COLOR(blue){PS Vita MS})。 
 -アイドルマスター2(PS3版)においては、[[Honey Heartbeat>難易度表/ふつう/Honey Heartbeat 〜10 Stars Mix〜]]に次ぐ第6のクインテットライブ使用可能楽曲として登場した。
 --ちなみにXbox 360版ではPS3版と同じく後期OPの[[CHANGE!!!!>難易度表/ふつう/CHANGE!!!!]]は配信されたが、この曲は配信されなかった。
 -前述のとおりアニメOP版なので、曲の長さも約1分30秒とアイマス曲最短である。
+-曲IDは、''imasop''(COLOR(blue){PS Vita MS}以外)、''imsrdy''(COLOR(blue){PS Vita MS})。
+----
 -[[かんたん>難易度表/かんたん/READY!!]]
 -[[むずかしい>難易度表/むずかしい/READY!!]]
 -[[おに>難易度表/おに/READY!!]]
@@ -51,8 +59,8 @@
 ***譜面 [#fumen]
 ~新譜面
 ~風船の長さは適当
-&attachref(ready_n.png,nolink);
+~&attachref(ready_n.png,nolink);
 
 ~旧譜面
 ~風船、くすだまの長さは適当です。
-&attachref(readyn.png,nolink);
+~&attachref(readyn.png,nolink);

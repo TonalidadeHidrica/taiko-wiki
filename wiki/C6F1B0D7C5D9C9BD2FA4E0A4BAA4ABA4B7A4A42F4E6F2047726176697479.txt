@@ -1,4 +1,4 @@
-*No Gravity [#title]
+*&ruby(ノー){No}; &ruby(グラビティ){Gravity}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -6,6 +6,7 @@
 |''AC15.8.6''|PS4 1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''311''|''842120点''|+連打|830点|233点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''992310点''}|~|COLOR(#ff3300){3010点}|-|
 |AC16.1.0||~|~|~|''996090点''|~|3190点|-|
+||iOS&br;AR|~|~|~|''837560点''|~|800点|190点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは142〜''284''。
@@ -21,11 +22,8 @@
 -中盤と終盤で計3回出てくる16分の複合4連打(COLOR(red){●●●}COLOR(blue){○}・COLOR(red){●●}COLOR(blue){○○}・COLOR(blue){○○}COLOR(red){●●})に注意。
 
 ***その他 [#other]
--曲名の読み方は、''ノー グラビティ''。
---直訳で「無重力」。略称は「ノグラ」等。
--作曲・編曲は、''Lyo''。
--長い間、アーティストは伏せられていた((「太鼓の達人においては初となる方」による楽曲とだけ情報公開されていた))が、[[サウンドトラック>https://city-connection.co.jp/taiko/vol08.html]]で明かされた。
--曲IDは、''nograv''。
+-楽曲情報は[[おに譜面>難易度表/おに/No Gravity]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/No Gravity]]
 -[[ふつう>難易度表/ふつう/No Gravity]]
@@ -36,4 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(nogra_h.png,nolink);
+&attachref(nogra_hf.png,nolink);

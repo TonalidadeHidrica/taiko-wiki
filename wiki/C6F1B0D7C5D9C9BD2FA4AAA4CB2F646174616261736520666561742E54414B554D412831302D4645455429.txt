@@ -1,25 +1,27 @@
 *database feat.TAKUMA(10-FEET) &br;database((Wii U3の表記)) [#title]
 -アニメ「''ログ・ホライズン''」1期・2期のOP曲。
 
-***詳細 [#detail]
-|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''Wii U3''&br;PS Vita1DL|★×7|''419''|''1001530点''|710点|193点|
-|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1004150点''}|COLOR(#ff3300){2310点}|-|
-|iOS&br;AR|~|~|''??????点''|700点|160点|
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''Wii U3''&br;PS Vita1DL|BGCOLOR(orange):''アニメ''|★×7|''419''|''1001530点''|710点|193点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1004150点''}|COLOR(#ff3300){2310点}|-|
+|iOS&br;AR|~|~|~|''1001120点''|700点|160点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは177。
 -''精度曲''のひとつ。
--平均密度は、''約4.99打/秒''。
 -最初は8分音符主体だが、曲が進むにつれ16分音符の数が多くなり、密度も高くなっていく。
 -最後にソフランがある。高スコアを狙うなら特に注意しておきたいところ。
+-平均密度は、''約4.99打/秒''。
 
 ***その他 [#other]
 -アーティストは、[[''MAN WITH A MISSION''>アーティスト別収録曲#mwam]]。
 --作詞は、Kamikaze Boy・Jean-Ken Johnny・TAKUMA。作曲は、Kamikaze Boy。編曲は、MAN WITH A MISSION・Kohsuke Oshima。
 -譜面作成は、[[''アリーホット''>譜面作成者一覧/アリーホット]]。
--曲IDは、''loghor''
+//-PS Vita1では2021年8月27日にPS Vita向けのコンテンツ購入機能が停止される影響で配信終了となる。
+-曲IDは、''loghor''。
+
 ----
 -[[かんたん>難易度表/かんたん/database feat.TAKUMA(10-FEET)]]
 -[[ふつう>難易度表/ふつう/database feat.TAKUMA(10-FEET)]]
@@ -30,6 +32,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-正しい難易度は★×7
-
-&ref(loghor_m.png,nolink);
+~正しい難易度は★×7
+~&ref(loghor_m.png,nolink);

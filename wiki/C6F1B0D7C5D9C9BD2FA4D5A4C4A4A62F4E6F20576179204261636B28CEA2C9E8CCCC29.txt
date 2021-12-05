@@ -1,8 +1,10 @@
 *No Way Back(裏譜面) [#title]
 ***詳細･攻略 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii3SP''|CENTER:★×7|CENTER:''304''|CENTER:''647330点''|CENTER:＋連打|CENTER:530点|CENTER:120点|
-|CENTER:PSPDXDL|~|CENTER:''307''|CENTER:''662390点''|~|CENTER:630点|CENTER:130点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii3SP''|BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|★×7|''304''|''647330点''|＋連打|530点|120点|
+|PSPDXDL|~|~|''307''|''662390点''|~|630点|130点|
+
 -BPMは158。
 ***Wii3の譜面 [#wii3]
 -裏譜面トップクラスの連打曲。★×7では[[Doom Noiz>難易度表/ふつう/Doom Noiz]](当時)に次いで黄色連打が多い。

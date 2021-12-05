@@ -1,10 +1,12 @@
 *Blood Rage [#title]
-***詳細・攻略 [#more]
 -PS4/PS Vita用ソフト「''GOD EATER 2 RAGE BURST''」よりブラッドレイジ発動時のBGM。
--詳細は以下の通り：
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''|CENTER:★×5|CENTER:''395''|CENTER:''734640点''|CENTER:＋連打|CENTER:520点|CENTER:128点|
+|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×5|CENTER:''395''|CENTER:''734640点''|CENTER:＋連打|CENTER:520点|CENTER:128点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){2210点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは162。
 -黄色連打がかなり多い連打曲である。
 -8分の複合が主体の譜面で、16分も数がかなり多い。
@@ -14,8 +16,11 @@
 -16分の3連打が5連続で出てくる31〜32小節と85〜86小節に注意。
 --また、全良狙いの人はリズムが取りづらくなっている62小節にも注意したいところ。
 -以上のことからフルコン難易度は高く、''下手な★×6,7よりも難しいので要注意''。
+
+***その他 [#other]
 -作曲は、''椎名豪''。
 
+----
 -[[かんたん>難易度表/かんたん/Blood Rage]]
 -[[ふつう>難易度表/ふつう/Blood Rage]]
 -[[おに>難易度表/おに/Blood Rage]]
@@ -26,4 +31,4 @@
 
 ***譜面 [#score]
 風船の長さは暫定
-&ref(ge2br_h.png,nolink);
+~&ref(ge2br_h.png,nolink);

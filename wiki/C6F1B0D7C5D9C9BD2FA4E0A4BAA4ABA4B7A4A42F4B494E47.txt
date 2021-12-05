@@ -1,0 +1,25 @@
+*KING [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|h
+|''AC16.2.15''|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|★×6|''511''|''1004360点''|1960点|
+
+***譜面構成・攻略 [#capture]
+-BPMは166。
+-''精度曲''のひとつ。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/KING]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/KING]]
+-[[ふつう>難易度表/ふつう/KING]]
+-[[おに>難易度表/おに/KING]]
+-[[プレイ動画>https://www.youtube.com/watch?v=zY2SZ8OFHes]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(KING_h.png,nolink);

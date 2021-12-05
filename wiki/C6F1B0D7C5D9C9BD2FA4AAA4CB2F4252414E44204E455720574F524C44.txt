@@ -1,5 +1,6 @@
-*BRAND NEW WORLD [#title]
+*&ruby(ブラン){BRAND}; &ruby(ニュー){NEW}; &ruby(ワールド){WORLD}; [#title]
 -アニメ[[「''ONE PIECE''」>アニメ別収録曲#onepiece]]のOP6。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -14,12 +15,12 @@
 -平均密度は、''約3.39打/秒''。
 
 ***その他 [#other]
--曲名の読み方は、''ブラン ニュー ワールド''。
 -アーティストは、[[''D-51''>アーティスト別収録曲#d51]]。
 --作詞は、吉田安英。作曲は、吉田安英・IKUMA。編曲は、IKUMA with YOICHI WATANABE。
 --ちなみに、太鼓の達人収録のものは[[''singman''>参加アーティスト一覧/singman]]によるカバー。
 -曲IDは、''brand''。
 -同ジャンルの[[Brand-new World>難易度表/おに/Brand-new World]]と間違えないように。
+
 ----
 -[[かんたん>難易度表/かんたん/BRAND NEW WORLD]] 
 -[[ふつう>難易度表/ふつう/BRAND NEW WORLD]]

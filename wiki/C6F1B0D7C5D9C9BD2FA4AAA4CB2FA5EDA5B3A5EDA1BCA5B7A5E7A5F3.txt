@@ -1,8 +1,9 @@
 *ロコローション [#title]
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-|CENTER:''AC7''|CENTER:★×7|CENTER:COLOR(#909):''561&br;COLOR(#069):479&br;COLOR(#666):380''|CENTER:''1043200点''|CENTER:-|CENTER:-|CENTER:''ゴーゴーバグあり''|
-|CENTER:AC8|~|~|CENTER:''1003290点''|CENTER:610点|CENTER:110点||
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差||h
+|''AC7''|BGCOLOR(cyan):''J-POP''|★×7|COLOR(#909):''561&br;COLOR(#069):479&br;COLOR(#666):380''|''1043200点''|-|-|''ゴーゴー&br;バグあり''|
+|AC8|~|~|~|''1003290点''|610点|110点||
 
 ***譜面構成・攻略 [#capture]
 -BPMは140。
@@ -14,14 +15,14 @@
 ***その他 [#other]
 -アーティストは、[[''ORANGE RANGE''>アーティスト別収録曲#orange]]。
 --作詞・作曲はORANGE RANGEに加えて、[[''ロコモーション''>難易度表/おに/The Loco-Motion]]の作詞・作曲者でもある''Gerry Goffin・Carole King''。
----日本語の曲なのに作詞者に外国人がいるのは、いろいろな事情でロコローションが[[ロコモーション>難易度表/おに/The Loco-Motion]]のカバー曲という扱いになったため。
+---日本語の曲なのに作詞者に外国人がいるのは、いろいろな事情でロコローションがロコモーションのカバー曲という扱いになったため。
 -曲IDは、''or2''。
 ----
 -[[かんたん>難易度表/かんたん/ロコローション]]
 -[[ふつう>難易度表/ふつう/ロコローション]]
 -[[むずかしい>難易度表/むずかしい/ロコローション]]
 -プレイ動画
---[[COLOR(#666):普通譜面>https://www.youtube.com/watch?v=0ybCqHF-mPY]]/[[COLOR(#069):玄人譜面>https://www.youtube.com/watch?v=Vbq7KYkpYYw]]/[[COLOR(#909):達人譜面>https://www.youtube.com/watch?v=gcYlScpJHZQ]]
+--[[COLOR(#666):普通譜面(直撮り)>https://www.youtube.com/watch?v=OvMM-5apHgM]]/[[COLOR(#069):玄人譜面>https://www.youtube.com/watch?v=Vbq7KYkpYYw]]/[[COLOR(#909):達人譜面>https://www.youtube.com/watch?v=gcYlScpJHZQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -8,6 +8,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは140。
+-連打秒数目安・・・1.25秒−0.5秒×2：合計2.25秒
 -CS2では[[おに>難易度表/おに/Taiko Session〜Live Version〜]]と同一譜面。
 -PS4 1では[[旧ふつう>難易度表/ふつう/Taiko Session〜Live Version〜]]と同一譜面。
 

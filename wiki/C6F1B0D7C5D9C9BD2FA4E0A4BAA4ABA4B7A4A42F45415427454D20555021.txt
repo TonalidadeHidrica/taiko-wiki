@@ -1,11 +1,16 @@
 *EAT'EM UP! [#title]
-***詳細・攻略 [#more]
 -「''R4 -RIDGE RACER TYPE 4-''」より。
 --「''パックマン''」シリーズのアレンジ曲であり、「''シンクロニカ''」からの移植曲でもある。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.7.0SP|CENTER:''Wii U3SP''|CENTER:★×6|CENTER:''321''|CENTER:''788130点''|CENTER:＋連打|CENTER:780点|CENTER:223点|
-|CENTER:COLOR(#f30){真打}||~|~|CENTER:COLOR(#f30){''990810点''}|~|CENTER:COLOR(#f30){3030点}|CENTER:-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|CENTER:AC15.7.0SP|''Wii U3SP''&br;PS4 1|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|''321''|''788130点''|＋連打|780点|223点|
+|COLOR(#f30){真打}||~|~|~|COLOR(#f30){''990810点''}|~|COLOR(#f30){3030点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|??0点|-|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは152。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -24,6 +29,7 @@
 -譜面作成は、''タケモト''。
 --同氏の初作成譜面である。
 
+----
 -[[かんたん>難易度表/かんたん/EAT'EM UP!]]
 -[[ふつう>難易度表/ふつう/EAT'EM UP!]]
 -[[おに>難易度表/おに/EAT'EM UP!]]

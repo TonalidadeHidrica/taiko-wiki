@@ -1,9 +1,10 @@
 *Rising Hope [#title]
 -アニメ「''魔法科高校の劣等生''」のOP1。
-***詳細 [#detail]
-|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1DL''&br;3DS3DL&br;NS1DL|CENTER:BGCOLOR(orange):''アニメ''|CENTER:★×4|CENTER:''108''|CENTER:''348580点''|CENTER:＋連打|CENTER:810点|CENTER:368点|
-|CENTER:COLOR(#ff3300){真打}|~|~|~|CENTER:COLOR(#ff3300){''985930点''}|~|CENTER:COLOR(#ff3300){6990点}|CENTER:-|
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1DL''&br;3DS3DL&br;NS1DL|BGCOLOR(orange):''アニメ''|★×4|''108''|''348580点''|＋連打|810点|368点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''985930点''}|~|COLOR(#ff3300){6990点}|-|
 
 ***譜面構成・攻略 [#more]
 -BPMは190。

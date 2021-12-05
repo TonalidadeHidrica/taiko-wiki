@@ -4,25 +4,28 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.5.9SP''&br;AC15.6.0|PS Vita1SP|BGCOLOR(orange):''アニメ''|★×9|''530''|''1098640点''|＋連打|590点|155点|
-|AC15.7.0||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
-|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1001820点''}|~|COLOR(#ff3300){1770点}|-|
+||PS Vita1亜SP|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
+|AC15.7.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1001820点''}|~|COLOR(#ff3300){1770点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''997400点''|~|1880点|-|
-|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|~|~|~|~|~|
+|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは178。
 -連打秒数目安・・・約0.646秒×4：合計約2.584秒
 -[[表譜面>難易度表/おに/Star!!]]を強化したような譜面である。複合が増え、長いものもある。
---なお21〜26、37〜40小節は[[表譜面>難易度表/おに/Star!!]]と同一である。
--8、54、62小節に計3つ、[[表譜面>難易度表/おに/Star!!]]にはない24分3連打(COLOR(red){●●}COLOR(blue){●}のみ)が存在し、''17.8打/秒''の速さである。全良を狙う際は注意したい。
+--なお、21〜26・37〜40小節は[[表譜面>難易度表/おに/Star!!]]と同一である。
+-8・54・62小節に計3つ、[[表譜面>難易度表/おに/Star!!]]にはない24分3連打(COLOR(red){●●}COLOR(blue){○}のみ)が存在し、''17.8打/秒''の速さである。全良を狙う際は注意したい。
 -縁が逆手入りとなる複合がいくつかある。手元を狂わされないように注意。
---11小節末尾からの複合はCOLOR(red){●●}/COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}/COLOR(red){●}COLOR(blue){●●●}/COLOR(red){●●●}と見ると良いであろう。
---ラストの長複合はCOLOR(red){●●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}×4＋COLOR(red){●}COLOR(blue){●●●●}と区切ると分かりやすいか。
+--11小節末尾からの複合はCOLOR(red){●●}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●●●}と見ると良いであろう。
+--ラストの長複合はCOLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}×4＋COLOR(red){●}COLOR(blue){○○○○}と区切ると分かりやすいか。
 -総ノーツ数が530と★×9では少ない。1つの可や不可によって大きく失点しかねないので注意。
 -1曲を通しての平均密度は、''約6.14打/秒''である。
 
 ***その他 [#other]
--原曲情報は[[表譜面>難易度表/おに/Star!!]]を参照。
+-楽曲情報は[[表譜面>難易度表/おに/Star!!]]を参照。
 -[[表譜面>難易度表/おに/Star!!]]とのノーツ数合計は''876''である。
 
 ----

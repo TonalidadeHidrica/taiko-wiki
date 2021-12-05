@@ -1,13 +1,15 @@
 *One Night Carnival [#title]
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC5''||CENTER:★×3|CENTER:''330''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点|
-||CENTER:CS3|~|~|CENTER:''637400点''|~|CENTER:600点|CENTER:140点|
-|~|~|~|~|CENTER:''651400点''((二人プレイ時))|~|~|~|
-||CENTER:iOS|CENTER:★×6|CENTER:''367''|CENTER:''784790点''|~|CENTER:550点|~|
-||CENTER:3DS2DL&br;NS1|~|~|CENTER:''794600点''|~|CENTER:600点|CENTER:168点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''??????点''}|~|CENTER:COLOR(#ff3300){???0点}|CENTER:-|
+
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC5''||BGCOLOR(cyan):''J-POP''|★×3|''330''|''?????0点''|＋連打|??0点|??0点|
+||CS3|''J-POP''|~|~|''637400点''|~|600点|140点|
+|~|~|~|~|~|''651400点''((二人プレイ時))|~|~|~|
+||CENTER:iOS|BGCOLOR(cyan):''ポップス''|★×6|''367''|''784790点''|~|550点|~|
+||3DS2DL|BGCOLOR(cyan):''J-POP''|~|~|''794600点''|~|600点|168点|
+||NS1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''997770点''}|~|COLOR(#ff3300){2390点}|-|
 -BPMは135。
 -全体的に付点配置が多く、リズムが取りづらい。
 
@@ -29,7 +31,7 @@
 -アーティストは、''氣志團''。
 --作詞・作曲は、綾小路翔。編曲は、氣志團。
 -曲IDは、''kishi2''(新譜面)・''kishi''(旧譜面)
-
+----
 -[[かんたん>難易度表/かんたん/One Night Carnival]]
 -[[ふつう>難易度表/ふつう/One Night Carnival]]
 -[[おに>難易度表/おに/One Night Carnival]]

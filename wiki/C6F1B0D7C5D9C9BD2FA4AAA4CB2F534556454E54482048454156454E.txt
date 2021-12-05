@@ -1,15 +1,21 @@
 *SEVENTH HEAVEN [#title]
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC10''|CENTER:★×7|CENTER:''490''|CENTER:''1001280点''|CENTER:＋連打|CENTER:590点|CENTER:140点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC10''|BGCOLOR(cyan):''J-POP''|★×7|''490''|''1001280点''|+連打|590点|140点|
+
+***譜面構成・攻略 [#capture]
 -BPMは130。
 -連打秒数目安・・・約0.423秒
 -7小節にある24分に注意。
 -同じようなパターンの繰り返しが多い。
--アーティストは[[DAYBREAK'S BELL>難易度表/かんたん/DAYBREAK'S BELL]]と同じ''L'Arc〜en〜Ciel''。
+平均密度は、''約4.57打/秒''。
+
+***その他 [#other]
+-アーティストは[[DAYBREAK'S BELL>難易度表/おに/DAYBREAK'S BELL]]と同じ''L'Arc〜en〜Ciel''。
 --作詞・作曲は''hyde''、編曲は''L'Arc〜en〜Ciel''。
 -曲IDは''sevent''。
+----
 -[[かんたん>難易度表/かんたん/SEVENTH HEAVEN]]
 -[[ふつう>難易度表/ふつう/SEVENTH HEAVEN]]
 -[[むずかしい>難易度表/むずかしい/SEVENTH HEAVEN]]

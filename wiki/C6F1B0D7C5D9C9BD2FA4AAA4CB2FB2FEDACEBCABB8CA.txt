@@ -17,10 +17,10 @@
 -[[かんたん>難易度表/かんたん/改變自己]]
 -[[ふつう>難易度表/ふつう/改變自己]]
 -[[むずかしい>難易度表/むずかしい/改變自己]]
--[[プレイ動画(未フル)>https://www.youtube.com/watch?v=8z2B50eOJX0]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=vj2jpXu9y9Y]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(a1wan1_m.png,nolink);
+&attachref(a1wan1_m_改行.png,nolink);

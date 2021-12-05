@@ -1,12 +1,16 @@
-*Phoenix [#title]
-***詳細・攻略 [#more]
+*&ruby(フェニックス){Phoenix}; [#title]
 -「''XEVIOUS 30TH ANNIVERSARY TRIBUTE''」の中の一曲。
 --このアルバムは元々ナムコが1983年に発表したゲーム「''ゼビウス''」の30周年を記念して制作されたもの。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.3.0''|CENTER:Wii U1SP&br;NS1DL|CENTER:★×6|CENTER:''388''|CENTER:''767710点''|CENTER:＋連打|CENTER:580点|CENTER:153点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''975700点''}|~|CENTER:COLOR(#ff3300){2300点}|CENTER:-|
--BPMは168。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.3.0''|Wii U1SP&br;NS1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''388''|''767710点''|+連打|580点|153点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''975700点''}|~|COLOR(#ff3300){2300点}|-|
+|AC16.1.0||~|~|~|''991800点''|~|2550点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約168。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。
 -8分の複合が主体の譜面で、16分も数がかなり多い。
 --16分は全て単色しかないが、連続して出てくる箇所もある。
@@ -15,22 +19,17 @@
 --配色が少し複雑なので、苦手な人は分業で処理しよう。
 
 ***その他 [#other]
--曲名の読み方は、''フェニックス''。
---歌詞の「太陽の鳥」とともに、「ゼビウス」に登場する戦闘機「''ソルバルウ''」を表している。
--歌唱は、''singman''。作・編曲は、平井克明。作詞は、井上拓。
---ギターは、後藤貴徳。ベースは、吹原賢吾。ドラムトラックは、増渕裕二。
--譜面作成は、''くぼけん''。
+-楽曲情報は[[おに譜面>難易度表/おに/Phoenix]]を参照。
 -[[キミドリVer.段位道場>過去の段位道場#kimidori]]の四級3曲目課題曲となった。
-
+----
 -[[かんたん>難易度表/かんたん/Phoenix]]
 -[[ふつう>難易度表/ふつう/Phoenix]]
 -[[おに>難易度表/おに/Phoenix]]
 -[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=c-1Z64ICwSo]]
 
 ***コメント [#comment]
--COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
--COLOR(#3333ff){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(Phoenix.png,nolink);
+~BPMは[[おに譜面>難易度表/おに/Phoenix]]を参照
+~&attachref(Phoenix.png,nolink);

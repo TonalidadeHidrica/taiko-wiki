@@ -26,7 +26,7 @@
 ----
 -[[かんたん>難易度表/かんたん/Taiko Drum Monster]]
 -[[むずかしい>難易度表/むずかしい/Taiko Drum Monster]]
--[[おに>難易度表/おに/Taiko Drum Monster]]
+-[[おに>難易度表/おに/Taiko Drum Monster]]/[[裏譜面>難易度表/おに/Taiko Drum Monster(裏譜面)]]
 -[[楽曲コメント(第四回天下一音ゲ祭)>https://web.archive.org/web/20171210170212/http://www.otogesai.jp/tournament_music]](Web Archive)
 -[[楽曲コメント(公式ブログ)>http://taiko-ch.net/blog/?p=2111]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=bIQ-KeyQSEM]]

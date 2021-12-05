@@ -1,13 +1,22 @@
 *ストロベリmelody [#title]
-***詳細・攻略 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC10''|★×6|''395''|''935630点''|＋連打|670点|170点|
+-TBS系「ワナゴナ」エンディングテーマ
+-テレビ東京系「ポケモン☆サンデー」オープニングテーマ
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC10''|BGCOLOR(cyan):''J-POP''|★×6|''395''|''935630点''|＋連打|670点|170点|
+
+***譜面構成・攻略 [#capture]
 -BPMは126。
--平均密度は、''約4.00打/秒''。
--2回ずつあるCOLOR(red){●●●●}COLOR(blue){●●●●}COLOR(red){●●}COLOR(blue){●●}COLOR(red){●}とCOLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●●●●}に要注意。
+-2回ずつあるCOLOR(red){●●●●}COLOR(blue){○○○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●}とCOLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○○○○}に要注意。
 -★×6では詐称気味。
+-平均密度は、''約4.00打/秒''。
+
+***その他 [#other]
 -アーティストは、[[''中川翔子''>アーティスト別収録曲#syokotan]]。
+
+----
 -[[かんたん>難易度表/かんたん/ストロベリmelody]]
 -[[ふつう>難易度表/ふつう/ストロベリmelody]]
 -[[むずかしい>難易度表/むずかしい/ストロベリmelody]]

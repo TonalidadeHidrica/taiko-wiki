@@ -4,7 +4,7 @@
 -楽曲情報
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|曲名|難易度|最大コンボ数|風船|最大叩けた数|連打|h
-|1曲目|[[MATSURI D/A>難易度表/おに/MATSURI D/A]]|おに★×8|574|-|574&br;+連打|約1.769秒|
+|1曲目|[[MATSURI D/A>難易度表/おに/MATSURI D／A]]|おに★×8|574|-|574&br;+連打|約1.769秒|
 |2曲目|[[愛想笑い>難易度表/おに/愛想笑い]]|おに★×8|600|10|610&br;+連打|約1.676秒|
 |3曲目|[[NECOLOGY>難易度表/おに/NECOLOGY]]|おに★×8|656|13|669|''精度曲''|
 |>|''合計''|-|''1830''|''23''|''1853&br;+連打''|''約3.445秒''|f
@@ -21,7 +21,7 @@
 -高速譜面に慣れている人は[[愛想笑い>難易度表/おに/愛想笑い]]のフルコンボを目指そう。コンボ数の条件はこれだけで突破できる。
 --もしものために[[NECOLOGY>難易度表/おに/NECOLOGY]]のフルコンボもできるようにしておきたいが、この曲はいきなりCOLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●} COLOR(red){●}COLOR(red){●}という凶悪配置が襲ってくるので注意。
 ---これを叩けないと、そのあとには''595''ノーツしかないので絶望的。
--コンボをつなぐことを考えると、[[MATSURI D/A>難易度表/おに/MATSURI D/A]]の開幕＆ラス殺しの16分・24分複合と、[[NECOLOGY>難易度表/おに/NECOLOGY]]のCOLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}×3・COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}×3が脅威だろう。これが叩けない人はまずは[[愛想笑い>難易度表/おに/愛想笑い]]を練習しよう。
+-コンボをつなぐことを考えると、[[MATSURI D/A>難易度表/おに/MATSURI D／A]]の開幕＆ラス殺しの16分・24分複合と、[[NECOLOGY>難易度表/おに/NECOLOGY]]のCOLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}×3・COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}×3が脅威だろう。これが叩けない人はまずは[[愛想笑い>難易度表/おに/愛想笑い]]を練習しよう。
 -3曲目の[[NECOLOGY>難易度表/おに/NECOLOGY]]は精度曲のため、2曲目終了時に叩けた数が''1181''ないと不合格確定となる(仕様上、''1181未満でも3曲目に進める'')。
 -金合格を狙う場合、連打が一つの壁になるだろう。
 --3曲全てフルコンボかつ風船割り前提でも47打''(約13.64打/秒)''必要であり、やや厳しめ。

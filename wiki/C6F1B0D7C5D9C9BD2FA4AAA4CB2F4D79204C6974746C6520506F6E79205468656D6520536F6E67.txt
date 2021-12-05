@@ -1,0 +1,30 @@
+*My Little Pony Theme Song [#title]
+-アニメ「''My Little Pony Friendship is Magic''（日本題:「''マイリトルポニー〜トモダチは魔法〜''」）」のOP。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PTB''|BGCOLOR(orange):''アニメ''|★×3|''262''|''801010点''|＋連打|900点|263点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1000180点''}|~|COLOR(#ff3300){3460点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは115-220。
+--ただし、220地帯はHS0.75がかかっており、見た目BPMは165。
+-8分複合が主体の譜面で16分は存在しない。
+-1曲を通しての平均密度は、''約3.33打/秒''である。
+
+***その他 [#other]
+-歌唱は、''トワイライトスパークル''（''Rebecca Shoichet''）、''アップルジャック''・''レインボーダッシュ''（''Ashleigh Ball''）、''フラッターシャイ''（''Andrea Libman''）、''ピンキーパイ''（''Shannon Chan-Kent''）、''ラリティ''（''Kazumi Evans''）。
+--作詞は、Lauren Faust。作曲は、Daniel Ingram・Anne Bryant and Clifford。
+-曲IDは、''mlpony''。
+----
+-[[かんたん>難易度表/かんたん/My Little Pony Theme Song]]
+-[[ふつう>難易度表/ふつう/My Little Pony Theme Song]]
+-[[むずかしい>難易度表/むずかしい/My Little Pony Theme Song]]
+-[[オート動画>https://www.youtube.com/watch?v=aq3_erfV12M]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(mlpony.png,nolink);

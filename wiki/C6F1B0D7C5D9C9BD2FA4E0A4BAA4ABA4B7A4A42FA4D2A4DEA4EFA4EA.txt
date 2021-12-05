@@ -15,11 +15,11 @@
 -アーティストは、''遊助''（上地雄輔、''羞恥心''のメンバー）。
 --作詞は、遊助。作曲は、N.O.B.B。
 -曲IDは、''himawa''
-
+----
 -[[かんたん>難易度表/かんたん/ひまわり]]
 -[[ふつう>難易度表/ふつう/ひまわり]]
 -[[おに>難易度表/おに/ひまわり]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=Pw-Q1VtE07w]]
+-[[オート動画>https://www.youtube.com/watch?v=Pw-Q1VtE07w]]
 
 ***コメント [#comment]
 #pcomment(,noname)

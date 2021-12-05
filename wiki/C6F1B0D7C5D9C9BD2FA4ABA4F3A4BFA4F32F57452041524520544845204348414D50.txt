@@ -3,9 +3,12 @@
 -詳細は以下の通り:
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC3''|CENTER:★×4|CENTER:''153''|CENTER:''?????0点''|CENTER:＋連打|CENTER:980点|CENTER:300点|
+
 -BPMは101.5-123.3。
+-連打秒数目安・・・約2.315秒−約0.9327秒×4：合計約6.046秒
 -サッカーでおなじみの「オーレーオレオレオレ」の曲である。
 -アーティストは、''THE WAVES''。
+
 -[[ふつう>難易度表/ふつう/WE ARE THE CHAMP]]
 -[[むずかしい・おに>難易度表/おに/WE ARE THE CHAMP]]
 -[[プレイ動画>http://www.youtube.com/watch?v=0wAJF65VKys]]

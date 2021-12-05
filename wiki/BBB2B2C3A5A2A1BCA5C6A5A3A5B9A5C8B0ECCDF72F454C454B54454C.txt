@@ -1,5 +1,5 @@
-* ELEKTEL（エレキテル） [#p9f8114b]
--- ELEKTEL（エレキテル）は、ウエケンとpolymoogによる "LOUNGE+BOSSA NOVA+2STEP+HOUSE=MILLENNIUM MUSIC" を標榜するフリーの "ハイブリッド・ラウンジ" ユニット。 
+* &ruby(エレキテル){ELEKTEL}; [#p9f8114b]
+-- ウエケンとpolymoogによる "LOUNGE+BOSSA NOVA+2STEP+HOUSE=MILLENNIUM MUSIC" を標榜するフリーの "ハイブリッド・ラウンジ" ユニット。 
 -- この界隈ではIIDXをはじめとしたBEMANIシリーズに多数の楽曲を提供していることで有名。
 -- またpolymoog氏はゴー！ゴー！五代目 &#80;layStation 2 the Best以降家庭用シリーズでBGM等の楽曲製作で携わっている模様([[polymoog氏のサイトより>http://www.shinomiya.ne.jp/polymoog/index.html]])
 - [[Wikipedia>http://ja.wikipedia.org/wiki/ELEKTEL]]

@@ -6,7 +6,7 @@
 |''RT''|''童謡''|★×2|''28''|''496770点''|+連打|5710点|11420点|
 
 ***譜面構成・攻略 [#capture]
--BPMは約104。
+-BPMは約103.988。
 
 ***譜面 [#score]
 
@@ -15,8 +15,10 @@
 -[[プレイ動画>https://www.youtube.com/watch?v=w1C070KrkDI]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-最後は曲自体は減速していますが、譜面はBPM104のままだと思われます。
-&attachref(momoe.png,nolink);
+~最後は曲自体は減速しているが、譜面はBPM103.988のままだと思われる
+~&attachref(momoe.png,nolink);

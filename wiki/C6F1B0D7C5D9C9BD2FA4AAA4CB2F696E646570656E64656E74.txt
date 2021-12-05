@@ -1,6 +1,5 @@
 *independent [#title]
 -日本テレビ放送網「''THE BASEBALL 2002''」イメージソング。
-
 ***詳細 [#more]
 |>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|h
@@ -10,7 +9,7 @@
 -BPMは150。
 -面の3連打が多く、中盤からはCOLOR(red){●●}COLOR(blue){●}やCOLOR(red){●●●●}COLOR(blue){●}といった複合も登場する。
 -[[むずかしいコース>難易度表/むずかしい/independent]]の達人譜面もこの譜面。
--平均密度は、''約4.65打/秒''。
+-平均密度は、''約4.68打/秒''。
 
 ***その他 [#other]
 -アーティストは、[[UNITE!>難易度表/おに/UNITE!]]や[[July 1st>難易度表/おに/July 1st]]と同じ''[[浜崎あゆみ>アーティスト別収録曲#ayumi]]''。
@@ -20,7 +19,7 @@
 -[[かんたん>難易度表/かんたん/independent]]
 -[[ふつう>難易度表/ふつう/independent]]
 -[[むずかしい>難易度表/むずかしい/independent]]
--[[プレイ動画>http://www.youtube.com/watch?v=XS6kDAx4EwU]]
+-[[プレイ動画>https://www.youtube.com/watch?v=gyRnpLZK8Po]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -4,10 +4,11 @@
 -「[[参加アーティスト一覧/steμ]]」を参照。
 
 **作品一覧 [#works]
---ゲーム&バラエティ
+--ボーカロイド&#8482;曲
+---[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]
+--バラエティ
 ---[[Dogbite>難易度表/おに/Dogbite]]
 --ナムコオリジナル
----[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]] ([[作曲>参加アーティスト一覧/steμ]]も担当)
-
+---[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]] (表譜面のみ)([[作曲>参加アーティスト一覧/steμ]]も担当)
 **コメント [#comment]
 #pcomment(,noname)

@@ -30,4 +30,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(joni.png,nolink);
+&attachref(joni_2.png,nolink);

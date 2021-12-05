@@ -1,0 +1,24 @@
+*I Want You Back [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''NS1DL''|BGCOLOR(cyan):''ポップス''|★×3|''85''|''328370点''|+連打|1150点|848点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''991410点''}|~|COLOR(#ff3300){10810点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは98。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/I Want You Back]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/I Want You Back]]
+-[[むずかしい>難易度表/むずかしい/I Want You Back]]
+-[[おに>難易度表/おに/I Want You Back]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(iwback_e.png,nolink);

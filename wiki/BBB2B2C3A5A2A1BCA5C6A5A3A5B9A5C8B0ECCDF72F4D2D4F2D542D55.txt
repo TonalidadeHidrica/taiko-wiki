@@ -1,12 +1,14 @@
 *M-O-T-U [#title]
 
 **概要 [#more]
+-[[Twitter>https://twitter.com/_M_O_T_U_]]
 
 **作品一覧 [#work]
 --ボーカロイド曲
 ---[[SstTAarR*>難易度表/おに/SstTAarR*]]
 --ナムコオリジナル
 ---[[Calculator>難易度表/おに/Calculator]]
+---[[VIVIVIVID>難易度表/おに/VIVIVIVID]]
 
 **コメント [#comment]
 #pcomment(,noname)

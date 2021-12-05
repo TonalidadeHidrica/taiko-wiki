@@ -1,5 +1,5 @@
-*LISTEN TO THE STEREO!! [#a5a6bbf9]
-***詳細・攻略 [#bdd8bf40]
+*&ruby(リスン){LISTEN}; &ruby(トゥー){TO}; &ruby(ザ){THE}; &ruby(ステレオ){STEREO};!! [#title]
+***詳細・攻略 [#more]
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC14''||CENTER:''アニメ''|CENTER:★×5|CENTER:''237''|CENTER:''732930点''|CENTER:＋連打|CENTER:820点|CENTER:220点|
@@ -12,10 +12,8 @@
 -大音符が多く、34個ある（全体の約14.3%）。
 -8分の複合がかなり多いが、16分は3連打が3回しか出て来ないので★×5にしては簡単な方。
 --にもかかわらず、AC15でも残留した。クリアだけなら逆詐称だろう。
--曲名の読み方は、''リッスン トゥ ザ ステレオ!!''。
 -アーティストは、''GOING UNDER GROUND''。
 --作詞は、松本素生。作曲は、松本素生・河野丈洋。編曲は、GOING UNDER GROUND・ヒダカトオル。
--ちなみに最初の方の歌詞が「LISTEN TO THE STEREO!![[TONIGHT,TONIGHT,TONIGHT>難易度表/かんたん/TONIGHT,TONIGHT,TONIGHT]]!」である。
 -曲IDは、''listen''。
 
 -[[かんたん>難易度表/かんたん/LISTEN TO THE STEREO!!]]

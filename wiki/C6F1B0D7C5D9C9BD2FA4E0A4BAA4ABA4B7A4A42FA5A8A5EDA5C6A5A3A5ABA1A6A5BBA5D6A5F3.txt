@@ -1,16 +1,25 @@
-* エロティカ・セブン [#ta1df976]
-*** 攻略・詳細 [#m756d29a]
-- 詳細は以下の通り：
+* エロティカ・セブン [#title]
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15 仕分け∞Ver.''|CENTER:★×6|CENTER:''327''|CENTER:''-点''|CENTER:＋連打|CENTER:-点|CENTER:-点|
+
+***譜面構成・攻略 [#capture]
 -BPMは約142。
--2013年6月の放送のみ登場。以降は一切登場していない。
 -前半は8分の複合が多いが、ゴーゴーからは16分が多くなる。
 --ただし16分は面しかない。
+
+***その他 [#other]
+-2013年6月の放送のみ登場。以降は一切登場していない。
 - アーティストは、 [[勝手にシンドバッド>難易度表/むずかしい/勝手にシンドバッド]]、[[HOTEL PACIFIC>難易度表/ふつう/HOTEL PACIFIC]]と同じく、''サザンオールスターズ''。
--''本人歌唱''である。
--[[参考動画(次郎)>http://www.youtube.com/watch?v=48cwSWrAcWE]]
-*** コメント [#n689cdd7]
+--''本人歌唱''である。
+
+----
+//-[[参考動画(次郎)>http://www.youtube.com/watch?v=48cwSWrAcWE]]
+
+*** コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#s752b4cb]
+***譜面 [#score]
+~再現譜面を参考に作成した為、実際の譜面とは異なる可能性がある事をご了承ください。
+~&attachref(ero.png,nolink);

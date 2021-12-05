@@ -1,14 +1,14 @@
 //|COLOR(#FF3300):CENTER:BGCOLOR(silver):º¾¾Î|1|1|0|3|5|11|17|26|12|BGCOLOR(lightgray):COLOR(red){18}((º¾¾Î¤Ç¤Ï¤Ê¤¯Æñ´Ø))|BGCOLOR(white):|
 ||[[¡ú¡ß1>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß1¡Á4]]|[[¡ú¡ß2>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß1¡Á4]]|[[¡ú¡ß3>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß1¡Á4]]|[[¡ú¡ß4>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß1¡Á4]]|[[¡ú¡ß5>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß5]]|[[¡ú¡ß6>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß6]]|[[¡ú¡ß7>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß7]]|[[¡ú¡ß8>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß8]]|[[¡ú¡ß9>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß9]]|[[¡ú¡ß10>Æñ°×ÅÙ½ç/AC16/¤ª¤Ë/¡ú¡ß10]]|BGCOLOR(white):|
-|COLOR(#FF3300):CENTER:BGCOLOR(yellow):º¾¾Î+((¡ú¡ß10¤Ç¤ÏºÇÆñ´Ø))|1|1|1|1|2|3|6|5|1|14|BGCOLOR(white):|
-|COLOR(#FF3300):CENTER:BGCOLOR(silver):º¾¾Î((¡ú¡ß10¤Ç¤ÏÆñ´Ø))|0|0|0|2|8|11|15|28|13|34|BGCOLOR(white):|
-|CENTER:BGCOLOR(#FFCCCC):¶¯|1|1|1|2|2|17|31|56|54|39|BGCOLOR(white):|
-|CENTER:BGCOLOR(#CCFFCC):Ãæ|1|2|1|3|5|22|43|111|82|55|BGCOLOR(white):|
-|CENTER:BGCOLOR(#CCCCFF):¼å|1|1|0|1|4|17|33|44|51|29|BGCOLOR(white):|
-|CENTER:BGCOLOR(#CCFFFF):µÕº¾¾Î((¡ú¡ß1¤Ç¤ÏÆþÌç))|0|1|2|3|7|11|28|23|26|16|BGCOLOR(white):|
-|COLOR(White):CENTER:BGCOLOR(Black):ÂÐ¾Ý³°((µÄÏÀ¶Ø»ß¤ò´Þ¤à))|0|0|0|0|0|0|1|1|2|4((¤­¤¿¤µ¤¤¤¿¤Þ2000¤ò´Þ¤à))|BGCOLOR(white):|
-|COLOR(#FFFF00):CENTER:BGCOLOR(hotpink):´ü´Ö¸ÂÄê|2|0|0|0|1|0|0|0|0|0|BGCOLOR(white):|
-|CENTER:''¹ç·×''|6|6|5|12|29|81|157|269|229|188|''Áí·×&br;982''|
+|COLOR(#FF3300):CENTER:BGCOLOR(yellow):º¾¾Î+((¡ú¡ß10¤Ç¤ÏºÇÆñ´Ø))|1|1|2|2|2|3|7|5|1|15|BGCOLOR(white):|
+|COLOR(#FF3300):CENTER:BGCOLOR(silver):º¾¾Î((¡ú¡ß10¤Ç¤ÏÆñ´Ø))|0|0|0|2|5|11|13|30|15|37|BGCOLOR(white):|
+|CENTER:BGCOLOR(#FFCCCC):¶¯|1|1|1|1|4|18|31|60|56|49|BGCOLOR(white):|
+|CENTER:BGCOLOR(#CCFFCC):Ãæ|1|2|1|2|7|26|46|105|88|58|BGCOLOR(white):|
+|CENTER:BGCOLOR(#CCCCFF):¼å|1|1|0|1|3|15|32|59|58|34|BGCOLOR(white):|
+|CENTER:BGCOLOR(#CCFFFF):µÕº¾¾Î((¡ú¡ß1¤Ç¤ÏÆþÌç))|0|1|2|3|7|12|31|23|27|16|BGCOLOR(white):|
+|COLOR(White):CENTER:BGCOLOR(Black):ÂÐ¾Ý³°((µÄÏÀ¶Ø»ß¤ò´Þ¤à))|0|0|0|0|0|0|1|1|2|5((¤­¤¿¤µ¤¤¤¿¤Þ2000¤ò´Þ¤à))|BGCOLOR(white):|
+|COLOR(#FFFF00):CENTER:BGCOLOR(hotpink):´ü´Ö¸ÂÄê|2|0|0|0|1|0|1|0|0|0|BGCOLOR(white):|
+|CENTER:''¹ç·×''|6|6|5|12|29|88|161|284|247|211|''Áí·×&br;1049''|
 
 
-¡öÉ½¤Ï20/08/12 07:42»þÅÀ¤Î¤â¤Î¤Ç¤¹¡£
+¡öÉ½¤Ï21/03/11 22:30»þÅÀ¤Î¤â¤Î¤Ç¤¹¡£

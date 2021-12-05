@@ -1,27 +1,34 @@
-*無慈悲な王[#title]
-***詳細・攻略[#more]
--PSP用ソフト''「[[GOD EATER BURST>http://www.godeater.jp/geb/index.html]]」''よりハンニバル戦のBGM。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDX''&br;Wii4|CENTER:★×4|CENTER:''149''|CENTER:''352890点''|CENTER:＋連打|CENTER:680点|CENTER:210点|
-|CENTER:AC15.1.0||CENTER:★×3|~|CENTER:''?????0点''|~|CENTER:670点|CENTER:270点|
-|CENTER:AC15.2.0||~|~|CENTER:''336910点''|~|~|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){6260点}|CENTER:-|
+*&ruby(むじひ){無慈悲};な王 [#title]
+-PSP用ソフト「[[''GOD EATER BURST''>ゲーム別収録曲#eater]]」よりハンニバル戦のBGM。→([[公式サイト>http://www.godeater.jp/geb/index.html]])
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDX''&br;Wii4|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×4|''149''|''352890点''|＋連打|680点|210点|
+|AC15.1.0||~|★×3|~|''?????0点''|~|670点|270点|
+|AC15.2.0||~|~|~|''336910点''|~|~|~|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){6260点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''999700点''|~|6700点|-|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは約150。
 -連打秒数目安・・・約0.941秒−''約0.967秒''：合計約1.908秒
 -4分が多く複合も出てくるが、8分はなくBPMもそれほど速くないので★×4にしては簡単な方。
 --そのことが反映されたのか、AC15で★×3に降格した。
--作曲は、[[No Wa>難易度表/かんたん/No Way Back]][[y Back>難易度表/かんたん/No Way Back(裏譜面)]]や[[IN THE ZONE>難易度表/かんたん/IN THE ZONE]]、[[拝啓、>難易度表/かんたん/拝啓、学校にて…]][[学校にて・・・>難易度表/かんたん/拝啓、学校にて…(裏譜面)]]と同じ、''椎名豪''。
--曲IDは、''mujihi''。
 
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/無慈悲な王]]を参照。
+
+----
 -[[ふつう>難易度表/ふつう/無慈悲な王]]
 -[[むずかしい>難易度表/むずかしい/無慈悲な王]]
 -[[おに>難易度表/おに/無慈悲な王]]
 -[[オート動画(Wii4, キャプチャ)>https://www.youtube.com/watch?v=o3PF8STJb1w]]
 
-***コメント[#comment]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#fumen]
-最初のBPMは149.97
-&attachref(m.png,nolink);
+***譜面 [#fumen]
+~最初のBPMは149.97
+~&attachref(m.png,nolink);

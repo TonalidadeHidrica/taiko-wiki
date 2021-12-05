@@ -3,7 +3,7 @@
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''3DS3''&br;NS1DL|CENTER:BGCOLOR(darkgray):''ボーカロ&br;イド&#8482;曲''|CENTER:★×5|CENTER:''274''|CENTER:''743290点''|CENTER:＋連打|CENTER:840点|CENTER:258点|
-|CENTER:COLOR(#f30){真打}|~|~|~|CENTER:COLOR(#f30){''?????0点''}|~|CENTER:COLOR(#f30){3570点}|CENTER:-|
+|CENTER:COLOR(#f30){真打}|~|~|~|CENTER:COLOR(#f30){''992460点''}|~|CENTER:COLOR(#f30){3570点}|CENTER:-|
 -BPMは127。
 -黄色連打がかなり多い連打曲で、1本あたりの長さは短い。
 -8分の複合が主体の譜面で、16分も数がかなり多い。

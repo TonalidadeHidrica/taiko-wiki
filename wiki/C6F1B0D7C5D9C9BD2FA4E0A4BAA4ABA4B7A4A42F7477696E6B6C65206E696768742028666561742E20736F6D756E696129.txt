@@ -1,0 +1,24 @@
+*twinkle night (feat. somunia) [#title]
+***詳細 [#more]
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|h
+|''AC16.2.13''|BGCOLOR(lime):''バラエティ''|★×5|''366''|''1003440点''|2740点|
+
+***譜面構成・攻略 [#capture]
+-BPMは174。
+-''精度曲''のひとつ。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/twinkle night (feat. somunia)]]を参照。
+----
+
+-[[かんたん>難易度表/かんたん/twinkle night (feat. somunia)]]
+-[[ふつう>難易度表/ふつう/twinkle night (feat. somunia)]]
+-[[おに>難易度表/おに/twinkle night (feat. somunia)]]/[[裏譜面>難易度表/おに/twinkle night (feat. somunia)(裏譜面)]]
+-[[プレイ動画>https://www.youtube.com/watch?v=8RuXPY5LWg8]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(tn_h.png,nolink);

@@ -1,22 +1,21 @@
 *Don't Stop the Game [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
 |''AC15.11.8''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''218''|''?????0点''|500点|88点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|COLOR(#ff3300){3840点}|-|
 |AC16.1.0||~|~|~|''1001280点''|4560点|-|
-||iOS&br;AR|~|~|~|''?????0点''|??0点|???点|
+||iOS&br;AR|~|~|~|''380520点''|460点|80点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは175。
 -このコースのみ''精度曲''である。
 
 ***その他 [#other]
--[[''全コース''>太鼓ギネス/その他#highestdifficulty]][[''最高難易度曲''>全コース最高難易度曲一覧]]である。
--アーティストは、[[''DJ Myosuke''>参加アーティスト一覧/DJ Myosuke]] ([[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]])。
--曲IDは、''dsgame''。
-----
+-楽曲情報は[[おに譜面>難易度表/おに/Don't Stop the Game]]を参照。
 
+----
 -[[ふつう>難易度表/ふつう/Don't Stop the Game]]
 -[[むずかしい>難易度表/むずかしい/Don't Stop the Game]]
 -[[おに>難易度表/おに/Don't Stop the Game]]
@@ -27,5 +26,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~風船、くす玉の長さは暫定
-~&attachref(DStGE.png,nolink);
+~&attachref(DStG_E.png,nolink);

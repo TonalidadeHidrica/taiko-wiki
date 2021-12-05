@@ -1,28 +1,32 @@
 *ヒカリのdestination [#title]
 -ブラウザゲーム[[「''アイドルマスター シャイニーカラーズ''」>THE IDOLM@STER関連楽曲一覧#idsc]]のCDシリーズ「BRILLI@NT WING」からの収録曲。
-***詳細 [#detail]
+
+***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.11.1''&br;AC15.11.6((アジア版))|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×3|''79''|''??????0点''|＋連打|870点|515点|
-|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''??????0点''}|~|COLOR(#ff3300){8220点}|-|
-|AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???0点|-|
+|''AC15.11.1''&br;AC15.11.6((アジア版))|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×3|''79''|''?????0点''|+連打|870点|515点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''981920点''}|~|COLOR(#ff3300){8220点}|-|
+|AC16.1.0|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''993860点''|~|12540点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは170。
+-連打秒数目安・・・約1.2059秒−約0.8529秒−約1.5589秒−約1.3823秒×4:合計約9.1469秒
+-大音符が多く、''37個''(約46.83%)ある。
+--大音符の配置は[[ふつう>難易度表/ふつう/ヒカリのdestination]]と同じ。
 
 ***その他 [#other]
--歌唱は、''イルミネーションスターズ''。
---メンバーは、''櫻木真乃''(CV:''関根瞳'')・''風野灯織''(CV:''近藤玲奈'')・''八宮めぐる''(CV:''峯田茉優'')。
---作詞は、中村彼方。作曲・編曲は、中野領太。
+-楽曲情報は[[おに譜面>難易度表/おに/ヒカリのdestination]]を参照。
 ----
 -[[ふつう>難易度表/ふつう/ヒカリのdestination]]
 -[[むずかしい>難易度表/むずかしい/ヒカリのdestination]]
 -[[おに>難易度表/おに/ヒカリのdestination]]
--[[動画(キャプチャ)>https://www.youtube.com/watch?v=TS169D3Dzbo]]
+-[[プレイ動画(AC15)>https://www.youtube.com/watch?v=TS169D3Dzbo]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船の長さは暫定
-&attachref(ヒカdesかんたん.png,nolink);
+~ふうせんの長さは暫定
+~&attachref(ヒカdesかんたん.png,nolink);

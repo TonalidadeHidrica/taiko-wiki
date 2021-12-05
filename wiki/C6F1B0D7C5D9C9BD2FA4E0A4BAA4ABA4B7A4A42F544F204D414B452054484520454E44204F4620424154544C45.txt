@@ -1,11 +1,17 @@
-*TO MAKE THE END OF BATTLE [#title]
-***詳細・攻略 [#more]
+*&ruby(トゥ){TO}; &ruby(メイク){MAKE}; &ruby(ジ){THE}; &ruby(エンド){END}; &ruby(オブ){OF}; &ruby(バトル){BATTLE}; [#title]
 -日本ファルコム「''イースI&IIクロニクルズ''」より。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.7.0|CENTER:''PS Vita1''|CENTER:★×7|CENTER:''498''|CENTER:''854050点''|CENTER:＋連打|CENTER:470点|CENTER:123点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''1002820点''}|~|CENTER:COLOR(#ff3300){1820点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.7.0|''PS Vita1''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|''498''|''854050点''|＋連打|470点|123点|
+||''PS Vita1亜''|BGCOLOR(darkorchid):COLOR(white){''遊戯音樂''}|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1002820点''}|~|COLOR(#ff3300){1820点}|-|
+||iOS&br;AR|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|''?????0点''|~|??0点|??0点|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1000980点''|~|2010点|-|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは232.4。
 -大音符が多く、53個ある（全体の約10.6%）。
 --1つの箇所に密集して出てくるので、両手でないと高得点が取れない家庭用では鬼門である。
@@ -15,12 +21,9 @@
 -ゴーゴーでたまに出てくる8分の複合7連打（●○○●○○○と●○○●●○●）に注意。
 
 ***その他 [#other]
--アーティストは、''古代祐三''(オリジナル曲)。
--原曲は、1988年に発売された「イースII」のオープニングテーマ曲。
---太鼓の達人に入っているのは、PSP版「イースII」用にアレンジが加えられた音源である。
--譜面作成は、''オオサワ''。
--曲IDは、''ys2op''
+-楽曲情報は[[おに譜面>難易度表/おに/TO MAKE THE END OF BATTLE]]を参照。
 
+----
 -[[かんたん>難易度表/かんたん/TO MAKE THE END OF BATTLE]]
 -[[ふつう>難易度表/ふつう/TO MAKE THE END OF BATTLE]]
 -[[おに>難易度表/おに/TO MAKE THE END OF BATTLE]]

@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(リア充爆発しろ.png,nolink);
+&attachref(リア充爆発しろf.png,nolink);

@@ -1,0 +1,14 @@
+*Capchii [#title]
+
+**概要 [#more]
+-作曲家。
+-[[Twitter>https://twitter.com/Capchii]]
+
+**作品一覧 [#work]
+-ナムコオリジナル
+---[[天泣の律>難易度表/おに/天泣の律]]
+---[[YOAKE>難易度表/おに/YOAKE]]
+---[[Hello, Worldooon!!>難易度表/おに/Hello, Worldooon!!]]
+
+**コメント [#comment]
+#pcomment(,noname)

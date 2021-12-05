@@ -29,4 +29,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(ミライかんたん.png,nolink);
+&attachref(mk3rai_e.png,nolink);

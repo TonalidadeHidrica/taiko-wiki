@@ -1,10 +1,12 @@
 *Stairway Generation [#title]
-***詳細・攻略 [#more]
--アニメ「''銀魂''」のOP7。
--テレビ東京系「''JAPAN COUNTDOWN''」2009年7月度・8月度オープニングテーマ。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC13''|CENTER:★×4|CENTER:''149''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1050点|CENTER:320点|
+-アニメ「[[''銀魂''>アニメ別収録曲#gintama]]」のOP7。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC13''|BGCOLOR(orange):''アニメ''|★×4|''149''|''?????0点''|＋連打|1050点|320点|
+
+***譜面構成・攻略 [#capture]
 -BPMは153。
 -黄色連打が多い連打曲である。
 -速度は至って普通だが、全体的に8分がかなり多い。
@@ -16,7 +18,9 @@
 -曲名の読み方は、''ステアウェイ ジェネレーション''。
 -アーティストは、''Base Ball Bear''。
 --作詞・作曲は、小出祐介。編曲は、玉井健二。
--曲IDは、''stairw''
+-曲IDは、''stairw''。
+
+----
 -[[かんたん>難易度表/かんたん/Stairway Generation]]
 -[[むずかしい>難易度表/むずかしい/Stairway Generation]]
 -[[おに>難易度表/おに/Stairway Generation]]

@@ -4,7 +4,8 @@
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.11.7''|BGCOLOR(lime):''バラエティ''|★×6|''293''|''?????0点''|＋連打|630点|185点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''??????0点''}|~|COLOR(#ff3300){6440点}|-|
-|AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''??????0点''|~|???点|-|
+|AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''995070点''|~|3390点|-|
+|AC16.2.12|BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは170。
@@ -20,6 +21,8 @@
 -[[プレイ動画>https://www.youtube.com/watch?v=ppeY_yWrdog]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

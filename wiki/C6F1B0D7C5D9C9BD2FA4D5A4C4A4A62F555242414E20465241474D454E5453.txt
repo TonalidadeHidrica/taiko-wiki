@@ -1,14 +1,20 @@
-*URBAN FRAGMENTS [#title]
-***詳細・攻略 [#more]
-- 「''R4 -RIDGE RACER TYPE 4-''」のオープニング曲。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11''&br;AC11亜||CENTER:★×5|CENTER:''144''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1200点|CENTER:360点|
-||CENTER:Wii3|~|~|CENTER:''586690点''|~|~|~|
-|CENTER:AC15.4.2SP|NS1DL|CENTER:★×4|~|CENTER:''544860点''|~|CENTER:1120点|CENTER:473点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''994500点''}|~|CENTER:COLOR(#ff3300){6630点}|CENTER:-|
--BPMは142〜147。
+*&ruby(アーバン){URBAN}; &ruby(フラグメンツ){FRAGMENTS}; [#title]
+-「''[[R4 -RIDGE RACER TYPE 4->ゲーム別収録曲#rr]]''」のオープニング曲。
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11''||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|''144''|''?????0点''|＋連打|1200点|360点|
+|AC11亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|
+||Wii3|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''586690点''|~|~|~|
+|AC15.4.2SP|NS1DL|~|★×4|~|''544860点''|~|1120点|473点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''994500点''}|~|COLOR(#ff3300){6630点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''997920点''|~|6930点|-|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
+-BPMは142-147。
 --開幕と中盤で細かく変化している。
+-連打秒数目安・・・約1.007秒−約1.4236秒×2：合計約3.854秒
 -[[かんたん>難易度表/かんたん/URBAN FRAGMENTS]]とは難易度であまり差がなく、コンボ数も28コンボしか離れていない。
 -全体的に4分の長複合が多いが、8分は単色の3連打しかなく数もそんなに多くないのでAC11初出の★×5にしては簡単な方。
 --また、4分の複合は面と縁の交互連打しかない。
@@ -16,15 +22,9 @@
 -一応コンボ数は[[むずかしい>難易度表/むずかしい/URBAN FRAGMENTS]]の半分を超えているが、難易度は雲泥の差がある。
 
 ***その他 [#other]
--新筐体モモイロVer.の1月15日アップデートにより、''ごほうびショップでのごほうび楽曲として登場し、AC復活を果たした''。
--曲名の読み方は、''アーバン フラグメンツ''。
---意味は直訳で「都会の欠片」。
--作曲は、[[Naked Glow>難易度表/ふつう/Naked Glow]]や[[SAMURAI>難易度表/ふつう/SAMURAI ROCKET]] [[ROCKET>難易度表/ふつう/SAMURAI ROCKET(裏譜面)]]と同じ''KOHTA TAKAHASHI''。歌唱は、''Kimara Lovelace''。
--略称は、''アーバンF''。
---ちなみにアーバンTは[[こちら>難易度表/ふつう/URBAN TRAIL]]。
--譜面作成は、''オジマ''。
--曲IDは、''r4op''
+-楽曲情報は[[おに譜面>難易度表/おに/URBAN FRAGMENTS]]を参照。
 
+----
 -[[かんたん>難易度表/かんたん/URBAN FRAGMENTS]]
 -[[むずかしい>難易度表/むずかしい/URBAN FRAGMENTS]]
 -[[おに>難易度表/おに/URBAN FRAGMENTS]]

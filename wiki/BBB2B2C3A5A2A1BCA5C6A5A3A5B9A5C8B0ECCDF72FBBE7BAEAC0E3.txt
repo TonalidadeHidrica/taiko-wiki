@@ -1,7 +1,9 @@
-*紫崎雪(しざき ゆき) [#title]
+*&ruby(しざき){紫崎}; &ruby(ゆき){雪}; [#title]
 
 **概要 [#more]
 -歌手。太鼓の達人の他にも、SOUND VOLTEXやjubeatなどの音ゲーの曲を歌っている。
+-[[Twitter>https://twitter.com/shizaki_yuki]]
+
 **作品一覧 [#work]
 --ナムコオリジナル
 ---[[愛想笑い>難易度表/おに/愛想笑い]]

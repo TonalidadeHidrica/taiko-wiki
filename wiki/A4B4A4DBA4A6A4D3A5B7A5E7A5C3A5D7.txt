@@ -1,10 +1,10 @@
 *''COLOR(red){どんメダル}''ショップ [#shop]
 #region(過去Ver.での「ごほうびショップ」について)
--''COLOR(pink){モモイロVer.}''にて「ごほうびショップ」という名称で''初登場''。
+-''COLOR(#db5593){モモイロVer.}''にて「ごほうびショップ」という名称で''初登場''。
 --1プレイ終了後に獲得できた''「どんポイント」''と同量の''「お買い物ポイント」''がドンだ〜ひろばで付与された。
 ---このポイントを消費することで、きせかえ・楽曲・音色を獲得したり、称号パーツガシャを利用したりできた。
 ----
--''COLOR(gold){イエローVer.}''にて、ごほうびショップが2種類に分割。
+-''COLOR(#ffd707){イエローVer.}''にて、ごほうびショップが2種類に分割。
 --上記の「どんポイント」「お買い物ポイント」が廃止され、代わりに''COLOR(red){どんメダル}''と''COLOR(blue){かつメダル}''が登場。
 -どんメダル ごほうびショップでは''COLOR(red){どんメダル}''、かつメダル ごほうびショップでは''COLOR(blue){かつメダル}''を使って、きせかえ・楽曲・音色を入手したり、称号パーツガシャ((称号パーツガシャ はかつメダル専用))を利用する事ができた。
 --1プレイ((「段位道場」「大会モード」のプレイは対象外))終える毎に''COLOR(red){どんメダル}''と''COLOR(blue){かつメダル}''が獲得できた。
@@ -25,15 +25,15 @@
 ----
 #endregion
 ----
--COLOR(red){''ニ''}COLOR(orange){''ジ''}COLOR(gold){''イ''}COLOR(green){''ロ''}COLOR(blue){''Ver.''}にて、ごほうびショップがリニューアル。名称が「''COLOR(red){どんメダル}ショップ''」に変更される。
+-''COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}COLOR(#9479fe){Ver.}''にて、ごほうびショップがリニューアル。名称が「''COLOR(red){どんメダル}ショップ''」に変更された。
 --COLOR(blue){''かつメダル''}''廃止''に伴い、''COLOR(blue){かつメダル}ごほうびショップ''（と''称号パーツガシャ''）は''閉店''となった。
 --''COLOR(blue){かつメダル}''で交換できたごほうびの内、''曲''は''全て・デフォルトで遊べるようになった''一方、きせかえ・音色は''一時獲得不可''となった。
 --ドンだーひろば経由でのごほうび交換が不可能になった。そのため、''COLOR(red){どんメダル}''をごほうび解禁するために必要な枚数分所持していてもACを経由しなければならなくなった。
--''COLOR(gold){イエローVer.}''から''COLOR(green){グリーンVer.}''と同様、&br;1.季節ごとにラインナップが変わる。&br;2.ラインナップが変わるとメダルを新たに集める必要がある（持ち越し不可）&br;これら２点は変更なし。
---獲得量は''１プレイにつき５メダル''((2020春は10メダルだった))。「その日初プレイ、その週初プレイ、その月初プレイボーナス」は''廃止''。
+-''COLOR(#ffd707){イエローVer.}''から''COLOR(#029a43){グリーンVer.}''と同様、&br;1.季節ごとにラインナップが変わる。&br;2.ラインナップが変わるとメダルを新たに集める必要がある（持ち越し不可）&br;これら2点は変更なし。
+--獲得量は''1プレイにつき5メダル''((2020春は10メダルだった))。「その日初プレイ、その週初プレイ、その月初プレイボーナス」は''廃止''。
 --COLOR(red){''「曲を選ぶ画面」で、その場で視聴と入手→すぐ遊ぶ''}ことが出来るようになった。
 
--[[コメント>#comment]]
+#contents
 ----
 
 **きせかえ [#kisekae]
@@ -41,13 +41,13 @@
 ***きぐるみ [#kigurumi]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |きせかえ名|必要なメダル数|追加日|備考|h
-|BGCOLOR(silver):めでタイ|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(silver):めでタイ|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):たつどし|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):むしゃ|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):ロボットアーム|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):うちゅうせん|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):やたい|BGCOLOR(silver):500かつメダル|~|~|
-|BGCOLOR(grey):ぎゅうどん|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2014年7月16日〜8月31日まで|
+|BGCOLOR(grey):ぎゅうどん|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}''|BGCOLOR(grey):＜期間限定＞&br;2014年7月16日〜8月31日まで|
 |BGCOLOR(grey):ダブルバーガーどん|BGCOLOR(grey):3000ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年2月19日〜3月18日まで|
 |BGCOLOR(grey):ももクロ かなこ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2013年12月11日&br;〜&br;2014年2月18日まで|
 |BGCOLOR(grey):ももクロ あやか|BGCOLOR(grey):2500ポイント|~|~|
@@ -59,19 +59,19 @@
 ***あたま [#head]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |きせかえ名|必要なメダル数|追加日|備考|
-|BGCOLOR(grey):イケメンヘアー（銀）|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(green){グリーンVer.}以前''|BGCOLOR(grey):COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に59回プレイ''|
-|BGCOLOR(grey):にんじゃ|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):2014年7月19日〜8月1日までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に6回プレイ''|
-|BGCOLOR(grey):レースカー|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年5月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に11回プレイ''|
-|BGCOLOR(grey):かたつむり|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年6月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に14回プレイ''|
-|BGCOLOR(grey):げっけいじゅ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年7月26日〜8月8日までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に18回プレイ''|
-|BGCOLOR(grey):はながさ|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年8月までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に45回プレイ''|
-|BGCOLOR(grey):ミイラ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月9日〜22日までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に49回プレイ''|
-|BGCOLOR(grey):プロペラ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月23日〜9月5日にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に57回プレイ''|
-|BGCOLOR(grey):ガーディアン|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月30日〜9月12日にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に64回プレイ''|
-|BGCOLOR(grey):ヒーロー|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年8月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に76回プレイ''|
-|BGCOLOR(grey):門松|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年1月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に83回プレイ''|
-|BGCOLOR(grey):おひなさま|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年3月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に98回プレイ''|
-|BGCOLOR(silver):ひまわり|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(grey):イケメンヘアー（銀）|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}''までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に59回プレイ''|
+|BGCOLOR(grey):にんじゃ|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}''|BGCOLOR(grey):2014年7月19日〜8月1日までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に6回プレイ''|
+|BGCOLOR(grey):レースカー|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年5月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に11回プレイ''|
+|BGCOLOR(grey):かたつむり|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年6月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に14回プレイ''|
+|BGCOLOR(grey):げっけいじゅ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年7月26日〜8月8日までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に18回プレイ''|
+|BGCOLOR(grey):はながさ|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年8月までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に45回プレイ''|
+|BGCOLOR(grey):ミイラ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月9日〜22日までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に49回プレイ''|
+|BGCOLOR(grey):プロペラ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月23日〜9月5日にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に57回プレイ''|
+|BGCOLOR(grey):ガーディアン|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月30日〜9月12日にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に64回プレイ''|
+|BGCOLOR(grey):ヒーロー|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年8月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に76回プレイ''|
+|BGCOLOR(grey):門松|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に83回プレイ''|
+|BGCOLOR(grey):おひなさま|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年3月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に98回プレイ''|
+|BGCOLOR(silver):ひまわり|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):らいおん|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):てんぐ|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):ロケット|BGCOLOR(silver):500かつメダル|~|~|
@@ -121,7 +121,7 @@
 |BGCOLOR(silver):皇帝|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):剣道|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):コンパス|BGCOLOR(silver):500かつメダル|~|~|
-|BGCOLOR(grey):コックさん|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2016年10月1日〜11月1日まで|
+|BGCOLOR(grey):コックさん|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}''|BGCOLOR(grey):＜期間限定＞&br;2016年10月1日〜11月1日まで|
 |BGCOLOR(grey):バカンスサングラス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年6月1日〜30日まで|
 |BGCOLOR(grey):ちょうちょ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年3月1日〜31日まで|
 |BGCOLOR(grey):アイス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年6月1日〜30日まで|
@@ -135,13 +135,13 @@
 ***からだ [#body]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |きせかえ名|必要なメダル数|追加日|備考|h
-|BGCOLOR(grey):さくらもち|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):2014年4月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に2回プレイ''|
-|BGCOLOR(grey):かせき|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月2日〜15日にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に60回プレイ''|
-|BGCOLOR(grey):サンタクロース|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年12月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に77回プレイ''|
-|BGCOLOR(grey):金棒|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年2月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に88回プレイ''|
-|BGCOLOR(grey):かぶきはかま|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年1月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に89回プレイ''|
-|BGCOLOR(grey):自転車|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年10月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に97回プレイ''|
-|BGCOLOR(silver):もりのなかま|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(grey):さくらもち|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):2014年4月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に2回プレイ''|
+|BGCOLOR(grey):かせき|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月2日〜15日にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に60回プレイ''|
+|BGCOLOR(grey):サンタクロース|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年12月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に77回プレイ''|
+|BGCOLOR(grey):金棒|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年2月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に88回プレイ''|
+|BGCOLOR(grey):かぶきはかま|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に89回プレイ''|
+|BGCOLOR(grey):自転車|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年10月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に97回プレイ''|
+|BGCOLOR(silver):もりのなかま|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):てんぐ|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):ロケット|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):ボウリング|BGCOLOR(silver):500かつメダル|~|~|
@@ -198,7 +198,7 @@
 |BGCOLOR(silver):皇帝|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):クレープやたい|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):女子高校生に大人気|BGCOLOR(silver):500かつメダル|~|~|
-|BGCOLOR(grey):せんごくぶしょう|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2016年11月1日〜30日まで|
+|BGCOLOR(grey):せんごくぶしょう|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2016年11月1日〜30日まで|
 |BGCOLOR(grey):ねこのしっぽ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年9月1日〜30日まで|
 |BGCOLOR(grey):ジャングル|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年5月1日〜31日まで|
 |BGCOLOR(grey):そんごくう|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年4月1日〜30日まで|
@@ -216,7 +216,7 @@
 ***メイク [#meiku]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |きせかえ名|必要なメダル数|追加日|備考|h
-|BGCOLOR(silver):イケイケサングラス|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(silver):イケイケサングラス|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):男気まゆげ|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):三本ひげ|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):もえる目|BGCOLOR(silver):500かつメダル|~|~|
@@ -237,33 +237,49 @@
 |BGCOLOR(silver):キラ目|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):ふくめん|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):キバ|BGCOLOR(silver):500かつメダル|~|~|
-|BGCOLOR(grey):芸者|BGCOLOR(grey):2000ポイント|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2015年1月1日〜31日まで|
+|BGCOLOR(grey):芸者|BGCOLOR(grey):2000ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2015年1月1日〜31日まで|
 
 **楽曲 [#song]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |楽曲名|必要なメダル数|追加日|備考|h
-|[[Fly again!>難易度表/おに/Fly again!]]|50どんメダル|2020年9月16日|COLOR(red){''ニ''}COLOR(orange){''ジ''}COLOR(gold){''イ''}COLOR(green){''ロ''}COLOR(blue){''Ver.''}COLOR(#ff9900){''秋''}のごほうびショップの品|
-|[[令・和太鼓>難易度表/おに/令・和太鼓]]|50どんメダル|~|~|
-|[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|60どんメダル|~|~|
-|[[クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|60どんメダル|~|~|
-|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|%%50%% 25どんメダル|2020年6月30日|COLOR(red){''ニ''}COLOR(orange){''ジ''}COLOR(gold){''イ''}COLOR(green){''ロ''}COLOR(blue){''Ver.''}COLOR(#00b8e6){''夏''}のごほうびショップの品&br;2020年9月16日価格改定|
-|[[Freeway3234>難易度表/おに/Freeway3234]]|%%50%% 25どんメダル|~|~|
-|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|%%60%% 30どんメダル|~|~|
-|[[memoria ficta>難易度表/おに/memoria ficta]]|%%60%% 30どんメダル|~|~|
-|[[カラフルボイス>難易度表/おに/カラフルボイス]]/[[(裏)>難易度表/おに/カラフルボイス(裏譜面)]]|%%25%% 20どんメダル|~|COLOR(red){''ニ''}COLOR(orange){''ジ''}COLOR(gold){''イ''}COLOR(green){''ロ''}COLOR(blue){''Ver.''}COLOR(#00b8e6){''夏''}のごほうびショップの品&br;&br;COLOR(green){''グリーンVer.''}中にAIバトル演奏をプレイし、&br;一定勝利数を達成していた人は解禁済み&br;2020年9月16日価格改定|
-|[[アムピト&#9826;リーテー>難易度表/おに/アムピト◇リーテー]]|%%30%% 20どんメダル|~|~|
-|[[Goldfish City>難易度表/おに/Goldfish City]]|%%25%% 20どんメダル|~|~|
-|[[疾風怒濤>難易度表/おに/疾風怒濤]]／[[(裏)>難易度表/おに/疾風怒濤(裏譜面)]]|%%25%% 20どんメダル|~|~|
-|[[What's in the box?>難易度表/おに/What's in the box?]]|%%30%% 20どんメダル|~|~|
-|[[TD - 28619029byte remix ->難易度表/おに/TD -28619029byte remix-]]|%%25%% 20どんメダル|2019年12月5日((2020年3月23日まで))&br;''再登場：''2020年6月30日|COLOR(green){''グリーンVer.''}COLOR(#4169e1){''冬''}のごほうびショップの品&br;COLOR(red){''ニ''}COLOR(orange){''ジ''}COLOR(gold){''イ''}COLOR(green){''ロ''}COLOR(blue){''Ver.''}COLOR(#00b8e6){''夏''}のごほうびショップの品((かつメダル廃止に伴い、ニジイロVer.稼働前日をもって一旦解禁不可となっていた))&br;2020年9月16日価格改定|
-|[[UFO Swingin'>難易度表/おに/UFO Swingin']]|%%30%% 20どんメダル|~|~|
-|[[流浪の琥珀姫''>難易度表/おに/流浪の琥珀姫]]|%%25%% 20どんメダル|~|~|
-|[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]／[[(裏)>難易度表/おに/氷竜 〜Kooryu〜(裏譜面)]]|%%30%% 20どんメダル|~|~|
-|[[クラシックメドレー(ロック編)>難易度表/おに/クラシックメドレー(ロック編)]]|%%150%% %%30%% 20どんメダル|2020年3月24日|COLOR(red){''ニ''}COLOR(orange){''ジ''}COLOR(gold){''イ''}COLOR(green){''ロ''}COLOR(blue){''Ver.''}COLOR(#ff1493){''春''}のごほうびショップの品&br;2020年6月30日価格改定((1プレイで貰えるどんメダル量が半分に変わったことによる変更。))&br;2020年9月16日価格改定|
-|[[カッティアワールの宝剣>難易度表/おに/カッティアワールの宝剣]]|%%100%% %%25%% 20どんメダル|~|~|
-|[[ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|%%120%% %%30%% 20どんメダル|~|~|
-|[[via lactea>難易度表/おに/via lactea]]|%%100%% %%25%% 20どんメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):うさぎのしっぽ>難易度表/おに/うさぎのしっぽ]]|BGCOLOR(grey):800かつメダル|BGCOLOR(grey):''COLOR(green){グリーンVer.}以前''|BGCOLOR(grey):''COLOR(blue){かつメダル}''廃止と同時に一般解禁|
+|[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]|50どんメダル|2021年9月8日|''COLOR(red){どんメダル}ショップ[2021COLOR(#ff9900){秋}]''の品|
+|[[†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|60どんメダル|~|~|
+|[[魑魅魍魎>難易度表/おに/魑魅魍魎]]|60どんメダル|~|~|
+|[[憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]/[[(裏)>難易度表/おに/憎悪と醜悪の花束(裏譜面)]]|60どんメダル|~|~|
+|[[どんちゃん音頭>難易度表/おに/どんちゃん音頭]]|%%50%% 25どんメダル|2021年5月27日|''COLOR(red){どんメダル}ショップ[2021COLOR(#00b8e6){夏}]''の品&br;2021年9月8日価格改定|
+|[[ボクらのまえに道はある>難易度表/おに/ボクらのまえに道はある]]|%%50%% 25どんメダル|~|~|
+|[[Amber Light>難易度表/おに/Amber Light]]|%%60%% 30どんメダル|~|~|
+|[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|%%60%% 30どんメダル|~|~|
+|[[傾奇者、罷り通る！>難易度表/おに/傾奇者、罷り通る！]]|%%50 25%% 20どんメダル|2021年3月25日|''COLOR(red){どんメダル}ショップ[2021COLOR(#ff1493){春}]''の品&br;2021年5月27日価格改定&br;2021年9月8日価格改定|
+|[[あまてらすJK>難易度表/おに/あまてらすJK]]|%%50 25%% 20どんメダル|~|~|
+|[[赤と白薔薇の魔女>難易度表/おに/赤と白薔薇の魔女]]|%%60 30%% 20どんメダル|~|~|
+|[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]|%%60 30%% 20どんメダル|~|~|
+|[[Stick Trick ShowTime!!>難易度表/おに/Stick Trick ShowTime!!]]|%%50 25%% 20どんメダル|2020年11月25日|''COLOR(red){どんメダル}ショップ[2020COLOR(#4169e1){冬}]''の品&br;2021年3月25日価格改定&br;2021年5月27日価格改定|
+|[[螺旋周回軌道>難易度表/おに/螺旋周回軌道]]/[[(裏)>難易度表/おに/螺旋周回軌道(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
+|[[儚姫は原初に舞う>難易度表/おに/儚姫は原初に舞う]]/[[(裏)>難易度表/おに/儚姫は原初に舞う(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
+|[[Vixtory>難易度表/おに/Vixtory]]/[[(裏)>難易度表/おに/Vixtory(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
+|[[Fly again!>難易度表/おに/Fly again!]]|%%50 25%% 20どんメダル|2020年9月16日|''COLOR(red){どんメダル}ショップ[2020COLOR(#ff9900){秋}]''の品&br;2020年11月25日価格改定&br;2021年3月25日価格改定|
+|[[令・和太鼓>難易度表/おに/令・和太鼓]]|%%50 25%% 20どんメダル|~|~|
+|[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|%%60 30%% 20どんメダル|~|~|
+|[[クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|%%60 30%% 20どんメダル|~|~|
+|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|%%50 25%% 20どんメダル|2020年6月30日|''COLOR(red){どんメダル}ショップ[2020COLOR(#00b8e6){夏}]''の品&br;2020年9月16日価格改定&br;2020年11月25日価格改定|
+|[[Freeway3234>難易度表/おに/Freeway3234]]|%%50 25%% 20どんメダル|~|~|
+|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|%%60 30%% 20どんメダル|~|~|
+|[[memoria ficta>難易度表/おに/memoria ficta]]|%%60 30%% 20どんメダル|~|~|
+|[[クラシックメドレー(ロック編)>難易度表/おに/クラシックメドレー(ロック編)]]|%%150 30%% 20どんメダル|2020年3月24日|''COLOR(red){どんメダル}ショップ[2020COLOR(#ff1493){春}]''の品&br;2020年6月30日価格改定&br;2020年9月16日価格改定|
+|[[カッティアワールの宝剣>難易度表/おに/カッティアワールの宝剣]]|%%100 25%% 20どんメダル|~|~|
+|[[ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|%%120 30%% 20どんメダル|~|~|
+|[[via lactea>難易度表/おに/via lactea]]|%%100 25%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[カラフルボイス>難易度表/おに/カラフルボイス]]/[[(裏)>難易度表/おに/カラフルボイス(裏譜面)]]|BGCOLOR(grey):%%25%% 20どんメダル|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}''以前''|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}AIバトル演奏''にて初登場&br;獲得不可期間((2020.3.24~6.29))を経て、&br;''COLOR(red){どんメダル}ショップ[2020COLOR(#00b8e6){夏}]''にて再登場&br;2020年9月16日価格改定&br;2021年3月25日より''一般解禁''|
+|BGCOLOR(grey):[[アムピト&#9826;リーテー>難易度表/おに/アムピト◇リーテー]]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[Goldfish City>難易度表/おに/Goldfish City]]|BGCOLOR(grey):%%25%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[疾風怒濤>難易度表/おに/疾風怒濤]]/[[(裏)>難易度表/おに/疾風怒濤(裏譜面)]]|BGCOLOR(grey):%%25%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[What's in the box?>難易度表/おに/What's in the box?]]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[TD - 28619029byte remix ->難易度表/おに/TD -28619029byte remix-]]|BGCOLOR(grey):%%25%% 20どんメダル|~|BGCOLOR(grey):''COLOR(red){ごほうびショップ}COLOR(#029a43){グリーンVer.}COLOR(#4169e1){冬}''にて初登場&br;獲得不可期間((2020.3.24~6.29))を経て、&br;''COLOR(red){どんメダル}ショップ[2020COLOR(#00b8e6){夏}]''にて再登場&br;2020年9月16日価格改定&br;2021年3月25日より''一般解禁''|
+|BGCOLOR(grey):[[UFO Swingin'>難易度表/おに/UFO Swingin']]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[流浪の琥珀姫''>難易度表/おに/流浪の琥珀姫]]|BGCOLOR(grey):%%25%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]/[[(裏)>難易度表/おに/氷竜 〜Kooryu〜(裏譜面)]]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):うさぎのしっぽ>難易度表/おに/うさぎのしっぽ]]|BGCOLOR(grey):800かつメダル|~|BGCOLOR(grey):''COLOR(blue){かつメダル}''廃止と同時に一般解禁|
 |BGCOLOR(grey):[[COLOR(blue):黒神クロニクル>難易度表/おに/黒神クロニクル]]|BGCOLOR(grey):800かつメダル|~|~|
 |BGCOLOR(grey):[[COLOR(blue):星屑とリニアと僕>難易度表/おに/星屑とリニアと僕]]|BGCOLOR(grey):800かつメダル|~|~|
 |BGCOLOR(grey):[[COLOR(blue):恋はみずいろ>難易度表/おに/恋はみずいろ]]|BGCOLOR(grey):800かつメダル|~|~|
@@ -345,18 +361,18 @@
 **音色 [#neiro]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |音色名|必要なメダル数|追加日|備考|h
-|BGCOLOR(grey):手拍子|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(green){グリーンVer.}以前''|BGCOLOR(grey):COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に4回プレイ''|
-|BGCOLOR(grey):コンガ|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に21回プレイ''|
-|BGCOLOR(grey):８ビット太鼓|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に32回プレイ''|
-|BGCOLOR(grey):和田どん|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に42回プレイ''|
-|BGCOLOR(silver):ソイヤ|BGCOLOR(silver):1000かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(grey):手拍子|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に4回プレイ''|
+|BGCOLOR(grey):コンガ|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に21回プレイ''|
+|BGCOLOR(grey):８ビット太鼓|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に32回プレイ''|
+|BGCOLOR(grey):和田どん|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に42回プレイ''|
+|BGCOLOR(silver):ソイヤ|BGCOLOR(silver):1000かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):メカドン|BGCOLOR(silver):1000かつメダル|~|~|
-|BGCOLOR(grey):ふなっしー|BGCOLOR(grey):1000かつメダル|BGCOLOR(grey):''COLOR(yellow){イエローVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2014年8月6日〜2017年6月27日まで|
+|BGCOLOR(grey):ふなっしー|BGCOLOR(grey):1000かつメダル|BGCOLOR(grey):''COLOR(#ffd707){イエローVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2014年8月6日〜2017年6月27日まで|
 
-**ぷちキャラ [#neiro]
+**ぷちキャラ [#puchi]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |ぷちキャラ名|必要なメダル数|追加日|備考|h
-|BGCOLOR(silver):太虎|BGCOLOR(silver):2500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(silver):太虎|BGCOLOR(silver):2500かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):龍神|BGCOLOR(silver):2500かつメダル|~|~|
 |BGCOLOR(silver):ヨガドン|BGCOLOR(silver):5000かつメダル|~|~|
 |BGCOLOR(silver):アラシ|BGCOLOR(silver):5000かつメダル|~|~|

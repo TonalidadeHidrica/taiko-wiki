@@ -1,10 +1,12 @@
 *ideal white [#title]
-***詳細・攻略 [#more]
 -アニメ「''Fate/stay night [Unlimited Blade Works]''」のOP1。
--詳細は以下の通り：
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''|CENTER:★×6|CENTER:''367''|CENTER:''798450点''|CENTER:＋連打|CENTER:620点|CENTER:175点|
+|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×6|CENTER:''367''|CENTER:''798450点''|CENTER:＋連打|CENTER:620点|CENTER:175点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''999500点''}|~|CENTER:COLOR(#ff3300){2550点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは180。
 -全体的に裏拍配置が多く、リズムが取りづらい。
 -8分の複合が主体の譜面で、16分も数がかなり多い。
@@ -17,6 +19,7 @@
 --作詞は、meg rock。作曲は、Carlos K.・Toshi-Fj。編曲は、Carlos K.。 
 -譜面作成は、''カワーゲン・コラーゲン''。
 
+----
 -[[かんたん>難易度表/かんたん/ideal white]]
 -[[ふつう>難易度表/ふつう/ideal white]]
 -[[おに>難易度表/おに/ideal white]]
@@ -27,5 +30,5 @@
 -COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &attachref(i2.png,nolink);

@@ -6,10 +6,11 @@
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''986200点''}|~|COLOR(#ff3300){3360点}|-|
 ||iOS&br;AR|~|~|~|''?????0点''|~|610点|140点|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''992400点''|~|3700点|-|
+|AC16.2.12||BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは160。
--黄色連打が多い連打曲である。
+-連打秒数目安・・・約0.906秒×2−約1.469秒−約0.719秒−約0.906秒×5−約1.469秒：合計約9.999秒
 -全体的に付点配置が多く、リズムが取りづらい。
 -速度は至って普通だが、全体的に8分がかなり多い。
 --8分は4連打までしかないが、連続して出てくる箇所もある。
@@ -18,15 +19,13 @@
 -たまに出てくる8分の複合（COLOR(red){●}COLOR(blue){○}とCOLOR(red){●●}COLOR(blue){○}）に注意。
 
 ***その他 [#other]
--原曲は、「東方紅魔郷 〜 the Embodiment of Scarlet Devil.」のEXボス、フランドール・スカーレットのテーマである「''U.N.オーエンは彼女なのか？''」。
--「達人Edit.」とあるように、他の音楽ゲームに収録されている同曲とは異なった編集がされている。
--アレンジ(編曲)は、''SHU×GUCCI''(SOUND HOLIC)。作詞は、Blue E。
---歌唱は、''Nana Takahashi''(高橋菜々)。
--曲IDは、''thgrip''。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]
 -[[むずかしい>難易度表/むずかしい/Grip ＆ Break down !! -達人Edit.-]]
 -[[おに>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]/[[裏譜面>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]
+-[[楽曲PV(SOUND HOLIC公式)>https://www.youtube.com/watch?v=5K3Zz_PQGzo]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=Cj1Zz_gL0yQ&t=4s]]
 
 ***コメント [#comment]

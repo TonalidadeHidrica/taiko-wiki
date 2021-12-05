@@ -1,6 +1,7 @@
-*RHYTHM AND POLICE [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り:
+*&ruby(リズム){RHYTHM}; &ruby(アンド){AND}; &ruby(ポリス){POLICE};((DS3以降の表記))&br;Rhythm and Police((AC6までの表記)) [#title]
+-ドラマ「''踊る大捜査線''」のメインテーマ曲。
+
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC5''||CENTER:''バラエティ''|CENTER:★×5|CENTER:''184''|CENTER:''??????点''|CENTER:＋連打|CENTER:1080点|CENTER:300点|
 |CENTER:AC6||CENTER:''ドラマ''|~|~|~|~|~|~|
@@ -9,8 +10,21 @@
 |CENTER:AC14||~|~|~|CENTER:''582720点''|~|~|~|
 ||CENTER:PSPDXDL|~|~|~|CENTER:''582360点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''594500点''}|~|CENTER:COLOR(#ff3300){3100点}|CENTER:-|
--BPMは約141。
---ただし、新譜面には、HS0.92がかかっている。
+
+***譜面構成・攻略 [#capture]
+***旧譜面 [#old]
+-BPMは140.9。
+-連打秒数目安・・・約0.816秒−約1.242秒：合計約2.058秒
+-新譜面にはない8分複合がある。
+
+***新譜面 [#new]
+-BPMは141。
+--ただし、HS0.92がかかっている。
+-連打秒数目安・・・約1.028秒×2−''約0.8156秒''×2−SIZE(16){''約0.8156秒''}：合計約4.5035秒
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Rhythm and Police]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/Rhythm and Police]]
 -[[むずかしい>難易度表/むずかしい/Rhythm and Police]]

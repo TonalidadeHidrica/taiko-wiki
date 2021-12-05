@@ -1,13 +1,18 @@
 *Kamikaze Remix [#title]
-***詳細・攻略 [#more]
--ナムコ「[[''RIDGE RACERS 2''>http://www.bandainamcogames.co.jp/cs/list/ridgeracers2_psp/]]」のBGM。
--1995年にNAMCOから登場した「Rave Racer」のBGM。「[[Kamikaze>http://www.youtube.com/watch?v=RlVBB6lRhwE]]」のRemixである。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11SP''-14&br;AC11亜SP&br;AC12亜|CENTER:Wii1&br;PSP2DL|CENTER:★×8|CENTER:''501''|CENTER:''887940点''|CENTER:＋連打|CENTER:520点|CENTER:120点|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''897750点''}|~|CENTER:COLOR(#ff3300){1750点}|CENTER:-|
-|CENTER:AC15.3.1|CENTER:Wii5SP|~|~|CENTER:''895410点''|~|CENTER:540点|CENTER:140点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''995220点''}|~|CENTER:COLOR(#ff3300){1940点}|CENTER:-|
+-ナムコのPSP用ソフト「[[''RIDGE RACERS 2''>ゲーム別収録曲#rr]]」の楽曲。(→[[公式サイト>http://www.bandainamcogames.co.jp/cs/list/ridgeracers2_psp/]])
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11SP''-14|Wii1&br;PSP2DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|''501''|''887940点''|＋連打|520点|120点|
+|AC11亜SP&br;AC12亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|
+|COLOR(#ff3300){真打モード}||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|COLOR(#ff3300){''897750点''}|~|COLOR(#ff3300){1750点}|-|
+|AC15.3.1|Wii5SP|~|~|~|''895410点''|~|540点|CENTER:140点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''995220点''}|~|COLOR(#ff3300){1940点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''996990点''|~|1990点|-|
+|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは約158。
 -譜面は19か所ものCOLOR(red){●}COLOR(blue){●●}COLOR(red){●}を上手にさばけるかどうかが、クリアのカギになるだろう。
 --特に終盤はこれのラッシュになっている。
@@ -19,17 +24,13 @@
 -[[おに>難易度表/おに/Kamikaze Remix]]と面の位置が一致した小節も多い。
 -ラスト1コンボで可を出しやすいので全良狙いの時は注意。
 -[[かんたん>難易度表/かんたん/Kamikaze Remix]]・[[ふつう>難易度表/ふつう/Kamikaze Remix]]は低速地帯の速度変化がむずかしい・[[おに>難易度表/おに/Kamikaze Remix]]と比べてゆるい（前者は0.8倍速で実質BPM126、後者は0.5倍速で実質BPM79）。
+-平均密度は、''約4.33打/秒''。
 
 ***その他 [#other]
--AC11の1次解禁で、難おに同一の[[ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]を抜いてGM最難関の座についたが、AC14で追加された[[Doom Noiz>難易度表/むずかしい/Doom Noiz]]が現地点のACのGM最難関となっている。
--新筐体では、5月ドンチャレによる先行解禁曲としてAC復活を果たした(現在はデフォルト)。AC収録は約1年5ヶ月ぶり。
---ドンチャレ解禁曲が復活曲であるのは、[[旋風ノ舞【天】>難易度表/むずかしい/旋風ノ舞【天】]]、[[旋風ノ舞【地】>難易度表/むずかしい/旋風ノ舞【地】]]に続いて4曲目。
---ドンチャレ解禁曲がナムコオリジナル以外の曲であるのは初めてである。
--曲名の読み方は、''カミカゼ リミックス''。
---ゴーゴー地帯の空耳で「ドリル便座ぁー」と聞こえる部分があることから一部で''ドリル便座、ドリ便''などと呼ばれた事もあった。ちなみにこの部分では「Storming weather」と言っている。
----作曲・アレンジを担当した''佐宗綾子''氏(''Sampling Masters AYA'')はそこが何と言っているかや、この曲がドリル便座と呼ばれていたことを知らなかった模様（ツイッターより）。
--譜面作成は、''タカハシ''。
--曲IDは、''rrs2kk''
+-楽曲情報は[[おに譜面>難易度表/おに/Kamikaze Remix]]を参照。
+-AC11の1次解禁で、[[ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]を抜いてGM最難関の座についたが、AC14で追加された[[Doom Noiz>難易度表/むずかしい/Doom Noiz]]がGM最難関の座を奪われた。
+
+----
 -[[かんたん>難易度表/かんたん/Kamikaze Remix]]
 -[[ふつう>難易度表/ふつう/Kamikaze Remix]]
 -[[おに>難易度表/おに/Kamikaze Remix]]

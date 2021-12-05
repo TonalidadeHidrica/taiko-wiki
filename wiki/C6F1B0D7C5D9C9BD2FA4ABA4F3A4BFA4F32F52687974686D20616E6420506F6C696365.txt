@@ -1,5 +1,7 @@
-*RHYTHM AND POLICE [#title]
-***詳細・攻略 [#more]
+*&ruby(リズム){RHYTHM}; &ruby(アンド){AND}; &ruby(ポリス){POLICE};((DS3以降の表記))&br;Rhythm and Police((AC6までの表記)) [#title]
+-ドラマ「''踊る大捜査線''」のメインテーマ曲。
+
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC5''||CENTER:''バラエティ''|CENTER:★×4|CENTER:''122''|CENTER:''??????点''|CENTER:+連打|CENTER:1230点|CENTER:440点|
 |CENTER:AC6||CENTER:''ドラマ''|~|~|~|~|~|~|
@@ -7,8 +9,14 @@
 ||CENTER:DS3|CENTER:''バラエティ''|CENTER:★×3|CENTER:''113''|CENTER:''324280点''|~|CENTER:750点|CENTER:260点|
 |CENTER:AC14|CENTER:PSPDXDL|~|~|~|CENTER:''325000点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''334720点''}|~|CENTER:COLOR(#ff3300){2370点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは約141。
 --ただし、新譜面にはHS0.92がかかっている。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Rhythm and Police]]を参照。
+
 ----
 -[[ふつう>難易度表/ふつう/Rhythm and Police]]
 -[[むずかしい>難易度表/むずかしい/Rhythm and Police]]

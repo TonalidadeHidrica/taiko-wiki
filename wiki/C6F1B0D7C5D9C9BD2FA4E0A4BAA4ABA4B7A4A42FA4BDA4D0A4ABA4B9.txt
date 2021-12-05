@@ -1,17 +1,20 @@
 *そばかす [#title]
-***詳細・攻略 [#more]
 -アニメ「''るろうに剣心 -明治剣客浪漫譚-''」のOP1。
 --ただし、ジャンルはJ‐POP。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |CENTER:''AC5''||CENTER:★×4|CENTER:''220''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点|
 |CENTER:AC6||~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
 ||CENTER:CS5|CENTER:★×5|CENTER:''230''|CENTER:''?????0点''|~|CENTER:880点|CENTER:210点|
 |CENTER:AC12増-14||~|~|CENTER:''725680点''|~|CENTER:910点|CENTER:240点|
-||CENTER:iOS&br;Wii3&br;PSPDXDL|~|~|CENTER:''725380点''|~|~|~|
+||CENTER:iOS((人気曲パック4))&br;Wii3&br;PSPDXDL|~|~|CENTER:''725380点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''740960点''}|~|CENTER:COLOR(#ff3300){3030点}|CENTER:-|
 |CENTER:AC15.1.0-15.5.4||CENTER:★×4|~|CENTER:''689410点''|~|CENTER:900点|CENTER:285点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4070点}|CENTER:-|
+||iOS&br;AR((楽曲取り放題))|~|~|''?????0点''|~|880点|220点|
+
+***譜面構成・攻略 [#capture]
 -BPMは171。
 -黄色連打がかなり多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -27,7 +30,7 @@
 --家庭用作品では、以下の日時を以て新規DLができなくなった。
 ---2015年9月30日(水)：''PSPDX''
 ---2018年3月26日(月)：''iOS''
-
+----
 -[[かんたん>難易度表/かんたん/そばかす]]
 -[[ふつう>難易度表/ふつう/そばかす]]
 -[[おに>難易度表/おに/そばかす]]

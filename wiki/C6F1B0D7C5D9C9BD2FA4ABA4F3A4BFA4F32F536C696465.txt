@@ -5,6 +5,7 @@
 |CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''米TDM''&br;TDM|CENTER:★×4|CENTER:''158''|CENTER:''?????0点''|CENTER:＋連打|CENTER:940点|CENTER:280点|
 -BPMは110。
+-連打秒数目安・・・約2.1364秒×2：合計約4.273秒
 ----
 -【2人用譜面】
 -詳細は以下の通り：

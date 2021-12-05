@@ -5,18 +5,19 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15 例大祭14Ver.''&br;AC15.9.6|BGCOLOR(lime):''バラエティ''|★×9|''751''|''1097880点''|＋連打|410点|100点|
+|''AC15&br;例大祭14Ver.''&br;AC15.9.6|BGCOLOR(lime):''バラエティ''|★×9|''751''|''1097880点''|＋連打|410点|100点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1002800点''}|~|COLOR(#ff3300){1260点}|-|
 |AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''999730点''|~|1330点|-|
+|AC16.2.12|BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは1.97-''350''。
---[[FLOWER>難易度表/おに/FLOWER]]や[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]と同様、HS0.5処理をして見た目BPMを175にしていると思われる。
+--[[FLOWER>難易度表/おに/FLOWER]]や[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]と同様、HS0.5処理をして見た目BPMを175にしている。
 -平均密度は、''約6.23打/秒''。
 -一番最後の疑似停止部分は、''BPM1.97''であり''歴代最低BPM''である。
 
 ***その他 [#other]
--原曲は、「東方紅魔郷 〜 the Embodiment of Scarlet Devil.」の2面ボス、チルノのテーマである「''おてんば恋娘''」。
+-原曲は、「[[東方紅魔郷 〜 the Embodiment of Scarlet Devil.>東方Projectアレンジ楽曲一覧#th6]]」の2面ボス、チルノのテーマである「''おてんば恋娘''」。
 -歌唱は、[[''miko''>アーティスト別収録曲#miko]]SIZE(12){(Alternative ending)}、[[''ビートまりお''>アーティスト別収録曲#mario]]SIZE(12){(COOL&CREATE)}、[[''senya''>アーティスト別収録曲#senya]]SIZE(12){(幽閉サテライト)}、[[''越田Rute隆人''・''あき''>アーティスト別収録曲#aone]]SIZE(12){(A-One)}、''ランコ''SIZE(12){(豚乙女)}、''あにー''SIZE(12){(T&#97;N&#97;B&#97;T&#97;)}。
 -アーティストは、''IOSYSと愉快な��周年フレンズ''。
 --アレンジ(編曲)は、''IOSYS''の[[コバヤシユウヤ>参加アーティスト一覧/コバヤシユウヤ]]。作詞は、夕野ヨシミ。
@@ -33,10 +34,13 @@
 -[[MV(IOSYS公式)>https://www.youtube.com/watch?v=9iI0-OdRzHI]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~89小節の拍子は近似値(実際は4.657931/48拍子)
 &attachref(thchi2_m.png,nolink);
+
 ~BPM175固定と見る場合
 &attachref(cirno9_m.png,nolink);

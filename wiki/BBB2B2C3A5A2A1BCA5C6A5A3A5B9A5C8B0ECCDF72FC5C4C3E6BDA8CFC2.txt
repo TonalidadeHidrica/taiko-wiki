@@ -1,19 +1,19 @@
-*''田中 秀和''（たなか ひでかず） [#title]
+*''&ruby(たなか){田中}; &ruby(ひでかず){秀和};'' [#title]
 
 **概要 [#more]
 -作・編曲家。
--MONACA所属。
---[[神前暁>参加アーティスト一覧/神前暁]]によるアシスタント募集にて氏からの推薦で2010年に入社。
+-元MONACA所属。
+--[[神前暁>参加アーティスト一覧/神前暁]]によるアシスタント募集にて氏からの推薦で2010年に入社。以降2021年7月31日まで所属。
 -昭和62年6月4日生まれ。
 
 -[[Wikipedia>https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E7%A7%80%E5%92%8C_(%E4%BD%9C%E6%9B%B2%E5%AE%B6)]]
--[[Twitter>https://twitter.com/MONACA_tanaka]]
+-[[Twitter>https://twitter.com/HdkzTanaka]]
 -[[プロフィール（MONACA公式サイト）>http://www.monaca.jp/staff/tanaka.html]]
 
 **作品一覧 [#work]
 --ポップス
 ---[[ゴッド>難易度表/おに/ゴッドソング]][[ソング>難易度表/おに/ゴッドソング(裏譜面)]]
---ゲーム＆バラエティ
+--ゲームミュージック
 ---[[自分>難易度表/おに/自分REST@RT]][[REST@RT>難易度表/おに/自分REST@RT(裏譜面)]]
 ---[[Star>難易度表/おに/Star!!]][[!!>難易度表/おに/Star!!(裏譜面)]]
 ---[[ヒミツキチューバー>難易度表/おに/ヒミツキチューバー]]
@@ -35,5 +35,5 @@
 --「ハナヤマタ」
 ---[[花ハ踊レヤいろはにほ>https://www.youtube.com/watch?v=F9TuIVpBi5I]]
 
-**コメント [#comment]
+***コメント [#comment]
 #pcomment(,noname)

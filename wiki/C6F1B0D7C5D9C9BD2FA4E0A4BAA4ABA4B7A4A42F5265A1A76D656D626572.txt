@@ -1,9 +1,12 @@
-*Re:member [#title]
-***詳細・攻略 [#more]
--アニメ「''NARUTO -ナルト-''」のOP8。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC9|CENTER:''CS7''|CENTER:★×5|CENTER:''282''|CENTER:''?????0点''|CENTER:＋連打|CENTER:780点|CENTER:200点|
+*&ruby(リメンバー){Re:member}; [#title]
+-アニメ「[[''NARUTO -ナルト-''>アニメ別収録曲#naruto]]」のOP8。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC9|''CS7''|BGCOLOR(orange):''アニメ''|★×5|''282''|''?????0点''|＋連打|780点|200点|
+
+***譜面構成・攻略 [#capture]
 -BPMは172。
 -黄色連打がかなり多い連打曲である。
 -全体的に裏拍配置が多く、リズムが取りづらい。
@@ -12,11 +15,9 @@
 -ゴーゴーで1回だけ出てくる8分の複合7連打に注意。
 
 ***その他 [#other]
--曲名の読み方は、''リメンバー''。
--アーティストは、''FLOW''。
---作詞は、KOHSHI ASAKAWA。作曲は、TAKESHI ASAKAWA。編曲は、FLOW & TERRASSY。
--曲IDは、''remen8''
+-楽曲情報は[[おに譜面>難易度表/おに/Re：member]]を参照。
 
+----
 -[[かんたん>難易度表/かんたん/Re：member]]
 -[[ふつう>難易度表/ふつう/Re：member]]
 -[[おに>難易度表/おに/Re：member]]

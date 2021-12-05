@@ -1,9 +1,14 @@
-*BLAZING VORTEX [#title]
+*&ruby(ブレイジング){BLAZING}; &ruby(ボルテックス){VORTEX}; [#title]
 -PS2のドライビングアクション「''[[&ruby(クリティカル){CRITICAL}; &ruby(ベロシティ){VELOCITY};>ゲーム別収録曲#crivelo]]''」より。
-***詳細 [#detail]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.7.0SP|CENTER:''PS Vita1''&br;Wii U3DL|CENTER:★×7|CENTER:''694''|CENTER:''843610点''|CENTER:＋連打|CENTER:360点|CENTER:90点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''999340点''}|~|CENTER:COLOR(#ff3300){1380点}|CENTER:-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.7.0SP|''PS Vita1''&br;Wii U3DL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×7|''694''|''843610点''|＋連打|360点|90点|
+||''PS Vita1亜''|BGCOLOR(darkorchid):COLOR(white){''遊戯音樂''}|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''999340点''}|~|COLOR(#ff3300){1380点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1001360点''|~|1440点|-|
+|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは173。
@@ -17,16 +22,12 @@
 -16分の3連打が15連続で出てくる89〜92小節と93〜96小節に注意。
 -ただし、16分は全て単色しかない。
 --そのため、「きまぐれ」や「でたらめ」をかければ、この曲だけでもかなり鍛えられることだろう。
--音符密度は、''約4.81打/秒''。
+-平均密度は、''約4.81打/秒''。
 --ただしこれは1曲を通しての平均密度であり、第2ゴーゴーだけは音符密度が''約7.57打/秒''((89〜96小節は約8.51打/秒))になっている。
 
 ***その他 [#other]
--曲名の読み方は、''ブレイジング ボルテックス''。
--作曲は、''西込乗二''。
--サウンドトラックは長らく販売されていなかったが、現在では[[''NAMCO SOUNDS''>http://itunes.apple.com/jp/album/crtitcal-velocity-original/id527538112]]からiTunesで配信中。
--新筐体ホワイトVer.では、ドンポイントがカンストした時にこの楽曲が解禁される。
--譜面作成は、''マツモト''。
--曲IDは、''blzvtx''。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/BLAZING VORTEX]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/BLAZING VORTEX]]
 -[[ふつう>難易度表/ふつう/BLAZING VORTEX]]

@@ -15,6 +15,7 @@
 ~''AC2,3の譜面''
 -''[[かんたん>難易度表/かんたん/炭坑節]]と同一譜面''。
 -[[面100%>太鼓ギネス/音符について#noedgeeasy]]。また、大音符が1つもない。
+-面100％のおに譜面はこの譜面以降長らく登場していなかったが、AC16に[[全コースを通して縁が存在しない譜面が登場した>難易度表/おに/炎]]。
 -平均密度は、''約1.63打/秒''。
 ----
 ~''CS1の譜面''
@@ -38,11 +39,9 @@
 -[[かんたん>難易度表/かんたん/炭坑節]]
 -[[ふつう>難易度表/ふつう/炭坑節]]
 -[[むずかしい>難易度表/むずかしい/炭坑節]]
--[[プレイ動画>http://www.youtube.com/watch?v=3UpzGp51BQA]](AC2)
--[[プレイ動画>https://www.youtube.com/watch?v=CXZG5KURtXg]](AC2)
--[[プレイ動画>http://youtube.com/watch?v=wLXB-EKz8Uc]](AC4)
 -[[プレイ動画>https://www.youtube.com/watch?v=Fr89anEhuCs]](AC4)
 -[[プレイ動画>https://www.youtube.com/watch?v=ukL0Sol3_lg]](CS1)
+-[[プレイ動画>https://www.youtube.com/watch?v=CXZG5KURtXg]](AC2)
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -1,10 +1,15 @@
-*Pastel Sealane [#title]
-***詳細・攻略 [#details]
--ナムコのシューティングゲーム''「[[ブレイザー>http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC_%28%E3%82%B2%E3%83%BC%E3%83%A0%29]]」''より。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.4.0|CENTER:''Wii U1SP''|CENTER:★×5|CENTER:''212''|CENTER:''357590点''|CENTER:＋連打|CENTER:440点|CENTER:98点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3390点}|CENTER:-|
+*&ruby(パステル){Pastel}; &ruby(シーレーン){Sealane}; [#title]
+-ナムコのアーケードゲーム「[[''ブレイザー''>http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC_%28%E3%82%B2%E3%83%BC%E3%83%A0%29]]」より。
+
+***詳細 [#details]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.4.0|''Wii U1SP''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×5|''212''|''357590点''|＋連打|440点|98点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){3390点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''990700点''|~|4650点|-|
+|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは140.1。
 -黄色連打がかなり多い連打曲である。
 -大音符が多く、63個ある（全体の約29.7%）。
@@ -12,15 +17,19 @@
 -6分と付点8分の両方が出てくるため、リズムが取りづらい。
 -64〜66小節に出てくる大音符の4分複合9連打に注意。
 --両手でないと高得点が取れない家庭用では鬼門である。
--曲名の読み方は、''パステル　シーレーン''。
--アーティストは、''桜井誠一''。
 
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Pastel Sealane]]を参照。
+
+----
 -[[ふつう>難易度表/ふつう/Pastel Sealane]]
 -[[むずかしい>難易度表/むずかしい/Pastel Sealane]]
 -[[おに>難易度表/おに/Pastel Sealane]]
 -[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=KSHqucoX7sU]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

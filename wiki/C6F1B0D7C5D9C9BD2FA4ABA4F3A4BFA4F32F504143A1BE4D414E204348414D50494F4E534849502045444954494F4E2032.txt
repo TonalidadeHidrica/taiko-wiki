@@ -1,14 +1,19 @@
 *PAC‐MAN CHAMPIONSHIP EDITION 2 SIZE(16){PAC TOY-BOX} [#title]
 -&#80;layStation 4・Xbox One・Steam用ソフト「''PAC-MAN CHAMPIONSHIP EDITION 2''」のBGM。
 --後にNintendo Switchにも移植された。
+
 ***詳細 [#detail]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.11.0SP|''NS1''|★×4|''134''|''?????0点''|＋連打|700点|263点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){6490点}|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.11.0SP|''NS1''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×4|''134''|''?????0点''|＋連打|700点|263点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){6490点}|-|
+||iOS&br;AR|~|~|~|''341140点''|~|700点|180点|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''997100点''|~|7400点|-|
+|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは150。
+-連打秒数目安・・・約1.167秒−約1.567秒−約0.967秒−約1.167秒：合計約4.867秒
 
 ***その他 [#other]
 -アーティストは、[[''Taku Inoue''>参加アーティスト一覧/Taku Inoue]]。
@@ -24,6 +29,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-くすだま(こづち)の長さは暫定
-~DELAYは省略
 ~&attachref(パックマンかんたん.png,nolink);

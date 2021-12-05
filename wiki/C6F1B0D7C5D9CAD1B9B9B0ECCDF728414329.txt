@@ -706,13 +706,20 @@
 
 ***新筐体(ニジイロ) [#acgreen]
 |CENTER:曲名|CENTER:変更|h
+|>|BGCOLOR(orangered):CENTER:''かんたん''|
+|[[それが大事>難易度表/かんたん/それが大事]]|CENTER:COLOR(red){★×2→★×3}|
 |>|BGCOLOR(lime):CENTER:''ふつう''|
+|[[ドルアーガの塔メドレー>難易度表/ふつう/ドルアーガの塔メドレー]]|CENTER:COLOR(blue){★×6→★×5}|
 |[[ハロー！どんちゃん>難易度表/ふつう/ハロー！どんちゃん]]|CENTER:COLOR(red){★×3→★×5}|
+|[[それが大事>難易度表/ふつう/それが大事]]|CENTER:COLOR(red){★×3→★×4}|
 |>|BGCOLOR(cyan):CENTER:''むずかしい''|
 |[[ハロー！どんちゃん>難易度表/むずかしい/ハロー！どんちゃん]]|CENTER:COLOR(red){★×4→★×6}|
+|[[それが大事>難易度表/むずかしい/それが大事]]|CENTER:COLOR(red){★×5→★×6}|
+|[[どんちゃん音頭>難易度表/むずかしい/どんちゃん音頭]]|CENTER:COLOR(red){★×5→★×6}|
 |>|BGCOLOR(magenta):CENTER:''おに''|
 |[[馬と鹿>難易度表/おに/馬と鹿]]|CENTER:COLOR(blue){★×6→★×5}|
 |[[ハロー！どんちゃん>難易度表/おに/ハロー！どんちゃん]]|CENTER:COLOR(blue){★×7→★×6}|
+|[[それが大事>難易度表/おに/それが大事]]|CENTER:COLOR(blue){★×8→★×7}※|
 
 **コメント [#comment]
 #pcomment(,noname)

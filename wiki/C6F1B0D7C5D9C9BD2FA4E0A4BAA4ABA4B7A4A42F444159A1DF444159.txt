@@ -1,10 +1,12 @@
-*DAY×DAY [#title]
-***詳細・攻略 [#more]
+*&ruby(デイ){DAY};&ruby(バイ){×};&ruby(デイ){DAY}; [#title]
 -アニメ「[[''銀魂°''>アニメ別収録曲#gintama]]」のOP1。
--詳細は以下の通り：
+
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''Wii U3''&br;3DS3DL|CENTER:★×6|CENTER:''346''|CENTER:''?????0点''|CENTER:＋連打|CENTER:640点|CENTER:175点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){2550点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは193。
 -全体的に裏拍配置が多く、リズムが取りづらい。
 -8分の複合が主体の譜面で、たまに16分も出てくる。
@@ -16,9 +18,8 @@
 
 ***その他 [#other]
 -ナムコオリジナルの[[Day by Day!>難易度表/むずかしい/Day by Day!]]と間違えないように。
--アーティストは、''BLUE ENCOUNT''。
---作詞・作曲・編曲は、田邊駿一。
--譜面作成は、''まりも研究所''。
+-楽曲情報は[[おに譜面>難易度表/おに/DAY×DAY]]を参照。
+----
 -[[かんたん>難易度表/かんたん/DAY×DAY]]
 -[[ふつう>難易度表/ふつう/DAY×DAY]]
 -[[おに>難易度表/おに/DAY×DAY]]
