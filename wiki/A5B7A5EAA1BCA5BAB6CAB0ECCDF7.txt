@@ -236,7 +236,7 @@
 
 -また、Wii4、3DS1、2、Wii U2、3、PS Vitaには、このシリーズの曲は1曲もない。
 
--新ACではブルーVer.以降で[[SORA-III ヘリオポーズ>難易度表/おに/SORA-III ヘリオポーズ]]、[[SORA-IV ブンパソング>難易度表/おに/SORA-IV ブンパソング]]、[[SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]を除き全ての曲をプレイすることができる。&br;CSではWii5、Wii U1があれば[[SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]を除き全ての曲をプレイすることができる。
+-新ACではブルーVer.以降で[[SORA-III ヘリオポーズ>難易度表/おに/SORA-III ヘリオポーズ]]、[[SORA-IV ブンパソング>難易度表/おに/SORA-IV ブンパソング]]、[[SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]を除き全ての曲をプレイすることができる。&br;CSではWii5、3DS3もしくはWiiU1があれば[[SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]を除き全ての曲をプレイすることができる。
 
 |CENTER:|CENTER:|CENTER:|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 ||''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|>|初出|h

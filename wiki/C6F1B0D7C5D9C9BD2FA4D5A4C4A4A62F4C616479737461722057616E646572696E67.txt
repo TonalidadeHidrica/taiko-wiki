@@ -1,12 +1,13 @@
 *Ladystar Wandering [#title]
-***詳細・攻略 [#more]
 -''東方Project×NAMCO SOUNDS''によるコラボ楽曲のひとつ。
--詳細は以下の通り：
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15 例大祭12Ver.''&br;AC15.6.6|PS Vita1DL|★×6|''183''|''632580点''|＋連打|960点|303点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''984130点''}|~|COLOR(#ff3300){4430点}|-|
-||iOS&br;AR|~|~|''??????点''|~|???点|???点|
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15 例大祭12Ver.''&br;AC15.6.6|PS Vita1DL&br;NS1DL|BGCOLOR(lime):''バラエティ''|★×6|''183''|''632580点''|＋連打|960点|303点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''984130点''}|~|COLOR(#ff3300){4430点}|-|
+||iOS&br;AR|~|~|~|''??????点''|~|???点|???点|
+|AC16.1.0||BGCOLOR(darkorchid):''ゲーム&&br;バラエティ''|~|~|''?????0点''|~|??0点|-|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
 
 -BPMは130。
 -黄色連打がかなり多い連打曲である。
@@ -22,6 +23,8 @@
 -曲名の読み方は、''レディースター ワンダリング''。
 -原曲は、「妖精大戦争 〜 東方三月精」のEXボス、霧雨魔理沙のテーマである「''メイガスナイト''」。
 -アレンジは、''中鶴潤一''。
+
+----
 -[[かんたん>難易度表/かんたん/Ladystar Wandering]]
 -[[むずかしい>難易度表/むずかしい/Ladystar Wandering]]
 -[[おに>難易度表/おに/Ladystar Wandering]]

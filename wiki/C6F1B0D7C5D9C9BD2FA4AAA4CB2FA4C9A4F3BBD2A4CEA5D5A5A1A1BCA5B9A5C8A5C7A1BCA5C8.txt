@@ -26,6 +26,7 @@
 -[[裏譜面>難易度表/おに/どん子のファーストデート(裏譜面)]]は16分が大量に現れる譜面である。8分までしかないこの譜面との難易度差が非常に大きい。
 --そのため、こちらをクリアしたからといって安易に挑んではいけない。
 -平均密度は、''約3.81打/秒''。
+
 ***その他 [#other]
 -歌詞は全てどん子の妄想である。
 -作詞は、''ヤスカワショウゴ''。作曲・編曲は、[[''岡部啓一''>参加アーティスト一覧/岡部啓一]]。
@@ -39,8 +40,10 @@
 -[[ふつう>難易度表/ふつう/どん子のファーストデート]]
 -[[むずかしい>難易度表/むずかしい/どん子のファーストデート]]
 -おに/[[裏譜面>難易度表/おに/どん子のファーストデート(裏譜面)]]
--[[オート動画>http://www.youtube.com/watch?v=qHw-lddN3fk]]
--[[オート動画(2人用譜面、2P側プレイ)>http://www.youtube.com/watch?v=31p4CqleO3Q]]
+-[[オート動画(Wii1)>https://www.youtube.com/watch?v=DWIJreAUbHc]]
+-[[オート動画(Wii1)>http://www.youtube.com/watch?v=qHw-lddN3fk]]
+-[[オート動画(Wii1・2人用譜面・Wii1)>https://www.youtube.com/watch?v=W2jer0dlPKc]]
+-[[2P側プレイ動画(CS4・2人用譜面)>http://www.youtube.com/watch?v=31p4CqleO3Q]]
 
 ***コメント [#comment]
 #pcomment(,noname)
