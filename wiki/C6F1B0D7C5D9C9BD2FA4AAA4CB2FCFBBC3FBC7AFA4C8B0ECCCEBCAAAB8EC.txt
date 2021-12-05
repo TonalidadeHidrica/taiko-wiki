@@ -1,12 +1,12 @@
 *六兆年と一夜物語 SIZE(16){kemu feat.IA} [#title]
 
 ***詳細 [#detail]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
-|AC15.5.0|''3DS2''&br;Wii U2&br;PS Vita1&br;PS4 1&br;NS1DL|★×9|''846''|''1100880点''|370点|90点|
-||iOS&br;AR|~|~|''1107080点''|~|80点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1002310点''}|COLOR(#ff3300){1130点}|-|
-|AC16.1.0||~|~|''1006740点''|1190点|-|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|AC15.5.0|''3DS2''&br;Wii U2&br;PS Vita1&br;PS4 1&br;NS1DL|BGCOLOR(darkgray):''ボーカロ&br;イド&#8482;曲''|★×9|''846''|''1100880点''|370点|90点|
+||iOS&br;AR|~|~|~|''1107080点''|~|80点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1002310点''}|COLOR(#ff3300){1130点}|-|
+|AC16.1.0||~|~|~|''1006740点''|1190点|-|
 
 ***譜面構成・攻略 [#more]
 -BPMは約53.35〜186。

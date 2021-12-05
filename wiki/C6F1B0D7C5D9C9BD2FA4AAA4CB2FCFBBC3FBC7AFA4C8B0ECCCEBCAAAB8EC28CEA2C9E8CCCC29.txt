@@ -1,12 +1,12 @@
 *六兆年と一夜物語(裏譜面) [#title]
 
 ***詳細 [#detail]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.5.0|''3DS2SP''&br;Wii U2SP&br;PS Vita1SP&br;PS4 1&br;NS1DL|★×9|''753''|''1096840点''|＋連打|400点|103点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''997500点''}|~|COLOR(#ff3300){1250点}|-|
-||iOS&br;AR|~|~|''?????0点''|~|390点|90点|
-|AC16.1.0||~|~|''1001490点''|~|1330点|-|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.5.0|''3DS2SP''&br;Wii U2SP&br;PS Vita1SP&br;PS4 1&br;NS1DL|BGCOLOR(darkgray):''ボーカロ&br;イド&#8482;曲''|★×9|''753''|''1096840点''|＋連打|400点|103点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''997500点''}|~|COLOR(#ff3300){1250点}|-|
+||iOS&br;AR|~|~|~|''?????0点''|~|390点|90点|
+|AC16.1.0||~|~|~|''1001490点''|~|1330点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約53.35〜186。

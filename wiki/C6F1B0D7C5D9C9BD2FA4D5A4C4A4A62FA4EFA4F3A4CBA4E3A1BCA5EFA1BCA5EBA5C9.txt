@@ -2,11 +2,14 @@
 
 ***詳細・攻略 [#more]
 -詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDX''&br;Wii4|CENTER:★×5|CENTER:''271''|CENTER:''596090点''|CENTER:＋連打|CENTER:590点|CENTER:120点|
-|CENTER:AC15.1.0SP|CENTER:Wii U3DL&br;NS1DL|~|~|CENTER:''598790点''|~|CENTER:600点|CENTER:148点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3040点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|CENTER:''1000050点''|~|CENTER:3650点|CENTER:-|
+|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSPDX''&br;Wii4|CENTER:BGCOLOR(orangered):''ナムコ&br;オリジナル''|CENTER:★×5|CENTER:''271''|CENTER:''596090点''|CENTER:＋連打|CENTER:590点|CENTER:120点|
+|CENTER:AC15.1.0SP||~|~|~|CENTER:''598790点''|~|CENTER:600点|CENTER:148点|
+||CENTER:Wii U3DL&br;NS1DL|CENTER:BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|~|~|~|~|
+|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3040点}|CENTER:-|
+|CENTER:AC16.1.0||CENTER:BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|CENTER:''1000050点''|~|CENTER:3650点|CENTER:-|
+|~|~|CENTER:BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+
 -BPMは約176。
 -連打秒数目安・・約0.824秒−SIZE(16){約0.313秒}×2：合計約1.449秒
 --他の3コースより合計連打が少ないため、天井基準の60万点到達はかなり厳しい。

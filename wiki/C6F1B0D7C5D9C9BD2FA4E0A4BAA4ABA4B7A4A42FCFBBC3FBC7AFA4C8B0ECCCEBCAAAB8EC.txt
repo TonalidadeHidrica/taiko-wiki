@@ -1,12 +1,12 @@
 *六兆年と一夜物語 kemu feat.IA [#title]
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.5.0|CENTER:''3DS2''&br;Wii U2&br;PS Vita1&br;PS4 1&br;NS1DL|CENTER:★×7|CENTER:''503''|CENTER:''843640点''|CENTER:＋連打|CENTER:450点|CENTER:118点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''996080点''}|~|CENTER:COLOR(#ff3300){1790点}|CENTER:-|
-||iOS&br;AR|~|~|''?????0点''|~|450点|100点|
-|CENTER:AC16.1.0||~|~|CENTER:''997040点''|~|CENTER:1980点|CENTER:-|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.5.0|CENTER:''3DS2''&br;Wii U2&br;PS Vita1&br;PS4 1&br;NS1DL|CENTER:BGCOLOR(darkgray):''ボーカロ&br;イド&#8482;曲''|CENTER:★×7|CENTER:''503''|CENTER:''843640点''|CENTER:＋連打|CENTER:450点|CENTER:118点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''996080点''}|~|CENTER:COLOR(#ff3300){1790点}|CENTER:-|
+||iOS&br;AR|~|~|~|''?????0点''|~|450点|100点|
+|CENTER:AC16.1.0||~|~|~|CENTER:''997040点''|~|CENTER:1980点|CENTER:-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは60〜186。
