@@ -5,6 +5,8 @@
 |CENTER:''AC12増''〜13|CENTER:Wii2SP&br;Wii4SP&br;iOS|CENTER:★×3|CENTER:''121''|CENTER:''313700点''|CENTER:＋連打|CENTER:780点|CENTER:250点|
 |CENTER:AC15.2.0||~|~|CENTER:''329300点''|~|CENTER:820点|CENTER:388点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''990500点''}|~|CENTER:COLOR(#ff3300){7560点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''?????0点''|~|CENTER:8220点|CENTER:-|
+
 -BPMは128。
 -黄色連打が多い連打曲である。
 -[[むずかしい>難易度表/むずかしい/ユウガオノキミ]]以上とは違ってソフランは無い。
