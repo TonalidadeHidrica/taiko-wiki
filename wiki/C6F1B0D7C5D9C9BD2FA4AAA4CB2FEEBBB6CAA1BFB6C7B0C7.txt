@@ -50,5 +50,5 @@
 ***譜面 [#score]
 ~一般収録されている譜面
 &attachref(thnlnd_m(new).png,nolink);
-~ブラッシュアップ前の譜面(例大祭12限定)
+~ブラッシュアップ前(例大祭12限定)の譜面(16小節・38〜45小節が変更されている)。
 &attachref(thnlnd_m(old).png,nolink);

@@ -148,7 +148,7 @@
 |''DL''||''MEGALOVANIA''&br;　　SIZE(11){「UNDERTALE」より}|240|[[★×4>難易度表/かんたん/MEGALOVANIA]]|[[★×5>難易度表/ふつう/MEGALOVANIA]]|[[★×7>難易度表/むずかしい/MEGALOVANIA]]|[[★×9>難易度表/おに/MEGALOVANIA]]|-|
 |''DL''||''心の痛み''&br;　　SIZE(11){「UNDERTALE」より}|239|[[★×4>難易度表/かんたん/心の痛み]]|[[★×5>難易度表/ふつう/心の痛み]]|[[★×7>難易度表/むずかしい/心の痛み]]|[[★×8>難易度表/おに/心の痛み]]|-|
 |''DL''||''夢と希望''&br;　　SIZE(11){「UNDERTALE」より}|170.68※|[[★×3>難易度表/かんたん/夢と希望]]&br;SIZE(10){譜面分岐}|[[★×5>難易度表/ふつう/夢と希望]]&br;SIZE(10){譜面分岐}|[[★×6>難易度表/むずかしい/夢と希望]]&br;SIZE(10){譜面分岐}|[[★×8>難易度表/おに/夢と希望]]&br;SIZE(10){譜面分岐}|-|
-|''DL''||''Undying Legend''&br;　　SIZE(11){「SOULCALIBUR VI」より}|???|[[★×4>難易度表/かんたん/Undying Legend]]|[[★×4>難易度表/ふつう/Undying Legend]]|[[★×6>難易度表/むずかしい/Undying Legend]]|[[★×8>難易度表/おに/Undying Legend]]|-|
+|''DL''||''Undying Legend''&br;　　SIZE(11){「SOULCALIBUR VI」より}|159|[[★×4>難易度表/かんたん/Undying Legend]]|[[★×4>難易度表/ふつう/Undying Legend]]|[[★×6>難易度表/むずかしい/Undying Legend]]|[[★×8>難易度表/おに/Undying Legend]]|-|
 |''DL''||''Surf Zapping''&br;　　SIZE(11){t+pazolite 「シンクロニカ」より}|100-200|[[★×4>難易度表/かんたん/Surf Zapping]]|[[★×6>難易度表/ふつう/Surf Zapping]]|[[★×7>難易度表/むずかしい/Surf Zapping]]|[[★×10>難易度表/おに/Surf Zapping]]|-|
 |''DL''||''Spread the Wings!!''&br;　　SIZE(11){「アイドルマスター シャイニーカラーズ」より}|170|[[★×3>難易度表/かんたん/Spread the Wings!!]]|[[★×4>難易度表/ふつう/Spread the Wings!!]]|[[★×4>難易度表/むずかしい/Spread the Wings!!]]|[[★×6>難易度表/おに/Spread the Wings!!]]|-|
 |''DL''||''Rising''&br;　　SIZE(11){「ウォリアーブレード」より}|146※|[[★×4>難易度表/かんたん/Rising]]|[[★×6>難易度表/ふつう/Rising]]|[[★×7>難易度表/むずかしい/Rising]]|[[★×9>難易度表/おに/Rising]]|-|

@@ -29,4 +29,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(hotlim_m.png,nolink);
+&attachref(hotlim_m2.png,nolink);

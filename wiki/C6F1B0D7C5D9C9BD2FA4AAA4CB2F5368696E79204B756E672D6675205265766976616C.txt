@@ -44,4 +44,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+-113小節目の16分音符は正しくは面3つ（ドコドン）
 ~&attachref(shinyk_m.png,nolink);

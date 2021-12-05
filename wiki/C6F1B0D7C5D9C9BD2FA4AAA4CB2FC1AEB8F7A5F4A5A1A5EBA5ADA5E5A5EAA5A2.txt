@@ -24,4 +24,6 @@
 
 ***ÉèÌÌ [#score]
 ~HS¤ÈBPM¤Ï»ÃÄê
+ 19¾®Àá:MEASURE 2/4 ¢ª ²»Éä¤Ê¤· ¢ª BPM184¡¦MEASURE 3/8 ¢ª 112000,
+ 20¾®Àá°Ê¹ß:BPM188
 ~&attachref(Á®¸÷¥ô¥¡¥ë¥­¥å¥ê¥¢.png,nolink);
