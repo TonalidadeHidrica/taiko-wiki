@@ -94,7 +94,7 @@
 |54|BGCOLOR(beige):[[うなぎのたましいロック>難易度表/おに/うなぎのたましいロック]]|BGCOLOR(orangered):ナムオリ|BGCOLOR(beige):bko3|BGCOLOR(beige):期間限定曲|
 |55|[[Pastel Sealane>難易度表/おに/Pastel Sealane]]|BGCOLOR(darkorchid):ゲーミュ|blazer||
 |56|[[Blue Rose Ruin>難易度表/おに/Blue Rose Ruin]]|BGCOLOR(orangered):ナムオリ|blrose||
-|57|BGCOLOR(#ccc):[[黒い猫の歌>難易度表/おに/黒い猫の歌]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):?|BGCOLOR(#ccc):17/3/15〜19/12/2　サヨナラ曲|
+|57|BGCOLOR(#ccc):[[黒い猫の歌>難易度表/おに/黒い猫の歌]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):rudolf|BGCOLOR(#ccc):17/3/15〜19/12/2　サヨナラ曲|
 |~|BGCOLOR(#ccc):[[ブルーバード>難易度表/おに/ブルーバード]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):blurb|BGCOLOR(#ccc):〜16/10/13　サヨナラ曲|
 |58|[[クリスマスソング>難易度表/おに/クリスマスソング]]|BGCOLOR(cyan):J-POP|bnxmas|17/3/15〜|
 |~|BGCOLOR(#ccc):[[ブラック★ロックシューター>難易度表/おに/ブラック★ロックシューター]]|BGCOLOR(darkgray):ボカロ|BGCOLOR(#ccc):brs|BGCOLOR(#ccc):〜16/10/13　サヨナラ曲|
@@ -166,7 +166,7 @@
 |121|[[Doom Noiz>難易度表/おに/Doom Noiz]]|BGCOLOR(darkorchid):ゲーミュ|doomn||
 |122|[[夢をかなえてドラえもん>難易度表/おに/夢をかなえてドラえもん]]|BGCOLOR(orange):アニメ|dora4||
 |123|[[全力バタンキュー>難易度表/おに/全力バタンキュー]]|BGCOLOR(orange):アニメ|batan9|17/3/15〜|
-|~|BGCOLOR(#ccc):[[ドレミファソライロ>難易度表/おに/ドレミファソライロ]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):d0remi|BGCOLOR(#ccc):〜17/3/15　サヨナラ曲|
+|~|BGCOLOR(#ccc):[[ドレミファソライロ>難易度表/おに/ドレミファソライロ]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):doremi|BGCOLOR(#ccc):〜17/3/15　サヨナラ曲|
 |124|[[Dream Tide>難易度表/おに/Dream Tide]]|BGCOLOR(orangered):ナムオリ|dreamt||
 |125|[[ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]|BGCOLOR(darkorchid):ゲーミュ|drsp||
 |126|[[シンフォニック ドルアーガ>難易度表/おに/シンフォニック　ドルアーガ]]|BGCOLOR(darkorchid):ゲーミュ|druag2||
@@ -259,7 +259,7 @@
 |204|[[M@STERPIECE>難易度表/おに/M@STERPIECE]]|BGCOLOR(darkorchid):ゲーミュ|imsmtp||
 |205|[[ONLY MY NOTE>難易度表/おに/ONLY MY NOTE]]|BGCOLOR(darkorchid):ゲーミュ|imsomn||
 |206|BGCOLOR(#ccc):[[ころころここたま！>難易度表/おに/ころころここたま！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):krkrkk|17/4/26〜18/3/15　サヨナラ曲 |
-|~|BGCOLOR(#ccc):[[地球を回せっ！>難易度表/おに/地球を回せっ！]] |BGCOLOR(orange):アニメ|BGCOLOR(#ccc):(ina***?)|〜16/3/29　サヨナラ曲|
+|~|BGCOLOR(#ccc):[[地球を回せっ！>難易度表/おに/地球を回せっ！]] |BGCOLOR(orange):アニメ|BGCOLOR(#ccc):inach9|〜16/3/29　サヨナラ曲|
 |207|[[オールナイトdeインデナイ>難易度表/おに/オールナイトdeインデナイ]]|BGCOLOR(orangered):ナムオリ|indeni||
 |208|[[いぬのおまわりさん>難易度表/おに/いぬのおまわりさん]]|BGCOLOR(magenta):どうよう|inu||
 |209|[[犬吠える>難易度表/おに/犬吠える]]|BGCOLOR(orangered):ナムオリ|inuhoe||
@@ -399,7 +399,7 @@
 |323|[[Phoenix>難易度表/おに/Phoenix]]|BGCOLOR(orangered):ナムオリ|phoeni||
 |324|[[Phantom Rider>難易度表/おに/Phantom Rider]]|BGCOLOR(orangered):ナムオリ|phride||
 |325|[[SHINY>難易度表/おに/SHINY]]|BGCOLOR(orange):アニメ|krinne|17/8/8〜|
-|~|BGCOLOR(#ccc):[[ポケットモンスターブラック2・ホワイト2 ジム戦メドレー>難易度表/おに/ポケットモンスターブラック2・ホワイト2]]|BGCOLOR(darkorchid):ゲーミュ|BGCOLOR(#ccc):pkmnbw|BGCOLOR(#ccc):〜17/3/15　サヨナラ曲|
+|~|BGCOLOR(#ccc):[[ポケットモンスターブラック2・ホワイト2 ジム戦メドレー>難易度表/おに/ポケットモンスターブラック2・ホワイト2]]|BGCOLOR(darkorchid):ゲーミュ|BGCOLOR(#ccc):pkmnmd|BGCOLOR(#ccc):〜17/3/15　サヨナラ曲|
 |326|BGCOLOR(#ccc):[[Ｖ （ボルト）>難易度表/おに/V（ボルト）]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):pkmnvo|BGCOLOR(#ccc):〜18/11/21　サヨナラ曲|
 |327|BGCOLOR(#ccc):[[We can!! HUGっと！プリキュア>難易度表/おに/We can!! HUGっと！プリキュア]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):pr9hug|BGCOLOR(#ccc):18/4/18〜20/3/24　サヨナラ曲|
 |~|BGCOLOR(#ccc):[[やじるしになって！>難易度表/おに/やじるしになって！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):pkmnyz|BGCOLOR(#ccc):〜17/12/6　サヨナラ曲|
@@ -449,7 +449,7 @@
 |367|[[風の国の龍と騎士>難易度表/おに/風の国の龍と騎士]]|BGCOLOR(orangered):ナムオリ|ryukis||
 |368|[[さんぽ>難易度表/おに/さんぽ]]|BGCOLOR(orange):アニメ|sanpo||
 |369|BGCOLOR(beige):[[ジングルベル第765番>難易度表/おに/ジングルベル第765番]]|BGCOLOR(lime):バラエティ|BGCOLOR(beige):santa|BGCOLOR(beige):期間限定曲|
-|370|BGCOLOR(#ccc):[[にめんせい☆ウラオモテライフ！>難易度表/おに/にめんせい☆ウラオモテライフ！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):?|BGCOLOR(#ccc):17/10/11〜19/6/27　サヨナラ曲|
+|370|BGCOLOR(#ccc):[[にめんせい☆ウラオモテライフ！>難易度表/おに/にめんせい☆ウラオモテライフ！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):umaru2|BGCOLOR(#ccc):17/10/11〜19/6/27　サヨナラ曲|
 |~|BGCOLOR(#ccc):[[ペガサス幻想>難易度表/おに/ペガサス幻想]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):seiya|BGCOLOR(#ccc):〜15/7/1　サヨナラ曲|
 |371|[[旋風ノ舞【天】>難易度表/おに/旋風ノ舞【天】]]|BGCOLOR(orangered):ナムオリ|senpac||
 |372|[[旋風ノ舞【地】>難易度表/おに/旋風ノ舞【地】]]|BGCOLOR(orangered):ナムオリ|senpcs||
