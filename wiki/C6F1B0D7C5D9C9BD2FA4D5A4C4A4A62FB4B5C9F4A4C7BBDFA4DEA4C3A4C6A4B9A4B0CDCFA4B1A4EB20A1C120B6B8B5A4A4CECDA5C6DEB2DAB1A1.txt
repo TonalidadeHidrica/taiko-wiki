@@ -21,3 +21,7 @@
 
 ***コメント [#comment]
 #pcomment(,noname)
+
+***譜面 [#score]
+~最後の風船の打数以外は暫定
+~&attachref(Normalモード.png,nolink);

@@ -57,7 +57,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~暫定譜面
- 105小節：1/16拍子
-~83小節の縁大音符は48分音符1つ分手前。(48分ズレと思われる)
-&attachref(すうぃんぎん.png,nolink);
+&attachref(ufoswn_z.png,nolink);
