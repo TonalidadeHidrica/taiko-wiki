@@ -1,14 +1,15 @@
 *Naked Glow [#title]
-***詳細・攻略 [#more]
--PS用ソフト「''R4 -RIDGE RACER TYPE4-''」より。
--Ridge Racerシリーズ第8弾。
--詳細は以下の通り：
+-PS用ソフト「''[[R4 -RIDGE RACER TYPE4->ゲーム別収録曲#rr]]''」より。
+
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC12亜SP''&br;AC12増SP-13|CENTER:Wii2|CENTER:★×6|CENTER:''278''|CENTER:''642090点''|CENTER:＋連打|CENTER:690点|CENTER:160点|
 |>|CENTER:2人プレイ|~|~|CENTER:''648690点''|~|~|~|
 ||CENTER:PSPDXDL&br;iOS|~|~|CENTER:''641790点''|~|~|~|
 ||CENTER:PS4 1DL|~|~|CENTER:''647720点''|~|CENTER:700点|CENTER:203点|
 ||CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''996380点''}|~|CENTER:COLOR(#ff3300){3280点}|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは133.05。
 -連打秒数目安・・・約1.316秒−''約1.316秒'':合計約2.632秒
 -全体的に付点配置がかなり多く、リズムが取りづらい。
@@ -23,6 +24,7 @@
 --太鼓チームの''タカハシ''とは関係ない。
 -譜面作成は、''キジキジ''。
 -曲IDは、''r4nak''。
+----
 -[[かんたん>難易度表/かんたん/Naked Glow]]
 -[[むずかしい>難易度表/むずかしい/Naked Glow]]
 -[[おに>難易度表/おに/Naked Glow]]
