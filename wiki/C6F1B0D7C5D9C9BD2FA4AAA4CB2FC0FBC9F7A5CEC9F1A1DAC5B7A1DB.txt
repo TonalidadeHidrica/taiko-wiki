@@ -78,7 +78,7 @@
 #pcomment(,noname)
 
 ***设烫 [#score]
-~&attachref(s.png,nolink);
+~&attachref(senpac_m.png,nolink);
 
 ~企客脱设烫
 ~&attachref(e.png,nolink);

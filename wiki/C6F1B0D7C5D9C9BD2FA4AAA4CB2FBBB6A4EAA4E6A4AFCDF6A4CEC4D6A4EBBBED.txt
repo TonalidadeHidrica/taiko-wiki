@@ -42,4 +42,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(ranuta.png,nolink);
+&attachref(yugao2_m.png,nolink);

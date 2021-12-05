@@ -43,4 +43,4 @@
 ***譜面 [#score]
 -AC14は[[地>難易度表/おに/旋風ノ舞【地】]]、Wii4一人用は[[天>難易度表/おに/旋風ノ舞【天】]]を参照。
 -AC16での1人プレイ時では、1P側の譜面が流れてくる。
-~&attachref(66ACE6F9-8A56-4ABE-8B03-CD35DFDA0187.png,nolink);
+~&attachref(senpac_x.png,nolink);

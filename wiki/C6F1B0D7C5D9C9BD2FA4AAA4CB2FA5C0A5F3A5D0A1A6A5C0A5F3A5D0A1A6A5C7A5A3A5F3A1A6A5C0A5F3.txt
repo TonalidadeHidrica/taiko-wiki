@@ -1,4 +1,4 @@
-*ダンバ・ダンバ・ディン・ダン　SIZE(16){by YMCK}[#title]
+*ダンバ・ダンバ・ディン・ダン SIZE(16){by YMCK} [#title]
 -[[太鼓の達人10周年記念ソング>シリーズ曲一覧#if]]の一つ。
 ***詳細 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
@@ -43,4 +43,4 @@
 ***コメント[#comment]
 #pcomment(,noname)
 ***譜面[#score]
-&attachref(ymck2.png,nolink);
+&attachref(ymck2_m.png,nolink);

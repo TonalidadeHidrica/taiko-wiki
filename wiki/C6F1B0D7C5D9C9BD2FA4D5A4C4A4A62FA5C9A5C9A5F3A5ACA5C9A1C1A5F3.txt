@@ -7,6 +7,7 @@
 ||CENTER:Wii5SP|~|~|CENTER:''595900点''|~|CENTER:590点|~|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''995520点''}|~|CENTER:COLOR(#ff3300){3010点}|CENTER:-|
 ||CENTER:iOS|~|~|CENTER:''590070点''|~|CENTER:580点|CENTER:130点|
+|CENTER:AC16.1.0||~|~|CENTER:''???????点''|~|CENTER:3400点|CENTER:-|
 -BPMは200。
 -黄色連打が多い連打曲である。
 -大音符が多く、29個ある（全体の約9.9%）。

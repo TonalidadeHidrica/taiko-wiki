@@ -47,7 +47,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(vrock.png,nolink);
+&attachref(vrock_m.png,nolink);
 
 ~見た目重視
 &attachref(bkock.png,nolink);
