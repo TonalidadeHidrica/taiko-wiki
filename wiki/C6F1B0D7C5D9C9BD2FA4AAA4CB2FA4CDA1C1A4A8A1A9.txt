@@ -1,6 +1,5 @@
 *ね〜え？ [#title]
 -エフティ資生堂「''ティセラ''」CMソング。
-
 ***詳細 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|h
@@ -20,7 +19,7 @@
 -[[かんたん>難易度表/かんたん/ね〜え？]]
 -[[ふつう>難易度表/ふつう/ね〜え？]]
 -[[むずかしい>難易度表/むずかしい/ね〜え？]]
--[[プレイ動画(CS3)>https://youtube.com/watch?v=G1OBvYUl0ao]]
+-[[プレイ動画>https://youtube.com/watch?v=G1OBvYUl0ao]]
 
 ***コメント [#comment]
 #pcomment(,noname)

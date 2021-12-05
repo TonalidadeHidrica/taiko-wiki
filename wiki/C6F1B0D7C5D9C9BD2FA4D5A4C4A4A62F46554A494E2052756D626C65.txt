@@ -1,11 +1,15 @@
 * FUJIN Rumble SIZE(16){COSIO(ZUNTATA) 「グルーヴコースター」より}[#title]
-***詳細・攻略 [#more]
 -[[天下一音ゲ祭 全国一斉認定大会]]の書き下ろし曲の一つ。
 --四大元素がテーマになっている。この曲のテーマは''「風」''。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.5.5''|CENTER:★×6|CENTER:''352''|CENTER:''649100点''|CENTER:＋連打|CENTER:510点|CENTER:135点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''998020点''}|~|CENTER:COLOR(#ff3300){2560点}|CENTER:-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.5.5''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|''352''|''649100点''|＋連打|510点|135点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''998020点''}|~|COLOR(#ff3300){2560点}|-|
+|AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは192。
 -全体的に付点配置が多く、リズムが取りづらい。
 -終盤に速度変化があり、等速の12分が24分になっている。
@@ -23,7 +27,9 @@
 --rumble（ランブル）は、雷・車・地震・腹などの音を表す擬音語または動詞。
 -アーティストは、[[''COSIO（ZUNTATA）''>http://groovecoaster.jp/artist/15_cosio.html]](外部リンク)。
 --太鼓に収録されている氏の曲は、[[GMT>難易度表/ふつう/電車で電車でGO!GO!GO!GC! -GMT remix-]][[コラボ曲>難易度表/ふつう/オパ！オパ！RACER -GMT mashup-]]と、[[Extreme MGG★★★>難易度表/ふつう/Extreme MGG★★★]]がある。
+-曲IDは、''fujin''。
 
+----
 -[[かんたん>難易度表/かんたん/FUJIN Rumble]]
 -[[むずかしい>難易度表/むずかしい/FUJIN Rumble]]
 -[[おに>難易度表/おに/FUJIN Rumble]]
