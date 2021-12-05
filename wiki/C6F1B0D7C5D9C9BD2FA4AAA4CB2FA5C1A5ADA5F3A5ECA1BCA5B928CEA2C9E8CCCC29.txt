@@ -41,4 +41,5 @@
 
 ***譜面 [#score]
 -大音符のHSは0.5
+
 &attachref(chrace_x2.png,nolink);

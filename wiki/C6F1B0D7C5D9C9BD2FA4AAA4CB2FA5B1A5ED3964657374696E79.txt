@@ -1,11 +1,12 @@
 *ケロ&#x2468;destiny SIZE(16){東方Projectアレンジ Silver Forest}((&#x2468;は機種依存文字のため、リンクは単に「9」で表している。)) [#title]
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15 超会議3Ver.''&br;AC15 例大祭11Ver.&br;AC15.5.0|Wii U3DL&br;NS1DL|★×9|''769''|''1092290点''|＋連打|390点|98点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''998420点''}|~|COLOR(#ff3300){1190点}|-|
 ||iOS&br;AR|~|~|''1079960点''|~|330点|90点|
+|AC16.1.0||~|~|''994810点''|~|1290点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは172。

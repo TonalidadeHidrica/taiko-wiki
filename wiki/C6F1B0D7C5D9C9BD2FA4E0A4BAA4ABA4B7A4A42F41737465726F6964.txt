@@ -5,11 +5,12 @@
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.9.3SP''|''バラエティ''|★×8|''433''|''???????点''|+連打|600点|150点|
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''??????点''}|~|COLOR(#f30){2090点}|-|
-|AC16.1.0|''ゲーム&br;＆&br;バラエティ''|~|~|''??????0点''|~|2280点|-|
+|AC16.1.0|''ゲーム&br;＆&br;バラエティ''|~|~|''995140点''|~|2280点|-|
 |~|''ナムコ&br;オリジナル''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは144-288。
+-BPMは144〜288。
+-連打秒数目安・・・約1.215秒×2−約?.???秒−約1.215秒−約1.319秒−約1.215秒:合計約6.179秒−約?.???秒(短連打)
 -かなりのリズム難。
 -黄色連打が多く、''19本''。
 --その内''14本''は(以下略)。
@@ -25,8 +26,8 @@
 -[[かんたん>難易度表/かんたん/Asteroid]]
 -[[ふつう>難易度表/ふつう/Asteroid]]
 -[[おに>難易度表/おに/Asteroid]]
--[[プレイ動画(キャプチャ)>https://youtu.be/CxxTSk5oVV4]]
--[[楽曲試聴(SOUNDCLOUD)>https://soundcloud.com/korg/asteroid?in=korg/sets/korg-gadget-v25-kamata-demo-songs]]
+-[[プレイ動画(キャプチャ)>http://youtu.be/CxxTSk5oVV4]]
+-[[楽曲試聴(SOUNDCLOUD)>http://soundcloud.com/korg/asteroid?in=korg/sets/korg-gadget-v25-kamata-demo-songs]]
 
 ***コメント [#comment]
 #pcomment(,noname)

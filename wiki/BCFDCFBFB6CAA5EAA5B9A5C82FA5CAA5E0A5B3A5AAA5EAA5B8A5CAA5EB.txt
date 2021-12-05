@@ -202,7 +202,7 @@
 |''太鼓侍(裏譜面)''|~|-|-|-|[[★×8>難易度表/おに/太鼓侍(裏譜面)]]|
 |''タイコタイム''|170※|[[★×5>難易度表/かんたん/タイコタイム]]|[[★×6>難易度表/ふつう/タイコタイム]]|[[★×7>難易度表/むずかしい/タイコタイム]]|[[★×9>難易度表/おに/タイコタイム]]|
 |''タイコタイム(裏譜面)''|~|[[★×5>難易度表/かんたん/タイコタイム(裏譜面)]]|[[★×6>難易度表/ふつう/タイコタイム(裏譜面)]]|[[★×7>難易度表/むずかしい/タイコタイム(裏譜面)]]|[[★×10>難易度表/おに/タイコタイム(裏譜面)]]|
-|''太鼓の達人・愛のテーマ''|76※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/太鼓の達人・愛のテーマ]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/太鼓の達人・愛のテーマ]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/太鼓の達人・愛のテーマ]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/太鼓の達人・愛のテーマ]]|
+|''太鼓の達人・愛のテーマ''|76※|[[★×4>難易度表/かんたん/太鼓の達人・愛のテーマ]]|[[★×4>難易度表/ふつう/太鼓の達人・愛のテーマ]]|[[★×8>難易度表/おに/太鼓の達人・愛のテーマ]]|[[★×7>難易度表/おに/太鼓の達人・愛のテーマ]]|
 |''太鼓ラブ！''|140※|[[★×3>難易度表/かんたん/太鼓ラブ！]]|[[★×2>難易度表/ふつう/太鼓ラブ！]]|[[★×4>難易度表/むずかしい/太鼓ラブ！]]|[[★×5>難易度表/おに/太鼓ラブ！]]|
 |''太鼓乱舞 皆伝''|130|[[★×4>難易度表/かんたん/太鼓乱舞 皆伝]]|[[★×5>難易度表/ふつう/太鼓乱舞 皆伝]]|[[★×7>難易度表/むずかしい/太鼓乱舞 皆伝]]|[[★×8>難易度表/おに/太鼓乱舞 皆伝]]|
 |''太鼓乱舞 風の巻''|~|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/太鼓乱舞 皆伝]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/太鼓乱舞 皆伝]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/太鼓乱舞 皆伝]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/太鼓乱舞 皆伝]]|
@@ -467,6 +467,7 @@
 |''&#x0046;ooFooカセット''|175|[[★×4>難易度表/かんたん/FooFooカセット]]|[[★×6>難易度表/ふつう/FooFooカセット]]|[[★×6>難易度表/むずかしい/FooFooカセット]]|[[★×9>難易度表/おに/FooFooカセット]]|
 |''Freeway3234''|145|[[★×4>難易度表/かんたん/Freeway3234]]|[[★×6>難易度表/ふつう/Freeway3234]]|[[★×7>難易度表/むずかしい/Freeway3234]]|[[★×8>難易度表/おに/Freeway3234]]|
 |''G意識過剰''|200|[[★×5>難易度表/かんたん/G意識過剰]]|[[★×6>難易度表/ふつう/G意識過剰]]|[[★×7>難易度表/むずかしい/G意識過剰]]|[[★×9>難易度表/おに/G意識過剰]]|
+|''Galaga'88''|140|BGCOLOR(#ccc):-|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Galaga'88]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Galaga'88]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Galaga'88]]|
 |''GERMINATION''|160-192※|[[★×5>難易度表/かんたん/GERMINATION]]|[[★×6>難易度表/ふつう/GERMINATION]]|[[★×7>難易度表/むずかしい/GERMINATION]]|[[★×7>難易度表/おに/GERMINATION]]|
 |''Gloria''|222|[[★×5>難易度表/かんたん/Gloria]]|[[★×7>難易度表/ふつう/Gloria]]|[[★×7>難易度表/むずかしい/Gloria]]|[[★×10>難易度表/おに/Gloria]]|
 |''GO GET'EM!''|146|[[★×4>難易度表/かんたん/GO GET'EM!]]|[[★×7>難易度表/ふつう/GO GET'EM!]]|[[★×8>難易度表/むずかしい/GO GET'EM!]]|[[★×9>難易度表/おに/GO GET'EM!]]|
@@ -523,7 +524,8 @@
 |''Sweet Lay''|140|[[★×4>難易度表/かんたん/Sweet Lay]]|[[★×5>難易度表/ふつう/Sweet Lay]]|[[★×6>難易度表/むずかしい/Sweet Lay]]|[[★×8>難易度表/おに/Sweet Lay]]|
 |''Sweet Sweet Magic''|179|[[★×4>難易度表/かんたん/Sweet Sweet Magic]]|[[★×5>難易度表/ふつう/Sweet Sweet Magic]]|[[★×5>難易度表/むずかしい/Sweet Sweet Magic]]|[[★×7>難易度表/おに/Sweet Sweet Magic]]|
 |''Taiko Drum Monster''|266|[[★×3>難易度表/かんたん/Taiko Drum Monster]]|[[★×5>難易度表/ふつう/Taiko Drum Monster]]|[[★×7>難易度表/むずかしい/Taiko Drum Monster]]|[[★×10>難易度表/おに/Taiko Drum Monster]]|
-|''Taiko Session 〜Live Version〜''|140|BGCOLOR(#ccc):-|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Taiko Session〜Live Version〜]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Taiko Session〜Live Version〜]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Taiko Session〜Live Version〜]]|
+|''Taiko Session 〜Live Version〜''|140|[[★×3>難易度表/かんたん/Taiko Session〜Live Version〜]]|[[★×4>難易度表/ふつう/Taiko Session〜Live Version〜]]|[[★×6>難易度表/おに/Taiko Session〜Live Version〜]]|[[★×7>難易度表/おに/Taiko Session〜Live Version〜]]|
+|''Taiko Session 〜Live Version〜(裏譜面)''|~|-|-|-|[[★×9>難易度表/おに/Taiko Session〜Live Version〜(裏譜面)]]|
 |''The Carnivorous Carnival''|168|[[★×4>難易度表/かんたん/The Carnivorous Carnival]]|[[★×6>難易度表/ふつう/The Carnivorous Carnival]]|[[★×7>難易度表/むずかしい/The Carnivorous Carnival]]|[[★×9>難易度表/おに/The Carnivorous Carnival]]|
 |''The Magician's Dream''|191|[[★×4>難易度表/かんたん/The Magician's Dream]]|[[★×6>難易度表/ふつう/The Magician's Dream]]|[[★×7>難易度表/むずかしい/The Magician's Dream]]|[[★×8>難易度表/おに/The Magician's Dream]]|
 |''Time to dine''|145|[[★×5>難易度表/かんたん/Time to dine]]|[[★×6>難易度表/ふつう/Time to dine]]|[[★×7>難易度表/むずかしい/Time to dine]]|[[★×9>難易度表/おに/Time to dine]]|

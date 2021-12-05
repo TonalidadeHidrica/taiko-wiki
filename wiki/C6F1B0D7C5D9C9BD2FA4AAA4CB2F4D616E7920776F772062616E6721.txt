@@ -46,4 +46,7 @@
 #pcomment(,noname)
 
 ***扢昍 [#score]
-&attachref(deathm_m2.png,nolink);
+~Wii2動陸及扢昍
+&attachref(deathm_m_fix.png,nolink);
+~Wii2及扢昍
+&attachref(deathm_m_wii2.tja.png,nolink);

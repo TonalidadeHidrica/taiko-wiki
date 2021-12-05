@@ -2,10 +2,11 @@
 -ゲーム「''アイドルマスター2''」の楽曲「Honey Heartbeat」のリミックス。
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|>|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.4.0''|Wii U2&br;3DS2DL&br;COLOR(blue){PS Vita MS}|★×9|''765''|''1070670点''|＋連打|400点|95点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''979700点''}|~|COLOR(#ff3300){1200点}|-|
+|AC16.1.0||~|~|''972150点''|~|1270点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約142〜約284。

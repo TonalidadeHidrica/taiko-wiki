@@ -36,13 +36,14 @@
 
 **分類について [#group]
 |CENTER:96|CENTER:48|CENTER:64|CENTER:48|CENTER:48|CENTER:48|c
-|分類名|AC|PS2/PS4|PSP/Vita|Wii/WiiU|DS/3DS|h
-|''新筐体''|新筐体|-|-|-|-|
-|''新筐体以降のCS''|-|PS4 1|PS Vita1~|Wii4 Wii5&br;Wii U1~|3DS1~|
-|''AC12~AC14''|AC12~AC14|-|PSPDX|Wii1~Wii3|DS3|
-|''AC7~AC11''|AC7~AC11|CS6 CS7&br;アニスぺ|PSP1 PSP2|-|DS1 DS2|
-|''AC1~AC6''|AC1~AC6|CS1~CS5&br;アニメ祭&br;TDM|-|-|-|
-||>|>|>|>|iOSは別枠で分類|
+|分類名|AC|PS2/PS4|PSP/Vita|Wii/WiiU|DS/3DS|NS|h
+|''新筐体2''|ニジイロ|-|-|-|-|NS1|
+|''新筐体''|新筐体|-|-|-|-|-|
+|''新筐体以降のCS''|-|PS4 1|PS Vita1~|Wii4 Wii5&br;Wii U1~|3DS1~|-|
+|''AC12~AC14''|AC12~AC14|-|PSPDX|Wii1~Wii3|DS3|-|
+|''AC7~AC11''|AC7~AC11|CS6 CS7&br;アニスぺ|PSP1 PSP2|-|DS1 DS2|-|
+|''AC1~AC6''|AC1~AC6|CS1~CS5&br;アニメ祭&br;TDM|-|-|-|-|
+||>|>|>|>|>|iOSは別枠で分類|
 
 
 **新筐体 [#acnew]
@@ -56,6 +57,11 @@
 //|>|>|>|>|>|LEFT:BGCOLOR(silver):''ボーカロイド曲''&aname(vocalo);|
 //|>|>|>|>|>|LEFT:BGCOLOR(darkorchid):''ゲームミュージック''|
 //|>|>|>|>|>|LEFT:BGCOLOR(orangered):''ナムコオリジナル''|
+
+***ニジイロver.[#yellow]
+~*リンクがあっても動画が削除されている場合はここに記載しています
+||>|>|>|>|CENTER:64|c
+|''曲名''(五十音順)|BGCOLOR(#f30):COLOR(#111):''かんたん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずかしい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに(裏)''|h
 
 ***グリーンVer. [#green]
 ~※リンクがあっても動画が削除されている場合はここに記載しています
