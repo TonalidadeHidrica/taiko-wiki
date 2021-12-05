@@ -28,4 +28,5 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
+-BPM¤Ï»ÃÄê
 &attachref(tdkmhr_m.png,nolink);

@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(exfunkfix2.png,nolink);
+&attachref(funk_x.png,nolink);

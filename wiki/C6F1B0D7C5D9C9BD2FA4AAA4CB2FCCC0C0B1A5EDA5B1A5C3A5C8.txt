@@ -37,5 +37,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-実際は★8
-~&attachref(thakeb_m.png,nolink);
+~&attachref(thakeb_m2.png,nolink);
