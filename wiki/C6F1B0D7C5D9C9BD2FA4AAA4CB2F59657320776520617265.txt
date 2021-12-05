@@ -22,7 +22,6 @@
 -[[かんたん>難易度表/かんたん/Yes we are]]
 -[[ふつう>難易度表/ふつう/Yes we are]]
 -[[むずかしい>難易度表/むずかしい/Yes we are]]
--[[プレイ動画>https://www.youtube.com/watch?v=G3S3Mec1Tn8]]
 
 ***コメント [#comment]
 #pcomment(,noname)
