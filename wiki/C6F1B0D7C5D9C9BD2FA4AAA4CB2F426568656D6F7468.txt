@@ -56,4 +56,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~PS4 1、AC16 → 疑似32分を除外
+~AC15 → 32分音符を48分音符＋HS・BPM変化で処理していると思われる
 &attachref(鬼ベヒんもス.png,nolink);

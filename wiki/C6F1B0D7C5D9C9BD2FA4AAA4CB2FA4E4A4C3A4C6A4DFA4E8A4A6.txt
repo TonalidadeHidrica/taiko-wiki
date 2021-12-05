@@ -35,7 +35,6 @@
 ***コメント [#comment]
 #pcomment(,noname)
 ***譜面 [#score]
-~BPMは暫定
-&attachref(auyatm_m.png,nolink);
+&attachref(w2myat_m.png,nolink);
 ~半速
 &attachref(auyatm_半速.png,nolink);

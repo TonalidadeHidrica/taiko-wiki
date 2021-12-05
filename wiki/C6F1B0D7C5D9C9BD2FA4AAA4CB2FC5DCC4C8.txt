@@ -11,8 +11,6 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは100-200。
---疑似32分はBPM133.33の48分で再現していると思われるが詳細は不明。仮説は下記を参照。
---それ以外にも音符間隔に影響しない範囲でBPM変化がある可能性がある((最後のゴーゴータイムでどんちゃんの腕振りが一定ではないように見える))。
 -連打秒数目安・・・0.275秒−0.125秒×4−SIZE(16){0.125秒}×2−0.125秒×3−0.425秒：合計1.825秒
 -ゴーゴータイムも計14回あるが、これもほとんどが短い。
 -かなりの体力譜面であり、生半可な体力では間違いなく返り討ちに合うだろう。
@@ -50,13 +48,107 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(人類よ………我が憤怒の雷鳴を聞け__f.png,nolink);
+~ブルーVer.のデータより
+#region(TJA表記)
+91-95小節
+&br;#MEASURE 1/8
+&br;700000,
+&br;#MEASURE 1/32
+&br;#BARLINEOFF
+&br;80,
+&br;00,
+&br;00,
+&br;00,
+&br;
+&br;108-131小節
+&br;#GOGOSTART
+&br;#MEASURE 1/32
+&br;10,
+&br;#BARLINEOFF
+&br;00,
+&br;#MEASURE 3/16
+&br;100200200,
+&br;#MEASURE 1/32
+&br;10,
+&br;00,
+&br;#MEASURE 3/16
+&br;100200200,
+&br;#MEASURE 1/32
+&br;10,
+&br;00,
+&br;#MEASURE 3/16
+&br;100200200,
+&br;#MEASURE 1/32
+&br;10,
+&br;00,
+&br;#MEASURE 3/16
+&br;100200200,
+&br;#BARLINEON
+&br;#MEASURE 1/32
+&br;10,
+&br;#BARLINEOFF
+&br;00,
+&br;#MEASURE 3/16
+&br;100100200,
+&br;#MEASURE 1/32
+&br;20,
+&br;00,
+&br;#MEASURE 3/16
+&br;200100100,
+&br;#MEASURE 1/32
+&br;20,
+&br;00,
+&br;#MEASURE 3/16
+&br;200200200,
+&br;#MEASURE 1/32
+&br;10,
+&br;00,
+&br;#MEASURE 3/16
+&br;100100100,
+&br;
+&br;133-144小節
+&br;#MEASURE 1/32
+&br;10,
+&br;#BARLINEOFF
+&br;10,
+&br;10,
+&br;00,
+&br;#MEASURE 1/8
+&br;200200,
+&br;#MEASURE 1/4
+&br;200200200200,
+&br;#MEASURE 1/32
+&br;10,
+&br;10,
+&br;10,
+&br;00,
+&br;#MEASURE 1/8
+&br;200200,
+&br;#MEASURE 1/4
+&br;200200200200,
+&br;
+&br;153-161小節
+&br;#BARLINEOFF
+&br;#MEASURE 1/32
+&br;#GOGOEND
+&br;70,
+&br;00,
+&br;00,
+&br;00,
+&br;00,
+&br;00,
+&br;00,
+&br;00,
+&br;#MEASURE 1/4
+&br;800000000000,
+#endregion
+&attachref(ikazu7_m.png,nolink);
 
-~疑似32分地帯の画像&attachref(イカづっちー.png,nolink);
-~こんな譜面の可能性もある(7/8拍子にすることでBPM 266.67を使用しない版)&attachref(腕振りがズレる理由？.png,nolink);
-~&attachref(ika32.png,nolink);
-~可能性その4&br;&attachref(怒槌の可能性に迫る.png,nolink);
-~&attachref(32分可能性.png,nolink);
+//~疑似32分地帯の画像&attachref(イカづっちー.png,nolink);
+//~こんな譜面の可能性もある(7/8拍子にすることでBPM 266.67を使用しない版)&attachref(腕振りがズレる理由？.png,nolink);
+//~&attachref(ika32.png,nolink);
+//~可能性その4&br;&attachref(怒槌の可能性に迫る.png,nolink);
+//~&attachref(32分可能性.png,nolink);
 ***疑似32分についての補足 [#trivia]
 -太鼓の達人では48分音符の整数倍(48に対する公倍数)の音符間隔しか置くことができない''と考えられている''((公式がかつて開発日記で[[はたラク2000>難易度表/おに/はたラク2000]]を紹介した際、「32分を置けない」と明言しており、現在もそれが続いている可能性が高いと考えられている。))。
 --32分音符は、''48分音符の1.5倍の長さ''であるため、上の仮説が正しい場合は置くことができない。

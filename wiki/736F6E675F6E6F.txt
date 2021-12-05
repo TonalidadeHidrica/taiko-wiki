@@ -752,7 +752,7 @@
 |653|[[戦国三弦>難易度表/おに/戦国三弦]]|BGCOLOR(orangered):ナムオリ|butou6||
 |654|[[GERMINATION>難易度表/おに/GERMINATION]]|BGCOLOR(orangered):ナムオリ|germin||
 |655|BGCOLOR(#ccc):[[Soup>難易度表/おに/Soup]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):lvsoup|BGCOLOR(#ccc):〜19/10/24　サヨナラ曲|
-|656|BGCOLOR(#ccc):[[Swan>難易度表/おに/Swan]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):?|BGCOLOR(#ccc):〜19/10/24　サヨナラ曲|
+|656|BGCOLOR(#ccc):[[Swan>難易度表/おに/Swan]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):alxswn|BGCOLOR(#ccc):〜19/10/24　サヨナラ曲|
 |657|[[ス・マ・イ・ル>難易度表/おに/ス・マ・イ・ル]]|BGCOLOR(orange):アニメ|hanakp||
 |658|[[ゆーがらお友達>難易度表/おに/ゆーがらお友達]]|BGCOLOR(orange):アニメ|ywyugr||
 |659|[[EXCITE>難易度表/おに/EXCITE]]|BGCOLOR(orange):アニメ|krexd||
