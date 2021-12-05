@@ -40,4 +40,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+-譜面は暫定。
 &ref(もしもし神様.png,nolink);

@@ -1806,6 +1806,7 @@
 |sign|[[Sign>難易度表/おに/Sign]]||
 |sinken|[[侍戦隊シンケンジャー>難易度表/おに/侍戦隊シンケンジャー]]||
 |sinrab|[[森羅万象>難易度表/おに/森羅万象]]||
+|siruvu|[[シル・ヴ・プレジデント>難易度表/おに/シル・ヴ・プレジデント]]||
 |siuryu|[[秋竜 〜Shiuryu〜>難易度表/おに/秋竜 〜Shiuryu〜]]||
 |sk7kun|[[おさかな毎日！さかなクン>難易度表/おに/おさかな毎日！さかなクン]]||
 |ska|[[ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|スカ（曲ジャンル）|
@@ -2070,7 +2071,8 @@
 |umauma|[[ウッーウッーウマウマ>難易度表/おに/ウッーウッーウマウマ]]||
 |uminok|[[海の声>難易度表/おに/海の声]]||
 |umiyuk|[[海雪>難易度表/おに/海雪]]||
-|umdeja|[[Dejavina (Japanese ver.)>難易度表/おに/Dejavina (Japanese ver.)]]|UUUM|
+|umaba3|[[アバみ>難易度表/おに/アバみ]]|UUUM|
+|umdeja|[[Dejavina (Japanese ver.)>難易度表/おに/Dejavina (Japanese ver.)]]|~|
 |umhmwr|[[HIMAWARI HAPPY>難易度表/おに/HIMAWARI HAPPY]]|~|
 |umima|[[今>難易度表/おに/今]]|~|
 |umjoin|[[JOIN US>難易度表/おに/JOIN US]]|~|
@@ -2091,6 +2093,7 @@
 |vbera|[[ベラボーマン>難易度表/おに/ベラボーマン]]||
 |veloni|[[Velonica>難易度表/おに/Velonica]]||
 |vertex|[[VERTeX>難易度表/おに/VERTeX]]|~|
+|vfgbs|[[グッバイ宣言>難易度表/おに/グッバイ宣言]]|v flower グッバイ宣言|
 |vfpetr|[[雨とペトラ>難易度表/おに/雨とペトラ]]|v flower 雨と''ペトラ''|
 |vfshrr|[[シャルル>難易度表/おに/シャルル]]|v flower ''シャルル''|
 |vfveno|[[ベノム(feat.flower)>難易度表/おに/ベノム(feat.flower)]]|v flower ''ベノ''ム|

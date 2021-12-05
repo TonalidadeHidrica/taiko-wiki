@@ -3,12 +3,15 @@
 ***詳細・攻略 [#more]
 -BPMは127.15。
 ***1人用譜面 [#single]
-|>|CENTER:バージョン|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|CENTER:備考|h
-||CENTER:''CS5''|BGCOLOR(lime):CENTER:''バラエティ''|CENTER:★×4|CENTER:''183''|CENTER:''?????0点''|CENTER:＋連打|CENTER:800点|CENTER:230点|CENTER:''ゴーゴーバグあり''|
+|>|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|備考|h
+||CENTER:''CS5''|BGCOLOR(lime):CENTER:''バラエティ''|CENTER:★×4|CENTER:''183''|CENTER:''?????0点''|CENTER:＋連打|CENTER:800点|CENTER:230点|CENTER:''ゴーゴー&br;バグあり''|
 |CENTER:AC7||BGCOLOR(cyan):CENTER:''J-POP''|~|~|CENTER:''?????0点''|~|CENTER:860点|CENTER:210点|~|
 ||CENTER:PSP1|BGCOLOR(lime):CENTER:''バラエティ''|~|~|CENTER:''?????0点''|~|~|~|~|
 |CENTER:AC8-9||~|~|~|CENTER:''?????0点''|~|CENTER:840点|~||
-||CENTER:3DS2DL|~|CENTER:★×5|~|CENTER:''589070点''|~|CENTER:920点|CENTER:320点||
+||CENTER:3DS2DL|~|CENTER:★×5|~|CENTER:''589070点''|~|CENTER:920点|CENTER:320点|~|
+||iOS&br;AR|~|~|~|''?????0点''|~|??0点|???点|~|
+
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
 -4分が主体の譜面で、8分も16分も数がかなり多い。

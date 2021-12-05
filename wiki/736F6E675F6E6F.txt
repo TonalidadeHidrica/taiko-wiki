@@ -1032,7 +1032,7 @@
 |919|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|BGCOLOR(orangered):ナムオリ|?||
 |920|[[ゴッドソング>難易度表/おに/ゴッドソング]]|BGCOLOR(cyan):ポップス|godsng||
 |921|[[8月の坂>難易度表/おに/8月の坂]]|BGCOLOR(cyan):ポップス|?||
-|922|[[アバみ>難易度表/おに/アバみ]]|BGCOLOR(cyan):ポップス|?||
+|922|[[アバみ>難易度表/おに/アバみ]]|BGCOLOR(cyan):ポップス|umaba3||
 |923|[[まちがいさがし>難易度表/おに/まちがいさがし]]|BGCOLOR(cyan):ポップス|?||
 |924|[[青と夏>難易度表/おに/青と夏]]|BGCOLOR(cyan):ポップス|mgaaot||
 |925|[[秒針を噛む>難易度表/おに/秒針を噛む]]|BGCOLOR(cyan):ポップス|byosin||
@@ -1166,9 +1166,23 @@
 |1053|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|BGCOLOR(orangered): ナムオリ|?||
 |1054|[[第六感>難易度表/おに/第六感]]|BGCOLOR(cyan): ポップス|?||
 |1055|[[Baby Shark（ベイビー・シャーク）>難易度表/おに/Baby Shark（ベイビー・シャーク）]]|BGCOLOR(yellow):キッズ|?||
-|1056|[[グッバイ宣言>難易度表/おに/グッバイ宣言]]|BGCOLOR(darkgray):ボカロ|?||
+|1056|[[グッバイ宣言>難易度表/おに/グッバイ宣言]]|BGCOLOR(darkgray):ボカロ|vfgbs||
 |1057|[[ウサテイ>難易度表/おに/ウサテイ]]|BGCOLOR(lime):バラエティ|?||
 |1058|[[大好きな太鼓の音>難易度表/おに/大好きな太鼓の音]]|BGCOLOR(orangered): ナムオリ|ssn3rd||
+|1059|非公開|BGCOLOR(cyan): ポップス|?||
+|1060|非公開|BGCOLOR(cyan): ポップス|?||
+|1061|非公開|BGCOLOR(cyan): ポップス|?||
+|1062|非公開|BGCOLOR(hotpink):アニメ|?||
+|1063|非公開|BGCOLOR(hotpink):アニメ|?||
+|1064|非公開|BGCOLOR(yellow):キッズ|?||
+|1065|非公開|BGCOLOR(yellow):キッズ|?||
+|1066|非公開|BGCOLOR(orangered): ナムオリ|?||
+|1067|非公開|BGCOLOR(orangered): ナムオリ|?||
+|1068|非公開|BGCOLOR(orangered): ナムオリ|?||
+|1069|非公開|BGCOLOR(orangered): ナムオリ|?||
+|1070|非公開|BGCOLOR(orangered): ナムオリ|?||
+|1071|非公開|BGCOLOR(orangered): ナムオリ|?||
+|1072|非公開|BGCOLOR(orangered): ナムオリ|?||
 
 **未確認 [#lostn]
 |>|>|>|CENTER:||c
