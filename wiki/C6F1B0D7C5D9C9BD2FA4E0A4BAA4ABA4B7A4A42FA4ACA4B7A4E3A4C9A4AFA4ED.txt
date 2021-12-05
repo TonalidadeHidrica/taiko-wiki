@@ -4,6 +4,7 @@
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.35SP''|PS Vita1SP&br;Wii U3SP|★×7|''444''|''852800点''|+連打|580点|153点|
+||iOS|~|~|''848930点''|~|550点|130点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1002540点''}|~|COLOR(#ff3300){2080点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -24,7 +25,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船の長さは暫定&br;黄色連打は下の画像より48分音符1つ分短い
-&attachref(docro_h.png,nolink);
+黄色連打は下の画像より48分音符1つ分短い
+&attachref(docro_hard.png,nolink);
 ~見た目(に近い) HSは0.975です
-&attachref(dokuro_hv.png,nolink);
+&attachref(dokuro_hv3.png,nolink);

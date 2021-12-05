@@ -19,10 +19,11 @@
 -[[ふつう>難易度表/ふつう/JOIN THE PAC -太鼓の達人 Ver.-]]
 -[[むずかしい>難易度表/むずかしい/JOIN THE PAC -太鼓の達人 Ver.-]]
 -[[公式MV(原曲)>https://www.youtube.com/watch?v=q_ID77tWbTs]]
+-[[プレイ動画>https://www.youtube.com/watch?v=iUQ9L7COmog]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~BPM変化は暫定
-~&attachref(JTP_3.png,nolink);
+~&attachref(JTP_4.png,nolink);

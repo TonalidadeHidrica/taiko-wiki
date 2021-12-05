@@ -5,14 +5,15 @@
 -3DS1のスタッフクレジットに名前はあるものの、新筐体稼働開始頃から露出が減り、現在の状況は不明。
 
 **作品一覧 [#works]
+--ゲーム&バラエティ
+---[[URBAN FRAGMENTS>難易度表/おに/URBAN FRAGMENTS]]
+---[[メタルホーク BGM1>難易度表/おに/メタルホーク　BGM1]]
+---[[No Way Back(裏譜面)>難易度表/おに/No Way Back(裏譜面)]]
 --ゲームミュージック
 ---[[DADDY MULK>難易度表/おに/DADDY MULK]]
 ---[[URBAN TRAIL>難易度表/おに/URBAN TRAIL]]
 ---[[Dual Moon(AC10譜面)>難易度表/おに/Dual Moon]]
----[[URBAN FRAGMENTS>難易度表/おに/URBAN FRAGMENTS]]
 ---[[DESERT STORM>難易度表/おに/DESERT STORM]]
----[[メタルホーク BGM1>難易度表/おに/メタルホーク　BGM1]]
----[[No Way Back(裏譜面)>難易度表/おに/No Way Back(裏譜面)]]
 --ナムコオリジナル
 ---[[SORA-I アースライズ>難易度表/おに/SORA-I アースライズ]]
 ---[[SORA-III ヘリオポーズ>難易度表/おに/SORA-III ヘリオポーズ]]
