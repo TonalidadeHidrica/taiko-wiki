@@ -30,7 +30,6 @@
 -前半を逆再生すると「私はタミー。また会ったな！」と聞こえる。
 --「タミー」とは、この曲に声を当てている[[''民安ともえ''>http://ameblo.jp/tomoe-tamiyasu/]]のことである。
 --これらはタミーのサンプリングボイスであり「SMILEBIT-TECHNO RIDER TAMMY 2-」に収録されている「すまいるびっと」や「たみー第四症」が元ネタにあたる。→[[参考動画>http://www.youtube.com/watch?v=LMHOncUGvmc]]
--曲名の読み方は、''ロッテル ターミネーション''。
 -略称は、''表ロ''が一般的か。
 --''ロッテル''という呼び方は裏と区別しにくいため避けた方がよい。
 -スペルは、T''e''rminationではなくT''a''rminationである。間違えやすいので注意。
@@ -56,4 +55,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(sweep1.png,nolink);
+&attachref(sweep1_m.png,nolink);

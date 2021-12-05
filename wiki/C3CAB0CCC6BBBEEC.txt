@@ -176,7 +176,7 @@
 
 ----
 
-***段位道場 外伝 [#gaiden]
+***[[段位道場 外伝]] [#gaiden]
 ''COLOR(red){ニ}COLOR(orange){ジ}COLOR(gold){イ}COLOR(green){ロ}COLOR(blue){Ver.}''へのアップデートにより''オヤスミ中''
 
 //|''段位''|''登場期間''|''総音符数''|1曲目|2曲目|3曲目|COLOR(red):''赤合格''|COLOR(#cccc33):''金合格''|獲得称号|h

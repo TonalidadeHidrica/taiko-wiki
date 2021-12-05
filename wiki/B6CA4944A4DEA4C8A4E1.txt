@@ -303,6 +303,7 @@
 |candy|[[キャンディ キャンディ>難易度表/おに/キャンディ　キャンディ]]||
 |canta|[[Allegro Cantabile>難易度表/おに/Allegro Cantabile]]||
 |caramt|[[カラメルタイム☆>難易度表/おに/カラメルタイム☆]]||
+|caribb|[[Caribbean Knight>難易度表/おに/Caribbean Knight]]||
 |carnat|[[和蘭撫子>難易度表/おに/和蘭撫子]]|''carnat''ion|
 |carniv|[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]||
 |castle|[[Black Rose Apostle>難易度表/おに/Black Rose Apostle]]|Bla''c''k Rose ''A''po''stle''?|
@@ -822,6 +823,7 @@
 |i7wish|[[WiSH VOYAGE>難易度表/おに/WiSH VOYAGE]]|アイドリッシュセブン|
 |i7daut|[[NO DOUBT>難易度表/おに/NO DOUBT]]|~|
 |i7hvn|[[Heavenly Visitor>難易度表/おに/Heavenly Visitor]]|~|
+|i7natu|[[NATSU☆しようぜ！>難易度表/おに/NATSU☆しようぜ！]]|~|
 |ia6cho|[[六兆年と一夜物語>難易度表/おに/六兆年と一夜物語]]|IA ○○○|
 |iaasny|[[アスノヨゾラ哨戒班>難易度表/おに/アスノヨゾラ哨戒班]]|~|
 |iachil|[[チルドレンレコード>難易度表/おに/チルドレンレコード]]|~|
@@ -1075,9 +1077,11 @@
 |konan3|[[Growing of my heart>難易度表/おに/Growing of my heart]]||
 |konanc|[[カウントダウン>難易度表/おに/カウントダウン]]||
 |konant|[[名探偵コナン メイン・テーマ>難易度表/おに/名探偵コナン メイン・テーマ]]||
+|kooryu|[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]||
 |korn|[[WON'T BE LONG>難易度表/おに/WON'T BE LONG]]|Bro.KORN|
 |kotoba|[[魔法のコトバ>難易度表/おに/魔法のコトバ]]||
 |kotori|[[風のなかに巣をくふ小鳥>難易度表/おに/風のなかに巣をくふ小鳥]]||
+|kr01|[[REAL×EYEZ>難易度表/おに/REAL×EYEZ]]||
 |kr5st2|[[我ら思う、故に我ら在り>難易度表/おに/我ら思う、故に我ら在り]]||
 |krari|[[クラリネットをこわしちゃった>難易度表/おに/クラリネットをこわしちゃった]]||
 |krbld|[[Be The One>難易度表/おに/Be The One]]||
@@ -1238,6 +1242,7 @@
 |mikuer|[[初音ミクの消失‐劇場版‐>難易度表/おに/初音ミクの消失‐劇場版‐]]|~|
 |mikugk|[[初音ミクの激唱>難易度表/おに/初音ミクの激唱]]|~|
 |mikugr|[[ゴーストルール>難易度表/おに/ゴーストルール]]|~|
+|mikugv|[[グラーヴェ>難易度表/おに/グラーヴェ]]|~|
 |mikuh8|[[ヒバナ>難易度表/おに/ヒバナ]]|~|
 |mikuhn|[[ハイスペックニート>難易度表/おに/ハイスペックニート]]|~|
 |mikukg|[[カゲロウデイズ>難易度表/おに/カゲロウデイズ]]|~|
@@ -1249,6 +1254,7 @@
 |mikute|[[Tell Your World>難易度表/おに/Tell Your World]]|~|
 |mikuuy|[[ウミユリ海底譚>難易度表/おに/ウミユリ海底譚]]|~|
 |mikuvt|[[バイオレンストリガー>難易度表/おに/バイオレンストリガー]]|~|
+|mikuzs|[[撥条少女時計>難易度表/おに/撥条少女時計]]|~|
 |milsam|[[いとしのミルさま>難易度表/おに/いとしのミルさま]]||
 |minau|[[みんながみんな英雄>難易度表/おに/みんながみんな英雄]]||
 |mini|[[ミニモニ。ジャンケンぴょん！>難易度表/おに/ミニモニ。ジャンケンぴょん！]]||
@@ -1358,6 +1364,7 @@
 |ntmntm|[[ネテモネテモ>難易度表/おに/ネテモネテモ]]||
 |numu10|[[ヌムジカac.10>難易度表/おに/ヌムジカac.10]]||
 |numu14|[[アルムジカac14.0V>難易度表/おに/アルムジカac14.0V]]||
+|nya3|[[にゃーにゃーにゃー>難易度表/おに/にゃーにゃーにゃー]]||
 |nycyok|[[よく遊びよく学べ>難易度表/おに/よく遊びよく学べ]]|NYC|
 |o2rang|[[O2>難易度表/おに/O2]]||
 |obakes|[[おばけのお仕事>難易度表/おに/おばけのお仕事]]||
@@ -1623,6 +1630,7 @@
 |sidvip|[[V.I.P>難易度表/おに/V.I.P]]|~|
 |sign|[[Sign>難易度表/おに/Sign]]||
 |sinken|[[侍戦隊シンケンジャー>難易度表/おに/侍戦隊シンケンジャー]]||
+|sinrab|[[森羅万象>難易度表/おに/森羅万象]]||
 |siuryu|[[秋竜 〜Shiuryu〜>難易度表/おに/秋竜 〜Shiuryu〜]]||
 |sk7kun|[[おさかな毎日！さかなクン>難易度表/おに/おさかな毎日！さかなクン]]||
 |ska|[[ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|スカ（曲ジャンル）|
@@ -1743,6 +1751,7 @@
 |tekwiu|[[Highschool love!>難易度表/おに/Highschool love!]]|鉄拳タッグトーナメント２ Wii U EDITION|
 |tel|[[ミニモニ。テレフォン！リンリンリン>難易度表/おに/ミニモニ。テレフォン！リンリンリン]]||
 |teleca|[[Telecastic fake show>難易度表/おに/Telecastic fake show]]||
+|ten9nr|[[天泣の律>難易度表/おに/天泣の律]]||
 |tengu|[[天狗囃子>難易度表/おに/天狗囃子]]||
 |tenyou|[[天妖ノ舞>難易度表/おに/天妖ノ舞]]||
 |tg69|[[突撃ロック>難易度表/おに/突撃ロック]]||
@@ -1781,6 +1790,7 @@
 |tiger|[[六甲おろし>難易度表/おに/六甲おろし]]|阪神タイガース|
 |timtrv|[[タイムトラベラー>難易度表/おに/タイムトラベラー]]||
 |tksoda|[[東京ソーダ 8Bit Edit>難易度表/おに/東京ソーダ 8Bit Edit]]||
+|tkroll|[[タイコロール>難易度表/おに/タイコロール]]||
 |tktime|[[タイコタイム>難易度表/おに/タイコタイム]]||
 |tkym2|[[崩冠の紅月 破章「嘆きの姫」>難易度表/おに/崩冠の紅月 破章「嘆きの姫」]]|常闇|
 |tmr|[[ignited-イグナイテッド->難易度表/おに/ignited-イグナイテッド-]]|T.M.Revolution|
@@ -1835,10 +1845,12 @@
 |twccp|[[Candy Pop>難易度表/おに/Candy Pop]]|Twice|
 |twctt|[[TT -Japanese ver.->難易度表/おに/TT -Japanese ver.-]]|~|
 |u3gino|[[うさぎのしっぽ>難易度表/おに/うさぎのしっぽ]]||
+|uchubk|[[うちゅうひこうし冒険譚>難易度表/おに/うちゅうひこうし冒険譚]]||
 |udtkkr|[[心の痛み>難易度表/おに/心の痛み]]|UNDERTALE|
 |udtmgl|[[MEGALOVANIA>難易度表/おに/MEGALOVANIA]]|~|
 |udtymt|[[夢と希望>難易度表/おに/夢と希望]]|~|
 |ufo|[[UFO>難易度表/おに/UFO]]||
+|ufoswn|[[UFO Swingin'>難易度表/おに/UFO Swingin']]||
 |uheart|[[UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]||
 |ujopop|[[友情ぽっぷ>難易度表/おに/友情ぽっぷ]]||
 |ukiyo|[[浮世CROSSING>難易度表/おに/浮世CROSSING]]||
