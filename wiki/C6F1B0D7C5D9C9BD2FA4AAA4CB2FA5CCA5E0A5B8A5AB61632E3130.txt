@@ -13,7 +13,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは142。
--連打秒数目安・・・''約0.211秒''−''約0.264秒''×2−''約0.634秒''：合計約1.373秒
+-連打秒数目安・・・''約0.176秒''−''約0.247秒''×2−''約0.599秒''：合計約1.268秒
 -所々で裏の裏を叩かせるリズム、長複合、音符とつながった短い黄色連打や風船、変拍子を思わせる音配置、連続しての偶数連打があり、技術系の譜面と言えよう。
 --やはり難所は55〜62小節であろう。
 ---59小節の長複合は逆手から入るとCOLOR(red){●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●●}/COLOR(red){●●●●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●●}と区切れるため、人によってはその方がやりやすいかもしれない。
@@ -37,8 +37,8 @@
 -[[ふつう>難易度表/ふつう/ヌムジカac.10]]
 -[[むずかしい>難易度表/むずかしい/ヌムジカac.10]]
 -[[プレイ動画(AC15)>http://www.youtube.com/watch?v=hayB2Fn6IzM]]
--[[オート動画(Wii5)>http://www.youtube.com/watch?v=jwAD2E9SkUY]]
 -[[オート動画(Wii4)>http://www.youtube.com/watch?v=iS22_4c-Zkw]]
+-[[オート動画(Wii5)>http://www.youtube.com/watch?v=jwAD2E9SkUY]]
 
 ***コメント [#comment]
 -&color(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''};
@@ -46,4 +46,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(ヌムジカ_2.png,nolink);
+&attachref(numu10_m.png,nolink);

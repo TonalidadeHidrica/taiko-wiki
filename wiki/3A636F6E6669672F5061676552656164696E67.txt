@@ -10878,6 +10878,7 @@
 -[[難易度表/かんたん/POP TEAM EPIC]] ナンイドオモテ/カンタン/POP TEAM EPIC
 -[[難易度表/かんたん/PaPaPa Love]] ナンイドオモテ/カンタン/PaPaPa Love
 -[[難易度表/かんたん/Paradisus-Paradoxum]] ナンイドオモテ/カンタン/Paradisus-Paradoxum
+-[[難易度表/かんたん/Parousia]] ナンイドオモテ/カンタン/Parousia
 -[[難易度表/かんたん/Pastel Sealane]] ナンイドオモテ/カンタン/Pastel Sealane
 -[[難易度表/かんたん/Phantom Rider]] ナンイドオモテ/カンタン/Phantom Rider
 -[[難易度表/かんたん/Phoenix]] ナンイドオモテ/カンタン/Phoenix
@@ -13232,6 +13233,7 @@
 -[[難易度表/ふつう/POP TEAM EPIC]] ナンイドオモテ/フツウ/POP TEAM EPIC
 -[[難易度表/ふつう/PaPaPa Love]] ナンイドオモテ/フツウ/PaPaPa Love
 -[[難易度表/ふつう/Paradisus-Paradoxum]] ナンイドオモテ/フツウ/Paradisus-Paradoxum
+-[[難易度表/ふつう/Parousia]] ナンイドオモテ/フツウ/Parousia
 -[[難易度表/ふつう/Pastel Sealane]] ナンイドオモテ/フツウ/Pastel Sealane
 -[[難易度表/ふつう/Phantom Rider]] ナンイドオモテ/フツウ/Phantom Rider
 -[[難易度表/ふつう/Phoenix]] ナンイドオモテ/フツウ/Phoenix
@@ -15274,6 +15276,7 @@
 -[[難易度表/むずかしい/POP TEAM EPIC]] ナンイドオモテ/ムズカシイ/POP TEAM EPIC
 -[[難易度表/むずかしい/PaPaPa Love]] ナンイドオモテ/ムズカシイ/PaPaPa Love
 -[[難易度表/むずかしい/Paradisus-Paradoxum]] ナンイドオモテ/ムズカシイ/Paradisus-Paradoxum
+-[[難易度表/むずかしい/Parousia]] ナンイドオモテ/ムズカシイ/Parousia
 -[[難易度表/むずかしい/Pastel Sealane]] ナンイドオモテ/ムズカシイ/Pastel Sealane
 -[[難易度表/むずかしい/Phantom Rider]] ナンイドオモテ/ムズカシイ/Phantom Rider
 -[[難易度表/むずかしい/Phoenix]] ナンイドオモテ/ムズカシイ/Phoenix

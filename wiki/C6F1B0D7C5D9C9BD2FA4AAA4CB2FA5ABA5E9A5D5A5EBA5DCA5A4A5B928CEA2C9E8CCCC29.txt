@@ -47,7 +47,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(csmclr_x2.png,nolink);
+&attachref(csmclr_x3.png,nolink);
 
 ~加速地帯の譜面画像（HSは音符のみ、実際には小節線に音符とは別のHSあり）~
 小節線は16分音符1つ右~

@@ -47,4 +47,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(s.png,nolink);
+&attachref(sora2x_m.png,nolink);

@@ -61,4 +61,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#fumen]
-&attachref(numu14.png,nolink);
+&attachref(numu14_m.png,nolink);
