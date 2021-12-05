@@ -1,13 +1,15 @@
 *MAGICAL SOUND SHOWER[#title]
 -セガ「[[''アウトラン''>http://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%A9%E3%83%B3]]」より。
 --AC9では「''Out Run''」と表記されている。
-***詳細・攻略[#more]
+***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC9''||CENTER:★×7|CENTER:''424''|CENTER:''826560点''|CENTER:＋連打|CENTER:620点|CENTER:120点|
 ||CENTER:PSPDX|~|~|CENTER:''830060点''|~|CENTER:540点|CENTER:130点|
 ||PS4 1DL|~|~|''842660点''|~|600点|150点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''995300点''}|~|COLOR(#ff3300){2160点}|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは125。
 -連打秒数・・・1.64秒−1.16秒×2−''1.4秒''：合計5.36秒
 -おにとは違い、24分音符はない。

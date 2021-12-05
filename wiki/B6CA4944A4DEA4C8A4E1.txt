@@ -138,7 +138,8 @@
 |aba2|[[We are the ONE〜僕らはひとつ〜>難易度表/おに/We are the ONE〜僕らはひとつ〜]]||
 |abare|[[爆竜戦隊アバレンジャー>難易度表/おに/爆竜戦隊アバレンジャー]]||
 |abc|[[ABC>難易度表/おに/ABC]]||
-|ac2nad|[[Night And Day>難易度表/おに/Night And Day]]|ACE COMBAT 2|
+|ac2nad|[[Night And Day>難易度表/おに/Night And Day]]|''AC''E COMBAT ''2''|
+|ac7roc|[[Roca Roja>難易度表/おに/Roca Roja]]|''AC''E COMBAT ''7''|
 |ace3ds|[[Fighter's Honor (Flying Remix)>難易度表/おに/Fighter's Honor (Flying Remix)]]|エースコンバット3D|
 |acex2|[[IN THE ZONE>難易度表/おに/IN THE ZONE]]|ACE COMBAT X2 JOINT ASSAULT|
 |adk|[[オーディオ de カッ！>難易度表/おに/オーディオ de カッ！]]|オーディオ(''a''udio)刑事(''d''e''k''a)|
@@ -208,6 +209,7 @@
 |aquari|[[創聖のアクエリオン>難易度表/おに/創聖のアクエリオン]]||
 |arara|[[アララの呪文>難易度表/おに/アララの呪文]]||
 |arare|[[ワイワイワールド>難易度表/おに/ワイワイワールド]]||
+|argmem|[[Argent Memories>難易度表/おに/Argent Memories]]||
 |arigat|[[ありがとう>難易度表/おに/ありがとう]]||
 |armage|[[ARMAGEΔDON>難易度表/おに/ARMAGEΔDON]]||
 |arufw|[[或ル不和>難易度表/おに/或ル不和]]||
@@ -294,10 +296,11 @@
 |c25|[[交響曲第25番ト短調より 第一楽章>難易度表/おに/交響曲第25番ト短調第一楽章]]|TDMのみ|
 |cal|[[ソウルキャリバーII>難易度表/おに/ソウルキャリバーII]]|TDMのみ|
 |calc|[[Calculator>難易度表/おに/Calculator]]||
-|calib|[[ソウルキャリバーII>難易度表/おに/ソウルキャリバーII]]||
-|calib3|[[ソウルキャリバーIII>難易度表/おに/ソウルキャリバーIII]]||
-|calib4|[[ソウルキャリバーIV>難易度表/おに/ソウルキャリバーIV]]||
-|calib5|[[ソウルキャリバーV>難易度表/おに/ソウルキャリバーV]]||
+|calib|[[Brave Sword, Braver Soul>難易度表/おに/ソウルキャリバーII]]||
+|calib3|[[New Legend>難易度表/おに/ソウルキャリバーIII]]||
+|calib4|[[IMMACULATE PLEDGE>難易度表/おに/ソウルキャリバーIV]]||
+|calib5|[[The Invincible Blade>難易度表/おに/ソウルキャリバーV]]||
+|calib6|[[Undying Legend>難易度表/おに/Undying Legend]]||
 |calice|[[CYBERgenicALICE>難易度表/おに/CYBERgenicALICE]]||
 |cancan|[[CANDY CANDY>難易度表/おに/CANDY CANDY]]||
 |cando|[[Can Do>難易度表/おに/Can Do]]||
@@ -463,8 +466,7 @@
 |dashon|[[本日ハ晴天ナリ>難易度表/おに/本日ハ晴天ナリ]]|~|
 |daybyd|[[Day by Day!>難易度表/おに/Day by Day!]]||
 |dayday|[[DAY×DAY>難易度表/おに/DAY×DAY]]||
-|dball|[[魔訶不思議アドベンチャー!>難易度表/おに/魔訶不思議アドベンチャー!]]|ドラゴンボール(旧音源、旧譜面)|
-|dball2|[[魔訶不思議アドベンチャー!>難易度表/おに/魔訶不思議アドベンチャー!]]|ドラゴンボール(新音源、新譜面)|
+|dball|[[魔訶不思議アドベンチャー!>難易度表/おに/魔訶不思議アドベンチャー!]]|旧譜面 新譜面は''dball2''|
 |dbcdyn|[[超絶☆ダイナミック！>難易度表/おに/超絶☆ダイナミック！]]|ドラゴンボール超|
 |dbcgen|[[限界突破×サバイバー>難易度表/おに/限界突破×サバイバー]]|~|
 |dbmaxi|[[マキシフュージョン>難易度表/おに/マキシフュージョン]]||
@@ -502,6 +504,7 @@
 |distan|[[distance>難易度表/おに/distance]]||
 |diveto|[[DIVE TO WORLD>難易度表/おに/DIVE TO WORLD]]||
 |dkpri9|[[Happy Go Lucky! ドキドキ！プリキュア>難易度表/おに/Happy Go Lucky! ドキドキ！プリキュア]]||
+|dlearn|[[241ディープラーニング>難易度表/おに/241ディープラーニング]]||
 |dmgene|[[Dance My Generation>難易度表/おに/Dance My Generation]]||
 |dmjojo|[[未来はジョー！ジョー！>難易度表/おに/未来はジョー！ジョー！]]|デュエル・マスターズ|
 |dmp31k|[[Ψです I LIKE YOU>難易度表/おに/Ψです I LIKE YOU]]|でんぱ組.inc|
@@ -629,7 +632,7 @@
 |fa3res|[[ファミレスウォーズ>難易度表/おに/ファミレスウォーズ]]||
 |faith|[[FAITH>難易度表/おに/FAITH]]||
 |fateop|[[ideal white>難易度表/おに/ideal white]]|Fate/stay night [Unlimited Blade Works]|
-|fauna|[[Scars of FAUNA>難易度表/おに/Scars of FAUNA]]|~|
+|fauna|[[Scars of FAUNA>難易度表/おに/Scars of FAUNA]]||
 |fcmedl|[[ファミコンメドレー>難易度表/おに/ファミコンメドレー]]|ファミコン|
 |fcrbal|[[バルーンファイト（バルーントリップ）>難易度表/おに/バルーンファイト（バルーントリップ）]]|~|
 |fcrdrm|[[ドクターマリオ(Fever)>難易度表/おに/ドクターマリオ(Fever)]]|~|
@@ -656,6 +659,7 @@
 |fpri9|[[Let's!フレッシュプリキュア！>難易度表/おに/Let's!フレッシュプリキュア！]]||
 |fpri9h|[[LET'S!フレッシュプリキュア！ 〜Hybrid ver.〜>難易度表/おに/Let's!フレッシュプリキュア！ 〜Hybrid ver.〜]]||
 |freedw|[[Let's 貢献！〜恋の懲役は1,000,000年〜>難易度表/おに/Let's 貢献！〜恋の懲役は1,000,000年〜]]|フリーダムウォーズ|
+|freewy|[[Freeway3234>難易度表/おに/Freeway3234]]||
 |frieng|[[フレンジャー>難易度表/おに/フレンジャー]]||
 |fu7bug|[[ぶぎ ぶぎ ふなっしー♪>難易度表/おに/ぶぎ ぶぎ ふなっしー♪]]||
 |fu7fu7|[[ふな ふな ふなっしー♪>難易度表/おに/ふな ふな ふなっしー♪]]||
@@ -730,6 +734,7 @@
 |gng999|[[銀河鉄道999>難易度表/おに/銀河鉄道999]]||
 |gntkag|[[カゲロウ>難易度表/おに/カゲロウ]]|銀魂.|
 |go|[[GO!!!>難易度表/おに/GO!!!]]||
+|go9ra9|[[極楽浄土>難易度表/おに/極楽浄土]]||
 |godea2|[[Wings of Tomorrow (Tatsujin Mix)>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]|GOD EATER|
 |godea3|[[Blood Rage>難易度表/おに/Blood Rage]]|~|
 |godea4|[[Feed A>難易度表/おに/Feed A]]|~|
@@ -982,6 +987,7 @@
 |irpunk|[[大空と太鼓の踊り>難易度表/おに/大空と太鼓の踊り]]|''Ir''ish ''Punk''|
 |isan|[[和有るど経りて維持・序>難易度表/おに/和有るど経りて維持・序]]|経りて維持=遺産|
 |ishoul|[[I SHOULD BE SO LUCKY>難易度表/おに/I SHOULD BE SO LUCKY]]||
+|iswaze|[[意識のワーゼ>難易度表/おに/意識のワーゼ]]||
 |itadak|[[頂>難易度表/おに/頂]]||
 |itoshi|[[愛しい人へ>難易度表/おに/愛しい人へ]]||
 |iwant|[[I Want>難易度表/おに/I Want]]|旧音源、旧譜面(新譜面はimsiwt)|
@@ -1046,6 +1052,7 @@
 |~|[[勝手にしやがれ>難易度表/おに/勝手にしやがれ]]||
 |kazega|[[風が吹いている>難易度表/おに/風が吹いている]]||
 |kecha|[[ケチャドン2000>難易度表/おに/ケチャドン2000]]||
+|keion|[[Don't say "lazy">難易度表/おに/Don't say ”lazy”]]|けいおん！|
 |kekka2|[[シュガーソングとビターステップ>難易度表/おに/シュガーソングとビターステップ]]|血界戦線|
 |kekkai|[[Hello,world!>難易度表/おに/Hello,world!]]|~|
 |kenkaj|[[喧嘩上等>難易度表/おに/喧嘩上等]]||
@@ -1114,7 +1121,7 @@
 |kteien|[[懐中庭園を持つ少女>難易度表/おに/懐中庭園を持つ少女]]||
 |kuma|[[もりのくまさん>難易度表/おに/もりのくまさん]]||
 |kumams|[[くまもとサプライズ！>難易度表/おに/くまもとサプライズ！]]||
-|kumatm|[[おしえて　くまとも>難易度表/おに/おしえて くまとも]]||
+|kumatm|[[おしえて くまとも>難易度表/おに/おしえて くまとも]]||
 |kuon|[[久遠の夜>難易度表/おに/久遠の夜]]||
 |kuraim|[[食らいむ！まうんとぱふぇ>難易度表/おに/食らいむ！まうんとぱふぇ]]||
 |kuzure|[[鳳凰天舞無限崩れ>難易度表/おに/鳳凰天舞無限崩れ]]||
@@ -1126,6 +1133,7 @@
 |kznhel|[[Hello, Morning>難易度表/おに/Hello, Morning]]||
 |kzniii|[[AIAIAI (feat.中田ヤスタカ)>難易度表/おに/AIAIAI (feat.中田ヤスタカ)]]||
 |kznina|[[風になりたい>難易度表/おに/風になりたい]]||
+|lactea|[[via lactea>難易度表/おに/via lactea]]||
 |lad|[[Lady Marmalade>難易度表/おに/Lady Marmalade]]||
 |lam|[[ラムのラブソング>難易度表/おに/ラムのラブソング]]||
 |lapis|[[ラピスラズリ>難易度表/おに/ラピスラズリ]]||
@@ -1194,7 +1202,7 @@
 |manbo|[[おもちでマンボ>難易度表/おに/おもちでマンボ]]||
 |maneki|[[まねきねこダックの歌>難易度表/おに/まねきねこダックの歌]]||
 |manpu9|[[あなたとトゥラッタッタ♪>難易度表/おに/あなたとトゥラッタッタ♪]]|旧音源/新音源(家庭用版)|
-|manpu2|~|AC版(新音源?)|
+|manpu2|~|AC版(新音源)|
 |mapp8b|[[ピコピコ マッピー>難易度表/おに/ピコピコ マッピー]]|8bit|
 |mappy|[[マッピー音頭>難易度表/おに/マッピー音頭]]||
 |mappy2|[[マッピーメドレー>難易度表/おに/マッピーメドレー]]||
@@ -1250,7 +1258,7 @@
 |mhcafe|[[魔法の喫茶店>難易度表/おに/魔法の喫茶店]]||
 |mheart|[[マーブルハート>難易度表/おに/マーブルハート]]||
 |mi|[[未来の地図>難易度表/おに/未来の地図]]||
-|mi5ufo|[[迷子の U F O>難易度表/おに/迷子のUFO]]||
+|mi5ufo|[[迷子のUFO>難易度表/おに/迷子のUFO]]||
 |michi|[[道>難易度表/おに/道]]||
 |mikan|[[みかんのうた>難易度表/おに/みかんのうた]]||
 |mikatu|[[三日月>難易度表/おに/三日月]]||
@@ -1664,11 +1672,12 @@
 |siuryu|[[秋竜 〜Shiuryu〜>難易度表/おに/秋竜 〜Shiuryu〜]]||
 |sk7kun|[[おさかな毎日！さかなクン>難易度表/おに/おさかな毎日！さかなクン]]||
 |ska|[[ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|スカ（曲ジャンル）|
-|skaska|[[リンダは今日も絶好調>難易度表/おに/リンダは今日も絶好調]]|スカ2曲目？|
+|skaska|[[リンダは今日も絶好調>難易度表/おに/リンダは今日も絶好調]]|~|
 |skoant|[[ANTI-HERO>難易度表/おに/ANTI-HERO]]|''S''E''K''AI NO ''O''WARI|
 |skodrg|[[Dragon Night>難易度表/おに/Dragon Night]]|~|
 |skohmc|[[炎と森のカーニバル>難易度表/おに/炎と森のカーニバル]]|~|
 |skorpg|[[RPG>難易度表/おに/RPG]]|~|
+|skrexh|[[SAKURA EXHAUST>難易度表/おに/SAKURA EXHAUST]]|''S''A''K''U''R''A''EXH''AUST|
 |skrnb|[[さくらんぼ>難易度表/おに/さくらんぼ]]||
 |slance|[[Scarlet Lance>難易度表/おに/Scarlet Lance]]||
 |slash|[[恋文2000>難易度表/おに/恋文2000]]|スラッシュメタル（曲ジャンル）。しかし正しい綴りは「Thrash metal」である|
@@ -1774,7 +1783,7 @@
 |tbs|[[ツバサ>難易度表/おに/ツバサ]]||
 |tdcafe|[[ツンデレCafeへようこそ☆>難易度表/おに/ツンデレCafeへようこそ☆]]||
 |tdm|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]||
-|tecdrv|[[TD -28619029byte remix->難易度表/おに/TD -28619029byte remix-]]||
+|tecdrv|[[TD - 28619029byte remix ->難易度表/おに/TD -28619029byte remix-]]||
 |tek3ds|[[Wasabi Body Blow>難易度表/おに/Wasabi Body Blow]]|鉄拳3D|
 |tek7fr|[[Abandoned Temple Final 2nd>難易度表/おに/Abandoned Temple Final 2nd]]|鉄拳7 FR|
 |tek7he|[[Heat Haze Shadow 2>難易度表/おに/Heat Haze Shadow 2]]|鉄拳7|
@@ -1823,6 +1832,7 @@
 |tksoda|[[東京ソーダ 8Bit Edit>難易度表/おに/東京ソーダ 8Bit Edit]]||
 |tkroll|[[タイコロール>難易度表/おに/タイコロール]]||
 |tktime|[[タイコタイム>難易度表/おに/タイコタイム]]||
+|tkwata|[[142トキノワタリドリ>難易度表/おに/142トキノワタリドリ]]||
 |tkym2|[[崩冠の紅月 破章「嘆きの姫」>難易度表/おに/崩冠の紅月 破章「嘆きの姫」]]|常闇|
 |tmr|[[ignited-イグナイテッド->難易度表/おに/ignited-イグナイテッド-]]|T.M.Revolution|
 |tnkai2|[[愛にできることはまだあるかい>難易度表/おに/愛にできることはまだあるかい]]|''天気''の子|
@@ -1943,6 +1953,7 @@
 |w3at2x|[[イカサマパイレーツ>難易度表/おに/イカサマパイレーツ]]|アトラクション曲2|
 |w3op|[[ポップコーン★パレード>難易度表/おに/ポップコーン★パレード]]||
 |wangan|[[Lightning Dance>難易度表/おに/Lightning Dance]]|湾岸|
+|wara2k|[[わら得る2000>難易度表/おに/わら得る2000]]||
 |warabe|[[わらべ歌メドレー>難易度表/おに/わらべ歌メドレー]]||
 |warau|[[「笑うが勝ち!」でGO!>難易度表/おに/「笑うが勝ち!」でGO!]]||
 |waru90|[[シンフォニック ワルキューレ>難易度表/おに/シンフォニック　ワルキューレ]]||
