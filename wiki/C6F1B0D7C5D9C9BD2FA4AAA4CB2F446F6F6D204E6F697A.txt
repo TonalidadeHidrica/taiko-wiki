@@ -60,7 +60,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~新筐体では、KATSU-DON〜WHITE 5.07のアップデートまで、97小節以降の小節線は表示されていなかった。
+~新筐体では、KATSU-DON〜WHITE 5.07のアップデートまで、97小節以降の小節線は非表示。
 &attachref(doomnz.png,nolink);
 ~見た目重視
 &attachref(d.png,nolink);
