@@ -14,9 +14,10 @@
 -[[ニコニコ大百科>http://dic.nicovideo.jp/a/t%2Bpazolite]]
 
 **作品一覧 [#work]
---ゲームミュージック
+--ゲーム&バラエティ
 ---[[Garakuta Doll Play>難易度表/おに/Garakuta Doll Play]] / [[裏譜面>難易度表/おに/Garakuta Doll Play(裏譜面)]]
 ---[[Surf Zapping>難易度表/おに/Surf Zapping]]
+---[[Dogbite>難易度表/おに/Dogbite]]
 --ナムコオリジナル
 ---[[Shiny Kung-fu Revival>難易度表/おに/Shiny Kung-fu Revival]]
 ---[[!!!カオスタイム!!!>難易度表/おに/!!!カオスタイム!!!]]

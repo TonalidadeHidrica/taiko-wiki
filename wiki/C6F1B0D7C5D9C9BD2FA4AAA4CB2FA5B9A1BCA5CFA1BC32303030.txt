@@ -52,9 +52,9 @@ COLOR(cyan){●} COLOR(blue){●} COLOR(red){●●●●} COLOR(cyan){●} COLOR(red){
 -[[かんたん>難易度表/かんたん/スーハー2000]]
 -[[ふつう>難易度表/ふつう/スーハー2000]]
 -[[むずかしい>難易度表/むずかしい/スーハー2000]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=5XtL0FATWpI&t=10s]]
--[[オート動画(Wii5)>https://www.youtube.com/watch?v=ESNrB5EetDA]]
--[[オート動画(特訓モード)>https://www.youtube.com/watch?v=ZuR0ft9zv_8&feature=youtu.be&t=12s]]((音量小さめ))
+-[[オート動画(Wii5)>https://youtu.be/ESNrB5EetDA]]
+-[[オート動画(特訓モード)>https://youtu.be/ZuR0ft9zv_8?t=13]]((音量小さめ))
+-[[プレイ動画(キャプチャ)>https://youtu.be/5XtL0FATWpI?t=10]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -62,7 +62,7 @@ COLOR(cyan){●} COLOR(blue){●} COLOR(red){●●●●} COLOR(cyan){●} COLOR(red){
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(suha2k0.png,nolink);
+&attachref(suha2k_m.png,nolink);
 ~見た目重視~
 高速の部分は長さの関係上見逃してください
 &attachref(suha2k_1.png,nolink);

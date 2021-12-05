@@ -18,10 +18,10 @@
 -[[かんたん>難易度表/かんたん/レトロマニア狂想曲]]
 -[[ふつう>難易度表/ふつう/レトロマニア狂想曲]]
 -[[むずかしい>難易度表/むずかしい/レトロマニア狂想曲]]
--[[プレイ動画>https://www.youtube.com/watch?v=YBw3qDQpwF4]]
+-[[プレイ動画>https://youtu.be/YBw3qDQpwF4?t=30]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(じゅうもんじあたり.png,nolink);
+~&attachref(rlnrtr_m.png,nolink);

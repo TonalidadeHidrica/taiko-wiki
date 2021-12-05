@@ -45,12 +45,11 @@
 -[[ふつう>難易度表/ふつう/続・〆ドレー2000]] / [[前作>難易度表/ふつう/〆ドレー2000]] / [[前作＋>難易度表/ふつう/〆ドレー2000＋]]
 -[[むずかしい>難易度表/むずかしい/続・〆ドレー2000]] / [[前作>難易度表/むずかしい/〆ドレー2000]] / [[前作＋>難易度表/むずかしい/〆ドレー2000＋]]
 -''おに'' / [[前作>難易度表/おに/〆ドレー2000]] / [[前作＋>難易度表/おに/〆ドレー2000＋]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=-hgZGB9OyVg&t=3s]]
--[[オート動画(PS4 1)>https://www.youtube.com/watch?v=kWqSIXyHWqs]]
+-[[プレイ動画(キャプチャ)>https://youtu.be/-hgZGB9OyVg?t=3]]
+-[[オート動画(PS4 1)>https://youtu.be/kWqSIXyHWqs]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~よくでる15300のBPMは暫定です。
-~&attachref(明日待ってるから、今日は休みなさい.png,nolink);
+~&attachref(medl2z_m2.png,nolink);
