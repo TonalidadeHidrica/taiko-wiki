@@ -7,6 +7,7 @@
 ||CENTER:PS4 1|CENTER:''ポップス''|~|~|~|~|~|~|
 |CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''992920点''}|~|CENTER:COLOR(#ff3300){2790点}|CENTER:-|
 ||CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|
+|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''995470点''|~|CENTER:2890点|CENTER:-|
 -BPMは約129。
 -黄色連打が多い連打曲である。
 -縁の方が多く、全体の''約51.60%''（177/343）。

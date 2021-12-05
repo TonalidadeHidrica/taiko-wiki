@@ -316,6 +316,7 @@
 |choo|[[Choo Choo TRAIN>難易度表/おに/Choo Choo TRAIN]]||
 |choo2|~|新譜面|
 |chozet|[[超絶技巧系少女>難易度表/おに/超絶技巧系少女]]||
+|chrace|[[チキンレース>難易度表/おに/チキンレース]]||
 |chubur|[[CHU-BURA>難易度表/おに/CHU-BURA]]||
 |closer|[[CLOSER>難易度表/おに/CLOSER]]||
 |cls10|[[天国と地獄 序曲>難易度表/おに/天国と地獄 序曲]]|10→ten→天|

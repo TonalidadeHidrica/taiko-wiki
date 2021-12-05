@@ -1,12 +1,13 @@
 *めざせポケモンマスター -20th Anniversary-(裏譜面) [#title]
 ***詳細 [#more]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.9.4''|NS1DL|★×8|''416''|''1049130点''|＋連打|760点|203点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''999970点''}|~|COLOR(#ff3300){2270点}|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.9.4''||''アニメ''|★×8|''416''|''1049130点''|+連打|760点|203点|
+||NS1DL|''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''999970点''}|~|COLOR(#ff3300){2270点}|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは120〜240。
+-BPMは120-240。
 -連打秒数目安・・・''約0.333秒''−SIZE(16){''約0.333秒''}：合計0.666秒
 -[[表譜面>難易度表/おに/めざせポケモンマスター -20th Anniversary-]]のボーカル合わせの譜面とは対照的に、こちらはドラム合わせの譜面である。
 -全体的に偶数連打や裏拍から叩き始める複合が多いため、これらが苦手な場合は曲の大半が難所として襲いかかる。
@@ -14,11 +15,11 @@
 -16小節目からの10連打(COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(red){●})は、逆手入りすると叩きやすくなるかもしれない。
 --ただし、音符の入りが裏拍であることに注意。
 -21小節目からはBPMが倍取りされ、[[電車で電車で OPA!OPA!OPA! -GMT mashup->難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]の第1ゴーゴーのような配置になる。
---21小節目〜24小節目…(COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○})×2→(COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○})
+--21小節目-24小節目…(COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○})×2→(COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○})
 ---道中の縁は全て入り手で叩ける。
---25小節目〜28小節目…(COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(red){●})×2→(COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○})
+--25小節目-28小節目…(COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(red){●})×2→(COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○})
 ---連なっている縁2打は逆手で叩く必要がある。
---29小節目〜30小節目…(COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○})×2
+--29小節目-30小節目…(COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○})×2
 ---道中の縁は全て入り手で叩ける。ただし、続けて面16分3打が来るのでリズムを崩されないよう注意。
 -46小節目からの11連打は(COLOR(blue){○}COLOR(blue){○}/COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}/COLOR(blue){○}COLOR(red){●}COLOR(red){●}COLOR(red){●}/COLOR(blue){○})であり、面は逆手から叩くことになる。
 -50小節目はドラム合わせのリズム難配置。

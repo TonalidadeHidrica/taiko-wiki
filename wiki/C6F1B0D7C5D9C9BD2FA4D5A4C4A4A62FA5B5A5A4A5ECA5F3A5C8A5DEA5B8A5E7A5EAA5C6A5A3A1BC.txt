@@ -1,10 +1,12 @@
 *サイレントマジョリティー [#title]
 
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.8.2''|CENTER:3DS3DL&br;PS4 1DL|CENTER:★×4|CENTER:''120''|CENTER:''530370点''|CENTER:＋連打|CENTER:1310点|CENTER:588点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''982000点''}|~|CENTER:COLOR(#ff3300){7440点}|CENTER:-|
-||CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|CENTER:1250点|CENTER:380点|
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.8.2''|3DS3DL&br;PS4 1DL&br;NS1DL|★×4|''120''|''530370点''|+連打|1310点|588点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''982000点''}|~|COLOR(#ff3300){7440点}|-|
+||iOS&br;AR|~|~|''?????0点''|~|1250点|380点|
+|AC16.1.0||~|~|''990600点''|~|8240点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは123。
