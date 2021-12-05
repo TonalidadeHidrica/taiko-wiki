@@ -38,4 +38,4 @@
 
 ***譜面 [#fumen]
 ~iOSでは譜面全体にHS1.07がかかっている
-~&attachref(ds2bs1_m.png,nolink);
+~&attachref(d.png,nolink);

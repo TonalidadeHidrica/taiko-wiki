@@ -4845,6 +4845,7 @@
 -[[コメント/難易度表/ふつう/White Rose Insanity(裏譜面)]] コメント/ナンイドオモテ/フツウ/White Rose Insanity(ウラフメン)
 -[[コメント/難易度表/ふつう/WiSH VOYAGE]] コメント/ナンイドオモテ/フツウ/WiSH VOYAGE
 -[[コメント/難易度表/ふつう/Wings of Tomorrow (Tatsujin Mix)]] コメント/ナンイドオモテ/フツウ/Wings of Tomorrow (Tatsujin Mix)
+-[[コメント/難易度表/ふつう/Wish upon a shooting star]] コメント/ナンイドオモテ/フツウ/Wish upon a shooting star
 -[[コメント/難易度表/ふつう/X-DAY2000]] コメント/ナンイドオモテ/フツウ/X-DAY2000
 -[[コメント/難易度表/ふつう/XEVIOUS]] コメント/ナンイドオモテ/フツウ/XEVIOUS
 -[[コメント/難易度表/ふつう/XY＆Z]] コメント/ナンイドオモテ/フツウ/XY＆Z

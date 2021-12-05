@@ -1,6 +1,6 @@
 *どん子のファーストデート(裏譜面) [#title]
 
-***詳細・攻略 [#more]
+***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|譜面((太字はスコアルート))|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.8.7''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''一人''|''808''|''1057240点''|+連打|400点|100点|
@@ -69,9 +69,7 @@
 -AC16では各譜面の最初の通常音符の前に黄色連打がある。
 
 ~COLOR(#909){達人譜面}(旧一人用譜面)
-~HSは暫定
-~&attachref(exbko2x.png,nolink);
+~&attachref(bko2_x.png,nolink);
 
 ~COLOR(#666){普通譜面}・COLOR(#069){玄人譜面}(旧二人用譜面)
-~HSは暫定
-~&attachref(exbko2p.png,nolink);
+~&attachref(bko2_x_dp.png,nolink);

@@ -51,5 +51,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~風船は18・2・2・12・7・5・15・5打。
-~&attachref(天下統一録おに.png,nolink);
+~&attachref(天下統一録.png,nolink);

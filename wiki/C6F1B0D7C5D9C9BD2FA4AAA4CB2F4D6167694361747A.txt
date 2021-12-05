@@ -38,6 +38,10 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~31小節目のBPM変化は8分音符1つ分手前？
-~2個目の風船は7打。
-~&attachref(MagiCatz_7.png,nolink);
+~2個目の風船は7打。~
+&attachref(MagiCatz_8.png,nolink);
+
+~217.5を145に変換した版~
+31小節は4/4拍子より24分音符1つ分短い（23/24拍子）~
+47小節は64分音符1つ分（46小節と合わせると65/64拍子相当）~
+&attachref(マジ修正カット.png,nolink);

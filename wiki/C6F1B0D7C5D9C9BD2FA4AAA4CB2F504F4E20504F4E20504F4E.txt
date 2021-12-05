@@ -32,4 +32,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(ponpon.png,nolink);
+~&attachref(ponpon_m.png,nolink);

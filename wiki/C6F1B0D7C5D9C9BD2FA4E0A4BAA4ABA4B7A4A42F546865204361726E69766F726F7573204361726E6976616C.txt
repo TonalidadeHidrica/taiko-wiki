@@ -3,11 +3,11 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|CENTER:''AC10SP''〜13|Wii1SP&br;Wii4&br;PSPDXDL&br;iOS|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''460''|''814590点''|+連打|480点|120点|
+|''AC10SP''〜13|Wii1SP&br;Wii4&br;PSPDXDL&br;iOS|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''460''|''814590点''|+連打|480点|120点|
 |AC11亜&br;AC12亜||BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
-|CENTER:AC15.1.3SP|CENTER:3DS2SP&br;NS1SP&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''836300点''|~|560点|138点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''986210点''}|~|CENTER:COLOR(#ff3300){2070点}|CENTER:-|
-|AC16.1.0||~|~|~|''?????0点''|~|2150点|-|
+|AC15.1.3SP|3DS2SP&br;NS1SP&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''836300点''|~|560点|138点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''986210点''}|~|COLOR(#ff3300){2070点}|-|
+|AC16.1.0||~|~|~|''992000点''|~|2150点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは168。

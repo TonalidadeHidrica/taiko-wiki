@@ -1,11 +1,16 @@
 *You&#84;ubeテーマソング [#title]
 
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''iOS&br;AR''|CENTER:★×4|CENTER:''153''|CENTER:''?????0点''|CENTER:＋連打|CENTER:880点|CENTER:220点|
-|CENTER:AC15.10.0|CENTER:NS1&br;PS4 1DL|~|~|CENTER:''532820点''|~|~|CENTER:318点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){5260点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|CENTER:''994240点''|~|CENTER:6480点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''iOS&br;AR''|BGCOLOR(cyan):''J-POP''|★×4|''153''|''?????0点''|＋連打|880点|220点|
+//||iOS&br;AR((楽曲取り放題))|BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
+|AC15.10.0|NS1|BGCOLOR(lime):''バラエティ''|~|~|''532820点''|~|880点|318点|
+|AC15.10.4||BGCOLOR(cyan):''J-POP''|~|~|~|~|~|~|
+||PS4 1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){5260点}|-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''994240点''|~|6480点|-|
+|~|~|BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは128。

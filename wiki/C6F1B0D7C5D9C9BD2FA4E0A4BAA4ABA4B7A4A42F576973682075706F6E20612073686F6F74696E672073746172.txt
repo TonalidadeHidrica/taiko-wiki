@@ -1,4 +1,4 @@
-*Wish upon a shooting star [#title]
+*&ruby(ウィッシュ){Wish}; &ruby(アポン){upon}; &ruby(ア){a}; &ruby(シューティング){shooting}; &ruby(スター){star}; [#title]
 -Rayark社のスマートフォン音楽ゲームアプリ「''DEEMO''」の楽曲のひとつ。
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
