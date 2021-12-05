@@ -1,12 +1,13 @@
 *The Carnivorous Carnival [#title]
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC10SP''〜13&br;AC11亜、12亜|Wii1SP、4&br;PSPDXDL|★×10|''777''|''1182360点''|＋連打|420点|100点|
 |AC15.1.3SP|3DS2SP&br;NS1SP&br;PS4 1DL|★×9|~|''1092490点''|~|~|103点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''992500点''}|~|COLOR(#ff3300){1250点}|-|
 ||iOS|~|~|''1084720点''|~|400点|90点|
+|AC16.1.0||~|~|''994560点''|~|1280点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは168。

@@ -43,6 +43,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-小連打の長さは下の譜面より48分音符1つ分短い。~
-大連打の長さは下の譜面より48分音符7つ分（約1/8小節）短い。
-&attachref(トッ買ってとフーガとロック54_5.png,nolink);
+&attachref(gurt.png,nolink);

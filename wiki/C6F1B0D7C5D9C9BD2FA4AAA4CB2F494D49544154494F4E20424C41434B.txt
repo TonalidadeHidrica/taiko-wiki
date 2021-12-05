@@ -35,6 +35,4 @@
 
 #pcomment(,noname)
 ***譜面 [#score]
-BPM変化・HS変化は[[裏譜面>難易度表/おに/IMITATION BLACK(裏譜面)]]を参照。
-~実際は86小節目まであります。
-&attachref(imitation暫定.png,nolink);
+&attachref(IMITATION BLACK(表).png,nolink);
