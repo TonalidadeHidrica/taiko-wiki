@@ -37,4 +37,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(laputa.png,nolink);
+&attachref(laputa_2.png,nolink);

@@ -522,9 +522,3 @@
 
 **その他[#other]
 -詳細は[[大会公式サイト>http://taiko.namco-ch.net/taiko/wcs2016/]]へ。
-//--[[よくある質問>]]
-
-//**開発日記
-
-***コメント [#h306d506]
-#pcomment(,noname)
