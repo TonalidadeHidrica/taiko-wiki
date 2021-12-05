@@ -42,6 +42,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-//ラストの小節線はレッドの動画より確認
-~連打の長さは暫定です。
-~&attachref(妖怪_小節線修正.png,nolink);
+~&attachref(yk2mdl.png,nolink);

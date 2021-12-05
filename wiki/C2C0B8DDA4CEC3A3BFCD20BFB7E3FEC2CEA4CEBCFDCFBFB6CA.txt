@@ -1109,7 +1109,7 @@
 ----
 |>|>|>|>|CENTER:74|c
 |>|>|>|>|''ジャンルごとの曲数''|h
-|BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops_sayonara]]|BGCOLOR(hotpink):~[[&color(black){%%%アニメ%%%};>#anime_sayonara]]|BGCOLOR(darkgray):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo_sayonara]]|BGCOLOR(magenta):~[[&color(black){%%%どうよう%%%};>#doyo_sayonara]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;＆&br;バラエティ%%%};>#gameandvariety_sayonara]]|
+|BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops_sayonara]]|BGCOLOR(hotpink):~[[&color(black){%%%アニメ%%%};>#anime_sayonara]]|BGCOLOR(darkgray):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo_sayonara]]|BGCOLOR(yellow):~[[&color(black){%%%キッズ%%%};>#doyo_sayonara]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;＆&br;バラエティ%%%};>#gameandvariety_sayonara]]|
 |''62'' 曲|''100'' 曲|''16'' 曲|''1'' 曲|''20'' 曲|
 
 |CENTER:1||LEFT:60|>|>|>|>|CENTER:42|c
@@ -1296,7 +1296,7 @@
 |~|''放課後ストライド''&br;　　SIZE(11){Last Note. feat.GUMI}|225|[[★×3>難易度表/かんたん/放課後ストライド]]|[[★×5>難易度表/ふつう/放課後ストライド]]|[[★×6>難易度表/むずかしい/放課後ストライド]]|[[★×5>難易度表/おに/放課後ストライド]]|-|
 |~|''エキセントリックw''&br;　　SIZE(11){銀河方面P feat.ZOLA PROJECT}|172|[[★×3>難易度表/かんたん/エキセントリックw]]|[[★×4>難易度表/ふつう/エキセントリックw]]|[[★×6>難易度表/むずかしい/エキセントリックw]]|[[★×8>難易度表/おに/エキセントリックw]]|-|
 |~|''みくみくにしてあげる♪【してやんよ】''&br;　　SIZE(11){ika feat.初音ミク}|160|[[★×1>難易度表/かんたん/みくみくにしてあげる♪【してやんよ】]]|[[★×5>難易度表/ふつう/みくみくにしてあげる♪【してやんよ】]]|[[★×5>難易度表/むずかしい/みくみくにしてあげる♪【してやんよ】]]|[[★×6>難易度表/おに/みくみくにしてあげる♪【してやんよ】]]|-|
-|>|>|>|>|>|>|>|BGCOLOR(magenta):''どうよう''&aname(doyo_sayonara);|
+|>|>|>|>|>|>|>|BGCOLOR(yellow):''キッズ''&aname(doyo_sayonara);|
 |''16/10/13''|''おもちゃのチャチャチャ''|120|[[★×4>難易度表/かんたん/おもちゃのチャチャチャ]]&br;SIZE(10){(S)}|[[★×3>難易度表/ふつう/おもちゃのチャチャチャ]]|[[★×4>難易度表/むずかしい/おもちゃのチャチャチャ]]|[[★×6>難易度表/おに/おもちゃのチャチャチャ]]|-|
 |>|>|>|>|>|>|>|BGCOLOR(darkorchid):''ゲーム＆バラエティ''&aname(gameandvariety_sayonara);|
 |''12/7/25''|''モンスターハンターメドレー''|91-160※|[[★×3>難易度表/かんたん/モンスターハンターメドレー(新)]]|[[★×4>難易度表/ふつう/モンスターハンターメドレー(新)]]|[[★×5>難易度表/むずかしい/モンスターハンターメドレー(新)]]|[[★×8>難易度表/おに/モンスターハンターメドレー(新)]]|-|

@@ -744,7 +744,7 @@
 |BGCOLOR(red):COLOR(white):''十段''|''2586''&br;[[動画>http://www.youtube.com/watch?v=z6M7W5FWKng]]|[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]&br;おに★×10&br;876コンボ|[[DEBSTEP!>難易度表/おに/DEBSTEP!]]&br;おに★×10&br;888コンボ|[[燎原ノ舞>難易度表/おに/燎原ノ舞]]&br;おに★×10&br;822コンボ|魂ゲージ100%&br;可30未満&br;不可10未満|魂ゲージ100%&br;可10未満&br;不可0|
 |BGCOLOR(gold):COLOR(black):''達人''|''3231''&br;[[動画>http://www.youtube.com/watch?v=yaPsxYS0rH4]]|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]&br;おに★×10&br;999コンボ|[[双竜ノ乱>難易度表/おに/双竜ノ乱]]&br;おに★×10&br;970コンボ|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]&br;おに★×10&br;1262コンボ|魂ゲージ100%&br;良3180以上&br;不可5未満|魂ゲージ100%&br;良3230以上&br;不可0|
 
--天井スコア（ムラサキ本編）
+-天井スコア（キミドリ本編）
 |CENTER:40|CENTER:140|BGCOLOR(white):|c
 |''段位''|天井スコア||h
 |BGCOLOR(beige):''初級''|''1298230点＋連打''||

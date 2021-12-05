@@ -39,10 +39,9 @@
 ***譜面 [#score]
 ~AC16、NS1 → 疑似32分を除外(拍数変更のみ)
 ~AC15 → 32分音符を48分音符＋HS・BPM変化で処理していると思われる
--連打・風船は暫定。
 -BPM・HS変化
- 61小節:BPM8.5・HS32(MEASURE 1/8)
-~&ref(T4M3.png,nolink);
+ 219小節:BPM8.5・HS32(MEASURE 1/8)
+~&ref(tttt.png,nolink);
 ~
 ~見た目？（いろいろと暫定）
 ~&ref(T4M_Mitame4.png,nolink);
