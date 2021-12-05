@@ -51,8 +51,11 @@
 -[[かんたん>難易度表/かんたん/DEBSTEP!]]
 -[[ふつう>難易度表/ふつう/DEBSTEP!]]
 -[[むずかしい>難易度表/むずかしい/DEBSTEP!]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=m0gOWEOY5FM&t=11s]]
 -[[オート動画(Wii U2)>https://www.youtube.com/watch?v=mN9fu2ajdIc]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=m0gOWEOY5FM&t=11s]]
+-[[プレイ動画(キャプチャ・倍速)>https://youtu.be/Z-rbiN0nx2w]]
+-[[プレイ動画(キャプチャ・1.5倍速)>https://youtu.be/oo8hgkLDmUg]]
+
 
 ***コメント [#comment]
 #pcomment(,noname)

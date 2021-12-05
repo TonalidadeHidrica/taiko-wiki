@@ -335,3 +335,8 @@
 |~|COLOR(red):''新''|[[''怒槌''>難易度表/おに/怒槌]]|光吉猛修 「CHUNITHM」より|
 |~|COLOR(red):''新''|[[''Scarlet Lance''>難易度表/おに/Scarlet Lance]]|MASAKI(ZUNTATA) 「グルーヴコースター」より|
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Taiko Drum Monster''>難易度表/おに/Taiko Drum Monster]]|steμ feat.siroa|
+
+
+***GAME VERSION:YELLOW 10.01(2020/3/4実施) [#update085-2]
+-アップデートの詳細は不明。
+--レッドVer.10.01、ブルーVer.11.01へのアップデートも同日に行われたため、今後のサヨナラ曲のサヨナラ時期の設定が含まれるかと思われる。
