@@ -14,6 +14,7 @@
 ||DS2SP&br;iOS|~|~|''876700点''|~|~|~||
 ||Wii5SP&br;PS4 1|~|~|''887580点''|~|700点|190点||
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''987400点''}|~|COLOR(#ff3300){2500点}|-||
+|AC16.1.0SP||~|~|''994000点''|~|2600点|-||
 
 ***譜面構成・攻略 [#capture]
 -BPMは約145。
@@ -51,5 +52,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-PSP2・DS2・Wii3・iOS（未確認：AC6・PSP1）では1本目の連打は＋1拍長い
-&ref(kuraroh.png,nolink);
+~PSP2・DS2・Wii3・iOS（未確認：AC6・PSP1）では1本目の連打は＋1拍長い
+~&ref(kuraroh.png,nolink);

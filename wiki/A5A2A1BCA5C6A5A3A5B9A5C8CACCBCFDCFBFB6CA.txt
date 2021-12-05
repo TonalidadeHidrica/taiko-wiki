@@ -756,6 +756,14 @@
 |''あなたと''((絢香×コブクロ名義))|72|[[★×2>難易度表/かんたん/あなたと]]|[[★×2>難易度表/ふつう/あなたと]]|[[★×5>難易度表/むずかしい/あなたと]]|[[★×5>難易度表/おに/あなたと]]|
 |''今、咲き誇る花たちよ''|195|[[★×3>難易度表/かんたん/今、咲き誇る花たちよ]]|[[★×5>難易度表/ふつう/今、咲き誇る花たちよ]]|[[★×5>難易度表/むずかしい/今、咲き誇る花たちよ]]|[[★×6>難易度表/おに/今、咲き誇る花たちよ]]|
 
+***駒形友梨 (2曲) [#koma]
+||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|>|>|>|>|>|BGCOLOR(orange):''アニメ''|
+|''SHINE!! キラキラ☆プリキュアアラモード''|174|[[★×2>難易度表/かんたん/SHINE!! キラキラ☆プリキュアアラモード]]|[[★×3>難易度表/ふつう/SHINE!! キラキラ☆プリキュアアラモード]]|[[★×4>難易度表/むずかしい/SHINE!! キラキラ☆プリキュアアラモード]]|[[★×6>難易度表/おに/SHINE!! キラキラ☆プリキュアアラモード]]|
+|>|>|>|>|>|BGCOLOR(darkorchid):&color(white){''ゲームミュージック''};|
+|''BORN ON DREAM! 〜HANABI☆NIGHT〜''|152|[[★×3>難易度表/かんたん/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|[[★×3>難易度表/ふつう/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|[[★×5>難易度表/むずかしい/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|[[★×8>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|
+
 ***Gorie with Jasmine & Joann (2曲) [#gorie]
 ||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
@@ -1951,4 +1959,4 @@
 *コメント [#comment]
 -&color(#3333ff){''曲の収録などの要望はここではなく[[公式Twitter>http://twitter.com/taiko_team]]にてお願いします。''};
 -COLOR(red){''1曲しか収録されていないアーティストは載せていません。◯◯が載っていない等のコメントをする際は1曲しか収録されていないアーティストかどうかを確認してからコメントするようにしてください。''}
-#pcomment(,25,noname)
+#pcomment(,10,noname)
