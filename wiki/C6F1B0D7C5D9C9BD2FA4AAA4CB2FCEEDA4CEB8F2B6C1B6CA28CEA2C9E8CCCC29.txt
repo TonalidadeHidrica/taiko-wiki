@@ -31,4 +31,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(zerosy_x.png,nolink);
+~&attachref(zerosy_x2.png,nolink);

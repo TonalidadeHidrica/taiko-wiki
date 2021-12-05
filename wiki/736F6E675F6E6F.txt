@@ -1032,7 +1032,7 @@
 |930|[[ALiVE>難易度表/おに/ALiVE]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
 |931|[[JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|pacm40||
 |932|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
-|933|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
+|933|[[Leviathan>難易度表/おに/Leviathan]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
 |934|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
 |935|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
 |936|[[Smile! Smile! Smile!>難易度表/おに/Smile! Smile! Smile!]]|BGCOLOR(yellow):キッズ|?||
