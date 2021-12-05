@@ -3,7 +3,7 @@
 ***詳細 [#details]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差||h
-|''AC6''||''ポップス''|★×10|''765''|''1396000点''|+連打|-|-||
+|''AC6''||''ポップス''((曲から選ぶ！では''ナムコオリジナル''))|★×10|''765''|''1396000点''|+連打|-|-||
 ||CS4|''ナムコ&br;オリジナル''|~|~|''1387000点''|~|-|-||
 |AC7||~|~|~|''1444900点''|~|-|-|''ゴーゴーバグあり''|
 ||PSP1|~|~|~|''1448600点''|~|-|-|~|
@@ -40,7 +40,7 @@
 -[[むずかしい>難易度表/むずかしい/スクロール・ミカ]]
 -[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20170715032749/http://taikoblog.namco-ch.net/blog/2009/06/post_103.html]]
 -[[歌詞紹介(アーカイブ)>https://web.archive.org/web/20111117102027/http://taikoblog.namco-ch.net:80/lyrics/2008/08/post_13.html]]
--[[オート動画>http://www.youtube.com/watch?v=Q94sPggHjvU]]
+-[[オート動画(Wii5)>http://www.youtube.com/watch?v=Q94sPggHjvU]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

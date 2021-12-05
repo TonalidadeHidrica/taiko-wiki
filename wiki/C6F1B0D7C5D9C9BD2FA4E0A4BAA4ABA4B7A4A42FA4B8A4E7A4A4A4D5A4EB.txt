@@ -9,6 +9,7 @@
 |CENTER:COLOR(#ff3300){真打モード}||CENTER:★×6|~|CENTER:COLOR(#ff3300){''798500点''}|~|CENTER:COLOR(#ff3300){2250点}|CENTER:-|
 |CENTER:AC15.1.0|CENTER:Wii U3DL|~|~|CENTER:''796580点''|~|CENTER:720点|CENTER:193点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){2840点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''998400点''|~|CENTER:3200点|CENTER:-|
 -BPMは159。
 -8分の複合が主体の譜面で、ゴーゴーからは16分も出てくる。
 --16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
