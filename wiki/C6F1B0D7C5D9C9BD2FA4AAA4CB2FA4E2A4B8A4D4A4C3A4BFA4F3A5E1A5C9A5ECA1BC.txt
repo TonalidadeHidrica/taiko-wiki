@@ -8,12 +8,12 @@
 |AC4||~|★×7|''487''|''785000点''|~|-|-|~|
 ||TDM|BGCOLOR(orangered):''Namco&br;Original''|★×6|~|~|~|-|-|~|
 ||PSP1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|~|''826200点''|~|-|-|''ゴーゴー&br;バグあり''|
-|AC8、9||~|★×6|~|''950550点''|~|740点|120点||
-||DS1|~|★×8|COLOR(#909){''739}&br;COLOR(#069){588}&br;COLOR(#666){500''}|''1002960点''||340点|100点|~|
-|AC10-14|iOS&br;AR|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|~|''1000880点''||~|~|~|
-|AC11亜,12亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|~|
-|COLOR(#ff3300){真打モード}&br;COLOR(#ff3300){真打}||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|COLOR(#ff3300){''1000980点''}||COLOR(#ff3300){1340点}|-|~|
-||Wii5SP&br;Wii U3SP&br;PS4 1DL&br;NS1DL|~|~|~|''1007010点''||420点|105点|~|
+|AC8-9||~|★×6|~|''950550点''|~|740点|120点||
+||DS1|~|★×8|COLOR(#909){''739}&br;COLOR(#069){588}&br;COLOR(#666){500''}|''1002960点''|~|340点|100点|~|
+|AC10-14|iOS&br;AR|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|~|''1000880点''|~|~|~|~|
+|AC11亜&br;AC12亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|~|
+|COLOR(#ff3300){真打モード}&br;COLOR(#ff3300){真打}||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|COLOR(#ff3300){''1000980点''}|~|COLOR(#ff3300){1340点}|-|~|
+||Wii5SP&br;Wii U3SP&br;PS4 1DL&br;NS1DL|~|~|~|''1007010点''|~|420点|105点|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは168。
@@ -51,10 +51,10 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-CS1譜面は[[むずかしい>難易度表/むずかしい/もじぴったんメドレー]]を参照~
-DS1のみ88小節がゴーゴー
-&attachref(moji.png,nolink);
+~CS1譜面は[[むずかしい>難易度表/むずかしい/もじぴったんメドレー]]を参照
+~DS1のみ88小節がゴーゴー
+~&attachref(moji.png,nolink);
 
-~旧譜面~
-ゴーゴーはPSP1のもの。AC4・TDMにはゴーゴーは定義されていません
-&attachref(もじぴったんメドレー(旧譜面).png,nolink);
+~旧譜面
+~ゴーゴーはPSP1のもの。AC4・TDMにはゴーゴーは定義されていません
+~&attachref(もじぴったんメドレー(旧譜面).png,nolink);

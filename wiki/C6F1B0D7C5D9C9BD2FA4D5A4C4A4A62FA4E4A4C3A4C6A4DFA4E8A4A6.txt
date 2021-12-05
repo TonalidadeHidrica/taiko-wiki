@@ -1,12 +1,14 @@
 *やってみよう [#title]
 -au「''三太郎シリーズ''」CMソング。
 
-***詳細・攻略 [#more]
+***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
-|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.9.4''|BGCOLOR(cyan):''J-POP''|CENTER:★×4|CENTER:''99''|CENTER:''550530点''|CENTER:＋連打|CENTER:1290点|CENTER:860点|
-|CENTER:COLOR(#ff3300){真打}|~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){7570点}|CENTER:-|
-|CENTER:AC16.1.0|BGCOLOR(cyan):''ポップス''|~|~|CENTER:''1000130点''|~|CENTER:10070点|CENTER:-|
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.9.4''|BGCOLOR(cyan):''J-POP''|★×4|''99''|''550530点''|＋連打|1290点|860点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){7570点}|-|
+|AC16.1.0|BGCOLOR(cyan):''ポップス''|~|~|''1000130点''|~|10070点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは約260。
 --速度がかなり速いが、''低速HSはかかっていない''。
 -ほとんどが面で、縁は全体の約5.05%しかない（5/99）。
@@ -29,12 +31,12 @@
 -[[かんたん>難易度表/かんたん/やってみよう]]
 -[[むずかしい>難易度表/むずかしい/やってみよう]]
 -[[おに>難易度表/おに/やってみよう]]
--[[プレイ動画(直撮り)>https://youtu.be/PLoO2axNBoM]]
+-[[プレイ動画(直撮り)>https://www.youtube.com/watch?v=PLoO2axNBoM]]
 -[[プレイ動画(全難易度)>https://www.youtube.com/watch?v=DFSRXowk8ps]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-BPM、風船、くすだまは適当
-&attachref(やってみようふつう.png,nolink);
+~BPM、風船、くすだまは適当
+~&attachref(やってみようふつう.png,nolink);

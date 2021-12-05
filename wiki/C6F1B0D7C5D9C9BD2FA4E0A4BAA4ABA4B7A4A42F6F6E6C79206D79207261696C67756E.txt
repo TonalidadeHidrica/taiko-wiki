@@ -1,12 +1,12 @@
 *only my railgun [#title]
 -アニメ[[「''とある科学の&ruby(レールガン){超電磁砲};''」>アニメ別収録曲#toaru]]のOP1。
 ***詳細 [#detail]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|AC15.11.0|CENTER:''PS Vita1''&br;Wii U3DL&br;PS4 1DL|CENTER:★×6|CENTER:''263''|CENTER:''780620点''|CENTER:＋連打|CENTER:850点|CENTER:253点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3480点}|CENTER:-|
-||iOS&br;AR|~|~|''?????0点''|~|???点|???点|
-|AC16.1.0||~|~|''989250点''|~|3750点|-|
+CENTER:||CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|AC15.11.0|CENTER:''PS Vita1''&br;Wii U3DL&br;PS4 1DL&br;NS1DL|CENTER:BGCOLOR(orange):''アニメ''|CENTER:★×6|CENTER:''263''|CENTER:''780620点''|CENTER:＋連打|CENTER:850点|CENTER:253点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3480点}|CENTER:-|
+||iOS&br;AR|~|~|~|''?????0点''|~|???点|???点|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''989250点''|~|3750点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは143。

@@ -38,37 +38,36 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~譜面が追い越す箇所のHSは1.5。
 #region(小節線部分の詳細)
 ~HSは暫定
 
 ■60〜67小節~
 前から
- (#BPMCHANGE 160)
- #SCROLL 1.07
- #SCROLL 1.14
- #SCROLL 1.21
- #SCROLL 1.29
- #SCROLL 1.36
- #SCROLL 1.43
- #SCROLL 1.5
- #SCROLL 1.57
+ BPMCHANGE 160
+ SCROLL 1.07
+ SCROLL 1.14
+ SCROLL 1.21
+ SCROLL 1.29
+ SCROLL 1.36
+ SCROLL 1.43
+ SCROLL 1.5
+ SCROLL 1.57
 
 ■68〜73小節~
 前から~
- (#BPMCHANGE 240)
- #SCROLL 1.1
- #SCROLL 1.14
- #SCROLL 1.19
- #SCROLL 1.24
- #SCROLL 1.29
- #SCROLL 1.33
+ BPMCHANGE 240
+ SCROLL 1.1
+ SCROLL 1.14
+ SCROLL 1.19
+ SCROLL 1.24
+ SCROLL 1.29
+ SCROLL 1.33
 
 ■74小節~
- (#BPMCHANGE 160)
- #SCROLL 3
-
+ BPMCHANGE 160
+ SCROLL 3
 #endregion
-
 ~&attachref(while_true_.png,nolink);
 
 ~小節線の拡大(400%)~

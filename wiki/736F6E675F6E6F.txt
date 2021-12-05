@@ -250,7 +250,7 @@
 |192|BGCOLOR(#ccc):[[夜咄ディセイブ>難易度表/おに/夜咄ディセイブ]]|BGCOLOR(darkgray):ボカロ|BGCOLOR(#ccc):iaybns|BGCOLOR(#ccc):〜18/3/15　サヨナラ曲|
 |193|[[スクロール・ミカ>難易度表/おに/スクロール・ミカ]]|BGCOLOR(orangered):ナムオリ|idol2||
 |194|[[Ignis Danse>難易度表/おに/Ignis Danse]]|BGCOLOR(orangered):ナムオリ|ignis||
-|195|[[イケナイ太陽>難易度表/おに/イケナイ太陽]]|BGCOLOR(cyan):J-POP|ikenai||
+|195|[[イケナイ太陽>難易度表/おに/イケナイ太陽]]|BGCOLOR(cyan):J-POP|ikenai|〜20/11/8　サヨナラ曲|
 |196|[[夢色コースター>難易度表/おに/夢色コースター]]|BGCOLOR(orangered):ナムオリ|ikshim||
 |197|[[The world is all one !!>難易度表/おに/The world is all one !!]]|BGCOLOR(darkorchid):ゲーミュ|imas2t||
 |198|[[READY!!>難易度表/おに/READY!!]]|BGCOLOR(darkorchid):ゲーミュ|imasop||
@@ -809,7 +809,7 @@
 |707|[[Brand New Theater!>難易度表/おに/Brand New Theater!]]|BGCOLOR(darkorchid):ゲーミュ|immbra||
 |708|BGCOLOR(#ccc):[[Groovy Duel>難易度表/おに/Groovy Duel]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):gdmtb|BGCOLOR(#ccc):〜18/10/23　サヨナラ曲|
 |709|[[Reason!!>難易度表/おに/Reason!!]]|BGCOLOR(darkorchid):ゲーミュ|imersn||
-|710|[[TT -Japanese ver.->難易度表/おに/TT -Japanese ver.-]]|BGCOLOR(cyan):J-POP|twctt||
+|710|[[TT -Japanese ver.->難易度表/おに/TT -Japanese ver.-]]|BGCOLOR(cyan):J-POP|twctt|〜20/11/8　サヨナラ曲|
 |711|[[見たこともない景色>難易度表/おに/見たこともない景色]]|BGCOLOR(cyan):J-POP|mnkesk||
 |712|[[Be The One>難易度表/おに/Be The One]]|BGCOLOR(orange):アニメ|krbld||
 |713|[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]|BGCOLOR(darkorchid):ゲーミュ|genpe2||
@@ -817,7 +817,7 @@
 |715|[[Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|BGCOLOR(orangered):ナムオリ|bbb||
 |716|[[彼は誰時の誘惑>難易度表/おに/彼は誰時の誘惑]]|BGCOLOR(orangered):ナムオリ|kahata||
 |717|[[SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]]|BGCOLOR(darkorchid):ゲーミュ|rrsam||
-|718|[[WiSH VOYAGE>難易度表/おに/WiSH VOYAGE]]|BGCOLOR(orange):アニメ|i7wish||
+|718|[[WiSH VOYAGE>難易度表/おに/WiSH VOYAGE]]|BGCOLOR(orange):アニメ|i7wish|〜20/11/8　サヨナラ曲|
 |719|[[SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|BGCOLOR(orangered):ナムオリ|sora7x||
 |720|[[哀 want U>難易度表/おに/哀 want U]]|BGCOLOR(orangered):ナムオリ|iwantu||
 |721|[[ダンガンノーツ>難易度表/おに/ダンガンノーツ]]|BGCOLOR(orangered):ナムオリ|csmdgn||

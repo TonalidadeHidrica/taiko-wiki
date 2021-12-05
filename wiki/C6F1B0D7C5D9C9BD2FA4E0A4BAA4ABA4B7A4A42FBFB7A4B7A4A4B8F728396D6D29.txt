@@ -1,9 +1,10 @@
 *新しい光 SIZE(16){9mm Parabellum Bullet} [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.1.0''〜15.5.4|CENTER:★×8|CENTER:''666''|CENTER:''903890点''|CENTER:410点|CENTER:105点|
+|CENTER:''AC15.1.0''-15.5.4|CENTER:★×8|CENTER:''666''|CENTER:''903890点''|CENTER:410点|CENTER:105点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''1002520点''}|CENTER:COLOR(#ff3300){1420点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは約180。
 --[[Punishment>難易度表/むずかしい/Punishment]]ほどではないが、気付かない程度に変化している。
 -''完全精度曲''のひとつ。
@@ -26,11 +27,11 @@
 -2014年11月5日 (水) 7 : 00を以てサヨナラとなった。
 --モモイロVer.以前の新筐体からもサヨナラになった上に、新筐体以前のACには収録されておらず、現時点でどのCSにも収録されていないため、''この曲を遊べる作品は現在存在していない''。
 --むずかしい★×8の曲が太鼓の達人で全く遊べなくなったのはこの曲が初めて。
-
+----
 -[[かんたん>難易度表/かんたん/新しい光(9mm)]]
 -[[ふつう>難易度表/ふつう/新しい光(9mm)]]
 -[[おに>難易度表/おに/新しい光(9mm)]]
--[[プレイ動画(直撮り、可7、音色ドラム)>https://youtu.be/LKoGukV0cDE]]
+-[[プレイ動画(直撮り、可7、音色ドラム)>https://www.youtube.com/watch?v=LKoGukV0cDE]]
 
 ***コメント [#comment]
 #pcomment(,noname)
