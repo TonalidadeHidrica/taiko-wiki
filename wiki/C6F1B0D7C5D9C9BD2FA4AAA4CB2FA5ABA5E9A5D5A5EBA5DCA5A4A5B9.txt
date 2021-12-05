@@ -55,5 +55,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~見た目重視
-&ref(Colorful Voice Omote.png,nolink);
+&ref(csmclr_m.png,nolink);

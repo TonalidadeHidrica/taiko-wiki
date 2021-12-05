@@ -41,7 +41,9 @@
 -[[かんたん>難易度表/かんたん/Purple Rose Fusion]]
 -[[ふつう>難易度表/ふつう/Purple Rose Fusion]]
 -[[むずかしい>難易度表/むずかしい/Purple Rose Fusion]]
--[[プレイ動画>https://www.youtube.com/watch?v=grnJccgLqnY]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=grnJccgLqnY&t=12s]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=yKHJRfrENJE&t=13s]]
+-[[オート動画(Wii U1)>https://www.youtube.com/watch?v=tCYcuufyddI]]((仕様によりHS1.05が掛かっています))
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

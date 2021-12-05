@@ -68,10 +68,11 @@
 -[[かんたん>難易度表/かんたん/てんぢく2000]]
 -[[ふつう>難易度表/ふつう/てんぢく2000]]
 -[[むずかしい>難易度表/むずかしい/てんぢく2000]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=iS1fbwLLoAc&t=10s]]
+-[[オート動画(Wii U3)>https://www.youtube.com/watch?v=VPySdsRIEqI]]
 -[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20160415151148/http://taikoblog.namco-ch.net/blog/2008/01/20002000_13.html]]
 -[[楽曲紹介(譜面編・アーカイブ)>https://web.archive.org/web/20160415150145/http://taikoblog.namco-ch.net/blog/2008/01/20002000_14.html]]
 -[[歌詞紹介(アーカイブ)>https://web.archive.org/web/20180720141507/http://taikoblog.namco-ch.net/lyrics/2007/09/2000.html]]
--[[オート動画>https://www.youtube.com/watch?v=VPySdsRIEqI]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

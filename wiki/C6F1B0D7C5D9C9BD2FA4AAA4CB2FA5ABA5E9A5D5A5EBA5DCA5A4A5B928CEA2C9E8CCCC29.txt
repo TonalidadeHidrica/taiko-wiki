@@ -38,8 +38,8 @@
 -[[ふつう>難易度表/ふつう/カラフルボイス]]
 -[[むずかしい>難易度表/むずかしい/カラフルボイス]]
 -[[おに>難易度表/おに/カラフルボイス]]/裏譜面
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=dAXBS9Lmh4c&t=14]]
--[[公式MV>https://www.youtube.com/watch?v=Pn8xZq-CJjQ]]
+-[[プレイ動画(キャプチャ)>https://youtu.be/dAXBS9Lmh4c?t=14]]
+-[[公式MV>https://youtu.be/Pn8xZq-CJjQ]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -47,9 +47,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~HSは暫定ですがほぼ合っています。~
-118-148の小節線は32分音符1つ右にズレ。~
-&attachref(Colorful Voice Ura_3.png,nolink);
+&attachref(csmclr_x2.png,nolink);
 
 ~加速地帯の譜面画像（HSは音符のみ、実際には小節線に音符とは別のHSあり）~
 小節線は16分音符1つ右~

@@ -35,12 +35,13 @@
 -この曲は太鼓の達人、maimai、GROOVE COASTER、jubeat音ゲ祭参加4機種以外、KONAMIのBEMANIシリーズ作品beatmania ��DX、REFLEC BEAT、pop'n musicと''7機種''にわたり収録されている。
 --jubeat clanではこの曲のホールド譜面が追加された。
 -曲IDは、''fauna''。
+
 -----
 -[[かんたん>難易度表/かんたん/Scars of FAUNA]]
 -[[ふつう>難易度表/ふつう/Scars of FAUNA]]
 -[[むずかしい>難易度表/むずかしい/Scars of FAUNA]]
 -[[楽曲紹介(天下一音ゲ祭)>https://web.archive.org/web/20170717123826/http://www.gamesday.jp/otoge/block/2014-release-01]]((リンク先はWeb Archive))
--[[プレイ動画>https://www.youtube.com/watch?v=5DlpZloCSKY]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=wNMOql8l5Ac&t=9s]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

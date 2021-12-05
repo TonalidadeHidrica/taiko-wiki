@@ -24,7 +24,7 @@
 -[[かんたん>難易度表/かんたん/エクラン ルブラン]]
 -[[ふつう>難易度表/ふつう/エクラン ルブラン]]
 -[[おに>難易度表/おに/エクラン ルブラン]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=x1G41aoQ_u4]]
+//-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=x1G41aoQ_u4]]
 
 ***コメント [#comment]
 #pcomment(,noname)
