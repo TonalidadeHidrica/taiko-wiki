@@ -52,8 +52,7 @@
 -[[むずかしい>難易度表/むずかしい/初音ミクの消失‐劇場版‐]]
 -[[おに>難易度表/おに/初音ミクの消失‐劇場版‐]]/裏譜面
 -[[オート動画(Wii5)>https://youtu.be/tLlcONJmaQU]]
--[[プレイ動画(キャプチャ)>https://youtu.be/_09sv02_NPA]]
--[[オート動画(Wii5)>https://youtu.be/ndJsd_z3dSU]]
+-[[オート動画(Wii U1)>https://m.youtube.com/watch?feature=youtu.be&v=CjWg9BMGbn0&t=11s]]((仕様によりHS1.05が掛かっています))
 #region(低画質版)
 -[[オート動画(Wii5)>https://www.youtube.com/watch?v=Xyyku25I0M4]]
 #endregion

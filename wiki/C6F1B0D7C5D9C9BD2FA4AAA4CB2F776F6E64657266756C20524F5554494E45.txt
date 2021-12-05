@@ -39,4 +39,4 @@
 
 ***譜面 [#score]
 ~HSは暫定、60~73小節のHSは未記載です
-~&attachref(素晴らしい慣例_.png,nolink);
+~&attachref(素晴らしい慣例_3.png,nolink);

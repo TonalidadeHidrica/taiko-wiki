@@ -26,3 +26,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~&attachref(いっそかんたん.png,nolink);

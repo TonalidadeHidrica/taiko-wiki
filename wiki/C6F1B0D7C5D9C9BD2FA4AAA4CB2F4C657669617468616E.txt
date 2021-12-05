@@ -30,5 +30,4 @@
 
 ***譜面 [#score]
 ~色々と暫定版
-~三つ目の風船は4打。
-~&attachref(Leviathan.png,nolink);
+~&attachref(Leviathan_3.png,nolink);
