@@ -26,6 +26,7 @@
 |たこやき|[[太鼓の達人&br;オリジナルサウンドトラック&br;たこやき>http://city-connection.co.jp/taiko/vol03.html]]|ラムネ|[[太鼓の達人&br;オリジナルサウンドトラック&br;ラムネ>http://city-connection.co.jp/taiko/vol04.html]]|
 |かきごお|[[太鼓の達人&br;オリジナルサウンドトラック&br;かきごおり>http://city-connection.co.jp/taiko/vol05.html]]|わたがし|[[太鼓の達人&br;オリジナルサウンドトラック&br;わたがし>http://city-connection.co.jp/taiko/vol06.html]]|
 |カステラ|[[太鼓の達人&br;オリジナルサウンドトラック&br;ベビーカステラ>http://city-connection.co.jp/taiko/vol07.html]]|かたぬき|[[太鼓の達人&br;オリジナルサウンドトラック&br;かたぬき>http://city-connection.co.jp/taiko/vol08.html]]|
+|神曲|[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「神曲コレクション」>https://nex-tone.link/A00092884]]|>|BGCOLOR(#ccc):|
 #endregion
 
 |1||||55||c
@@ -60,7 +61,7 @@
 |BGCOLOR(orangered):|[[エゴエゴアタクシ>難易度表/おに/エゴエゴアタクシ]]|中村繪里子#1|中川浩二|2008||
 |BGCOLOR(orangered):|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|佐藤美香|増渕裕二|レッド&br;2008||
 |BGCOLOR(orangered):|[[エレクトリック・ポストマン>難易度表/おに/エレクトリック・ポストマン]]|ЯIRE|Mitchie M|りんご||
-|BGCOLOR(orangered):|[[エンジェル ドリーム>難易度表/おに/エンジェル ドリーム]]|たかみつようこ|岡部啓一|2008&br;ソライロ&br;超ごうか|ソライロはオフボーカルも収録&br;超ごうかは「たたいておうえんチアリーダー！」というタイトルで一部収録|
+|BGCOLOR(orangered):|[[エンジェル ドリーム>難易度表/おに/エンジェル ドリーム]]|たかみつようこ|岡部啓一|2008&br;ソライロ&br;超ごうか&br;神曲|ソライロはオフボーカルも収録&br;超ごうかは「たたいておうえんチアリーダー！」というタイトルで一部収録|
 |BGCOLOR(gold):|[[エンターテイナー>難易度表/おに/エンターテイナー]]|-|スコット・ジョップリン(柴野浩美)|2008||
 |BGCOLOR(orangered):|[[桜花爛漫>難易度表/おに/桜花爛漫]]|-|西込加久見|もろこし||
 |BGCOLOR(orangered):|[[大空と太鼓の踊り>難易度表/おに/大空と太鼓の踊り]]|-|paraμ|カステラ||
@@ -107,7 +108,7 @@
 |BGCOLOR(orangered):|[[彼は誰時の誘惑>難易度表/おに/彼は誰時の誘惑]]|-|t+pazolite|ラムネ||
 |BGCOLOR(orangered):|[[ガンスリンガーシンデレラ>難易度表/おに/ガンスリンガーシンデレラ]]|ヒスイリカ|TiS／Cineraria Studio|ラムネ||
 |BGCOLOR(orangered):|[[季曲 〜Seasons of Asia〜>難易度表/おに/季曲 〜Seasons of Asia〜]]|-|�蚋�偉|2008||
-|BGCOLOR(orangered):|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|-|LindaAI-CUE|2008||
+|BGCOLOR(orangered):|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|-|LindaAI-CUE|2008&br;神曲||
 |BGCOLOR(orangered):|[[黄ダルマ2000>難易度表/おに/黄ダルマ2000]]|MC Linn(黄ダルマ)|LindaAI-CUE|ドンダ||
 |BGCOLOR(orangered):|[[喫茶レイン>難易度表/おに/喫茶レイン]]|-|柴野浩美|フルコン||
 |BGCOLOR(orangered):|[[きっと もっと ずっと>難易度表/おに/きっと　もっと　ずっと]]|水木一郎、堀江美都子、影山ヒロノブ|岡部啓一|アニスペ|フルver.|
@@ -192,7 +193,7 @@
 |BGCOLOR(orangered):|[[須佐之男>難易度表/おに/須佐之男]]|-|Tatsh a.k.a. 世阿弥|ラムネ||
 |BGCOLOR(darkorchid):|[[スタートリゴンのテーマ>難易度表/おに/スタートリゴンのテーマ]]|梅郷あゆみ|自営山|フルコン||
 |BGCOLOR(orangered):|[[スポーツダイジェスドン 〜Fill In The Sky〜>難易度表/おに/スポーツダイジェスドン]]|-|中鶴潤一|2008||
-|BGCOLOR(orangered):|[[セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]|葉月ゆら|Drop|ラムネ||
+|BGCOLOR(orangered):|[[セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]|葉月ゆら|Drop|ラムネ&br;神曲||
 |BGCOLOR(gold):|[[聖者の行進>難易度表/おに/聖者の行進]]|K.D.Brosia|作曲者不詳(自営山)|フルコン||
 |BGCOLOR(orangered):|[[蛻変 〜transformation〜>難易度表/おに/蛻変 〜transformation〜]]|-|�蚋�偉|フルコン||
 |BGCOLOR(orangered):|[[世界はいつでもミステリー>難易度表/おに/世界はいつでもミステリー]]|HONOKA|トリ音|わたがし|フルver.|
@@ -264,7 +265,7 @@
 |BGCOLOR(gold):|[[弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|-|ヴィヴァルディ(田島勝朗)|カステラ|出典:「四季」より「夏」第3楽章|
 |BGCOLOR(silver):|[[ドキドキ恋の予感!?>難易度表/おに/ドキドキ恋の予感！？]]|GUMI|Noriyuki|たこやき||
 |BGCOLOR(orangered):|[[どきどき☆どんちゃん騒ぎ>難易度表/おに/どきどき☆どんちゃん騒ぎ]]|和田どん・和田かつ(CV:ならはしみき)|トリ音|超ごうか&br;わたがし|超ごうかは「瞬間爽快！どんちゃん騒ぎ」というタイトルで一部収録|
-|BGCOLOR(orangered):|[[ドキドキ胸きゅん おまつりタイム>難易度表/おに/ドキドキ胸きゅん おまつりタイム]]|畠山奈美子|MOES|わたがし||
+|BGCOLOR(orangered):|[[ドキドキ胸きゅん おまつりタイム>難易度表/おに/ドキドキ胸きゅん おまつりタイム]]|畠山奈美子|MOES|わたがし&br;神曲||
 |BGCOLOR(orangered):|[[毒LOＣＡＮdy&#9825;>難易度表/おに/毒LOCANdy]]|-|t+pazolite|ラムネ||
 |BGCOLOR(orangered):|[[ドコDON★まつリズム>難易度表/おに/ドコDON☆まつリズム]]|たかはし智秋|大上昌子|フルコン||
 |BGCOLOR(orangered):|[[常闇の森 序章「邪神復活の夜」>難易度表/おに/常闇の森 序章「邪神復活の夜」]]|-|帆足圭吾|ドンダ||
@@ -390,7 +391,7 @@
 |BGCOLOR(orangered):|[[闇の魂>難易度表/おに/闇の魂]]|-|矢野義人|2008||
 |BGCOLOR(orangered):|[[闇の魔法少女>難易度表/おに/闇の魔法少女]]|Silver Forest feat. アキ|NYO／Silver Forest|りんご||
 |BGCOLOR(orangered):|[[ユウガオノキミ>難易度表/おに/ユウガオノキミ]]|Tomokazu Sano|岡部啓一|フルコン||
-|BGCOLOR(orangered):|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]|-|世阿弥|ラムネ||
+|BGCOLOR(orangered):|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]|-|世阿弥|ラムネ&br;神曲||
 |BGCOLOR(orangered):|[[友情ぽっぷ>難易度表/おに/友情ぽっぷ]]|茶太|みらゐ|ドンダ||
 |BGCOLOR(orangered):|[[夢色コースター>難易度表/おに/夢色コースター]]|霜月はるか|駒場雅信|ドンダ||
 |BGCOLOR(orangered):|[[夢と現実の境界線>難易度表/おに/夢と現実の境界線]]|ゆずり|OMOCHI|ラムネ||
@@ -441,7 +442,7 @@
 |BGCOLOR(darkorchid):|[[AWAKE 〜マッスル目覚めのテーマ〜>難易度表/おに/AWAKE]]|蟹プリンス|矢野義人|ドンダ||
 |BGCOLOR(orangered):|[[BE THE ACE>難易度表/おに/BE THE ACE]]|泰勇気((アニスペでは秦勇気と誤植))|岡部啓一|アニスペ||
 |BGCOLOR(orangered):|[[Black Rose Apostle>難易度表/おに/Black Rose Apostle]]|-|世阿弥|フルコン||
-|BGCOLOR(orangered):|[[Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|-|steμ|かきごお||
+|BGCOLOR(orangered):|[[Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|-|steμ|かきごお&br;神曲||
 |BGCOLOR(orangered):|[[Blue Rose Ruin>難易度表/おに/Blue Rose Ruin]]|-|世阿弥|フルコン||
 |BGCOLOR(orangered):|[[Calculator>難易度表/おに/Calculator]]|-|M-O-T-U|かきごお||
 |BGCOLOR(orangered):|[[Choco Chiptune.>難易度表/おに/Choco Chiptune.]]|-|Ancraft|かきごお||
@@ -452,16 +453,16 @@
 |BGCOLOR(darkorchid):|[[Diver>難易度表/おに/Diver]]|黒瀬佳子|Kawagen Kollagen|カステラ||
 |BGCOLOR(orangered):|[[DON'T CUT>難易度表/おに/DON'T CUT]]|中川奈美|岡部啓一|ドンダ||
 |BGCOLOR(orangered):|[[Dream Tide -夢の潮流->難易度表/おに/Dream Tide]]|茶太|みらゐ|フルコン||
-|BGCOLOR(orangered):|[[D's Adventure Note>難易度表/おに/D's Adventure Note]]|-|よみぃ|かきごお||
+|BGCOLOR(orangered):|[[D's Adventure Note>難易度表/おに/D's Adventure Note]]|-|よみぃ|かきごお&br;神曲||
 |BGCOLOR(silver):|[[EDY -エレクトリカルダンシングヨガ->難易度表/おに/EDY -エレクトリカルダンシングヨガ-]]|鏡音リン、鏡音レン|佐藤たかふみ|たこやき||
 |BGCOLOR(orangered):|[[EkiBEN2000>難易度表/おに/EkiBEN2000]]|MC Linn(黄ダルマ)|LindaAI-CUE|2008||
 |BGCOLOR(silver):|[[Eternal bond>難易度表/おに/Eternal bond]]|GUMI|リューイッティ|たこやき||
 |BGCOLOR(orangered):|[[Evidence of evil>難易度表/おに/Evidence of evil]]|-|AJURIKA|ラムネ|ボイス:AJURIKA|
-|BGCOLOR(orangered):|[[Fly away>難易度表/おに/Fly away]]|谷本貴義|矢野義人|りんご||
+|BGCOLOR(orangered):|[[Fly away>難易度表/おに/Fly away]]|谷本貴義|矢野義人|りんご&br;神曲||
 |BGCOLOR(orangered):|[[FooFooカセット>難易度表/おに/FooFooカセット]]|&#x0053;aChi a.k.a. harineko|はるなば|たこやき||
 |BGCOLOR(orangered):|[[Freeway3234>難易度表/おに/Freeway3234]]|-|mao|かたぬき||
 |BGCOLOR(orangered):|[[GERMINATION>難易度表/おに/GERMINATION]]|-|田島勝朗|かたぬき||
-|BGCOLOR(orangered):|[[Gloria>難易度表/おに/Gloria]]|-|K.key|かきごお||
+|BGCOLOR(orangered):|[[Gloria>難易度表/おに/Gloria]]|-|K.key|かきごお&br;神曲||
 |BGCOLOR(orangered):|[[Growing Up>難易度表/おに/Growing Up]]|TERRA／Mint&#74;am|a2c／Mint&#74;am|フルコン||
 |BGCOLOR(orangered):|[[G意識過剰>難易度表/おに/G意識過剰]]|紫崎雪|かねこちはる|わたがし||
 |BGCOLOR(orangered):|[[Happy & Peace>難易度表/おに/Happy ＆ Peace]]|谷本貴義|西込加久見|アニスペ||
@@ -479,7 +480,7 @@
 |BGCOLOR(orangered):|[[LOVE戦!!>難易度表/おに/LOVE戦!!]]|みゆ|LV.4|ドンダ||
 |BGCOLOR(orangered):|[[MATSURI D/A>難易度表/おに/MATSURI D／A]]|-|Vincent|フルコン||
 |BGCOLOR(orangered):|[[MEKADON 〜宇宙に消えたメカ太鼓〜>難易度表/おに/MEKADON]]|みすみゆり|椎名豪|2008||
-|BGCOLOR(orangered):|[[mint tears>難易度表/おに/mint tears]]|ribbon room|ribbon room|フルコン||
+|BGCOLOR(orangered):|[[mint tears>難易度表/おに/mint tears]]|ribbon room|ribbon room|フルコン&br;神曲||
 |BGCOLOR(orangered):|[[Mulberry>難易度表/おに/Mulberry]]|茶太|みらゐ|フルコン||
 |BGCOLOR(orangered):|[[My Mine>難易度表/おに/My Mine]]|月乃紫音|setzer／Mint&#74;am|ドンダ||
 |BGCOLOR(orangered):|[[My Muscle Heart>難易度表/おに/My Muscle Heart]]|山本椛／monotone|コバヤシユウヤ／IOSYS|わたがし||

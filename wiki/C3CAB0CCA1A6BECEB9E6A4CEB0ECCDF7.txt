@@ -586,7 +586,7 @@
 |〇|BGCOLOR(gold):|二重螺旋の真実に至りし者|[[COLOR(blue):Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|卵には醤油派|[[COLOR(blue):しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):仮想現実のテレスコープ>難易度表/おに/仮想現実のテレスコープ]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
@@ -711,9 +711,9 @@
 |〇|BGCOLOR(pink):|キャッピーだドン！|[[COLOR(blue):Jump Up, Super Star! Short Version>難易度表/おに/Jump Up, Super Star! Short Version]]をプレイ|きせかえ「COLOR(red){マリオオデッセイ}」を獲得|
 |〇|BGCOLOR(pink):|イカしたボーイ|[[COLOR(blue):スプラトゥーン2 メドレー>難易度表/おに/スプラトゥーン2 メドレー]]をプレイ|きせかえ「COLOR(red){スプラトゥーン ボーイ}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):平成仮面ライダー２０作記念|BGCOLOR(grey):[[COLOR(blue):Over “Quartzer”>難易度表/おに/Over “Quartzer”]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダージオウ＆ゲイツ}」を獲得|
-|〇|BGCOLOR(pink):|世界最強の社長|[[COLOR(blue):REAL×EYEZ>難易度表/おに/REAL×EYEZ]]をプレイ|きせかえ「COLOR(red){仮面ライダーゼロワン}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):世界最強の社長|BGCOLOR(grey):[[COLOR(blue):REAL×EYEZ>難易度表/おに/REAL×EYEZ]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーゼロワン}」を獲得|
 |〇|BGCOLOR(pink):|文豪にして剣豪|[[COLOR(blue):ALMIGHTY〜仮面の約束 feat.川上洋平>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]をプレイ|きせかえ「COLOR(red){仮面ライダーセイバー}」を獲得|
-|〇||麦わらの一味|2021/10/20〜11/30にワンピースバトル演奏でカイドウに30勝する||
+|BGCOLOR(grey):〇||BGCOLOR(grey):麦わらの一味|BGCOLOR(grey):2021/10/20〜11/30にワンピースバトル演奏でカイドウに30勝する|BGCOLOR(grey):|
 ||BGCOLOR(pink):|だめだっていったのに|[[COLOR(blue):彁>難易度表/おに/彁]]をプレイ||
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ＧＡＭＥ ＭＵＳＩＣ ＴＲＩＡＮＧＬＥＲ|BGCOLOR(grey):2014/4/17〜4/30の間に[[電車で電車でGO!GO!GO!GC! -GMT remix->難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]と[[ファンタジーゾーン OPA-OPA! -GMT remix->難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]と[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]]を全てプレイ(1プレイ内でなくても可)|BGCOLOR(grey):|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):GMT MASTER|BGCOLOR(grey):2014/5/8〜5/21の間に[[電車で電車で OPA!OPA!OPA! -GMT mashup->難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]と[[オパ！オパ！RACER -GMT mashup->難易度表/おに/オパ！オパ！RACER -GMT mashup-]]と[[リッジでリッジで GO!GO!GO! -GMT mashup->難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]を全てプレイ(1プレイ内でなくても可)|~|

@@ -17,7 +17,7 @@
 -ボーカルに沿った音符配置であるため、原曲を知っていると演奏しやすく感じるだろう。
 -大音符が多く、''50個''(約16.55%)ある。
 -開幕・終盤に登場する複合はCOLOR(red){●●}COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○}やCOLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●}といった基本的なものがほとんどである。
---7小節にCOLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}…のような配置もあるが、難読な複合は出てこないので落ち着いて叩こう。
+--7小節にCOLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}…のような配置もあるが、難解な複合は出てこないので落ち着いて叩こう。
 -18〜19小節にかけては通常音符と大音符が入り混じっており、認識がやや難しい。
 --面と縁の配置だけでみると、COLOR(blue){○}COLOR(red){●}|COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}である。
 -21小節からBPMが倍取りされ、スクロールも速くなる。見た目が変わっても叩く速さは変わらないので、焦りすぎて不可を出さないよう気を付けたい。
@@ -33,13 +33,12 @@
 -16小節の黄色大連打は原曲の「ピカチュウ〜！」をイメージしたものと思われる。
 -譜面作成は、[[裏譜面>難易度表/おに/めざせポケモンマスター -20th Anniversary-(裏譜面)]]と同じく[[''えむけぴ''>譜面作成者一覧/えむけぴ]]。
 -[[ブルーVer.段位道場>過去の段位道場#blue]]の三段2曲目課題曲となった。
-
 ----
 -[[かんたん>難易度表/かんたん/めざせポケモンマスター -20th Anniversary-]]
 -[[ふつう>難易度表/ふつう/めざせポケモンマスター -20th Anniversary-]]
 -[[むずかしい>難易度表/むずかしい/めざせポケモンマスター -20th Anniversary-]]
 -おに/[[裏譜面>難易度表/おに/めざせポケモンマスター -20th Anniversary-(裏譜面)]]
--[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=Y3V9jHBsgSc&t=6s]]
+-[[プレイ動画>https://m.youtube.com/watch?feature=youtu.be&v=Y3V9jHBsgSc&t=6s]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

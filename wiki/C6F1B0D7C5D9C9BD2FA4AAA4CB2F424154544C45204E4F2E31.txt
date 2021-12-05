@@ -73,10 +73,10 @@
 
 ***ÉèÌÌ [#score]
 ~[[COLOR(#333){''Á´ÉèÌÌ''}>#oll]] ¡Ý [[COLOR(#215dc6){ÉáÄÌÉèÌÌ}>#futsu]] ¡Ý [[COLOR(#215dc6){¸¼¿ÍÉèÌÌ}>#kuro]] ¡Ý [[COLOR(#215dc6):Ã£¿ÍÉèÌÌ>#tatsu]]&aname(oll);
-~&ref(¤´±éÁÕ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤·¤¿! TANO¡úC Sound TeamÀèÀ¸¤Î¼¡²óºî¤Ë¤´´üÂÔ¤¯¤À¤µ¤¤!!_4.png,nolink);
+~&ref(¤´±éÁÕ¤¢¤ê¤¬¤È¤¦¤´¤¶¤¤¤Þ¤·¤¿! TANO¡úC Sound TeamÀèÀ¸¤Î¼¡²óºî¤Ë¤´´üÂÔ¤¯¤À¤µ¤¤!!_5.png,nolink);
 ~[[COLOR(#215dc6){Á´ÉèÌÌ}>#oll]] ¡Ý [[COLOR(#333){''ÉáÄÌÉèÌÌ''}>#futsu]] ¡Ý [[COLOR(#215dc6){¸¼¿ÍÉèÌÌ}>#kuro]] ¡Ý [[COLOR(#215dc6):Ã£¿ÍÉèÌÌ>#tatsu]]&aname(futsu);
 ~&ref(BATTLE NO.1_f5.png,nolink);
 ~[[COLOR(#215dc6){Á´ÉèÌÌ}>#oll]] ¡Ý [[COLOR(#215dc6){ÉáÄÌÉèÌÌ}>#futsu]] ¡Ý [[COLOR(#333){''¸¼¿ÍÉèÌÌ''}>#kuro]] ¡Ý [[COLOR(#215dc6):Ã£¿ÍÉèÌÌ>#tatsu]]&aname(kuro);
 ~&ref(BATTLE NO.1_k2.png,nolink);
 ~[[COLOR(#215dc6){Á´ÉèÌÌ}>#oll]] ¡Ý [[COLOR(#215dc6){ÉáÄÌÉèÌÌ}>#futsu]] ¡Ý [[COLOR(#215dc6){¸¼¿ÍÉèÌÌ}>#kuro]] ¡Ý [[COLOR(#333):''Ã£¿ÍÉèÌÌ''>#tatsu]]&aname(tatsu);
-~&ref(BATTLE NO.1_t3.png,nolink);
+~&ref(BATTLE NO.1_t4.png,nolink);

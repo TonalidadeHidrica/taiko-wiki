@@ -34,4 +34,5 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
+~Wii3ではゴーゴーの開始が8分音符5個ぶん遅く、終了が4分音符1個ぶん遅い
 &attachref(doukeshi_n.PNG,nolink);

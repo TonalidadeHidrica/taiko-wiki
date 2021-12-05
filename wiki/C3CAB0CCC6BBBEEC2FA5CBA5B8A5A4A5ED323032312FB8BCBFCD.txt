@@ -47,7 +47,7 @@
 --77・78小節に面の24分13連打が2本来る。上述の速さで13打を2回捌かなければならないため、消耗している体力にとどめを刺しにくる。自分の体力や実力と相談してロール処理かシングルかはっきり決めておこう。
 -3曲目、[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]はBPM240の局所難気味な譜面。
 --46小節の&color(blue){○};&color(red){●};&color(blue){○};&color(red){●};…連打の後叩く速さが急に遅くなるので不可が出ないように注意。何度も練習して慣れていこう。
---63〜74小節の12分地帯はあらかじめ運手を確認しておこう(特に69&#12316;74小節)。
+--63〜74小節の12分地帯はあらかじめ運手を確認しておこう(特に69〜74小節)。
 ---63・64小節：&color(blue){○ ○ ○ ○ };/&color(red){● ● ● };/&color(blue){○ ○ ○ };/&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ ○ };/&color(red){● };
 ---65・66小節：&color(blue){○ ○ ○ ○ };/&color(red){● ● ● };/&color(blue){○ ○ ○ };/&color(red){● ● };/&color(blue){○ ○ };/&color(red){● ● ● };
 ---67〜70小節：&color(blue){○ ○ };&color(red){● ● };&color(blue){○ ○ };&color(red){● };&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ };/&color(red){● ● };&color(blue){○ };/&color(red){● ● };&color(blue){○ };/&color(red){● ● };&color(blue){○ };&color(red){● ● };

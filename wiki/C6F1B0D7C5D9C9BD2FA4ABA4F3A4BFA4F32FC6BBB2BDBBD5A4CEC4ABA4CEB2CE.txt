@@ -37,5 +37,5 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-最後の風船は10打
+~最後の風船は10打&br;Wii3ではゴーゴーの開始が8分音符5個ぶん遅く、終了が4分音符1個ぶん遅い
 &attachref(doukeshi_e2.png,nolink);
