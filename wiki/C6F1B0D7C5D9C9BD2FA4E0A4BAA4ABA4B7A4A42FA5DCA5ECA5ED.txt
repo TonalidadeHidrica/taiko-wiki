@@ -17,16 +17,16 @@
 ***その他 [#other]
 -作曲は、''ラヴェル''。
 -曲IDは、''clsblr''
-
 -[[かんたん>難易度表/かんたん/ボレロ]]
 -[[ふつう>難易度表/ふつう/ボレロ]]
 -[[おに>難易度表/おに/ボレロ]]
--[[プレイ動画(AC11,キャプチャ)>http://www.youtube.com/watch?v=rWQFiBwJCDc]]
+-[[プレイ動画>http://www.youtube.com/watch?v=rWQFiBwJCDc]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
 &ref(bolero~~~~.png,nolink);
+
 ~見かけの速度。ラストはBPM164
 &ref(bolero_hard_2.png,nolink);

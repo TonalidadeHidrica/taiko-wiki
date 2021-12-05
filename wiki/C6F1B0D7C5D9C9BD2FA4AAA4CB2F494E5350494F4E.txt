@@ -1,10 +1,11 @@
 *INSPION [#title]
 -サウンド制作スタジオ[[「''INSPION''」>https://inspion.izene.co.jp/]]社歌。
 ***詳細・攻略 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.9.5''|★×10|''1052''|''1199810点''|＋連打|340点|75点|
 |COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1004580点''}|~|COLOR(#ff3300){920点}|-|
+|AC16.1.0|~|~|''1001700点''|~|950点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは''296''。

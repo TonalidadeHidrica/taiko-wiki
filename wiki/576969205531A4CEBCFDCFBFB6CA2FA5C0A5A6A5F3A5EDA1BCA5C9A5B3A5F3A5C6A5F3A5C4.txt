@@ -19,17 +19,17 @@
 |BGCOLOR(cyan):1|[[''インベーダーインベーダー''>難易度表/おに/インベーダーインベーダー]]|2013/11/21|162円||
 |BGCOLOR(cyan):2|[[''会いたかった''>難易度表/おに/会いたかった]]|~|無料||
 |BGCOLOR(orange):3|[[''さんぽ''>難易度表/おに/さんぽ]]&br;　　SIZE(11){「となりのトトロ」より}|~|無料||
-|~|[[''さんぽ(裏)''>難易度表/おに/さんぽ(裏譜面)]]&br;　　SIZE(11){「となりのトトロ」より}|~|~||
+|~|[[''さんぽ　(裏)''>難易度表/おに/さんぽ(裏譜面)]]&br;　　SIZE(11){「となりのトトロ」より}|~|~||
 |BGCOLOR(orange):4|[[''みらくる☆トラベル''>難易度表/おに/みらくる☆トラベル]]&br;　　SIZE(11){「たまごっち！みらくるフレンズ」より}|~|無料||
 |BGCOLOR(orange):5|[[''残酷な天使のテーゼ''>難易度表/おに/残酷な天使のテーゼ]]&br;　　SIZE(11){「新世紀エヴァンゲリオン」より}|~|162円||
-|~|[[''残酷な天使のテーゼ(裏)''>難易度表/おに/残酷な天使のテーゼ(裏譜面)]]&br;　　SIZE(11){「新世紀エヴァンゲリオン」より}|~|~||
+|~|[[''残酷な天使のテーゼ　(裏)''>難易度表/おに/残酷な天使のテーゼ(裏譜面)]]&br;　　SIZE(11){「新世紀エヴァンゲリオン」より}|~|~||
 |BGCOLOR(darkorchid):6|BGCOLOR(#ccc):[[''Walking Through The Towers''>難易度表/おに/Walking Through The Towers]]&br;　　SIZE(11){「パズル＆ドラゴンズ」より}|BGCOLOR(#ccc):2013/11/21|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''パズル＆ドラゴンズ''」付き&br;2014/11/19まで配信|
 |BGCOLOR(cyan):7|[[''フライングゲット''>難易度表/おに/フライングゲット]]|2013/12/18|162円||
 |BGCOLOR(cyan):8|[[''リンダリンダ''>難易度表/おに/リンダリンダ]]|~|162円||
 |BGCOLOR(orange):9|BGCOLOR(#ccc):[[''The Other self''>難易度表/おに/The Other self]]&br;　　SIZE(11){「黒子のバスケ」より}|BGCOLOR(#ccc):2013/12/18|BGCOLOR(#ccc):162円|BGCOLOR(#ccc):2015/11/18まで配信|
 |BGCOLOR(orange):10|[[''勇気りんりん''>難易度表/おに/勇気りんりん]]&br;　　SIZE(11){「それいけ！アンパンマン」より}|2013/12/18|162円||
 |BGCOLOR(silver):11|BGCOLOR(#ccc):[[''マトリョシカ''>難易度表/おに/マトリョシカ]]&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|BGCOLOR(#ccc):2013/12/18|BGCOLOR(#ccc):162円|BGCOLOR(#ccc):2018/12/17まで配信|
-|~|BGCOLOR(#ccc):[[''マトリョシカ(裏)''>難易度表/おに/マトリョシカ(裏譜面)]]&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|~|~|~|
+|~|BGCOLOR(#ccc):[[''マトリョシカ　(裏)''>難易度表/おに/マトリョシカ(裏譜面)]]&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|~|~|~|
 |BGCOLOR(cyan):12|[[''恋するフォーチュンクッキー''>難易度表/おに/恋するフォーチュンクッキー]]|2014/01/22|162円||
 |BGCOLOR(cyan):13|[[''紅''>難易度表/おに/紅]]|~|162円||
 |BGCOLOR(orange):14|[[''JUST LIVE MORE''>難易度表/おに/JUST LIVE MORE]]&br;　　SIZE(11){「仮面ライダー鎧武」より}|~|162円||
@@ -38,7 +38,7 @@
 |BGCOLOR(darkorchid):17|BGCOLOR(#ccc):[[''モンスターハンター4 メドレー''>難易度表/おに/モンスターハンター4 メドレー]]|~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''ブレイブネコシリーズ''」と、&br;フレーム「''モンスターハンター4''」付き&br;2014/09/16まで配信|
 |BGCOLOR(orange):18|BGCOLOR(#ccc):[[''紅蓮の弓矢''>難易度表/おに/紅蓮の弓矢]]&br;　　SIZE(11){「進撃の巨人」より}|BGCOLOR(#ccc):2014/02/19|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
 |BGCOLOR(silver):19|BGCOLOR(#ccc):[[''脳漿炸裂ガール''>難易度表/おに/脳漿炸裂ガール]]&br;　　SIZE(11){れるりり feat．初音ミク・GUMI}|BGCOLOR(#ccc):~|BGCOLOR(#ccc):162円|BGCOLOR(#ccc):配信終了時期不明|
-|~|BGCOLOR(#ccc):[[''脳漿炸裂ガール(裏)''>難易度表/おに/脳漿炸裂ガール(裏譜面)]]&br;　　SIZE(11){れるりり feat．初音ミク・GUMI}|~|~|~|
+|~|BGCOLOR(#ccc):[[''脳漿炸裂ガール　(裏)''>難易度表/おに/脳漿炸裂ガール(裏譜面)]]&br;　　SIZE(11){れるりり feat．初音ミク・GUMI}|~|~|~|
 |BGCOLOR(darkorchid):20|BGCOLOR(#ccc):[[''さかさま世界''>難易度表/おに/さかさま世界]]&br;　　SIZE(11){「パズドラＺ」より}|BGCOLOR(#ccc):~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''パズドラZ シロップ''」付き&br;2014/07/31まで配信|
 |BGCOLOR(orangered):21|BGCOLOR(#ccc):[[''東京特許キョ許可局局長!!''>難易度表/おに/東京特許キョ許可局局長!!]]|~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
 |BGCOLOR(darkorchid):22|BGCOLOR(#ccc):[[''ファミコンリミックス''>難易度表/おに/ファミコンリミックス]]|BGCOLOR(#ccc):2014/03/19|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/04/18まで配信|
@@ -46,17 +46,17 @@
 |BGCOLOR(darkorchid):24|BGCOLOR(#ccc):[[''ゼルダの伝説''>難易度表/おに/ゼルダの伝説]]|~|BGCOLOR(#ccc):無料|~|
 |BGCOLOR(darkorchid):25|BGCOLOR(#ccc):[[''ドクターマリオ(Fever)''>難易度表/おに/ドクターマリオ(Fever)]]|~|BGCOLOR(#ccc):無料|~|
 |BGCOLOR(silver):26|BGCOLOR(#ccc):[[''初音ミクの消失‐劇場版‐''>難易度表/おに/初音ミクの消失‐劇場版‐]]|BGCOLOR(#ccc):2014/04/23|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
-|~|BGCOLOR(#ccc):[[''初音ミクの消失‐劇場版‐(裏)''>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]|BGCOLOR(#ccc):~|BGCOLOR(#ccc):~|BGCOLOR(#ccc):~|
+|~|BGCOLOR(#ccc):[[''初音ミクの消失‐劇場版‐　(裏)''>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]|BGCOLOR(#ccc):~|BGCOLOR(#ccc):~|BGCOLOR(#ccc):~|
 |BGCOLOR(lime):27|BGCOLOR(#ccc):[[''くまもとサプライズ！''>難易度表/おに/くまもとサプライズ！]]&br;　　SIZE(11){くまモン体操}|BGCOLOR(#ccc):~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''くまモン''」と、&br;フレーム「''くまモン''」付き&br;2014/09/16まで配信|
 |BGCOLOR(darkorchid):28|BGCOLOR(#ccc):[[''ポケットモンスター X・Y''>難易度表/おに/ポケットモンスター X・Y トレーナー戦メドレー]]&br;　　SIZE(11){トレーナー戦メドレー}|BGCOLOR(#ccc):~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
 |BGCOLOR(darkorchid):29|[[''キラメキラリ''>難易度表/おに/キラメキラリ]]&br;　　SIZE(11){「アイドルマスター」より}|2014/04/23|162円||
 |BGCOLOR(orangered):30|BGCOLOR(#ccc):[[''D's Adventure Note''>難易度表/おに/D's Adventure Note]]&br;　　SIZE(11){暖@よみぃ}|BGCOLOR(#ccc):2014/04/23|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
 |BGCOLOR(gold):31|BGCOLOR(#ccc):[[''白鳥の湖''>難易度表/おに/白鳥の湖〜still a duckling〜]]&br;　　SIZE(11){〜still a duckling〜}|BGCOLOR(#ccc):2014/05/21|BGCOLOR(#ccc):無料|~|
-|~|BGCOLOR(#ccc):[[''白鳥の湖(裏)''>難易度表/おに/白鳥の湖〜still a duckling〜(裏譜面)]]&br;　　SIZE(11){〜still a duckling〜}|~|~|~|
+|~|BGCOLOR(#ccc):[[''白鳥の湖　(裏)''>難易度表/おに/白鳥の湖〜still a duckling〜(裏譜面)]]&br;　　SIZE(11){〜still a duckling〜}|~|~|~|
 |BGCOLOR(darkorchid):32|BGCOLOR(#ccc):[[''Venomous''>難易度表/おに/Venomous]]&br;　　SIZE(11){「リッジレーサー3D」より}|~|BGCOLOR(#ccc):無料|~|
-|~|BGCOLOR(#ccc):[[''Venomous(裏)''>難易度表/おに/Venomous(裏譜面)]]&br;　　SIZE(11){「リッジレーサー3D」より}|~|~|~|
+|~|BGCOLOR(#ccc):[[''Venomous　(裏)''>難易度表/おに/Venomous(裏譜面)]]&br;　　SIZE(11){「リッジレーサー3D」より}|~|~|~|
 |BGCOLOR(orangered):33|BGCOLOR(#ccc):[[''エンジェル ドリーム''>難易度表/おに/エンジェル ドリーム]]|~|BGCOLOR(#ccc):無料|~|
-|~|BGCOLOR(#ccc):[[''エンジェル ドリーム(裏)''>難易度表/おに/エンジェル ドリーム(裏譜面)]]|~|~|~|
+|~|BGCOLOR(#ccc):[[''エンジェル ドリーム　(裏)''>難易度表/おに/エンジェル ドリーム(裏譜面)]]|~|~|~|
 |BGCOLOR(orangered):34|BGCOLOR(#ccc):[[''〆ドレー2000＋''>難易度表/おに/〆ドレー2000＋]]|BGCOLOR(#ccc):2014/09/17|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/11/19まで配信|
 
 ***配信衣装 [#costume]

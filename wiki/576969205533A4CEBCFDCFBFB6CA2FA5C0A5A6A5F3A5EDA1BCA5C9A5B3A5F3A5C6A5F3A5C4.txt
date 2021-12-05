@@ -22,19 +22,19 @@
 |BGCOLOR(orangered):4|[[''ナツモノ☆''>難易度表/おに/ナツモノ☆]]&br;　　SIZE(11){たんきゅんデモクラシー}|~|162円||
 |BGCOLOR(orangered):5|[[''Ignis Danse''>難易度表/おに/Ignis Danse]]|~|162円||
 |BGCOLOR(cyan):6|[[''ANTI-HERO''>難易度表/おに/ANTI-HERO]]&br;　　SIZE(11){SEKAI NO OWARI}|2015/12/24|162円||
-|~|[[''ANTI-HERO(裏)''>難易度表/おに/ANTI-HERO(裏譜面)]]&br;　　SIZE(11){SEKAI NO OWARI}|~|~|~|
+|~|[[''ANTI-HERO　(裏)''>難易度表/おに/ANTI-HERO(裏譜面)]]&br;　　SIZE(11){SEKAI NO OWARI}|~|~|~|
 |BGCOLOR(cyan):7|[[''R.Y.U.S.E.I.''>難易度表/おに/R.Y.U.S.E.I.]]|~|162円||
 |BGCOLOR(orange):8|[[''ウルトラマンX''>難易度表/おに/ウルトラマンX]]|~|162円||
-|~|[[''ウルトラマンX(裏)''>難易度表/おに/ウルトラマンX(裏譜面)]]|~|~|~|
+|~|[[''ウルトラマンX　(裏)''>難易度表/おに/ウルトラマンX(裏譜面)]]|~|~|~|
 |BGCOLOR(lime):9|[[''本能寺の変''>難易度表/おに/本能寺の変]]&br;　　SIZE(11){エグスプロージョン}|~|162円||
 |BGCOLOR(orangered):10|[[''Xa''>難易度表/おに/Xa]]&br;　　SIZE(11){Tatsh}|~|162円||
-|~|[[''Xa(裏)''>難易度表/おに/Xa(裏譜面)]]&br;　　SIZE(11){Tatsh}|~|~|~|
+|~|[[''Xa　(裏)''>難易度表/おに/Xa(裏譜面)]]&br;　　SIZE(11){Tatsh}|~|~|~|
 |BGCOLOR(cyan):11|[[''ギミチョコ！！''>難易度表/おに/ギミチョコ！！]]|2016/01/28|162円||
-|~|[[''ギミチョコ！！(裏)''>難易度表/おに/ギミチョコ！！(裏譜面)]]|~|~|~|
+|~|[[''ギミチョコ！！　(裏)''>難易度表/おに/ギミチョコ！！(裏譜面)]]|~|~|~|
 |BGCOLOR(cyan):12|[[''LISTEN TO THE STEREO!!''>難易度表/おに/LISTEN TO THE STEREO!!]]|~|162円||
-|~|[[''LISTEN TO THE STEREO!!(裏)''>難易度表/おに/LISTEN TO THE STEREO!!#another]]|~|~|~|
+|~|[[''LISTEN TO THE STEREO!!　(裏)''>難易度表/おに/LISTEN TO THE STEREO!!#another]]|~|~|~|
 |BGCOLOR(silver):13|[[''カゲロウデイズ''>難易度表/おに/カゲロウデイズ]]&br;　　SIZE(11){じん}|~|162円||
-|~|[[''カゲロウデイズ(裏)''>難易度表/おに/カゲロウデイズ(裏譜面)]]&br;　　SIZE(11){じん}|~|~|~|
+|~|[[''カゲロウデイズ　(裏)''>難易度表/おに/カゲロウデイズ(裏譜面)]]&br;　　SIZE(11){じん}|~|~|~|
 |BGCOLOR(darkorchid):14|[[''RAGE v. self''>難易度表/おに/RAGE v. self]]|~|162円||
 |BGCOLOR(orangered):15|[[''零の狂詩曲''>難易度表/おに/零の狂詩曲]]|~|162円||
 |BGCOLOR(cyan):16|[[''Follow Me''>難易度表/おに/Follow Me]]|2016/02/25|162円||
@@ -47,7 +47,7 @@
 |BGCOLOR(lime):23|[[''色は匂へど 散りぬるを''>難易度表/おに/色は匂へど 散りぬるを]]&br;　　SIZE(11){東方Projectアレンジ 幽閉サテライト}|~|162円|きせかえ「''博麗霊夢''」付き|
 |BGCOLOR(lime):24|[[''さくら（春）''>難易度表/おに/さくら（春）]]|~|162円||
 |BGCOLOR(orangered):25|[[''夜桜謝肉祭''>難易度表/おに/夜桜謝肉祭]]|~|162円||
-|~|[[''夜桜謝肉祭(裏)''>難易度表/おに/夜桜謝肉祭(裏譜面)]]|~|~|~|
+|~|[[''夜桜謝肉祭　(裏)''>難易度表/おに/夜桜謝肉祭(裏譜面)]]|~|~|~|
 |BGCOLOR(cyan):26|[[''じょいふる''>難易度表/おに/じょいふる]]|2016/04/28|162円||
 |BGCOLOR(orange):27|[[''君をのせて''>難易度表/おに/君をのせて]]&br;　　SIZE(11){「天空の城ラピュタ」より}|~|162円||
 |BGCOLOR(lime):28|[[''深緋の心臓 ‐SCARLET HEART‐''>難易度表/おに/深緋の心臓 ‐SCARLET HEART‐]]&br;　　SIZE(11){東方Project×NAMCO SOUNDS kyo feat.あさな(IOSYS)}|~|162円|きせかえ「''霧雨魔理沙''」付き|
@@ -62,14 +62,14 @@
 |BGCOLOR(orange):37|[[''君の知らない物語''>難易度表/おに/君の知らない物語]]&br;　　SIZE(11){「化物語」より}|~|162円||
 |BGCOLOR(darkorchid):38|[[''夜明けまであと3秒''>難易度表/おに/夜明けまであと3秒]]&br;　　SIZE(11){「シンクロニカ」より}|~|162円||
 |BGCOLOR(orangered):39|[[''夏竜 〜Karyu〜''>難易度表/おに/夏竜 〜Karyu〜]]|~|162円||
-|~|[[''夏竜 〜Karyu〜(裏)''>難易度表/おに/夏竜 〜Karyu〜(裏譜面)]]|~|~|~|
+|~|[[''夏竜 〜Karyu〜　(裏)''>難易度表/おに/夏竜 〜Karyu〜(裏譜面)]]|~|~|~|
 |BGCOLOR(orangered):40|[[''旋風ノ舞【天】''>難易度表/おに/旋風ノ舞【天】]]|~|162円|2曲セット|
 |BGCOLOR(orangered):41|[[''旋風ノ舞【地】''>難易度表/おに/旋風ノ舞【地】]]|~|~|~|
 |BGCOLOR(orangered):42|[[''Black Rose Apostle''>難易度表/おに/Black Rose Apostle]]|~|162円||
-|~|[[''Black Rose Apostle(裏)''>難易度表/おに/Black Rose Apostle(裏譜面)]]|~|~|~|
+|~|[[''Black Rose Apostle　(裏)''>難易度表/おに/Black Rose Apostle(裏譜面)]]|~|~|~|
 |BGCOLOR(lime):43|[[''郢曲／暁闇''>難易度表/おに/郢曲／暁闇]]&br;　　SIZE(11){東方Project×NAMCO SOUNDS LindaAI-CUE}|2016/09/01|162円||
 |BGCOLOR(darkorchid):44|[[''BLAZING VORTEX''>難易度表/おに/BLAZING VORTEX]]&br;　　SIZE(11){「クリティカルベロシティ」より}|~|162円|~|
-|~|[[''BLAZING VORTEX(裏)''>難易度表/おに/BLAZING VORTEX(裏譜面)]]&br;　　SIZE(11){「クリティカルベロシティ」より}|~|~|~|
+|~|[[''BLAZING VORTEX　(裏)''>難易度表/おに/BLAZING VORTEX(裏譜面)]]&br;　　SIZE(11){「クリティカルベロシティ」より}|~|~|~|
 |BGCOLOR(orangered):45|[[''マオウのショウタイム''>難易度表/おに/マオウのショウタイム]]|~|162円|~|
 |BGCOLOR(orangered):46|[[''紫煌ノ乱''>難易度表/おに/紫煌ノ乱]]|~|162円|~|
 |BGCOLOR(orangered):47|[[''はたラク2000''>難易度表/おに/はたラク2000]]|~|162円|~|
