@@ -29,7 +29,7 @@
 -[[かんたん>難易度表/かんたん/DIGITAL HORIZON]]
 -[[ふつう>難易度表/ふつう/DIGITAL HORIZON]]
 -[[むずかしい>難易度表/むずかしい/DIGITAL HORIZON]]
--[[オート動画>https://www.youtube.com/watch?v=JUITwqSOkKQ]]
+//-[[オート動画>https://www.youtube.com/watch?v=JUITwqSOkKQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)

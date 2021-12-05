@@ -1,11 +1,12 @@
 *OLA!! [#title]
 -[[映画「''クレヨンしんちゃん オラの引越し物語〜サボテン大襲撃〜''」>アニメ別収録曲#crasin]]主題歌。
 ***詳細 [#detail]
-|CENTER:バージョン((太字は初出))|CENTER:ジャンル |CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii U3''|CENTER:''J-POP''|CENTER:★×4|CENTER:''107''|CENTER:''542940点''|CENTER:＋連打|CENTER:1150点|CENTER:675点|
-|CENTER:3DS3DL|CENTER:''アニメ''|~|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''993760点''}|~|CENTER:COLOR(#ff3300){6760点}|CENTER:-|
-|CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''?????0点''|~|CENTER:1120点|CENTER:420点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii U3''|BGCOLOR(cyan):''J-POP''|★×4|''107''|''542940点''|＋連打|1150点|675点|
+|3DS3DL|BGCOLOR(orange):''アニメ''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''993760点''}|~|COLOR(#ff3300){6760点}|-|
+|iOS&br;AR|BGCOLOR(cyan):''J-POP''|~|~|''?????0点''|~|1120点|420点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは115。
@@ -34,4 +35,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(OLA!!___n.png,nolink);
+~27小節の1打目は実際は16分右にずれている
+~&attachref(OLA!!___n.png,nolink);

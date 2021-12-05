@@ -50,5 +50,6 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
+~Wii4°Ê¹ß
 ~AC16¤Î¤ß¡ú¡ú¡ú¡ú¡ú¡ú¡ù¡ù¡ù¡ù
 ~&attachref(hello2.png,nolink);

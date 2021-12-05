@@ -350,7 +350,7 @@
 -[[2020年09月18日の公式ブログ>https://taiko-ch.net/blog/?p=4905]]により、不具合が発生していたことが発表された。不具合によって生じたプレイヤーの格差の補填のため、[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]、[[零の>難易度表/おに/零の交響曲]][[交響曲>難易度表/おに/零の交響曲(裏譜面)]]、[[いっそこのままで>難易度表/おに/いっそこのままで]]の3曲は通常解禁される。
 
 |CENTER:100|CENTER:50||250|c
-|>|>|>|CENTER:''9/21配信曲''|h
+|>|>|>|CENTER:''9/21通常解禁曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''wonderful ROUTINE''>難易度表/おに/wonderful ROUTINE]]||
 
 -2020/9/23 7:00をもって、以下の3曲がサヨナラとなった。
@@ -370,10 +370,10 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''10/10配信曲''|h
-|BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(red):''新''|[[''ANiMA''>難易度表/おに/ANiMA]]|xi 「DEEMO」より|
+|BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(blue):''初''|[[''ANiMA''>難易度表/おに/ANiMA]]|xi 「DEEMO」より|
 
 |CENTER:100|CENTER:50||250|c
-|>|>|>|CENTER:''10/17配信曲''|h
+|>|>|>|CENTER:''10/17通常解禁曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''零の交響曲''>難易度表/おに/零の交響曲]]／[[''(裏)''>難易度表/おに/零の交響曲(裏譜面)]]|feat.サリヤ人|
 |~|COLOR(red):''新''|[[''いっそこのままで''>難易度表/おに/いっそこのままで]]|feat.相沢|
 

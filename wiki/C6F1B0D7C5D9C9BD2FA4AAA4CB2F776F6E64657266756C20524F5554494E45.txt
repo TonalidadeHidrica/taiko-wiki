@@ -37,5 +37,38 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~HSは暫定、60~73小節のHSは未記載です
-~&attachref(素晴らしい慣例_3.png,nolink);
+#region(小節線部分の詳細)
+~HSは暫定
+
+■60〜67小節~
+前から
+ (#BPMCHANGE 160)
+ #SCROLL 1.07
+ #SCROLL 1.14
+ #SCROLL 1.21
+ #SCROLL 1.29
+ #SCROLL 1.36
+ #SCROLL 1.43
+ #SCROLL 1.5
+ #SCROLL 1.57
+
+■68〜73小節~
+前から~
+ (#BPMCHANGE 240)
+ #SCROLL 1.1
+ #SCROLL 1.14
+ #SCROLL 1.19
+ #SCROLL 1.24
+ #SCROLL 1.29
+ #SCROLL 1.33
+
+■74小節~
+ (#BPMCHANGE 160)
+ #SCROLL 3
+
+#endregion
+
+~&attachref(while_true_.png,nolink);
+
+~小節線の拡大(400%)~
+&attachref(小節線部分@拡大.png,nolink);

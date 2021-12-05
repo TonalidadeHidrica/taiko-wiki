@@ -61,5 +61,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~DS3では仕様でHS1.03が掛かっている。
+//仕様で掛かっているように見えるのではなく実際にデータ上の譜面にHSが掛かっています
+~DS3ではHS1.03が掛かっている。
 ~&attachref(mintte.png,nolink);

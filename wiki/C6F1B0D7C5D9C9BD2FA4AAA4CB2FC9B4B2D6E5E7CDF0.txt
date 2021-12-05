@@ -61,7 +61,7 @@
 -[[¤Õ¤Ä¤¦>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/É´²ÖåçÍğ]]
 -[[¤à¤º¤«¤·¤¤>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/É´²ÖåçÍğ]]
 -¥ª¡¼¥ÈÆ°²è(Wii4)
---[[ÉáÄÌÉèÌÌ>https://www.youtube.com/watch?v=4eu3OooMMig]] [[¸¼¿ÍÉèÌÌ>https://www.youtube.com/watch?v=Xnjaj_zgnH4]] [[Ã£¿ÍÉèÌÌ>https://www.youtube.com/watch?v=RMMwI7su1aU]]
+--[[ÉáÄÌÉèÌÌ>https://youtu.be/o_Wr_R377Yw]] / [[¸¼¿ÍÉèÌÌ>https://www.youtube.com/watch?v=Xnjaj_zgnH4]] / [[Ã£¿ÍÉèÌÌ>https://www.youtube.com/watch?v=RMMwI7su1aU]]
 //-¥×¥ì¥¤Æ°²è(AC15)
 //--[[ÉáÄÌÉèÌÌ>https://www.youtube.com/watch?v=sVuhSzzV8Gw]] [[¸¼¿ÍÉèÌÌ>https://www.youtube.com/watch?v=WGUx8xUp0Ts]] [[Ã£¿ÍÉèÌÌ>https://www.youtube.com/watch?v=cNUSb8QSgw8]]
 
@@ -70,7 +70,6 @@
 
 ***ÉèÌÌ [#score]
 ~DS2¤Ç¤ÏHS1.07¤¬¤«¤«¤Ã¤Æ¤¤¤ë
-
 [[COLOR(#333){''Á´ÉèÌÌ''}>#all]] ¡İ [[COLOR(#215dc6){ÉáÄÌÉèÌÌ}>#futsu]] ¡İ [[COLOR(#215dc6){¸¼¿ÍÉèÌÌ}>#kuro]] ¡İ [[COLOR(#215dc6):Ã£¿ÍÉèÌÌ>#tatsu]]&aname(all);
 &ref(b.png,nolink);
 ~[[COLOR(#215dc6){Á´ÉèÌÌ}>#all]] ¡İ [[COLOR(#333){''ÉáÄÌÉèÌÌ''}>#futsu]] ¡İ [[COLOR(#215dc6){¸¼¿ÍÉèÌÌ}>#kuro]] ¡İ [[COLOR(#215dc6):Ã£¿ÍÉèÌÌ>#tatsu]]&aname(futsu);

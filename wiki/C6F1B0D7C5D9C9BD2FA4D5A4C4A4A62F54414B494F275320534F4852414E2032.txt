@@ -1,9 +1,10 @@
 *南中ソーラン&br;TAKIO'S SOHRAN 2((AC9の表記)) [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC9''|CENTER:★×6|CENTER:''270''|CENTER:''?????0点''|CENTER:＋連打|CENTER:660点|CENTER:150点|
 |CENTER:AC10|~|~|CENTER:''?????0点''|~|CENTER:590点|CENTER:160点|
+
+***譜面構成・攻略 [#capture]
 -BPMは147。
 -大音符が多く、32個ある（全体の約11.9%）。
 -速度は至って普通だが、全体的に4分の長複合や8分がかなり多い。
@@ -15,7 +16,7 @@
 -[[プレイ動画(AC9)>http://www.youtube.com/watch?v=Vg8QFN0B1_U]]
 
 ***【2人用譜面】 [#ga7f6ec4]
--詳細は以下の通り：
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|>|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |~|~|~|>|CENTER:1P|>|CENTER:2P|~|~|h
 |CENTER:''AC9''|CENTER:★×6|CENTER:''226''|CENTER:''?????0点''|CENTER:＋連打|CENTER:''?????0点''|CENTER:＋連打|CENTER:820点|CENTER:180点|
@@ -33,6 +34,7 @@
 -アーティストは、''伊藤多喜雄''。
 -譜面作成は、''キジキジ''。
 -曲IDは、''takio''
+----
 -[[かんたん>難易度表/かんたん/TAKIO'S SOHRAN 2]]
 -[[むずかしい>難易度表/むずかしい/TAKIO'S SOHRAN 2]]
 -[[おに>難易度表/おに/TAKIO'S SOHRAN 2]]
@@ -44,4 +46,4 @@
 &attachref(takio.png,nolink);
 
 ~二人用譜面
-&attachref(takio_nDP.png,nolink);
+~&attachref(takio_nDP.png,nolink);
