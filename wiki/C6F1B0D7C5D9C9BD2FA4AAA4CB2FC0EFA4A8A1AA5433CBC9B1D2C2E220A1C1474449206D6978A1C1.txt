@@ -1,5 +1,5 @@
 *戦え！ T3防衛隊 〜GDI mix〜 [#title]
--ナムコのアーケードシューティングゲーム''「[[TANK! TANK! TANK!>http://www.bandainamcogames.co.jp/am/vg/tanktanktank/]]」''より。
+-ナムコのアーケードシューティングゲーム「[[''TANK! TANK! TANK!''>http://www.bandainamcogames.co.jp/am/vg/tanktanktank/]]」より。
 --後に[[Wii U>http://tank3.namco-ch.net/]]にも移植されている。Wii U1への楽曲収録はこのことだと思われる。
 
 ***詳細・攻略 [#more]
@@ -23,10 +23,10 @@
 
 ***その他 [#other]
 -Wii U1への収録に続いてACでは、新筺体モモイロVer.稼働日にデフォルトでAC14以来の復活を果たした。
--歌唱は、''norion5''、''柳沢直幹''、''ある☆まじろう''、[[''LindaAI-CUE''>参加アーティスト一覧/LindaAI-CUE]]。
+-歌唱は、''norion5''、''柳沢直幹''、[[''ある☆まじろう''>参加アーティスト一覧/加来量一]]、[[''LindaAI-CUE''>参加アーティスト一覧/LindaAI-CUE]]。
 -防衛隊役は''柳沢直幹''、''norion5''、[[''LindaAI-CUE''>参加アーティスト一覧/LindaAI-CUE]]、[[''ギンギツネ''>難易度表/おに/てんぢく2000]]。
 -作曲は、[[''LindaAI-CUE''>参加アーティスト一覧/LindaAI-CUE]]。
--曲名の読み方は、''たたかえ！ティースリーぼうえいたい''。
+-曲名の読み方は、''たたかえ！ ティースリーぼうえいたい''。
 -譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
 -曲IDは、''tttank''。
 -曲調やバックコーラスは[[''ワンダバ''(Wikipedia)>https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%B3%E3%83%80%E3%83%90]]を意識していると思われる。

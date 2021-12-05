@@ -4,8 +4,8 @@
 
 **作品一覧 [#work]
 --ナムコオリジナル
----[[super star shooter>難易度表/おに/super star shooter]]
----[[ほうかご☆マジシャン>難易度表/おに/ほうかご☆マジシャン]]
+---[[super star shooter>難易度表/おに/super star shooter]] (作詞)
+---[[ほうかご☆マジシャン>難易度表/おに/ほうかご☆マジシャン]] (作詞・歌唱)
 
 **コメント [#comment]
 #pcomment(,noname)

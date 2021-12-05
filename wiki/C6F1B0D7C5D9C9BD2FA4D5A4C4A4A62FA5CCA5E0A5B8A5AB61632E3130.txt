@@ -1,8 +1,7 @@
 *ヌムジカac.10 [#title]
-***詳細・攻略 [#more]
 -[[acシリーズ>シリーズ曲一覧#ac]]第1弾。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+***詳細[#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC10'',14||CENTER:★×5|CENTER:''191''|CENTER:''576370点''|CENTER:+連打|CENTER:920点|CENTER:210点|
 ||CENTER:Wii4SP&br;iOS|~|~|CENTER:''576010点''|~|~|~|
 ||CENTER:DS2|~|~|CENTER:''516590点''|~|CENTER:790点|CENTER:190点|
@@ -10,8 +9,9 @@
 ||CENTER:Wii5&br;3DS3DL|~|~|CENTER:''591010点''|~|CENTER:920点|CENTER:293点|
 |CENTER:AC15.10.4||CENTER:★×4|~|CENTER:''?????0点''|~|CENTER:850点|CENTER:263点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''992140点''}|~|CENTER:COLOR(#ff3300){4660点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|CENTER:''?????0点''|~|CENTER:5180点|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''995380点''|~|CENTER:5180点|CENTER:-|
 
+***譜面構成・攻略 [#capture]
 -BPMは142。
 -黄色連打は3本と少なめだが、1本あたりの長さは長い。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -27,7 +27,7 @@
 -余談だがヌムジカの「ヌ」は1、「ムジカ」は音楽を意味する。
 --実際、パソコンのキーボードでは、「ヌ」と「1」は同じ位置で入力できる。
 -曲IDは、''numu10''。
-
+----
 -[[かんたん>難易度表/かんたん/ヌムジカac.10]]
 -[[むずかしい>難易度表/むずかしい/ヌムジカac.10]]
 -[[おに>難易度表/おに/ヌムジカac.10]]
@@ -38,5 +38,5 @@
 
 ***譜面 [#score]
 ~ふつうのみゴーゴーは最後まで続いている。
-~AC15以降は★★★★☆☆☆
-&attachref(numu10fix.png,nolink);
+~AC15以降は★×4
+~&attachref(numu10fix.png,nolink);
