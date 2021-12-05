@@ -44,7 +44,7 @@
 --[[須佐之男>難易度表/おに/須佐之男]]
 
 *[[第五回天下一音ゲ祭]] [#vol5]
-2018年11月-開催中
+2018年11月-2019年2月開催
 -太鼓の達人収録曲
 --[[GERBERA>難易度表/おに/GERBERA]] / 「SOUND VOLTEX IV HEAVENLY HAVEN」提供
 --[[Xevel>難易度表/おに/Xevel]] / 「CHUNITHM AMAZON」提供
@@ -57,7 +57,7 @@
 
 *参考：天下一音ゲ祭関連のすべての楽曲 [#otogesai]
 「太鼓の達人」書き下ろし楽曲､「太鼓の達人」部門使用楽曲(プレイオフ曲含み)
-***コナミ（jubeat/SOUND VOLTEX） [#otkonami]
+***コナミ(jubeat/SOUND VOLTEX) [#otkonami]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
 |''FLOWER''&br;　　SIZE(11){jubeat}|346|[[★×5>難易度表/かんたん/FLOWER]]|[[★×7>難易度表/ふつう/FLOWER]]|[[★×8>難易度表/むずかしい/FLOWER]]|[[★×9>難易度表/おに/FLOWER]]|
@@ -67,7 +67,7 @@
 |''極圏''&br;　　SIZE(11){SOUND VOLTEX}|207|[[★×5>難易度表/かんたん/極圏]]|[[★×7>難易度表/ふつう/極圏]]|[[★×7>難易度表/むずかしい/極圏]]|[[★×10>難易度表/おに/極圏]]|
 |''GERBERA''&br;　　SIZE(11){SOUND VOLTEX}|205|[[★×4>難易度表/かんたん/GERBERA]]|[[★×7>難易度表/ふつう/GERBERA]]|[[★×8>難易度表/むずかしい/GERBERA]]|[[★×10>難易度表/おに/GERBERA]]|
 
-***セガ（maimai/CHUNITHM） [#otsega]
+***セガ(maimai/CHUNITHM) [#otsega]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
 |''Garakuta Doll Play''&br;　　SIZE(11){maimai}|256|[[★×4>難易度表/かんたん/Garakuta Doll Play]]|[[★×6>難易度表/ふつう/Garakuta Doll Play]]|[[★×8>難易度表/むずかしい/Garakuta Doll Play]]|[[★×9>難易度表/おに/Garakuta Doll Play]]|
@@ -85,8 +85,7 @@
 |''Scarlet Lance''|185|[[★×5>難易度表/かんたん/Scarlet Lance]]|[[★×7>難易度表/ふつう/Scarlet Lance]]|[[★×8>難易度表/むずかしい/Scarlet Lance]]|[[★×10>難易度表/おに/Scarlet Lance]]|
 |''ouroboros -twin stroke of the end-''|188|[[★×5>難易度表/かんたん/ouroboros -twin stroke of the end-]]|[[★×7>難易度表/ふつう/ouroboros -twin stroke of the end-]]|[[★×8>難易度表/むずかしい/ouroboros -twin stroke of the end-]]|[[★×10>難易度表/おに/ouroboros -twin stroke of the end-]]|
 
-***バンダイナムコ（シンクロニカ） [#otbnei]
-//太鼓の達人は更新中
+***バンダイナムコ(シンクロニカ) [#otbnei]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
 |''夜明けまであと3秒''|177-182|[[★×4>難易度表/かんたん/夜明けまであと3秒]]|[[★×5>難易度表/ふつう/夜明けまであと3秒]]|[[★×7>難易度表/むずかしい/夜明けまであと3秒]]|[[★×9>難易度表/おに/夜明けまであと3秒]]|

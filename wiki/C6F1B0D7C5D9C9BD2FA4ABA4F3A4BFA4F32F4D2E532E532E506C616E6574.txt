@@ -5,7 +5,8 @@
 |CENTER:''AC15.6.0''||CENTER:★×3|CENTER:''165''|CENTER:''309850点''|CENTER:＋連打|CENTER:590点|CENTER:185点|
 ||CENTER:Wii U3|~|~|CENTER:''307590点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''975270点''}|~|CENTER:COLOR(#ff3300){5510点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''??????点''|~|CENTER:530点|CENTER:???点|
+||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:530点|CENTER:??0点|
+|CENTER:AC16.1.0||~|~|CENTER:''991650点''|~|CENTER:6010点|CENTER:-|
 -BPMは145。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。
 -[[ふつう>難易度表/ふつう/M.S.S.Planet]]以上と違って、付点配置は1回も出て来ない。
