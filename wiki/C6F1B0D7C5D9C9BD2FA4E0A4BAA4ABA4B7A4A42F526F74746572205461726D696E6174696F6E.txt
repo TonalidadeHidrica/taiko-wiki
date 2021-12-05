@@ -1,12 +1,14 @@
-*Rotter Tarmination [#q19bef45]
-***詳細・攻略 [#x00fef88]
+*Rotter Tarmination [#title]
+***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12''〜14|Wii1&br;Wii2SP&br;Wii4SP&br;PSPDX|BGCOLOR(orangered):''ナムコ&br;オリジナル''|CENTER:★×7|CENTER:''438''|CENTER:''831790点''|CENTER:＋連打|CENTER:500点|CENTER:130点|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''846820点''}|~|CENTER:COLOR(#ff3300){1730点}|CENTER:-|
-|CENTER:AC15.1.0|CENTER:Wii U2&br;NS1DL|~|~|~|CENTER:''842290点''|~|CENTER:560点|CENTER:150点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''992020点''}|~|CENTER:COLOR(#ff3300){2030点}|CENTER:-|
-|AC16.1.0||~|~|~|''?????0点''|~|??0点|-|
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12''-14|Wii1&br;Wii2SP&br;Wii4SP&br;PSPDX|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|CENTER:''438''|''831790点''|＋連打|500点|130点|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''846820点''}|~|COLOR(#ff3300){1730点}|-|
+|AC15.1.0|Wii U2&br;NS1DL|~|~|~|''842290点''|~|560点|150点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''992020点''}|~|COLOR(#ff3300){2030点}|-|
+|AC16.1.0||~|~|~|''995860点''|~|2270点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは200。
 --[[さいたま2000>難易度表/むずかしい/さいたま2000]]、[[恋文2000>難易度表/むずかしい/恋文2000]]などと同じBPMである。
 -速度は速めだが、ほとんどが8分なのでクリアはそこまで難しくはない。
@@ -15,6 +17,8 @@
 -AC12〜13の[[裏譜面>難易度表/むずかしい/Rotter Tarmination(裏譜面)]]では★×8だが、譜面自体は表譜面と同一である（いわゆる逆詐称）。当然裏の方が配点が高い。
 --AC14では、★×7になっている。
 --Wii2版の裏譜面は、大音符と小音符がほとんどそのまま入れ替わったネタ譜面と化す。
+
+***その他 [#other]
 -前半を逆再生すると「私はタミー。また会ったな！」と聞こえる。
 --「タミー」とは、この曲に声を当てている[[''民安ともえ''>http://ameblo.jp/tomoe-tamiyasu/]]のことである。
 --これらはタミーのサンプリングボイスであり「SMILEBIT-TECHNO RIDER TAMMY 2-」に収録されている「すまいるびっと」や「たみー第四症」が元ネタにあたる。→[[参考動画>http://www.youtube.com/watch?v=LMHOncUGvmc]]
@@ -25,15 +29,15 @@
 -作曲は、[[Ridge>難易度表/おに/Ridge Racer]] [[Racer>難易度表/むずかしい/Ridge Racer(裏譜面)]]や[[ROTTERDAM NATION>難易度表/むずかしい/ROTTERDAM NATION(FOO MIX)]]、[[dance>難易度表/むずかしい/dance storm]] [[storm>難易度表/むずかしい/dance storm(裏譜面)]]と同じ''細江慎治''(Sampling Masters MEGA)。
 -譜面作成は、''タカハシ''。
 -曲IDは、''sweep1''(恐らくSampling masters MEGAが所属しているSuper&#83;weepから来ているものと思われる)。
-
+----
 -[[かんたん>難易度表/かんたん/Rotter Tarmination]]/[[裏譜面>難易度表/かんたん/Rotter Tarmination(裏譜面)]]
 -[[ふつう>難易度表/ふつう/Rotter Tarmination]]/[[裏譜面>難易度表/ふつう/Rotter Tarmination(裏譜面)]]
 -むずかしい/[[裏譜面>難易度表/むずかしい/Rotter Tarmination(裏譜面)]]
 -[[おに>難易度表/おに/Rotter Tarmination]]/[[裏譜面>難易度表/おに/Rotter Tarmination(裏譜面)]]
 -[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=KDfua3RCJBk]]
 
-***コメント [#h0f65b53]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#f6bee81e]
+***譜面 [#score]
 &attachref(rotter_hard_fixed1.png,nolink);

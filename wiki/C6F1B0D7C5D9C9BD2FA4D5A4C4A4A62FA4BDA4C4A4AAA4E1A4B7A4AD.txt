@@ -31,12 +31,13 @@
 -ふつう　　：1ばん／[[2ばん>難易度表/ふつう/そつおめしき2ばん]]／[[ふる>難易度表/ふつう/そつおめしき・ふる]]
 -むずかしい：[[1ばん>難易度表/むずかしい/そつおめしき]]／[[2ばん>難易度表/むずかしい/そつおめしき2ばん]]／[[ふる>難易度表/むずかしい/そつおめしき・ふる]]
 -おに　　　：[[1ばん>難易度表/おに/そつおめしき]]／[[2ばん>難易度表/おに/そつおめしき2ばん]]／[[ふる>難易度表/おに/そつおめしき・ふる]]
--[[オート動画(Wii U2)>http://www.youtube.com/watch?v=cE4yILSCtOs]]
--[[プレイ動画(iOS)>https://m.youtube.com/watch?v=PJ9MRmQP7AY]]
+-[[オート動画(Wii U2)>https://www.youtube.com/watch?v=cE4yILSCtOs]]
+-[[プレイ動画(iOS)>https://www.youtube.com/watch?v=PJ9MRmQP7AY]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船の長さは適当&br;黄色連打は下の画像より48分音符1つ分短い
+~風船の長さは適当
+~黄色連打は下の画像より48分音符1つ分短い
 ~&ref(sotsuome_n.png,nolink);

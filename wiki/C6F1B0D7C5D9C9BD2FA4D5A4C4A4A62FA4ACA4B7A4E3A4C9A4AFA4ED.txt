@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.35SP''|PS Vita1SP&br;Wii U3SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''242''|''645540点''|+連打|760点|230点|
+|''AC15.5.0SP''|PS Vita1SP&br;Wii U3SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''242''|''645540点''|+連打|760点|230点|
 ||iOS|~|~|~|''638580点''|~|750点|180点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''996600点''}|~|COLOR(#ff3300){3540点}|-|
 |AC16.1.0||~|~|~|''997620点''|~|4110点|-|
@@ -32,6 +32,6 @@
 
 ***譜面 [#score]
 ~黄色連打は下の画像より48分音符1つ分短い
-&attachref(dokuro_n3.png,nolink);
+~&attachref(dokuro_n3.png,nolink);
 ~見た目(に近い) HSは0.9です
-&attachref(dokuro_nv2.png,nolink);
+~&attachref(dokuro_nv2.png,nolink);

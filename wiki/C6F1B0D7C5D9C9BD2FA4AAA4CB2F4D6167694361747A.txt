@@ -41,6 +41,8 @@
 -[[ふつう>難易度表/ふつう/MagiCatz]]
 -[[むずかしい>難易度表/むずかしい/MagiCatz]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=0gmhRLk5V-0&t=5s]]
+-[[オート動画(NS1)>https://m.youtube.com/watch?feature=youtu.be&v=Arbeg4hNIow&t=14s]]
+-[[オート動画(NS1)>https://m.youtube.com/watch?feature=youtu.be&v=d8hJfiJ5B1g]]
 
 ***コメント [#comment]
 #pcomment(,noname)
@@ -49,7 +51,7 @@
 ~2個目の風船は7打。~
 &attachref(demmag_m.png,nolink);
 
-~217.5を145に変換した版~
+~217を145に変換した版~
 31小節は4/4拍子より24分音符1つ分短い（23/24拍子）~
 47小節は64分音符1つ分（46小節と合わせると65/64拍子相当）~
 &attachref(マジ修正カット.png,nolink);

@@ -1,5 +1,6 @@
 *Wasabi Body Blow [#title]
 -バンダイナムコゲームスの「''[[鉄拳3D プライムエディション>http://www.tekken-official.jp/tk3ds/index.html]]''」の楽曲。
+--サウンドトラックには「''Wrecked Dojo''」という曲名で記載されている。
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h

@@ -53,8 +53,8 @@
 -[[ふつう>難易度表/ふつう/初音ミクの消失‐劇場版‐]]
 -[[むずかしい>難易度表/むずかしい/初音ミクの消失‐劇場版‐]]
 -[[おに>難易度表/おに/初音ミクの消失‐劇場版‐]]/裏譜面
--[[オート動画(Wii5)>https://youtu.be/tLlcONJmaQU]]
--[[オート動画(Wii U1)>https://m.youtube.com/watch?feature=youtu.be&v=CjWg9BMGbn0&t=11s]]((仕様によりHS1.05が掛かっています))
+-[[オート動画(Wii5)>https://www.youtube.com/watch?v=tLlcONJmaQU]]
+-[[オート動画(Wii U1)>https://www.youtube.com/watch?v=CjWg9BMGbn0&t=11s]]((仕様によりHS1.05が掛かっています))
 
 #region(低画質版)
 -[[オート動画(Wii5)>https://www.youtube.com/watch?v=Xyyku25I0M4&t=6s]]

@@ -1,0 +1,31 @@
+*BORN ON DREAM! 〜HANABI☆NIGHT〜 [#title]
+-「''[[アイドルマスター ミリオンライブ！>THE IDOLM@STER関連楽曲一覧#idml]]''」のCDシリーズ「MILLION THE@TER GENERATION」からの収録曲。
+--曲サイズとしては、スマートフォンアプリ「''アイドルマスター ミリオンライブ！ シアターデイズ''」と同一のもの。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''NS1DL''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×5|''425''|''?????0点''|＋連打|530点|116点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){2050点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは152。
+
+***その他 [#other]
+-歌唱は、''閃光☆HANABI団''。
+--メンバーは、''高山紗代子''(CV：駒形友梨)、''横山奈緒''(CV：渡部優衣)、''高坂海美''(CV：上田麗奈)、''佐竹美奈子''(CV：大関英里)、''福田のり子''(CV：浜崎奈々)。
+--作詞は、松井洋平。作曲・編曲は、AstroNoteS。
+-余談だが、アイドルマスターミリオンライブ！シアターデイズ内のこの曲のMVに太鼓の達人のキャラクターが登場する。
+-曲IDは、''immbon''。
+
+----
+-[[かんたん>難易度表/かんたん/BORN ON DREAM! 〜HANABI☆NIGHT〜]]
+-[[ふつう>難易度表/ふつう/BORN ON DREAM! 〜HANABI☆NIGHT〜]]
+-[[おに>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]
+-[[オート動画>https://www.youtube.com/watch?v=i9VoKlPX36Q]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(盆踊りむずかしい.png,nolink);

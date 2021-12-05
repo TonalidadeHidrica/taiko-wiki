@@ -1,9 +1,12 @@
-*White Rose Insanity（裏譜面）[#title]
-***詳細・攻略[#more]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-||''PSPDXSP''|★×6|''222''|''608290点''|+連打|780点|170点|
-|CENTER:AC15以降|CENTER:Wii5以降|>|>|>|>|>|CENTER:''おにコースのみ''|
+*White Rose Insanity(裏譜面) [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDXSP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''222''|''608290点''|+連打|780点|170点|
+|CENTER:AC15以降|CENTER:Wii5以降|~|>|>|>|>|>|CENTER:''おにコースのみ''|
+
+***譜面構成・攻略 [#capture]
 -BPMは276。
 -連打秒数目安・・・約1.286秒×3−SIZE(16){約1.286秒}−約1.286秒−SIZE(16){約0.851秒}−SIZE(16){''約1.721秒''}×2:合計約10.725秒
 -大音符が多く、''27個''(約12.16%)。
@@ -14,20 +17,20 @@
 ***その他 [#other]
 -楽曲情報は[[表譜面>難易度表/ふつう/White Rose Insanity]]を参照。
 -Wii5には[[表譜面>難易度表/ふつう/White Rose Insanity]]とともに収録されたが、この譜面は削除されたため、PSPDX限定の譜面となってしまった。
--譜面作成は、''[[エトウ>譜面作成者一覧/エトウ]]''。
+-譜面作成は、[[表譜面>難易度表/かんたん/White Rose Insanity]]と同じ[[''エトウ''>譜面作成者一覧/エトウ]]。
 -曲IDは、''exwhro''。
 ----
 -[[表譜面>難易度表/かんたん/White Rose Insanity]]/[[かんたん>難易度表/かんたん/White Rose Insanity(裏譜面)]]
 -[[表譜面>難易度表/ふつう/White Rose Insanity]]/ふつう
 -[[表譜面>難易度表/むずかしい/White Rose Insanity]]/[[むずかしい>難易度表/むずかしい/White Rose Insanity(裏譜面)]]
 -[[表譜面>難易度表/おに/White Rose Insanity]]/[[おに>難易度表/おに/White Rose Insanity(裏譜面)]]
--[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20170608132338/http://taikoblog.namco-ch.net/blog/2011/05/post_232.html]]
 -[[オート動画>https://www.youtube.com/watch?v=Wl-yJBdhI-0]]
 
-***コメント[#comment]
+***コメント [#comment]
 #pcomment(,noname)
+
 ***譜面[#score]
 &attachref(e.png,nolink);
 
-半速表記
+~半速表記
 &attachref(exwhro_n_bpm138.png,nolink);

@@ -1,0 +1,30 @@
+*&ruby(アニマ){ANiMA}; [#title]
+-Rayark社のスマートフォン音楽ゲームアプリ「''DEEMO''」の楽曲のひとつ。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''NS1DL''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|''182''|''?????0点''|＋連打|500点|145点|
+||COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){4300点}|-|
+|AC16.1.5||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''998220点''|~|5460点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは183.5。
+
+***その他 [#other]
+-アーティストは、[[''xi''>参加アーティスト一覧/xi]]。
+-「ANIMA」はラテン語で、魂・生命を意味する。
+-曲IDは、''dema2m''。
+-選曲時の流れ出しがACとCS(NS1)で異なっている。
+
+----
+-[[ふつう>難易度表/ふつう/ANiMA]]
+-[[むずかしい>難易度表/むずかしい/ANiMA]]
+-[[おに>難易度表/おに/ANiMA]]
+-[[オート動画>https://www.youtube.com/watch?v=lNV8OxOg2qo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(ANiMA_e.png,nolink);

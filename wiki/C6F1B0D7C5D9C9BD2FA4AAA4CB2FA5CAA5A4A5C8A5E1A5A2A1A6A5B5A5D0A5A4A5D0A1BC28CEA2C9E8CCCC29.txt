@@ -1,12 +1,12 @@
 *ナイトメア・サバイバー(裏譜面) [#title]
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.3.0SP''|Wii U1SP&br;3DS2SP&br;PS Vita1DL&br;PS4 1DL| ★×10|''876''|''1204740点''|400点|90点|
-|COLOR(#f30):真打||~|~|COLOR(#f30):''1005880点''|COLOR(#f30):1060点|-|
-||iOS&br;AR|~|~|''1212730点''|400点|80点|
-|AC16.1.0||~|~|''1007240点''|1140点|-|
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC15.3.0SP''|Wii U1SP&br;3DS2SP&br;PS Vita1DL&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''876''|''1204740点''|400点|90点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1005880点''}|COLOR(#ff3300){1060点}|-|
+||iOS&br;AR|~|~|~|''1212730点''|400点|80点|
+|AC16.1.0||~|~|~|''1007240点''|1140点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約114〜160.59。基本BPMは155。
@@ -23,13 +23,13 @@
 -道中に配置された短い6打風船(約13.3打/秒)及びラストの60打風船(約14.5打/秒)が地味に割りにくく、シングルで割るには苦しい。
 --54小節の風船は、打数こそ2打と少ないが長めの16分に隣接して入力受付時間が短いことに加え、直後の55小節目最初の音符が面であるため、割る際には巻き込みにも注意が必要。
 -ラスト9打はBPMが40近く下がっているので要注意。
--平均密度は''約7.61打/秒''。やや遅めのBPMにしては高い数値。
+-平均密度は、''約7.61打/秒''。やや遅めのBPMにしては高い数値。
 
 ***対策 [#steps]
--逆手をどれだけ上手く使いこなせるかが攻略の第一歩。道中の6連打(COLOR(red){●●●●●}COLOR(blue){●})や発狂地帯の複合のほとんどは裏拍から始まっている。
+-逆手をどれだけ上手く使いこなせるかが攻略の第一歩。道中の6連打(COLOR(red){●●●●●}COLOR(blue){○})や発狂地帯の複合のほとんどは裏拍から始まっている。
 --小節の頭からの5連打の前に1打プラスされたものが多い。COLOR(red){●}/COLOR(red){●●●●}COLOR(blue){○}や下記の複合など。
 --特に36、49、66小節目から始まる複合に対して、24分音符を利き手から捌けるようになるので非常に有利である。
----但し、48小節目からの複合はラストのCOLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}を逆手で捌かなければならないので、どう叩くかあらかじめ決めておくと良いだろう。
+---但し、48小節目からの複合はラストのCOLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}を逆手で捌かなければならないので、どう叩くかあらかじめ決めておくと良いだろう。
 --しかし、道中の6連打などは人によっては利き手で入ったほうが安定する場合もある。
 ---上記のことから、自分に合った叩き方を見つけ出すことがこの譜面において最も重要なポイントとなり、詰め始めと比べて運手が大きく変わることも珍しくない。いかにこの譜面を研究しているかが鍵となるだろう。
 -複合の見切り方については[[下記を参照>難易度表/おに/ナイトメア・サバイバー(裏譜面)#advice]]。
@@ -37,20 +37,20 @@
 
 ***複合見切り方一例 [#advice]
 -%%%下線%%%は24分「-」は「/」と同じだが間が空いている(休符)ことを示す。&br;&br;
---36〜38小節&br;36 COLOR(blue){●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/%%%COLOR(red){●●}COLOR(blue){●}%%%&br;
-37 %%%COLOR(blue){●}%%%-%%%COLOR(red){●●}COLOR(blue){●●}%%%-%%%COLOR(red){●●}COLOR(blue){●●}%%%-%%%COLOR(red){●●}COLOR(blue){●}%%%-%%%COLOR(red){●●}COLOR(blue){●}%%%-COLOR(blue){●}COLOR(red){●}COLOR(blue){●●}/&br;
-38 COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●●}COLOR(blue){●}(+風船)&br;&br;
+--36〜38小節&br;36 COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/%%%COLOR(red){●●}COLOR(blue){○}%%%&br;
+37 %%%COLOR(blue){○}%%%-%%%COLOR(red){●●}COLOR(blue){○○}%%%-%%%COLOR(red){●●}COLOR(blue){○○}%%%-%%%COLOR(red){●●}COLOR(blue){○}%%%-%%%COLOR(red){●●}COLOR(blue){○}%%%-COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/&br;
+38 COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●●}COLOR(blue){○}(+風船)&br;&br;
 --48〜51小節&br;
 48 COLOR(red){●●●}/&br;
-49 %%%COLOR(blue){●●●}COLOR(red){●●●}/COLOR(red){●}%%%COLOR(blue){●●}COLOR(red){●}/%%%COLOR(red){●●●}COLOR(blue){●●●}/COLOR(red){●}%%%COLOR(red){●}COLOR(blue){●●}/&br;
-50 %%%COLOR(red){●●●}COLOR(blue){●}%%%/COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●}%%%COLOR(blue){●●}COLOR(red){●}/COLOR(blue){●●}COLOR(red){●●}%%%/COLOR(blue){●●}COLOR(red){●}&br;
+49 %%%COLOR(blue){○○○}COLOR(red){●●●}/COLOR(red){●}%%%COLOR(blue){○○}COLOR(red){●}/%%%COLOR(red){●●●}COLOR(blue){○○○}/COLOR(red){●}%%%COLOR(red){●}COLOR(blue){○○}/&br;
+50 %%%COLOR(red){●●●}COLOR(blue){○}%%%/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}%%%COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}%%%/COLOR(blue){○○}COLOR(red){●}&br;
 51 COLOR(red){●}&br;&br;
 --65〜69小節&br;
 65 COLOR(red){●}/&br;
-66 COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}/&br;
-67 COLOR(red){●}COLOR(blue){●●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}/&br;
-68 %%%COLOR(red){●●}COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(red){●}%%%COLOR(red){●}COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(red){●●}COLOR(blue){●●}/COLOR(blue){●●}&br;
-69 %%%COLOR(red){●●}COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(red){●}%%%COLOR(red){●}COLOR(blue){●}COLOR(red){●}/%%%COLOR(blue){●}COLOR(blue){●●}COLOR(red){●●●}/COLOR(red){●}%%%COLOR(blue){●●}COLOR(red){●}&br;
+66 COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/&br;
+67 COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/&br;
+68 %%%COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●}%%%COLOR(red){●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(blue){○○}&br;
+69 %%%COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●}%%%COLOR(red){●}COLOR(blue){○}COLOR(red){●}/%%%COLOR(blue){○}COLOR(blue){○○}COLOR(red){●●●}/COLOR(red){●}%%%COLOR(blue){○○}COLOR(red){●}&br;
 70 COLOR(red){●}
 
 ***その他 [#other]
@@ -60,7 +60,6 @@
 -譜面作成は、[[''カーン''>譜面作成者一覧/カーン]]。
 -この譜面をフルコンボすると、''称号''「''悪夢からの生還者''」を獲得できる。
 -[[モモイロVer.段位道場>過去の段位道場#momoiro]]の十段1曲目課題曲となった。
-
 ----
 -[[かんたん>難易度表/かんたん/ナイトメア・サバイバー]]
 -[[ふつう>難易度表/ふつう/ナイトメア・サバイバー]]
@@ -69,8 +68,6 @@
 -[[オート動画(Wii U1)>https://www.youtube.com/watch?v=ZfC4lRavE1s]]((Wii U1仕様の関係で、HS1.05が掛かっています))
 
 ***コメント [#comment]
--COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
--COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

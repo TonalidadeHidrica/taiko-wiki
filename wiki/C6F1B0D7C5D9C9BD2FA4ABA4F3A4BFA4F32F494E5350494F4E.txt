@@ -1,12 +1,12 @@
 *INSPION [#title]
--サウンド制作スタジオ「[[''INSPION''>http://inspion.izene.co.jp/]]」社歌。
+-サウンド制作スタジオ[[「''INSPION''」>https://inspion.izene.co.jp/]]社歌。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.9.5''|BGCOLOR(lime):''バラエティ''|★×5|''216''|''319480点''|＋連打|480点|83点|
-|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){3880点}|-|
-|AC16.1.0|BGCOLOR(cyan):''ポップス''|~|~|''??????0点''|~|???点|-|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''955300点''}|~|COLOR(#ff3300){3880点}|-|
+|AC16.1.0|BGCOLOR(cyan):''ポップス''|~|~|''983280点''|~|4530点|-|
 |~|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
@@ -30,15 +30,15 @@
 -[[ふつう>難易度表/ふつう/INSPION]]
 -[[むずかしい>難易度表/むずかしい/INSPION]]
 -[[おに>難易度表/おに/INSPION]]
--[[楽曲試聴>http://www.youtube.com/watch?v=19UDvu9P4Y8]]
--[[プレイ動画>https://youtu.be/ACRGAzEte3Q]]
+-[[楽曲試聴>https://www.youtube.com/watch?v=19UDvu9P4Y8]]
+-[[プレイ動画>https://www.youtube.com/watch?v=ACRGAzEte3Q]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~風船連打の長さは暫定です。~
-&attachref(INSPIONかんたん.png,nolink);
+~風船連打の長さは暫定です。
+~&attachref(INSPIONかんたん.png,nolink);
 
-~BPM半速表記~
-&attachref(INSPIONかんたんは.png,nolink);
+~BPM半速表記
+~&attachref(INSPIONかんたんは.png,nolink);
