@@ -38,5 +38,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~HSは適当
-~&attachref(tirnanog3.png,nolink);
+~&attachref(ymyrp4.png,nolink);

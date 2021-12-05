@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(gekiun.png,nolink);
+~&attachref(7fuku.png,nolink);

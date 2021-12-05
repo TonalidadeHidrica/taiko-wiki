@@ -53,5 +53,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-//110、111小節もゴーゴータイムになっている。←修正
-&attachref(8orchi修正.png,nolink);
+&attachref(orochi.png,nolink);

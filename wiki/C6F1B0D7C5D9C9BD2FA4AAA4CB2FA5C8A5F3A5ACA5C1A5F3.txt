@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(tongcn_m.png,nolink);
+&attachref(tongat.png,nolink);
