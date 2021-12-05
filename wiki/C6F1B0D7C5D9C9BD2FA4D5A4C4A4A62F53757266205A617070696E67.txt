@@ -1,9 +1,13 @@
 *Surf Zapping [#title]
-***詳細・攻略 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.10.7SP|''3DS3DL''&br;PS4 1DL|★×6|''280''|''642520点''|＋連打|670点|195点|
-|COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''995700点''}|~|COLOR(#ff3300){3250点}|-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.10.7SP|''3DS3DL''&br;PS4 1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|''280''|''642520点''|＋連打|670点|195点|
+|COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''995700点''}|~|COLOR(#ff3300){3250点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|??0点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは100〜200。
 -黄色連打が多い連打曲である。
 -4分の複合が主体の譜面で、8分も数が多い。
@@ -17,6 +21,7 @@
 -アーティストは、[[''t+pazolite''>参加アーティスト一覧/t+pazolite]]（[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]）。
 -譜面作成は、[[''すえP''>譜面作成者一覧/すえP]]。
 -曲IDは、''sysurf''。
+
 ----
 -[[かんたん>難易度表/かんたん/Surf Zapping]]
 -[[むずかしい>難易度表/むずかしい/Surf Zapping]]

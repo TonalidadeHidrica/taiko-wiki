@@ -30,7 +30,7 @@
 -[[かんたん>難易度表/かんたん/wonderful ROUTINE]]
 -[[ふつう>難易度表/ふつう/wonderful ROUTINE]]
 -[[むずかしい>難易度表/むずかしい/wonderful ROUTINE]]
--[[プレイ動画(キャプチャ)>https://youtu.be/7qyHvguWMtc&t=9s]]
+-[[プレイ動画>https://www.youtube.com/watch?v=7qyHvguWMtc]]
 
 ***コメント [#comment]
 -COLOR(#33f){''曲名の略称についてのコメントは、議論が勃発して荒れる要因になるので控えてください。''}

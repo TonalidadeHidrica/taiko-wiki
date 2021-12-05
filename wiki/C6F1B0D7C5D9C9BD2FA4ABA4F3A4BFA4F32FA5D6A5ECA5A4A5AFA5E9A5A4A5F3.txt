@@ -1,9 +1,10 @@
 *ブレイクライン [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.6.6''|CENTER:PS Vita1DL|CENTER:★×3|CENTER:''140''|CENTER:''317420点''|CENTER:＋連打|CENTER:720点|CENTER:230点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''981900点''}|~|CENTER:COLOR(#ff3300){6560点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは178。
 -黄色連打がかなり多い連打曲で、1本あたりの長さは短い。
 -速度が少し速く、全体的に4分がかなり多い。
@@ -17,14 +18,15 @@
 -歌唱は、''サリヤ人''。
 --作曲は、蓮尾理乃。作詞は、Sa&#67;hi。
 -譜面作成は、''カワーゲン・コラーゲン''。
-
+----
 -[[ふつう>難易度表/ふつう/ブレイクライン]]
 -[[むずかしい>難易度表/むずかしい/ブレイクライン]]
 -[[おに>難易度表/おに/ブレイクライン]]
 -[[オート動画(キャプチャ)>https://youtube.com/watch?v=5pXQsLfbhL8]]
+
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-最後の風船はくすだま10打
-&attachref(b0.png,nolink);
+~最後の風船はくすだま10打
+~&attachref(b0.png,nolink);

@@ -34,4 +34,4 @@
 
 ***譜面 [#a0b90fc5]
 連打の長さ(特に風船)は暫定
-&attachref(gerbera_hard.png,nolink);
+&attachref(gerbera_hard2.png,nolink);

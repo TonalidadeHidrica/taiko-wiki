@@ -151,6 +151,7 @@
 |''Dogbite''|195|[[★×4>難易度表/かんたん/Dogbite]]|[[★×6>難易度表/ふつう/Dogbite]]|[[★×7>難易度表/むずかしい/Dogbite]]|[[★×10>難易度表/おに/Dogbite]]|-|
 |''Parousia''|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|-|
 |''Leviathan''|?-185|[[★×4>難易度表/かんたん/Leviathan]]|[[★×7>難易度表/ふつう/Leviathan]]|[[★×7>難易度表/むずかしい/Leviathan]]|[[★×9>難易度表/おに/Leviathan]]|-|
+|''Wish upon a shooting star''|128|[[★×4>難易度表/かんたん/Wish upon a shooting star]]|[[★×5>難易度表/ふつう/Wish upon a shooting star]]|[[★×6>難易度表/むずかしい/Wish upon a shooting star]]|[[★×9>難易度表/おに/Wish upon a shooting star]]|-|
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |>|>|>|>|>|>|BGCOLOR(orangered):''ナムコオリジナル''&aname(namco);|
 |''Asteroid''|144-288|[[★×5>難易度表/かんたん/Asteroid]]|[[★×7>難易度表/ふつう/Asteroid]]|[[★×8>難易度表/むずかしい/Asteroid]]|[[★×9>難易度表/おに/Asteroid]]|-|
@@ -188,7 +189,7 @@
 |''限界クリエイター応援歌''|170|[[★×3>難易度表/かんたん/限界クリエイター応援歌]]|[[★×5>難易度表/ふつう/限界クリエイター応援歌]]|[[★×6>難易度表/むずかしい/限界クリエイター応援歌]]|[[★×8>難易度表/おに/限界クリエイター応援歌]]|-|
 
 ***CSに収録されたことがあるが、CSに収録されていない譜面がある曲 [#acscoreonly]
--背景がピンク色(COLOR(pink){■})の曲・・・初出がニジイロVer.以降の譜面がある曲
+-背景がピンク色(COLOR(pink){■})の曲・・・初出がニジイロVer.以降の譜面が存在する曲
 
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|h
@@ -199,6 +200,7 @@
 |>|>|>|>|>|>|BGCOLOR(orangered):''ナムコオリジナル''&aname(namco);|
 |''どん子のファーストデート''|190|-|-|-|-|[[★×8>難易度表/おに/どん子のファーストデート(裏譜面)]]|
 |>|BGCOLOR(pink):|>|>|>|>|BGCOLOR(pink):CENTER:42|c
+|''Rotter Tarmination''|200|[[★×4>難易度表/かんたん/Rotter Tarmination]]((二人用譜面))|-|-|-|-|
 |''メカデス。''|160|-|-|-|-|[[★×10>難易度表/おに/メカデス。(裏譜面)]]|
 |''Taiko Drum Monster''|199.5-266|-|-|-|-|[[★×10>難易度表/おに/Taiko Drum Monster(裏譜面)]]|
 

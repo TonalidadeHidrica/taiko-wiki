@@ -1,13 +1,18 @@
 *The world is all one !! [#title]
-***詳細・攻略 [#more]
 -ゲーム「''THE IDOLM@STER 2''」のテーマ曲。アニメ「''アイドルマスター''」ED1。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDX''|CENTER:★×5|CENTER:''361''|CENTER:''734110点''|CENTER:＋連打|CENTER:570点|CENTER:140点|
-|CENTER:AC15.1.0||CENTER:★×4|~|CENTER:''693640点''|~|CENTER:580点|CENTER:155点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''993050点''}|~|CENTER:COLOR(#ff3300){2530点}|CENTER:-|
-||CENTER:COLOR(blue){PS Vita MS}|CENTER:★×5|CENTER:''371''|CENTER:''738760点''|~|CENTER:550点|CENTER:155点|
-||CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){???0点}|CENTER:-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDX''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|''361''|''734110点''|＋連打|570点|140点|
+|AC15.1.0||~|★×4|~|''693640点''|~|580点|155点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''993050点''}|~|COLOR(#ff3300){2530点}|-|
+||COLOR(blue){PS Vita MS}|BGCOLOR(#ff99cc):''THE IDOL&br;M@STER2''|★×5|''371''|''738760点''|~|550点|155点|
+||COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){???0点}|-|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|★×4|''361''|''?????0点''|~|??0点|-|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは約167。
 
 ***新譜面 [#new]
@@ -41,6 +46,7 @@
 -譜面作成は、''くぼけん''(新譜面)。
 -曲IDは、''imas2t''(旧譜面)。
 
+----
 -[[かんたん>難易度表/かんたん/The world is all one !!]]
 -[[ふつう>難易度表/ふつう/The world is all one !!]]
 -[[おに>難易度表/おに/The world is all one !!]]/[[裏譜面>難易度表/おに/The world is all one !!(裏譜面)]]

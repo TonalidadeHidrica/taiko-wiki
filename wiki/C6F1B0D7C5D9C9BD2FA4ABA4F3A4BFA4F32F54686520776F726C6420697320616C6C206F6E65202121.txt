@@ -1,14 +1,19 @@
 *The world is all one !! [#title]
-***詳細・攻略 [#more]
 -ゲーム「''THE IDOLM@STER 2''」のテーマ曲。アニメ「''アイドルマスター''」ED1。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDX''|CENTER:★×3|CENTER:''143''|CENTER:''305710点''|CENTER:＋連打|CENTER:680点|CENTER:180点|
-|CENTER:AC15.1.0||~|~|CENTER:''?????0点''|~|~|CENTER:270点|
-|CENTER:AC15.2.0||~|~|CENTER:''321650点''|~|~|CENTER:268点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''988960点''}|~|CENTER:COLOR(#ff3300){6190点}|CENTER:-|
-||CENTER:COLOR(blue){PS Vita MS}|~|CENTER:''156''|CENTER:''315460点''|~|CENTER:480点|CENTER:170点|
-||CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''976740点''}|~|CENTER:COLOR(#ff3300){4460点}|-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDX''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×3|''143''|''305710点''|＋連打|680点|180点|
+|AC15.1.0||~|~|~|''?????0点''|~|~|270点|
+|AC15.2.0||~|~|~|''321650点''|~|~|268点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''988960点''}|~|COLOR(#ff3300){6190点}|-|
+||COLOR(blue){PS Vita MS}|BGCOLOR(#ff99cc):''THE IDOL&br;M@STER2''|~|''156''|''315460点''|~|480点|170点|
+||COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''976740点''}|~|COLOR(#ff3300){4460点}|-|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|''143''|''?????0点''|~|??0点|-|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは約167。
 
 ***新譜面 [#new]
@@ -38,8 +43,9 @@
 -略称は''WAO''や''ざわわん''が一般的か。
 -作曲は、[[ハレ晴レユカイ>難易度表/かんたん/ハレ晴レユカイ]]や[[止マレ！>難易度表/かんたん/止マレ！]]と同じ''田代智一''。
 -譜面作成は、''くぼけん''(新譜面)。
--曲IDは、''imas2t''(旧譜面)
+-曲IDは、''imas2t''(旧譜面)。
 
+----
 -[[ふつう>難易度表/ふつう/The world is all one !!]]
 -[[むずかしい>難易度表/むずかしい/The world is all one !!]]
 -[[おに>難易度表/おに/The world is all one !!]]/[[裏譜面>難易度表/おに/The world is all one !!(裏譜面)]]

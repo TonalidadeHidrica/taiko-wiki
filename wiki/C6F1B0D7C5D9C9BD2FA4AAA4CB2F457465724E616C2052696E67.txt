@@ -42,5 +42,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~60小節目の縁は12分音符(68小節などと同じ配置)です。
-~&attachref(永遠の輪っか＿2.png,nolink);
+~&attachref(永遠の輪っか_3.png,nolink);
