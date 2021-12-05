@@ -47,6 +47,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+AC16,NS1譜面、AC15は32分音符を48分＋HS・BPM変化で処理していると思われる。
 ~&attachref(pacmce_m_f2.png,nolink);
 &br;
 #region(32分音符のTJA表記)

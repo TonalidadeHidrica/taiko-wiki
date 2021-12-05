@@ -46,9 +46,9 @@
 -[[プレイ動画(AC14)>https://www.youtube.com/watch?v=D39f_q96CS8]]
 -[[オート動画(Wii4)>https://www.youtube.com/watch?v=Ipddj_gcU6k]]
 -[[オート動画(PS4 1)>https://www.youtube.com/watch?v=lhlLYiMgcwc]]
-#region(低画質版)
--[[オート動画(Wii4)>https://www.youtube.com/watch?v=e1VFARiUL8U]]
-#endregion
+-(低画質版)
+--[[オート動画(Wii4)>https://www.youtube.com/watch?v=e1VFARiUL8U]]
+
 ***コメント [#comment]
 #pcomment(,noname)
 

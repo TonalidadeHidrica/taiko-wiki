@@ -2,10 +2,10 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''3DS1''|''クラシック''|CENTER:★×3|CENTER:''125''|CENTER:''324310点''|CENTER:＋連打|CENTER:640点|CENTER:250点|
+||CENTER:''3DS1''|BGCOLOR(gold):''クラシック''|CENTER:★×3|CENTER:''125''|CENTER:''324310点''|CENTER:＋連打|CENTER:640点|CENTER:250点|
 ||iOS|~|~|~|''?????0点''|~|???点|???点|
-|AC16.1.0SP||''ポップス''|~|~|''??????0点''|~|???点|-|
-|~|~|''クラシック''|~|~|~|~|~|~|
+|AC16.1.0SP||BGCOLOR(cyan):''ポップス''|~|~|''??????0点''|~|???点|-|
+|~|~|BGCOLOR(gold):''クラシック''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約63〜112。
