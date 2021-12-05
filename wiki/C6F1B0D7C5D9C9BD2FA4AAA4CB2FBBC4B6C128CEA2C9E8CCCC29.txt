@@ -39,7 +39,7 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(»Ä¶ÁÎ¢.png,nolink);
+&attachref(gumizk_x.png,nolink);
 
 ~BPM¸ÇÄêver.
 &attachref(»Ä¶ÁÎ¢È¾Â®.png,nolink);
