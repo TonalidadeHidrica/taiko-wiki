@@ -3,12 +3,14 @@
 ***詳細・攻略 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14''||CENTER:''アニメ''|CENTER:★×5|CENTER:''192''|CENTER:''721460点''|CENTER:＋連打|CENTER:1050点|CENTER:260点|
+|CENTER:''AC14''||BGCOLOR(orange):''アニメ''|CENTER:★×5|CENTER:''192''|CENTER:''721460点''|CENTER:＋連打|CENTER:1050点|CENTER:260点|
 |CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''738400点''}|~|CENTER:COLOR(#ff3300){3400点}|CENTER:-|
-|CENTER:AC15.1.0||CENTER:''J-POP''|~|~|CENTER:''732140点''|~|CENTER:1060点|CENTER:355点|
+|CENTER:AC15.1.0||BGCOLOR(cyan):''J-POP''|~|~|CENTER:''732140点''|~|CENTER:1060点|CENTER:355点|
 |CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''985480点''}|~|CENTER:COLOR(#ff3300){4560点}|CENTER:-|
 ||CENTER:iOS|~|~|~|CENTER:''721460点''|~|CENTER:1050点|CENTER:260点|
-|AC16.1.0||''ポップス&br;アニメ''|~|~|''994240点''|~|5170点|-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''994240点''|~|5170点|-|
+|~|~|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+
 ***譜面構成・攻略 [#capture]
 -BPMは95。
 --ゴーゴーはHS1.5がかかっており、見かけ上のBPMは142.5。
@@ -25,7 +27,7 @@
 -譜面作成は、''くぼけん''。
 -''2015年7月1日(水)7:00を以て新筐体無印・KATSU-DON Ver.・ソライロ・モモイロ・キミドリ Ver.よりサヨナラ''になった。
 --''ムラサキVer.以降では今まで通り選曲が可能''。
-
+----
 -[[かんたん>難易度表/かんたん/レイン]]
 -[[ふつう>難易度表/ふつう/レイン]]
 -[[おに>難易度表/おに/レイン]]

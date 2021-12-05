@@ -3,9 +3,9 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.4.4''|''バラエティ''|CENTER:★×4|CENTER:''261''|CENTER:''522050点''|CENTER:＋連打|CENTER:560点|CENTER:153点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''975590点''}|~|CENTER:COLOR(#ff3300){3190点}|CENTER:-|
-|AC16.1.0|''ゲーム&&br;バラエティ''|~|~|''??????0点''|~|???点|-|
+|CENTER:''AC15.4.4''|BGCOLOR(lime):''バラエティ''|CENTER:★×4|CENTER:''261''|CENTER:''522050点''|CENTER:＋連打|CENTER:560点|CENTER:153点|
+|CENTER:COLOR(#ff3300){真打}|~|~|~|CENTER:COLOR(#ff3300){''975590点''}|~|CENTER:COLOR(#ff3300){3190点}|CENTER:-|
+|AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|''??????0点''|~|???点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは166〜169。

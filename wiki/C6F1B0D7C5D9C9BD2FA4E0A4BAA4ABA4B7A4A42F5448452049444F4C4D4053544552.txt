@@ -5,15 +5,15 @@
 ***詳細・攻略 [#more]
 |>|>|>|>|>|>|>|>|>|CENTER:|c
 |>|CENTER:バージョン((太字は初出))|ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-|CENTER:''AC7''||''ナムコ&br;オリジナル''|★×5|CENTER:''395''|CENTER:''?????0点''|CENTER:＋連打|CENTER:560点|CENTER:130点|CENTER:''ゴーゴーバグあり''|
-||CENTER:アニスペ|~|~|~|CENTER:''703140点''|~|CENTER:480点|~|~|
-|CENTER:AC8,9||''ゲーム&br;ミュージック''|~|~|CENTER:''?????0点''|~|CENTER:540点|~||
+|CENTER:''AC7''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|CENTER:''395''|CENTER:''?????0点''|CENTER:＋連打|CENTER:560点|CENTER:130点|CENTER:''ゴーゴーバグあり''|
+||CENTER:アニスペ|~|~|~|''703140点''|~|CENTER:480点|~|~|
+|CENTER:AC8,9||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|CENTER:''?????0点''|~|CENTER:540点|~||
 ||CENTER:PSP2DL|~|~|~|CENTER:''718060点''|~|CENTER:440点|CENTER:140点|CENTER:''ゴーゴーバグあり''|
 |CENTER:AC15.6.2|CENTER:PS Vita1|~|★×4|CENTER:''366''|CENTER:''678880点''|~|CENTER:410点|CENTER:108点||
 |CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''982800点''}|~|CENTER:COLOR(#ff3300){1950点}|CENTER:-||
 ||CENTER:iOS|~|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点||
-|AC16.1.0||''アニメ''|~|~|''??????0点''|~|2710点|-|~|
-|~|~|''ゲーム&&br;バラエティ''|~|~|~|~|~|~|~|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''??????0点''|~|2710点|-|~|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|~|
 -BPMは165。
 ----
 -【''新譜面''】
