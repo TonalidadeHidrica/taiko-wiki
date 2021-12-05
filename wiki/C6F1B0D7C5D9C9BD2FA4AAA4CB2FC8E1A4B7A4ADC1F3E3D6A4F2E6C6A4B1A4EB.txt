@@ -15,7 +15,7 @@
 
 ***その他 [#other]
 -アーティストは、''Falcom Sound Team jdk''。
--曲IDは、''grumin''
+-曲IDは、''grumin''。
 
 ----
 -[[かんたん>難易度表/かんたん/悲しき蒼穹を翔ける]]
