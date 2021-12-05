@@ -545,6 +545,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(darkorchid):|[[DIGITAL HORIZON>難易度表/むずかしい/DIGITAL HORIZON]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Dual Moon>難易度表/むずかしい/Dual Moon]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Honey Heartbeat 〜10 Stars Mix〜(PS Vita MS譜面)>難易度表/むずかしい/Honey Heartbeat 〜10 Stars Mix〜]]|''''||461|秒||
+|BGCOLOR(darkorchid):|[[MAGICAL SOUND SHOWER>難易度表/むずかしい/MAGICAL SOUND SHOWER]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Next Life>難易度表/むずかしい/Next Life]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Outride a Crisis>難易度表/むずかしい/Outride a Crisis]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Racing the Storm>難易度表/むずかしい/Racing the Storm]]|''''|||秒||
@@ -624,7 +625,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(darkorchid):|[[TE-20>難易度表/むずかしい/TE-20]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[PENETRATION>難易度表/むずかしい/PENETRATION]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[負け犬返上 feat.蟹プリンス>難易度表/むずかしい/負け犬返上]]|''''|||秒||
-|BGCOLOR(darkorchid):|[[MAGICAL SOUND SHOWER>難易度表/むずかしい/MAGICAL SOUND SHOWER]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[リブルとラブルのマジカルファンタジー>難易度表/むずかしい/リブルとラブルのマジカルファンタジー]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[ROTTERDAM NATION(FOO MIX)>難易度表/むずかしい/ROTTERDAM NATION(FOO MIX)]]|''''|||秒||
 |BGCOLOR(orangered):|[[オブセッション・ラティーノ>難易度表/むずかしい/オブセッション・ラティーノ]]|''''|||秒||
