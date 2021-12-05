@@ -25,12 +25,13 @@
 -アーティストは、[[''AJURIKA''>参加アーティスト一覧/遠山明孝]]。
 -曲IDは、''tek7he''。
 -PS4 1でこの曲のミッションビンゴをコンプリートすると、称号「''三島流喧嘩空手''」を獲得できる。
--新筐体でこの譜面をフルコンボすると、称号「''陽炎ゆらめいて''」を獲得できる。
+-新筐体でこの譜面をフルコンボすると、''称号''「''陽炎ゆらめいて''」を獲得できる。
+
 ----
 -[[かんたん>難易度表/かんたん/Heat Haze Shadow 2]]
 -[[ふつう>難易度表/ふつう/Heat Haze Shadow 2]]
 -[[むずかしい>難易度表/むずかしい/Heat Haze Shadow 2]]
--[[オート動画>http://www.youtube.com/watch?v=TXAe9SdntVs]]
+-[[オート動画(PS4 1)>http://www.youtube.com/watch?v=TXAe9SdntVs]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -3175,6 +3175,7 @@
 -[[コメント/難易度表/かんたん/Toxic]] コメント/ナンイドオモテ/カンタン/Toxic
 -[[コメント/難易度表/かんたん/Tubthumping]] コメント/ナンイドオモテ/カンタン/Tubthumping
 -[[コメント/難易度表/かんたん/Tulip]] コメント/ナンイドオモテ/カンタン/Tulip
+-[[コメント/難易度表/かんたん/Turquoise Tachometer]] コメント/ナンイドオモテ/カンタン/Turquoise Tachometer
 -[[コメント/難易度表/かんたん/UFO Swingin']] コメント/ナンイドオモテ/カンタン/UFO Swingin'
 -[[コメント/難易度表/かんたん/UNDEAD HEART(怒りのWarriors)]] コメント/ナンイドオモテ/カンタン/UNDEAD HEART(イカリノWarriors)
 -[[コメント/難易度表/かんたん/UNITE!]] コメント/ナンイドオモテ/カンタン/UNITE!
@@ -4816,6 +4817,7 @@
 -[[コメント/難易度表/ふつう/Toxic]] コメント/ナンイドオモテ/フツウ/Toxic
 -[[コメント/難易度表/ふつう/Tubthumping]] コメント/ナンイドオモテ/フツウ/Tubthumping
 -[[コメント/難易度表/ふつう/Tulip]] コメント/ナンイドオモテ/フツウ/Tulip
+-[[コメント/難易度表/ふつう/Turquoise Tachometer]] コメント/ナンイドオモテ/フツウ/Turquoise Tachometer
 -[[コメント/難易度表/ふつう/U.S.A.]] コメント/ナンイドオモテ/フツウ/U.S.A.
 -[[コメント/難易度表/ふつう/UFO Swingin']] コメント/ナンイドオモテ/フツウ/UFO Swingin'
 -[[コメント/難易度表/ふつう/UNDEAD HEART(怒りのWarriors)]] コメント/ナンイドオモテ/フツウ/UNDEAD HEART(イカリノWarriors)

@@ -4,12 +4,13 @@
 
 **一人用譜面 [#single]
 -詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDXDL''&br;iOS&br;AR|CENTER:★×7|CENTER:''526''|CENTER:''814770点''|CENTER:＋連打|CENTER:380点|CENTER:100点|
-|CENTER:AC15.1.0SP||~|~|CENTER:''832730点''|~|CENTER:440点|CENTER:113点|
-|CENTER:AC15.2.0|CENTER:Wii U1&br;PS4 1DL&br;NS1DL|~|~|CENTER:''832440点''|~|~|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''987700点''}|~|CENTER:COLOR(#ff3300){1700点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|CENTER:''994140点''|~|CENTER:1890点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDXDL''&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''526''|''814770点''|＋連打|380点|100点|
+|AC15.1.0SP||~|~|~|''832730点''|~|440点|113点|
+|AC15.2.0|Wii U1&br;PS4 1DL&br;NS1DL|~|~|~|''832440点''|~|~|~|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''987700点''}|~|COLOR(#ff3300){1700点}|-|
+|AC16.1.0||~|~|~|''994140点''|~|1890点|-|
 
 -BPMは180。
 -黄色連打が多い連打曲である。
@@ -20,11 +21,13 @@
 
 **二人用譜面 [#double]
 -詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.1.0SP||CENTER:★×7|CENTER:''522''|CENTER:''?????0点''|CENTER:＋連打|CENTER:440点|CENTER:113点|
-|CENTER:AC15.2.0|CENTER:Wii U1&br;PS4 1DL&br;NS1DL|~|~|CENTER:''834440点''|~|~|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''989700点''}|~|CENTER:COLOR(#ff3300){1700点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|CENTER:''991800点''|~|CENTER:1900点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.1.0SP||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''522''|''?????0点''|＋連打|440点|113点|
+|AC15.2.0|Wii U1&br;PS4 1DL&br;NS1DL|~|~|~|''834440点''|~|~|~|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''989700点''}|~|COLOR(#ff3300){1700点}|-|
+|AC16.1.0||~|~|~|''991800点''|~|1900点|-|
+
 -1人用譜面の1P側の45、47小節目の2つ目の縁と、2P側の53、55小節目の2つ目の縁があったところが1P側・2P側共になく、その分の4コンボが減っている。
 -97、98小節目と105、106小節目の面と縁が入れ替わって配置されている。
 
