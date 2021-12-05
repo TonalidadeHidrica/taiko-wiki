@@ -279,3 +279,4 @@
 -↑ 調べたら、AC7の稼働開始がアケマスの11日前なのでそうなりますね。 --  &new{2019-12-23 (月) 17:50:47};
 -AC7のスペシャルページには「ゲーム本編より早く曲が聴けちゃうよ！」という記述がある([[ソース>https://web.archive.org/web/20060422042749/http://www.bandainamcogames.co.jp/aa/am/vg/taikono-tatsujin7/special/collabo/]])。 --  &new{2019-12-23 (月) 17:55:08};
 -30小節目に分岐判定はありません --  &new{2020-04-09 (木) 12:13:25};
+-大音符ソフランのHSは各分岐で違う　→[[ソース>https://www.youtube.com/watch?v=xwIhZ8orRyc]] --  &new{2020-05-16 (土) 20:17:02};

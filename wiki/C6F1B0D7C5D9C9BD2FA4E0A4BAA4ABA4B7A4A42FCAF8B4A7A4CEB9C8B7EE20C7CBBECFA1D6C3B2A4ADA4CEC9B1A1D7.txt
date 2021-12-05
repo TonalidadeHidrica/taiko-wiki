@@ -4,8 +4,8 @@
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''Wii5SP''|CENTER:★×6|CENTER:''343''|CENTER:''789410点''|CENTER:＋連打|CENTER:640点|CENTER:170点|
-|CENTER:PS4 1SP|~|CENTER:''344''|CENTER:''?????0点''|~|CENTER:640点|CENTER:168点|
-|CENTER:COLOR(#f30){真打}|~|~|CENTER:COLOR(#f30){''?????0点''}|~|CENTER:COLOR(#f30){???0点}|CENTER:-|
+|CENTER:PS4 1SP|~|CENTER:''344''|CENTER:''788500点''|~|CENTER:640点|CENTER:168点|
+|CENTER:COLOR(#f30){真打}|~|~|CENTER:COLOR(#f30){''986610点''}|~|CENTER:COLOR(#f30){2510点}|CENTER:-|
 -BPMは約130。
 -黄色連打が多い連打曲である。
 -大音符が多く、33個ある（全体の約9.62%）。
