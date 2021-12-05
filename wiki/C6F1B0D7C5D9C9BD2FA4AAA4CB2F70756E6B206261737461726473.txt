@@ -8,7 +8,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは225。
--[[Venomous>難易度表/おに/Venomous]]や[[Angel Halo>難易度表/おに/Angel Halo]]とほぼ同じ速さでかなりの量の16分を捌いていく。BPM220台かつ16分がここまで多発する★×9は、他に[[Shiny Kung-fu Revival>難易度表/おに/Shiny Kung-fu Revival]]くらいだろうか。
+-[[Venomous>難易度表/おに/Venomous]]や[[Angel Halo>難易度表/おに/Angel Halo]]とほぼ同じ速さでかなりの量の16分を捌いていく。BPMが220台かつ16分がここまで多発する★×9は、他に[[Shiny Kung-fu Revival>難易度表/おに/Shiny Kung-fu Revival]]くらいだろうか。
 --このような高BPMにもかかわらず、5連打よりも長い16分が多いのも特徴的であり休憩も少なめ。
 -中盤は低速HSが掛かる。12分が見た目16分になって登場し長複合も存在する。
 --56・57小節は精度が取りづらいので全良狙いの際は注意。
@@ -35,4 +35,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(punk bastards_2.png,nolink);
+~暫定譜面
+~50小節の1拍目のBPMは158.82(暫定)。
+~&attachref(punk bastards_3.png,nolink);

@@ -19,4 +19,5 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
+~37小節最後の面は実際には存在しない
 &attachref(負けないでe.png,nolink);

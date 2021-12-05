@@ -8,7 +8,7 @@
 |AC16.1.0||~|~|~|''1001050点''|1450点|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは150。
+-BPMは130.88-150。
 -''精度曲''のひとつ。
 -序盤から24分が流れてくる。また休憩地帯が少ないため体力も必須。
 -''中盤に24分混じりの発狂があり、フルコンボ・全良を目指す上で最大の難所となる''。
@@ -16,7 +16,7 @@
 ---47小節からの複合は、&br;COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●●●}COLOR(blue){○}/COLOR(red){●}/COLOR(red){●●●}COLOR(blue){○}/COLOR(red){●}/COLOR(red){●●●●}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●}COLOR(red){●●●●}/COLOR(blue){○}と見ることができる。
 --この曲での24分は16分換算すると''BPM225''相当になり、[[Angel Halo>難易度表/おに/Angel Halo]]・[[Gloria>難易度表/おに/Gloria]]・[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]などにおける16分の速さをわずかに上回る。
 -ほとんどが16分→24分の接続だが、終盤の1箇所(65小節〜66小節)だけ24分→16分の接続があるので、リズムを崩されないように。
--一曲を通しての平均密度は、''約6.95打/秒''である。
+-1曲を通しての平均密度は、''約6.95打/秒''である。
 
 ***その他 [#other]
 -作曲・編曲・薩摩琵琶・トラックダウンは、''[[江口貴勅>https://twitter.com/takachoku]]''。
@@ -29,6 +29,8 @@
 -[[オート動画(Wii U2)>https://www.youtube.com/watch?v=L4Hn3-FcNXs]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
