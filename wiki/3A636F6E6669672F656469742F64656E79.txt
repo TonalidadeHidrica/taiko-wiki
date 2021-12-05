@@ -95,6 +95,11 @@
 
 //- 9c7833a22d24a2495c13422d195dfd5f
 
+//9/3 PS4sageゲハ +2
+- a6e554dbdc8cef7ce743fd7c346d57ca
+- 3cb4ab4417061dfcde777741ce30d6d3
+- 0f5724e235779b13a700845289e2eee5
+
 //9/2 コメント歯抜け消し
 - 34326efc7f8dda2e29afbef1bcd711c9
 
@@ -109,7 +114,7 @@
 //- 6cfaeb4f205a1b0678fc33c5ce536454
 
 //8/10 steμ自演コメント +1
-- bda1ed1f00408533b38fb5dac6ee4b6d
+//- bda1ed1f00408533b38fb5dac6ee4b6d
 
 //8/9 配点表荒らし +1
 //- 96a0d5c1265c2dbdf322aeb0c45559bf
@@ -160,11 +165,6 @@
 
 //6/1 アンケート所荒らし
 //- e4b717e6fccbff612b33c417b44bfe0e
-
-//5/7 PS4sageゲハ +1
-//- a6e554dbdc8cef7ce743fd7c346d57ca
-//- 3cb4ab4417061dfcde777741ce30d6d3
-//- 0f5724e235779b13a700845289e2eee5
 
 //4/20
 //- 639b9cd4bc3930881760682704e0a5b0

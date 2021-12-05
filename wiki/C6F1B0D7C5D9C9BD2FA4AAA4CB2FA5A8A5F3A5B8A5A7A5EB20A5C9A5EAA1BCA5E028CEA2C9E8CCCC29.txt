@@ -49,9 +49,9 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~AC15以降は★★★★★★★★★☆
+~AC15以降は★×9
 &attachref(extran.png,nolink);
 
 ~見た目&br;
-~正しくは上の譜面画像。
+~正しい配色は上の譜面画像を参照。
 &ref(trance_exv.png,nolink);

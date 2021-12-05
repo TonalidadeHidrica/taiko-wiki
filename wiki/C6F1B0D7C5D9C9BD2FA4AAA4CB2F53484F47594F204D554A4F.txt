@@ -43,8 +43,7 @@
 -[[%%%COLOR(#069){玄人譜面}%%%>#kuroto]](最初の連打をぴったり99打)
 --分岐後すぐに高速大音符が来るので要注意。
 --こちらも★×9にしてはなかなかの連打曲。
---なかなか癖の強い譜面。プレイすればわかるだろう。
----''裏拍から入る7連打''が多い。
+--なかなか癖の強い譜面で''裏拍から入る7連打''が多い。
 ---また、局所的に高密度なので体力面もバカにできないため気をつけておきたい。
 --こちらも55〜57小節の長複合に注意。24分はないのが救い。
 --68〜75小節はCOLOR(#666){普通譜面}と同じ配置。
@@ -72,7 +71,7 @@
 -アレンジ(編曲)は、[[''COSIO''>参加アーティスト一覧/COSIO]]。原曲の作曲は、''中潟憲雄''。
 -この譜面を連打数530以上でクリア((ニジイロVer.ではクリアは問わない))すると、''称号''「''必殺旋風剣''」を獲得できる。
 -現在は一般開放され、すべてのプレイヤーで選曲可能。
--ニジイロVer.にて玄人譜面と達人譜面が入れ替わった。上記の譜面構成・攻略は玄人・達人が入れ替わった後のものである。
+-''ニジイロVer.にて玄人譜面と達人譜面が入れ替わった。上記の譜面構成・攻略は玄人・達人が入れ替わった後のものである''。
 -曲IDは、''genpe2''。
 
 ----
@@ -80,15 +79,15 @@
 -[[ふつう>難易度表/ふつう/SHOGYO MUJO]]
 -[[むずかしい>難易度表/むずかしい/SHOGYO MUJO]]
 -動画
---オート(PS4 1)：[[COLOR(#666){普通譜面}>https://www.youtube.com/watch?v=jhIel-ig0-Y]]/[[COLOR(#069){玄人譜面}>https://www.youtube.com/watch?v=8wMj76rjvoU]]/[[COLOR(#909){達人譜面}>https://www.youtube.com/watch?v=DqTZBHzpMAM]]
---プレイ動画(AC15)：[[COLOR(#666){普通譜面}>https://www.youtube.com/watch?v=tin9im63IVY]]/[[COLOR(#069){玄人譜面}>https://www.youtube.com/watch?v=A72ClnlKL_Q]]/[[COLOR(#909){達人譜面}>https://www.youtube.com/watch?v=sQKbqd0iiIA]]
---[[全譜面分岐同時鑑賞(AC15)>https://youtu.be/-gSrwZNcugE]]
+--オート動画(PS4 1)：[[COLOR(#666){普通譜面}>https://www.youtube.com/watch?v=jhIel-ig0-Y]] / [[COLOR(#069){玄人譜面}>https://www.youtube.com/watch?v=8wMj76rjvoU]] / [[COLOR(#909){達人譜面}>https://www.youtube.com/watch?v=DqTZBHzpMAM]]
+--プレイ動画(キャプチャ)：[[COLOR(#666){普通譜面}>https://www.youtube.com/watch?v=tin9im63IVY]] / [[COLOR(#069){玄人譜面}>https://www.youtube.com/watch?v=A72ClnlKL_Q]] / [[COLOR(#909){達人譜面}>https://www.youtube.com/watch?v=sQKbqd0iiIA]]
+//--[[全譜面分岐同時鑑賞(AC15)>https://youtu.be/-gSrwZNcugE]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~''現在の譜面画像はAC15・PS4 1の譜面です。そのため、ニジイロVer.とは玄人・達人譜面が異なります。''
+~''現在の譜面画像はAC15・PS4 1の譜面です。ニジイロVer.では玄人譜面⇔達人譜面となります。''
 ~HSはその下の譜面画像を参照。
 ~&attachref(genpe2_m.png,nolink);
 

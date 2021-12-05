@@ -1,13 +1,13 @@
 *大空と太鼓の踊り [#title]
 -[[全国大会課題曲公募>太鼓の達人 全国大会2013 課題曲募集だドン！]]の採用曲のひとつ。また、[[太鼓の達人 ドンだー！日本一決定戦2013]]のエリア大会課題曲のひとつ。
 
-***詳細 [#capture]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.3.6''|Wii U2SP&br;3DS3DL|★×9|''864''|''1108530点''|＋連打|390点|95点|
-|COLOR(#f30):真打||~|~|COLOR(#f30):''1001040点''|~|COLOR(#f30):1130点|-|
-||iOS|~|~|''1103690点''|~|330点|90点|
-|AC16.1.0||~|~|''1003640点''|~|1160点|-|
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.3.6''|Wii U2SP&br;3DS3DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''864''|''1108530点''|+連打|390点|95点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1001040点''}|~|COLOR(#ff3300){1130点}|-|
+||iOS|~|~|~|''1103690点''|~|330点|90点|
+|AC16.1.0||~|~|~|''1003640点''|~|1160点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは148〜163。
@@ -16,11 +16,11 @@
 -★×9を代表する総合譜面。奇数複合、偶数複合、長複合、変拍子、速度変化、12分音符配置などありとあらゆる要素が含まれているので地力上げに最適。
 --リズムも一定でなく物量も多いので、でたらめノックにも向いている。
 -ゴーゴータイムは特に高密度で、それ以外はややリズム難な箇所が多い。
--17小節〜18小節にある13連打は&br;COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}もしくは&br;COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●}COLOR(blue){●●}/COLOR(red){●}COLOR(red){●}COLOR(blue){●●}/COLOR(red){●}COLOR(blue){●}と区切ると良い。
--19小節と20小節にまたがる16連打は連打の終わり際で崩されやすい。COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(red){●●●●}/COLOR(red){●}COLOR(blue){●}と区切ると良いであろう。
--間奏にある、縁12分＋24分〜面8分はリズムを崩されやすいので注意。
--終盤に出てくる長い複合の区切りは COLOR(blue){●●●●}/&br;COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}/&br;COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●●}
---COLOR(red){●●}COLOR(blue){●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}をひたすら繰り返すが、COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}に注意。
+-17小節〜18小節にある13連打は&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}もしくは&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}と区切ると良い。
+-19小節と20小節にまたがる16連打は連打の終わり際で崩されやすい。COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●●●}/COLOR(red){●}COLOR(blue){○}と区切ると良いであろう。
+-間奏にある、縁12分+24分〜面8分はリズムを崩されやすいので注意。
+-終盤に出てくる長い複合の区切りは COLOR(blue){○○○○}/&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/&br;COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}
+--COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}をひたすら繰り返すが、COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}に注意。
 -平均密度は、''約6.89打/秒''。
 
 ***その他 [#other]
@@ -37,13 +37,10 @@
 -[[オート動画>https://www.youtube.com/watch?v=kHy5EIlA1o0]]
 
 ***コメント [#comment]
--COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
--COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~65小節目最後の音符はHS0.91
-//~65小節目最後の音符は界外音符です。
 ~&attachref(irpunk_m.png,nolink);
 ~65小節実際の譜面
 ~&attachref(65.png,nolink);

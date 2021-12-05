@@ -313,6 +313,10 @@
 |>|>|>|CENTER:''8/29配信曲''|h
 |BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(red):''新''|[[''Dogbite''>難易度表/おに/Dogbite]]|t+pazolite|
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''9/5配信曲''|h
+|BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(red):''新''|[[''Parousia''>難易度表/おに/Parousia]]|xi|
+
 -2020/9/23 7:00をもって、以下の3曲がサヨナラとなる。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V05.07)|h

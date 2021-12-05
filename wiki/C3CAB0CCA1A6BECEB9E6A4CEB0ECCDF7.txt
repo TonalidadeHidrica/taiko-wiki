@@ -486,6 +486,7 @@
 |〇|BGCOLOR(gold):|フリーウェイドンだー|[[COLOR(blue):Freeway3234>難易度表/おに/Freeway3234]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|そう、愛なんだぜ|[[COLOR(blue):愛なんだぜ>難易度表/おに/愛なんだぜ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|シンクロニカは眠らない|[[COLOR(blue):シンクロニカ・エアライン>難易度表/おに/シンクロニカ・エアライン]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):Parousia>難易度表/おに/Parousia]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|猛犬を手懐けし者|[[COLOR(blue):Dogbite>難易度表/おに/Dogbite]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|待ち焦がれドンだー|[[COLOR(blue):waitin' for u>難易度表/おに/waitin' for u]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|太鼓は生き甲斐|[[COLOR(blue):ALiVE>難易度表/おに/ALiVE]]を難易度おにでフルコンボ|~|

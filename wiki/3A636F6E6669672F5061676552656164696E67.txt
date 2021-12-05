@@ -4772,6 +4772,7 @@
 -[[コメント/難易度表/ふつう/Thank You!]] コメント/ナンイドオモテ/フツウ/Thank You!
 -[[コメント/難易度表/ふつう/That's The Way(I Like It)]] コメント/ナンイドオモテ/フツウ/That's The Way(I Like It)
 -[[コメント/難易度表/ふつう/The Carnivorous Carnival]] コメント/ナンイドオモテ/フツウ/The Carnivorous Carnival
+-[[コメント/難易度表/ふつう/The Impression That I Get]] コメント/ナンイドオモテ/フツウ/The Impression That I Get
 -[[コメント/難易度表/ふつう/The Magician's Dream]] コメント/ナンイドオモテ/フツウ/The Magician's Dream
 -[[コメント/難易度表/ふつう/The Orb Festival]] コメント/ナンイドオモテ/フツウ/The Orb Festival
 -[[コメント/難易度表/ふつう/The Other self]] コメント/ナンイドオモテ/フツウ/The Other self
