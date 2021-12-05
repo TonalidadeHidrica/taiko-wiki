@@ -5,10 +5,11 @@
 
 -[[公式サイト>http://taiko.namco-ch.net/taikowii/]]
 -[[システム詳細>CSの歴史#wii1]]
--[[毎日チャレンジ道場>難易度表/その他/毎日チャレンジ道場]]
+-[[毎日チャレンジ道場>Wii1の収録曲/毎日チャレンジ道場]]
 -[[演奏オプション一覧>演奏オプション一覧]]
+-[[隠し要素解禁条件>Wii1の収録曲/隠し要素解禁条件]]
 -[[難易度順>http://www52.atwiki.jp/taikolevel/pages/48.html]]
-
+----
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
 |BGCOLOR(cyan):~[[&color(black){%%%J-POP%%%};>#jpop]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(magenta):~[[&color(black){%%%どうよう%%%};>#doyo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|

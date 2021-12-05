@@ -28,5 +28,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-43小節は全て縁
-&attachref(clsvre_normal.png,nolink);
+&attachref(clsvre_normalf.png,nolink);

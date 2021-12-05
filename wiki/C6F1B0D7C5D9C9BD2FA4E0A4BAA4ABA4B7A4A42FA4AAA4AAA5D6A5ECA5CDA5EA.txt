@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(clsvre_hard.png,nolink);
+&attachref(clsvre_hardf.png,nolink);
