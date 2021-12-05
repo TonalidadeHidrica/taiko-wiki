@@ -8,6 +8,7 @@
 ||CENTER:PSP2DL|~|~|CENTER:''667190点''|~|~|~|CENTER:''ゴーゴーバグ&br;あり''|
 |CENTER:AC15.4.2SP|CENTER:3DS1&br;Wii U2SP&br;PS4 1DL|~|~|CENTER:''691060点''|~|CENTER:580点|CENTER:163点||
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''991900点''}|~|CENTER:COLOR(#ff3300){2700点}|CENTER:-||
+|CENTER:AC16.1.0||~|~|CENTER:''?????0点''|~|CENTER:3050点|CENTER:-||
 -BPMは143。
 -全体的に付点配置が多く、リズムが取りづらい。
 -58小節までは比較的簡単な譜面が続くが、それ以降からは急に難しくなる。

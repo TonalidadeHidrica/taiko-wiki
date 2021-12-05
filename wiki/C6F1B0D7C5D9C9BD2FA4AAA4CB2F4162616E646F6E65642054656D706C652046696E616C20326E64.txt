@@ -30,7 +30,6 @@
 -[[かんたん>難易度表/かんたん/Abandoned Temple Final 2nd]]
 -[[ふつう>難易度表/ふつう/Abandoned Temple Final 2nd]]
 -[[むずかしい>難易度表/むずかしい/Abandoned Temple Final 2nd]]
--[[プレイ動画>https://www.youtube.com/watch?v=7Llplzkt1Yk]]
 
 ***コメント [#comment]
 #pcomment(,noname)
