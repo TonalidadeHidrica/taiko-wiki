@@ -53,5 +53,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-暫定版
+~AC16,PS4 1,iOS,AR譜面、疑似32分を除外、AC15は32分音符を48分＋HS・BPM変化で処理していると思われる。
+~暫定版
 ~&attachref(男たらし_減速HS.png,nolink);

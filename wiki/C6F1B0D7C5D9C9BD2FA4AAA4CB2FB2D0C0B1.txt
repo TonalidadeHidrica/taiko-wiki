@@ -36,11 +36,13 @@
 --その後、''2016年8月20日〜9月11日限定''で収録された。
 -ニジイロバージョンにて、2020スタートダッシュキャンペーンの47回目ご褒美として解禁された。
 --ACの復帰は約2年半ぶりである。
+
 ----
 -[[かんたん>難易度表/かんたん/火星]]
 -[[ふつう>難易度表/ふつう/火星]]
 -[[むずかしい>難易度表/むずかしい/火星]]
--[[オート動画>http://www.youtube.com/watch?v=NdrUMFbg9OM]]
+-[[オート動画(Wii4)>http://www.youtube.com/watch?v=NdrUMFbg9OM]]
+-[[オート動画(Wii5)>https://www.youtube.com/watch?v=ACKUUDs-Lu8]]
 
 ***コメント [#comment]
 -&color(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''};
@@ -48,4 +50,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~BPM変化
+ 49小節:156.19
 &attachref(clsmrs.png,nolink);

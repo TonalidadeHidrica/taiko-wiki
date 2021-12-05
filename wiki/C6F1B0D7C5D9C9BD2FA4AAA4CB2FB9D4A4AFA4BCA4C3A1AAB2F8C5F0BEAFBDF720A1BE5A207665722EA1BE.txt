@@ -42,4 +42,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(ikzkai.png,nolink);
+~&attachref(m96ikz_m.png,nolink);

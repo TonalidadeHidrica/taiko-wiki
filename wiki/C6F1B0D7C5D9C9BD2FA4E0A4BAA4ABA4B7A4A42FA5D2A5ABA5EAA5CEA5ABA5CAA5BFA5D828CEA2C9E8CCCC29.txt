@@ -22,4 +22,5 @@
 ***コメント[#comment]
 #pcomment(,noname)
 ***譜面[#score]
-Wii4では、58小節はゴーゴーになっていない。&attachref(難易度表/その他/ヒカリノカナタヘ(ボス戦 辛口)/w2bs2ffix.png,nolink);
+~Wii4と3DS2では、79小節からはゴーゴーになっていない
+~PS4 1では125、129、130、131、134小節もゴーゴー&attachref(難易度表/その他/ヒカリノカナタヘ(ボス戦 辛口)/w2bs2ffix.png,nolink);

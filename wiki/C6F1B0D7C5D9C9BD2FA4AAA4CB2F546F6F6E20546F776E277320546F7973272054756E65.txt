@@ -36,6 +36,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~AC16,NS1譜面、疑似32分を除外、AC15は32分音符を48分＋HS・BPM変化で処理していると思われる。
 -連打・風船は暫定。
 -BPM・HS変化
  61小節:BPM8.5・HS32(MEASURE 1/8)

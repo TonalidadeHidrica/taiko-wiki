@@ -1,10 +1,11 @@
-*BORDERLESS　ZOLA PROJECT [#title]
+*BORDERLESS SIZE(16){ZOLA PROJECT} [#title]
 ***詳細・攻略 [#more]
 -詳細は以下の通り：
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.5.1''|Wii U3|★×6|''373''|''645920点''|＋連打|440点|120点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''994560点''}|~|COLOR(#ff3300){2220点}|-|
+|AC16.1.0||~|~|''999640点''|~|2680点|-|
 -BPMは約184.2。
 -黄色連打が多い連打曲である。
 -[[むずかしい>難易度表/むずかしい/BORDERLESS]]とはコンボ数が''49コンボしか''離れていない。
