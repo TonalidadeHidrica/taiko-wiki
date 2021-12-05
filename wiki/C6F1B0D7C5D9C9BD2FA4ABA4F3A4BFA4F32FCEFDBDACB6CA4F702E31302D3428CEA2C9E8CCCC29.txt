@@ -1,8 +1,11 @@
 *練習曲Op.10-4（裏譜面） [#Title]
-***詳細・攻略 [#More]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC13SP''以降|CENTER:Wii U1SP&br;3DS2DL|>|>|>|>|>|CENTER:''おにのみ''|
-||CENTER:''PSPDXSP''&br;Wii4SP|CENTER:★×5|CENTER:''132''|CENTER:''363590点''|CENTER:+連打|CENTER:600点|CENTER:150点|
+***詳細 [#More]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC13SP''以降||BGCOLOR(gold):''クラシック''|>|>|>|>|>|''おにのみ''|
+||''PSPDXSP''&br;Wii4SP|~|★×5|''132''|''363590点''|＋連打|600点|150点|
+
+***譜面構成・攻略 [#capture]
 -BPMは125〜177で、HSは0.95〜3.67。
 -連打秒数目安・・・SIZE(16){約2.238秒}×2:合計約4.447秒
 -譜面自体は[[表譜面>難易度表/かんたん/練習曲Op.10-4]]と同じだが、ほとんどの場所で''2倍速''になっている。
@@ -20,8 +23,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-(およそ)見た目重視
-&ref(c.png,nolink);
+~(およそ)見た目重視
+~&ref(c.png,nolink);
 
 ~実際の処理
-&ref(x.png,nolink);
+~&ref(x.png,nolink);

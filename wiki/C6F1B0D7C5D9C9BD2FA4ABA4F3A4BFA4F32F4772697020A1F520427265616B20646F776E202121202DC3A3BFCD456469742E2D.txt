@@ -1,11 +1,13 @@
 *Grip & Break down !! -達人Edit.- [#title]
-***詳細・攻略 [#more]
+***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.4.4''|NS1|BGCOLOR(lime):''バラエティ''|★×4|CENTER:''195''|CENTER:''343660点''|CENTER:＋連打|CENTER:510点|CENTER:165点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''985060点''}|~|CENTER:COLOR(#ff3300){4510点}|CENTER:-|
-||iOS&br;AR|~|~|~|CENTER:''??????点''|~|CENTER:460点|CENTER:120点|
-|CENTER:AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|CENTER:''994500点''|~|CENTER:5100点|-|
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.4.4''|NS1|BGCOLOR(lime):''バラエティ''|★×4|''195''|''343660点''|＋連打|510点|165点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''985060点''}|~|COLOR(#ff3300){4510点}|-|
+||iOS&br;AR|~|~|~|''?????0点''|~|460点|120点|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''994500点''|~|5100点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは160。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -26,7 +28,7 @@
 -[[ふつう>難易度表/ふつう/Grip ＆ Break down !! -達人Edit.-]]
 -[[むずかしい>難易度表/むずかしい/Grip ＆ Break down !! -達人Edit.-]]
 -[[おに>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]/[[裏譜面>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]
--[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=oDpqKR1LGY4]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=oDpqKR1LGY4]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -2,9 +2,10 @@
 -[[SORAシリーズ>シリーズ曲一覧#sora]]第5弾。
 
 ***詳細 [#details]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PSPDX''|CENTER:★×8|CENTER:''354''|CENTER:''1051490点''|CENTER:830点|CENTER:190点|
-|CENTER:Wii5SP|~|~|CENTER:''1051360点''|CENTER:890点|CENTER:228点|
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''PSPDX''|★×8|''354''|''1051490点''|830点|190点|
+|Wii5SP|~|~|''1051360点''|890点|228点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは135。
@@ -20,15 +21,17 @@
 -平均密度は、''約3.45打/秒''。
 
 ***その他 [#other]
--SORAシリーズの中では唯一ACに収録されたことがない。
--作曲は[[''トリ音''>参加アーティスト一覧/トリ音]]。
--曲IDは''cosmb''(sora5xではない)。
--コズミックバード(COSMIC BIRD)の[[由来(英語、Phys.org)>http://www.physorg.com/news117442056.html]] / [[(日本語、NAVERまとめ)>http://matome.naver.jp/odai/2140957079089535101]]
+-[[SORAシリーズ>シリーズ曲一覧#sora]]の中では唯一ACに収録されたことがない。
+-作曲・編曲・テルミン演奏は、[[''トリ音''>参加アーティスト一覧/トリ音]]。
+-曲IDは、''cosmb''(sora5xではない)。
+-コズミックバード(COSMIC BIRD)の[[由来(英語、Phys.org)>http://www.physorg.com/news117442056.html]]
+//[[(日本語、NAVERまとめ)>http://matome.naver.jp/odai/2140957079089535101]]
 ----
 -[[かんたん>難易度表/かんたん/SORA-V コズミックバード]]
 -[[ふつう>難易度表/ふつう/SORA-V コズミックバード]]
 -[[むずかしい>難易度表/むずかしい/SORA-V コズミックバード]]
 -[[オート動画(Wii5)>https://www.youtube.com/watch?v=u30xt7qvDM0]]
+-[[オート動画(Wii5)>https://youtu.be/knznR4K73rk]]
 
 ***コメント [#comment]
 -&color(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''};

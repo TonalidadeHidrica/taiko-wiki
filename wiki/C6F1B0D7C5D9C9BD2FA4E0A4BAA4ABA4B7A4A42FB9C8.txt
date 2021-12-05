@@ -1,14 +1,16 @@
 *紅 [#title]
 ***詳細・攻略 [#more]
 -詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC8''、9|CENTER:CS7|CENTER:''J-POP''|CENTER:★×7|CENTER:COLOR(#909):''727&br;COLOR(#069):514&br;COLOR(#666):442''|CENTER:''828960点''|CENTER:＋連打|CENTER:410点|CENTER:70点|
-|CENTER:AC10-14&br;11亜、12亜|CENTER:Wii2、iOS&br;PSPDX&br;AR|~|~|~|CENTER:''831000点''|~|CENTER:320点|CENTER:80点|
-|CENTER:COLOR(#ff3300){真打モード}|||~|~|CENTER:COLOR(#ff3300){''848160点''}|~|CENTER:COLOR(#ff3300){1140点}|CENTER:-|
-|CENTER:AC15.1.0|CENTER:Wii U1DL&br;3DS2DL、3DL|CENTER:''J-POP''|~|~|CENTER:''843460点''|~|CENTER:350点|CENTER:88点|
-||CENTER:PS4 1|CENTER:''ポップス''|~|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''996960点''}|~|CENTER:COLOR(#ff3300){1340点}|CENTER:-|
-|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''995990点''|~|CENTER:1370点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC8''，9|CS7|BGCOLOR(cyan):''J-POP''|★×7|COLOR(#909):''727&br;COLOR(#069):514&br;COLOR(#666):442''|''828960点''|＋連打|410点|70点|
+|AC10-14&br;11亜，12亜|Wii2，iOS&br;PSPDX&br;AR|~|~|~|''831000点''|~|320点|80点|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''848160点''}|~|COLOR(#ff3300){1140点}|-|
+|AC15.1.0|Wii U1DL&br;3DS2DL，3DL|~|~|~|''843460点''|~|350点|88点|
+||PS4 1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''996960点''}|~|COLOR(#ff3300){1340点}|-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''995990点''|~|1370点|-|
+
 -BPMは156.3。
 -連打秒数目安（普通・玄人）・・・約0.544秒×4−約1.120秒−約2.271秒−約0.736秒−''約1.120秒''×6−SIZE(16){''約1.120秒''}：合計約14.139秒
 --達人・・・約1.120秒−約2.271秒−約0.736秒−''約1.120秒''：合計約5.246秒

@@ -2,13 +2,15 @@
 ***詳細・攻略 [#more]
 -アニメ「''血界戦線''」のED。OPは[[こちら>難易度表/ふつう/Hello,world!]]。
 -詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PS Vita1DL''|CENTER:''アニメ''|CENTER:★×4|CENTER:''169''|CENTER:''542330点''|CENTER:＋連打|CENTER:810点|CENTER:250点|
-|CENTER:AC15.7.0|CENTER:3DS3|CENTER:''J-POP''|~|~|~|~|~|~|
-||CENTER:PS4 1&br;NS1|CENTER:''ポップス''|~|~|~|~|~|~|
-||CENTER:iOS|CENTER:''J-POP''|~|~|CENTER:''??????点''|~|CENTER:820点|CENTER:???点|
-|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''991600点''}|~|CENTER:COLOR(#ff3300){4500点}|CENTER:-|
-|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''997840点''|~|CENTER:5860点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PS Vita1DL''|BGCOLOR(orange):''アニメ''|★×4|''169''|''542330点''|＋連打|810点|250点|
+|AC15.7.0|3DS3|BGCOLOR(cyan):''J-POP''|~|~|~|~|~|~|
+||PS4 1&br;NS1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+||iOS|BGCOLOR(cyan):''J-POP''|~|~|''?????0点''|~|820点|???点|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''991600点''}|~|COLOR(#ff3300){4500点}|-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''997840点''|~|5860点|-|
+|~|~|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
 
 -BPMは132。
 -黄色連打が多い連打曲である。

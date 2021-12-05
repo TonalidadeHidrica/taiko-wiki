@@ -1,6 +1,6 @@
 *ザストゥールの魔導書 [#title]
-
 -[[デザート de 焼肉 (サハラ編)>難易度表/おに/デザート de 焼肉(サハラ編)]]がベースの「アラビアン・テクノ」をイメージした曲。
+
 ***詳細 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -11,15 +11,15 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは140。
---おにのみHS1.1がかかっている。よって、見た目BPMは154となる。
+--おにのみHS1.1が掛かっているため、見た目BPMは154となる。
 -連打秒数目安・・・SIZE(16){約0.607秒}
--平均密度は、''約5.37打/秒''。
-
 -道中の風船はやや重く、割るには14打/秒以上必要。
 -面と縁の数がほぼ同じ(COLOR(red){面}：279、COLOR(blue){縁}：281)。
 --縁から入る複合もあるため、人によっては「あべこべ」を使用したほうが楽になることも。
 -ベースとなっているリズムはわかりやすいのでクリアは比較的易しめだが所々に16、24分音符の混合や3-3系の複合があり、フルコンボはやや難しめの部類に入る。
---44〜45小節目は、順手始動で&br;COLOR(red){●●●}COLOR(blue){●●●}|COLOR(red){●●●}COLOR(blue){●●●}|COLOR(red){●●●}COLOR(blue){●●●}|COLOR(red){●●}|COLOR(blue){●●●●●}|COLOR(red){●●}COLOR(blue){●●}COLOR(red){●}と認識すると叩きやすい(最後のCOLOR(red){●●}COLOR(blue){●●}COLOR(red){●}は逆手から叩く)。
+--44〜45小節目は、順手始動で&br;COLOR(red){●●●}COLOR(blue){●●●}×3|COLOR(red){●●}|COLOR(blue){●●●●}(24分)COLOR(blue){●}|COLOR(red){●●}COLOR(blue){●●}COLOR(red){●}と認識すると叩きやすい。(最後のCOLOR(red){●●}COLOR(blue){●●}COLOR(red){●}は逆手から叩く)
+-平均密度は、''約5.37打/秒''。
+
 ***その他 [#other]
 -3DS2の時空大冒険において、古代エジプトのボス「ファラオキマイラ」の戦闘曲として使われた。
 -アーティストは[[デザート de 焼肉 (サハラ編)>難易度表/おに/デザート de 焼肉(サハラ編)]]や[[ドン・エンガスの笛吹き>難易度表/おに/ドン・エンガスの笛吹き]]と同じく、''YMY''。
@@ -33,8 +33,10 @@
 -[[ふつう>難易度表/ふつう/ザストゥールの魔導書]]
 -[[むずかしい>難易度表/むずかしい/ザストゥールの魔導書]]
 -[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2011/09/post_248.html]]
--[[プレイ動画(AC15キャプチャ)>https://www.youtube.com/watch?v=hkayoO1-aVI]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=IAgf4ZWdzkk&t=13s]]
+
 ***コメント[#comment]
 #pcomment(,noname)
+
 ***譜面[#score]
 &attachref(n.png,nolink);

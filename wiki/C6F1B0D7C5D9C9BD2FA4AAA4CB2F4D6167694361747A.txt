@@ -9,7 +9,7 @@
 ||COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1000100点''}|~|COLOR(#ff3300){1260点}|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは約134.4-232.65。基本BPMは145。
+-BPMは約134〜233。基本BPMは145。
 -連打秒数目安・・・SIZE(16){''約1.414秒''}−約0.379秒−SIZE(16){''約0.793秒''}：合計約2.586秒
 -ハネリズム地帯、高速地帯、複合地帯とパートごとに譜面傾向がはっきりと分かれている。メインとなるのはハネリズム地帯である。
 
@@ -41,7 +41,6 @@
 -[[ふつう>難易度表/ふつう/MagiCatz]]
 -[[むずかしい>難易度表/むずかしい/MagiCatz]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=0gmhRLk5V-0&t=5s]]
--[[オート動画(NS1)>https://m.youtube.com/watch?feature=youtu.be&v=Arbeg4hNIow&t=14s]]
 -[[オート動画(NS1)>https://m.youtube.com/watch?feature=youtu.be&v=d8hJfiJ5B1g]]
 
 ***コメント [#comment]
