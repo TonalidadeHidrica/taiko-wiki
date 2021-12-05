@@ -11,7 +11,7 @@
 |~|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは約132&#12316;''275''。
+-BPMは約132〜''275''。
 
 -「''戦艦ハルバード：甲板''」
 --16分の2連打により、裏拍から入る音符が多い。
@@ -61,7 +61,7 @@
 -[[ふつう>難易度表/ふつう/メタナイトの逆襲メドレー]]
 -[[むずかしい>難易度表/むずかしい/メタナイトの逆襲メドレー]]
 -おに/[[裏譜面>難易度表/おに/メタナイトの逆襲メドレー(裏譜面)]]
--[[プレイ動画>https://www.youtube.com/watch?v=lLRz8FL2vJE]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=lLRz8FL2vJE&t=11s]]
 
 ***コメント [#comment]
 #pcomment(,noname)
@@ -72,50 +72,57 @@
  97小節:208.91 → 216.46 → 136.01
  101小節:157.99 → 232.27 → 258.4 → 275.63 → 180.94 → 135.33 → 135.11 → 207.97 → 184.94
 #region(95~97小節TJA表記)
-#BPMCHANGE 132.29
-&br;#SCROLL 1.4
-&br;#GOGOSTART
-&br;#MEASURE 10/4
+~''95小節''
+&br;BPMCHANGE 132.29
+&br;SCROLL 1.4
+&br;GOGOSTART
+&br;MEASURE 10/4
 &br;200000200000
-&br;#BPMCHANGE 206.98
-&br;#SCROLL 0.89
-&br;020000000000
-&br;000000000100
-&br;#BPMCHANGE 227.16
-&br;#SCROLL 0.81
+
+&br;BPMCHANGE 206.98
+&br;SCROLL 0.89
+&br;020000000000000000000100
+
+&br;BPMCHANGE 227.16
+&br;SCROLL 0.81
 &br;000000000000
-&br;#BPMCHANGE 134.89
-&br;#SCROLL 1.37
+
+&br;BPMCHANGE 134.89
+&br;SCROLL 1.37
 &br;100000002000
-&br;#BPMCHANGE 212.02
-&br;#SCROLL 0.87
+
+&br;BPMCHANGE 212.02
+&br;SCROLL 0.87
 &br;000020000000
-&br;#BPMCHANGE 244.05
-&br;#SCROLL 0.76
+
+&br;BPMCHANGE 244.05
+&br;SCROLL 0.76
 &br;000200000000
-&br;#BPMCHANGE 184.94
-&br;#SCROLL 1
+
+&br;BPMCHANGE 184.94
+&br;SCROLL 1
 &br;000000000000100000000000100000000000,
-&br;#BPMCHANGE 184.94
-&br;#MEASURE 5/4
-&br;200000000200000000200000000000000000100000000000
-&br;100000000000,
-&br;#MEASURE 10/4
+
+~''96小節''
+&br;BPMCHANGE 184.94
+&br;MEASURE 5/4
+&br;200000000200000000200000000000000000100000000000100000000000,
+
+~''97小節''
+&br;MEASURE 10/4
 &br;200000000200000000200000
-&br;#BPMCHANGE 208.91
-&br;#SCROLL 0.89
-&br;000000000000
-&br;010000000000
-&br;000100000000
-&br;000020000000
-&br;002000000000
-&br;#BPMCHANGE 216.46
-&br;#SCROLL 0.85
+
+&br;BPMCHANGE 208.91
+&br;SCROLL 0.89
+&br;000000000000010000000000000100000000000020000000002000000000
+
+&br;BPMCHANGE 216.46
+&br;SCROLL 0.85
 &br;200000000000
-&br;#BPMCHANGE 136.01
-&br;#SCROLL 1.36
-&br;000000100000
-&br;000100000000,
+
+&br;BPMCHANGE 136.01
+&br;SCROLL 1.36
+&br;000000100000000100000000,
 #endregion
 ~&attachref(kirby2_m.png,nolink);
 ~96小節目からのイメージ用~

@@ -1,5 +1,4 @@
 *炭坑節 [#title]
-
 ***詳細 [#more]
 |>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|h
@@ -40,8 +39,10 @@
 -[[ふつう>難易度表/ふつう/炭坑節]]
 -[[むずかしい>難易度表/むずかしい/炭坑節]]
 -[[プレイ動画>http://www.youtube.com/watch?v=3UpzGp51BQA]](AC2)
--[[プレイ動画>https://www.youtube.com/watch?v=ukL0Sol3_lg]](CS1)
+-[[プレイ動画>https://www.youtube.com/watch?v=CXZG5KURtXg]](AC2)
 -[[プレイ動画>http://youtube.com/watch?v=wLXB-EKz8Uc]](AC4)
+-[[プレイ動画>https://www.youtube.com/watch?v=Fr89anEhuCs]](AC4)
+-[[プレイ動画>https://www.youtube.com/watch?v=ukL0Sol3_lg]](CS1)
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -15,11 +15,10 @@
 --作詞・作曲はORANGE RANGEに加えて、[[''ロコモーション''>難易度表/むずかしい/The Loco-Motion]]の作詞・作曲者でもある''Gerry Goffin・Carole King''。
 ---日本語の曲なのに作詞者に外国人がいるのは、いろいろな事情でロコローションが[[ロコモーション>難易度表/むずかしい/The Loco-Motion]]のカバー曲という扱いになったため。
 -曲IDは、''or2''
-
 -[[かんたん>難易度表/かんたん/ロコローション]]
 -[[ふつう>難易度表/ふつう/ロコローション]]
 -[[おに>難易度表/おに/ロコローション]]
--[[プレイ動画(AC8,キャプチャ)>http://www.youtube.com/watch?v=eWQWgYZ6c_M]]
+-[[プレイ動画>http://www.youtube.com/watch?v=eWQWgYZ6c_M]]
 
 ***コメント [#comment]
 #pcomment(,noname)

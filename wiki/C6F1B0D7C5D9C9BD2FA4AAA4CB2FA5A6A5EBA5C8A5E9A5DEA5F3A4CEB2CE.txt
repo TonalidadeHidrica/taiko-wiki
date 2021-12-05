@@ -12,6 +12,7 @@
 ~''旧譜面''(アニメ祭)
 -BPMは129。
 -16分音符がほとんど面の2連打しかなく、縁の16分も2回のみ。ただし縁の12分12連打には注意。また最後にやや重めの風船が登場する。
+-平均密度は、''約3.19打/秒''。
 -[[プレイ動画>https://www.youtube.com/watch?v=Kjjw3LVuG2Q]]
 ----
 ~''新譜面''(iOS)
@@ -39,5 +40,5 @@
 ~新譜面
 &attachref(ultman_m.png,nolink);
 
-~旧譜面&br;42小節の大音符は40小節にあります。
-&attachref(ultraman.png,nolink);
+~旧譜面
+&attachref(ultraman_2.png,nolink);
