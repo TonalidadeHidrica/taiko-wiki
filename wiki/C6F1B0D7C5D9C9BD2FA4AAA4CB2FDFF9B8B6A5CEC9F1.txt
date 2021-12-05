@@ -2,7 +2,7 @@
 -[[舞シリーズ>シリーズ曲一覧#mai]]第1弾。
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC12増SP''-14|Wii2&br;Wii4SP&br;iOS|★×10|''822''|''1202490点''|+連打|410点|100点|
 |COLOR(#ff3300){真打モード}||~|~|COLOR(#ff3300){''1208420点''}|~|COLOR(#ff3300){1420点}|-|
@@ -62,6 +62,7 @@
 -[[ふつう>難易度表/ふつう/燎原ノ舞]]
 -[[むずかしい>難易度表/むずかしい/燎原ノ舞]]
 -[[オート動画(Wii U1)>https://www.youtube.com/watch?v=Rn0YvjRp6ZQ]] 
+-[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20160214104905/http://taikoblog.namco-ch.net/blog/2009/10/post_123.html]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

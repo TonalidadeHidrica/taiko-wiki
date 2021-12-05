@@ -2,7 +2,7 @@
 ***詳細・攻略 [#more]
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''3DS3SP''|CENTER:★×5|CENTER:''230''|CENTER:''364140点''|CENTER:＋連打|CENTER:440点|CENTER:93点|
+|CENTER:''3DS3SP''&br;NS1DL|CENTER:★×5|CENTER:''230''|CENTER:''364140点''|CENTER:＋連打|CENTER:440点|CENTER:93点|
 |CENTER:COLOR(#f30){真打}|~|~|CENTER:COLOR(#f30){''986720点''}|~|CENTER:COLOR(#f30){3470点}|CENTER:-|
 -BPMは90〜220。
 -黄色連打がかなり多い連打曲である。

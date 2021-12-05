@@ -20,5 +20,5 @@
 ***コメント [#g32ac6e9]
 #pcomment(,noname)
 
-*** 譜面 [#fumen]
+***譜面 [#fumen]
 &ref(サザエさん2.png,nolink);

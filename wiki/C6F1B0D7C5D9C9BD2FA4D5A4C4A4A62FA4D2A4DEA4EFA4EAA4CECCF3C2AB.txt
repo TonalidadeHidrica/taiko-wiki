@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:AC15.7.0|CENTER:''Wii U2DL''&br;3DS3|CENTER:''J-POP''|CENTER:★×4|CENTER:''140''|CENTER:''536550点''|CENTER:＋連打|CENTER:1170点|CENTER:498点|
-||CENTER:PS4 1|CENTER:''ポップス''|~|~|~|~|~|~|
+||CENTER:PS4 1&br;NS1DL|CENTER:''ポップス''|~|~|~|~|~|~|
 ||CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''515300点''|~|~|CENTER:330点|
 |CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''991160点''}|~|CENTER:COLOR(#ff3300){6960点}|CENTER:-|
 |CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''994000点''|~|CENTER:7100点|CENTER:-|

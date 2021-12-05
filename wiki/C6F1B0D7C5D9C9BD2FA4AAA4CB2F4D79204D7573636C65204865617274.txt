@@ -33,4 +33,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&ref(MMHx.png,nolink);
+ 24小節目のBPM変化
+ 　193.66 → 171.2 → 157.8 → 141.34
+&ref(msclht.png,nolink);
