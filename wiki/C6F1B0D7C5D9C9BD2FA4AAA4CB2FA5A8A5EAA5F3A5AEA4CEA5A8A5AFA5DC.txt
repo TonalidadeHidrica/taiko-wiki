@@ -24,7 +24,7 @@
 -リズム難譜面が苦手な人にとっては体感難易度がさらに上がることだろう。
 -ゴーゴータイムには6連打の複合が容赦なく襲ってくる上に偶数連打なので苦手な人にとってはゴーゴー全体が難所となりうる。
 -フルコンを狙う際は66小節目の複合に注意。フルコン最大の難所だろう。
-COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}│COLOR(red){●}COLOR(blue){●●}COLOR(red){●}│COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}│COLOR(red){●}COLOR(blue){●●●}│COLOR(blue){●●}COLOR(red){●}と区切ればやりやすいだろう。
+COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}│COLOR(red){●}COLOR(blue){○○}COLOR(red){●}│COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}│COLOR(red){●}COLOR(blue){○○○}│COLOR(blue){○○}COLOR(red){●}と区切ればやりやすいだろう。
 -31小節に24分と16分が混じった4連打の複合がある。配色こそ単純なものの精度が取りづらい。フルコン、全良を狙う人は注意すること。コンボを繋ぐだけならば逆餡蜜をするのもアリ。
 -平均密度は、''約5.56打/秒''。
 -[[オート動画(Wii5)>http://www.youtube.com/watch?v=uiCbMuyx0-I]]

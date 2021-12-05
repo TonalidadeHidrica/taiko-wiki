@@ -22,9 +22,9 @@
 --終盤へ向かうに連れて密度が上昇し、体力的にも厳しいため19〜21小節や63〜66小節の比較的密度の低い休憩地帯を利用して体力を温存しておきたい。
 --フルコンボを目指す上での最大の難所はラストゴーゴー。複合が極めて長い訳ではないが、やや複雑である上に速度的に厳しめ。
 ---また、道中以上に奇数連打と偶数連打が入り混じっているため、慣れていないと大崩れする可能性がある。あらかじめ運手を覚えてから挑む方が良いであろう。アレンジするのも手。
----92小節目の複合は偶数複合になっている。利き手から入るならばCOLOR(red){●}COLOR(blue){●●}COLOR(red){●}/COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(blue){●●●}COLOR(red){●} 
---- 逆手から入るならばCOLOR(red){●}/COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●●}COLOR(blue){●}COLOR(blue){●}/COLOR(blue){●●}COLOR(red){●}と認識するとよいであろう。
----縁を嵌めればCOLOR(red){●}COLOR(blue){●(●)}COLOR(red){●}COLOR(blue){●●}|COLOR(red){●}COLOR(blue){●}COLOR(red){●●}|COLOR(blue){●●●●}|COLOR(red){●}と一番認識しやすいが体力に注意。
+---92小節目の複合は偶数複合になっている。利き手から入るならばCOLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(blue){○○○}COLOR(red){●} 
+--- 逆手から入るならばCOLOR(red){●}/COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(blue){○}/COLOR(blue){○○}COLOR(red){●}と認識するとよいであろう。
+---縁を嵌めればCOLOR(red){●}COLOR(blue){○(○)}COLOR(red){●}COLOR(blue){○○}|COLOR(red){●}COLOR(blue){○}COLOR(red){●●}|COLOR(blue){○○○○}|COLOR(red){●}と一番認識しやすいが体力に注意。
 -ただし、24分音符は1曲を通して存在しない。それが唯一の救いとなる。
 -以上のことから、フルコンボ難易度こそ最強クラスではないものの、''クリアだけに限れば★×9の中でも極めて難しい部類''であり、人によってはCOLOR(red){''★×10中堅クラスの難易度''}に感じることもあるため適正者は要注意。
 --逆を言うと、この曲が安定してクリアできるようになれば、★×10へ挑むための地力は十分にあると判断してもいいだろう。

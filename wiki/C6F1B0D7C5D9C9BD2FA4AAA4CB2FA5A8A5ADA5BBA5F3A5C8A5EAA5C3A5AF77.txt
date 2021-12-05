@@ -12,7 +12,7 @@
 --ボーカロイド曲では[[チルドレンレコード>難易度表/おに/チルドレンレコード]]、[[珈琲の味と>難易度表/おに/珈琲の味と]]に次いで3曲目である。
 -平均密度は、''約5.60打/秒''。
 -全体的に叩きやすい複合・配置が多いが、52〜53小節目の複合は少々厄介。
---区切り方としては、COLOR(blue){●●}COLOR(red){●●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}と区切るといいだろう。
+--区切り方としては、COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}と区切るといいだろう。
 -★×8の基本天井点である105万点との差が、''僅か500点しか無い''。105万点を超える条件は''可2以内''とかなり厳しい。
 --''100コンボ以降は全良必須''で''大音符は全て特良で叩かねばならない''。ほぼ全良に近い精度が要求されることになる。
 --しかし真打での天井点は100万点との差が6000点ほどあるので、通常モードより天井点超えは難しいものではない。

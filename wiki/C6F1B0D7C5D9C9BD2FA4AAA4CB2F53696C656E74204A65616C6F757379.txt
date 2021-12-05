@@ -12,8 +12,8 @@
 -連打秒数目安・・・SIZE(16){約0.956秒}−SIZE(16){''1.448秒''}:合計約2.404秒
 -面の割合が''約68.4%''(733/1071)とやや高め。
 -全体的に難解で叩きにくい複合はあまり配置されておらず単色で単純なものが多いが、ほとんど休みなしに音符が流れてくる。
--頻出する「&color(Blue){●}; &color(Red){●}; &color(Blue){●};&color(Red){●}; &color(Red){●};&color(Blue){●};」（サビでは「&color(Red){●}; &color(Blue){●}; &color(Red){●}; &color(Blue){●}; &color(Red){●}; &color(Blue){●};&color(Red){●}; &color(Red){●};&color(Blue){●};」の形で登場）は分業で処理してもよいだろう。
--87〜90小節目の16分61連打には注意。「&color(Red){●●};&color(Blue){●●};」の繰り返しだが、速い速度に置いて行かれないようにしたい。
+-頻出する「&color(Blue){○}; &color(Red){●}; &color(Blue){○};&color(Red){●}; &color(Red){●};&color(Blue){○};」（サビでは「&color(Red){●}; &color(Blue){○}; &color(Red){●}; &color(Blue){○}; &color(Red){●}; &color(Blue){○};&color(Red){●}; &color(Red){●};&color(Blue){○};」の形で登場）は分業で処理してもよいだろう。
+-87〜90小節目の16分61連打には注意。「&color(Red){●●};&color(Blue){○○};」の繰り返しだが、速い速度に置いて行かれないようにしたい。
 -''総コンボ数が多くBPMも決して遅くないため、適正者は体力切れに要注意。''
 -平均密度は、''約6.68打/秒''。1曲を通して明確な休憩地帯がかなり少ないため、体感的には更に高く感じられるかもしれない。
 

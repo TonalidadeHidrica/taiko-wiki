@@ -23,7 +23,7 @@
 --1〜3小節は他の3コースとは違って、風船ではなく長複合であるため、[[むずかしい>難易度表/むずかしい/熊蜂の飛行]]までの譜面に慣れた人にとってはある意味開幕殺しといえるであろう。
 -長複合は基本的に2、4打区切りのものが多いため、この型の長複合に慣れていればクリア自体は比較的容易であろう。
 --難所はやはり37小節目からの複合であろう。繰り返しではあるものの叩きにくい。
----…COLOR(blue){●●}COLOR(red){●●}/COLOR(blue){●●}COLOR(red){●●}/COLOR(blue){●●}COLOR(red){●●}/COLOR(blue){●●●}COLOR(red){●}からのCOLOR(blue){●}COLOR(red){●●●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}/COLOR(blue){●}COLOR(red){●●●}/COLOR(blue){●●●}COLOR(red){●}の繰り返しと認識すると良い。
+---…COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○○○}COLOR(red){●}からのCOLOR(blue){○}COLOR(red){●●●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○}COLOR(red){●●●}/COLOR(blue){○○○}COLOR(red){●}の繰り返しと認識すると良い。
 --全体的に縁から入る複合が多いため、苦手な場合は「あべこべ」も手。
 -「でたらめ」や「きまぐれ」を安易にかけると泣きを見るので注意。半端な気持ちでかけないほうが良いであろう。
 -演奏時間が短いため、1曲を通しての平均密度は''約6.97打/秒''と★×9ではやや高め。

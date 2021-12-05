@@ -30,10 +30,10 @@
 --★×9は★×8の曲よりゲージは伸びにくいのだが、判定ラインの調整ミスが影響しているのか、クリアはおろか全良も簡単だったというプレイヤーが多かった。
 --AC6では判定が普通〜やや厳しめに調整されている。
 -人によっては「ばいそく」を使用するのも良い。
--ゴーゴーに多いCOLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}は、入り手と逆の手で縁を叩くことを認識すれば問題ない。ラストはこれの応用である。
---COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}|COLOR(red){●}COLOR(blue){●}COLOR(red){●}と区切れる。
--この曲を初めて叩く人にとっては、むしろCOLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}が厄介であろう。
---COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(red){●}にも注意。(面6+縁8+面)
+-ゴーゴーに多いCOLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}は、入り手と逆の手で縁を叩くことを認識すれば問題ない。ラストはこれの応用である。
+--COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}|COLOR(red){●}COLOR(blue){○}COLOR(red){●}と区切れる。
+-この曲を初めて叩く人にとっては、むしろCOLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}が厄介であろう。
+--COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(red){●}にも注意。(面6+縁8+面)
 -ゴーゴー以外は12分音符が多少ある程度で、39小節目に16分音符の複合15連打がある以外は難しくはない。
 --その39小節は入った手から縁に移り同じ手で最後の面を叩くように意識しよう。回数を間違えないように。
 -1曲を通しての平均密度は、''約4.36打/秒''である。

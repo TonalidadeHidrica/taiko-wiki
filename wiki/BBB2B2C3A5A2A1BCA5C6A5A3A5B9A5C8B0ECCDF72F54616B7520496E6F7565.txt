@@ -19,7 +19,7 @@
 --[[PAC TOY-BOX>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]
 --[[シンクロニカ・エアライン>難易度表/おに/シンクロニカ・エアライン]]
 --[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]](作詞)
-//--[[Mani Mani(Prod. TAKU INOUE)>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]
+--[[Mani Mani(Prod. TAKU INOUE)>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]
 -ナムコオリジナル
 --[[てんびん座急行 夜を行く>難易度表/おに/てんびん座急行 夜を行く]]
 --[[愛なんだぜ>難易度表/おに/愛なんだぜ]]
