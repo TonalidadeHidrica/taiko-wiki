@@ -50,8 +50,7 @@
 -[[かんたん>難易度表/かんたん/わら得る2000]]
 -[[ふつう>難易度表/ふつう/わら得る2000]]
 -[[むずかしい>難易度表/むずかしい/わら得る2000]]
--[[オート動画(音ズレあり)>https://www.youtube.com/watch?v=w60iZDliJH4]]
--[[オート動画>https://youtu.be/WV8twiUf_e4]]
+-[[オート動画(PS4 1)>https://youtu.be/WV8twiUf_e4]]
 
 
 ***コメント [#comment]
@@ -61,7 +60,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~本家譜面
 #region(HSが隠れた部分)
 ~※暫定版
 

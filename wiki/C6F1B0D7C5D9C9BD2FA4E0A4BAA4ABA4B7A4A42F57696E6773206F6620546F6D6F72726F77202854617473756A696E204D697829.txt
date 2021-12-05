@@ -1,12 +1,15 @@
 *Wings of Tomorrow(Tatsujin Mix) [#title]
-***詳細・攻略 [#more]
 -ゲーム「[[''GOD EATER 2''>http://www.godeater.jp/index.html]]」よりマルドゥーク戦のBGMを太鼓の達人向けに再編集した曲。
--詳細は以下の通り：
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.4.0''|Wii U2&br;3DS3DL|★×6|''505''|''774460点''|＋連打|430点|103点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''883750点''}|~|COLOR(#ff3300){1750点}|-|
-||iOS|~|~|''763670点''|~|410点|90点|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.4.0''|Wii U2&br;3DS3DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|''505''|''774460点''|＋連打|430点|103点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''883750点''}|~|COLOR(#ff3300){1750点}|-|
+||iOS&br;AR|~|~|~|''763670点''|~|410点|90点|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???0点|‐|
+
+***譜面構成・攻略 [#capture]
 -BPMは160。
 -黄色連打が多い連打曲である。
 -大音符が多く、43個ある（全体の約8.5%）。
@@ -25,6 +28,7 @@
 --実際は「To my dreams」と言っている。
 -[[モモイロVer.段位道場>過去の段位道場#momoiro]]の一級3曲目課題曲となった。
 
+----
 -[[かんたん>難易度表/かんたん/Wings of Tomorrow (Tatsujin Mix)]]
 -[[ふつう>難易度表/ふつう/Wings of Tomorrow (Tatsujin Mix)]]
 -[[おに>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]
