@@ -40,7 +40,7 @@
 -[[ふつう>難易度表/ふつう/VERTeX]]
 -[[むずかしい>難易度表/むずかしい/VERTeX]]
 -[[楽曲紹介(天下一音ゲ祭)>https://web.archive.org/web/20160305021801/http://www.gamesday.jp/otoge/block/2014-release-02]]((リンク先はWeb Archive))
--[[プレイ動画>https://www.youtube.com/watch?v=7xfMkkdtGSk]]
+//-[[プレイ動画>https://www.youtube.com/watch?v=7xfMkkdtGSk]]
 -[[オート動画(特訓モード)>https://www.youtube.com/watch?v=JV0q6GtP8R0]]
 
 ***コメント [#comment]

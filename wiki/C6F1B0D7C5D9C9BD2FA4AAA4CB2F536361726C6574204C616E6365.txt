@@ -10,7 +10,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは185。
--ゴーゴータイムが多く、14回もある。
+-ゴーゴータイムが多く14回もある。
 -[[同時期に追加された>難易度表/おに/怒槌]][[音ゲ祭の課題曲>難易度表/おに/極圏]]とは違い、体力よりは技術が大事になってくる。技術寄りの総合力譜面といったところか。
 --長複合が多いテクニカルな譜面。[[Evidence of evil>難易度表/おに/Evidence of evil]]が問題なく出来るなら挑んでみるのもいいだろう。
 --特に24分が頻発する。24分の精度を上げることがフルコンボ、及び高得点を狙うに当たって重要になってくる。
@@ -51,7 +51,8 @@
 -[[ふつう>難易度表/ふつう/Scarlet Lance]]
 -[[むずかしい>難易度表/むずかしい/Scarlet Lance]]
 -[[楽曲紹介(第四回天下一音ゲ祭・アーカイブ)>https://web.archive.org/web/20171009052620/http://www.otogesai.jp/tournament_music#a03]]
--[[オート動画(特訓モード)>https://www.youtube.com/watch?v=JjHr04kjwyQ]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=OcFDckGtGik&t=11]]
+
 ***コメント [#comment]
 #pcomment(,noname)
 

@@ -49,7 +49,7 @@
 -[[ふつう>難易度表/ふつう/Ignis Danse]]
 -[[むずかしい>難易度表/むずかしい/Ignis Danse]]
 //-[[楽曲紹介(天下一音ゲ祭)>http://www.gamesday.jp/otoge/block/2014-release-04]]
--[[プレイ動画(キャプチャ)>https://youtube.com/watch?v=G5f5DWl8kaI]]
+-[[オート動画(Wii U3)>https://www.youtube.com/watch?v=rBQ4tXEUxAY]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -57,8 +57,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~53小節目最後の音符、HS0.6 → HS2.5
-~54〜61小節、HS0.5
+~53小節目最後の音符:HS0.6× → HS2.5〇
+~54〜61小節:HS0.5
 ~2本目の黄色連打は画像より24分音符1個分長い
 &attachref(ignis_m.png,nolink);
 

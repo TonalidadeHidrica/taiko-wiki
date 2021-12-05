@@ -53,8 +53,8 @@
 -[[かんたん>難易度表/かんたん/Xevel]]
 -[[ふつう>難易度表/ふつう/Xevel]]
 -[[むずかしい>難易度表/むずかしい/Xevel]]
--[[プレイ動画(キャプチャ)>https://youtu.be/KIPmiHZx5A0&t=6]]
 -[[楽曲紹介(第五回天下一音ゲ祭)>http://www.otogesai.jp/tournament_music#a02]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=KIPmiHZx5A0&t=7s]]
 
 ***コメント [#comment]
 #pcomment(,noname)
