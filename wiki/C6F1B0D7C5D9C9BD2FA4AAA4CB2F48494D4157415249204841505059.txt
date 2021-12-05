@@ -23,4 +23,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~最後のBPM、HSは暫定
 ~&attachref(向日葵幸福_2.png,nolink);

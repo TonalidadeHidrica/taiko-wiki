@@ -37,4 +37,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(立つドン(アローラのすがた).png,nolink);
+~&attachref(pkmnsm_m.png,nolink);
