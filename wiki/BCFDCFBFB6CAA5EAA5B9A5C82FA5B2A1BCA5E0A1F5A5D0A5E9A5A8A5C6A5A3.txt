@@ -141,7 +141,7 @@
 
 
 
-** A〜Z 0〜9 [#title]
+** A〜Z 0〜9 [#az09]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(アルファベット順)|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
 |''Abandoned Temple Final 2nd''|276|[[★×3>難易度表/かんたん/Abandoned Temple Final 2nd]]|[[★×4>難易度表/ふつう/Abandoned Temple Final 2nd]]|[[★×6>難易度表/むずかしい/Abandoned Temple Final 2nd]]|[[★×9>難易度表/おに/Abandoned Temple Final 2nd]]|
@@ -166,6 +166,7 @@
 |''conflict''|160|[[★×4>難易度表/かんたん/conflict]]|[[★×5>難易度表/ふつう/conflict]]|[[★×7>難易度表/むずかしい/conflict]]|[[★×9>難易度表/おに/conflict]]|
 |''D絶対！SAMURAIインザレイン''|220|[[★×3>難易度表/かんたん/D絶対！SAMURAIインザレイン]]|[[★×4>難易度表/ふつう/D絶対！SAMURAIインザレイン]]|[[★×6>難易度表/むずかしい/D絶対！SAMURAIインザレイン]]|[[★×8>難易度表/おに/D絶対！SAMURAIインザレイン]]|
 |''D絶対！SAMURAIインザレイン(裏譜面)''|~|-|-|-|[[★×10>難易度表/おに/D絶対！SAMURAIインザレイン(裏譜面)]]|
+|''Dogbite''|195|[[★×4>難易度表/かんたん/Dogbite]]|[[★×6>難易度表/ふつう/Dogbite]]|[[★×7>難易度表/むずかしい/Dogbite]]|[[★×10>難易度表/おに/Dogbite]]|
 |''Doom Noiz''|160※|[[★×5>難易度表/かんたん/Doom Noiz]]|[[★×6>難易度表/ふつう/Doom Noiz]]|[[★×8>難易度表/むずかしい/Doom Noiz]]|[[★×10>難易度表/おに/Doom Noiz]]|
 |''Diver''|136|[[★×3>難易度表/かんたん/Diver]]|[[★×5>難易度表/ふつう/Diver]]|[[★×6>難易度表/むずかしい/Diver]]|[[★×9>難易度表/おに/Diver]]|
 |''Dive to Blue''|80?-186|[[★×2>難易度表/かんたん/Dive to Blue]]|[[★×2>難易度表/ふつう/Dive to Blue]]|[[★×3>難易度表/むずかしい/Dive to Blue]]|[[★×8>難易度表/おに/Dive to Blue]]|
