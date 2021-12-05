@@ -5,6 +5,7 @@
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''PS4 1DL''|★×7|''327''|''1001340点''|＋連打|920点|265点|
 |COLOR(#f30){真打}|~|~|COLOR(#f30){''999980点''}|~|COLOR(#f30){2940点}|-|
+|iOS&br;AR|~|~|''??????点''|~|??0点|???点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは132。
@@ -14,6 +15,7 @@
 -アーティストは、[[''MAN WITH A MISSION''>アーティスト別収録曲#mwam]]。
 --作詞は、Kamikaze Boy・Jean-Ken Johnny。作曲は、Kamikaze Boy。編曲は、MAN WITH A MISSION・大島こうすけ。
 -J-POPの[[WINDING ROAD>難易度表/おに/WINDING ROAD]]との混同に注意。
+-曲IDは、''gldnkm''。
 ----
 -[[かんたん>難易度表/かんたん/Winding Road]]
 -[[ふつう>難易度表/ふつう/Winding Road]]

@@ -43,6 +43,6 @@
 #pcomment(,noname)
 
 ***譜面[#fumen]
-~&attachref(ymck_m.png,nolink);
+~&attachref(ymck_m2.png,nolink);
 ~見た目重視
 &attachref(family0.5x_2.png,nolink);

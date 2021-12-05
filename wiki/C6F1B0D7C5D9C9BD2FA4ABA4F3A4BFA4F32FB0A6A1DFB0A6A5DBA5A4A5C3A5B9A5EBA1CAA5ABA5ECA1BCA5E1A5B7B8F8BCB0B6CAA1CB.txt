@@ -1,4 +1,4 @@
-*&ruby(ラブ){愛};×&ruby(ラブ){愛};ホイッスル (カレーメシ公式曲)  SIZE(16){&#80;olyphonicBranch feat.初音ミク・鏡音リン} [#title]
+*&ruby(ラブ){愛};×&ruby(ラブ){愛};ホイッスル(カレーメシ公式曲)  SIZE(16){&#80;olyphonicBranch feat.初音ミク・鏡音リン} [#title]
 ***詳細・攻略 [#more]
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
