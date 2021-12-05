@@ -31,7 +31,8 @@
 //--利手:COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){○}COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}・・・
 //--逆手:COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){○}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}|COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}|COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}・・・
 -ラストの風船は''766打''で入力時間は''4.650秒''((風船の時間を15.5拍としたときの秒数。WiiU2のオートの風船連打は30打/秒であり、風船部分で140打叩いているので4.625秒（48分音符短くしたときの秒数）ではないと思われる。))と短く、''割るのは不可能''である。
---割るのに必要な連打速度は理論上''約165打/秒''。理論値である60打/秒で叩いた場合でも最大約279連打しか入れることができないと思われる。
+--割るのに必要な連打速度は理論上''約165打/秒''。理論値である60打/秒(但し現在のニジイロでは120打/秒)で叩いた場合でも
+最大約279連打しか入れることができないと思われる。
 -1曲を通しての平均密度は、COLOR(red){''約8.93打/秒''}。
 --''旧基準最高密度''を誇り、AC12の初出以来、[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]が登場するまで6年間首位を貫いていた。今もなおトップクラスの高密度譜面として知られる。
 -亜洲版では69〜82小節のスクロール速度は変化しない。

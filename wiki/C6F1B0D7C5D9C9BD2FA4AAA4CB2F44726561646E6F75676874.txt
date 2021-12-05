@@ -36,5 +36,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
--中盤の長い黄色連打の小節線は未記載。
+-中盤の長い黄色連打の小節線HSは[[裏譜面>難易度表/おに/Dreadnought(裏譜面)]]参照。
 ~&attachref(表弩_4.png,nolink);

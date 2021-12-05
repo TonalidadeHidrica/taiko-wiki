@@ -1,8 +1,10 @@
 *風のなかに巣をくふ小鳥 [#title]
-***詳細・攻略 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''Wii4SP''|★×6|''496''|''943720点''|＋連打|540点|120点|
+
+***譜面構成・攻略 [#capture]
 -BPMは64-152。
 -連打秒数・・・約2.734秒
 -平均密度は、''約3.63打/秒''。
@@ -28,8 +30,9 @@
 -[[ふつう>難易度表/ふつう/風のなかに巣をくふ小鳥]]
 -[[むずかしい>難易度表/むずかしい/風のなかに巣をくふ小鳥]]
 -[[オート動画>http://www.youtube.com/watch?v=BRONvKFKChQ]]
+
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &attachref(kotori_m.png,nolink);
