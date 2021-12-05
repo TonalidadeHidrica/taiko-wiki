@@ -36,8 +36,9 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~風船などは暫定。
-~61小節：BPM8.5・HS32(MEASURE 1/8)
+-連打・風船は暫定。
+-BPM・HS変化
+ 61小節:BPM8.5・HS32(MEASURE 1/8)
 ~&ref(T4M3.png,nolink);
 ~
 ~見た目？（いろいろと暫定）

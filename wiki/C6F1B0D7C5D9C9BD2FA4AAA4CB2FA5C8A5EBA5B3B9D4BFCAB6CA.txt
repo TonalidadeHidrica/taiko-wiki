@@ -32,5 +32,6 @@
 ***コメント [#comment]
 #pcomment(,noname)
 ***譜面 [#score]
-DS3では★×8
-&attachref(Turkish March.png,nolink);
+~DS3では★×8
+~CS7では52小節目、DS3では53小節目まで存在する。
+&attachref(Turkish March_2.png,nolink);

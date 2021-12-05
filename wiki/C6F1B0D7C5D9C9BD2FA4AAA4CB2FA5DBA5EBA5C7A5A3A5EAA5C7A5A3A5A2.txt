@@ -24,4 +24,4 @@
 
 ***譜面 [#score]
 ~DS3以前は42小節目の小節線は非表示。また、PSPは41小節目までしか存在しない。
-&attachref(clshol_2.png,nolink);
+&attachref(clshol_3.png,nolink);
