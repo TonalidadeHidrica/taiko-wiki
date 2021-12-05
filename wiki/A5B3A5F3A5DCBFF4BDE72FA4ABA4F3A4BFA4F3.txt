@@ -225,6 +225,7 @@
 |~|[[KUSANAGI>難易度表/かんたん/KUSANAGI]]||
 |~|[[Thinking 〜Must Mix〜>難易度表/かんたん/Thinking 〜Must Mix〜]]||
 |~|[[あの日出会えたキセキ>難易度表/かんたん/あの日出会えたキセキ]]||
+|~|[[Dogbite>難易度表/かんたん/Dogbite]]||
 
 **作品別 最高・最低 コンボ数 [#accs]
 ***AC作品別最高コンボ数 [#acmax]
