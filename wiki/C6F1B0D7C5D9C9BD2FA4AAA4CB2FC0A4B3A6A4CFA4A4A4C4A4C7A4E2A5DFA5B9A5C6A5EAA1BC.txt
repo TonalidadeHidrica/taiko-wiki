@@ -10,6 +10,9 @@
 ***譜面構成・攻略 [#capture]
 -BPMは140。
 -連打秒数目安・・・SIZE(16){''2.536秒''}−1.464秒−1.25秒−SIZE(16){''3.393秒''}：合計約8.643秒
+-COLOR(blue){●●}COLOR(red){●}が多いほか、2連打や付点配置も多い。
+-ゴーゴーにあるCOLOR(blue){●●}COLOR(red){●●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}に注意。
+-中盤に3連符主体の箇所がある。
 -平均密度は、''約3.84打/秒''。
 
 ***その他 [#other]
