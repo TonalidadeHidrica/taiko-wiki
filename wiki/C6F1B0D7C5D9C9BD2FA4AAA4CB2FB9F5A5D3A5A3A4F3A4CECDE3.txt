@@ -35,3 +35,4 @@
 
 ***譜面 [#score]
 ~&attachref(オイラって何だ・・・？.png,nolink);
+~&attachref(黒ビィんの翼easy.png,nolink);

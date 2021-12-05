@@ -29,4 +29,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ[#score]
-µðÂç²»Éä¸ú²Ì¤ÏÉèÌÌÊ¬´ô¤ËÀßÃÖ¤·¤¿¡£&br;µðÂç²»Éä¤Ï3¾®ÀáÌÜ¤È41¾®ÀáÌÜºÇ½é¤ÎÂç²»Éä¡£&attachref(wii1op_2.png,nolink);
+µðÂç²»Éä¸ú²Ì¤ÏÉèÌÌÊ¬´ô¤ËÀßÃÖ¡£&br;µðÂç²»Éä¤Ï3¾®ÀáÌÜ¤È41¾®ÀáÌÜºÇ½é¤ÎÂç²»Éä¡£&attachref(wiiop_m.png,nolink);

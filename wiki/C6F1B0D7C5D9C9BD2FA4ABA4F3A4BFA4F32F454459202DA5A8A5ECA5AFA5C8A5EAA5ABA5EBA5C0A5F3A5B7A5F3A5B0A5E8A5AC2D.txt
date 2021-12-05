@@ -1,9 +1,10 @@
-*EDY ‐エレクトリカルダンシングヨガ‐　feat.鏡音リン・鏡音レン [#title]
+*EDY ‐エレクトリカルダンシングヨガ‐ SIZE(16){feat.鏡音リン・鏡音レン} [#title]
 ***詳細・攻略 [#more]
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.6.0''|CENTER:PS Vita1&br;NS1DL|CENTER:★×4|CENTER:''186''|CENTER:''341950点''|CENTER:＋連打|CENTER:590点|CENTER:165点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''983190点''}|~|CENTER:COLOR(#ff3300){4990点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''993580点''|~|CENTER:5330点|CENTER:-|
 -BPMは132。
 -4分が主体の譜面で、8分は1回も出てこない。
 -序盤は小節線上以外から音符の頭が始まるものが多いので少し惑わされやすい。

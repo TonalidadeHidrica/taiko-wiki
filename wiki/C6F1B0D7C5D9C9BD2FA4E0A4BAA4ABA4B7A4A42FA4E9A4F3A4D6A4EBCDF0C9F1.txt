@@ -7,6 +7,7 @@
 |CENTER:AC15.1.0||~|~|CENTER:''895630点''|~|CENTER:520点|CENTER:145点|
 |CENTER:AC15.2.0|CENTER:Wii U2|~|~|CENTER:''895460点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''995600点''}|~|CENTER:COLOR(#ff3300){1900点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''1000480点''|~|CENTER:2080点|CENTER:-|
 -BPMは160。
 -連打秒数目安・・・約1.094秒−''約1.281秒''−約1.281秒:合計約3.656秒
 -速度は至って普通だが、全体的に16分がかなり多い。

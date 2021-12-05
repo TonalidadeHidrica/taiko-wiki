@@ -27,5 +27,5 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ[#score]
-µðÂç²»Éä¸ú²Ì¤ÏÉèÌÌÊ¬´ô¤ËÀßÃÖ¤·¤¿¡£49¾®Àá¤Î¥É¥ó¤ÏµðÂç²»Éä¤Ç¤¹
-&attachref(wii2op.png,nolink);
+µðÂç²»Éä¸ú²Ì¤ÏÉèÌÌÊ¬´ô¤ËÀßÃÖ¡£49¾®Àá¤Î¥É¥ó¤ÏµðÂç²»Éä¤Ç¤¹
+&attachref(wii2op_m.png,nolink);
