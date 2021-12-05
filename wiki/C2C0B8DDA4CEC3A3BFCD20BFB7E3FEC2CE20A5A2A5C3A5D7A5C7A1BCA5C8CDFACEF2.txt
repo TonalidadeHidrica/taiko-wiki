@@ -400,12 +400,24 @@
 --規定勝利数を満たしていないのに獲得状態になっていたごほうび(きせかえ関連)があった場合は、未獲得状態に修正された。
 -一部曲の専用踊り子(アイナナ)が復活した(非告知)。
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''10/28配信曲''|h
+|BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(red):''新''|[[''Favorite Days''>難易度表/おに/Favorite Days]]|日高零奈(CV:蔀 祐佳) 「電音部」より|
+
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''11/4配信曲''|h
+|BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(red):''新''|[[''Mani Mani(Prod. TAKU INOUE)''>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]|東雲和音(CV:天音みほ) 「電音部」より|
+
 -2020/11/8 7:00をもって、以下の3曲がサヨナラとなる。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V06.21)|h
 |BGCOLOR(cyan):''ポップス''|[[''イケナイ太陽''>難易度表/おに/イケナイ太陽]]||
 |~|[[''TT -Japanese ver.-''>難易度表/おに/TT -Japanese ver.-]]||
 |BGCOLOR(hotpink):''アニメ''|[[''WiSH VOYAGE''>難易度表/おに/WiSH VOYAGE]]|「アイドリッシュセブン」より|
+
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''11/11配信曲''|h
+|BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(red):''新''|[[''アイドル狂戦士(feat.佐藤貴文)''>難易度表/おに/アイドル狂戦士(feat.佐藤貴文)]]|茅野ふたば(CV:堀越せな) 「電音部」より|
 
 //ジャンルについて↓
 //BGCOLOR(cyan):''ポップス''

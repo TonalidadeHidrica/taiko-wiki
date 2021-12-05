@@ -1,5 +1,5 @@
 *アイ MUST GO! [#title]
--「''THE IDOLM@STER M@STERS OF IDOL WORLD!!2015''」テーマ曲。
+-「''[[THE IDOLM@STER M@STERS OF IDOL WORLD!!2015>THE IDOLM@STER関連楽曲一覧#etc]]''」テーマ曲。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -34,5 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-16小節目は「103000 / 103000 / 000022 / 100000,」
-&ref(I MUST.png,nolink);
+&ref(imsmt5_m.png,nolink);
