@@ -35,4 +35,5 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
+-9小節目はBPM126.87
 &attachref(godAmaterasu_hard.png,nolink);

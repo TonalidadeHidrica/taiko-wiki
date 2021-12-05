@@ -1,5 +1,6 @@
 *“HELLO!!” [#title]
 -ニンテンドーDS用ソフト「[[''THE IDOLM@STER Dearly Stars''>THE IDOLM@STER関連楽曲一覧#dest]]」の楽曲。
+
 ***詳細 [#detail]
 |>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
@@ -20,11 +21,13 @@
 --作詞は、yura。作曲は、[[神前暁>参加アーティスト一覧/神前暁]]。
 --また、全作共通で踊り子として3人が登場する。
 -曲IDは、''helmas''、''imehel''(COLOR(blue){PS Vita MS})。
+
 ----
 -[[かんたん>難易度表/かんたん/“HELLO!!”]]
 -[[ふつう>難易度表/ふつう/“HELLO!!”]]
 -[[むずかしい>難易度表/むずかしい/“HELLO!!”]]
 -[[プレイ動画>https://www.youtube.com/watch?v=YrGY7PBt4fs]]
+-[[オート動画>https://youtu.be/-pmJbdRw2t4]]
 
 ***コメント [#comment]
 #pcomment(,noname)
