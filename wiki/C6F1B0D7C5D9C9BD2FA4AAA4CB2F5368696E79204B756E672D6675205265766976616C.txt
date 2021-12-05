@@ -30,7 +30,7 @@
 --同氏は過去に「Kung-fu」を冠する曲を2曲((Kick-ass Kung-fu Carnival、Rumble Kung-fu Showdown))制作しており、この曲は3曲目にあたる。
 -余談だが、氏のソロアルバム「[[Ponko2 Girlish>https://ponko2.c-h-s.me]]」にこの曲のロングバージョンとaran氏によるリミックスが収録されている。
 -譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
--曲IDは、''shinyk''
+-曲IDは、''shinyk''。
 
 ----
 -[[かんたん>難易度表/かんたん/Shiny Kung-fu Revival]]

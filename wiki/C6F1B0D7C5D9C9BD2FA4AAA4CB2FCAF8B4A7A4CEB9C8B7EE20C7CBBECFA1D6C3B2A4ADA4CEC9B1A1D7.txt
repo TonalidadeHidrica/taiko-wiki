@@ -1,12 +1,13 @@
 *&ruby(ほうかん){崩冠};の&ruby(くげつ){紅月}; SIZE(16){&ruby(はしょう){破章};「&ruby(なげ){嘆};きの&ruby(ひめ){姫};」} [#title]
 -[[常闇の森シリーズ>シリーズ曲一覧#tokoyami]]第2弾。
 
-***詳細・攻略 [#more]
+***詳細 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''Wii5SP''&br;PS4 1SP|★×8|''463''|''1043610点''|＋連打|650点|168点|
 |COLOR(#f30){真打}|~|~|COLOR(#f30){''993580点''}|~|COLOR(#f30){1930点}|-|
 
+***譜面構成・攻略 [#capture]
 -BPMは約130。
 -譜面のあちこちに加速ソフランや減速ソフラン、24分が仕掛けられており、叩きにくい譜面。
 -フルコンボ狙いならラスゴーに注意。16分と24分の混合音符がいくつか襲いかかってくる。
@@ -29,6 +30,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(tkym2.png,nolink);
+~&attachref(tkym2.png,nolink);
 ~見た目重視
-&attachref(tkym2_mitame.png,nolink);
+~&attachref(tkym2_mitame.png,nolink);
