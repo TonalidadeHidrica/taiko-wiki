@@ -2,25 +2,25 @@
 -カプコン「''crossbeats REV. SUNRISE''」との相互移植曲。
 
 ***詳細 [#more]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.8.1''|PS4 1DL|★×9|''765''|''1104170点''|＋連打|460点|113点|
-|COLOR(#f30){真打}||~|~|COLOR(#f30){''999700点''}|~|COLOR(#f30){1300点}|-|
-|AC16.1.0||~|~|''1005750点''|~|1310点|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.8.1''|PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''765''|''1104170点''|＋連打|460点|113点|
+|COLOR(#f30){真打}||~|~|~|COLOR(#f30){''999700点''}|~|COLOR(#f30){1300点}|-|
+|AC16.1.0||~|~|~|''1005750点''|~|1310点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは178。
 -連打秒数目安・・・約0.478秒
 -やや速めのBPMで、奇数打の処理を曲全体で求められる。体力譜面寄りではあるが、捌きにくい複合も要所要所で出現するためある程度の地力も必要となる。
---3・5・7連打といった、上位譜面で強く求められる頻出複合が豊富に含まれているため地力確認にも適している(特に3連打は&color(red){●●●};と&color(blue){●●●};を含むすべてのパターンが入れられている)。★×9中位に慣れ始めたらステップアップとして、★×9上位もクリアできるようになってきたら、今の実力の再確認として是非挑戦してみよう。「あべこべ」を活用するとさらに複合のバリエーションが増える。
+--3・5・7連打といった、上位譜面で強く求められる頻出複合が豊富に含まれているため地力確認にも適している(特に3連打は&color(red){●●●};と&color(blue){◯◯◯};を含むすべてのパターンが入れられている)。★×9中位に慣れ始めたらステップアップとして、★×9上位もクリアできるようになってきたら、今の実力の再確認として是非挑戦してみよう。「あべこべ」を活用するとさらに複合のバリエーションが増える。
 -難所は、なんと言っても55〜58小節の''56連打''。
 --区切り方は人それぞれだが、8打の繋がりが全4パターンあることを意識しよう。
----実際に8打ごとに区切ると以下のようになる。&br;55：&color(red){●●●●};&color(blue){●●};&color(red){●};&color(blue){●};/&color(red){●●●●};&color(blue){●●};&color(red){●};&color(blue){●};|&br;56：&color(red){●●●●};&color(blue){●●};&color(red){●};&color(blue){●};/&color(red){●};&color(blue){●●};&color(red){●};&color(blue){●●};&color(red){●};&color(blue){●};|&br;57：&color(red){●●};&color(blue){●●};&color(red){●};&color(blue){●};&color(red){●};&color(blue){●};/&color(red){●●};&color(blue){●●};&color(red){●};&color(blue){●};&color(red){●};&color(blue){●};|&br;58：&color(red){●●};&color(blue){●●};&color(red){●};&color(blue){●●●};/
----&color(red){●●●●};&color(blue){●●};&color(red){●};&color(blue){●};×3/&color(red){●};&color(blue){●●};&color(red){●};&color(blue){●●};&color(red){●};&color(blue){●};/&color(red){●●};&color(blue){●●};&color(red){●};&color(blue){●};&color(red){●};&color(blue){●};×2/&color(red){●●};&color(blue){●●};&color(red){●};&color(blue){●●●};という構造になっている。2番目のパターンのみ逆手を使わせる配置になっており、他の3パターンは面をすべて入り手から叩くことが出来る。
+---実際に8打ごとに区切ると以下のようになる。&br;55：&color(red){●●●●};&color(blue){◯◯};&color(red){●};&color(blue){◯};/&color(red){●●●●};&color(blue){◯◯};&color(red){●};&color(blue){◯};|&br;56：&color(red){●●●●};&color(blue){◯◯};&color(red){●};&color(blue){◯};/&color(red){●};&color(blue){◯◯};&color(red){●};&color(blue){◯◯};&color(red){●};&color(blue){◯};|&br;57：&color(red){●●};&color(blue){◯◯};&color(red){●};&color(blue){◯};&color(red){●};&color(blue){◯};/&color(red){●●};&color(blue){◯◯};&color(red){●};&color(blue){◯};&color(red){●};&color(blue){◯};|&br;58：&color(red){●●};&color(blue){◯◯};&color(red){●};&color(blue){◯◯◯};/
+---&color(red){●●●●};&color(blue){◯◯};&color(red){●};&color(blue){◯};×3/&color(red){●};&color(blue){◯◯};&color(red){●};&color(blue){◯◯};&color(red){●};&color(blue){◯};/&color(red){●●};&color(blue){◯◯};&color(red){●};&color(blue){◯};&color(red){●};&color(blue){◯};×2/&color(red){●●};&color(blue){◯◯};&color(red){●};&color(blue){◯◯◯};という構造になっている。2番目のパターンのみ逆手を使わせる配置になっており、他の3パターンは面をすべて入り手から叩くことが出来る。
 -ゴーゴータイムは、奇数打のラッシュになっており様々なパターンの複合が次々と襲い掛かってくる。
 --要求される地力はやや高めで、地力が足りない場合ここで総崩れになる可能性が高い。ゴーゴータイム後半は、逆手を要求する複合も存在するため様々なタイプの譜面をプレイして地力を底上げしておきたいところ。
 --81〜82小節はゴーゴータイム最後の難関で、13打と15打の複合を叩かされる。
----複雑なように見えるが、実は先述の56打に含まれている1番目(&color(red){●●●●};&color(blue){●●};&color(red){●};&color(blue){●};)と4番目の途中まで(&color(red){●●};&color(blue){●●};&color(red){●};&color(blue){●●};)のパターンが使用されていると捉えることができる。
+---複雑なように見えるが、実は先述の56打に含まれている1番目(&color(red){●●●●};&color(blue){◯◯};&color(red){●};&color(blue){◯};)と4番目の途中まで(&color(red){●●};&color(blue){◯◯};&color(red){●};&color(blue){◯◯};)のパターンが使用されていると捉えることができる。
 -87〜89小節は、面のみで構成されているがゆえに惑わされやすい。何打叩くかをしっかり意識しよう。
 -8、86、90小節の3箇所に12分音符が、同じく90小節に6分音符が存在する。全良狙いの場合はこちらにも注意すべきだろう。
 -平均密度は、''約6.30打/秒''。

@@ -1,29 +1,34 @@
-*愛唄 [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11''-13&br;AC11亜|CENTER:iOS|CENTER:★×2|CENTER:''52''|CENTER:''313860点''|CENTER:＋連打|CENTER:1680点|CENTER:1290点|
-||CENTER:DS2|~|~|CENTER:''249110点''|~|CENTER:1340点|CENTER:1010点|
-|CENTER:AC15.6.4|CENTER:PS Vita1DL&br;Wii U3|~|~|CENTER:''317440点''|~|CENTER:1680点|CENTER:2050点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''997710点''}|~|CENTER:COLOR(#ff3300){16790点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|CENTER:''999200点''|~|CENTER:19200点|CENTER:-|
-||CENTER:もばいるDL|CENTER:★×1|~|CENTER:''?????0点''|~|CENTER:???0点|CENTER:??0点|
+*&ruby(あいうた){愛唄}; [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11''-13&br;AC11亜|iOS|BGCOLOR(cyan):''J-POP''|★×2|''52''|''313860点''|＋連打|1680点|1290点|
+||DS2|~|~|~|''249110点''|~|1340点|1010点|
+|AC15.6.4|PS Vita1DL&br;Wii U3|~|~|~|''317440点''|~|1680点|2050点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''997710点''}|~|COLOR(#ff3300){16790点}|-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''999200点''|~|19200点|-|
+||もばいるDL||★×1|~|''?????0点''|~|??0点|???点|
+
+***譜面構成・攻略 [#capture]
 -BPMは85。
 --かなり遅いので、「ばいそく」を付けた方がやりやすいかもしれない。
 -大音符が多く、7個ある（全体の約13.5%）。
 -速度は遅めだが、全体的に4分がかなり多い。
 --4分は3連打までしかないが、連続して出てくる箇所もある。
 -ゴーゴー前で2回出てくる4分の複合3連打（●○●）に注意。
+
+***その他 [#other]
 -アーティストは、COLOR(green){''GReeeeN''}。
 -曲IDは、''aiuta''。
+----
 -[[ふつう>難易度表/ふつう/愛唄]]
 -[[むずかしい>難易度表/むずかしい/愛唄]]
 -[[おに>難易度表/おに/愛唄]]
--[[オート動画>http://www.youtube.com/watch?v=M2UQWk2OCQc]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=M2UQWk2OCQc]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-ACではラストは芋連打
-&attachref(aiuta.png,nolink);
+~ACではラストは芋,くずだま
+~&attachref(aiuta.png,nolink);

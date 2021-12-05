@@ -540,7 +540,8 @@
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):２０００シリーズの達人|BGCOLOR(grey):タトイ云−一ノ十�，鬟�リア|~|
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):２０００シリーズの大達人|BGCOLOR(grey):タトイ云−一ノ十&#10113;をクリア|~|
 |BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！カツドン大将」達成!!|BGCOLOR(silver):RED 5.08かYELLOW 0.13~2.07かBLUE 1.05~10.04かGREEN 1.04~13.02で復活！カツドン大将をクリア|BGCOLOR(silver):|
-|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ソライロ十段」達成!!|BGCOLOR(silver):RED 5.08かYELLOW 0.13~2.07かBLUE 1.05~10.04かGREEN 1.04~13.02で復活！ソライロ十段をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ソライロ十段」達成!!|BGCOLOR(silver):RED 5.08かYELLOW 0.13~2.07かBLUE 1.05~10.04かGREEN 1.04~13.02で復活！ソライロ十段をクリア|~| 俺もしたい
+
 |BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！モモイロ十段」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！モモイロ十段をクリア|~|
 |BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！キミドリ十段」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！キミドリ十段をクリア|~|
 |BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ムラサキ十段」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！ムラサキ十段をクリア|~|
