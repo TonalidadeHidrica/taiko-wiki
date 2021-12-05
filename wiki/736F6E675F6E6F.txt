@@ -1044,17 +1044,17 @@
 |942|[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|BGCOLOR(orangered):ナムオリ|?||
 |943|[[クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|BGCOLOR(gold):クラシック|clscpl||
 |944|[[令・和太鼓>難易度表/おに/令・和太鼓]]|BGCOLOR(orangered):ナムオリ|reiwad||
-|945|非公開|BGCOLOR(cyan):ポップス|非公開||
-|946|非公開|BGCOLOR(cyan):ポップス|非公開||
-|947|非公開|BGCOLOR(darkgray):ボカロ|非公開||
-|948|非公開|BGCOLOR(darkorchid):G & V|非公開||
+|945|[[RESTART>難易度表/おに/RESTART]]|BGCOLOR(cyan):ポップス|?||
+|946|[[ミュートすればいいじゃん。>難易度表/おに/ミュートすればいいじゃん。]] |BGCOLOR(cyan):ポップス|?||
+|947|[[だれかの心臓になれたなら>難易度表/おに/だれかの心臓になれたなら]]|BGCOLOR(darkgray):ボカロ|?||
+|948|[[患部で止まってすぐ溶ける 〜 狂気の優曇華院>難易度表/おに/患部で止まってすぐ溶ける 〜 狂気の優曇華院]]|BGCOLOR(darkorchid):G & V|?||
 |949|非公開|BGCOLOR(darkorchid):G & V|非公開||
 |950|非公開|BGCOLOR(darkorchid):G & V|非公開||
 |951|非公開|BGCOLOR(darkorchid):G & V|非公開||
-|952|非公開|BGCOLOR(orangered):ナムオリ|非公開||
-|953|非公開|BGCOLOR(hotpink):アニメ|非公開||
-|954|非公開|BGCOLOR(orangered):ナムオリ|非公開||
-|955|非公開|BGCOLOR(orangered):ナムオリ|非公開||
+|952|[[テトラリュトモスフォビア>難易度表/おに/テトラリュトモスフォビア]]|BGCOLOR(orangered):ナムオリ|?||
+|953|[[DiSCOVER THE FUTURE>難易度表/おに/DiSCOVER THE FUTURE]]|BGCOLOR(hotpink):アニメ|?||
+|954|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|BGCOLOR(orangered):ナムオリ|?||
+|955|[[絡繰廻廊>難易度表/おに/絡繰廻廊]]|BGCOLOR(orangered):ナムオリ|?||
 
 //||[[曲名>難易度表/おに/曲名]]|BGCOLOR():|?||
 

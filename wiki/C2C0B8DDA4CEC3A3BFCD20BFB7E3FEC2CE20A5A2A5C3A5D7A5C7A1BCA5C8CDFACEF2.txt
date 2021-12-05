@@ -388,8 +388,8 @@
 |BGCOLOR(hotpink):''アニメ''|COLOR(red):''新''|[[''DiSCOVER THE FUTURE''>難易度表/おに/DiSCOVER THE FUTURE]]|TVアニメ「アイドリッシュセブン Second BEAT!」より|
 |BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''だれかの心臓になれたなら''>難易度表/おに/だれかの心臓になれたなら]]|ユリイ・カノン feat.GUMI|
 |BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(red):''新''|[[''患部で止まってすぐ溶ける 〜 狂気の優曇華院''>難易度表/おに/患部で止まってすぐ溶ける 〜 狂気の優曇華院]]|東方Projectアレンジ ARM (IOSYS) feat.miko|
-|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(AIバトル)''|COLOR(red):''新''|[[''絡繰廻廊''>難易度表/おに/絡繰廻廊]]|はるなば|
-|~|COLOR(red):''新''|[[''Central Dogma Pt.1''>難易度表/おに/Central Dogma Pt.1]]|黒沢ダイスケ|
+|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(AIバトル)''|COLOR(red):''新''|[[''Central Dogma Pt.1''>難易度表/おに/Central Dogma Pt.1]]|黒沢ダイスケ|
+|~|COLOR(red):''新''|[[''絡繰廻廊''>難易度表/おに/絡繰廻廊]]|はるなば|
 |~|COLOR(red):''新''|[[''テトラリュトモスフォビア''>難易度表/おに/テトラリュトモスフォビア]]|feat.ルシュカ|
 
 -[[東方コラボ 第６弾【2020】>https://taiko.namco-ch.net/taiko/special/touhou2020/]] と [[アイナナコラボ>https://taiko.namco-ch.net/taiko/idolish7/]]が開始された。
@@ -398,6 +398,7 @@
 --規定勝利数に到達することで獲得できる楽曲が差し替えられた。(差し替え後の楽曲は上記を参照)
 ---規定勝利数に既に到達しているプレイヤーは、このアプデ後初回プレイ時に入れ替え後の楽曲が獲得できる。
 --規定勝利数を満たしていないのに獲得状態になっていたごほうび(きせかえ関連)があった場合は、未獲得状態に修正された。
+-一部曲の専用踊り子(アイナナ)が復活した(非告知)。
 
 -2020/11/8 7:00をもって、以下の3曲がサヨナラとなる。
 |CENTER:100|||c

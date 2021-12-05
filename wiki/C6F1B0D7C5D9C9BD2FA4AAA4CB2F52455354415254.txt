@@ -1,0 +1,27 @@
+*RESTART [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.1.6''|BGCOLOR(cyan):''ポップス''|★×8|''544''|''984640点''|+連打|1810点|
+
+***譜面構成・攻略 [#capture]
+-BPMは140-''280''。見た目BPMは140-210。
+-[[ユウガオノキミ>難易度表/おに/ユウガオノキミ]]や[[White Rose Insanity>難易度表/おに/White Rose Insanity]]のような、ゴーゴーで加速するのが特徴的な譜面。
+-一見すると縁の方が多いように見えるが、COLOR(red){面}:276、COLOR(blue){縁}:268と面の方が多い。
+
+***その他 [#other]
+-アーティストは、''TOSHIMITSU''。
+--''[[本人音源>本人音源曲]]''である。
+
+----
+-[[かんたん>難易度表/かんたん/RESTART]]
+-[[ふつう>難易度表/ふつう/RESTART]]
+-[[むずかしい>難易度表/むずかしい/RESTART]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=DCxrquO1HX0&t=20s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(再起動.png,nolink);
