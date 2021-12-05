@@ -271,7 +271,7 @@
 |2nd|[[ネクロファンタジア 〜Arr.Demetori>難易度表/むずかしい/ネクロファンタジア 〜 Arr.Demetori]]|むずかしい★×8|698コンボ|~|~|~|~|
 |3rd|[[VICTORIA>難易度表/むずかしい/VICTORIA]]|むずかしい★×8|545コンボ|~|~|~|~|
 |BGCOLOR(skyblue):SIZE(16){''初段''}|>|BGCOLOR(skyblue):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/初段]]　　SIZE(16){''総音符数''}|BGCOLOR(skyblue):SIZE(16){''1480''}|BGCOLOR(skyblue):''魂ゲージ''|BGCOLOR(skyblue):''コンボ数''|BGCOLOR(skyblue):''不可''|BGCOLOR(skyblue):''連打数''|
-|1st|[[アルカリレットウセイ>難易度表/おに/アルカリレットウセイ]]|おに★×7|434コンボ|COLOR(red){97%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){370以上}&br;COLOR(#cccc33){''520以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''16未満''}|COLOR(red){43以上}&br;COLOR(#cccc33){''54以上''}|
+|1st|[[アルカリレットウセイ>難易度表/おに/アルカリレットウセイ]]|おに★×7|434コンボ|COLOR(red){97%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){370以上}&br;COLOR(#cccc33){''520以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''15未満''}|COLOR(red){43以上}&br;COLOR(#cccc33){''54以上''}|
 |2nd|[[夏祭り>難易度表/おに/夏祭り]]|おに★×6|488コンボ|~|~|~|COLOR(red){77以上}&br;COLOR(#cccc33){''94以上''}|
 |3rd|[[ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|おに★×7|558コンボ|~|~|~|COLOR(red){0以上}&br;COLOR(#cccc33){''0以上''}|
 |BGCOLOR(skyblue):SIZE(16){''二段''}|>|BGCOLOR(skyblue):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2020/二段]]　　SIZE(16){''総音符数''}|BGCOLOR(skyblue):SIZE(16){''1660''}|BGCOLOR(skyblue):''魂ゲージ''|BGCOLOR(skyblue):''コンボ数''|BGCOLOR(skyblue):''不可''|BGCOLOR(skyblue):''連打数''|
