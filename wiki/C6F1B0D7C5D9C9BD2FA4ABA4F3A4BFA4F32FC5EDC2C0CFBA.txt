@@ -1,9 +1,11 @@
 *桃太郎 [#Title]
 ***詳細・攻略 [#More]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''RT''|CENTER:★×2|CENTER:''28''|CENTER:''496770点''|CENTER:＋連打|CENTER:5710点|CENTER:17130点|
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''RT''|★×2|''28''|''496770点''|+連打|5710点|11420点|
+
 -BPMは約104。
+
 -[[ふつう>難易度表/ふつう/桃太郎]]
 -[[プレイ動画>https://www.youtube.com/watch?v=w1C070KrkDI]]
 

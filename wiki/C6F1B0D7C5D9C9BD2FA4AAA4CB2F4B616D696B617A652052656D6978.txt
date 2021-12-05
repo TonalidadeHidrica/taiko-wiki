@@ -2,12 +2,13 @@
 -ナムコのPSP用ソフト「[[''RIDGE RACERS 2''>http://www.bandainamcogames.co.jp/cs/list/ridgeracers2_psp/]]」の楽曲。
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
 |''AC11SP''〜14&br;11亜SP、12亜|Wii1&br;PSP2DL|★×10|''737''|''1206920点''|480点|110点|
 |COLOR(#ff3300){真打モード}||~|~|COLOR(#ff3300){''1209460点''}|COLOR(#ff3300){1630点}|-|
 |AC15.3.1|Wii5SP|~|~|''1207300点''|500点|125点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1001700点''}|COLOR(#ff3300){1350点}|-|
+|AC16.1.0||~|~|''1002320点''|1360点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約158。

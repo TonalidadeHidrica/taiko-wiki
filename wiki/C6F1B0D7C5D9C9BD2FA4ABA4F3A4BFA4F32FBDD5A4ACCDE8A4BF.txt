@@ -1,8 +1,11 @@
 *春が来た [#title]
 ***詳細・攻略 [#yb962822]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''RT''|CENTER:★×1|CENTER:''47''|CENTER:''466080点''|CENTER:＋連打|CENTER:3190点|CENTER:6450点|
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''RT''|★×1|''47''|''466080点''|+連打|3190点|6450点|
+
+-BPMは100.15。
+
 -[[ふつう>難易度表/ふつう/春が来た]]
 -[[プレイ動画>https://www.youtube.com/watch?v=QyR4ksRGD_I]]
 

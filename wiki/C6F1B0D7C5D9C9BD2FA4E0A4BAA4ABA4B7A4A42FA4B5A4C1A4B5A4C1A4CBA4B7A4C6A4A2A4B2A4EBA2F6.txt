@@ -5,7 +5,7 @@
 |CENTER:''AC15.6.2''|CENTER:''Wii U2DL''&br;PS Vita1|CENTER:★×7|CENTER:''296''|CENTER:''838630点''|＋連打|CENTER:770点|CENTER:210点|
 |CENTER:COLOR(#f30){真打}||~|~|CENTER:COLOR(#f30){''992840点''}|~|CENTER:COLOR(#f30){2990点}|CENTER:-|
 ||CENTER:''iOS&br;AR''|~|~|CENTER:''836020点''|~|CENTER:710点|CENTER:170点|
-|AC16.1.1||~|~|''?????0点''|~|??0点|-|
+|AC16.1.2||~|~|''?????0点''|~|??0点|-|
 
 -BPMは160。
 -黄色連打が多い連打曲である。

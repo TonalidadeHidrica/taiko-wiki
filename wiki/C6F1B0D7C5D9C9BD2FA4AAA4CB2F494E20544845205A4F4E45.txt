@@ -2,13 +2,15 @@
 -ナムコのPSP用ソフト「[[''ACE COMBAT X2 JOINT ASSAULT''>http://www.acecombat.jp/x2/]]」のテーマソング。
 
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-||CENTER:''PSP2DL''|CENTER:★×10|CENTER:''765''|CENTER:''1197600点''|CENTER:＋連打|CENTER:400点|CENTER:100点|CENTER:''ゴーゴーバグ&br;あり''|
-||CENTER:Wii3|~|~|CENTER:''1200840点''|~|~|~|~|
-|CENTER:AC14||~|~|CENTER:''1199720点''|~|~|~||
-|CENTER:COLOR(#f30):真打モード||~|~|CENTER:COLOR(#f30):''1206200点''|~|CENTER:COLOR(#f30):1500点|CENTER:-||
-|CENTER:AC15.1.0||CENTER:★×9|~|CENTER:''1100470点''|~|CENTER:410点|CENTER:100点||
-|CENTER:COLOR(#f30):真打||~|~|CENTER:COLOR(#f30):''998460点''|~|CENTER:COLOR(#f30):1240点|CENTER:-||
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+||''PSP2DL''|★×10|''765''|''1197600点''|＋連打|400点|100点|''ゴーゴーバグあり''|
+||Wii3|~|~|''1200840点''|~|~|~|~|
+|AC14||~|~|''1199720点''|~|~|~||
+|COLOR(#f30):真打モード||~|~|COLOR(#f30):''1206200点''|~|COLOR(#f30):1500点|-||
+|AC15.1.0||★×9|~|''1100470点''|~|410点|100点||
+|COLOR(#f30):真打||~|~|COLOR(#f30):''998460点''|~|COLOR(#f30):1240点|-||
+|AC16.1.0||~|~|''1003150点''|~|1310点|-||
 
 ***譜面構成・攻略 [#capture]
 -BPMは約172。

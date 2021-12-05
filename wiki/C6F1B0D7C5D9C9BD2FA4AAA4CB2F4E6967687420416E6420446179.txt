@@ -2,10 +2,11 @@
 -ナムコのPS用ソフト「[[''ACE COMBAT 2''>ゲーム別収録曲#ace]]」より。(→[[公式サイト>http://www.bandainamcogames.co.jp/cs/list/acecombat2/]])
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |AC15.6.0SP|''3DS2''&br;Wii U3|★×9|''698''|''1096960点''|+連打|480点|120点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1000800点''}|~|COLOR(#ff3300){1390点}|-|
+|AC16.1.0||~|~|''998140点''|~|1430点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約140。

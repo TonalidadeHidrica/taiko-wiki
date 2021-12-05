@@ -2,14 +2,14 @@
 -スマートフォンアプリ[[「''KORG Gadget Kamata''」>http://gadget.korg.com/kamata/index_jp.php]]デモソング。
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.9.3SP''|★×9|''784''|''1104420点''|＋連打|430点|95点|
+|''AC15.9.3SP''|★×9|''784''|''1104420点''|+連打|430点|95点|
 |COLOR(#f30){真打}|~|~|COLOR(#f30){''1006800点''}|~|COLOR(#f30){1200点}|-|
 |AC16.1.0|~|~|''1004680点''|~|1270点|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは144〜''288''。
+-BPMは144-''288''。
 --32分音符が使用されているため、ほとんどの区域でBPMが倍になっている。
 --32分音符の音符密度は19.2打/秒。しかし3打までしかないため24分音符の逆餡蜜でも繋がる。逆餡蜜＝24分音符の音符密度は14.4打/秒。
 -平均密度は''約5.58打/秒''。
@@ -19,8 +19,8 @@
 --(見た目)24分音符や32分音符が絡む複合も存在し、慣れていないとコンボを切りやすい。事前に運手を確認するなどの対策を取ろう。
 --&color(red){●●}; &color(red){●};&color(blue){●};を&color(red){●●};&color(blue){●};&color(red){●};&color(blue){●};とアレンジして叩くと精度が取れやすい
 -ラストゴーゴーの97小節以降は苛烈な長複合が続く。体力と集中力を温存し、最後まで気を抜かずに叩くべし。
---97〜99小節の長複合は&color(red){●●●};&color(blue){●};/&color(red){●●};&color(blue){●};&color(red){●●};&color(blue){●};…&color(red){●●};&color(blue){●};&color(red){●●};&color(blue){●};/&color(red){●●};&color(blue){●};&color(red){●};/&color(red){●};&color(blue){●●};&color(red){●};と認識すると叩きやすいか。ただし最後の縁は逆手入りである点に注意。
---101〜103小節は拍で区切ると以下のようになる(カッコは24分音符)。&br;101：&color(red){●●●●};/&color(blue){●};&color(red){●●●};/&color(blue){●};&color(red){●●●};/&color(blue){●};&color(red){●●●};|&br;102：&color(blue){●};&color(red){●●};&color(blue){●};/&color(blue){●};&color(red){●●};&color(blue){●};/&color(blue){●};&color(red){●●};&color(blue){●};/&color(blue){●};&color(red){●●};&color(blue){●};|&br;103：&color(blue){●●●●};/&color(red){●●●●};/(&color(blue){●};&color(red){●●●●●};&color(blue){●};)
+--97-99小節の長複合は&color(red){●●●};&color(blue){●};/&color(red){●●};&color(blue){●};&color(red){●●};&color(blue){●};…&color(red){●●};&color(blue){●};&color(red){●●};&color(blue){●};/&color(red){●●};&color(blue){●};&color(red){●};/&color(red){●};&color(blue){●●};&color(red){●};と認識すると叩きやすいか。ただし最後の縁は逆手入りである点に注意。
+--101-103小節は拍で区切ると以下のようになる(カッコは24分音符)。&br;101：&color(red){●●●●};/&color(blue){●};&color(red){●●●};/&color(blue){●};&color(red){●●●};/&color(blue){●};&color(red){●●●};|&br;102：&color(blue){●};&color(red){●●};&color(blue){●};/&color(blue){●};&color(red){●●};&color(blue){●};/&color(blue){●};&color(red){●●};&color(blue){●};/&color(blue){●};&color(red){●●};&color(blue){●};|&br;103：&color(blue){●●●●};/&color(red){●●●●};/(&color(blue){●};&color(red){●●●●●};&color(blue){●};)
 ---102小節は逆手を活用しなければならない配置となっている。どうしても叩けないのであれば複合全体を逆手から入るのも手であるが、その場合24分音符の入り手も逆手となる。
 
 ***その他 [#other]
@@ -44,8 +44,6 @@
 -[[むずかしい>難易度表/むずかしい/Asteroid]]
 -[[譜面紹介>http://taiko-ch.net/blog/?p=1723]]
 -[[プレイ動画>https://youtu.be/AGjVVvK8zCQ]]
-//-[[オート動画(特訓モード)>https://youtu.be/UfhxpYH-1yI]]
-//↑広告が付いているので
 -[[楽曲試聴(フル)(SOUNDCLOUD)>https://soundcloud.com/korg/asteroid]]
 
 ***コメント [#comment]
@@ -53,7 +51,7 @@
 
 ***譜面 [#score]
 暫定版~
- ■67〜71小節
+ ■67-71小節
  HS0.9 → 0.82 → 0.74 → 0.67 → 0.61 → 0.55 → 0.5
  ■76小節
  HS0.55 → 0.6 → 0.5 → 0.55 → 0.7 → 0.8 → 0.55 → 0.6 → 0.9 → 0.85 → 0.7 → 1.05 → 0.5 → 0.75 → 1.15 → 1.8 → 0.65

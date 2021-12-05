@@ -1,8 +1,8 @@
 *黒田節 [#title]
 ***詳細・攻略 [#yb962822]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''RT''|CENTER:★×2|CENTER:''82''|CENTER:''??????点''|CENTER:＋連打|CENTER:?点|CENTER:?点|
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''RT''|★×2|''82''|''??????点''|+連打|?点|?点|
 -[[かんたん>難易度表/かんたん/黒田節]]
 -[[プレイ動画>https://www.youtube.com/watch?v=T5x2Rnv1SSA]]
 

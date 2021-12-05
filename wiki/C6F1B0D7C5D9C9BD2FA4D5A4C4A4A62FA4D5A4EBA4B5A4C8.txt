@@ -1,8 +1,8 @@
 *ふるさと [#title]
 ***詳細・攻略 [#yb962822]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''RT''|CENTER:★×2|CENTER:''73''|CENTER:''??????点''|CENTER:＋連打|CENTER:2460点|CENTER:1510点|
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''RT''|★×2|''73''|''??????点''|+連打|2460点|1510点|
 -[[かんたん>難易度表/かんたん/ふるさと]]
 -[[プレイ動画>http://www.youtube.com/watch?v=Qg1faYAvKT4]]
 

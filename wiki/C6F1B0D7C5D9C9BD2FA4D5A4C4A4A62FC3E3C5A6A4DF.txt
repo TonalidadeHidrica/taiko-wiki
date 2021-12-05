@@ -1,10 +1,13 @@
 *茶摘み [#ff98e6dc]
 ***詳細・攻略 [#gcd3b04c]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''RT''|CENTER:★×2|CENTER:''88''|CENTER:''??????点''|CENTER:＋連打|CENTER:2040点|CENTER:1020点|
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''RT''|★×2|''88''|''??????点''|+連打|2040点|1020点|
+
+-BPMは92.25。
 -4分音符の3連打(COLOR(red){●}COLOR(blue){●}COLOR(red){●})がよく出てきて、終盤には4分音符の7連打(COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●})もある。
 -最後に約4.5秒の黄色連打がある。
+
 -[[かんたん>難易度表/かんたん/茶摘み]]
 -[[プレイ動画>https://www.youtube.com/watch?v=IwDHRDbQob0]]
 

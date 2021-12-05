@@ -7,7 +7,8 @@
 -[[参考画像:https://imgur.com/a/Zra3sKX]]
 -バラエティにK-POP((「[[最初から今まで>難易度表/おに/最初から今まで]]」と「[[FANTASTIC BABY>難易度表/おに/FANTASTIC BABY]]」など))はありません。
 -DLCショップが無い為、DLCはありません。
--[[公式サイト>http://www.nintendo.co.kr/3DS/software/taiko/index.html]]
+//-[[公式サイト>http://www.nintendo.co.kr/3DS/software/taiko/index.html]]
+//公式サイト閉鎖されてました
 ----
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
