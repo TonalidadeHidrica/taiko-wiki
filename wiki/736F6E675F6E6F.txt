@@ -1048,7 +1048,7 @@
 |946|[[ミュートすればいいじゃん。>難易度表/おに/ミュートすればいいじゃん。]] |BGCOLOR(cyan):ポップス|?||
 |947|[[だれかの心臓になれたなら>難易度表/おに/だれかの心臓になれたなら]]|BGCOLOR(darkgray):ボカロ|?||
 |948|[[患部で止まってすぐ溶ける 〜 狂気の優曇華院>難易度表/おに/患部で止まってすぐ溶ける 〜 狂気の優曇華院]]|BGCOLOR(darkorchid):G & V|?||
-|949|非公開|BGCOLOR(darkorchid):G & V|非公開||
+|949|[[Favorite Days>難易度表/おに/Favorite Days]]|BGCOLOR(darkorchid):G & V|?||
 |950|非公開|BGCOLOR(darkorchid):G & V|非公開||
 |951|非公開|BGCOLOR(darkorchid):G & V|非公開||
 |952|[[テトラリュトモスフォビア>難易度表/おに/テトラリュトモスフォビア]]|BGCOLOR(orangered):ナムオリ|?||

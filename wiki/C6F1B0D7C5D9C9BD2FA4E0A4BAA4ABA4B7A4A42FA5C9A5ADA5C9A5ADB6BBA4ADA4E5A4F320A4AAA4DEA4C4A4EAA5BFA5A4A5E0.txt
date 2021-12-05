@@ -2,10 +2,13 @@
 ***詳細・攻略 [#more]
 -[[オリジナル楽曲公募>太鼓の達人 楽曲募集だドン！]]の合格曲である。
 -詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDXDL''|CENTER:★×6|CENTER:''320''|CENTER:''728520点''|CENTER:＋連打|CENTER:650点|CENTER:140点|
-|CENTER:AC15.2.6|CENTER:Wii U2SP&br;PS4 1DL&br;NS1SP|~|~|CENTER:''757880点''|~|CENTER:690点|CENTER:178点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''968980点''}|~|CENTER:COLOR(#ff3300){2670点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDXDL''&br;iOS|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''320''|''728520点''|＋連打|650点|140点|
+|AC15.2.6|Wii U2SP&br;3DS2DL&br;PS4 1DL&br;NS1SP|~|~|~|''757880点''|~|690点|178点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''968980点''}|~|COLOR(#ff3300){2670点}|-|
+|AC16.1.0||~|~|~|''980800点''|~|3050点|-|
+
 -BPMは106〜212。
 -黄色連打がかなり多く、18本ある。
 --そのため、PSPDXでは100万点を超えることも可能である。

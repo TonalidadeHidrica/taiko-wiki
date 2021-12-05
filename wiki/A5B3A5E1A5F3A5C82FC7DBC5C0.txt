@@ -17,3 +17,5 @@
 -↑これで日本版グリーンの「通常配点」は補充終了。 --  &new{2020-08-26 (水) 20:25:17};
 -真打の「SORA-VII シグナスウォール」のかんたん・ふつう・むずかしいの配点を補完。リストから削除。 --  &new{2020-10-15 (木) 19:22:41};
 -[[2020.10.28 午前7:00のグリーンVer.アジア版追加曲>https://twitter.com/taiko_bot_kr_/status/1320605011231920130/photo/1]] --  &new{2020-10-27 (火) 23:38:49};
+-↑の一覧＋memoria fictaを追加。ただし、JOIN THE PAC(太鼓の達人Ver.)・Leviathan・Wish upon a shooting star・MagiCatz・ANiMAの5曲はNS1に配信中で配点は埋まっていたので除外。 --  &new{2020-10-28 (水) 12:15:55};
+-Parousia、Dogbite、waitin' for u、ALiVE、memoria ficta、ペットショップ大戦、いっそこのままで、wonderful ROUTINEのおにのアジア版通常配点、Parousia、waitin' for u、memoria fictaのおにのアジア版真打配点を補完。 --  &new{2020-10-28 (水) 20:23:28};

@@ -1,24 +1,33 @@
 *Tell Your World [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.2.0|CENTER:''3DS1''|CENTER:★×5|CENTER:''281''|CENTER:''754340点''|CENTER:760点|CENTER:218点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''1001720点''}|CENTER:COLOR(#ff3300){3290点}|CENTER:-|
+-[[「''Google Chromeで、あなたのウェブを、はじめよう。''」>http://www.youtube.com/watch?v=MGt25mv4-2Q]]のキャンペーンソング。
+--2012年3月9日に開催された「ミクの日大感謝祭」でも演奏されている。
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|AC15.2.0|''3DS1''|★×5|''281''|''754340点''|760点|218点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1001720点''}|COLOR(#ff3300){3290点}|-|
+||iOS|~|~|''?????0点''|??0点|??0点|
+
+***譜面構成・攻略 [#capture]
 -BPMは150。
 -''精度曲''のひとつ。
 -全体的に付点配置が多く、リズムが取りづらい。
 -ゴーゴー以外は8分の複合が主体で、16分は1回も出て来ない。
 -ゴーゴーは16分がかなり多いが、単色の3連打しかない。
 --ただし、連続して出てくる箇所もあるので油断は禁物。
--歌唱は、[[メルト>難易度表/むずかしい/メルト]]、[[ワールドイズマイン>難易度表/むずかしい/ワールドイズマイン]]などと同じく、''初音ミク''。
--曲名の読み方は、''テル ユア ワールド''。
--作曲は、livetuneの''kz''。
--AC9、CS7に収録されている[[''Your World''>難易度表/むずかしい/Your World]]と間違えないように。
 
+***その他 [#other]
+-歌唱は、[[''初音ミク''>ボーカロイド別収録曲#miku]]。
+-作詞・作曲は、livetuneの''kz''。
+-曲名の読み方は、''テル ユア ワールド''。
+-譜面作成は、''[[マツモト>譜面作成者一覧/マツモト]]''。
+-AC9、CS7に収録されている[[''Your World''>難易度表/むずかしい/Your World]]と間違えないように。
+----
 -[[かんたん>難易度表/かんたん/Tell Your World]]
 -[[ふつう>難易度表/ふつう/Tell Your World]]
 -[[おに>難易度表/おに/Tell Your World]]
--[[プレイ動画(AC15,キャプチャ)>https://www.youtube.com/watch?v=iwrQ3WODraQ&index=16&list=PLkHirIhrQJTaFStsRfedYJyYTa-Dhf_ym]]
+-[[プレイ動画(AC15,キャプチャ)>https://www.youtube.com/watch?v=iwrQ3WODraQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)
