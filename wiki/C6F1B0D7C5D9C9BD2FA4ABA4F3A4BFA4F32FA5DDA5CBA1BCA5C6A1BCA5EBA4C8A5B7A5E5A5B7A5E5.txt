@@ -10,6 +10,7 @@
 |CENTER:AC15.1.0||~|~|CENTER:''?????0点''|~|CENTER:770点|CENTER:315点|
 |CENTER:AC15.2.0|CENTER:3DS2DL|~|~|CENTER:''334180点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){7320点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''998100点''|~|CENTER:8500点|CENTER:-|
 -BPMは80〜160。
 --ただし160地帯にはHS0.87がかかっており、見かけ上のBPMは80〜139.2。
 -黄色連打は3本と少なめだが、1本あたりの長さは長い。

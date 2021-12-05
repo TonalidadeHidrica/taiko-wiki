@@ -13,6 +13,7 @@
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''586520点''}|~|CENTER:COLOR(#ff3300){2970点}|CENTER:-||
 |CENTER:AC15.1.0|CENTER:3DS2DL|~|~|CENTER:''586540点''|~|CENTER:940点|CENTER:340点||
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''989670点''}|~|CENTER:COLOR(#ff3300){5110点}|CENTER:-||
+|CENTER:AC16.1.0||~|~|CENTER:''994080点''|~|CENTER:6220点|CENTER:-||
 -大音符が多く、28個ある（全体の約17.6%）。
 -4分の複合が主体の譜面で、第2ゴーゴーからは8分も出てくる。
 --8分は単色の3連打しかないが、その全てが4分と隣接している。
@@ -30,6 +31,7 @@
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''584900点''}|~|CENTER:COLOR(#ff3300){3400点}|CENTER:-||
 |CENTER:AC15.1.0||~|~|CENTER:''?????0点''|~|CENTER:1100点|CENTER:438点||
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''983420点''}|~|CENTER:COLOR(#ff3300){5860点}|CENTER:-||
+|CENTER:AC16.1.0||~|~|CENTER:''992680点''|~|CENTER:7370点|CENTER:-||
 -ゴーゴーで譜面が少し変化している。
 -[[オート動画(Wii3, キャプチャ)>http://www.youtube.com/watch?v=ziE9wCtZhMU]]
 ----

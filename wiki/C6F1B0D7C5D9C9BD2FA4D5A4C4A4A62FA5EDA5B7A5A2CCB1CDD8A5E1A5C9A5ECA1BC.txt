@@ -7,7 +7,7 @@
 ||CENTER:Wii4|CENTER:''バラエティ''|~|~||CENTER:''544280点''|~|~|CENTER:240点|
 |CENTER:AC15.2.0||CENTER:''どうよう''|~|~||CENTER:''547390点''|~|CENTER:910点|CENTER:340点|
 |CENTER:COLOR(#ff3300){真打}|||~|~||CENTER:COLOR(#ff3300){''997560点''}|~|CENTER:COLOR(#ff3300){5020点}|CENTER:-|
-|CENTER:AC16.1.0||CENTER:''ポップス''|~|~||CENTER:''?????0点''|~|CENTER:???点|CENTER:-|
+|CENTER:AC16.1.0||CENTER:''ポップス''|~|~||CENTER:''998710点''|~|CENTER:5890点|CENTER:-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約100〜146。

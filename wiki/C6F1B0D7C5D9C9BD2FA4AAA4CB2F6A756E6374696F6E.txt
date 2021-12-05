@@ -1,10 +1,12 @@
 *junction [#title]
 
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.2.4''|CENTER:Wii U2SP|CENTER:★×9|CENTER:''604''|CENTER:''1102420点''|CENTER:＋連打|CENTER:530点|CENTER:135点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''998300点''}|~|CENTER:COLOR(#ff3300){1560点}|CENTER:-|
-||CENTER:PSPDXDL&br;iOS|~|~|CENTER:''1101180点''|~|CENTER:480点|CENTER:120点|
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.2.4''|Wii U2SP|★×9|''604''|''1102420点''|＋連打|530点|135点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''998300点''}|~|COLOR(#ff3300){1560点}|-|
+||PSPDXDL&br;iOS|~|~|''1101180点''|~|480点|120点|
+|AC16.1.0||~|~|''1003640点''|~|1660点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは135。

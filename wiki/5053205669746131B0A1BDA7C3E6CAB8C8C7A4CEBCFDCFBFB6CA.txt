@@ -1,10 +1,8 @@
-*太鼓之達人 V Versionの収録曲 [#title]
--2015年7月9日発売
-
+*「太鼓之達人 V Version」の収録曲 [#title]
+-発売日： 2015 年 7 月 9 日
 -デフォルト ''77'' 曲 ＋ 隠し ''9'' 曲 ＋ DL ''40'' 曲 ＝ ''126'' 曲
 --裏譜面 ''17'' 曲 ＋ DL ''11'' 曲 ＝ ''28'' 曲
-
-//-[[開発日記>http://taikoblog.namco-ch.net/blog/???]]
+----
 -[[公式サイト>http://vita.taiko-ch.net]]
 -[[ゲーム公式Twitter>https://twitter.com/taiko_Vver]]
 -[[追加コンテンツ>PS Vita1亜洲中文版の収録曲/ダウンロードコンテンツ]]
@@ -12,7 +10,6 @@
 -[[印章本>PS Vita1亜洲中文版の収録曲/印章本]]
 -[[演奏オプション一覧]]
 -[[音色の一覧]]
-//-[[コメント>PS Vita1亜洲中文版の収録曲#comment]]
 ----
 |CENTER:74|CENTER:74|CENTER:74|CENTER:74|CENTER:74|CENTER:74|CENTER:74|c
 |>|>|>|>|>|>|''按流派的歌曲数''(ジャンル名を選択するとそのジャンルに移動します)|h

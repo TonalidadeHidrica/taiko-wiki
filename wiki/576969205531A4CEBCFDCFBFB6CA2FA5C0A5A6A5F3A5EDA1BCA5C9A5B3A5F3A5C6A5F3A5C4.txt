@@ -10,7 +10,7 @@
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの総配信数''(括弧内は現在の配信数)|h
 |BGCOLOR(cyan):''J-POP''|BGCOLOR(orange):''アニメ''|BGCOLOR(silver):''ボーカロイド曲''|BGCOLOR(lime):''バラエティ''|BGCOLOR(gold):''クラシック''|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|
-|''6'' 曲&br;約17.6%|''7'' (5) 曲&br;約20.6%|''4'' (3) 曲&br;約11.8%|''1'' (0) 曲&br;約2.9%|''1'' (0) 曲&br;約2.9%|''10'' (1) 曲&br;約29.4%|''5'' (0) 曲&br;約14.7%|
+|''6'' 曲&br;約17.6%|''7'' (5) 曲&br;約20.6%|''4'' (0) 曲&br;約11.8%|''1'' (0) 曲&br;約2.9%|''1'' (0) 曲&br;約2.9%|''10'' (1) 曲&br;約29.4%|''5'' (0) 曲&br;約14.7%|
 ----
 -背景が灰色(COLOR(#ccc){■})の曲・・・''現在はダウンロードできない楽曲''
 
@@ -28,18 +28,18 @@
 |BGCOLOR(cyan):8|[[''リンダリンダ''>難易度表/おに/リンダリンダ]]|~|162円||
 |BGCOLOR(orange):9|BGCOLOR(#ccc):[[''The Other self''>難易度表/おに/The Other self]]&br;　　SIZE(11){「黒子のバスケ」より}|BGCOLOR(#ccc):2013/12/18|BGCOLOR(#ccc):162円|BGCOLOR(#ccc):2015/11/18まで配信|
 |BGCOLOR(orange):10|[[''勇気りんりん''>難易度表/おに/勇気りんりん]]&br;　　SIZE(11){「それいけ！アンパンマン」より}|2013/12/18|162円||
-|BGCOLOR(silver):11|[[''マトリョシカ''>難易度表/おに/マトリョシカ]]&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|~|162円||
-|~|[[''マトリョシカ(裏)''>難易度表/おに/マトリョシカ(裏譜面)]]&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|~|~||
+|BGCOLOR(silver):11|BGCOLOR(#ccc):[[''マトリョシカ''>難易度表/おに/マトリョシカ]]&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|BGCOLOR(#ccc):2013/12/18|BGCOLOR(#ccc):162円|BGCOLOR(#ccc):2018/12/17まで配信|
+|~|BGCOLOR(#ccc):[[''マトリョシカ(裏)''>難易度表/おに/マトリョシカ(裏譜面)]]&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|~|~|~|
 |BGCOLOR(cyan):12|[[''恋するフォーチュンクッキー''>難易度表/おに/恋するフォーチュンクッキー]]|2014/01/22|162円||
 |BGCOLOR(cyan):13|[[''紅''>難易度表/おに/紅]]|~|162円||
 |BGCOLOR(orange):14|[[''JUST LIVE MORE''>難易度表/おに/JUST LIVE MORE]]&br;　　SIZE(11){「仮面ライダー鎧武」より}|~|162円||
-|BGCOLOR(silver):15|[[''みくみくにしてあげる♪【してやんよ】''>難易度表/おに/みくみくにしてあげる♪【してやんよ】]]&br;　　SIZE(11){ika feat.初音ミク}|~|162円||
-|BGCOLOR(orangered):16|BGCOLOR(#ccc):[[''燎原ノ舞''>難易度表/おに/燎原ノ舞]]|BGCOLOR(#ccc):2014/01/22|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
+|BGCOLOR(silver):15|BGCOLOR(#ccc):[[''みくみくにしてあげる♪【してやんよ】''>難易度表/おに/みくみくにしてあげる♪【してやんよ】]]&br;　　SIZE(11){ika feat.初音ミク}|BGCOLOR(#ccc):2014/01/22|BGCOLOR(#ccc):162円|BGCOLOR(#ccc):2019/01/21まで配信|
+|BGCOLOR(orangered):16|BGCOLOR(#ccc):[[''燎原ノ舞''>難易度表/おに/燎原ノ舞]]|~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
 |BGCOLOR(darkorchid):17|BGCOLOR(#ccc):[[''モンスターハンター4 メドレー''>難易度表/おに/モンスターハンター4 メドレー]]|~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''ブレイブネコシリーズ''」と、&br;フレーム「''モンスターハンター4''」付き&br;2014/09/16まで配信|
 |BGCOLOR(orange):18|BGCOLOR(#ccc):[[''紅蓮の弓矢''>難易度表/おに/紅蓮の弓矢]]&br;　　SIZE(11){「進撃の巨人」より}|BGCOLOR(#ccc):2014/02/19|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
-|BGCOLOR(silver):19|[[''脳漿炸裂ガール''>難易度表/おに/脳漿炸裂ガール]]&br;　　SIZE(11){れるりり feat．初音ミク・GUMI}|2014/02/19|162円||
-|~|[[''脳漿炸裂ガール(裏)''>難易度表/おに/脳漿炸裂ガール(裏譜面)]]&br;　　SIZE(11){れるりり feat．初音ミク・GUMI}|~|~||
-|BGCOLOR(darkorchid):20|BGCOLOR(#ccc):[[''さかさま世界''>難易度表/おに/さかさま世界]]&br;　　SIZE(11){「パズドラＺ」より}|BGCOLOR(#ccc):2014/02/19|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''パズドラZ シロップ''」付き&br;2014/07/31まで配信|
+|BGCOLOR(silver):19|BGCOLOR(#ccc):[[''脳漿炸裂ガール''>難易度表/おに/脳漿炸裂ガール]]&br;　　SIZE(11){れるりり feat．初音ミク・GUMI}|BGCOLOR(#ccc):~|BGCOLOR(#ccc):162円|BGCOLOR(#ccc):配信終了時期不明|
+|~|BGCOLOR(#ccc):[[''脳漿炸裂ガール(裏)''>難易度表/おに/脳漿炸裂ガール(裏譜面)]]&br;　　SIZE(11){れるりり feat．初音ミク・GUMI}|~|~|~|
+|BGCOLOR(darkorchid):20|BGCOLOR(#ccc):[[''さかさま世界''>難易度表/おに/さかさま世界]]&br;　　SIZE(11){「パズドラＺ」より}|BGCOLOR(#ccc):~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''パズドラZ シロップ''」付き&br;2014/07/31まで配信|
 |BGCOLOR(orangered):21|BGCOLOR(#ccc):[[''東京特許キョ許可局局長!!''>難易度表/おに/東京特許キョ許可局局長!!]]|~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
 |BGCOLOR(darkorchid):22|BGCOLOR(#ccc):[[''ファミコンリミックス''>難易度表/おに/ファミコンリミックス]]|BGCOLOR(#ccc):2014/03/19|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/04/18まで配信|
 |BGCOLOR(darkorchid):23|BGCOLOR(#ccc):[[''バルーンファイト（バルーントリップ）''>難易度表/おに/バルーンファイト（バルーントリップ）]]|~|BGCOLOR(#ccc):無料|~|

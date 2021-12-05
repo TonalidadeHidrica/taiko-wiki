@@ -1,7 +1,7 @@
 *「太鼓の達人 Wii Uば〜じょん！」の収録曲 [#title]
 -発売日： 2013 年 11 月 21 日
--デフォルト ''45'' 曲 ＋ 隠し ''25'' 曲 ＋ DL ''34'' （− ''21'' ） 曲 ＝ ''104'' （− ''21'' ） 曲
---裏譜面 ''10''  曲 ＋ DL ''8'' （− ''5'' ） 曲 ＝ ''18'' （− ''5'' ） 曲
+-デフォルト ''45'' 曲 ＋ 隠し ''25'' 曲 ＋ DL ''34'' （− ''22'' ） 曲 ＝ ''104'' （− ''22'' ） 曲
+--裏譜面 ''10''  曲 ＋ DL ''8'' （− ''6'' ） 曲 ＝ ''18'' （− ''6'' ） 曲
 ----
 -[[開発日記>https://web.archive.org/web/20170919160747/http://taikoblog.namco-ch.net/blog/wii_u/]]
 -[[公式サイト>http://wiiu.taiko-ch.net/]]
@@ -60,8 +60,8 @@
 |>|>|>|>|>|>|BGCOLOR(silver):''ボーカロイド&#8482;曲''&aname(vocalo);|
 |BGCOLOR(beige):''DL''|BGCOLOR(beige):''初音ミクの消失 -劇場版-''|BGCOLOR(beige):200-240|BGCOLOR(beige):[[★×5>難易度表/かんたん/初音ミクの消失‐劇場版‐]]|BGCOLOR(beige):[[★×7>難易度表/ふつう/初音ミクの消失‐劇場版‐]]|BGCOLOR(beige):[[★×8>難易度表/むずかしい/初音ミクの消失‐劇場版‐]]&br;SIZE(10){譜面分岐あり}|BGCOLOR(beige):[[★×9>難易度表/おに/初音ミクの消失‐劇場版‐]]|
 |BGCOLOR(beige):~|BGCOLOR(beige):''初音ミクの消失 -劇場版-(裏)''|BGCOLOR(beige):~|BGCOLOR(beige):>|BGCOLOR(beige):>|BGCOLOR(beige):|BGCOLOR(beige):[[''★×10''>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]|
-|''DL''|''脳漿炸裂ガール''&br;　　SIZE(11){れるりり feat.初音ミク・GUMI}|155|[[★×4>難易度表/かんたん/脳漿炸裂ガール]]|[[★×5>難易度表/ふつう/脳漿炸裂ガール]]|[[★×6>難易度表/むずかしい/脳漿炸裂ガール]]|[[★×8>難易度表/おに/脳漿炸裂ガール]]|
-|~|''脳漿炸裂ガール(裏)''&br;　　SIZE(11){れるりり feat.初音ミク・GUMI}|~|>|>||[[''★×9''>難易度表/おに/脳漿炸裂ガール(裏譜面)]]|
+|BGCOLOR(beige):''DL''|BGCOLOR(beige):''脳漿炸裂ガール''&br;　　SIZE(11){れるりり feat.初音ミク・GUMI}|BGCOLOR(beige):155|BGCOLOR(beige):[[★×4>難易度表/かんたん/脳漿炸裂ガール]]|BGCOLOR(beige):[[★×5>難易度表/ふつう/脳漿炸裂ガール]]|BGCOLOR(beige):[[★×6>難易度表/むずかしい/脳漿炸裂ガール]]|BGCOLOR(beige):[[★×8>難易度表/おに/脳漿炸裂ガール]]|
+|BGCOLOR(beige):~|BGCOLOR(beige):''脳漿炸裂ガール(裏)''&br;　　SIZE(11){れるりり feat.初音ミク・GUMI}|BGCOLOR(beige):~|BGCOLOR(beige):>|BGCOLOR(beige):>|BGCOLOR(beige):|BGCOLOR(beige):[[''★×9''>難易度表/おに/脳漿炸裂ガール(裏譜面)]]|
 |BGCOLOR(beige):''DL''|BGCOLOR(beige):''みくみくにしてあげる♪【してやんよ】''&br;　　SIZE(11){ika feat.初音ミク}|BGCOLOR(beige):160|BGCOLOR(beige):[[★×1>難易度表/かんたん/みくみくにしてあげる♪【してやんよ】]]|BGCOLOR(beige):[[★×5>難易度表/ふつう/みくみくにしてあげる♪【してやんよ】]]|BGCOLOR(beige):[[★×5>難易度表/むずかしい/みくみくにしてあげる♪【してやんよ】]]|BGCOLOR(beige):[[★×6>難易度表/おに/みくみくにしてあげる♪【してやんよ】]]|
 |BGCOLOR(beige):''DL''|BGCOLOR(beige):''マトリョシカ''&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|BGCOLOR(beige):205-288※|BGCOLOR(beige):[[★×4>難易度表/かんたん/マトリョシカ]]|BGCOLOR(beige):[[★×6>難易度表/ふつう/マトリョシカ]]|BGCOLOR(beige):[[★×5>難易度表/むずかしい/マトリョシカ]]|BGCOLOR(beige):[[★×7>難易度表/おに/マトリョシカ]]|
 |BGCOLOR(beige):~|BGCOLOR(beige):''マトリョシカ(裏)''&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|BGCOLOR(beige):~|BGCOLOR(beige):>|BGCOLOR(beige):>|BGCOLOR(beige):|BGCOLOR(beige):[[''★×9''>難易度表/おに/マトリョシカ(裏譜面)]]|

@@ -12,6 +12,7 @@
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''789500点''}|~|CENTER:COLOR(#ff3300){2380点}|CENTER:-||
 |CENTER:AC15.1.0|CENTER:3DS2DL|~|~|CENTER:''780470点''|~|CENTER:730点|CENTER:218点||
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''984500点''}|~|CENTER:COLOR(#ff3300){2980点}|CENTER:-||
+|CENTER:AC16.1.0||~|~|CENTER:''990580点''|~|CENTER:3420点|CENTER:-||
 -8分の複合が主体の譜面で、中盤からは16分も出てくる。
 --16分は単色の3連打しかないが、連続して出てくる箇所もある。
 --ただし、8分の複合は4連打までしかない。
@@ -25,6 +26,7 @@
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''782930点''}|~|CENTER:COLOR(#ff3300){2710点}|CENTER:-||
 |CENTER:AC15.1.0||~|~|CENTER:''?????0点''|~|CENTER:850点|CENTER:263点||
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''981030点''}|~|CENTER:COLOR(#ff3300){3410点}|CENTER:-||
+|CENTER:AC16.1.0||~|~|CENTER:''?????0点''|~|CENTER:???0点|CENTER:-||
 -ゴーゴーで譜面が少し変化している。
 -[[オート動画(Wii3, キャプチャ)>http://www.youtube.com/watch?v=1aBxcHBtwe4]]
 ----

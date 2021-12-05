@@ -112,7 +112,7 @@
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Rave Racer|BGCOLOR(grey):2014年11月のドンチャレのお題10個クリア|~|
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Crustacean Donder|BGCOLOR(grey):2014年12月のドンチャレのお題10個クリア|~|
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):( ﾟдﾟ )彡ハイヤー！！！！|BGCOLOR(grey):2015年1月のドンチャレのお題10個クリア|~|
-|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Undercover AgenDon|BGCOLOR(grey):2015年2月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Undercover &#65;genDon|BGCOLOR(grey):2015年2月のドンチャレのお題10個クリア|~|
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Bon voyage！|BGCOLOR(grey):2015年4月のドンチャレのお題10個クリア|BGCOLOR(grey):達成された翌日に貰える|
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):紫電一閃の煌めき|BGCOLOR(grey):2015年5月のドンチャレのお題10個クリア|~|
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):まくら投げドンだー|BGCOLOR(grey):2015年6月のドンチャレのお題10個クリア|~|
