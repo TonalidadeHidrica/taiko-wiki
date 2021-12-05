@@ -31,7 +31,7 @@
 -[[かんたん>難易度表/かんたん/天狗囃子]]
 -[[ふつう>難易度表/ふつう/天狗囃子]]
 -[[むずかしい>難易度表/むずかしい/天狗囃子]]
--[[オート動画>https://www.youtube.com/watch?v=_Hz_VEAlqBA]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=JAiZlEUbQxA&t=4s]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

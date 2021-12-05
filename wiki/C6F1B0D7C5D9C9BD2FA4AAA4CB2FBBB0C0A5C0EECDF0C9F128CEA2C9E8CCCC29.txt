@@ -1,4 +1,5 @@
 *&ruby(みつせがわらんぶ){三瀬川乱舞};(裏譜面) [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -30,7 +31,7 @@
 -[[ふつう>難易度表/ふつう/三瀬川乱舞]]
 -[[むずかしい>難易度表/むずかしい/三瀬川乱舞]]
 -[[おに>難易度表/おに/三瀬川乱舞]]/裏譜面
--[[オート動画>https://youtu.be/v1dT7G_z_4w]]
+-[[プレイ動画(iOS)>https://www.youtube.com/watch?v=nOLwcvMd29s]]
 -[[譜面紹介>http://taiko-ch.net/blog/?p=1815]]
 -[[公式曲紹介>https://www.youtube.com/watch?v=5iuPO9Mb6kA]]
 
