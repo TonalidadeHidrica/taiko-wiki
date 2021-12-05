@@ -33,7 +33,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(XY&Z(むずかしい)-.png,nolink);
+~&attachref(XY&Z(むずかしい)2.png,nolink);
 
 ~見た目重視
-~&attachref(xyz.png,nolink);
+~&attachref(xyz_hard.png,nolink);

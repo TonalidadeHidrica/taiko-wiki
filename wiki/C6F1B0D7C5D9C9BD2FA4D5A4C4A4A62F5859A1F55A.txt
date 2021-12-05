@@ -5,7 +5,7 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.7.3''|CENTER:3DS3|CENTER:★×2|CENTER:''61''|CENTER:''417890点''|CENTER:＋連打|CENTER:1890点|CENTER:1320点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''977740点''}|~|CENTER:COLOR(#ff3300){13040点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:???0点|CENTER:??0点|
+||CENTER:iOS|~|~|CENTER:''400250点''|~|CENTER:1890点|CENTER:810点|
 |CENTER:AC16.1.0||~|~|CENTER:''??????0点''|~|CENTER:16110点|CENTER:-|
 -BPMは''254''。
 --ただしHS0.5がかかっており、見かけ上のBPMは127。
@@ -31,5 +31,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-見た目(実際はBPM254,HS0.5)&br;風船、くすだまの長さは暫定
-&ref(XY&Z_nv.png,nolink);
+見た目(実際はBPM254,HS0.5)
+&ref(XY&Z_normal.png,nolink);

@@ -1,12 +1,16 @@
 *Honey Heartbeat 〜10 Stars Mix〜 [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.4.0''||★×7|''457''|''818760点''|＋連打|500点|125点|
-|COLOR(#f30):真打||~|~|COLOR(#f30):''969570点''|~|COLOR(#f30):1890点|-|
-||CENTER:COLOR(blue):PS Vita MS|~|CENTER:''462''|CENTER:''815810点''|~|CENTER:480点|CENTER:125点|
-|CENTER:COLOR(#f30):真打||~|~|CENTER:COLOR(#f30):''???????点''|~|CENTER:COLOR(#f30):???点|-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.4.0''|Wii U2&br;3DS2DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|''457''|''818760点''|＋連打|500点|125点|
+|COLOR(#f30):真打||~|~|~|COLOR(#f30):''969570点''|~|COLOR(#f30):1890点|-|
+||COLOR(blue):PS Vita MS|~|~|''462''|''815810点''|~|480点|125点|
+|COLOR(#f30):真打||~|~|~|COLOR(#f30):''???????点''|~|COLOR(#f30):???点|-|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|''457''|''?????0点''|~|??0点|-|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは142〜284。
 --BPM284地帯はHS0.5がかかっている。
 -連打秒数目安・・・約2.077秒×2−約1.672秒−''約1.039秒''−''1.25秒''−SIZE(16){''1.25秒''}−SIZE(16){''1.355秒''}−約2.289秒−約2.711秒−''約3.151秒''：合計約18.872秒
@@ -36,6 +40,7 @@
 --ドラムトラック提供は、''増渕裕二''。
 -譜面作成は、''くぼけん''。
 
+----
 -[[かんたん>難易度表/かんたん/Honey Heartbeat 〜10 Stars Mix〜]]
 -[[ふつう>難易度表/ふつう/Honey Heartbeat 〜10 Stars Mix〜]]
 -[[おに>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]/[[裏譜面>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜(裏譜面)]]
