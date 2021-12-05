@@ -27,3 +27,5 @@
 
 ***譜面 [#score]
 &attachref(幕末維新譚むずかしい.png,nolink);
+~半速Ver.
+&attachref(幕末難_h.png,nolink);

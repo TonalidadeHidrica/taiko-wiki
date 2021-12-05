@@ -25,3 +25,5 @@
 
 ***譜面 [#score]
 ~&attachref(再起動.png,nolink);
+~BPM固定版
+~&attachref(再起動_hf.png,nolink);

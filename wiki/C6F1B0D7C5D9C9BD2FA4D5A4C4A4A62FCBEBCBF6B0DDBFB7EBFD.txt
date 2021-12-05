@@ -26,3 +26,5 @@
 
 ***ÉèÌÌ [#score]
 &attachref(ËëËö°İ¿·ëı¤Õ¤Ä¤¦.png,nolink);
+~È¾Â®Ver.
+&attachref(ËëËöÉá_h.png,nolink);

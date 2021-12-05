@@ -34,3 +34,5 @@
 
 ***譜面 [#score]
 ~&attachref(裏ぴゅあ.png,nolink);
+~BPMを140と見た場合
+~&attachref(笑3半う.png,nolink);
