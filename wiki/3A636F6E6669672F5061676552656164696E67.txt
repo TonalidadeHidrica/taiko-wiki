@@ -1186,6 +1186,7 @@
 -[[コメント/難易度表/おに/WiSH VOYAGE]] コメント/ナンイドオモテ/オニ/WiSH VOYAGE
 -[[コメント/難易度表/おに/Winding Road]] コメント/ナンイドオモテ/オニ/Winding Road
 -[[コメント/難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]] コメント/ナンイドオモテ/オニ/Wings of Tomorrow (Tatsujin Mix)
+-[[コメント/難易度表/おに/Wish upon a shooting star]] コメント/ナンイドオモテ/オニ/Wish upon a shooting star
 -[[コメント/難易度表/おに/X-DAY2000]] コメント/ナンイドオモテ/オニ/X-DAY2000
 -[[コメント/難易度表/おに/XEVIOUS]] コメント/ナンイドオモテ/オニ/XEVIOUS
 -[[コメント/難易度表/おに/XY＆Z]] コメント/ナンイドオモテ/オニ/XY＆Z
@@ -8926,6 +8927,7 @@
 -[[難易度表/おに/WiSH VOYAGE]] ナンイドオモテ/オニ/WiSH VOYAGE
 -[[難易度表/おに/Winding Road]] ナンイドオモテ/オニ/Winding Road
 -[[難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]] ナンイドオモテ/オニ/Wings of Tomorrow (Tatsujin Mix)
+-[[難易度表/おに/Wish upon a shooting star]] ナンイドオモテ/オニ/Wish upon a shooting star
 -[[難易度表/おに/X-DAY2000]] ナンイドオモテ/オニ/X-DAY2000
 -[[難易度表/おに/XEVIOUS]] ナンイドオモテ/オニ/XEVIOUS
 -[[難易度表/おに/XY＆Z]] ナンイドオモテ/オニ/XY＆Z
@@ -11106,6 +11108,7 @@
 -[[難易度表/かんたん/WiSH VOYAGE]] ナンイドオモテ/カンタン/WiSH VOYAGE
 -[[難易度表/かんたん/Winding Road]] ナンイドオモテ/カンタン/Winding Road
 -[[難易度表/かんたん/Wings of Tomorrow (Tatsujin Mix)]] ナンイドオモテ/カンタン/Wings of Tomorrow (Tatsujin Mix)
+-[[難易度表/かんたん/Wish upon a shooting star]] ナンイドオモテ/カンタン/Wish upon a shooting star
 -[[難易度表/かんたん/X-DAY2000]] ナンイドオモテ/カンタン/X-DAY2000
 -[[難易度表/かんたん/XEVIOUS]] ナンイドオモテ/カンタン/XEVIOUS
 -[[難易度表/かんたん/XY＆Z]] ナンイドオモテ/カンタン/XY＆Z
@@ -13470,6 +13473,7 @@
 -[[難易度表/ふつう/WiSH VOYAGE]] ナンイドオモテ/フツウ/WiSH VOYAGE
 -[[難易度表/ふつう/Winding Road]] ナンイドオモテ/フツウ/Winding Road
 -[[難易度表/ふつう/Wings of Tomorrow (Tatsujin Mix)]] ナンイドオモテ/フツウ/Wings of Tomorrow (Tatsujin Mix)
+-[[難易度表/ふつう/Wish upon a shooting star]] ナンイドオモテ/フツウ/Wish upon a shooting star
 -[[難易度表/ふつう/X-DAY2000]] ナンイドオモテ/フツウ/X-DAY2000
 -[[難易度表/ふつう/XEVIOUS]] ナンイドオモテ/フツウ/XEVIOUS
 -[[難易度表/ふつう/XY＆Z]] ナンイドオモテ/フツウ/XY＆Z
@@ -15518,6 +15522,7 @@
 -[[難易度表/むずかしい/WiSH VOYAGE]] ナンイドオモテ/ムズカシイ/WiSH VOYAGE
 -[[難易度表/むずかしい/Winding Road]] ナンイドオモテ/ムズカシイ/Winding Road
 -[[難易度表/むずかしい/Wings of Tomorrow (Tatsujin Mix)]] ナンイドオモテ/ムズカシイ/Wings of Tomorrow (Tatsujin Mix)
+-[[難易度表/むずかしい/Wish upon a shooting star]] ナンイドオモテ/ムズカシイ/Wish upon a shooting star
 -[[難易度表/むずかしい/X-DAY2000]] ナンイドオモテ/ムズカシイ/X-DAY2000
 -[[難易度表/むずかしい/XEVIOUS]] ナンイドオモテ/ムズカシイ/XEVIOUS
 -[[難易度表/むずかしい/XY＆Z]] ナンイドオモテ/ムズカシイ/XY＆Z

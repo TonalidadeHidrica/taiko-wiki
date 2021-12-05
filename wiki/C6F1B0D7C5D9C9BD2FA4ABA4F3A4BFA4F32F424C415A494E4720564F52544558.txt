@@ -1,10 +1,11 @@
 *BLAZING VORTEX [#title]
-***詳細・攻略 [#more]
--PS2のドライビングアクション「''CRITICAL VELOCITY''」より。
--詳細は以下の通り：
+-PS2のドライビングアクション「''[[&ruby(クリティカル){CRITICAL}; &ruby(ベロシティ){VELOCITY};>ゲーム別収録曲#crivelo]]''」より。
+***詳細 [#detail]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:AC15.7.0SP|CENTER:''PS Vita1''&br;Wii U3DL|CENTER:★×5|CENTER:''275''|CENTER:''369740点''|CENTER:＋連打|CENTER:410点|CENTER:105点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''991020点''}|~|CENTER:COLOR(#ff3300){3310点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは173。
 -黄色連打がかなり多い連打曲である。
 -全体的に裏拍配置が多く、リズムが取りづらい。
@@ -19,7 +20,8 @@
 -サウンドトラックは長らく販売されていなかったが、現在では[[''NAMCO SOUNDS''>http://itunes.apple.com/jp/album/crtitcal-velocity-original/id527538112]]からiTunesで配信中。
 -新筐体ホワイトVer.では、ドンポイントがカンストした時にこの楽曲が解禁される。
 -譜面作成は、''マツモト''。
-
+-曲IDは、''blzvtx''。
+----
 -[[ふつう>難易度表/ふつう/BLAZING VORTEX]]
 -[[むずかしい>難易度表/むずかしい/BLAZING VORTEX]]
 -[[おに>難易度表/おに/BLAZING VORTEX]]/[[裏譜面>難易度表/おに/BLAZING VORTEX(裏譜面)]]

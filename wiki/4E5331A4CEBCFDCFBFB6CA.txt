@@ -203,7 +203,7 @@
 |>|>|>|>|>|>|>|BGCOLOR(darkorchid):''ゲームミュージック''&aname(game);|
 //|''DL''|''Saika''&br;　　SIZE(11){NeLiME 「DEEMO」より}|128|[[★×3>難易度表/かんたん/Saika]]|[[★×4>難易度表/ふつう/Saika]]|[[★×6>難易度表/むずかしい/Saika]]|[[★×8>難易度表/おに/Saika]]|-|
 //|''DL''|''Leviathan''&br;　　SIZE(11){NeLiME 「DEEMO」より}|88?-185|[[★×4>難易度表/かんたん/Leviathan]]|[[★×7>難易度表/ふつう/Leviathan]]|[[★×7>難易度表/むずかしい/Leviathan]]|[[★×9>難易度表/おに/Leviathan]]|-|
-//|''DL''|''Wish upon a shooting star''&br;　　SIZE(11){SUi 「DEEMO」より}||[[★×>難易度表/かんたん/Wish upon a shooting star]]|[[★×>難易度表/ふつう/Wish upon a shooting star]]|[[★×>難易度表/むずかしい/Wish upon a shooting star]]|[[★×>難易度表/おに/Wish upon a shooting star]]|-|
+//|''DL''|''Wish upon a shooting star''&br;　　SIZE(11){SUi 「DEEMO」より}||[[★×4>難易度表/かんたん/Wish upon a shooting star]]|[[★×5>難易度表/ふつう/Wish upon a shooting star]]|[[★×6>難易度表/むずかしい/Wish upon a shooting star]]|[[★×9>難易度表/おに/Wish upon a shooting star]]|-|
 //|''DL''|''MagiCatz''&br;　　SIZE(11){Sakuzyo 「DEEMO」より}||[[★×>難易度表/かんたん/MagiCatz]]|[[★×>難易度表/ふつう/MagiCatz]]|[[★×>難易度表/むずかしい/MagiCatz]]|[[★×>難易度表/おに/MagiCatz]]|-|
 //|''DL''|''ANiMA''&br;　　SIZE(11){xi 「DEEMO」より}||[[★×>難易度表/かんたん/ANiMA]]|[[★×>難易度表/ふつう/ANiMA]]|[[★×>難易度表/むずかしい/ANiMA]]|[[★×>難易度表/おに/ANiMA]]|-|
 |''DL''|''JOIN THE PAC -太鼓の達人 Ver.-''&br;　　SIZE(11){パックマン40周年公式テーマ楽曲}|113.6-204.67※|[[★×3>難易度表/かんたん/JOIN THE PAC -太鼓の達人 Ver.-]]|[[★×3>難易度表/ふつう/JOIN THE PAC -太鼓の達人 Ver.-]]|[[★×6>難易度表/むずかしい/JOIN THE PAC -太鼓の達人 Ver.-]]|[[★×9>難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|-|

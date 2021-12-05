@@ -45,11 +45,13 @@
 --Wii U1:2014年9月16日(火)
 --iOS(パック配信):2018年3月26日(月)
 ---2020年6月1日(月)から楽曲取り放題でDL可能。
+
 ----
 -[[かんたん>難易度表/かんたん/D's Adventure Note]]
 -[[ふつう>難易度表/ふつう/D's Adventure Note]]
 -[[むずかしい>難易度表/むずかしい/D's Adventure Note]]
--[[オート動画(PS4)>https://youtu.be/RWJr_iH6xPQ]]
+-[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=Fft-ELcfMmM&t=13s]]
+-[[オート動画(iOS)>https://youtu.be/pRbR14_A9TU]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[コメント時の注意>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

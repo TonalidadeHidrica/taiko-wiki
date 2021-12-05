@@ -1,0 +1,27 @@
+*Wish upon a shooting star [#title]
+-Rayark社のスマートフォン音楽ゲームアプリ「''DEEMO''」の楽曲のひとつ。
+
+***詳細 [#more]
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|h
+|''AC16.1.5''|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|★×9|''618''|''1002560点''|1620点|
+
+***譜面構成・攻略 [#capture]
+-BPMは128。
+-''精度曲''のひとつ。
+
+***その他 [#other]
+-アーティストは、''SUi''。
+
+----
+-[[かんたん>難易度表/かんたん/Wish upon a shooting star]]
+-[[ふつう>難易度表/ふつう/Wish upon a shooting star]]
+-[[むずかしい>難易度表/むずかしい/Wish upon a shooting star]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=bvmGVKC0tzY&feature=youtu.be&t=8s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~1個目の風船は3打。
+~&attachref(Wish upon a shooting star.png,nolink);
