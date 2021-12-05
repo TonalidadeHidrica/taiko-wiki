@@ -49,7 +49,7 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(dance_pompoko_yellow_bar_fix.png,nolink);
+~&attachref(odoru_m.png,nolink);
 
 ~AC5¡¢CS2ÉèÌÌ(2PÂ¦)
 ~&attachref(odoru.png,nolink);

@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(marumori.png,nolink);
+&attachref(marumo_m.png,nolink);

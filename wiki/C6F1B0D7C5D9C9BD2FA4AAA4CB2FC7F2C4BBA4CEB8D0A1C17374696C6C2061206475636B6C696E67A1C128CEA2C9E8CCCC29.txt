@@ -34,12 +34,13 @@
 -曲IDは、''excswn''。
 -Wii U1では、2014年9月16日をもって新規DLができなくなった。
 -新筐体におけるフルコンボ称号は実装されていない。
+
 ----
 -[[かんたん>難易度表/かんたん/白鳥の湖〜still a duckling〜]]/[[裏譜面>難易度表/かんたん/白鳥の湖〜still a duckling〜(裏譜面)]]
 -[[ふつう>難易度表/ふつう/白鳥の湖〜still a duckling〜]]/[[裏譜面>難易度表/ふつう/白鳥の湖〜still a duckling〜(裏譜面)]]
 -[[むずかしい>難易度表/むずかしい/白鳥の湖〜still a duckling〜]]/[[裏譜面>難易度表/むずかしい/白鳥の湖〜still a duckling〜(裏譜面)]]
 -[[おに>難易度表/おに/白鳥の湖〜still a duckling〜]]/裏譜面
--[[オート動画>https://www.youtube.com/watch?v=Ih5efEOPVT8]]
+-[[オート動画(Wii4)>https://www.youtube.com/watch?v=_qU8sK73hhQ&t=3s]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

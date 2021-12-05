@@ -47,5 +47,4 @@ COLOR(blue){¡û}COLOR(red){¡ü/¡ü}COLOR(blue){¡û/¡û}COLOR(red){¡ü/¡ü}COLOR(blue){¡
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-//¥é¥¹¥È¤Î¾®ÀáÀş¤Ï¥ì¥Ã¥É¤ÎÆ°²è¤è¤ê³ÎÇ§
-&attachref(¥¸¥ó¥°¥ë¥Ù¥ëÂè765ÈÖ_¾®ÀáÀş½¤Àµ.png,nolink);
+&attachref(santa_m.png,nolink);

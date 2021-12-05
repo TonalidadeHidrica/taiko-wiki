@@ -39,4 +39,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ[#fumen]
-&attachref(yuuki100¾®ÀáÀş½¤Àµ.png,nolink);
+&attachref(yuuki_m.png,nolink);
