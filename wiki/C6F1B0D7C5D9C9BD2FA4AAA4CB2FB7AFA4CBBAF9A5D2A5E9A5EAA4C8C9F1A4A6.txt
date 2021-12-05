@@ -31,4 +31,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(kimsak.png,nolink);
+&attachref(kimsak_m.png,nolink);

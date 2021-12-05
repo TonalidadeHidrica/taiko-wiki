@@ -36,5 +36,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~30¡Á79¾®Àá¤ÏHS1.05¡©
-&ref(exChainF.png,nolink);
+&ref(chn96b_x.png,nolink);

@@ -31,4 +31,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(exChain.png,nolink);
+&attachref(chn96n_x.png,nolink);

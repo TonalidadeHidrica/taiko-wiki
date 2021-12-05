@@ -52,4 +52,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+//間違いを見つけたときに修正がしづらくなってしまうのでreverse.exeでtxtに戻せない譜面画像に変えるのはやめてください
 ~&attachref(medl2z_m2.png,nolink);

@@ -37,5 +37,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~30小節からはHS1ではなくHS1.05？
-&ref(ChainF.png,nolink);
+&ref(chn96b_m.png,nolink);

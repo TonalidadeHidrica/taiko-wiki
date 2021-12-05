@@ -37,4 +37,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(arigatf.png,nolink);
+&attachref(arigat_m.png,nolink);
