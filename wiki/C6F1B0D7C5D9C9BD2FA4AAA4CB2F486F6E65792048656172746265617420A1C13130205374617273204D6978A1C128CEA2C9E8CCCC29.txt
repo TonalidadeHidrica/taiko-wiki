@@ -1,4 +1,5 @@
 *Honey Heartbeat 〜10 Stars Mix〜(裏譜面) [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -8,7 +9,7 @@
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは約142〜約284。
+-BPMは約142〜284。
 -連打秒数目安・・・約2.077秒×2−SIZE(16){''約1.039秒''}−SIZE(16){''1.25秒''}×3−''約1.461秒''：合計約10.405秒
 --ゴーゴータイムに大連打4本を含む5本の連打があるため連打による点が稼ぎやすい。
 -ゴーゴータイムでは[[表譜面>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]と同じくBPMが2倍になるが、第2ゴーゴー後半とラスト以外はHS0.5がかかっているため見た目の速度は変わらない。
@@ -51,7 +52,8 @@
 -[[ふつう>難易度表/ふつう/Honey Heartbeat 〜10 Stars Mix〜]]
 -[[むずかしい>難易度表/むずかしい/Honey Heartbeat 〜10 Stars Mix〜]]
 -[[おに>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]/裏譜面
--[[オート動画(Wii U2)>http://www.youtube.com/watch?v=r-AZGFfaQrk]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=kdiQGIs4tHo&t=11s]]
+-[[オート動画(Wii U2)>https://www.youtube.com/watch?v=r-AZGFfaQrk]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

@@ -25,4 +25,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(BASARA.png,nolink);
+25小節のHSは''1.22''→''1''。
+&attachref(basara_m.png,nolink);
