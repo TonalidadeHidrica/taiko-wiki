@@ -149,8 +149,6 @@
 |''waitin' for u''|180|[[★×5>難易度表/かんたん/waitin' for u]]|[[★×6>難易度表/ふつう/waitin' for u]]|[[★×6>難易度表/むずかしい/waitin' for u]]|[[★×10>難易度表/おに/waitin' for u]]|-|
 |''Dogbite''|195|[[★×4>難易度表/かんたん/Dogbite]]|[[★×6>難易度表/ふつう/Dogbite]]|[[★×7>難易度表/むずかしい/Dogbite]]|[[★×10>難易度表/おに/Dogbite]]|-|
 |''Parousia''|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|-|
-|''Leviathan''|?-185|[[★×4>難易度表/かんたん/Leviathan]]|[[★×7>難易度表/ふつう/Leviathan]]|[[★×7>難易度表/むずかしい/Leviathan]]|[[★×9>難易度表/おに/Leviathan]]|-|
-|''Wish upon a shooting star''|128|[[★×4>難易度表/かんたん/Wish upon a shooting star]]|[[★×5>難易度表/ふつう/Wish upon a shooting star]]|[[★×6>難易度表/むずかしい/Wish upon a shooting star]]|[[★×9>難易度表/おに/Wish upon a shooting star]]|-|
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |>|>|>|>|>|>|BGCOLOR(orangered):''ナムコオリジナル''&aname(namco);|
 |''Asteroid''|144-288|[[★×5>難易度表/かんたん/Asteroid]]|[[★×7>難易度表/ふつう/Asteroid]]|[[★×8>難易度表/むずかしい/Asteroid]]|[[★×9>難易度表/おに/Asteroid]]|-|

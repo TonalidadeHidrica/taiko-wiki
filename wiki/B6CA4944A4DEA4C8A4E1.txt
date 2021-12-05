@@ -483,6 +483,10 @@
 |deka|[[特捜戦隊デカレンジャー>難易度表/おに/特捜戦隊デカレンジャー]]||
 |deka2|[[ミッドナイト デカレンジャー>難易度表/おに/ミッドナイト　デカレンジャー]]||
 |dem31k|[[Saika>難易度表/おに/Saika]]|DEEMO|
+|dema2m|[[ANiMA>難易度表/おに/ANiMA]]|~|
+|demlev|[[Leviathan>難易度表/おに/Leviathan]]|~|
+|demmag|[[MagiCatz>難易度表/おに/MagiCatz]]|~|
+|demwis|[[Wish upon a shooting star>難易度表/おに/Wish upon a shooting star]]|~|
 |den|[[伝説の祭り>難易度表/おに/伝説の祭り]]||
 |deno|[[Climax Jump>難易度表/おに/Climax Jump]]|仮面ライダー電王|
 |densfz|[[電車で電車でOPA!OPA!OPA! -GMT mashup->難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|電車でGO!|
@@ -884,6 +888,7 @@
 |imersn|[[Reason!!>難易度表/おに/Reason!!]]||
 |imibla|[[IMITATION BLACK>難易度表/おに/IMITATION BLACK]]||
 |imm39|[[Thank You!>難易度表/おに/Thank You!]]||
+|immbon|[[BORN ON DREAM! 〜HANABI☆NIGHT〜>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]||
 |immbra|[[Brand New Theater!>難易度表/おに/Brand New Theater!]]||
 |imrdiv|[[Dive to Blue>難易度表/おに/Dive to Blue]]|アイマリン|
 |imrmm|[[Marine Mirage>難易度表/おに/Marine Mirage]]|~|
@@ -1190,6 +1195,7 @@
 |madmag|[[コネクト>難易度表/おに/コネクト]]|魔法少女まどか☆マギカ|
 |magdrm|[[The Magician's Dream>難易度表/おに/The Magician's Dream]]||
 |maglit|[[マジカル・リトル・スペースシップ>難易度表/おに/マジカル・リトル・スペースシップ]]|''mag''ical ''lit''tle spaceship|
+|magrec|[[ごまかし>難易度表/おに/ごまかし]]|マギアレコード|
 |mahjn|[[魔方陣 -サモン･デルタ->難易度表/おに/魔方陣 -サモン･デルタ-]]||
 |mahosk|[[魔法式逃走奇譚☆ミ>難易度表/おに/魔法式逃走奇譚☆ミ]]||
 |mahou|[[魔法をかけて！>難易度表/おに/魔法をかけて！]]|旧譜面(新譜面はimsmah)|

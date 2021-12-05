@@ -1,0 +1,28 @@
+*ANiMA [#title]
+-Rayark社のスマートフォン音楽ゲームアプリ「''DEEMO''」の楽曲のひとつ。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''NS1DL''|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|★×10|''839''|''1211820点''|＋連打|380点|90点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1000900点''}|~|COLOR(#ff3300){1050点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは183.5。
+
+***その他 [#other]
+-アーティストは、[[''xi''>参加アーティスト一覧/xi]]。
+-曲IDは、''dema2m''。
+
+----
+-[[かんたん>難易度表/かんたん/ANiMA]]
+-[[ふつう>難易度表/ふつう/ANiMA]]
+-[[むずかしい>難易度表/むずかしい/ANiMA]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=MI-ETE-vi-Q]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~HSは1・1.28のみ。
+~&attachref(dema2m_m.png,nolink);

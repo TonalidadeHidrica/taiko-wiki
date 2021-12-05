@@ -40,4 +40,4 @@
 ~BPMは表譜面の譜面画像より引用&br;
 ~HS変化は暫定&br;
 
-~&attachref(雲無い.png,nolink);
+~&attachref(DED28F7C-CCE5-411F-94F0-E08B5A9CF029_1.png,nolink);
