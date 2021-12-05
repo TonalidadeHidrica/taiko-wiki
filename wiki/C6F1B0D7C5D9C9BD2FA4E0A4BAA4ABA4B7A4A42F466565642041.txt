@@ -1,11 +1,13 @@
 *Feed A [#title]
-***詳細・攻略 [#more]
 -TVアニメ「''GOD EATER''」のOP。
--詳細は以下の通り：
+
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.6.5''|CENTER:PS Vita1DL|CENTER:★×7|CENTER:''239''|CENTER:''824800点''|CENTER:＋連打|CENTER:920点|CENTER:278点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''980290点''}|~|CENTER:COLOR(#ff3300){3370点}|CENTER:-|
 ||CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|CENTER:850点|CENTER:220点|
+
+***譜面構成・攻略 [#capture]
 -BPMは約262。
 -むずかしい★×7の中では[[My Soul,Your Beats!>難易度表/むずかしい/My Soul,Your Beats!]]に次いで2番目にコンボ数が少ない。
 --そのため、音符1個あたりの得点が高い。高得点を狙うなら、可をなるべく減らそう。
@@ -23,9 +25,9 @@
 -リズム難譜面なので全良難易度は高めだが、連打が多いので天井点突破は比較的楽な方である。
 
 ***その他 [#other]
--アーティストは、''OLDCODEX''。
---作曲は、Ta_2。編曲は、小山寿。作詞は、YORKE.。
--曲IDは、''godea4''
+-楽曲情報は[[おに譜面>難易度表/おに/Feed A]]を参照。
+
+----
 -[[かんたん>難易度表/かんたん/Feed A]]
 -[[ふつう>難易度表/ふつう/Feed A]]
 -[[おに>難易度表/おに/Feed A]]

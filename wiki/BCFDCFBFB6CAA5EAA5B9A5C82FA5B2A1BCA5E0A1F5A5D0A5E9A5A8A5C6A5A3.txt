@@ -1,6 +1,6 @@
 *収録曲リスト/ゲーム&バラエティ [#title]
 #contents
-背景が灰色の譜面は難易度が新基準でないもの。
+//背景が灰色の譜面は難易度が新基準でないもの。
 **あ〜わ [#awa]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h

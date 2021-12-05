@@ -18,6 +18,8 @@
 -アーティストは、''Gackt''。
 --作詞は、Shoko Fujibayashi。作曲は、Ryo。編曲は、Kotaro Nakagawa・Ryo。
 -曲IDは、''decade''。
+-AC13では、「''パパ・ママサポート！''」対応している。
+--仮面ライダーの曲が「''パパ・ママサポート！''」に対応したのは、この曲が初めて。
 ----
 -[[ふつう>難易度表/ふつう/Journey through the Decade]]
 -[[むずかしい>難易度表/むずかしい/Journey through the Decade]]

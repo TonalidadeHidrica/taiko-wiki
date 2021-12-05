@@ -1,11 +1,13 @@
 *Feed A [#title]
-***詳細・攻略 [#more]
 -TVアニメ「''GOD EATER''」のOP。
--詳細は以下の通り：
+
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.6.5''|CENTER:PS Vita1DL|CENTER:★×6|CENTER:''129''|CENTER:''628700点''|CENTER:＋連打|CENTER:1220点|CENTER:523点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''983220点''}|~|CENTER:COLOR(#ff3300){5930点}|CENTER:-|
 ||CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|CENTER:1190点|CENTER:350点|
+
+***譜面構成・攻略 [#capture]
 -BPMは約262。
 --速度がかなり速いが、BPM262地帯に低速HSはかかっていない。
 -ふつう★×6の中では[[自力本願レボリューション>難易度表/ふつう/自力本願レボリューション]]、[[DIMENSIONS>難易度表/ふつう/DIMENSIONS]]に次いで3番目にコンボ数が少ない。
@@ -21,10 +23,9 @@
 -リズム難譜面なので全良難易度は高めだが、連打が多いので天井点突破は比較的楽な方である。
 
 ***その他 [#other]
--アーティストは、''OLDCODEX''。
---作曲は、Ta_2。編曲は、小山寿。作詞は、YORKE.。
--曲IDは、''godea4''
+-楽曲情報は[[おに譜面>難易度表/おに/Feed A]]を参照。
 
+----
 -[[かんたん>難易度表/かんたん/Feed A]]
 -[[むずかしい>難易度表/むずかしい/Feed A]]
 -[[おに>難易度表/おに/Feed A]]

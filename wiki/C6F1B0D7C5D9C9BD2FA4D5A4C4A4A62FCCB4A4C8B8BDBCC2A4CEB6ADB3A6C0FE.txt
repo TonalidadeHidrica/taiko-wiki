@@ -6,6 +6,7 @@
 |''AC15.8.0SP''|PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''265''|''638850点''|＋連打|710点|198点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''990820点''}|~|COLOR(#ff3300){3320点}|-|
 |AC16.1.0||~|~|~|''993900点''|~|3740点|-|
+||iOS&br;AR|~|~|~|''627020点''|~|650点|160点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは155。
@@ -29,5 +30,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-黄色連打は下の画像より48分音符1つ分短い
-&attachref(kyokai_n.png,nolink);
+&attachref(kyokai_normal.png,nolink);
