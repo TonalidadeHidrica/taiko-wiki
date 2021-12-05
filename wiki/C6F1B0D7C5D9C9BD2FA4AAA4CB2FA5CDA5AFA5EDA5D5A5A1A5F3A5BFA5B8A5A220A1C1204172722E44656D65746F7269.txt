@@ -58,4 +58,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(thncrd_m.png,nolink);
+&attachref(necro5.png,nolink);
