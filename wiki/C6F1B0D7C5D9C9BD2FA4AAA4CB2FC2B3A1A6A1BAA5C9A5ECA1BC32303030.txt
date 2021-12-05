@@ -51,4 +51,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~よくでる15300のBPMは暫定です。
 ~&attachref(明日待ってるから、今日は休みなさい.png,nolink);

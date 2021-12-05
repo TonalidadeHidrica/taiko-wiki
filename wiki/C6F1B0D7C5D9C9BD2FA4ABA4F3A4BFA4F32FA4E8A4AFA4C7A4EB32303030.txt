@@ -10,6 +10,7 @@
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''380520点''}|~|CENTER:COLOR(#ff3300){1510点}|CENTER:-||
 |CENTER:AC15.35SP|CENTER:Wii U3DL|~|~|CENTER:''378920点''|~|CENTER:450点|CENTER:143点||
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''997920点''}|~|CENTER:COLOR(#ff3300){3960点}|CENTER:-||
+|AC16.1.0||~|~|''999920点''|~|4310点|-||
 -BPMは184〜190。
 -太鼓の達人収録曲では数少ない3拍子の曲である。
 -4分が主体の譜面で、8分も数がかなり多い。

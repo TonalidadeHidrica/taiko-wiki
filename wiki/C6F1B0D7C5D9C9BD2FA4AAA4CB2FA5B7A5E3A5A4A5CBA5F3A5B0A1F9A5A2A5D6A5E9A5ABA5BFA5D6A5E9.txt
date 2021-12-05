@@ -34,6 +34,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
--32分ごとに減速している（目視確認）
-
+~iOS、AC16譜面、疑似32分を除外
+~AC15は32分音符を48分＋HS・BPM変化で処理していると思われる。
 &ref(abura_m.png,nolink);

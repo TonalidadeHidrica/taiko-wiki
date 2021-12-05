@@ -15,7 +15,7 @@
 --ただし、後者は直前の50小節目からCOLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}…と繋がっているため気を付けたい。
 -ラストの83小節目にやや叩きづらい長複合がある。フルコンボ狙いの際は注意。
 --COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}/COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(blue){●}COLOR(red){●}と区切ることができる。
----COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}/COLOR(blue){●}COLOR(blue){●}COLOR(red){●}/COLOR(blue){●}COLOR(blue){●}COLOR(red){●}/COLOR(blue){●}COLOR(blue){●}COLOR(red){●}と区切るのもよい。
+---COLOR(blue){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(blue){●}COLOR(red){●}と区切るのもよい。
 -序盤(4小節目)・中盤(36小節目)・終盤(84小節目)の3箇所にそれぞれ、[[ねがいごと☆ぱずる>難易度表/おに/ねがいごと☆ぱずる]]や[[バイオレンストリガー>難易度表/おに/バイオレンストリガー]]で登場するものに類似した配置がある(あちらは24分＋12分だが、こちらは''32分＋付点16分'')。
 --精度狙いでなければ逆餡蜜で16分処理しても構わないが、全良狙いの際は注意。
 -平均密度は''約7.18打/秒''と、★×9ではやや高め。
