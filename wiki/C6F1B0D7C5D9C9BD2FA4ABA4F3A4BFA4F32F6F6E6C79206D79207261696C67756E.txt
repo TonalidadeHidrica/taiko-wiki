@@ -5,8 +5,8 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |AC15.11.0|CENTER:''PS Vita1''&br;Wii U3DL&br;PS4 1DL|CENTER:★×3|CENTER:''93''|CENTER:''326540点''|CENTER:＋連打|CENTER:1030点|CENTER:630点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''988860点''}|~|CENTER:COLOR(#ff3300){9770点}|CENTER:-|
-|AC16.1.0||~|~|''?????0点''|~|???0点|-|
 ||iOS&br;AR|~|~|''?????0点''|~|???点|???点|
+|AC16.1.0||~|~|''995580点''|~|10660点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは143。

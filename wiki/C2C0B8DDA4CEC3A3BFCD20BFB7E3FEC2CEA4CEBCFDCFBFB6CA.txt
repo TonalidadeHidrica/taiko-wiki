@@ -602,7 +602,7 @@
 |||''ワンダーモモーイ''|175※|[[★×4>難易度表/かんたん/ワンダーモモーイ]]|[[★×5>難易度表/ふつう/ワンダーモモーイ]]|[[★×6>難易度表/むずかしい/ワンダーモモーイ]]|[[★×7>難易度表/おに/ワンダーモモーイ]]&br;SIZE(10){譜面分岐}|-|
 |||''Doom Noiz''&br;　　SIZE(11){「ギャラガレギオンズ」より}|160※|[[★×5>難易度表/かんたん/Doom Noiz]]|[[★×6>難易度表/ふつう/Doom Noiz]]|[[★×8>難易度表/むずかしい/Doom Noiz]]|[[★×10>難易度表/おに/Doom Noiz]]|-|
 |||''Lightning Dance''&br;　　SIZE(11){「湾岸ミッドナイト マキシマムチューン」より}|153|[[★×4>難易度表/かんたん/Lightning Dance]]|[[★×5>難易度表/ふつう/Lightning Dance]]|[[★×7>難易度表/むずかしい/Lightning Dance]]|[[★×8>難易度表/おに/Lightning Dance]]|-|
-|||''TO MAKE THE END OF BATTLE''&br;　　SIZE(11){「イースI＆IIクロニクルズ」より}|232.4|[[★×4>難易度表/かんたん/TO MAKE THE END OF BATTLE]]|[[★×5>難易度表/ふつう/TO MAKE THE END OF BATTLE]]|[[★×7>難易度表/むずかしい/TO MAKE THE END OF BATTLE]]|[[★×7>難易度表/おに/TO MAKE THE END OF BATTLE]]|-|
+|||''TO MAKE THE END OF BATTLE''&br;　　SIZE(11){「イースI&IIクロニクルズ」より}|232.4|[[★×4>難易度表/かんたん/TO MAKE THE END OF BATTLE]]|[[★×5>難易度表/ふつう/TO MAKE THE END OF BATTLE]]|[[★×7>難易度表/むずかしい/TO MAKE THE END OF BATTLE]]|[[★×7>難易度表/おに/TO MAKE THE END OF BATTLE]]|-|
 |||''Walking Through The Towers''&br;　　SIZE(11){「パズル＆ドラゴンズ」より}|150|[[★×3>難易度表/かんたん/Walking Through The Towers]]|[[★×4>難易度表/ふつう/Walking Through The Towers]]|[[★×5>難易度表/むずかしい/Walking Through The Towers]]|[[★×7>難易度表/おに/Walking Through The Towers]]|-|
 |||''Holding Hands''&br;　　SIZE(11){「パズル＆ドラゴンズ」より}|146|[[★×3>難易度表/かんたん/Holding Hands]]|[[★×5>難易度表/ふつう/Holding Hands]]|[[★×6>難易度表/むずかしい/Holding Hands]]|[[★×7>難易度表/おに/Holding Hands]]|-|
 |||''Unite The Force''&br;　　SIZE(11){「パズル＆ドラゴンズ」より}|156|[[★×2>難易度表/かんたん/Unite The Force]]|[[★×4>難易度表/ふつう/Unite The Force]]|[[★×7>難易度表/むずかしい/Unite The Force]]|[[★×8>難易度表/おに/Unite The Force]]|-|

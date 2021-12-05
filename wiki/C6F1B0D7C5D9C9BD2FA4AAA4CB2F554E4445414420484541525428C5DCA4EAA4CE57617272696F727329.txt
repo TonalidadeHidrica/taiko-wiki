@@ -1,8 +1,8 @@
 *UNDEAD HEART(怒りのWarriors) [#title]
 ***詳細 [#detail]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))||難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.9.0SP''|PS4 1DL|★×10|CENTER:COLOR(#909):''1134&br;COLOR(#069):1080&br;COLOR(#666):1027''|''1195280点''|＋連打|310点|68点|
+|''AC15.9.0SP''|PS4 1DL|★×10|COLOR(#909):''1134&br;COLOR(#069):1080&br;COLOR(#666):1027''|''1195280点''|＋連打|310点|68点|
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''998850点''}|~|COLOR(#f30){810点}|-|
 |AC16.1.0||~|~|''1001420点''|~|880点|-|
 
