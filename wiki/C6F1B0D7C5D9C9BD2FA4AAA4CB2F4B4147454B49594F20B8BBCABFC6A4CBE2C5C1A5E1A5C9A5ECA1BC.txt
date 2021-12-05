@@ -2,10 +2,11 @@
 
 **1人用譜面 [#single]
 ***詳細 [#detail]
-|>|CENTER:60|BGCOLOR(darkorchid):COLOR(white):CENTER:|CENTER:48|CENTER:60|CENTER:84|CENTER:|>|CENTER:48|CENTER:|c
+|>|CENTER:60|BGCOLOR(darkorchid):COLOR(white):CENTER:80|CENTER:48|CENTER:55|CENTER:84|>|>|CENTER:48|CENTER:|c
 |>|バージョン((太字は初出))|BGCOLOR(default):COLOR(black):ジャンル|難易度|最大&br;コンボ数|>|天井スコア|初項|公差||h
 ||CS3|BGCOLOR(default):COLOR(black):''ロック''|★×10|''765''|''1359000点''|+連打|-|-||
-|''AC5'',6||''ゲーム音楽''|~|~|''1347000点''|~|-|-||
+|''AC5'',6||BGCOLOR(default):COLOR(black):''ゲーム音楽''|~|~|''1347000点''|~|-|-||
+|~|~|BGCOLOR(orangered):COLOR(black):''ナムコ&br;オリジナル''|~|~|~|~|~|~|~|
 ||米TDMSP&br;TDMSP|BGCOLOR(orangered):COLOR(black):''Namco&br;Original''|~|~|~|~|-|-||
 |AC7|PSP1DL|BGCOLOR(orangered):COLOR(black):''ナムコ&br;オリジナル''|★×9|~|''1422200点''|~|-|-|''ゴーゴーバグあり''|
 ||DS1|~|~|~|''1145270点''|~|470点|100点||

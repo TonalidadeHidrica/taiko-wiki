@@ -34,6 +34,7 @@
 -譜面作成は、''[[しか@に〜さん>譜面作成者一覧/しか@に〜さん]]''。
 -この曲は太鼓の達人、maimai、GROOVE COASTER、jubeat音ゲ祭参加4機種以外、KONAMIのBEMANIシリーズ作品beatmania ��DX、REFLEC BEAT、pop'n musicと''7機種''にわたり収録されている。
 --jubeat clanではこの曲のホールド譜面が追加された。
+-曲IDは、''fauna''。
 -----
 -[[かんたん>難易度表/かんたん/Scars of FAUNA]]
 -[[ふつう>難易度表/ふつう/Scars of FAUNA]]

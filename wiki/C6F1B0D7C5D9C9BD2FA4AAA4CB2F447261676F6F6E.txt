@@ -39,6 +39,7 @@
 -[[ふつう>難易度表/ふつう/Dragoon]]
 -[[むずかしい>難易度表/むずかしい/Dragoon]]
 -[[プレイ動画>https://www.youtube.com/watch?v=VajCh71UMRI]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=2tEgIhlyFUs]]
 
 ***コメント [#comment]
 #pcomment(,noname)

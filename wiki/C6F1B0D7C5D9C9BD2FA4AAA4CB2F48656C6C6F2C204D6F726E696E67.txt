@@ -14,6 +14,7 @@
 -アーティストは、''[[Kizuna AI>アーティスト別収録曲#kizunaai]]''。
 --作曲・編曲は、Nor。作詞は、Kizuna AI。
 -''[[本人音源>本人音源曲]]''である。
+-曲IDは、''kznhel''。
 ----
 -[[かんたん>難易度表/かんたん/Hello, Morning]]
 -[[ふつう>難易度表/ふつう/Hello, Morning]]

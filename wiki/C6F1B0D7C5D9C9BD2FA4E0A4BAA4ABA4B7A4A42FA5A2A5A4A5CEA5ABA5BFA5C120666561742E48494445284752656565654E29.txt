@@ -1,11 +1,12 @@
 *アイノカタチ feat.HIDE(GReeeeN) [#title]
 -TBS系ドラマ「''義母と娘のブルース''」主題歌。
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15 JAEPO2019Ver.''&br;AC15.11.0|PS4 1DL&br;NS1DL|★×3|''123''|''??????点''|＋連打|1580点|788点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''??????点''}|~|COLOR(#ff3300){7660点}|-|
-|AC16.1.0||~|~|''996300点''|~|8100点|-|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15 JAEPO2019Ver.''&br;AC15.11.0|PS4 1DL&br;NS1DL|BGCOLOR(cyan):''J-POP''|★×3|''123''|''??????点''|＋連打|1580点|788点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''??????点''}|~|COLOR(#ff3300){7660点}|-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''996300点''|~|8100点|-|
+||iOS&br;AR|~|~|~|''?????0点''|~|???点|???点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは88〜90。
@@ -13,6 +14,7 @@
 ***その他 [#other]
 -アーティストは、''MISIA''。
 --作詞・作曲は、[[COLOR(green){GReeeeN}>アーティスト別収録曲#green]]。編曲は、亀田誠治。
+-曲IDは、''ainokt''。
 
 ----
 -[[かんたん>難易度表/かんたん/アイノカタチ feat.HIDE(GReeeeN)]]

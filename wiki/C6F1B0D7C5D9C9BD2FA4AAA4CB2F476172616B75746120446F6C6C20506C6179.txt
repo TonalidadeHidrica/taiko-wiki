@@ -25,6 +25,7 @@
 -アーティストは、[[''t+pazolite''>参加アーティスト一覧/t+pazolite]]（[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]）。
 -譜面作成は、[[裏譜面>難易度表/おに/Garakuta Doll Play(裏譜面)]]と同じく[[''しか@に〜さん''>譜面作成者一覧/しか@に〜さん]]。
 -[[レッドVer.段位道場>段位道場#red]]の八段1曲目課題曲となった。
+-曲IDは、''garakt''。
 ----
 -[[かんたん>難易度表/かんたん/Garakuta Doll Play]]
 -[[ふつう>難易度表/ふつう/Garakuta Doll Play]]

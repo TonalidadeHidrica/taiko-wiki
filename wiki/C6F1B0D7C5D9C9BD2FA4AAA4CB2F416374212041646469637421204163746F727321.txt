@@ -16,6 +16,7 @@
 --メンバーは、COLOR(#d13066){''佐久間咲也}(CV：酒井広大)''、COLOR(#ff8c00){''皇天馬}(CV：江口拓也)''、COLOR(#d2b48c){''摂津万里}(CV：沢城千春)''、COLOR(#00008b){''月岡紬}(CV：田丸篤志)''。
 --作詞・作曲・編曲は、大石昌良。
 -[[MANKAI☆開花宣言>http://www.wikihouse.com/taiko/index.php?%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2FMANKAI%A1%F9%B3%AB%B2%D6%C0%EB%B8%C0]]とは違い、専用踊り子は登場しない。
+-曲IDは、''a3aaa''。
 ----
 
 -[[かんたん>難易度表/かんたん/Act! Addict! Actors!]]

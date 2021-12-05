@@ -23,6 +23,7 @@
 -アーティストは、[[''DJ Myosuke''>参加アーティスト一覧/DJ Myosuke]] ([[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]])。
 --曰く、[[「『''ドンゲー''』と略されるのを狙って曲名をつけた」>https://twitter.com/myosuke/status/1180320385159458816?s=21]]とのこと。
 -この譜面をフルコンボすると、称号「''Don't Stop the Game''」を獲得できる。 
+-曲IDは、''dsgame''。
 ----
 
 -[[かんたん>難易度表/かんたん/Don't Stop the Game]]
