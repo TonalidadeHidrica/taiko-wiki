@@ -197,7 +197,7 @@
 |146|[[シオカラ節>難易度表/おに/シオカラ節]]|BGCOLOR(darkorchid):ゲーミュ|splsio|17/3/15〜|
 |~|BGCOLOR(#ccc):[[ぶぎ ぶぎ ふなっしー♪>難易度表/おに/ぶぎ ぶぎ ふなっしー♪]]|BGCOLOR(lime):バラエティ|BGCOLOR(#ccc):fu7fu7|BGCOLOR(#ccc):〜17/3/15　サヨナラ曲|
 |147|BGCOLOR(#ccc):[[ドクターXのテーマ>難易度表/おに/ドクターXのテーマ]]|BGCOLOR(lime):バラエティ|BGCOLOR(#ccc):doctrx|BGCOLOR(#ccc):17/3/15〜20/1/22　サヨナラ曲|
-|~|BGCOLOR(#ccc):[[FUTURE FISH>難易度表/おに/FUTURE FISH]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):(fufish?)|BGCOLOR(#ccc):〜16/3/29　サヨナラ曲|
+|~|BGCOLOR(#ccc):[[FUTURE FISH>難易度表/おに/FUTURE FISH]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):fufish|BGCOLOR(#ccc):〜16/3/29　サヨナラ曲|
 |148|[[FUJIN Rumble>難易度表/おに/FUJIN Rumble]]|BGCOLOR(darkorchid):ゲーミュ|fujin||
 |149|[[サタデー太鼓フィーバー>難易度表/おに/サタデー太鼓フィーバー]]|BGCOLOR(orangered):ナムオリ|funk||
 |150|[[冬竜 〜Toryu〜>難易度表/おに/冬竜 〜Toryu〜]]|BGCOLOR(orangered):ナムオリ|furyu||
@@ -631,7 +631,7 @@
 |533|BGCOLOR(#ccc):[[crossing field>難易度表/おに/crossing field]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):saoop|BGCOLOR(#ccc):〜19/12/2　サヨナラ曲|
 |534|[[Angelic Angel>難易度表/おに/Angelic Angel]]|BGCOLOR(orange):アニメ|llang||
 |535|[[GEEDの証>難易度表/おに/GEEDの証]]|BGCOLOR(orange):アニメ|ultged|17/8/8〜|
-|~|BGCOLOR(#ccc):[[Snow halation>難易度表/おに/Snow halation]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):?|BGCOLOR(#ccc):〜16/10/13　サヨナラ曲|
+|~|BGCOLOR(#ccc):[[Snow halation>難易度表/おに/Snow halation]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):llsnow|BGCOLOR(#ccc):〜16/10/13　サヨナラ曲|
 |536|[[ロストワンの号哭>難易度表/おに/ロストワンの号哭]]|BGCOLOR(darkgray):ボカロ|lost1g||
 |537|[[ギガンティックO.T.N>難易度表/おに/ギガンティックO. T. N]]|BGCOLOR(darkgray):ボカロ|rlngig||
 |538|[[最終鬼畜妹フランドール・S>難易度表/おに/最終鬼畜妹フランドール・S]]|BGCOLOR(lime):バラエティ|thflnd||
@@ -1016,7 +1016,7 @@
 |914|[[シンクロニカ・エアライン>難易度表/おに/シンクロニカ・エアライン]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
 |915|[[白日>難易度表/おに/白日]]|BGCOLOR(cyan):ポップス|kgnhak||
 |916|[[魔進戦隊キラメイジャー>難易度表/おに/魔進戦隊キラメイジャー]]|BGCOLOR(yellow):キッズ|?||
-|917|[[Freeway3234>難易度表/おに/Freeway3234]]|BGCOLOR(orangered):ナムオリ|?||
+|917|[[Freeway3234>難易度表/おに/Freeway3234]]|BGCOLOR(orangered):ナムオリ|freewy||
 |918|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|BGCOLOR(orangered):ナムオリ|idol||
 |919|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|BGCOLOR(orangered):ナムオリ|?||
 |920|[[ゴッドソング>難易度表/おに/ゴッドソング]]|BGCOLOR(cyan):ポップス|godsng||

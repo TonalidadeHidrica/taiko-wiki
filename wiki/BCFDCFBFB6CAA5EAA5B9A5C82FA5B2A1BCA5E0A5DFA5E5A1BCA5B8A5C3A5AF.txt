@@ -359,7 +359,7 @@
 |''TRIAL DANCE''|139|[[★×3>難易度表/かんたん/TRIAL DANCE]]|[[★×5>難易度表/ふつう/TRIAL DANCE]]|[[★×5>難易度表/むずかしい/TRIAL DANCE]]|[[★×8>難易度表/おに/TRIAL DANCE]]|
 |''Tulip''|154|[[★×3>難易度表/かんたん/Tulip]]|[[★×3>難易度表/ふつう/Tulip]]|[[★×5>難易度表/むずかしい/Tulip]]|[[★×6>難易度表/おに/Tulip]]|
 |''Tulip(裏譜面)''|~|-|-|-|[[★×9>難易度表/おに/Tulip(裏譜面)]]|
-|''Undying Legend''|159?|[[★×4>難易度表/かんたん/Undying Legend]]|[[★×4>難易度表/ふつう/Undying Legend]]|[[★×6>難易度表/むずかしい/Undying Legend]]|[[★×8>難易度表/おに/Undying Legend]]|
+|''Undying Legend''|148-158|[[★×4>難易度表/かんたん/Undying Legend]]|[[★×4>難易度表/ふつう/Undying Legend]]|[[★×6>難易度表/むずかしい/Undying Legend]]|[[★×8>難易度表/おに/Undying Legend]]|
 |''Unite The Force''|156|[[★×2>難易度表/かんたん/Unite The Force]]|[[★×4>難易度表/ふつう/Unite The Force]]|[[★×7>難易度表/むずかしい/Unite The Force]]|[[★×8>難易度表/おに/Unite The Force]]|
 |''URBAN FRAGMENTS''|144※|[[★×4>難易度表/かんたん/URBAN FRAGMENTS]]|[[★×4>難易度表/ふつう/URBAN FRAGMENTS]]|[[★×6>難易度表/むずかしい/URBAN FRAGMENTS]]|[[★×8>難易度表/おに/URBAN FRAGMENTS]]|
 |''Urban Striker''|147|[[★×3>難易度表/かんたん/Urban Striker]]|[[★×4>難易度表/ふつう/Urban Striker]]|[[★×6>難易度表/むずかしい/Urban Striker]]|[[★×8>難易度表/おに/Urban Striker]]|

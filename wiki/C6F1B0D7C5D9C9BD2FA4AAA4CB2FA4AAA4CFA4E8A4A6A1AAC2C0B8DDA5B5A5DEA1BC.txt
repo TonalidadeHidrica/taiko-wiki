@@ -9,7 +9,7 @@
 |iOS&br;AR|~|~|~|''?????0点''|~|600点|140点|
 
 ***譜面構成・攻略 [#capture]
--BPMは122。
+-BPMは約122。
 --BPMは遅いが、付点リズムや偶数連打が多い。途中の8分音符の長い複合にも注意。
 -平均密度は、''約3.25打/秒''。
 
@@ -32,4 +32,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(cs4op_fix2.png,nolink);
+&attachref(cs4op_m.png,nolink);

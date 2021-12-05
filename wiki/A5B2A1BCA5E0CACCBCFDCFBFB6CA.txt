@@ -83,7 +83,7 @@
 |''ソウルキャリバーIII New Legend''|155|[[★×4>難易度表/かんたん/ソウルキャリバーIII]]|[[★×6>難易度表/ふつう/ソウルキャリバーIII]]|[[★×7>難易度表/むずかしい/ソウルキャリバーIII]]|[[★×8>難易度表/おに/ソウルキャリバーIII]]|-|
 |''ソウルキャリバーIV IMMACULATE PLEDGE''|150※|BGCOLOR(silver):[[★×4>難易度表/かんたん/ソウルキャリバーIV]]|BGCOLOR(silver):[[★×4>難易度表/ふつう/ソウルキャリバーIV]]|BGCOLOR(silver):[[★×5>難易度表/むずかしい/ソウルキャリバーIV]]|BGCOLOR(silver):[[★×8>難易度表/おに/ソウルキャリバーIV]]|BGCOLOR(silver):-|
 |''ソウルキャリバーV The Invincible Blade''|140|[[★×3>難易度表/かんたん/ソウルキャリバーV]]|[[★×4>難易度表/ふつう/ソウルキャリバーV]]|[[★×5>難易度表/むずかしい/ソウルキャリバーV]]|[[★×7>難易度表/おに/ソウルキャリバーV]]|-|
-|''Undying Legend''|159?|[[★×4>難易度表/かんたん/Undying Legend]]|[[★×4>難易度表/ふつう/Undying Legend]]|[[★×6>難易度表/むずかしい/Undying Legend]]|[[★×8>難易度表/おに/Undying Legend]]|-|
+|''Undying Legend''|148-158|[[★×4>難易度表/かんたん/Undying Legend]]|[[★×4>難易度表/ふつう/Undying Legend]]|[[★×6>難易度表/むずかしい/Undying Legend]]|[[★×8>難易度表/おに/Undying Legend]]|-|
 
 ***GOD EATER [#eater]
 ||LEFT:60|>|>|>|>|CENTER:42|c

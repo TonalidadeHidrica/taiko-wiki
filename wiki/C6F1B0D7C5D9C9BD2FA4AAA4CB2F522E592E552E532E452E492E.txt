@@ -39,11 +39,11 @@
 -[[かんたん>難易度表/かんたん/R.Y.U.S.E.I.]]
 -[[ふつう>難易度表/ふつう/R.Y.U.S.E.I.]]
 -[[むずかしい>難易度表/むずかしい/R.Y.U.S.E.I.]]
--[[オート動画>https://www.youtube.com/watch?v=FF1o7k8xGj8]]
+-[[オート動画(WiiU3)>https://www.youtube.com/watch?v=FF1o7k8xGj8]]
+-[[オート動画(NS1)>https://youtu.be/jixoMoW7v-k]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-HSは暫定です。
-&attachref(R．Y．U．S．E．I．.png,nolink);
+&attachref(ryusei_m.png,nolink);

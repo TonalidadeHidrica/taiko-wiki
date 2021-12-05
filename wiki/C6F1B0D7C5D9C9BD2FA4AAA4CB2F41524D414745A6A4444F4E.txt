@@ -1,4 +1,5 @@
 *ARMAGEΔDON [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
@@ -27,11 +28,12 @@
 --ちなみに、当人はこの譜面を[[解禁初日にフルコンボ>https://twitter.com/BlackY_bemani/status/1081364473670098944?s=19]]するほどの実力。
 -この譜面をフルコンボすると、''称号''「''ARMAGEΔDONDER''」を獲得できる。
 -曲IDは、''armage''。
+
 ----
 -[[かんたん>難易度表/かんたん/ARMAGEΔDON]]
 -[[ふつう>難易度表/ふつう/ARMAGEΔDON]]
 -[[むずかしい>難易度表/むずかしい/ARMAGEΔDON]]
--[[プレイ動画>https://www.youtube.com/watch?v=QDOCpoo6pCk&t=12]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=QDOCpoo6pCk&t=12]]
 ***コメント [#comment]
 #pcomment(,noname)
 

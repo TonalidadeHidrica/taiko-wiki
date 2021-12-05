@@ -17,6 +17,7 @@
 -作詞は、[[''祇羽''>参加アーティスト一覧/祇羽]]。
 -歌唱は、''翡翠''、''栗山叶''。
 -ディープラーニングとは、多層のニューラルネットワーク機械学習手法のことらしい。(Wikipediaより)
+-曲IDは、''dlearn''。
 
 ----
 -[[かんたん>難易度表/かんたん/241ディープラーニング]]
@@ -31,6 +32,128 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~連打の長さ、最後の小節線ギミックは適当
-~疑似32分の非表示（と思われる）小節線は省略
-~&attachref(深層学習　二四八.png,nolink);
+~97-98小節：MEASURE 3/32
+~99小節：MEASURE 1/16
+#region(141小節からのTJA表記)
+&br;#MEASURE 1/32
+&br;1,
+&br;#SCROLL 15
+&br;0,
+&br;#SCROLL 15.6
+&br;0,
+&br;#SCROLL 16.1
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 17.2
+&br;0,
+&br;#SCROLL 17.8
+&br;0,
+&br;#SCROLL 18.3
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1
+&br;2,
+&br;#BARLINEON
+&br;#SCROLL 19.4
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1
+&br;2,
+&br;#BARLINEON
+&br;#SCROLL 20.6
+&br;0,
+&br;#SCROLL 21.1
+&br;0,
+&br;#SCROLL 21.7
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1
+&br;1,
+&br;#BARLINEOFF
+&br;#SCROLL 22.8
+&br;0,
+&br;#BARLINEON
+&br;#SCROLL 23.3
+&br;0,
+&br;#SCROLL 23.9
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1
+&br;1,
+&br;#BARLINEON
+&br;#SCROLL 25
+&br;0,
+&br;#SCROLL 25.6
+&br;0,
+&br;#SCROLL 26.1
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1
+&br;2,
+&br;#BARLINEON
+&br;#SCROLL 27.2
+&br;0,
+&br;#SCROLL 27.8
+&br;0,
+&br;#SCROLL 28.3
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1
+&br;2,
+&br;#BARLINEON
+&br;#SCROLL 29
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1
+&br;2,
+&br;#BARLINEON
+&br;#SCROLL 4
+&br;0,
+&br;#BARLINEOFF
+&br;#SCROLL 1
+&br;0,
+&br;#BARLINEON
+&br;#MEASURE 1/16
+&br;#SCROLL 3.5
+&br;0,
+&br;#SCROLL 3.3
+&br;0,
+&br;#SCROLL 3.2
+&br;0,
+&br;#SCROLL 3
+&br;0,
+&br;#SCROLL 2.8
+&br;0,
+&br;#SCROLL 2.7
+&br;0,
+&br;#SCROLL 2.5
+&br;0,
+&br;#SCROLL 2.3
+&br;0,
+&br;#SCROLL 2.2
+&br;0,
+&br;#SCROLL 2
+&br;0,
+&br;#SCROLL 1.8
+&br;0,
+&br;#SCROLL 1.7
+&br;0,
+&br;#SCROLL 1.5
+&br;0,
+&br;#SCROLL 1.3
+&br;0,
+&br;#SCROLL 1.2
+&br;0,
+&br;#SCROLL 1
+&br;0,
+&br;#BARLINEOFF
+&br;#MEASURE 4/4
+&br;0,
+#endregion
+~&attachref(dlearn_m.png,nolink);
+
+~141小節からの拡大画像
+~&attachref(dlearn_141.png,nolink);

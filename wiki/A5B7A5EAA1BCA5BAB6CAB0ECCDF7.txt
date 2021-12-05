@@ -303,7 +303,7 @@
 
 ***学校行事シリーズ [#school]
 -「''学校行事''」をコンセプトにおいた楽曲群。
--新ACではブルーver.以降、[[そつおめしき・ふる>難易度表/おに/そつおめしき・ふる]]を除く全ての曲をプレイすることができる。&br;CSではWii U3、PS Vita1、iOS、PS4 1、NS1があれば、このシリーズの全ての曲をプレイすることができる。
+-新ACではブルーVer.以降、[[そつおめしき・ふる>難易度表/おに/そつおめしき・ふる]]を除く全ての曲をプレイすることができる。&br;CSではWii U3、PS Vita1、iOS、PS4 1、NS1があれば、このシリーズの全ての曲をプレイすることができる。
 
 |CENTER:|CENTER:|CENTER:|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:|c
 ||''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|>|初出|紹介記事|h
