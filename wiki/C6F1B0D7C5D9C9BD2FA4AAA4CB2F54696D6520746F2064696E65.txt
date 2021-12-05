@@ -7,7 +7,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは145。
--連打秒数目安・・・''約1.414秒''
+-連打秒数目安・・・''約1.31秒''
 -複合譜面であるがそこまで複雑な複合は多くない。
 -23〜40小節は3/4拍子の中休みなく複合が来る。この地帯は小節線が無い。
 -46、80の16分複合の面は利き手から入れば全て利き手で叩ける。
@@ -29,11 +29,10 @@
 -[[かんたん>難易度表/かんたん/Time to dine]]
 -[[ふつう>難易度表/ふつう/Time to dine]]
 -[[むずかしい>難易度表/むずかしい/Time to dine]]
--[[オート動画>https://www.youtube.com/watch?v=6flEthXkUxY]]
+-[[オート動画>https://youtu.be/6flEthXkUxY?t=11]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-黄色連打、風船の長さは暫定です。&br;20小節は13/16拍子
-~&attachref(Time to dine.png,nolink);
+~&attachref(3d2b1x_z.png,nolink);

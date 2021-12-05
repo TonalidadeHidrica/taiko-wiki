@@ -1,5 +1,6 @@
 *PHOENIX [#title]
 -アニメ「[[''ハイキュー!! TO THE TOP''>アニメ別収録曲#haikyu]]」のOP1。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -9,20 +10,24 @@
 ***譜面構成・攻略 [#capture]
 -BPMは137。
 -連打秒数・・・SIZE(16){約1.715秒}−''約0.183秒''−SIZE(16){''約0.402秒''}：合計約2.299秒
+-22小節目の縁2打は''BPM137の48分''である。ジャンル別の曲別最短音符間隔のアニメ1位であった[[Groovy Duel>難易度表/おに/Groovy Duel]]のBPM132.72の48分を上回り1位となった。
+--さらに、[[指先からはじまる物語 >難易度表/おに/指先からはじまる物語]]のBPM126.58の48分を上回り、COLOR(red){''おに★×8の歴代最短間隔''}となった。
+---ただし、音符としては2打なのでそこまで意識しなくても精度は取りやすいだろう。
 
 ***その他 [#other]
 -アーティストは、[[''BURNOUT SYNDROMES''>アーティスト別収録曲#btss]]。
 --作詞・作曲は、熊谷和海。編曲は、いしわたり淳治・BURNOUT SYNDROMES。
 -ナムコオリジナルの[[Phoenix>難易度表/おに/Phoenix]]との混同に注意。
 -曲IDは、''haiky3''。
+
 ----
 -[[かんたん>難易度表/かんたん/PHOENIX]]
 -[[ふつう>難易度表/ふつう/PHOENIX]]
 -[[むずかしい>難易度表/むずかしい/PHOENIX]]
--[[オート動画>https://www.youtube.com/watch?v=2hGXFbWxIk8]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=2hGXFbWxIk8]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(haiky3_m.png,nolink);
+&attachref(haiky3_m3.png,nolink);
