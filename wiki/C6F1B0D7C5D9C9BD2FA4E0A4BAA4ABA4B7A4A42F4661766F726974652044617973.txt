@@ -12,6 +12,7 @@
 ***その他 [#other]
 -歌唱は、''日高零奈(CV:蔀 祐佳)''。
 -作詞・作曲・編曲は、[[Tell Your World>難易度表/むずかしい/Tell Your World]]と同じ''kz''。
+//-曲IDは、''dobfav''。
 ----
 
 -[[かんたん>難易度表/かんたん/Favorite Days]]

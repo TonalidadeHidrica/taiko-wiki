@@ -638,6 +638,7 @@
 -[[コメント/難易度表/おに/BLAZING]] コメント/ナンイドオモテ/オニ/BLAZING
 -[[コメント/難易度表/おに/BLAZING VORTEX]] コメント/ナンイドオモテ/オニ/BLAZING VORTEX
 -[[コメント/難易度表/おに/BLAZING VORTEX(裏譜面)]] コメント/ナンイドオモテ/オニ/BLAZING VORTEX(ウラフメン)
+-[[コメント/難易度表/おに/BLUE SAPPHIRE]] コメント/ナンイドオモテ/オニ/BLUE SAPPHIRE
 -[[コメント/難易度表/おに/BLUE SAPPHIRE(裏譜面)]] コメント/ナンイドオモテ/オニ/BLUE SAPPHIRE(ウラフメン)
 -[[コメント/難易度表/おに/BLUE TOPAZ]] コメント/ナンイドオモテ/オニ/BLUE TOPAZ
 -[[コメント/難易度表/おに/BON VOYAGE!]] コメント/ナンイドオモテ/オニ/BON VOYAGE!
