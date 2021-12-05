@@ -72,10 +72,9 @@
 &br;#BARLINEOFF
 &br;#SCROLL 1
 &br;1,
-&br;#BARLINEOFF
+&br;#BARLINEON
 &br;#SCROLL 22.8
 &br;0,
-&br;#BARLINEON
 &br;#SCROLL 23.3
 &br;0,
 &br;#SCROLL 23.9
@@ -153,7 +152,7 @@
 &br;#MEASURE 4/4
 &br;0,
 #endregion
-~&attachref(dlearn_m.png,nolink);
+~&attachref(dlearn_m_f.png,nolink);
 
 ~141小節からの拡大画像
-~&attachref(dlearn_141.png,nolink);
+~&attachref(dlearn_141_f.png,nolink);

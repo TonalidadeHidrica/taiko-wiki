@@ -56,7 +56,7 @@
 -[[楽曲紹介>https://web.archive.org/web/20160415150136/http://taikoblog.namco-ch.net/blog/2007/12/20002000_11.html]]
 -[[楽曲紹介(譜面編)>https://web.archive.org/web/20160415150903/http://taikoblog.namco-ch.net/blog/2007/12/20002000_12.html]]
 -[[歌詞紹介>https://web.archive.org/web/20160913232020/http://taikoblog.namco-ch.net/lyrics/2007/09/2000_2.html]]
--[[オート動画(Wii U1)>https://www.youtube.com/watch?v=wCHati0AZak]]
+-[[オート動画(Wii U1)>https://www.youtube.com/watch?v=wCHati0AZak]]((仕様のためHS1.05が掛かっています))
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

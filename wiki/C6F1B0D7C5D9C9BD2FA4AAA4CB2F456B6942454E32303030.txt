@@ -17,7 +17,7 @@
 --新筐体でも、真打で全良+連打1打で''100万点ジャスト''になる。
 --連打の長さの割に新筐体での配点は通常、真打ともにかなり高く、基本天井点到達は比較的容易である。
 -''太鼓の達人史上初の876コンボの曲である''。
--4曲の譜面を引用している。
+-[[タベルナ2000>難易度表/おに/タベルナ2000]]のように、他の楽曲譜面を引用している箇所があり、以下4曲の譜面を引用している。
 |原譜面|小節|備考|h
 |[[ラムのラブソング>難易度表/おに/ラムのラブソング]]|18-21|達人譜面|
 |[[響け！太鼓の達人>難易度表/おに/響け！太鼓の達人]]|23-30|普通譜面・玄人譜面、28にドン1つ追加|
@@ -56,6 +56,8 @@
 -[[楽曲紹介(譜面編・アーカイブ)>https://web.archive.org/web/20160415150415/http://taikoblog.namco-ch.net/blog/2008/07/post_50.html]]
 -[[歌手紹介(アーカイブ)>https://web.archive.org/web/20160415153401/http://taikoblog.namco-ch.net/blog/2008/07/20002000.html]]
 -[[歌詞紹介(アーカイブ)>https://web.archive.org/web/20170403064507/http://taikoblog.namco-ch.net/lyrics/2008/04/ekiben2000.html]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=Q77Xr2qLqUM&t=14s]]
+-[[オート動画(Wii1)>https://www.youtube.com/watch?v=o6JAoEBxQdk]]
 -[[オート動画(Wii4)>https://www.youtube.com/watch?v=4EcHk4OATZo]]
 -[[プレイ動画(AC15)>https://youtu.be/1tW8ldyUKx4]]
 

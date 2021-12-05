@@ -1,5 +1,6 @@
 *&ruby(ヘヴンズ){Heaven's}; &ruby(ライダー){Rider}; [#title]
 -[[Riderシリーズ>シリーズ曲一覧#rider]]第2弾。
+
 ***詳細 [#detail]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -25,11 +26,12 @@
 --[[てんびん座急行 夜を行く>難易度表/おに/てんびん座急行 夜を行く]]、[[オール・イン・マイハート>難易度表/おに/オール・イン・マイハート]]と同じく、新筐体レッドVer.で常駐解禁された。
 -3DS3のストーリーモードでは、「''ドラゴニュート''」戦にて使用された。
 -曲IDは、''hvride''。
+
 ----
 -[[かんたん>難易度表/かんたん/Heaven's Rider]]
 -[[ふつう>難易度表/ふつう/Heaven's Rider]]
 -[[むずかしい>難易度表/むずかしい/Heaven's Rider]]
--[[プレイ動画>http://www.youtube.com/watch?v=kAzFhiWlpug]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=WEbauGjSS0Y&t=12s]]
 
 ***コメント [#comment]
 #pcomment(,noname)
