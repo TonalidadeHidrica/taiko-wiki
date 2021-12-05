@@ -154,8 +154,8 @@
 |ace3ds|[[Fighter's Honor (Flying Remix)>難易度表/おに/Fighter's Honor (Flying Remix)]]|エースコンバット3D|
 |acex2|[[IN THE ZONE>難易度表/おに/IN THE ZONE]]|ACE COMBAT X2 JOINT ASSAULT|
 |adk|[[オーディオ de カッ！>難易度表/おに/オーディオ de カッ！]]|オーディオ(''a''udio)刑事(''d''e''k''a)|
-//|adodo|[[踊>難易度表/おに/踊]]|Ado|
-|adusse|[[うっせぇわ>難易度表/おに/うっせぇわ]]|Ado|
+|adodo|[[踊>難易度表/おに/踊]]|Ado|
+|adusse|[[うっせぇわ>難易度表/おに/うっせぇわ]]|~|
 |afterd|[[アフターダーク>難易度表/おに/アフターダーク]]||
 |ag|[[American Girls>難易度表/おに/American Girls]]||
 |ageage|[[アゲ♂アゲ♂EVERY☆騎士>難易度表/おに/アゲ♂アゲ♂EVERY☆騎士]]||
@@ -847,7 +847,7 @@
 |hapsyn|[[ハッピーシンセサイザ>難易度表/おに/ハッピーシンセサイザ]]||
 |hareru|[[晴れる道 〜宇宙人に合わせる顔がねぇ！〜>難易度表/おに/晴れる道]]||
 |hari|[[ハリケンジャー参上！>難易度表/おに/ハリケンジャー参上!]]||
-//|haruji|[[ハルジオン>難易度表/おに/ハルジオン]]||
+|haruji|[[ハルジオン>難易度表/おに/ハルジオン]]||
 |haruka|[[遥か>難易度表/おに/遥か]]||
 |haruut|[[ハルウタ>難易度表/おに/ハルウタ]]||
 |haryu|[[春竜 〜Haryu〜>難易度表/おに/春竜 〜Haryu〜]]||

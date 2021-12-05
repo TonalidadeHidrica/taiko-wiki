@@ -28,8 +28,9 @@
 -[[かんたん>難易度表/かんたん/†バチ!ムチ!?マッスルキングダム†]]
 -[[ふつう>難易度表/ふつう/†バチ!ムチ!?マッスルキングダム†]]
 -[[むずかしい>難易度表/むずかしい/†バチ!ムチ!?マッスルキングダム†]]
--[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?v=K5BuFrqpwp8]]
--[[音源(公式)>https://youtu.be/DX5MHgtM3eI]]
+//-[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?v=K5BuFrqpwp8]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=hXDzrAyIr_8&t=6s]]
+-[[公式音源動画>https://youtu.be/DX5MHgtM3eI]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

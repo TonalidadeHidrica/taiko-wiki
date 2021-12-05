@@ -1163,7 +1163,7 @@
 |1050|非公開|BGCOLOR(#333):？？？|?||
 |1051|[[punk bastards>難易度表/おに/punk bastards]]|BGCOLOR(orangered): ナムオリ|?||
 |1052|非公開|BGCOLOR(orangered): ナムオリ|?||
-|1053|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|BGCOLOR(orangered): ナムオリ|?||
+|1053|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|BGCOLOR(orangered): ナムオリ|20thei||
 |1054|[[第六感>難易度表/おに/第六感]]|BGCOLOR(cyan): ポップス|?||
 |1055|[[Baby Shark（ベイビー・シャーク）>難易度表/おに/Baby Shark（ベイビー・シャーク）]]|BGCOLOR(yellow):キッズ|?||
 |1056|[[グッバイ宣言>難易度表/おに/グッバイ宣言]]|BGCOLOR(darkgray):ボカロ|vfgbs||

@@ -233,7 +233,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(darkorchid):|[[Abandoned Temple Final 2nd>難易度表/おに/Abandoned Temple Final 2nd]]|''5.598''|276|614|109.67秒||
 |>|>|BGCOLOR(orangered):|[[月影SASURAI(裏譜面)>難易度表/おに/月影SASURAI(裏譜面)]]|''5.597''|137.02※|764|136.51秒||
 |>|BGCOLOR(lime):|BGCOLOR(orangered):|[[Asteroid>難易度表/おに/Asteroid]]|''5.580''|269.18※|783|140.31秒||
-|>|BGCOLOR(goldenrod):|BGCOLOR(orangered):|[[白鳥の湖 〜still a duckling〜>難易度表/おに/白鳥の湖〜still a duckling〜]]|''5.573''|239.96※|609|109.27秒||
+|>|BGCOLOR(goldenrod):|BGCOLOR(orangered):|[[白鳥の湖>難易度表/おに/白鳥の湖〜still a duckling〜]]|''5.573''|239.96※|609|109.27秒||
 |>|>|BGCOLOR(darkorchid):|[[Night And Day>難易度表/おに/Night And Day]]|''5.570''|140.01※|697|125.14秒||
 |>|>|BGCOLOR(lime):|[[conflict>難易度表/おに/conflict]]|''5.552''|160|735|132.38秒||
 |>|>|BGCOLOR(darkorchid):|[[Wings of Tomorrow (Tatsujin Mix)>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]|''5.544''|160.02※|764|137.80秒||
