@@ -31,5 +31,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~色々と暫定版
-~&attachref(Leviathan_4.png,nolink);
+~本家っぽい挙動になると思います。とりあえずSwitch版までの繋ぎで
+~&attachref(Leviathan_.png,nolink);

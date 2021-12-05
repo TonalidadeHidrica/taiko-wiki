@@ -1,8 +1,9 @@
-* ''YMCK''（わいえむしーけー） [#gf496362]
-
--チップチューンアーティスト。
+*YMCK（わいえむしーけー） [#title]
+**概要 [#more]
+-Midori(栗原みどり)、Yokemura(除村武志)、Nakamura(中村智之)の3人からなるチップチューンアーティスト。
 -[[Wikipedia>http://ja.wikipedia.org/wiki/YMCK]]
--作品一覧
+
+**作品一覧 [#work]
 --J-POP
 ---[[ファミリードンドン>難易度表/おに/ファミリードンドン]]
 --バラエティ
@@ -14,5 +15,5 @@
 ---PIXEL STAR
 ---KIKIKAIKAI
 ---maimaiちゃんのテーマ
-*** コメント [#ye478c0e]
+***コメント [#comment]
 #pcomment(,noname)
