@@ -83,8 +83,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~BPM、HSは暫定
-~&attachref(愛と浄罪の森.png,nolink);
+~&attachref(jouzai_m.png,nolink);
 
 ~見た目重視
 ~&attachref(あ……胃、錠剤（見た目）.png.png,nolink);

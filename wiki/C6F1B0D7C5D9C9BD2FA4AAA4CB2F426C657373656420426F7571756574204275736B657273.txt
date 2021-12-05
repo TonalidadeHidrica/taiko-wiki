@@ -1,4 +1,5 @@
 *&ruby(ブレスド){Blessed}; &ruby(ブーケ){Bouquet}; &ruby(バスカーズ){Buskers};[#title]
+
 ***詳細 [#detail]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -25,12 +26,13 @@
 -略称は「''BBB''」等が一般的。
 --曲名を直訳すると「祝福されたブーケの演奏者たち」となる。
 -曲IDは、''bbb''。
+
 ----
 -[[かんたん>難易度表/かんたん/Blessed Bouquet Buskers]]
 -[[ふつう>難易度表/ふつう/Blessed Bouquet Buskers]]
 -[[むずかしい>難易度表/むずかしい/Blessed Bouquet Buskers]]
 -[[公式曲紹介>http://www.youtube.com/watch?v=imJPbs1FLEY]]
--[[プレイ動画>http://www.youtube.com/watch?v=zWJYgjfmRWE]]
+-[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=eBMaZ16LesE&t=13s]]
 
 ***コメント [#comment]
 #pcomment(,noname)
