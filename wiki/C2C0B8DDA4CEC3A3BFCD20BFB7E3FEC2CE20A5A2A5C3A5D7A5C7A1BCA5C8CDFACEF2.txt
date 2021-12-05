@@ -386,7 +386,7 @@
 |~|COLOR(red):''新''|[[''ミュートすればいいじゃん。''>難易度表/おに/ミュートすればいいじゃん。]]|ぁぃぁぃ|
 |BGCOLOR(hotpink):''アニメ''|COLOR(red):''新''|[[''DiSCOVER THE FUTURE''>難易度表/おに/DiSCOVER THE FUTURE]]|TVアニメ「アイドリッシュセブン Second BEAT!」より|
 |BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''だれかの心臓になれたなら''>難易度表/おに/だれかの心臓になれたなら]]|ユリイ・カノン feat.GUMI|
-|BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(red):''新''|[[''患部で止まってすぐ溶ける 〜 狂気の優曇華院''>難易度表/おに/患部で止まってすぐ溶ける 〜 狂気の優曇華院]]|東方Projectアレンジ ARM (IOSYS) feat.miko|
+|BGCOLOR(darkorchid):''ゲーム&br;＆&br;バラエティ''|COLOR(red):''新''|[[''患部で止まってすぐ溶ける 〜 狂気の優曇華院''>難易度表/おに/患部で止まってすぐ溶ける 〜 狂気の優曇華院]]|東方Projectアレンジ ARM(IOSYS) feat.miko|
 |BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(AIバトル)''|COLOR(red):''新''|[[''絡繰廻廊''>難易度表/おに/絡繰廻廊]]|はるなば|
 |~|COLOR(red):''新''|[[''Central Dogma Pt.1''>難易度表/おに/Central Dogma Pt.1]]|黒沢ダイスケ|
 |~|COLOR(red):''新''|[[''テトラリュトモスフォビア''>難易度表/おに/テトラリュトモスフォビア]]|feat.ルシュカ|

@@ -5,10 +5,10 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC10SP''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''295''|''683550点''|＋連打|620点|150点|
-|AC11〜14&br;AC11,12亜|Wii1&br;Wii2SP&br;Wii4&br;PSPDXDL&br;iOS;&br;AR|~|★×6|~|''632590点''|~|560点|140点|
+|AC11-14&br;AC11亜&br;AC12亜|Wii1&br;Wii2SP&br;Wii4&br;PSPDXDL&br;iOS&br;AR|~|★×6|~|''632590点''|~|560点|140点|
 |COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''645160点''}|~|COLOR(#ff3300){1920点}|-|
 |AC15.1.0||~|~|~|''642970点''|~|600点|173点|
-|AC15.2.0|3DS1,3DL&br;Wii U1DL&br;PS Vita1DL&br;PS4 1&br;NS1|~|~|~|''642820点''|~|~|~|
+|AC15.2.0|3DS1&br;3DS3DL&br;Wii U1DL&br;PS Vita1DL&br;PS4 1&br;NS1|~|~|~|''642820点''|~|~|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''996120点''}|~|COLOR(#ff3300){2990点}|-|
 |AC16.1.0||~|~|~|''994150点''|~|3370点|-|
 
@@ -43,5 +43,7 @@
 #pcomment(,noname)
 
 ***譜面[#fumen]
-訂正 ふつう★×6
-&attachref(t.png,nolink);
+~訂正
+~AC10以外では★×6
+~AC10では★×7
+~&attachref(t.png,nolink);

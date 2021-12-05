@@ -17,11 +17,10 @@
 -作曲は、''中鶴潤一''。
 -3DS3のストーリーモードでは、「''リヴァイアサン''」戦にて使用された。
 -曲IDは、''calib3''
-
 -[[かんたん>難易度表/かんたん/ソウルキャリバーIII]]
 -[[むずかしい>難易度表/むずかしい/ソウルキャリバーIII]]
 -[[おに>難易度表/おに/ソウルキャリバーIII]]
--[[オート動画(CS7,キャプチャ)>http://www.youtube.com/watch?v=QJvp7sqUruc]]
+-[[オート動画>http://www.youtube.com/watch?v=QJvp7sqUruc]]
 
 ***コメント [#comment]
 #pcomment(,noname)
