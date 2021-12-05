@@ -9,6 +9,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは140。
+-連打秒数・・・約0.5秒×2：合計約1秒
 -CS2では[[むずかしい>難易度表/むずかしい/Taiko Session〜Live Version〜]]もこの譜面。
 -長らく[[おに★×8の1人用譜面で一番コンボ数が少ない曲>コンボ数順/おに#stmin]]であったが、PS4 1で★×7に降格し、その後[[まちがいさがし>難易度表/おに/まちがいさがし]]により歴代最小コンボ数が更新された。
 -基本3連符主体で、たまに12分が出てくる程度の譜面だが、曲自体のリズムの難解さや、CS2では旧作特有の音符間隔のズレも相まって''何分音符なのか分からない''箇所が多く、極めて精度が取り辛い。
@@ -27,11 +28,12 @@
 -[[ふつう>難易度表/ふつう/Taiko Session〜Live Version〜]]
 -[[むずかしい>難易度表/むずかしい/Taiko Session〜Live Version〜]]
 -おに/[[裏譜面>難易度表/おに/Taiko Session〜Live Version〜(裏譜面)]]
--[[プレイ動画(CS2)>https://www.youtube.com/watch?v=cY56MC55qXY]]
--[[オート動画(PS4 1)>https://www.youtube.com/watch?v=0Z5n8wzPIDo]]
+-[[オート動画(CS2)>https://youtu.be/XCaN9L5poa8?t=8]]
+-[[オート動画(PS4 1)>https://youtu.be/0Z5n8wzPIDo]]((30fps))
+-[[オート動画(PS4 1)>https://youtu.be/NJ6jrjWy76c?t=9]]((60fps))
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(taikosession_5.png,nolink);
+&attachref(jazz_m.png,nolink);

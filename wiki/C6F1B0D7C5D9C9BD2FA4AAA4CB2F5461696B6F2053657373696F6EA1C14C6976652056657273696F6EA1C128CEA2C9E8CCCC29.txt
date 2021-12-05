@@ -7,9 +7,11 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは140。
+-連打秒数・・・約0.607秒
 -12分、16分、24分が複雑に入り混じって癖の強いリズムを形成している。
 -全て2連打ではあるが、''28打/秒''の速さの''48分音符''が3回登場する。
--天井スコアは通常、真打共にかなり低め。連打もゴーゴー前に短いものが1本あるだけなので、最後まで制度を保てないと天井点到達は程遠いだろう。
+-天井スコアは通常、真打共にかなり低め。連打もゴーゴー前に短いものが1本あるだけなので、最初から最後まで精度を保てないと基準点到達は厳しいだろう。
+--1〜29コンボ目までで可3未満に抑えて、30コンボ目以降を全良するくらいの精度が基準点到達には必須。
 -ノーツ数は408と、★×9としてはかなり少ないので油断禁物。
 
 ***その他 [#other]
@@ -20,10 +22,11 @@
 -[[ふつう>難易度表/ふつう/Taiko Session〜Live Version〜]]
 -[[むずかしい>難易度表/むずかしい/Taiko Session〜Live Version〜]]
 -[[おに>難易度表/おに/Taiko Session〜Live Version〜]]/裏譜面
--[[オート動画>https://www.youtube.com/watch?v=iECal8o8Vcc]]
+-[[オート動画>https://youtu.be/iECal8o8Vcc]]((30fps))
+-[[オート動画>https://youtu.be/zvuFNyQx_pw?t=8]]((60fps))
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(taikosessionex.png,nolink);
+&attachref(jazz_x.png,nolink);

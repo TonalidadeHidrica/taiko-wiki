@@ -54,5 +54,4 @@
 ***譜面 [#score]
 ~HSはほぼ確定
 ~32小節目の風船は5打
-~正式な曲名は「アムピト&#9826;リーテー」であるが、「&#9826;」は機種依存文字のため「◇」で代用。
-~&attachref(◆.png,nolink);
+~&attachref(Amphitrite.png,nolink);

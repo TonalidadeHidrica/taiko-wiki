@@ -628,7 +628,6 @@
 -[[コメント/難易度表/おに/BLAZING]] コメント/ナンイドオモテ/オニ/BLAZING
 -[[コメント/難易度表/おに/BLAZING VORTEX]] コメント/ナンイドオモテ/オニ/BLAZING VORTEX
 -[[コメント/難易度表/おに/BLAZING VORTEX(裏譜面)]] コメント/ナンイドオモテ/オニ/BLAZING VORTEX(ウラフメン)
--[[コメント/難易度表/おに/BLUE SAPPHIRE]] コメント/ナンイドオモテ/オニ/BLUE SAPPHIRE
 -[[コメント/難易度表/おに/BLUE SAPPHIRE(裏譜面)]] コメント/ナンイドオモテ/オニ/BLUE SAPPHIRE(ウラフメン)
 -[[コメント/難易度表/おに/BLUE TOPAZ]] コメント/ナンイドオモテ/オニ/BLUE TOPAZ
 -[[コメント/難易度表/おに/BON VOYAGE!]] コメント/ナンイドオモテ/オニ/BON VOYAGE!
@@ -4475,6 +4474,7 @@
 -[[コメント/難易度表/ふつう/Dive to Blue]] コメント/ナンイドオモテ/フツウ/Dive to Blue
 -[[コメント/難易度表/ふつう/Diver]] コメント/ナンイドオモテ/フツウ/Diver
 -[[コメント/難易度表/ふつう/Do-Dai]] コメント/ナンイドオモテ/フツウ/Do-Dai
+-[[コメント/難易度表/ふつう/Dogbite]] コメント/ナンイドオモテ/フツウ/Dogbite
 -[[コメント/難易度表/ふつう/Dokkin 魔法つかいプリキュア！]] コメント/ナンイドオモテ/フツウ/Dokkin マホウツカイプリキュア！
 -[[コメント/難易度表/ふつう/Don't Stop the Game]] コメント/ナンイドオモテ/フツウ/Don't Stop the Game
 -[[コメント/難易度表/ふつう/Doom Noiz]] コメント/ナンイドオモテ/フツウ/Doom Noiz
