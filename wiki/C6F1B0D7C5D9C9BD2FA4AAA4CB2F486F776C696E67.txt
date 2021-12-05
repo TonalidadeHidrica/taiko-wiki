@@ -19,7 +19,6 @@
 -[[かんたん>難易度表/かんたん/Howling]]
 -[[ふつう>難易度表/ふつう/Howling]]
 -[[むずかしい>難易度表/むずかしい/Howling]]
--[[オート動画>https://www.youtube.com/watch?v=bHnUssdtp8Y]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -200,7 +200,7 @@
 -[[ETERNAL BLAZE>難易度表/おに/ETERNAL BLAZE]]
 
 ***Linked Horizon [#singeki]
--[[紅蓮の弓矢>難易度表/おに/紅蓮の弓矢]]((AC15のみ))
+-[[紅蓮の弓矢>難易度表/おに/紅蓮の弓矢]]((ACのみ))
 
 ***T.M.Revolution×水樹奈々 [#tmnana]
 -[[Preserved Roses>難易度表/おに/Preserved Roses]]
@@ -368,7 +368,7 @@
 -[[ゆーがらお友達>難易度表/おに/ゆーがらお友達]]
 
 ***上白石萌歌 [#hanakappa]
--[[ス・マ・イ・ル>難易度表/おに/ス・マ・イ・ル]]
+-[[ス・マ・イ・ル>難易度表/おに/ス・マ・イ・ル]]((AC16以前のジャンルはアニメ))
 
 ***安室奈美恵[#amuroKIDS]
 -[[Hope>難易度表/おに/Hope]]

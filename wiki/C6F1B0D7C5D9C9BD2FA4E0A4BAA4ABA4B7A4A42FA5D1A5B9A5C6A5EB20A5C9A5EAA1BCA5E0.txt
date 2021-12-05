@@ -22,6 +22,7 @@
 |CENTER:AC15.1.0SP||CENTER:★×7|CENTER:''522''|CENTER:''?????0点''|CENTER:＋連打|CENTER:440点|CENTER:113点|
 |CENTER:AC15.2.0|CENTER:Wii U1&br;PS4 1DL|~|~|CENTER:''?????0点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){1700点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''991800点''|~|CENTER:1900点|CENTER:-|
 -1人用譜面の1P側の45、47小節目の2つ目の縁と、2P側の53、55小節目の2つ目の縁があったところが1P側・2P側共になく、その分の4コンボが減っている。
 -97、98小節目と105、106小節目の面と縁が入れ替わって配置されている。
 

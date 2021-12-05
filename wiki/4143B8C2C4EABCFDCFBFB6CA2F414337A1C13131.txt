@@ -2,7 +2,8 @@
 #contents
 -[[AC1〜6>AC限定収録曲/AC1〜6]]
 -[[AC12〜14>AC限定収録曲/AC12〜14]]
--[[AC新筐体>AC限定収録曲]]
+-[[新筐体(グリーンまで)>AC限定収録曲/AC15]]
+-[[AC16>AC限定収録曲]]
 -背景がピンク色(COLOR(pink){■})の曲・・・その作品のみの限定曲(亜洲版は含まない)
 
 **AC7 [#ac7]
@@ -10,7 +11,7 @@
 ***限定収録曲 [#ac7only]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM((※があるものは細かなBPM変化がある)) |BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop7);|
 |''ロコローション''|140|[[★×3>難易度表/かんたん/ロコローション]]|[[★×4>難易度表/ふつう/ロコローション]]|[[★×4>難易度表/むずかしい/ロコローション]]|[[★×7>難易度表/おに/ロコローション]]|
 |>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
@@ -37,7 +38,7 @@
 ***CSに収録されたことがあるが、CSに収録されていない譜面がある曲 [#ac7score]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM |BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''&aname(anime7score);|
 |''アンパンマンのマーチ''|96|-|[[★×2>難易度表/ふつう/アンパンマンのマーチ]]|-|-|
 |>|>|>|>|>|BGCOLOR(gold):''クラシック''&aname(classic7score);|
@@ -48,7 +49,7 @@
 ***限定収録曲 [#ac8only]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM |BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop8);|
 |''超特急''|96-99|[[★×3>難易度表/かんたん/超特急]]|[[★×3>難易度表/ふつう/超特急]]|[[★×4>難易度表/むずかしい/超特急]]|[[★×6>難易度表/おに/超特急]]|
 |''ロコローション''|140|[[★×3>難易度表/かんたん/ロコローション]]|[[★×4>難易度表/ふつう/ロコローション]]|[[★×4>難易度表/むずかしい/ロコローション]]|[[★×7>難易度表/おに/ロコローション]]|
@@ -78,7 +79,7 @@
 ***CSに収録されたことがあるが、CSに収録されていない譜面がある曲 [#ac8score]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM |BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''&aname(anime8score);|
 |''アンパンマンのマーチ''|96|-|[[★×2>難易度表/ふつう/アンパンマンのマーチ]]|-|-|
 |>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
@@ -92,7 +93,7 @@
 ***限定収録曲 [#ac9only]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM |BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop9);|
 |''超特急''|96-99|[[★×3>難易度表/かんたん/超特急]]|[[★×3>難易度表/ふつう/超特急]]|[[★×4>難易度表/むずかしい/超特急]]|[[★×6>難易度表/おに/超特急]]|
 |>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
@@ -116,7 +117,7 @@
 ***CSに収録されたことがあるが、CSに収録されていない譜面がある曲 [#ac9score]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop9score);|
 |>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
 |''決意の朝に''|84|[[★×3>難易度表/かんたん/決意の朝に]]|[[★×4>難易度表/ふつう/決意の朝に]]|[[★×6>難易度表/むずかしい/決意の朝に]]|-|
@@ -129,7 +130,7 @@
 ***限定収録曲 [#ac10only]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop10);|
 |''千の夜をこえて''|74-88|[[★×3>難易度表/かんたん/千の夜をこえて]]|[[★×4>難易度表/ふつう/千の夜をこえて]]|[[★×5>難易度表/むずかしい/千の夜をこえて]]|[[★×6>難易度表/おに/千の夜をこえて]]|
 |''Lovin' Life''|96|[[★×3>難易度表/かんたん/Lovin' Life]]|[[★×5>難易度表/ふつう/Lovin' Life]]|[[★×5>難易度表/むずかしい/Lovin' Life]]|[[★×6>難易度表/おに/Lovin' Life]]|
@@ -163,7 +164,7 @@
 ***CSに収録されたことがあるが、CSに収録されていない譜面がある曲 [#ac10score]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop10score);|
 |''DANCE2 feat.ソイソース''|140|-|[[★×4>難易度表/ふつう/DANCE2 feat.ソイソース]]|-|-|
 |>|>|>|>|>|BGCOLOR(darkorchid):''ゲームミュージック''&aname(game10score);|
@@ -173,14 +174,14 @@
 ***CSにDLCとしてのみ収録されたことがあるが、現在はダウンロードできない曲 [#ac10dlc]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(gold):''クラシック''&aname(classic10dlc);|
 |>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
 |''序曲「フィガロの結婚」''|150|[[★×4>難易度表/かんたん/序曲「フィガロの結婚」]]|[[★×5>難易度表/ふつう/序曲「フィガロの結婚」]]|[[★×6>難易度表/むずかしい/序曲「フィガロの結婚」]]|[[★×7>難易度表/おに/序曲「フィガロの結婚」]]|
 
 ***CSに収録されたことがあるが、現在はAC譜面がダウンロードできない曲 [#ac10scoredlc]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop10scoredlc);|
 |''アゲ♂アゲ♂EVERY☆騎士''|132|-|-|-|[[★×8>難易度表/おに/アゲ♂アゲ♂EVERY☆騎士]]|
 
@@ -189,7 +190,7 @@
 ***限定収録曲 [#ac11only]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop11);|
 |''千の夜をこえて''|74-88|[[★×3>難易度表/かんたん/千の夜をこえて]]|[[★×4>難易度表/ふつう/千の夜をこえて]]|[[★×5>難易度表/むずかしい/千の夜をこえて]]|[[★×6>難易度表/おに/千の夜をこえて]]|
 |''Lovin' Life''|96|[[★×3>難易度表/かんたん/Lovin' Life]]|[[★×5>難易度表/ふつう/Lovin' Life]]|[[★×5>難易度表/むずかしい/Lovin' Life]]|[[★×7>難易度表/おに/Lovin' Life]]|
@@ -225,13 +226,13 @@
 ***CSに収録されたことがあるが、CSに収録されていない譜面がある曲 [#ac11score]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop11score);|
 |''DANCE2 feat.ソイソース''|140|-|[[★×4>難易度表/ふつう/DANCE2 feat.ソイソース]]|-|-|
 
 ***CSに収録されたことがあるが、現在はAC譜面がダウンロードできない曲 [#ac11scoredlc]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop11scoredlc);|
 |''アゲ♂アゲ♂EVERY☆騎士''|132|-|-|-|[[★×8>難易度表/おに/アゲ♂アゲ♂EVERY☆騎士]]|
 
@@ -241,7 +242,7 @@
 ***CSに収録されたことがあるが、CSに収録されていない譜面がある曲 [#ac11ascore]
 
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(darkorchid):''ゲームミュージック''&aname(game11ascore);|
 |''エージェント夜を往く''|178|-|-|-|[[★×8>難易度表/おに/エージェント夜を往く]]|
 |>|>|>|>|>|BGCOLOR(orangered):''ナムコオリジナル''&aname(namco11ascore);|

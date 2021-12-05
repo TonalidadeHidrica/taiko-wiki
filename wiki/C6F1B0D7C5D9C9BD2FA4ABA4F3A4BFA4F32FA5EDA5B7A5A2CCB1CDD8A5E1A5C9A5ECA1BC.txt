@@ -1,13 +1,14 @@
 *ロシア民謡メドレー [#title]
 ***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|CENTER:人数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC8|CENTER:''CS6''|CENTER:''童謡・民謡''|CENTER:★×4|CENTER:''122''|CENTER:1人|CENTER:''323830点''|CENTER:＋連打|CENTER:750点|CENTER:270点|
+|CENTER:AC8|CENTER:''CS6''|BGCOLOR(magenta):''童謡・民謡''|CENTER:★×4|CENTER:''122''|CENTER:1人|CENTER:''323830点''|CENTER:＋連打|CENTER:750点|CENTER:270点|
 |~|~|~|~|~|CENTER:2人((手つなぎ音符と芋音符でスコアが変わる))|CENTER:''353770点''|~|~|~|
-|CENTER:AC15.1.0||CENTER:''どうよう''|~|~||CENTER:''348460点''|~|CENTER:870点|CENTER:415点|
+|CENTER:AC15.1.0||BGCOLOR(magenta):''どうよう''|~|~||CENTER:''348460点''|~|CENTER:870点|CENTER:415点|
 |CENTER:AC15.2.0||~|~|~||CENTER:''347120点''|~|CENTER:860点|~|
-||CENTER:Wii4|CENTER:''バラエティ''|~|~||CENTER:''330860点''|~|~|CENTER:260点|
-|CENTER:COLOR(#ff3300){真打}|||~|~||CENTER:COLOR(#ff3300){''989020点''}|~|CENTER:COLOR(#ff3300){7330点}|CENTER:-|
-|CENTER:AC16.1.0||CENTER:''ポップス''|~|~||CENTER:''995000点''|~|CENTER:8150点|CENTER:-|
+||Wii4|BGCOLOR(lime):''バラエティ''|~|~||CENTER:''330860点''|~|~|CENTER:260点|
+|COLOR(#ff3300){真打}|||~|~||CENTER:COLOR(#ff3300){''989020点''}|~|CENTER:COLOR(#ff3300){7330点}|CENTER:-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~||CENTER:''995000点''|~|CENTER:8150点|CENTER:-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約100〜146。

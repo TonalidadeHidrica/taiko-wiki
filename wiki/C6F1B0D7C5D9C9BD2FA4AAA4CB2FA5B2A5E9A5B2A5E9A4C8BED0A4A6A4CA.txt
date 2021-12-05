@@ -40,4 +40,7 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(¥²¥é¥²¥é¤È¾Ð¤¦¤Ê2.png,nolink);
+ 127¾®ÀáÌÜ ¢ª 15/16Çï»Ò
+ 128¾®ÀáÌÜ ¢ª BPM 179.71¡¢HS 0.5¡¢1/8Çï»Ò
+ 129¾®ÀáÌÜ ¢ª BPM 79.09¡¢HS 1.14
+&attachref(iagera.png,nolink);

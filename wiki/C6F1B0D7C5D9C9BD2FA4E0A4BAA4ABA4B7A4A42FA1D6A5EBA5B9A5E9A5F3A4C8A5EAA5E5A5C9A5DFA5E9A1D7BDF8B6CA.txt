@@ -1,13 +1,16 @@
 *「ルスランとリュドミラ」序曲 [#title]
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSP2''|CENTER:★×7|CENTER:''488''|CENTER:''850680点''|CENTER:＋連打|CENTER:570点|CENTER:110点|
-|CENTER:AC14|CENTER:iOS|~|~|CENTER:''842660点''|~|CENTER:440点|CENTER:120点|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''846610点''}|~|CENTER:COLOR(#ff3300){1590点}|CENTER:-|
-|CENTER:AC15.1.0||~|~|CENTER:''849740点''|~|CENTER:530点|CENTER:133点|
-|CENTER:AC15.2.0|CENTER:Wii U2|~|~|CENTER:''849480点''|~|~|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){1880点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSP2''|BGCOLOR(gold):''クラシック''|CENTER:★×7|CENTER:''488''|CENTER:''850680点''|CENTER:＋連打|CENTER:570点|CENTER:110点|
+|CENTER:AC14|CENTER:iOS|~|~|~|CENTER:''842660点''|~|CENTER:440点|CENTER:120点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''846610点''}|~|CENTER:COLOR(#ff3300){1590点}|CENTER:-|
+|CENTER:AC15.1.0||~|~|~|CENTER:''849740点''|~|CENTER:530点|CENTER:133点|
+|CENTER:AC15.2.0|CENTER:Wii U2|~|~|~|CENTER:''849480点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){1880点}|CENTER:-|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''?????0点''|~|??0点|-|
+|~|~|BGCOLOR(gold):''クラシック''|~|~|~|~|~|~|
+
 -BPMは約160〜180。
 --Wii U2ではゴーゴータイムにHSがかかっており、見かけ上のBPMは全て約160となっている。
 -[[夏祭り(おに)>難易度表/おに/夏祭り]]や[[ナムコットメドレー(おに)>難易度表/おに/ナムコットメドレー]]などと同じコンボ数である。
@@ -18,7 +21,7 @@
 -ラストに出てくる8分の大音符ラッシュに注意。両手でないと特良が取れない家庭用では鬼門である。
 -作曲者は、''ミハイル・グリンカ''。
 -略称は、''ルスラン、ルリ序''。
--曲IDは、''clsrou''
+-曲IDは、''clsrou''。
 --理由は''Rou''slanからとられたと思われる。
 
 -[[かんたん>難易度表/かんたん/「ルスランとリュドミラ」序曲]]

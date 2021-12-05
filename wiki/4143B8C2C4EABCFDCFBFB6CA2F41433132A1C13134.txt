@@ -2,7 +2,8 @@
 #contents
 -[[AC1〜6>AC限定収録曲/AC1〜6]]
 -[[AC7〜11>AC限定収録曲/AC7〜11]]
--[[AC新筐体>AC限定収録曲]]
+-[[新筐体(グリーンまで)>AC限定収録曲/AC15]]
+-[[AC16>AC限定収録曲]]
 -背景がピンク色(COLOR(pink){■})の曲・・・その作品のみの限定曲
 
 **AC12・AC12増量版 [#ac12]
@@ -10,7 +11,7 @@
 
 ***限定収録曲 [#ac12only]
 |CENTER:1|||>|>|>|CENTER:64|c
-||''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+||''曲名''|BPM((※があるものは細かなBPM変化がある)) |BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop12);|
 ||''泣かないで''|165|[[★×3>難易度表/かんたん/泣かないで]]|[[★×4>難易度表/ふつう/泣かないで]]|[[★×5>難易度表/むずかしい/泣かないで]]|[[★×5>難易度表/おに/泣かないで]]|
 ||''LIFE''|127|[[★×3>難易度表/かんたん/LIFE]]|[[★×5>難易度表/ふつう/LIFE]]|[[★×6>難易度表/むずかしい/LIFE]]|[[★×8>難易度表/おに/LIFE]]|
@@ -48,7 +49,7 @@
 
 ***CSにDLCとしてのみ収録されたことがあるが、現在はダウンロードできない曲 [#ac13dlc]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''&aname(anime12dlc);|
 |''キン肉マン Go Fight!''|149|[[★×3>難易度表/かんたん/キン肉マン Go Fight!]]|[[★×4>難易度表/ふつう/キン肉マン Go Fight!]]|[[★×5>難易度表/むずかしい/キン肉マン Go Fight!]]|[[★×6>難易度表/おに/キン肉マン Go Fight!]]|
 |>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
@@ -56,7 +57,7 @@
 
 ***CSに収録されたことがあるが、現在はAC譜面がダウンロードできない曲 [#ac12scoredlc]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop12scoredlc);|
 |''アゲ♂アゲ♂EVERY☆騎士''|132|-|-|-|[[★×8>難易度表/おに/アゲ♂アゲ♂EVERY☆騎士]]|
 
@@ -65,7 +66,7 @@
 
 ***限定収録曲 [#ac12aonly]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop12a);|
 |''My Sweet Darlin'''|157|[[★×3>難易度表/かんたん/My Sweet Darlin']]|[[★×4>難易度表/ふつう/My Sweet Darlin']]|[[★×4>難易度表/むずかしい/My Sweet Darlin']]|[[★×6>難易度表/おに/My Sweet Darlin']]|
 |''タイヨウのうた''|84※|[[★×3>難易度表/かんたん/タイヨウのうた]]|[[★×4>難易度表/ふつう/タイヨウのうた]]|[[★×3>難易度表/むずかしい/タイヨウのうた]]|[[★×4>難易度表/おに/タイヨウのうた]]|
@@ -85,7 +86,7 @@
 **AC13 [#ac13]
 ***限定収録曲 [#ac13only]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop13);|
 |''プルメリア〜花唄〜''|114|[[★×3>難易度表/かんたん/プルメリア〜花唄〜]]|[[★×4>難易度表/ふつう/プルメリア〜花唄〜]]|[[★×6>難易度表/むずかしい/プルメリア〜花唄〜]]|[[★×7>難易度表/おに/プルメリア〜花唄〜]]|
 |''歩み''|90|[[★×3>難易度表/かんたん/歩み]]|[[★×4>難易度表/ふつう/歩み]]|[[★×5>難易度表/むずかしい/歩み]]|[[★×3>難易度表/おに/歩み]]|
@@ -125,7 +126,7 @@
 
 ***CSに収録されたことがあるが、CSに収録されていない譜面がある曲 [#ac13score]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop13score);|
 |>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
 |''俺ら東京さ行ぐだ''|118.5|-|-|-|[[★×8>難易度表/おに/俺ら東京さ行ぐだ]]|
@@ -135,7 +136,7 @@
 
 ***CSにDLCとしてのみ収録されたことがあるが、現在はダウンロードできない曲 [#ac13dlc]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop13dlc);|
 |''LOVE 2000''|170|[[★×3>難易度表/かんたん/LOVE 2000]]|[[★×4>難易度表/ふつう/LOVE 2000]]|[[★×5>難易度表/むずかしい/LOVE 2000]]|[[★×6>難易度表/おに/LOVE 2000]]|
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''&aname(anime13dlc);|
@@ -146,7 +147,7 @@
 
 ***限定収録曲 [#ac14only]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop14);|
 |''プルメリア〜花唄〜''|114|[[★×3>難易度表/かんたん/プルメリア〜花唄〜]]|[[★×4>難易度表/ふつう/プルメリア〜花唄〜]]|[[★×6>難易度表/むずかしい/プルメリア〜花唄〜]]|[[★×7>難易度表/おに/プルメリア〜花唄〜]]|
 |''LIFE''|127|[[★×3>難易度表/かんたん/LIFE]]|[[★×5>難易度表/ふつう/LIFE]]|[[★×6>難易度表/むずかしい/LIFE]]|[[★×8>難易度表/おに/LIFE]]|
@@ -169,7 +170,7 @@
 
 ***CSにDLCとしてのみ収録されたことがあるが、現在はダウンロードできない曲 [#ac14dlc]
 |||>|>|>|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop14dlc);|
 |''LOVE 2000''|170|[[★×3>難易度表/かんたん/LOVE 2000]]|[[★×4>難易度表/ふつう/LOVE 2000]]|[[★×5>難易度表/むずかしい/LOVE 2000]]|[[★×6>難易度表/おに/LOVE 2000]]|
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''&aname(anime14dlc);|
