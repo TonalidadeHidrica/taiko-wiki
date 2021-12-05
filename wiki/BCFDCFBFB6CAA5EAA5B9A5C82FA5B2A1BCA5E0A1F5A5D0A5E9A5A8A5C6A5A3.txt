@@ -151,6 +151,7 @@
 |''Act! Addict! Actors!(裏譜面)''|~|-|-|-|[[★×8>難易度表/おに/Act! Addict! Actors!(裏譜面)]]|
 |''Altale''|83-180|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|
 |''Altale(裏譜面)''|~|-|-|-|[[★×10>難易度表/おに/Altale(裏譜面)]]|
+|''ALiVE''|170|[[★×3>難易度表/かんたん/ALiVE]]|[[★×4>難易度表/ふつう/ALiVE]]|[[★×6>難易度表/むずかしい/ALiVE]]|[[★×9>難易度表/おに/ALiVE]]|
 |''Angel Halo''|224|[[★×5>難易度表/かんたん/Angel Halo]]|[[★×7>難易度表/ふつう/Angel Halo]]|[[★×8>難易度表/むずかしい/Angel Halo]]|[[★×10>難易度表/おに/Angel Halo]]|
 |''Asteroid''|144-288|[[★×5>難易度表/かんたん/Asteroid]]|[[★×7>難易度表/ふつう/Asteroid]]|[[★×8>難易度表/むずかしい/Asteroid]]|[[★×9>難易度表/おに/Asteroid]]|
 |''Bad Apple!! feat.nomico''|138※|[[★×3>難易度表/かんたん/Bad Apple!! feat.nomico]]|[[★×5>難易度表/ふつう/Bad Apple!! feat.nomico]]|[[★×6>難易度表/むずかしい/Bad Apple!! feat.nomico]]|[[★×8>難易度表/おに/Bad Apple!! feat.nomico]]|

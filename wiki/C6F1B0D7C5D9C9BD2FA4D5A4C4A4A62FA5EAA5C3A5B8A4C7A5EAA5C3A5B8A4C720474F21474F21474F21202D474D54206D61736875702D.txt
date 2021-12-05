@@ -4,6 +4,8 @@
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.4.8''|CENTER:★×6|CENTER:''300''|CENTER:''637560点''|CENTER:＋連打|CENTER:570点|CENTER:153点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''987740点''}|~|CENTER:COLOR(#ff3300){2770点}|CENTER:-|
+|CENTER:AC16.1.0|~|~|CENTER:''?????0点''|~|CENTER:???0点|CENTER:-|
+
 -BPMは146。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。
 --全ての黄色連打にHSがかかっており、追い越し通過もあるので注意。

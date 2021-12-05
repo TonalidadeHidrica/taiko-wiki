@@ -44,5 +44,4 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-~風船、くすだまの長さは暫定
-~&attachref(star_e.png,nolink);
+~&attachref(star_easy.png,nolink);

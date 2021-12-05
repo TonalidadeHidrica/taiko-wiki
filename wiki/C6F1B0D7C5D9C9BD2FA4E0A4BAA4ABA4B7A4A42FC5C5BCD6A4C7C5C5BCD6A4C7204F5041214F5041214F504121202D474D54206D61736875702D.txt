@@ -4,6 +4,8 @@
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.4.8''|CENTER:★×7|CENTER:''451''|CENTER:''837740点''|CENTER:＋連打|CENTER:570点|CENTER:148点|
 |CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''988900点''}|~|CENTER:COLOR(#ff3300){2100点}|CENTER:-|
+|CENTER:AC16.1.0|~|~|CENTER:''?????0点''|~|CENTER:???0点|CENTER:-|
+
 -BPMは134〜268。
 --268地帯はHS0.7がかかっており、見かけ上のBPMは134〜187.6。
 -黄色連打が多い連打曲である。
