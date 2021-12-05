@@ -28,4 +28,6 @@
 #pcomment(,noname)
 
 ***╔ш╠╠ [#score]
+-BPM╩╤▓╜
+ 60╛о└с:134.42 вк 109.57 вк 97.89 вк 81.77
 ~&attachref(3tisbz_m.png,nolink);
