@@ -1,19 +1,22 @@
 *風雲！バチお先生 [#title]
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC3''||CENTER:''和風''|CENTER:★×7|CENTER:''476''|CENTER:''796360点''|CENTER:+連打|CENTER:560点|CENTER:120点|
-||CENTER:CS1|~|~|~|CENTER:''803760点''|~|~|~|
-|CENTER:AC4〜6||CENTER:''ポップス''|~|~|CENTER:''853490点''|~|CENTER:590点|CENTER:130点|
-|CENTER:AC7||CENTER:''ナムコ&br;オリジナル''|~|~|CENTER:''843110点''|~|CENTER:480点|~|
-||CENTER:PSP1DL,2|~|~|~|CENTER:''827450点''|~|CENTER:550点|CENTER:120点|
-|CENTER:AC9||~|CENTER:★×6|~|CENTER:''797810点''|~|CENTER:480点|~|
-||CENTER:DS1|~|CENTER:★×7|CENTER:''320''|CENTER:''797490点''|~|CENTER:730点|CENTER:190点|
-|CENTER:AC10〜12増|CENTER:Wii2SP,4SP&br;PSPDXDL&br;iOS&br;AR|~|CENTER:★×6|~|CENTER:''795780点''|~|CENTER:720点|~|
-|CENTER:AC14SP||~|CENTER:★×7|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''798050点''}|~|CENTER:COLOR(#ff3300){2450点}|CENTER:-|
-|CENTER:AC15.8.5|CENTER:3DS3DL&br;PS4 1DL|~|CENTER:★×6|~|CENTER:''798070点''|~|CENTER:790点|CENTER:225点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''1000280点''}|~|CENTER:COLOR(#ff3300){3080点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|~|CENTER:''1000700点''|~|CENTER:3120点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC3''||''和風''|★×7|''476''|''796360点''|+連打|560点|120点|
+||CS1|~|~|~|''803760点''|~|~|~|
+|AC4||''ポップス''|~|~|''853490点''|~|590点|130点|
+|AC5-6||''ポップス''|~|~|~|~|~|~|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+|AC7||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''843110点''|~|480点|~|
+||PSP1DL&br;PSP2|~|~|~|''827450点''|~|550点|120点|
+|AC9||~|★×6|~|''797810点''|~|480点|~|
+||DS1|~|★×7|''320''|''797490点''|~|730点|190点|
+|AC10-12増|Wii2SP&br;Wii4SP&br;PSPDXDL&br;iOS&br;AR|~|★×6|~|''795780点''|~|720点|~|
+|AC14SP||~|★×7|~|~|~|~|~|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''798050点''}|~|COLOR(#ff3300){2450点}|-|
+|AC15.8.5|3DS3DL&br;PS4 1DL|~|★×6|~|''798070点''|~|790点|225点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1000280点''}|~|COLOR(#ff3300){3080点}|-|
+|AC16.1.0||~|~|~|''1000700点''|~|3120点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約130。
@@ -50,13 +53,15 @@
 -[[プレイ動画(AC9,旧譜面)>https://www.youtube.com/watch?v=IN05BI4uBJM]]
 -[[オート動画(Wii4,新譜面)>https://www.youtube.com/watch?v=VxbCaxbZO1I]]
 
-***コメント [#ra61a8d5]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fc91acd7]
-AC10以降。DS1・AC14は★★★★★★★☆
-&ref(bachio_hard.png,nolink);
-~旧譜面~
-AC7からは風船23打~
-AC9のみ★×6
-&ref(bachio_hard_old.png,nolink);
+***譜面 [#score]
+~AC10以降。
+~DS1・AC14は★★★★★★★☆
+~&ref(bachio_hard.png,nolink);
+
+~旧譜面
+~AC7からは風船23打
+~AC9のみ★×6
+~&ref(bachio_hard_old.png,nolink);

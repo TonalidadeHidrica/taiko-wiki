@@ -14,18 +14,17 @@
 
 |CENTER:90|||c
 |>|>|CENTER:''配信楽曲''|h
-|>|>|CENTER:BGCOLOR(pink):10/8配信|
-|BGCOLOR(orange):''深夜アニメパック&br;Vol.2''|[[''ごまかし''>難易度表/おに/ごまかし]]|「マギアレコード 魔法少女まどか☆マギカ外伝」より|
-|~|[[''青空のラプソディ''>難易度表/おに/青空のラプソディ]]／[[''(裏)''>難易度表/おに/青空のラプソディ(裏譜面)]]|TVアニメ「小林さんちのメイドラゴン」OP主題歌|
-|~|[[''Paradisus-Paradoxum''>難易度表/おに/Paradisus-Paradoxum]]|「Re:ゼロから始める異世界生活」より|
-|~|[[''Rising Hope''>難易度表/おに/Rising Hope]]|「魔法科高校の劣等生」より|
-|~|[[''only my railgun''>難易度表/おに/only my railgun]]|「とある科学の超電磁砲」より|
-|BGCOLOR(darkorchid):''DEEMOパック''|[[''Saika''>難易度表/おに/Saika]]|Rabpit 「DEEMO」より|
-|~|[[''Leviathan''>難易度表/おに/Leviathan]]|NeLiME 「DEEMO」より|
-|~|[[''Wish upon a shooting star''>難易度表/おに/Wish upon a shooting star]]|SUi 「DEEMO」より|
-|~|[[''Magi&#67;atz''>難易度表/おに/MagiCatz]]|Sakuzyo 「DEEMO」より|
-|~|[[''ANiMA''>難易度表/おに/ANiMA]]|xi 「DEEMO」より|
-|BGCOLOR(darkorchid):''ゲームミュージック&br;（単品販売）''|[[''BORN ON DREAM! 〜HANABI☆NIGHT〜''>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|「アイドルマスター ミリオンライブ！ シアターデイズ」より|
+|>|>|CENTER:BGCOLOR(pink):11/12配信|
+|BGCOLOR(silver):''ボーカロイド&#8482;曲パック&br;Vol.6''|[[''バイオレンストリガー''>難易度表/おに/バイオレンストリガー]]|八王子P feat.初音ミク 「戦闘摂理解析システム#コンパス」より|
+|~|[[''Tell Your World''>難易度表/おに/Tell Your World]]|原曲：livetune feat.初音ミク|
+|~|[[''ブラック★ロックシューター''>難易度表/おに/ブラック★ロックシューター]]|原曲：supercell feat.初音ミク|
+|~|[[''にんじんにん''>難易度表/おに/にんじんにん]]|豊永ごんたP|
+|~|[[''花オト裏拍子''>難易度表/おに/花オト裏拍子]]|はるなば feat.初音ミク|
+|BGCOLOR(orangered):''ドンだーパック&br;-ジュブナイル-''|[[''CYBERgenicALICE''>難易度表/おに/CYBERgenicALICE]]||
+|~|[[''クロス・ブルー''>難易度表/おに/クロス・ブルー]]||
+|~|[[''月影SASURAI''>難易度表/おに/月影SASURAI]]／[[''(裏)''>難易度表/おに/月影SASURAI(裏譜面)]]||
+|~|[[''BE THE ACE''>難易度表/おに/BE THE ACE]]||
+|~|[[''∫-integral-''>難易度表/おに/∫-integral-]]|Jack C feat. Saoring|
 ----
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h

@@ -1,20 +1,23 @@
 *風雲！バチお先生 [#title]
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC3''||CENTER:''和風''|>|>|>|>|>|CENTER:''ふつうコースはなし((むずかしいコース以上のみ存在))''|
-||CENTER:''CS1''|~|CENTER:★×3|CENTER:''245''|CENTER:''564700点''|CENTER:+連打|CENTER:750点|CENTER:190点|
-|CENTER:AC4||CENTER:''ポップス''|~|~|CENTER:''565600点''|~|~|~|
-|CENTER:AC5||~|CENTER:★×4|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
-|CENTER:AC6||~|CENTER:★×5|~|CENTER:''599880点''|~|CENTER:810点|CENTER:200点|
-|CENTER:AC7||CENTER:''ナムコ&br;オリジナル''|~|~|CENTER:''?????0点''|~|CENTER:730点|CENTER:180点|
-||CENTER:PSP1DL&br;PSP2|~|~|~|CENTER:''586410点''|~|CENTER:780点|~|
-|CENTER:AC9||~|~|~|CENTER:''597820点''|~|CENTER:800点|~|
-||CENTER:DS1|~|~|CENTER:''184''|CENTER:''519850点''|~|CENTER:850点|CENTER:240点|
-|CENTER:AC10〜12増&br;AC14SP|CENTER:Wii2SP、4SP&br;PSPDXDL&br;iOS&br;AR|~|~|~|CENTER:''579500点''|~|CENTER:1000点|CENTER:260点|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''590770点''}|~|CENTER:COLOR(#ff3300){3110点}|CENTER:-|
-|CENTER:AC15.8.5|CENTER:3DS3DL&br;PS4 1DL|~|~|~|CENTER:''590560点''|~|CENTER:1020点|CENTER:355点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''990950点''}|~|CENTER:COLOR(#ff3300){5250点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|~|CENTER:''995100点''|~|CENTER:5400点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC3''||''和風''|>|>|>|>|>|''ふつうコースはなし((むずかしいコース以上のみ存在))''|
+||''CS1''|~|★×3|''245''|''564700点''|+連打|750点|190点|
+|AC4||''ポップス''|~|~|''565600点''|~|~|~|
+|AC5||''ポップス''|★×4|~|''?????0点''|~|??0点|??0点|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+|AC6||''ポップス''|★×5|~|''599880点''|~|810点|200点|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+|AC7||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''?????0点''|~|730点|180点|
+||PSP1DL&br;PSP2|~|~|~|''586410点''|~|780点|~|
+|AC9||~|~|~|''597820点''|~|800点|~|
+||DS1|~|~|''184''|''519850点''|~|850点|240点|
+|AC10-12増&br;AC14SP|Wii2SP&br;Wii4SP&br;PSPDXDL&br;iOS&br;AR|~|~|~|''579500点''|~|1000点|260点|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''590770点''}|~|COLOR(#ff3300){3110点}|-|
+|AC15.8.5|3DS3DL&br;PS4 1DL|~|~|~|''590560点''|~|1020点|355点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''990950点''}|~|COLOR(#ff3300){5250点}|-|
+|AC16.1.0||~|~|~|''995100点''|~|5400点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約130。
@@ -48,20 +51,20 @@
 --ドラムは、''斉藤孝''。
 --トラックダウンは、''村上正信''。
 -曲IDは、''nao''。
-
+----
 -[[かんたん>難易度表/かんたん/風雲！バチお先生]]/[[ロング>難易度表/かんたん/風雲！バチお先生(裏譜面)]]
 -ふつう/[[ロング>難易度表/ふつう/風雲！バチお先生(裏譜面)]]
 -[[むずかしい>難易度表/むずかしい/風雲！バチお先生]]/[[ロング>難易度表/むずかしい/風雲！バチお先生(裏譜面)]]
 -[[おに>難易度表/おに/風雲！バチお先生]]/[[ロング>難易度表/おに/風雲！バチお先生(裏譜面)]]
--[[オート動画(Wii4,新譜面)>http://www.youtube.com/watch?v=m0X5z7W8MMw]]
--[[オート動画(CS1,旧譜面)>http://www.youtube.com/watch?v=qFPcsICVps4]]
+-[[オート動画(Wii4,新譜面)>https://www.youtube.com/watch?v=m0X5z7W8MMw]]
+-[[オート動画(CS1,旧譜面)>https://www.youtube.com/watch?v=qFPcsICVps4]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-DS1以降の譜面
-&ref(釣り橋かけて渡ろうよ.png,nolink);
+~DS1以降の譜面
+~&ref(釣り橋かけて渡ろうよ.png,nolink);
 
 ~AC9以前の譜面
-&ref(nao_n_old.png,nolink);
+~&ref(nao_n_old.png,nolink);

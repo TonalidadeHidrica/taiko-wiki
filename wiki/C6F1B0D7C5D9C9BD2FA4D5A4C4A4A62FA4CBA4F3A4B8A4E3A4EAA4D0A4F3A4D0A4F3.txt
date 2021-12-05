@@ -1,12 +1,14 @@
 *にんじゃりばんばん [#title]
-***詳細・攻略 [#details]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.3.4''|CENTER:Wii U1&br;3DS2DL|CENTER:''J-POP''|CENTER:★×5|CENTER:''233''|CENTER:''593820点''|CENTER:＋連打|CENTER:680点|CENTER:228点|
-||CENTER:PS4 1|CENTER:''ポップス''|~|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''994140点''}|~|CENTER:COLOR(#ff3300){3780点}|CENTER:-|
-||CENTER:iOS|CENTER:''J-POP''|~|~|CENTER:''588140点''|~|CENTER:630点|CENTER:180点|
-|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''997240点''|~|CENTER:4280点|CENTER:-|
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.3.4''|Wii U1&br;3DS2DL|BGCOLOR(cyan):''J-POP''|★×5|''233''|''593820点''|＋連打|680点|228点|
+||PS4 1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''994140点''}|~|COLOR(#ff3300){3780点}|-|
+||iOS|BGCOLOR(cyan):''J-POP''|~|~|''588140点''|~|630点|180点|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''997240点''|~|4280点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは130。
 -連打秒数目安・・・SIZE(16){約0.423秒}−約0.423秒−約0.654秒×3−約1.115秒：合計約3.923秒
 -大音符が多く、30個ある（全体の約12.9%）。
@@ -22,10 +24,12 @@
 --iOSでは''本人音源''である。
 --作詞・作曲・編曲は、中田ヤスタカ。
 -譜面作成は、''カワーゲン・コラーゲン''。
+-曲IDは、''ninjbb''。
+----
 -[[かんたん>難易度表/かんたん/にんじゃりばんばん]]
 -[[むずかしい>難易度表/むずかしい/にんじゃりばんばん]]
 -[[おに>難易度表/おに/にんじゃりばんばん]]
--[[オート動画>http://www.youtube.com/watch?v=f4RvYj6g9EI]]
+-[[オート動画>https://www.youtube.com/watch?v=f4RvYj6g9EI]]
 
 ***コメント [#comment]
 #pcomment(,noname)

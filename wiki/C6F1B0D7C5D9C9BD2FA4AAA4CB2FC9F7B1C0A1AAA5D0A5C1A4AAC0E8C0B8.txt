@@ -7,9 +7,9 @@
 |''AC3''||~|~|~|''777600点''|~|-|-|
 |AC4||''ポップス''|~|~|~|~|-|-|
 |AC5||''ポップス''|~|~|~|~|-|-|
-|~||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
 |AC6||''ポップス''|★×9|~|~|~|-|-|
-|~||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|-|-|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
 |AC7||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|~|''827500点''|~|-|-|
 ||PSP1DL|~|~|~|''820000点''|~|-|-|
 ||PSP2|~|~|~|''1044800点''|~|800点|140点|
@@ -83,7 +83,7 @@
 -[[むずかしい>難易度表/むずかしい/風雲！バチお先生]]/[[ロング>難易度表/むずかしい/風雲！バチお先生(裏譜面)]]
 -おに/[[ロング>難易度表/おに/風雲！バチお先生(裏譜面)]]
 -[[プレイ動画(AC15)(27〜33小節のHSなし)>https://www.youtube.com/watch?v=1B_3J6HE8So]]
--[[オート動画(Wii4)>https://youtu.be/FXnbTAQ0oBE]]
+-[[オート動画(Wii4)>https://www.youtube.com/watch?v=FXnbTAQ0oBE]]
 -[[プレイ動画(AC3・旧音源)>https://www.youtube.com/watch?v=Xb4FG3NGsN4]]
 -[[オート動画(DS1限定譜面)>https://www.youtube.com/watch?v=cd0Z9PDD7rk]]
 

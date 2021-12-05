@@ -26,12 +26,11 @@
 -[[レッドVer.段位道場>過去の段位道場#red]]の五段1曲目課題曲、[[イエローVer.段位道場>過去の段位道場#yellow]]の五段1曲目課題曲、[[アジア版ブルーVer.段位道場>過去の段位道場#blue]]の五段1曲目課題曲((日本版の課題曲である[[Jump Up, Super Star! Short Version>難易度表/おに/Jump Up, Super Star! Short Version]]が現在未収録のため))となった。
 -移植元である「シンクロニカ」は2019年9月30日にオンラインサービスが終了した。
 -曲IDは、''sycano''。
-
 ----
 -[[かんたん>難易度表/かんたん/カノン (シンクロニカ Remix)]]
 -[[ふつう>難易度表/ふつう/カノン (シンクロニカ Remix)]]
 -[[むずかしい>難易度表/むずかしい/カノン (シンクロニカ Remix)]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=riH85V_Wod8]]
+-[[プレイ動画>https://www.youtube.com/watch?v=riH85V_Wod8]]
 
 ***コメント [#comment]
 #pcomment(,noname)

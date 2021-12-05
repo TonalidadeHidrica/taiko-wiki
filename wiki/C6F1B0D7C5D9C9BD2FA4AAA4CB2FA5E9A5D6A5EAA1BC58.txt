@@ -52,7 +52,7 @@
 ***譜面 [#score]
 ~AC2,3の譜面は[[むずかしい>難易度表/むずかしい/ラブリーX]]を参照
 ~DS3以降の譜面
-&attachref(lovely-x_DS3.png,nolink);
+~&attachref(lovely-x_DS3.png,nolink);
 
 ~旧譜面(CS1~PSP2)
-&attachref(lovely-x.png,nolink);
+~&attachref(lovely-x.png,nolink);

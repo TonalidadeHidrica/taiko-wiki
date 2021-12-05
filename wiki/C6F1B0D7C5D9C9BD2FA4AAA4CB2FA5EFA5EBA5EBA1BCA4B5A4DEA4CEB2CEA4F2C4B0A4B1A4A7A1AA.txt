@@ -12,7 +12,7 @@
 -見ての通り大音符が多い。ここで可を出すと失点が大きいので注意。
 --大音符の割合は83/516(約16.1%)。
 -BPMは低いがラストの24分複合は[[Tank!>難易度表/おに/Tank!]]より長い。ラス殺しに要注意。
---終盤の59〜61小節目にある長い24分の配色は、&br;COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}×3→COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}×3→COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(blue){●}|COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}の様に、分けて覚えると良い。
+--終盤の59〜61小節目にある長い24分の配色は、&br;COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}COLOR(red){●}COLOR(red){●}×3→COLOR(blue){○}COLOR(blue){○}COLOR(red){●}COLOR(red){●}×3→COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(blue){○}|COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}の様に、分けて覚えると良い。
 --ちなみに、他の3コースでは風船となっている。
 -また、5小節目以降は、大半の地帯で2小節ごとに譜面密度の変化が大きいため、BPMは低いながらアップダウンが激しい。
 -クリア難易度はこのレベルとしてはかなり弱いが、発狂以前がしっかり叩けていないと24分でみるみるゲージが下がって落ちるので、油断はできない。

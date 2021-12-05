@@ -1,15 +1,15 @@
 *ラブリーX [#title]
-***詳細・攻略 [#more]
--ナムコ「[[''ニューラリーX''>http://www.youtube.com/watch?v=R5TYj0fS7W4]]」のBGMをアレンジした曲。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC2''〜4|CENTER:CS1|CENTER:''ナムコ''|>|>|>|>|>|CENTER:''なし((AC2はむずかしいコース以上、AC3はドンだフルコース、AC4以降はふつうコース以上のみ存在))''|
-|CENTER:AC5,6||CENTER:''ゲーム音楽''|>|>|>|>|>|~|
-|CENTER:AC7||CENTER:''ナムコ&br;オリジナル''|CENTER:★×5|CENTER:''208''|CENTER:''363970点''|CENTER:+連打|CENTER:550点|CENTER:150点|
-||CENTER:PSP1DL|~|~|~|CENTER:''352970点''|~|CENTER:500点|CENTER:150点|
-||CENTER:PSP2|CENTER:''ゲーム&br;ミュージック''|~|~|~|~|~|~|
-||CENTER:DS3|CENTER:''ナムコ&br;オリジナル''|CENTER:★×4|CENTER:''144''|CENTER:''323840点''|~|CENTER:650点|CENTER:180点|
-||CENTER:Wii U3SP|CENTER:''ゲーム&br;ミュージック''|~|~|CENTER:''?????0点''|~|CENTER:690点|CENTER:263点|
+-ナムコ「[[''ニューラリーX''>https://www.youtube.com/watch?v=R5TYj0fS7W4]]」のBGMをアレンジした曲。
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC2''-4|CS1|''ナムコ''|>|>|>|>|>|''なし((AC2はむずかしいコース以上、AC3はドンだフルコース、AC4以降はふつうコース以上のみ存在))''|
+|AC5,6||''ゲーム音楽''|>|>|>|>|>|~|
+|AC7||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''208''|''363970点''|+連打|550点|150点|
+||PSP1DL|~|~|~|''352970点''|~|500点|150点|
+||PSP2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+||DS3|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''144''|''323840点''|~|650点|180点|
+||Wii U3SP|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''?????0点''|~|690点|263点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは134。
@@ -49,8 +49,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-DS3からの新譜面
-&ref(lovely-x_easy_new_1.png,nolink);
+~DS3からの新譜面
+~&ref(lovely-x_easy_new_1.png,nolink);
 
 ~旧譜面
-&ref(lovely-x_easy.png,nolink);
+~&ref(lovely-x_easy.png,nolink);

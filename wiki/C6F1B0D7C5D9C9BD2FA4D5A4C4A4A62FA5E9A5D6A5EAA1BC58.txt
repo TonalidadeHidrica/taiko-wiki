@@ -1,16 +1,18 @@
 *ラブリーX [#title]
--ナムコ「''ニューラリーX''」のBGMをアレンジした曲。
+-ナムコ「[[''ニューラリーX''>https://www.youtube.com/watch?v=R5TYj0fS7W4]]」のBGMをアレンジした曲。
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC2、3||CENTER:''ナムコ''|>|>|>|>|>|CENTER:''なし((AC2はむずかしいコース以上、AC3はドンだフル！コースのみ存在))''|
-||CENTER:''CS1''|~|CENTER:★×6|CENTER:''402''|CENTER:''594300点''|CENTER:＋連打|CENTER:490点|CENTER:110点|
-|CENTER:AC4||~|~|~|CENTER:''585260点''|~|~|~|
-|CENTER:AC5、6||CENTER:''ゲーム音楽''|~|~|~|~|~|~|
-|CENTER:AC7||CENTER:''ナムコ&br;オリジナル''|~|~|CENTER:''649820点''|~|CENTER:500点|CENTER:120点|
-||CENTER:PSP1DL|~|~|~|CENTER:''641010点''|~|CENTER:480点|~|
-||CENTER:PSP2|CENTER:''ゲーム&br;ミュージック''|~|~|~|~|~|~|
-||CENTER:DS3|CENTER:''ナムコ&br;オリジナル''|CENTER:★×5|CENTER:''215''|CENTER:''560340点''|~|CENTER:770点|CENTER:180点|
-||CENTER:Wii U3SP|CENTER:''ゲーム&br;ミュージック''|~|~|CENTER:''580510点''|~|~|CENTER:243点|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC2-3||''ナムコ''|>|>|>|>|>|''なし((AC2はむずかしいコース以上、AC3はドンだフル！コースのみ存在))''|
+||''CS1''|~|★×6|''402''|''594300点''|＋連打|490点|110点|
+|AC4||~|~|~|''585260点''|~|~|~|
+|AC5-6||''ゲーム音楽''|~|~|~|~|~|~|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+|AC7||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''649820点''|~|500点|120点|
+||PSP1DL|~|~|~|''641010点''|~|480点|~|
+||PSP2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+||DS3|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''215''|''560340点''|~|770点|180点|
+||Wii U3SP|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''580510点''|~|~|243点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは134。
@@ -45,15 +47,15 @@
 -[[かんたん>難易度表/かんたん/ラブリーX]]
 -[[むずかしい>難易度表/むずかしい/ラブリーX]]
 -[[おに>難易度表/おに/ラブリーX]]/[[裏譜面>難易度表/おに/ラブリーX(裏譜面)]]
--[[オート動画(新譜面)>http://www.youtube.com/watch?v=Ec5EHtAozCY]]
--[[プレイ動画(旧譜面)>http://www.youtube.com/watch?v=W6wo7BHAngg]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=Ec5EHtAozCY]]
+-[[プレイ動画(旧譜面)>https://www.youtube.com/watch?v=W6wo7BHAngg]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~新譜面
-&attachref(lovely-x_normal_new.png,nolink);
+~&attachref(lovely-x_normal_new.png,nolink);
 
 ~旧譜面
-&attachref(lovely-x_normal.png,nolink);
+~&attachref(lovely-x_normal.png,nolink);

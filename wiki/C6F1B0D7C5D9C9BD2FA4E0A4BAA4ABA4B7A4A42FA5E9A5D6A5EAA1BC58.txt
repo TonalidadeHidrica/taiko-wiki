@@ -1,17 +1,19 @@
 *ラブリーX [#title]
 -ナムコ「[[''ニューラリーX''>https://www.youtube.com/watch?v=R5TYj0fS7W4]]」のBGMをアレンジした曲。
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC2''||CENTER:''ナムコ''|CENTER:★×7|CENTER:COLOR(#909):''489&br;COLOR(#069):459&br;COLOR(#666):402''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点|
-|CENTER:AC3||>|>|>|>|>|>|CENTER:''ドンだフル！コースのみ''|
-||CENTER:''CS1''|CENTER:''ナムコ''|CENTER:★×6|CENTER:COLOR(#909):''483&br;COLOR(#069):459&br;COLOR(#666):402''|CENTER:''783100点''|CENTER:＋連打|CENTER:540点|CENTER:120点|
-|CENTER:AC4||~|~|CENTER:COLOR(#909):''485&br;COLOR(#069):456&br;COLOR(#666):402''|CENTER:''778140点''|~|~|~|
-|CENTER:AC5,6||CENTER:''ゲーム音楽''|~|~|~|~|~|~|
-||CENTER:PSP1DL|CENTER:''ナムコ&br;オリジナル''|~|CENTER:COLOR(#909):''483&br;COLOR(#069):456&br;COLOR(#666):402''|CENTER:''811460点''|~|~|~|
-|CENTER:AC7||~|~|~|CENTER:''966150点''|~|CENTER:490点|CENTER:160点|
-||CENTER:PSP2|CENTER:''ゲーム&br;ミュージック''|~|~|CENTER:''797540点''|~|CENTER:500点|CENTER:120点|
-||CENTER:DS3|CENTER:''ナムコ&br;オリジナル''|~|CENTER:COLOR(#909):''394&br;COLOR(#069):358&br;COLOR(#666):326''|CENTER:''560340点''|~|CENTER:530点|CENTER:140点|
-||CENTER:Wii U3SP|CENTER:''ゲーム&br;ミュージック''|~|~|CENTER:''795300点''|~|CENTER:580点|CENTER:165点|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC2''||''ナムコ''|★×7|COLOR(#909):''489&br;COLOR(#069):459&br;COLOR(#666):402''|''?????0点''|＋連打|??0点|??0点|
+|AC3||>|>|>|>|>|>|''ドンだフル！コースのみ''|
+||''CS1''|''ナムコ''|★×6|COLOR(#909):''483&br;COLOR(#069):459&br;COLOR(#666):402''|''783100点''|＋連打|540点|120点|
+|AC4||~|~|COLOR(#909):''485&br;COLOR(#069):456&br;COLOR(#666):402''|''778140点''|~|~|~|
+|AC5,6||''ゲーム音楽''|~|~|~|~|~|~|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+||PSP1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|COLOR(#909):''483&br;COLOR(#069):456&br;COLOR(#666):402''|''811460点''|~|~|~|
+|AC7||~|~|~|''966150点''|~|490点|160点|
+||PSP2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''797540点''|~|500点|120点|
+||DS3|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|COLOR(#909):''394&br;COLOR(#069):358&br;COLOR(#666):326''|''560340点''|~|530点|140点|
+||Wii U3SP|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''795300点''|~|580点|165点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは134。
@@ -43,16 +45,19 @@
 -[[かんたん>難易度表/かんたん/ラブリーX]]
 -[[ふつう>難易度表/ふつう/ラブリーX]]
 -[[おに>難易度表/おに/ラブリーX]]/[[裏譜面>難易度表/おに/ラブリーX(裏譜面)]]
--[[オート動画(新譜面)>http://www.youtube.com/watch?v=i21sReGMiuk]]
--[[オート動画(旧譜面,1人用譜面)>http://www.youtube.com/watch?v=fAXbLRTL68c]]
--[[オート動画(旧譜面,2人用譜面)>http://www.youtube.com/watch?v=MJonL8MJ1a0]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=i21sReGMiuk]]
+-[[オート動画(旧譜面,1人用譜面)>https://www.youtube.com/watch?v=fAXbLRTL68c]]
+-[[オート動画(旧譜面,2人用譜面)>https://www.youtube.com/watch?v=MJonL8MJ1a0]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-DS3以降の新譜面&br;本来8小節目に分岐はありません。
-&attachref(lovely-x_hard_new1.png,nolink);
+~DS3以降の新譜面
+~本来8小節目に分岐はありません。
+~&attachref(lovely-x_hard_new1.png,nolink);
 
-旧譜面&br;譜面分岐の箇所はPSP2を参考にしました。位置がおかしいのは仕様です。&br;本来12小節目に分岐はありませんが、内部的に玄人・達人譜面も存在します。
-&attachref(lovely-x_hard1.png,nolink);
+~旧譜面
+~譜面分岐の箇所はPSP2を参考にしました。位置がおかしいのは仕様です。
+~本来12小節目に分岐はありませんが、内部的に玄人・達人譜面も存在します。
+~&attachref(lovely-x_hard1.png,nolink);
