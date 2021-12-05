@@ -288,6 +288,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orange):|[[Feed A>難易度表/おに/Feed A]]|''6.962''|262.08※|612|87.91秒||
 |BGCOLOR(darkorchid):|[[Roca Roja>難易度表/おに/Roca Roja]]|''6.876''|160|829|120.56秒||
 |BGCOLOR(darkorchid):|[[アサルト BGM1(裏譜面)>難易度表/おに/アサルト BGM1(裏譜面)]]|''6.757''|114.95|760|112.48秒||
+|BGCOLOR(orangered):|[[1/2 〜inside me>難易度表/おに/1／2 〜inside me]]|''6.728''|184.12※|814|120.98秒|動画から計算|
 |BGCOLOR(darkorchid):|[[DIGITAL HORIZON>難易度表/おに/DIGITAL HORIZON]]|''6.703''|154|856|127.69秒||
 |BGCOLOR(darkorchid):|[[Ridge racer (RIDGE RACER USA MIX)>難易度表/おに/Ridge racer (RIDGE RACER USA MIX)]]|''6.695''|232|941|140.56秒||
 |BGCOLOR(orange):|[[Switch On!(裏譜面)>難易度表/おに/Switch On!(裏譜面)]]|''6.672''|190|453|67.89秒||

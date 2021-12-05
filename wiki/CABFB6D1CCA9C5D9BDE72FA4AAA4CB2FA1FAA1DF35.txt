@@ -37,6 +37,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(darkorchid):|[[The world is all one !!>難易度表/おに/The world is all one !!]]|''4.191''|166.97※|494|117.87秒|''ジャンル1位:COLOR(darkorchid):ゲームミュージック''|
 |BGCOLOR(darkorchid):|[[MANKAI☆開花宣言>難易度表/おに/MANKAI☆開花宣言]]|''4.128''|172|360|87.21秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''4.000未満''|
+|BGCOLOR(orange):|[[ミルミル 〜未来ミエル〜>難易度表/おに/ミルミル 〜未来ミエル〜]]|''3.958''|135|343|86.67秒||
 |BGCOLOR(cyan):|[[ただ君に晴れ>難易度表/おに/ただ君に晴れ]]|''3.944''|140|284|72.00秒|''新筐体ジャンル1位:COLOR(cyan):J-POP''|
 |BGCOLOR(orangered):|[[太鼓ラブ！>難易度表/おに/太鼓ラブ！]]|''3.595''|140.00※|520|144.64秒|''新筐体ジャンル1位:COLOR(orangered):ナムコオリジナル''|
 |BGCOLOR(orange):|[[Be The One>難易度表/おに/Be The One]]|''3.540''|136|253|71.47秒||
