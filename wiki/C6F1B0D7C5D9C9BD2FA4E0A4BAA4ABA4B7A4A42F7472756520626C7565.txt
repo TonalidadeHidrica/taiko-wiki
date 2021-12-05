@@ -1,0 +1,21 @@
+*true blue [#f9fe55cc]
+***詳細・攻略 [#c81bd49b]
+-アニメ''「ASTRO BOY 鉄腕アトム」''の前期・後期OP(中期は別の曲)だが、ジャンルはJ-POP。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''||CENTER:★×4|CENTER:''211''|CENTER:''??????点''|CENTER:＋連打|CENTER:???点|CENTER:???点|
+||CENTER:CS3|~|~|CENTER:''??????点''|~|CENTER:1010点|CENTER:270点|
+-アーティストは''ZONE''
+-読み方は、''トゥルー・ブルー''、''下手な★×5よりも難しいので要注意''
+-[[かんたん>難易度表/かんたん/true blue]]/[[レイニー・ヤンバージョン>難易度表/かんたん/true blue(レイニー・ヤン)]]
+-[[ふつう>難易度表/ふつう/true blue]]/[[レイニー・ヤンバージョン>難易度表/ふつう/true blue(レイニー・ヤン)]]
+-むずかしい/[[レイニー・ヤンバージョン>難易度表/むずかしい/true blue(レイニー・ヤン)]]
+-[[おに>難易度表/おに/true blue]]/[[レイニー・ヤンバージョン>難易度表/おに/true blue(レイニー・ヤン)]]
+-[[プレイ動画>https://www.youtube.com/watch?v=YkOwDp7drJw]]
+
+***コメント [#y465214a]
+#pcomment(,noname)
+
+***譜面 [#vb5bdc08]
+風船は適当
+&attachref(アトムむずかしい.png,nolink);

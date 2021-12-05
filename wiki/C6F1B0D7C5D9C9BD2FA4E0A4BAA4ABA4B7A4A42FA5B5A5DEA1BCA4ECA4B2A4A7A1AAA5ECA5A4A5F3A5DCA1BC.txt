@@ -1,0 +1,21 @@
+*サマーれげぇ!レインボー [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC2''|★×2|''226''|''??????点''|＋連打|880点|???点|
+-BPMは107。
+-アーティストは''7人祭''。
+----
+-[[かんたん>難易度表/かんたん/サマーれげぇ！レインボー]]
+-[[ふつう>難易度表/ふつう/サマーれげぇ！レインボー]]
+-[[おに>難易度表/おに/サマーれげぇ！レインボー]]
+-[[プレイ動画>http://www.youtube.com/watch?v=ac1jE_5hwuA]]
+-[[プレイ動画(DP)>https://youtube.com/watch?v=keHJN3e8K1Q]]
+
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(hard.png,nolink);

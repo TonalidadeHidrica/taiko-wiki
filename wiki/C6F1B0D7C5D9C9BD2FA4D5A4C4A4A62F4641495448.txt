@@ -1,0 +1,20 @@
+*FAITH [#s15d1867]
+***詳細・攻略 [#w8631e52]
+-アニメ「''ワンピース''」のED10。
+- 詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''アニメ祭''|CENTER:★×4|CENTER:''92''|''??????点''|＋連打|2010点|950点|
+
+-アーティストは''Ruppina+''。
+
+- [[かんたん>難易度表/かんたん/FAITH]]
+- [[むずかしい>難易度表/むずかしい/FAITH]]
+- [[おに>難易度表/おに/FAITH]]
+- [[オート動画>https://www.youtube.com/watch?v=2FK_qD2yf7I]]
+
+*** コメント [#d07d8318]
+#pcomment(,noname)
+
+*** 譜面 [#lde43bc1]
+風船は適当
+&attachref(フェイスふつう.png,nolink);

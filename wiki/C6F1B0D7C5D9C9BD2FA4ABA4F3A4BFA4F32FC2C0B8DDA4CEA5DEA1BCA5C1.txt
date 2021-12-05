@@ -1,0 +1,57 @@
+*太鼓のマーチ [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:AC5|CENTER:''CS2''|>|>|>|>|>|>|CENTER:''ふつう以上のみ''|
+||CENTER:米TDM&br;TDM|CENTER:★×3|CENTER:''261''|CENTER:''?????0点''|CENTER:＋連打|CENTER:510点|CENTER:130点||
+||CENTER:PSP1|~|~|CENTER:''?????0点''|~|CENTER:350点|CENTER:90点|CENTER:''ゴーゴーバグあり''|
+||CENTER:Wii1|CENTER:★×5|CENTER:''238''|CENTER:''375120点''|~|CENTER:460点|CENTER:110点||
+|CENTER:AC15.8.4|CENTER:Wii U2&br;PS4 1DL|~|~|CENTER:''379580点''|~|CENTER:450点|CENTER:138点||
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''1000000点''}|~|CENTER:COLOR(#ff3300){3900点}|CENTER:-||
+-BPMは約145。
+
+***旧譜面 [#old]
+-4分の複合が主体の譜面で、中盤からは12分も出てくる。
+--12分は単色の2連打しかないが、そのほとんどが分と隣接している。
+--ただし、4分の複合は面と縁の交互連打しかない。
+-以上のことからフルコン難易度は高く、''下手な★×4よりも難しいので注意''。
+-[[オート動画>http://www.youtube.com/watch?v=-WmvsDi2WIo]]
+
+***新譜面 [#new]
+-Wii1で譜面が書き直され、簡単なものになった。
+-全体的に4分がかなり多いが、8分は2連打が3回しか出て来ないので★×5にしては簡単な方。
+--また、4分の複合はほとんどが2・3連打である。
+--にもかかわらず、Wii U2でも残留した。クリアだけなら逆詐称だろう。
+-ゴーゴーで1回だけ出てくる4分の複合7連打に注意。
+-新筐体では、''全良＋黄色連打3打・ゴーゴー1打で38万点ジャストになる''。
+--また、真打では''黄色連打を無視して全良した場合、上記の通り100万点ジャストになる''。
+-[[オート動画>http://www.youtube.com/watch?v=KGjCgQmrLV0]]
+
+***2人用譜面 [#dp]
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×3|CENTER:1P|CENTER:''184''|CENTER:''?????0点''|CENTER:＋連打|CENTER:730点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''186''|CENTER:''?????0点''|~|~|~|
+-米TDM・TDMにのみ2人用譜面が存在する。
+-[[オート動画>http://www.youtube.com/watch?v=CfqHGDzdkJQ]]
+
+***その他 [#other]
+-曲順はスカイキッド（ステージ開始曲→メインBGM）→ドルアーガの塔（ラウンドスタート曲→メインBGM）→ワルキューレの伝説（メインテーマ）の順。
+-編曲は、''増渕裕二''。
+-曲IDは、''march''
+-[[ふつう>難易度表/ふつう/太鼓のマーチ]]
+-[[むずかしい>難易度表/むずかしい/太鼓のマーチ]]
+-[[おに>難易度表/おに/太鼓のマーチ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~BPMは[[おに>難易度表/おに/太鼓のマーチ]]を参照。~
+&ref(taikoma-ti.png,nolink);
+
+~旧譜面
+&ref(taikomarch_e_old.png,nolink);
+
+~2人用譜面(TDM)~
+&ref(march_ed.png,nolink);

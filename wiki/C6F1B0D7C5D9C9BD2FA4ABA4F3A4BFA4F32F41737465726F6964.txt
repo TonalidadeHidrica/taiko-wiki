@@ -1,0 +1,40 @@
+*Asteroid [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.9.3SP''|★×5|''157''|''?????0点''|＋連打|650点|223点|
+|COLOR(#f30){真打}|~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){5500点}|-|
+-BPMは144〜288。
+-黄色連打が多い連打曲で、1本あたりの長さも長い。
+-全体的に付点配置が多く、リズムが取りづらい。
+--見た目16分ズレ配置も多々ある。
+-大音符が多く、18個ある（全体の約11.5%）。
+-速度は至って普通だが、全体的に4分がかなり多い。
+--4分はほとんどが3連打だが、連続して出てくる箇所もある。
+-ゴーゴーで計3回出てくる見た目4分の複合7連打と複合8連打に注意。
+-8分はなく4分の複合も面と縁の交互連打しかないのでクリアは逆詐称だろう。
+--36小節と44小節の2箇所にだけ付点8分音符が存在する。
+
+***その他 [#other]
+-曲名の読み方は、''アステロイド''。
+--英語およびドイツ語で「小惑星」という意味。
+-アーティストは、''増渕裕二''。
+--サブタイトル表記の通り、本楽曲はApp Storeで配信されているモバイル音楽制作アプリ「[[''KORG Gadget''>http://itunes.apple.com/jp/app/korg-gadget/id791077159?ls=1&mt=8]]」で作曲されている。
+
+-[[ふつう>難易度表/ふつう/Asteroid]]
+-[[むずかしい>難易度表/むずかしい/Asteroid]]
+-[[おに>難易度表/おに/Asteroid]]
+-[[プレイ動画>https://www.youtube.com/watch?v=R6SJxk3jZDA&lc=z13hfpqhrsa4vbune23sjtfhquuoyzecf]]
+-[[楽曲試聴(SOUNDCLOUD)>http://soundcloud.com/korg/asteroid?in=korg/sets/korg-gadget-v25-kamata-demo-songs]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+暫定版~
+47〜75小節にかけてのHS1は誤り(([[同時再生>https://www.youtube.com/watch?v=J37LdZ14pno]]からHS1より低い))~
+ ■小節線ギミック
+ HS1 → 0.9 → 0.8 → 0.7
+~&attachref(Asteroid_E_v1.png,nolink);
+~&attachref(Asteroid_E_v1.1_scale.png,nolink);

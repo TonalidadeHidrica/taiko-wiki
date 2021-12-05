@@ -1,0 +1,18 @@
+*Feel Fine! [#p7407dc3]
+***詳細・攻略 [#h2db19c2]
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC4''|★×3|''125''|''?????0点''|＋連打|1080点|点|
+-BPMは151。
+-最初の前奏が長い。
+-アーティストは、[[Growing of my heart>難易度表/かんたん/Growing of my heart]]と同じく''倉木麻衣''。
+-[[ふつう>難易度表/ふつう/Feel fine!]]
+-[[むずかしい>難易度表/むずかしい/Feel fine!]]
+-[[おに>難易度表/おに/Feel fine!]]
+-[[プレイ動画>https://www.youtube.com/watch?v=m7UAeEjfjns]]
+***コメント [#v875f087]
+#pcomment(,noname)
+***譜面 [#d7d77760]
+風船は適当
+&attachref(倉木麻衣かんたん.png,nolink);

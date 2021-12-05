@@ -1,0 +1,19 @@
+*プリンセスはあきらめない [#title]
+***詳細・攻略 [#more]
+-アニメ「''ふしぎ星の☆ふたご姫''」のOP曲。
+-詳細は以下の通り:
+|バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''アニスペ''|CENTER:★×2|CENTER:''99''|CENTER:''296410点''|CENTER:＋連打|CENTER:830点|CENTER:520点|
+-BPMは160。
+-アーティストは、''FLIP-FLAP''。
+-曲IDは''hime''。
+-[[ふつう>難易度表/ふつう/プリンセスはあきらめない]]
+-[[むずかしい>難易度表/むずかしい/プリンセスはあきらめない]]
+-[[おに>難易度表/おに/プリンセスはあきらめない]]
+-[[オート動画>https://www.youtube.com/watch?v=_e_q42R2U_o]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(twins_easy.png,nolink);

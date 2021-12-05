@@ -1,0 +1,30 @@
+*マーブルハート [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.0SP''|CENTER:Wii U2SP|CENTER:★×5|CENTER:''158''|CENTER:''576650点''|CENTER:＋連打|CENTER:1080点|CENTER:313点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){5480点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''562740点''|~|CENTER:1060点|CENTER:220点|
+
+-BPMは166。
+-黄色連打が4本しかないが、1本あたりの長さが長い。
+-8分は単色の3連打しかないが、数がかなり多い。
+--特に、8分がかなり密集しているラストゴーゴーには注意しておこう。
+
+***その他 [#other]
+-アーティストは、[[蒼の旋律>難易度表/ふつう/蒼の旋律]]と同じ''サリヤ人''。
+--作曲、作詞、編曲の全てを担当。
+-[[LOVE戦!!>難易度表/ふつう/LOVE戦!!]]、[[地平線のエオリア>難易度表/ふつう/地平線のエオリア]]、[[The Magician's Dream>難易度表/ふつう/The Magician's Dream]]、[[久遠の夜>難易度表/ふつう/久遠の夜]]、[[Sweet Sweet Magic>難易度表/ふつう/Sweet Sweet Magic]]と同じく[[''JBG音楽院''>http://www.jbg-ongakuin.com/]]が提供している楽曲である。
+-[[キミドリVer.段位道場>過去の段位道場#kimidori]]の八級2曲目課題曲となった。
+
+-[[かんたん>難易度表/かんたん/マーブルハート]]
+-[[むずかしい>難易度表/むずかしい/マーブルハート]]
+-[[おに>難易度表/おに/マーブルハート]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=XGPR4c2hKyw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船、くすだまの長さは適当
+&attachref(marble_n.png,nolink);

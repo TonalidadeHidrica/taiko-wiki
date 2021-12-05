@@ -1,0 +1,29 @@
+*Be Somewhere [#title]
+-アニメ「''ロックマンエグゼStream''」のOP。
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+|''アニスペ''|★×9|''477''|''1076190点''|＋連打|640点|160点|''ゴーゴーバグあり''|
+
+***譜面構成・攻略 [#capture]
+-BPMは153。
+-偶数連打がやや多い。
+-一番の難所は、やはり6連打だろう。縁を入り手とは逆の手で叩くことを意識するといい。
+-平均密度は、''約5.64打/秒''。
+
+***その他 [#other]
+-太鼓の達人に収録されているロックマン関連の曲は、他にも[[Dr.WILY STAGE 1>難易度表/おに/Dr.WILY STAGE 1]]がある。ただしそちらはゲームからの出典である。
+-アーティストは、''Buzy''。
+--作詞は、新藤晴一。作・編曲は、本間昭光。
+-曲IDは、''rockm''。
+----
+-[[かんたん>難易度表/かんたん/Be Somewhere]]
+-[[ふつう>難易度表/ふつう/Be Somewhere]]
+-[[むずかしい>難易度表/むずかしい/Be Somewhere]]
+-[[プレイ動画>https://www.youtube.com/watch?v=RVW9wESFOjk]]
+
+*** コメント [#comment]
+#pcomment(,noname)
+
+*** 譜面 [#score]
+&attachref(Be Somewhere_fix2.png,nolink);

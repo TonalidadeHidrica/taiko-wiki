@@ -1,0 +1,13 @@
+*bermei.inazawa [#title]
+-フリーの作曲家。
+-[[studioCampanella>http://www.studio-campanella.com/]]
+-作品一覧
+--ナムコオリジナル
+---[[クルクルクロックル>難易度表/おに/クルクルクロックル]]
+---[[Amanda>難易度表/おに/Amanda]]
+---[[アレキサンダーのテーマ>難易度表/おに/アレキサンダーのテーマ]]
+---[[友情ぽっぷ>難易度表/おに/友情ぽっぷ]](ミックス)
+---[[Dream Tide>難易度表/おに/Dream Tide]](ミックス)
+
+***コメント [#comment]
+#pcomment(,noname)

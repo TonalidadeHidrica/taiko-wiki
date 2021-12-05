@@ -1,0 +1,18 @@
+*笑点のテーマ [#r1a63468]
+***詳細・攻略 [#gc3ddbc4]
+-日本テレビ系列の演芸バラエティ番組''「笑点」''のテーマ曲。
+--1969年11月から使用されている。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC7''|★×3|''203''|''643150点''|＋連打|930点|250点|
+-BPMは155。
+-4回出て来る8分のCOLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}には気をつけたいところ。
+-[[かんたん>難易度表/かんたん/笑点のテーマ]]
+-[[ふつう>難易度表/ふつう/笑点のテーマ]]
+-[[おに>難易度表/おに/笑点のテーマ]]
+-[[プレイ動画（キャプチャ）>http://www.youtube.com/watch?v=GY9NXY2WLhQ]]
+***コメント [#z9ac7465]
+#pcomment(,noname)
+***譜面 [#r6bb9bee]
+~&attachref(笑点のテーマ.png,nolink);

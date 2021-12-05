@@ -1,0 +1,31 @@
+*Allegro Cantabile [#title]
+***詳細・攻略 [#more]
+-アニメ「''のだめカンタービレ''」のOP1。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC10''|CENTER:★×6|CENTER:''277''|CENTER:''?????0点''|CENTER:＋連打|CENTER:800点|CENTER:200点|
+-BPMは171。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-面と縁の数がほぼ同じ(面:139、縁:138)。
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
+--また、8分の複合は全体的に長めのが多い。
+-ゴーゴーは休みが少ないので、適正者にとっては体力的に厳しいかもしれない。
+-16分の3連打が連続して出てくるラス殺し（54小節）に注意。
+
+***その他 [#other]
+-曲名の読み方は、''アレグロ カンタービレ''。
+-アーティストは、''SUEMITSU & THE SUEMITH''。
+--作詞・作曲は、末光篤。
+-曲IDは、''canta''
+-[[かんたん>難易度表/かんたん/Allegro Cantabile]]
+-[[ふつう>難易度表/ふつう/Allegro Cantabile]]
+-[[おに>難易度表/おに/Allegro Cantabile]]
+-[[プレイ動画>http://www.youtube.com/watch?v=dugxRtEQte8]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+~風船の連打数、長さは適当
+&ref(allegro_hard.png,nolink);

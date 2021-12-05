@@ -1,0 +1,18 @@
+*Pure [#x27ab8ee]
+***詳細・攻略 [#i620e054]
+-詳細は以下の通り。
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''&br;AC12増|CENTER:★×3|CENTER:''64''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1530点|CENTER:940点|
+-BPMは111
+-アーティストは、''EXILE''。
+
+-[[ふつう>難易度表/ふつう/Pure]]
+-[[むずかしい>難易度表/むずかしい/Pure]]
+-[[おに>難易度表/おに/Pure]]
+-[[プレイ動画>https://www.youtube.com/watch?v=5UoPSPZgahQ]]
+
+***コメント [#b4adee11]
+#pcomment(,noname)
+
+***譜面 [#b162457b]
+&attachref(Pure.png,nolink);

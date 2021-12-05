@@ -1,0 +1,28 @@
+*Yes we are [#title]
+-ローソン「三代目 J SOUL BROTHERS Pontaカード」CMソング。
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.6''|★×3|''122''|''?????0点''|＋連打|1660点|795点|
+|COLOR(#f30){真打}|~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){7950点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは128。
+-Aメロまでは4分までしか存在しないうえ、全て単色である。なお、サビで4回複合が出てくる。
+-Bメロ以降8分が増えるが、8分は全てドンだけで配置されている。
+-そのため、☆3としてはやや優しめである。☆2にある程度慣れた人は挑んでみるのもいいかもしれない。
+-Bメロで一度だけ出てくるドンの8分16連に注意。
+***その他 [#other]
+-アーティストは、''[[三代目 J SOUL BROTHERS>アーティスト別収録曲#jsb3]] from [[EXILE>アーティスト別収録曲#exile]] TRIBE''。
+-作詞は、RYUJI IMAICHI・HIROOMI TOSAKA・YVES&ADAMS・JAY'ED。作曲は、MATS LIE SKARE・CHRIS HOPE・RICO GREENE。
+----
+-[[かんたん>難易度表/かんたん/Yes we are]]
+-[[ふつう>難易度表/ふつう/Yes we are]]
+-[[おに>難易度表/おに/Yes we are]]
+-[[プレイ動画>https://www.youtube.com/watch?v=ck_IRoguD7E]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(ywah.png,nolink);

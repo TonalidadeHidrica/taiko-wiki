@@ -1,0 +1,29 @@
+*無慈悲な王 [#title]
+***詳細・攻略 [#more]
+-PSP用ソフト「''[[GOD EATER BURST>http://www.godeater.jp/geb/index.html]]''」よりハンニバル戦のBGM。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSPDX''&br;Wii4|CENTER:★×6|CENTER:''209''|CENTER:''642620点''|CENTER:＋連打|CENTER:880点|CENTER:240点|
+|CENTER:AC15.1.0||~|~|CENTER:''?????0点''|~|CENTER:920点|CENTER:305点|
+|CENTER:AC15.2.0||~|~|CENTER:''647570点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4490点}|CENTER:-|
+-BPMは約150。
+-連打秒数目安・・・約0.941秒−''約1.367秒''：合計約2.308秒
+-8分は単色の3連打までしかなく、速度もそれほど速くないので★×6にしては簡単な方。
+--にもかかわらず、AC15でも残留した。クリアもフルコンも逆詐称だろう。
+--ただし、ほとんどの8分が4分と隣接しているので油断は禁物。
+-8分が何度も出てくるゴーゴーに注意。
+-作曲者は、[[No Wa>難易度表/ふつう/No Way Back]][[y Back>難易度表/ふつう/No Way Back(裏譜面)]]や[[IN THE ZONE>難易度表/ふつう/IN THE ZONE]]、[[拝啓、>難易度表/ふつう/拝啓、学校にて…]][[学校にて・・・>難易度表/ふつう/拝啓、学校にて…(裏譜面)]]と同じ、''椎名豪''。
+-曲IDは、''mujihi''。
+
+-[[かんたん>難易度表/かんたん/無慈悲な王]]
+-[[むずかしい>難易度表/むずかしい/無慈悲な王]]
+-[[おに>難易度表/おに/無慈悲な王]]
+-[[オート動画(Wii4, キャプチャ)>https://www.youtube.com/watch?v=UduYDWDx6aA]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+最初のBPMは149.97
+&attachref(u.png,nolink);

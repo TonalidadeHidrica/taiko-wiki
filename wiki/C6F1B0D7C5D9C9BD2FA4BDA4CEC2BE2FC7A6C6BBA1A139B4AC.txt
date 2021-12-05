@@ -1,0 +1,16 @@
+*忍道　9巻 [#title]
+-Wiiの毎日チャレンジ道場のお題。
+
+***詳細・攻略 [#capture]
+-レベル9で18コンボ。
+-良10以上でクリア。
+
+-[[プレイ動画(1巻〜10巻)>http://youtu.be/rW3TfzCsA8s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+
+***譜面 [#score]
+HSは暫定
+~&attachref(忍9.png,nolink);

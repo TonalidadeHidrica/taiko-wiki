@@ -1,0 +1,26 @@
+*海雪 [#title]
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度表|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12''〜13&br;AC12亜||★×3|''96''|''?????0点''|+連打|1410点|500点|
+||''Wii1''|~|''101''|''466330点''|~|1470点|450点|
+-BPMは105。
+-Wii1譜面は、巨大音符で良を取ると36小節に16分の3連打が出現する。
+-AC譜面は、8分までで16分は出てこない。
+***その他 [#other]
+-アーティストは、''ジェロ''。
+----
+-[[かんたん>難易度表/かんたん/海雪]]
+-[[むずかしい>難易度表/むずかしい/海雪]]
+-[[おに>難易度表/おに/海雪]]
+-[[プレイ動画(AC12)>https://www.youtube.com/watch?v=oTYfweG9VfA]]
+-[[オート動画(Wii1)>https://www.youtube.com/watch?v=pQM5pCgFzpA]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~Wii1譜面&br;35小節1打目の巨大音符:良→達人譜面 可→玄人譜面 不可→普通譜面
+&ref(umiyuk_n.png,nolink);
+~AC譜面
+&ref(umiyuk_n2.png,nolink);

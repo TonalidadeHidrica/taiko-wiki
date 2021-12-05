@@ -1,0 +1,27 @@
+*Butterfly(木村カエラ) [#m4ce907d]
+
+***詳細･攻略 [#fccec0e3]
+-''2009年｢ゼクシィ｣CMソング''
+-詳細は以下の通り。
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+|CENTER:''AC14''||CENTER:★×3|CENTER:''135''|CENTER:''489910点''|CENTER:＋連打|CENTER:1140点|CENTER:310点|
+||CENTER:iOS|~|~|CENTER:''489310点''|~|~|~|
+||CENTER:Wii3|~|~|CENTER:''489900点''|~|CENTER:1110点|CENTER:320点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3280点}|CENTER:-|
+|CENTER:AC15.1.0〜15.4.6||~|~|CENTER:''?????0点''|~|CENTER:1150点|CENTER:443点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){6880点}|CENTER:-|
+-速度は遅いが8分音符の3連打が多い。
+-アーティストは[[リルラリルハ>難易度表/ふつう/リルラリルハ]]､[[Ring a Ding Dong>難易度表/ふつう/Ring a Ding Dong]]と同じく''木村カエラ''。
+-[[倖田來未>難易度表/ふつう/Butterfly]]ではない。
+-[[かんたん>難易度表/かんたん/Butterfly(木村カエラ)]]
+-[[むずかしい>難易度表/むずかしい/Butterfly(木村カエラ)]]
+-[[おに>難易度表/おに/Butterfly(木村カエラ)]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=ZOP9upZStug]]
+
+***コメント [#ic73c91d]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+#pcomment(,noname)
+
+***譜面 [#x0e695f8]
+風船、くすだまの長さは暫定&br;黄色連打は下の画像より48分音符1つ分短い
+~&attachref(buttk_n.png,nolink);

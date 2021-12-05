@@ -1,0 +1,28 @@
+*ドン・エンガスの笛吹き[#Title]
+***詳細・攻略[#More]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''&br;12増、12亜|CENTER:Wii2&br;PSPDX|CENTER:★×7|CENTER:''369''|CENTER:''844540点''|CENTER:＋連打|CENTER:710点|CENTER:170点|
+|CENTER:AC15.1.0||~|~|CENTER:''850920点''|~|CENTER:720点|CENTER:210点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''998580点''}|~|CENTER:COLOR(#ff3300){2670点}|CENTER:-|
+-BPMは118。
+-連打秒数目安・・・約0.975秒−''約0.975秒''：合計約1.949秒
+-長い連打などはないが、最後に●○○が連続で出てくるので注意。
+-おにとは違い、24分音符はない。
+-「ドン・エンガス（Dun Aengus）」とはアイルランドにある地名のことで、北欧をイメージした曲となっている。
+-アーティストは、''YMY''（山本由貴子）。
+--譜面作成も''YMY''である（公式Twitterより）。
+-演奏は、''k-waves LAB''。
+-曲IDは、''ymyrpg''。
+
+-[[かんたん>難易度表/かんたん/ドン・エンガスの笛吹き]]
+-[[ふつう>難易度表/ふつう/ドン・エンガスの笛吹き]]
+-[[おに>難易度表/おに/ドン・エンガスの笛吹き]]
+-[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2009/03/post_87.html]]
+-[[オート動画(Wii2, キャプチャ)>https://www.youtube.com/watch?v=WEVKfvVope8]]
+
+***コメント[#Comment]
+#pcomment(,noname)
+
+***譜面[#Fumen]
+&attachref(y.png,nolink);

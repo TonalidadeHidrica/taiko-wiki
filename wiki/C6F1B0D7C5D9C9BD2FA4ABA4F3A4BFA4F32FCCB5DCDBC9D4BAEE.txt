@@ -1,0 +1,19 @@
+*無樂不作 [#i174e12f]
+
+***詳細・攻略 [#o5ed2370]
+-映画「''海角七号 君想う、国境の南''」のキャンペーンソング。
+-台湾大哥大のもばいるゲーム「''太鼓之達人 無樂不作''」のタイアップソング。（[[公式電子ペーパー>http://epaper.tcc.net.tw/data/svr2/tccmkt/catchgame/wmx_edmimage/22/edm_content.htm]]）
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC12亜|CENTER:★×4|CENTER:''137''|CENTER:''349180点''|CENTER:＋連打|CENTER:690点|CENTER:200点|
+-BPMは175。
+- ア一ティストは「海角七号 君想う、国境の南」の主役''范逸臣''（''ヴァン・ファン''）。
+
+-[[ふつう>難易度表/ふつう/無樂不作]]
+-[[むずかしい>難易度表/むずかしい/無樂不作]]
+-[[おに>難易度表/おに/無樂不作]]
+
+***コメント [#o0855af4]
+#pcomment(,noname)
+
+***譜面 [#i7ab3842]
+&ref(cape7-easy.png,nolink);

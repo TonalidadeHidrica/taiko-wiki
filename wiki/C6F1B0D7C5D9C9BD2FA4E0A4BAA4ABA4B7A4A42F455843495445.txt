@@ -1,0 +1,26 @@
+*EXCITE [#title]
+***詳細 [#detail]
+-｢''仮面ライダーエグゼイド''｣のOP。
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.8.5''|3DS3DL|★×5|''204''|''741190点''|＋連打|900点|288点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''991250点''}|~|COLOR(#ff3300){3950点}|-|
+||iOS&br;AR|~|~|''?????0点''|~|860点|220点|
+
+-BPMは151。
+
+***その他 [#other]
+-アーティストは、''三浦大知''。
+--作詞は、Kanata Okajima・Daichi Miura。作曲は、Carpainter・Kanata Okajima。編曲は、UTA・Carpainter。
+-曲IDは、''krexd''
+
+-[[かんたん>難易度表/かんたん/EXCITE]]
+-[[ふつう>難易度表/ふつう/EXCITE]]
+-[[おに>難易度表/おに/EXCITE]]
+-[[オート動画>https://www.youtube.com/watch?v=wO3LvsYd804]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(krexd_h.png,nolink);

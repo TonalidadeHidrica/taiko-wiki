@@ -1,0 +1,48 @@
+*3piece-Jazz&#80;arty! [#title]
+-[[オリジナル楽曲公募>太鼓の達人 楽曲募集だドン！]]の合格曲第4弾。
+***詳細 [#detail]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+||''PSPDXDL''&br;iOS|★×9|''552''|''1100000点''|580点|130点|
+|AC15.2.6SP|Wii U1SP|~|~|''1104830点''|590点|155点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1004420点''}|COLOR(#ff3300){1680点}|-|
+|AC16.1.0||~|~|''1005240点''|1820点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは160。
+-''精度曲''のひとつ。
+-PSPDX,iOSでは、天井スコアが、★×9の基本天井点である''110万点ジャスト''というかなり珍しい曲。当然、精度譜面であるため、全良でなければ110万点には到達できない。
+--ちなみに、新筐体の配点方式でも、同じ★×9の精度譜面で[[忘却のティルナノグ>難易度表/おに/忘却のティルナノグ]]が該当する。
+-譜面傾向としては[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]と似ているか。
+--1小節目からいきなり
+COLOR(blue){●●●}COLOR(red){●●●}COLOR(blue){●}という叩きにくい複合がある。
+--36〜37小節の見切りにくい長複合は、COLOR(blue){●}COLOR(red){●}/COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}/COLOR(blue){●●●}COLOR(red){●●●}/COLOR(blue){●●}COLOR(red){●●}と見れば良いだろう。
+--逆手から入る場合は、COLOR(blue){●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}/COLOR(red){●}COLOR(blue){●●}COLOR(blue){●}/COLOR(red){●●●}COLOR(blue){●●}COLOR(red){●●}と見れば良いだろう。
+--このように縁から入る複合が多いため、人によってはあべこべを使うのも良いかもしれない。
+---なお、全体で見れば、COLOR(red){面}：278、COLOR(blue){縁}：274と面の方が若干多い。
+-フルコンボ狙いならば57小節目のラス殺しに要注意。
+-平均密度は、''約6.21打/秒''。
+
+***その他 [#other]
+-新筐体KATSU-DON Ver.6.09における解禁条件付きの隠し曲として初収録された。
+--他の合格曲同様、''ソライロVer.以降ではカードが無くても遊べるようになっている。''
+-この曲をクリアすると、称号「''ENDLESS PARTY TIME''」が手に入る(難易度不問)。
+-曲名の読み方は、''スリーピース ジャズパーティ！''。
+-アーティストは、''ミハイル''。
+-譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
+-曲IDは、''3pcjaz''。
+-PSPDXでは、2015年9月30日をもって楽曲配信が終了したため、新規DL不可。
+----
+-[[かんたん>難易度表/かんたん/3piece-JazzParty!]]
+-[[ふつう>難易度表/ふつう/3piece-JazzParty!]]
+-[[むずかしい>難易度表/むずかしい/3piece-JazzParty!]]
+-[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20170715111453/http://taikoblog.namco-ch.net/blog/2012/12/post_334.html]]
+-[[プレイ動画(AC15)>https://youtu.be/kzhgLVyAMfk]]
+
+***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#3333ff){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(3pcjaz_2.png,nolink);

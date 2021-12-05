@@ -1,0 +1,17 @@
+*ハム太郎とっとこうた〜ノリノリでちゅ〜 [#ubddb7eb]
+***詳細・攻略 [#cb5be517]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC7''|CENTER:★×3|CENTER:''82''|CENTER:''322950点''((芋連打+ボーナス10000点を含む))|CENTER:＋連打|CENTER:900点|CENTER:570点|
+-BPMは166。
+-ラストのいもは20打。
+
+-[[ふつう>難易度表/ふつう/ハム太郎とっとこうた〜ノリノリでちゅ〜]]
+-[[むずかしい>難易度表/むずかしい/ハム太郎とっとこうた〜ノリノリでちゅ〜]]
+-[[おに>難易度表/おに/ハム太郎とっとこうた〜ノリノリでちゅ〜]]
+-[[プレイ動画>http://www.youtube.com/watch?v=cx0Tn_QZD3o]]
+
+***コメント [#af1e7ff0]
+#pcomment(,noname)
+
+***譜面 [#o60c5ea8]
+&attachref(ham_e.png,nolink);

@@ -1,0 +1,51 @@
+*パステル ドリーム [#title]
+***詳細・攻略 [#more]
+-エンジェルシリーズ第3弾。
+
+**一人用譜面 [#single]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSPDXDL''&br;iOS&br;AR|CENTER:★×7|CENTER:''526''|CENTER:''814770点''|CENTER:＋連打|CENTER:380点|CENTER:100点|
+|CENTER:AC15.1.0SP||~|~|CENTER:''832730点''|~|CENTER:440点|CENTER:113点|
+|CENTER:AC15.2.0|CENTER:Wii U1&br;PS4 1DL&br;NS1DL|~|~|CENTER:''832440点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''987700点''}|~|CENTER:COLOR(#ff3300){1700点}|CENTER:-|
+-BPMは180。
+-黄色連打が多い連打曲である。
+-大音符が多く、55個ある（全体の約10.5%）。
+-[[これまでの>難易度表/むずかしい/エンジェル ドリーム]][[シリーズ曲>難易度表/むずかしい/風のファンタジー]]と同様、8分の交互連打が多い。
+-第1ゴーゴー前からは16分も出てくるが、[[エンジェル ドリーム>難易度表/むずかしい/エンジェル ドリーム]]と比べると数が少ない。
+-★×7にしては簡単な方だったが、AC15でも残留した。
+
+**二人用譜面 [#double]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.1.0SP||CENTER:★×7|CENTER:''522''|CENTER:''?????0点''|CENTER:＋連打|CENTER:440点|CENTER:113点|
+|CENTER:AC15.2.0|CENTER:Wii U1&br;PS4 1DL|~|~|CENTER:''?????0点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){1700点}|CENTER:-|
+-1人用譜面の1P側の45、47小節目の2つ目の縁と、2P側の53、55小節目の2つ目の縁があったところが1P側・2P側共になく、その分の4コンボが減っている。
+-97、98小節目と105、106小節目の面と縁が入れ替わって配置されている。
+
+***その他 [#other]
+-作詞・歌唱は、''たかみつようこ''。
+--作・編曲は、岡部啓一。
+-略称は、''パスドリ''。
+--パステルとすると、[[Pastel Sealane>難易度表/むずかしい/Pastel Sealane]]と混合する場合があるため注意。
+-譜面作成は、''エトウ''。
+-曲IDは、''angel3''
+-PSPDXにおいては、配信が終了したため現在はDL不可。
+-[[ホワイトVer.段位道場>過去の段位道場#white]]の一級1曲目課題曲となった。
+-[[かんたん>難易度表/かんたん/パステル ドリーム]]
+-[[ふつう>難易度表/ふつう/パステル ドリーム]]
+-[[おに>難易度表/おに/パステル ドリーム]]
+-[[オート動画(1人用譜面)>https://youtube.com/watch?v=QJX7BJ8j-WY]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=M2IqsdwJvf4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+1人用譜面
+&attachref(パステル ドリーム.png,nolink);
+
+2人用譜面
+&attachref(パスドリ2人.png,nolink);

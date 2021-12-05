@@ -1,0 +1,31 @@
+*遥か [#title]
+***詳細・攻略 [#more]
+-映画「''ROOKIES−卒業−''」主題歌。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''Wii2''|CENTER:★×3|CENTER:''141''|CENTER:''488930点''|CENTER:＋連打|CENTER:920点|CENTER:270点|
+|CENTER:AC13-14|CENTER:iOS|~|CENTER:''140''|CENTER:''477560点''|~|CENTER:960点|CENTER:260点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''493300点''}|~|CENTER:COLOR(#ff3300){3050点}|CENTER:-|
+-BPMが84。
+--速度が遅いので、「ばいそく」をつけた方がやりやすいかもしれない。
+-大音符が多く、17個ある（全体の約12.1%）。
+-速度は遅めだが、全体的に8分がかなり多い。
+--8分は単色の3連打しかないが、そのほとんどが4分と隣接している。
+--また、4分の複合は種類がそれなりに多い。
+-4分と8分が何回も出てくる35〜42小節に注意。
+-フルコン難易度は妥当〜少し弱めだが、速度が遅いのでクリアは下位クラスだろう。
+-アーティストは、COLOR(green){''GReeeeN''}。
+
+-[[かんたん>難易度表/かんたん/遥か]]
+-[[むずかしい>難易度表/むずかしい/遥か]]
+-[[おに>難易度表/おに/遥か]]
+-[[オート動画(Wii2,キャプチャ)>http://www.youtube.com/watch?v=Q9F8yhnxUHg]]
+-[[プレイ動画(AC14,キャプチャ)>http://www.youtube.com/watch?v=jppW0iEb5XQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+Wii2譜面(34小節の巨大音符:良)~
+それ以外では34小節目が「5008,」となっている。
+&ref(haruka.png,nolink);

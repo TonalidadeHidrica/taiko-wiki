@@ -1,0 +1,31 @@
+*PENETRATION [#title]
+***詳細・攻略 [#more]
+-タイトー「[[''レイフォース(RAYFORCE)''>http://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9]]」より、AREA1のBGM。
+--「レイフォース」、「レイストーム」、「レイクライシス」と続くRAYシリーズの1作目。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC13''|CENTER:★×5|CENTER:''181''|CENTER:''349800点''|CENTER:＋連打|CENTER:640点|CENTER:150点|
+-BPMは147。
+-黄色連打が多い連打曲である。
+-全体的に付点配置や裏拍配置が多く、リズムが取りづらい。
+-4分と付点8分が主体の譜面で、8分は計2回しか出て来ない。
+--また、4分の複合は面と縁の交互連打しかない。
+--ただし、4分の複合は全体的に長めのが多いので油断は禁物。
+-中盤で3回出てくる4分の複合7連打に注意。
+
+***その他 [#other]
+-タイトーの音楽ゲームミュージックガンガン！にひみつ曲として収録された。また2にも収録された。
+-曲名の読み方は。''ぺネトレーション''。
+--意味は物語的に''侵入''が正しいと思われる。
+-作曲は、元ZUNTATAのTAMAYOこと''河本圭代''。
+-[[ふつう>難易度表/ふつう/PENETRATION]]
+-[[むずかしい>難易度表/むずかしい/PENETRATION]]
+-[[おに>難易度表/おに/PENETRATION]]
+-[[プレイ動画>http://www.youtube.com/watch?v=w3IzNnYzgYo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+風船は共に23打。
+&attachref(penetration easy.png,nolink);

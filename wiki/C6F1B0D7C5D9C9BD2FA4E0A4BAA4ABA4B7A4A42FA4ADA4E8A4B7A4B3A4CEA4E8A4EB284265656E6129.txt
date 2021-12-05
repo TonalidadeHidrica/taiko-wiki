@@ -1,0 +1,17 @@
+*きよしこのよる [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Beena''|★×1|''20''|
+-BPMは79.25。
+-Beenaでは唯一かんたん&むずかしい★×1で、事実上のBeena最易曲である。
+----
+-[[かんたん>難易度表/かんたん/きよしこのよる(Beena)]]
+-[[プレイ動画(かんたんと同時)>https://www.youtube.com/watch?v=a-r1K4dQ_Vo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(きよしこのよる(むずかしい).png,nolink);

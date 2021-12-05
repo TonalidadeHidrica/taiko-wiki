@@ -1,0 +1,18 @@
+*Real voice [#title]
+***詳細・攻略 [#cad95c6f]
+-フジテレビ系ドラマ''｢サプリ｣''主題歌。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC9|CENTER:''CS7''|CENTER:★×3|CENTER:''101''|CENTER:''324940点''|CENTER:＋連打|CENTER:1080点|CENTER:330点|
+-BPMは100〜131。
+-ふうせんは16打
+-アーティストは、[[三日月>難易度表/かんたん/三日月]]、[[WINDING ROAD>難易度表/かんたん/WINDING ROAD]]、[[あなたと>難易度表/かんたん/あなたと]]と同じく''絢香''。
+-曲IDは''supli''
+-[[ふつう>難易度表/ふつう/Real voice]]
+-[[むずかしい>難易度表/むずかしい/Real voice]]
+-[[おに>難易度表/おに/Real voice]]
+-[[オート動画>https://www.youtube.com/watch?v=q3090dV3yuc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+&attachref(reale.png,nolink);

@@ -1,0 +1,29 @@
+*蝶戀 〜Obsession〜 [#title]
+***詳細・攻略 [#more]
+-季曲シリーズ第8弾。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.7.0SP|CENTER:''Wii U2SP''|CENTER:★×4|CENTER:''283''|CENTER:''693030点''|CENTER:''711030点''((四人プレイ))|CENTER:＋連打|CENTER:540点|CENTER:163点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|CENTER:-|~|CENTER:COLOR(#ff3300){2570点}|CENTER:-|
+-BPMは116。
+-黄色連打が多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符がかなり多く、99個ある（全体の約34.98%）。
+-8分の長複合が主体の譜面で、たまに16分も出てくる。
+--16分は2連打のみでゴーゴーにしか出て来ないが、その全てが複合である（配色は○●）。
+--また前述の通り付点配置も多いので、全良難易度は高めである。
+-8分の複合9連打→16分の複合2連打になっている第1,3ゴーゴーに注意。
+-曲名の読み方は、''ちょうれん 〜オブセッション〜''。
+--Obsessionは「妄想、強迫観念、執念」という意味。
+-アーティストは、''�蚋�偉''。
+
+-[[かんたん>難易度表/かんたん/蝶戀 〜Obsession〜]]
+-[[ふつう>難易度表/ふつう/蝶戀 〜Obsession〜]]
+-[[おに>難易度表/おに/蝶戀 〜Obsession〜]]/[[裏譜面>難易度表/おに/蝶戀 〜Obsession〜(裏譜面)]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=13Hze9Snv2s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(Obsession_hard.png,nolink);

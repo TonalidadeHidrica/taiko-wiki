@@ -1,0 +1,67 @@
+[[公式ツイッター告知>https://twitter.com/taiko_team/status/910746691241893888]]
+&br;このページは、期間限定公開です。
+#br
+--１）期間中、[[公式ツイッター@taiko_team>https://twitter.com/taiko_team]]に、復活曲の曲名をリプライ（ツイート）する
+--２）下記期間中、ツイッターでハッシュタグ「[[#復活ナムオリ>http://bit.ly/2w9b96y]]」をつけて、ツイートする
+-１と２のどちらの方法でもOK
+-曲名はなるべくフルネームが望ましい
+-受付期間：''2017年9月21日（木）〜2017年9月30日（土）23時59分''まで
+
+-[[公式ブログの記事>http://taiko-ch.net/blog/?p=1958]]
+--【その他、諸注意】
+---今回の対象曲の一部には、ゲームセンター版初収録となるものも含んでいます。
+---%%%''今回の対象曲以外をリクエストいただいても、反映できません''%%%のでご注意ください。
+---リクエストは、%%%''1人1曲まで''%%%とさせていただきます。
+---%%%''同一アカウントからのリクエストは、最初の1件まで''%%%、とさせていただきます。
+---曲名については、なるべく、フル表記していただき、略称の利用や、誤字、脱字の無いよう、ご注意ください。
+
+|CENTER:曲名|>|CENTER:最終収録|CENTER:BGCOLOR(#f2c):COLOR(#000):''おに''((背景が灰色の難易度は新基準ではないもの))|CENTER:COLOR(#000):最大コンボ|h
+|~|CENTER:AC|CENTER:CS|~|~|h
+|>|>|>|>|CENTER:BGCOLOR(orangered):''ナムコオリジナル''&aname(namco);|
+||>|>|>|CENTER:|c
+|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|BGCOLOR(#bbb):AC5(旧譜面)|Wii5|★×8|687|
+|[[カッティアワールの宝剣>難易度表/おに/カッティアワールの宝剣]]|未収録|Wii U3|★×8|637|
+|[[軽いざわめき>難易度表/おに/軽いざわめき]]|AC14|Wii U2|★×9|551|
+|[[喫茶レイン>難易度表/おに/喫茶レイン]]|AC12増|PSPDX|BGCOLOR(#bbb):★×6|435|
+|[[クレーンシティ>難易度表/おに/クレーンシティ]]|AC8|Wii5|★×9|594|
+|[[SORA-III ヘリオポーズ>難易度表/おに/SORA-III ヘリオポーズ]]|AC14|3DS3|★×9|537|
+|[[SORA-IV ブンパソング>難易度表/おに/SORA-IV ブンパソング]]|AC14|Wii5|★×8|555|
+|[[Taiko Session 〜Live Version〜>難易度表/おに/Taiko Session〜Live Version〜]]|未収録|CS2|BGCOLOR(#bbb):★×8|230|
+|[[太鼓の達人・愛のテーマ>難易度表/おに/太鼓の達人・愛のテーマ]]|AC10|未収録|BGCOLOR(#bbb):★×6|COLOR(#909){''237}&br;COLOR(#666){251''}|
+|[[宝の丘>難易度表/おに/宝の丘]]|未収録|PS Vita1|★×7|463|
+|[[ダジャレdeオシャレ>難易度表/おに/ダジャレdeオシャレ]]|未収録|Wii3|BGCOLOR(#bbb):★×2|326|
+|[[ダジャレdeオシャレ(裏譜面)>難易度表/おに/ダジャレdeオシャレ(裏譜面)]]|未収録|Wii3|BGCOLOR(#bbb):★×8|715|
+|[[卓球de脱臼>難易度表/おに/卓球de脱臼]]|AC9|3DS2|★×8|COLOR(#909){''621}&br;COLOR(#069){577}&br;COLOR(#666){536''}|
+|[[デザート de 焼肉(サハラ編)>難易度表/おに/デザート de 焼肉(サハラ編)]]|AC10|Wii U2|★×9|759|
+|[[ニッティング・ハイ>難易度表/おに/ニッティング・ハイ]]|未収録|Wii5|★×7|473|
+|[[ヌムジカac.10>難易度表/おに/ヌムジカac.10]]|AC14|3DS3|★×9|631|
+|[[ねこくじら>難易度表/おに/ねこくじら]]|BGCOLOR(#bbb):AC5(旧譜面)|PS Vita1|★×8|591|
+|[[ねこくじら(裏譜面)>難易度表/おに/ねこくじら(裏譜面)]]|未収録|PS Vita1|★×9|826|
+|[[フューチャー・ラボ>難易度表/おに/フューチャー・ラボ]]|AC13|Wii U2|★×8|672|
+|[[崩冠の紅月 破章「嘆きの姫」>難易度表/おに/崩冠の紅月 破章「嘆きの姫」]]|未収録|Wii5|★×8|463|
+|[[MEKADON 〜宇宙に消えたメカ太鼓〜>難易度表/おに/MEKADON]]|未収録|CS3|BGCOLOR(#bbb):★×5|255|
+|[[わすれなぐさ>難易度表/おに/わすれなぐさ]]|AC11|Wii5|★×9|474|
+|>|>|>|>|CENTER:BGCOLOR(darkorchid):''ゲームミュージック''&aname(game);|
+|[[Where is the Target?>難易度表/おに/Where is the Target？]]&br;SIZE(11){　　ローリングサンダー2}|未収録|PS Vita1|★×9|546|
+|[[大打音>難易度表/おに/大打音]]&br;SIZE(11){　　オーダイン}|AC9|PSP2|BGCOLOR(#bbb):★×9|COLOR(#909){''620}&br;COLOR(#666){620''}|
+|[[KARMA(Tatsujin Mix)>難易度表/おに/KARMA(Tatsujin Mix)]]&br;SIZE(11){　　鉄拳6 BLOODLINE REBELLION}|AC14|Wii5|★×9|876|
+|[[恋はみずいろ>難易度表/おに/恋はみずいろ]]&br;SIZE(11){　　みずいろブラッド}|未収録|Wii U3|★×7|350|
+|[[Comona>難易度表/おに/Comona]]&br;SIZE(11){　　ACE COMBAT 04}|未収録|PS Vita1|★×9|726|
+|[[SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]]&br;SIZE(11){　　RIDGE RACER V}|AC13|3DS2|★×8|765|
+|[[SAMURAI ROCKET(裏譜面)>難易度表/おに/SAMURAI ROCKET(裏譜面)]]&br;SIZE(11){　　RIDGE RACER V}|AC13|3DS2|★×9|888|
+|[[サンダーセプターメドレー>難易度表/おに/サンダーセプターメドレー]]&br;SIZE(11){　　サンダーセプター}|未収録|PSP2|BGCOLOR(#bbb):★×9|COLOR(#909){''552}&br;COLOR(#069){514}&br;COLOR(#666){474''}|
+|[[シンフォニック モトス>難易度表/おに/シンフォニック モトス]]&br;SIZE(11){　　モトス}|AC10|iOS|★×7|456|
+|[[シンフォニック ワルキューレ>難易度表/おに/シンフォニック　ワルキューレ]]&br;SIZE(11){　　ワルキューレの冒険}|未収録|Wii5|★×7|439|
+|[[ソウルキャリバーV The Invincible Blade>難易度表/おに/ソウルキャリバーV]]&br;SIZE(11){　　ソウルキャリバーV}|未収録|PS Vita1|★×7|438|
+|[[DIGITAL HORIZON>難易度表/おに/DIGITAL HORIZON]]&br;SIZE(11){　　RIDGE RACER}|未収録|PS Vita1|★×9|857|
+|[[DESERT STORM>難易度表/おに/DESERT STORM]]&br;SIZE(11){　　F/A}|AC14|3DS2|★×8|529|
+|[[ドラゴンセイバー 水没都市>難易度表/おに/ドラゴンセイバー 水没都市]]&br;SIZE(11){　　ドラゴンセイバー}|AC10|3DS3|★×8|777|
+|[[Naked Glow>難易度表/おに/Naked Glow]]&br;SIZE(11){　　R4 -RIDGE RACER TYPE4-}|AC13|iOS|★×9|823|
+|[[Baladium's drive>難易度表/おに/Baladium's drive]]&br;SIZE(11){　　風のクロノア door to phantomile}|未収録|Wii U3|★×7|541|
+|[[Baladium's drive(裏譜面)>難易度表/おに/Baladium's drive(裏譜面)]]&br;SIZE(11){　　風のクロノア door to phantomile}|未収録|Wii U3|★×9|727|
+|[[バンビーニ>難易度表/おに/バンビーニ]]&br;SIZE(11){　　ことばのパズル もじぴったん}|AC11|Wii U2|★×8|631|
+|[[Fighter's Honor (Flying Remix)>難易度表/おに/Fighter's Honor (Flying Remix)]]&br;SIZE(11){　　エースコンバット3D クロスランブル}|未収録|3DS1|★×7|527|
+|[[ラブリーX>難易度表/おに/ラブリーX]]&br;SIZE(11){　　ニューラリーX}|BGCOLOR(#bbb):AC7(旧譜面)|Wii U3|★×7|509|
+|[[ラブリーX(裏譜面)>難易度表/おに/ラブリーX(裏譜面)]]&br;SIZE(11){　　ニューラリーX}|未収録|Wii U3|★×8|662|
+|[[Ridge racer (RIDGE RACER USA MIX)>難易度表/おに/Ridge racer (RIDGE RACER USA MIX)]]&br;SIZE(11){　　RIDGE RACER}|未収録|PS Vita1|★×9|942|
+|[[Rare Hero>難易度表/おに/Rare Hero]]&br;SIZE(11){　　リッジレーサー}|AC8(旧音源)|3DS3|★×8|765|

@@ -1,0 +1,30 @@
+*U.S.A. [#title]
+-1992年にリリースされたJoe Yellowによる楽曲「''USA''((2007年に発売されたアルバム「''SUPER EUROBEAT VOL.177''」に収録))」のカバー。
+***詳細 [#detail]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.10.5''|NS1DL&br;PS4 1DL|★×2|''105''|''311440点''|＋連打|690点|388点|
+|COLOR(#f30){真打}||~|~|COLOR(#f30){''992800点''}|~|COLOR(#f30){6800点}|-|
+||iOS&br;AR|~|~|''?????0点''|~|??0点|???点|
+|AC16.1.0||~|~|''996450点''|~|9490点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは139.6。
+-大音符が4分間隔で連なっているため要注意。
+--特にゴーゴータイムでは5連になっている。
+
+***その他 [#other]
+-アーティストは、''DA PUMP''。
+--作詞は、CIRELLI DONATELLA・LOMBARDONI SEVERINO・shungo((日本語詞))。作曲は、ACCATINO CLAUDIO・CIRELLI DONATELLA・GIOCOANNA MARIA。
+
+----
+-[[ふつう>難易度表/ふつう/U.S.A.]]
+-[[むずかしい>難易度表/むずかしい/U.S.A.]]
+-[[おに>難易度表/おに/U.S.A.]]
+-[[プレイ動画>https://www.youtube.com/watch?v=JijRt1sFmtg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(宇佐かんたん.png,nolink);

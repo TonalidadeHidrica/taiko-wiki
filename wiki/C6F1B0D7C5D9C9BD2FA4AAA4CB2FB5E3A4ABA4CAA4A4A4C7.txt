@@ -1,0 +1,18 @@
+*泣かないで [#y8d42b90]
+***攻略・詳細 [#cf1bb1dd]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''-13&br;AC12亜|CENTER:★×5|CENTER:''272''|CENTER:''884890点''|CENTER:＋連打|CENTER:1010点|CENTER:240点|
+-BPMは164。
+-音符密度は、''約3.97打/秒''。
+-16分は単色三連打のみ。
+-アーティストは''COLOR(#ff0000){羞}COLOR(#0000ff){恥}COLOR(#999900){心}''。
+--2011/11/26のヘキサゴンファミリーコンサート2011WE LIVE ヘキサゴンをもって解散となった。
+
+-[[かんたん>難易度表/かんたん/泣かないで]]
+-[[ふつう>難易度表/ふつう/泣かないで]]
+-[[むずかしい>難易度表/むずかしい/泣かないで]]
+-[[プレイ動画>https://www.youtube.com/watch?v=MOLH-vkVbHY]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(nakanaide.png,nolink);

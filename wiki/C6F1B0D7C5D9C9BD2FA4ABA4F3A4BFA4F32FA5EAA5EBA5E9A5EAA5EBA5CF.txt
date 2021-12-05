@@ -1,0 +1,19 @@
+*リルラリルハ[#title]
+***詳細・攻略[#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSP2''|CENTER:★×3|CENTER:''143''|CENTER:''334920点''|CENTER:700点|CENTER:200点|
+|CENTER:AC10||~|~|CENTER:''341460点''|CENTER:710点|~|
+-BPMは約137。
+-全難易度を通して''精度曲''。
+-ACでは''リルラ リルハ''と表記されている(空白がある)。
+-アーティストは、''木村カエラ''。
+-曲IDは、''kaera''。
+----
+-[[ふつう>難易度表/ふつう/リルラリルハ]]
+-[[むずかしい>難易度表/むずかしい/リルラリルハ]]
+-[[おに>難易度表/おに/リルラリルハ]]
+-[[プレイ動画>https://www.youtube.com/watch?v=DABTMm-q3Iw]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(k.png,nolink);

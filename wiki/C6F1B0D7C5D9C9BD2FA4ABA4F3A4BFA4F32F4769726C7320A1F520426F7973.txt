@@ -1,0 +1,28 @@
+*Girls & Boys [#j62000ab]
+***詳細・攻略 [#kce960f6]
+-【1人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×2|CENTER:''109''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1230点|CENTER:490点|
+-BPMは130?
+----
+-【2人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×2|CENTER:1P|CENTER:''105''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1280点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''101''|CENTER:''?????0点''|~|~|~|
+----
+- アーティストは''good sharlotte(グッド・シャーロット)''。
+-[[ふつう>難易度表/ふつう/Girls ＆ Boys]]
+-[[むずかしい>難易度表/むずかしい/Girls ＆ Boys]]
+-[[おに>難易度表/おに/Girls ＆ Boys]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=rz-YHROQOUA]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=62MsXgevmDQ]]
+***コメント [#ob4386a4]
+#pcomment(,noname)
+
+***譜面 [#yc9fc24e]
+~一人用譜面
+&attachref(女男かんたん.png,nolink);
+~二人用譜面
+&attachref(女男かんたん２.png,nolink);

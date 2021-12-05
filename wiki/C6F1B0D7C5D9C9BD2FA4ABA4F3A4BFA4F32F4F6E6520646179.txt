@@ -1,0 +1,33 @@
+*One day [#title]
+-アニメ[[「''ワンピース''」>アニメ別収録曲#onepiece]]のOP13。
+***詳細 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+||CENTER:''Wii3''|CENTER:★×2|CENTER:''87''|CENTER:''261580点''|CENTER:＋連打|CENTER:1020点|CENTER:350点|CENTER:''ゴーゴーバグあり''|
+||CENTER:PSPDX|~|~|CENTER:''261440点''|~|~|~||
+|CENTER:AC15.1.0||~|~|CENTER:''294010点''|~|CENTER:1030点|CENTER:700点||
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){10500点}|CENTER:-||
+
+***譜面構成・攻略 [#capture]
+-BPMは89。
+--太鼓の達人に収録されているアニメの中では[[月光花>難易度表/かんたん/月光花]]（BPM102）を下回って最も遅い。
+-黄色連打がかなり多い連打曲である。
+-8分の3連打が少し出てくるが、速度が遅いため★×2で妥当だろう。
+--また、4分は単色の3連打しかない。
+
+***その他 [#other]
+-アーティストは、''The ROOTLESS''。
+--作詞は、野畑慎。作曲は、内藤デュラン晴久。
+-曲IDは、''oneday''。
+-''2014年11月5日(水) 朝7:00を以てサヨナラ''となった。
+--現在はこの曲が収録されている家庭用作品でしかプレイできない。
+----
+-[[ふつう>難易度表/ふつう/One day]]
+-[[むずかしい>難易度表/むずかしい/One day]]
+-[[おに>難易度表/おに/One day]]
+-[[オート動画(Wii3)>https://www.youtube.com/watch?v=qKMBjjj6_nw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(ガ.png,nolink);

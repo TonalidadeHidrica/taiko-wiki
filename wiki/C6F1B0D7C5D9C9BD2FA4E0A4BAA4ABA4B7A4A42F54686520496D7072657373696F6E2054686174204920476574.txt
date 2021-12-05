@@ -1,0 +1,35 @@
+*The Impression That I Get [#a033cbd1]
+***詳細・攻略 [#hae0b747]
+-【1人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''|CENTER:★×5|CENTER:''379''|CENTER:''?????0点''|CENTER:＋連打|CENTER:???点|CENTER:???点|
+|CENTER:TDM|CENTER:★×6|~|CENTER:''??????点''|~|CENTER:700点|CENTER:160点|
+-BPMは180。
+-16分音符は出ないが、裏拍からの8分音符が多い。しかし、8分音符はドンとカッの交互のものが多い。
+-当時の★×6としてはかなり弱い方。
+----
+- 【2人用譜面】
+-詳細は以下の通り。
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''|CENTER:★×5|CENTER:1P|CENTER:''374''|CENTER:''?????0点''|CENTER:＋連打|CENTER:???点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''375''|CENTER:''?????0点''|~|~|~|
+|CENTER:TDM|CENTER:★×6|CENTER:1P|CENTER:''374''|CENTER:''?????0点''|CENTER:＋連打|CENTER:710点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''375''|CENTER:''?????0点''|~|~|~|
+-こちらは面の16分3連打が6回ずつ登場する。
+----
+- アーティストは''The Mighty Mighty Bosstones(マイティ・マイティ・ボストーンズ)''。
+-[[かんたん>難易度表/かんたん/The Impression That I Get]]
+-[[ふつう>難易度表/ふつう/The Impression That I Get]]
+-[[おに>難易度表/おに/The Impression That I Get]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=IttrVy8jLuk]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=6iDZhTh2-hE]]
+***コメント [#z85739dd]
+#pcomment(,noname)
+
+***譜面　[#fmn]
+~風船の長さは適当
+~1人用譜面
+&attachref(インプレッサむずかしい.png,nolink);
+~2人用譜面
+&attachref(インプレッサむずかしい２.png,nolink);

@@ -1,0 +1,20 @@
+*PIECES OF A DREAM [#u625caea]
+***詳細・攻略 [#zb90c711]
+|>|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC3''||CENTER:★×3|CENTER:''147''|''??????点''|＋連打|RIGHT:???点|???点|
+||CENTER:CS1|~|~|''??????点''|~|RIGHT:910点|290点|
+-BPMは105。
+- アーティストは''CHEMISTRY''。
+- 曲IDは''poad''
+-BPMは遅いが、当時は倍速オプションがなかったので難易度の割に難しい。
+-ふつうと譜面が似ている所が多い。
+-[[ふつう>難易度表/ふつう/PIECES OF A DREAM]]
+-[[むずかしい>難易度表/むずかしい/PIECES OF A DREAM]]
+-[[おに>難易度表/おに/PIECES OF A DREAM]]
+-[[オート動画>http://www.youtube.com/watch?v=jFDdhl8kcTU]]
+
+***コメント [#v073c842]
+#pcomment(,noname)
+
+***譜面 [#e48e3f72]
+&attachref(PoaD_e.png,nolink);

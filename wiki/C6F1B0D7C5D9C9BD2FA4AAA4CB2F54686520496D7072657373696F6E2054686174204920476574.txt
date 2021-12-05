@@ -1,0 +1,18 @@
+*The Impression That I Get [#a033cbd1]
+***詳細・攻略 [#hae0b747]
+|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|h
+|CENTER:''米TDM''|CENTER:★×5|CENTER:''379''|CENTER:''??????点''|CENTER:＋連打|
+|CENTER:TDM|CENTER:★×7|CENTER:''502''|CENTER:''837000点''|~|
+-BPMは180。
+-16分音符は3連打のみで、複合はCOLOR(red){●●}COLOR(blue){●}とCOLOR(blue){●●}COLOR(red){●}のみ。
+***その他 [#other]
+-アーティストは、''The Mighty Mighty Bosstones(マイティ・マイティ・ボストーンズ)''。
+----
+-[[かんたん>難易度表/かんたん/The Impression That I Get]]
+-[[ふつう>難易度表/ふつう/The Impression That I Get]]
+-[[むずかしい>難易度表/むずかしい/The Impression That I Get]]
+-[[オート動画(TDM)>https://www.youtube.com/watch?v=Oxw4sNaaqSA]]
+***コメント [#z85739dd]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(The Impression That I Get.png,nolink);

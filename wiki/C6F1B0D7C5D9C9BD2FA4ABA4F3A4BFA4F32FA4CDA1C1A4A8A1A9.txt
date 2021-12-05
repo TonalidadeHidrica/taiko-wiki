@@ -1,0 +1,14 @@
+*ね〜え？ [#e896da67]
+***詳細・攻略 [#ede41604]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''|CENTER:CS3|CENTER:★×2|CENTER:''89''|CENTER:''??????点''|CENTER:＋連打|CENTER:1510点|CENTER:750点|
+-[[ふつう>難易度表/ふつう/ね〜え？]]
+-[[むずかしい>難易度表/むずかしい/ね〜え？]]
+-[[おに>難易度表/おに/ね〜え？]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=ZzbvWPdlqm8]]
+
+***コメント [#h4dc0abb]
+#pcomment(,noname)
+
+***譜面 [#r3bd4d25]
+&attachref(ねえかんたん.png,nolink);

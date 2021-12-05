@@ -1,0 +1,25 @@
+*わらべ歌メドレー [#k65417d5]
+***詳細・攻略 [#jf3b1c2d]
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''RT''||CENTER:★×2|CENTER:''43''|CENTER:''??????点''|CENTER:＋連打|CENTER:3720点|CENTER:????点|
+||CENTER:CS7|CENTER:★×1|CENTER:''86''|CENTER:''277540点''|~|CENTER:1120点|CENTER:330点|
+-BPMは92。
+-RTが初出だが、全コースの初出は七代目。
+-演奏順は、あんたがたどこさ(1〜12) → ずいずいずっころばし(15〜30) → かごめかごめ(33〜)。
+--RTの場合はさらに通りゃんせも演奏される。
+----
+-[[ふつう>難易度表/ふつう/わらべ歌メドレー]]
+-[[むずかしい>難易度表/むずかしい/わらべ歌メドレー]]
+-[[おに>難易度表/おに/わらべ歌メドレー]]
+-[[オート動画(CS7)>https://www.youtube.com/watch?v=JtCXAaBWZPU]]
+-[[プレイ動画(RT)>https://www.youtube.com/watch?v=WON2O8LUHaY]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+BPMは92
+~CS7譜面
+&attachref(wrbe.png,nolink);
+~RT譜面
+&attachref(wrbert.png,nolink);

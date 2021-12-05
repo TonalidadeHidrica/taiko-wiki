@@ -1,0 +1,27 @@
+*ワンダーランド [#title]
+***詳細・攻略 [#more]
+-アニメ「''銀魂'''」のOP3。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.2.0|CENTER:''3DS1''|CENTER:★×3|CENTER:''101''|CENTER:''321120点''|CENTER:＋連打|CENTER:840点|CENTER:475点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''984000点''}|~|CENTER:COLOR(#ff3300){8000点}|CENTER:-|
+-BPMは176。
+-ゴーゴーは付点配置が多く、リズムが取りづらい。
+-4分は3連打までしかなく、ほとんどが単色である。
+-ラストに出てくる4分の複合2連打に注意。
+
+***その他 [#other]
+-アーティストは、''FLiP''。
+--作詞・作曲は、いしわたり淳治。
+-曲IDは、''wland''
+
+-[[ふつう>難易度表/ふつう/ワンダーランド]]
+-[[むずかしい>難易度表/むずかしい/ワンダーランド]]
+-[[おに>難易度表/おに/ワンダーランド]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=jSPf6Bk-QHU]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面[#score]
+&attachref(wone.png,nolink);

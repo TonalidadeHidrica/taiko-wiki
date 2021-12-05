@@ -1,0 +1,27 @@
+*Tell Your World [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.2.0|CENTER:''3DS1''|CENTER:★×3|CENTER:''95''|CENTER:''336740点''|CENTER:＋連打|CENTER:990点|CENTER:590点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){9270点}|CENTER:-|
+-BPMは150。
+-連打秒数目安・・・約1.167秒×2：合計約2.333秒
+-速度は至って普通だが、全体的に4分がかなり多い。
+-1回ずつ出てくる4分の4連打と5連打に注意。
+-ただし、4分は全て単色しかない。
+-曲名の読み方は、''テル ユア ワールド''。
+-アーティストは、[[メルト>難易度表/かんたん/メルト]]、[[ワールドイズマイン>難易度表/かんたん/ワールドイズマイン]]などと同じく、''初音ミク''。
+-作曲は、livetuneの''kz''。
+-AC9、CS7に収録されている[[''Your World''>難易度表/かんたん/Your World]]と間違えないように。
+-譜面作成は、''マツモト''。
+
+-[[ふつう>難易度表/ふつう/Tell Your World]]
+-[[むずかしい>難易度表/むずかしい/Tell Your World]]
+-[[おに>難易度表/おに/Tell Your World]]
+-[[プレイ動画(AC15,キャプチャ)>https://www.youtube.com/watch?v=gIdVx1DjstM&list=PLkHirIhrQJTaFStsRfedYJyYTa-Dhf_ym&index=18]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(テルユアワールド.png,nolink);

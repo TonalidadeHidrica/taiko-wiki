@@ -1,0 +1,31 @@
+*Journey through the Decade [#title]
+-[[「''仮面ライダーディケイド''」>アニメ別収録曲#rider]]のOP。
+***詳細 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12増''&br;AC13|CENTER:★×2|CENTER:''48''|CENTER:''305580点''|CENTER:＋連打|CENTER:1890点|CENTER:1540点|
+
+***譜面構成・攻略 [#capture]
+-BPMは170。
+-黄色連打が多い連打曲である。
+-ほとんどが面で、縁は全体の約14.58%（7/48）しかない。
+-仮面ライダー曲ではかんたんで最もコンボ数少ない。
+--初出以降かんたん★×2でも最も少なかったが、2015/4/1に新ACに追加された[[ケラケラじゃんけん>難易度表/かんたん/ケラケラじゃんけん]](46コンボ)に最少の座を譲った。
+--また、50コンボ未満なので、コンボ数の色は白のままである。
+-速度は少し速めだが、2分までしかないので★×2にしては簡単な方。
+--また、ほとんどの2分が単色で、複合は2回しか出て来ない。
+
+***その他 [#other]
+-アーティストは、''Gackt''。
+--作詞は、Shoko Fujibayashi。作曲は、Ryo。編曲は、Kotaro Nakagawa・Ryo。
+-曲IDは、''decade''。
+----
+-[[ふつう>難易度表/ふつう/Journey through the Decade]]
+-[[むずかしい>難易度表/むずかしい/Journey through the Decade]]
+-[[おに>難易度表/おに/Journey through the Decade]]
+-[[プレイ動画>https://www.youtube.com/watch?v=Uj1F7frae28]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(Journey through the Decade.png,nolink);

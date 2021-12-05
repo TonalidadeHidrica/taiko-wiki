@@ -1,0 +1,59 @@
+*夢をかなえてドラえもん [#title]
+***詳細・攻略 [#more]
+-アニメ「''ドラえもん(第2作第2期)''」のOP3。
+
+***1人用譜面 [#single]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''〜14|CENTER:Wii1|CENTER:★×1|CENTER:''99''|CENTER:''385170点''|CENTER:＋連打|CENTER:1120点|CENTER:390点|
+||CENTER:Wii4|~|~|CENTER:''384810点''|~|~|~|
+||CENTER:DS2|~|~|CENTER:''313640点''|~|CENTER:880点|CENTER:320点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''394800点''}|~|CENTER:COLOR(#ff3300){3500点}|CENTER:-|
+|CENTER:AC15.1.0||~|~|CENTER:''?????0点''|~|CENTER:1130点|CENTER:720点|
+|CENTER:AC15.2.0|CENTER:3DS1&br;Wii5|~|~|CENTER:''391440点''|~|CENTER:1120点|CENTER:723点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''992910点''}|~|CENTER:COLOR(#ff3300){8990点}|CENTER:-|
+-BPMは123。
+-[[かんたん>難易度表/かんたん/夢をかなえてドラえもん]]とはコンボ数が''8コンボ''（Wiiでは''5コンボ''）しか離れていない。
+--ちなみにWiiでは[[むずかしい>難易度表/むずかしい/夢をかなえてドラえもん]]と同時プレイのとき、なぜか21〜25小節目の小節線の上にある音符が消えて94コンボになっている。
+--Wii1,AC14で、何故プレイする人数によって配点が変わるかは不明。
+-4分が主体の譜面で、8分は1回も出て来ない。
+--また、4分は単色の4連打までしかない。
+--ただし、4分は4連続で出てくる箇所もあるので油断は禁物。
+-[[オート動画>https://www.youtube.com/watch?v=yPuaA3Ogidg]]
+
+***2人用譜面 [#double]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''〜14|CENTER:Wii1|CENTER:★×1|CENTER:''94''|CENTER:''386450点''|CENTER:＋連打|CENTER:1140点|CENTER:430点|
+||CENTER:Wii4|~|~|CENTER:''386090点''|~|~|~|
+||CENTER:Wii1((むずかしいと同時))|~|~|CENTER:''384290点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|CENTER:＋連打|CENTER:COLOR(#ff3300){3660点}|CENTER:-|
+|CENTER:AC15||~|~|CENTER:''?????0点''|~|CENTER:1170点|CENTER:770点|
+|CENTER:AC15.6|CENTER:Wii5&br;PS4 1|~|~|CENTER:''392530点''|~|CENTER:1180点|CENTER:768点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''992680点''}|~|CENTER:COLOR(#ff3300){9420点}|CENTER:-|
+-[[オート動画>http://www.youtube.com/watch?v=jmtgCRO0Lzw]]
+
+***その他 [#other]
+-この曲と、[[踊れ・どれ・ドラ　ドラえもん音頭>難易度表/ふつう/踊れ・どれ・ドラ　ドラえもん音頭]]に限り、踊り子がドラえもんのメンバーになる。
+--一方、[[ドラえもんのうた>難易度表/ふつう/ドラえもんのうた]]は、旧世代のOP曲であるためか、踊り子がドラえもんのメンバーでない。
+--また、新筐体では2曲とも踊り子がドラえもんのメンバーではない。
+-亜洲版には2作とも収録されていない。
+-アーティストは、''mao''。
+--作詞・作曲は、黒須克彦。編曲は、大久保薫。
+-曲IDは、''dora4''
+-新筐体の旧バージョンでは、以下の日時を以てサヨナラとなった。
+--2014年11月5日(水)7:00、''無印・KATSU-DON・ソライロ・モモイロVer.''
+--2017年3月15日(水)7:00、''キミドリ・ムラサキ・ホワイト・レッドVer.''
+---''イエローVer.では今まで通りプレイ可能''。
+-[[かんたん>難易度表/かんたん/夢をかなえてドラえもん]]
+-[[むずかしい>難易度表/むずかしい/夢をかなえてドラえもん]]
+-[[おに>難易度表/おに/夢をかなえてドラえもん]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(yume.png,nolink);
+
+2人用譜面
+&attachref(yume_n2p.png,nolink);

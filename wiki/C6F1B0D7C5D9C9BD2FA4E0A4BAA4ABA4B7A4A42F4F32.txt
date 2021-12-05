@@ -1,0 +1,25 @@
+*O2 [#title]
+-アニメ「''コードギアス 反逆のルルーシュR2''」のOP1。
+***詳細 [#detail]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''-13&br;AC12亜洲版|CENTER:★×5|CENTER:''270''|CENTER:''752640点''|CENTER:780点|CENTER:210点|
+
+***譜面構成・攻略 [#capture]
+-BPMは170。
+-ラストで少しだけ16分音符があるが、それ以外はほとんど8分音符。
+-おにと同じく''精度曲''である。
+
+***その他 [#other]
+- アーティストは、[[''ORANGE RANGE''>アーティスト別収録曲#orange]]。
+-曲IDは、''o2rang''。
+----
+-[[かんたん>難易度表/かんたん/O2]]
+-[[ふつう>難易度表/ふつう/O2]]
+-[[おに>難易度表/おに/O2]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=TUq5Ldi8NTE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面[#score]
+&ref(O2.png,nolink);

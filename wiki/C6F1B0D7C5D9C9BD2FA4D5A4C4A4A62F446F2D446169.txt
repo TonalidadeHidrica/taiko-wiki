@@ -1,0 +1,51 @@
+*Do-Dai [#title]
+***詳細・攻略 [#more]
+-ゲーム「''THE IDOLM@STER Live For You!''」の楽曲。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''~13&br;AC12亜|CENTER:Wii1&br;iOS|CENTER:★×5|CENTER:''247''|CENTER:''585890点''|CENTER:+連打|CENTER:620点|CENTER:170点|
+||CENTER:PSPDXDL|CENTER:★×4|~|CENTER:''535750点''|~|CENTER:610点|CENTER:150点|
+||CENTER:COLOR(red):PS Vita MS|CENTER:★×5|CENTER:''187''|CENTER:''579680点''|~|CENTER:760点|CENTER:258点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''981800点''}|~|CENTER:COLOR(#ff3300){4120点}|CENTER:-|
+-BPMは171。
+
+***新譜面 [#new]
+-黄色連打がかなり多く、15本ある。
+-大音符がかなり多く、48個ある（全体の約25.7%）。
+-4分の複合が主体の譜面で、8分も数が多い。
+--8分はほとんどが2連打だが、連続して出てくる箇所もある。
+--また、4分の複合は全体的に長めのが多い。
+-序盤と終盤で1回ずつ出てくる8分の単色4連打と複合3連打（COLOR(red){●}COLOR(blue){●●}）に注意。
+
+***旧譜面 [#old]
+-4分が主体の譜面で、8分も数が多い。
+--8分は単色の3連打までしかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は数があまり多くない。
+-4分の複合6連打→8分になっている56〜58小節に注意。
+-PSPDXで★×4に降格した。
+
+***その他 [#other]
+-曲名の読み方は、''ドーダイ''。
+--通称は、''土台''。
+-作詞は、''mft''。作曲は、''中川浩二''。
+-譜面作成は、''くぼけん''(新譜面)。
+-この曲は、''双海真美''の持ち歌である。
+--アイドルマスター2で萩原雪歩の声優が交代したためWii1以前とiOS以降では音源が違う。
+--アイドルマスターSP及び2では我那覇響、四条貴音が歌ったものもあるがPSPDXでも音源は変更されていない。
+-曲IDは、''dodai''
+-[[かんたん>難易度表/かんたん/Do-Dai]]
+-[[むずかしい>難易度表/むずかしい/Do-Dai]]
+-[[おに>難易度表/おに/Do-Dai]]
+-[[オート動画(新譜面,2:36〜)>http://www.youtube.com/watch?v=ghYtKjNRQwo&t=156]]
+-[[オート動画(旧譜面)>http://www.youtube.com/watch?v=pTplDoUcB8M]]
+
+*** コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~新譜面
+&attachref(土台n_n.png,nolink);
+
+~旧譜面
+~64小節はnotゴーゴータイム
+&ref(dodaifutsuusan.png,nolink);

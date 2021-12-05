@@ -1,0 +1,26 @@
+*マーブルハート [#Title]
+***詳細・攻略 [#More]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.0SP''||CENTER:★×3|CENTER:''107''|CENTER:''?????0点''|CENTER:＋連打|CENTER:890点|CENTER:278点|
+|CENTER:AC15.2.0|CENTER:Wii U2SP|~|~|CENTER:''316630点''|~|~|CENTER:275点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){7930点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''302630点''|~|CENTER:850点|CENTER:170点|
+-BPMは166。
+-黄色連打は4本しかないが、1本あたりの長さが長い。
+-全体的に繰り返しが多い。
+-4分は単色の3連打までしかないが、数がかなり多い。
+-アーティストは、[[蒼の旋律>難易度表/かんたん/蒼の旋律]]、[[零の夜想曲>難易度表/かんたん/零の夜想曲]]と同じ''サリヤ人''。
+--作曲、作詞、編曲の全てを担当。
+-[[LOVE戦!!>難易度表/かんたん/LOVE戦!!]]、[[地平線のエオリア>難易度表/かんたん/地平線のエオリア]]、[[The Magician's Dream>難易度表/かんたん/The Magician's Dream]]、[[久遠の夜>難易度表/かんたん/久遠の夜]]、[[Sweet Sweet Magic>難易度表/かんたん/Sweet Sweet Magic]]と同じく[[''JBG音楽院''>http://www.jbg-ongakuin.com/]]が提供している楽曲である。
+
+-[[ふつう>難易度表/ふつう/マーブルハート]]
+-[[むずかしい>難易度表/むずかしい/マーブルハート]]
+-[[おに>難易度表/おに/マーブルハート]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=HA8i9Ox8-N4]]
+
+***コメント [#Comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+&attachref(mh k.png,nolink);

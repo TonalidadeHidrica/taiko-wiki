@@ -1,0 +1,31 @@
+*Black Rose Apostle（裏譜面）[#Title]
+***詳細・攻略 [#More]
+-Roseシリーズ第1弾。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii3SP''&br;PSPDXSP|CENTER:★×5|CENTER:''229''|CENTER:''369430点''|CENTER:＋連打|CENTER:450点|CENTER:120点|
+-BPMは102〜204。
+--[[僕たちの行方>難易度表/かんたん/僕たちの行方]]とBPMもBPM変化も同じである。
+-コンボ数は[[ふつう（表譜面）>難易度表/ふつう/Black Rose Apostle]]を上回っている。
+-[[表譜面>難易度表/かんたん/Black Rose Apostle]]と同じく★×5だが、79コンボもの差がある。
+--[[ふつう>難易度表/ふつう/Black Rose Apostle(裏譜面)]]とは85コンボ、[[むずかしい>難易度表/むずかしい/Black Rose Apostle(裏譜面)]]とは338コンボ離れている。
+-最初と中盤に速度変化があり、等速の4分が見かけ8分になっている。
+-[[表譜面>難易度表/かんたん/Black Rose Apostle]]には見かけ8分しか出て来ないが、こっちにはBPM204の8分が4回出てくる。
+-ただし、8分は単色の3連打しかない。それが救い。
+-作曲・譜面作成は、''世阿弥''。
+-略称は''裏黒薔薇''、''Black Rose裏''等。
+--''裏薔薇''は[[White Rose Insanity（裏譜面）>難易度表/かんたん/White Rose Insanity(裏譜面)]]と混同するので注意。
+-曲IDは、''excast''
+
+-[[表譜面>難易度表/かんたん/Black Rose Apostle]]/かんたん
+-[[表譜面>難易度表/ふつう/Black Rose Apostle]]/[[ふつう>難易度表/ふつう/Black Rose Apostle(裏譜面)]]
+-[[表譜面>難易度表/むずかしい/Black Rose Apostle]]/[[むずかしい>難易度表/むずかしい/Black Rose Apostle(裏譜面)]]
+-[[表譜面>難易度表/おに/Black Rose Apostle]]/[[おに>難易度表/おに/Black Rose Apostle(裏譜面)]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=m3N3rOvPkXY]]
+
+***コメント [#Comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+~見た目重視
+&attachref(exBRA_easy.png,nolink);

@@ -1,0 +1,36 @@
+*Dragon Soul [#title]
+***詳細・攻略 [#more]
+-アニメ「''ドラゴンボール改''」のOP1。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12増''-14|CENTER:Wii2|CENTER:★×2|CENTER:''73''|CENTER:''298980点''|CENTER:＋連打|CENTER:1030点|CENTER:490点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''310830点''}|~|CENTER:COLOR(#ff3300){3130点}|CENTER:-|
+|CENTER:AC15.1.0-15.5.4|NS1DL|~|~|CENTER:''305790点''|~|CENTER:1050点|CENTER:758点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){10590点}|CENTER:-|
+-BPMは162。
+-黄色連打が多い連打曲である。
+-[[ふつう>難易度表/ふつう/Dragon Soul]]以上と違い、裏拍配置は1回しか出て来ない。
+-大音符がかなり多く、18個ある（全体の約24.7%）。
+-ほとんどが2分で、たまに4分も出てくる。
+--4分は2連打が主体で、たまに3連打も出てくる。
+--ただし、2分の複合は3連打が4回しか出て来ない。
+
+***その他 [#other]
+-曲名の読み方は、''ドラゴン ソウル''。
+-アーティストは、''谷本貴義''。
+--作詞は、吉元由美。作曲は、岩崎貴文。編曲は、京田誠一。
+-曲IDは、''dsoul''
+-''2014年11月5日 (水) 7:00を以てサヨナラ''となった。
+--これにより、AC12増量版初出のアニメの新曲はこの日をもって、新筐体から姿を消した。
+--その後、2019年5月9日 (木) に、NS1にDL曲として配信された。
+
+-[[ふつう>難易度表/ふつう/Dragon Soul]]
+-[[むずかしい>難易度表/むずかしい/Dragon Soul]]
+-[[おに>難易度表/おに/Dragon Soul]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=0gL9b3zehUU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(DSkai.png,nolink);

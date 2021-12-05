@@ -1,0 +1,28 @@
+*星屑ストラック [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.2''|★×6|''242''|''?????0点''|＋連打|790点|223点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''989,870点''}|~|COLOR(#ff3300){3790点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは220。
+
+***その他 [#other]
+-アーティストは、[[''t+pazolite''>参加アーティスト一覧/t+pazolite]]（[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]）。
+----
+
+-[[かんたん>難易度表/かんたん/星屑ストラック]]
+-[[むずかしい>難易度表/むずかしい/星屑ストラック]]
+-[[おに>難易度表/おに/星屑ストラック]]
+-[[プレイ動画>https://www.youtube.com/watch?v=CPir4QPSqdM]]/[[真打>https://www.youtube.com/watch?v=t3K8nqkCnoI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~風船の長さは適当~
+48、52、64の黄色連打は下の画像より48分音符1つ分短い ~
+&attachref(星屑スラックス.png,nolink);
+~見た目~
+&attachref(見た星屑スラックス目 (修正).png,nolink);

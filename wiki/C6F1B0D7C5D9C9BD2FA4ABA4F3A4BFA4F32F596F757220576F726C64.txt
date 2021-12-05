@@ -1,0 +1,19 @@
+*Your World [#title]
+***詳細・攻略 [#more]
+-アニメ「''韋駄天翔''」のOP2。''いだてんしょう''ではなく、''いだてんじゃんぷ''と読む。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC9|CENTER:''CS7''|CENTER:★×4|CENTER:''112''|CENTER:''342100点''|CENTER:＋連打|CENTER:1090点|CENTER:300点|
+-BPMは約195。
+-アーティストは''けちゃっぷmania''。
+--本人歌唱である。
+-[[ふつう>難易度表/ふつう/Your World]]
+-[[むずかしい>難易度表/むずかしい/Your World]]
+-[[おに>難易度表/おに/Your World]]
+-[[オート動画>https://www.youtube.com/watch?v=Osn69y__Cec]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(your_e.png,nolink);

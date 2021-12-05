@@ -1,0 +1,24 @@
+*Brightdown [#title]
+-アニメ[[''「D.Gray-man」''>アニメ別収録曲#dgray]]のOP2。
+***詳細・攻略 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC10''|CENTER:★×8|CENTER:''426''|CENTER:''1051920点''|CENTER:+連打|CENTER:700点|CENTER:170点|
+-BPMは194~197。ゴーゴーは最後の風船を除いて197で、それ以外は194。
+-連打秒数目安・・・約0.902秒
+--曲の最後の黄色連打部分で検閲のような音が鳴る。
+-前半は8分音符主体だが、ゴーゴータイムからは16分音符が増えCOLOR(red){●●}COLOR(blue){○}も4回出る。
+-平均密度は、''約4.88打/秒''。
+-アーティストは、''玉置成実''。
+-余談だが、この曲のシングルCD発売は2007年8月29日、AC10の稼働は2007年7月26日であり、CD発売前に収録されたことになる。
+-曲IDは、''bright''
+----
+-[[かんたん>難易度表/かんたん/Brightdown]]
+-[[ふつう>難易度表/ふつう/Brightdown]]
+-[[むずかしい>難易度表/むずかしい/Brightdown]]
+-[[プレイ動画>https://www.youtube.com/watch?v=Dg2QRGVihxg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(bright.png,nolink);

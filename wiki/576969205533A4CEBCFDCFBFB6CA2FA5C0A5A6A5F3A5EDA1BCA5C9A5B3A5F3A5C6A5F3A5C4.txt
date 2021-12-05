@@ -1,0 +1,140 @@
+*「太鼓の達人 あつめて★ともだち大作戦！」のダウンロードコンテンツ [#title]
+-[[Wii U3の収録曲]]
+-配信期間：2015/11/26〜配信中
+***配信楽曲 [#song]
+-総配信数 ''47'' 曲
+--裏譜面 ''10'' 曲
+-現在の配信数&br;有料 ''46'' 曲 (購入総額7,290円)
+--裏譜面 ''10'' 曲
+
+|>|>|>|>|>|>|CENTER:74|c
+|>|>|>|>|>|>|''ジャンルごとの曲数''|h
+|BGCOLOR(cyan):''J-POP''|BGCOLOR(orange):''アニメ''|BGCOLOR(lime):''バラエティ''|BGCOLOR(silver):''ボーカロイド曲''|BGCOLOR(gold):''クラシック''|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|
+|''11'' 曲&br;(約23.4%)|''7'' 曲&br;(約14.9%)|''6'' 曲&br;(約12.8%)|''2'' 曲&br;(約4.3%)|''2'' 曲&br;(約4.3%)|''3'' 曲&br;(約6.4%)|''16'' 曲&br;(約34.0%)|
+----
+-背景が灰色(COLOR(#ccc){■})の曲・・・''現在はダウンロードできない楽曲''
+
+|CENTER:1||CENTER:1|CENTER:40||c
+|NO.|曲名|配信日|価格((有料楽曲は2016/08/31まで無料))|備考|h
+|BGCOLOR(cyan):1|BGCOLOR(#ccc):[[''DREAMERS' PARADISE''>難易度表/おに/DREAMERS' PARADISE]]&br;　　SIZE(11){DANCE EARTH PARTY タイアップソング}|BGCOLOR(#ccc):2015/11/26|BGCOLOR(#ccc):162円|BGCOLOR(#ccc):きせかえ「''EXILE1、EXILE2''」付き&br;2016/11/24まで配信|
+|BGCOLOR(cyan):2|[[''君がくれた夏''>難易度表/おに/君がくれた夏]]|2015/11/26|162円||
+|BGCOLOR(orange):3|[[''我ら思う、故に我ら在り''>難易度表/おに/我ら思う、故に我ら在り]]&br;　　SIZE(11){「仮面ライダーゴースト」より}|~|162円||
+|BGCOLOR(orangered):4|[[''ナツモノ☆''>難易度表/おに/ナツモノ☆]]&br;　　SIZE(11){たんきゅんデモクラシー}|~|162円||
+|BGCOLOR(orangered):5|[[''Ignis Danse''>難易度表/おに/Ignis Danse]]|~|162円||
+|BGCOLOR(cyan):6|[[''ANTI-HERO''>難易度表/おに/ANTI-HERO]]&br;　　SIZE(11){SEKAI NO OWARI}|2015/12/24|162円||
+|~|[[''ANTI-HERO(裏)''>難易度表/おに/ANTI-HERO(裏譜面)]]&br;　　SIZE(11){SEKAI NO OWARI}|~|~|~|
+|BGCOLOR(cyan):7|[[''R.Y.U.S.E.I.''>難易度表/おに/R.Y.U.S.E.I.]]|~|162円||
+|BGCOLOR(orange):8|[[''ウルトラマンX''>難易度表/おに/ウルトラマンX]]|~|162円||
+|~|[[''ウルトラマンX(裏)''>難易度表/おに/ウルトラマンX(裏譜面)]]|~|~|~|
+|BGCOLOR(lime):9|[[''本能寺の変''>難易度表/おに/本能寺の変]]&br;　　SIZE(11){エグスプロージョン}|~|162円||
+|BGCOLOR(orangered):10|[[''Xa''>難易度表/おに/Xa]]&br;　　SIZE(11){Tatsh}|~|162円||
+|~|[[''Xa(裏)''>難易度表/おに/Xa(裏譜面)]]&br;　　SIZE(11){Tatsh}|~|~|~|
+|BGCOLOR(cyan):11|[[''ギミチョコ！！''>難易度表/おに/ギミチョコ！！]]|2016/01/28|162円||
+|~|[[''ギミチョコ！！(裏)''>難易度表/おに/ギミチョコ！！(裏譜面)]]|~|~|~|
+|BGCOLOR(cyan):12|[[''LISTEN TO THE STEREO!!''>難易度表/おに/LISTEN TO THE STEREO!!]]|~|162円||
+|~|[[''LISTEN TO THE STEREO!!(裏)''>難易度表/おに/LISTEN TO THE STEREO!!#another]]|~|~|~|
+|BGCOLOR(silver):13|[[''カゲロウデイズ''>難易度表/おに/カゲロウデイズ]]&br;　　SIZE(11){じん}|~|162円||
+|~|[[''カゲロウデイズ(裏)''>難易度表/おに/カゲロウデイズ(裏譜面)]]&br;　　SIZE(11){じん}|~|~|~|
+|BGCOLOR(darkorchid):14|[[''RAGE v. self''>難易度表/おに/RAGE v. self]]|~|162円||
+|BGCOLOR(orangered):15|[[''零の狂詩曲''>難易度表/おに/零の狂詩曲]]|~|162円||
+|BGCOLOR(cyan):16|[[''Follow Me''>難易度表/おに/Follow Me]]|2016/02/25|162円||
+|BGCOLOR(orange):17|[[''only my railgun''>難易度表/おに/only my railgun]]&br;　　SIZE(11){「とある科学の超電磁砲」より}|~|162円||
+|BGCOLOR(gold):18|[[''カルメン 組曲一番終曲''>難易度表/おに/カルメン組曲一番終曲]]&br;　　SIZE(11){ビゼー}|~|162円||
+|BGCOLOR(orangered):19|[[''恋幻想(Love Fantasy)''>難易度表/おに/恋幻想(Love Fantasy)]]&br;　　SIZE(11){HONOKA}|~|162円||
+|BGCOLOR(orangered):20|[[''よくでる2000''>難易度表/おに/よくでる2000]]|~|162円||
+|BGCOLOR(cyan):21|[[''さくらんぼ''>難易度表/おに/さくらんぼ]]|2016/03/24|162円||
+|BGCOLOR(orange):22|[[''sakura''>難易度表/おに/sakura]]&br;　　SIZE(11){「交響詩篇エウレカセブン」より}|~|162円||
+|BGCOLOR(lime):23|[[''色は匂へど 散りぬるを''>難易度表/おに/色は匂へど 散りぬるを]]&br;　　SIZE(11){東方Projectアレンジ 幽閉サテライト}|~|162円|きせかえ「''博麗霊夢''」付き|
+|BGCOLOR(lime):24|[[''さくら（春）''>難易度表/おに/さくら（春）]]|~|162円||
+|BGCOLOR(orangered):25|[[''夜桜謝肉祭''>難易度表/おに/夜桜謝肉祭]]|~|162円||
+|~|[[''夜桜謝肉祭(裏)''>難易度表/おに/夜桜謝肉祭(裏譜面)]]|~|~|~|
+|BGCOLOR(cyan):26|[[''じょいふる''>難易度表/おに/じょいふる]]|2016/04/28|162円||
+|BGCOLOR(orange):27|[[''君をのせて''>難易度表/おに/君をのせて]]&br;　　SIZE(11){「天空の城ラピュタ」より}|~|162円||
+|BGCOLOR(lime):28|[[''深緋の心臓 ‐SCARLET HEART‐''>難易度表/おに/深緋の心臓 ‐SCARLET HEART‐]]&br;　　SIZE(11){東方Project×NAMCO SOUNDS kyo feat.あさな(IOSYS)}|~|162円|きせかえ「''霧雨魔理沙''」付き|
+|BGCOLOR(silver):29|[[''わんにゃーワールド''>難易度表/おに/わんにゃーワールド]]&br;　　SIZE(11){starring下田麻美}|~|162円||
+|BGCOLOR(orangered):30|[[''Evidence of evil''>難易度表/おに/Evidence of evil]]&br;　　SIZE(11){AJURIKA}|~|162円||
+|BGCOLOR(cyan):31|[[''ロビンソン''>難易度表/おに/ロビンソン]]|2016/05/26|162円||
+|BGCOLOR(orange):32|[[''キルミーのベイベー！''>難易度表/おに/キルミーのベイベー！]]&br;　　SIZE(11){「キルミーベイベー」より}|~|162円||
+|BGCOLOR(lime):33|[[''ケロ&#x2468;destiny''>難易度表/おに/ケロ9destiny]]&br;　　SIZE(11){東方Projectアレンジ Silver Forest}|~|162円||
+|BGCOLOR(gold):34|[[''チャーリー ダッシュ！''>難易度表/おに/チャーリー ダッシュ！]]|~|162円||
+|BGCOLOR(orangered):35|[[''mint tears''>難易度表/おに/mint tears]]|~|162円||
+|BGCOLOR(cyan):36|[[''366日''>難易度表/おに/366日]]|2016/06/23|162円||
+|BGCOLOR(orange):37|[[''君の知らない物語''>難易度表/おに/君の知らない物語]]&br;　　SIZE(11){「化物語」より}|~|162円||
+|BGCOLOR(darkorchid):38|[[''夜明けまであと3秒''>難易度表/おに/夜明けまであと3秒]]&br;　　SIZE(11){「シンクロニカ」より}|~|162円||
+|BGCOLOR(orangered):39|[[''夏竜 〜Karyu〜''>難易度表/おに/夏竜 〜Karyu〜]]|~|162円||
+|~|[[''夏竜 〜Karyu〜(裏)''>難易度表/おに/夏竜 〜Karyu〜(裏譜面)]]|~|~|~|
+|BGCOLOR(orangered):40|[[''旋風ノ舞【天】''>難易度表/おに/旋風ノ舞【天】]]|~|162円|2曲セット|
+|BGCOLOR(orangered):41|[[''旋風ノ舞【地】''>難易度表/おに/旋風ノ舞【地】]]|~|~|~|
+|BGCOLOR(orangered):42|[[''Black Rose Apostle''>難易度表/おに/Black Rose Apostle]]|~|162円||
+|~|[[''Black Rose Apostle(裏)''>難易度表/おに/Black Rose Apostle(裏譜面)]]|~|~|~|
+|BGCOLOR(lime):43|[[''郢曲／暁闇''>難易度表/おに/郢曲／暁闇]]&br;　　SIZE(11){東方Project×NAMCO SOUNDS LindaAI-CUE}|2016/09/01|162円||
+|BGCOLOR(darkorchid):44|[[''BLAZING VORTEX''>難易度表/おに/BLAZING VORTEX]]&br;　　SIZE(11){「クリティカルベロシティ」より}|~|162円|~|
+|~|[[''BLAZING VORTEX(裏)''>難易度表/おに/BLAZING VORTEX(裏譜面)]]&br;　　SIZE(11){「クリティカルベロシティ」より}|~|~|~|
+|BGCOLOR(orangered):45|[[''マオウのショウタイム''>難易度表/おに/マオウのショウタイム]]|~|162円|~|
+|BGCOLOR(orangered):46|[[''紫煌ノ乱''>難易度表/おに/紫煌ノ乱]]|~|162円|~|
+|BGCOLOR(orangered):47|[[''はたラク2000''>難易度表/おに/はたラク2000]]|~|162円|~|
+
+***配信衣装 [#costume]
+-総配信数 ''51'' 個
+-現在の配信数&br;無料 ''0'' 個 ＋ 有料 ''47'' 個 ＋ 楽曲に付属 ''4'' 個 ＝ ''51'' 個 (購入総額2,350円)
+
+|>|>|>|>|CENTER:74|c
+|>|>|>|>|''種類ごとの個数''|h
+|BGCOLOR(cyan):''ぜんしん''|BGCOLOR(orange):''ぼうし''|BGCOLOR(lime):''ふく''|BGCOLOR(darkorchid):''メイク''|BGCOLOR(magenta):''もよう''|
+|''4'' 個&br;(約7.8%)|''18'' 個&br;(約35.3%)|''25'' 個&br;(約49.0%)|''0'' 個&br;(0%)|''4'' 個&br;(約7.8%)|
+----
+//-背景が灰色(COLOR(#ccc){■})の衣装・・・''現在はダウンロードできない衣装''
+
+|CENTER:1||CENTER:1|CENTER:40||c
+|No.|きせかえ名|配信日|価格|備考|h
+|BGCOLOR(cyan):|BGCOLOR(#ccc):''EXILE1''|BGCOLOR(#ccc):2015/11/26|BGCOLOR(#ccc):-|BGCOLOR(#ccc):楽曲「DREAMERS' PARADISE」に付属&br;2016/11/24まで配信|
+|BGCOLOR(cyan):|BGCOLOR(#ccc):''EXILE2''|~|~|~|
+|BGCOLOR(cyan):|''博麗霊夢''|2016/03/24|-|楽曲「色は匂へど 散りぬるを」に付属|
+|BGCOLOR(cyan):|''霧雨魔理沙''|2016/04/28|-|楽曲「深緋の心臓 ‐SCARLET HEART‐」に付属|
+|BGCOLOR(orange):1|''らいおんヘッド''|2015/11/26|50円||
+|BGCOLOR(orange):2|''えかきヘッド''|~|50円||
+|BGCOLOR(lime):3|''おつきさま''|~|50円||
+|BGCOLOR(lime):4|''秋のなかま''|~|50円||
+|BGCOLOR(lime):5|''らいおんボディ''|~|50円||
+|BGCOLOR(lime):6|''えかきボディ''|~|50円||
+|BGCOLOR(orange):7|''サンタぼうし''|2015/12/24|50円||
+|BGCOLOR(orange):8|''門松''|~|50円||
+|BGCOLOR(lime):9|''トナカイ''|~|50円||
+|BGCOLOR(lime):10|''くまで''|~|50円||
+|BGCOLOR(lime):11|''はかま''|~|50円||
+|BGCOLOR(lime):12|''ししまい''|~|50円||
+|BGCOLOR(orange):13|''げっけいじゅ''|2016/01/28|50円||
+|BGCOLOR(orange):14|''ゆきだるま''|~|50円||
+|BGCOLOR(lime):15|''アフロディーテ''|~|50円||
+|BGCOLOR(lime):16|''やきそばやたい''|~|50円||
+|BGCOLOR(lime):17|''ビッグリボン''|~|50円||
+|BGCOLOR(orange):18|''おひなさま(あたま)''|2016/02/25|50円||
+|BGCOLOR(orange):19|''パフェヘッド''|~|50円||
+|BGCOLOR(lime):20|''おひなさま(からだ)''|~|50円||
+|BGCOLOR(lime):21|''さくらもち''|~|50円||
+|BGCOLOR(lime):22|''パフェボディ''|~|50円||
+|BGCOLOR(orange):23|''げいしゃ(あたま)''|2016/03/24|50円||
+|BGCOLOR(orange):24|''学生帽''|~|50円||
+|BGCOLOR(orange):25|''さくら''|~|50円||
+|BGCOLOR(lime):26|''ボウリング''|~|50円||
+|BGCOLOR(lime):27|''げいしゃ(からだ)''|~|50円||
+|BGCOLOR(lime):28|''学らん''|~|50円||
+|BGCOLOR(orange):29|''ちょうちょのあたま''|2016/04/28|50円||
+|BGCOLOR(orange):30|''ぼうけんか(あたま)''|~|50円||
+|BGCOLOR(lime):31|''こいのぼり''|~|50円||
+|BGCOLOR(lime):32|''ちょうちょのはね''|~|50円||
+|BGCOLOR(lime):33|''ぼうけんか(からだ)''|~|50円||
+|BGCOLOR(lime):34|''幸せの青い鳥''|~|50円||
+|BGCOLOR(orange):35|''ヘルメット''|2016/05/26|50円||
+|BGCOLOR(orange):36|''サンバイザー''|~|50円||
+|BGCOLOR(lime):37|''サイクリングウェア''|~|50円||
+|BGCOLOR(lime):38|''テニスウェア''|~|50円||
+|BGCOLOR(magenta):39|''ブロンズ''|~|50円||
+|BGCOLOR(magenta):40|''シルバー''|~|50円||
+|BGCOLOR(orange):41|''カブトムシヘッド''|2016/06/23|50円||
+|BGCOLOR(orange):42|''むぎわらぼうし''|~|50円||
+|BGCOLOR(orange):43|''なべ''|~|50円||
+|BGCOLOR(lime):44|''カブトムシボディ''|~|50円||
+|BGCOLOR(lime):45|''なつやすみ''|~|50円||
+|BGCOLOR(magenta):46|''パール''|~|50円||
+|BGCOLOR(magenta):47|''ゴールド''|~|50円||

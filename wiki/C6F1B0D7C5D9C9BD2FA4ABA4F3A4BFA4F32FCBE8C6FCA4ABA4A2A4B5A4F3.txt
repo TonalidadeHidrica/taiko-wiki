@@ -1,0 +1,28 @@
+*毎日かあさん [#ib8d21b5]
+***詳細･攻略 [#o2dd0450]
+-アニメ''「毎日かあさん」''のOP曲。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+|CENTER:''AC14''||CENTER:★×2|CENTER:''83''|CENTER:''286300点''|CENTER:＋連打|CENTER:930点|CENTER:370点|
+||CENTER:Wii3|~|~|CENTER:''288140点''|~|CENTER:920点|CENTER:380点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''306170点''}|~|CENTER:COLOR(#ff3300){2970点}|CENTER:-|
+|CENTER:AC15.1.0〜15.4.6||~|~|CENTER:''299090点''|~|CENTER:940点|CENTER:315点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''9????0点''}|~|CENTER:COLOR(#ff3300){9680点}|CENTER:-|
+-BPMは122。
+-黄色連打が多い連打曲である。
+-大音符が多く、18個ある（全体の約21.7%）。
+-速度が遅く4分も単色しかないが、数がかなり多い。
+-1回だけ出てくる4分の4連打に注意。
+-アーティストは、''森公美子''。
+--作詞はもりちよこ、作曲は澤口和彦、編曲は亀山耕一郎。
+
+-[[ふつう>難易度表/ふつう/毎日かあさん]]
+-[[むずかしい>難易度表/むずかしい/毎日かあさん]]
+-[[おに>難易度表/おに/毎日かあさん]]
+-[[オート動画(Wii3, キャプチャ)>https://www.youtube.com/watch?v=vcuaG8CPDPA]]
+
+***コメント [#bc50f799]
+#pcomment(,noname)
+
+***譜面 [#k3cff194]
+&attachref(9-3？わかんな〜い.png,nolink);

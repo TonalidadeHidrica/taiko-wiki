@@ -1,0 +1,15 @@
+*ステップアップ その6 [#title]
+-[[もっと毎日チャレンジ道場>難易度表/その他/もっと毎日チャレンジ道場]]のお題。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Wii2''|★×4|''35''|
+-BPMは116。
+-[[プレイ動画>https://www.youtube.com/watch?v=3TuIsLjInSc&t=187]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(su6.png,nolink);

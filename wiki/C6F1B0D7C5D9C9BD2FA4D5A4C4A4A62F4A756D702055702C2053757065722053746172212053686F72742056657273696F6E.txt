@@ -1,0 +1,27 @@
+*Jump Up, Super Star! Short Version [#title]
+-Nintendo Switch用ソフト「''スーパーマリオ オデッセイ''」のテーマソング。
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.10.1''|NS1|★×4|''97''|''526760点''|＋連打|1390点|813点|
+|COLOR(#f30){真打}||~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){7870点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは204。
+
+***その他 [#other]
+-アーティストは、''ケイト・デイヴィス''。
+--作詞は、鈴木伸嘉。作曲は、久保直人。
+-開発中に、[[Nintendo Directにて公開された譜面>https://youtu.be/Q4-gTqNP1QY?t=28]]とは少し異なっている。
+----
+-[[かんたん>難易度表/かんたん/Jump Up, Super Star! Short Version]]
+-[[むずかしい>難易度表/むずかしい/Jump Up, Super Star! Short Version]]
+-[[おに>難易度表/おに/Jump Up, Super Star! Short Version]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=f-jDUcEQGtI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+風船、くすだまの長さは暫定
+~&attachref(マリオデふつう2.png,nolink);

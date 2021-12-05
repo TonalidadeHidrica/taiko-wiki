@@ -1,0 +1,116 @@
+*太鼓の達人 新筐体（アジア版） アップデート履歴(モモイロ)[#title]
+-[[太鼓の達人 新筐体（アジア版） アップデート履歴]]
+#contents
+-凡例&br;COLOR(red){''新''} ・・・新曲&br;COLOR(orange){''再''} ・・・復活曲
+
+
+**第1回アップデート GAME VERSION:MOMOIRO 1.03(2014/3/27実施) [#update001]
+-楽曲配信1。次の7曲が追加された。
+
+|CENTER:100|CENTER:50|||c
+|>|>|>|CENTER:''バージョンアップ配信曲''(MOMOIRO V1.03)|h
+|BGCOLOR(cyan):''J-POP''|COLOR(red):''新''|[[''あまちゃん''>難易度表/おに/あまちゃん]]|オープニングテーマ|
+|BGCOLOR(orange):''アニメ''|COLOR(red):''新''|[[''ハルウタ''>難易度表/おに/ハルウタ]]|「名探偵コナン11人目のストライカー」より|
+|BGCOLOR(silver):''ボーカロイド曲''|COLOR(red):''新''|[[''人生リセットボタン''>難易度表/おに/人生リセットボタン]]|kemu feat.GUMI|
+|~|COLOR(red):''新''|[[''エキセントリックw''>難易度表/おに/エキセントリックw]]|銀河方面P feat.ZOLA PROJECT|
+|~|COLOR(red):''新''|[[''いーあるふぁんくらぶ''>難易度表/おに/いーあるふぁんくらぶ]]|みきとP feat．GUMI・鏡音リン|
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Amanda''>難易度表/おに/Amanda]]||
+|~|COLOR(red):''新''|[[''鳳凰天舞無限崩れ''>難易度表/おに/鳳凰天舞無限崩れ]]||
+----
+-楽曲配信2。次の2曲が追加された。
+
+|CENTER:100|CENTER:50||c
+|>|>|CENTER:''4/1配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''魔法の喫茶店''>難易度表/おに/魔法の喫茶店]]|
+|~||[[''黄ダルマ2000''>難易度表/おに/黄ダルマ2000]]((4/1限定))|
+
+-楽曲配信3。次の5曲と裏譜面1種類が追加された。
+
+|CENTER:100|CENTER:50|||c
+|>|>|>|CENTER:''4/24配信曲''|h
+|BGCOLOR(orange):''アニメ''|COLOR(red):''新''|[[''地球を回せっ！''>難易度表/おに/地球を回せっ！]]|「イナズマイレブンGOギャラクシー」より|
+|~|COLOR(red):''新''|[[''マジLOVE2000％''>難易度表/おに/マジLOVE2000％]]|「うたの☆プリンスさまっ♪&br;マジLOVE2000％」より|
+|BGCOLOR(silver):''ボーカロイド曲''|COLOR(red):''新''|[[''夜咄ディセイブ''>難易度表/おに/夜咄ディセイブ]]|じん(自然の敵P) feat.IA|
+|~|COLOR(red):''新''|[[''放課後ストライド''>難易度表/おに/放課後ストライド]]|Last Note. feat.GUMI|
+|~|COLOR(red):''新''|[[''IMITATION BLACK''>難易度表/おに/IMITATION BLACK]]|SCL Project(NatsuP)&br;feat.VanaN' Ice|
+|~|COLOR(red):''新''|[[''IMITATION BLACK(裏譜面)''>難易度表/おに/IMITATION BLACK(裏譜面)]]|~|
+
+-楽曲配信4。次の1曲が追加された。
+
+|CENTER:100|CENTER:50|||c
+|>|>|>|CENTER:''5/1配信曲''|h
+|BGCOLOR(gold):''クラシック''|COLOR(orange):''再''|[[''熊蜂の飛行''>難易度表/おに/熊蜂の飛行]]|リムスキー＝コルサコフ|
+
+-楽曲配信5。次の1曲が追加された。
+
+|CENTER:100|CENTER:50|||c
+|>|>|>|CENTER:''5/11~5/31配信曲''|h
+|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(orange):''再''|[[''PaPaPa Love''>難易度表/おに/PaPaPa Love]]|「マッスル行進曲」より|
+
+
+**第2回アップデート GAME VERSION:MOMOIRO 2.02(2014/5/29実施) [#update002]
+-楽曲配信6。次の8曲と裏譜面2種類が追加された。
+
+|CENTER:100|CENTER:50|||c
+|>|>|>|CENTER:''バージョンアップ配信曲''(MOMOIRO V2.02)|h
+|BGCOLOR(orange):''アニメ''|COLOR(red):''新''|''[[僕らは今のなかで>難易度表/おに/僕らは今のなかで]]''|μ's TVアニメ「ラブライブ！」より|
+|BGCOLOR(silver):''ボーカロイド曲''|COLOR(red):''新''|[[''初音ミクの消失‐劇場版‐''>難易度表/おに/初音ミクの消失‐劇場版‐]]||
+|~|COLOR(red):''新''|[[''初音ミクの消失‐劇場版‐(裏譜面)''>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]|~|
+|~|COLOR(red):''新''|[[''十面相 colorful ver.''>難易度表/おに/十面相 colorful ver.]]|YM feat. GUMI|
+|~|COLOR(red):''新''|[[''十面相 colorful ver.(裏譜面)''>難易度表/おに/十面相 colorful ver.(裏譜面)]]|~|
+|BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''ナイト・オブ・ナイツ''>難易度表/おに/ナイト・オブ・ナイツ]]|東方Projectアレンジ ビートまりお|
+|~|COLOR(red):''新''|[[''Bad Apple!! feat.nomico''>難易度表/おに/Bad Apple!! feat.nomico]]|東方Projectアレンジ Alstroemeria Records|
+|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''電車で電車でGO!GO!GO!GC! -GMT remix-''>難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]|COSIO(ZUNTATA／TAITO)／沢城千春|
+|~|COLOR(red):''新''|[[''ファンタジーゾーン OPA-OPA! -GMT remix-''>難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]|Hiro(SEGA)|
+|~|COLOR(red):''新''|[[''RIDGE RACER STEPS -GMT remix-''>難易度表/おに/RIDGE RACER STEPS -GMT remix-]]|Yuji Masubuchi(BNSI)|
+----
+-楽曲配信7。次の1曲が追加された。
+
+|CENTER:100|CENTER:50|||c
+|>|>|>|CENTER:''6/1配信曲''|h
+|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''筋肉のような僕ら 〜マッスル愛のテーマ〜''>難易度表/おに/筋肉のような僕ら]]|「マッスル行進曲」より|
+
+-楽曲配信8。次の1曲が追加された。
+
+|CENTER:100|CENTER:50||c
+|>|>|CENTER:''6/14~6/22配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(orange):''再''|[[''STAGE 0.ac11''>難易度表/おに/STAGE 0.ac11]]|
+
+-楽曲配信9。次の6曲が追加された。
+
+|CENTER:100|CENTER:50|||c
+|>|>|>|CENTER:''6/26配信曲''|h
+|BGCOLOR(orange):''アニメ''|COLOR(red):''新''|[[''JUST LIVE MORE''>難易度表/おに/JUST LIVE MORE]]|「仮面ライダー鎧武」より|
+|~|COLOR(red):''新''|[[''V（ボルト）''>難易度表/おに/V（ボルト）]]|「ポケットモンスター　XY」より|
+|BGCOLOR(silver):''ボーカロイド曲''|COLOR(red):''新''|[[''延命治療''>難易度表/おに/延命治療]]|Neru feat.IA|
+|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''電車で電車で OPA!OPA!OPA! -GMT mashup-''>難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|Yuji Masubuchi(BNSI)|
+|~|COLOR(red):''新''|[[''オパ！オパ！RACER -GMT mashup-''>難易度表/おに/オパ！オパ！RACER -GMT mashup-]]|COSIO(ZUNTATA/TAITO)|
+|~|COLOR(red):''新''|[[''リッジでリッジで GO!GO!GO! -GMT mashup-''>難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]|Hiro(SEGA)|
+
+-楽曲配信10。次の1曲が追加された。
+
+|CENTER:100|CENTER:50||c
+|>|>|CENTER:''7/1配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''ドンカマ2000''>難易度表/おに/ドンカマ2000]]|
+
+-楽曲配信11。次の4曲と裏譜面3種類が追加された。
+
+|CENTER:100|CENTER:50|||c
+|>|>|>|CENTER:''7/24配信曲''|h
+|BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''チルノのパーフェクトさんすう教室''>難易度表/おに/チルノのパーフェクトさんすう教室]]|東方Projectアレンジ&br;ARM＋夕野ヨシミ(IOSYS) feat.miko|
+|~|COLOR(red):''新''|[[''チルノのパーフェクトさんすう教室(裏譜面)''>難易度表/おに/チルノのパーフェクトさんすう教室(裏譜面)]]|~|
+|~|COLOR(red):''新''|[[''Grip＆Break down!! -達人Edit.-''>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]|東方Projectアレンジ SOUND HOLIC&br;feat.Nana Takahashi|
+|~|COLOR(red):''新''|[[''Grip＆Break down!! -達人Edit.-(裏譜面)''>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]|~|
+|~|COLOR(red):''新''|[[''Ne&#71;a／Po&#83;i* ラブ／コール''>難易度表/おに/NeGa／PoSi* ラブ／コール]]|東方Projectアレンジ 凋叶棕|
+|~|COLOR(red):''新''|[[''Ne&#71;a／Po&#83;i* ラブ／コール(裏譜面)''>難易度表/おに/NeGa／PoSi* ラブ／コール(裏譜面)]]|~|
+|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''ポケットモンスター X・Y''>難易度表/おに/ポケットモンスター X・Y 野生ポケモン戦メドレー]]|野生ポケモン戦メドレー|
+
+
+**韓国限定アップデート(2014/7/27実施) [#koreaonly]
+-韓国で稼働している筐体のみ、7/27 7:00をもって、以下の1曲+裏譜面1種が削除となった(非告知)。
+--アジア版を稼働している他の国や地域ではこの曲を引き続きプレイ可能の為、本項にて「サヨナラ」ではなく「削除」に表現する。
+
+|CENTER:150|||c
+|>|>|CENTER:''削除曲''(韓国のみ)|h
+|BGCOLOR(silver):''ボーカロイド曲''|[[''千本桜''>難易度表/おに/千本桜]]|黒うさP feat.初音ミク|
+|~|[[''千本桜(裏譜面)''>難易度表/おに/千本桜(裏譜面)]]|~|

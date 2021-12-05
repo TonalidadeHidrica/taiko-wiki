@@ -1,0 +1,32 @@
+*Together [#title]
+***詳細・攻略 [#more]
+-「''ポケットモンスター ダイヤモンド&パール''」のOP1。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''DS1''|CENTER:★×2|CENTER:''54''|CENTER:''226440点''|CENTER:＋連打|CENTER:1320点|CENTER:840点|
+|CENTER:''AC10''-13&br;AC11亜&br;AC12亜||~|~|CENTER:''292270点''|~|CENTER:1670点|CENTER:1110点|
+||CENTER:Wii1|~|CENTER:''60''|CENTER:''293320点''|~|CENTER:1680点|CENTER:840点|
+-BPMは137。
+-黄色連打が多い連打曲である。
+-[[ふつう>難易度表/ふつう/Together]]とはコンボ数が''24コンボ（Wii1では18コンボ）''しか離れていない。
+-4分は単色しかないが、数がそれなりに多い。
+--ただし、2分の複合は1回も出て来ない。
+-Wii1では巨大音符に伴う譜面変更がされており、良を取ってしまうと4分の5連続が出てしまうので要注意。
+
+***その他 [#other]
+-アーティストは、[[''あきよしふみえ''>アーティスト別収録曲#akiyoshi]]。
+--作詞は、D&Pプロジェクト。作曲は、Rie。編曲は、市川淳。
+-曲IDは、''dp''
+----
+-[[ふつう>難易度表/ふつう/Together]]
+-[[むずかしい>難易度表/むずかしい/Together]]
+-[[おに>難易度表/おに/Together]]
+-[[オート動画(Wii1,キャプチャ)>http://www.youtube.com/watch?v=wHjy-TzG5eI]]
+-[[プレイ動画(AC11,キャプチャ)>http://www.youtube.com/watch?v=pvwslkDEyKo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+普通譜面→AC&br;玄人譜面→Wii1(26小節の巨大音符:良)
+&attachref(together_e.png,nolink);

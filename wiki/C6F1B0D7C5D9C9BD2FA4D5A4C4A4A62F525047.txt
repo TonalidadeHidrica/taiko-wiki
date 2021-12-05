@@ -1,0 +1,35 @@
+*RPG [#title]
+***詳細・攻略 [#more]
+-映画「''クレヨンしんちゃん バカうまっ！B級グルメサバイバル！！''」主題歌。ジャンルはJ-POP。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.5.0|CENTER:''3DS2''&br;PS Vita1&br;Wii U3|CENTER:''J-POP''|CENTER:★×3|CENTER:''127''|CENTER:''497200点''|CENTER:＋連打|CENTER:1160点|CENTER:505点|
+||CENTER:PS4 1&br;NS1|CENTER:''ポップス''|~|~|~|~|~|~|
+|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''997200点''}|~|CENTER:COLOR(#ff3300){7180点}|CENTER:-|
+||CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|
+|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''999010点''|~|CENTER:7830点|CENTER:-|
+-BPMは135。
+-3DS2で最後のくすだま音符を割ると「5000点」と表示されるが、しっかり6000点入っている。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-4分が主体の譜面で、たまに8分も出てくる。
+--8分は単色の2連打しかなく、そのほとんどが単発である。
+--また、4分の複合は数がそれなりに多い。
+-ゴーゴーで2回出てくる4分の複合4連打（●●●○）に注意。
+
+***その他 [#other]
+-アーティストは、''SEKAI NO OWARI''。
+--作詞は、Fukase・Saori。作曲は、Fukase。
+--[[他の同>難易度表/ふつう/虹色の戦争]][[アーティ>難易度表/ふつう/炎と森のカーニバル]][[スト>難易度表/ふつう/Dragon Night]][[の楽曲>難易度表/ふつう/ANTI-HERO]]とは違い、この楽曲のみカバーである。
+-譜面作成は、''アリーホット''。
+-曲IDは、''skorpg''
+-[[かんたん>難易度表/かんたん/RPG]]
+-[[むずかしい>難易度表/むずかしい/RPG]]
+-[[おに>難易度表/おに/RPG]]
+-[[オート動画>https://www.youtube.com/watch?v=_A6DakoIKY0]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+黄色連打は下の画像より48分音符1つ分短い
+&attachref(rpg_n.png,nolink);

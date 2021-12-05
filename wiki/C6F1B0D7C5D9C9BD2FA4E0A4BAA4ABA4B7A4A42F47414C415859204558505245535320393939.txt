@@ -1,0 +1,23 @@
+*GALAXY EXPRESS 999 [#title]
+***詳細・攻略 [#more]
+-東映映画''「銀河鉄道999（The Galaxy Express 999）」''の主題歌。また、TVスペシャル版でOP曲として使われたこともあった。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''AC7''||CENTER:★×3|CENTER:''326''|CENTER:''?????0点''|CENTER:＋連打|CENTER:580点|CENTER:150点|CENTER:''ゴーゴーバグあり''|
+||CENTER:アニスペ|~|~|CENTER:''?????0点''|~|CENTER:320点|CENTER:180点||
+-BPMは142。
+-アーティストは、''GODIEGO''。
+--AC12、Wii1以降のバージョンは''EXILE''のカヴァー。譜面も全く違うものになっている。
+-曲IDは、''ginga''
+
+-[[かんたん>難易度表/かんたん/GALAXY EXPRESS 999]]/[[EXILEver>難易度表/かんたん/銀河鉄道999]]
+-[[ふつう>難易度表/ふつう/GALAXY EXPRESS 999]]/[[EXILEver>難易度表/むずかしい/銀河鉄道999]]
+-むずかしい/[[EXILEver>難易度表/むずかしい/銀河鉄道999]]
+-[[おに>難易度表/おに/GALAXY EXPRESS 999]]/[[EXILEver>難易度表/おに/銀河鉄道999]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=G8PD7N_qk6A]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(999_hard.png,nolink);

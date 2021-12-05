@@ -1,0 +1,32 @@
+*database feat. TAKUMA(10-FEET) &br;database((Wii U3の表記)) [#title]
+***詳細・攻略 [#more]
+-アニメ「''ログ・ホライズン''」1期・2期のOP曲。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii U3''&br;PS Vita1DL|CENTER:★×4|CENTER:''112''|CENTER:''352190点''|CENTER:＋連打|CENTER:770点|CENTER:368点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''992600点''}|~|CENTER:COLOR(#ff3300){7000点}|CENTER:-|
+|CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|CENTER:730点|CENTER:240点|
+-BPMは177。
+-黄色連打がかなり多い連打曲である。
+-全体的に付点配置や裏拍配置が多く、リズムが取りづらい。
+-大音符がかなり多く、29個ある（全体の約25.9%）。
+-4分が主体の譜面で、8分は1回も出て来ない。
+--また、4分は単色の3連打までしかない。
+--ただし付点配置や裏拍配置が多いので、全良難易度は高めである。
+
+***その他 [#other]
+-アーティストは、''MAN WITH A MISSION''。
+--作詞は、Kamikaze Boy・Jean-Ken Johnny・TAKUMA。作曲は、Kamikaze Boy。編曲は、MAN WITH A MISSION・Kohsuke Oshima。
+-曲IDは、''loghor''
+
+-[[ふつう>難易度表/ふつう/database feat.TAKUMA(10-FEET)]]
+-[[むずかしい>難易度表/むずかしい/database feat.TAKUMA(10-FEET)]]
+-[[おに>難易度表/おに/database feat.TAKUMA(10-FEET)]]
+-[[オート動画(Wii U3,キャプチャ)>http://www.youtube.com/watch?v=-XdrNVbykTs]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+風船は適当
+&attachref(データかんたん.png,nolink);

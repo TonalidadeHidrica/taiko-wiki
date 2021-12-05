@@ -1,0 +1,26 @@
+*ココロオドル [#title]
+-''SDガンダムフォース''のED2。ジャンルはJ-POP。
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア||h
+|''CS5''|★×8|CENTER:''335''|''569600点''|''ゴーゴーバグあり''|
+-BPMは113。
+-全難易度を通して黄色連打も風船もない''完全精度曲''。
+-主に歌詞に合わせた譜面で、付点配置や偶数連打など、叩きにくいところも多い。
+--BPMが遅めなので「ばいそく」推奨といいたいところだが、CS5ではまだHSのオプションは登場していないので、低速が苦手だとどうしても苦戦を強いられることになる。
+-26〜27小節の長い複合は、COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}×2+COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}と区切るとよいだろう。
+***その他 [#other]
+-アーティストは、[[Hero's Come Back!!>難易度表/おに/Hero's Come Back!!]]と同じく''nobodyknows+''。
+-譜面作成は、[[''タカハシ''>譜面作成者一覧/タカハシ]](→[[ソース>https://twitter.com/Tahakashi/status/320194827457265665]])。
+-曲IDは、''kokoro''。
+----
+-[[かんたん>難易度表/かんたん/ココロオドル]]
+-[[ふつう>難易度表/ふつう/ココロオドル]]
+-[[むずかしい>難易度表/むずかしい/ココロオドル]]
+-[[プレイ動画>https://www.youtube.com/watch?v=swA0nRFoeXs]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(ココロオドル.png,nolink);

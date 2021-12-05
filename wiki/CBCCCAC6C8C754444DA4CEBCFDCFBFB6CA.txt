@@ -1,0 +1,52 @@
+*北米版 太鼓の達人 Taiko Drum Masterの収録曲[#title]
+-発売日：2004 年 10 月 26 日
+-デフォルト ''27'' 曲 ＋ 隠し ''4'' 曲 ＝ ''31'' 曲
+-''Pop''と''Rock''、''Anime/TV''においては ''Hard と Oni が同一譜面''。
+-全ての曲に2人用譜面が用意されている。
+----
+-[[システム詳細>CSの歴史#tdm]]
+-[[演奏オプション一覧]]
+-[[音色の一覧]]
+----
+|>|>|>|>|CENTER:''Number of songs by genre''|h
+|BGCOLOR(cyan):CENTER:''POP''|BGCOLOR(lime):CENTER:''ROCK''|BGCOLOR(orange):CENTER:''ANIME/TV''|BGCOLOR(gold):CENTER:''CLASSICAL''|BGCOLOR(orangered):CENTER:''NAMCO ORIGINAL''|
+|CENTER:''9'' songs&br;(About29.0%)|CENTER:''7'' songs&br;(About22.6%)|CENTER:''2'' songs&br;(About6.5%)|CENTER:''6'' songs&br;(About19.3%)|CENTER:''7'' songs&br;(About22.6%)|
+----
+|CENTER:10||LEFT:59|>|>|>|CENTER:61|c
+||''Title''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#f30):COLOR(#111):''Easy''|BGCOLOR(#8c2):COLOR(#111):''Normal''|BGCOLOR(#3ab):COLOR(#111):''Hard''|BGCOLOR(#f2c):COLOR(#000):''Oni''|h
+|>|>|>|>|>|>|BGCOLOR(cyan):CENTER:''POP''|
+||''Tubthumping''|104|[[★×2>難易度表/かんたん/Tubthumping]]|[[★×2>難易度表/ふつう/Tubthumping]]|[[★×5>難易度表/むずかしい/Tubthumping]]|[[★×5>難易度表/おに/Tubthumping]]|
+||''ABC''|189|[[★×1>難易度表/かんたん/ABC]]|[[★×2>難易度表/ふつう/ABC]]|[[★×2>難易度表/おに/ABC]]|[[★×2>難易度表/おに/ABC]]|
+||''That's The Way(I Like It)''|109|[[★×1>難易度表/かんたん/That's The Way(I Like It)]]|[[★×1>難易度表/ふつう/That's The Way(I Like It)]]|[[★×2>難易度表/むずかしい/That's The Way(I Like It)]]|[[★×2>難易度表/おに/That's The Way(I Like It)]]|
+||''The Impression That I Get''|180|[[★×5>難易度表/かんたん/The Impression That I Get]]|[[★×5>難易度表/ふつう/The Impression That I Get]]|[[★×5>難易度表/むずかしい/The Impression That I Get]]|[[★×5>難易度表/おに/The Impression That I Get]]|
+||''Walking On Sunshine''|211|[[★×4>難易度表/かんたん/Walking On Sunshine]]|[[★×4>難易度表/ふつう/Walking On Sunshine]]|[[★×5>難易度表/おに/Walking On Sunshine]]|[[★×5>難易度表/おに/Walking On Sunshine]]|
+||''Material Girl''|134|[[★×4>難易度表/かんたん/Material Girl]]|[[★×2>難易度表/ふつう/Material Girl]]|[[★×4>難易度表/おに/Material Girl]]|[[★×4>難易度表/おに/Material Girl]]|
+||''Love Shack''|133|[[★×3>難易度表/かんたん/Love Shack]]|[[★×3>難易度表/ふつう/Love Shack]]|[[★×3>難易度表/むずかしい/Love Shack]]|[[★×3>難易度表/おに/Love Shack]]|
+||''Toxic''|144|[[★×2>難易度表/かんたん/Toxic]]|[[★×3>難易度表/ふつう/Toxic]]|[[★×4>難易度表/おに/Toxic]]|[[★×4>難易度表/おに/Toxic]]|
+||''I'm A Believer''|161|[[★×1>難易度表/かんたん/I'm A Believer]]|[[★×2>難易度表/ふつう/I'm A Believer]]|[[★×3>難易度表/おに/I'm A Believer]]|[[★×3>難易度表/おに/I'm A Believer]]|
+|>|>|>|>|>|>|BGCOLOR(lime):CENTER:''ROCK''|
+||''Slide''|110|[[★×4>難易度表/かんたん/Slide]]|[[★×3>難易度表/ふつう/Slide]]|[[★×4>難易度表/むずかしい/Slide]]|[[★×4>難易度表/おに/Slide]]|
+||''American Girls''|105|[[★×1>難易度表/かんたん/American Girls]]|[[★×1>難易度表/ふつう/American Girls]]|[[★×2>難易度表/むずかしい/American Girls]]|[[★×2>難易度表/おに/American Girls]]|
+||''Girls and Boys''|135|[[★×2>難易度表/かんたん/Girls ＆ Boys]]|[[★×3>難易度表/ふつう/Girls ＆ Boys]]|[[★×5>難易度表/むずかしい/Girls ＆ Boys]]|[[★×5>難易度表/おに/Girls ＆ Boys]]|
+||''Killer Queen''|109|[[★×2>難易度表/かんたん/Killer Queen]]|[[★×3>難易度表/ふつう/Killer Queen]]|[[★×4>難易度表/おに/Killer Queen]]|[[★×4>難易度表/おに/Killer Queen]]|
+||''Lady Marmalade''|110|[[★×2>難易度表/かんたん/Lady Marmalade]]|[[★×2>難易度表/ふつう/Lady Marmalade]]|[[★×2>難易度表/むずかしい/Lady Marmalade]]|[[★×2>難易度表/おに/Lady Marmalade]]|
+||''Are You Gonna Be My Girl''|210|[[★×2>難易度表/かんたん/Are You Gonna Be My Girl]]|[[★×4>難易度表/ふつう/Are You Gonna Be My Girl]]|[[★×5>難易度表/おに/Are You Gonna Be My Girl]]|[[★×5>難易度表/おに/Are You Gonna Be My Girl]]|
+||''My Sharona''|146|[[★×3>難易度表/かんたん/My Sharona]]|[[★×3>難易度表/ふつう/My Sharona]]|[[★×5>難易度表/おに/My Sharona]]|[[★×5>難易度表/おに/My Sharona]]|
+|>|>|>|>|>|>|BGCOLOR(orange):CENTER:''ANIME/TV''|
+||''Rock the Dragon&br; - Dragon Z Theme''|108-216|[[★×4>難易度表/かんたん/Rock the Dragon]]|[[★×2>難易度表/ふつう/Rock the Dragon]]|[[★×5>難易度表/おに/Rock the Dragon]]|[[★×4>難易度表/おに/Rock the Dragon]]|
+||''Bowling For Soup&br; - Jimmy Neutron Theme''|202|[[★×2>難易度表/かんたん/Bowling For Soup]]|[[★×3>難易度表/ふつう/Bowling For Soup]]|[[★×4>難易度表/おに/Bowling For Soup]]|[[★×4>難易度表/おに/Bowling For Soup]]|
+|>|>|>|>|>|>|BGCOLOR(gold):CENTER:''CLASSICAL''|
+||''Beethoven's Symphony&br;No. 5''|190※|[[★×3>難易度表/かんたん/交響曲第五番「運命」]]|[[★×4>難易度表/ふつう/交響曲第五番「運命」]]|[[★×5>難易度表/むずかしい/交響曲第五番「運命」]]|[[★×5>難易度表/おに/交響曲第五番「運命」]]|
+||''William Tell Overture''|152※|[[★×3>難易度表/かんたん/ウィリアム・テル序曲]]|[[★×4>難易度表/ふつう/ウィリアム・テル序曲]]|[[★×4>難易度表/むずかしい/ウィリアム・テル序曲]]|[[★×4>難易度表/おに/ウィリアム・テル序曲]]|
+||''Carmen Prelude''|120※|[[★×4>難易度表/かんたん/カルメン組曲一番終曲]]|[[★×2>難易度表/ふつう/カルメン組曲一番終曲]]|[[★×4>難易度表/むずかしい/カルメン組曲一番終曲]]|[[★×8>難易度表/おに/カルメン組曲一番終曲]]|
+||''Foster's Medley''|102-110|[[★×1>難易度表/かんたん/クラシックメドレー(ホームパーティ編)]]|[[★×3>難易度表/ふつう/クラシックメドレー(ホームパーティ編)]]|[[★×2>難易度表/おに/クラシックメドレー(ホームパーティ編)]]|[[★×2>難易度表/おに/クラシックメドレー(ホームパーティ編)]]|
+||''Symphony No.25&br;in G Minor''|175|[[★×3>難易度表/かんたん/交響曲第25番ト短調第一楽章]]|[[★×4>難易度表/ふつう/交響曲第25番ト短調第一楽章]]|[[★×5>難易度表/むずかしい/交響曲第25番ト短調第一楽章]]|[[★×5>難易度表/おに/交響曲第25番ト短調第一楽章]]|
+||''Hungarian Dances No.5''|65-166※|[[★×2>難易度表/かんたん/ハンガリー舞曲第５番]]|[[★×4>難易度表/ふつう/ハンガリー舞曲第５番]]|[[★×3>難易度表/むずかしい/ハンガリー舞曲第５番]]|[[★×8>難易度表/おに/ハンガリー舞曲第５番]]|
+|>|>|>|>|>|>|BGCOLOR(orangered):CENTER:''NAMCO&br;ORIGINAL''|
+||''SOULCALIBUR II&br;Brave Sword, Braver Soul''|150|[[★×3>難易度表/かんたん/ソウルキャリバーII]]|[[★×2>難易度表/ふつう/ソウルキャリバーII]]|[[★×4>難易度表/むずかしい/ソウルキャリバーII]]|[[★×9>難易度表/おに/ソウルキャリバーII]]|
+|''Hidden''|''The Genji and&br;The Heike Clans''|130※|[[★×4>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー]]|[[★×6>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]|[[★×7>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]|[[★×10>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|
+|''Hidden''|''Ridge Racer''|140※|[[★×5>難易度表/かんたん/Ridge Racer]]|[[★×5>難易度表/ふつう/Ridge Racer]]|[[★×8>難易度表/おに/Ridge Racer]]|[[★×9>難易度表/おに/Ridge Racer]]|
+|''Hidden''|''Taiko March''|145※|[[★×3>難易度表/かんたん/太鼓のマーチ]]|[[★×5>難易度表/ふつう/太鼓のマーチ]]|[[★×5>難易度表/むずかしい/太鼓のマーチ]]|[[★×5>難易度表/おに/太鼓のマーチ]]|
+|''Hidden''|''Don Rangers'' |160|[[★×3>難易度表/かんたん/和太鼓戦隊ドンレンジャー]]|[[★×4>難易度表/ふつう/和太鼓戦隊ドンレンジャー]]|[[★×5>難易度表/むずかしい/和太鼓戦隊ドンレンジャー]]|[[★×5>難易度表/おに/和太鼓戦隊ドンレンジャー]]|
+||''Katamari On The Rocks''|160|[[★×3>難易度表/かんたん/塊オンザロック]]|[[★×4>難易度表/ふつう/塊オンザロック]]|[[★×4>難易度表/むずかしい/塊オンザロック]]|[[★×9>難易度表/おに/塊オンザロック]]|
+||''Dragon Spirit''|175|[[★×4>難易度表/かんたん/ドラゴンスピリットメドレー]]|[[★×5>難易度表/ふつう/ドラゴンスピリットメドレー]]|[[★×7>難易度表/おに/ドラゴンスピリットメドレー]]|[[★×8>難易度表/おに/ドラゴンスピリットメドレー]]|

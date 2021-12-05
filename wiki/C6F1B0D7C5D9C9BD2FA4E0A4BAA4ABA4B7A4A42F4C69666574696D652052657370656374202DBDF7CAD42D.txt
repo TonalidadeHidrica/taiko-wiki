@@ -1,0 +1,31 @@
+*&ruby(ライフタイム){Lifetime}; &ruby(リスペクト){Respect}; -&ruby(おんな){女};&ruby(へん){編};- [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''||CENTER:★×4|CENTER:COLOR(#909){''205}&br;COLOR(#069){171}&br;COLOR(#666){153''}|CENTER:''679010点''|CENTER:870点|CENTER:250点|
+||CENTER:DS2|~|~|CENTER:''582440点''|CENTER:780点|CENTER:210点|
+-BPMは86。
+--速度が遅いので、「ばいそく」をつけた方がやりやすいかもしれない。
+-''完全精度曲''のひとつ。
+-大音符が多く、28個ある。
+-8分が主体で譜面分岐もあるので、クリアはそこまで難しくはない。
+--ただし達人譜面は8分の長複合や24分があるので、フルコン難易度は少し高めである。
+-ゴーゴーで4回出てくる8分の複合7連打に注意。
+--この7連打は大音符なので、1個でも特良を逃すと痛い失点になる可能性がある。
+
+***その他 [#other]
+-アーティストは、''RSP''。
+--三木道三の同名曲のカバー。
+-曲IDは、''lifet''
+
+-[[かんたん>難易度表/かんたん/Lifetime Respect -女編-]]
+-[[ふつう>難易度表/ふつう/Lifetime Respect -女編-]]
+-[[おに>難易度表/おに/Lifetime Respect -女編-]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=F9qQmkmKH1I]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+★×4です
+&ref(lifet.png,nolink);

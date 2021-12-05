@@ -1,0 +1,20 @@
+*大改造!!劇的ビフォーアフターメドレー[#title]
+***詳細・攻略 [#h97600ca]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC13''||★×4|''134''|''356500点''|＋連打|770点|270点|
+||Wii5|~|''114''|''359160点''|~|950点|523点|
+-BPMは141。
+--ただし、細かい速度変化がある。
+-たまに出る、8分音符に注意。
+
+-[[ふつう>難易度表/ふつう/大改造！！劇的ビフォーアフターメドレー]]
+-[[むずかしい>難易度表/むずかしい/大改造！！劇的ビフォーアフターメドレー]]
+-[[おに>難易度表/おに/大改造！！劇的ビフォーアフターメドレー]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=ldfgv3l73N8]]
+-[[プレイ動画(旧譜面)>https://www.youtube.com/watch?v=wvJlofPSDgo]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+Wii5譜面&attachref(gekits_e.png,nolink);
+~AC13譜面&attachref(before after.png,nolink);

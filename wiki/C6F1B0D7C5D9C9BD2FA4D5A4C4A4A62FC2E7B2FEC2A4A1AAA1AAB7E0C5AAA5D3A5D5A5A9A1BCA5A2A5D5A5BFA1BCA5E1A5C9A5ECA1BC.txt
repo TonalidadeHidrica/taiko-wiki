@@ -1,0 +1,21 @@
+*大改造!!劇的ビフォーアフターメドレー[#n7f0b0c1]
+***詳細・攻略[#x78d173e]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC13''||★×5|''173''|''596370点''|＋連打|1030点|290点|
+||Wii5|~|''149''|''599880点''|~|1200点|500点|
+-BPMは141。
+--ただし、細かい速度変化がある。
+-Wii5では53-61小節の24コンボがカットされた。
+-8分音符の2連打が多い。
+
+-[[かんたん>難易度表/かんたん/大改造！！劇的ビフォーアフターメドレー]]
+-[[むずかしい>難易度表/むずかしい/大改造！！劇的ビフォーアフターメドレー]]
+-[[おに>難易度表/おに/大改造！！劇的ビフォーアフターメドレー]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=lMPoWXH8IQg]]
+-[[プレイ動画(旧譜面)>http://www.youtube.com/watch?v=9OfKDoASPUE]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+Wii5譜面&attachref(gekits_n.png,nolink);
+~AC13譜面&br;風船の長さは3拍&attachref(before after.png,nolink);

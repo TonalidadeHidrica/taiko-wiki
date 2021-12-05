@@ -1,0 +1,33 @@
+*富士山 [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''RT''||CENTER:★×1|CENTER:''27''|CENTER:''483790点''|CENTER:＋連打|CENTER:5550点|CENTER:17080点|
+||CENTER:CS7|~|CENTER:''82''|CENTER:''251050点''|~|CENTER:1180点|CENTER:350点|
+-BPMは92。
+-黄色連打が多い連打曲である。
+-[[ふつう>難易度表/ふつう/富士山]]とはコンボ数が''9コンボしか''離れていない。
+-速度は遅めだが、全体的に4分がかなり多い。
+--4分はほとんどが単色だが、たまに複合も出てくる（配色は●●○と○●○）。
+-平均密度は約0.727打/秒。(CS7)
+-全難易度でゴーゴーにHS1.01がかかっている。
+-ギターやベースをメインとしたアレンジが施されている。
+-曲IDは、''fuji''
+
+-[[ふつう>難易度表/ふつう/富士山]]
+-[[むずかしい>難易度表/むずかしい/富士山]]
+-[[おに>難易度表/おに/富士山]]
+-[[オート動画(CS7)>https://www.youtube.com/watch?v=s63IgnWgG0Y]]
+-[[プレイ動画(RT)>https://www.youtube.com/watch?v=UmtuTtyqQBk]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+CS7譜面
+
+&attachref(／^○^＼_e.png,nolink);
+
+RT譜面
+
+&attachref(fujirte.png,nolink);

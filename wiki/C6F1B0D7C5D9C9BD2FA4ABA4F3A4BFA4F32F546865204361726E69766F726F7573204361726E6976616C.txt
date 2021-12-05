@@ -1,0 +1,35 @@
+*The Carnivorous Carnival [#title]
+
+***詳細・攻略[#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC10SP''〜13&br;AC11、12亜|CENTER:Wii1SP、4&br;PSPDXDL|CENTER:★×5|CENTER:''199''|CENTER:''366870点''|CENTER:＋連打|CENTER:550点|CENTER:110点|
+|CENTER:AC15.1.3SP|CENTER:3DS2SP&br;NS1SP&br;PS4 1DL|CENTER:★×4|~|CENTER:''353740点''|~|CENTER:520点|CENTER:138点|
+||CENTER:iOS|~|~|CENTER:''345170点''|~|CENTER:530点|CENTER:100点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''996060点''}|~|CENTER:COLOR(#ff3300){4540点}|CENTER:-|
+-BPMは168。
+-連打秒数目安・・・約1.399秒−約2.827秒：合計約4.226秒
+-[[ふつう>難易度表/ふつう/The Carnivorous Carnival]]を少し簡略化したような譜面。[[ふつう>難易度表/ふつう/The Carnivorous Carnival]]の逆詐称に対し、こちらは8分や6分が厄介。
+--コンボ数の差は37しかなく、この曲をフルコンボした後そのまま[[ふつう>難易度表/ふつう/The Carnivorous Carnival]]コースに挑戦できるある意味便利な譜面。
+-9小節目には[[ふつう>難易度表/ふつう/The Carnivorous Carnival]]コースにはない付点8分がある。
+
+***その他 [#other]
+-初出のAC10では、[[エンジェル ドリーム>難易度表/かんたん/エンジェル ドリーム]]が「天使」をイメージした曲であるのに対し、こちらは「''悪魔''」をイメージした曲となっている。
+-新筺体のVer.3.13で隠し曲として復活した。解禁方法は[[タイコタイム(裏譜面)>難易度表/おに/タイコタイム(裏譜面)]]を''オプションのでたらめをつけて''フルコンボクリアすること。
+--新筐体Ver.0.21以降であれば、[[伝説の祭り>難易度表/かんたん/伝説の祭り]]を''オプションのでたらめをつけて''フルコンボクリアすることでも解禁可能(難易度問わず)。
+-太鼓の達人10周年記念「[[思い出の曲アンケート>http://form-taiko.namco-ch.net/]]」では[[さいたま2000>難易度表/かんたん/さいたま2000]]に次いで、堂々の''2位''を獲得した。
+-略称は、''蟹蟹''、''カニカニ''など。
+-作曲は、''遠山明孝''。
+-譜面作成は、''タカハシ''。
+-曲IDは、''carniv''
+
+-[[ふつう>難易度表/ふつう/The Carnivorous Carnival]]
+-[[むずかしい>難易度表/むずかしい/The Carnivorous Carnival]]
+-[[おに>難易度表/おに/The Carnivorous Carnival]]
+-[[オート動画(Wii4, キャプチャ)>https://www.youtube.com/watch?v=yBxhAY03-6k]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面[#fumen]
+&attachref(c.png,nolink);

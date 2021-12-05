@@ -1,0 +1,25 @@
+*YOU往MY進！ [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(blue){PS Vita MS SP}''|★×4|''163''|''??????点''|+連打|570点|???点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''998840点''}|~|COLOR(#ff3300){5170点}|-|
+-BPMは161。
+
+***その他 [#other]
+-この曲は''双海亜美(CV:下田麻美)''の持ち歌である。
+-作詞は''mft''。作曲・編曲は''白戸佑輔''。
+-譜面作成は、''くぼけん''。
+----
+-[[ふつう>難易度表/ふつう/YOU往MY進！]]
+-[[むずかしい>難易度表/むずかしい/YOU往MY進！]]
+-[[おに>難易度表/おに/YOU往MY進！]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=npm-HC-GGl8]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~風船の長さは暫定
+&ref(あなたは私の進を往！_e.png,nolink);

@@ -1,0 +1,34 @@
+*White Rose Insanity（裏譜面） [#Title]
+***詳細・攻略 [#More]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSPDXSP''|CENTER:★×7|CENTER:''444''|CENTER:''834790点''|CENTER:＋連打|CENTER:540点|CENTER:120点|
+|CENTER:AC15|CENTER:Wii5以降|>|>|>|>|>|CENTER:''おにコースのみ''|
+-BPMは276。
+-連打秒数目安・・・SIZE(16){''約1.721秒''}×2：合計約3.442秒
+-[[アルムジカac14.0V>難易度表/むずかしい/アルムジカac14.0V]]と同様、全てのコースでコンボ数がゾロ目である。また[[Black Rose Apostle>難易度表/むずかしい/Black Rose Apostle]]と同様、12分も16分も無い。
+-中盤の超高速で来る風船に注意。これを割りそこねると次の音符が叩きづらくなる。
+-[[束ね糸(ふつうコース)>難易度表/ふつう/束ね糸]]を若干強化したような譜面。
+-譜面は単純であるが付点の配置もあり、276という規格外のBPMも相まって、適正者にはコンボを繋ぐのが難しいだろう。
+-平均密度は、''約4.05打/秒''(2〜127小節)。
+
+***その他 [#other]
+-楽曲情報は[[表譜面>難易度表/むずかしい/White Rose Insanity]]を参照。
+-Wii5には[[表譜面>難易度表/むずかしい/White Rose Insanity]]とともに収録されたが、この譜面は削除されたため、PSPDX限定の幻の譜面となってしまった。
+-譜面作成は、''[[エトウ>譜面作成者一覧/エトウ]]''。
+-曲IDは、''exwhro''。
+----
+-[[表譜面>難易度表/かんたん/White Rose Insanity]]/[[かんたん>難易度表/かんたん/White Rose Insanity(裏譜面)]]
+-[[表譜面>難易度表/ふつう/White Rose Insanity]]/[[ふつう>難易度表/ふつう/White Rose Insanity(裏譜面)]]
+-[[表譜面>難易度表/むずかしい/White Rose Insanity]]/むずかしい
+-[[表譜面>難易度表/おに/White Rose Insanity]]/[[おに>難易度表/おに/White Rose Insanity(裏譜面)]]
+-[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20170608132338/http://taikoblog.namco-ch.net/blog/2011/05/post_232.html]]
+-[[オート動画>https://www.youtube.com/watch?v=udZp4tUfVv0]]
+
+***コメント [#Comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+&attachref(exwhrof.png,nolink);
+
+半速表記
+&attachref(exwhro_h_bpm138.png,nolink);

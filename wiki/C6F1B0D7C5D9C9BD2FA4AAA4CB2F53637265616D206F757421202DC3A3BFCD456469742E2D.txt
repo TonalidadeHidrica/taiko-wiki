@@ -1,0 +1,37 @@
+*Scream out! -達人Edit.- [#title]
+
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15 秋季例大祭('15)Ver.''&br;AC15.7.0||★×8|''792''|''1050020点''|＋連打|360点|85点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''998970点''}|~|COLOR(#ff3300){1130点}|-|
+||iOS&br;AR|~|~|''1043970点''|~|300点|80点|
+
+***譜面構成・攻略 [#capture]
+-BPMは165。
+-ゴーゴータイムの割合が高く、全体の''約57.73%''(56/97)が該当する。
+-序盤と終盤を中心に16分音符の偶数打が頻出する。偶数打が苦手な人は注意。
+-1曲を通しての平均密度は、''約5.67打/秒''である(ラストの風船を除く)。
+
+***その他 [#other]
+-原曲は、「東方風神録 〜 Mountain of Faith.」のEXボス、洩矢諏訪子のテーマである「''ネイティブフェイス''」と、EX道中のテーマである「''明日ハレの日、ケの昨日''」の複合アレンジ。
+-「達人Edit.」とあるように、[[他の>http://www18.atwiki.jp/sdvx/pages/3318.html]][[音楽>http://www26.atwiki.jp/jubeat/pages/1635.html]][[ゲーム>http://maimai.wiki.fc2.com/wiki/Scream%20out%21%20-maimai%20SONIC%20WASHER%20Edit-]]に収録されている同曲とは異なった編集がされている。
+-[[同じ原曲>難易度表/おに/ケロ9destiny]]の譜面が引用されている。
+-アレンジ(編曲)は、''A-One''のELEMENTAS。作詞は、Rute。
+--歌唱は、''越田Rute隆人×あき''。
+-譜面作成は、[[裏譜面>難易度表/おに/Scream out! -達人Edit.-(裏譜面)]]と同じく、[[''まりも研究所''>譜面作成者一覧/まりも研究所]]。
+-曲IDは、''thscre''。
+-[[レッドVer.段位道場 外伝>過去の段位道場#red-gaiden]]の「太鼓チームからの挑戦！�　廚�2曲目課題曲となった。
+
+----
+-[[かんたん>難易度表/かんたん/Scream out! -達人Edit.-]]
+-[[ふつう>難易度表/ふつう/Scream out! -達人Edit.-]]
+-[[むずかしい>難易度表/むずかしい/Scream out! -達人Edit.-]]
+-おに/[[裏譜面>難易度表/おに/Scream out! -達人Edit.-(裏譜面)]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=0Rp6oqHVF6M]]
+-[[プレイ動画(新筐体・音量小さめ)>https://www.youtube.com/watch?v=fU-u1k6lpAg]]
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(thscre_m.png,nolink);

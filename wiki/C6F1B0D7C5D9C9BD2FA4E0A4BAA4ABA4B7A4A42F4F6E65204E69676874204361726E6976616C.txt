@@ -1,0 +1,46 @@
+*One Night Carnival [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''||CENTER:★×3|CENTER:''330''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点|
+||CENTER:CS3|~|~|CENTER:''637400点''|~|CENTER:600点|CENTER:140点|
+|~|~|~|~|CENTER:''651400点''((二人プレイ時))|~|~|~|
+||CENTER:iOS|CENTER:★×6|CENTER:''367''|CENTER:''784790点''|~|CENTER:550点|~|
+||CENTER:3DS2DL&br;NS1|~|~|CENTER:''794600点''|~|CENTER:600点|CENTER:168点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''??????点''}|~|CENTER:COLOR(#ff3300){???0点}|CENTER:-|
+-BPMは135。
+-全体的に付点配置が多く、リズムが取りづらい。
+
+***旧譜面 [#old]
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の2連打しかないが、そのほとんどが8分と隣接している。
+--ただし、8分の複合はほとんどが3連打（●●○）である。
+-中盤で1回だけ出てくる8分の複合7連打（●○●○●○●）に注意。
+
+***新譜面 [#new]
+-旧譜面よりも黄色連打が多くなっている。
+-大音符が多く、46個ある（全体の約12.5%）。
+-iOSで譜面が書き直され、旧譜面よりも難易度が上昇している。
+-旧譜面に比べて16分の2連打は減らされたが、代わりに3連打が多くなっている。
+--また8分の長複合も多くなり、フルコン難易度は高くなっている。
+-序盤で2回出てくる8分の複合11連打に注意。
+
+***その他 [#other]
+-アーティストは、''氣志團''。
+--作詞・作曲は、綾小路翔。編曲は、氣志團。
+-曲IDは、''kishi2''(新譜面)・''kishi''(旧譜面)
+
+-[[かんたん>難易度表/かんたん/One Night Carnival]]
+-[[ふつう>難易度表/ふつう/One Night Carnival]]
+-[[おに>難易度表/おに/One Night Carnival]]
+-[[オート動画(新譜面)>http://www.youtube.com/watch?v=q_cBXz849AE]]
+-[[オート動画(旧譜面)>http://www.youtube.com/watch?v=JFFpRUdeOHM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(kishi2_h.png,nolink);
+
+~旧譜面
+&attachref(kishih.png,nolink);

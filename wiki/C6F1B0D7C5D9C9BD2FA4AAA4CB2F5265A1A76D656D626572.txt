@@ -1,0 +1,26 @@
+*Re:member [#title]
+-アニメ「[[''NARUTO -ナルト-''>アニメ別収録曲#naruto]]」のOP8。
+
+***詳細・攻略 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC9|CENTER:''CS7''|CENTER:★×8|CENTER:''536''|CENTER:''1054380点''|CENTER:680点|CENTER:130点|
+-BPMは172。
+-''完全精度曲''の一つ。
+-NARUTOの曲では最もコンボ数が多い。
+-[[コイクル>難易度表/おに/コイクル]]や[[TONIGHT,TONIGHT,TONIGHT>難易度表/おに/TONIGHT,TONIGHT,TONIGHT]]や[[Your World>難易度表/おに/Your World]]と並ぶAC9のアニメ高難易度曲だった。
+-39小節の複合以降、音符密度が急上昇し、長複合が増える。複合は偶数で切れるものか単色しかないので、体力が全てを左右する。
+-1曲を通しての音符密度は、''約6.20打/秒''(1コンボ目~536コンボ目まで)。
+-曲名の読み方は、''リメンバー''。
+-アーティストは、[[''FLOW''>アーティスト別収録曲#flow]]。
+-曲IDは、''remen8''
+----
+-[[かんたん>難易度表/かんたん/Re：member]]
+-[[ふつう>難易度表/ふつう/Re：member]]
+-[[むずかしい>難易度表/むずかしい/Re：member]]
+-[[プレイ動画>http://www.youtube.com/watch?v=WZkZF7NWVfU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(Re：member Oni.png,nolink);

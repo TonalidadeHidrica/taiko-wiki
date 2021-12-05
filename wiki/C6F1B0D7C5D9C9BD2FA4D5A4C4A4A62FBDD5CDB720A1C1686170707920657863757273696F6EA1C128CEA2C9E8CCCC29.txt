@@ -1,0 +1,22 @@
+* 春遊 〜happy excursion〜(裏譜面) [#m0bebbbe]
+*** 詳細 [#h9704b33]
+-季曲シリーズ第4弾。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン|難易度|人数|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii3''|★×6|1人|''276''|''621980点''|＋連打|590点|140点|
+|~|~|2人|''264''|''623010点''|~|600点|150点|
+-BPMが140。
+-8分音符の3連打が多い。ゴーゴータイムでは複合が交ざる。
+
+-[[表譜面>難易度表/かんたん/春遊 〜happy excursion〜]]/[[かんたん>難易度表/かんたん/春遊 〜happy excursion〜(裏譜面)]]
+-[[表譜面>難易度表/ふつう/春遊 〜happy excursion〜]]/ふつう
+-[[表譜面>難易度表/むずかしい/春遊 〜happy excursion〜]]/[[むずかしい>難易度表/むずかしい/春遊 〜happy excursion〜(裏譜面)]]
+-[[表譜面>難易度表/おに/春遊 〜happy excursion〜]]/[[おに>難易度表/おに/春遊 〜happy excursion〜(裏譜面)]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=mSMue8e6oqA]]
+-[[オート動画(二人用譜面、キャプチャ)>https://www.youtube.com/watch?v=8HrF-ksBYOg]]
+
+*** コメント [#n1f42a86]
+#pcomment(,noname)
+
+*** 譜面 [#n0c733cf]
+&attachref(exmgw5.png,nolink);

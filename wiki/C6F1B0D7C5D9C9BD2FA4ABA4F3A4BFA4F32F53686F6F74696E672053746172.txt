@@ -1,0 +1,29 @@
+*Shooting Star [#title]
+***詳細・攻略 [#more]
+-バンナムのWiiソフト「''ハッピーダンスコレクション''」より。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''~12増&br;AC12亜|CENTER:★×3|CENTER:''67''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1450点|CENTER:770点|
+-BPMは116。
+--速度が遅いので、「ばいそく」を付けた方がやりやすいかもしれない。
+-黄色連打が多い連打曲である。
+-[[ふつう>難易度表/ふつう/Shooting Star]]以上と違い、裏拍配置は1回も出て来ない。
+-速度は少し遅めだが、全体的に4分がかなり多い。
+--4分は2連打が主体で、3連打は2回しか出て来ない。
+--また、2分の複合は数がそれなりに多い。
+-たまに出てくる4分の複合2連打（COLOR(red){●}  COLOR(blue){●}）に注意。
+
+***その他 [#other]
+-曲名の読み方は、''シューティング スター''。
+-アーティストは、''水樹奈々''。
+--''本人音源''である。
+-[[ふつう>難易度表/ふつう/Shooting Star]]
+-[[むずかしい>難易度表/むずかしい/Shooting Star]]
+-[[おに>難易度表/おに/Shooting Star]]
+-[[プレイ動画>http://www.youtube.com/watch?v=uSYiPj4v6eE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&ref(Shooting Star.png,nolink);

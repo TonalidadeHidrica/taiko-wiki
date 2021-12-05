@@ -1,0 +1,34 @@
+*Silent Jealousy [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.7.1|CENTER:''PS Vita1DL''&br;3DS3&br;NS1&br;PS4 1DL|CENTER:★×4|CENTER:''221''|CENTER:''330630点''|CENTER:＋連打|CENTER:430点|CENTER:113点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''977300点''}|~|CENTER:COLOR(#ff3300){3850点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''993090点''|~|CENTER:4490点|CENTER:-|
+-BPMは183。
+-連打秒数目安・・・約1.448秒×2−約2.104秒−約0.792秒−SIZE(16){約1.284秒}−約0.956秒−SIZE(16){''約0.956秒''}−SIZE(16){''約1.612秒''}−''約0.792秒''×2−SIZE(16){''約0.792秒''}：合計約12.976秒
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符が多く、31個ある（全体の約14.03%）。
+-4分が主体の譜面で、8分は1回も出て来ない。
+--また、4分は全て単色しかない。
+--ただし付点4分が多いので、全良難易度は高めである。
+-ゴーゴーで2回出てくる4分の単色7連打に注意。
+
+***その他 [#other]
+-曲名の読み方は、''サイレント ジェラシー''。
+-アーティストは、''X（現在はX JAPAN）''。
+--作詞・作曲は、YOSHIKI。
+-譜面作成は、''マツモト''。
+-曲IDは、''xjapa2''。
+----
+-[[ふつう>難易度表/ふつう/Silent Jealousy]]
+-[[むずかしい>難易度表/むずかしい/Silent Jealousy]]
+-[[おに>難易度表/おに/Silent Jealousy]]/[[裏譜面>難易度表/おに/Silent Jealousy(裏譜面)]]
+-[[オート動画>http://www.youtube.com/watch?v=4-BH8HcT4iM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定
+&ref(SJ_e.png,nolink);

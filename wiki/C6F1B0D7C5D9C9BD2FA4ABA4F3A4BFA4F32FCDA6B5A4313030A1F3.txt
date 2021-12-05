@@ -1,0 +1,31 @@
+*勇気100% [#i92c986d]
+***詳細・攻略 [#udc23432]
+-アニメ「''忍たま乱太郎''」のOP曲。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''-14&br;12亜|CENTER:Wii4&br;PSPDXDL|CENTER:★×3|CENTER:''96''|CENTER:''330560点''|CENTER:＋連打|CENTER:940点|CENTER:390点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''331100点''}|~|CENTER:COLOR(#ff3300){3010点}|CENTER:-|
+|CENTER:AC15.1.0||~|~|CENTER:''?????0点''|~|CENTER:940点|CENTER:695点|
+|CENTER:AC15.2.0||~|~|CENTER:''336770点''|~|CENTER:950点|CENTER:693点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''996800点''}|~|CENTER:COLOR(#ff3300){8900点}|CENTER:-|
+-BPMは143。
+-全体的に付点配置が多く、リズムが取りづらい。
+-[[ふつう>難易度表/ふつう/勇気100％]]とは難易度であまり差が無く、コンボ数も''17コンボ''しか離れていない。
+--この譜面がフルコン出来たら、すぐに挑戦できる便利な曲である。
+-大音符が多く、16個ある（全体の約16.7%）。
+-4分は全て単色しかないが、このレベルにしてはかなり多い。
+-序盤で1回だけ出てくる4分の4連打に注意。
+-アーティストは、''Ya-Ya-yah''。
+--Ya-Ya-yahは2007年に解散している。
+-曲IDは、''yuuki''
+
+-[[ふつう>難易度表/ふつう/勇気100％]]
+-[[むずかしい>難易度表/むずかしい/勇気100％]]
+-[[おに>難易度表/おに/勇気100％]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=nvmJc9NTnKI]]
+
+***コメント [#lfe90d5d]
+#pcomment(,noname)
+
+***譜面 [#ub6497d6]
+&attachref(yuke.png,nolink);

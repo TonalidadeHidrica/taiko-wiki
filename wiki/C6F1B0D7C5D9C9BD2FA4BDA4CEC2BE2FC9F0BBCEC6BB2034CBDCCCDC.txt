@@ -1,0 +1,16 @@
+*武士道 4本目 [#title]
+-[[もっと毎日チャレンジ道場>難易度表/その他/もっと毎日チャレンジ道場]]のお題。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Wii2''|★×4|''19''|
+-BPMは80。
+-良13回以上でクリア。
+-[[プレイ動画>https://www.youtube.com/watch?v=0bhb6EqGlMs&t=146]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(武士4.png,nolink);

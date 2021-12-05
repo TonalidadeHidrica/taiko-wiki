@@ -1,0 +1,35 @@
+* September [#title]
+***詳細・攻略　[#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:人数|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''TDM''|CENTER:★×3|CENTER:1人|CENTER:''415''|CENTER:''595100点''|CENTER:+連打|CENTER:180点|CENTER:140点|
+|~|~|CENTER:2人|CENTER:''395''|CENTER:''594470点''|~|CENTER:170点|CENTER:150点|
+-BPMは約126。
+-8分主体でたまに16分が出現する。また、16分の○○●が2か所出現する。
+-2人用譜面は1Pと2Pで異なるものの、天井スコア及びコンボ数は同じである。
+-1人用、2人用共に初項が[[この曲>難易度表/おに/Doom Noiz]]より低く、200点に満たない。
+--そのため、5桁のスコアでクリアすることが可能である。
+--さらに、初項と公差の差は1人用では40点、2人用では20点しかない。
+--家庭版では[[さらに初項が低い曲>難易度表/ふつう/響け！太鼓の達人]]も存在する。
+
+***その他 [#other]
+-1978年発売のシングル曲。
+-曲名こそ9月だが、この曲は12月に9月のことを回想する曲である。
+-アーティストは''Earth, Wind & Fire''（アース・ウィンド・アンド・ファイアー）
+-2002年に放送されたドラマ「続・平成夫婦茶碗」の主題歌である。
+-他社では、コナミのdrummania V4、Dance Dance Revolution UNIVERSE(Xbox360、日本未発売)、jukebeat(｢jubeat ripples｣の北米版)、任天堂のWii Music、ドンキーコンガ(欧州版)、Elite Beat Agents(｢押忍!闘え!応援団｣の日本国外版)に収録されている。
+----
+-[[かんたん>難易度表/かんたん/September]]
+-[[ふつう>難易度表/ふつう/September]]
+-[[おに>難易度表/おに/September]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=EjXdnBds0PQ]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=CT_wub5AFq4]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面[#score]
+BPMはおおよその値
+~1人用
+&ref(sep h.png,nolink);
+~2人用
+&ref(sep hd.png,nolink);

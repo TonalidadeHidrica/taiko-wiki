@@ -1,0 +1,37 @@
+*RPG [#title]
+***詳細・攻略 [#more]
+-映画「''クレヨンしんちゃん バカうまっ！B級グルメサバイバル！！''」主題歌。ジャンルはJ-POP。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.5.0|CENTER:''3DS2''&br;PS Vita1&br;Wii U3|CENTER:''J-POP''|CENTER:★×4|CENTER:''216''|CENTER:''695720点''|CENTER:＋連打|CENTER:940点|CENTER:285点|
+||CENTER:PS4 1&br;NS1|CENTER:''ポップス''|~|~|~|~|~|~|
+|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''998290点''}|~|CENTER:COLOR(#ff3300){4210点}|CENTER:-|
+||CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|
+|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''998140点''|~|CENTER:4590点|CENTER:-|
+-BPMは135。
+-連打秒数目安・・・約0.852秒−SIZE(16){''約0.852秒''}：合計約1.704秒
+-3DS2で最後のくすだま音符を割ると「5000点」と表示されるが、しっかり6000点入っている。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-8分の複合が主体の譜面で、16分は1回も出て来ない。
+--また、8分の複合は5連打までしかない。
+--ただし、8分の複合は種類が多いので油断は禁物。
+-ゴーゴーは8分が何度も出てくるので、適正者にとっては体力的に厳しいかもしれない。
+
+***その他 [#other]
+-アーティストは、''SEKAI NO OWARI''。
+--作詞は、Fukase・Saori。作曲は、Fukase。
+--[[他の同>難易度表/むずかしい/虹色の戦争]][[アーティ>難易度表/むずかしい/炎と森のカーニバル]][[スト>難易度表/むずかしい/Dragon Night]][[の楽曲>難易度表/むずかしい/ANTI-HERO]]とは違い、この楽曲のみカバーである。
+-譜面作成は、''アリーホット''。
+-曲IDは、''skorpg''
+
+-[[かんたん>難易度表/かんたん/RPG]]
+-[[ふつう>難易度表/ふつう/RPG]]
+-[[おに>難易度表/おに/RPG]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=HXk1YKrKRgY]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+黄色連打は下の画像より48分音符1つ分短い
+&attachref(rpg_h.png,nolink);

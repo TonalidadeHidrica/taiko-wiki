@@ -1,0 +1,36 @@
+*Black Rose Apostle(裏譜面) [#Title]
+***詳細・攻略 [#More]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii3SP''&br;PSPDXSP|CENTER:★×8|CENTER:''567''|CENTER:''905140点''|CENTER:440点|CENTER:110点|
+-BPMは102〜204。
+--[[僕たちの行方>難易度表/むずかしい/僕たちの行方]]とBPMもBPM変化も同じである。
+-''精度曲''のひとつ。
+-[[表譜面>難易度表/むずかしい/Black Rose Apostle]]と同じく★×8だが、197コンボもの差がある。
+--[[ふつう>難易度表/ふつう/Black Rose Apostle(裏譜面)]](314コンボ)とは253コンボの差、[[おに>難易度表/おに/Black Rose Apostle(裏譜面)]](915コンボ)とは348コンボの差がある。
+-物量譜面の[[ふつうコース>難易度表/ふつう/Black Rose Apostle(裏譜面)]]とは対照的に面白い譜面構成だが、相応の技術が求められる譜面。
+-BPM204と高速譜面で、8分の長い複合を叩かせる譜面。最後のゴーゴータイム（61小節以降）から16分も混ざり、難易度もやや上昇する。
+--ここを繋げば達成感が大きいが、そのためには配色の認識をしっかりした上で交互、分業処理など複合を捌く運手をあらかじめ決めておく事が重要。
+--この地点までコンボを持ち越したい所だが、他所も決して簡単とは言えない。
+--バーナス処理では繋ぎ辛い個所が多い為、8分単位の休符でいかに見切るかが重要。
+--81〜82小節のラス殺しには要注意。すんなり利き手始動とするためにも79小節目は逆手始動を推奨。
+-難易度順の位置は、[[Black Rose Apostle>難易度表/むずかしい/Black Rose Apostle]]と[[十露盤2000>難易度表/むずかしい/十露盤2000]]の間。
+--PSPDXでは[[表譜面>難易度表/むずかしい/Black Rose Apostle]]と同様、[[おに>難易度表/おに/Black Rose Apostle(裏譜面)]]と同じ並びである。
+-作曲・譜面作成は、''世阿弥''。
+-略称は''裏黒薔薇''など。
+--''裏薔薇''は[[White Rose Insanity(裏譜面)>難易度表/むずかしい/White Rose Insanity(裏譜面)]]と混同するので注意。
+-曲IDは''excast''
+-[[表譜面>難易度表/かんたん/Black Rose Apostle]]/[[かんたん>難易度表/かんたん/Black Rose Apostle(裏譜面)]]
+-[[表譜面>難易度表/ふつう/Black Rose Apostle]]/[[ふつう>難易度表/ふつう/Black Rose Apostle(裏譜面)]]
+-[[表譜面>難易度表/むずかしい/Black Rose Apostle]]/むずかしい
+-[[表譜面>難易度表/おに/Black Rose Apostle]]/[[おに>難易度表/おに/Black Rose Apostle(裏譜面)]]
+-[[オート動画>https://www.youtube.com/watch?v=QxfClLpFZoY]]
+
+***コメント [#Comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+&attachref(excast.png,nolink);
+
+~見た目重視
+&attachref(braexm_h.png,nolink);

@@ -1,0 +1,34 @@
+*&ruby(ライフタイム){Lifetime}; &ruby(リスペクト){Respect}; -&ruby(おんな){女};&ruby(へん){編};- [#title]
+***詳細・攻略 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''||CENTER:★×7|CENTER:''351''|CENTER:''1000450点''|CENTER:810点|CENTER:210点|
+||CENTER:DS2|~|~|CENTER:''907420点''|CENTER:740点|CENTER:190点|
+-BPMは86。
+-''完全精度曲''のひとつ。
+-極端に遅く見た目の譜面が詰まっている曲。叩く速度は要求されないがクセのある★×7の一角。
+-24分の中にところどころ16分が散りばめられていて、同じタイミングで叩くと大幅に精度が崩れる。
+-特に難所は23小節の24分と16分を連続で叩かせるところ。
+-24分の羅列は一見非常にややこしいが、譜面の殆どが「COLOR(red){●} COLOR(red){●}COLOR(blue){●} COLOR(blue){●}」や「COLOR(red){●} COLOR(red){●●} COLOR(red){●}COLOR(blue){●} COLOR(blue){●●} COLOR(blue){●}」の繰り返しなので、それを意識するだけでだいぶ叩きやすくなる。
+-使用推奨オプションは「ばいそく」あるいは「さんばい」。やり込んでいるうちにばいそくで遅いと思うようになったらさんばいに切り替える、といった方法も有効。
+-狙いがフルコンボなら決して等速はお勧めしない。
+-AC11では、天井基準の目安である100万点にのせるのはかなり難しい。
+-[[24分連打を構成する音符の割合が非常に高く>太鼓ギネス/音符について#many24]] 、''約66.10%(232/351)が24分''である。
+
+***その他 [#other]
+-アーティストは、''RSP''。
+--三木道三の同名曲のカバー。
+-曲IDは、''lifet''
+----
+-[[かんたん>難易度表/かんたん/Lifetime Respect -女編-]]
+-[[ふつう>難易度表/ふつう/Lifetime Respect -女編-]]
+-[[むずかしい>難易度表/むずかしい/Lifetime Respect -女編-]]
+-[[プレイ動画>https://www.youtube.com/watch?v=-Ww_7tDR7UU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(lifetime_2.png,nolink);
+
+~倍速表記
+&attachref(生涯尊重_2.png,nolink);

@@ -1,0 +1,29 @@
+*愛唄 [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''-13&br;AC11亜|CENTER:iOS|CENTER:★×2|CENTER:''120''|CENTER:''584590点''|CENTER:＋連打|CENTER:1490点|CENTER:500点|
+||CENTER:DS2|~|~|CENTER:''493670点''|~|CENTER:1270点|CENTER:420点|
+|CENTER:AC15.6.4|CENTER:PS Vita1DL&br;Wii U3|~|~|CENTER:''593670点''|~|CENTER:1500点|CENTER:770点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''994480点''}|~|CENTER:COLOR(#ff3300){8020点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''996000点''|~|CENTER:8300点|CENTER:-|
+||CENTER:もばいるDL|CENTER:★×1|~|CENTER:''?????0点''|~|CENTER:???0点|CENTER:??0点|
+-BPMは85。
+--かなり遅いので、「ばいそく」を付けた方がやりやすいかもしれない。
+-黄色連打は2本しかないが、1本あたりの長さは長い。
+-8分の複合が主体の譜面で、たまに12分や16分も出てくる。
+--12分も16分も2連打が3回しか出て来ないが、その全てが8分と隣接している。
+--ただし、8分の複合は4連打までしかない。
+-アーティストは、COLOR(green){''GReeeeN''}。
+-曲IDは、''aiuta''。
+
+-[[かんたん>難易度表/かんたん/愛唄]]
+-[[ふつう>難易度表/ふつう/愛唄]]
+-[[おに>難易度表/おに/愛唄]]
+-[[オート動画(iOS,キャプチャ)>http://www.youtube.com/watch?v=eU457huut-c]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(aiuta-hard.png,nolink);

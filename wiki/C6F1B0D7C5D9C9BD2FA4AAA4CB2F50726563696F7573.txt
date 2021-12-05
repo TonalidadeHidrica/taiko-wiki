@@ -1,0 +1,28 @@
+*Precious[#title]
+-映画''「LIMIT OF LOVE 海猿」''主題歌。
+
+***詳細・攻略[#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC9''|★×5|''234''|''853100点''|＋連打|1020点|270点|
+-BPMは75。
+-3小節目に24分音符がある。
+-サビ手前の連打の所から譜面のスピードが1.5倍になり、最後の3コンボの部分(Your Precious Loveの所)ではスピードアップ前の半分の速度になるソフラン曲である。
+--そのため、ラストのHS0.5地帯で''史上初の32分音符(見た目)''が確認できる。
+-少し速くなるがばいそく推奨。
+--ばいそくをかけても、音符が流れてくるところの見た目BPMの最速は285と、[[Honey Heartbeat 〜10 Stars Mix〜(裏譜面)>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜(裏譜面)]]のソフラン地帯(BPM284)や[[みかんのうた>難易度表/おに/みかんのうた]](BPM286)とあまり変わらない。
+-曲名の読み方は、''プレシャス''。
+-アーティストは、''伊藤由奈''。
+----
+-[[かんたん>難易度表/かんたん/Precious]]
+-[[ふつう>難易度表/ふつう/Precious]]
+-[[むずかしい>難易度表/むずかしい/Precious]]
+-[[プレイ動画>https://www.youtube.com/watch?v=TBwc_hHdN_U]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面[#score]
+~&attachref(Precious3.png,nolink);
+~見た目重視
+~&attachref(Precious29.png,nolink);

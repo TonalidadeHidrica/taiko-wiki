@@ -1,0 +1,27 @@
+*LOVEずっきゅん [#q65afcda]
+***詳細・攻略 [#md3a00f5]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC14''|CENTER:iOS&br;PSPDXDL|CENTER:★×6|CENTER:''358''|CENTER:''789250点''|CENTER:＋連打|CENTER:630点|CENTER:140点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''787400点''}|~|CENTER:COLOR(#ff3300){1970点}|CENTER:-|
+-BPMは150。
+-連打秒数目安・・・1.6秒×2：合計3.2秒
+-大音符が多く、42個ある（全体の約11.7%）。
+--特に、ラストゴーゴーは大音符のみで構成されている。
+-8分の複合が主体の譜面で、16分も数がかなり多い。
+--16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
+-たまに16分が3連続で出てくる箇所があるので、フルコン狙いの人は要注意。
+-アーティストは、''相対性理論''。
+--アルバム「シフォン主義」の2曲目。
+-譜面作成は、''くぼけん''。
+
+-[[かんたん>難易度表/かんたん/LOVEずっきゅん]]
+-[[ふつう>難易度表/ふつう/LOVEずっきゅん]]
+-[[おに>難易度表/おに/LOVEずっきゅん]]
+-[[オート動画(iOS,キャプチャ)>http://www.youtube.com/watch?v=Go132FHVOMI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(LOVEzukkyun.png,nolink);

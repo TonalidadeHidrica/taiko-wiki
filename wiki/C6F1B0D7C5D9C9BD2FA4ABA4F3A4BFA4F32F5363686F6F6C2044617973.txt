@@ -1,0 +1,23 @@
+*School Days [#title]
+***詳細・攻略 [#more]
+-アニメ「''しゅごキャラ！！どきっ''」のOP4。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC13''|CENTER:★×2|CENTER:''88''|CENTER:''313380点''|CENTER:＋連打|CENTER:1040点|CENTER:460点|
+-BPMは140。
+-4分はほとんどが3連打だが、このレベルにしては数がかなり多い。
+-ゴーゴーで2回出てくる4分の単色5連打に注意。
+-アーティストは、''ガーディアンズ4''。
+--メンバーは、''中島早貴''・''菅谷梨沙子''・''光井愛佳''・''熊井友里奈''。
+--作詞は、川上夏季。作曲は、BOUNCEBACK。編曲は、日比野裕史。
+
+-[[ふつう>難易度表/ふつう/School Days]]
+-[[むずかしい>難易度表/むずかしい/School Days]]
+-[[おに>難易度表/おに/School Days]]
+-[[プレイ動画>https://www.youtube.com/watch?v=TQTHgY605TE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&ref(School Days.png,nolink);

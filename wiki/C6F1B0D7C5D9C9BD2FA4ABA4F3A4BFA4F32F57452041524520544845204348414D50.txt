@@ -1,0 +1,17 @@
+*WE ARE THE CHAMP 〜THE NAME OF THE GAME〜 [#r931fe1c]
+***詳細・攻略 [#x8d5f46b]
+-詳細は以下の通り:
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC3''|CENTER:★×4|CENTER:''153''|CENTER:''?????0点''|CENTER:＋連打|CENTER:980点|CENTER:300点|
+-BPMは101.5-123.3。
+-サッカーでおなじみの「オーレーオレオレオレ」の曲である。
+-アーティストは、''THE WAVES''。
+-[[ふつう>難易度表/ふつう/WE ARE THE CHAMP]]
+-[[むずかしい・おに>難易度表/おに/WE ARE THE CHAMP]]
+-[[プレイ動画>http://www.youtube.com/watch?v=0wAJF65VKys]]
+
+***コメント [#a42e0c79]
+#pcomment(,noname)
+
+***譜面 [#o0edda34]
+&attachref(WATC_e.png,nolink);

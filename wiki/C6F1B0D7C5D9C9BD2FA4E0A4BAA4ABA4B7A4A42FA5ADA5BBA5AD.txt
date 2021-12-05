@@ -1,0 +1,39 @@
+*キセキ [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''-14&br;AC12亜|CENTER:Wii1&br;iOS&br;PSPDXDL&br;AR|CENTER:''J-POP''|CENTER:★×4|CENTER:''168''|CENTER:''701230点''|CENTER:1270点|CENTER:360点|
+||CENTER:DS3|~|~|~|CENTER:''700870点''|~|~|
+|CENTER:COLOR(#ff3300){真打モード}|||~|~|CENTER:COLOR(#ff3300){''701980点''}|CENTER:COLOR(#ff3300){4040点}|CENTER:-|
+|CENTER:AC15.1.0||CENTER:''J-POP''|CENTER:★×3|~|CENTER:''651490点''|CENTER:1190点|CENTER:450点|
+|CENTER:AC15.2.0|CENTER:Wii U1|~|~|~|CENTER:''651450点''|~|~|
+||CENTER:PS4 1|CENTER:''ポップス''|~|~|~|~|~|
+|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''1001260点''}|CENTER:COLOR(#ff3300){5780点}|CENTER:-|
+|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''1000400点''|CENTER:5950点|CENTER:-|
+||CENTER:もばいるDL|CENTER:''J-POP''|CENTER:★×?|~|CENTER:''?????0点''|CENTER:???0点|CENTER:??0点|
+-BPMは90。
+--速度が遅いので、「ばいそく」を使った方がやりやすいかもしれない。
+-''精度曲''のひとつ。
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の3連打までしかないが、そのほとんどが8分と隣接している。
+-1回ずつ出てくる8分の複合6連打と複合7連打に注意。
+
+***その他 [#other]
+-太鼓以外にギタドラやポップンにも収録されているが、あちらではBPMが94になっていて微妙に曲が長い。
+--ミュージックガンガンにも収録されていて、こちらは太鼓と同じ曲の長さになっている。
+-アーティストは、COLOR(green){''GReeeeN''}。 
+-この曲は''「日本で最も売れたダウンロード・シングル」としてギネスに認定された''。
+-曲IDは、''kiseki''。
+-''2014年11月5日7:00より、無印・KATSU-DON・ソライロ・モモイロバージョンよりサヨナラ''となることが決まった。
+--''キミドリVer.以降では今まで通り選曲が可能''。
+
+-[[かんたん>難易度表/かんたん/キセキ]]
+-[[ふつう>難易度表/ふつう/キセキ]]
+-[[おに>難易度表/おに/キセキ]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=blTykUZ7G0w]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(kiseki.png,nolink);

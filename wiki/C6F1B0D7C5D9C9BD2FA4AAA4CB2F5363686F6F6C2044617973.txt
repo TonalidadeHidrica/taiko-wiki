@@ -1,0 +1,39 @@
+* School Days [#title]
+-アニメ「''[[しゅごキャラ！！どきっ>アニメ別収録曲#syugod]]''」のOP4。
+
+***詳細 [#more]
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC13''|★×7|''429''|''1000600点''|700点|160点|
+
+***譜面構成・攻略 [#capture]
+-BPMは140。
+-''精度曲''の一つ。
+--基本天井点との差は600点しか無く、可を少しでも出すと100万点に乗らない。特良に至っては1つの逃しも許されない。
+-縁のほうが多く、219/429(約51.04%)が縁。
+--15小節目以降は縁から入る複合がかなり多い。
+-COLOR(red){●●●}COLOR(blue){●●●}COLOR(red){●}が1回、COLOR(red){●}COLOR(blue){●●●}COLOR(red){●●●}が2回来るので、フルコン目的の人は要注意。
+--COLOR(red){●●}COLOR(blue){●●}COLOR(red){●●}COLOR(blue){●●}COLOR(red){●} や、COLOR(blue){●●}COLOR(red){●●}COLOR(blue){●●}COLOR(red){●●}COLOR(blue){●●}COLOR(red){●}、COLOR(red){●●}COLOR(blue){●●}COLOR(blue){●}等の地味に叩きにくい複合や、COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}という偶数打もあるので注意されたし。
+-それ以外はゴーゴータイムの音符密度が高く少し難しい程度。
+-平均密度は、''約5.23打/秒''。
+
+***その他 [#other]
+-アーティストは、''ガーディアンズ4''。アニメにも声優として出ている。因みに所属は''ハロプロ''である。
+--メンバーは、''中島早貴''・''菅谷梨沙子''・''光井愛佳''・''熊井友里奈''。
+--作詞は、川上夏季。作曲は、BOUNCEBACK。編曲は、日比野裕史。
+-この曲と同名の作品（アニメ、ゲーム等）も存在するが、関係は一切ない。
+-曲IDは、''sclday''。
+
+----
+-[[かんたん>難易度表/かんたん/School Days]]
+-[[ふつう>難易度表/ふつう/School Days]]
+-[[むずかしい>難易度表/むずかしい/School Days]]
+-[[プレイ動画>https://www.youtube.com/watch?v=liMLLgFf_Xs]]
+
+***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#3333ff){''各曲の難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(nb.png,nolink);

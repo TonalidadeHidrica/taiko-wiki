@@ -1,0 +1,15 @@
+*太鼓の一歩 その5 [#title]
+-[[もっと毎日チャレンジ道場>難易度表/その他/もっと毎日チャレンジ道場]]のお題。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Wii2''|★×1|''29''|
+-BPMは116。
+-[[プレイ動画>https://www.youtube.com/watch?v=JnouKEoVYQY&t=155]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(一歩5.png,nolink);

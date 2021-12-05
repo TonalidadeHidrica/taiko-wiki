@@ -1,0 +1,27 @@
+*CHAOS RINGS [#title]
+-スクウェア・エニックスのiOS・Android用のRPGゲーム、「''CHAOS RINGS''」より。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''iOS''|★×7|''465''|''976830点''|+連打|610点|130点|
+-BPMは約108~144。
+-BPMがかなり揺れているのでやりにくい要素はあるが、配色自体は非常に素直で実質★×6程度。
+-平均密度は、''約3.29打/秒''。
+
+-作曲は[[ETERNAL BLAZE>難易度表/おに/ETERNAL BLAZE]]や[[マジLOVE2000％>難易度表/おに/マジLOVE2000％]]等と同じく、''上松範康''。
+-曲名の読み方は、''ケイオスリングス''。
+--ちなみにCHAOSとは、混沌という意味で「''カオス''」の英語版である。
+-iOS以外の作品には収録されていないが、iOSでは2018年3月26日をもってこの曲を含むぱっくの配信を終了したため、その日までにDLしていなければどの作品でも遊べなくなった。
+-曲IDは''chaosr''。
+----
+-[[かんたん>難易度表/かんたん/CHAOS RINGS]]
+-[[ふつう>難易度表/ふつう/CHAOS RINGS]]
+-[[むずかしい>難易度表/むずかしい/CHAOS RINGS]]
+-[[オート動画>https://www.youtube.com/watch?v=bjgC-6KQJlM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(chaosr.png,nolink);

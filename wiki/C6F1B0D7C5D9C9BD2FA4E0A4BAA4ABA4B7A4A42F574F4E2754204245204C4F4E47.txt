@@ -1,0 +1,31 @@
+*WON'T BE LONG [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''DS1''|CENTER:★×4|CENTER:''288''|CENTER:''595560点''|CENTER:＋連打|CENTER:540点|CENTER:140点|
+|CENTER:AC10|CENTER:iOS|~|~|CENTER:''694300点''|~|CENTER:660点|CENTER:160点|
+-BPMは104。 
+--速度が遅いので、「ばいそく」をつけた方がやりやすいかもしれない。
+-連打秒数目安・・・約1.681秒
+-大音符が多く、33個ある（全体の約11.5%）。
+-8分の複合が主体の譜面で、24分も数がかなり多い。
+--24分は単色の2連打しかないが、そのほとんどが12分と隣接している。
+--また、8分の複合は全体的に長めのが多い。
+-中盤と終盤で1回ずつ出てくる12分の複合2連打（●○と○●）に注意。
+-iOSでも残留したが、フルコン難易度は''下手な★×5よりも難しいので注意''。
+
+***その他 [#other]
+-アーティストは、''EXILE'' & ''倖田來未''。
+--因みにこれは''バブルカムブラザーズ''のカバー曲である。
+--作詞・作曲は、Bro.Korn。編曲は、h-wonder。
+-曲IDは、''korn''
+-[[かんたん>難易度表/かんたん/WON'T BE LONG]]
+-[[ふつう>難易度表/ふつう/WON'T BE LONG]]
+-[[おに>難易度表/おに/WON'T BE LONG]]
+-[[オート動画>http://www.youtube.com/watch?v=DsMSxd7ZXc4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&ref(wontbelong.png,nolink);

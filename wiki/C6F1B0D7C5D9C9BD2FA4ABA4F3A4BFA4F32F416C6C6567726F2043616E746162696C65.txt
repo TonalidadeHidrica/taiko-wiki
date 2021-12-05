@@ -1,0 +1,31 @@
+*Allegro Cantabile [#title]
+***詳細・攻略 [#more]
+-アニメ「''のだめカンタービレ''」のOP1。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC10''|CENTER:★×3|CENTER:''89''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1040点|CENTER:410点|
+-BPMは171。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-大音符が多く、10個ある（全体の約11.2%）。
+-速度が少し速く、全体的に4分がかなり多い。
+--4分は2連打が主体で、たまに3連打も出てくる。
+--ただし、2分の複合は1回も出て来ない。
+-ゴーゴーは4分が何度も出てくるので、適正者にとっては体力的に厳しいかもしれない。
+-ゴーゴーで3回出てくる4分の単色4連打に注意。
+
+***その他 [#other]
+-曲名の読み方は、''アレグロ カンタービレ''。
+-アーティストは、''SUEMITSU & THE SUEMITH''。
+--作詞・作曲は、末光篤。
+-曲IDは、''canta''
+-[[ふつう>難易度表/ふつう/Allegro Cantabile]]
+-[[むずかしい>難易度表/むずかしい/Allegro Cantabile]]
+-[[おに>難易度表/おに/Allegro Cantabile]]
+-[[プレイ動画>http://www.youtube.com/watch?v=I7taf16HQCg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+黄色連打は下の画像より48分音符1つ分短い
+&attachref(canta_e.png,nolink);

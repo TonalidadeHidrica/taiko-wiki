@@ -1,0 +1,29 @@
+*CAPTAIN NEO [#w8cc54d6]
+***詳細・攻略 [#t7938c41]
+-タイトー「''ダライアス''」のBGM。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC8|CENTER:''CS6''|CENTER:★×6|CENTER:''279''|CENTER:''636180点''|CENTER:＋連打|CENTER:530点|CENTER:160点|
+|~|~|~|~|CENTER:''685410点''((2人プレイ,芋音符を一人で早く食べ切った場合))|~|~|~|
+-BPMは約147〜230。
+-16分音符や12分音符が少し出る。
+-速度変化がある。
+-風船音符が4連続で出るところがある。
+-曲名はCAPTAIN NEOだが、実際は初代ダライアスのメドレー。
+--コイン投入→道中(CAPTAIN NEO)→WARNING(4連風船地帯)→ボス戦(Aゾーン)→ゾーン選択→ゲームオーバーの構成。
+-余談だが、ミュージックガンガン(2)にも収録されている。こちらもダライアスのメドレーである。
+--こちらは道中(CAPTAIN NEO)→WARNING→ボス戦(Aゾーン)の構成。
+--また、ダライアスの違うバージョンも収録されている。
+-曲名の読み方は''キャプテン　ネオ''。
+-曲IDは、''darius''
+-[[かんたん>難易度表/かんたん/CAPTAIN NEO]]
+-[[むずかしい>難易度表/むずかしい/CAPTAIN NEO]]
+-[[おに>難易度表/おに/CAPTAIN NEO]]
+-[[オート動画>https://www.youtube.com/watch?v=K83rqi2iAII]]
+
+***コメント [#rf83f103]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+手つなぎ音符は94小節目の4個、95小節目の1個、計5個。
+&attachref(capneo_n.png,nolink);

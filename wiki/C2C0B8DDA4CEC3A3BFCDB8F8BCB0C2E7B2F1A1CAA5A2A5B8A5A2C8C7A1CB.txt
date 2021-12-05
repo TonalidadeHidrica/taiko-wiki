@@ -1,0 +1,103 @@
+*太鼓の達人公式大会 [#title]
+-太鼓の達人（アジア版）新筐体で開催されたオンライン公式大会である。
+
+***ルール [#rule]
+-参加人数は無制限。
+-%%%''バナパスポートカードをタッチして遊ぶ。''%%%
+-難易度で分けられている公式大会は、両方参加することはできる。
+-別途指定がない場合、''真打以外の演奏オプションの使用は可能''。（真打を使用不可）
+-20位までに入った場合、[[アジア版公式Facebook>https://ja-jp.facebook.com/taikoac.asia]]にて表彰される。
+--第18回毎月大会以降、地域1位にも表彰される。
+
+***結果 [#result]
+|>|>|CENTER:|CENTER:85|>|>|>|CENTER:|c
+|開催期間|難易度|課題曲|>|>|>|>|一位成績|h
+|~|~|~|マイどん名|エリア|スコア|可|連打|
+|14/9/6〜14|[[おに>https://www.facebook.com/taikoac.asia/photos/1490839634519769]]|[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|いどうぎん|TWN|1211110点|1|127|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1490839631186436/]]|[[ナイト・オブ・ナイツ>難易度表/むずかしい/ナイト・オブ・ナイツ]]|〜？！〜|HKG|877200点|0|267|
+|14/10/11〜19((大会期間内に課題曲が合計3000回以上プレイされたら[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]が10月23日〜11月2日まで解禁される、というのがあった。結果は4819回で解禁された。))|[[おに>https://www.facebook.com/taikoac.asia/photos/1506900226247043]]|[[super star shooter>難易度表/おに/super star shooter]]|どん〜|HKG|1062900点|1|123|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1506900269580372]]|[[六兆年と一夜物語>難易度表/むずかしい/六兆年と一夜物語]]|ぐるぐる|TWN|859840点|0|92|
+|14/11/8〜16|[[おに>https://www.facebook.com/taikoac.asia/photos/1520059681597764]]|[[Xa（裏）>難易度表/おに/Xa(裏譜面)]]|せさん|KOR|1154670点|69|0|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1520059708264428]]|[[Day by Day!>難易度表/むずかしい/Day by Day!]]|ぐるぐる|TWN|852790点|3|89|
+|14/12/6〜14|[[おに>https://www.facebook.com/taikoac.asia/photos/1533744120229320]]|[[BLUE TOPAZ>難易度表/おに/BLUE TOPAZ]]&br;（1人用譜面）|きゃりー&br;くーぷらん&br;いやろ&br;わたし〜&br;くぅぅぅま|HKG&br;KOR&br;HKG&br;HKG&br;KOR|1054720点|0|0|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1533744150229317]]|[[Angel Halo>難易度表/むずかしい/Angel Halo]]|くーぷらん|KOR|903200点|5|81|
+|14/12/18〜28|[[おに>https://www.facebook.com/taikoac.asia/photos/1549150768688655]]|ドンだー祭り in アジア '14冬の陣((アジア版のランキング以外、[[日本国内版での同大会>ドンだーひろば 公式大会#taikai10]]の結果と統合したランキングも発表します。))&br;[[イオシス秋の肉食祭2014>難易度表/おに/イオシス秋の肉食祭2014]]&br;[[ピコピコ ルイン>難易度表/おに/ピコピコ ルイン]]&br;[[闇の魔法少女>難易度表/おに/闇の魔法少女]]|がーねっと|HKG|3331680点|>|-((統合ランキング27位))|
+|15/1/10〜18|[[おに>https://www.facebook.com/taikoac.asia/photos/1552113578392374]]|[[Evidence of evil>難易度表/おに/Evidence of evil]]|がーねっと|HKG|1209380点|3|40|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1552113615059037]]|[[The Carnivorous Carnival>難易度表/むずかしい/The Carnivorous Carnival]]((期間内無条件解禁))|がーねっと|HKG|867230点|1|315|
+|15/2/14〜22|[[おに>https://www.facebook.com/taikoac.asia/photos/1569971183273280]]|[[百花繚乱>難易度表/おに/百花繚乱]]|がーねっと&br;わたし〜|HKG&br;HKG|1058060点|0|9|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1569971219939943]]|[[春遊>難易度表/むずかしい/春遊 〜happy excursion〜]]|わたし〜|HKG|813180点|0|80|
+|15/3/7〜15((「[[天下一音ゲ祭 全国一斉認定大会]]」の大会環境と相当する設定として、%%%「真打を使用し、その他演奏オプションは使用しない」%%%という追加ルールが存在する。))|[[おに>https://www.facebook.com/taikoac.asia/photos/1581992818737783]]|[[Garakuta Doll Play>難易度表/おに/Garakuta Doll Play]]&br;[[Got more raves?>難易度表/おに/Got more raves?]]&br;[[FLOWER>難易度表/おに/FLOWER]]|わたし〜|HKG|3026160点|>|-|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1552113615059037]]|[[きたさいたま2000>難易度表/むずかしい/きたさいたま2000]]|しんご|TWN|992760点|18|124|
+|15/4/4〜12|[[おに>https://www.facebook.com/taikoac.asia/photos/1595744317362633]]|[[FUJIN Rumble>難易度表/おに/FUJIN Rumble]]|せさん|KOR|1207670点|0|15|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1595744337362631]]((2人用での合計得点で集計。))|[[Shiny Kung-fu Revival>難易度表/むずかしい/Shiny Kung-fu Revival]]|がーねっと&br;いやろ|HKG&br;HKG|859410点&br;854300点&br;合計1713710点|4&br;7|119&br;109|
+|15/5/16〜24|[[おに>https://www.facebook.com/taikoac.asia/photos/1612970802306651]]|[[零の狂詩曲>難易度表/おに/零の狂詩曲]]|ちはる|TWN|1118490点|4|191|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1612970832306648]]|[[EDY -エレクトリカルダンシングヨガ->難易度表/むずかしい/EDY -エレクトリカルダンシングヨガ-]]|かがみね((あべこべ でたらめ))|KOR|860800点|2|208|
+|15/6/6〜14|[[おに>https://www.facebook.com/taikoac.asia/photos/1621706824766382]]|[[紫煌ノ乱>難易度表/おに/紫煌ノ乱]]&br;[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]&br;[[ネクロファンタジア 〜 Arr.Demetori>難易度表/おに/ネクロファンタジア 〜 Arr.Demetori]]|くーぷらん|KOR|3655400点|>|-|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1621706831433048]]|[[待ち受けプリンス>難易度表/むずかしい/待ち受けプリンス]]|かがみね((あべこべ でたらめ))|KOR|768860点|0|218|
+|15/7/4〜12|[[おに>https://www.facebook.com/taikoac.asia/photos/1632049267065471]]|[[シューガク トラベラーズ>難易度表/おに/シューガク トラベラーズ]]|がり！？|TWN|1062770点|0|252|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1632049273732137]]|[[Help me, ERINNNNNN!!>難易度表/むずかしい/Help me, ERINNNNNN!!]]|ばあちゃん((でたらめ))|HKG|863710点|4|156|
+|15/8/8〜16|[[おに>https://www.facebook.com/taikoac.asia/photos/1643951579208573]]|[[華振舞>難易度表/おに/華振舞]]|がーねっと|HKG|1111510点|3|105|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1643951595875238]]|[[希望へのメロディー>難易度表/むずかしい/希望へのメロディー]]|せぎはら|HKG|828840点|0|413|
+|15/9/5〜13|[[おに>https://www.facebook.com/taikoac.asia/photos/1654479264822471]]|[[〆ドレー2000>難易度表/おに/〆ドレー2000]]|せさん|KOR|1207840点|2|45|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1654479338155797]]|[[深緋の心臓 ‐SCARLET HEART‐>難易度表/むずかしい/深緋の心臓 ‐SCARLET HEART‐]]|いやろ|HKG|812120点|0|199|
+|15/10/10〜18|[[おに>https://www.facebook.com/taikoac.asia/photos/1664925943777803]]|[[タベルナ2000>難易度表/おに/タベルナ2000]]|※|((かがみね(KOR)、がとりんぐ(HKG)、げんがー(HKG)、がーねっと(HKG)、ねぎ！！(HKG)、わたし〜(HKG)、せぎはら(HKG)、きゃりー(HKG)、めうめう〜(HKG)、なあななな(HKG)、どんちゃん(HKG)計11名))|1207040点|0|0|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1664925963777801]]|[[チャーリー ダッシュ！>難易度表/むずかしい/チャーリー ダッシュ！]]|もらもら〜|HKG|924780点|5|273|
+|15/11/7〜15|[[おに>https://www.facebook.com/taikoac.asia/photos/1672366169700447]]|[[聖徳たいこの「日いずるまで飛鳥」>難易度表/おに/聖徳たいこの「日いずるまで飛鳥」]]|かがみね|KOR|1104190点|0|57|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1672366186367112]]|[[ヤマタイ★ナイトパーティー>難易度表/むずかしい/ヤマタイ★ナイトパーティー]]|おひつし|TWN|863160点|8|232|
+|15/12/5〜13|[[おに>https://www.facebook.com/taikoac.asia/photos/1681126332157764]]|[[!!!カオスタイム!!!>難易度表/おに/!!!カオスタイム!!!]]|せさん|KOR|1212030点|4|180|
+|~|[[おに>https://www.facebook.com/taikoac.asia/photos/1681126318824432]]|[[秋竜 〜Shiuryu〜>難易度表/おに/秋竜 〜Shiuryu〜]]|せさん|KOR|1104120点|0|69|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1672366186367112]]|[[!!!カオスタイム!!!>難易度表/むずかしい/!!!カオスタイム!!!]]|いやろ|HKG|910930点|2|202|
+|16/1/9〜17|[[おに>https://www.facebook.com/taikoac.asia/photos/1694367267500337]]|[[マーブルハート>難易度表/おに/マーブルハート]]|けいまう|HKG|983460点|0|313|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1694367284167002]]|[[White Rose Insanity>難易度表/むずかしい/White Rose Insanity]]|たけすゐ〜|TWN|827480点|1|381|
+|16/2/6〜14|[[おに>https://www.facebook.com/taikoac.asia/photos/1704800846456979]]|[[シュガーソングとビターステップ>難易度表/おに/シュガーソングとビターステップ]]|くーぷらん((あべこべ でたらめ))|KOR|1056430点|0|32|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1704800893123641]]|[[ロストワンの号哭>難易度表/むずかしい/ロストワンの号哭]]|ぜろ〜〜〜|TWN|854280点|4|203|
+|16/3/5〜13|[[おに>https://www.facebook.com/taikoac.asia/photos/1715785032025227]]|[[朱の旋律>難易度表/おに/朱の旋律]]|くーぷらん|KOR|1210470点|0|79|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1715785042025226]]|[[Snow halation>難易度表/むずかしい/Snow halation]]|きん|HKG|758480点|0|160|
+|16/4/9〜17|[[おに>https://www.facebook.com/taikoac.asia/photos/1740638272873236]]|[[My Muscle Heart>難易度表/おに/My Muscle Heart]]|がーねっと|HKG|1113810点|2|195|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1740638296206567]]|[[食らいむ！まうんとぱふぇ>難易度表/むずかしい/食らいむ！まうんとぱふぇ]]|きん|HKG|900350点|23|271|
+|16/5/14〜22|[[おに>https://www.facebook.com/taikoac.asia/photos/1746771048926625]]|[[Silent Jealousy（裏）>難易度表/おに/Silent Jealousy(裏譜面)]]|ああんやだ|KOR|1214550点|0|0|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1746771072259956]]|[[明星ロケット>難易度表/むずかしい/明星ロケット]]|がーねっと((でたらめ))|HKG|817360点|0|311|
+|16/6/4〜12|[[おに>https://www.facebook.com/taikoac.asia/photos/1755788891358174]]|[[キラメキラリ>難易度表/おに/キラメキラリ]]|※|((はっちん(KOR)、るづ(MYS)、がーねっと(HKG/でたらめ)、いつ(HKG)、めや！おあ(TWN)、がり！？(TWN)、ぎ(HKG)、ごーすと(HKG)、きゃりー(HKG)、くわん(TWN)、ありあ(TWN)、びーり！(HKG)、めうめう〜(HKG)、えら〜(HKG)、わだうらら(TWN)、なるほど(KOR)、〜はまの〜(TWN)、おぱけ(HKG)、さいるらん(KOR)、のえる(HKG)、あああああ(TWN)、じく(HKG)、！！！？(TWN)、くやちゃん(TWN)、げんがー(HKG)、せぎはら(HKG)、せれね！(HKG)、あつれ(HKG)計28名))|1109320点|0|12|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1755788934691503]]|[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/むずかしい/Honey Heartbeat 〜10 Stars Mix〜]]|がーねっと((でたらめ))|HKG|889800点|3|588|
+|16/7/9〜17|[[おに>https://www.facebook.com/taikoac.asia/photos/1771408476462882]]|[[承認欲Q>難易度表/おに/承認欲Q]]|がーねっと|HKG|1212940点|3|188|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1771408493129547]]|[[ひよっこファンタジー>難易度表/むずかしい/ひよっこファンタジー]]|じれったい((でたらめ))|TWN|863020点|0|139|
+|16/8/13〜21|[[おに>https://www.facebook.com/taikoac.asia/photos/1787870951483301]]|[[Gloria>難易度表/おに/Gloria]]|がーねっと|HKG|1210690点|2|136|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1787870981483298]]|[[Eternal bond>難易度表/むずかしい/Eternal bond]]|おひつし|TWN|910150点|0|125|
+|16/9/10〜18|[[おに>https://www.facebook.com/taikoac.asia/photos/1802213073382422]]|[[天照>難易度表/おに/天照]]|がーねっと|HKG|1202970点|2|55|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1802213103382419]]|[[東京テディベア>難易度表/むずかしい/東京テディベア]]|じれったい|TWN|820400点|2|252|
+|16/10/8〜16|[[おに>https://www.facebook.com/taikoac.asia/photos/1816722601931469]]|[[ミュージック・リボルバー（裏）>難易度表/おに/ミュージック・リボルバー(裏譜面)]]|がり！？|TWN|1205680点|2|80|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1816722631931466]]|[[Paradisus-Paradoxum>難易度表/むずかしい/Paradisus-Paradoxum]]|じれったい|TWN|810670点|0|212|
+|16/11/5〜13|[[おに>https://www.facebook.com/taikoac.asia/photos/1833462790257450]]|[[VICTORIA>難易度表/おに/VICTORIA]]|がーねっと|HKG|1218270点|1|259|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1833462803590782]]|[[SAKURA EXHAUST>難易度表/むずかしい/SAKURA EXHAUST]]|じれったい|TWN|859390点|1|127|
+|16/12/10〜18|[[おに>https://www.facebook.com/taikoac.asia/photos/1852828551654207]]|[[月下美人>難易度表/おに/月下美人]]|がーねっと|HKG|1057160点|0|9|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1852828581654204]]|[[ジングルベル第765番>難易度表/むずかしい/ジングルベル第765番]]|おひつじ&br;じれったい|TWN&br;TWN|709340点|0|155|
+|17/1/14〜22|[[おに>https://www.facebook.com/taikoac.asia/photos/1871759759761086]]|[[No Gravity>難易度表/おに/No Gravity]]|ぐるーな|KOR|1216030点|0|125|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1871759869761075]]|[[ゴーストルール>難易度表/むずかしい/ゴーストルール]]|じれったい|TWN|865940点|3|226|
+|17/2/4〜12|[[おに>https://www.facebook.com/taikoac.asia/photos/1887612654842463]]|[[曙光>難易度表/おに/曙光 〜Dawn〜]]|がーねっと|HKG|1017710点|0|259|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1887612698175792]]|[[Tulip>難易度表/むずかしい/Tulip]]|おひつじ|TWN|771810点|1|243|
+|17/3/11〜19|[[おに>https://www.facebook.com/taikoac.asia/photos/1922103591393369]]|[[そつおめしき2ばん>難易度表/おに/そつおめしき2ばん]]|！！！！あ|TWN|1205840点|0|0|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1922103691393359]]|[[マサカリブレイド>難易度表/むずかしい/マサカリブレイド]]|おひつじ|TWN|808230点|0|101|
+|17/4/15〜23|[[おに>https://www.facebook.com/taikoac.asia/photos/1963912317212496]]|[[ガンスリンガーシンデレラ>難易度表/おに/ガンスリンガーシンデレラ]]|がーねっと|HKG|1120110点|1|261|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1963899767213751]]|[[前前前世>難易度表/むずかしい/前前前世]]|がーねっと|HKG|806900点|0|159|
+|17/5/13〜21|[[おに>https://www.facebook.com/taikoac.asia/photos/1994809840789410]]|[[竜と黒炎の姫君>難易度表/おに/竜と黒炎の姫君]]|がーねっと|HKG|1070020点|0|253|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/1994809864122741]]|[[＋♂(プラス男子)>難易度表/むずかしい/＋♂(プラス男子)]]|がーねっと|HKG|820130点|0|366|
+|17/6/10〜18|[[おに>https://www.facebook.com/taikoac.asia/photos/2019498728320521]]|[[段位道場 外伝&br;「挑戦！世界大会2016エリア�　�>過去の段位道場#yellow-gaiden]](([[段位道場]]のシステムから、%%%「全て演奏オプションは使用しない」%%%という追加ルールが存在すると等しい。))|えぐぜいど|HKG|3460950点|11|418|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2019498771653850]]|[[conflict>難易度表/むずかしい/conflict]]|おひつじ|TWN|870610点|6|228|
+|17/7/8〜16|[[おに>https://www.facebook.com/taikoac.asia/photos/2042654449338282]]|[[God Ray>難易度表/おに/God Ray]]|がり！？|TWN|1204030点|5|108|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2042654482671612]]|[[夜明けまであと3秒>難易度表/むずかしい/夜明けまであと3秒]]|すてあー|KOR|850970点|7|42|
+|17/8/12〜20|[[おに>https://www.facebook.com/taikoac.asia/photos/2065455857058141]]|[[INSPION>難易度表/おに/INSPION]]|がり！？|TWN|1213370点|0|136|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2065455897058137]]|[[最終鬼畜妹フランドール・S>難易度表/むずかしい/最終鬼畜妹フランドール・S]]|じれったい|TWN|862010点|3|158|
+|17/9/9〜17|[[おに>https://www.facebook.com/taikoac.asia/photos/2080066042263789]]|[[≠MM>難易度表/おに/≠MM]]((期間内限定解放))|がーねっと|HKG|1202720点|7|35|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2080066075597119]]|[[WARNING×WARNING×WARNING>難易度表/むずかしい/WARNING×WARNING×WARNING]]|おひつじ|TWN|786830点|1|455|
+|17/10/7〜15|[[おに>https://www.facebook.com/taikoac.asia/photos/2092540877682972]]|[[月下美人>難易度表/おに/月下美人]]|がーねっと|HKG|1057160点|0|9|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2092540914349635]]|[[月読命>難易度表/むずかしい/月読命]]|おひつじ|TWN|903150点|9|123|
+|17/11/4〜12|[[おに>https://www.facebook.com/taikoac.asia/photos/2107325936204466]]|[[Saika>難易度表/おに/Saika]]|がり！？|TWN|1057060点|0|123|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2107325956204464]]|[[つながれ！ひろがれ！打ち上がれ！>難易度表/むずかしい/つながれ！ひろがれ！打ち上がれ！]]|じれったい|TWN|878390点|0|327|
+|17/12/9〜17|[[おに>https://www.facebook.com/taikoac.asia/photos/2127424627527930]]|[[セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]|-((都合によりマイどん名非表示（マイどん名完全同一であるプレイヤーが大量ランクインのため）))|TWN|1122560点|0|223|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2127424674194592]]|[[濃紅>難易度表/むずかしい/濃紅]]|-|TWN|889860点|3|446|
+|18/1/13〜21|[[おに>https://www.facebook.com/taikoac.asia/photos/2146901935580199]]|[[Brand New Theater!>難易度表/おに/Brand New Theater!]]|がり！？|TWN|1060020点|0|132|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2146902002246859]]|[[Reason!!>難易度表/むずかしい/Reason!!]]|がり！？|TWN|669860点|0|328|
+|18/2/10〜18|[[おに>https://www.facebook.com/taikoac.asia/photos/2163762093894183]]|[[束ね糸>難易度表/おに/束ね糸]]|くーぷらん|KOR|1202000点|0|43|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2163762120560847]]|[[ワタリドリ>難易度表/むずかしい/ワタリドリ]]|くーぷらん((あべこべ でたらめ))|KOR|811030点|0|183|
+|18/3/10〜18|[[おに>https://www.facebook.com/taikoac.asia/photos/2180778882192504]]|[[極圏>難易度表/おに/極圏]]&br;[[怒槌>難易度表/おに/怒槌]]&br;[[Scarlet Lance>難易度表/おに/Scarlet Lance]]|がり！？|TWN|3624290点|>|-|
+|~|[[むずかしい>https://www.facebook.com/taikoac.asia/photos/2180778908859168]]|[[Taiko Drum Monster>難易度表/むずかしい/Taiko Drum Monster]]|-((都合によりマイどん名非表示（マイどん名完全同一であるプレイヤーが大量ランクインのため）))|TWN|856050点|13|309|

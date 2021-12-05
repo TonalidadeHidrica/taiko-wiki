@@ -1,0 +1,36 @@
+*Gloria [#title]
+***詳細・攻略 [#more]
+-''世界大会課題曲公募''の採用曲。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.7.9''|CENTER:3DS3DL&br;PS4 1DL|CENTER:★×5|CENTER:''207''|CENTER:''370580点''|CENTER:＋連打|CENTER:480点|CENTER:125点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''996100点''}|~|CENTER:COLOR(#ff3300){4180点}|CENTER:-|
+||CENTER:iOS&br;AR|~|~|CENTER:''362670点''|~|CENTER:470点|CENTER:100点|
+-BPMは222。
+-黄色連打が多い連打曲で、1本あたりの長さも長い。
+-全体的に付点配置や裏拍配置が多く、リズムが取りづらい。
+-大音符が多く、22個ある（全体の約10.6%）。
+-全体的に4分がかなり多いが、8分は1回も出て来ない。
+--また、4分の複合は3連打が2回しか出て来ない。
+--ただし付点配置が多いので、全良難易度は少し高めである。
+-ゴーゴーで2回出てくる4分の単色7連打に注意。
+--また、フルコン狙いの人は最後の大音符を忘れないように。
+
+***その他 [#other]
+-作曲は、&ruby(かっき〜){''K.key''};。
+--ホワイトVer.ではK.''K''eyという誤植表記となっていたが、レッドVer.以降では修正された。
+-譜面作成は、''エトウ''。
+-曲IDは、''glokey''
+
+-[[ふつう>難易度表/ふつう/Gloria]]
+-[[むずかしい>難易度表/むずかしい/Gloria]]
+-[[おに>難易度表/おに/Gloria]]
+-[[楽曲情報(クレオフーガ)>http://creofuga.net/audios/72669]]
+-[[オート動画(キャプチャ)>https://youtube.com/watch?v=D-dFh7_REGU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定
+&ref(gloria_e.png,nolink);

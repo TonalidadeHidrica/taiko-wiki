@@ -1,0 +1,28 @@
+*Sign [#title]
+-アニメ[[「''NARUTO-ナルト-疾風伝''」>アニメ別収録曲#naruto]]のOP6。
+*** 詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''DS3''|★×7|''374''|''988080点''|＋連打|750点|180点|
+
+***譜面構成・攻略 [#capture]
+-BPMは178。
+--ただし、最初の4小節のBPMは、74〜99である。
+-16分は面の単色が多く、複合は3回しか登場しない。但しBPMがやや速い。
+-終盤は大音符が多くなっている。精度狙いの場合は要注意。
+
+***その他 [#other]
+-アーティストは、[[''FLOW''>アーティスト別収録曲#flow]]。
+--作詞は、KOHSHI ASAKAWA。作曲は、TAKESHI ASAKAWA。
+-曲IDは、''sign''
+----
+-[[かんたん>難易度表/かんたん/Sign]]
+-[[ふつう>難易度表/ふつう/Sign]]
+-[[むずかしい>難易度表/むずかしい/Sign]]
+-[[オート動画>https://www.youtube.com/watch?v=AvFGx5WmHEE]]
+
+*** コメント [#comment]
+#pcomment(,noname)
+
+*** 譜面 [#score]
+&attachref(sign.png,nolink);

@@ -1,0 +1,20 @@
+*季曲〜Seasons of Asia〜(裏譜面) [#oa8cd90d]
+***詳細・攻略 [#kd2040c4]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii2SP'',4SP|★×5|COLOR(#909){''240}&br;COLOR(#069){211}&br;COLOR(#666){182''}|''363980点''|+連打|400点|100点|
+-BPMは150。
+-達人譜面は[[表普通>難易度表/ふつう/季曲 〜Seasons of Asia〜]]と同じ譜面である。
+----
+-[[表譜面>難易度表/かんたん/季曲 〜Seasons of Asia〜]]/かんたん
+-[[表譜面>難易度表/ふつう/季曲 〜Seasons of Asia〜]]/[[ふつう>難易度表/ふつう/季曲 〜Seasons of Asia〜(裏譜面)]]
+-[[表譜面>難易度表/むずかしい/季曲 〜Seasons of Asia〜]]/[[むずかしい>難易度表/むずかしい/季曲 〜Seasons of Asia〜(裏譜面)]]
+-[[表譜面>難易度表/おに/季曲 〜Seasons of Asia〜]]/[[おに>難易度表/おに/季曲 〜Seasons of Asia〜(裏譜面)]]
+-オート動画
+--[[COLOR(#666){普通譜面}>https://www.youtube.com/watch?v=IH6bW15Zuk8]]/[[COLOR(#069){玄人譜面}>https://www.youtube.com/watch?v=IH6bW15Zuk8&t=166]]/[[COLOR(#909){達人譜面}>https://www.youtube.com/watch?v=IH6bW15Zuk8&t=342]]
+
+***コメント [#zc93436c]
+#pcomment(,noname)
+
+***譜面 [#u0b860c3]
+&ref(exmgwr_e.png,nolink);

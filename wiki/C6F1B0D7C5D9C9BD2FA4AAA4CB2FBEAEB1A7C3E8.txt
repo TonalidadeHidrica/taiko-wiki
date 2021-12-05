@@ -1,0 +1,17 @@
+* 小宇宙 [#kcd9cfb7]
+***攻略・詳細 [#m8bc51bb]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11亜''|CENTER:★×7|CENTER:''321''|CENTER:''993060点''|CENTER:＋連打|CENTER:900点|CENTER:240点|
+-BPMは90。
+-BPMはかなり遅いが、複合が多い。
+- 高得点狙いならばいそくを推奨。
+- アーティストは''ソーダグリーン''（''蘇打緑''）。
+
+-[[かんたん>難易度表/かんたん/小宇宙]]
+-[[ふつう>難易度表/ふつう/小宇宙]]
+-[[むずかしい>難易度表/むずかしい/小宇宙]]
+-[[プレイ動画>https://www.youtube.com/watch?v=lkuFiBuEG1s]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(soda.png,nolink);

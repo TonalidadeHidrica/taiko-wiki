@@ -1,0 +1,24 @@
+*射手[#title]
+***詳細 [#details]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1亜DL''|★×6|''207''|''633910点''|＋連打|860点|???点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''??????点''}|~|COLOR(#ff3300){4230点}|-|
+
+***譜面構成・攻略 [#capture]
+
+***その他 [#other]
+-アーティストは、[[''MP魔幻力量''>アーティスト別収録曲#magicpower]]。
+--''本人音源''である。
+
+----
+-[[かんたん>難易度表/かんたん/射手]]
+-[[むずかしい>難易度表/むずかしい/射手]]
+-[[おに>難易度表/おに/射手]]
+-[[オート動画>https://www.youtube.com/watch?v=67vkYiVroIo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(射手ふつう.png,nolink);

@@ -1,0 +1,22 @@
+*We are the ONE 〜僕らはひとつ〜 [#title]
+-''「爆竜戦隊アバレンジャー」''のED。
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''アニメ祭り''|★×3|''210''|''??????点''|＋連打|950点|230点|
+-BPMは162。
+-[[おに>難易度表/おに/We are the ONE〜僕らはひとつ〜]]と比べると、譜面の繰り返しが多く、少しリズム重視の譜面。
+--おにには存在しない16分の5連打や、8分のCOLOR(red){●●●}COLOR(blue){●}COLOR(red){●●●}COLOR(blue){●}COLOR(red){●}がある。
+-アーティストは、[[''串田アキラ''>アーティスト別収録曲#kushi]]。
+-曲IDは、''aba2''。
+----
+-[[かんたん>難易度表/かんたん/We are the ONE 〜僕らはひとつ〜]]
+-[[ふつう>難易度表/ふつう/We are the ONE 〜僕らはひとつ〜]]
+-[[おに>難易度表/おに/We are the ONE〜僕らはひとつ〜]]
+-[[オート動画>https://www.youtube.com/watch?v=kDdEZ2zlgCA]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(aba2_hard.png,nolink);

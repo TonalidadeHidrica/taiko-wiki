@@ -1,0 +1,92 @@
+詳細は各ページを参照のこと。
+
+*[[天下一音ゲ祭 全国一斉認定大会]] SIZE(16){(第一回天下一音ゲ祭)} [#vol1]
+2014年11月-12月開催
+-太鼓の達人収録曲
+--[[FLO>難易度表/おに/FLOWER]][[WER>難易度表/おに/FLOWER(裏譜面)]] / 「jubeat saucer fulfill」提供
+--[[Garakuta>難易度表/おに/Garakuta Doll Play]] [[Doll Play>難易度表/おに/Garakuta Doll Play(裏譜面)]] / 「maimai ORANGE」提供
+--[[Got more>難易度表/おに/Got more raves?]] [[raves?>難易度表/おに/Got more raves?(裏譜面)]] / 「GROOVE COASTER EX」提供
+--[[きたさいたま2000>難易度表/おに/きたさいたま2000]] / 「太鼓の達人 キミドリVer.」提供
+--[[Scars of FAUNA>難易度表/おに/Scars of FAUNA]] / 「jubeat」書き下ろし楽曲
+--[[VERTeX>難易度表/おに/VERTeX]] / 「maimai」書き下ろし楽曲
+--[[FUJIN Rumble>難易度表/おに/FUJIN Rumble]] / 「GROOVE COASTER」書き下ろし楽曲
+--[[Ignis Danse>難易度表/おに/Ignis Danse]] / 「太鼓の達人」書き下ろし楽曲
+----
+-(株)ブライト主催の「全日本音ゲー頂上決戦!!」（2015年2月開催）の予選大会も兼ねており、上位者は「全日本音ゲー頂上決戦!!」へ進出できた。
+
+*[[第二回天下一音ゲ祭]] [#vol2]
+2015年11月-2016年2月開催
+-太鼓の達人収録曲
+--[[朱の旋律>難易度表/おに/朱の旋律]] / 「太鼓の達人 ムラサキVer.」書き下ろし楽曲
+--[[夜明けまであと3秒>難易度表/おに/夜明けまであと3秒]] / 「シンクロニカ」書き下ろし楽曲
+----
+-「[[太鼓の達人 ドンだー！世界一決定戦2016]]」の部門予選も兼ねており、太鼓の達人部門優勝者は世界一決定戦2016決勝大会2回戦へ進出できた。
+
+*[[第三回天下一音ゲ祭]] [#vol3]
+2016年11月-2017年2月開催
+-太鼓の達人収録曲
+--[[毒LOCANdy&#9825;>難易度表/おに/毒LOCANdy]] / 「太鼓の達人 レッドVer.」書き下ろし楽曲
+--[[マサカリブレイド>難易度表/おに/マサカリブレイド]] / 「SOUND VOLTEX III GRAVITY WARS」提供
+----
+-全国頂上決戦新曲
+--[[8ORO>難易度表/おに/8OROCHI]][[CHI>難易度表/おに/8OROCHI(裏譜面)]]((当時は[[8OROCHI(裏譜面)>難易度表/おに/8OROCHI(裏譜面)]]は存在していなかった))
+
+*[[第四回天下一音ゲ祭]] [#vol4]
+2017年11月-2018年2月開催
+-太鼓の達人収録曲
+--[[極圏>難易度表/おに/極圏]] / 「SOUND VOLTEX IV HEAVENLY HAVEN」提供
+--[[怒槌>難易度表/おに/怒槌]] / 「CHUNITHM STAR」提供
+--[[Scarlet Lance>難易度表/おに/Scarlet Lance]] / 「GROOVE COASTER 3EX DREAM PARTY」提供
+--[[セイクリッド>難易度表/おに/セイクリッド ルイン]] [[ルイン>難易度表/おに/セイクリッド ルイン(裏譜面)]] / 「太鼓の達人 イエローVer.」提供
+--[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]] / 「太鼓の達人」書き下ろし楽曲
+----
+-全国頂上決戦新曲
+--[[須佐之男>難易度表/おに/須佐之男]]
+
+*[[第五回天下一音ゲ祭]] [#vol5]
+2018年11月-開催中
+-太鼓の達人収録曲
+--[[GERBERA>難易度表/おに/GERBERA]] / 「SOUND VOLTEX IV HEAVENLY HAVEN」提供
+--[[Xevel>難易度表/おに/Xevel]] / 「CHUNITHM AMAZON」提供
+--[[ouroboros -twin stroke of the end->難易度表/おに/ouroboros -twin stroke of the end-]] / 「GROOVE COASTER 4 STARLIGHT ROAD」提供
+--[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]] / 「太鼓の達人 ブルーVer.」提供
+--[[青天の黎明>難易度表/おに/青天の黎明]] / 「太鼓の達人」書き下ろし楽曲
+----
+-全国頂上決戦新曲
+--[[天下統一録>難易度表/おに/天下統一録]]
+
+*参考：天下一音ゲ祭関連のすべての楽曲 [#otogesai]
+「太鼓の達人」書き下ろし楽曲､「太鼓の達人」部門使用楽曲(プレイオフ曲含み)
+***コナミ（jubeat/SOUND VOLTEX） [#otkonami]
+|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''FLOWER''&br;　　SIZE(11){jubeat}|346|[[★×5>難易度表/かんたん/FLOWER]]|[[★×7>難易度表/ふつう/FLOWER]]|[[★×8>難易度表/むずかしい/FLOWER]]|[[★×9>難易度表/おに/FLOWER]]|
+|~|~|-|-|-|[[★×10>難易度表/おに/FLOWER(裏譜面)]]|
+|''Scars of FAUNA''&br;　　SIZE(11){jubeat}|165|[[★×4>難易度表/かんたん/Scars of FAUNA]]|[[★×5>難易度表/ふつう/Scars of FAUNA]]|[[★×7>難易度表/むずかしい/Scars of FAUNA]]|[[★×9>難易度表/おに/Scars of FAUNA]]|
+|''マサカリブレイド''&br;　　SIZE(11){SOUND VOLTEX}|194|[[★×4>難易度表/かんたん/マサカリブレイド]]|[[★×5>難易度表/ふつう/マサカリブレイド]]|[[★×6>難易度表/むずかしい/マサカリブレイド]]|[[★×9>難易度表/おに/マサカリブレイド]]|
+|''極圏''&br;　　SIZE(11){SOUND VOLTEX}|207|[[★×5>難易度表/かんたん/極圏]]|[[★×7>難易度表/ふつう/極圏]]|[[★×7>難易度表/むずかしい/極圏]]|[[★×10>難易度表/おに/極圏]]|
+|''GERBERA''&br;　　SIZE(11){SOUND VOLTEX}|205|[[★×4>難易度表/かんたん/GERBERA]]|[[★×7>難易度表/ふつう/GERBERA]]|[[★×8>難易度表/むずかしい/GERBERA]]|[[★×10>難易度表/おに/GERBERA]]|
+
+***セガ（maimai/CHUNITHM） [#otsega]
+|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''Garakuta Doll Play''&br;　　SIZE(11){maimai}|256|[[★×4>難易度表/かんたん/Garakuta Doll Play]]|[[★×6>難易度表/ふつう/Garakuta Doll Play]]|[[★×8>難易度表/むずかしい/Garakuta Doll Play]]|[[★×9>難易度表/おに/Garakuta Doll Play]]|
+|~|~|-|-|-|[[★×10>難易度表/おに/Garakuta Doll Play(裏譜面)]]|
+|''VERTeX''&br;　　SIZE(11){maimai}|237|[[★×5>難易度表/かんたん/VERTeX]]|[[★×7>難易度表/ふつう/VERTeX]]|[[★×8>難易度表/むずかしい/VERTeX]]|[[★×10>難易度表/おに/VERTeX]]|
+|''怒槌''&br;　　SIZE(11){CHUNITHM}|100-200|[[★×5>難易度表/かんたん/怒槌]]|[[★×7>難易度表/ふつう/怒槌]]|[[★×8>難易度表/むずかしい/怒槌]]|[[★×10>難易度表/おに/怒槌]]|
+|''Xevel''&br;　　SIZE(11){CHUNITHM}|185|[[★×5>難易度表/かんたん/Xevel]]|[[★×7>難易度表/ふつう/Xevel]]|[[★×8>難易度表/むずかしい/Xevel]]|[[★×10>難易度表/おに/Xevel]]|
+
+***タイトー(グルーヴコースター) [#ottaito]
+|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''Got more raves?''|266|[[★×5>難易度表/かんたん/Got more raves?]]|[[★×7>難易度表/ふつう/Got more raves?]]|[[★×8>難易度表/むずかしい/Got more raves?]]|[[★×9>難易度表/おに/Got more raves?]]|
+|~|~|-|-|-|[[★×10>難易度表/おに/Got more raves?(裏譜面)]]|
+|''FUJIN Rumble''|192|[[★×5>難易度表/かんたん/FUJIN Rumble]]|[[★×6>難易度表/ふつう/FUJIN Rumble]]|[[★×8>難易度表/むずかしい/FUJIN Rumble]]|[[★×10>難易度表/おに/FUJIN Rumble]]|
+|''Scarlet Lance''|185|[[★×5>難易度表/かんたん/Scarlet Lance]]|[[★×7>難易度表/ふつう/Scarlet Lance]]|[[★×8>難易度表/むずかしい/Scarlet Lance]]|[[★×10>難易度表/おに/Scarlet Lance]]|
+|''ouroboros -twin stroke of the end-''|188|[[★×5>難易度表/かんたん/ouroboros -twin stroke of the end-]]|[[★×7>難易度表/ふつう/ouroboros -twin stroke of the end-]]|[[★×8>難易度表/むずかしい/ouroboros -twin stroke of the end-]]|[[★×10>難易度表/おに/ouroboros -twin stroke of the end-]]|
+
+***バンダイナムコ（シンクロニカ） [#otbnei]
+//太鼓の達人は更新中
+|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''夜明けまであと3秒''|177-182|[[★×4>難易度表/かんたん/夜明けまであと3秒]]|[[★×5>難易度表/ふつう/夜明けまであと3秒]]|[[★×7>難易度表/むずかしい/夜明けまであと3秒]]|[[★×9>難易度表/おに/夜明けまであと3秒]]|

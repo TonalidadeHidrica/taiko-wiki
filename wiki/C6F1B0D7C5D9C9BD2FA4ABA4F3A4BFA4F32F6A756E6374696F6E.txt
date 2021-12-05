@@ -1,0 +1,29 @@
+*junction [#j45c1944]
+***詳細・攻略 [#mf4b8293]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.2.4''|CENTER:Wii U2SP|CENTER:★×4|CENTER:''134''|CENTER:''342150点''|CENTER:＋連打|CENTER:730点|CENTER:295点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){6570点}|CENTER:-|
+||CENTER:PSPDXDL&br;iOS|~|~|CENTER:''322360点''|~|CENTER:740点|CENTER:190点|
+-BPMは135。
+-黄色連打がかなり多い連打曲である。
+-譜面の大半を付点リズムが占め、リズム難になっている。
+-大音符が多く、14個ある（全体の約10.4%）。
+-全体的に4分と付点4分がかなり多いが、8分は3連打が2回しか出て来ない。
+-曲名の読み方は、''ジャンクション''。
+--これは、''交差点''、''合流点''を意味する。
+-アーティストは、[[スポーツ>難易度表/かんたん/スポーツダイジェスドン]][[ダイジェスドン>難易度表/かんたん/スポーツダイジェスドン(裏譜面)]]と同じ''中鶴潤一''。
+-譜面作成は、''カーン''。
+-曲IDは、''sqr2''
+
+-[[ふつう>難易度表/ふつう/junction]]
+-[[むずかしい>難易度表/むずかしい/junction]]
+-[[おに>難易度表/おに/junction]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=BPiylRFKn9c]]
+
+***コメント [#t632a1d5]
+#pcomment(,noname)
+
+***譜面 [#i7234275]
+//reverseするとバグります
+&attachref(junc_e2.png,nolink);

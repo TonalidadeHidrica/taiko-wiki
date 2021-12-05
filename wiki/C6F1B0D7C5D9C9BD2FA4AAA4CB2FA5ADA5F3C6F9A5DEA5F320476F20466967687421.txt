@@ -1,0 +1,27 @@
+*キン肉マン Go Fight! [#title]
+-アニメ''「キン肉マン」''第1期のOP1。
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12''−13|iOS|★×6|''299''|''900690点''|＋連打|890点|210点|
+***譜面構成・攻略 [#capture]
+-BPMは149。
+-平均密度は、''約3.45打/秒''。
+-黄色連打が9本もある連打曲である。
+-16分音符はCOLOR(red){●●}COLOR(blue){●}やCOLOR(blue){●●}COLOR(red){●}の複合が多く、前半にはCOLOR(red){●●}COLOR(blue){●●}COLOR(red){●}も3回出現する。なお、単色の16分音符は存在しない。
+***その他 [#other]
+-アーティストは、[[''串田アキラ''>アーティスト別収録曲#kushi]]。
+-曲IDは、''kin29m''。
+-現在iOS以外の家庭用作品には収録されていないが、iOSへの配信は''2018年3月26日をもって終了した''ため、新規DL不可となった。
+--そのため、iOSでDLしていなかった場合、この譜面がプレイできるのは''AC12、AC12増量版、AC13のみ''となる。
+----
+-[[かんたん>難易度表/かんたん/キン肉マン Go Fight!]] 
+-[[ふつう>難易度表/ふつう/キン肉マン Go Fight!]] 
+-[[むずかしい>難易度表/むずかしい/キン肉マン Go Fight!]] 
+-[[オート動画(iOS)>http://www.youtube.com/watch?v=HJyNSUcQ0kc]]
+-[[プレイ動画(AC12)>https://youtu.be/EMho47QJ7bY?t=6]]
+
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(kinniku-man_2.png,nolink);

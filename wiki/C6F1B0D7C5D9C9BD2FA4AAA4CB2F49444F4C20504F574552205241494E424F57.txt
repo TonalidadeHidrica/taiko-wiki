@@ -1,0 +1,31 @@
+*IDOL POWER RAINBOW [#title]
+-「''THE IDOLM@STER M@STERS OF IDOL WORLD!!2014''」テーマ曲。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(blue){PS Vita MS}''|★×6|''559''|''941480点''|＋連打|460点|115点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''995380点''}|~|COLOR(#ff3300){1580点}|-|
+-BPMは160。
+-連打秒数目安・・・約1.094秒−''約1.281秒''−約1.469秒−''約1.281秒'':合計5.125秒
+-平均密度は、''約5.03打/秒''。
+
+-16分は3連打までだが、このレベルにしては量が多く、休憩も少ない。
+-大音符が62個(全体の約11%)と多い。特にゴーゴータイムの後半に固まって出現する箇所があるので注意。
+
+***その他 [#other]
+-作詞は''有栖川姫子''。作曲・編曲は[[''佐々木宏人''>参加アーティスト一覧/佐々木宏人]]。
+-譜面作成は、[[''くぼけん''>譜面作成者一覧/くぼけん]]。
+-曲IDは、''imsrbw''
+
+----
+-[[かんたん>難易度表/かんたん/IDOL POWER RAINBOW]]
+-[[ふつう>難易度表/ふつう/IDOL POWER RAINBOW]]
+-[[むずかしい>難易度表/むずかしい/IDOL POWER RAINBOW]]
+-[[オート動画>http://www.youtube.com/watch?v=hHPMbc5iOGI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(IDOLpow.png,nolink);

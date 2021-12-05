@@ -1,0 +1,22 @@
+*Velonica [#title]
+***詳細・攻略 [#more]
+-アニメ「''BLEACH''」のOP9。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12亜''|CENTER:★×4|CENTER:''124''|CENTER:''536650点''|CENTER:＋連打|CENTER:1270点|CENTER:430点|
+-BPMは137。
+-速度は少し遅めだが、全体的に8分がかなり多い。
+--8分は単色の3連打までしかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は3連打までしかない。
+-曲名の読み方は、''ベロニカ''。
+-ア一ティストは、''Aqua Timez''。
+
+-[[かんたん>難易度表/かんたん/Velonica]]
+-[[むずかしい>難易度表/むずかしい/Velonica]]
+-[[おに>難易度表/おに/Velonica]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&ref(velonica-n.png,nolink);

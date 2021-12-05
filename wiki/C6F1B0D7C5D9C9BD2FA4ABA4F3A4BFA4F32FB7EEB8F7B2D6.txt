@@ -1,0 +1,32 @@
+* 月光花 [#b10ec26e]
+*** 詳細・攻略 [#b684367e]
+-アニメ''「ブラック・ジャック」''のOP1。
+-【1人用譜面】
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+|''AC7''||★×3|''81''|''?????0点''|＋連打|1110点|600点|''ゴーゴーバグあり''|
+||アニスぺ|~|~|''329880点''|~|960点|620点|~|
+-BPMは102
+----
+-【2人用譜面】
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+|''AC7''||★×3|''80''|''?????0点''|＋連打|???点|???点|''ゴーゴーバグあり''|
+||アニスペ|~|~|''?????0点''|~|???点|???点|~|
+----
+-アーティストは、''Janne Da Arc''。
+-[[ふつう>難易度表/ふつう/月光花]]
+-[[むずかしい>難易度表/むずかしい/月光花]]
+-[[おに>難易度表/おに/月光花]]
+-[[オート動画(一人用譜面)>https://www.youtube.com/watch?v=eXWyqcjd8dE]]
+-[[プレイ動画(二人用譜面)>https://www.youtube.com/watch?v=7PYAv-qYvpY]]
+
+*** コメント [#ya412e5d]
+#pcomment(,noname)
+
+*** 譜面 [#jd6301b1]
+&attachref(BJ_easy.single.png,nolink);
+
+&attachref(BJ_easy.double.png,nolink);

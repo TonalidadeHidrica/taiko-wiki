@@ -1,0 +1,28 @@
+*&ruby(キャッツ){CAT'S}; &ruby(アイ){EYE}; [#title]
+
+***詳細・攻略[#more]
+-アニメ「''キャッツ&#9829;アイ''」の第1期OP曲。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''PSP2''|CENTER:★×6|CENTER:''268''|CENTER:''772940点''|CENTER:＋連打|CENTER:740点|CENTER:220点|
+|CENTER:iOS|~|~|CENTER:''769840点''|~|CENTER:810点|CENTER:210点|
+-BPMは約145。
+-連打秒数目安・・・約0.999秒−''約1.206秒''−''約0.586秒''−''約1.206秒''×2−''約0.586秒''−''約2.033秒''：合計約7.822秒
+-ゴーゴーのCOLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●} COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}に注意。
+
+***その他 [#other]
+-アーティストは、''杏里''。
+--作詞・作曲は、三浦徳子・小田裕一郎。
+-曲IDは、''cats''
+
+----
+-[[かんたん>難易度表/かんたん/CAT'S EYE]]
+-[[ふつう>難易度表/ふつう/CAT'S EYE]]
+-[[おに>難易度表/おに/CAT'S EYE]]
+-[[オート動画(iOS)>http://www.youtube.com/watch?v=O-tIWMMzjHc]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面[#fumen]
+&ref(c.png,nolink);

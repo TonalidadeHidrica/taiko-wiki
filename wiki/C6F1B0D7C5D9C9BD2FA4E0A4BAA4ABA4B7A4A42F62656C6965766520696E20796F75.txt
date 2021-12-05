@@ -1,0 +1,26 @@
+*believe in you [#title]
+***詳細・攻略 [#more]
+-「''テイルズ オブ アスタリア''」テーマソング。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''iOS''|★×6|''244''|''787590点''|＋連打|940点|240点|
+-BPMは127。
+-8分の長複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
+-8分の複合14連打→16分2連続になってる40〜43小節目に注意。
+-曲名の読み方は、''ビリーヴ イン ユー''。
+-アーティストは、''Do As Infinity''。
+--読み方は、ドゥー アズ インフィニティー。
+-曲IDは、''dasbel''
+
+-[[かんたん>難易度表/かんたん/believe in you]]
+-[[ふつう>難易度表/ふつう/believe in you]]
+-[[おに>難易度表/おに/believe in you]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=GvfUU4hbNLM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(dasbel.png,nolink);

@@ -1,0 +1,37 @@
+*ブルーバード [#title]
+***詳細・攻略 [#more]
+-アニメ「''NARUTO-ナルト-疾風伝''」のOP3。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''-14&br;AC12亜||CENTER:''アニメ''|CENTER:★×6|CENTER:''232''|CENTER:''781390点''|CENTER:＋連打|CENTER:970点|CENTER:250点|
+||CENTER:PSPDXDL|CENTER:''J-POP''|~|~|~|~|~|~|
+|CENTER:COLOR(#ff3300){真打モード}||CENTER:''アニメ''|~|~|CENTER:COLOR(#ff3300){''793800点''}|~|CENTER:COLOR(#ff3300){3240点}|CENTER:-|
+|CENTER:AC15.1.0||CENTER:''J-POP''|~|~|CENTER:''?????0点''|~|CENTER:1010点|CENTER:320点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4050点}|CENTER:-|
+||CENTER:Wii1|CENTER:''アニメ''|~|CENTER:''241''|CENTER:''785720点''|~|CENTER:1030点|CENTER:230点|
+-BPMは約152。
+-連打秒数目安・・・約0.958秒−約1.151秒−''約0.757秒''−約1.151秒：合計約4.018秒
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の3連打までしかないが、そのほとんどが8分と隣接している。
+-Wii1譜面ではラストに16分のラッシュがあるので、フルコン狙いの人は要注意。
+-フルコン難易度は少し高めだが、16分は数自体が少ないのでクリアは簡単な方である。
+--にもかかわらず、AC15でも残留した。クリアだけなら逆詐称だろう。
+-アーティストは、''いきものがかり''。
+-PSPDX以降ではジャンルがJ-POPに変更されている。
+-曲IDは、''blurb''。
+
+-[[かんたん>難易度表/かんたん/ブルーバード]]
+-[[ふつう>難易度表/ふつう/ブルーバード]]
+-[[おに>難易度表/おに/ブルーバード]]
+-[[オート動画(Wii1)>https://www.youtube.com/watch?v=BU-IFdW_pMo]]
+//-[[プレイ動画(AC15)>http://www.youtube.com/watch?v=Ut6OC8whQgg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+AC譜面
+&attachref(bluebird hard AC.png,nolink);
+
+Wii譜面&br;巨大音符は48小節目
+&attachref(bluebirdhardwii.png,nolink);

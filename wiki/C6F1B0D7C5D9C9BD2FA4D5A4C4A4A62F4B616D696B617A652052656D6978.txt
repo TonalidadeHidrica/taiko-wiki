@@ -1,0 +1,42 @@
+* Kamikaze Remix [#title]
+*** 詳細・攻略 [#more]
+-ナムコ''「[[RIDGE RACERS 2>http://www.bandainamcogames.co.jp/cs/list/ridgeracers2_psp/]]」''のBGM。
+-1995年にNAMCOから登場した「Rave Racer」のBGM「[[Kamikaze>http://www.youtube.com/watch?v=RlVBB6lRhwE]]
+」のRemixである。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11SP''-14&br;AC11亜SP&br;AC12亜|CENTER:Wii1&br;PSP2DL|CENTER:★×6|CENTER:''224''|CENTER:''639110点''|CENTER:＋連打|CENTER:870点|CENTER:220点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''647520点''}|~|CENTER:COLOR(#ff3300){2840点}|CENTER:-|
+||CENTER:Wii5SP|~|~|CENTER:''645450点''|~|CENTER:880点|CENTER:285点|
+|CENTER:AC15.3.1||~|~|CENTER:''646330点''|~|CENTER:870点|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''996360点''}|~|CENTER:COLOR(#ff3300){4370点}|CENTER:-|
+-BPMは約158。
+-全体的に付点配置が多く、リズムが取りづらい。
+-4分と付点8分が主体の譜面で、8分も数がかなり多い。
+--8分はほとんどが3連打だが、3連続で出てくる箇所もある。
+--ただし、4分は単色の3連打までしかない。
+-ゴーゴーは休みが少ないので、適正者にとっては体力的に厳しいかもしれない。
+-ゴーゴーで2回出てくる8分の単色5連打に注意。
+-8分も付点8分も単色しかないので当時の★×6にしては簡単な方である。
+--にもかかわらず、Wii5でも残留した。クリアもフルコンも逆詐称だろう。
+
+***その他 [#other]
+-[[かんたん>難易度表/かんたん/Kamikaze Remix]]・ふつうは低速地帯の速度変化が[[むずかしい>難易度表/むずかしい/Kamikaze Remix]]・[[おに>難易度表/おに/Kamikaze Remix]]と比べてゆるい（前者は0.8倍速で実質BPM126、後者は0.5倍速で実質BPM79）。
+-新筐体では、5月ドンチャレによる先行解禁曲としてAC復活を果たした(現在はデフォルト)。AC収録は約1年5ヶ月ぶり。
+--ドンチャレ解禁曲が復活曲であるのは、[[旋風ノ舞【天】>難易度表/ふつう/旋風ノ舞【天】]]、[[旋風ノ舞【地】>難易度表/ふつう/旋風ノ舞【地】]]に続いて4曲目。
+--ドンチャレ解禁曲がナムコオリジナル以外の曲であるのは初めてである。
+-曲名の読み方は、''カミカゼ リミックス''。
+--ゴーゴー地帯の空耳で「ドリル便座ぁー」と聞こえる部分があることから一部で''ドリル便座、ドリ便''などと呼ばれた事もあった。ちなみにこの部分では「Storming weather」と言っている。
+---作曲・アレンジを担当した''佐宗綾子''氏(''Sampling Masters AYA'')はそこが何と言っているかや、この曲がドリル便座と呼ばれていたことを知らなかった模様（ツイッターより）。
+-譜面作成は、''タカハシ''。
+-曲IDは、''rrs2kk''
+-[[かんたん>難易度表/かんたん/Kamikaze Remix]]
+-[[むずかしい>難易度表/むずかしい/Kamikaze Remix]]
+-[[おに>難易度表/おに/Kamikaze Remix]]
+-[[オート動画>http://www.youtube.com/watch?v=yPDuMi05ZGU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(rrs2kk.png,nolink);

@@ -1,0 +1,37 @@
+*花漾 〜Flourishing Blossoms〜 [#title]
+***詳細・攻略 [#more]
+-季曲シリーズ第6弾。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDXDL''|★×4|''176''|''527840点''|＋連打|880点|230点|
+|AC15.2.0SP|NS1SP|~|~|''538950点''|~|870点|323点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){5150点}|-|
+||Wii5SP|~|''174''|''540310点''|~|890点|330点|
+-BPMは140。
+-黄色連打が多い連打曲である。
+-速度は至って普通だが、全体的に8分がかなり多い。
+--8分はほとんどが3連打だが、3連続で出てくる箇所もある。
+--また8分は単色が多いが、中盤からは複合も出てくる。
+-ラストで1回だけ出てくる8分の複合8連打に注意。
+
+***その他 [#other]
+-曲名の読み方は、''かよう 〜フロウリッシング ブラッサムス〜''。
+-アーティストは、''�蚋�偉''。
+-曲IDは、''mgwrt7''
+-PSPDXでは、2015年9月30日をもって、新規DLができなくなった。
+-[[かんたん>難易度表/かんたん/花漾 〜Flourishing Blossoms〜]]
+-[[むずかしい>難易度表/むずかしい/花漾 〜Flourishing Blossoms〜]]
+-[[おに>難易度表/おに/花漾 〜Flourishing Blossoms〜]]/[[裏譜面>難易度表/おに/花漾 〜Flourishing Blossoms〜(裏譜面)]]
+-[[オート動画(現行譜面)>https://youtube.com/watch?v=oQpFmMLKTK4]]
+-[[オート動画(Wii5)>https://www.youtube.com/watch?v=v_CJZq35n_I]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+Wii5以外の譜面
+&attachref(mgwrt7_nac.png,nolink);
+
+Wii5譜面（43小節目のドン（大）は巨大音符です。）
+&attachref(mgwrt7_ncs.png,nolink);

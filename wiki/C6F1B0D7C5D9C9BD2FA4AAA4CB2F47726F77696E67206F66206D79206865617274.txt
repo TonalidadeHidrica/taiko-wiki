@@ -1,0 +1,20 @@
+*Growing of my heart[#title]
+***詳細・攻略 [#more]
+-''「名探偵コナン」''のOP16。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC8''|★×7|''379''|''1008450点''|840点|180点|
+-BPMは125。
+-おにコースの名探偵コナンシリーズで''唯一の完全精度曲''である。
+-BPMは遅めだが、16分音符の複合が多い。
+-アーティストは、[[Feel fine!>難易度表/おに/Feel fine!]]と同じく''倉木麻衣''。
+--この曲はTVサイズの前奏をカットし、歌い終わった後をフェードアウトさせている。
+-[[かんたん>難易度表/かんたん/Growing of my heart]]
+-[[ふつう>難易度表/ふつう/Growing of my heart]]
+-[[むずかしい>難易度表/むずかしい/Growing of my heart]]
+-[[プレイ動画>https://www.youtube.com/watch?v=Py3m9gidIuk]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(Growing of my heart_2.png,nolink);

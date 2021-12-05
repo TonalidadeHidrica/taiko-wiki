@@ -1,0 +1,28 @@
+*The Loco-Motion [#x6f1a16b]
+***詳細・攻略 [#gffa54f3]
+-【1人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''TDM''|CENTER:★×3|CENTER:''148''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1100点|CENTER:410点|
+-BPMは129。
+----
+-【2人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''TDM''|CENTER:★×3|CENTER:''138''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1450点|CENTER:???点|
+----
+-アーティストは''カイリー・ミノーグ(Kylie Minogue)''。
+-曲IDは''loco''。
+-[[かんたん>難易度表/かんたん/The Loco-Motion]]
+-[[むずかしい>難易度表/むずかしい/The Loco-Motion]]
+-[[おに>難易度表/おに/The Loco-Motion]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=r7T1BsTeg8E]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=7Xh2EUipmaE]]
+
+***コメント [#e6d56cd2]
+#pcomment(,noname)
+***譜面 [#q80b82b6]
+~1人用譜面
+&attachref(ロコモふつう１.png,nolink);
+~2人用譜面
+&attachref(ロコモふつう２.png,nolink);

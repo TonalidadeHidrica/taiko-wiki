@@ -1,0 +1,32 @@
+*Dreadnought [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.7''|★×6|''349''|''?????0点''|＋連打|640点|163点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){2450点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは96-384。
+--基本BPMは192。
+16分が一切出てこない。
+
+***その他 [#other]
+-アーティストは、''Mastermind([[xi>参加アーティスト一覧/xi]]+[[nora2r>難易度表/むずかしい/B.B.K.K.B.K.K.]])''。
+--本楽曲は2015年のBMSイベント「大血戦 -THE BMS OF FIGHTERS ULTIMATE-(BOFU2015)」初出の[[''BMS楽曲''>BMS楽曲一覧]]であり、同イベントの個人戦スコア部門5位の曲でもある。
+-BPM384地帯の小節線は原作再現である。
+-曲名の読み方は、''ドレッドノート''。
+--イギリス海軍で製造された戦艦の名前であり、「弩(ド)級」「超弩(ド)級」の語源ともなっている。
+----
+
+-[[かんたん>難易度表/かんたん/Dreadnought]]
+-[[ふつう>難易度表/ふつう/Dreadnought]]
+-[[おに>難易度表/おに/Dreadnought]]/[[裏譜面>難易度表/おに/Dreadnought(裏譜面)]]
+-[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]
+-[[プレイ動画>https://www.youtube.com/watch?v=rDI0sMvrm6I]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+-中盤の長い黄色連打の小節線は未記載。風船の長さは暫定
+~&attachref(弩難.png,nolink);

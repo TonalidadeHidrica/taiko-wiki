@@ -1,0 +1,31 @@
+*ROTTERDAM NATION(FOO MIX) [#title]
+***詳細・攻略 [#more]
+-Ridge Racerシリーズ第3弾。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+||CENTER:''CS5''|CENTER:★×5|CENTER:''173''|CENTER:''433700点((芋連打+12000点含む))''|CENTER:＋連打|CENTER:690点|CENTER:200点|CENTER:''ゴーゴーバグあり''|
+|CENTER:AC7||~|~|CENTER:''360790点''((芋連打の得点、ボーナスは含まれていない))|~|CENTER:570点|CENTER:170点||
+-BPMは約185〜221。
+-4分が主体の譜面で、8分も数がかなり多い。
+--8分は単色の3連打までしかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は5連打（●●○○○）が1回しか出て来ない。
+-ゴーゴーからは8分が1回しか出て来ないので、クリア狙いの人はここでゲージを稼ごう。
+
+***その他 [#other]
+-略称は''ロッテルダム''がよく使われる。[[Rotter>難易度表/かんたん/Rotter Tarmination]] [[Tarmination>難易度表/かんたん/Rotter Tarmination(裏譜面)]]が収録される以前は''ロッテル''とも。
+-作曲は、''細江慎治(Sampling masters MEGA)''。ちなみに彼は日本のガバ系元祖の一人と言われている。
+--現在彼はバンナムを退社しているが、[[Ridge>難易度表/かんたん/Ridge Racer]] [[Racer>難易度表/かんたん/Ridge Racer(裏譜面)]]や[[ドドンガ>難易度表/かんたん/ドドンガド〜ン]][[ド〜ン>難易度表/かんたん/ドドンガド〜ン(裏譜面)]]は新筐体に収録されているため、復活の可能性は十分にあるだろう。
+--また、長らくCS5限定となっていた[[BLUE TOPAZ>難易度表/かんたん/BLUE TOPAZ]]も3DS2と新ACに再収録された。
+-完全に余談になるが、重役相手のリッジレーサー初代のお披露目会の際にたまたまこの曲が流れ（当時はロッテルダムテクノはほとんど知られていなかった）、ディレクターが頭を抱えたとか。
+-完全余談その2になるが、(FOO MIX)に対応した(ORIGINAL MIX)は存在せず、この曲がオリジナル。リミックスはリッジレーサー2の「ROTTERDAM NATION'94」と、リッジレーサーズの「ROTTERDAM NATION REMIX」の2曲、両方共細江氏本人のセルフリミックス。
+-曲IDは、''rr3''
+-[[ふつう>難易度表/ふつう/ROTTERDAM NATION(FOO MIX)]]
+-[[むずかしい>難易度表/むずかしい/ROTTERDAM NATION(FOO MIX)]]
+-[[おに>難易度表/おに/ROTTERDAM NATION(FOO MIX)]]
+-[[オート動画>http://www.youtube.com/watch?v=8iD6BLYSXIg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+~&attachref(rr3 re.png,nolink);

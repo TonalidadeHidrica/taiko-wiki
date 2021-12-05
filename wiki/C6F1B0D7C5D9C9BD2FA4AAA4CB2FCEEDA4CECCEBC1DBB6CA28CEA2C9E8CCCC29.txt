@@ -1,0 +1,39 @@
+*&ruby(ゼロ){零};の&ruby(ノクターン){夜想曲};(裏譜面) [#title]
+
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.3.0''|Wii U1SP|★×9|''822''|''1101860点''|+連打|390点|95点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1002690点''}|~|COLOR(#ff3300){1170点}|-|
+||iOS&br;AR|~|~|''1104910点''|~|340点|90点|
+
+***譜面構成・攻略 [#capture]
+-BPMは約150。
+-連打秒数目安・・・約0.367秒
+-BPMは少し遅いが、偶数連打が多く、手元を狂わされやすい。
+-所々に長複合があり、フルコンボを目指す上での難所となっている。
+--51、75小節目の複合はCOLOR(blue){●●}COLOR(red){●}COLOR(blue){●}|COLOR(red){●●}COLOR(blue){●}COLOR(red){●}|COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}|COLOR(red){●●}COLOR(blue){●}と認識すれば叩きやすい。
+--57〜59小節にある2本の複合は
+---1本目:COLOR(blue){●●}|COLOR(red){●●●●}|COLOR(blue){●●●}COLOR(red){●●●}|COLOR(blue){●●}COLOR(red){●●}COLOR(blue){●●}|COLOR(red){●●●}COLOR(blue){●●●}|COLOR(red){●●●}COLOR(blue){●●}
+---2本目:COLOR(red){●●}COLOR(blue){●●}|COLOR(red){●●●}COLOR(blue){●●●}|COLOR(red){●●●}COLOR(blue){●●●}|COLOR(red){●●}&br;と認識すれば叩きやすいかもしれない。
+-ゴーゴー直前およびゴーゴー中の大音符でリズムを崩さないように注意。
+--連打が短いこともあって、110万点到達は難しめ。
+-平均密度は、''約6.19打/秒''。
+
+***その他 [#other]
+-楽曲情報は[[表譜面>難易度表/おに/零の夜想曲]]を参照。
+-譜面作成は、[[''カーン''>譜面作成者一覧/カーン]]。
+//-曲IDは、''ex_zerono''。
+
+----
+-[[かんたん>難易度表/かんたん/零の夜想曲]]
+-[[ふつう>難易度表/ふつう/零の夜想曲]]
+-[[むずかしい>難易度表/むずかしい/零の夜想曲]]
+-[[おに>難易度表/おに/零の夜想曲]]/裏譜面
+-[[オート動画(Wii U1)>https://www.youtube.com/watch?v=CaxnJs6NXJA]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(exzero_kai.png,nolink);

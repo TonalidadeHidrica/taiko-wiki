@@ -1,0 +1,47 @@
+*&ruby(レッド){Red}; &ruby(ローズ){Rose}; &ruby(エバンゲル){Evangel}; [#title]
+-[[Roseシリーズ>シリーズ曲一覧#rose]]第3弾。また、[[太鼓の達人10周年記念ソング>シリーズ曲一覧#taiko10th]]の一つ。
+
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.1.0''|Wii5SP&br;PS4 1|★×9|''765''|''1102700点''|＋連打|420点|98点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''998600点''}|~|COLOR(#ff3300){1240点}|-|
+||iOS|~|~|''1088890点''|~|360点|90点|
+|AC16.1.0||~|~|''998700点''|~|1300点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは178。
+-連打秒数目安・・・SIZE(16){約1.320秒}−約0.646秒−SIZE(16){約1.152秒}：合計約3.118秒
+-やや速めのBPM、黄色連打、多くの複合、偶数連打、軽いコンボカッターなど、様々な要素があるため、上位曲に挑むならフルコンボしておきたい基礎的な譜面のひとつである。
+-フルコンボカッターとなり得るのは82~83小節目のやや複雑な複合。
+--COLOR(red){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●}と認識し、面は全て入り手で叩くことを意識すればよい。
+-1曲を通しての平均密度は、''約6.51打/秒''である。
+
+***その他 [#other]
+-曲名を直訳すると、''赤い薔薇の福音''。新筐体ソライロVer.で追加された''称号｢赤薔薇の福音｣獲得には、この譜面のフルコンボが必要。''
+--さらに、''1クレジット内でこの譜面と[[Blue Rose Ruin(おに)>難易度表/おに/Blue Rose Ruin]]を両方ともフルコンボすると、称号｢紫薔薇の融合｣を獲得''できる。
+-[[ソライロVer.段位道場>過去の段位道場#sorairo]]の六段3曲目課題曲、[[モモイロVer.段位道場>過去の段位道場#momoiro]]の五段3曲目課題曲、[[キミドリVer.段位道場>過去の段位道場#kimidori]]の七段1曲目課題曲となった。
+-歌唱は、''[[彩音>参加アーティスト一覧/彩音]]''。
+--同氏のアルバム、「cry out」(2012/6/20)と「Luminous Flux」(2014/1/29)にRed Rose Evangel -Full version-が収録されている。
+---「Luminous Flux」に作曲者の表記は[[''Tatsh''>参加アーティスト一覧/世阿弥]]である([[ソース>http://4.bp.blogspot.com/-s5pVlcjfQ0I/U15RQ_6Ny7I/AAAAAAAADFQ/qW_YjOjaxHI/s1600/1390921112-20140128-155101.jpg]])。
+--しかし、太鼓の達人には、ロングバージョンは追加配信、及び収録そのものをしないとのこと(Twitterより)。
+-作曲は、[[''世阿弥''>参加アーティスト一覧/世阿弥]]。作詞は、''観阿弥''。
+--[[開発日記>https://web.archive.org/web/20161110085101/http://taikoblog.namco-ch.net/blog/2012/01/post_277.html]]((リンク先はアーカイブ))のコメントによると「東日本大震災の追悼の祈りを込めた曲にもなっている」とのこと。
+-序盤のコード進行が[[Blue Rose Ruin>難易度表/おに/Blue Rose Ruin]]に共通する。なお、そのイントロが[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]に引用された。
+-譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
+-曲IDは、''rdrose''。
+----
+-[[かんたん>難易度表/かんたん/Red Rose Evangel]]
+-[[ふつう>難易度表/ふつう/Red Rose Evangel]]
+-[[むずかしい>難易度表/むずかしい/Red Rose Evangel]]
+-[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20161110085101/http://taikoblog.namco-ch.net/blog/2012/01/post_277.html]]
+-[[オート動画(Wii5)>http://www.youtube.com/watch?v=Gb2395HR9pU]]
+-[[オート動画(PS4)>https://www.youtube.com/watch?v=92kTORC-bZg]]
+
+***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''各曲の難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(rdrose.png,nolink);

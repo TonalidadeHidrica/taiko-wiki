@@ -1,0 +1,21 @@
+*波乗りジョニー[#title]
+***詳細・攻略[#more]
+-コカ・コーラCMソング。
+|CENTER:バージョン((太字は初出))|CENTER:コース|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC3''|CENTER:むずかしい|CENTER:★×4|CENTER:''321''|CENTER:''696980点''|CENTER:730点|CENTER:170点|
+|~|CENTER:ドンだフル！|CENTER:★×7|~|CENTER:''449000点''|-|-|
+-BPMは138。
+-''完全精度曲''のひとつ。
+-16分は面の3連打のみ。
+-アーティストは、サザンオールスターズのボーカル''桑田佳祐''。
+-余談だが、[[Lifetime Respect>難易度表/おに/Lifetime Respect -女編-]]もこの時期にヒットしていた。
+-曲IDは、''johny''。
+
+-[[かんたん>難易度表/かんたん/波乗りジョニー]]
+-[[ふつう>難易度表/ふつう/波乗りジョニー]]
+-[[プレイ動画(むずかしい)>http://www.youtube.com/watch?v=nl675oz_T64]]
+-[[プレイ動画(ドンだフル！)>http://www.youtube.com/watch?v=CPQS3sB5RtM]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(joni.png,nolink);

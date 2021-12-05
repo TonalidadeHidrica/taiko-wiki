@@ -1,0 +1,353 @@
+*''COLOR(red){どんメダル}''ショップ [#shop]
+-''COLOR(pink){モモイロVer.}''にて「ごほうびショップ」という名称で''初登場''。
+--1プレイ終了後に獲得できた''「どんポイント」''と同量の''「お買い物ポイント」''がドンだ〜ひろばで付与された。
+---このポイントを消費することで、きせかえ・楽曲・音色を獲得したり、称号パーツガシャを利用したりできた。
+
+----
+
+-''COLOR(gold){イエローVer.}''にて、ごほうびショップが2種類に分割。
+--上記の「どんポイント」「お買い物ポイント」が廃止され、代わりに''COLOR(red){どんメダル}''と''COLOR(blue){かつメダル}''が登場。
+-どんメダル ごほうびショップでは''COLOR(red){どんメダル}''、かつメダル ごほうびショップでは''COLOR(blue){かつメダル}''を使って、きせかえ・楽曲・音色を入手したり、称号パーツガシャ((称号パーツガシャ はかつメダル専用))を利用する事ができた。
+--1プレイ((「段位道場」「大会モード」のプレイは対象外))終える毎に''COLOR(red){どんメダル}''と''COLOR(blue){かつメダル}''が獲得できた。
+
+-''COLOR(red){どんメダル}''
+--1プレイ：100メダル
+--毎日1回ボーナス：＋50メダル
+--週ごとボーナス：＋100メダル
+--月ごとボーナス：＋300メダル
+---上記ボーナスは重複する。
+---例）ごほうびショップ更新後、初めての[演奏ゲーム]プレイでは、100＋50＋100＋300＝550枚のメダルがもらえる。
+---''COLOR(red){（重要）}ごほうびショップが更新された時、貯まっていたどんメダルはリセットとなる。''
+
+-''COLOR(blue){かつメダル}''
+--1プレイ：100メダル
+---ボーナスはない。
+---所持枚数がリセットされることはないが、所持枚数の上限はあり（10000メダル）
+
+----
+
+-COLOR(red){''ニ''}COLOR(orange){''ジ''}COLOR(gold){''イ''}COLOR(green){''ロ''}COLOR(blue){''Ver.''}にて、ごほうびショップがリニューアル。名称が「''COLOR(red){どんメダル}ショップ''」に変更される。
+--COLOR(blue){''かつメダル''}''廃止''に伴い、''COLOR(blue){かつメダル}ごほうびショップ''（と''称号パーツガシャ''）は''閉店''となった。
+---''COLOR(blue){かつメダル}''で交換できたごほうびの内、''曲''は''全て・デフォルトで遊べるようになった''一方、きせかえ・音色は''一時獲得不可''となった。
+-''COLOR(gold){イエローVer.}''から''COLOR(green){グリーンVer.}''と同様、&br;1.季節ごとにラインナップが変わる。&br;2.ラインナップが変わるとメダルを新たに集める必要がある（持ち越し不可）&br;これら２点は変更なし。
+--獲得量は''１プレイにつき１０メダル''。「その日初プレイ、その週初プレイ、その月初プレイボーナス」は''廃止''。
+--COLOR(red){''「曲を選ぶ画面」で、その場で視聴と入手→すぐ遊ぶ''}ことが出来るようになった。
+
+-[[コメント>#comment]]
+----
+
+**きせかえ [#kisekae]
+
+***きぐるみ [#kigurumi]
+|LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
+|きせかえ名|必要なメダル数|追加日|備考|h
+|BGCOLOR(silver):めでタイ|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(silver):たつどし|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):むしゃ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ロボットアーム|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):うちゅうせん|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):やたい|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(grey):ぎゅうどん|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2014年7月16日〜8月31日まで|
+|BGCOLOR(grey):ダブルバーガーどん|BGCOLOR(grey):3000ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年2月19日〜3月18日まで|
+|BGCOLOR(grey):ももクロ かなこ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2013年12月11日&br;〜&br;2014年2月18日まで|
+|BGCOLOR(grey):ももクロ あやか|BGCOLOR(grey):2500ポイント|~|~|
+|BGCOLOR(grey):ももクロ しおり|BGCOLOR(grey):2500ポイント|~|~|
+|BGCOLOR(grey):ももクロ ももか|BGCOLOR(grey):2500ポイント|~|~|
+|BGCOLOR(grey):ももクロ れに|BGCOLOR(grey):2500ポイント|~|~|
+
+
+***あたま [#head]
+|LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
+|きせかえ名|必要なメダル数|追加日|備考|h
+|イケメンヘアー（銀）|---|''COLOR(green){グリーンVer.}以前''|COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に59回プレイ''|
+|にんじゃ|---|''COLOR(red){レッドVer.}以前''|2014年7月19日〜8月1日までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に6回プレイ''|
+|レースカー|---|~|2014年5月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に11回プレイ''|
+|かたつむり|---|~|2014年6月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に14回プレイ''|
+|げっけいじゅ|---|~|2014年7月26日〜8月8日までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に18回プレイ''|
+|はながさ|---|~|2015年8月までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に45回プレイ''|
+|ミイラ|---|~|2014年8月9日〜22日までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に49回プレイ''|
+|プロペラ|---|~|2014年8月23日〜9月5日にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に57回プレイ''|
+|ガーディアン|---|~|2014年8月30日〜9月12日にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に64回プレイ''|
+|ヒーロー|---|~|2016年8月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に76回プレイ''|
+|門松|---|~|2014年1月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に83回プレイ''|
+|おひなさま|---|~|2014年3月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に98回プレイ''|
+|BGCOLOR(silver):ひまわり|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(silver):らいおん|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):てんぐ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ロケット|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):姫ヘアー（金）|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):かじきまぐろ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):お面小僧（きつね）|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):カメラレンズ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):サイドテール|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):学生帽|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):メイドヘアー（黒）|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):水玉はちまき|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):金魚ねぶた|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):かいぞく|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):うますず|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):おすもうさん|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ほうせき|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):こじか|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ウェディングドレス|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ほっかむり|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ワイルドヘア|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):うさみみ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ヘッドフォン|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):めかくし|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):水玉りぼん|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):おちごさん|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ユニコーン|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ハロウィンハット|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):スケーターキャップ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):はらじゅくヘアー|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):わたがし|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):兵士長|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ミツバチ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):神器ヘッド|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ギリシャ兵|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):アニマルフード|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ひらめき|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):サイドポニー|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):水かぶり|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ショベルカーヘッド|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ピザ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):はねぼうし|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):赤ずきんヘッド|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):みつあみ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ドリル|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ゆきだるま|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):王冠|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):皇帝|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):剣道|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):コンパス|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(grey):コックさん|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2016年10月1日〜11月1日まで|
+|BGCOLOR(grey):バカンスサングラス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年6月1日〜30日まで|
+|BGCOLOR(grey):ちょうちょ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年3月1日〜31日まで|
+|BGCOLOR(grey):アイス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年6月1日〜30日まで|
+|BGCOLOR(grey):ジェットパイロット|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年2月1日〜28日まで|
+|BGCOLOR(grey):芸者|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年1月1日〜31日まで|
+|BGCOLOR(grey):アルパカ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年12月1日〜31日まで|
+|BGCOLOR(grey):絵描き|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年10月1日〜31日まで|
+|BGCOLOR(grey):テニス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年9月1日〜30日まで|
+
+
+***からだ [#body]
+|LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
+|きせかえ名|必要なメダル数|追加日|備考|h
+|さくらもち|---|''COLOR(red){レッドVer.}以前''|2014年4月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に2回プレイ''|
+|かせき|---|~|2014年8月2日〜15日にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に60回プレイ''|
+|サンタクロース|---|~|2016年12月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に77回プレイ''|
+|金棒|---|~|2014年2月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に88回プレイ''|
+|かぶきはかま|---|~|2016年1月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に89回プレイ''|
+|自転車|---|~|2015年10月にごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に97回プレイ''|
+|BGCOLOR(silver):もりのなかま|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(silver):てんぐ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ロケット|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ボウリング|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):かじきまぐろ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):やたい|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ジッパー|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):カメラ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):セーラーふく|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):学ラン|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):メイドふく|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):あおハッピ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):あかハッピ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):サッカーボール|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):黒太鼓|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):豪華な太鼓|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ゴールドン|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ちきゅう|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):テツオライド|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):たこやき|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ちびどん|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):黒の覚醒|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):白の覚醒|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):お祭りおうぎ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):おすもうさん|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ほうせき|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):こじか|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ウェディングドレス|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):はたけしごと|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ケモノのころも|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):チャンピオン|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):カメ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):おちごさん|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):マント|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ハロウィンボディ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):スケーターボディ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):はらじゅくドレス|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):わたがし|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):兵士長|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ミツバチ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):神器ボディ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):チャリオット|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ハート|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):わくせい|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):巫女のはかま|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):火消し|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ショベルカーボディ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):かりうど|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):もりもりやさい|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):赤ずきんボディ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):シンデレラ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):うちゅうふく|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):アイスドーム|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ドドドド|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):皇帝|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):クレープやたい|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):女子高校生に大人気|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(grey):せんごくぶしょう|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2016年11月1日〜30日まで|
+|BGCOLOR(grey):ねこのしっぽ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年9月1日〜30日まで|
+|BGCOLOR(grey):ジャングル|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年5月1日〜31日まで|
+|BGCOLOR(grey):そんごくう|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年4月1日〜30日まで|
+|BGCOLOR(grey):ブロック|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年2月1日〜28日まで|
+|BGCOLOR(grey):お医者さん|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年11月1日〜30日まで|
+|BGCOLOR(grey):かぐや姫|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年9月1日〜30日まで|
+|BGCOLOR(grey):ティラノサウルス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年5月1日〜31日まで|
+|BGCOLOR(grey):クマのぬいぐるみ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年4月1日〜30日まで|
+|BGCOLOR(grey):黒ゴス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年11月1日〜30日まで|
+|BGCOLOR(grey):たこ|BGCOLOR(grey):3000ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年8月16日〜29日まで|
+|BGCOLOR(grey):夏休み|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年8月1日〜31日まで|
+
+
+
+***メイク [#meiku]
+|LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
+|きせかえ名|必要なメダル数|追加日|備考|h
+|BGCOLOR(silver):イケイケサングラス|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(silver):男気まゆげ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):三本ひげ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):もえる目|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ぐるぐるほっぺ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):眼帯|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ヘビメタ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):りきし|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):パンダ顔|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):まつげ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):真実の目|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ハート|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):アニ目|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):うさぎ顔|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ガーン・・・|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ハートのほっぺ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):目かくし|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):つぎはぎ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):キラ目|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):ふくめん|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(silver):キバ|BGCOLOR(silver):500かつメダル|~|~|
+|BGCOLOR(grey):芸者|BGCOLOR(grey):2000ポイント|BGCOLOR(grey):''COLOR(red){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2015年1月1日〜31日まで|
+
+**楽曲 [#song]
+|LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
+|楽曲名|必要なメダル数|追加日|備考|h
+|[[クラシックメドレー(ロック編)>難易度表/おに/クラシックメドレー(ロック編)]]|150どんメダル|2020年3月24日|COLOR(red){''ニ''}COLOR(orange){''ジ''}COLOR(gold){''イ''}COLOR(green){''ロ''}COLOR(blue){''Ver.''}COLOR(#ff1493){''春''}のごほうびショップの品|
+|[[カッティアワールの宝剣>難易度表/おに/カッティアワールの宝剣]]|100どんメダル|~|~|
+|[[ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|120どんメダル|~|~|
+|[[via lactea>難易度表/おに/via lactea]]|100どんメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):うさぎのしっぽ>難易度表/おに/うさぎのしっぽ]]|BGCOLOR(grey):800かつメダル|BGCOLOR(grey):''COLOR(green){グリーンVer.}以前''|BGCOLOR(grey):''COLOR(blue){かつメダル}''廃止と同時に一般解禁|
+|BGCOLOR(grey):[[COLOR(blue):黒神クロニクル>難易度表/おに/黒神クロニクル]]|BGCOLOR(grey):800かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):星屑とリニアと僕>難易度表/おに/星屑とリニアと僕]]|BGCOLOR(grey):800かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):恋はみずいろ>難易度表/おに/恋はみずいろ]]|BGCOLOR(grey):800かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):フューチャー・ラボ>難易度表/おに/フューチャー・ラボ]]|BGCOLOR(grey):800かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):バーニングフォースメドレー>難易度表/おに/バーニングフォースメドレー]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):白猫きゃらめる夢幻のわたあめ>難易度表/おに/白猫きゃらめる夢幻のわたあめ]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):サーフサイド・サティ>難易度表/おに/サーフサイド・サティ]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ヘ調の協奏曲　第3楽章>難易度表/おに/ヘ調の協奏曲　第3楽章]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):トッカータとフーガとロック>難易度表/おに/トッカータとフーガとロック]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):駄々っ子モンスター>難易度表/おに/駄々っ子モンスター]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):夢色コースター>難易度表/おに/夢色コースター]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):トータル・エクリプス　2035>難易度表/おに/トータル・エクリプス　2035]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):久遠の夜>難易度表/おに/久遠の夜]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):メタルホーク　BGM1>難易度表/おに/メタルホーク　BGM1]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):PaPaPa Love>難易度表/おに/PaPaPa Love]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ナックルヘッズ>難易度表/おに/ナックルヘッズ 鷹舞狼吼]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):URBAN FRAGMENTS>難易度表/おに/URBAN FRAGMENTS]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):きみのあかり>難易度表/おに/きみのあかり]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):STAGE 0.ac11>難易度表/おに/STAGE 0.ac11]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):未来への鍵>難易度表/おに/未来への鍵]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):願いはエスペラント>難易度表/おに/願いはエスペラント]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):さよならワーリャ>難易度表/おに/さよならワーリャ]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ラーメン de Yo-Men!!>難易度表/おに/ラーメン de Yo-Men!!]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):忘却のティルナノグ>難易度表/おに/忘却のティルナノグ]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):三瀬川乱舞>難易度表/おに/三瀬川乱舞]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):月下美人>難易度表/おに/月下美人]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Comona>難易度表/おに/Comona]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):こ・き・く・くる・くる・くれ・こ！>難易度表/おに/こ・き・く・くる・くる・くれ・こ！]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):もしもし神様>難易度表/おに/もしもし神様]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):和有るど経りて維持・序>難易度表/おに/和有るど経りて維持・序]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):音虫をつかまえろ！>難易度表/おに/音虫をつかまえろ！]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):タベテモタベテモ>難易度表/おに/タベテモタベテモ]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):竜と黒炎の姫君>難易度表/おに/竜と黒炎の姫君]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):激運！七福ハッピークルー>難易度表/おに/激運！七福ハッピークルー]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):χ談>難易度表/おに/χ談]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Asteroid>難易度表/おに/Asteroid]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):FooFooカセット>難易度表/おに/FooFooカセット]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):HARDCOREノ心得>難易度表/おに/HARDCOREノ心得]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):R.I.>難易度表/おに/R.I.]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):OK I’m blue rat>難易度表/おに/OK I’m blue rat]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):彼は誰時の誘惑>難易度表/おに/彼は誰時の誘惑]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):よーいドン！>難易度表/おに/よーいドン！]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):秘ナルメジェドノ悲ナル憂鬱>難易度表/おに/秘ナルメジェドノ悲ナル憂鬱]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):愛と浄罪の森>難易度表/おに/愛と浄罪の森]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):マジカル・パフェ>難易度表/おに/マジカル・パフェ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):行かないでイカロス>難易度表/おに/行かないでイカロス]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Behemoth>難易度表/おに/Behemoth]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):カラフル>難易度表/おに/カラフル]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):λ7708>難易度表/おに/λ7708]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):トラストゲーム>難易度表/おに/トラストゲーム]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):あの日出会えたキセキ>難易度表/おに/あの日出会えたキセキ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Heat Haze Shadow 2>難易度表/おに/Heat Haze Shadow 2]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):デッド・オア・ダイ>難易度表/おに/デッド・オア・ダイ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):コネクトカラーズ>難易度表/おに/コネクトカラーズ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):気焔万丈神楽>難易度表/おに/気焔万丈神楽]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):EkiBEN2000>難易度表/おに/EkiBEN2000]]|BGCOLOR(grey):2000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|BGCOLOR(grey):2000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):X-DAY2000>難易度表/おに/X-DAY2000]]|BGCOLOR(grey):2000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]]|BGCOLOR(grey):2500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):マオウのショウタイム>難易度表/おに/マオウのショウタイム]]|BGCOLOR(grey):3000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|BGCOLOR(grey):3000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Surf Zapping>難易度表/おに/Surf Zapping]]|BGCOLOR(grey):3000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):幽玄ノ乱>難易度表/おに/幽玄ノ乱]]|BGCOLOR(grey):5000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):8OROCHI>難易度表/おに/8OROCHI]]|BGCOLOR(grey):5000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):≠MM>難易度表/おに/≠MM]]|BGCOLOR(grey):10000かつメダル|~|~|
+
+
+**音色 [#neiro]
+|LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
+|音色名|必要なメダル数|追加日|備考|h
+|手拍子|---|''COLOR(green){グリーンVer.}以前''|COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に4回プレイ''|
+|コンガ|---|~|COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に21回プレイ''|
+|８ビット太鼓|---|~|COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に32回プレイ''|
+|和田どん|---|~|COLOR(green){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(red){キャ}COLOR(orange){ンペ}COLOR(gold){ーン}COLOR(green){期間}COLOR(blue){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~終了日未定))に42回プレイ''|
+|BGCOLOR(silver):ソイヤ|BGCOLOR(silver):1000かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(silver):メカドン|BGCOLOR(silver):1000かつメダル|~|~|
+|BGCOLOR(grey):ふなっしー|BGCOLOR(grey):1000かつメダル|BGCOLOR(grey):''COLOR(yellow){イエローVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2014年8月6日〜2017年6月27日まで|
+
+**ぷちキャラ [#neiro]
+|LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
+|ぷちキャラ名|必要なメダル数|追加日|備考|h
+|BGCOLOR(silver):太虎|BGCOLOR(silver):2500かつメダル|BGCOLOR(silver):''COLOR(green){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
+|BGCOLOR(silver):龍神|BGCOLOR(silver):2500かつメダル|~|~|
+|BGCOLOR(silver):ヨガドン|BGCOLOR(silver):5000かつメダル|~|~|
+|BGCOLOR(silver):アラシ|BGCOLOR(silver):5000かつメダル|~|~|
+|BGCOLOR(silver):フウガ|BGCOLOR(silver):5000かつメダル|~|~|
+|BGCOLOR(silver):ミライ|BGCOLOR(silver):5000かつメダル|~|~|
+
+
+**コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(red){''曲やきせかえなどの要望はここではなく%%%[[COLOR(red){''公式Twitter''}>http://twitter.com/taiko_team]]%%%にてお願いします。''}
+#pcomment(,noname)

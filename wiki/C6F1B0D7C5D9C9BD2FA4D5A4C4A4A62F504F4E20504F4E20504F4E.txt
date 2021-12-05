@@ -1,0 +1,34 @@
+*PON PON PON [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り： 
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.2.0|CENTER:''3DS1''|CENTER:★×4|CENTER:''171''|CENTER:''543870点''|CENTER:＋連打|CENTER:900点|CENTER:320点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){5190点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''531880点''|~|CENTER:830点|CENTER:240点|
+-BPMは128。
+-連打秒数目安・・・約1.133秒×4−''約0.430秒''：合計約4.961秒
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-大音符が多く、19個ある（全体の約11.1%）。
+-速度は少し遅めだが、全体的に8分がかなり多い。
+--8分は単色の3連打しかないが、連続して出てくる箇所もある。
+--ただし、4分の複合は3連打が2回しか出て来ない。
+-4分と8分が何度も出てくる49〜52小節に注意。
+
+***その他 [#other]
+-アーティストは、''きゃりーぱみゅぱみゅ''。
+--''本人音源''である。
+--同アーティストの収録曲では最もBPMが遅い。
+--作詞・作曲・編曲は、中田ヤスタカ。
+-曲IDは、''ponpon''
+
+-[[かんたん>難易度表/かんたん/PON PON PON]]
+-[[むずかしい>難易度表/むずかしい/PON PON PON]]
+-[[おに>難易度表/おに/PON PON PON]]
+//-[[プレイ動画(直撮り)>http://www.youtube.com/watch?v=wgo0-iRQtnk]]
+-[[オート動画>http://www.nicovideo.jp/watch/sm33922588?from=124]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+~&attachref(ポン３_普通.png,nolink);

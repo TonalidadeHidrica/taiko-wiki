@@ -1,0 +1,44 @@
+*宝の丘 [#title]
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''3DS1SP''&br;Wii U2SP&br;PS Vita1DL|★×7|''463''|''1000550点''|＋連打|630点|163点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''999690点''}|~|COLOR(#ff3300){1970点}|-|
+-BPMは約206。
+--ただし譜面自体は8分までしかない。低速地帯が見た目BPM約103になる。
+-縁の方が多く、''約56.58%''(262/463)。
+-太鼓の達人では珍しい[[3拍子の曲>特徴的な譜面#meter3]]である。
+-最後の譜面は、8分音符のみであり、見た目こそ★×7としては少し厄介なものの16分が存在しないため極端に単純である。
+-特に、119小節から126小節までは、やや長い見た目16分の複合などがあるが、叩く早さは遅いため分業も十分可能である。
+--区切り方の一例は以下の通り：
+---一本目は、COLOR(blue){●●●●}COLOR(red){●●}/COLOR(blue){●●●●}COLOR(red){●●}/。
+---二本目は、COLOR(blue){●●●}COLOR(red){●●}/COLOR(blue){●●●}COLOR(red){●●●}/COLOR(red){●●}COLOR(blue){●●●●}/COLOR(red){●●}COLOR(blue){●●●●}/。二つ目の区切りからは頭を叩くのが逆手になる。逆手から入るのもいいだろう。
+---三本目は、COLOR(blue){●●}COLOR(red){●}/COLOR(blue){●●}COLOR(red){●}/COLOR(blue){●●}COLOR(red){●}/COLOR(blue){●}/。もしくはCOLOR(blue){●●}COLOR(red){●}COLOR(blue){●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●●}/COLOR(red){●}COLOR(blue){●}/と見るといい。
+--121、125小節は''半拍遅れて始まり''(笛の音に合わせている)、小節の頭に音符がない。場合によっては逆手入り推奨。
+--7〜9小節も意外に厄介。面は入り手で叩くことを意識すると良いだろう。
+-1曲を通しての平均密度は、''約3.95打/秒''であり、かなり低い。
+
+***その他 [#other]
+-アーティストは、''矢吹高音''。
+--作詞は、[[''祇羽''>参加アーティスト一覧/祇羽]]。作・編曲は、''[[佐々木宏人>参加アーティスト一覧/佐々木宏人]]''。
+-ちなみに矢吹は3DS2に登場するキャラクター、ナジムの声も演じている。
+-太鼓の達人 オリジナルサウンドトラック「りんごあめ」に、この曲のロングバージョンが収録されている。
+----
+-[[かんたん>難易度表/かんたん/宝の丘]]
+-[[ふつう>難易度表/ふつう/宝の丘]]
+-[[むずかしい>難易度表/むずかしい/宝の丘]]
+-[[オート動画>http://www.youtube.com/watch?v=yNjMWonpz0k]]
+
+***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#3333ff){''各曲の難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(takara_m.png,nolink);
+
+~見た目
+~&attachref(takaram.png,nolink);
+
+~半速
+~&attachref(た〜おか_f.png,nolink);

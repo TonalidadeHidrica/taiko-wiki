@@ -1,0 +1,30 @@
+*Here I Am [#title]
+***詳細・攻略 [#more] 
+-アニメ「''ブラック・ジャック''」のOP2。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''CS6''|CENTER:★×3|CENTER:''127''|CENTER:''482910点''|CENTER:＋連打|CENTER:940点|CENTER:320点|
+|CENTER:AC8||~|CENTER:''115''|CENTER:''?????0点''|~|CENTER:1100点|CENTER:400点|
+-BPMは約131〜136。
+-黄色連打が多い連打曲である。
+-4分が主体の譜面で、ゴーゴーからは8分も出てくる。
+--8分は単色の2連打しかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は3連打しかない。
+-アーティストは、''globe''。
+--作詞は、小室哲哉・MARC。作曲は、小室哲哉。
+-[[かんたん>難易度表/かんたん/Here I Am]]
+-[[むずかしい>難易度表/むずかしい/Here I Am]]
+-[[おに>難易度表/おに/Here I Am]]
+-[[プレイ動画(AC8)>http://www.youtube.com/watch?v=60ody6D2uOY]]
+-[[オート動画(CS6)>https://www.youtube.com/watch?v=2RLWnMO8oHM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+風船の長さは適当
+~CS6
+~&attachref(bjふつう.png,nolink);
+
+~AC8
+~&attachref(bjふつう２.png,nolink);

@@ -1,0 +1,27 @@
+*Taiko Session SIZE(16){〜Live Version〜}(裏譜面) [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS4 1DL''|★×9|''408''|''1100180点''|＋連打|830点|233点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1000640点''}|~|COLOR(#ff3300){2360点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは140。
+-12分、16分、24分が複雑に入り混じって癖の強いリズムを形成している。
+-ノーツ数は408と、★×9としてはかなり少ないので油断禁物。
+
+***その他 [#other]
+-楽曲情報は[[表譜面>難易度表/おに/Taiko Session〜Live Version〜]]を参照。
+-初出のCS2((2003年3月27日発売))から裏譜面の追加((2020年3月26日配信))までの期間が''約17年''であり、[[太鼓侍>難易度表/おに/太鼓侍(裏譜面)]]の約16年4ヶ月を超え最長となった。
+----
+-[[かんたん>難易度表/かんたん/Taiko Session〜Live Version〜]]
+-[[ふつう>難易度表/ふつう/Taiko Session〜Live Version〜]]
+-[[むずかしい>難易度表/むずかしい/Taiko Session〜Live Version〜]]
+-[[おに>難易度表/おに/Taiko Session〜Live Version〜]]/裏譜面
+-[[オート動画>https://www.youtube.com/watch?v=iECal8o8Vcc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(taikosessionex.png,nolink);

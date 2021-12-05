@@ -1,0 +1,32 @@
+*ボレロ [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''&br;AC11亜|CENTER:iOS&br;AR|CENTER:★×4|CENTER:''294''|CENTER:''674330点''|CENTER:+連打|CENTER:650点|CENTER:160点|
+||CENTER:DS2|~|~|CENTER:''574620点''|~|CENTER:600点|CENTER:130点|
+||CENTER:Wii U3|~|~|CENTER:''?????0点''|~|CENTER:700点|CENTER:200点|
+-BPMは約65〜82。
+--ただし、[[おに>難易度表/おに/ボレロ]]以外はHS2がかかっており、見た目BPMは約130。
+-黄色連打が多い連打曲である。
+-見かけ上のBPMは130と少し遅めだが、全体的に見た目12分 (実際は24分) がかなり多い。
+--12分はほとんどが単色の4連打だが、連続して出てくる箇所もある。
+--ただし、8分の複合は数がそんなに多くない。
+-見た目BPM164地帯で1回だけ出てくる12分の単色6連打に注意。
+-以上のことからフルコン難易度は高く、''下手な★×5よりも難しいので注意''。
+
+***その他 [#other]
+-作曲は、''ラヴェル''。
+-曲IDは、''clsblr''
+
+-[[かんたん>難易度表/かんたん/ボレロ]]
+-[[ふつう>難易度表/ふつう/ボレロ]]
+-[[おに>難易度表/おに/ボレロ]]
+-[[プレイ動画(AC11,キャプチャ)>http://www.youtube.com/watch?v=rWQFiBwJCDc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(bolero~~~~.png,nolink);
+~見かけの速度。ラストはBPM164
+&ref(bolero_hard_2.png,nolink);

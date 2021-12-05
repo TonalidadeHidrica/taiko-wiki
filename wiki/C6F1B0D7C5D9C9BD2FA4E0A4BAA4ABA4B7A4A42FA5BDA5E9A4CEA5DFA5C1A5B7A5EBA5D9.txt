@@ -1,0 +1,35 @@
+*ソラのミチシルベ [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:コース|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15 グラブル生放送Ver.''&br;AC15.7.8|CENTER:|CENTER:むずかしい|CENTER:★×5|CENTER:''248''|CENTER:''735540点''|CENTER:＋連打|CENTER:860点|CENTER:243点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3530点}|CENTER:-|
+||CENTER:オイラ|CENTER:HARD|~|CENTER:''186''|CENTER:''?????0点''|~|CENTER:840点|CENTER:210点|
+-BPMは160。
+--連打秒数目安・・・''0.906秒''×2−SIZE(16){約2.219秒}−''0.906秒''−''2.219秒''：合計 約7.156秒
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
+--また、8分の複合は種類がそれなりに多い。
+-序盤で1回だけ出てくる8分の複合8連打に注意。
+
+***その他 [#other]
+-歌唱は、''フェリ''(CV:''米澤円'')。
+--作詞は、maimie(Cygames)。作曲は、NARITA TSUTOMU・MAEZAWA HIDENORI(picnic)。
+-[[キミとボクのミライ>難易度表/むずかしい/キミとボクのミライ]]と同様、2015年12月25日にニコニコ生放送で放送された[[「''ぐらぶるちゃんねるっ！生放送 よろず屋シェロ 〜ルリアさんには見せられない大人のクリスマス〜編''」>限定公式譜面一覧#grbl]]での限定曲だったが、ホワイトVer.にて一般収録された。
+-エイプリルフールに登場したアプリ[[「''オイラ''」>限定公式譜面一覧#vee]]では譜面が大幅に変更されている。
+
+-[[かんたん>難易度表/かんたん/ソラのミチシルベ]]
+-[[ふつう>難易度表/ふつう/ソラのミチシルベ]]
+-[[おに>難易度表/おに/ソラのミチシルベ]]
+-[[プレイ動画>https://youtu.be/iz-9HEkP7is]]
+-[[プレイ動画(オイラ)>https://www.youtube.com/watch?v=IKVZY14h3ho]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船、くすだまの長さは暫定
+&attachref(gbfsora_h.png,nolink);
+
+~オイラVer
+&attachref(grblsm_h(oira).png,nolink,);

@@ -1,0 +1,48 @@
+*TRAIN-TRAIN [#title]
+***詳細・攻略 [#more]
+-TBS系ドラマ「''はいすくーる落書''」主題歌。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''AC4''-6||CENTER:★×4|CENTER:''237''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点||
+||CENTER:CS2|~|~|CENTER:''?????0点''|~|CENTER:630点|CENTER:160点||
+|CENTER:AC7||~|~|CENTER:''?????0点''|~|CENTER:400点|CENTER:100点|CENTER:''ゴーゴーバグあり''|
+||CENTER:PSP1|CENTER:★×2|~|CENTER:''288260点''|~|CENTER:300点|~||
+|CENTER:AC8-9||CENTER:★×4|~|CENTER:''346010点''|~|CENTER:600点|CENTER:90点||
+|CENTER:AC10-14|CENTER:Wii1&br;PSPDXDL&br;iOS|~|~|CENTER:''348130点''|~|CENTER:450点|CENTER:110点||
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''358150点''}|~|CENTER:COLOR(#ff3300){1450点}|CENTER:-||
+|CENTER:AC15.1.0|CENTER:NS1|~|~|CENTER:''355720点''|~|CENTER:450点|CENTER:120点||
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4030点}|CENTER:-||
+-BPMは約166〜195。
+-黄色連打が多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-23小節までは縁、24小節以降は面のみで構成されている。
+-25〜64小節と65〜104小節は''全く同じ譜面である''。
+-全体的に4分がかなり多いが、8分が1回も出て来ないので★×4にしては簡単な方。
+--また、4分の複合は2連打（○●）が1回しか出て来ない。
+--にもかかわらず、AC15でも残留した。クリアだけなら逆詐称だろう。
+-中盤と終盤で1回ずつ出てくる4分の単色12連打に注意。
+
+***その他 [#other]
+-アーティストは、''THE BLUE HEARTS''。
+--作詞・作曲は、真島昌利。編曲は、THE BLUE HEARTS。
+-譜面作成は、''キジキジ''。
+-曲IDは、''train''
+-PSPDXでは、2015年9月30日をもって新規DLができなくなった。
+//--iOSでも、2015年11月13日をもって新規DLができなくなった。
+//---なお、2017年3月に新規DLが可能となった。
+-新筐体の各バージョンでは、以下の日時を以てサヨナラとなった。 
+--2013年10月22日(火)7:00、''無印・KATSU-DON Ver.''
+--2015年7月1日(水)7:00、''ソライロ・モモイロ・キミドリVer.''
+--2017年3月15日(水)7:00、''ムラサキ・ホワイト・レッドVer.（日本版）''
+--2017年4月5日(水)7:00、''レッドVer.（アジア版）''
+
+-[[ふつう>難易度表/ふつう/TRAIN-TRAIN]]
+-[[むずかしい>難易度表/むずかしい/TRAIN-TRAIN]]
+-[[おに>難易度表/おに/TRAIN-TRAIN]]
+-[[オート動画(Wii1, キャプチャ)>https://www.youtube.com/watch?v=DkGZhvgMQrU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(TRAIN-TRAIN.png,nolink);

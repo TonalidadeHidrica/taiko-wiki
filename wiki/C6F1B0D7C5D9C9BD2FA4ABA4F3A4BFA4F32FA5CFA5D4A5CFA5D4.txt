@@ -1,0 +1,29 @@
+*ハピハピ [#r892d8f2]
+***詳細・攻略 [#eacdddba]
+-アニメ''「クレヨンしんちゃん」''のOP11。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+||CENTER:''DS3''|CENTER:★×4|CENTER:''91''|CENTER:''341590点''|CENTER:＋連打|CENTER:990点|CENTER:420点|
+|CENTER:AC14||~|~|CENTER:''341950点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''353250点''}|~|CENTER:COLOR(#ff3300){3050点}|CENTER:-|
+|CENTER:AC15.1.0〜15.5.4||CENTER:★×3|~|CENTER:''330830点''|~|CENTER:930点|CENTER:680点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){8700点}|CENTER:-|
+-BPMは194。
+--ただし、HS0.8がかかっており、見かけ上のBPMは155.2。
+-大音符が多く、22個ある（全体の約24.2%）。
+-[[ふつう>難易度表/ふつう/ハピハピ]]とは14コンボしか離れていない。
+-4分が少し多く5連打も2回出てくるが、全て単色しかない。
+-アーティストは、''ベッキー♪#''。
+--作詞はベッキー♪♯、作曲はSplash Candy、編曲は本田優一郎。
+-曲IDは、''haphap''。
+----
+-[[ふつう>難易度表/ふつう/ハピハピ]]
+-[[むずかしい>難易度表/むずかしい/ハピハピ]]
+-[[おに>難易度表/おに/ハピハピ]]
+-[[プレイ動画>https://www.youtube.com/watch?v=JScpqkB7TPY]]
+
+***コメント [#x6e5b72a]
+#pcomment(,noname)
+
+***譜面 [#vf075696]
+&attachref(haphap.png,nolink);

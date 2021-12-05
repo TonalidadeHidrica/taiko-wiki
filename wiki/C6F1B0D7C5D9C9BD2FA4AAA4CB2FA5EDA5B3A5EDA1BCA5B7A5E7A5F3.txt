@@ -1,0 +1,27 @@
+*ロコローション [#title]
+***詳細・攻略 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''AC7''|CENTER:★×7|CENTER:COLOR(#909):''561&br;COLOR(#069):479&br;COLOR(#666):380''|CENTER:''1043200点''|CENTER:-|CENTER:-|CENTER:''ゴーゴーバグあり''|
+|CENTER:AC8|~|~|CENTER:''1003290点''|CENTER:610点|CENTER:110点||
+-BPMは140。
+-''完全精度曲''のひとつ。
+-達人譜面が当時の★×7としては難しく、旧基準★×8中位相当と思われる。玄人は達人に比べて大分難易度が下がるが、分岐が甘いため普通に叩いて玄人を維持する方が難しい。
+--ちなみに、玄人の分岐もかなり甘めで全可でも普通譜面維持は不可能。
+-達人譜面の平均密度は、''約4.85打/秒''。
+
+-アーティストは、[[''ORANGE RANGE''>アーティスト別収録曲#orange]]。
+--作詞・作曲はORANGE RANGEに加えて、[[''ロコモーション''>難易度表/おに/The Loco-Motion]]の作詞・作曲者でもある''Gerry Goffin・Carole King''。
+---日本語の曲なのに作詞者に外国人がいるのは、いろいろな事情でロコローションが[[ロコモーション>難易度表/おに/The Loco-Motion]]のカバー曲という扱いになったため。
+-曲IDは、''or2''。
+----
+-[[かんたん>難易度表/かんたん/ロコローション]]
+-[[ふつう>難易度表/ふつう/ロコローション]]
+-[[むずかしい>難易度表/むずかしい/ロコローション]]
+-プレイ動画
+--[[COLOR(#666):普通譜面>https://www.youtube.com/watch?v=0ybCqHF-mPY]]/[[COLOR(#069):玄人譜面>https://www.youtube.com/watch?v=Vbq7KYkpYYw]]/[[COLOR(#909):達人譜面>https://www.youtube.com/watch?v=gcYlScpJHZQ]]
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+47の分岐小節線が見えない、小節の途中から分岐にみえる。
+&attachref(or2.png,nolink);

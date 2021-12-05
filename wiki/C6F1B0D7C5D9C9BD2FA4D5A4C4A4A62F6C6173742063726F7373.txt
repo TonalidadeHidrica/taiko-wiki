@@ -1,0 +1,20 @@
+*last cross [#b6f83974]
+
+***詳細・攻略 [#ae8051f3]
+-「家庭教師ヒットマンREBORN!」のOP5。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12亜''|★×5|''116''|''587410点''|＋連打|1410点|480点|
+-読み方は、''ラストクロス''。
+-アーティストは''光岡昌美''。
+
+-[[かんたん>難易度表/かんたん/last cross]]
+-[[むずかしい>難易度表/むずかしい/last cross]]
+-[[おに>難易度表/おに/last cross]]
+-[[プレイ動画>http://www.youtube.com/watch?v=5SgDMztKL6k]]
+
+***コメント [#t240c429]
+#pcomment(,noname)
+
+***譜面 [#h95be1ee]
+&ref(last_cross-n.png,nolink);

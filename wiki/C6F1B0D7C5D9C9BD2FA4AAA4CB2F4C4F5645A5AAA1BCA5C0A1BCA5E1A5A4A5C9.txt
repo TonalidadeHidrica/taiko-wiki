@@ -1,0 +1,31 @@
+*LOVEオーダーメイド [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(blue){PS Vita MS SP}''|★×6|''452''|''938130点''|+連打|590点|165点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''993300点''}|~|COLOR(#ff3300){2150点}|-|
+-BPMは137。
+-連打秒数目安・・・約1.277秒−''約1.058秒−約1.496秒''−約1.277秒−約1.496秒−''約1.496秒'':合計約8.102秒
+-平均密度は、''約3.88打/秒''。
+
+-16分は殆ど3連打で、複合はCOLOR(blue){○○}COLOR(red){●}が多い。
+-58小節目のCOLOR(blue){○○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}、2回出現するCOLOR(blue){○}COLOR(red){●}に注意。
+
+***その他 [#other]
+-この曲は''秋月律子(CV:若林直美)''の持ち歌である。
+-作詞は''三浦誠司''。作曲・編曲は''Akiko Noda''。
+-譜面作成は、[[''くぼけん''>譜面作成者一覧/くぼけん]]。
+-曲IDは、''imsodm''
+
+----
+-[[かんたん>難易度表/かんたん/LOVEオーダーメイド]]
+-[[ふつう>難易度表/ふつう/LOVEオーダーメイド]]
+-[[むずかしい>難易度表/むずかしい/LOVEオーダーメイド]]
+-[[オート動画>http://www.youtube.com/watch?v=InEKB2BvAkM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(order.png,nolink);

@@ -1,0 +1,35 @@
+*Dream Tide SIZE(16){−夢の潮流−} [#Title]
+***詳細・攻略 [#More]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+||CENTER:''Wii3''|CENTER:★×5|CENTER:''164''|CENTER:''579350点''|CENTER:＋連打|CENTER:1050点|CENTER:290点|CENTER:''ゴーゴーバグあり''|
+|CENTER:AC15.3.3||~|~|CENTER:''588880点''|~|CENTER:1070点|CENTER:408点||
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''989100点''}|~|CENTER:COLOR(#ff3300){5750点}|CENTER:-||
+-BPMは141。
+-黄色連打が多い連打曲である。
+-4分の複合が主体の譜面で、8分も数がかなり多い。
+--8分は単色の3連打しかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は4連打までしかない。
+-フルコン難易度は妥当〜少し弱めだが、8分が単色しかないのでクリアは簡単な方である。
+--にもかかわらず、AC15でも残留した。クリアだけなら逆詐称だろう。
+
+***その他 [#other]
+-AC新筐体で、2013年7月ドンチャレの先行解禁曲として初収録された。
+--なお、同月みんチャレのお題曲にも指定されている(みんなで7650回クリア)。
+-曲名の読み方は、''ドリーム タイド −ゆめのちょうりゅう−''。
+-作詞：''在藤銀''(luv-kraft)
+-作曲：''みらゐ''(luv-kraft)
+-ミックス：''bermei.inazawa''([[studioCampanella>http://www.studio-campanella.com/]])
+--bermei.inazawaは''某韓国製音ゲー''や''某DJシミュレーションゲーム''にも楽曲を提供していたことがある。
+-歌：[[友情ぽっぷ>難易度表/ふつう/友情ぽっぷ]]、[[Mulberry>難易度表/ふつう/Mulberry]]、[[駄々っ子モンスター>難易度表/ふつう/駄々っ子モンスター]]、[[リバイバー>難易度表/ふつう/リバイバー]]と同じ''茶太''([[茶太屋>http://chata.moo.jp/]])
+-曲IDは、''dreamt''
+-[[かんたん>難易度表/かんたん/Dream Tide]]
+-[[むずかしい>難易度表/むずかしい/Dream Tide]]
+-[[おに>難易度表/おに/Dream Tide]]
+-[[プレイ動画>https://www.youtube.com/watch?v=wsl-L_rdbYc]]
+
+***コメント [#Comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+&attachref(神曲じゃん.png,nolink);

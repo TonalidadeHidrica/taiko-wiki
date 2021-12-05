@@ -1,0 +1,26 @@
+*last cross [#title]
+-[[「''家庭教師ヒットマンREBORN!''」>アニメ別収録曲#reborn]]のOP5。
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12亜''|★×7|''311''|''991080点''|+連打|920点|230点|
+
+***譜面構成・攻略 [#capture]
+-BPMは146。
+-連打秒数目安・・・約0.788秒−''約1.61秒''：合計約2.398秒
+-平均密度は''約3.87打/秒''。
+
+***その他 [#other]
+-読み方は、''ラストクロス''。
+-アーティストは''光岡昌美''。
+-曲IDは、''lastcr''。
+----
+-[[かんたん>難易度表/かんたん/last cross]]
+-[[ふつう>難易度表/ふつう/last cross]]
+-[[むずかしい>難易度表/むずかしい/last cross]]
+-[[プレイ動画(キャプチャ)>http://www.nicozon.net/watch/sm8445209]](nicozon)
+-[[プレイ動画(直撮り)>https://www.youtube.com/watch?v=0v0MKeoOVIQ]]
+***コメント [#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(last_cross_ballonbarfix.png,nolink);

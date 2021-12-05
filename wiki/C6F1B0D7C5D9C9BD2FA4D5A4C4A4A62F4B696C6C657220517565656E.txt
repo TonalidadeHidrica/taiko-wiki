@@ -1,0 +1,29 @@
+*Killer Queen [#y55768e3]
+***詳細･攻略 [#n4a605ed]
+- 【1人用譜面】
+- 詳細は以下の通り:
+|CENTER:バージョン((太字は初出))|CENTER:難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×3|CENTER:''161''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1140点|CENTER:340点|
+-BPMは109。
+----
+-【2人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×3|CENTER:1P|CENTER:''136''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1360点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''130''|CENTER:''?????0点''|~|~|~|
+----
+-アーティストは、''Queen''。
+-[[かんたん>難易度表/かんたん/Killer Queen]]
+-[[むずかしい>難易度表/むずかしい/Killer Queen]]
+-[[おに>難易度表/おに/Killer Queen]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=6J3B0Q7v0Ws]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=xJoIDE3I_jc]]
+
+***コメント [#o33beb13]
+#pcomment(,noname)
+
+***譜面 [#d93670cc]
+~一人用譜面
+&attachref(モビリオふつう.png,nolink);
+~二人用譜面
+&attachref(モビリオふつう２.png,nolink);

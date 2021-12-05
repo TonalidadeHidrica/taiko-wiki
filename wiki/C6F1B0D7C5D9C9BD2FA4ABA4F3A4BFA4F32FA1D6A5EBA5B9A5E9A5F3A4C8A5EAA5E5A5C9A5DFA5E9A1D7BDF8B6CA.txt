@@ -1,0 +1,30 @@
+*「ルスランとリュドミラ」序曲 [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+||CENTER:''PSP2''|CENTER:★×3|CENTER:''154''|CENTER:''317930点''|CENTER:＋連打|CENTER:700点|CENTER:170点|
+|CENTER:AC14|CENTER:iOS|~|~|CENTER:''317780点''|~|CENTER:650点|~|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''331490点''}|~|CENTER:COLOR(#ff3300){1930点}|CENTER:-|
+|CENTER:AC15.1.0|CENTER:Wii U2|~|~|CENTER:''330950点''|~|CENTER:670点|CENTER:240点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){5980点}|CENTER:-|
+-BPMは約160〜180。
+--Wii U2ではゴーゴータイムにHSがかかっており、見かけ上のBPMは全て約160となっている。
+-黄色連打が多い連打曲である。
+-速度は至って普通だが、全体的に4分がかなり多い。
+--4分は全て単色しかないが、連続して出てくる箇所もある。
+-序盤で2回出てくる4分の5連打に注意。
+-作曲者は、''ミハイル・グリンカ''。
+-略称は、''ルスラン、ルリ序''。
+-曲IDは、''clsrou''
+--理由は''Rou''slanからとられたと思われる。
+
+-[[ふつう>難易度表/ふつう/「ルスランとリュドミラ」序曲]]
+-[[むずかしい>難易度表/むずかしい/「ルスランとリュドミラ」序曲]]
+-[[おに>難易度表/おに/「ルスランとリュドミラ」序曲]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=118w5X5VEec]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(ルスラン_E.png,nolink);

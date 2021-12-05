@@ -1,0 +1,36 @@
+*Grip & Break down !! -達人Edit.- [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.4.4''|CENTER:NS1|CENTER:★×6|CENTER:''405''|CENTER:''784540点''|CENTER:＋連打|CENTER:540点|CENTER:140点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''984450点''}|~|CENTER:COLOR(#ff3300){2150点}|CENTER:-|
+||CENTER:iOS&br;AR|~|~|CENTER:''??????点''|~|CENTER:470点|CENTER:120点|
+-BPMは160。
+-黄色連打が多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符が多く、50個ある（全体の約12.3%）。
+--特に34〜35小節はリズムが取りづらくなってるので、特良逃しには注意したい。
+-8分の複合が主体の譜面で、16分も数が多い。
+--16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
+--また、8分の複合は種類がそれなりに多い。
+-ゴーゴーは音符が密集しているが、1つのパターンの繰り返しがほとんどを占めている。
+-8分と16分が何度も出てくる57〜61小節に注意。
+
+***その他 [#other]
+-原曲は、「東方紅魔郷 〜 the Embodiment of Scarlet Devil.」のEXボス、フランドール・スカーレットのテーマである「''U.N.オーエンは彼女なのか？''」。
+-「達人Edit.」とあるように、他の音楽ゲームに収録されている同曲とは異なった編集がされている。
+-アレンジ(編曲)は、''SHU×GUCCI''(SOUND HOLIC)。作詞は、Blue E。
+--歌唱は、''Nana Takahashi''(高橋菜々)。
+-曲IDは、''thgrip''
+-[[キミドリVer.段位道場>過去の段位道場#kimidori]]、[[ブルーVer.段位道場>過去の段位道場#blue]]の三級2曲目課題曲となった。
+
+-[[かんたん>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]
+-[[ふつう>難易度表/ふつう/Grip ＆ Break down !! -達人Edit.-]]
+-[[おに>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]/[[裏譜面>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=XRxUz2GI0AI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(Grip and Break down!!_hx.png,nolink);

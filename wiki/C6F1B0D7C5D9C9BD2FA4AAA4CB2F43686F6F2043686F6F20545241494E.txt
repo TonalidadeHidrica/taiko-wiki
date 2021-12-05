@@ -1,0 +1,32 @@
+*Choo Choo TRAIN [#title]
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+|AC7|''CS5''&br;PSP1|★×7|''545''|''970400点''|＋連打|-|-|''ゴーゴーバグあり''|
+||DS3|★×4|''294''|''842660点''|~|780点|170点||
+||iOS|~|~|''845540点''|~|~|~||
+-BPMは115。
+-DS3に再録されるにあたり演奏時間が短くなり、譜面も大幅に易化されたものに差し替えられた。
+-旧譜面ではCOLOR(red){●●}COLOR(blue){●}COLOR(red){●●}などの5連打が多い。
+-両譜面とも、第1ゴーゴー直前に出て来る大音符の6分音符に注意。
+***その他 [#other]
+-アーティストは、[[''EXILE''>アーティスト別収録曲#exile]]。
+-AC7では''ChooChooTRAIN''(空白が無い)、PSP1のゲーム内の一部とDS3の公式ページの収録曲リストではChoo Choo T''rain''と、それぞれ曲名が誤植されている。
+-iOSでは、2018年3月26日をもって新規DLができなくなった。
+-曲IDは、''choo''(旧譜面)、''choo2''(新譜面)。
+----
+-[[かんたん>難易度表/かんたん/Choo Choo TRAIN]]
+-[[ふつう>難易度表/ふつう/Choo Choo TRAIN]]
+-[[むずかしい>難易度表/むずかしい/Choo Choo TRAIN]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=B4K0gp2hHjM]]
+-[[プレイ動画(旧譜面)>https://www.youtube.com/watch?v=Y2jA_wwcRVI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~新譜面
+&attachref(ccrnew_2.png,nolink);
+
+~旧譜面
+&attachref(ccrold_2.png,nolink);

@@ -1,0 +1,31 @@
+*I Wish For You [#title]
+***詳細・攻略 [#more]
+-「''2010世界バレー''」テーマソング。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSPDX''&br;Wii4&br;iOS|CENTER:★×3|CENTER:''145''|CENTER:''479980点''|CENTER:＋連打|CENTER:980点|CENTER:270点|
+|CENTER:AC15.1.0〜15.5.4||CENTER:★×2|~|CENTER:''442570点''|~|CENTER:890点|CENTER:343点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){6140点}|CENTER:-|
+-BPMは119。
+-連打秒数目安・・・''約1.471秒''−約1.975秒×2：合計約5.420秒
+-4分が主体の譜面で、8分も数が多い。
+--8分は単色の3連打までしかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は3連打（●●○）しかない。
+
+***その他 [#other]
+-曲名の読み方は、''アイ ウィッシュ フォー ユー''。
+-アーティストは、''EXILE''。
+--作詞は、michico。作曲は、T. Kura・michico。編曲は、T. Kura。
+-曲IDは、''iwish''
+-2014年11月5日(水)7:00を以てサヨナラ曲となった。
+--新筐体以前のACには収録されていないため、現在はこの曲が収録されている家庭用作品でしか遊べない。
+-[[かんたん>難易度表/かんたん/I Wish For You]]
+-[[むずかしい>難易度表/むずかしい/I Wish For You]]
+-[[おに>難易度表/おに/I Wish For You]]
+-[[オート動画>https://www.youtube.com/watch?v=BcX5TMqEiRc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(i.png,nolink);

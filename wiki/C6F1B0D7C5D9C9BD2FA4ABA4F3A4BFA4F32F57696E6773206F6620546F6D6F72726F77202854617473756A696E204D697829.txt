@@ -1,0 +1,33 @@
+*Wings of Tomorrow (Tatsujin Mix) [#title]
+***詳細・攻略 [#more]
+-ゲーム「[[''GOD EATER 2''>http://www.godeater.jp/index.html]]」よりマルドゥーク戦のBGMを太鼓の達人向けに再編集した曲。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.4.0''|Wii U2&br;3DS3DL|★×4|''213''|''331280点''|＋連打|470点|110点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''977300点''}|~|COLOR(#ff3300){4140点}|-|
+||iOS|~|~|''314790点''|~|420点|90点|
+-BPMは160。
+-黄色連打がかなり多い連打曲である。
+-4分の複合が主体の譜面で、たまに8分も出てくる。
+--8分は3連打までしかないが、そのほとんどが4分と隣接している。
+--また、4分の複合は種類がそれなりに多い。
+-序盤に3回出てくる8分の複合2連打（●○）に注意。
+-以上の事からフルコン難易度は高く、''下手な★×5よりも難しいので注意''。
+
+***その他 [#other]
+-作曲は、[[No Wa>難易度表/かんたん/No Way Back]][[y Back>難易度表/かんたん/No Way Back(裏譜面)]]、[[無慈悲な王>難易度表/かんたん/無慈悲な王]]と同じ''椎名豪''。
+--歌唱は、''マッケンジー・グリーン''。
+-余談だが、初出してからしばらく、道中で計2回聞こえる「すんませーん」という空耳が話題になった。
+--実際は「To my dreams」と言っている。
+
+-[[ふつう>難易度表/ふつう/Wings of Tomorrow (Tatsujin Mix)]]
+-[[むずかしい>難易度表/むずかしい/Wings of Tomorrow (Tatsujin Mix)]]
+-[[おに>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=oBK4If7tTPs]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+~&attachref(godea2_e.png,nolink);

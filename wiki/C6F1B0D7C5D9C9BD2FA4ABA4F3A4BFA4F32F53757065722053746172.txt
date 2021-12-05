@@ -1,0 +1,19 @@
+*Super Star [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11亜''&br;AC12亜|★×3|''61''|''326720点''|＋連打|1640点|1050点|
+-BPMは92。
+-速度が遅く4分も単色の3連打までしかないが、数がかなり多い。
+- アーティストは、''S.H.E''。
+
+-[[ふつう>難易度表/ふつう/Super Star]]
+-[[むずかしい>難易度表/むずかしい/Super Star]]
+-[[おに>難易度表/おに/Super Star]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&ref(super_star-e.png,nolink);

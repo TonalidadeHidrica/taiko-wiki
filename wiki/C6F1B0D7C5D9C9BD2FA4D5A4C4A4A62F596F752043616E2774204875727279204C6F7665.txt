@@ -1,0 +1,28 @@
+*You Can't Hurry Love [#r1053334]
+***詳細・攻略 [#jd09f5e3]
+-【1人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''TDM''|CENTER:★×4|CENTER:''237''|CENTER:''?????0点''|CENTER:＋連打|CENTER:780点|CENTER:200点|
+-BPMは192-194。
+----
+-【2人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''TDM''|CENTER:★×4|CENTER:''250''|CENTER:''?????0点''|CENTER:＋連打|CENTER:710点|CENTER:???点|
+----
+-アーティストは''ダイアナ・ロス(Diana Ross)''。
+-曲IDは''hurry''。
+-[[かんたん>難易度表/かんたん/You Can't Hurry Love]]
+-[[むずかしい>難易度表/むずかしい/You Can't Hurry Love]]
+-[[おに>難易度表/おに/You Can't Hurry Love]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=lGa30ZQY3pY]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=KfY0oMJruB8]]
+
+***コメント [#x55414cd]
+#pcomment(,noname)
+***譜面 [#s838c9c5]
+~1人用譜面
+&attachref(焦りふつう１.png,nolink);
+~2人用譜面
+&attachref(焦りふつう２.png,nolink);

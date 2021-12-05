@@ -1,0 +1,31 @@
+*Love so sweet [#title]
+***詳細・攻略 [#more]
+-TBS系ドラマ「''花より男子2（リターンズ）''」の主題歌。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC10''、12~12増&br;AC11亜||CENTER:★×5|CENTER:''276''|CENTER:''?????0点''|CENTER:+連打|CENTER:780点|CENTER:180点|
+|CENTER:AC11||CENTER:★×4|~|CENTER:''?????0点''|~|CENTER:700点|CENTER:170点|
+||CENTER:DS2|~|~|CENTER:''451920点''|~|CENTER:560点|CENTER:140点|
+-BPMは139。
+-黄色連打は3本と少なめだが、1本あたりの長さは長い。
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は3連打が3回しか出て来ないが、その全てが8分と隣接している。
+--また、8分の複合は数も種類もかなり多い。
+-ゴーゴーで1回だけ出てくる16分の複合3連打（COLOR(red){●●}COLOR(blue){○}）に注意。
+
+***その他 [#other]
+-曲名の読み方は、''ラヴ ソー スウィート''。
+-アーティストは、''嵐''。
+--作詞は、SPIN。作曲は、youth case。編曲は、Mugen。
+-曲IDは、''loveso''
+
+-[[かんたん>難易度表/かんたん/Love so sweet]]
+-[[ふつう>難易度表/ふつう/Love so sweet]]
+-[[おに>難易度表/おに/Love so sweet]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=PAzYBZopEuc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(lovesosweet.png,nolink);

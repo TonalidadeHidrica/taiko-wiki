@@ -1,0 +1,30 @@
+*ヤッターマンの歌(ET-KING) [#title]
+***詳細・攻略 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''〜14||CENTER:★×6|CENTER:''239''|CENTER:''795290点''|CENTER:+連打|CENTER:950点|CENTER:230点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''793690点''}|~|CENTER:COLOR(#ff3300){2930点}|CENTER:-|
+||CENTER:Wii1|~|CENTER:''246''|CENTER:''793610点''|~|CENTER:960点|CENTER:220点|
+-BPMは140。
+-16分音符が多いが、単色しかない。
+
+***その他 [#other]
+-アニスぺには、[[原曲>難易度表/むずかしい/ヤッターマンの歌]]が収録されている。こちらも239コンボ。
+-アーティストは、AC10に収録された[[愛しい人へ>難易度表/むずかしい/愛しい人へ]]と同じく、''ET-KING''。
+-曲IDは、''yatta2''。
+----
+-[[かんたん>難易度表/かんたん/ヤッターマンの歌(ET-KING)]]
+-[[ふつう>難易度表/ふつう/ヤッターマンの歌(ET-KING)]]
+-[[おに>難易度表/おに/ヤッターマンの歌(ET-KING)]]
+-[[オート動画(Wii1,キャプチャ)>https://www.youtube.com/watch?v=5Mhy2TiwU0o]]
+-[[プレイ動画(AC14,キャプチャ)>https://www.youtube.com/watch?v=ks-bv8jY3pM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~Wii1譜面、37小節の大音符は巨大音符です&br;
+良→達人譜面 可→玄人譜面 不可→普通譜面
+&attachref(yatta2_h.png,nolink);
+
+~AC譜面
+&attachref(yatta2_h2.png,nolink);

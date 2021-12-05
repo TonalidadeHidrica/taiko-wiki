@@ -1,0 +1,59 @@
+*BMS楽曲一覧 [#title]
+
+#contents
+
+**「BMS」とは [#howto]
+-[[Wikipedia>https://ja.wikipedia.org/wiki/BMS_(%E9%9F%B3%E6%A5%BD%E3%82%B2%E3%83%BC%E3%83%A0)]] / [[ニコニコ大百科>https://dic.nicovideo.jp/a/bms]]
+-1998年にやねうらお氏とNBK氏によって開発されたファイルフォーマット。「''B''e-''M''usic ''S''ource file」の略とされる。
+--このファイルフォーマットを利用して制作されたオリジナル楽曲・アレンジ楽曲などを総称して「''BMS楽曲''」と呼称する。
+--もともとbeatmaniaのシミュレーションソフト「BM98」用の譜面データを扱うファイルフォーマットとして開発されたため、「BMS」という名称は正確にはゲーム名ではないが、現在では同様のシミュレーターや譜面データ、もしくはそのゲームシステム全体を総称して「BMS」と呼ばれることが多く、他の音楽ゲームシミュレータと同様の扱いを受けることも多々ある。
+-過去には個人サイト経営ブームの影響もあり、BMSの公開は個人サイトやBMS楽曲を扱うサイトなどで行われることも多かったが、現在はBMS楽曲を集めるイベントで公開されることが主流となっている。
+---特に「BMS OF FIGHTERS(''BOF'')」シリーズはBMSイベントの中でも最大規模で、''商業音楽ゲームに収録されているBMS初出楽曲の半数以上はこのイベントが初公開''である。「BMS」という単語は知らなくとも、曲は聞いたことがある、という人も多いだろう。
+-BMSはエミュレータではなく、beatmaniaシリーズのデータを複製しているわけでもないが、模倣品であることに変わりはなくグレーゾーンに値すると言える。
+--beatmaniaシリーズ版権元のKONAMIからの公式見解は特に行われていないものの、BMSの取り締まりを始めるとどうなるかわからないという状況は現在も続いており、著作権の問題が大きい楽曲、特に本家BEMANIシリーズの楽曲をBMSに持ち込むことは御法度とされている。
+--これらの事情もあり、BMS初出楽曲が商業音楽ゲームに収録されるときは、ジャンルは「ゲームミュージック」ではなく「''バラエティ楽曲''」に分類されることが多い。
+--ただし、最近ではBEMANIシリーズにBMS楽曲の作曲家が招聘されたり、BMS楽曲そのものがゲームに収録されるなど、状況は変わりつつある。
+---これらの事情が絡まないmaimai・CHUNITHM・オンゲキを運営するセガは、BMS楽曲を積極的にゲームに収録している。
+--BMS楽曲の中にはBEMANIシリーズと無関係な作品のBGMをアレンジしたもの(言ってしまえば二次創作)も存在するが、こちらの商業音楽ゲームへの収録は東方projectアレンジを除き皆無である。
+---東方projectアレンジについては同アレンジの専用ジャンルが設けられている機種ではそちらに分類されている。正式な専用ジャンル化が行われていない太鼓ではこちらについても「バラエティ」の分類となっている。
+
+#br
+-太鼓の達人においては、2016年9月14日に新筐体に[[conflict>難易度表/おに/conflict]]が収録。この曲がBMS初出楽曲の収録第一号となる。
+--2019年には、2月28日にPS4 1の追加コンテンツとして[[FREEDOM DiVE↓>難易度表/おに/FREEDOM DiVE↓]]が配信されたことを機に、次々とBMS初出楽曲が収録され始めている。
+--なおこれ以前にも、過去の楽曲公募においてBMS楽曲の作曲者が公募に参加するなど、太鼓の達人とBMSとの接点は少なからずあったことを付記しておく。
+
+***[[Cranky>参加アーティスト一覧/Cranky]] (1曲) [#cranky]
+|CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''conflict''&br;SIZE(11){siromaru + cranky}|160|[[★×4>難易度表/かんたん/conflict]]|[[★×5>難易度表/ふつう/conflict]]|[[★×7>難易度表/むずかしい/conflict]]|[[★×9>難易度表/おに/conflict]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=74]]|
+
+***[[xi>参加アーティスト一覧/xi]] (2曲) [#xi]
+|CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''FREEDOM DiVE↓''&br;SIZE(11){xi}|222.22|[[★×4>難易度表/かんたん/FREEDOM DiVE↓]]|[[★×6>難易度表/ふつう/FREEDOM DiVE↓]]|[[★×7>難易度表/むずかしい/FREEDOM DiVE↓]]|[[★×10>難易度表/おに/FREEDOM DiVE↓]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50]]|
+|''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]|
+
+***削除 (1曲) [#sakuzyo]
+|CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''Altale''&br;SIZE(11){削除}|83-180|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|[[★×10>難易度表/おに/Altale(裏譜面)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=96]]|
+
+***siromaru (1曲) [#siromaru]
+|CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''conflict''&br;SIZE(11){siromaru + cranky}|160|[[★×4>難易度表/かんたん/conflict]]|[[★×5>難易度表/ふつう/conflict]]|[[★×7>難易度表/むずかしい/conflict]]|[[★×9>難易度表/おに/conflict]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=74]]|
+
+***nora2r (2曲) [#nora2r]
+|CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''B.B.K.K.B.K.K.''&br;SIZE(11){nora2r}|170|[[★×4>難易度表/かんたん/B.B.K.K.B.K.K.]]|[[★×6>難易度表/ふつう/B.B.K.K.B.K.K.]]|[[★×7>難易度表/むずかしい/B.B.K.K.B.K.K.]]|[[★×9>難易度表/おに/B.B.K.K.B.K.K.]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88]]|
+|''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]|
+
+***LeaF (2曲) [#leaf]
+|CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
+|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''もぺもぺ''&br;SIZE(11){LeaF}|8.33?-200|[[★×4>難易度表/かんたん/もぺもぺ]]|[[★×5>難易度表/ふつう/もぺもぺ]]|[[★×7>難易度表/むずかしい/もぺもぺ]]|[[★×10>難易度表/おに/もぺもぺ]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116]]|
+|''Calamity Fortune''&br;SIZE(11){LeaF}|200|[[★×4>難易度表/かんたん/Calamity Fortune]]|[[★×6>難易度表/ふつう/Calamity Fortune]]|[[★×7>難易度表/むずかしい/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune(裏譜面)]]|[[BMS>http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45]]|
+
+***コメント [#comment]
+#pcomment(,noname)

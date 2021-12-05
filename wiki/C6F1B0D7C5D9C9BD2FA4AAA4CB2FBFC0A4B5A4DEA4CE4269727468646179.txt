@@ -1,0 +1,37 @@
+*神さまのBirthday[#title]
+-ゲーム「''THE IDOLM@STER Live For You!''」の楽曲。
+***詳細・攻略[#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC12SP&br;12増、12亜|''Wii1''|★×7|''506''|''983200点''|＋連打|520点|130点|
+||COLOR(red){PS Vita MS}|~|~|''994630点''|~|570点|150点|
+||COLOR(red){真打}|~|~|''COLOR(red){995600点}''|~|COLOR(red){1900点}|-|
+
+-BPMは148。
+-連打秒数目安・・・約1.588秒−''約3.209秒''：合計約4.797秒
+-平均密度は、''約4.67打/秒''。
+
+-基本的に単調な譜面であるが、CSだとゴーゴーの大音符処理が厄介。
+-16分の5連打はゴーゴーまでは単色しかないが、ゴーゴーからはCOLOR(red){●●}COLOR(blue){●●}COLOR(red){●}が多く出てくる。
+
+***その他 [#other]
+-歌唱は、''IM@S ALLSTARS''。
+-略称は、''神バ''。
+-作曲は、''Yoshi''。作詞は、''伊那村さちこ''。
+-初出はTHE IDOLM@STER MASTER WORKS 00にて収録されたCD専用の曲だったが、ゲーム「THE IDOLM@STER LIVE FOR YOU !」にてDLCで収録された。
+-亜洲版では''上帝的Birthday''と表記されている。
+-MS赤盤では765PRO ALLSTARS歌唱バージョンの他に、''春香・千早・美希 ''歌唱バージョンも収録されている。
+-曲IDは、''kamism''、''imskam''(COLOR(red){PS Vita MS})。
+
+----
+-[[かんたん>難易度表/かんたん/神さまのBirthday]]
+-[[ふつう>難易度表/ふつう/神さまのBirthday]]
+-[[むずかしい>難易度表/むずかしい/神さまのBirthday]]
+-[[オート動画>https://www.youtube.com/watch?v=vnxMEae9RNA]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面[#score]
+~COLOR(blue){PS Vita MS}は72小節目までしかありません。
+~&attachref(kamism.png,nolink);

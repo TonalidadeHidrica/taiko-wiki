@@ -1,0 +1,15 @@
+*結婚行進曲 [#m62ec286]
+***詳細・攻略 [#p6e0584d]
+- 詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''CS2''|★×3|''147''|''??????点''|＋連打|1250点|390点|
+-アーティストは、''椎名豪''。アカペラ調のアレンジがなされている。
+-[[むずかしい・おに>難易度表/おに/結婚行進曲]]
+-[[オート動画>https://www.youtube.com/watch?v=5T4NOEj_Kf0]]
+
+***コメント [#l9630d5e]
+#pcomment(,noname)
+
+***譜面 [#r21c776d]
+&attachref(kekkon_n.png,nolink);

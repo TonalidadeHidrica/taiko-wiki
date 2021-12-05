@@ -1,0 +1,15 @@
+*お題de巨大 5 [#title]
+-[[毎日チャレンジ道場(Wii3)>難易度表/その他/毎日チャレンジ道場(Wii3)]]のお題。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|コンボ数|h
+|''Wii3''|★×5|''36''|
+-BPMは150。
+-[[プレイ動画>https://www.youtube.com/watch?v=3iBuUKAabVQ&t=472]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(巨題5.png,nolink);

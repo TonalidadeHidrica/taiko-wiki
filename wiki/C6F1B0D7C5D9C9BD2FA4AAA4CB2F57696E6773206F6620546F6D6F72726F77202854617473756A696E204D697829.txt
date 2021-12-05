@@ -1,0 +1,42 @@
+*Wings of Tomorrow (Tatsujin Mix) [#title]
+-ゲーム「[[''GOD EATER 2''>http://www.godeater.jp/index.html]]」よりマルドゥーク戦のBGMを太鼓の達人向けに再編集した曲。
+
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.4.0''|Wii U2&br;3DS3DL|★×9|''765''|''1096620点''|+連打|410点|100点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''997500点''}|~|COLOR(#ff3300){1250点}|-|
+||iOS|~|~|''1091860点''|~|380点|90点|
+
+***譜面構成・攻略 [#capture]
+-BPMは約160。
+-連打秒数目安・・・SIZE(16){約3.173秒}
+-平均密度は、''約5.54打/秒''。
+
+-同じくゴッドイーターの曲である[[No Way Back(裏譜面)>難易度表/おに/No Way Back(裏譜面)]]に譜面傾向は近い。クリアするだけならば★×9としては簡単なほうであるが、フルコンボとなるとかなり難しめ。中盤にある発狂を叩けるとフルコンボは近いと言える。
+-49〜50小節にある発狂は、最初の縁を逆手から入り、以下の様に区切ると叩きやすいであろう。
+--COLOR(blue){●●●●●●●●●}/COLOR(blue){●●}COLOR(red){●●}COLOR(blue){●●}COLOR(red){●●}/COLOR(red){●●●}COLOR(blue){●●●}/COLOR(red){●●●}COLOR(blue){●●●}/COLOR(blue){●●}COLOR(red){●●}COLOR(blue){●●}COLOR(red){●●●}(16、24分音符の区別が付かない場合は譜面画像を参照)。
+--発狂を叩き終えた後もやや厄介な複合がいくつかあるので注意。
+--また、59〜65小節にある縁の12、8分音符地帯で精度を落とさないよう心がけたい。
+--ゴーゴータイムの一部に[[No Way Back(表譜面)>難易度表/おに/No Way Back]]と共通する音符配置がある。
+-''終盤の長い連打の後に面大音符がいくつか流れてくる''。長い連打が終わっても気を抜かないように。
+
+***その他 [#other]
+-歌唱は''マッケンジー・グリーン''。
+-アーティストは[[No Wa>難易度表/おに/No Way Back]][[y Back>難易度表/おに/No Way Back(裏譜面)]]、[[無慈悲な王>難易度表/おに/無慈悲な王]]と同じ''[[椎名豪>参加アーティスト一覧/椎名豪]]''。
+-余談だが、初出してからしばらく、道中で計2回聞こえる「すんませーん」という空耳が話題になった。
+--実際は「To my dreams」と言っている。
+-[[キミドリVer.段位道場>過去の段位道場#kimidori]]の五段3曲目課題曲、[[レッドVer.段位道場 外伝>過去の段位道場#red-gaiden]]の「太鼓チームからの挑戦！�ぁ廚�1曲目課題曲となった。
+----
+-[[かんたん>難易度表/かんたん/Wings of Tomorrow (Tatsujin Mix)]]
+-[[ふつう>難易度表/ふつう/Wings of Tomorrow (Tatsujin Mix)]]
+-[[むずかしい>難易度表/むずかしい/Wings of Tomorrow (Tatsujin Mix)]]
+-[[オート動画(Wii U2)>https://www.youtube.com/watch?v=HlpDf-7YzuM]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(godea2.png,nolink);

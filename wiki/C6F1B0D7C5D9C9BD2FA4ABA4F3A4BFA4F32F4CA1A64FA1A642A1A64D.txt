@@ -1,0 +1,46 @@
+*L・O・B・M [#Title]
+***詳細・攻略 [#More]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii3''&br;iOS|CENTER:★×4|CENTER:''142''|CENTER:''325580点''|CENTER:＋連打|CENTER:630点|CENTER:140点|
+|CENTER:COLOR(red):PS Vita MS|CENTER:★×3|CENTER:''150''|CENTER:''313310点''|~|CENTER:570点|CENTER:168点|
+|CENTER:COLOR(#f30):真打|~|~|CENTER:COLOR(#f30):''977380点''|~|CENTER:COLOR(#f30):5310点|CENTER:-|
+-BPMは170。
+
+***新譜面 [#new]
+***旧譜面 [#old]
+-黄色連打がかなり多い連打曲である。
+-[[ふつう>難易度表/ふつう/L・O・B・M]]とは難易度であまり差がなく、コンボ数も''7コンボしか''離れていない。
+--また、[[ふつう>難易度表/ふつう/L・O・B・M]]コースの譜面と音符の配置が違うのは20、32、55、74小節のみである。
+-大音符が多く、22個ある（全体の約15.5%）。
+-全体的に4分がかなり多いが、8分が1回も出て来ないので★×4にしてはかなり簡単な方。
+--また、4分は単色の4連打までしかない。
+-全良狙いの人はゴーゴーで2回出てくる裏拍配置の大音符に注意。
+
+***その他 [#other]
+-アイドルマスターSPでの最後の配信曲で、CDのMASTER SPECIALシリーズの共通曲である。
+-L・O・B・Mとは、''Love Organized Boost Musicの略''らしい。訳すと''愛が団結した応援曲''になる。
+-因みにLOBMだとLow Orbiting Battle Missile（低軌道戦闘用ミサイル）の略｡ラブミサイル?
+-作曲は、[[バベルの塔>難易度表/かんたん/バベルの塔]]や[[SORA-IV ブンパソング>難易度表/かんたん/SORA-IV ブンパソング]]と同じ''高田龍一''。
+-作詞は、''mft''｡
+-譜面作成は、''くぼけん''。
+-アイマス2のカタログ5号からも配信された。若干ソロとユニットだと振り付けが変わる。
+-余談だが、アニスペに収録されている''[[L・O・V・E>難易度表/かんたん/L・O・V・E]]''とは関係ない。
+-ちなみにサビの歌詞の頭文字はあいうかきく・・・わをんとなっている。
+--GAME VERSIONでは、あいう→かきく→たちつ→まみむ で発射して終わる。
+
+-[[ふつう>難易度表/ふつう/L・O・B・M]]
+-[[むずかしい>難易度表/むずかしい/L・O・B・M]]
+-[[おに>難易度表/おに/L・O・B・M]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=-tYUib3gFjU]]
+-[[オート動画(旧譜面)>http://www.youtube.com/watch?v=NXiQi9O7ZLA]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~新譜面
+&attachref(LOBMn_e.png,nolink);
+
+~旧譜面
+&attachref(Love Organized Boost Music.png,nolink);

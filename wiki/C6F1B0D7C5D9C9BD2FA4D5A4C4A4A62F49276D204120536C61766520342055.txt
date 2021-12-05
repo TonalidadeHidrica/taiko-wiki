@@ -1,0 +1,32 @@
+* I'm A Slave 4 U [#qf81af00]
+*** 詳細・攻略 [#k6a6d174]
+-【1人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''TDM''|CENTER:''POP''|CENTER:★×2|CENTER:''154''|CENTER:''?????0点''|CENTER:＋連打|CENTER:900点|CENTER:350点||
+|CENTER:PSP1|CENTER:''バラエティ''|~|~|CENTER:''?????0点''|~|CENTER:820点|CENTER:280点|CENTER:''ゴーゴーバグあり''|
+-BPMは110。
+----
+-【2人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''TDM''|CENTER:★×2|CENTER:1P|CENTER:''123''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1380点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''120''|CENTER:''?????0点''|~|~|~|
+----
+-アーティストは[[Toxic>難易度表/ふつう/Toxic]]と同じく''Britney Spears（ブリトニー・スピアーズ）''。
+-曲名の読み方は''アイム・ア・スレイヴ・フォー・ユー''。
+-プロモーションビデオの過激なダンスが日本でも話題となった。
+-[[かんたん>難易度表/かんたん/I'm A Slave 4 U]]
+-[[むずかしい>難易度表/むずかしい/I'm A Slave 4 U]]
+-[[おに>難易度表/おに/I'm A Slave 4 U]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=iZvqk_Qc6l4]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=mnux9J0V_Ng]]
+
+*** コメント [#d22e6c67]
+#pcomment(,noname)
+
+*** 譜面 [#dc43b590]
+~一人用譜面
+&attachref(i4un.png,nolink);
+~二人用譜面
+&attachref(i4undp.png,nolink);

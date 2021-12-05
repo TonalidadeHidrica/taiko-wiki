@@ -1,0 +1,27 @@
+*Hello, Morning [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.4''|★×4|''173''|''?????0点''|＋連打|910点|345点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){5590点}|-|
+|AC16.1.0|~|~|''997050点''|~|5750点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは160。
+
+***その他 [#other]
+-アーティストは、''[[Kizuna AI>アーティスト別収録曲#kizunaai]]''。
+--作曲・編曲は、Nor。作詞は、Kizuna AI。
+-''本人音源''である。
+----
+-[[かんたん>難易度表/かんたん/Hello, Morning]]
+-[[むずかしい>難易度表/むずかしい/Hello, Morning]]
+-[[おに>難易度表/おに/Hello, Morning]]/[[裏譜面>難易度表/おに/Hello, Morning(裏譜面)]]
+-[[プレイ動画>https://www.youtube.com/watch?v=K5QaCN09pqU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+くすだまの長さは暫定
+~&attachref(こんにちは朝ふつう.png,nolink);

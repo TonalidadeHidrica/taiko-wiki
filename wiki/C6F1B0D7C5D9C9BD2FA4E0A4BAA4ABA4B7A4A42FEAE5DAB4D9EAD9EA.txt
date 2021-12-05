@@ -1,0 +1,16 @@
+*裙擺搖搖 [#pa0546d2]
+***詳細・攻略 [#f0e510e0]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11亜''|CENTER:★×5|CENTER:''250''|CENTER:''741840点''|CENTER:＋連打|CENTER:870点|CENTER:230点|
+- BPMは127.7。
+- アーティストは''アンジェリカ・リー''（''李心潔''）。
+- 16分音符が無いのでやや逆詐称気味。
+
+-[[かんたん>難易度表/かんたん/裙擺搖搖]]
+-[[ふつう>難易度表/ふつう/裙擺搖搖]]
+-[[おに>難易度表/おに/裙擺搖搖]]
+
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(skirt-h.png,nolink);

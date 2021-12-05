@@ -1,0 +1,34 @@
+*BLAZING [#title]
+-アニメ「''ガンダム Gのレコンギスタ''」のOP1。
+***詳細・攻略 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''PS Vita1''|CENTER:★×6|CENTER:''213''|CENTER:''630630点''|CENTER:＋連打|CENTER:850点|CENTER:270点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''983280点''}|~|CENTER:COLOR(#ff3300){4080点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
+-BPMは151〜190。
+-黄色連打がかなり多い連打曲である。
+-全体的に付点配置や裏拍配置が多く、リズムが取りづらい。
+-大音符が多く、28個ある（全体の約13.1%）。
+-4分が主体の譜面で、8分も数がかなり多い。
+--8分は2連打が主体で、たまに3連打も出てくる。
+--また8分は単色が多いが、複合も計4回出てくる。
+-ゴーゴーで1回だけ出てくる8分の複合4連打（●●○○）に注意。
+--また、黄色連打と8分の大音符が隣接しているラストにも注意したいところ。
+
+***その他 [#other]
+-歌唱・編曲は、[[''GARNiDELiA''>アーティスト別収録曲#garnidelia]]。
+--作詞は、メイリア。作曲は、toku。
+-曲IDは、''gdmrec''。
+-同じくPS Vita1に収録された[[BLAZING VORTEX>難易度表/おに/BLAZING VORTEX]]との混同に注意。
+----
+-[[かんたん>難易度表/かんたん/BLAZING]]
+-[[むずかしい>難易度表/むずかしい/BLAZING]]
+-[[おに>難易度表/おに/BLAZING]]
+-[[オート動画(1:55〜)>http://www.youtube.com/watch?v=JGSKl5fbU30&t=115]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(blazn.png,nolink);

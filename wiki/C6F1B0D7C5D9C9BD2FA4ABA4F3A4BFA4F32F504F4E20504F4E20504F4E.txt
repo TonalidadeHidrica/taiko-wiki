@@ -1,0 +1,33 @@
+*PON PON PON [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り： 
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.2.0|CENTER:''3DS1''|CENTER:★×3|CENTER:''122''|CENTER:''332660点''|CENTER:＋連打|CENTER:800点|CENTER:370点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''993360点''}|~|CENTER:COLOR(#ff3300){7420点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''320970点''|~|CENTER:780点|CENTER:240点|
+-BPMは128。
+-黄色連打が多い連打曲である。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-速度は少し遅めだが、全体的に4分がかなり多い。
+--4分はほとんどが3連打だが、7連続で出てくる箇所もある。
+--ただし、2分の複合は1回も出て来ない。
+-ラストで1回だけ出てくる4分の複合4連打に注意。
+
+***その他 [#other]
+-アーティストは、''きゃりーぱみゅぱみゅ''。
+--''本人音源''である。
+--同アーティストの収録曲では最もBPMが遅い。
+--作詞・作曲・編曲は、中田ヤスタカ。
+-曲IDは、''ponpon''
+
+-[[ふつう>難易度表/ふつう/PON PON PON]]
+-[[むずかしい>難易度表/むずかしい/PON PON PON]]
+-[[おに>難易度表/おに/PON PON PON]]
+//-[[プレイ動画(直撮り)>http://www.youtube.com/watch?v=VgpWc5QfijI]]
+-[[オート動画>http://www.nicovideo.jp/watch/sm33922588]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+~&attachref(ポンポン出してしまっちゃうよ〜.png,nolink);

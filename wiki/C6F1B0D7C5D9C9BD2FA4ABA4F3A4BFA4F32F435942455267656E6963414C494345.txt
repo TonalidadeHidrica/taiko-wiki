@@ -1,0 +1,24 @@
+*CYBERgenicALICE [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.10.6''|★×4|''110''|''?????0点''|＋連打|890点|368点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){???0点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは185。
+***その他 [#other]
+-作編曲は[[''Drop''>参加アーティスト一覧/Drop]]。作詞・歌唱は[[''葉月ゆら''>参加アーティスト一覧/葉月ゆら]]。
+----
+-[[ふつう>難易度表/ふつう/CYBERgenicALICE]]
+-[[むずかしい>難易度表/むずかしい/CYBERgenicALICE]]
+-[[おに>難易度表/おに/CYBERgenicALICE]]
+-[[プレイ動画>https://www.youtube.com/watch?v=k5MYIFBiVDw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定
+&ref(cgae.png,nolink);

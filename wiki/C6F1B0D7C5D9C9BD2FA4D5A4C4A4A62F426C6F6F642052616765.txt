@@ -1,0 +1,27 @@
+*Blood Rage [#title]
+***詳細・攻略 [#more]
+-PS4/PS Vita用ソフト「''GOD EATER 2 RAGE BURST''」よりブラッドレイジ発動時のBGM。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''PS Vita1''|CENTER:★×5|CENTER:''229''|CENTER:''585700点''|CENTER:＋連打|CENTER:680点|CENTER:175点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''989940点''}|~|CENTER:COLOR(#ff3300){3560点}|CENTER:-|
+-BPMは162。
+-黄色連打がかなり多い連打曲である。
+-大音符が多く、30個ある（全体の約13.1%）。
+-速度は至って普通だが、全体的に8分がかなり多い。
+--8分は4連打までしかないが、3連続で出てくる箇所もある。
+--また、4分の複合は全体的に長めのが多い。
+-中盤で2回出てくる8分の複合2連打（●○）に注意。
+-作曲は、''椎名豪''。
+
+-[[かんたん>難易度表/かんたん/Blood Rage]]
+-[[むずかしい>難易度表/むずかしい/Blood Rage]]
+-[[おに>難易度表/おに/Blood Rage]]
+-[[オート動画(2:44〜)>http://www.youtube.com/watch?v=TAHxlZrOY7g&t=164]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船、くすだまの長さは暫定
+&ref(ge2br_n.png,nolink);

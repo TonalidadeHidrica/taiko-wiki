@@ -1,0 +1,34 @@
+*Amanda [#title]
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|AC15.4.2|''3DS1''&br;Wii U3|★×8|''523''|''1054260点''|620点|165点|
+|COLOR(#f30):真打||~|~|COLOR(#f30):''1001700点''|COLOR(#f30):1890点|-|
+||iOS&br;AR|~|~|''1051920点''|600点|140点|
+|AC16.1.0||~|~|''1004160点''|1920点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは123。
+-''完全精度曲''のひとつ。
+-縁の方が多く、''約54.30%''(284/523)。
+-偶数連打が多い。ゴーゴータイムは[[想いを手に願いを込めて>難易度表/おに/想いを手に願いを込めて]]の第二ゴーゴーを遅くしたような譜面が続く。
+-29〜32小節の24分音符地帯が難所であろう。
+--偶数打であるため、最後の縁は入り手とは逆の手で叩くように。
+-平均密度は、''約4.75打/秒''。
+
+***その他 [#other]
+-作曲・編曲は、[[''bermei.inazawa''>参加アーティスト一覧/bermei.inazawa]]。
+-曲IDは、''amanda''。
+----
+-[[かんたん>難易度表/かんたん/Amanda]]
+-[[ふつう>難易度表/ふつう/Amanda]]
+-[[むずかしい>難易度表/むずかしい/Amanda]]
+-[[オート動画>https://www.youtube.com/watch?v=-xmZe0HPTSU]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(amanda.png,nolink);

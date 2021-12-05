@@ -1,0 +1,125 @@
+*「太鼓の達人 Wii Uば〜じょん！」のダウンロードコンテンツ [#title]
+-[[Wii U1の収録曲]]
+-配信期間：2013/11/21〜配信中(一部のダウンロードコンテンツは配信終了)
+***配信楽曲 [#song]
+-総配信数 ''34'' 曲
+--裏譜面 ''8'' 曲
+-現在の配信数&br;無料 ''3'' 曲 ＋ 有料 ''12'' 曲 ＝ ''15'' 曲 (購入総額1,944円)
+--裏譜面 ''4'' 曲
+
+|>|>|>|>|>|>|CENTER:74|c
+|>|>|>|>|>|>|''ジャンルごとの総配信数''(括弧内は現在の配信数)|h
+|BGCOLOR(cyan):''J-POP''|BGCOLOR(orange):''アニメ''|BGCOLOR(silver):''ボーカロイド曲''|BGCOLOR(lime):''バラエティ''|BGCOLOR(gold):''クラシック''|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|
+|''6'' 曲&br;約17.6%|''7'' (5) 曲&br;約20.6%|''4'' (3) 曲&br;約11.8%|''1'' (0) 曲&br;約2.9%|''1'' (0) 曲&br;約2.9%|''10'' (1) 曲&br;約29.4%|''5'' (0) 曲&br;約14.7%|
+----
+-背景が灰色(COLOR(#ccc){■})の曲・・・''現在はダウンロードできない楽曲''
+
+|CENTER:1||CENTER:1|CENTER:40||c
+|NO.|曲名|配信日|価格((有料楽曲は2014/9/16まで期間限定無料))|備考|h
+|BGCOLOR(cyan):1|[[''インベーダーインベーダー''>難易度表/おに/インベーダーインベーダー]]|2013/11/21|162円||
+|BGCOLOR(cyan):2|[[''会いたかった''>難易度表/おに/会いたかった]]|~|無料||
+|BGCOLOR(orange):3|[[''さんぽ''>難易度表/おに/さんぽ]]&br;　　SIZE(11){「となりのトトロ」より}|~|無料||
+|~|[[''さんぽ(裏)''>難易度表/おに/さんぽ(裏譜面)]]&br;　　SIZE(11){「となりのトトロ」より}|~|~||
+|BGCOLOR(orange):4|[[''みらくる☆トラベル''>難易度表/おに/みらくる☆トラベル]]&br;　　SIZE(11){「たまごっち！みらくるフレンズ」より}|~|無料||
+|BGCOLOR(orange):5|[[''残酷な天使のテーゼ''>難易度表/おに/残酷な天使のテーゼ]]&br;　　SIZE(11){「新世紀エヴァンゲリオン」より}|~|162円||
+|~|[[''残酷な天使のテーゼ(裏)''>難易度表/おに/残酷な天使のテーゼ(裏譜面)]]&br;　　SIZE(11){「新世紀エヴァンゲリオン」より}|~|~||
+|BGCOLOR(darkorchid):6|BGCOLOR(#ccc):[[''Walking Through The Towers''>難易度表/おに/Walking Through The Towers]]&br;　　SIZE(11){「パズル＆ドラゴンズ」より}|BGCOLOR(#ccc):2013/11/21|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''パズル＆ドラゴンズ''」付き&br;2014/11/19まで配信|
+|BGCOLOR(cyan):7|[[''フライングゲット''>難易度表/おに/フライングゲット]]|2013/12/18|162円||
+|BGCOLOR(cyan):8|[[''リンダリンダ''>難易度表/おに/リンダリンダ]]|~|162円||
+|BGCOLOR(orange):9|BGCOLOR(#ccc):[[''The Other self''>難易度表/おに/The Other self]]&br;　　SIZE(11){「黒子のバスケ」より}|BGCOLOR(#ccc):2013/12/18|BGCOLOR(#ccc):162円|BGCOLOR(#ccc):2015/11/18まで配信|
+|BGCOLOR(orange):10|[[''勇気りんりん''>難易度表/おに/勇気りんりん]]&br;　　SIZE(11){「それいけ！アンパンマン」より}|2013/12/18|162円||
+|BGCOLOR(silver):11|[[''マトリョシカ''>難易度表/おに/マトリョシカ]]&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|~|162円||
+|~|[[''マトリョシカ(裏)''>難易度表/おに/マトリョシカ(裏譜面)]]&br;　　SIZE(11){ハチ feat.初音ミク・GUMI}|~|~||
+|BGCOLOR(cyan):12|[[''恋するフォーチュンクッキー''>難易度表/おに/恋するフォーチュンクッキー]]|2014/01/22|162円||
+|BGCOLOR(cyan):13|[[''紅''>難易度表/おに/紅]]|~|162円||
+|BGCOLOR(orange):14|[[''JUST LIVE MORE''>難易度表/おに/JUST LIVE MORE]]&br;　　SIZE(11){「仮面ライダー鎧武」より}|~|162円||
+|BGCOLOR(silver):15|[[''みくみくにしてあげる♪【してやんよ】''>難易度表/おに/みくみくにしてあげる♪【してやんよ】]]&br;　　SIZE(11){ika feat.初音ミク}|~|162円||
+|BGCOLOR(orangered):16|BGCOLOR(#ccc):[[''燎原ノ舞''>難易度表/おに/燎原ノ舞]]|BGCOLOR(#ccc):2014/01/22|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
+|BGCOLOR(darkorchid):17|BGCOLOR(#ccc):[[''モンスターハンター4 メドレー''>難易度表/おに/モンスターハンター4 メドレー]]|~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''ブレイブネコシリーズ''」と、&br;フレーム「''モンスターハンター4''」付き&br;2014/09/16まで配信|
+|BGCOLOR(orange):18|BGCOLOR(#ccc):[[''紅蓮の弓矢''>難易度表/おに/紅蓮の弓矢]]&br;　　SIZE(11){「進撃の巨人」より}|BGCOLOR(#ccc):2014/02/19|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
+|BGCOLOR(silver):19|[[''脳漿炸裂ガール''>難易度表/おに/脳漿炸裂ガール]]&br;　　SIZE(11){れるりり feat．初音ミク・GUMI}|2014/02/19|162円||
+|~|[[''脳漿炸裂ガール(裏)''>難易度表/おに/脳漿炸裂ガール(裏譜面)]]&br;　　SIZE(11){れるりり feat．初音ミク・GUMI}|~|~||
+|BGCOLOR(darkorchid):20|BGCOLOR(#ccc):[[''さかさま世界''>難易度表/おに/さかさま世界]]&br;　　SIZE(11){「パズドラＺ」より}|BGCOLOR(#ccc):2014/02/19|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''パズドラZ シロップ''」付き&br;2014/07/31まで配信|
+|BGCOLOR(orangered):21|BGCOLOR(#ccc):[[''東京特許キョ許可局局長!!''>難易度表/おに/東京特許キョ許可局局長!!]]|~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
+|BGCOLOR(darkorchid):22|BGCOLOR(#ccc):[[''ファミコンリミックス''>難易度表/おに/ファミコンリミックス]]|BGCOLOR(#ccc):2014/03/19|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/04/18まで配信|
+|BGCOLOR(darkorchid):23|BGCOLOR(#ccc):[[''バルーンファイト（バルーントリップ）''>難易度表/おに/バルーンファイト（バルーントリップ）]]|~|BGCOLOR(#ccc):無料|~|
+|BGCOLOR(darkorchid):24|BGCOLOR(#ccc):[[''ゼルダの伝説''>難易度表/おに/ゼルダの伝説]]|~|BGCOLOR(#ccc):無料|~|
+|BGCOLOR(darkorchid):25|BGCOLOR(#ccc):[[''ドクターマリオ(Fever)''>難易度表/おに/ドクターマリオ(Fever)]]|~|BGCOLOR(#ccc):無料|~|
+|BGCOLOR(silver):26|BGCOLOR(#ccc):[[''初音ミクの消失‐劇場版‐''>難易度表/おに/初音ミクの消失‐劇場版‐]]|BGCOLOR(#ccc):2014/04/23|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
+|~|BGCOLOR(#ccc):[[''初音ミクの消失‐劇場版‐(裏)''>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]|BGCOLOR(#ccc):~|BGCOLOR(#ccc):~|BGCOLOR(#ccc):~|
+|BGCOLOR(lime):27|BGCOLOR(#ccc):[[''くまもとサプライズ！''>難易度表/おに/くまもとサプライズ！]]&br;　　SIZE(11){くまモン体操}|BGCOLOR(#ccc):~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''くまモン''」と、&br;フレーム「''くまモン''」付き&br;2014/09/16まで配信|
+|BGCOLOR(darkorchid):28|BGCOLOR(#ccc):[[''ポケットモンスター X・Y''>難易度表/おに/ポケットモンスター X・Y トレーナー戦メドレー]]&br;　　SIZE(11){トレーナー戦メドレー}|BGCOLOR(#ccc):~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
+|BGCOLOR(darkorchid):29|[[''キラメキラリ''>難易度表/おに/キラメキラリ]]&br;　　SIZE(11){「アイドルマスター」より}|2014/04/23|162円||
+|BGCOLOR(orangered):30|BGCOLOR(#ccc):[[''D's Adventure Note''>難易度表/おに/D's Adventure Note]]&br;　　SIZE(11){暖@よみぃ}|BGCOLOR(#ccc):2014/04/23|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/09/16まで配信|
+|BGCOLOR(gold):31|BGCOLOR(#ccc):[[''白鳥の湖''>難易度表/おに/白鳥の湖〜still a duckling〜]]&br;　　SIZE(11){〜still a duckling〜}|BGCOLOR(#ccc):2014/05/21|BGCOLOR(#ccc):無料|~|
+|~|BGCOLOR(#ccc):[[''白鳥の湖(裏)''>難易度表/おに/白鳥の湖〜still a duckling〜(裏譜面)]]&br;　　SIZE(11){〜still a duckling〜}|~|~|~|
+|BGCOLOR(darkorchid):32|BGCOLOR(#ccc):[[''Venomous''>難易度表/おに/Venomous]]&br;　　SIZE(11){「リッジレーサー3D」より}|~|BGCOLOR(#ccc):無料|~|
+|~|BGCOLOR(#ccc):[[''Venomous(裏)''>難易度表/おに/Venomous(裏譜面)]]&br;　　SIZE(11){「リッジレーサー3D」より}|~|~|~|
+|BGCOLOR(orangered):33|BGCOLOR(#ccc):[[''エンジェル ドリーム''>難易度表/おに/エンジェル ドリーム]]|~|BGCOLOR(#ccc):無料|~|
+|~|BGCOLOR(#ccc):[[''エンジェル ドリーム(裏)''>難易度表/おに/エンジェル ドリーム(裏譜面)]]|~|~|~|
+|BGCOLOR(orangered):34|BGCOLOR(#ccc):[[''〆ドレー2000＋''>難易度表/おに/〆ドレー2000＋]]|BGCOLOR(#ccc):2014/09/17|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2014/11/19まで配信|
+
+***配信衣装 [#costume]
+-総配信数 ''51'' 個
+-現在の配信数&br;無料 ''2'' 個 ＋ 有料 ''45'' 個 ＝ ''47'' 個 (購入総額2,340円)
+
+|>|>|>|>|CENTER:74|c
+|>|>|>|>|''種類ごとの総配信数''(括弧内は現在の配信数)|h
+|BGCOLOR(cyan):''ぜんしん''|BGCOLOR(orange):''ぼうし''|BGCOLOR(lime):''ふく''|BGCOLOR(darkorchid):''メイク''|BGCOLOR(magenta):''もよう''|
+|''6'' (2) 個&br;約11.8%|''10'' 個&br;約19.6%|''14'' 個&br;約27.5%|''11'' 個&br;約21.6%|''10'' 個&br;約19.6%|
+----
+-背景が灰色(COLOR(#ccc){■})の衣装・・・''現在はダウンロードできないきせかえ''
+
+|CENTER:1||CENTER:1|CENTER:40||c
+|No.|きせかえ名|配信日|価格|備考|h
+|BGCOLOR(cyan):|BGCOLOR(#ccc):''パズル＆ドラゴンズ''|BGCOLOR(#ccc):2013/11/21|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):楽曲「Walking Through The Towers」に付属&br;2014/11/19まで配信|
+|BGCOLOR(cyan):|BGCOLOR(#ccc):''ブレイブネコシリーズ''|BGCOLOR(#ccc):2014/01/22|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):楽曲「モンスターハンター4 メドレー」に付属&br;2014/09/16まで配信|
+|BGCOLOR(cyan):|BGCOLOR(#ccc):''パズドラZ シロップ''|BGCOLOR(#ccc):2014/02/19|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):楽曲「さかさま世界」に付属&br;2014/07/31まで配信|
+|BGCOLOR(cyan):|BGCOLOR(#ccc):''くまモン''|BGCOLOR(#ccc):2014/04/23|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):楽曲「くまもとサプライズ！」に付属&br;2014/09/16まで配信|
+|BGCOLOR(orange):1|''水玉リボン''|2013/11/21|52円||
+|BGCOLOR(lime):2|''チャンピオンベルト''|~|52円||
+|BGCOLOR(darkorchid):3|''まと''|~|52円||
+|BGCOLOR(magenta):4|''スター''|~|52円||
+|BGCOLOR(orange):5|''カブト''|2013/12/18|52円||
+|BGCOLOR(lime):6|''ヨロイ''|~|52円||
+|BGCOLOR(darkorchid):7|''みつどもえ''|~|52円||
+|BGCOLOR(darkorchid):8|''音符まつげ''|~|52円||
+|BGCOLOR(magenta):9|''音符がら''|~|52円||
+|BGCOLOR(orange):10|''カブキ頭''|2014/01/22|52円||
+|BGCOLOR(orange):11|''かぶと虫''|~|52円||
+|BGCOLOR(lime):12|''ししまい''|~|52円||
+|BGCOLOR(lime):13|''はかま''|~|52円||
+|BGCOLOR(darkorchid):14|''ハート眼帯''|~|52円||
+|BGCOLOR(darkorchid):15|''マロまゆ''|~|52円||
+|BGCOLOR(darkorchid):16|''くまどり''|~|52円||
+|BGCOLOR(magenta):17|''ファイアー''|~|52円||
+|BGCOLOR(magenta):18|''モクモク''|~|52円||
+|BGCOLOR(orange):19|''ちょんまげ''|2014/02/19|52円||
+|BGCOLOR(orange):20|''学ぼう''|~|52円||
+|BGCOLOR(lime):21|''ボーリング''|~|52円||
+|BGCOLOR(lime):22|''宇宙ふく''|~|52円||
+|BGCOLOR(lime):23|''タコヤキ''|~|52円||
+|BGCOLOR(lime):24|''おどりダコ''|~|52円||
+|BGCOLOR(darkorchid):25|''レスラーマスク''|~|52円||
+|BGCOLOR(darkorchid):26|''メタリックフェイス''|~|52円||
+|BGCOLOR(magenta):27|''レンガ''|~|52円||
+|BGCOLOR(magenta):28|''あしあと''|~|52円||
+|BGCOLOR(cyan):29|''ドラム''|2014/03/19|無料||
+|BGCOLOR(cyan):30|''骨付き肉''|~|無料||
+|BGCOLOR(orange):31|''ライオンヘッド''|~|52円||
+|BGCOLOR(lime):32|''セーラーふく''|~|52円||
+|BGCOLOR(lime):33|''春のなかま''|~|52円||
+|BGCOLOR(darkorchid):34|''第3の目''|~|52円||
+|BGCOLOR(darkorchid):35|''ネコ鼻''|~|52円||
+|BGCOLOR(magenta):36|''メタリックボディー''|~|52円||
+|BGCOLOR(magenta):37|''キカイのからだ''|~|52円||
+|BGCOLOR(orange):38|''サイドテール''|2014/04/23|52円||
+|BGCOLOR(orange):39|''カメラレンズ''|~|52円||
+|BGCOLOR(orange):40|''兵士長のカブト''|~|52円||
+|BGCOLOR(lime):41|''黒太鼓''|~|52円||
+|BGCOLOR(lime):42|''カメラボディー''|~|52円||
+|BGCOLOR(lime):43|''兵士長のヨロイ''|~|52円||
+|BGCOLOR(lime):44|''クレープ屋台''|~|52円||
+|BGCOLOR(darkorchid):45|''アニ目''|~|52円||
+|BGCOLOR(magenta):46|''ハートがら''|~|52円||
+|BGCOLOR(magenta):47|''レインボー''|~|52円||

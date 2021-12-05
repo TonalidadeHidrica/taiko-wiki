@@ -1,0 +1,19 @@
+*離開地球表面 [#title]
+- 2007年同名コンサートのメインテーマ。
+***攻略・詳細 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11亜''|CENTER:★×8|CENTER:''335''|CENTER:''1033000点''|CENTER:＋連打|CENTER:860点|CENTER:210点|
+-BPMは138。
+-16分複合はCOLOR(blue){●}COLOR(red){●●}1回を除けばCOLOR(red){●●}COLOR(blue){●}とCOLOR(blue){●●}COLOR(red){●}しかないので、★×8にしては簡単。
+-アーティストは[[戀愛ing>難易度表/おに/戀愛ing]]と同じく''五月天''（''メイデイ''）。
+----
+-[[かんたん>難易度表/かんたん/離開地球表面]]
+-[[ふつう>難易度表/ふつう/離開地球表面]]
+-[[むずかしい>難易度表/むずかしい/離開地球表面]]
+-[[プレイ動画(直撮り)>https://www.youtube.com/watch?v=l6HIEzRByI8]]
+
+***コメント [#coomment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(jump-fix.png,nolink);

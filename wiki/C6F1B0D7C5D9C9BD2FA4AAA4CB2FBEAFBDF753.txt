@@ -1,0 +1,20 @@
+* 少女S[#va9fd12b]
+*** 詳細・攻略 [#k541e9b1]
+- アニメ「''BLEACH''」のOP10。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC13''|★×7|''385''|''994300点''|＋連打|730点|190点|
+-BPMは136.5。
+-★×7の譜面としては遅い割に複雑なフレーズがない。
+--フルコン狙いの場合はCOLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}にだけは注意を払いたい。
+-アーティストは''SCANDAL''。
+-ちなみにニンテンドーDS用ゲームソフト「BLEACH 4th:フレイム・ブリンガー」のOP曲でもある。
+
+-[[かんたん>難易度表/かんたん/少女S]]
+-[[ふつう>難易度表/ふつう/少女S]]
+-[[むずかしい>難易度表/むずかしい/少女S]]
+-[[プレイ動画>https://www.youtube.com/watch?v=eb3CwLPskzo]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(少女はどS_2.png,nolink);

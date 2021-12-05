@@ -1,0 +1,19 @@
+*ドンパン節 [#zc9a70a6]
+***詳細・攻略 [#zc70758e]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''||CENTER:★×2|CENTER:''201''|''??????点''|RIGHT:???点|???点|
+||CENTER:CS3|~|~|''??????点''|RIGHT:920点|250点|
+-BPMは98。
+-''完全精度曲''のひとつ。
+-曲IDは、''donpa''。
+-[[かんたん>難易度表/かんたん/ドンパン節]]
+-[[ふつう>難易度表/ふつう/ドンパン節]]
+-[[おに>難易度表/おに/ドンパン節]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=TMMHW0XHZNI]]
+
+***コメント [#faf2948c]
+#pcomment(,noname)
+
+***譜面 [#bd0ad832]
+~&attachref(ドンパンむずかしい.png,nolink);

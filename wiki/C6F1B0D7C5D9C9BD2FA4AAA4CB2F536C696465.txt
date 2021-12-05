@@ -1,0 +1,21 @@
+*Slide [#b819f784]
+***詳細・攻略 [#aa612ff6]
+|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|h
+|CENTER:''米TDM''|CENTER:★×4|CENTER:''300''|CENTER:''417000点''|CENTER:＋連打|
+|CENTER:TDM|CENTER:★×7|CENTER:''419''|CENTER:''654000点''|~|
+-偶数連打が多い。また、48小節には要注意。
+--この譜面は日本版のみで、北米版はむずかしいコースと同一。
+***その他 [#other]
+-アーティストは、''グー・グー・ドールズ(Goo Goo Dolls)''。
+----
+-[[かんたん>難易度表/かんたん/Slide]]
+-[[ふつう>難易度表/ふつう/Slide]]
+-[[むずかしい>難易度表/むずかしい/Slide]]
+-[[オート動画(TDM)>https://www.youtube.com/watch?v=7IW9SQ4vKzU]]
+***コメント [#x1030c31]
+#pcomment(,noname)
+***譜面[#score]
+&br;TDM譜面
+&attachref(スライド.png,nolink);
+~米TDM譜面
+&attachref(Slide_A.png,nolink);

@@ -1,0 +1,46 @@
+*Choo Choo TRAIN [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+||CENTER:''CS5''|CENTER:★×4|CENTER:''370''|CENTER:''646600点''|CENTER:＋連打|CENTER:540点|CENTER:120点|CENTER:''ゴーゴーバグあり''|
+|CENTER:AC7||CENTER:★×5|CENTER:''371''|CENTER:''731240点''|~|CENTER:500点|CENTER:150点|~|
+||CENTER:PSP1|CENTER:★×4|~|CENTER:''695960点''|~|CENTER:500点|CENTER:140点|~|
+||CENTER:DS3|~|CENTER:''201''|CENTER:''693300点''|~|CENTER:920点|CENTER:240点||
+||CENTER:iOS|~|~|CENTER:''694620点''|~|~|~||
+-BPMは115。
+----
+***CS5 [#old2]
+***AC7,PSP1 [#old]
+-8分の複合が主体の譜面で、16分も数がかなり多い。
+--16分は単色の3連打までしかないが、そのほとんどが8分と隣接している。
+--ただし、8分の複合は5連打までしかない。
+-PSP1で★×4に降格したが、フルコン難易度は''下手な★×5,6よりも難しいので要注意''。
+----
+***DS3,iOS [#new]
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符が多く、26個ある（全体の約12.9%）。
+-全体的に8分がかなり多いが、16分はなく速度も遅いので★×4にしては簡単な方。
+--また、8分の複合は4連打までしかない。
+----
+-アーティストは、''EXILE''。
+-AC7では''ChooChooTRAIN''(空白が無い)、ぽた1のゲーム内の一部とDS3の公式ページの収録曲リストでは、曲名がChoo Choo T''rain''と誤植されている。
+
+-[[かんたん>難易度表/かんたん/Choo Choo TRAIN]]
+-[[ふつう>難易度表/ふつう/Choo Choo TRAIN]]
+-[[おに>難易度表/おに/Choo Choo TRAIN]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=lB7VHe6Bvnc]]
+-[[プレイ動画(旧譜面)>https://www.youtube.com/watch?v=Dd4SvrTUwys]]
+-[[オート動画(旧々譜面)>http://www.youtube.com/watch?v=wvD3g5w3hz0]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~DS3以降の譜面
+~&attachref(choo2_hard.png,nolink);
+
+~AC7,PSP1譜面&br;PSP1は★★★★☆☆☆☆
+~&attachref(ChooT2_ｈ.png,nolink);
+
+~CS5譜面
+~&attachref(Choo_ｈ.png,nolink);

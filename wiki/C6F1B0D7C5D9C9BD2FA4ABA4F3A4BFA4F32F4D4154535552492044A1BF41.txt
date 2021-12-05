@@ -1,0 +1,32 @@
+*MATSURI D／A [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.0SP''|CENTER:Wii5|CENTER:★×5|CENTER:''191''|CENTER:''363130点''|CENTER:＋連打|CENTER:510点|CENTER:168点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''985250点''}|~|CENTER:COLOR(#ff3300){4350点}|CENTER:-|
+-BPMは130。
+-黄色連打が多い連打曲である。
+-大音符が多く、34個ある（全体の約17.8%）。
+-速度は少し遅めだが、全体的に8分がかなり多い。
+--8分は全て単色しかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は数がそんなに多くない。
+-ラストで1回だけ出てくる8分の単色7連打に注意。
+--この7連打は大音符なので、1個でも特良を逃すと痛い失点になる可能性がある。
+
+***その他 [#other]
+-エトウのツイッターでの発言により、曲名の読み方は''まつり　でぃーえー''。
+--「D／A」の意味はツイッターにて「''D''IGITAL／''A''NALOG」と判明した。
+-作曲は、''Vincent''。
+-譜面作成は、''くぼけん''｡
+-曲IDは、''ma2rid''
+
+-[[ふつう>難易度表/ふつう/MATSURI D／A]]
+-[[むずかしい>難易度表/むずかしい/MATSURI D／A]]
+-[[おに>難易度表/おに/MATSURI D／A]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=d1i82mf7xhc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(MATSURI D／A k.png,nolink);

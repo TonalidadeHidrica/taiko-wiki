@@ -1,0 +1,40 @@
+*ハンガリー舞曲第5番 [#title]
+***攻略・詳細 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''CS4''|CENTER:★×5|CENTER:''193''|CENTER:''522830点''|CENTER:＋連打|CENTER:770点|CENTER:210点|
+||CENTER:TDM&br;米TDM|CENTER:★×2|~|CENTER:''?????0点''|~|CENTER:690点|CENTER:190点|
+|CENTER:AC7||CENTER:★×5|~|CENTER:''?????0点''|~|CENTER:510点|CENTER:140点|
+||CENTER:Wii1&br;DS3&br;iOS|~|~|CENTER:''354450点''|~|CENTER:530点|CENTER:130点|
+||CENTER:NS1DL|~|~|CENTER:''353670点''|~|CENTER:530点|CENTER:180点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4370点}|CENTER:-|
+-BPMは約69〜156。
+-AC7までは、譜面の追い抜きがあった。
+-速度変化が激しいが、4分の複合は5連打が2回しか出て来ない。
+--また、8分は面の単色3連打しかない。
+
+----
+AC7とTDMにのみ[[DP譜面>ダブルプレイ]]が存在する。
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''米TDM''&br;TDM|CENTER:★×2|CENTER:1P|CENTER:''154''|CENTER:''?????0点''|CENTER:+連打|CENTER:870点|CENTER:270点|
+|~|~|~|CENTER:2P|~|CENTER:''?????0点''|~|~|~|
+|CENTER:AC7||CENTER:★×5|CENTER:1P|CENTER:''154''|CENTER:''?????0点''|~|CENTER:600点|CENTER:200点|
+|~|~|~|CENTER:2P|~|CENTER:''?????0点''|~|~|~|
+-こちらは追い抜き地帯の譜面が2人交互に割り振られているため、音符の追い越しが発生していない。
+***その他 [#other]
+-作曲は、''ヨハネス・ブラームス''。
+-曲IDは、''clsh''
+----
+-[[ふつう>難易度表/ふつう/ハンガリー舞曲第５番]] 
+-[[むずかしい>難易度表/むずかしい/ハンガリー舞曲第５番]] 
+-[[おに>難易度表/おに/ハンガリー舞曲第５番]]
+-オート動画([[%%%1人用譜面(Wii1)%%%>https://www.youtube.com/watch?v=I_LQwOGGxmM]]/[[%%%2人用譜面(TDM)%%%>https://www.youtube.com/watch?v=fnR6ciXkhl0]])
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+Wii1以降の譜面(HSが追加された)
+&ref(ハンガリー.png,nolink);
+
+２人用譜面
+&ref(clsh_ed.png,nolink);

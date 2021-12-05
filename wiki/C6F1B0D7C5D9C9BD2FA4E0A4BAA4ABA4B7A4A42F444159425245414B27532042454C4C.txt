@@ -1,0 +1,33 @@
+*DAYBREAK'S BELL [#title]
+***詳細・攻略 [#more]
+-「''機動戦士ガンダムOO(ダブルオー)''」（1stシーズン）の第1期（第1話〜第13話まで）オープニングテーマ。
+-エムティーアイ「''music.jp''」CMソング。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''&br;AC12亜||CENTER:★×7|CENTER:''340''|CENTER:''851240点''|CENTER:720点|CENTER:170点|
+||CENTER:DS2|~|~|CENTER:''802390点''|CENTER:680点|CENTER:160点|
+-BPMは156。
+-''精度曲''のひとつ。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-8分の複合が主体の譜面で、16分も数がかなり多い。
+--16分はほとんどが3連打だが、3連続で出てくる箇所もある。
+--また8分の複合は5連打までしかないが、種類がそれなりに多い。
+-ゴーゴーで1回だけ出てくる16分の単色5連打に注意。
+
+***その他 [#other]
+-曲名の読み方は、''デイブレイクス ベル''。
+--日本語でDAYBREAK'S BELLは「''夜明けの鐘''」の意味。まさに00のイメージとぴったりなタイトルである。
+-アーティストは、''L'Arc〜en〜Ciel''。
+--作詞は、hyde。作曲は、ken。編曲は、L'Arc〜en〜Ciel。
+-曲IDは、''gdm00''
+
+-[[かんたん>難易度表/かんたん/DAYBREAK'S BELL]]
+-[[ふつう>難易度表/ふつう/DAYBREAK'S BELL]]
+-[[おに>難易度表/おに/DAYBREAK'S BELL]]
+-[[オート動画>http://www.youtube.com/watch?v=Rfm4XPcReWM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&ref(oo_hard.png,nolink);

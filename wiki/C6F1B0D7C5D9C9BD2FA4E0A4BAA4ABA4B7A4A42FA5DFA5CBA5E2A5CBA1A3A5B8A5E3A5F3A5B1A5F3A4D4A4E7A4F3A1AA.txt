@@ -1,0 +1,23 @@
+*ミニモニ。ジャンケンぴょん！ [#title]
+***詳細・攻略 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC2||CENTER:★×4|CENTER:''339''|CENTER:''?????0点''|CENTER:??0点|CENTER:??0点|
+||CENTER:CS2|~|CENTER:COLOR(#909):''401&br;COLOR(#069):???&br;COLOR(#666):???''|CENTER:''?????0点''|CENTER:530点|CENTER:120点|
+-BPMは162。
+-CS2の達人譜面は''おにと同一譜面''である。
+-アーティストは''ミニモニ''。
+-[[かんたん>難易度表/かんたん/ミニモニ。ジャンケンぴょん！]]
+-[[ふつう>難易度表/ふつう/ミニモニ。ジャンケンぴょん！]]
+-[[おに>難易度表/おに/ミニモニ。ジャンケンぴょん！]]
+-[[オート動画(CS2、1人用譜面)>https://www.youtube.com/watch?v=mFN9JwsSsF8]]
+-[[プレイ動画(AC2、2人用譜面、未フル)>https://youtube.com/watch?v=pBDQJv1Iyhs]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~CS2譜面
+~&attachref(mini_h2.png,nolink);
+
+~AC2譜面
+&attachref(miniAC2_h.png,nolink);

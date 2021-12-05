@@ -1,0 +1,23 @@
+*Your World [#title]
+***詳細・攻略 [#more]
+-アニメ「''韋駄天翔''」のOP2。''いだてんしょう''ではなく、''いだてんじゃんぷ''と読む。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC9|CENTER:''CS7''|CENTER:★×5|CENTER:''208''|CENTER:''?????0点''|CENTER:＋連打|CENTER:920点|CENTER:230点|
+-BPMは約195。
+-たまに出る、8分音符に注意。
+-アーティストは''けちゃっぷmania''。
+--男女混合の4人組バンドで、メンバー全員が愛知県出身である。
+--作詞、作曲もメンバーが担当。
+--2007年に、Ketchup maniaに改名するも、2009年5月のライブをもって解散した。
+--太鼓の達人収録のものは、''本人歌唱''である。
+-[[かんたん>難易度表/かんたん/Your World]]
+-[[むずかしい>難易度表/むずかしい/Your World]]
+-[[おに>難易度表/おに/Your World]]
+-[[オート動画>https://www.youtube.com/watch?v=hamn86TdFmo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(your_n.png,nolink);

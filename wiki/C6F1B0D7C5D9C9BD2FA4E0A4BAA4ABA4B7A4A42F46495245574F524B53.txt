@@ -1,0 +1,30 @@
+*FIREWORKS [#title]
+***詳細・攻略 [#more]
+-「''スカパー！EXILE TV''」CMソング。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC13''|CENTER:★×5|CENTER:''212''|CENTER:''?????0点''|CENTER:＋連打|CENTER:970点|CENTER:250点|
+-BPMは113。
+-黄色連打が多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の3連打までしかないが、連続して出てくる箇所もある。
+--また、8分の複合は種類がかなり多い。
+-ゴーゴーで3回出てくる16分の複合3連打（●●○）に注意。
+
+***その他 [#other]
+-曲名の読み方は、''ファイヤーワークス''。
+--「花火」という意味である。
+-アーティストは、''EXILE''｡
+--作詞は、michico・P-CHO・GS・KUBO-C・TOMOGEN。作曲は、T. Kura・michico。編曲は、T. Kura。
+
+-[[かんたん>難易度表/かんたん/FIREWORKS]]
+-[[ふつう>難易度表/ふつう/FIREWORKS]]
+-[[おに>難易度表/おに/FIREWORKS]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=bWBwIogjinE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&ref(FIREWORKS-hard.png,nolink);

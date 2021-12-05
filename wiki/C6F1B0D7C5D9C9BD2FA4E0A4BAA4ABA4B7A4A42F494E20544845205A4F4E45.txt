@@ -1,0 +1,38 @@
+*IN THE ZONE [#title]
+***詳細・攻略 [#more]
+-ナムコのPSP用ソフト「[[''ACE COMBAT X2 JOINT ASSAULT''>http://www.acecombat.jp/x2/]]」のテーマソング。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+||CENTER:''PSP2DL''|CENTER:★×8|CENTER:''493''|CENTER:''858380点''|CENTER:＋連打|CENTER:450点|CENTER:110点|CENTER:''ゴーゴーバグあり''|
+||CENTER:Wii3|~|~|CENTER:''868460点''|~|~|~|~|
+|CENTER:AC14||~|~|CENTER:''867220点''|~|~|~||
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''889600点''}|~|CENTER:COLOR(#ff3300){1650点}|CENTER:-||
+|CENTER:AC15.1.0||~|~|CENTER:''885130点''|~|CENTER:510点|CENTER:128点||
+|CENTER:AC15.2.0||~|~|CENTER:''885070点''|~|~|~||
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''989920点''}|~|CENTER:COLOR(#ff3300){1840点}|CENTER:-||
+-BPMは約172。
+-黄色連打がかなり多く、11本ある。
+-速度が少し速く、全体的に16分がかなり多い。
+--16分は3連打が主体で、たまに5連打も出てくる。
+--また16分は単色が多いが、複合も3回出てくる（配色は●●○）。
+-ラストゴーゴーは休みが少ないので、適正者にとっては体力的に厳しいかもしれない。
+-16分の3連打が何回も出てくる63〜66小節に注意。
+--BPMの速さも相まって適正者にとってはかなり厳しい。
+
+***その他 [#other]
+-曲名の読み方は、''イン ザ ゾーン''。
+-作曲は、[[No Way>難易度表/むずかしい/No Way Back]] [[Back>難易度表/むずかしい/No Way Back(裏譜面)]]や[[風雲！>難易度表/むずかしい/風雲！バチお先生]][[バチお先生>難易度表/むずかしい/風雲！バチお先生(裏譜面)]]などと同じ''椎名豪''。
+-アーティストは、''Jonathan Underdown''。
+-DDRに収録の同名曲とは無関係。
+-曲IDは、''acex2''
+
+-[[かんたん>難易度表/かんたん/IN THE ZONE]]
+-[[ふつう>難易度表/ふつう/IN THE ZONE]]
+-[[おに>難易度表/おに/IN THE ZONE]]
+-[[オート動画(Wii3, キャプチャ)>http://www.youtube.com/watch?v=FXZVOAYw3lw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(acex2.png,nolink);

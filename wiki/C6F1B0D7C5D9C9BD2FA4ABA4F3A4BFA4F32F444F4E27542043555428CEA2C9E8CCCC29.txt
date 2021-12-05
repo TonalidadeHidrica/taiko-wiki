@@ -1,0 +1,26 @@
+*DON'T CUT（裏譜面）[#Title]
+***詳細・攻略[#More]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii2SP'',4SP&br;PSPDXSP|CENTER:★×5|CENTER:COLOR(#909){''259}&br;COLOR(#069){228}&br;COLOR(#666){195''}|CENTER:''336350点''|CENTER:＋連打|CENTER:370点|CENTER:80点|
+-BPMは170。
+-連打秒数目安・・・約2.824×3秒−''約3.882秒''：合計約12.353秒
+-普通譜面は[[表譜面>難易度表/かんたん/DON'T CUT]]と同一。
+-分岐後の達人譜面は[[ふつう（表）>難易度表/ふつう/DON'T CUT]]と同一（風船の打数は減っている）。
+-かんたんにしては、8分音符が非常に多い。
+--特に玄人・達人譜面には複合もあり、速度もやや速めであるため、かんたん適正者にはかなりきつい。
+--また、達人譜面には5連打もある。
+-ボーカルは、''中川奈美''。
+-作曲は、[[エンジェル ドリーム>難易度表/かんたん/エンジェル ドリーム(裏譜面)]]や[[ユウガオノキミ>難易度表/かんたん/ユウガオノキミ]]と同じ''岡部啓一''。
+-略称は、''裏切るな''（[[DON'T CUT>難易度表/かんたん/DON'T CUT]]（切るな）の裏譜面であるため）。
+-曲IDは、''exgoth''。
+
+-[[表譜面>難易度表/かんたん/DON'T CUT]]/かんたん
+-[[表譜面>難易度表/ふつう/DON'T CUT]]/[[ふつう>難易度表/ふつう/DON'T CUT(裏譜面)]]
+-[[表譜面>難易度表/むずかしい/DON'T CUT]]/[[むずかしい>難易度表/むずかしい/DON'T CUT(裏譜面)]]
+-[[表譜面>難易度表/おに/DON'T CUT]]/[[おに>難易度表/おに/DON'T CUT(裏譜面)]]
+-オート動画
+--[[COLOR(#666){普通譜面}>https://www.youtube.com/watch?v=XC4pYoEEWns]]/[[COLOR(#069){玄人譜面}>https://www.youtube.com/watch?v=XC4pYoEEWns&t=147]]/[[COLOR(#909){達人譜面}>https://www.youtube.com/watch?v=XC4pYoEEWns&t=302]]
+***コメント[#Comment]
+#pcomment(,noname)
+***譜面[#Fumen]
+&attachref(exgoth.png,nolink);

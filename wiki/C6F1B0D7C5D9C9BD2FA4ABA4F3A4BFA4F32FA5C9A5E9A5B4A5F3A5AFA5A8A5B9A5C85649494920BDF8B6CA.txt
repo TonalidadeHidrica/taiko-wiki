@@ -1,0 +1,19 @@
+* ドラゴンクエストVIII　序曲 [#title]
+*** 詳細・攻略 [#more]
+-ゲーム''「ドラゴンクエストVIII　空と海と大地と呪われし姫君」''より。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''AC7''|CENTER:''バラエティ''|CENTER:★×3|CENTER:''78''|CENTER:''??????点''|CENTER:＋連打|CENTER:1100点|CENTER:600点|CENTER:''ゴーゴーバグあり''|
+|CENTER:AC8|CENTER:''ゲーム&br;ミュージック''|~|~|CENTER:''??????点''|~|~|~||
+-BPMは約65〜122。
+-アーティストは''すぎやまこういち''。
+-[[ふつう>難易度表/ふつう/ドラゴンクエストVIII 序曲]]
+-[[むずかしい>難易度表/むずかしい/ドラゴンクエストVIII 序曲]]
+-[[おに>難易度表/おに/ドラゴンクエストVIII 序曲]]
+-[[プレイ動画(AC8,キャプチャ)>https://www.youtube.com/watch?v=1yxzLwnAaJQ]]
+
+*** コメント [#comment]
+#pcomment(,noname)
+
+*** 譜面 [#score]
+&ref(dq8ov_e.png,nolink);

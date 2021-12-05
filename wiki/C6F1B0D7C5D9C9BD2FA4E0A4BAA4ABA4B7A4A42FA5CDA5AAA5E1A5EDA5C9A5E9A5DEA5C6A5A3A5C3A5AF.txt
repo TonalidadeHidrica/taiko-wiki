@@ -1,0 +1,24 @@
+*ネオメロドラマティック [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''PSP1''|CENTER:★×4|CENTER:''267''|CENTER:''??????点''|CENTER:＋連打|CENTER:750点|CENTER:210点|CENTER:''ゴーゴーバグあり''|
+-BPMは126。
+--[[ジョバイロ>難易度表/むずかしい/ジョバイロ]]とほぼ同じBPMである。
+
+***その他 [#other]
+-アーティストは、[[''&#x30dd;ルノグラフィティ''>アーティスト別収録曲#graffi]]。
+--作詞は、新藤晴一。作曲は、ak.homma。編曲は、ak.homma・&#x30dd;ルノグラフィティ。
+-曲IDは、''neo''。
+----
+
+-[[かんたん>難易度表/かんたん/ネオメロドラマティック]]
+-[[ふつう>難易度表/ふつう/ネオメロドラマティック]]
+-[[おに>難易度表/おに/ネオメロドラマティック]]
+-[[オート動画>https://m.youtube.com/watch?v=-0wyBfT4C_c]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(neo_h.png,nolink);

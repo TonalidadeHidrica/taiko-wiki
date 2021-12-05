@@ -1,0 +1,20 @@
+*ヒカリへ [#x38b9a36]
+***詳細・攻略 [#ece95a42]
+-アニメ''ONE PIECE''のOP3。
+-詳細は以下の通り：
+|>|バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''||CENTER:★×5|CENTER:''122''|CENTER:''?????0点''|CENTER:＋連打|CENTER:???点|CENTER:???点|
+||CENTER:CS3|~|~|CENTER:''?????0点''|~|CENTER:1230点|CENTER:440点|
+-BPMは94-188。
+-[[おに>難易度表/おに/ヒカリへ]]とは違い中盤にBPMが半分になるソフランがない。
+-アーティストは、''ザ・ベイビースターズ''。
+-[[ふつう>難易度表/ふつう/ヒカリへ]]
+-[[むずかしい>難易度表/むずかしい/ヒカリへ]]
+-[[おに>難易度表/おに/ヒカリへ]]
+-[[プレイ動画>https://www.youtube.com/watch?v=6HeOq5xRluw]]
+
+***コメント [#p82360ad]
+#pcomment(,noname)
+
+***譜面 [#ne69501b]
+&attachref(ヒカリへかんたん.png,nolink);

@@ -1,0 +1,28 @@
+*SEVENTH HEAVEN [#title]
+***詳細・攻略 [#more]
+-日テレ系番組「''スポーツうるぐす''」テーマソング。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC10''|CENTER:★×4|CENTER:''120''|CENTER:''?????0点''|CENTER:＋連打|CENTER:830点|CENTER:240点|
+-BPMは130。
+-黄色連打が多い連打曲で、1本あたりの長さも長い。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-全体的に4分がかなり多いが、8分はなく速度も少し遅いので★×4にしては簡単な方。
+--ただし、4分は複合の方が多くなっているので油断は禁物。
+-ゴーゴーで1回ずつ出てくる4分の複合4連打と複合5連打に注意。
+
+***その他 [#other]
+-アーティストは、[[DAYBREAK'S BELL>難易度表/かんたん/DAYBREAK'S BELL]]と同じ''L'Arc〜en〜Ciel''。
+--作詞・作曲は、''hyde''。編曲は、''L'Arc〜en〜Ciel''。
+-曲IDは、''sevent''
+
+-[[ふつう>難易度表/ふつう/SEVENTH HEAVEN]]
+-[[むずかしい>難易度表/むずかしい/SEVENTH HEAVEN]]
+-[[おに>難易度表/おに/SEVENTH HEAVEN]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=gNOgFokyYJI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+&attachref(sevene.png,nolink);

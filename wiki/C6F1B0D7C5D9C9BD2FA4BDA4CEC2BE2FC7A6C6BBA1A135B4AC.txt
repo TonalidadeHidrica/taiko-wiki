@@ -1,0 +1,16 @@
+*忍道　5巻 [#title]
+-Wiiの毎日チャレンジ道場のお題。
+
+***詳細・攻略 [#capture]
+-レベル5で5コンボ。
+-良4以上でクリア。
+
+-[[プレイ動画(1巻〜10巻)>http://youtu.be/rW3TfzCsA8s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+
+***譜面 [#score]
+HSは暫定
+~&attachref(忍5.png,nolink);

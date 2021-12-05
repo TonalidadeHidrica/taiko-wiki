@@ -1,0 +1,17 @@
+*FAITH [#lc063ad5]
+***詳細・攻略 [#y086bf21]
+-アニメ祭に収録。ワンピースの曲。
+|CENTER:バージョン((太字は初出))|CENTER:難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''アニメ祭''|CENTER:★×5|CENTER:''183''|''??????点''|＋連打|RIGHT:1280点|360点|
+
+-BPMは144。
+-[[かんたん>難易度表/かんたん/FAITH]]
+-[[ふつう>難易度表/ふつう/FAITH]]
+-[[おに>難易度表/おに/FAITH]]
+-[[オート動画>https://www.youtube.com/watch?v=gzfzNi_xB18]]
+
+***コメント [#c1b79739]
+#pcomment(,noname)
+
+***譜面 [#x3d6610b]
+&ref(FAITH.png,nolink);

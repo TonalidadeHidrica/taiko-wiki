@@ -1,0 +1,33 @@
+*Highschool&#9825;love [#title]
+***詳細・攻略 [#more]
+-フジテレビ系列ドラマ「''GTO''(第2期)」主題歌。
+--第1期の主題歌は[[こちら>難易度表/かんたん/24karats TRIBE OF GOLD]]。
+-詳細は以下の通り：
+|>|CENTER:バージョン|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.5.6''|CENTER:3DS2DL|CENTER:★×3|CENTER:''100''|CENTER:''336860点''|CENTER:＋連打|CENTER:760点|CENTER:483点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''997780点''}|~|CENTER:COLOR(#ff3300){7280点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:740点|CENTER:290点|
+-BPMは128。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-大音符がかなり多く、36個ある（全体の36%）。
+-速度は少し遅めだが、全体的に4分がかなり多い。
+--4分は単色が多いが、たまに複合も出てくる。
+-3回出てくる4分の複合7連打に注意。
+--そのうち2回は大音符なので、1個でも特良を逃すと痛い失点になる可能性もある。
+-アーティストは、''E-girls''。
+--作詞は、michico。作曲・編曲は、T.Kura・michico・Albi Albertsson。
+-譜面作成は、''しか@に〜さん''。
+-当Wiki内では曲名に「・」があるが、実際はハートマークになっている(ハートマークは機種依存文字のため)。
+-ゲームミュージックの[[Highschool love!>難易度表/かんたん/Highschool love!]]とは別の曲であるので注意。
+
+-[[ふつう>難易度表/ふつう/Highschool・love]]
+-[[むずかしい>難易度表/むずかしい/Highschool・love]]
+-[[おに>難易度表/おに/Highschool・love]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=MJmUfd5iXyo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+くすだまの長さは適当です。
+&attachref(highschoolかんたん.png,nolink);

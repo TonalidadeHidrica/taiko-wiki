@@ -1,0 +1,22 @@
+*Get Wild [#r950bcca]
+***詳細・攻略 [#h21efe86]
+-アニメ「''シティーハンター''」のED。
+--1987年4月から1988年3月まで放送された。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|CENTER:天井スコア|h
+|CENTER:''AC5''、6||CENTER:★×8|CENTER:''381''|CENTER:''614500点''|
+||CENTER:CS3|~|~|CENTER:''636500点''|
+-BPMは131.8。
+-''精度曲''のひとつ。
+-COLOR(red){●●}COLOR(blue){●}やCOLOR(red){●●●●}COLOR(blue){●}といった複合が多い。特に中盤は休みなく複合が押し寄せてくる。
+-アーティストは、''TM NETWORK''。
+-[[かんたん>難易度表/かんたん/Get Wild]]
+-[[ふつう>難易度表/ふつう/Get Wild]]
+-[[むずかしい>難易度表/むずかしい/Get Wild]]
+-[[プレイ動画>https://www.youtube.com/watch?v=zeCcwdeKbeE]]
+
+***コメント [#w36f6dc6]
+#pcomment(,noname)
+
+***譜面 [#o72ce792]
+&attachref(get_wild.png,nolink);

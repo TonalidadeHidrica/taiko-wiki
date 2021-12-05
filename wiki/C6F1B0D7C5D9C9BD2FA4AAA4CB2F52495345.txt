@@ -1,0 +1,26 @@
+* RISE [#title]
+-アニメ''「メジャー」''第4シリーズのOP。
+***詳細 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''&br;AC12増&br;AC12亜|CENTER:★×7|CENTER:''387''|CENTER:''984340点''|CENTER:＋連打|CENTER:740点|CENTER:170点|
+
+***譜面構成・攻略 [#capture]
+-BPMは165。
+-連打秒数目安・・・SIZE(16){約1.606秒}−約0.515秒−''約0.515秒''−SIZE(16){約1.606秒}：合計約4.242秒
+-16分音符は序盤のCOLOR(red){●●}COLOR(blue){●}を除けば単色しかないが、全体で見るとかなりの物量譜面である。
+-平均密度は''約4.47打/秒''。
+
+***その他 [#other]
+-アーティストは''大友康平''。
+-曲IDは、''rise''。
+----
+-[[かんたん>難易度表/かんたん/RISE]]
+-[[ふつう>難易度表/ふつう/RISE]]
+-[[むずかしい>難易度表/むずかしい/RISE]]
+-[[プレイ動画>http://youtu.be/Q878K7--ABo]]
+
+***コメント [#ra44a4e4]
+#pcomment(,noname)
+
+***譜面[#score]
+&attachref(RISE_2.png,nolink);

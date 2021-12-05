@@ -1,0 +1,46 @@
+*Rock the Dragon - Dragon Z Theme [#title]
+-海外アニメ「''[[Dragonball Z>アニメ別収録曲#db]]''」のテーマ曲。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|>|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''米TDM''|おに|★×4|''171''|''197000点''|＋連打|-|-|
+|~|むずかしい|★×5|~|''?????0点''|~|??0点|??0点|
+-BPMは108〜216。
+--BPM変化は108→216→108→216。
+-むずかしいと同一譜面。
+-途中でBPMが倍になる。
+-演奏時間が短い(約1分)。
+-[[プレイ動画>http://www.youtube.com/watch?v=6MCoSPRcOSk]]
+----
+~''【2人用譜面】''
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|>|難易度|最大コンボ数|>|>|>|天井スコア|初項|公差|h
+|~|~|~|~|>|1人|>|2人|~|~|h
+|''米TDM''|おに|★×4|''151&br;154''|''185000点''|＋連打|''189000点''|＋連打|-|-|
+|~|むずかしい|★×5|~|''?????0点''|~|''?????0点''|~|??0点|??0点|
+-こちらもむずかしいと同一譜面。
+-[[オート動画>http://www.youtube.com/watch?v=sXoA_q8b0UM]]
+
+***その他 [#other]
+-アーティストは、''Jeremy Sweet''。
+-曲IDは、''dbz''。
+----
+-[[かんたん>難易度表/かんたん/Rock the Dragon]]
+-[[ふつう>難易度表/ふつう/Rock the Dragon]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+1人用譜面
+&attachref(Rock the Dragon 1.png,nolink);
+
+~1人用譜面(HSVer)
+&attachref(Rock the Dragon 1HS.png,nolink);
+
+~2人用譜面
+&attachref(Rock the Dragon 2.png,nolink);
+
+~2人用譜面(HSVer)
+&attachref(Rock the Dragon 2HS.png,nolink);

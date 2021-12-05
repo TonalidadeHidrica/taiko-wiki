@@ -1,0 +1,17 @@
+*Mr.Moonlight 愛のビッグバンド [#p9b45fe2]
+***詳細・攻略 [#j06ec4f6]
+-詳細は以下の通り；
+|>|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC3''||CENTER:★×3|CENTER:''161''|''??????点''|＋連打|RIGHT:???点|???点|
+||CENTER:CS1|~|~|''??????点''|~|1140点|340点|
+-アーティストは、''モーニング娘。''
+-[[かんたん>難易度表/かんたん/Mr.Moonlight 愛のビッグバンド]]
+-[[むずかしい、おに>難易度表/おに/Mr.Moonlight 愛のビッグバンド]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=4e84MrIMy5U]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=Bk5C6sF0KFc]]
+
+***コメント [#tad0d288]
+#pcomment(,noname)
+
+***譜面 [#j3f9d29f]
+&attachref(moonlight_n.png,nolink);

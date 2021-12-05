@@ -1,0 +1,22 @@
+*夏のドナサマー [#title]
+***詳細・攻略 [#more]
+-「''太鼓の達人10''」タイアップ曲。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC10''|CENTER:★×3|CENTER:''114''|CENTER:''?????0点''|CENTER:＋連打|CENTER:650点|CENTER:210点|
+-BPMは175。
+-''本人音源である''。
+--この曲の音源は今までCD化されていない上に、アーティストの「80★PAN」が2009年で解散した。
+---そのため、この曲を聴くにはAC10しかないというJ-POPとしては異例の幻の曲となってしまった。
+-曲IDは、''80pan''
+
+-[[ふつう>難易度表/ふつう/夏のドナサマー]]
+-[[むずかしい>難易度表/むずかしい/夏のドナサマー]]
+-[[おに>難易度表/おに/夏のドナサマー]]
+-[[プレイ動画>https://www.youtube.com/watch?v=DI5wORML3BQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(donae.png,nolink);

@@ -1,0 +1,12 @@
+*M-O-T-U [#title]
+
+**概要 [#more]
+
+**作品一覧 [#work]
+--ボーカロイド曲
+---[[SstTAarR*>難易度表/おに/SstTAarR*]]
+--ナムコオリジナル
+---[[Calculator>難易度表/おに/Calculator]]
+
+**コメント [#comment]
+#pcomment(,noname)

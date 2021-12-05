@@ -1,0 +1,28 @@
+*''&ruby(クランキー){Cranky};'' | &ruby(わたなべ){渡辺}; &ruby(ひろし){洋};[#title]
+
+**概要 [#more]
+-フリーの作曲家。
+--まだBM98が主流だった頃に、[[TM NETWORK>難易度表/おに/Get Wild]]や[[B'z>難易度表/おに/LOVE PHANTOM]]の曲などを中心に様々なアレンジBMSを公開していたが、現在は各音楽ゲームへのオリジナル曲の制作などをメインとしている。
+-レッドVer.のアップデート(2016/9/14)で、siromaruとの合作曲[[「conflict」>難易度表/おに/conflict]]が収録され、''BMSオリジナル曲としては史上初の5社達成''の快挙を成し遂げた。
+-また、[[Tatsh>参加アーティスト一覧/世阿弥]]、[[t+pazolite>参加アーティスト一覧/t+pazolite]]、[[xi>参加アーティスト一覧/xi]]と同じく''音楽ゲーム主要5社完全制覇者''である。
+-9月29日生まれ。
+
+-[[Twitter>https://twitter.com/_cranky]]
+
+**作品一覧 [#work]
+--バラエティ
+---Help me, ERINNNNNN!! -Cranky remix-((ニコニコ超会議2016、例大祭13、秋季例大祭'16限定))
+---[[conflict>難易度表/おに/conflict]]((siromaruとの合作))
+--ゲームミュージック
+---[[ouroboros -twin stroke of the end->難易度表/おに/ouroboros -twin stroke of the end-]]((MASAKIとの合作))
+--ナムコオリジナル
+---[[VICTORIA>難易度表/おに/VICTORIA]]
+
+--太鼓の達人には収録されていないその他の作品
+---[[宛城、炎上！！ >https://chunithm.gamerch.com/%E5%AE%9B%E5%9F%8E%E3%80%81%E7%82%8E%E4%B8%8A%EF%BC%81%EF%BC%81]](別Wiki)
+---[[Warrior>http://www.wikihouse.com/groove/index.php?Warrior]](別Wiki)
+---We Gonna Journey
+---Libera me
+
+**コメント[#comment]
+#pcomment(,noname)

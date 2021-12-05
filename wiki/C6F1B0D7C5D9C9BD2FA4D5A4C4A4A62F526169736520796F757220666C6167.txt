@@ -1,0 +1,35 @@
+*Raise your flag [#title]
+***詳細・攻略 [#more]
+-アニメ「''機動戦士ガンダム　鉄血のオルフェンズ''」のOP1。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''PS Vita1DL''|CENTER:★×4|CENTER:''103''|CENTER:''528100点''|CENTER:＋連打|CENTER:1160点|CENTER:660点|
+|CENTER:COLOR(#f30){真打}|~|~|CENTER:COLOR(#f30){''979600点''}|~|CENTER:COLOR(#f30){6870点}|CENTER:-|
+|CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|CENTER:1150点|CENTER:390点|
+-BPMは145。
+-黄色連打がかなり多い連打曲で、全て大連打である。
+-全体的に付点配置がかなり多く、リズムが取りづらい。
+-大音符がかなり多く、37個ある（全体の約35.9%）。
+-4分と付点8分が主体の譜面で、8分は3連打が4回しか出て来ない。
+--また、4分の複合は1回も出て来ない。
+--ただし付点配置が多いので、全良難易度は高めである。
+-ゴーゴーは付点8分が多く、リズムが取りづらくなっている。
+-ゴーゴーで4回出てくる付点8分の複合3連打（●●○）に注意。
+
+***その他 [#other]
+-曲名の読み方は、''レイズ ユア フラッグ''。
+-アーティストは、''MAN WITH A MISSION''。
+--作詞は、Kamikaze Boy・Jean-Ken Johnny。作曲は、Kamikaze Boy。編曲は、MAN WITH A MISSION・大島こうすけ。
+-譜面作成は、''ヤマグチ''。
+-曲IDは、''gdmorp''
+-[[かんたん>難易度表/かんたん/Raise your flag]]
+-[[むずかしい>難易度表/むずかしい/Raise your flag]]
+-[[おに>難易度表/おに/Raise your flag]]
+-[[オート動画(1:55〜)>http://www.youtube.com/watch?v=vOCsO96RhVU&t=115]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+くすだまの長さは暫定
+&ref(ryf_n.png,nolink);

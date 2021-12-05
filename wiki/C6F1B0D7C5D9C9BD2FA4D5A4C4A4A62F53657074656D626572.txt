@@ -1,0 +1,32 @@
+* September [#title]
+***詳細・攻略　[#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|人数|最大コンボ数|>|天井スコア|初項|公差|h
+|''TDM''|★×3|1人|''220''|''547330点''|+連打|750点|220点|
+|~|~|2人|''216''|''546680点''|~|800点|220点|
+-BPMは約126。
+-8分がやや多く、8分の○●が2か所ある。
+-2人用譜面は1Pと2Pで異なるものの、天井スコア及びコンボ数は同じである。
+
+***その他 [#other]
+-1978年発売のシングル曲。
+-曲名こそ9月だが、この曲は12月に9月のことを回想する曲である。
+-アーティストは''Earth, Wind & Fire''（アース・ウィンド・アンド・ファイアー）
+-2002年に放送されたドラマ「続・平成夫婦茶碗」の主題歌である。
+-他社では、コナミのdrummania V4、Dance Dance Revolution UNIVERSE(Xbox360、日本未発売)、jukebeat(｢jubeat ripples｣の北米版)、任天堂のWii Music、ドンキーコンガ(欧州版)、Elite Beat Agents(｢押忍!闘え!応援団｣の日本国外版)に収録されている。
+----
+-[[かんたん>難易度表/かんたん/September]]
+-[[むずかしい>難易度表/むずかしい/September]]
+-[[おに>難易度表/おに/September]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=0DPVKDanbBM]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=hpxq3Uz-rZw]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面[#score]
+BPMはおおよその値。実際は細かく変動しているようです
+~1人用
+&ref(sep n.png,nolink);
+~2人用
+&ref(sep nd.png,nolink);

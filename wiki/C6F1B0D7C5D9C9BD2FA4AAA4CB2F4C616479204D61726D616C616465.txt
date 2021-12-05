@@ -1,0 +1,25 @@
+*Lady Marmalade [#hb7085e7]
+***詳細・攻略 [#h352e239]
+|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|CENTER:天井スコア|h
+|CENTER:''米TDM''|CENTER:★×2|CENTER:''225''|''268000点''|
+|CENTER:TDM|CENTER:★×4|CENTER:''250''|''318000点''|
+- 黄色連打も風船も無い''完全精度曲''である。
+-COLOR(blue){●}COLOR(red){●●}などの3連打や、5連打が多く、★×4では強め。
+-米TDMおにと日本のTDMのむずかしいは譜面が同一。
+***その他 [#other]
+-アーティストは、''ラベル(Labelle)''。
+----
+-[[かんたん>難易度表/かんたん/Lady Marmalade]]
+-[[ふつう>難易度表/ふつう/Lady Marmalade]]
+-[[むずかしい>難易度表/むずかしい/Lady Marmalade]]
+-[[オート動画(TDM)>https://www.youtube.com/watch?v=0-7rUXyOjP8]]
+
+***コメント [#q64a0b7c]
+#pcomment(,noname)
+
+***譜面[#score]
+日TDM&br;
+&attachref(Lady Marmalade2p.png,nolink);
+
+米TDM&br;
+&attachref(Lady Marmalade.png,nolink);

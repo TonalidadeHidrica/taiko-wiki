@@ -1,0 +1,34 @@
+*database feat. TAKUMA(10-FEET) &br;database((Wii U3の表記)) [#title]
+***詳細・攻略 [#more]
+-アニメ「''ログ・ホライズン''」1期・2期のOP曲。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii U3''&br;PS Vita1DL|CENTER:★×6|CENTER:''331''|CENTER:''798050点''|CENTER:＋連打|CENTER:710点|CENTER:213点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){???0点}|CENTER:-|
+|CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|CENTER:730点|CENTER:170点|
+-BPMは177。
+-黄色連打が多い連打曲である。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の3連打までしかないが、連続して出てくる箇所もある。
+--また、8分の複合は種類が多い。
+-ゴーゴーは休みが少ないので、適正者にとっては体力的に厳しいかもしれない。
+-たまに出てくる8分の複合6連打（○○○●●○と●○○●●○）に注意。
+--また、ラストはソフランがかかっているので、フルコン狙いの人は注意が必要。
+
+***その他 [#other]
+-アーティストは、''MAN WITH A MISSION''。
+--作詞は、Kamikaze Boy・Jean-Ken Johnny・TAKUMA。作曲は、Kamikaze Boy。編曲は、MAN WITH A MISSION・Kohsuke Oshima。
+-曲IDは、''loghor''
+
+-[[かんたん>難易度表/かんたん/database feat.TAKUMA(10-FEET)]]
+-[[ふつう>難易度表/ふつう/database feat.TAKUMA(10-FEET)]]
+-[[おに>難易度表/おに/database feat.TAKUMA(10-FEET)]]
+-[[オート動画(Wii U3,キャプチャ)>http://www.youtube.com/watch?v=oX6-WS52U3E]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+HSは適当
+&attachref(データむずかしい.png,nolink);

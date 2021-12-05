@@ -1,0 +1,32 @@
+*ROCKET DIVE [#Title]
+***詳細・攻略 [#More]
+-アニメ「''AWOL -Absent Without Leave-''」のOP曲。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''||CENTER:★×5|CENTER:''211''|CENTER:''?????0点''|CENTER:+連打|CENTER:990点|CENTER:250点|
+||CENTER:iOS|CENTER:★×3|~|CENTER:''646860点''|~|CENTER:820点|CENTER:220点|
+||CENTER:PS Vita1DL|~|~|CENTER:''647680点''|~|CENTER:850点|CENTER:280点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''998800点''}|~|CENTER:COLOR(#ff3300){4100点}|CENTER:-|
+-BPMは183。
+-大音符が多く、30個ある（全体の約14.2%）。
+-全体的に8分がかなり多いが、16分が1回も出て来ないので★×5にしてはかなり簡単な方。
+--また、8分は単色の5連打までしかない。
+--そのことが反映されたのか、iOSで★×3に降格した。
+-一応コンボ数は[[おに>難易度表/おに/ROCKET DIVE]]の半分を超えているが、難易度は雲泥の差がある。
+-音符密度は、''約2.77打/秒''。
+
+***その他 [#other]
+-曲名の読み方は、''ロケット ダイブ''。
+-アーティストは、''hide with Spread Beaver''。
+-曲IDは、''rocket''
+
+-[[かんたん>難易度表/かんたん/ROCKET DIVE]]
+-[[ふつう>難易度表/ふつう/ROCKET DIVE]]
+-[[おに>難易度表/おに/ROCKET DIVE]]
+-[[オート動画(iOS,キャプチャ)>http://www.youtube.com/watch?v=cSbvrxIYAGI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(ROCKET DIVE-hard.png,nolink);

@@ -1,0 +1,42 @@
+*Extreme MGG★★★(裏譜面) [#title]
+
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC15.1.3''|PS Vita1DL&br;3DS3DL|★×9|''757''|''1104980点''|440点|110点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1002800点''}|COLOR(#ff3300){1300点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは120-240(160→240→200→140→160→120→160)。
+--速度変化が多いため、慣れていないと苦戦するだろう。
+--BPM240の8分＝BPM160の12分、BPM200の8分＝BPM160の10分、BPM140の16分＝BPM160の14分、BPM120の8分＝BPM160の6分と見ることもできる。
+-''精度曲''のひとつ。
+-[[表譜面>難易度表/おに/Extreme MGG★★★]]と同じく音符の追い越しがある。こちらも、慣れていないとコンボカッターとなり得るので注意。
+-裏拍から始まる長い複合、偶数連打による崩し、変拍子等の技術を試される譜面。GMで言えば[[KARMA(Tatsujin Mix)>難易度表/おに/KARMA(Tatsujin Mix)]]の強化版といったところか。
+-ゴーゴーはノンストップで偶数連打混じりの複合ラッシュが待ち受けている。ある程度の体力も必要だろう。
+-リズム難の中で短い複合がノンストップで続く[[Ridge Racer(裏譜面)>難易度表/おに/Ridge Racer(裏譜面)]]とセットで練習すると、★×10クリアに必要な複合処理能力の基礎が身につく。
+-''ラスト1打の叩き忘れに注意''。
+-平均密度は、''約6.30打/秒''。
+
+***その他 [#other]
+-楽曲情報は[[表譜面>難易度表/おに/Extreme MGG★★★]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Extreme MGG★★★]]
+-[[ふつう>難易度表/ふつう/Extreme MGG★★★]]
+-[[むずかしい>難易度表/むずかしい/Extreme MGG★★★]]
+-[[おに>難易度表/おに/Extreme MGG★★★]]/裏譜面
+-[[プレイ動画>https://youtu.be/fnZ5OV1zm20]]
+//↓どちらも広告付き
+//-[[プレイ動画>https://www.youtube.com/watch?v=LtZ0WhQKrFo]]
+//-[[プレイ動画>https://www.youtube.com/watch?v=FoBWUA8NPDI]]
+
+***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#3333ff){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,10,noname)
+
+***譜面 [#score]
+~&attachref(mgg.png,nolink);
+~BPM160固定と見た場合
+&attachref(160.png,nolink);

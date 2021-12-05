@@ -1,0 +1,25 @@
+*フラワーガール [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(red){PS Vita MS SP}''|★×4|''169''|''529560点''|+連打|780点|268点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''983840点''}|~|COLOR(#ff3300){4730点}|-|
+-BPMは124。
+
+***その他 [#other]
+-この曲は''四条貴音(CV:原由美)''の持ち歌である。
+-作詞は''Yoshi,Kyon''。作曲・編曲は''Yoshi''。
+-譜面作成は、''くぼけん''。
+
+----
+-[[かんたん>難易度表/かんたん/フラワーガール]]
+-[[むずかしい>難易度表/むずかしい/フラワーガール]]
+-[[おに>難易度表/おに/フラワーガール]]
+-[[オート動画(2:33〜)>https://www.youtube.com/watch?v=atSitOh9JL0&t=153]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(imasfl_n.png,nolink);

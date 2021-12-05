@@ -1,0 +1,26 @@
+*アイノカタチ feat.HIDE(GReeeeN) [#title]
+-TBS系ドラマ「''義母と娘のブルース''」主題歌。
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15 JAEPO2019Ver.''&br;AC15.11.0|PS4 1DL&br;NS1DL|★×1|''59''|''??????点''|＋連打|1350点|1365点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''??????点''}|~|COLOR(#ff3300){14450点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは88〜90。
+-平均密度は約0.77打/秒。
+***その他 [#other]
+-アーティストは、''MISIA''。
+--作詞・作曲は、[[COLOR(green){GReeeeN}>アーティスト別収録曲#green]]。編曲は、亀田誠治。
+
+----
+-[[ふつう>難易度表/ふつう/アイノカタチ feat.HIDE(GReeeeN)]]
+-[[むずかしい>難易度表/むずかしい/アイノカタチ feat.HIDE(GReeeeN)]]
+-[[おに>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]
+-[[プレイ動画>https://www.youtube.com/watch?v=w_74UdmjHgw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(ぎぼむすかんたん_.png,nolink);

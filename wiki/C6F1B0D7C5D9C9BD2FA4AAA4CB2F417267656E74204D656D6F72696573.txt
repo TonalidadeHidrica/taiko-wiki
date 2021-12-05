@@ -1,0 +1,26 @@
+*Argent Memories [#title]
+***詳細 [#detail]
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''PS4 1DL''|★×9|''636''|''1105270点''|510点|113点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1004800点''}|COLOR(#ff3300){1400点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは152
+-''精度曲''のひとつ。
+-平均密度は、''約5.23打/秒''
+***その他 [#other]
+-作曲・編曲は、[[''K Masera''>参加アーティスト一覧/K Masera]]。
+-作詞・唄は、''YuusA''。
+
+----
+-[[かんたん>難易度表/かんたん/Argent Memories]]
+-[[ふつう>難易度表/ふつう/Argent Memories]]
+-[[むずかしい>難易度表/むずかしい/Argent Memories]]
+-[[オート動画>https://www.youtube.com/watch?v=UcXUTZGeHBw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(銀色の記憶.png,nolink);

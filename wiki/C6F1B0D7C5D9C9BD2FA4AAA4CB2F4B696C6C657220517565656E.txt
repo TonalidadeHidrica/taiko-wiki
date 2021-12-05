@@ -1,0 +1,22 @@
+*Killer Queen [#n8956f1f]
+***詳細･攻略 [#z18f6ec2]
+-ホンダ「''モビリオ''」CMソング。
+|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|h
+|CENTER:''米TDM''|CENTER:★×4|CENTER:''221''|''??????点''|＋連打|
+|CENTER:TDM|CENTER:★×5|CENTER:''294''|''405000点''|~|
+-BPMは109。
+-この譜面は日本版のみで、北米版はむずかしいコースと同一。
+-12分のCOLOR(blue){●}COLOR(red){●●}COLOR(blue){●}COLOR(red){●}などが多く出てきて、中盤には12分の23連打が出る。
+***その他 [#other]
+-アーティストは、''クイーン''(''Queen'')。
+----
+-[[かんたん>難易度表/かんたん/Killer Queen]]
+-[[ふつう>難易度表/ふつう/Killer Queen]]
+-[[むずかしい>難易度表/むずかしい/Killer Queen]]
+-[[オート動画(TDM)>https://www.youtube.com/watch?v=YCYJ1JTGc9M]]
+
+***コメント [#o771cdd7]
+#pcomment(,noname)
+
+***譜面 [#ga344670]
+~&attachref(Killer Queen4.png,nolink);

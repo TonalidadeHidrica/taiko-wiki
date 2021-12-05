@@ -1,0 +1,31 @@
+*Colorful Days (12 Colors) [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(red){PS Vita MS}''|★×4|''156''|''513220点''|+連打|950点|330点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''971300点''}|~|COLOR(#ff3300){5350点}|-|
+-BPMは159。
+-[[かんたん>難易度表/かんたん/Colorful Days(12 Colors)]]・[[むずかしい>難易度表/むずかしい/Colorful Days(12 Colors)]]とともに黄色連打の多いかなりの連打曲である。
+-69小節のくすだまは、その3コース全てで打数が同じである。(12打) 
+-おそらく曲名の「''12'' Colors」に掛けたものだと思われる。
+
+***その他 [#other]
+-「Colorful Days」とは、ゲーム「''THE IDOLM@STER SP''」のテーマ曲で、当時765プロに所属経験のあるアイドル11人のそれぞれのイメージカラー10色が歌詞に含まれる。
+--COLOR(red){MS赤盤}に収録されたのは「THE IDOLM@STER2」以降765プロに所属する響と貴音のイメージカラーも歌詞に追加された12色バージョン。そのため、曲名に「(12 Colors)」が付けられた。
+-歌唱は、''765PRO ALLSTARS''。
+-作詞は''中村恵''。作曲は[[''佐々木宏人''>参加アーティスト一覧/佐々木宏人]]。
+-譜面作成は、[[''くぼけん''>譜面作成者一覧/くぼけん]]。
+-曲IDは、''imscol''
+
+----
+-[[かんたん>難易度表/かんたん/Colorful Days(12 Colors)]]
+-[[むずかしい>難易度表/むずかしい/Colorful Days(12 Colors)]]
+-[[おに>難易度表/おに/Colorful Days(12 Colors)]]
+-[[オート動画(2:28〜)>https://www.youtube.com/watch?v=kFt9tsA_rxA&t=148]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(imas12_n.png,nolink);

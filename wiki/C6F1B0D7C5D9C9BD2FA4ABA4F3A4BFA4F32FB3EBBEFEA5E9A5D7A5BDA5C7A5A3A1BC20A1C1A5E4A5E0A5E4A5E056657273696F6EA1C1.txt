@@ -1,0 +1,20 @@
+*葛飾ラプソディー 〜ヤムヤムVersion〜 [#wbdb44e0]
+***詳細・攻略 [#hb8ddaed]
+-アニメ「''こちら葛飾区亀有公園前派出所''」のOP7。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''CS4''|★×2|''80''|''435350点''|＋連打|1680点|930点|
+-BPMは191。
+-アーティストは、''Yum!Yum!ORANGE''（ヤムヤムオレンジ）。
+-[[ふつう>難易度表/ふつう/葛飾ラプソディー 〜ヤムヤムVersion〜]]
+-[[むずかしい>難易度表/むずかしい/葛飾ラプソディー 〜ヤムヤムVersion〜]]
+-[[おに>難易度表/おに/葛飾ラプソディー　〜ヤムヤムVersion〜]]
+-[[オート動画>https://www.youtube.com/watch?v=7nstJfAuPco]]
+
+***コメント [#tbef0042]
+#pcomment(,noname)
+
+***譜面 [#u24d5ebe]
+~連打の長さは適当
+&attachref(ktkm_e.png,nolink);

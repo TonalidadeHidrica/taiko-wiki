@@ -1,0 +1,29 @@
+*UNITE! [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC3''|CENTER:★×6|CENTER:COLOR(#909):''436&br;COLOR(#069):392&br;COLOR(#666):320''|CENTER:''857840点''|CENTER:＋連打|CENTER:640点|CENTER:140点|
+-BPMは138。
+-複合が非常に多く、クリア難易度はかなり高い。今でも、J-POPむずかしい最高難易度の部類に入るだろう。
+--[[おに>難易度表/おに/UNITE!]]と違い、クリアを狙うなら玄人維持は最低限出来る必要がある。
+--また、達人譜面への分岐は厳しい。
+-余談だが、仕様上ラストの風船だけはふつう以下より割りやすい。
+--ただし普通譜面のみ、ふつう以下のラストの風船並にきつい風船が2回やってくる。
+-この曲の登場が影響したのか、[[夏祭り>難易度表/むずかしい/夏祭り]]がAC3で★×5に降格するという事態が起きている。
+-曲名の読み方は、''ユナイト''。
+-アーティストは、''浜崎あゆみ''。
+--作曲は、CREA。編曲は、HΛL。
+-譜面作成は、''ササオカ''。
+-曲IDは、''unite''。
+-[[かんたん>難易度表/かんたん/UNITE!]]
+-[[ふつう>難易度表/ふつう/UNITE!]]
+-[[おに>難易度表/おに/UNITE!]]
+-プレイ動画
+--[[COLOR(#666):普通譜面>http://www.youtube.com/watch?v=BKWScJ-IbEg]]/[[COLOR(#069):玄人譜面>http://www.youtube.com/watch?v=0sfmdtrnKzk]]/[[COLOR(#909):達人譜面>http://www.youtube.com/watch?v=x1v4Dc1Km54]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+玄人譜面が間違っているかもしれません。
+&attachref(うにて！.png,nolink);

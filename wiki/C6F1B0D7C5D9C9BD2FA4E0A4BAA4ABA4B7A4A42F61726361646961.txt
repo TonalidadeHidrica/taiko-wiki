@@ -1,0 +1,27 @@
+*arcadia [#title]
+-「''アイドルマスター''」のCDシリーズ「MASTER SPECIAL」からの収録曲。
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(red){PS Vita MS SP}''|★×6|''264''|''786910点''|+連打|810点|253点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''989320点''}|~|COLOR(#ff3300){3280点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは84.36〜180。
+
+***その他 [#other]
+-この曲は[[''如月千早''>THE IDOLM@STER関連楽曲一覧#solo]](CV:[[''今井麻美''>参加アーティスト一覧/今井麻美]])の持ち歌である。
+--作詞は、白瀬彩。作曲は、上松範康。編曲は、中山真斗。
+-譜面作成は、[[''くぼけん''>譜面作成者一覧/くぼけん]]。
+-曲IDは、''imsarc''。
+----
+-[[かんたん>難易度表/かんたん/arcadia]]
+-[[ふつう>難易度表/ふつう/arcadia]]
+-[[おに>難易度表/おに/arcadia]]
+-[[オート動画(4:41〜)>https://www.youtube.com/watch?v=ON0q5gFL-34&t=281]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(arcadia_h.png,nolink);

@@ -1,0 +1,17 @@
+*忍道　7巻 [#title]
+-Wiiの毎日チャレンジ道場のお題。
+
+***詳細・攻略 [#capture]
+-レベル7で3コンボ。
+-良3でクリア。特良でなくても良い。
+-太鼓タワー その6の最初のような譜面。
+
+-[[プレイ動画(1巻〜10巻)>http://youtu.be/rW3TfzCsA8s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+
+***譜面 [#score]
+HSは暫定
+~&attachref(忍7.png,nolink);

@@ -1,0 +1,52 @@
+*KARMA (Tatsujin Mix) [#title]
+***詳細・攻略 [#more]
+-バンダイナムコゲームス「[[''鉄拳6 BLOODLINE REBELLION''>http://www.tekken-official.jp/tk6ac/index.html]]」の楽曲を太鼓の達人向けに再編集した曲。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC14SP''||CENTER:★×8|CENTER:''472''|CENTER:''888640点''|CENTER:＋連打|CENTER:450点|CENTER:100点|
+||CENTER:PSPDX|~|~|CENTER:''887440点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''901060点''}|~|CENTER:COLOR(#ff3300){1540点}|CENTER:-|
+||CENTER:Wii5SP|~|CENTER:''473''|CENTER:''887560点''|~|CENTER:480点|CENTER:115点|
+|CENTER:AC15.10.4||CENTER:★×7|CENTER:''472''|CENTER:''841730点''|~|CENTER:460点|CENTER:108点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){1710点}|CENTER:-|
+-BPMは約145。
+-黄色連打が多く、中盤には芋連打が35→40→45→50打と4ヵ所ある。2Pプレイの場合、連打によってはかなりの高スコアが狙えるだろう。
+-大音符が多く、67個ある（全体の約14.2％）。
+-速度は至って普通だが、全体的に16分がかなり多い。
+--16分はほとんどが単色だが、複合（COLOR(red){●}COLOR(blue){●}）も3回出てくる。
+--また、かなりの物量譜面なので、適正者にとっては体力的に厳しいかもしれない。
+-ただし、譜面自体は一つのパターンの繰り返しが多い。
+--16分が12連続で出てくる77〜80小節に注意。
+-フルコン難易度は高めだが、繰り返しが多いのでクリアはそれほど難しくない。
+-AC15で★×7に降格したが、''同難易度では強めの部類に入るため注意。''
+
+***その他 [#other]
+-サブタイトル表記は以下の通り。
+--AC14、新筐体ブルー以降：''「鉄拳6 BLOODLINE REBELLION」より''
+--PSPDX：''「鉄拳6」より''
+--Wii5：記載なし
+-アーティストは、''遠山明孝''(AJURIKA)。
+-譜面作成は、''エトウ''。
+-曲IDは、''teken6''。
+-新基準ではWii5、ACでは14以来長らく収録されてなかったが、2018年8月8日にてブルーVer.に収録を果たすこととなった。
+--新基準対応作品に収録されるのは''約6年ぶり''、ACに収録されるのは''約8年ぶり''となる。
+
+-[[かんたん>難易度表/かんたん/KARMA(Tatsujin Mix)]]
+-[[ふつう>難易度表/ふつう/KARMA(Tatsujin Mix)]]
+-[[おに>難易度表/おに/KARMA(Tatsujin Mix)]]
+-[[プレイ動画(AC14)>http://www.youtube.com/watch?v=5VFR1e1Fw8c]]
+-[[オート動画(Wii5)>http://www.youtube.com/watch?v=3F-_O--PX_4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+-譜面分岐がある場合
+--普通、玄人譜面はWii5の譜面
+--達人譜面はAC、PSPDXの譜面
+-Wii5譜面の40小節の2つめの大音符が巨大音符になっており、これによって41-55小節の譜面が変化する。
+--良:達人譜面、ACと同じ
+--可:玄人譜面
+--不可:普通譜面
+
+&ref(karma-HARD-Wii5a.png,nolink);

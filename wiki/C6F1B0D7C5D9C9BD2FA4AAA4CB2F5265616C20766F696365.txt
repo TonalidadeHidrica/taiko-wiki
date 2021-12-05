@@ -1,0 +1,22 @@
+*Real voice [#title]
+***詳細・攻略 [#cad95c6f]
+-フジテレビ系ドラマ''｢サプリ｣''主題歌。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC9|CENTER:''CS7''|CENTER:★×5|CENTER:''396''|CENTER:''903350点''|CENTER:730点|CENTER:150点|
+-BPMは100〜131。
+-''完全精度曲''のひとつ。
+-中盤に16分音符が多い譜面になっている。
+-ラストで大きく減速するので注意。
+-アーティストは、''[[絢香>アーティスト別収録曲#ayaka]]''。
+-曲IDは''supli''
+-[[かんたん>難易度表/かんたん/Real voice]]
+-[[ふつう>難易度表/ふつう/Real voice]]
+-[[むずかしい>難易度表/むずかしい/Real voice]]
+-[[プレイ動画>http://www.youtube.com/watch?v=dS1MQIh9L2c]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(s.png,nolink);

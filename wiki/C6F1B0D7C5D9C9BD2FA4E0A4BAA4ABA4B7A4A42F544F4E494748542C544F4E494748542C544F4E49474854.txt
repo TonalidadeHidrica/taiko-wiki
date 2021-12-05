@@ -1,0 +1,28 @@
+*TONIGHT,TONIGHT,TONIGHT [#ydd3c1ab]
+-アニメ''「BLEACH」''のOP4
+--この名義で歌われている曲はこの曲を含め歌詞が全て英語であるが所謂カタカナ語的な発音なのが特徴。
+***詳細・攻略 [#details]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC9''|CENTER:★×7|CENTER:COLOR(#909){''343}&br;COLOR(#069){285}&br;COLOR(#666){258''}|CENTER:''838200点''|CENTER:＋連打|CENTER:800点|CENTER:170点|
+-BPMは178。
+-達人維持が非常に難しい。
+-達人譜面のみ、序盤に16分の●●○がある。
+-平均密度は約4.45打/秒(達人譜面)
+--平均密度は約3.69打/秒(玄人譜面)
+---平均密度は約3.34打/秒(普通譜面)
+
+***その他 [#other]
+-アーティストは、''BEAT CRUSADERS''。
+----
+-[[かんたん>難易度表/かんたん/TONIGHT,TONIGHT,TONIGHT]]
+-[[ふつう>難易度表/ふつう/TONIGHT,TONIGHT,TONIGHT]]
+-[[おに>難易度表/おに/TONIGHT,TONIGHT,TONIGHT]]
+-[[プレイ動画>https://www.youtube.com/watch?v=eJycVRlqYdg]]
+-[[全分岐同時再生>https://www.youtube.com/watch?v=_py6VAsbJeU]]
+
+***コメント [#rc370c01]
+#pcomment(,noname)
+
+***譜面 [#ye0a35d6]
+共通譜面は黄色分岐小節線のない普通譜面にした。
+&ref(2night.png,nolink);

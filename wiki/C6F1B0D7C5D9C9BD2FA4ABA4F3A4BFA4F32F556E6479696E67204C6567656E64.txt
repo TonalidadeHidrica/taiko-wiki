@@ -1,0 +1,25 @@
+*Undying Legend [#title]
+-PC / PS4 / XBOXONE用ソフト「[[''ソウルキャリバーVI''>ゲーム別収録曲#sc]]」のステージで流れるBGM。
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS4 1DL''|★×4|''165''|''?????0点''|＋連打|??0点|???点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){??0点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは159?。
+
+***その他 [#other]
+-作曲は、[[''矢野義人''>参加アーティスト一覧/矢野義人]]。
+----
+-[[ふつう>難易度表/ふつう/Undying Legend]]
+-[[むずかしい>難易度表/むずかしい/Undying Legend]]
+-[[おに>難易度表/おに/Undying Legend]]
+-[[オート動画>https://www.youtube.com/watch?v=ArL2-ptKY3I]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(不死の伝説かんたん.png,nolink);

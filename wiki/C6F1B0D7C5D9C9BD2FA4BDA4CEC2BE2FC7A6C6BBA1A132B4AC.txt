@@ -1,0 +1,14 @@
+*忍道　2巻 [#title]
+-Wiiの毎日チャレンジ道場のお題。
+
+***詳細・攻略 [#capture]
+-レベル3で2コンボ。
+-良2でクリア。特良でなくても良い。
+
+-[[プレイ動画(1巻〜10巻)>http://youtu.be/rW3TfzCsA8s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(ninja2修正2.png,nolink);

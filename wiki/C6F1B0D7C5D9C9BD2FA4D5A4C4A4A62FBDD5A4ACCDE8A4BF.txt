@@ -1,0 +1,12 @@
+*春が来た [#tenuki]
+***詳細・攻略 [#yb962822]
+-詳細は以下の通り：
+|バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''RT''|CENTER:★×3|CENTER:''79''|CENTER:''579450点''|CENTER:＋連打|CENTER:2400点|CENTER:1350点|
+-BPMは100.15。
+-[[かんたん>難易度表/かんたん/春が来た]]
+-[[プレイ動画>https://www.youtube.com/watch?v=Ur9qvAIidRA]]
+
+***コメント [#c6d1db44]
+#pcomment(,noname)
+&attachref(harun.png,nolink);

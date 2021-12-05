@@ -1,0 +1,23 @@
+*Over the Future [#z63cc45e]
+***詳細・攻略 [#r8731c42]
+-アニメ「''絶対可憐チルドレン''」の第1期OP。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''&br;AC12増&br;AC12亜|CENTER:★×3|CENTER:''96''|CENTER:''308910点''|CENTER:＋連打|CENTER:990点|CENTER:360点|
+-BPMは147。
+-黄色連打がかなり多い連打曲で、AC12の全一記録は''39万点''を超えている。
+-4分は単色の3連打しかないが、このレベルにしてはかなり多い。単発しかないのが救いか。
+-曲名の読み方は、''オーバー ザ フューチャー''。
+-アーティストは、''可憐Girl's''。
+-メンバーは''武藤彩未''､''島ゆいか''､''中元すず香''｡当時はまだ全員小学生である。元々このアニメのタイアップの為に結成されたグループの為､アニメ終了と共に活動は終了している。
+
+-[[ふつう>難易度表/ふつう/Over the Future]]
+-[[むずかしい>難易度表/むずかしい/Over the Future]]
+-[[おに>難易度表/おに/Over the Future]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=jUsEsZz6k00]]
+
+***コメント [#s860b00d]
+#pcomment(,noname)
+
+***譜面 [#sab3b11d]
+&attachref(Over the Future.png,nolink);

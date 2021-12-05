@@ -1,0 +1,21 @@
+*きよしのズンドコ節 [#wf4275fa]
+***詳細・攻略 [#waf39d8d]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|h
+|''AC4''|★×4|COLOR(#909):''356&br;COLOR(#069):336&br;COLOR(#666):273''|''515000点''|＋連打|
+-BPMは106.1。
+-★×4であるが達人譜面はCOLOR(blue){●●}COLOR(red){●}COLOR(blue){●}COLOR(red){●●●}等の複合が多発するため、かなりの詐称譜面である。
+-大音符はラスト一個のみ。
+-普通譜面は、最初の分岐以降は[[むずかしい>難易度表/むずかしい/きよしのズンドコ節]]と同一譜面。
+-アーティストは、[[''氷川きよし''>アーティスト別収録曲#kiyoshi]]。
+-譜面作成は、''[[ササオカ>譜面作成者一覧/ササオカ]]''。
+-[[かんたん>難易度表/かんたん/きよしのズンドコ節]]
+-[[ふつう>難易度表/ふつう/きよしのズンドコ節]]
+-[[むずかしい>難易度表/むずかしい/きよしのズンドコ節]]
+-プレイ動画([[COLOR(#909):達人譜面>https://www.youtube.com/watch?v=AQhwD048nxA]]/[[COLOR(#069):玄人譜面>http://www.youtube.com/watch?v=YOkQaX-cwxs]]/[[COLOR(#666):普通譜面>http://www.youtube.com/watch?v=K3vE16zmKrs]])
+
+***コメント [#ibcac8e3]
+#pcomment(,noname)
+
+***譜面 [#g02d8f6e]
+&attachref(kiyosio.png,nolink);

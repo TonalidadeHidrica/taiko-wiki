@@ -1,0 +1,35 @@
+*You Can't Hurry Love [#r164d2ab]
+**1人用譜面 [#e18636a6]
+***詳細・攻略 [#more]
+|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|h
+|''TDM''|★×6|''425''|''658000点''|+連打|
+-BPMは192-194。
+-平均密度は、''約3.80打/秒''。
+-[[ハピハピ>難易度表/おに/ハピハピ]]のような高速ハネリズムの譜面だが、2回出るCOLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}に注意。
+-[[オート動画>https://www.youtube.com/watch?v=uKS4imEV7eo]]
+**二人用譜面 [#g03d386f]
+***詳細・攻略 [#more]
+|>|>|>|>|>|CENTER:|c
+|バージョン|難易度||最大コンボ数|>|天井スコア|h
+|''TDM''|★×6|1P|''446''|''??????点''|+連打|
+|~|~|2P|''443''|''??????点''|~|
+-一人用譜面よりもコンボ数が多い。
+-一人用譜面にはない5連打や7連打の複合が登場する。但し2連打の複合は1人用より少ない。
+-8連打の複合はこちらではCOLOR(blue){●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}になっているので注意。
+-[[オート動画>https://www.youtube.com/watch?v=O9Mx9JarMcw]]
+**その他 [#other]
+-アーティストは、''スプリームス(The Supremes)''。
+-曲IDは、''hurry''。
+----
+-[[かんたん>難易度表/かんたん/You Can't Hurry Love]]
+-[[ふつう>難易度表/ふつう/You Can't Hurry Love]]
+-[[むずかしい>難易度表/むずかしい/You Can't Hurry Love]]
+
+***コメント [#fa2b52bc]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(恋はあせらず.png,nolink);
+~二人用譜面
+&attachref(恋はあせらず2.png,nolink);

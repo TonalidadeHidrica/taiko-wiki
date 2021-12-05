@@ -1,0 +1,32 @@
+*Growing Up [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.0SP''|CENTER:3DS1&br;Wii U1SP|CENTER:★×3|CENTER:''221''|CENTER:''330320点''|CENTER:＋連打|CENTER:460点|CENTER:120点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''991280点''}|~|CENTER:COLOR(#ff3300){4220点}|CENTER:-|
+||CENTER:iOS&br;AR|~|~|CENTER:''315580点''|~|CENTER:400点|CENTER:100点|
+-BPMは190。
+-連打秒数目安・・・約1.072秒×2−約0.763秒×2−''約1.237秒''−''約0.763秒''−約1.567秒：合計約7.237秒
+-速度が少し速く、全体的に4分がかなり多い。
+--4分は3連打が主体で、たまに5連打も出てくる。
+--また4分は単色が多いが、たまに複合も出てくる。
+-ゴーゴー前で1回だけ出てくる4分の単色6連打に注意。
+--この6連打は大音符なので、1個でも特良を逃すと痛い失点になる。
+-フルコン難易度は少し高めだが、8分は1回も出て来ない。
+
+***その他 [#other]
+-曲名の読み方は、''グローウィング アップ''。
+-アーティストは、''Mint&#74;am''。
+--作曲は、a2c。作詞・歌唱は、TERRA。
+-サントラ「''フルコンボ！''」にはショートバージョン、Mint&#74;amのアルバム「''Little''''Monster''」には約5分程のフルバージョンが収録されている。
+
+-[[ふつう>難易度表/ふつう/Growing Up]]
+-[[むずかしい>難易度表/むずかしい/Growing Up]]
+-[[おに>難易度表/おに/Growing Up]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=r1Ge3dx4RT0]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+~&attachref(GU k.png,nolink);

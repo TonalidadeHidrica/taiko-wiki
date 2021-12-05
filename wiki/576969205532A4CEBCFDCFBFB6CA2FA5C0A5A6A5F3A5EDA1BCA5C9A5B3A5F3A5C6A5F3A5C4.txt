@@ -1,0 +1,79 @@
+*「太鼓の達人 特盛り！」のダウンロードコンテンツ [#title]
+-[[Wii U2の収録曲]]
+-配信期間：2014/11/20〜配信中 (一部のダウンロードコンテンツは配信終了)
+***配信楽曲 [#song]
+-総配信数 ''21'' 曲
+--裏譜面 ''2'' 曲
+-現在の配信数&br;無料 ''0'' 曲 ＋ 有料 ''15'' 曲 ＝ ''15'' 曲 (購入総額2,430円)
+--裏譜面 ''0'' 曲
+
+|>|>|>|>|>|CENTER:74|c
+|>|>|>|>|>|''ジャンルごとの総配信数'' (括弧内は現在の配信数)|h
+|BGCOLOR(cyan):''J-POP''|BGCOLOR(orange):''アニメ''|BGCOLOR(lime):''バラエティ''|BGCOLOR(silver):''ボーカロイド曲''|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|
+|''5'' (4) 曲&br;約23.8%|''7'' (6) 曲&br;約33.3%|''2'' 曲&br;約9.5%|''1'' (0) 曲&br;約4.8%|''3'' (1) 曲&br;約14.3%|''3'' (2) 曲&br;約14.3%|
+----
+-背景が灰色(COLOR(#ccc){■})の曲・・・''現在はダウンロードできない楽曲''
+
+|CENTER:1||CENTER:1|CENTER:40||c
+|NO.|曲名|配信日|価格((2015/11/18まで全て無料))|備考|h
+|BGCOLOR(orange):1|BGCOLOR(#ccc):[[''Du-Du-Wa DO IT!!''>難易度表/おに/Du-Du-Wa DO IT!!]]&br;　　SIZE(11){「アイカツ！」より}|BGCOLOR(#ccc):2014/11/20|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''大空あかり''」付き&br;2015/11/18まで配信|
+|BGCOLOR(orange):2|[[''雪だるまつくろう''>難易度表/おに/雪だるまつくろう]]&br;　　SIZE(11){「アナと雪の女王」より}|2014/11/20|162円|2015/01/31まで無料|
+|BGCOLOR(darkorchid):3|BGCOLOR(#ccc):[[''モンスターハンター4G メドレー''>難易度表/おに/モンスターハンター4G メドレー]]|BGCOLOR(#ccc):2014/11/20|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''ブレイブネコシリーズ''」と、&br;フレーム「''モンスターハンター4G''」付き&br;2015/11/18まで配信|
+|BGCOLOR(silver):4|BGCOLOR(#ccc):[[''愛×愛ホイッスル（カレーメシ公式曲）''>難易度表/おに/愛×愛ホイッスル（カレーメシ公式曲）]]&br;　　SIZE(11){&#80;olyphonicBranch feat.初音ミク・鏡音リン}|BGCOLOR(#ccc):2014/12/18|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2015/11/18まで配信|
+|BGCOLOR(darkorchid):5|BGCOLOR(#ccc):[[''「ポケットモンスター オメガルビー・アルファサファイア」''>難易度表/おに/「ポケットモンスター オメガルビー・アルファサファイア」]]&br;　　SIZE(11){チャンピオンメドレー}|~|BGCOLOR(#ccc):無料|~|
+|BGCOLOR(darkorchid):~|BGCOLOR(#ccc):[[''「ポケットモンスター オメガルビー・アルファサファイア」(裏)''>難易度表/おに/「ポケットモンスター オメガルビー・アルファサファイア」(裏譜面)]]&br;　　SIZE(11){チャンピオンメドレー}|~|~|~|
+|BGCOLOR(cyan):6|[[''ひまわりの約束''>難易度表/おに/ひまわりの約束]]&br;　　SIZE(11){映画「STAND BY ME ドラえもん」より}|2015/03/19|162円||
+|BGCOLOR(orange):7|[[''セルリアン''>難易度表/おに/セルリアン]]&br;　　SIZE(11){「ガンダム ビルドファイターズ トライ」より}|~|162円||
+|BGCOLOR(orange):8|[[''SURPRISE‐DRIVE''>難易度表/おに/SURPRISE‐DRIVE]]&br;　　SIZE(11){「仮面ライダードライブ」より}|~|162円||
+|BGCOLOR(lime):9|[[''ドクターXのテーマ''>難易度表/おに/ドクターXのテーマ]]&br;　　SIZE(11){ドラマ「ドクターX 〜外科医・大門未知子〜」より}|~|162円||
+|BGCOLOR(orangered):10|[[''Shiny Kung-fu Revival''>難易度表/おに/Shiny Kung-fu Revival]]&br;　　SIZE(11){t+pazolite}|~|162円||
+|BGCOLOR(cyan):11|BGCOLOR(#ccc):[[''さちさちにしてあげる♪''>難易度表/おに/さちさちにしてあげる♪]]&br;　　SIZE(11){小林幸子}|BGCOLOR(#ccc):2015/04/27|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''さちさち''」付き&br;2015/11/18まで配信|
+|BGCOLOR(cyan):~|BGCOLOR(#ccc):[[''さちさちにしてあげる♪(裏)''>難易度表/おに/さちさちにしてあげる♪(裏譜面)]]&br;　　SIZE(11){小林幸子}|~|~|~|
+|BGCOLOR(lime):12|[[''ケラケラじゃんけん''>難易度表/おに/ケラケラじゃんけん]]|2015/04/27|162円||
+|BGCOLOR(cyan):13|[[''Butterfly''>難易度表/おに/Butterfly(木村カエラ)]]|2015/06/25|162円||
+|BGCOLOR(orange):14|[[''LET'S GO OUT''>難易度表/おに/LET'S GO OUT]]&br;　　SIZE(11){「銀魂」より}|~|162円||
+|BGCOLOR(darkorchid):15|[[''バンビーニ''>難易度表/おに/バンビーニ]]&br;　　SIZE(11){「もじぴったん大辞典」より}|~|162円||
+|BGCOLOR(cyan):16|[[''前略、道の上より''>難易度表/おに/前略、道の上より]]|2015/07/30|162円||
+|BGCOLOR(orange):17|[[''さぁ行け！ニンニンジャー！''>難易度表/おに/さぁ行け！ニンニンジャー！]]&br;　　SIZE(11){「手裏剣戦隊ニンニンジャー」より}|~|162円||
+|BGCOLOR(orangered):18|[[''デザート de 焼肉（サハラ編）''>難易度表/おに/デザート de 焼肉(サハラ編)]]|~|162円||
+|BGCOLOR(cyan):19|[[''気分上々↑↑''>難易度表/おに/気分上々↑↑]]|2015/09/17|162円||
+|BGCOLOR(orange):20|[[''ジョジョ 〜その血の運命〜''>難易度表/おに/ジョジョ 〜その血の運命〜]]&br;　　SIZE(11){「ジョジョの奇妙な冒険 THE ANIMATION」より}|~|162円||
+|BGCOLOR(orangered):21|BGCOLOR(#ccc):[[''〆ドレー2000＋''>難易度表/おに/〆ドレー2000＋]]|BGCOLOR(#ccc):2015/09/17|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2015/11/18まで配信|
+
+***配信衣装 [#costume]
+-総配信数 ''24'' 個
+-現在の配信数&br;無料 ''0'' 個 ＋ 有料 ''21'' 個 ＝ ''21'' 個 (購入総額1,050円)
+
+|>|>|>|>|CENTER:74|c
+|>|>|>|>|''種類ごとの総配信数'' (括弧内は現在の配信数)|h
+|BGCOLOR(cyan):''ぜんしん''|BGCOLOR(orange):''ぼうし''|BGCOLOR(lime):''ふく''|BGCOLOR(darkorchid):''メイク''|BGCOLOR(magenta):''もよう''|
+|''3'' (0) 個&br;12.5%|''2'' 個&br;約8.3%|''8'' 個&br;約33.3%|''6'' 個&br;25%|''5'' 個&br;約20.8%|
+----
+-背景が灰色(COLOR(#ccc){■})の衣装・・・''現在はダウンロードできない衣装''
+
+|CENTER:1||CENTER:1|CENTER:40||c
+|No.|きせかえ名|配信日|価格|備考|h
+|BGCOLOR(cyan):|BGCOLOR(#ccc):''大空あかり''|BGCOLOR(#ccc):2014/11/20|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):楽曲「Du-Du-Wa DO IT!!」に付属&br;2015/11/18まで配信|
+|BGCOLOR(cyan):|BGCOLOR(#ccc):''ブレイブネコシリーズ''|~|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):楽曲「モンスターハンター4G メドレー」に付属&br;2015/11/18まで配信|
+|BGCOLOR(cyan):|BGCOLOR(#ccc):''さちさち''|BGCOLOR(#ccc):2015/04/27|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):楽曲「さちさちにしてあげる♪」に付属&br;2015/11/18まで配信|
+|BGCOLOR(lime):1|''黒太鼓''|2014/11/20|50円||
+|BGCOLOR(lime):2|''UFO''|~|50円||
+|BGCOLOR(lime):3|''くまのぬいぐるみ''|~|50円||
+|BGCOLOR(orange):4|''かぶと虫''|~|50円||
+|BGCOLOR(darkorchid):5|''マロまゆ''|~|50円||
+|BGCOLOR(darkorchid):6|''眼帯''|~|50円||
+|BGCOLOR(magenta):7|''ハートがら''|~|50円||
+|BGCOLOR(magenta):8|''レンガ''|~|50円||
+|BGCOLOR(lime):9|''タコヤキ''|2014/12/18|50円||
+|BGCOLOR(lime):10|''ししまい''|~|50円||
+|BGCOLOR(lime):11|''ボーリング''|~|50円||
+|BGCOLOR(darkorchid):12|''ハート眼帯''|~|50円||
+|BGCOLOR(darkorchid):13|''メタリックフェイス''|~|50円||
+|BGCOLOR(magenta):14|''キカイのからだ''|~|50円||
+|BGCOLOR(orange):15|''学ぼう''|2015/03/19|50円||
+|BGCOLOR(lime):16|''チャンピオンベルト''|~|50円||
+|BGCOLOR(lime):17|''春のなかま''|~|50円||
+|BGCOLOR(darkorchid):18|''第3の目''|~|50円||
+|BGCOLOR(darkorchid):19|''しろひげ''|~|50円||
+|BGCOLOR(magenta):20|''レインボー''|~|50円||
+|BGCOLOR(magenta):21|''モクモク''|~|50円||

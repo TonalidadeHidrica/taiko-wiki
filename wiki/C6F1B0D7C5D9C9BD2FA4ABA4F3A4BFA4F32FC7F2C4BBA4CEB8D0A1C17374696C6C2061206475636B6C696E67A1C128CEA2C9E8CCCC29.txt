@@ -1,0 +1,24 @@
+*白鳥の湖 〜still a duckling〜(裏譜面) [#y923b35d]
+***詳細・攻略 [#d6a074bc]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii4SP''|CENTER:★×5|CENTER:''264''|CENTER:''380860点''|CENTER:＋連打|CENTER:350点|CENTER:100点|
+|CENTER:3DS1SP|~|~|CENTER:''379400点''|~|CENTER:380点|CENTER:118点|
+-BPMは約''240''。
+--ただしHS0.9がかかっており、見かけ上のBPMは216。
+-速度がかなり速いため、かんたんコース適正者にとっては複雑な4分や大音符の6分が脅威になる。
+-スクロール速度は表裏の[[ふつう>難易度表/ふつう/白鳥の湖〜still a duckling〜]][[譜面>難易度表/ふつう/白鳥の湖〜still a duckling〜(裏譜面)]]と同様0.9倍速に上がっており、表譜面と同様0.75倍でスクロールするのは中盤に限られる(ちなみに中盤はおにの表譜面および裏の全難易度で0.75倍になっている)。
+-途中、[[表譜面>難易度表/かんたん/白鳥の湖〜still a duckling〜]]にはない芋連打(3DSはくすだま)が登場する。[[ふつう>難易度表/ふつう/白鳥の湖〜still a duckling〜(裏譜面)]]、[[むずかしい>難易度表/むずかしい/白鳥の湖〜still a duckling〜(裏譜面)]]も同様。
+-音符密度は''約2.41打/秒''(1コンボ目から264コンボ目まで)。
+-曲IDは、''excswn''。
+-[[かんたん>難易度表/かんたん/白鳥の湖〜still a duckling〜]]/裏譜面
+-[[ふつう>難易度表/ふつう/白鳥の湖〜still a duckling〜]]/[[裏譜面>難易度表/ふつう/白鳥の湖〜still a duckling〜(裏譜面)]]
+-[[むずかしい>難易度表/むずかしい/白鳥の湖〜still a duckling〜]]/[[裏譜面>難易度表/むずかしい/白鳥の湖〜still a duckling〜(裏譜面)]]
+-[[おに>難易度表/おに/白鳥の湖〜still a duckling〜]]/[[裏譜面>難易度表/おに/白鳥の湖〜still a duckling〜(裏譜面)]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=OrElmmOaYJM]]
+
+***コメント [#t171c4de]
+#pcomment(,noname)
+
+***譜面 [#z9e21ef7]
+&attachref(excswn_e.png,nolink);

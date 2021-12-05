@@ -1,0 +1,20 @@
+*爆竜戦隊アバレンジャー [#ca20a6b4]
+***詳細・攻略 [#re83b11d]
+-「''爆竜戦隊アバレンジャー''」のオープニング曲。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''||CENTER:★×2|CENTER:''88''|CENTER:''??????点''|CENTER:＋連打|CENTER:???点|CENTER:???点|
+||CENTER:CS3|~|~|CENTER:''??????点''|~|CENTER:1530点|CENTER:760点|
+-BPMは163。
+-[[面100%>太鼓ギネス/音符について#noedgeeasy]]。
+----
+-[[ふつう>難易度表/ふつう/爆竜戦隊アバレンジャー]]
+-[[むずかしい>難易度表/むずかしい/爆竜戦隊アバレンジャー]]
+-[[おに>難易度表/おに/爆竜戦隊アバレンジャー]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=VcpAmcFfiSI]]
+
+***コメント [#p72c7951]
+#pcomment(,noname)
+
+***譜面 [#mfa4c266]
+~&attachref(アバレかんたん.png,nolink);

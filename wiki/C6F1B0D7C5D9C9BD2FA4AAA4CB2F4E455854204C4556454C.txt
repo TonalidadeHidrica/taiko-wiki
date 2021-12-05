@@ -1,0 +1,25 @@
+*NEXT LEVEL [#x73c25d9]
+***詳細・攻略 [#q326bdc3]
+-「''仮面ライダーカブト''」のOP。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度表|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC9|CENTER:''CS7''|CENTER:★×6|CENTER:''330''|CENTER:''931950点''|CENTER:＋連打|CENTER:930点|CENTER:190点|
+-BPMは172。
+-平均密度は、''約4.90打/秒''。
+
+-全体で見ると、かなりの物量譜面である。16分にはCOLOR(blue){●}COLOR(red){●}COLOR(blue){●}といった複合もある。
+-作詞は、''藤林聖子''。
+-作曲・編曲は、''渡部チェル''。
+-歌唱は[[''TRF''>アーティスト別収録曲#trf]]のメインボーカル、''YU-KI''。
+-曲IDは、''next''。
+
+-[[かんたん>難易度表/かんたん/NEXT LEVEL]]
+-[[ふつう>難易度表/ふつう/NEXT LEVEL]]
+-[[むずかしい>難易度表/むずかしい/NEXT LEVEL]]
+-[[プレイ動画>https://www.youtube.com/watch?v=l2PLwD6XO1o]]
+
+***コメント [#b08005cc]
+#pcomment(,noname)
+
+***譜面[#score]
+&attachref(NEXT LEVEL_2.png,nolink);

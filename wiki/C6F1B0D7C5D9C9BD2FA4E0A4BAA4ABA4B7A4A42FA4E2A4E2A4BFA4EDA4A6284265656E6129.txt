@@ -1,0 +1,16 @@
+*ももたろう [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Beena''|★×4|''49''|
+-BPMは115。
+-この[[ももたろう>難易度表/ふつう/桃太郎]]と同じ音源ではないので注意。
+----
+-[[かんたん>難易度表/かんたん/ももたろう(Beena)]]
+-[[プレイ動画(かんたんと同時)>http://www.youtube.com/watch?v=VlscYqdHcYs]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]

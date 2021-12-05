@@ -1,0 +1,34 @@
+*十露盤2000(玄人譜面) [#title]
+***詳細・攻略 [#detail]
+-最初の分岐まで風船以外1回も叩かないとこちらに分岐。(ただしACは10以降)
+-いわゆる''隠しコース''。
+-ふつうとおにとこの譜面は全良をしても絶対にノルマクリアできないようになっている。当然全難易度フルコンボもできず全良とはならない。
+-AC11以降かんたんに限り玄人でノルマクリアできる。ただしクリア難易度はかなり高い。
+-譜面はモールス信号になっており、内容はそれぞれ違う。
+-''[[モールス信号とは:http://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AB%E3%82%B9%E7%AC%A6%E5%8F%B7]]''
+-''[[モールス信号解説>モールス信号]]''
+----
+-[[かんたん>難易度表/かんたん/十露盤2000]]/[[玄人譜面>難易度表/かんたん/十露盤2000(玄人譜面)]]
+-[[ふつう>難易度表/ふつう/十露盤2000]]/[[玄人譜面>難易度表/ふつう/十露盤2000(玄人譜面)]]
+-[[むずかしい>難易度表/むずかしい/十露盤2000]]/玄人譜面
+-[[おに>難易度表/おに/十露盤2000]]/[[玄人譜面>難易度表/おに/十露盤2000(玄人譜面)]]
+-プレイ動画
+--[[AC11(キャプチャ)>https://www.youtube.com/watch?v=ZErx-CCQQ54]]
+--[[AC12+(キャプチャ)>https://www.youtube.com/watch?v=4OtIPe-D82I]]
+--[[AC14(キャプチャ)>https://www.youtube.com/watch?v=oxPOzvHFjRc]]
+--[[PSPDX(直撮り)>https://www.youtube.com/watch?v=bZclTADFpGI&t=156]]
+--[[AC15 ソライロ〜イエローVer.0.13まで(キャプチャ,全難易度同時再生)>https://www.youtube.com/watch?v=HOFBCSy-pXs]]
+--[[Wii U1(キャプチャ,全難易度同時再生)>https://www.youtube.com/watch?v=AK6jEYJPkuk]]
+***コメント [#comment]
+#pcomment(,noname)
+
+**譜面 [#score]
+***AC11[#ac11]
+&attachref(十露盤2000(11玄人).png,nolink);
+
+***Wii1[#Wii1]
+&attachref(十露盤2000(Wii1玄人).png,nolink);
+
+***WiiU1 [#WiiU1]
+分岐以前は省略.
+&attachref(abacus_WiiU1_hard.png,nolink);

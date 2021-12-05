@@ -1,0 +1,8 @@
+*達人組手 副将 [#c61ca1cd]
+[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]
+
+***コメント [#m896bd24]
+#pcomment(,noname)
+
+***譜面 [#o45aed22]
+&ref(pack64.png,nolink);

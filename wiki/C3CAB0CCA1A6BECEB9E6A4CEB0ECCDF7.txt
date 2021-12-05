@@ -1,0 +1,807 @@
+[[太鼓の達人 新筐体の収録曲]]
+
+*称号[#title]
+#contents
+
+**新筐体[#newac]
+-&size(22){ドンだーひろばの[[ごほうび一覧(称号)>http://donderhiroba.jp/reward_title.php]]に出現している称号のみ掲載してください。};
+-追加・編集宜しくお願いします。
+-特に指定してされていない場合、きせかえ表裏2人用譜面オプションは問わず、''どの難易度でも可能''です。
+-銀冠の個数 = クリア数 ＋ フルコンボ数。金冠の個数 = フルコンボ数である。
+--「''該当する曲がサヨナラ曲となる''」場合以外、銀冠と金冠はバージョンが変わっても消えていない。
+--サヨナラ曲で獲得していた王冠の整理（＝削除）は、大型アップデート時のみに行われる。つまり、大型アップデート間のサヨナラ曲で獲得していた王冠は、次の大型アップデートまで保有する事が可能。
+---期間限定曲で獲得していた王冠が整理されるか否は、Ver.と曲によって異なる。((キミドリまで及びレッド：サヨナラ曲と共に整理、それ以外：整理されず、そのまま残された。また[[黄ダルマ2000>難易度表/おに/黄ダルマ2000]]など、王冠は入手できない曲も存在する。))
+-各種回数に依存する称号(「J-POP 10回演奏」等)はKATSU-DONからの通算回数で判定している。
+--モモイロverで追加された回数系称号は、KATSU-DONまたはソライロVer.の時点で既に超えている場合は更新すると貰える。
+--大型アップデートと共にジャンル移動された曲のプレイ回数は、プレイ当時のジャンルのプレイ回数としてカウントされる。
+---例：[[GOIN’!!!>難易度表/おに/GOIN’!!!]]は、ムラサキ以前のプレイ回数は「アニメ」、ホワイト以降のプレイ回数は「ゲームミュージック」としてカウントされる。
+-一度ACでサヨナラとなった曲が復活した場合、銀冠と金冠などプレイデータも復活する。
+-サヨナラ曲で獲得していた称号と着せ替えは、別途アナウンスがある場合（例：[[序曲 ドラゴンクエストXより>難易度表/おに/序曲 ドラゴンクエストXより]]）除く、サヨナラ時に削除されず、そのまま残された。
+-アップデートなどの関係上、ご褒美は既に持っていてそれがもらえる称号を持っていないときに、称号をとると再びご褒美を貰うことになる。
+-[[段位道場>段位道場]]をプレイしても、曲ごとの称号やそれに対応する着せ替えは入手できない。
+-[[称号対象曲>段位・称号の一覧/称号対象曲]]
+-[[称号ガシャパーツ一覧]]
+-[[段位道場]]
+
+
+***ニジイロVer.02.02 [#newac]
+-称号はドンだーひろばのごほうび一覧の順に載せており、順番が確定しているものには「〇」を付けています。「〇」が付いていないものはまだ順番があやふやなので、確認でき次第編集をお願いします。
+
+-表の背景が灰色(COLOR(grey){■})の称号は存在はしているが、NIZIIRO Ver.02.02現在''獲得不可能''な条件の称号であることを表す。
+-表の背景がグレー(COLOR(silver){■})の称号は存在はしているが、NIZIIRO Ver.02.02現在''一時獲得不可能''な条件の称号であることを表す。
+
+|CENTER:||160||||c
+|CENTER:順番|CENTER:色|CENTER:称号|CENTER:獲得条件|CENTER:備考＆ご褒美|h
+|〇|BGCOLOR(peru):|ドンだーデビュー！|初めてバナパスポートカード等を使って遊ぶ|きせかえ「COLOR(red){お祭りはっぴ}」を獲得|
+|〇|BGCOLOR(peru):|ドン友になろうよ！|ドンだーひろばでフレンドを作る||
+|〇|BGCOLOR(peru):|太鼓チームの一員|ドンだーひろばで[[エトウ>http://donderhiroba.jp/user_profile.php?taiko_no=000000000001]]とフレンドになる|~|
+|〇|BGCOLOR(peru):|自慢のマイどんちゃん|ドンだーひろばでマイどんの色を変更|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):真夏の太陽|BGCOLOR(grey):2012年8月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){ひまわり}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):お月見 de お団子|BGCOLOR(grey):2012年9月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){月見だんご}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ジャック・オ・どんちゃん|BGCOLOR(grey):2012年10月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){ハロウィン}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):鍋のおいしい季節|BGCOLOR(grey):2012年11月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){よせ鍋}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):★メリータタキマス★|BGCOLOR(grey):2012年12月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){サンタクロース}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):謹賀新ドン！|BGCOLOR(grey):2013年1月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){鏡もち}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):チョコレート募集中|BGCOLOR(grey):2013年2月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){オニに金棒}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):入学おめでドン！|BGCOLOR(grey):2013年4月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){小学生}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):屋根より高いドン魂|BGCOLOR(grey):2013年5月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){こいのぼり}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):カエルが鳴いたらかえる|BGCOLOR(grey):2013年6月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){かえる}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):夏だ！海だ！太鼓の達人だ！|BGCOLOR(grey):2013年7月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){すいか}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):きもだめし de 納涼|BGCOLOR(grey):2013年8月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){ゴースト}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):月下打人|BGCOLOR(grey):2013年9月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){おつきさま}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):目指せ一等賞！|BGCOLOR(grey):2013年10月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){うんどうかい}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):秋の夜長の達人|BGCOLOR(grey):2013年11月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(きぐるみ)「COLOR(red){秋のなかま}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):あけましておめでドン！|BGCOLOR(grey):2014年1月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){はかま}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):豆まきドンだー|BGCOLOR(grey):2014年2月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){かみなりさま}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ひなまつりドンだー|BGCOLOR(grey):2014年3月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){おひなさま}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):さくら吹雪ドンだー|BGCOLOR(grey):2014年4月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){さくら}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):五月晴れドンだー|BGCOLOR(grey):2014年5月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){レースカー}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):でんでんドンだー|BGCOLOR(grey):2014年6月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){かたつむり}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):夏をかけまわる達人|BGCOLOR(grey):2014年8月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){麦わらぼうし}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):スポーツの王子様|BGCOLOR(grey):2014年9月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){テニス}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):芸術はフルコンボだ！|BGCOLOR(grey):2014年10月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){絵描き}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):私、太鼓の達人だあいすき|BGCOLOR(grey):2014年11月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){黒ゴス}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):もふもふ de ぬくぬく|BGCOLOR(grey):2014年12月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){アルパカ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):一年の計は元旦にあるドン|BGCOLOR(grey):2015年1月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){芸者}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):この想い、音速で届け！|BGCOLOR(grey):2015年2月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ?((当時のツイートより推測。当時のブログ記事などが残っていないため確認不可能)))「COLOR(red){ジェットパイロット}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):寝坊ドンだー|BGCOLOR(grey):2015年4月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){パジャマ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):史上最大級の肉食|BGCOLOR(grey):2015年5月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){ティラノサウルス}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ひやっとしますね|BGCOLOR(grey):2015年6月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){アイス}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):熱いエールをあの人に|BGCOLOR(grey):2015年7月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){コンサートライト}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):夏だ！祭りだ！太鼓だドン！|BGCOLOR(grey):2015年8月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){お祭り太鼓}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):月の住人ドンだー|BGCOLOR(grey):2015年9月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){かぐや姫}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):サイクリングドンだー|BGCOLOR(grey):2015年10月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){自転車}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):次のかた、どうぞー|BGCOLOR(grey):2015年11月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){お医者さん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):いよ〜っ　ドコドン！|BGCOLOR(grey):2016年1月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){かぶきヘッド}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ピクセルドンだー|BGCOLOR(grey):2016年2月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){ブロック}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):バタフライドンだー|BGCOLOR(grey):2016年3月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ちょうちょのはね}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):斉天大聖ドン悟空|BGCOLOR(grey):2016年4月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){そんごくう}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):密林に忍びし者|BGCOLOR(grey):2016年5月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(???((当時のブログ記事などが残存していないため確認不可能)))「COLOR(red){ジャングル}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):太鼓界のバカンスマスター|BGCOLOR(grey):2016年6月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){バカンスパラソル}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ヒーローは遅れてやってくる|BGCOLOR(grey):2016年8月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ヒーロー}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):猫の手も借りたい|BGCOLOR(grey):2016年9月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){ネコミミ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):食欲の秋、太鼓の秋|BGCOLOR(grey):2016年10月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){コックさん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):乱世を駆けるドンだー|BGCOLOR(grey):2016年11月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){せんごくぶしょう}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):2016年もありがドン！|BGCOLOR(grey):2016年12月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){サンタクロース}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):2017年もよろしくだドン！|BGCOLOR(grey):2017年1月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){うーちゃん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):Over the rainbow|BGCOLOR(grey):2017年2月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){虹}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):魔王に仕えし武士|BGCOLOR(grey):2012年8月のドンチャレのお題10個クリア|BGCOLOR(grey):達成された翌日に貰える|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ソードオブソード|BGCOLOR(grey):2012年9月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):trick or treat！|BGCOLOR(grey):2012年10月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):どフュージョン|BGCOLOR(grey):2012年11月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):天地を舞いし旋風|BGCOLOR(grey):2012年12月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ここから始まる恋|BGCOLOR(grey):2013年1月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):シンセサイザーの申し子|BGCOLOR(grey):2013年2月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):春眠暁を覚えず|BGCOLOR(grey):2013年4月のドンチャレのお題10個クリア|BGCOLOR(grey):達成された翌日に貰える|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):神風|BGCOLOR(grey):2013年5月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):宙駆ける不死鳥|BGCOLOR(grey):2013年6月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):夢追い人|BGCOLOR(grey):2013年7月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ミーナのとりこ|BGCOLOR(grey):2013年8月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):闇属性ドンだー|BGCOLOR(grey):2013年9月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):お休憩|BGCOLOR(grey):2013年10月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):時空庁時空１課のエース|BGCOLOR(grey):2013年11月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):鳳凰|BGCOLOR(grey):2014年1月のドンチャレのお題10個クリア|BGCOLOR(grey):達成された翌日に貰える|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):チョコってあまいんだ|BGCOLOR(grey):2014年2月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):マジカルティータイム|BGCOLOR(grey):2014年3月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ブンブンドンだー|BGCOLOR(grey):2014年4月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):筋肉に勝るものなし|BGCOLOR(grey):2014年5月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):LindaAI−CUEのファン|BGCOLOR(grey):2014年6月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Burning Don Soul|BGCOLOR(grey):2014年8月のドンチャレのお題10個クリア|BGCOLOR(grey):達成された翌日に貰える|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):クラシカルドンだー|BGCOLOR(grey):2014年9月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):日々是精進だドン！|BGCOLOR(grey):2014年10月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Rave Racer|BGCOLOR(grey):2014年11月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Crustacean Donder|BGCOLOR(grey):2014年12月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):( ﾟдﾟ )彡ハイヤー！！！！|BGCOLOR(grey):2015年1月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Undercover AgenDon|BGCOLOR(grey):2015年2月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Bon voyage！|BGCOLOR(grey):2015年4月のドンチャレのお題10個クリア|BGCOLOR(grey):達成された翌日に貰える|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):紫電一閃の煌めき|BGCOLOR(grey):2015年5月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):まくら投げドンだー|BGCOLOR(grey):2015年6月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):かっちゃんのおねがい叶え隊|BGCOLOR(grey):2015年7月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):うっ！|BGCOLOR(grey):2015年8月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):境界線を飛び越えるドン！|BGCOLOR(grey):2015年9月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):日いずる処のドンだー|BGCOLOR(grey):2015年10月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):竜に翼を得たる如し|BGCOLOR(grey):2015年11月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):太鼓維新|BGCOLOR(grey):2016年1月のドンチャレのお題10個クリア|BGCOLOR(grey):達成された翌日に貰える|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ゴシックドンだー|BGCOLOR(grey):2016年2月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):キスしよっか？|BGCOLOR(grey):2016年3月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):いざ、一登竜門|BGCOLOR(grey):2016年4月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):太鼓の達人はスポーツ|BGCOLOR(grey):2016年5月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):黄泉のイザナミ|BGCOLOR(grey):2016年6月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):流星が降る夜の街|BGCOLOR(grey):2016年8月のドンチャレのお題10個クリア|BGCOLOR(grey):達成された翌日に貰える|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):敬老ドンだー|BGCOLOR(grey):2016年9月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):体育会系ドンだー|BGCOLOR(grey):2016年10月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ドン意識　皆伝|BGCOLOR(grey):2016年11月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):武闘ドンだー|BGCOLOR(grey):2016年12月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):あけぼのドンだー|BGCOLOR(grey):2017年1月のドンチャレのお題10個クリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):どんちゃん大スキ！！|BGCOLOR(grey):2017年2月のドンチャレのお題10個クリア|~|
+|〇|BGCOLOR(gold):|挑戦状 初勝利|挑戦状で1回勝利||
+|〇|BGCOLOR(gold):|挑戦状 10勝|挑戦状で10回勝利|~|
+|〇|BGCOLOR(gold):|挑戦状 50勝|挑戦状で50回勝利|~|
+|〇|BGCOLOR(gold):|挑戦状 150勝|挑戦状で150回勝利|~|
+|〇|BGCOLOR(gold):|挑戦状 10連勝|挑戦状で10連勝|引き分けを挟んでも問題ない様子|
+|〇|BGCOLOR(gold):|挑戦状 100連勝|挑戦状で100連勝|~|
+|〇|BGCOLOR(peru):|挑戦状 5回承諾|挑戦状を5回受ける|挑戦状を何度か送るだけでも可&br;ただし相手に受理されないと無効な様子|
+|〇|BGCOLOR(peru):|挑戦状 10回承諾|挑戦状を10回受ける|~|
+|〇|BGCOLOR(peru):|挑戦状 30回承諾|挑戦状を30回受ける|~|
+|〇|BGCOLOR(peru):|挑戦状 50回承諾|挑戦状を50回受ける|~|
+|〇|BGCOLOR(peru):|挑戦状 100回承諾|挑戦状を100回受ける|~|
+|〇|BGCOLOR(gold):|大会 初入賞|大会で1回入賞||
+|〇|BGCOLOR(gold):|大会 10回入賞|大会で10回入賞|~|
+|〇|BGCOLOR(gold):|大会 50回入賞|大会で50回入賞|~|
+|〇|BGCOLOR(gold):|大会 100回入賞|大会で100回入賞|~|
+|〇|BGCOLOR(peru):|大会 5回参加|大会に5回参加|公式大会も含む|
+|〇|BGCOLOR(peru):|大会 10回参加|大会に10回参加|~|
+|〇|BGCOLOR(peru):|大会 30回参加|大会に30回参加|~|
+|〇|BGCOLOR(peru):|大会 50回参加|大会に50回参加|~|
+|〇|BGCOLOR(peru):|大会 100回参加|大会に100回参加|~|
+|〇|BGCOLOR(peru):|通算 10プレイ|太鼓を10回プレイ||
+|〇|BGCOLOR(peru):|通算 30プレイ|太鼓を30回プレイ|~|
+|〇|BGCOLOR(peru):|通算 50プレイ|太鼓を50回プレイ|~|
+|〇|BGCOLOR(peru):|通算 100プレイ|太鼓を100回プレイ|~|
+|〇|BGCOLOR(peru):|通算 150プレイ|太鼓を150回プレイ|~|
+|〇|BGCOLOR(peru):|通算 200プレイ|太鼓を200回プレイ|~|
+|〇|BGCOLOR(peru):|通算 250プレイ|太鼓を250回プレイ|~|
+|〇|BGCOLOR(peru):|通算 500プレイ|太鼓を500回プレイ|~|
+|〇|BGCOLOR(peru):|通算 765プレイ|太鼓を765回プレイ|~|
+|〇|BGCOLOR(peru):|通算 876プレイ|太鼓を876回プレイ|~|
+|〇|BGCOLOR(peru):|通算 1000プレイ|太鼓を1000回プレイ|~|
+|〇|BGCOLOR(peru):|通算 1500プレイ|太鼓を1500回プレイ|~|
+|〇|BGCOLOR(peru):|通算 2000プレイ|太鼓を2000回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):J-POP 10回演奏|BGCOLOR(grey):J-POPの曲を10回プレイ|BGCOLOR(grey):きせかえ「COLOR(red){かいぞく}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):J-POP 50回演奏|BGCOLOR(grey):J-POPの曲を50回プレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):J-POP 100回演奏|BGCOLOR(grey):J-POPの曲を100回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アニメ 10回演奏|BGCOLOR(grey):アニメの曲を10回プレイ|BGCOLOR(grey):きせかえ「COLOR(red){きしゃ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アニメ 50回演奏|BGCOLOR(grey):アニメの曲を50回プレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アニメ 100回演奏|BGCOLOR(grey):アニメの曲を100回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):どうよう 10回演奏|BGCOLOR(grey):どうようの曲を10回プレイ|BGCOLOR(grey):きせかえ「COLOR(red){スイーツ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):どうよう 50回演奏|BGCOLOR(grey):どうようの曲を50回プレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):どうよう 100回演奏|BGCOLOR(grey):どうようの曲を100回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):バラエティ 10回演奏|BGCOLOR(grey):バラエティの曲を10回プレイ|BGCOLOR(grey):きせかえ「COLOR(red){しろくま}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):バラエティ 50回演奏|BGCOLOR(grey):バラエティの曲を50回プレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):バラエティ 100回演奏|BGCOLOR(grey):バラエティの曲を100回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):クラシック 10回演奏|BGCOLOR(grey):クラシックの曲を10回プレイ|BGCOLOR(grey):きせかえ「COLOR(red){せんすいかん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):クラシック 50回演奏|BGCOLOR(grey):クラシックの曲を50回プレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):クラシック 100回演奏|BGCOLOR(grey):クラシックの曲を100回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ゲームミュージック 10回演奏|BGCOLOR(grey):ゲームミュージックの曲を10回プレイ|BGCOLOR(grey):きせかえ「COLOR(red){たからぶね}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ゲームミュージック 50回演奏|BGCOLOR(grey):ゲームミュージックの曲を50回プレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ゲームミュージック 100回演奏|BGCOLOR(grey):ゲームミュージックの曲を100回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ナムコオリジナル 10回演奏|BGCOLOR(grey):ナムコオリジナルの曲を10回プレイ|BGCOLOR(grey):きせかえ「COLOR(red){くじゃく}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ナムコオリジナル 50回演奏|BGCOLOR(grey):ナムコオリジナルの曲を50回プレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ナムコオリジナル 100回演奏|BGCOLOR(grey):ナムコオリジナルの曲を100回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ボーカロイド曲 10回演奏|BGCOLOR(grey):ボーカロイド曲を10回プレイ|BGCOLOR(grey):きせかえ「COLOR(red){りんご}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ボーカロイド曲 50回演奏|BGCOLOR(grey):ボーカロイド曲を50回プレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ボーカロイド曲 100回演奏|BGCOLOR(grey):ボーカロイド曲を100回プレイ|~|
+|〇|BGCOLOR(peru):|最近あそんだ曲 10回演奏|最近あそんだ曲を10回プレイ||
+|〇|BGCOLOR(peru):|最近あそんだ曲 50回演奏|最近あそんだ曲を50回プレイ|~|
+|〇|BGCOLOR(peru):|最近あそんだ曲 100回演奏|最近あそんだ曲を100回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):おすすめ曲 10回演奏|BGCOLOR(grey):おすすめ曲を10回プレイ|BGCOLOR(grey):きせかえ「COLOR(red){まねきねこ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):おすすめ曲 50回演奏|BGCOLOR(grey):おすすめ曲を50回プレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):おすすめ曲 100回演奏|BGCOLOR(grey):おすすめ曲を100回プレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):銀王冠 10個獲得|BGCOLOR(grey):銀冠を10個以上|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):銀王冠 100個獲得|BGCOLOR(grey):銀冠を100個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):銀王冠 250個獲得|BGCOLOR(grey):銀冠を250個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):銀王冠 500個獲得|BGCOLOR(grey):銀冠を500個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):銀王冠 765個獲得|BGCOLOR(grey):銀冠を765個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):銀王冠 865個獲得|BGCOLOR(grey):銀冠を865個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):銀王冠 1000個獲得|BGCOLOR(grey):銀冠を1000個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):金王冠 10個獲得|BGCOLOR(grey):金冠を10個以上|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):金王冠 100個獲得|BGCOLOR(grey):金冠を100個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):金王冠 250個獲得|BGCOLOR(grey):金冠を250個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):金王冠 500個獲得|BGCOLOR(grey):金冠を500個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):金王冠 765個獲得|BGCOLOR(grey):金冠を765個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):金王冠 865個獲得|BGCOLOR(grey):金冠を865個以上|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):金王冠 1000個獲得|BGCOLOR(grey):金冠を1000個以上|~|
+|〇|BGCOLOR(gold):|ベストスコア 10回更新|ハイスコア10回更新||
+|〇|BGCOLOR(gold):|ベストスコア 50回更新|ハイスコア50回更新|~|
+|〇|BGCOLOR(gold):|ベストスコア 100回更新|ハイスコア100回更新|~|
+|〇|BGCOLOR(gold):|ベストスコア 200回更新|ハイスコア200回更新|~|
+|〇|BGCOLOR(gold):|ベストスコア 300回更新|ハイスコア300回更新|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):初ごほうびショップ|BGCOLOR(grey):ごほうびショップで1個|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ごほうびショップ 10達成|BGCOLOR(grey):ごほうびショップで10個購入|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ごほうびショップ 50種類|BGCOLOR(grey):ごほうびショップで50個購入|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):お買い物ポイントの達人|BGCOLOR(grey):2017/3/14時点、1つ以上レッドVer.ごほうびを所持している|BGCOLOR(grey):全てのごほうびを所持している場合取得できない|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):お買い物ポイントの大富豪|BGCOLOR(grey):2017/3/14時点、全てのレッドVer.ごほうびを所持している|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):J−POPの達人|BGCOLOR(grey):1プレイ内全てJ-POP曲を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){富士山}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アニメの達人|BGCOLOR(grey):1プレイ内全てアニメ曲を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){らいおん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ボーカロイド曲の達人|BGCOLOR(grey):1プレイ内全てボーカロイド曲を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){ほうせき}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):バラエティの達人|BGCOLOR(grey):1プレイ内全てバラエティ曲を選んでクリア|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):クラシックの達人|BGCOLOR(grey):1プレイ内全てクラシック曲を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ゲームミュージックの達人|BGCOLOR(grey):1プレイ内全てゲームミュージックを選んでクリア((天下一音ゲ祭の書き下ろし曲[[Ignis Danse>難易度表/おに/Ignis Danse]]から取得可能という報告あり))|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ナムコオリジナルの達人|BGCOLOR(grey):1プレイ内全てナムコオリジナル曲を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):あきらめない心|BGCOLOR(grey):復活連打に失敗|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):フェニックスドンだー|BGCOLOR(grey):復活連打に成功|~|
+|〇|BGCOLOR(gold):|ベストスコアの達人|1プレイ内の全部の曲でベストスコアを出す||
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):クリアの達人|BGCOLOR(grey):1プレイ内の曲を全てクリア|BGCOLOR(grey):音色「COLOR(pink){お祭り}」獲得|
+|〇|BGCOLOR(peru):|演奏の達人|1プレイ内の曲を全て魂ゲージ満タンでクリア||
+|〇|BGCOLOR(gold):|フルコンボの達人|1プレイ内の曲を全てフルコンボ|~|
+|〇|BGCOLOR(gold):|765の達人|1プレイ内全て特定の曲(765コンボの譜面)を選んでフルコンボ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(gold):|876の達人|1プレイ内全て特定の曲(876コンボの譜面)を選んでフルコンボ|~|
+|〇|BGCOLOR(gold):|ドンダフル大達人|1プレイ内の曲を全て全良||
+|〇|BGCOLOR(peru):|ばいそくドンだー|1プレイ中全曲でオプション「ばいそく」を付けてクリア||
+|〇|BGCOLOR(peru):|さんばいドンだー|1プレイ中全曲でオプション「さんばい」を付けてクリア|~|
+|〇|BGCOLOR(peru):|よんばいドンだー|1プレイ中全曲でオプション「よんばい」を付けてクリア|~|
+|〇|BGCOLOR(peru):|あべこべドンだー|1プレイ中全曲でオプション「あべこべ」を付けてクリア|~|
+|〇|BGCOLOR(peru):|ドロンドンだー|1プレイ中全曲でオプション「ドロン」を付けてクリア|~|
+|〇|BGCOLOR(peru):|きまぐれドンだー|1プレイ中全曲でオプション「きまぐれ」を付けてクリア|~|
+|〇|BGCOLOR(peru):|でたらめドンだー|1プレイ中全曲でオプション「でたらめ」を付けてクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):THIS IS A TAIKO！|BGCOLOR(grey):1プレイ内全て特定の曲(曲名が英数字のみ)を選んでクリア|BGCOLOR(grey):音色「COLOR(pink){ドラム}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):タイコダイスキ|BGCOLOR(grey):1プレイ内全て特定の曲(曲名がカタカナのみ)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){チリチリロープ}」獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):たいこ なう|BGCOLOR(grey):1プレイ内全て特定の曲(曲名がひらがなのみ)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){でんしゃ}」獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):天上天下太鼓無双|BGCOLOR(grey):1プレイ内全て特定の曲(曲名が漢字のみ)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){ヘビメタ}」獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):算数ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(曲名に数字が含まれる)を選んでクリア|BGCOLOR(grey):対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アニマルドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(曲名が動物に関係する)を選んでクリア|BGCOLOR(grey):音色「COLOR(pink){いぬねこ}」獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):カラフルドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(曲名が色に関係する)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){いちご}」獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ヤングドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(ナムコ系作品以外の版権曲の新曲？またはボーカロイド曲)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){かぶとむし}」獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):青春ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(ナムコ系作品以外の版権曲の旧曲？)を選んでクリア|BGCOLOR(grey):音色「COLOR(pink){タンバリン}」獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ヒーロードンだー|BGCOLOR(grey):1プレイ内全て特定の曲(ヒーローアニメ曲)を選んでクリア|BGCOLOR(grey):音色「COLOR(pink){豪華な太鼓}」獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):メカドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(ロボアニメ曲)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){うちゅうひこうし}」を獲得&br;対象となる曲は[[創聖のアクエリオン>難易度表/おに/創聖のアクエリオン]]|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):二次元ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(中高生向けアニメ曲)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){とら}」獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(peru):|歌姫|1プレイ内全て特定の曲(公式な初音ミク曲)を選んでクリア|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(peru):|たいこっぽいど|1プレイ内全て特定の曲(公式なGUMI曲)を選んでクリア|~|
+|〇|BGCOLOR(peru):|クリスタルヴォイス|1プレイ内全て特定の曲(公式なIA曲)を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ちびっこドンだー|BGCOLOR(grey):1プレイ内全てどうようを選んでクリア|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アレンジドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(クラシックアレンジ)を選んでクリア|BGCOLOR(grey):対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(peru):|プロデューサーさん|1プレイ内全て特定の曲([[アイドルマスターの楽曲>ゲーム別収録曲#imas]])を選んでクリア||
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):適合者|BGCOLOR(grey):1プレイ内全て特定の曲([[GOD EATERの楽曲>ゲーム別収録曲#eater]])を選んでクリア|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):走り屋|BGCOLOR(grey):1プレイ内全て特定の曲([[Ridge Racerの楽曲>ゲーム別収録曲#rr]])を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):鼓打喝采|BGCOLOR(grey):1プレイ内全て特定の曲([[画竜点睛シリーズ>シリーズ曲一覧#butou]])を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アジアンドンだー|BGCOLOR(grey):1プレイ内全て特定の曲（[[季曲シリーズ>シリーズ曲一覧#mgwrt]]）を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):千客BANRAI|BGCOLOR(grey):1プレイ内全て特定の曲([[hiyamaシリーズ>シリーズ曲一覧#hiyama]])を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ドリームドンだー|BGCOLOR(grey):1プレイ内全て特定の曲([[エンジェルシリーズ>シリーズ曲一覧#angel]])を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):薔薇ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲([[Roseシリーズ>シリーズ曲一覧#rose]])を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ドンだーノ舞|BGCOLOR(grey):1プレイ内全て特定の曲([[舞シリーズ>シリーズ曲一覧#mai]])を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):2000ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲([[2000シリーズ>シリーズ曲一覧#nisen]])を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ラブリードンだー|BGCOLOR(grey):1プレイ内全て特定の曲(曲名に恋、愛、LOVE、ラブを含む曲)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){姫ギャル}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アイアンドンだー|BGCOLOR(grey):1プレイ内全て特定の曲([[鉄拳の楽曲>ゲーム別収録曲#tekken]])を選んでクリア|BGCOLOR(grey):対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アイドルドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(10代のメンバーがいるアイドルグループの曲)を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ごちそうドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(曲名に食べ物の名前を含む曲)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){さめ}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):季節のドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(曲名に季節を含む曲)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){あかべこ}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ドラゴンドンだー|BGCOLOR(grey):1プレイ内全て特定の曲([[竜シリーズ>シリーズ曲一覧#ryu]])を選んでクリア|BGCOLOR(grey):対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ビックリドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(曲名に「！」を含む曲)を選んでクリア|BGCOLOR(grey):きせかえ「COLOR(red){水兵}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):アーケードドンだー|BGCOLOR(grey):1プレイ内全て特定の曲([[acシリーズ>シリーズ曲一覧#ac]])を選んでクリア|BGCOLOR(grey):対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):冒険ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(曲名に「ドン」を含む[[YMYシリーズ>シリーズ曲一覧#ymy]])を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):日本史ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲([[ユウガオシリーズ>シリーズ曲一覧#yugao]])を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):紳士ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲([[愛原圭織>参加アーティスト一覧/愛原圭織]]歌唱曲)を選んでクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):淑女ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(年頃の女性ファンが多いアニメ、ボーカロイドの曲)を選んでクリア|~|
+|〇|BGCOLOR(gold):|きたさいたまの達人|[[COLOR(blue):きたさいたま2000>難易度表/おに/きたさいたま2000]]を難易度おにでフルコンボ||
+|〇|BGCOLOR(gold):|〆ドレーの達人|[[COLOR(blue):〆ドレー2000>難易度表/おに/〆ドレー2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|またさいたまの達人|[[COLOR(blue):またさいたま2000>難易度表/おに/またさいたま2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|スーハーの達人|[[COLOR(blue):スーハー2000>難易度表/おに/スーハー2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|燎原の覇王|[[COLOR(blue):燎原ノ舞>難易度表/おに/燎原ノ舞]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|最高速の歌姫|[[COLOR(blue):初音ミクの消失−劇場版−(裏)>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|さんぽの達人|[[COLOR(blue):さんぽ(裏)>難易度表/おに/さんぽ(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|戦車の達人|[[COLOR(blue):やわらか戦車(裏)>難易度表/おに/やわらか戦車(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|森の達人|[[COLOR(blue):もりのくまさん(裏)>難易度表/おに/もりのくまさん(裏譜面)]]をフルコンボ||
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):かじりの達人|BGCOLOR(grey):[[COLOR(blue):おしりの山はエベレスト(裏)>難易度表/おに/おしりの山はエベレスト(裏譜面)]]をフルコンボ|BGCOLOR(grey):|
+|〇|BGCOLOR(gold):|たつじんコース|[[COLOR(blue):十露盤2000>難易度表/おに/十露盤2000]]をフルコンボ||
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ファンタジードンだー|BGCOLOR(grey):きせかえ(姫ギャル、たつどし、ゆうしゃのいずれか)をつけて[[COLOR(blue):風のファンタジー>難易度表/おに/風のファンタジー]]をフルコンボ|BGCOLOR(grey):|
+|〇|BGCOLOR(gold):|ガッガッガッ|''1P側1人プレイ''で、[[COLOR(blue):Rotter Tarmination>難易度表/おに/Rotter Tarmination(裏譜面)]]、[[COLOR(blue):ドドンガド〜ン>難易度表/おに/ドドンガド〜ン(裏譜面)]]、[[COLOR(blue):dance storm>難易度表/おに/dance storm(裏譜面)]]の裏譜面のみを1プレイ内全てフルコンボ||
+|〇|BGCOLOR(gold):|あふれるパッション|''2P側1人プレイ''で、[[COLOR(blue):サンバ アレグリーア>難易度表/おに/サンバ アレグリーア(裏譜面)]]、[[COLOR(blue):らんぶる乱舞>難易度表/おに/らんぶる乱舞(裏譜面)]]、[[COLOR(blue):らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん(裏譜面)]]の裏譜面のみを1プレイ内全てフルコンボ|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):フウガの友達|BGCOLOR(grey):マイどんの名前を「''ふうが''」にして[[COLOR(blue):dance storm>難易度表/おに/dance storm]]をフルコンボ|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ミライの友達|BGCOLOR(grey):マイどんの名前を「''みらい''」にして[[COLOR(blue):らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|で、できましたぁ…|[[COLOR(blue):ケチャドン2000>難易度表/おに/ケチャドン2000]]をフルコンボ||
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):819の達人|BGCOLOR(silver):2人ともがバナパスを使用している状態で、[[COLOR(blue):Many wow bang!(2人用おに裏)>難易度表/おに/Many wow bang!(裏譜面)]]をツインフルコンボ|BGCOLOR(silver):|
+|〇|BGCOLOR(gold):|わさびの達人|[[COLOR(blue):Wasabi Body Blow>難易度表/おに/Wasabi Body Blow]]を難易度おにでフルコンボ||
+|〇|BGCOLOR(gold):|百獣王者どんちゃん|[[COLOR(blue):グレート!アニマルカイザー!!>難易度表/おに/グレート!アニマルカイザー!!]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|超・破壊エクスタシー|[[COLOR(blue):Doom Noiz>難易度表/おに/Doom Noiz]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|悪夢からの生還者|[[COLOR(blue):ナイトメア・サバイバー(裏)>難易度表/おに/ナイトメア・サバイバー(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|なんじゃこりゃああ！|[[COLOR(blue):Rotter Tarmination(裏)>難易度表/おに/Rotter Tarmination(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|百カーニバル|[[COLOR(blue):夜桜謝肉祭(裏)>難易度表/おに/夜桜謝肉祭(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|揺り篭から墓場まで|[[COLOR(blue):恋文2000>難易度表/おに/恋文2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|黒薔薇の使徒|[[COLOR(blue):Black Rose Apostle>難易度表/おに/Black Rose Apostle]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|白薔薇の狂気|[[COLOR(blue):White Rose Insanity>難易度表/おに/White Rose Insanity]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|赤薔薇の福音|[[COLOR(blue):Red Rose Evangel>難易度表/おに/Red Rose Evangel]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|青薔薇の破滅|[[COLOR(blue):Blue Rose Ruin>難易度表/おに/Blue Rose Ruin]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|紫薔薇の融合|1プレイ内で[[COLOR(blue):Red Rose Evangel>難易度表/おに/Red Rose Evangel]]と[[COLOR(blue):Blue Rose Ruin>難易度表/おに/Blue Rose Ruin]]を難易度おにでフルコンボ&br;（失敗した回があっても良いが、1プレイ内で達成できないと獲れない）|~|
+|〇|BGCOLOR(gold):|薔薇を統べし者|[[COLOR(blue):Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|常世人|[[COLOR(blue):万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|永遠の絆|[[COLOR(blue):Eternal bond>難易度表/おに/Eternal bond]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|仮面の下の真実|[[COLOR(blue):愛想笑い>難易度表/おに/愛想笑い]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|妖異幻怪|[[COLOR(blue):化物月夜>難易度表/おに/化物月夜]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ピアノ弾きの冒険者|[[COLOR(blue):D's Adventure Note>難易度表/おに/D's Adventure Note]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|アイリッシュドンだー|[[COLOR(blue):大空と太鼓の踊り>難易度表/おに/大空と太鼓の踊り]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ツンデレCafeの常連|[[COLOR(blue):ツンデレCafeへようこそ☆>難易度表/おに/ツンデレCafeへようこそ☆]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|重量級ステッパー|[[COLOR(blue):DEBSTEP!>難易度表/おに/DEBSTEP!]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|参りますッ！|[[COLOR(blue):夜櫻ブレヰダアズ>難易度表/おに/夜櫻ブレヰダアズ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|天使の光輪|[[COLOR(blue):Angel Halo>難易度表/おに/Angel Halo]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|猪突猛進ボーイズ|[[COLOR(blue):Hurtling Boys>難易度表/おに/Hurtling Boys]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|電算ドンだー|[[COLOR(blue):Calculator>難易度表/おに/Calculator]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|カラ鞠のユカリ|[[COLOR(blue):カラ鞠の花>難易度表/おに/カラ鞠の花]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|幽玄を極めし者|[[COLOR(blue):幽玄ノ乱>難易度表/おに/幽玄ノ乱]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ちょっと休憩|[[COLOR(blue):てんぢく2000>難易度表/おに/てんぢく2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|卒業してもずっとトモダチ|[[COLOR(blue):そつおめしき>難易度表/おに/そつおめしき]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ガマンならんのです！|[[COLOR(blue):EkiBEN2000>難易度表/おに/EkiBEN2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|今日も定時で帰ります|[[COLOR(blue):よくでる2000>難易度表/おに/よくでる2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ドンカマの達人|[[COLOR(blue):ドンカマ2000>難易度表/おに/ドンカマ2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|きたさいたまのたちゅじん|[[COLOR(blue):きたさいたま200>難易度表/おに/きたさいたま200]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ラリルレランの達人|[[COLOR(blue):ノるどん2000>難易度表/おに/ノるどん2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|食っちゃ寝の達人|[[COLOR(blue):タベルナ2000>難易度表/おに/タベルナ2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|はやさいたまの達人|[[COLOR(blue):はやさいたま2000>難易度表/おに/はやさいたま2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|さいたまの達人|[[COLOR(blue):さいたま2000>難易度表/おに/さいたま2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|お仕事の達人|[[COLOR(blue):はたラク2000>難易度表/おに/はたラク2000]]を難易度おにでフルコンボ|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):リンリンズのファン|BGCOLOR(grey):[[COLOR(blue):黄ダルマ2000>難易度表/おに/黄ダルマ2000]]を難易度おにでフルコンボ|BGCOLOR(grey):|
+|〇|BGCOLOR(gold):|〆切の達人|[[COLOR(blue):ケチャドン2000>難易度表/おに/ケチャドン2000]]を難易度おにでフルコンボ||
+|〇|BGCOLOR(gold):|ご名答！|[[COLOR(blue):十露盤2000>難易度表/おに/十露盤2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|The end of your love|[[COLOR(blue):X-DAY2000>難易度表/おに/X-DAY2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|万戈イムの達人|[[COLOR(blue):万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|天狗の仕業|[[COLOR(blue):天狗囃子>難易度表/おに/天狗囃子]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|おつカレーライスだドン！|[[COLOR(blue):愛×愛ホイッスル（カレーメシ公式曲）>難易度表/おに/愛×愛ホイッスル（カレーメシ公式曲）]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|蚊取り光線の達人|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|黒の存在理由|[[COLOR(blue):闇の魔法少女>難易度表/おに/闇の魔法少女]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|もう1曲いきましょう！！|[[COLOR(blue):イオシス秋の肉食祭2014>難易度表/おに/イオシス秋の肉食祭2014]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ハローマイフレンどん！|[[COLOR(blue):ボクハシンセ>難易度表/おに/ボクハシンセ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|輝く未来へ羽ばたけ|[[COLOR(blue):そつおめしき2ばん>難易度表/おに/そつおめしき2ばん]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|不死のドン魂|[[COLOR(blue):UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|魔の力に魂捧げし者|[[COLOR(blue):竜と黒炎の姫君(裏)>難易度表/おに/竜と黒炎の姫君(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|Seafood Seeker|1プレイ内で[[COLOR(blue):The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]、[[COLOR(blue):Evidence of evil>難易度表/おに/Evidence of evil]]のどちらかと[[COLOR(blue):Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|まださいたまの達人|[[COLOR(blue):まださいたま2000>難易度表/おに/まださいたま2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|束ね糸を通せし者|[[COLOR(blue):束ね糸>難易度表/おに/束ね糸]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|天の輝き掴みし者|[[COLOR(blue):天照>難易度表/おに/天照]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|勝利の女神に微笑まれし者|[[COLOR(blue):VICTORIA>難易度表/おに/VICTORIA]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|スキル：完全毒耐性|[[COLOR(blue):毒LOCANdy&#9825;>難易度表/おに/毒LOCANdy]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|春夏秋冬の竜を統べし者|[[COLOR(blue):春竜 〜Haryu〜>難易度表/おに/春竜 〜Haryu〜(裏譜面)]]、[[COLOR(blue):夏竜 〜Karyu〜>難易度表/おに/夏竜 〜Karyu〜(裏譜面)]]、[[COLOR(blue):秋竜 〜Shiuryu〜>難易度表/おに/秋竜 〜Shiuryu〜(裏譜面)]]、[[COLOR(blue):冬竜 〜Toryu〜>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]の裏譜面を全てフルコンボ|条件を満たしたプレイ後取得|
+|〇|BGCOLOR(gold):|≠MMの達人|[[COLOR(blue):≠MM>難易度表/おに/≠MM]]を難易度おにでフルコンボ||
+|〇|BGCOLOR(gold):|三者三様の桜咲く|[[COLOR(blue):桜花爛漫>難易度表/おに/桜花爛漫]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Asteroid Trackers|[[COLOR(blue):Asteroid>難易度表/おに/Asteroid]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|トレジャーシップクルー|[[COLOR(blue):激運！七福ハッピークルー>難易度表/おに/激運！七福ハッピークルー]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|スキル：完全テラー耐性|[[COLOR(blue):χ談>難易度表/おに/χ談]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|10TSUKANOTSURUGI|[[COLOR(blue):8OROCHI>難易度表/おに/8OROCHI]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|AMANOMURAKUMO|[[COLOR(blue):8OROCHI(裏)>難易度表/おに/8OROCHI(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|晦冥を斥けし神の光芒|[[COLOR(blue):God Ray>難易度表/おに/God Ray]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|朧の陰り払いし者|[[COLOR(blue):月読命>難易度表/おに/月読命]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ゾンビの達人|[[COLOR(blue):シン・ゾンビ>難易度表/おに/シン・ゾンビ]]を難易度かんたんまたはふつうまたはむずかしいでフルコンボ|~|
+|〇|BGCOLOR(gold):|シン・ゾンビの達人|[[COLOR(blue):シン・ゾンビ>難易度表/おに/シン・ゾンビ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|INSPIratiON|[[COLOR(blue):INSPION>難易度表/おに/INSPION]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|無限を究めし者|[[COLOR(blue):Infinite Rebellion>難易度表/おに/Infinite Rebellion]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|濃紅が紡ぐ邂逅|[[COLOR(blue):濃紅>難易度表/おに/濃紅]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|R.I.M.|[[COLOR(blue):R.I.>難易度表/おに/R.I.]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|フーフー成功率100％|[[COLOR(blue):FooFooカセット>難易度表/おに/FooFooカセット]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|I LOVE HARDCORE|[[COLOR(blue):HARDCOREノ心得>難易度表/おに/HARDCOREノ心得]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|極圏の凍雪を踏破せし者|[[COLOR(blue):極圏>難易度表/おに/極圏]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|怒槌の雷鳴を轟かせし者|[[COLOR(blue):怒槌>難易度表/おに/怒槌]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|緋槍を鮮血に染めし者|[[COLOR(blue):Scarlet Lance>難易度表/おに/Scarlet Lance]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|七色の打音を刻みし者|[[COLOR(blue):Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Taiko rumble|[[COLOR(blue):OK I’m blue rat>難易度表/おに/OK I’m blue rat]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|寒空に咲く花たちへ|[[COLOR(blue):Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|スキル：完全魅了耐性|[[COLOR(blue):彼は誰時の誘惑(裏)>難易度表/おに/彼は誰時の誘惑(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|嵐の荒び凪ぎし者|[[COLOR(blue):須佐之男>難易度表/おに/須佐之男]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|響く三三七拍子！|[[COLOR(blue):よーいドン！>難易度表/おに/よーいドン！]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|北天の星雲を翔し者|[[COLOR(blue):SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|メジェド様の信徒|[[COLOR(blue):秘ナルメジェドノ悲ナル憂鬱>難易度表/おに/秘ナルメジェドノ悲ナル憂鬱]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|罪深き歓びの譜を歌いし者|[[COLOR(blue):愛と浄罪の森>難易度表/おに/愛と浄罪の森]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|哀 got U|[[COLOR(blue):哀 want U>難易度表/おに/哀 want U]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ダンガンドンだー|[[COLOR(blue):ダンガンノーツ>難易度表/おに/ダンガンノーツ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|超高速の弾丸捌き|[[COLOR(blue):ダンガンノーツ(裏)>難易度表/おに/ダンガンノーツ(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|AUTOyMATIC☆PARADE!!|[[COLOR(blue):トイマチック☆パレード!!>難易度表/おに/トイマチック☆パレード!!]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|完全にリードしたアイマイミー|[[COLOR(blue):スーパーD＆D 〜完全にリードしてアイマイミー〜>難易度表/おに/スーパーD＆D 〜完全にリードしてアイマイミー〜]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|傘の使い方の達人|[[COLOR(blue):D絶対！SAMURAIインザレイン(裏)>難易度表/おに/D絶対！SAMURAIインザレイン(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|はい、論破！|[[COLOR(blue):人のお金で焼肉を食したい！(裏)>難易度表/おに/人のお金で焼肉を食したい！(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|小犬のワルツの達人|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|大空を舞う翼広げし者|[[COLOR(blue):行かないでイカロス>難易度表/おに/行かないでイカロス]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Perfect Parfait|[[COLOR(blue):マジカル・パフェ>難易度表/おに/マジカル・パフェ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|邪獣の討伐者|[[COLOR(blue):Behemoth>難易度表/おに/Behemoth]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|自称・世界でイチバン人気者|[[COLOR(blue):マオウのショウタイム>難易度表/おに/マオウのショウタイム]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|波乗りドンだー|[[COLOR(blue):Surf Zapping>難易度表/おに/Surf Zapping]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|花車の記憶を手繰りし者|[[COLOR(blue):GERBERA>難易度表/おに/GERBERA]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|“Ｘ”の意思を継ぎし者|[[COLOR(blue):Xevel>難易度表/おに/Xevel]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|終焉の双撃を放ちし者|[[COLOR(blue):ouroboros -twin stroke of the end->難易度表/おに/ouroboros -twin stroke of the end-]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|青天の黎明を迎えし者|[[COLOR(blue):青天の黎明>難易度表/おに/青天の黎明]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ようこそ おもちゃの街へ|[[COLOR(blue):Toon Town's Toys' Tune>難易度表/おに/Toon Town's Toys' Tune]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|つよくてうまくてすさまじいドンだー|[[COLOR(blue):まるくてはやくてすさまじいリズム>難易度表/おに/まるくてはやくてすさまじいリズム]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|終天のリングを継ぎし者|[[COLOR(blue):EterNal Ring>難易度表/おに/EterNal Ring]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|コケティッシュドンだー|[[COLOR(blue):Coquette>難易度表/おに/Coquette]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|天魔覆滅|[[COLOR(blue):第六天魔王>難易度表/おに/第六天魔王]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ハンロックの達人|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|とある空域の撃墜王|[[COLOR(blue):Comona>難易度表/おに/Comona]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|パン派の達人|[[COLOR(blue):パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ごはん派の達人|[[COLOR(blue):パン vs ごはん！ 大決戦！(裏)>難易度表/おに/パン vs ごはん！ 大決戦！(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|色鮮やかなバチさばき|[[COLOR(blue):カラフル>難易度表/おに/カラフル]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|スキル：完全混乱耐性|[[COLOR(blue):λ7708>難易度表/おに/λ7708]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|運命の糸を紡ぎし者|[[COLOR(blue):Clotho クロートー>難易度表/おに/Clotho クロートー]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ARMAGEΔDONDER|[[COLOR(blue):ARMAGEΔDON>難易度表/おに/ARMAGEΔDON]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|メロディアスドンだー|[[COLOR(blue):GO GET'EM!>難易度表/おに/GO GET'EM!]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|リズミカルドンだー|[[COLOR(blue):GO GET'EM!(裏)>難易度表/おに/GO GET'EM!(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|セッションマスター|2人プレイで[[COLOR(blue):GO GET'EM!>難易度表/おに/GO GET'EM!]]と[[COLOR(blue):GO GET'EM!(裏)>難易度表/おに/GO GET'EM!(裏譜面)]]を難易度おにで同時にフルコンボ|~|
+|〇|BGCOLOR(gold):|天下統一|[[COLOR(blue):天下統一録>難易度表/おに/天下統一録]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|光陰ジェットコースターの如し|[[COLOR(blue):ユースフルコースター>難易度表/おに/ユースフルコースター]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|頂に 至りて臨む 景色かな|[[COLOR(blue):頂>難易度表/おに/頂]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|つれづれなう！|[[COLOR(blue):こ・き・く・くる・くる・くれ・こ！>難易度表/おに/こ・き・く・くる・くる・くれ・こ！]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ドットイートの達人|[[COLOR(blue):PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|簡単に超えた長いハイステージ|[[COLOR(blue):トラストゲーム>難易度表/おに/トラストゲーム]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|あの日出会えたキセキ|[[COLOR(blue):あの日出会えたキセキ>難易度表/おに/あの日出会えたキセキ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|FREEDOM DiVER↓↓↓|[[COLOR(blue):FREEDOM DiVE↓>難易度表/おに/FREEDOM DiVE↓]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Pixel Galaxy Voyager|[[COLOR(blue):Pixel Galaxy>難易度表/おに/Pixel Galaxy]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|星降ル夜ノ奇譚|[[COLOR(blue):Altale(裏)>難易度表/おに/Altale(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|トゥラッタッタの達人|[[COLOR(blue):あなたとトゥラッタッタ♪(裏)>難易度表/おに/あなたとトゥラッタッタ♪(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|Dragoon Commander|[[COLOR(blue):Dragoon>難易度表/おに/Dragoon]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|スパイスお好みで！|[[COLOR(blue):ラヴ&#9825;スパイス&#9825;ライクユー!!!>難易度表/おに/ラヴ・スパイス・ライクユー!!!]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Shine Like “α”|[[COLOR(blue):或ル不和>難易度表/おに/或ル不和]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|星屑ストライカー|[[COLOR(blue):星屑ストラック>難易度表/おに/星屑ストラック]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|星屑の雨を舞いし者|[[COLOR(blue):星屑ストラック(裏)>難易度表/おに/星屑ストラック(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|dead or die|[[COLOR(blue):デッド・オア・ダイ>難易度表/おに/デッド・オア・ダイ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|世界遺産ドンだー|[[COLOR(blue):和有るど経りて維持・序>難易度表/おに/和有るど経りて維持・序]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|陽炎ゆらめいて|[[COLOR(blue):Heat Haze Shadow 2>難易度表/おに/Heat Haze Shadow 2]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|かしこみもまおせ|[[COLOR(blue):もしもし神様>難易度表/おに/もしもし神様]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|「君タチモ唱和セヨ」|[[COLOR(blue):カラフルボイス>難易度表/おに/カラフルボイス]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|極彩色の歌声|[[COLOR(blue):カラフルボイス(裏)>難易度表/おに/カラフルボイス(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|疾風怒濤ドンだー|[[COLOR(blue):疾風怒濤>難易度表/おに/疾風怒濤]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Sturm und Drang|[[COLOR(blue):疾風怒濤(裏)>難易度表/おに/疾風怒濤(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|更紗金魚と夢見る街|[[COLOR(blue):Goldfish City>難易度表/おに/Goldfish City]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Awesome playing！|[[COLOR(blue):What's in the box?>難易度表/おに/What's in the box?]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|溟海の女神|[[COLOR(blue):アムピト&#9826;リーテー>難易度表/おに/アムピト◇リーテー]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|LET THE BASS KICK|[[COLOR(blue):B.B.K.K.B.K.K.>難易度表/おに/B.B.K.K.B.K.K.]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|繧ゅ⊆繧ゅ⊆の達人|[[COLOR(blue):もぺもぺ>難易度表/おに/もぺもぺ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|超弩級ドンだー|[[COLOR(blue):Dreadnought(裏)>難易度表/おに/Dreadnought(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|世界をエモに染めるエモ！|[[COLOR(blue):キューティー☆デモニック☆魔人エモ!!>難易度表/おに/キューティー☆デモニック☆魔人エモ!!]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Don't Stop the Game|[[COLOR(blue):Don't Stop the Game>難易度表/おに/Don't Stop the Game]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|気焔万丈神楽の達人|[[COLOR(blue):気焔万丈神楽>難易度表/おに/気焔万丈神楽]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|みんなで繋ぐ、太鼓色。|[[COLOR(blue):コネクトカラーズ>難易度表/おに/コネクトカラーズ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|奇跡を起こす程度のドンだー|[[COLOR(blue):Calamity Fortune>難易度表/おに/Calamity Fortune]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|常識に囚われないドンだー|[[COLOR(blue):Calamity Fortune(裏)>難易度表/おに/Calamity Fortune(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|悠然なる管理者|[[COLOR(blue):サクラ・シークレット>難易度表/おに/サクラ・シークレット]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|にゃーにゃーにゃーにゃーにゃー|[[COLOR(blue):にゃーにゃーにゃー>難易度表/おに/にゃーにゃーにゃー]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|日の下に 青から落ちる 天泣や|[[COLOR(blue):天泣の律>難易度表/おに/天泣の律]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|溟海の大神|[[COLOR(blue):poxei&#9830;DOON>難易度表/おに/poxei◆DOON]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|踊れ美しき華|[[COLOR(blue):流浪の琥珀姫>難易度表/おに/流浪の琥珀姫]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|技術習得度100.0%|[[COLOR(blue):TD - 28619029byte remix ->難易度表/おに/TD -28619029byte remix-]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|UFO召喚！|[[COLOR(blue):UFO Swingin’>難易度表/おに/UFO Swingin']]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|氷竜を討伐せし者|[[COLOR(blue):氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Ice Breaker|[[COLOR(blue):氷竜 〜Kooryu〜(裏)>難易度表/おに/氷竜 〜Kooryu〜(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|「『滅セヨ！スベテヲ！』」|[[COLOR(blue):モノクロボイス>難易度表/おに/モノクロボイス]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|無彩色の歌声|[[COLOR(blue):モノクロボイス(裏)>難易度表/おに/モノクロボイス(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|森羅万象の理を解きし者|[[COLOR(blue):森羅万象>難易度表/おに/森羅万象]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|１人と１台の大冒険|[[COLOR(blue):うちゅうひこうし冒険譚>難易度表/おに/うちゅうひこうし冒険譚]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|カリブの騎士|[[COLOR(blue):Caribbean Knight>難易度表/おに/Caribbean Knight]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|「太鼓をたたいてスタート！」|[[COLOR(blue):タイコロール>難易度表/おに/タイコロール]]を難易度おにでフルコンボ||
+|〇|BGCOLOR(gold):|維新覇者|[[COLOR(blue):幕末維新譚>難易度表/おに/幕末維新譚]]をフルコンボ||
+|〇|BGCOLOR(gold):|笑いの達人|[[COLOR(blue):わら得る2000>難易度表/おに/わら得る2000]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|不可ハイネガ〜！|[[COLOR(blue):ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|続・〆ドレーの達人|[[COLOR(blue):続・〆ドレー２０００>難易度表/おに/続・〆ドレー2000]]をフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]をフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|カオスタイムの達人|[[COLOR(blue):!!!カオスタイム!!!>難易度表/おに/!!!カオスタイム!!!]]をフルコンボ||
+|〇|BGCOLOR(gold):|猛炎の紅蓮神|[[COLOR(blue):カグツチ>難易度表/おに/カグツチ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|神薙ぐ御剣|[[COLOR(blue):KUSANAGI>難易度表/おに/KUSANAGI]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|スーパーカオスタイム|[[COLOR(blue):!!!カオスタイム!!!>難易度表/おに/!!!カオスタイム!!!]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|全力疾走の達人|[[COLOR(blue):チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|オーディオ刑事|[[COLOR(blue):オーディオ de カッ！>難易度表/おに/オーディオ de カッ！]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(peru):|恋の病治療中|[[COLOR(blue):恋の処方箋>難易度表/おに/恋の処方箋]]をクリア||
+|〇|BGCOLOR(peru):|漢の生き様|[[COLOR(blue):和蘭撫子>難易度表/おに/和蘭撫子]]をクリア|~|
+|〇|BGCOLOR(peru):|多次元干渉者|[[COLOR(blue):DIMENSIONS>難易度表/おに/DIMENSIONS]]をクリア|~|
+|〇|BGCOLOR(peru):|愛ヲ詠イシ花|[[COLOR(blue):花オト裏拍子>難易度表/おに/花オト裏拍子]]をクリア|~|
+|〇|BGCOLOR(peru):|ドキがムネムネしちゃうの|[[COLOR(blue):ドキドキ胸きゅん おまつりタイム>難易度表/おに/ドキドキ胸きゅん おまつりタイム]]をクリア|~|
+|〇|BGCOLOR(peru):|風を翔る騎士|[[COLOR(blue):風の国の龍と騎士>難易度表/おに/風の国の龍と騎士]]をクリア|~|
+|〇|BGCOLOR(peru):|ENDLESS PARTY TIME|[[COLOR(blue):3piece-JazzParty！>難易度表/おに/3piece-JazzParty!]]をクリア|~|
+|〇|BGCOLOR(peru):|リミットブレイカー|[[COLOR(blue):RAGE v. self>難易度表/おに/RAGE v. self]]をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):まりも研究所 職員|BGCOLOR(grey):太鼓チームからの挑戦！�，鬟�リア|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):浄化まであと3秒|BGCOLOR(grey):RED 5.08で太鼓チームからの挑戦！��をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):3500コンボ達成!!|BGCOLOR(grey):挑戦！3500コンボ！！をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):夢見るどん子の小夜曲|BGCOLOR(grey):太鼓チームからの挑戦！�Δ鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):「挑戦！333万点！！！！」達成!!|BGCOLOR(grey):挑戦！333万点！！をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):「第３回天下一音ゲ祭の巻」達成!!|BGCOLOR(grey):第３回天下一音ゲ祭の巻をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):朝顔や 激闘の果て 栄誉あり|BGCOLOR(grey):挑戦！世界大会2016決勝をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):REVIVED PHOENIX|BGCOLOR(grey):挑戦！世界大会2016EX�，鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):神の旋律を奏でし者|BGCOLOR(grey):挑戦！世界大会2016EX�△鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):異国の音色に魅せられて|BGCOLOR(grey):挑戦！ナムコオリジナル�，鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ドン連ダー・イエロー|BGCOLOR(grey):挑戦！1400連打！！をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):たたき続けるという意志|BGCOLOR(grey):チャレンジ！グリーン外伝�，鬟�リア|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):むずかしいは難しい|BGCOLOR(grey):チャレンジ！グリーン外伝�△鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):「挑戦！３３４万点！！」達成!!|BGCOLOR(grey):挑戦！３３４万点！！をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):完全無欠のバチ捌き|BGCOLOR(grey):挑戦！ドンダフルコンボ！！をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):第六感の持ち主|BGCOLOR(grey):チャレンジ！グリーン外伝��をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):異彩を放つモノたち|BGCOLOR(grey):チャレンジ！グリーン外伝�い鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):駆け抜けてゆく青春|BGCOLOR(grey):太鼓チームからの挑戦！�，鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):えむけぴクラスタ|BGCOLOR(grey):太鼓チームからの挑戦！�△鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):僕たちは繋がってゆく|BGCOLOR(grey):チャレンジ！グリーン外伝�イ鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):挑戦へのエールを|BGCOLOR(grey):チャレンジ！グリーン外伝�Δ鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):２０００シリーズの達人|BGCOLOR(grey):タトイ云−一ノ十�，鬟�リア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):２０００シリーズの大達人|BGCOLOR(grey):タトイ云−一ノ十&#10113;をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！カツドン大将」達成!!|BGCOLOR(silver):RED 5.08かYELLOW 0.13~2.07かBLUE 1.05~10.04かGREEN 1.04~13.02で復活！カツドン大将をクリア|BGCOLOR(silver):|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ソライロ十段」達成!!|BGCOLOR(silver):RED 5.08かYELLOW 0.13~2.07かBLUE 1.05~10.04かGREEN 1.04~13.02で復活！ソライロ十段をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！モモイロ十段」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！モモイロ十段をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！キミドリ十段」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！キミドリ十段をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ムラサキ十段」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！ムラサキ十段をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ホワイト十段」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！ホワイト十段をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！レッド十段」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！レッド十段をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！イエロー十段」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！イエロー十段をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ブルー十段」達成!!|BGCOLOR(silver):GREEN 1.04~13.02で復活！ブルー十段をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！モモイロ達人」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！モモイロ達人をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！キミドリ達人」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！キミドリ達人をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ムラサキ達人」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！ムラサキ達人をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ホワイト達人」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！ホワイト達人をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！レッド達人」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！レッド達人をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！イエロー達人」達成!!|BGCOLOR(silver):BLUE 1.05~10.04またはGREEN 1.04~13.02で復活！イエロー達人をクリア|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):「復活！ブルー達人」達成!!|BGCOLOR(silver):GREEN 1.04~13.02で復活！ブルー達人をクリア|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):マオウをたおした勇者|BGCOLOR(grey):2018/9/13〜10/22の間に演奏バトルモードで「対決！マオウ」ステージをクリアする|BGCOLOR(grey):2018年10月12日に[[公式ブログ>https://taiko-ch.net/blog/?p=2779]]・[[公式ツイッター>https://twitter.com/taiko_team/status/1050657010562170880]]より「[[マオウ討伐イベント@演奏バトル>https://taiko-ch.net/blog/?p=2699]]」実施期間の延長が発表された。(10/17→10/22に変更)|
+|〇|BGCOLOR(pink):|ミューズポリス|[[COLOR(blue):Extreme MGG★★★>難易度表/おに/Extreme MGG★★★]]をクリア|きせかえ「COLOR(red){ミューズポリスC}」を獲得|
+|〇|BGCOLOR(pink):|リボルバーの達人|[[COLOR(blue):ミュージック・リボルバー>難易度表/おに/ミュージック・リボルバー]]をクリア|きせかえ「COLOR(red){ミューズポリスM}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):勇者ドンだー|BGCOLOR(grey):1プレイ内全て[[3DS1の収録曲]]のみをプレイ&br;(クリアしなくても可、1曲目で失敗して復活失敗でももらえる)|BGCOLOR(grey):きせかえ「COLOR(red){ゆうしゃ}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+//|〇||スライムがあらわれた！|[[COLOR(blue):序曲 ドラゴンクエストＸより>難易度表/おに/序曲 ドラゴンクエストXより]]をプレイ|きせかえ「COLOR(red){ドラゴンクエスト}」を獲得|
+|〇|BGCOLOR(pink):|発明家のたまご|たまごっち関連の曲をプレイ&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|きせかえ「COLOR(red){まめっち}」を獲得|
+|〇|BGCOLOR(pink):|アイドルのたまご|~|きせかえ「COLOR(red){ゆめみっち}」を獲得|
+|〇|BGCOLOR(pink):|ゴールデンドンだー|[[COLOR(blue):女々しくて>難易度表/おに/女々しくて]]をプレイ|きせかえ「COLOR(red){ゴールデンボンバー}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):アイドルカツドウ！中|BGCOLOR(grey):[[COLOR(blue):Du-Du-Wa DO IT!!>難易度表/おに/Du-Du-Wa DO IT!!]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){星宮いちご}」を獲得|
+|〇|BGCOLOR(pink):|パズドラの達人|[[COLOR(blue):Walking Through the Towers>難易度表/おに/Walking Through The Towers]]をプレイ|きせかえ「COLOR(red){パズドラ ティラ}」を獲得|
+|〇|BGCOLOR(pink):|みつあみ好き|IA曲をクリア|きせかえ「COLOR(red){IA}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(pink):|ねぎ好き|公式の初音ミク曲をクリア|きせかえ「COLOR(red){初音ミク}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(pink):|にんじん好き|GUMI曲をクリア|きせかえ「COLOR(red){GUMI}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ももクロ かなこどん|BGCOLOR(grey):モモイロVer. 1回目プレイ|BGCOLOR(grey):きせかえ「COLOR(red){ももクロ かなこどん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ももクロ あーどん|BGCOLOR(grey):モモイロVer. 2回目プレイ|BGCOLOR(grey):きせかえ「COLOR(red){ももクロ あーどん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ももクロ しおりどん|BGCOLOR(grey):モモイロVer. 3回目プレイ|BGCOLOR(grey):きせかえ「COLOR(red){ももクロ しおりどん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ももクロ ももかどん|BGCOLOR(grey):モモイロVer. 4回目プレイ|BGCOLOR(grey):きせかえ「COLOR(red){ももクロ ももかどん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ももクロ れにどん|BGCOLOR(grey):モモイロVer. 5回目プレイ|BGCOLOR(grey):きせかえ「COLOR(red){ももクロ れにどん}」を獲得|
+|〇|BGCOLOR(pink):|妖怪さがし中|妖怪ウォッチの曲をプレイ|きせかえ「COLOR(red){ジバニャン}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(pink):|モンスターハンター|[[COLOR(blue):モンスターハンター4 メドレー>難易度表/おに/モンスターハンター4 メドレー]]をプレイ|きせかえ「COLOR(red){ブレイブネコシリーズ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):パズドラZの達人|BGCOLOR(grey):[[COLOR(blue):さかさま世界>難易度表/おに/さかさま世界]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){パズドラＺ シロップ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ハッピー de うれピー|BGCOLOR(grey):2014/2/19〜3/18の間に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){ポテどん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):レース de ウレースィ|BGCOLOR(grey):2014/4/17〜5/18の間にマリオカートアーケードグランプリDXをプレイした後に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){マリオ}」と「COLOR(red){ルイージ}」を獲得|
+|〇|BGCOLOR(pink):|くまもとの達人|[[COLOR(blue):くまもとサプライズ！>難易度表/おに/くまもとサプライズ！]]をプレイ|きせかえ「COLOR(red){くまモン}」を獲得|
+|〇|BGCOLOR(pink):|チックンの友達|[[COLOR(blue):超時空アドベンチャー>難易度表/おに/超時空アドベンチャー]]をプレイ|きせかえ「COLOR(red){チックン}」を獲得|
+|〇|BGCOLOR(pink):|タックンの友達|~|きせかえ「COLOR(red){タックンライド}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):戦国時代の鬼退治！|BGCOLOR(grey):2014/7/19〜8/1の間に[[COLOR(blue):らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん]]をクリア|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){にんじゃ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ドタバタウェディング！|BGCOLOR(grey):2014/7/26〜8/8の間に[[COLOR(blue):リバイバー>難易度表/おに/リバイバー]]をクリア|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){イカロスのつばさ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):巨大恐竜あらわる！|BGCOLOR(grey):2014/8/2〜8/15の間に[[COLOR(blue):めたるぽりす>難易度表/おに/めたるぽりす]]をクリア|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){かせき}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):古代ピラミッドの謎！|BGCOLOR(grey):2014/8/9〜8/22の間に[[COLOR(blue):ザストゥールの魔導書>難易度表/おに/ザストゥールの魔導書]]をクリア|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ミイラ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):南海お宝争奪戦！|BGCOLOR(grey):2014/8/16〜8/29の間に[[COLOR(blue):オレサマパイレーツ>難易度表/おに/オレサマパイレーツ]]をクリア|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){かいぞくせん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):飛行兄弟の夢！|BGCOLOR(grey):2014/8/23〜9/5の間に[[COLOR(blue):ナイトメア・サバイバー>難易度表/おに/ナイトメア・サバイバー]]をクリア|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ひこうき}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):時空大決戦！|BGCOLOR(grey):2014/8/30〜9/12の間に[[COLOR(blue):The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]をクリア|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ガーディアン}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):梨の妖精|BGCOLOR(grey):[[COLOR(blue):ぶぎ ぶぎ ふなっしー♪>難易度表/おに/ぶぎ ぶぎ ふなっしー♪]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){ふなっしー}」を獲得|
+|〇|BGCOLOR(pink):|博麗神社の巫女|東方Projectアレンジ楽曲をプレイ|きせかえ「COLOR(red){博麗霊夢}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(pink):|もんげー！|コマさんが踊り子として登場している、妖怪ウォッチの曲をプレイ|きせかえ「COLOR(red){コマさん}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(pink):|能力覚醒！|[[COLOR(blue):決戦!!>難易度表/おに/決戦!!]]をプレイ|きせかえ「COLOR(red){パズドラ たまドラ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):アイカツしよう☆|BGCOLOR(grey):[[COLOR(blue):Du-Du-Wa DO IT!!>難易度表/おに/Du-Du-Wa DO IT!!]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){大空あかり}」を獲得|
+|〇|BGCOLOR(pink):|アイドルマスター|アイドルマスターの曲をクリア|きせかえ「COLOR(red){アイドルマスター}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(pink):|普通の魔法使い|東方Projectアレンジ楽曲をクリア|きせかえ「COLOR(red){霧雨魔理沙}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):マッハ２０のバチさばき|BGCOLOR(grey):[[COLOR(blue):青春サツバツ論>難易度表/おに/青春サツバツ論]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){殺せんせー}」を獲得|
+|〇|BGCOLOR(pink):|ラスボス降臨|[[COLOR(blue):さちさちにしてあげる♪>難易度表/おに/さちさちにしてあげる♪]]をクリア|きせかえ「COLOR(red){さちさち}」を獲得|
+|〇|BGCOLOR(gold):|こおりの女王|[[COLOR(blue):Let It Go〜ありのままで〜>難易度表/おに/Let It Go〜ありのままで〜]]をフルコンボ|きせかえ「COLOR(red){こおりのドレス}」を獲得|
+|〇|BGCOLOR(pink):|メイプルの友達|[[COLOR(blue):希望へのメロディー>難易度表/おに/希望へのメロディー]]をプレイ|からだ「COLOR(red){メイプルライド}」を獲得|
+|〇|BGCOLOR(pink):|リラ・ダ・ガンバの友達|~|あたま「COLOR(red){リラ・ダ・ガンバ}」を獲得|
+|〇|BGCOLOR(pink):|光をつかむ！|チェインクロニクルの曲をプレイ|きせかえ「COLOR(red){フィーナとピリカ}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(pink):|メリケン妖怪|[[COLOR(blue):人生ドラマチック>難易度表/おに/人生ドラマチック]]をプレイ|きせかえ「COLOR(red){USAピョン}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):リラックス|BGCOLOR(grey):[[COLOR(blue):QUESTION>難易度表/おに/QUESTION]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){リラックス殺せんせー}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):カイガン！オレ！|BGCOLOR(grey):[[COLOR(blue):我ら思う、故に我ら在り>難易度表/おに/我ら思う、故に我ら在り]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーゴースト}」を獲得|
+|〇|BGCOLOR(pink):|ジブリ大好き！|スタジオジブリアニメの曲をプレイ|きせかえ「COLOR(red){まうちゅー}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(pink):|おさかな大好き！|[[COLOR(blue):おさかな毎日！さかなクン>難易度表/おに/おさかな毎日！さかなクン]]をプレイ|きせかえ「COLOR(red){さかなクン}」を獲得|
+|〇|BGCOLOR(pink):|プププランドの住人|[[COLOR(blue):星のカービィメドレー>難易度表/おに/星のカービィメドレー]]をプレイ|きせかえ「COLOR(red){星のカービィ}」を獲得|
+|〇|BGCOLOR(pink):|ドコドン！ミステリーアドベンチャー|[[COLOR(blue):世界はいつでもミステリー>難易度表/おに/世界はいつでもミステリー]]をプレイ|きせかえ「COLOR(red){ティア＆ポポカカ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):本能覚醒！|BGCOLOR(grey):[[COLOR(blue):動物戦隊ジュウオウジャー>難易度表/おに/動物戦隊ジュウオウジャー]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){ジュウオウイーグル}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):日本全国ＧＯＬＤカッ？|BGCOLOR(grey):[[COLOR(blue):怒りをくれよ>難易度表/おに/怒りをくれよ]]をプレイ(2016/8/3〜2016/9/4)|BGCOLOR(grey):きせかえ「COLOR(red){ワンピース フィルム ゴールド}」を獲得|
+|〇|BGCOLOR(peru):|世界一決定戦 ありがドン|1P側で「[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]」の新規課題曲として登場した新曲をプレイ|からだ「COLOR(red){世界一決定戦2016(どん)}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(peru):|世界一決定戦 おつカレーライス|2P側で「[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]」の新規課題曲として登場した新曲をプレイ|からだ「COLOR(red){世界一決定戦2016(かつ)}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(pink):|オーマイガーミャウ！|[[COLOR(blue):ゆーがらお友達>難易度表/おに/ゆーがらお友達]]をプレイ|きせかえ「COLOR(red){トムニャン}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):レベルアップ！太鼓の達人！|BGCOLOR(grey):[[COLOR(blue):EXCITE>難易度表/おに/EXCITE]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーエグゼイド}」を獲得|
+|〇|BGCOLOR(pink):|変人速攻|[[COLOR(blue):ヒカリアレ>難易度表/おに/ヒカリアレ]]をプレイ|きせかえ「COLOR(red){ハイキュー！！}」を獲得|
+|〇|BGCOLOR(pink):|イカ、よろしくーーー！|[[COLOR(blue):シオカラ節>難易度表/おに/シオカラ節]]をプレイ|きせかえ「COLOR(red){スプラトゥーン ガール}」を獲得|
+|〇|BGCOLOR(pink):|ナゾ多き仮面の剣士|[[COLOR(blue):メタナイトの逆襲メドレー>難易度表/おに/メタナイトの逆襲メドレー]]をプレイ|きせかえ「COLOR(red){メタナイト}」を獲得|
+|〇|BGCOLOR(pink):|がんばりゲージMAX|[[COLOR(blue):ゼルダの伝説 ブレス オブ ザ ワイルド メドレー>難易度表/おに/ゼルダの伝説 ブレス オブ ザ ワイルド メドレー]]をプレイ|きせかえ「COLOR(red){リンク オブ ザ ワイルド}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):水陸両用|BGCOLOR(grey):[[COLOR(blue):Groovy Duel>難易度表/おに/Groovy Duel]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){アッガイ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):勝利の法則は決まった！|BGCOLOR(grey):[[COLOR(blue):Be The One>難易度表/おに/Be The One]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダービルド}」を獲得|
+|〇|BGCOLOR(pink):|キャッピーだドン！|[[COLOR(blue):Jump Up, Super Star! Short Version>難易度表/おに/Jump Up, Super Star! Short Version]]をプレイ|きせかえ「COLOR(red){マリオオデッセイ}」を獲得|
+|〇|BGCOLOR(pink):|イカしたボーイ|[[COLOR(blue):スプラトゥーン2 メドレー>難易度表/おに/スプラトゥーン2 メドレー]]をプレイ|きせかえ「COLOR(red){スプラトゥーン ボーイ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):平成仮面ライダー２０作記念|BGCOLOR(grey):[[COLOR(blue):Over “Quartzer”>難易度表/おに/Over “Quartzer”]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダージオウ＆ゲイツ}」を獲得|
+|〇|BGCOLOR(pink):|世界最強の社長|[[COLOR(blue):REAL×EYEZ>難易度表/おに/REAL×EYEZ]]をプレイ|きせかえ「COLOR(red){仮面ライダーゼロワン}」を獲得|
+|〇|BGCOLOR(gold):|教授のきもち|サカモト教授作曲・編曲の曲をフルコンボ|きせかえ「COLOR(red){きょうじゅ}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ＧＡＭＥ ＭＵＳＩＣ ＴＲＩＡＮＧＬＥＲ|BGCOLOR(grey):2014/4/17〜4/30の間に[[電車で電車でGO!GO!GO!GC! -GMT remix->難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]と[[ファンタジーゾーン OPA-OPA! -GMT remix->難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]と[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]]を全てプレイ(1プレイ内でなくても可)|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):GMT MASTER|BGCOLOR(grey):2014/5/8〜5/21の間に[[電車で電車で OPA!OPA!OPA! -GMT mashup->難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]と[[オパ！オパ！RACER -GMT mashup->難易度表/おに/オパ！オパ！RACER -GMT mashup-]]と[[リッジでリッジで GO!GO!GO! -GMT mashup->難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]を全てプレイ(1プレイ内でなくても可)|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):いいじゃないの〜|BGCOLOR(grey):2015/4/28〜8/31の間に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){細貝さん}」、音色「COLOR(pink){細貝さん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ダメよ〜ダメダメ|~|BGCOLOR(grey):きせかえ「COLOR(red){朱美ちゃん}」、音色「COLOR(pink){朱美ちゃん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):こんな太鼓を愛するために|BGCOLOR(grey):2016/3/9〜5/8の間に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){MAKIDAIどん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ただ…叩きたくて|~|BGCOLOR(grey):きせかえ「COLOR(red){メンディーどん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):キャラぱふぇ祝10周年だドン！|BGCOLOR(grey):2016年11月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){サマードンチャン}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):WONDER!スクール グランプリ！|BGCOLOR(grey):2017/1/31〜2/25の間に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){へいあんびじん}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):世の中で一番のニート|BGCOLOR(grey):2018/1/24〜2/18の間に[[全力バタンキュー>難易度表/おに/全力バタンキュー]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){おそドン}」を獲得。&br;曲をプレイするたび、まだ入手していない同曲のプレイ称号（＋きせかえ）からランダム1つ貰える|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):カラ松ガールズ|~|BGCOLOR(grey):きせかえ「COLOR(red){カラドン}」を獲得&br;曲をプレイするたび、まだ入手していない同曲のプレイ称号（＋きせかえ）からランダム1つ貰える|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):自意識ライジング|~|BGCOLOR(grey):きせかえ「COLOR(red){チョロドン}」を獲得&br;曲をプレイするたび、まだ入手していない同曲のプレイ称号（＋きせかえ）からランダム1つ貰える|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):……|~|BGCOLOR(grey):きせかえ「COLOR(red){一ドン}」を獲得&br;曲をプレイするたび、まだ入手していない同曲のプレイ称号（＋きせかえ）からランダム1つ貰える|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):マッスルマッスル！|~|BGCOLOR(grey):きせかえ「COLOR(red){十四ドン}」を獲得&br;曲をプレイするたび、まだ入手していない同曲のプレイ称号（＋きせかえ）からランダム1つ貰える|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):トッティ|~|BGCOLOR(grey):きせかえ「COLOR(red){トドドン}」を獲得&br;曲をプレイするたび、まだ入手していない同曲のプレイ称号（＋きせかえ）からランダム1つ貰える|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ドンだー！日本一決定戦2013|BGCOLOR(grey):「ドンだー祭り モモイロの陣」に参加|BGCOLOR(grey):きせかえ「COLOR(red){世阿弥どん}」を獲得&br;ふつう、むずかしい、おにに関係なく貰える|
+|〇|BGCOLOR(gold):|ガールズポップマニア|1プレイ内全てサウンドトラック「ガールズポップマニア」収録曲をフルコンボ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(gold):|必殺旋風剣|[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]を難易度おにで連打数530打以上でクリア||
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):きのたけ合戦参戦|BGCOLOR(grey):2014/12/9〜2015/1/28の間に「きのたけ合戦」に参戦|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):きのこ軍 （階級）|BGCOLOR(grey):2014/12/9〜2015/1/28の間に「きのたけ合戦」に参戦し、きのこ軍に所属していた|BGCOLOR(grey):きのたけ合戦で得た最高階級が(階級)に表示される|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):たけのこ軍 （階級）|BGCOLOR(grey):2014/12/9〜2015/1/28の間に「きのたけ合戦」に参戦し、たけのこ軍に所属していた|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):たけのこの里の英雄|BGCOLOR(grey):2014/12/9〜2015/1/28の間に「きのたけ合戦」に参戦し、たけのこ軍に所属していた|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):天カッ一音ゲ祭に参加だドン！|BGCOLOR(grey):2015/10/15〜2016/2/20の間に「[[第二回天下一音ゲ祭]]」の新規課題曲として登場した新曲をプレイ((課題曲ではないが、同時期の特定筐体限定曲[[オール・イン・マイハート>難易度表/おに/オール・イン・マイハート]]でも取得可能という報告あり))|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):第三回天カッ一音ゲ祭に参加だドン！|BGCOLOR(grey):2016/10/14〜2017/2/11の間に「[[第三回天下一音ゲ祭]]」の新規課題曲として登場した新曲をプレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):第四回天カッ一音ゲ祭に参加だドン！|BGCOLOR(grey):2017/10/13〜2018/2/10の間に「[[第四回天下一音ゲ祭]]」の新規課題曲として登場した新曲をプレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):第五回天カッ一音ゲ祭に参加だドン！|BGCOLOR(grey):2018/10/25〜2019/1/26の間に「[[第五回天下一音ゲ祭]]」の新規課題曲として登場した新曲をプレイ|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):第二回天下一音ゲ祭 ファイナリスト|BGCOLOR(grey):第二回天下一音ゲ祭全国頂上決戦出場者11名に配布|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):第二回天下一音ゲ祭 チャンピオン|BGCOLOR(grey):第二回天下一音ゲ祭優勝者に配布|~|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):第三回天下一音ゲ祭 ファイナリスト|BGCOLOR(grey):第三回天下一音ゲ祭全国頂上決戦出場者11名に配布|~|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):第三回天下一音ゲ祭 チャンピオン|BGCOLOR(grey):第三回天下一音ゲ祭優勝者に配布|~|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):第四回天下一音ゲ祭 ファイナリスト|BGCOLOR(grey):第四回天下一音ゲ祭全国頂上決戦出場者11名に配布|~|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):第四回天下一音ゲ祭 チャンピオン|BGCOLOR(grey):第四回天下一音ゲ祭優勝者に配布|~|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):第五回天下一音ゲ祭 ファイナリスト|BGCOLOR(grey):第五回天下一音ゲ祭全国頂上決戦出場者11名に配布|~|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):第五回天下一音ゲ祭 チャンピオン|BGCOLOR(grey):第五回天下一音ゲ祭優勝者に配布|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):初代 最強小学生ドンだー|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]小学生以下部門優勝者に配布|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 ファイナリスト|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]決勝大会出場者|BGCOLOR(grey):アジア部門通過者にも貰えてる事が確認((アジア版のパナパスは日本版のドンだーひろばが利用できない))&br;欠場者への配布の有無は不明|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 第4位|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]第4位に配布|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 第3位|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]第3位に配布|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 準優勝|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]準優勝者に配布|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 優勝|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]優勝者に配布|~|
+|〇|BGCOLOR(gold):|クロニクルの使い手|[[COLOR(blue):チェインクロニクル 最終決戦メドレー>難易度表/おに/チェインクロニクル 最終決戦メドレー]]をフルコンボ||
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):765PRO ALLSTERS|BGCOLOR(grey):2015/4/28〜6/30の間に「アイドルマスター」のコラボショップで購入|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):765プロ、ファイトー！|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):MILLIONSSTARS|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):SR|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):穴堀って埋まってますぅ|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):片翼の太鼓エンジェル|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):永遠の１７歳|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):シンデレラガールズ|BGCOLOR(grey):2015/1/29〜3/8の間に「アイドルマスターシンデレラガールズ」のコラボショップまたは、2015/4/28〜6/30の間に「アイドルマスター」のコラボショップで購入|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ニュージェネレーション|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):Sレア|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):竜闘虎争|BGCOLOR(grey):2016/4/1〜6/2の間に「遊んでごほうびキャンペーン」のコラボショップにて購入|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):太鼓に魂奪われし姫君|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):クラクラ闇に堕ちてゆく|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ゴーストマスク|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):山盛りパフェいただきま〜す！|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):凛として吹く風の如く|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):★★★★★★★★★★|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):超絶技巧タイム|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ココロロボット|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):おにぎりはどこかしら♪|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):問題ない問題ない|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ひよっこファンタジー|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):栄光をこの手に|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):Moring Glory|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):輝きを求めて|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):嗚呼面太鼓ブラザーズ|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):8BIT DONDER|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):太鼓のリズムで今を刻んで|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):楽しんだら誰もが太鼓の達人だ|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ドンだー！世界一決定戦2016参加|~|~|
+|〇|BGCOLOR(gold):|シャレラの達人|[[COLOR(blue):Xa(裏)>難易度表/おに/Xa(裏譜面)]]をフルコンボ|「あべこべ」を付けた場合取得できない|
+|〇|BGCOLOR(gold):|戦神|[[COLOR(blue):Xa(裏)>難易度表/おに/Xa(裏譜面)]]をオプション「あべこべ」でフルコンボ||
+|〇|BGCOLOR(gold):|双竜を討ちし者|[[COLOR(blue):双竜ノ乱(表)>難易度表/おに/双竜ノ乱]]を難易度おにでフルコンボ|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):双神竜王|BGCOLOR(silver):[[COLOR(blue):双竜ノ乱(裏)>難易度表/おに/双竜ノ乱(裏譜面)]]を双打でフルコンボ|BGCOLOR(silver):|
+|〇|BGCOLOR(gold):|紫煌を纏いし者|[[COLOR(blue):紫煌ノ乱>難易度表/おに/紫煌ノ乱]]を難易度おにでフルコンボ||
+|〇|BGCOLOR(gold):|鈍行に乗るドン！|[[COLOR(blue):クロス・ブルー>難易度表/おに/クロス・ブルー]]、[[COLOR(blue):女帝 〜インバラトゥーラ〜>難易度表/おに/女帝 〜インバラトゥーラ〜]]、[[COLOR(blue):チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]、[[COLOR(blue):Abyss of hell>難易度表/おに/Abyss of hell]]を難易度おにですべてフルコンボ|条件を満たしたプレイ後取得&br;Abyss of hellは表か裏譜面の片方だけフルコンボでも良い|
+|〇|BGCOLOR(peru):|たいこのたしゅじん|[[COLOR(blue):Roseシリーズ>シリーズ曲一覧#rose]]、[[COLOR(blue):舞シリーズ>シリーズ曲一覧#mai]]、[[COLOR(blue):ノ乱シリーズ>シリーズ曲一覧#noran]]の各全曲、[[COLOR(blue):Xa>難易度表/おに/Xa]]をクリア|条件を満たしたプレイ後取得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):白き覚醒者|BGCOLOR(grey):残り時間を奇数ゾロ目,22,44のいずれかに止まるように選択して[[COLOR(blue):セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]をフルコンボ|BGCOLOR(grey):きせかえ「COLOR(red){白の覚醒}」を獲得&br;難易度を選択してから1カウントは動くので、狙っている時間+1で決定すると良い|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):黒き覚醒者|BGCOLOR(grey):オプション「あべこべ」を付けて、残り時間を66か88に止まるように選択して[[COLOR(blue):セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]をフルコンボ|BGCOLOR(grey):きせかえ「COLOR(red){黒の覚醒}」を獲得&br;難易度を選択してから1カウントは動くので、狙っている時間+1で決定すると良い|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):体力には自信あり|BGCOLOR(grey):どれか1曲で叩けた総数(良+可+連打数)が1000以上|BGCOLOR(grey):きせかえ「COLOR(red){パワーアーム}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):脳内カーニバルだドン！|BGCOLOR(grey):1プレイ内で[[COLOR(blue):さいたま2000>難易度表/おに/さいたま2000]]か[[COLOR(blue):はやさいたま2000>難易度表/おに/はやさいたま2000]]のみクリア、かつ、オプション「ばいそく」で1回以上フルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):はやさいたま2000>難易度表/おに/はやさいたま2000]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):キターさいたま！|BGCOLOR(grey):1プレイ内で[[COLOR(blue):きたさいたま2000>難易度表/おに/きたさいたま2000]]か[[COLOR(blue):きたさいたま200>難易度表/おに/きたさいたま200]]のみをプレイ&br;(クリアしなくても可、1曲目で失敗して復活失敗でももらえる)|BGCOLOR(grey):楽曲「[[COLOR(blue):きたさいたま200>難易度表/おに/きたさいたま200]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):タイコカーニバル|BGCOLOR(grey):[[COLOR(blue):タイコタイム(裏)>難易度表/おに/タイコタイム(裏譜面)]]をオプション「でたらめ」でフルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):お祭りカーニバル|BGCOLOR(grey):[[COLOR(blue):伝説の祭り>難易度表/おに/伝説の祭り]]をオプション「でたらめ」でフルコンボ|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ねがいましてーは！|BGCOLOR(grey):1プレイ内全て10か十か×を含む、または「十」の漢字が付く曲をフルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):十露盤2000>難易度表/おに/十露盤2000]]」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ソプラノ姫のファン|BGCOLOR(grey):1プレイ内全て[[3DS1の収録曲]]のみをプレイ&br;(クリアしなくても可、1曲目で失敗して復活失敗でも獲得できる)&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|BGCOLOR(grey):楽曲「[[COLOR(blue):キミと響くハーモニー>難易度表/おに/キミと響くハーモニー]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ドリームファンタジー|BGCOLOR(grey):きせかえ(姫ギャル、たつどし、ゆうしゃのいずれか)をつけて&br;[[COLOR(blue):エンジェル ドリーム>難易度表/おに/エンジェル ドリーム]]または[[COLOR(blue):パステル ドリーム>難易度表/おに/パステル ドリーム]]のみを1プレイ内全てフルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):風のファンタジー>難易度表/おに/風のファンタジー]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ぬるぽぬるぽぬるぽ|BGCOLOR(grey):''1P側1人プレイ''で、[[COLOR(blue):Rotter Tarmination>難易度表/おに/Rotter Tarmination]]、[[COLOR(blue):ドドンガド〜ン>難易度表/おに/ドドンガド〜ン]]、[[COLOR(blue):dance storm>難易度表/おに/dance storm]]のみを1プレイ内全てフルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):dance storm>難易度表/おに/dance storm]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):アレグリーア乱舞|BGCOLOR(grey):''2P側1人プレイ''で、[[COLOR(blue):サンバ アレグリーア>難易度表/おに/サンバ アレグリーア]]、[[COLOR(blue):らんぶる乱舞>難易度表/おに/らんぶる乱舞]]、[[COLOR(blue):らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん]]のみを1プレイ内全てフルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):先生、まだですかぁ？|BGCOLOR(grey):マイどんの名前に「''どん''」を''含めて''、ドンまたはDONのつく曲を1プレイ内全てフルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):ケチャドン2000>難易度表/おに/ケチャドン2000]]」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):目に青葉|BGCOLOR(grey):マイどんの名前を「''ばしょん''」にして、曲名が「M」または「m」から始まる曲を1プレイ内全てフルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):Many wow bang!>難易度表/おに/Many wow bang!]]」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):乱れ咲きカーニバル|BGCOLOR(grey):1プレイ内で[[COLOR(blue):百花繚乱>難易度表/おに/百花繚乱]]と[[COLOR(blue):The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]をフルコンボ（失敗した回があっても良いが、1プレイ内で達成できないと獲れない）|BGCOLOR(grey):楽曲「[[COLOR(blue):夜桜謝肉祭>難易度表/おに/夜桜謝肉祭]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):天地無双のバチさばき|BGCOLOR(grey):1プレイ内で[[COLOR(blue):天妖ノ舞>難易度表/おに/天妖ノ舞]]と[[COLOR(blue):旋風ノ舞【天】>難易度表/おに/旋風ノ舞【天】]]をフルコンボ（失敗した場合1プレイ内でのやり直しは不可）|BGCOLOR(grey):楽曲「[[COLOR(blue):旋風ノ舞【地】>難易度表/おに/旋風ノ舞【地】]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):Ｄｅａｒ Ｍｙ Ｓｉｓｔｅｒ|BGCOLOR(grey):きせかえ「COLOR(red){ヘビメタ}」をつけて1プレイ内全て特定の曲(曲名に恋、愛、LOVE、ラブを含む曲)を選んでフルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):恋文2000>難易度表/おに/恋文2000]]」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ラ・リ・ルレ エイヨッ！|BGCOLOR(grey):片仮名の「ラ」「リ」「ル」「レ」のいずれかを含む曲を1プレイ内フルコンボ|BGCOLOR(grey):楽曲「[[COLOR(blue):よくでる2000>難易度表/おに/よくでる2000]]」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):常世の使者|BGCOLOR(grey):[[COLOR(blue):万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]をプレイ|BGCOLOR(grey):楽曲「[[COLOR(blue):万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ホーンテッド・ラプソディ|BGCOLOR(grey):[[COLOR(blue):ミーナのおやしき>難易度表/おに/ミーナのおやしき]]をクリア|BGCOLOR(grey):楽曲「[[COLOR(blue):テルミン狂想曲>難易度表/おに/テルミン狂想曲]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):太鼓のおばけ|BGCOLOR(grey):[[COLOR(blue):テルミン狂想曲>難易度表/おに/テルミン狂想曲]]をクリア|BGCOLOR(grey):楽曲「[[COLOR(blue):おばけのお仕事>難易度表/おに/おばけのお仕事]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):幽玄の使者|BGCOLOR(grey):[[COLOR(blue):幽玄ノ乱>難易度表/おに/幽玄ノ乱]]をプレイ|BGCOLOR(grey):楽曲「[[COLOR(blue):幽玄ノ乱>難易度表/おに/幽玄ノ乱]]」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):幽玄に至りし者|BGCOLOR(grey):[[COLOR(blue):Roseシリーズ>シリーズ曲一覧#rose]]、[[COLOR(blue):舞シリーズ>シリーズ曲一覧#mai]]の各全曲の表譜面を難易度おにでクリア|BGCOLOR(grey):楽曲「[[COLOR(blue):幽玄ノ乱>難易度表/おに/幽玄ノ乱]]」を獲得&br;条件を満たしたプレイ後取得&br;裏譜面は対象外&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトルランク：１|BGCOLOR(grey):[[AIバトル演奏]]で1ポイント獲得|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトルランク：２|BGCOLOR(grey):[[AIバトル演奏]]でランク1に昇格後8ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトルランク：３|BGCOLOR(grey):[[AIバトル演奏]]でランク2に昇格後15ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトルランク：４|BGCOLOR(grey):[[AIバトル演奏]]でランク3に昇格後30ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトルランク：５|BGCOLOR(grey):[[AIバトル演奏]]でランク4に昇格後45ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトルランク：６|BGCOLOR(grey):[[AIバトル演奏]]でランク5に昇格後60ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトルランク：７|BGCOLOR(grey):[[AIバトル演奏]]でランク6に昇格後75ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトルランク：８|BGCOLOR(grey):[[AIバトル演奏]]でランク7に昇格後90ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトルランク：９|BGCOLOR(grey):[[AIバトル演奏]]でランク8に昇格後105ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトルランク：１０|BGCOLOR(grey):[[AIバトル演奏]]でランク9に昇格後120ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):AIバトルランク：１０＋|BGCOLOR(grey):[[AIバトル演奏]]でランク10に昇格後150ポイント獲得|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 初勝利！|BGCOLOR(grey):[[AIバトル演奏]]で1回勝利|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計５勝|BGCOLOR(grey):[[AIバトル演奏]]で5回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計１０勝|BGCOLOR(grey):[[AIバトル演奏]]で10回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計２０勝|BGCOLOR(grey):[[AIバトル演奏]]で20回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計３０勝|BGCOLOR(grey):[[AIバトル演奏]]で30回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計４０勝|BGCOLOR(grey):[[AIバトル演奏]]で40回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計５０勝|BGCOLOR(grey):[[AIバトル演奏]]で50回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計６０勝|BGCOLOR(grey):[[AIバトル演奏]]で60回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計７０勝|BGCOLOR(grey):[[AIバトル演奏]]で70回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計８０勝|BGCOLOR(grey):[[AIバトル演奏]]で80回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):AIバトル 合計９０勝|BGCOLOR(grey):[[AIバトル演奏]]で90回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計１００勝|BGCOLOR(grey):[[AIバトル演奏]]で100回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計１５０勝|BGCOLOR(grey):[[AIバトル演奏]]で150回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計２００勝|BGCOLOR(grey):[[AIバトル演奏]]で200回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計２５０勝|BGCOLOR(grey):[[AIバトル演奏]]で250回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計３００勝|BGCOLOR(grey):[[AIバトル演奏]]で300回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計３５０勝|BGCOLOR(grey):[[AIバトル演奏]]で350回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計４００勝|BGCOLOR(grey):[[AIバトル演奏]]で400回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計４５０勝|BGCOLOR(grey):[[AIバトル演奏]]で450回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計５００勝|BGCOLOR(grey):[[AIバトル演奏]]で500回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計５５０勝|BGCOLOR(grey):[[AIバトル演奏]]で550回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計６００勝|BGCOLOR(grey):[[AIバトル演奏]]で600回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計６５０勝|BGCOLOR(grey):[[AIバトル演奏]]で650回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計７００勝|BGCOLOR(grey):[[AIバトル演奏]]で700回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計７５０勝|BGCOLOR(grey):[[AIバトル演奏]]で750回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計７６５勝|BGCOLOR(grey):[[AIバトル演奏]]で765回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計８００勝|BGCOLOR(grey):[[AIバトル演奏]]で800回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計８５０勝|BGCOLOR(grey):[[AIバトル演奏]]で850回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計８７６勝|BGCOLOR(grey):[[AIバトル演奏]]で876回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計９００勝|BGCOLOR(grey):[[AIバトル演奏]]で900回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):AIバトル 合計９５０勝|BGCOLOR(grey):[[AIバトル演奏]]で950回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１０００勝|BGCOLOR(grey):[[AIバトル演奏]]で1000回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１１００勝|BGCOLOR(grey):[[AIバトル演奏]]で1100回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１２００勝|BGCOLOR(grey):[[AIバトル演奏]]で1200回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１３００勝|BGCOLOR(grey):[[AIバトル演奏]]で1300回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１４００勝|BGCOLOR(grey):[[AIバトル演奏]]で1400回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１５００勝|BGCOLOR(grey):[[AIバトル演奏]]で1500回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１６００勝|BGCOLOR(grey):[[AIバトル演奏]]で1600回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１７００勝|BGCOLOR(grey):[[AIバトル演奏]]で1700回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１７６５勝|BGCOLOR(grey):[[AIバトル演奏]]で1765回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１８００勝|BGCOLOR(grey):[[AIバトル演奏]]で1800回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１８７６勝|BGCOLOR(grey):[[AIバトル演奏]]で1876回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計１９００勝|BGCOLOR(grey):[[AIバトル演奏]]で1900回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計２０００勝|BGCOLOR(grey):[[AIバトル演奏]]で2000回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計２２２２勝|BGCOLOR(grey):[[AIバトル演奏]]で2222回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計３０００勝|BGCOLOR(grey):[[AIバトル演奏]]で3000回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計３３３３勝|BGCOLOR(grey):[[AIバトル演奏]]で3333回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計４０００勝|BGCOLOR(grey):[[AIバトル演奏]]で4000回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計４４４４勝|BGCOLOR(grey):[[AIバトル演奏]]で4444回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計５０００勝|BGCOLOR(grey):[[AIバトル演奏]]で5000回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計５５５５勝|BGCOLOR(grey):[[AIバトル演奏]]で5555回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計６０００勝|BGCOLOR(grey):[[AIバトル演奏]]で6000回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計６６６６勝|BGCOLOR(grey):[[AIバトル演奏]]で6666回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計７０００勝|BGCOLOR(grey):[[AIバトル演奏]]で7000回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計７６５０勝|BGCOLOR(grey):[[AIバトル演奏]]で7650回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計７７７７勝|BGCOLOR(grey):[[AIバトル演奏]]で7777回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計８０００勝|BGCOLOR(grey):[[AIバトル演奏]]で8000回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計８７６０勝|BGCOLOR(grey):[[AIバトル演奏]]で8760回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計８８８８勝|BGCOLOR(grey):[[AIバトル演奏]]で8888回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計９０００勝|BGCOLOR(grey):[[AIバトル演奏]]で9000回勝利|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):AIバトル 合計９９９９勝|BGCOLOR(grey):[[AIバトル演奏]]で9999回勝利|~|
+
+***ソライロVer.以前 [#sorairo]
+-[[段位・称号の一覧(KATSU-DON・ソライロ)]]を参照
+
+
+//追加に使ってください。
+//||???|???|???|??|
+//楽曲[[COLOR(blue):>難易度表/おに/]]を獲得
+//きせかえ「COLOR(red){}」を獲得
+//音色「COLOR(pink){}」を獲得
+
+
+**コメント[#commnt]
+&color(#3333ff){''コメントする前に次の事を確認してください''};
+-隠し曲の議論は[[未解禁隠し曲出現条件/議論所]]でお願いします。
+-COLOR(red){''『曲「○○」は称号「△△」の対象曲』という情報は、%%%[[COLOR(red):称号対象曲>段位・称号の一覧/称号対象曲]]%%%のページでお願いします。''}
+-表に載っていない称号は、以下の事が考えられます。
+--[[称号パーツ>称号ガシャパーツ一覧]]を組み合わせて作った称号。
+--動画サイト等で見つけたものはバージョンが古い場合があります。
+--解析などにより分かり、今後出現すると思われるもの。
+---本ページでは、ドンだーひろばの[[ごほうび一覧(称号)>http://donderhiroba.jp/reward_title.php]]に出現している称号のみを掲載しています
+-一部の称号の入手には[[ドンだーひろば>http://donderhiroba.jp/reward_title.php?type=0]]でCOLOR(red){更新}する必要があります。
+--ドンチャレの称号はお題達成後、翌日午前7時以降に更新すれば手に入ります。
+-ページの上の方に書いてあること、表や%%%[[称号対象曲>段位・称号の一覧/称号対象曲]]%%%などを見て、自分で調べてください。
+-&color(#3333ff){''称号「○○」を手に入れたというコメントをする際、必要に応じて以下の情報を含めてコメントしてください。''};
+--プレイした太鼓(1P側か2P側か)
+--SN(マイどんの名前)、''きせかえ・きぐるみ''
+--''1プレイ内でプレイした全ての曲・難易度・クリア状況(プレイ・クリア・フルコンボ)''
+
+#pcomment(,noname)

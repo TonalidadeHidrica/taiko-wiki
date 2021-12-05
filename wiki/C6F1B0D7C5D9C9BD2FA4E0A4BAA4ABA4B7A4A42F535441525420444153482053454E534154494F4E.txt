@@ -1,0 +1,32 @@
+*START DASH SENSATION [#title]
+***詳細・攻略 [#more]
+-アニメ「''アイカツ！''」のOP7。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii U3''|CENTER:★×4|CENTER:''204''|CENTER:''685680点''|CENTER:＋連打|CENTER:1020点|CENTER:295点|
+-BPMは約170。
+-黄色連打がかなり多い連打曲である。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-むずかしいコースでは珍しく、大音符は1回も出て来ない。
+-8分の複合が主体の譜面で、16分は1回も出て来ない。
+--ただし、8分の複合は種類がそれなりに多いので油断は禁物。
+--また裏拍配置が多いので、全良難易度は少し高めである。
+-ゴーゴーで1回だけ出てくる8分の複合13連打に注意。
+
+***その他 [#other]
+-アーティストは、''るか・もな・みき from AIKATSU☆STARS!''。
+--作詞は、こだまさおり。作・編曲は、石濱翔。
+-譜面作成は、''きらきら☆さかもと''。
+-曲IDは、''sdashs''
+-「アイカツ！」シリーズの収録曲では唯一CS限定である。
+
+-[[かんたん>難易度表/かんたん/START DASH SENSATION]]
+-[[ふつう>難易度表/ふつう/START DASH SENSATION]]
+-[[おに>難易度表/おに/START DASH SENSATION]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=zVqBLEIo4HE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(sensation_h.png,nolink);

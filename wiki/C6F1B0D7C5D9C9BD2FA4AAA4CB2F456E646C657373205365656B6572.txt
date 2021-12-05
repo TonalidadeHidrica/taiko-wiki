@@ -1,0 +1,36 @@
+*Endless Seeker [#title]
+***詳細 [#detail]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15 秋季例大祭('14)Ver.''&br;AC15.5.9||★×8|''644''|''1051290点''|＋連打|450点|113点|
+||iOS&br;AR|~|~|''10????0点''|~|410点|100点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''996940点''}|~|COLOR(#ff3300){1360点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約163。
+-連打秒数目安・・・SIZE(16){約0.522秒}×4:合計約2.088秒
+-偶数連打が特に開幕で多く登場する。幸いBPMはそこまで速くないため、落ち着いて対処しよう。
+-16分の複合は基礎的なものばかりであり特に難しい配置のものはない。ただし、終盤にある15連打には注意。
+-大音符がまとまって出現する箇所がある。特良逃しや特可には注意したい。ちなみに大音符の割合は約10.10%(65/644)と高い。
+-平均密度は、''約5.92打/秒''。
+
+***その他 [#other]
+-アレンジ(編曲)は、''A-One''のELEMENTAS。作詞は、Yassie。
+--歌唱は、''越田Rute隆人×あき''。
+--この曲が収録された音楽CD「TOHO EUROBEAT VOL.9」では「ENDLESS SE''A''KER」と表記されているが、編曲のELEMENTAS曰く誤記とのこと。
+-原曲は、「東方星蓮船 〜 Undefined Fantastic Object.」の4面テーマ「''幽霊客船の時空を越えた旅''」と、同面ボス・村紗水蜜のテーマである「''キャプテン・ムラサ''」の複合アレンジ。
+-譜面作成は、[[''しか@に〜さん''>譜面作成者一覧/しか@に〜さん]]と[[''まりも研究所''>譜面作成者一覧/まりも研究所]]の合作。
+-曲IDは、''thseek''
+----
+-[[かんたん>難易度表/かんたん/Endless Seeker]]
+-[[ふつう>難易度表/ふつう/Endless Seeker]]
+-[[むずかしい>難易度表/むずかしい/Endless Seeker]]
+-[[プレイ動画>https://www.youtube.com/watch?v=CmuLIOgS4xg]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(thseek_m.png,nolink);

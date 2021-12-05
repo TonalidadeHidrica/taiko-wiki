@@ -1,0 +1,40 @@
+*No Way Back(裏譜面) [#title]
+***詳細･攻略 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii3SP''|CENTER:★×7|CENTER:''304''|CENTER:''647330点''|CENTER:＋連打|CENTER:530点|CENTER:120点|
+|CENTER:PSPDXDL|~|CENTER:''307''|CENTER:''662390点''|~|CENTER:630点|CENTER:130点|
+-BPMは158。
+***Wii3の譜面 [#wii3]
+-裏譜面トップクラスの連打曲。★×7では[[Doom Noiz>難易度表/ふつう/Doom Noiz]](当時)に次いで黄色連打が多い。
+-大音符が多く、72個ある（全体の約23.7%）。
+-後半になるに連れ、難易度が上昇する。
+-8分の単色3連打がかなり多く、第2ゴーゴーからは7連打や複合も出てくる。
+-後半の複合8連打が最大の難所。とは言え、★×7としては楽な方だろう。
+
+***PSPDXの譜面 [#pspdx]
+-16分の3連打や8分の複合が多く、こちらの譜面はふつうにしては難しめ。
+--特に72〜74小節は16分単色3連打のラッシュになっているため、ふつう適正者にはかなりきつい。この譜面の最大の難所だろう。
+-また、8分の複合も長めで複雑なものが多い。
+--だだ、スカスカな所も比較的多く、休憩しやすいのが救いか。
+-PSPDXでは、2015年9月30日をもって、新規DLができなくなった。
+--この譜面は、PSPDX以外では全く収録されていないため、2015年9月30日までにDLしていない人は、どの作品でも遊ぶことができなくなった。
+
+***その他 [#other]
+-楽曲情報は[[表譜面>難易度表/ふつう/No Way Back]]を参照。
+-曲IDは、''exgod''。
+----
+-[[表譜面>難易度表/かんたん/No Way Back]]/[[かんたん>難易度表/かんたん/No Way Back(裏譜面)]]
+-[[表譜面>難易度表/ふつう/No Way Back]]/ふつう
+-[[表譜面>難易度表/むずかしい/No Way Back]]/[[むずかしい>難易度表/むずかしい/No Way Back(裏譜面)]]
+-[[表譜面>難易度表/おに/No Way Back]]/[[おに>難易度表/おに/No Way Back(裏譜面)]]
+-[[オート動画(PSPDX)>https://www.youtube.com/watch?v=EFQn-xjoA1U]]
+-[[オート動画(Wii3)>https://www.youtube.com/watch?v=gs86gBnPqD0]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+*** 譜面 [#score]
+~PSPDX
+~&attachref(exgod_n.png,nolink);
+~Wii3
+~&attachref(No Way.png,nolink);

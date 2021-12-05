@@ -1,0 +1,21 @@
+*A Perfect Sky(むずかしい) [#gdcf4def]
+***攻略・詳細 [#zd293856]
+-資生堂''「ANESSA」''CMソング。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC9''|CENTER:★×6|CENTER:''217''|CENTER:''784280点''|CENTER:＋連打|CENTER:1100点|CENTER:300点|
+-BPMは90。
+-小節線の数が30と、[[愛のうた>難易度表/むずかしい/愛のうた]]や[[愛のうた〜ピクミンのテーマ>難易度表/おに/愛のうた〜ピクミンのテーマ]]程ではないが比較的少ない方。
+-曲名の読み方は''ア・パーフェクト・スカイ''。
+-アーティストは、''BONNIE PINK''。
+----
+-[[かんたん>難易度表/かんたん/A Perfect Sky]]
+-[[ふつう>難易度表/ふつう/A Perfect Sky]]
+-[[おに>難易度表/おに/A Perfect Sky]]
+-[[プレイ動画>http://www.youtube.com/watch?v=didKDRQlXyI]]
+
+***コメント [#b0f493a0]
+#pcomment(,noname)
+
+***譜面 [#nca05dc2]
+&attachref(A Perfect Sky.png,nolink);

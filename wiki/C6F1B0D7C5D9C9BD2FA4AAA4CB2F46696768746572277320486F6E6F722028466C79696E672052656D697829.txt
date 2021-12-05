@@ -1,0 +1,28 @@
+*Fighter's Honor(Flying Remix) [#title]
+-ナムコのニンテンドー3DS専用ソフト「''[[エースコンバット3D クロスランブル>http://3d.acecombat.jp/#top]]''」の楽曲。
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''3DS1''|★×7|''527''|''991700点''|＋連打|560点|143点|
+-BPMは約146。
+-ゴーゴータイムでは4連打が多く登場する。叩きにくいならアレンジして叩くのも手である。ゴーゴー以外は、8分や単色の16分中心の部分が多い。
+--32小節の17連打、49小節の13連打がフルコンを目指す上での難所だろう。
+-1曲を通しての平均密度は、''約4.32打/秒''である。
+
+-作曲は、[[No Way Back>難易度表/おに/No Way Back]]や[[IN THE ZONE>難易度表/おに/IN THE ZONE]]等と同じ''椎名豪''。
+-読み方は、''ファイターズ オナー（フライング リミックス）''（ゲーム中のオルセンの台詞より）。
+-- 直訳すると''戦士の名誉''。
+--エースコンバット3D(元ネタであるエースコンバット2)最終ミッションのコードネーム、また同作品で展開されていた作戦「戦士の名誉作戦（オペレーション・ファイターズ・オナー"Operation Fighters Honor"）」と同名の楽曲。
+----
+-[[かんたん>難易度表/かんたん/Fighter's Honor (Flying Remix)]]
+-[[ふつう>難易度表/ふつう/Fighter's Honor (Flying Remix)]]
+-[[むずかしい>難易度表/むずかしい/Fighter's Honor (Flying Remix)]]
+-[[オート動画>http://www.youtube.com/watch?v=AwddyVK0wJI]]
+
+***コメント[#comment]
+-&color(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''};
+-&color(#3333ff){''各曲の難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''};
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(ace3ds.png,nolink);

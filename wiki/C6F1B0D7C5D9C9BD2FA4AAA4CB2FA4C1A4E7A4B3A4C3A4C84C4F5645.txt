@@ -1,0 +1,25 @@
+*ちょこっとLOVE [#title]
+***詳細 [#details]
+|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|h
+|''AC1''|>|>|>|''ふつうコースのみ''|
+|AC2|★×5|COLOR(#909):''366&br;COLOR(#069):305&br;COLOR(#666):260''|''537000点''|＋連打|
+-BPMは165。
+-16分音符は単色のみ。
+-普通譜面は2P用譜面含めてふつうコースと同一
+-玄人譜面は普通譜面と達人譜面の混合譜面。
+--但し、サビ前半の2P用譜面は消滅している。（両方1P側の譜面が流れる）
+-達人譜面はむずかしいコースがベース。尚、2P用譜面が存在する。
+- アーティストは''プッチモニ''。
+----
+- [[ふつう>難易度表/ふつう/ちょこっとLOVE]]
+- [[むずかしい>難易度表/むずかしい/ちょこっとLOVE]]
+- [[プレイ動画>http://www.youtube.com/watch?v=Dq2F_t4aubA]]
+- プレイ動画(2人用譜面)
+--[[COLOR(#666){普通譜面}>http://www.youtube.com/watch?v=9g9DCoI6NW4]]/[[COLOR(#069){玄人譜面}>http://www.youtube.com/watch?v=oro6wG3jpXY]]/[[COLOR(#909){達人譜面}>http://www.youtube.com/watch?v=7oV3nAcJkMg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(chokkoto_donda2.png,nolink);

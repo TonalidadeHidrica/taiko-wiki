@@ -1,0 +1,16 @@
+*忍道　6巻 [#title]
+-Wiiの毎日チャレンジ道場のお題。
+
+***詳細・攻略 [#capture]
+-レベル6で3コンボ。
+-良3でクリア。特良でなくても良い。
+- 黄色連打に注意。
+
+-[[プレイ動画(1巻〜10巻)>http://youtu.be/rW3TfzCsA8s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+HSは暫定
+~&attachref(忍6.png,nolink);

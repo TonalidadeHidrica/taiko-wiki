@@ -1,0 +1,32 @@
+*ソウルキャリバー�� SIZE(16){New Legend} [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC9|CENTER:''CS7''|CENTER:★×7|CENTER:''234''|CENTER:''676760点''|CENTER:＋連打|CENTER:880点|CENTER:230点|
+||CENTER:3DS3SP|CENTER:★×6|~|CENTER:''642120点''|~|CENTER:850点|CENTER:275点|
+|CENTER:COLOR(#f30):真打||~|~|CENTER:COLOR(#f30):''992760点''|~|CENTER:COLOR(#f30):4120点|CENTER:-|
+-BPMは155。
+-黄色連打が多い連打曲である。
+-速度は至って普通だが、全体的に8分がかなり多い。
+--8分は2連打が主体で、3連打は4回しか出て来ない。
+--また8分は複合の方が多く、種類もそれなりに多い。
+-4分の複合と8分が何度も出てくる36〜42小節に注意。
+-★×7にしては簡単な方だったが、3DS3で★×6に降格した。
+
+***その他 [#other]
+-作曲は、''中鶴潤一''。
+-3DS3のストーリーモードでは、「''リヴァイアサン''」戦にて使用された。
+-曲IDは、''calib3''
+
+-[[かんたん>難易度表/かんたん/ソウルキャリバーIII]]
+-[[むずかしい>難易度表/むずかしい/ソウルキャリバーIII]]
+-[[おに>難易度表/おに/ソウルキャリバーIII]]
+-[[オート動画(CS7,キャプチャ)>http://www.youtube.com/watch?v=QJvp7sqUruc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定~
+3DS3では★★★★★★☆
+&ref(calib3_n.png,nolink);

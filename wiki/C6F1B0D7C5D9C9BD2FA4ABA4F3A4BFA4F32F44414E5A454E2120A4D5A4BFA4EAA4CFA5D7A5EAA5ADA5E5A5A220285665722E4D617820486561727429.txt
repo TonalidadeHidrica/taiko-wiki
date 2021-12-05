@@ -1,0 +1,32 @@
+*DANZEN! ふたりはプリキュア (Ver.Max Heart) [#title]
+-アニメ[[「''ふたりはプリキュア Max Heart''」>アニメ別収録曲#pricure]]のOP。
+***詳細 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''AC7''||CENTER:★×3|CENTER:''97''|CENTER:''?????0点''|CENTER:＋連打|CENTER:900点|CENTER:360点|CENTER:''ゴーゴーバグあり''|
+||CENTER:アニスぺ|~|~|CENTER:''?????0点''|~|CENTER:610点|CENTER:360点|~|
+||CENTER:PSP1|~|~|CENTER:''?????0点''|~|CENTER:850点|CENTER:320点|~|
+
+***譜面構成・攻略 [#capture]
+-BPMは167。
+-黄色連打が多い連打曲で、1本あたりの長さも長い。
+-速度は至って普通だが、全体的に4分がかなり多い。
+--4分はほとんどが2・3連打だが、4連打も2回出てくる。
+--ただし、2分の複合は数がそんなに多くない。
+-中盤で1回だけ出てくる4分の複合2連打（● ○）に注意。
+
+***その他 [#other]
+-アーティストは、[[''五條真由美''>アーティスト別収録曲#mayumi]]。
+--作詞は、青木久美子。作曲は、小杉保夫。編曲は、佐藤直紀。
+-曲IDは、''pri9m''。
+----
+-かんたん　：[[無印>難易度表/かんたん/DANZEN! ふたりはプリキュア]]／Max Heart／[[唯一無二の光たち>難易度表/かんたん/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]
+-ふつう　　：[[無印>難易度表/ふつう/DANZEN! ふたりはプリキュア]]／[[Max Heart>難易度表/ふつう/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]／[[唯一無二の光たち>難易度表/ふつう/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]
+-むずかしい：[[無印>難易度表/むずかしい/DANZEN! ふたりはプリキュア]]／[[Max Heart>難易度表/むずかしい/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]／[[唯一無二の光たち>難易度表/むずかしい/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]
+-おに　　　：[[無印>難易度表/おに/DANZEN! ふたりはプリキュア]]／[[Max Heart>難易度表/おに/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]／[[唯一無二の光たち>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]
+-[[オート動画>http://www.youtube.com/watch?v=Z_UH31RWKJk]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(pri9m_e.png,nolink);

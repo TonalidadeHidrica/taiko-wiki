@@ -1,0 +1,75 @@
+*&ruby(ロッテル){Rotter}; &ruby(ターミネーション){Tarmination};(裏譜面) [#title]
+
+***詳細 [#details]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12'',13~14|Wii2SP、4SP&br;PSPDXSP|★×10|''943''|''1203450点''|+連打((+766打風船))|360点|90点|
+|AC12増,亜||~|~|''921510点''|~|~|60点|
+||iOS|~|~|''1172760点''|~|330点|90点|
+|COLOR(#ff3300){真打モード}||~|~|COLOR(#ff3300){''1180480点''}|~|COLOR(#ff3300){1240点}|-|
+|COLOR(#ff3300){真打モード((AC14Plus))}||~|~|COLOR(#ff3300){''1466080点''}|~|COLOR(#ff3300){1540点}|-|
+|AC15.1.0&br;AC15.3.1|Wii U2SP|~|~|''1191910点''|~|400点|95点|
+|AC15.2.0||~|~|''1172040点''|~|~|93点|
+|AC15.3.0||~|~|''922050点''|~|390点|60点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''980560点''}|~|COLOR(#ff3300){1030点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは200。
+--後発の[[ドドンガド〜ン>難易度表/おに/ドドンガド〜ン]]と同じBPMであり、[[裏譜面>難易度表/おに/ドドンガド〜ン(裏譜面)]]ではHSで一旦減速して後に加速していくという譜面傾向が引き継がれた。
+-連打秒数・・・''1.025秒''(黄色)＋''4.650秒''(風船)
+-2連打のシャッフル、中盤の符点リズム、連続して逆手を動かされる配置など叩きにくい配置がBPM200という速さで襲いかかってくるため、[[X-DAY2000>難易度表/おに/X-DAY2000]]以上の地力が求められる。
+--また、ほとんど休憩地帯がなく、慣れていないと終盤で疲れて腕が追いつかなくなってしまうため、相当の体力も必要。
+-27〜28小節目・31〜32小節目は、タカハシが「[[意図的に少しずらすことによって難しさを演出するギミック>https://web.archive.org/web/20170715065152/http://taikoblog.namco-ch.net/blog/2009/03/post_88.html]]((リンク先はWeb Archive))」という趣旨のコメントをしている。
+--似たようなものに[[スーパーマリオブラザーズ(新)>難易度表/おに/スーパーマリオブラザーズ(新)]]の56〜66小節目にもみられるが、あちらは音に合わせた結果であるため、敢えてずらしたこちらとは主旨が異なる。
+-69〜82小節は見た目のBPMが100で48分音符と16分音符が入り混じっており全良で叩ききるには''20打/秒''必要。
+--48分音符は面だけであるうえ、かなり詰まっているので非常に精度が取りにくい。
+--太鼓の達人での見た目48分音符は''この譜面が初である''。
+-ラス殺しが酷く、初見だと常人ではまず反応不可能なレベルなので、慣れるには下記の方法が有効である(90小節目以降)。人によっては、逆手始動が良い場合もある。
+--譜面4つ区切り&br;COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●●●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●●●}COLOR(blue){●}|&br;COLOR(red){●}COLOR(blue){●●●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●●●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}|COLOR(red){●}COLOR(blue){●●●・・・}
+//--利手:COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){○}COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}・・・
+//--逆手:COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){○}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}|COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}|COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}・・・
+-ラストの風船は''766打''で入力時間は''4.650秒''((風船の時間を15.5拍としたときの秒数。WiiU2のオートの風船連打は30打/秒であり、風船部分で140打叩いているので4.625秒（48分音符短くしたときの秒数）ではないと思われる。))と短く、''割るのは不可能''である。
+--割るのに必要な連打速度は理論上''約165打/秒''。理論値である60打/秒で叩いた場合でも最大279連打しか入れることができないと思われる。
+-1曲を通しての平均密度は、COLOR(red){''約8.93打/秒''}。
+--''旧基準最高密度''を誇り、今なおトップクラスの高密度譜面として知られる。
+-亜洲版では69〜82小節のスクロール速度は変化しない。
+
+***その他 [#other]
+-[[''全コース''>太鼓ギネス/その他#highestdifficulty]][[''最高難易度曲''>全コース最高難易度曲一覧]]である。
+-略称は、''裏ロ''(うらろ)、''裏Rotter''(うらろってる)がよく使われている。公式では後者を用いている。
+-譜面作成は、[[''タカハシ''>譜面作成者一覧/タカハシ]]。
+-曲IDは、''exswp1''(exswp2は[[らんぶる乱舞(裏譜面)>難易度表/おに/らんぶる乱舞(裏譜面)]])  。
+-初出のAC12では、難易度順で一番右、つまり当時の公式最難関譜面である。
+--また、ここまで過激なソフランも当時は類を見ないものであり、複合も全体的に複雑であったため、収録曲の中では群を抜いた難度であった。
+--ACにおいて2000シリーズ以外の楽曲が太鼓の達人最難関曲になるのは、第一作の[[さいたま2000>難易度表/おに/さいたま2000]]が登場して以来初めてであり、また[[表譜面>難易度表/おに/Rotter Tarmination]]と共に、理論上割れない風船が初めて登場した譜面である。
+-ちなみにこの曲はWii2のオートで演奏しても124万点を超える珍しい曲である。また、PSPDXやWii4のオートは黄色連打、風船連打共にWii2よりも少し速くなり(おそらくWii3と同じ仕様と思われる)125万点台後半まで到達するためオート超えがさらに難しくなっている。
+-ラストの割れない風船の影響か、配点がおかしいverがある。
+--AC12増量版では、風船を割ることを前提として天井点設定がなされた。これにより''100万点に到達すら不可能''となった。
+--AC14Plus真打モードでは風船を割らないことを前提とした点数で計算されたが、風船の分が二重加算され''150万点到達''も可能となっていた。
+--SORAIRO Ver.0.14ではAC12増量版の天井スコアに近い形となり、再び100万点到達すら不可能となったが、第16回アップデートで修正されて、現在は正常な配点となっている。
+-割れない風船＝連打のことかつ、風船1打の得点＝新基準の黄色連打3打の得点で、かなりの連打曲である。
+--127万を超える事が可能で、ACスコアルートの定番曲である。
+--WiiとPSPDXで連打が早ければ''130万を超える事が可能''。Wii U2は天井が下がるものの、127万を超える事も可能。
+---連打と違い、風船は面だけしか反応しないので、タイプAが有利。
+---しかしタイプAでは譜面の縁24分ラッシュを叩くことがかなり難しく、PSPDXで130万を超えることは至難の業。((WiiではタイプAのクラコンとタイプB固定のリモコンを併用することが可能。WiiU2ではGame&#80;adのタッチを利用可能。))
+-新筐体モモイロVer.以降でこの譜面をフルコンボすると、''称号''「''なんじゃこりゃああ！''」を獲得できる。
+----
+-[[かんたん>難易度表/かんたん/Rotter Tarmination]]/[[裏譜面>難易度表/かんたん/Rotter Tarmination(裏譜面)]]
+-[[ふつう>難易度表/ふつう/Rotter Tarmination]]/[[裏譜面>難易度表/ふつう/Rotter Tarmination(裏譜面)]]
+-[[むずかしい>難易度表/むずかしい/Rotter Tarmination]]/[[裏譜面>難易度表/むずかしい/Rotter Tarmination(裏譜面)]]
+-[[おに>難易度表/おに/Rotter Tarmination]]/裏譜面
+-[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20170715013036/http://taikoblog.namco-ch.net/blog/2009/01/rotter_tarmination.html]]
+-[[オート動画(Wii4)>https://www.youtube.com/watch?v=ZvDRBHOMvlI]]
+-[[オート動画(Wii U2)>https://www.youtube.com/watch?v=4xzrL4nivBQ]]
+-[[参考用等速動画(太鼓さん次郎)>https://www.youtube.com/watch?v=QxFSl9Fusj8]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+~ラストの風船は15.5拍（表譜面の画像の風船の長さと同じ）~
+&attachref(exswp1f.png,nolink);
+~見た目重視~
+&attachref(exswp1lf.png,nolink);

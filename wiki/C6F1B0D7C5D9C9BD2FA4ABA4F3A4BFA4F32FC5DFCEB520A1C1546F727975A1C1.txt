@@ -1,0 +1,33 @@
+*冬竜 〜Toryu〜 [#title]
+***詳細・攻略 [#more]
+-竜シリーズ第1弾。
+-詳細は以下の通り：
+|>|CENTER:バージョン|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.2''|CENTER:PS Vita1&br;PS4 1DL&br;NS1DL|CENTER:★×4|CENTER:''104''|CENTER:''350890点''|CENTER:＋連打|CENTER:1020点|CENTER:585点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''992900点''}|~|CENTER:COLOR(#ff3300){8580点}|CENTER:-|
+||CENTER:Wii5SP|~|~|CENTER:''351160点''|~|CENTER:1030点|CENTER:588点|
+||CENTER:iOS|~|~|CENTER:''337550点''|~|CENTER:1020点|CENTER:350点|
+-BPMは110。
+--[[ふつう>難易度表/ふつう/冬竜 〜Toryu〜]]と同様、ゴーゴーでHSがかかっていない。
+--そのため、「ばいそく」を付けた方がやりやすいかもしれない。
+-大音符が多く、11個ある（全体の約10.6%）。
+-全体的に4分が多いが、8分が1回も出て来ないので★×4にしてはかなり簡単な方。
+--また、4分はほとんどが単色の3連打である。
+-1回ずつ出てくる4分の複合5連打と単色7連打に注意。
+-曲名の読み方は、''とりゅう''。とうりゅうではない。
+-作曲は、''あず♪''。
+--曰く「RPGのボス戦闘曲のような激しい楽曲」である。
+-曲名が似ているためよく誤解されてしまうが、''この曲は季曲シリーズではない''。
+-曲IDは、''furyu''
+
+-[[ふつう>難易度表/ふつう/冬竜 〜Toryu〜]]
+-[[むずかしい>難易度表/むずかしい/冬竜 〜Toryu〜]]
+-[[おに>難易度表/おに/冬竜 〜Toryu〜]]/[[裏譜面>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]
+-[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2012/03/post_283.html]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=vOiQR_WF-yQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(Tr k.png,nolink);

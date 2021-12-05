@@ -1,0 +1,35 @@
+*&ruby(こきひ){深緋};の心臓 -SCARLET HEART- [#title]
+***詳細・攻略 [#more]
+-''東方Project×NAMCO SOUNDS''によるコラボ楽曲のひとつ。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15 例大祭12Ver.''&br;AC15.6.6|PS Vita1DL&br;Wii U3DL&br;NS1DL|★×6|''400''|''791360点''|＋連打|600点|158点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''993220点''}|~|COLOR(#ff3300){2380点}|-|
+-BPMは130〜143。
+--8小節目のみBPM130で他の小節はBPM143である。
+-黄色連打がかなり多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-8分の複合が主体の譜面で、16分も数が多い。
+--16分は3連打までしかないが、連続して出てくる箇所もある。
+--また、8分の複合は全体的に長めのが多い。
+-終盤で1回だけ出てくる16分の複合3連打（COLOR(red){●●}COLOR(blue){●}）に注意。
+
+***その他 [#other]
+-原曲は、「東方紅魔郷 〜 the Embodiment of Scarlet Devil.」の6面ボス、レミリア・スカーレットのテーマである「''亡き王女の為のセプテット''」。
+-アレンジは、''kyo''。作詞は、''七条レタス''(''D.watt''の別名義)。
+--歌唱は、''あさな''(IOSYS)。
+-譜面作成は、''まりも研究所''。
+-曲IDは、''thnkyo''
+-[[ホワイトVer.段位道場>過去の段位道場#white]]の二級2曲目課題曲、[[イエローVer.段位道場>段位道場#normal]]の二級1曲目課題曲となった。
+
+-[[かんたん>難易度表/かんたん/深緋の心臓 ‐SCARLET HEART‐]]
+-[[ふつう>難易度表/ふつう/深緋の心臓 ‐SCARLET HEART‐]]
+-[[おに>難易度表/おに/深緋の心臓 ‐SCARLET HEART‐]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=mEgRzX0w0Sg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(ScaHea_h.png,nolink);

@@ -1,0 +1,33 @@
+*Checkmate!? [#title]
+***詳細・攻略 [#more]
+-アニメ「''だがしかし''」のOP。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''PS Vita1DL''|CENTER:★×5|CENTER:''145''|CENTER:''590860点''|CENTER:＋連打|CENTER:1060点|CENTER:450点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''991450点''}|~|CENTER:COLOR(#ff3300){5630点}|CENTER:-|
+|CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|
+-BPMは137。
+-黄色連打が多い連打曲である。
+-全体的に付点配置や裏拍配置が多く、リズムが取りづらい。
+-大音符がかなり多く、30個ある（全体の約20.7%）。
+-4分の複合が主体の譜面で、ゴーゴーからは8分も出てくる。
+--8分は3連打までしかないが、3連続で出てくる箇所もある。
+--また8分は単色が多いが、複合（●○）も1回だけ出てくる。
+-序盤とゴーゴーで計3回出てくる付点8分の単色5連打に注意。
+
+***その他 [#other]
+-アーティストは、''MICHI''。
+--作詞は、RUCCA。作曲は、藤田淳平。編曲は、岩橋星実。
+-譜面作成は、''オオサワ''。
+
+-[[かんたん>難易度表/かんたん/Checkmate!?]]
+-[[むずかしい>難易度表/むずかしい/Checkmate!?]]
+-[[おに>難易度表/おに/Checkmate!?]]
+-[[オート動画(1:59〜)>http://www.youtube.com/watch?v=t7SF_y_McgI&t=119]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定
+&ref(checkmate_n.png,nolink);

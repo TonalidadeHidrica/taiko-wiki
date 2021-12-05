@@ -1,0 +1,27 @@
+*Extreme MGG★★★ [#l74706da]
+***詳細・攻略 [#ha738e35]
+-タイトー「''ミュージックガンガン！2''」とのコラボ楽曲のひとつ。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.3''|CENTER:PS Vita1DL&br;3DS3DL|CENTER:★×3|CENTER:''152''|CENTER:''498660点''|CENTER:＋連打|CENTER:1020点|CENTER:350点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''999520点''}|~|CENTER:COLOR(#ff3300){6120点}|CENTER:-|
+-BPMは120〜240（160→240（中盤）→200→140→160→120（最後）→160）。
+-BPMがかなり揺らいでいるので★×3にしては強め。曲に慣れていないと大崩れするかもしれない。
+-途中120打程度のくすだまが存在する。
+--当然2人プレイにすれば打数が約2倍に増えるため、連打が速ければかなりの高スコアが狙えるだろう。
+
+***その他 [#other]
+-作曲・編曲は、元ZUNTATAのCOSIOこと''小塩広和''。
+-読み方は、''エクストリーム エムジージートライスター''。
+-曲IDは、''mggext''
+-[[かんたん>難易度表/かんたん/Extreme MGG★★★]]
+-[[むずかしい>難易度表/むずかしい/Extreme MGG★★★]]
+-[[おに>難易度表/おに/Extreme MGG★★★]]/[[裏譜面>難易度表/おに/Extreme MGG★★★(裏譜面)]]
+-[[プレイ動画>https://www.youtube.com/watch?v=GTaCD42CDus]]
+
+***コメント [#yf9a33c0]
+#pcomment(,noname)
+
+***譜面 [#l17a1c8e]
+風船、くすだまの長さは適当
+~&attachref(mgg_n_0.png,nolink);

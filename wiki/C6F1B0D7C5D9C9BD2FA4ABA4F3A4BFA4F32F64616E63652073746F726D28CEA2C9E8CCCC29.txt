@@ -1,0 +1,28 @@
+*dance storm(裏譜面) [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii4SP''|CENTER:★×5|CENTER:''255''|CENTER:''376610点''|CENTER:＋連打|CENTER:300点|CENTER:90点|
+-BPMは190。
+-[[かんたん>難易度表/かんたん/dance storm]]と[[ふつう>難易度表/ふつう/dance storm]]を交互に引用した譜面。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-大音符がかなり多く、62個ある（全体の約24.3%）。
+-速度が少し速く、全体的に8分がかなり多い。
+--8分は全て単色しかないが、4連続で出てくる箇所もある。
+--ただし、4分の複合はほとんどが面と縁の交互連打である。
+-中盤で4回出てくる8分の単色4連打に注意。
+-以上のことからフルコン難易度は高く、''ふつう★×4〜5でも通用するので注意''。
+-音符密度は、''約2.11打/秒''。
+-曲IDは、''exfgod''
+
+-[[表譜面>難易度表/かんたん/dance storm]]/かんたん
+-[[表譜面>難易度表/ふつう/dance storm]]/[[ふつう>難易度表/ふつう/dance storm(裏譜面)]]
+-[[表譜面>難易度表/むずかしい/dance storm]]/[[むずかしい>難易度表/むずかしい/dance storm(裏譜面)]]
+-[[表譜面>難易度表/おに/dance storm]]/[[おに>難易度表/おに/dance storm(裏譜面)]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=_PHNJxilIZQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(exfgod_e.png,nolink);

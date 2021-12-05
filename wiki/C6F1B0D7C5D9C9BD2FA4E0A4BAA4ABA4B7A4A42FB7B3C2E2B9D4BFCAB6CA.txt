@@ -1,0 +1,17 @@
+*軍隊行進曲 [#Title]
+***詳細・攻略 [#More]
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''CS6''|★×6|''303''|''??????点''|＋連打|750点|190点|
+-BPMは61.53-119.74。
+-[[かんたん>難易度表/かんたん/軍隊行進曲]] 
+-[[ふつう>難易度表/ふつう/軍隊行進曲]] 
+-[[おに>難易度表/おに/軍隊行進曲]]
+-[[オート動画>https://www.youtube.com/watch?v=oljvdnoX2Ps]]
+
+***コメント [#Comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+&attachref(clsmil_h.png,nolink);

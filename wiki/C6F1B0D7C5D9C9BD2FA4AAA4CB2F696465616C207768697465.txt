@@ -1,0 +1,33 @@
+*ideal white [#title]
+-アニメ「''Fate/stay night [Unlimited Blade Works]''」のOP1。
+
+***詳細 [#detail]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1''|★×7|''498''|''1001130点''|＋連打|590点|163点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1001560点''}|~|COLOR(#ff3300){1960点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは180。
+-連打秒数目安・・・''約1.139秒''
+-16分音符は基本的に5連打までで、7連打(COLOR(blue){●●●●}COLOR(red){●●●})も1回登場する。
+-平均密度は''約5.65打/秒''。新基準の★×7では3位の高さ。
+
+***その他 [#other]
+-アーティストは、''綾野ましろ''。
+--作詞は、meg rock。作曲は、Carlos K.・Toshi-Fj。編曲は、Carlos K.。 
+-譜面作成は、[[''カワーゲン・コラーゲン''>譜面作成者一覧/カワーゲン・コラーゲン]]。
+
+----
+-[[かんたん>難易度表/かんたん/ideal white]]
+-[[ふつう>難易度表/ふつう/ideal white]]
+-[[むずかしい>難易度表/むずかしい/ideal white]]
+-[[オート動画>https://www.youtube.com/watch?v=QBx_5lI7W_0]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(ideal.png,nolink);

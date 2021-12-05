@@ -1,0 +1,23 @@
+*Fun!Fun!★ふぁんたじー [#title]
+-アニメ''「わがまま☆フェアリー ミルモでポン! ごおるでん」''のOP曲。
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''アニメ祭り''|CENTER:★×6|CENTER:''256''|''681040点''|＋連打|880点|220点|
+-BPMは136。
+-平均密度は、''約3.21打/秒''。
+-フルコン狙いなら20小節目のCOLOR(blue){●●●●●●}COLOR(red){●}とサビのCOLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}に注意したい。
+-歌唱は''南里侑香''。
+-編曲は[[君にこの声が 届きますように>難易度表/おに/君にこの声が 届きますように]]を作編曲した''大久保薫''。
+-曲IDは、''fun''
+----
+-[[かんたん>難易度表/かんたん/Fun!Fun!★ふぁんたじー]]
+-[[ふつう>難易度表/ふつう/Fun!Fun!★ふぁんたじー]]
+-[[むずかしい>難易度表/むずかしい/Fun!Fun!★ふぁんたじー]]
+-[[オート動画>http://www.youtube.com/watch?v=qURhIq-TeEQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(fun.png,nolink);

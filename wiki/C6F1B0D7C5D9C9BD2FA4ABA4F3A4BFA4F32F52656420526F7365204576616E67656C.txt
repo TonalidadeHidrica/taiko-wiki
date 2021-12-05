@@ -1,0 +1,38 @@
+*Red Rose Evangel [#title]
+***詳細・攻略 [#more]
+-Roseシリーズ第3弾。
+- 詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.0''|CENTER:Wii5SP|CENTER:★×5|CENTER:''250''|CENTER:''368830点''|CENTER:＋連打|CENTER:420点|CENTER:110点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''988440点''}|~|CENTER:COLOR(#ff3300){3620点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''350880点''|~|CENTER:370点|CENTER:90点|
+-BPMは178。
+-黄色連打が多い連打曲である。
+-速度が少し速く、全体的に8分がかなり多い。
+--8分は単色の3連打までしかないが、そのほとんどが4分と隣接している。
+--また、4分の複合は種類がそれなりに多い。
+-4分の複合と8分が何度も出てくる83〜88小節に注意。
+-平均密度は、''約2.15打/秒''（3小節〜）。
+--ただしこれは1曲を通しての平均密度であり、83〜88小節だけは平均密度が''約3.39打/秒''になっている。
+
+***その他 [#other]
+-曲名の読み方は、''レッド ローズ エバンゲル''（[[参考(Twitter)>http://twitter.com/ayane_peace/status/214729443078455296]]）。
+--直訳すると、''赤い薔薇の福音''。
+-作曲は、''世阿弥''。作詞は、''観阿弥''。歌唱は、''彩音''。
+--[[開発日記>http://taikoblog.namco-ch.net/blog/2012/01/post_277.html]]のコメントによると「東日本大震災の追悼の祈りを込めた曲にもなっている」とのこと。
+--なお、この曲を歌唱している彩音のアルバム、「cry out」(2012/6/20)と「Luminous Flux」(2014/1/29)にRed Rose Evangel -Full version-が収録されている。
+---「Luminous Flux」に作曲者の表記は''Tatsh''である([[ソース>http://4.bp.blogspot.com/-s5pVlcjfQ0I/U15RQ_6Ny7I/AAAAAAAADFQ/qW_YjOjaxHI/s1600/1390921112-20140128-155101.jpg]])。
+--しかし、太鼓の達人には、ロングバージョンは追加配信、及び収録そのものをしないとのこと(Twitterより)。
+-譜面作成は、''エトウ''。
+-序盤のメロディーが[[Blue Rose Ruin>難易度表/かんたん/Blue Rose Ruin]]に共通する。なお、そのイントロメロディーが[[Purple Rose Fusion>難易度表/かんたん/Purple Rose Fusion]]に引用された。
+
+-[[ふつう>難易度表/ふつう/Red Rose Evangel]]
+-[[むずかしい>難易度表/むずかしい/Red Rose Evangel]]
+-[[おに>難易度表/おに/Red Rose Evangel]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=706q96FdaxQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(Red Rose Evangel k.png,nolink);

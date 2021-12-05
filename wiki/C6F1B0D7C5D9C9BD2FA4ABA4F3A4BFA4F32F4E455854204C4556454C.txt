@@ -1,0 +1,22 @@
+*NEXT LEVEL [#x73c25d9]
+***詳細・攻略 [#q326bdc3]
+-「''仮面ライダーカブト''」のOP。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC9|CENTER:''CS7''|CENTER:★×4|CENTER:''62''|CENTER:''334480点''|CENTER:＋連打|CENTER:1470点|CENTER:850点|
+-BPMは172。
+-AC9当時で★×4のコンボ数が2番目に少ない(1番目は[[今が大好き>難易度表/かんたん/今が大好き]]、★×4で59コンボ)。
+-4分は面の単色3連打しかなく数も少ないので、★×4にしてはかなり簡単な方。
+-殆どが面で、縁が2つしかない。
+-アーティストは、''YU-KI''。
+
+-[[ふつう>難易度表/ふつう/NEXT LEVEL]]
+-[[むずかしい>難易度表/むずかしい/NEXT LEVEL]]
+-[[おに>難易度表/おに/NEXT LEVEL]]
+-[[オート動画>https://www.youtube.com/watch?v=7LtJCsCYXcA]]
+
+***コメント [#b08005cc]
+#pcomment(,noname)
+
+***譜面 [#ha358de8]
+&attachref(nextkantan.png,nolink);

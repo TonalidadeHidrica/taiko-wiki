@@ -1,0 +1,34 @@
+*Rising Sun [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.2''〜AC15.8.7|CENTER:★×3|CENTER:''121''|CENTER:''328990点''|CENTER:＋連打|CENTER:740点|CENTER:338点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){7080点}|CENTER:-|
+-BPMは127。
+-黄色連打が多い連打曲である。
+-ほとんどが面で、縁は全体の約10.7%しかない（13/121）。
+-[[ふつう>難易度表/ふつう/Rising Sun]]とはコンボ数が''22コンボしか''離れていない。
+-大音符が多く、18個ある（全体の約14.9%）。
+-速度は少し遅めだが、全体的に4分がかなり多い。
+--4分は3・5連打が主体で、たまに4連打も出てくる。
+--ただし、2分の複合は1回も出て来ない。
+-中盤（29〜43小節）は休みが少ないので、適正者にとっては体力的に厳しいかもしれない。
+
+***その他 [#other]
+-アーティストは、''EXILE''。
+--作詞は、ATSUSHI。作曲は、Didrik Thott・Sebastian Thott・Johan Becker・Sharon Vaughn。編曲は、ATSUSHI・Sebastian Thott。
+-初出時は曲名が''RISING SUN''だったが、第4回のアップデートで''Rising Sun''に修正された。
+-Rising Sunは、''昇る朝日''を意味する。
+-''2015年3月11日午前7:00からのムラサキVer.の稼働をもって、無印・KATSU-DON・ソライロ・モモイロ・キミドリバージョンよりサヨナラ''となった。
+-''2017年1月31日午前7:00をもって、ムラサキ・ホワイト・レッドVer.よりサヨナラ''となった。
+--新筐体以前のACには収録されておらず、現時点でどのCSにも収録されていないため、サヨナラ後この曲を遊べる作品は現在、存在していない。
+-[[ふつう>難易度表/ふつう/Rising Sun]]
+-[[むずかしい>難易度表/むずかしい/Rising Sun]]
+-[[おに>難易度表/おに/Rising Sun]]
+-[[プレイ動画>http://www.youtube.com/watch?v=KwssqFJmcX8]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(難易度表/かんたん/RISING SUN/RS k.png,nolink);

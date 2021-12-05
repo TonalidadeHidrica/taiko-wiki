@@ -1,0 +1,29 @@
+*LET'S GO OUT [#title]
+***詳細・攻略 [#more]
+-アニメ「''銀魂'(延長戦)''」のOP4。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.3.0''|CENTER:Wii U2DL|CENTER:★×3|CENTER:''119''|CENTER:''333000点''|CENTER:＋連打|CENTER:840点|CENTER:355点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''993680点''}|~|CENTER:COLOR(#ff3300){7560点}|CENTER:-|
+-BPMは178。
+-黄色連打が多い連打曲である。
+-速度が少し速く、全体的に4分がかなり多い。
+--4分は3連打が主体で、たまに4連打も出てくる。
+--また4分は単色が多いが、中盤からは複合も出てくる。
+-ゴーゴーで1回だけ出てくる4分の複合5連打に注意。
+
+***その他 [#other]
+-曲名の読み方は、''レッツ ゴー アウト''。
+-アーティストは、''AMOYAMO''。
+--作・編曲は、奥田俊作。作詞は、川瀬智子。
+-曲IDは、''lets5o''
+-[[ふつう>難易度表/ふつう/LET'S GO OUT]]
+-[[むずかしい>難易度表/むずかしい/LET'S GO OUT]]
+-[[おに>難易度表/おに/LET'S GO OUT]]
+-[[オート動画>http://www.youtube.com/watch?v=74DnB05HZNU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(lgoe.png,nolink);

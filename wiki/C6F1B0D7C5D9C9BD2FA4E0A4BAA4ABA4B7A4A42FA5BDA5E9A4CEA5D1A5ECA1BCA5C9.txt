@@ -1,0 +1,23 @@
+*ソラのパレード [#title]
+-アニメ「''グランブルーファンタジー ジ・アニメーション''」のED。
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''オイラ''|★×5|''135''|''520080点''|＋連打|1600点|400点|
+
+***譜面構成・攻略 [#capture]
+-BPMは124。
+
+***その他 [#other]
+-エイプリルフール限定の企画として登場したアプリ、[[「''オイラ''」>限定公式譜面一覧#vee]]内でプレイ可能。
+-アーティストは、''HARUHI''。
+--編曲は、HARUHI・彦坂亮。
+
+----
+-[[プレイ動画>https://www.youtube.com/watch?v=a5zuRfkntxI]]
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(grblpd_h3.png,nolink);

@@ -1,0 +1,33 @@
+*&ruby(らぶ){恋};&ruby(ふぁんたじー){幻想}; (Love Fantasy) [#title]
+
+***詳細 [#detail]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.7.0''|CENTER:Wii U3DL&br;PS Vita1DL|CENTER:★×6|CENTER:''429''|CENTER:''797190点''|CENTER:＋連打|CENTER:540点|CENTER:138点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''994940点''}|~|CENTER:COLOR(#ff3300){2180点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
+-BPMは183。
+-黄色連打が多い連打曲である。
+-8分の複合が主体の譜面で、たまに12分や16分も出てくる。
+--12分は4連打が主体で、たまに2連打も出てくる。
+--16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
+-ゴーゴーの前半（66〜107小節）は休みが少ないので、適正者にとっては体力的に厳しいかもしれない。
+-序盤で1回だけ出てくる8分の複合14連打と、12分の2連打が5連続で出てくる64〜65小節に注意。
+
+***その他 [#other]
+-アーティストは、''HONOKA''。
+--作曲は、とんCHAN & ショック太郎。
+-曲のプロデュースおよび譜面作成は、''カワーゲン・コラーゲン''。
+-「恋幻想」のルビは「らぶふぁんたじー」である((「[[Wii U3公式HPの楽曲リスト>http://wiiu3.taiko-ch.net/songlist/]]」ナムコオリジナル参照))。
+
+----
+-[[かんたん>難易度表/かんたん/恋幻想(Love Fantasy)]]
+-[[ふつう>難易度表/ふつう/恋幻想(Love Fantasy)]]
+-[[おに>難易度表/おに/恋幻想(Love Fantasy)]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=XmOYPcUL_vE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(lovfan_h.png,nolink);

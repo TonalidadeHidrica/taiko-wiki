@@ -1,0 +1,11 @@
+*&ruby(ステミュー){steμ}; [#title]
+
+**概要 [#more]
+-「[[参加アーティスト一覧/steμ]]」を参照。
+
+**作品一覧 [#works]
+--ナムコオリジナル
+---[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]] ([[作曲>参加アーティスト一覧/steμ]]も担当)
+
+**コメント [#comment]
+#pcomment(,noname)

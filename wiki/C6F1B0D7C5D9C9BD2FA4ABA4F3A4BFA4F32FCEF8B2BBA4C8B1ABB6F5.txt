@@ -1,0 +1,31 @@
+*恋音と雨空 [#title]
+***詳細・攻略 [#more]
+-イトーヨーカドー「''WARM STYLE''」・「''kent''」篇CMソング。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.5.0''|CENTER:Wii U2&br;3DS3|CENTER:''J-POP''|CENTER:★×3|CENTER:''125''|CENTER:''325820点''|CENTER:＋連打|CENTER:830点|CENTER:315点|
+||CENTER:PS4 1|CENTER:''ポップス''|~|~|~|~|~|~|
+|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''988190点''}|~|CENTER:COLOR(#ff3300){7290点}|CENTER:-|
+||CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|
+-BPMは約129。
+-黄色連打が多い連打曲で、1本あたりの長さも長い。
+-全体的に付点配置が多く、リズムが取りづらい。
+-4分の複合が主体の譜面で、たまに8分も出てくる。
+--8分は単色の2連打のみで、その全てが単発である。
+--また、4分の複合はほとんどが面と縁の交互連打である。
+-ゴーゴーで1回だけ出てくる4分の複合7連打に注意。
+-なぜか、リザルト画面の連打数が実際より1打少なく表示される(点数は正しく入っている。バグ?)。
+-アーティストは、''AAA''。
+--作詞・作曲は、岡村洋佑。Rap詞は、Mitsuhiro Hidaka。
+
+-[[ふつう>難易度表/ふつう/恋音と雨空]]
+-[[むずかしい>難易度表/むずかしい/恋音と雨空]]
+-[[おに>難易度表/おに/恋音と雨空]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=_mjUIueZTbU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+風船、くすだまの長さは暫定&br;黄色連打は下の画像より48分音符1つ分短い
+&attachref(koioto_e.png,nolink);

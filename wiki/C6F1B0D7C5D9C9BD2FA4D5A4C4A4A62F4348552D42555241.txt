@@ -1,0 +1,19 @@
+*CHU-BURA [#c8ddf4dc]
+***詳細・攻略 [#tf1797c9]
+-''BLEACH'' のOP曲 
+-詳細は以下の通り。
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''&br;AC12増&br;AC12亜|CENTER:★×5|CENTER:''140''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1250点|CENTER:350点|
+-BPMは180。
+-たまに出る、面の8分音符に注意。
+-ア一ティストは''KELUN''
+-[[かんたん>難易度表/かんたん/CHU-BURA]]
+-[[むずかしい>難易度表/むずかしい/CHU-BURA]]
+-[[おに>難易度表/おに/CHU-BURA]]
+-[[プレイ動画>http://www.youtube.com/watch?v=pRjaf4iH9AE]]
+
+***コメント [#l04190e5]
+#pcomment(,noname)
+
+***譜面 [#eb687628]
+&ref(CHU-BURA.png,nolink);

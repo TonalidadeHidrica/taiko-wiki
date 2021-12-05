@@ -1,0 +1,39 @@
+*FUJIN Rumble SIZE(16){COSIO(ZUNTATA) 「グルーヴコースター」より}[#title]
+***詳細・攻略 [#more]
+-[[天下一音ゲ祭 全国一斉認定大会]]の書き下ろし曲の一つ。
+--四大元素がテーマになっている。この曲のテーマは''「風」''。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.5.5''|CENTER:★×8|CENTER:''532''|CENTER:''903150点''|CENTER:＋連打|CENTER:470点|CENTER:123点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''1000690点''}|~|CENTER:COLOR(#ff3300){1770点}|CENTER:-|
+-BPMは192。
+-全体的に付点配置が多く、リズムが取りづらい。
+-終盤に速度変化があり、等速の12分が24分や8分になっている。
+-速度が少し速く、全体的に16分や8分の複合がかなり多い。
+--16分はほとんどが単色の3連打だが、連続して出てくる箇所もある。
+--また、8分の複合は全体的に長めのが多い。
+-途中からは12分も出てくる。12分はほとんどが単色だが、1回だけ複合4連打（●●○○）も出てくる。
+-1回ずつ出てくる12分の単色8連打と16分の単色8連打に注意。
+-''[[おに>難易度表/おに/FUJIN Rumble]]と同様、高速大音符の追い越しがある''。
+-音符密度は、''約4.88打/秒''。
+
+***その他 [#other]
+-曲名の読み方は、''ふうじんランブル''。
+--rumble（ランブル）は、雷・車・地震・腹などの音を表す擬音語または動詞。
+-アーティストは、[[''COSIO（ZUNTATA）''>http://groovecoaster.jp/artist/15_cosio.html]](外部リンク)。
+--太鼓に収録されている氏の曲は、[[GMT>難易度表/むずかしい/電車で電車でGO!GO!GO!GC! -GMT remix-]][[コラボ曲>難易度表/むずかしい/オパ！オパ！RACER -GMT mashup-]]と、[[Extreme MGG★★★>難易度表/むずかしい/Extreme MGG★★★]]がある。
+
+-[[かんたん>難易度表/かんたん/FUJIN Rumble]]
+-[[ふつう>難易度表/ふつう/FUJIN Rumble]]
+-[[おに>難易度表/おに/FUJIN Rumble]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=iQsq0Cuc2bs]]
+-[[プレイ動画(キャプチャ,全良)>http://www.youtube.com/watch?v=HSdvxi4B6aw]]
+
+***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#3333ff){''各曲の難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#fumen]
+風船の長さは暫定&br;黄色連打は下の画像より48分音符1つ分短い
+&attachref(fujinr_h.png,nolink);

@@ -1,0 +1,38 @@
+*ミッキーマウス・マーチ [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''AC6''||CENTER:★×4|CENTER:''295''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点||
+||CENTER:CS5|~|CENTER:''282''|CENTER:''647250点''|~|CENTER:760点|CENTER:150点|CENTER:''ゴーゴーバグあり''|
+|CENTER:AC7||~|~|CENTER:''?????0点''|~|CENTER:700点|CENTER:170点|~|
+|CENTER:AC8、9||~|~|CENTER:''696050点''|~|CENTER:670点|CENTER:180点||
+|CENTER:AC10-14|CENTER:Wii1|~|~|CENTER:''699150点''|~|CENTER:680点|~||
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''702660点''}|~|CENTER:COLOR(#ff3300){2390点}|CENTER:-||
+||CENTER:WiiU1|CENTER:★×5|~|CENTER:''?????0点''|~|CENTER:750点|CENTER:243点||
+-BPMは124。
+-速度は少し遅めだが、全体的に12分がかなり多い。
+--12分は2連打が主体で、たまに4連打も出てくる。
+--また12分は単色が多いが、複合も数がかなり多い。
+-ゴーゴーは休みが少ないので、適正者にとっては体力的に厳しいかもしれない。
+-たまに出てくる12分の複合4連打に注意。
+-以上のことからフルコン難易度は高く、''下手な★×5,6よりも難しいので要注意''。
+--そのことが反映されたのか、Wii U1で★×5に昇格した。
+-CS5で音源が差し替えられ(それに伴い譜面も微変更)、AC7以降はそちらが使われている。
+-2人用譜面が存在する。最大コンボ数は変わらない。
+-作詞・作曲は、Jimmie Dodd。訳詞は、さざなみけんじ。
+-曲IDは、''dis1''（dis2は[[エレクトリカル パレードのテーマ　BAROQUE HOEDOWN>難易度表/むずかしい/エレクトリカルパレード]]）
+-[[かんたん>難易度表/かんたん/ミッキーマウス・マーチ]]
+-[[ふつう>難易度表/ふつう/ミッキーマウス・マーチ]]
+-[[おに>難易度表/おに/ミッキーマウス・マーチ]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=XE9UCCXR8ic]]
+-[[プレイ動画(旧譜面)>http://youtube.com/watch?v=2gH2NSNd3zM]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=ex3ccd3sdFk]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(MICKEY MOUSE.png,nolink);
+
+~旧譜面
+~&attachref(dis1_h.png,nolink);

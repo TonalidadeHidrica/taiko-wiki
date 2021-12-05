@@ -1,0 +1,8 @@
+*譜面作成ソフト [#title]
+[[譜面作成ソフト/使い方]]~
+[[譜面作成上の注意]]
+-このサイト内の譜面作成には以下のソフトを利用しています。
+-どんすこあ！
+-[[v0.181>http://ux.getuploader.com/rocktyt/download/1/donscore0181.7z]]
+-[[v0.15>http://wada314.jp/tcf/donscore/donscore.zip]]（繋がらない際はこのページの添付ファイルから）
+--半角英数字が透過されてしまう時はCleartypeをONにすると直るようです。

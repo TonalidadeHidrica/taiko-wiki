@@ -1,0 +1,41 @@
+*B.B.K.K.B.K.K. [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.7''|★×9|''853''|''1108840点''|＋連打|380点|90点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1001650点''}|~|COLOR(#ff3300){1150点}|-|
+|AC16.1.0|~|~|''1006540点''|~|1180点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは170。
+-[[タイコ>難易度表/おに/タイコタイム]][[タイム>難易度表/おに/タイコタイム(裏譜面)]]のように、偶数連打や時より出てくる長複合が特徴的な譜面。
+--偶数連打に耐性があるかで、体感難易度にかなり差が出るだろう。苦手な場合は、(特に)第2ゴーゴー以降が難所として襲いかかる。
+--逆手をいかに使いこなせるかが攻略のカギになる。奇数打が多い地帯でも、ヴァーナスを行うとかなり忙しい腕運びになるため、ある程度交互で処理する練習も行っておきたいところ。
+-35・51小節目の長連打は面ばかりで戸惑いやすいが、途中にある縁は順手で叩けるので落ち着いて処理しよう。
+--ただし、後者は直前の50小節目からCOLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}…と繋がっているため気を付けたい。
+-ラストの83小節目にやや叩きづらい長複合がある。フルコンボ狙いの際は注意。
+--COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}/COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(blue){●}COLOR(red){●}と区切ることができる。
+---COLOR(blue){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}/COLOR(blue){●}COLOR(blue){●}COLOR(red){●}/COLOR(blue){●}COLOR(blue){●}COLOR(red){●}/COLOR(blue){●}COLOR(blue){●}COLOR(red){●}と区切るのもよい。
+-序盤(4小節目)・中盤(36小節目)・終盤(84小節目)の3箇所にそれぞれ、[[ねがいごと☆ぱずる>難易度表/おに/ねがいごと☆ぱずる]]や[[バイオレンストリガー>難易度表/おに/バイオレンストリガー]]で登場するものに類似した配置がある(あちらは24分＋12分だが、こちらは''32分＋付点16分'')。
+--精度狙いでなければ逆餡蜜で16分処理しても構わないが、全良狙いの際は注意。
+-平均密度は''約7.18打/秒''と、★×9ではやや高め。
+
+***その他 [#other]
+-アーティストは、''nora2r''。
+--本曲は2013年のBMSイベント「konzertsaal - THE BMS OF FIGHTERS 2013 -」初出の[[''BMS楽曲''>BMS楽曲一覧]]であり、同イベントの''個人戦スコア部門優勝曲''でもある。出前氏によるBGAも話題を呼んだ。
+--2014年9月にmaimaiに収録されたことを皮切りに、様々な商業音楽ゲームに収録されている。
+-曲名のBとKはベースとキックのこと。
+-この譜面をフルコンボすると、''称号''「''LET THE BASS KICK''」を獲得できる。 
+----
+-[[かんたん>難易度表/かんたん/B.B.K.K.B.K.K.]]
+-[[ふつう>難易度表/ふつう/B.B.K.K.B.K.K.]]
+-[[むずかしい>難易度表/むずかしい/B.B.K.K.B.K.K.]]
+-[[楽曲MV(公式)>https://www.youtube.com/watch?v=XHtQO0aLEKI]]
+-[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88]]
+-[[プレイ動画>https://www.youtube.com/watch?v=XOKtvdYqqO4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(bbkkbk_m.png,nolink);

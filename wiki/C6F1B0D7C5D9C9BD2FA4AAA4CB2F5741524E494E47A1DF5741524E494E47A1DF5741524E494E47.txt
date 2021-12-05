@@ -1,0 +1,33 @@
+*WARNING×WARNING×WARNING [#title]
+
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.9.6''|NS1DL|★×9|''756''|''1090440点''|＋連打|400点|100点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''991450点''}|~|COLOR(#ff3300){1210点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは172。
+-そこそこ速いBPMで押し寄せる16分複合をほぼノンストップで捌いていく譜面。
+-ゴーゴーで密度が高くなる。特に第二ゴーゴーからは休憩できる場所がほとんど無いので、体力切れには注意。
+-16は複合が多く、短複合から長複合まで様々な種類が登場する。
+--長複合は逆手の動きを要するものが多いため、人によっては事前に確認するのも手。
+-平均密度は、''約6.40打/秒''。
+
+***その他 [#other]
+-原曲は、「東方紺珠伝 〜 Legacy of Lunatic Kingdom.」の5面テーマ曲「''遥か38万キロのボヤージュ''」と、5面ボス・クラウンピースのテーマである「''星条旗のピエロ''」。
+-アレンジ(編曲)・作詞は、''暁Records''のACTRock。
+--歌唱は、''Stack''。
+-曲IDは、''thwarn''。
+----
+-[[かんたん>難易度表/かんたん/WARNING×WARNING×WARNING]]
+-[[ふつう>難易度表/ふつう/WARNING×WARNING×WARNING]]
+-[[むずかしい>難易度表/むずかしい/WARNING×WARNING×WARNING]]
+-[[プレイ動画>https://www.youtube.com/watch?v=c5EKILf8V3k]]
+-[[公式PV(ニコニコ)>http://www.nicovideo.jp/watch/sm27818337]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(wxwxw.png,nolink);

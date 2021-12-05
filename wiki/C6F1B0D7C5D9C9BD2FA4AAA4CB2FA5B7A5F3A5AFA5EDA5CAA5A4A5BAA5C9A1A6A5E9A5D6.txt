@@ -1,0 +1,31 @@
+*シンクロナイズド・ラブ [#title]
+
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|h
+|''AC2''|''ダンス''|★×6|COLOR(#909):''329&br;COLOR(#069):293&br;COLOR(#666):273''|''474000点''|＋連打|
+
+***譜面構成・攻略 [#capture]
+-BPMは124。
+-達人譜面の平均密度は、''約3.80打/秒''。
+
+-譜面分岐あり。開幕達人が厳しい。（失点1000点以内 （可2以内or不可1以内） ）
+-面の3連打、5連打が多い。縁の3連打、COLOR(blue){●●}COLOR(red){●}も数回登場する。
+-むずかしいコースはドンだフル！コースの普通譜面と同一。
+
+***その他 [#other]
+-DDRにもRed&#77;onsterのリミックスが収録されていた。(現在は削除)
+-消費者金融会社「''武富士''」のCMソングとして有名。
+//- 因みに、当時のCMに使っていた武富士は倒産した。
+-アーティストは、''ジョー・リノイエ''。
+-この曲には''かんたん・ふつうコースが存在しない''。
+----
+-[[むずかしい>難易度表/むずかしい/シンクロナイズド・ラブ]]
+-プレイ動画
+--[[COLOR(#666):普通譜面>http://www.youtube.com/watch?v=XNx6LaygCdc]]/[[COLOR(#069):玄人譜面>http://www.youtube.com/watch?v=llrIuQmUrBA&index=3&list=PLDAsXb4iso2fFVxmS-EOErxfs0l8Po_cj]]/[[COLOR(#909):達人譜面>http://www.youtube.com/watch?v=VUHD8YitvdY]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面[#score]
+&br;分岐地点は恐らく17,25,33,41小節&attachref(シンクロ小節線修正.png,nolink);

@@ -1,0 +1,37 @@
+*crossing field [#title]
+-アニメ[[「''ソードアート・オンライン''」>アニメ別収録曲#sao]]のOP1。
+***詳細 [#detail]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.7.0|CENTER:''PS Vita1''&br;PS4 1DL&br;NS1DL|CENTER:★×4|CENTER:''215''|CENTER:''686530点''|CENTER:＋連打|CENTER:780点|CENTER:245点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''985660点''}|~|CENTER:COLOR(#ff3300){3640点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは179。
+-黄色連打が多い連打曲で、1本あたりの長さも長い。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符がかなり多く、54個ある（全体の約25.1%）。
+-8分の複合が主体の譜面で、16分は1回も出て来ない。
+--また、8分の複合は4連打までしかない。
+--ただし付点配置が多いので、全良難易度は高めである。
+
+***その他 [#other]
+-アーティストは、[[''LiSA''>アーティスト別収録曲#lisa]]。
+--作詞・作曲は、渡辺翔。編曲は、とく。
+-譜面作成は、[[''すえP''>譜面作成者一覧/すえP]]。
+-曲IDは、''saoop''。
+-''2019年12月2日(月)7:00をもって新筐体の全てのバージョンよりサヨナラ''となった。
+--14以前のACには収録されていないため、現在はこの曲が収録されている家庭用作品でのみ遊べる(PS4 1、iOS、NS1ではDLが必要)。
+----
+-[[かんたん>難易度表/かんたん/crossing field]]
+-[[ふつう>難易度表/ふつう/crossing field]]
+-[[おに>難易度表/おに/crossing field]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=_2aCrn08h7Y&t=231]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(saoop_h.png,nolink);

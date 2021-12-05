@@ -1,0 +1,39 @@
+*交響曲第25番ト短調第一楽章 [#title]
+***詳細・攻略 [#more]
+-BPMは約176。
+
+***1人用譜面 [#single]
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''CS4''|★×5|''298''|''??????点''|＋連打|670点|160点|
+|Wii U3SP&br;NS1DL|~|''299''|''597520点''|~|570点|158点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''9????0点''}|~|COLOR(#ff3300){???0点}|-|
+|米TDM&br;TDM|★×4|''298''|''??????点''|~|620点|150点|
+-[[オート動画(現行譜面)>https://www.youtube.com/watch?v=udbQvnB8EzQ]]
+-[[オート動画(TDM)>https://www.youtube.com/watch?v=WWGpnxZDHPY]]
+
+***2人用譜面 [#double]
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×4|CENTER:1P|CENTER:''218''|CENTER:''?????0点''|CENTER:＋連打|CENTER:840点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''214''|CENTER:''?????0点''|~|~|~|
+-[[オート動画>https://www.youtube.com/watch?v=aQ1ccTwrBwA]]
+
+***その他 [#other]
+-TDMでは「''Symphony No.25 In G Minor''」と表記されている。
+-作曲者は、''モーツァルト''。
+-曲IDは、''cls25''。
+-[[かんたん>難易度表/かんたん/交響曲第25番ト短調第一楽章]]
+-[[むずかしい>難易度表/むずかしい/交響曲第25番ト短調第一楽章]]
+-[[おに>難易度表/おに/交響曲第25番ト短調第一楽章]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~1人用譜面~
+&ref(cls25_n.png,nolink);
+
+~2人用譜面(TDM)~
+&ref(cls25_nd.png,nolink);

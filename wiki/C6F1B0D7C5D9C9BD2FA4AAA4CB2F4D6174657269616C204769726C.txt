@@ -1,0 +1,39 @@
+*Material Girl [#o274b4b7]
+**おに [#f50aadee]
+***1人用譜面 [#b5ebc6f1]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|h
+|CENTER:''米TDM''|CENTER:★×4|CENTER:''357''|CENTER:''543000点''|CENTER:＋連打|
+|CENTER:TDM|CENTER:★×7|~|~|~|
+***2人用譜面 [#g03d386f]
+|>|>|>|>|>|CENTER:|c
+|バージョン|難易度||最大コンボ数|>|天井スコア|h
+|''TDM''|★×7|1P|''340''|''??????点''|+連打|
+|~|~|2P|''337''|''??????点''|~|
+
+**むずかしい [#f01740f4]
+***1人用譜面 [#j6c50a3a]
+|バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×4|CENTER:''357''|CENTER:''672900点''|CENTER:＋連打|CENTER:600点|CENTER:140点|
+***2人用譜面 [#g03d386f]
+|>|>|>|>|>|CENTER:|c
+|バージョン|難易度||最大コンボ数|>|天井スコア|h
+|''TDM''|★×4|1P|''340''|''??????点''|+連打|
+|~|~|2P|''337''|''??????点''|~|
+**その他 [#other]
+-BPMは134。
+-16分音符は3連打までで、複合もCOLOR(red){●}COLOR(blue){●}のみ。
+-アーティストは''マドンナ(Madonna)''。
+----
+-[[かんたん>難易度表/かんたん/Material Girl]]
+-[[ふつう>難易度表/ふつう/Material Girl]]
+-[[オート動画(おに)>https://www.youtube.com/watch?v=24VmiPSJTtI]]
+-[[オート動画(おに、2人用譜面)>https://www.youtube.com/watch?v=kicZT9cLFTQ]]
+
+***コメント [#b9ed3d5a]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(material修正.png,nolink);
+~2人用譜面
+&attachref(material.png,nolink);

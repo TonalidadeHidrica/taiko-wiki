@@ -1,0 +1,31 @@
+*Bravely You [#title]
+-アニメ「''Charlotte''」のOP。
+***詳細 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''PS Vita1DL''|CENTER:★×3|CENTER:''90''|CENTER:''321990点''|CENTER:＋連打|CENTER:1200点|CENTER:528点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''985200点''}|~|CENTER:COLOR(#ff3300){10130点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
+-BPMは150。
+-黄色連打がかなり多い連打曲である。
+-かんたんコースでは珍しく、大音符は1回も出て来ない。
+-速度は至って普通だが、全体的に4分がかなり多い。
+--4分は4連打までしかないが、6連続で出てくる箇所もある。
+--また、4分は複合のほうが多くなっている。
+-ゴーゴーで2回出てくる4分の複合4連打に注意。
+
+***その他 [#other]
+-アーティストは、[[''Lia''>アーティスト別収録曲#lia]]。
+--作詞・作曲は、麻枝准。編曲は、ANANT-GARDE EYES。
+-曲IDは、''charlo''。
+----
+-[[ふつう>難易度表/ふつう/Bravely You]]
+-[[むずかしい>難易度表/むずかしい/Bravely You]]
+-[[おに>難易度表/おに/Bravely You]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=bYYUvbZHLeA]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(b1.png,nolink);

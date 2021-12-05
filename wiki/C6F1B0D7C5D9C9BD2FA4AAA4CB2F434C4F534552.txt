@@ -1,0 +1,27 @@
+*CLOSER [#title]
+- アニメ[[「''NARUTO-ナルト-疾風伝''」>アニメ別収録曲#naruto]]のOP4。
+
+***詳細・攻略 [#capture]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12亜''|CENTER:★×7|CENTER:''372''|CENTER:''1001580点''|CENTER:710点|CENTER:190点|
+
+***譜面構成・攻略 [#capture]
+-BPMは約166。
+-[[ふつう>難易度表/ふつう/CLOSER]]や[[むずかしい>難易度表/むずかしい/CLOSER]]と同じ、連打も風船もない''完全精度曲''。
+-フルコン狙いは42小節目は要注意。
+
+***その他 [#other]
+-アーティストは、''井上ジョー''。
+
+----
+-[[かんたん>難易度表/かんたん/CLOSER]]
+-[[ふつう>難易度表/ふつう/CLOSER]]
+-[[むずかしい>難易度表/むずかしい/CLOSER]]
+-[[プレイ動画>http://www.nicozon.net/watch/sm8441935]](nicozon)
+-[[プレイ動画>https://www.youtube.com/watch?v=gyikzaZOXAM]](Youtube)
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(closer_m_fix.png,nolink);

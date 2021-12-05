@@ -1,0 +1,32 @@
+*Paradisus-Paradoxum [#title]
+***詳細・攻略 [#more]
+-アニメ「''Re:ゼロから始める異世界生活''」のOP2。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.8.2''|CENTER:3DS3DL&br;PS4 1DL|CENTER:★×5|CENTER:''160''|CENTER:''593990点''|CENTER:＋連打|CENTER:1140点|CENTER:408点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''995550点''}|~|CENTER:COLOR(#ff3300){5770点}|CENTER:-|
+||CENTER:iOS&br;AR|~|~|CENTER:''586080点''|~|CENTER:1120点|CENTER:290点|
+-BPMは201。
+-黄色連打が多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-4分の複合が主体の譜面で、8分も数が多い。
+--8分は2連打が主体で、たまに3連打も出てくる。
+--また、4分の複合は種類がそれなりに多い。
+-8分の2連打が4連続で出てくる27〜28小節に注意。
+
+***その他 [#other]
+-曲名の読み方は、''パラディスス パラドクスム''。
+--どちらもラテン語であり、Paradisusは「楽園」を、Paradoxumは「矛盾」を意味している。
+-アーティストは、''MYTH&ROID''。
+-本作に収録されているカバー音源は、収録時期の関係か原盤と歌詞が異なる部分がある。
+-譜面作成は、''ヤマグチ''。
+-[[かんたん>難易度表/かんたん/Paradisus-Paradoxum]]
+-[[むずかしい>難易度表/むずかしい/Paradisus-Paradoxum]]
+-[[おに>難易度表/おに/Paradisus-Paradoxum]]
+-[[オート動画>https://www.youtube.com/watch?v=ka5tcOWIT5o]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(リゼロnormal.png,nolink);

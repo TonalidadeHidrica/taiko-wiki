@@ -1,0 +1,23 @@
+* サバイバル [#title]
+
+*** 攻略・詳細 [#more]
+-アニメ「''KAIKANフレーズ''」のOP1。ジャンルはJ-POPに属する。
+- 詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15 仕分け∞Ver.''|CENTER:★×7|CENTER:''436''|CENTER:''-''|CENTER:＋連打|CENTER:-|CENTER:-|
+-BPMは約158。
+-2013年11月の放送のみ披露された。以降は登場していない。
+-16分面の偶数打や5連打が多い。
+
+***その他 [#other]
+- アーティストは、''[[GLAY>アーティスト別収録曲#glay]]''。
+--作詞・作曲は、TAKURO。
+
+-[[参考動画(次郎)>https://www.youtube.com/watch?v=CliT4llPWJI]]
+
+*** コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~BPMは暫定
+&attachref(glaysv_h.png,nolink);

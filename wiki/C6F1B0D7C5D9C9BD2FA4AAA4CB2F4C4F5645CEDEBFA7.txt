@@ -1,0 +1,22 @@
+*LOVE涙色 [#w56f444c]
+***攻略・詳細 [#i5479ffc]
+- 詳細は以下の通り:
+|CENTER:バージョン((太字は初出))|CENTER:コース|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC3''|CENTER:むずかしい|CENTER:★×3|CENTER:''259''|CENTER:''607380点''|CENTER:770点|CENTER:190点|
+|~|CENTER:ドンだフル！|CENTER:★×6|~|CENTER:''336000点''|-|-|
+-BPMは118。
+- ''精度曲''のひとつ。
+-平均密度は、''約2.64打/秒''。
+
+-16分の2連打や付点8分などが多く、ややリズム難気味。
+-アーティストは、[[''松浦亜弥''>アーティスト別収録曲#ayaya]]。
+-譜面作成は、[[''こはらー''>譜面作成者一覧/こはらー]]。
+-[[かんたん>難易度表/かんたん/LOVE涙色]]
+-[[ふつう>難易度表/ふつう/LOVE涙色]]
+-[[プレイ動画(むずかしい)>https://www.youtube.com/watch?v=_6HJG9IZ7tc]]
+-[[プレイ動画(ドンだフル！)>https://www.youtube.com/watch?v=9l7h7-EkUeE]]
+***コメント [#t027f931]
+#pcomment(,noname)
+***譜面 [#w64b842e]
+風船の値、長さは適当です。
+&attachref(LOVE涙色_2.png,nolink);

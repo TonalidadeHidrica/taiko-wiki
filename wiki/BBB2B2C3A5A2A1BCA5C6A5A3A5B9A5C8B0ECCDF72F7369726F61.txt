@@ -1,0 +1,14 @@
+*siroa [#title]
+
+**概要 [#more]
+-歌手。
+-[[Twitter>https://twitter.com/s1roar1s]]
+
+**作品一覧 [#work]
+--ナムコオリジナル
+---[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]
+---[[青天の黎明>難易度表/おに/青天の黎明]]
+---[[タイコロール>難易度表/おに/タイコロール]]
+
+**コメント [#comment]
+#pcomment(,noname)

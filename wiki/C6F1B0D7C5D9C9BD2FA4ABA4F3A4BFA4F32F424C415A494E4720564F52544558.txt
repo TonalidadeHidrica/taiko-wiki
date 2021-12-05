@@ -1,0 +1,32 @@
+*BLAZING VORTEX [#title]
+***詳細・攻略 [#more]
+-PS2のドライビングアクション「''CRITICAL VELOCITY''」より。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.7.0SP|CENTER:''PS Vita1''&br;Wii U3DL|CENTER:★×5|CENTER:''275''|CENTER:''369740点''|CENTER:＋連打|CENTER:410点|CENTER:105点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''991020点''}|~|CENTER:COLOR(#ff3300){3310点}|CENTER:-|
+-BPMは173。
+-黄色連打がかなり多い連打曲である。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-4分の複合が主体の譜面で、たまに8分も出てくる。
+--8分は単色の2連打しかないが、そのほとんどが4分と隣接している。
+--また4分は単色が多いが、ゴーゴーからは複合も出てくる。
+-ゴーゴーで1回ずつ出てくる4分の複合12連打と15連打に注意。
+
+***その他 [#other]
+-曲名の読み方は、''ブレイジング ボルテックス''。
+-作曲は、''西込乗二''。
+-サウンドトラックは長らく販売されていなかったが、現在では[[''NAMCO SOUNDS''>http://itunes.apple.com/jp/album/crtitcal-velocity-original/id527538112]]からiTunesで配信中。
+-新筐体ホワイトVer.では、ドンポイントがカンストした時にこの楽曲が解禁される。
+-譜面作成は、''マツモト''。
+
+-[[ふつう>難易度表/ふつう/BLAZING VORTEX]]
+-[[むずかしい>難易度表/むずかしい/BLAZING VORTEX]]
+-[[おに>難易度表/おに/BLAZING VORTEX]]/[[裏譜面>難易度表/おに/BLAZING VORTEX(裏譜面)]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=uAG0JSgm9H0]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(b0.png,nolink);

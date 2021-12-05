@@ -1,0 +1,21 @@
+*「笑うが勝ち!」でGO! [#d0c97b10]
+***攻略・詳細 [#r7d5e42b]
+-''「ふたりはプリキュア　Splash☆Star」''の前期ED。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC9''|CENTER:★×3|CENTER:''102''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1600点|CENTER:500点|
+-BPMは177。
+-コンボ数が[[むずかしい>難易度表/むずかしい/「笑うが勝ち!」でGO!]](252コンボ)の半分以下しかない。
+-アーティストは[[''五條真由美''>アーティスト別収録曲#mayumi]]。
+
+-[[かんたん>難易度表/かんたん/「笑うが勝ち!」でGO!]]
+-[[むずかしい>難易度表/むずかしい/「笑うが勝ち!」でGO!]]
+-[[おに>難易度表/おに/「笑うが勝ち!」でGO!]]
+-[[プレイ動画>http://www.youtube.com/watch?v=SUuolGs6OaQ]]
+
+***コメント[#Comment]
+#pcomment(,noname)
+
+***譜面[#Fumen]
+
+&attachref(prisse_n.png,nolink);

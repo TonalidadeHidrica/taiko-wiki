@@ -1,0 +1,25 @@
+*ムリムリ!?ありあり!!INじゃぁな〜い?! [#m536c153]
+***詳細・攻略 [#g9b219ce]
+-アニメ''「ふたりはプリキュア　Max Heart」''の前期ED。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''AC7''||CENTER:★×2|CENTER:''155''|CENTER:''??????点''|CENTER:＋連打|CENTER:770点|CENTER:270点|CENTER:''ゴ−ゴーバグあり''|
+||CENTER:CS6|~|~|CENTER:''??????点''|~|~|~||
+-BPMは173。
+-ふつうの155コンボは、プリキュアシリーズの歴代最多コンボであり、未だに破られていない。
+-2人用譜面が存在する。最大コンボ数は変わらない。
+-アーティストは、''[[五條真由美>アーティスト別収録曲#mayumi]]、[[ヤング・フレッシュ>アーティスト別収録曲#youngfresh]]''。
+-[[かんたん>難易度表/かんたん/ムリムリ!?ありあり!!INじゃぁな〜い?!]]
+-[[むずかしい>難易度表/むずかしい/ムリムリ!?ありあり!!INじゃぁな〜い?!]]
+-[[おに>難易度表/おに/ムリムリ!?ありあり!!INじゃぁな〜い?!]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=8JRNsBWgypI]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=GDPYQ7gvSJU]]
+
+***コメント [#u61ff2c3]
+#pcomment(,noname)
+
+***譜面 [#f7686c2e]
+&attachref(pri9me_n.png,nolink);
+
+~二人用譜面
+&attachref(pri9me_nDP.png,nolink);

@@ -1,0 +1,18 @@
+*Escatumbararib&#234;((最後の「&ecirc;」(eの上に^)が機種依存文字であるためページ名は通常の「e」を使用)) [#kdcb8f95]
+***攻略・詳細 [#lc30f672]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''WM''|★×4|''304''|''?????0点''|＋連打|790点|233点|
+-BPMは130?
+-曲がかなり短い(最初の音符から最後の音符まで約86秒)。
+-曲名の読み方は、''エスカトゥンバラリベ''。
+----
+-[[かんたん>難易度表/かんたん/Escatumbararibe]]
+-[[ふつう>難易度表/ふつう/Escatumbararibe]]
+-[[むずかしい>難易度表/むずかしい/Escatumbararibe]]
+-[[プレイ動画>https://www.youtube.com/watch?v=AJsG18FRna0]]
+
+***コメント [#oc61f485]
+#pcomment(,noname)
+
+***譜面 [#score]

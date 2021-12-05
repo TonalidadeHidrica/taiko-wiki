@@ -1,0 +1,24 @@
+*迷走Mind [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(red){PS Vita MS}''|★×3|''127''|''318480点''|+連打|530点|195点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''979800点''}|~|COLOR(#ff3300){5060点}|-|
+-BPMは152。
+
+***その他 [#other]
+-この曲は''菊池真(CV:平田宏美)''の持ち歌である。
+-作詞は''mft''。作曲・編曲は''中川浩二''。
+-譜面作成は、''くぼけん''。
+----
+-[[ふつう>難易度表/ふつう/迷走Mind]]
+-[[むずかしい>難易度表/むずかしい/迷走Mind]]
+-[[おに>難易度表/おに/迷走Mind]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=KO6DzCZW11w]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(mmind_e.png,nolink);

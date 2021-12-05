@@ -1,0 +1,44 @@
+*LOVEマシーン [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC1''||>|>|>|>|>|CENTER:''かんたんコースのみ''|
+|CENTER:AC2,3||CENTER:★×4|CENTER:''344''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点|
+||CENTER:CS1|~|~|CENTER:''?????0点''|~|CENTER:680点|CENTER:160点|
+|CENTER:AC7||CENTER:★×3|CENTER:''270''|CENTER:''624360点''|~|CENTER:700点|CENTER:170点|
+||CENTER:iOS|CENTER:★×5|~|CENTER:''739900点''|~|CENTER:760点|CENTER:210点|
+||CENTER:3DS2DL|~|~|CENTER:''748120点''|~|CENTER:840点|CENTER:258点|
+-BPMは131。
+-黄色連打は2本しかないが、1本あたりの長さが長い。
+-全体的に付点配置がかなり多く、リズムが取りづらい。
+----
+【旧譜面】
+-[[おに>難易度表/おに/LOVEマシーン]]（CS1譜面）と''全く同じ''。
+-速度は少し遅めだが、このレベルにしては16分がかなり多い。
+--16分はほとんどが単色の2連打だが、4連続で出てくる箇所もある。
+-たまに出てくる16分の複合2連打（●○と○●）に注意。
+----
+【新譜面】
+-AC7で譜面が書き直され16分の複合が削除されたが、こちらも16分がかなり多い。
+--16分は2連打が主体で、たまに3連打も出てくる。
+--また、8分の複合は種類がそれなりに多い。
+-16分の2連打が4連続で出てくる54小節と55小節に注意。
+----
+-アーティストは、''モーニング娘''。
+--作詞・作曲は、つんく♂。編曲は、ダンス☆マン。
+
+-[[かんたん>難易度表/かんたん/LOVEマシーン]]
+-[[ふつう>難易度表/ふつう/LOVEマシーン]]
+-[[おに>難易度表/おに/LOVEマシーン]]
+-[[オート動画(新譜面)>http://www.youtube.com/watch?v=TSZWEUO1JW4]]
+-[[オート動画(旧譜面)>http://www.youtube.com/watch?v=9JB5vSzNLFg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+新譜面
+~&attachref(lovemac7_h.png,nolink);
+
+~旧譜面
+~&attachref(lovem_h.png,nolink);

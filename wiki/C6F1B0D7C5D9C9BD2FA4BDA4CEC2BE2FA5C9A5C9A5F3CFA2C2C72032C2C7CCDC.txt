@@ -1,0 +1,16 @@
+*ドドン連打 2打目 [#title]
+-[[毎日チャレンジ道場(Wii3)>難易度表/その他/毎日チャレンジ道場(Wii3)]]のお題。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|h
+|''Wii3''|★×4|
+-BPMは180。
+-100連打以上でクリア。
+-[[プレイ動画>https://www.youtube.com/watch?v=3iBuUKAabVQ&t=35]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(連打2.png,nolink);

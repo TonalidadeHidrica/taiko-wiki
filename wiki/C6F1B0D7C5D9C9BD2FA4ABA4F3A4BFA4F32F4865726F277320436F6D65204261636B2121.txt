@@ -1,0 +1,24 @@
+*Hero's Come Back!!（かんたん） [#sce4a2f2]
+***詳細・攻略 [#oc782c4c]
+-''「NARUTO‐ナルト‐疾風伝」''のOP1。
+--後続曲(OP2)はAC11に収録された[[distance>難易度表/かんたん/distance]]。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC10''|★×3|''77''|''333140点''|＋連打|790点|430点|
+-BPMは104。
+-大音符が多く、66.23%(51/77)と全体のほぼ3分の2を占める。
+--特に、ゴーゴータイム中のドンカツ音符はすべて大音符である。
+-[[おに>難易度表/おに/Hero's Come Back!!]]とゴーゴータイムの始点が違う。 
+-アーティストは、[[ココロオドル>難易度表/かんたん/ココロオドル]]と同じく''nobodyknows+''。
+
+-[[ふつう>難易度表/ふつう/Hero's Come Back!!]]
+-[[むずかしい>難易度表/むずかしい/Hero's Come Back!!]]
+-[[おに>難易度表/おに/Hero's Come Back!!]]
+-[[プレイ動画>https://www.youtube.com/watch?v=Dx5IcUqfEd4]]
+
+*** コメント [#vd0d6fe4]
+#pcomment(,noname)
+
+*** 譜面 [#d9cef7d2]
+&attachref(heros come back!!.png,nolink);

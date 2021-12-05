@@ -1,0 +1,31 @@
+*Toxic [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''|CENTER:★×3|CENTER:''185''|CENTER:''601800点''|CENTER:＋連打|CENTER:1000点|CENTER:280点|
+|CENTER:AC7|CENTER:★×5|~|CENTER:''?????0点''|~|CENTER:970点|CENTER:240点|
+-BPMは144。
+-DP譜面の詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))||CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''米TDM''|CENTER:1P|CENTER:★×3|CENTER:''186&br;186''|CENTER:''602320点''|CENTER:＋連打|CENTER:990点|CENTER:280点|
+|~|~|CENTER:2P|~|~|CENTER:''603720点''|~|~|~|
+|CENTER:AC7||CENTER:1P|CENTER:★×5|~|CENTER:''??????点''|~|CENTER:970点|CENTER:240点|
+|~|~|CENTER:2P|~|~|CENTER:''??????点''|~|~|~|
+-16分のCOLOR(red){●}COLOR(blue){●}がかなり多い（1Pが16回、2Pが15回）。
+-AC7で★×5に昇格したが、それでも詐称である。
+--同じく16分のCOLOR(red){●}COLOR(blue){●}が多い[[Rare Hero>難易度表/ふつう/Rare Hero]]よりは一回り簡単なものの、あちらは元々★×7としてはかなり強い部類なので、こちらの譜面も実質★×7と思っていいだろう。
+-アーティストは''ブリトニー・スピアーズ''
+-読み方は''トキシック''
+-[[かんたん>難易度表/かんたん/Toxic]]
+-[[むずかしい・おに>難易度表/おに/Toxic]]
+-[[プレイ動画>http://www.youtube.com/watch?v=j3zSwbJYI_k]]
+-[[プレイ動画(DP)>http://www.youtube.com/watch?v=-co-Crf0zQw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+TDMでは★★★☆☆☆☆・ゴーゴーなし
+&ref(toxic_n.png,nolink);
+~２人用譜面&br;TDMでは★★★☆☆☆☆・ゴーゴーなし
+&ref(toxic_nd.png,nolink);

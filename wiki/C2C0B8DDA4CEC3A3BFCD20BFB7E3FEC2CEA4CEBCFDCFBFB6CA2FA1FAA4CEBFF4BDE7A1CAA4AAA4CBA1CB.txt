@@ -1,0 +1,892 @@
+*太鼓の達人 新筐体の収録曲/★の数順（おに）：SIZE(16){ブルーVer.（V6.01）} [#title]
+>&size(12){最終更新：&lastmod;};
+
+#contents
+
+-難易度むずかしいのリストは[[''こちら''>太鼓の達人 新筐体の収録曲/★の数順（むずかしい）]]。
+-難易度ふつうのリストは[[''こちら''>太鼓の達人 新筐体の収録曲/★の数順(ふつう)]]。
+
+SIZE(16){※公式の「むずかしさからえらぶ」では裏譜面が表示されないので注意}
+
+**おに★×10 [#oni10]
+~全115曲（表77曲、裏38曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):|BGCOLOR(#fff):|BGCOLOR(#fff):[[ギミチョコ！！(裏譜面)>難易度表/おに/ギミチョコ！！(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[さちさちにしてあげる♪(裏譜面)>難易度表/おに/さちさちにしてあげる♪(裏譜面)]]&br;　　SIZE(11){小林幸子}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Silent Jealousy(裏譜面)>難易度表/おに/Silent Jealousy(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|BGCOLOR(orange):||[[オーブの祈り>難易度表/おに/オーブの祈り]]&br;　　SIZE(11){「ウルトラマンオーブ」より}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ウルトラマンX(裏譜面)>難易度表/おに/ウルトラマンX(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[Groovy Duel>難易度表/おに/Groovy Duel]]&br;　　SIZE(11){「機動戦士ガンダム サンダーボルト」}|★×10||
+|BGCOLOR(silver):|BGCOLOR(#fff):|BGCOLOR(#fff):[[ヒバナ(裏譜面)>難易度表/おに/ヒバナ(裏譜面)]]&br;　　SIZE(11){DECO*27 feat.初音ミク}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[拝啓ドッペルゲンガー>難易度表/おに/拝啓ドッペルゲンガー]]&br;　　SIZE(11){kemu feat.GUMI}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ギガンティックO. T. N(裏譜面)>難易度表/おに/ギガンティックO. T. N(裏譜面)]]&br;　　SIZE(11){ギガれをる feat.鏡音レン}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[重金属フューギティブ>難易度表/おに/重金属フューギティブ]]&br;　　SIZE(11){リューイッティ feat.GUMI}|★×10||
+|~||[[カラ鞠の花>難易度表/おに/カラ鞠の花]]&br;　　SIZE(11){はるなば feat.結月ゆかり}|★×10||
+|~||[[SstTAarR*>難易度表/おに/SstTAarR*]]&br;　　SIZE(11){M-O-T-U feat.初音ミク}|★×10||
+|~||[[ゴーストマスク>難易度表/おに/ゴーストマスク]]&br;　　SIZE(11){はるなば feat.結月ゆかり＆石黒千尋}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[初音ミクの消失‐劇場版‐(裏譜面)>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|BGCOLOR(lime):|BGCOLOR(#fff):|BGCOLOR(#fff):[[D絶対！SAMURAIインザレイン(裏譜面)>難易度表/おに/D絶対！SAMURAIインザレイン(裏譜面)]]&br;　　SIZE(11){むらたたむ＆レディビアード}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[スーパーD&D 〜完全にリードしてアイマイミー〜>難易度表/おに/スーパーD＆D 〜完全にリードしてアイマイミー〜]]&br;　　SIZE(11){むらたたむ＆レディビアード}|★×10||
+|~||[[郢曲／暁闇>難易度表/おに/郢曲／暁闇]]&br;　　SIZE(11){東方Project×NAMCO SOUNDS LindaAI-CUE}|★×10||
+|~||[[ネクロファンタジア 〜 Arr.Demetori>難易度表/おに/ネクロファンタジア 〜 Arr.Demetori]]&br;　　SIZE(11){東方Projectアレンジ Demetori}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[チルノのパーフェクトさんすう教室(裏譜面)>難易度表/おに/チルノのパーフェクトさんすう教室(裏譜面)]]&br;　　SIZE(11){東方Projectアレンジ ARM＋夕野ヨシミ(IOSYS)feat.miko}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[チルノのパーフェクトさんすう教室 ��周年バージョン(裏譜面)>難易度表/おに/チルノのパーフェクトさんすう教室 9周年バージョン(裏譜面)]]&br;　　SIZE(11){東方Projectアレンジ IOSYSと愉快な��周年フレンズ}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[最終鬼畜妹フランドール・S>難易度表/おに/最終鬼畜妹フランドール・S]]&br;　　SIZE(11){東方Projectアレンジ ビートまりお}|★×10||
+|~||[[INSPION>難易度表/おに/INSPION]]&br;　　SIZE(11){サウンド制作スタジオ「INSPION」社歌}|★×10||
+|BGCOLOR(gold):||[[プチポチ>難易度表/おに/プチポチ]]|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[練習曲Op.10-4(裏譜面)>難易度表/おに/練習曲Op.10-4(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[白鳥の湖(裏譜面)>難易度表/おに/白鳥の湖〜still a duckling〜(裏譜面)]]&br;　　SIZE(11){〜still a duckling〜}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|★×10||
+|~||[[チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[美しく忙しきドナウ(裏譜面)>難易度表/おに/美しく忙しきドナウ(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|BGCOLOR(darkorchid):|BGCOLOR(#fff):|BGCOLOR(#fff):[[メタナイトの逆襲メドレー(裏譜面)>難易度表/おに/メタナイトの逆襲メドレー(裏譜面)]]&br;　　SIZE(11){「星のカービィ ウルトラスーパーデラックス」より}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ミュージック・リボルバー(裏譜面)>難易度表/おに/ミュージック・リボルバー(裏譜面)]]&br;　　SIZE(11){「ミュージックガンガン！2」より}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[KAGEKIYO(裏譜面)>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]&br;　　SIZE(11){源平討魔伝メドレー}|BGCOLOR(#fff):★×10&br;SIZE(10){譜面分岐あり}|BGCOLOR(#fff):|
+|~|【SP】|[[メタルホーク BGM1>難易度表/おに/メタルホーク　BGM1]]|★×10&br;SIZE(10){譜面分岐あり}|COLOR(blue){''かつメダル''}|
+|~||[[Doom Noiz>難易度表/おに/Doom Noiz]]&br;　　SIZE(11){「ギャラガレギオンズ」より}|★×10||
+|~||[[Angel Halo>難易度表/おに/Angel Halo]]&br;　　SIZE(11){「リッジレーサー3D」より}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Venomous(裏譜面)>難易度表/おに/Venomous(裏譜面)]]&br;　　SIZE(11){「リッジレーサー3D」より}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[Kamikaze Remix>難易度表/おに/Kamikaze Remix]]&br;　　SIZE(11){「RIDGE RACERS 2」より}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[BLAZING VORTEX(裏譜面)>難易度表/おに/BLAZING VORTEX(裏譜面)]]&br;　　SIZE(11){「クリティカルベロシティ」より}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Abyss of hell(裏譜面)>難易度表/おに/Abyss of hell(裏譜面)]]&br;　　SIZE(11){「鉄拳 レボリューション」より}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Honey Heartbeat 〜10 Stars Mix〜(裏譜面)>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜(裏譜面)]]&br;　　SIZE(11){「アイドルマスター」より}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[VERTeX>難易度表/おに/VERTeX]]&br;　　SIZE(11){Hiro 「maimai」より}|★×10||
+|~||[[FUJIN Rumble>難易度表/おに/FUJIN Rumble]]&br;　　SIZE(11){COSIO(ZUNTATA) 「グルーヴコースター」より}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Garakuta Doll Play(裏譜面)>難易度表/おに/Garakuta Doll Play(裏譜面)]]&br;　　SIZE(11){t+pazolite 「maimai」より}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Got more raves?(裏譜面)>難易度表/おに/Got more raves?(裏譜面)]]&br;　　SIZE(11){E.G.G. 「グルーヴコースター」より}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[FLOWER(裏譜面)>難易度表/おに/FLOWER(裏譜面)]]&br;　　SIZE(11){DJ YOSHITAKA 「jubeat」より}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[極圏>難易度表/おに/極圏]]&br;　　SIZE(11){cosMo VS dj TAKA 「SOUND VOLTEX」より}|★×10||
+|~||[[怒槌>難易度表/おに/怒槌]]&br;　　SIZE(11){光吉猛修 「CHUNITHM」より}|★×10||
+|~||[[Scarlet Lance>難易度表/おに/Scarlet Lance]]&br;　　SIZE(11){MASAKI(ZUNTATA) 「グルーヴコースター」より}|★×10||
+|~||[[God Ray>難易度表/おに/God Ray]]&br;　　SIZE(11){「シンクロニカ」より}|★×10||
+|BGCOLOR(orangered):||[[Behemoth>難易度表/おに/Behemoth]]|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[人のお金で焼肉を食したい！(裏譜面)>難易度表/おに/人のお金で焼肉を食したい！(裏譜面)]]&br;　　SIZE(11){INSPIONスペシャルコラボ}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[トイマチック☆パレード!!>難易度表/おに/トイマチック☆パレード!!]]&br;　　SIZE(11){DJ Genki}|★×10||
+|~||[[ダンガンノーツ>難易度表/おに/ダンガンノーツ]]&br;　　SIZE(11){cosMo@暴走P}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ダンガンノーツ(裏譜面)>難易度表/おに/ダンガンノーツ(裏譜面)]]&br;　　SIZE(11){cosMo@暴走P}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[哀 want U>難易度表/おに/哀 want U]]|★×10|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~|【SP】|[[よーいドン！>難易度表/おに/よーいドン！]]|★×10|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~|【SP】|[[SORA‐�� シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|★×10|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~|【SP】|[[秘ナルメジェドノ悲ナル憂鬱>難易度表/おに/秘ナルメジェドノ悲ナル憂鬱]]|★×10|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~|【SP】|[[愛と浄罪の森>難易度表/おに/愛と浄罪の森]]|★×10|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~||[[須佐之男>難易度表/おに/須佐之男]]&br;　　SIZE(11){Tatsh a.k.a 世阿弥}|★×10||
+|~|【SP】|[[Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|★×10|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~|【SP】|[[OK I’m blue rat>難易度表/おに/OK I’m blue rat]]&br;　　SIZE(11){E.G.G.}|★×10|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[彼は誰時の誘惑(裏譜面)>難易度表/おに/彼は誰時の誘惑(裏譜面)]]&br;　　SIZE(11){t+pazolite}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~||[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]&br;　　SIZE(11){steμ  feat.  siroa}|★×10||
+|~||[[懐中庭園を持つ少女>難易度表/おに/懐中庭園を持つ少女]]&br;　　SIZE(11){はるなば feat.石黒千尋}|★×10||
+|~|【SP】|[[R.I.>難易度表/おに/R.I.]]&br;　　SIZE(11){大和 × 黒沢ダイスケ}|★×10|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[HARDCOREノ心得>難易度表/おに/HARDCOREノ心得]]&br;　　SIZE(11){DJ Myosuke}|★×10|COLOR(blue){''かつメダル''}|
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[ゴーゴー・キッチン(裏譜面)>難易度表/おに/ゴーゴー・キッチン(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):COLOR(blue){''かつメダル''}|
+|~||[[濃紅>難易度表/おに/濃紅]]&br;　　SIZE(11){黒沢ダイスケ × 小寺可南子}|★×10||
+|~|【SP】|[[8OROCHI>難易度表/おに/8OROCHI]]&br;　　SIZE(11){REDALiCE}|★×10|COLOR(blue){''かつメダル''}|
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[8OROCHI(裏譜面)>難易度表/おに/8OROCHI(裏譜面)]]&br;　　SIZE(11){REDALiCE}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):COLOR(blue){''かつメダル''}|
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[三瀬川乱舞(裏譜面)>難易度表/おに/三瀬川乱舞(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):COLOR(blue){''かつメダル''}|
+|~|【SP】|[[χ談>難易度表/おに/χ談]]&br;　　SIZE(11){かねこちはる}|★×10|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]&br;　　SIZE(11){坂本英三 × 高濱祐輔}|★×10&br;SIZE(10){譜面分岐あり}|COLOR(blue){''かつメダル''}|
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[竜と黒炎の姫君(裏譜面)>難易度表/おに/竜と黒炎の姫君(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):COLOR(blue){''かつメダル''}|
+|~||[[そつおめしき>難易度表/おに/そつおめしき]]&br;　　SIZE(11){feat.unmo}|★×10||
+|~||[[そつおめしき2ばん>難易度表/おに/そつおめしき2ばん]]&br;　　SIZE(11){feat.unmo}|★×10||
+|~||[[No Gravity>難易度表/おに/No Gravity]]|★×10||
+|~||[[VICTORIA>難易度表/おに/VICTORIA]]&br;　　SIZE(11){Cranky}|★×10||
+|~||[[束ね糸>難易度表/おに/束ね糸]]&br;　　SIZE(11){はるなば feat.石黒千尋}|★×10||
+|~||[[超絶技巧系少女>難易度表/おに/超絶技巧系少女]]&br;　　SIZE(11){ねこかぶりサイクロン(xi+ねこみりん)}|★×10||
+|~||[[ココロボ>難易度表/おに/ココロボ]]&br;　　SIZE(11){Ujico*}|★×10||
+|~||[[アサガオ>難易度表/おに/アサガオ]]&br;　　SIZE(11){BTB}|★×10||
+|~||[[冷凍庫CJ 〜嗚呼面太鼓ブラザーズ〜>難易度表/おに/冷凍庫CJ 〜嗚呼面太鼓ブラザーズ〜]]&br;　　SIZE(11){DJKurara}|★×10||
+|~||[[Gloria>難易度表/おに/Gloria]]&br;　　SIZE(11){K.key}|★×10||
+|~||[[承認欲Q>難易度表/おに/承認欲Q]]&br;　　SIZE(11){かねこちはる feat.はぁち}|★×10||
+|~||[[Evidence of evil>難易度表/おに/Evidence of evil]]&br;　　SIZE(11){AJURIKA}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[セイクリッド ルイン(裏譜面)>難易度表/おに/セイクリッド ルイン(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ピコピコ ルイン(裏譜面)>難易度表/おに/ピコピコ ルイン(裏譜面)]]&br;　　SIZE(11){セイクリッド ルイン × サカモト教授}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[Calculator>難易度表/おに/Calculator]]&br;　　SIZE(11){M-O-T-U}|★×10||
+|~||[[Hurtling Boys>難易度表/おに/Hurtling Boys]]&br;　　SIZE(11){さだきち イシカダス}|★×10||
+|~||[[D's Adventure Note>難易度表/おに/D's Adventure Note]]&br;　　SIZE(11){暖@よみぃ}|★×10||
+|~||[[DEBSTEP!>難易度表/おに/DEBSTEP!]]&br;　　SIZE(11){やじゅ}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ナイトメア・サバイバー(裏譜面)>難易度表/おに/ナイトメア・サバイバー(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[秋竜 〜Shiuryu〜(裏譜面)>難易度表/おに/秋竜 〜Shiuryu〜(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[蒼の旋律(裏譜面)>難易度表/おに/蒼の旋律(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[朱の旋律>難易度表/おに/朱の旋律]]|★×10||
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[夜桜謝肉祭(裏譜面)>難易度表/おに/夜桜謝肉祭(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):隠し曲|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[タイコタイム(裏譜面)>難易度表/おに/タイコタイム(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Rotter Tarmination(裏譜面)>難易度表/おに/Rotter Tarmination(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ドドンガド〜ン(裏譜面)>難易度表/おに/ドドンガド〜ン(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[Black Rose Apostle>難易度表/おに/Black Rose Apostle]]|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Black Rose Apostle(裏譜面)>難易度表/おに/Black Rose Apostle(裏譜面)]]|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|★×10||
+|~||[[燎原ノ舞>難易度表/おに/燎原ノ舞]]|★×10||
+|~||[[旋風ノ舞【天】>難易度表/おに/旋風ノ舞【天】]]|★×10||
+|~|【SP】|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]&br;　　SIZE(11){世阿弥}|★×10|隠し曲 / COLOR(blue){''かつメダル''}|
+|~||[[双竜ノ乱>難易度表/おに/双竜ノ乱]]&br;　　SIZE(11){世阿弥}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[双竜ノ乱(裏譜面)>難易度表/おに/双竜ノ乱(裏譜面)]]&br;　　SIZE(11){世阿弥}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[紫煌ノ乱>難易度表/おに/紫煌ノ乱]]&br;　　SIZE(11){世阿弥}|★×10||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Xa(裏譜面)>難易度表/おに/Xa(裏譜面)]]&br;　　SIZE(11){Tatsh}|BGCOLOR(#fff):★×10|BGCOLOR(#fff):|
+|~||[[天照>難易度表/おに/天照]]&br;　　SIZE(11){Tatsh a.k.a 世阿弥}|★×10||
+|~||[[月読命>難易度表/おに/月読命]]&br;　　SIZE(11){Tatsh a.k.a 世阿弥}|★×10||
+|~||[[!!!カオスタイム!!!>難易度表/おに/!!!カオスタイム!!!]]&br;　　SIZE(11){t+pazolite}|★×10||
+|~||[[mint tears>難易度表/おに/mint tears]]|★×10||
+|~||[[Ignis Danse>難易度表/おに/Ignis Danse]]&br;　　SIZE(11){Yuji Masubuchi 「太鼓の達人」より}|★×10||
+|~||[[タベルナ2000>難易度表/おに/タベルナ2000]]|★×10||
+|~||[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|★×10||
+|~|【SP】|[[十露盤2000>難易度表/おに/十露盤2000]]|★×10&br;SIZE(10){譜面分岐あり}|隠し曲|
+|~||[[てんぢく2000>難易度表/おに/てんぢく2000]]|★×10||
+|~|【SP】|[[EkiBEN2000>難易度表/おに/EkiBEN2000]]|★×10|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[X-DAY2000>難易度表/おに/X-DAY2000]]|★×10|隠し曲 / COLOR(blue){''かつメダル''}|
+|~||[[はたラク2000>難易度表/おに/はたラク2000]]|★×10||
+|~||[[〆ドレー2000>難易度表/おに/〆ドレー2000]]|★×10||
+|~|【SP】|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|★×10&br;SIZE(10){譜面分岐あり}|隠し曲 / COLOR(blue){''かつメダル''}|
+|~||[[またさいたま2000>難易度表/おに/またさいたま2000]]|★×10||
+|~||[[スーハー2000>難易度表/おに/スーハー2000]]|★×10||
+|~||[[ドンカマ2000>難易度表/おに/ドンカマ2000]]|★×10||
+|~||[[ノるどん2000>難易度表/おに/ノるどん2000]]|★×10||
+|~||[[まださいたま2000>難易度表/おに/まださいたま2000]]|★×10&br;SIZE(10){譜面分岐あり}||
+|~|【SP】|[[≠MM>難易度表/おに/≠MM]]|★×10|COLOR(blue){''かつメダル''}|
+|~||[[Infinite Rebellion>難易度表/おに/Infinite Rebellion]]&br;　　SIZE(11){黒沢ダイスケ 原曲「幽玄ノ乱/世阿弥(Tatsh)}|★×10||
+
+**おに★×9 [#oni9]
+~全180曲（表133曲、裏47曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):||[[ワタリドリ>難易度表/おに/ワタリドリ]]&br;　　SIZE(11){[Alexandros]}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ANTI-HERO(裏譜面)>難易度表/おに/ANTI-HERO(裏譜面)]]&br;　　SIZE(11){SEKAI NO OWARI}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[華振舞>難易度表/おに/華振舞]]&br;　　SIZE(11){和楽器バンド}|★×9||
+|~||[[シン・ゾンビ>難易度表/おに/シン・ゾンビ]]&br;　　SIZE(11){GLAY × 太鼓の達人タイアップソング}|★×9&br;SIZE(10){譜面分岐あり}||
+|BGCOLOR(orange):|BGCOLOR(#fff):|BGCOLOR(#fff):[[Heavenly Visitor(裏譜面)>難易度表/おに/Heavenly Visitor(裏譜面)]]&br;　　SIZE(11){「アイドリッシュセブン」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[青空のラプソディ(裏譜面)>難易度表/おに/青空のラプソディ(裏譜面)]]&br;　　SIZE(11){「小林さんちのメイドラゴン」OP主題歌}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[ヒカリアレ>難易度表/おに/ヒカリアレ]]&br;　　SIZE(11){「ハイキュー!! 烏野高校 VS 白鳥沢学園高校」より}|★×9||
+|~||[[XY&Z>難易度表/おに/XY＆Z]]&br;　　SIZE(11){「ポケットモンスター XY&Z」より}|★×9||
+|~||[[ウルトラマンギンガの歌>難易度表/おに/ウルトラマンギンガの歌]]|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[さんぽ(裏譜面)>難易度表/おに/さんぽ(裏譜面)]]&br;　　SIZE(11){「となりのトトロ」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|BGCOLOR(silver):||[[アスノヨゾラ哨戒班>難易度表/おに/アスノヨゾラ哨戒班]]&br;　　SIZE(11){Orangestar feat.IA}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[＋♂(プラス男子)(裏譜面)>難易度表/おに/＋♂(プラス男子)(裏譜面)]]&br;　　SIZE(11){ギガれをる feat.鏡音レン}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[六兆年と一夜物語>難易度表/おに/六兆年と一夜物語]]&br;　　SIZE(11){kemu feat.IA}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[六兆年と一夜物語(裏譜面)>難易度表/おに/六兆年と一夜物語(裏譜面)]]&br;　　SIZE(11){kemu feat.IA}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ゴーストルール(裏譜面)>難易度表/おに/ゴーストルール(裏譜面)]]&br;　　SIZE(11){DECO*27 feat.初音ミク}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[脳漿炸裂ガール(裏譜面)>難易度表/おに/脳漿炸裂ガール(裏譜面)]]&br;　　SIZE(11){れるりり feat.初音ミク・GUMI}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[エイリアンエイリアン>難易度表/おに/エイリアンエイリアン]]&br;　　SIZE(11){ナユタン星人 feat.初音ミク}|★×9||
+|~||[[ギガンティックO. T. N>難易度表/おに/ギガンティックO. T. N]]&br;　　SIZE(11){ギガれをる feat.鏡音レン}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ルカルカ★ナイトフィーバー(裏譜面)>難易度表/おに/ルカルカ★ナイトフィーバー(裏譜面)]]&br;　　SIZE(11){samfree feat.巡音ルカ}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[ワールズエンド・ダンスホール>難易度表/おに/ワールズエンド・ダンスホール]]&br;　　SIZE(11){wowaka feat.初音ミク、巡音ルカ}|★×9||
+|~||[[ゲラゲラと笑うな>難易度表/おに/ゲラゲラと笑うな]]&br;　　SIZE(11){石風呂 feat.IA}|★×9||
+|~||[[愛×愛ホイッスル (カレーメシ公式曲)>難易度表/おに/愛×愛ホイッスル（カレーメシ公式曲）]]&br;　　SIZE(11){&#80;olyphonicBranch feat.初音ミク・鏡音リン}|★×9||
+|~||[[珈琲の味と>難易度表/おに/珈琲の味と]]&br;　　SIZE(11){はるなば feat.GUMI}|★×9||
+|~||[[花オト裏拍子>難易度表/おに/花オト裏拍子]]&br;　　SIZE(11){はるなば feat.初音ミク}|★×9||
+|~||[[おにぎりはどこかしら♪>難易度表/おに/おにぎりはどこかしら♪]]&br;　　SIZE(11){よみぃ feat.初音ミク}|★×9||
+|~||[[わんにゃーワールド>難易度表/おに/わんにゃーワールド]]&br;　　SIZE(11){feat.鏡音リン・鏡音レン starring下田麻美}|★×9||
+|~||[[EDY -エレクトリカルダンシングヨガ->難易度表/おに/EDY -エレクトリカルダンシングヨガ-]]&br;　　SIZE(11){feat.鏡音リン･鏡音レン}|★×9||
+|~||[[初音ミクの消失‐劇場版‐>難易度表/おに/初音ミクの消失‐劇場版‐]]|★×9||
+|BGCOLOR(magenta):|BGCOLOR(#fff):|BGCOLOR(#fff):[[もりのくまさん(裏譜面)>難易度表/おに/もりのくまさん(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|BGCOLOR(lime):|【SP】|[[Asteroid>難易度表/おに/Asteroid]]&br;　　SIZE(11){KORG Gadget Kamata デモソング}|★×9|COLOR(blue){''かつメダル''}|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ラッスンゴレライ(裏譜面)>難易度表/おに/ラッスンゴレライ(裏譜面)]]&br;　　SIZE(11){8.6秒バズーカー}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[やわらか戦車(裏譜面)>難易度表/おに/やわらか戦車(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[仙酌絶唱のファンタジア>難易度表/おに/仙酌絶唱のファンタジア]]&br;　　SIZE(11){東方Projectアレンジ 博麗神社例大祭コラボユニット}|★×9||
+|~||[[WARNING×WARNING×WARNING>難易度表/おに/WARNING×WARNING×WARNING]]&br;　　SIZE(11){東方Projectアレンジ 暁Records}|★×9||
+|~||[[幻想のサテライト>難易度表/おに/幻想のサテライト]]&br;　　SIZE(11){東方Projectアレンジ 豚乙女}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Scream out! -達人Edit.-(裏譜面)>難易度表/おに/Scream out! -達人Edit.-(裏譜面)]]&br;　　SIZE(11){東方Projectアレンジ A-One}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[ケロ&#x2468;destiny>難易度表/おに/ケロ9destiny]]&br;　　SIZE(11){東方Projectアレンジ Silver Forest}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Grip & Break down !! -達人Edit.-(裏譜面)>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]&br;　　SIZE(11){東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[チルノのパーフェクトさんすう教室 ��周年バージョン>難易度表/おに/チルノのパーフェクトさんすう教室 9周年バージョン]]&br;　　SIZE(11){東方Projectアレンジ IOSYSと愉快な��周年フレンズ}|★×9||
+|~||[[元祖！天才チルノちゃん☆>難易度表/おに/元祖！天才チルノちゃん☆]]&br;　　SIZE(11){東方Projectアレンジ コバヤシユウヤ(IOSYS) feat.miko(Alternative ending)}|★×9||
+|~||[[ナイト・オブ・ナイツ>難易度表/おに/ナイト・オブ・ナイツ]]&br;　　SIZE(11){東方Projectアレンジ ビートまりお}|★×9&br;SIZE(10){譜面分岐あり}||
+|~||[[conflict>難易度表/おに/conflict]]&br;　　SIZE(11){siromaru + cranky}|★×9||
+|BGCOLOR(gold):||[[メヌエット>難易度表/おに/メヌエット]]|★×9||
+|~||[[熊蜂の飛行>難易度表/おに/熊蜂の飛行]]&br;　　SIZE(11){リムスキー＝コルサコフ}|★×9||
+|~||[[練習曲Op.10-4>難易度表/おに/練習曲Op.10-4]]|★×9||
+|~|【SP】|[[トッカータとフーガとロック>難易度表/おに/トッカータとフーガとロック]]|★×9|COLOR(blue){''かつメダル''}|
+|~||[[幻想即興曲>難易度表/おに/幻想即興曲]]|★×9||
+|~|【SP】|[[ヘ調の協奏曲 第3楽章>難易度表/おに/ヘ調の協奏曲　第3楽章]]&br;　　SIZE(11){ガーシュウィン}|★×9|COLOR(blue){''かつメダル''}|
+|~||[[白鳥の湖>難易度表/おに/白鳥の湖〜still a duckling〜]]&br;　　SIZE(11){〜still a duckling〜}|★×9||
+|~||[[千鼓千鼓>難易度表/おに/千鼓千鼓]]|★×9||
+|BGCOLOR(darkorchid):||[[KARMA(Tatsujin Mix)>難易度表/おに/KARMA(Tatsujin Mix)]]&br;　　SIZE(11){「鉄拳6 BLOODLINE REBELLION」より}|★×9||
+|~||[[Where is the Target？>難易度表/おに/Where is the Target？]]&br;　　SIZE(11){「ローリングサンダー２」より}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[スプラトゥーン2 メドレー(裏譜面)>難易度表/おに/スプラトゥーン2 メドレー(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[妖怪ウォッチ2 元祖／本家／真打>難易度表/おに/妖怪ウォッチ2 元祖／本家／真打]]&br;　　SIZE(11){BGMメドレー}|★×9||
+|~||[[ファミコンメドレー>難易度表/おに/ファミコンメドレー]]|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[「ポケットモンスター オメガルビー・アルファサファイア」(裏譜面)>難易度表/おに/「ポケットモンスター オメガルビー・アルファサファイア」(裏譜面)]]&br;　　SIZE(11){チャンピオンメドレー}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[チェインクロニクル 通常バトルメドレー(裏譜面)>難易度表/おに/チェインクロニクル 通常バトルメドレー(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[チェインクロニクル 最終決戦メドレー(裏譜面)>難易度表/おに/チェインクロニクル 最終決戦メドレー(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[チェインクロニクル 総力戦メドレー(裏譜面)>難易度表/おに/チェインクロニクル 総力戦メドレー(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Extreme MGG★★★(裏譜面)>難易度表/おに/Extreme MGG★★★(裏譜面)]]&br;　　SIZE(11){「ミュージックガンガン！2」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|【SP】|[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]&br;　　SIZE(11){源平討魔伝リミックス COSIO}|★×9&br;SIZE(10){譜面分岐あり}|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~||[[Diver>難易度表/おに/Diver]]&br;　　SIZE(11){「トレジャーガウスト ガウストダイバー」より}|★×9||
+|~||[[Wings of Tomorrow (Tatsujin Mix)>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]&br;　　SIZE(11){「GOD EATER 2」より}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[No Way Back(裏譜面)>難易度表/おに/No Way Back(裏譜面)]]&br;　　SIZE(11){「GOD EATER」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[Pastel Sealane>難易度表/おに/Pastel Sealane]]&br;　　SIZE(11){「ブレイザー」より}|★×9||
+|~||[[IN THE ZONE>難易度表/おに/IN THE ZONE]]&br;　　SIZE(11){「ACE COMBAT X2 JOINT ASSAULT」より}|★×9||
+|~||[[Venomous>難易度表/おに/Venomous]]&br;　　SIZE(11){「リッジレーサー3D」より}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Ridge Racer(裏譜面)>難易度表/おに/Ridge Racer(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[SAMURAI ROCKET(裏譜面)>難易度表/おに/SAMURAI ROCKET(裏譜面)]]&br;　　SIZE(11){「RIDGE RACER V」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):COLOR(blue){''かつメダル''}|
+|~||[[Night And Day>難易度表/おに/Night And Day]]&br;　　SIZE(11){「ACE COMBAT 2」より}|★×9||
+|~||[[Sunset Runaway>難易度表/おに/Sunset Runaway]]&br;　　SIZE(11){「クリティカルベロシティ」より}|★×9||
+|~||[[Wasabi Body Blow>難易度表/おに/Wasabi Body Blow]]&br;　　SIZE(11){「鉄拳 3D プライムエディション」より}|★×9||
+|~||[[Abandoned Temple Final 2nd>難易度表/おに/Abandoned Temple Final 2nd]]&br;　　SIZE(11){「鉄拳7 FR」より}|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Star!!(裏譜面)>難易度表/おに/Star!!(裏譜面)]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Shine!!(裏譜面)>難易度表/おに/Shine!!(裏譜面)]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ミツボシ☆☆★(裏譜面)>難易度表/おに/ミツボシ☆☆★(裏譜面)]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[華蕾夢ミル狂詩曲〜魂ノ導〜(裏譜面)>難易度表/おに/華蕾夢ミル狂詩曲〜魂ノ導〜(裏譜面)]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[TOKIMEKIエスカレート(裏譜面)>難易度表/おに/TOKIMEKIエスカレート(裏譜面)]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Tulip(裏譜面)>難易度表/おに/Tulip(裏譜面)]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[自分REST@RT(裏譜面)>難易度表/おに/自分REST@RT(裏譜面)]]&br;　　SIZE(11){「アイドルマスター」より}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[待ち受けプリンス>難易度表/おに/待ち受けプリンス]]&br;　　SIZE(11){「アイドルマスター」より}|★×9||
+|~||[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]&br;　　SIZE(11){「アイドルマスター」より}|★×9||
+|~||[[キラメキラリ>難易度表/おに/キラメキラリ]]&br;　　SIZE(11){「アイドルマスター」より}|★×9||
+|~||[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]]&br;　　SIZE(11){Yuji Masubuchi(BNSI)&br;　　「RIDGE RACER」}|★×9||
+|~||[[オパ！オパ！RACER -GMT mashup->難易度表/おに/オパ！オパ！RACER -GMT mashup-]]&br;　　SIZE(11){COSIO(ZUNTATA/TAITO)&br;　　「ファンタジーゾーン」 「RIDGE RACER」}|★×9||
+|~||[[リッジでリッジで GO!GO!GO! -GMT mashup->難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]&br;　　SIZE(11){Hiro(SEGA)&br;　　「RIDGE RACER」 「電車でGO!」}|★×9||
+|~||[[Scars of FAUNA>難易度表/おに/Scars of FAUNA]]&br;　　SIZE(11){猫叉Master 「jubeat」より}|★×9||
+|~||[[Garakuta Doll Play>難易度表/おに/Garakuta Doll Play]]&br;　　SIZE(11){t+pazolite 「maimai」より}|★×9||
+|~||[[Got more raves?>難易度表/おに/Got more raves?]]&br;　　SIZE(11){E.G.G. 「グルーヴコースター」より}|★×9||
+|~||[[FLOWER>難易度表/おに/FLOWER]]&br;　　SIZE(11){DJ YOSHITAKA 「jubeat」より}|★×9||
+|~||[[マサカリブレイド>難易度表/おに/マサカリブレイド]]&br;　　SIZE(11){REDALiCE 「SOUND VOLTEX」より}|★×9||
+|~||[[夜明けまであと3秒>難易度表/おに/夜明けまであと3秒]]&br;　　SIZE(11){「シンクロニカ」より}|★×9||
+|~||[[New World>難易度表/おに/New World]]&br;　　SIZE(11){「シンクロニカ」より}|★×9||
+|BGCOLOR(orangered):||[[シャイニング☆アブラカタブラ>難易度表/おに/シャイニング☆アブラカタブラ]]&br;　　SIZE(11){〜阿羅仁＆マジカルランプ姫〜}|★×9||
+|~||[[行かないでイカロス>難易度表/おに/行かないでイカロス]]&br;　　SIZE(11){AJURIKA}|★×9||
+|~||[[マジカル・パフェ>難易度表/おに/マジカル・パフェ]]|★×9||
+|~||[[マオウのショウタイム>難易度表/おに/マオウのショウタイム]]|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[フリフリ♪ノリノリ♪(裏譜面)>難易度表/おに/フリフリ♪ノリノリ♪(裏譜面)]]&br;　　SIZE(11){「太鼓の達人 Nintendo Switch ば〜じょん！」テーマソング}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[ヌムジカac.10>難易度表/おに/ヌムジカac.10]]|★×9||
+|~|【SP】|[[彼は誰時の誘惑>難易度表/おに/彼は誰時の誘惑]]&br;　　SIZE(11){t+pazolite}|★×9|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~||[[つながれ！ひろがれ！打ち上がれ！>難易度表/おに/つながれ！ひろがれ！打ち上がれ！]]&br;　　SIZE(11){「太鼓の達人 セッションでドドンがドン！」テーマソング}|★×9||
+|~|【SP】|[[FooFooカセット>難易度表/おに/FooFooカセット]]&br;　　SIZE(11){はるなば feat.&#x0053;aChi(harineko)}|★×9|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[忘却のティルナノグ>難易度表/おに/忘却のティルナノグ]]|★×9|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[激運！七福ハッピークルー>難易度表/おに/激運！七福ハッピークルー]]&br;　　SIZE(11){コバヤシユウヤ(IOSYS) feat.山本椛(monotone)}|★×9|COLOR(blue){''かつメダル''}|
+|~||[[ガンスリンガーシンデレラ>難易度表/おに/ガンスリンガーシンデレラ]]|★×9||
+|~|【SP】|[[Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]&br;　　SIZE(11){AJURIKA}|★×9|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[さよならワーリャ>難易度表/おに/さよならワーリャ]]&br;　　SIZE(11){未来古代楽団 feat.霜月はるか}|★×9|COLOR(blue){''かつメダル''}|
+|~||[[天狗囃子>難易度表/おに/天狗囃子]]|★×9||
+|~||[[夢と現実の境界線>難易度表/おに/夢と現実の境界線]]|★×9||
+|~||[[アントニオ>難易度表/おに/アントニオ]]&br;　　SIZE(11){ゆるめるモ！}|★×9||
+|~||[[オーディオ de カッ！>難易度表/おに/オーディオ de カッ！]]&br;　　SIZE(11){音響サスペンスドラマ「オーディオ刑事」より}|★×9||
+|~||[[マリオネットピュア>難易度表/おに/マリオネットピュア]]|★×9||
+|~||[[カグツチ>難易度表/おに/カグツチ]]&br;　　SIZE(11){Massive New Krew}|★×9||
+|~||[[KUSANAGI>難易度表/おに/KUSANAGI]]&br;　　SIZE(11){aran}|★×9||
+|~||[[オール・イン・マイハート>難易度表/おに/オール・イン・マイハート]]&br;　　SIZE(11){ソメイヨシノ feat.高木美佑(Wake Up, Girls!)}|★×9||
+|~||[[Heaven's Rider>難易度表/おに/Heaven's Rider]]|★×9||
+|~||[[凛>難易度表/おに/凛]]&br;　　SIZE(11){a_hisa}|★×9||
+|~||[[食らいむ！まうんとぱふぇ>難易度表/おに/食らいむ！まうんとぱふぇ]]&br;　　SIZE(11){unatra}|★×9||
+|~||[[ひよっこファンタジー>難易度表/おに/ひよっこファンタジー]]&br;　　SIZE(11){つよみー}|★×9||
+|~||[[Princess of Donder>難易度表/おに/Princess of Donder]]&br;　　SIZE(11){MOES feat.海保えりか}|★×9||
+|~||[[女帝 〜インバラトゥーラ〜>難易度表/おに/女帝 〜インバラトゥーラ〜]]|★×9||
+|~||[[魔方陣 -サモン･デルタ->難易度表/おに/魔方陣 -サモン･デルタ-]]|★×9||
+|~||[[闇の魔法少女>難易度表/おに/闇の魔法少女]]&br;　　SIZE(11){Silver Forest feat.アキ}|★×9||
+|~||[[G意識過剰>難易度表/おに/G意識過剰]]|★×9||
+|~||[[セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]|★×9||
+|~||[[ピコピコ ルイン>難易度表/おに/ピコピコ ルイン]]&br;　　SIZE(11){セイクリッド ルイン × サカモト教授}|★×9||
+|~||[[電子ドラムの達人>難易度表/おに/電子ドラムの達人]]&br;　　SIZE(11){ふぇのたす}|★×9||
+|~||[[鳳凰天舞無限崩れ>難易度表/おに/鳳凰天舞無限崩れ]]|★×9||
+|~||[[少女の神の粒子>難易度表/おに/少女の神の粒子]]|★×9||
+|~||[[合唱スタボーフェ！>難易度表/おに/合唱スタボーフェ！]]&br;　　SIZE(11){with たま☆たい feat.団地ノ宮}|★×9||
+|~||[[時空庁時空1課>難易度表/おに/時空庁時空1課]]&br;　　SIZE(11){feat.unmo}|★×9||
+|~||[[大空と太鼓の踊り>難易度表/おに/大空と太鼓の踊り]]&br;　　SIZE(11){paraμ}|★×9||
+|~||[[ツンデレCafeへようこそ☆>難易度表/おに/ツンデレCafeへようこそ☆]]&br;　　SIZE(11){ねこじゃが*}|★×9||
+|~||[[夜櫻ブレヰダアズ>難易度表/おに/夜櫻ブレヰダアズ]]&br;　　SIZE(11){ぽんきち}|★×9||
+|~||[[ミーナのおやしき>難易度表/おに/ミーナのおやしき]]|★×9||
+|~||[[3piece-&#x4a;azzParty!>難易度表/おに/3piece-JazzParty!]]|★×9||
+|~||[[ドキドキ胸きゅん おまつりタイム>難易度表/おに/ドキドキ胸きゅん おまつりタイム]]|★×9||
+|~||[[DIMENSIONS>難易度表/おに/DIMENSIONS]]|★×9||
+|~||[[junction>難易度表/おに/junction]]|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ソードバトラーズ(裏譜面)>難易度表/おに/ソードバトラーズ(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Phantom Rider(裏譜面)>難易度表/おに/Phantom Rider(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[冬竜 〜Toryu〜(裏譜面)>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[春竜 〜Haryu〜(裏譜面)>難易度表/おに/春竜 〜Haryu〜(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[夏竜 〜Karyu〜(裏譜面)>難易度表/おに/夏竜 〜Karyu〜(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[秋竜 〜Shiuryu〜>難易度表/おに/秋竜 〜Shiuryu〜]]|★×9||
+|~||[[隼>難易度表/おに/隼]]|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[零の夜想曲(裏譜面)>難易度表/おに/零の夜想曲(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[零の狂詩曲>難易度表/おに/零の狂詩曲]]|★×9||
+|~||[[クロス・ブルー>難易度表/おに/クロス・ブルー]]|★×9||
+|~||[[蒼の旋律>難易度表/おに/蒼の旋律]]|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[スポーツダイジェスドン(裏譜面)>難易度表/おに/スポーツダイジェスドン(裏譜面)]]&br; 　　SIZE(11){〜Fill in The Sky〜}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[迅風丸(裏譜面)>難易度表/おに/迅風丸(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|【SP】|[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]|★×9|隠し曲|
+|~|【SP】|[[夜桜謝肉祭>難易度表/おに/夜桜謝肉祭]]|★×9|隠し曲|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[DON'T CUT(裏譜面)>難易度表/おに/DON'T CUT(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[エンジェル ドリーム(裏譜面)>難易度表/おに/エンジェル ドリーム(裏譜面)]]|BGCOLOR(#fff):★×9&br;SIZE(10){譜面分岐あり}|BGCOLOR(#fff):|
+|~||[[散りゆく蘭の綴る詩>難易度表/おに/散りゆく蘭の綴る詩]]|★×9||
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[Many wow bang!(裏譜面)>難易度表/おに/Many wow bang!(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):隠し曲|
+|~||[[めたるぽりす>難易度表/おに/めたるぽりす]]|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[めたるぽりす(裏譜面)>難易度表/おに/めたるぽりす(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[タイコタイム>難易度表/おに/タイコタイム]]|★×9&br;SIZE(10){譜面分岐あり}||
+|~||[[真・画竜点睛>難易度表/おに/真・画竜点睛]]|★×9&br;SIZE(10){譜面分岐あり}||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[真・画竜点睛(裏譜面)>難易度表/おに/真・画竜点睛]]|BGCOLOR(#fff):★×9&br;SIZE(10){譜面分岐あり}|BGCOLOR(#fff):|
+|~||[[戦国三弦>難易度表/おに/戦国三弦]]|★×9&br;SIZE(10){譜面分岐あり}||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[月影SASURAI(裏譜面)>難易度表/おに/月影SASURAI(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|【SP】|[[STAGE 0.ac11>難易度表/おに/STAGE 0.ac11]]|★×9|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]|★×9|COLOR(blue){''かつメダル''}|
+|~||[[アルムジカac14.0V>難易度表/おに/アルムジカac14.0V]]|★×9||
+|~||[[SORA-&#8549; 火ノ鳥>難易度表/おに/SORA-VI 火ノ鳥]]|★×9||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[花漾(裏譜面)>難易度表/おに/花漾 〜Flourishing Blossoms〜(裏譜面)]]&br;　　SIZE(11){〜Flourishing Blossoms〜}|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[dance storm(裏譜面)>難易度表/おに/dance storm(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):隠し曲|
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[らいとにんぐ ぱっしょん(裏譜面)>難易度表/おに/らいとにんぐ ぱっしょん(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):隠し曲|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[サンバ アレグリーア(裏譜面)>難易度表/おに/サンバ アレグリーア(裏譜面)]]|BGCOLOR(#fff):★×9|BGCOLOR(#fff):|
+|~||[[Red Rose Evangel>難易度表/おに/Red Rose Evangel]]|★×9||
+|~|【SP】|[[旋風ノ舞【地】>難易度表/おに/旋風ノ舞【地】]]|★×9|隠し曲|
+|~||[[天妖ノ舞>難易度表/おに/天妖ノ舞]]|★×9||
+|~||[[Xa>難易度表/おに/Xa]]&br;　　SIZE(11){Tatsh}|★×9||
+|~||[[毒LOCANdy&#9825;>難易度表/おに/毒LOCANdy]]&br;　　SIZE(11){t+pazolite}|★×9||
+|~||[[Shiny Kung-fu Revival>難易度表/おに/Shiny Kung-fu Revival]]&br;　　SIZE(11){t+pazolite}|★×9||
+|~||[[私立高天原学園高校・校歌>難易度表/おに/私立高天原学園高校・校歌]]&br;　　SIZE(11){D.watt(IOSYS) feat.Np 犬田彦＆山本椛}|★×9||
+|~||[[My Muscle Heart>難易度表/おに/My Muscle Heart]]&br;　　SIZE(11){〜テレビ高天原系アニメ「筋肉魔法少女タケミナカタ」主題歌〜&br;　　コバヤシユウヤ(IOSYS) feat.山本椛(monotone)}|★×9||
+|~||[[聖徳たいこの「日いずるまで飛鳥」>難易度表/おに/聖徳たいこの「日いずるまで飛鳥」]]&br;　　SIZE(11){コバヤシユウヤ(IOSYS) feat.miko}|★×9&br;SIZE(10){譜面分岐あり}||
+|~||[[ヤマタイ★ナイトパーティー>難易度表/おに/ヤマタイ★ナイトパーティー]]&br;　　SIZE(11){コバヤシユウヤ(IOSYS) feat.ちよこ}|★×9||
+|~||[[イオシス秋の肉食祭2014>難易度表/おに/イオシス秋の肉食祭2014]]&br;　　SIZE(11){D.watt(IOSYS) feat.Np 犬田彦＆はかせ}|★×9||
+|~||[[SAKURA EXHAUST>難易度表/おに/SAKURA EXHAUST]]|★×9||
+|~|【SP】|[[はやさいたま2000>難易度表/おに/はやさいたま2000]]|★×9|隠し曲|
+|~|【SP】|[[ケチャドン2000>難易度表/おに/ケチャドン2000]]|★×9&br;SIZE(10){譜面分岐あり}|隠し曲|
+|~|【SP】|[[恋文2000>難易度表/おに/恋文2000]]|★×9&br;SIZE(10){譜面分岐あり}|隠し曲|
+|~|【SP】|[[よくでる2000>難易度表/おに/よくでる2000]]|★×9|隠し曲|
+|~|【SP】|[[きたさいたま200>難易度表/おに/きたさいたま200]]|★×9|隠し曲|
+
+**おに★×8 [#oni8]
+~全228曲（表204曲、裏24曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):||[[さよならエレジー>難易度表/おに/さよならエレジー]]|★×8||
+|~||[[前前前世>難易度表/おに/前前前世]]&br;　　SIZE(11){映画「君の名は。」より}|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[見たこともない景色(裏譜面)>難易度表/おに/見たこともない景色(裏譜面)]]&br;　　SIZE(11){au 三太郎サッカー応援 CMソング}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~||[[紅>難易度表/おに/紅]]|★×8||
+|~||[[シュガーソングとビターステップ>難易度表/おに/シュガーソングとビターステップ]]|★×8||
+|~||[[R.Y.U.S.E.I.>難易度表/おに/R.Y.U.S.E.I.]]|★×8||
+|~||[[さくらんぼ>難易度表/おに/さくらんぼ]]|★×8||
+|~||[[Swan>難易度表/おに/Swan]]&br;　　SIZE(11){[Alexandros]}|★×8||
+|~||[[Soup>難易度表/おに/Soup]]|★×8||
+|~||[[ギミチョコ！！>難易度表/おに/ギミチョコ！！]]|★×8||
+|~||[[私以外私じゃないの>難易度表/おに/私以外私じゃないの]]|★×8||
+|~||[[ANTI-HERO>難易度表/おに/ANTI-HERO]]&br;　　SIZE(11){SEKAI NO OWARI}|★×8||
+|~||[[Dragon Night>難易度表/おに/Dragon Night]]&br;　　SIZE(11){SEKAI NO OWARI}|★×8&br;SIZE(10){譜面分岐あり}||
+|~||[[にんじゃりばんばん>難易度表/おに/にんじゃりばんばん]]|★×8||
+|~||[[女々しくて>難易度表/おに/女々しくて]]&br;　　SIZE(11){ゴールデンボンバー}|★×8||
+|~||[[I my moko>難易度表/おに/I my moko]]&br;　　SIZE(11){桃井はるこ}|★×8||
+|~||[[Silent Jealousy>難易度表/おに/Silent Jealousy]]|★×8||
+|BGCOLOR(orange):||[[流星>難易度表/おに/流星]]&br;　　SIZE(11){「ソードアート・オンライン オルタナティブ ガンゲイル・オンライン」より}|★×8||
+|BGCOLOR(orange):||[[POP TEAM EPIC>難易度表/おに/POP TEAM EPIC]]&br;　　SIZE(11){「ポプテピピック」OPテーマ}|★×8||
+|~||[[めざせポケモンマスター -20th Anniversary->難易度表/おに/めざせポケモンマスター -20th Anniversary-]]&br;　　SIZE(11){「劇場版ポケットモンスター キミにきめた！」より}|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[めざせポケモンマスター -20th Anniversary-(裏譜面)>難易度表/おに/めざせポケモンマスター -20th Anniversary-(裏譜面)]]&br;　　SIZE(11){「劇場版ポケットモンスター キミにきめた！」より}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[限界突破×サバイバー(裏譜面)>難易度表/おに/限界突破×サバイバー(裏譜面)]]&br;　　SIZE(11){ 「ドラゴンボール超」より}|BGCOLOR(#fff):★×8&br;SIZE(10){譜面分岐あり}|BGCOLOR(#fff):|
+|~||[[紅蓮の弓矢>難易度表/おに/紅蓮の弓矢]]&br;　　SIZE(11){「進撃の巨人」より}|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[残酷な天使のテーゼ(裏譜面)>難易度表/おに/残酷な天使のテーゼ(裏譜面)]]&br;　　SIZE(11){「新世紀エヴァンゲリオン」より}|BGCOLOR(#fff):★×8&br;SIZE(10){譜面分岐あり}|BGCOLOR(#fff):|
+|~||[[全力バタンキュー>難易度表/おに/全力バタンキュー]]&br;　　SIZE(11){「おそ松さん」より}|★×8||
+|~||[[ゆーがらお友達>難易度表/おに/ゆーがらお友達]]&br;　　SIZE(11){「妖怪ウォッチ」より}|★×8||
+|~||[[未来はジョー！ジョー！>難易度表/おに/未来はジョー！ジョー！]]&br;　　SIZE(11){「デュエル・マスターズ」より}|★×8||
+|~||[[にめんせい☆ウラオモテライフ！>難易度表/おに/にめんせい☆ウラオモテライフ！]]&br;　　SIZE(11){「干物妹！うまるちゃんR」より}|★×8||
+|~||[[青空のラプソディ>難易度表/おに/青空のラプソディ]]&br;　　SIZE(11){「小林さんちのメイドラゴン」OP主題歌}|★×8||
+|~||[[花丸◎日和！>難易度表/おに/花丸◎日和！]]&br;　　SIZE(11){「刀剣乱舞-花丸-」より}|★×8||
+|~||[[Paradisus-Paradoxum>難易度表/おに/Paradisus-Paradoxum]]&br;　　SIZE(11){「Re:ゼロから始める異世界生活」より}|★×8||
+|~||[[僕らは今のなかで>難易度表/おに/僕らは今のなかで]]&br;　　SIZE(11){μ's TVアニメ「ラブライブ！」より}|★×8||
+|~||[[イマジネーション>難易度表/おに/イマジネーション]]&br;　　SIZE(11){「ハイキュー！！」より}|★×8||
+|~||[[talking>難易度表/おに/talking]]&br;　　SIZE(11){「すべてがFになる THE PERFECT INSIDER」より}|★×8||
+|~||[[V（ボルト）>難易度表/おに/V（ボルト）]]&br;　　SIZE(11){「ポケットモンスター XY」より}|★×8||
+|~||[[My Soul, Your Beats!>難易度表/おに/My Soul,Your Beats!]]&br;　　SIZE(11){「Angel Beats!」より}|★×8||
+|BGCOLOR(silver):||[[太陽系デスコ>難易度表/おに/太陽系デスコ]]&br;　　SIZE(11){ナユタン星人 feat.初音ミク}|★×8||
+|~||[[ヒバナ>難易度表/おに/ヒバナ]]&br;　　SIZE(11){DECO*27 feat.初音ミク}|★×8||
+|~||[[シャルル>難易度表/おに/シャルル]]&br;　　SIZE(11){バルーン feat.flower}|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[千本桜(裏譜面)>難易度表/おに/千本桜(裏譜面)]]&br;　　SIZE(11){黒うさP feat.初音ミク}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~||[[ゴーストルール>難易度表/おに/ゴーストルール]]&br;　　SIZE(11){DECO*27 feat.初音ミク}|★×8||
+|~||[[脳漿炸裂ガール>難易度表/おに/脳漿炸裂ガール]]&br;　　SIZE(11){れるりり feat.初音ミク・GUMI}|★×8||
+|~||[[ロストワンの号哭>難易度表/おに/ロストワンの号哭]]&br;　　SIZE(11){Neru feat.鏡音リン}|★×8||
+|~||[[東京テディベア>難易度表/おに/東京テディベア]]&br;　　SIZE(11){Neru feat.鏡音リン}|★×8||
+|~||[[いーあるふぁんくらぶ>難易度表/おに/いーあるふぁんくらぶ]]&br;　　SIZE(11){みきとP feat.GUMI・鏡音リン}|★×8||
+|~||[[天ノ弱>難易度表/おに/天ノ弱]]&br;　　SIZE(11){164 feat.GUMI}|★×8||
+|~||[[ルカルカ★ナイトフィーバー>難易度表/おに/ルカルカ★ナイトフィーバー]]&br;　　SIZE(11){samfree feat.巡音ルカ}|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[カゲロウデイズ(裏譜面)>難易度表/おに/カゲロウデイズ(裏譜面)]]&br;　　SIZE(11){じん}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~||[[M.S.S.Planet>難易度表/おに/M.S.S.Planet]]&br;　　SIZE(11){M.S.S Project feat.初音ミク・GUMI}|★×8||
+|~||[[BORDERLESS>難易度表/おに/BORDERLESS]]&br;　　SIZE(11){ZOLA PROJECT}|★×8||
+|~||[[にんじんにん>難易度表/おに/にんじんにん]]&br;　　SIZE(11){豊永ごんたP feat.GUMI}|★×8||
+|~||[[Eternal bond>難易度表/おに/Eternal bond]]&br;　　SIZE(11){リューイッティ feat.GUMI}|★×8||
+|~||[[トオリヨ>難易度表/おに/トオリヨ]]&br;　　SIZE(11){テヅカ feat.鏡音リン・鏡音レン}|★×8||
+|BGCOLOR(lime):||[[D絶対！SAMURAIインザレイン>難易度表/おに/D絶対！SAMURAIインザレイン]]&br;　　SIZE(11){むらたたむ＆レディビアード}|★×8||
+|~||[[スカッとばあちゃんの歌>難易度表/おに/スカッとばあちゃんの歌]]&br;　　SIZE(11){「痛快TVスカッとジャパン」より}|★×8||
+|~||[[ドクターXのテーマ>難易度表/おに/ドクターXのテーマ]]&br;　　SIZE(11){ドラマ「ドクターX 〜外科医・大門未知子〜」より}|★×8||
+|~||[[PERFECT HUMAN>難易度表/おに/PERFECT HUMAN]]|★×8||
+|~||[[本能寺の変>難易度表/おに/本能寺の変]]&br;　　SIZE(11){エグスプロージョン}|★×8||
+|~||[[RAINMAKER>難易度表/おに/RAINMAKER]]&br;　　SIZE(11){新日本プロレス オカダ・カズチカ入場テーマ}|★×8||
+|~||[[深緋の心臓 ‐SCARLET HEART‐>難易度表/おに/深緋の心臓 ‐SCARLET HEART‐]]&br;　　SIZE(11){東方Project×NAMCO SOUNDS kyo feat.あさな(IOSYS)}|★×8||
+|~||[[ライコタイコディスコ>難易度表/おに/ライコタイコディスコ]]&br;　　SIZE(11){東方Project×NAMCO SOUNDS 渡辺量}|★×8||
+|~||[[Ladystar Wandering>難易度表/おに/Ladystar Wandering]]&br;　　SIZE(11){東方Project×NAMCO SOUNDS 中鶴潤一}|★×8||
+|~||[[明星ロケット>難易度表/おに/明星ロケット]]&br;　　SIZE(11){東方Projectアレンジ 岸田教団 & THE明星ロケッツ}|★×8||
+|~||[[色は匂へど散りぬるを>難易度表/おに/色は匂へど 散りぬるを]]&br;　　SIZE(11){東方Projectアレンジ 幽閉サテライト}|★×8||
+|~||[[月に叢雲華に風>難易度表/おに/月に叢雲華に風]]&br;　　SIZE(11){東方Projectアレンジ 幽閉サテライト}|★×8||
+|~||[[二人の結晶-INNOCENCE->難易度表/おに/二人の結晶-INNOCENCE-]]&br;　　SIZE(11){東方Projectアレンジ 暁Records}|★×8||
+|~||[[Scream out! -達人Edit.->難易度表/おに/Scream out! -達人Edit.-]]&br;　　SIZE(11){東方Projectアレンジ A-One}|★×8||
+|~||[[Endless Seeker>難易度表/おに/Endless Seeker]]&br;　　SIZE(11){東方Projectアレンジ A-One}|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Ne&#71;a／Po&#83;i* ラブ／コール(裏譜面)>難易度表/おに/NeGa／PoSi* ラブ／コール(裏譜面)]]&br;　　SIZE(11){東方Projectアレンジ 凋叶棕}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~||[[Bad Apple!! feat.nomico>難易度表/おに/Bad Apple!! feat.nomico]]&br;　　SIZE(11){東方Projectアレンジ Alstroemeria Records}|★×8||
+|~||[[チルノのパーフェクトさんすう教室>難易度表/おに/チルノのパーフェクトさんすう教室]]&br;　　SIZE(11){東方Projectアレンジ ARM＋夕野ヨシミ(IOSYS) feat.miko}|★×8||
+|~||[[Help me, ERINNNNNN!!>難易度表/おに/Help me, ERINNNNNN!!]]&br;　　SIZE(11){東方Projectアレンジ ビートまりお}|★×8||
+|BGCOLOR(gold):||[[「ルスランとリュドミラ」序曲>難易度表/おに/「ルスランとリュドミラ」序曲]]&br;　　SIZE(11){グリンカ}|★×8||
+|~||[[道化師の朝の歌>難易度表/おに/道化師の朝の歌]]|★×8||
+|~||[[夜想曲Op.9-2>難易度表/おに/夜想曲Op.9-2]]|★×8||
+|~||[[クープランの墓>難易度表/おに/クープランの墓]]|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[亡き王女のためのパヴァーヌ(裏譜面)>難易度表/おに/亡き王女のためのパヴァーヌ(裏譜面)]]&br;　　SIZE(11){〜きみのこどう〜}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|【SP】|[[サーフサイド・サティ>難易度表/おに/サーフサイド・サティ]]|★×8|COLOR(blue){''かつメダル''}|
+|~||[[カレ・カノ・カノン>難易度表/おに/カレ・カノ・カノン]]|★×8||
+|~||[[美しく忙しきドナウ>難易度表/おに/美しく忙しきドナウ]]|★×8||
+|BGCOLOR(darkorchid):||[[Jump Up, Super Star! Short Version>難易度表/おに/Jump Up, Super Star! Short Version]]&br;　　SIZE(11){ 「スーパーマリオ オデッセイ」より}|★×8||
+|~||[[ゼルダの伝説 ブレス オブ ザ ワイルド メドレー>難易度表/おに/ゼルダの伝説 ブレス オブ ザ ワイルド メドレー]]|★×8||
+|~||[[エンジェル ドリーム>難易度表/おに/エンジェル ドリーム(デレマス)]]&br;　　SIZE(11){ 「アイドルマスター シンデレラガールズ」より}|★×8||
+|~||[[星のカービィメドレー>難易度表/おに/星のカービィメドレー]]&br;　　SIZE(11){「星のカービィ Wii」より}|★×8||
+|~||[[スーパーマリオブラザーズ>難易度表/おに/スーパーマリオブラザーズ(新)]]|★×8||
+|~||[[「ポケットモンスター サン・ムーン」メドレー>難易度表/おに/「ポケットモンスター サン・ムーン」メドレー]]|★×8||
+|~||[[ポケットモンスター X・Y>難易度表/おに/ポケットモンスター X・Y トレーナー戦メドレー]]&br;　　SIZE(11){トレーナー戦メドレー}|★×8||
+|~||[[Dr.WILY STAGE 1>難易度表/おに/Dr.WILY STAGE 1]]&br;　　SIZE(11){「ロックマン2 Dr.ワイリーの謎」より}|★×8||
+|~||[[モンスターハンター4 メドレー>難易度表/おに/モンスターハンター4 メドレー]]|★×8||
+|~||[[指先からはじまる物語>難易度表/おに/指先からはじまる物語]]&br;　　SIZE(11){郁原ゆう 「しんぐんデストロ〜イ！」より}|★×8||
+|~||[[チェインクロニクル 通常バトルメドレー>難易度表/おに/チェインクロニクル 通常バトルメドレー]]|★×8||
+|~||[[チェインクロニクル 最終決戦メドレー>難易度表/おに/チェインクロニクル 最終決戦メドレー]]|★×8||
+|~||[[Unite The Force>難易度表/おに/Unite The Force]]&br;　　SIZE(11){「パズル＆ドラゴンズ」より}|★×8||
+|~||[[バトル-電光石火->難易度表/おに/バトル‐電光石火‐]]&br;　　SIZE(11){「パズドラクロス」より}|★×8||
+|~||[[決戦!!>難易度表/おに/決戦!!]]&br;　　SIZE(11){「パズドラZ」より}|★×8||
+|~||[[KAGEKIYO>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]&br;　　SIZE(11){源平討魔伝メドレー}|★×8||
+|~||[[Lightning Dance>難易度表/おに/Lightning Dance]]&br;　　SIZE(11){「湾岸ミッドナイト マキシマムチューン」より}|★×8||
+|~|【SP】|[[バーニングフォースメドレー>難易度表/おに/バーニングフォースメドレー]]|★×8|COLOR(blue){''かつメダル''}|
+|~||[[大打音>難易度表/おに/大打音]]&br;　　SIZE(11){「オーダイン」より}|★×8&br;SIZE(10){譜面分岐あり}||
+|~||[[グレート！アニマルカイザー！！>難易度表/おに/グレート!アニマルカイザー!!]]&br;　　SIZE(11){「百獣大戦グレートアニマルカイザー」より}|★×8||
+|~|【SP】|[[PaPaPa Love>難易度表/おに/PaPaPa Love]]&br;　　SIZE(11){「マッスル行進曲」より}|★×8|COLOR(blue){''かつメダル''}|
+|~||[[筋肉のような僕ら 〜マッスル愛のテーマ〜>難易度表/おに/筋肉のような僕ら]]&br;　　SIZE(11){「マッスル行進曲」より}|★×8||
+|~||[[テイルズ オブ ジ アビス>難易度表/おに/テイルズ オブ ジ アビス]]&br;　　SIZE(11){The arrow was shot}|★×8||
+|~||[[光る闇>難易度表/おに/光る闇]]&br;　　SIZE(11){テイルズ オブ ザ ワールド レーヴ ユナイティア}|★×8||
+|~||[[No Way Back>難易度表/おに/No Way Back]]&br;　　SIZE(11){「GOD EATER」より}|★×8||
+|~||[[The Windmill Song>難易度表/おに/The Windmill Song]]&br;　　SIZE(11){「風のクロノア」より}|★×8||
+|~||[[ピコピコ マッピー>難易度表/おに/ピコピコ マッピー]]&br;　　SIZE(11){マッピーメドレー × サカモト教授}|★×8||
+|~|【SP】|[[ナックルヘッズ>難易度表/おに/ナックルヘッズ 鷹舞狼吼]]&br;　　SIZE(11){鷹舞狼吼}|★×8|COLOR(blue){''かつメダル''}|
+|~||[[アサルト BGM1>難易度表/おに/アサルト BGM1]]|★×8||
+|~||[[戦え！T3防衛隊 〜GDI mix〜>難易度表/おに/戦え！T3防衛隊 〜GDI mix〜]]&br;　　SIZE(11){「TANK! TANK! TANK!」より}|★×8||
+|~||[[BLUE TOPAZ>難易度表/おに/BLUE TOPAZ]]&br;　　SIZE(11){「レイブレーサー」より}|★×8&br;SIZE(10){譜面分岐あり}||
+|~|【SP】|[[URBAN FRAGMENTS>難易度表/おに/URBAN FRAGMENTS]]&br;　　SIZE(11){「R4 -RIDGE RACER TYPE4-」より}|★×8&br;SIZE(10){譜面分岐あり}|COLOR(blue){''かつメダル''}|
+|~||[[EAT'EM UP!>難易度表/おに/EAT'EM UP!]]&br;　　SIZE(11){「R4 -RIDGE RACER TYPE4-」より}|★×8||
+|~||[[Ridge Racer>難易度表/おに/Ridge Racer]]|★×8||
+|~||[[RAGE v. self>難易度表/おに/RAGE v. self]]|★×8||
+|~|【SP】|[[SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]]&br;　　SIZE(11){「RIDGE RACER V」より}|★×8|COLOR(blue){''かつメダル''}|
+|~||[[Abyss of hell>難易度表/おに/Abyss of hell]]&br;　　SIZE(11){「鉄拳 レボリューション」より}|★×8||
+|~||[[Good-bye my earth>難易度表/おに/Good-bye my earth]]&br;　　SIZE(11){「ダライアスバースト」より}|★×8||
+|~||[[THE IDOLM@STER>難易度表/おに/THE IDOLM@STER]]&br;　　SIZE(11){「アイドルマスター」より}|★×8&br;SIZE(10){譜面分岐あり}||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[THE IDOLM@STER(裏譜面)>難易度表/おに/THE IDOLM@STER(裏譜面)]]&br;　　SIZE(11){「アイドルマスター」より}|BGCOLOR(#fff):★×8&br;SIZE(10){譜面分岐あり}|BGCOLOR(#fff):|
+|~||[[Thank You!>難易度表/おに/Thank You!]]&br;　　SIZE(11){「アイドルマスター ミリオンライブ！」より}|★×8||
+|~||[[Brand New Theater!>難易度表/おに/Brand New Theater!]]&br;　　SIZE(11){「アイドルマスター ミリオンライブ！」より}|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[GOIN’!!!(裏譜面)>難易度表/おに/GOIN’!!!(裏譜面)]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~||[[Never say never>難易度表/おに/Never say never]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×8||
+|~||[[華蕾夢ミル狂詩曲〜魂ノ導〜>難易度表/おに/華蕾夢ミル狂詩曲〜魂ノ導〜]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×8||
+|~||[[shiny smile>難易度表/おに/shiny smile]]&br;　　SIZE(11){「アイドルマスター」より}|★×8||
+|~||[[SMOKY THRILL>難易度表/おに/SMOKY THRILL]]&br;　　SIZE(11){「アイドルマスター」より}|★×8||
+|~||[[マジで…！？>難易度表/おに/マジで…！？]]&br;　　SIZE(11){「アイドルマスター」より}|★×8||
+|~||[[アイ MUST GO!>難易度表/おに/アイ MUST GO!]]&br;　　SIZE(11){「アイドルマスター」より}|★×8||
+|~||[[おしえて　くまとも>難易度表/おに/おしえて くまとも]]&br;　　SIZE(11){「クマ・トモ」テーマ曲}|★×8||
+|~||[[電車で電車でGO!GO!GO!GC! -GMT remix->難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]&br;　　SIZE(11){COSIO(ZUNTATA/TAITO)/沢城千春&br;　　「電車でGO!」}|★×8||
+|~||[[電車で電車で OPA!OPA!OPA! -GMT mashup->難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]&br;　　SIZE(11){Yuji Masubuchi(BNSI)&br;　　「電車でGO!」 「ファンタジーゾーン」}|★×8||
+|~||[[Over Clock 〜開放〜>難易度表/おに/Over Clock 〜開放〜]]&br;　　SIZE(11){NAOKI feat.un∞limited 「クロスビーツレヴ」より}|★×8||
+|~||[[Saika>難易度表/おに/Saika]]&br;　　SIZE(11){「DEEMO」より}|★×8||
+|~||[[カノン (シンクロニカ Remix)>難易度表/おに/カノン (シンクロニカ Remix)]]&br;　　SIZE(11){「シンクロニカ」より}|★×8||
+|~||[[Synchronicity>難易度表/おに/Synchronicity]]&br;　　SIZE(11){「シンクロニカ」より}|★×8||
+|BGCOLOR(orangered):|【SP】|[[フューチャー・ラボ>難易度表/おに/フューチャー・ラボ]]|★×8|COLOR(red){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~||[[コナモノ>難易度表/おに/コナモノ☆]]☆&br;　　SIZE(11){郷 拓郎}|★×8||
+|~|【SP】|[[星屑とリニアと僕>難易度表/おに/星屑とリニアと僕]]&br;　　SIZE(11){feat.結羽(プラムソニック)}|★×8|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[三瀬川乱舞>難易度表/おに/三瀬川乱舞]]|★×8|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[竜と黒炎の姫君>難易度表/おに/竜と黒炎の姫君]]|★×8|%%COLOR(#f00){''どんメダル''}(COLOR(#ff1493){''春''})%% / COLOR(blue){''かつメダル''}|
+|~||[[ほうかご☆マジシャン>難易度表/おに/ほうかご☆マジシャン]]&br;　　SIZE(11){まりんべーす}|★×8||
+|~||[[恋幻想 (Love Fantasy)>難易度表/おに/恋幻想(Love Fantasy)]]&br;　　SIZE(11){HONOKA}|★×8||
+|~||[[黄泉のイザナミ>難易度表/おに/黄泉のイザナミ]]|★×8||
+|~||[[てんびん座急行 夜を行く>難易度表/おに/てんびん座急行 夜を行く]]|★×8||
+|~||[[輝きを求めて>難易度表/おに/輝きを求めて]]&br;　　SIZE(11){Versus}|★×8||
+|~||[[Choco Chiptune.>難易度表/おに/Choco Chiptune.]]&br;　　SIZE(11){Ancraft}|★×8||
+|~||[[ネテモネテモ>難易度表/おに/ネテモネテモ]]&br;　　SIZE(11){☆しょーじ☆ feat.ほのか&#9825;えりか}|★×8||
+|~||[[東京ソーダ 8Bit Edit>難易度表/おに/東京ソーダ 8Bit Edit]]&br;　　SIZE(11){ヒゲドライVAN}|★×8||
+|~||[[Day by Day!>難易度表/おに/Day by Day!]]|★×8||
+|~||[[夢幻の蒼空>難易度表/おに/夢幻の蒼空]]&br;　　SIZE(11){Silver Forest feat.SAYA}|★×8||
+|~||[[がしゃどくろ>難易度表/おに/がしゃどくろ]]|★×8||
+|~||[[カラメルタイム★>難易度表/おに/カラメルタイム☆]]&br;　　SIZE(11){たんきゅん}|★×8||
+|~||[[ぷるぷるしんぷる>難易度表/おに/ぷるぷるしんぷる]]&br;　　SIZE(11){Her Ghost Friend}|★×8||
+|~||[[super star shooter>難易度表/おに/super star shooter]]&br;　　SIZE(11){blue marble}|★×8||
+|~||[[魔法の喫茶店>難易度表/おに/魔法の喫茶店]]|★×8||
+|~||[[Amanda>難易度表/おに/Amanda]]|★×8||
+|~||[[アレキサンダーのテーマ>難易度表/おに/アレキサンダーのテーマ]]|★×8||
+|~||[[シューガク トラベラーズ>難易度表/おに/シューガク トラベラーズ]]&br;　　SIZE(11){うちやえゆか}|★×8||
+|~||[[ゆれるプリーツ実行委員>難易度表/おに/ゆれるプリーツ実行委員]]&br;　　SIZE(11){feat.団地ノ宮弥子}|★×8||
+|~||[[東京特許キョ許可局局長!!>難易度表/おに/東京特許キョ許可局局長!!]]|★×8||
+|~||[[うそうそ時>難易度表/おに/うそうそ時]]|★×8||
+|~||[[時空庁捜査2課>難易度表/おに/時空庁捜査2課]]&br;　　SIZE(11){feat.沙知(ハリネコ)}|★×8||
+|~||[[愛想笑い>難易度表/おに/愛想笑い]]&br;　　SIZE(11){かねこちはる}|★×8||
+|~||[[化物月夜>難易度表/おに/化物月夜]]&br;　　SIZE(11){くにきち}|★×8||
+|~||[[オレサマパイレーツ>難易度表/おに/オレサマパイレーツ]]|★×8||
+|~||[[Dream Tide>難易度表/おに/Dream Tide]]&br;　　SIZE(11){−夢の潮流−}|★×8||
+|~||[[豊穣弥生>難易度表/おに/豊穣弥生]]|★×8||
+|~||[[クルクルクロックル>難易度表/おに/クルクルクロックル]]|★×8||
+|~|【SP】|[[トータル・エクリプス 2035>難易度表/おに/トータル・エクリプス　2035]]&br;　　SIZE(11){〜少女の時空皆既日食〜}|★×8|COLOR(blue){''かつメダル''}|
+|~||[[ナイトメア・サバイバー>難易度表/おに/ナイトメア・サバイバー]]|★×8||
+|~||[[風の国の龍と騎士>難易度表/おに/風の国の龍と騎士]]|★×8||
+|~||[[和蘭撫子>難易度表/おに/和蘭撫子]]|★×8||
+|~||[[ボクハシンセ>難易度表/おに/ボクハシンセ]]|★×8||
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[キミと響くハーモニー(裏譜面)>難易度表/おに/キミと響くハーモニー(裏譜面)]]&br;　　SIZE(11){「太鼓の達人 ちびドラゴンと不思議なオーブ」テーマソング}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):隠し曲|
+|~||[[ファミレスウォーズ>難易度表/おに/ファミレスウォーズ]]|★×8||
+|~||[[Phantom Rider>難易度表/おに/Phantom Rider]]|★×8||
+|~||[[渚のアンドロメダ>難易度表/おに/渚のアンドロメダ]]|★×8||
+|~||[[ダンバ・ダンバ・ディン・ダン>難易度表/おに/ダンバ・ダンバ・ディン・ダン]]&br;　　SIZE(11){by YMCK}|★×8||
+|~||[[冬竜 〜Toryu〜>難易度表/おに/冬竜 〜Toryu〜]]|★×8||
+|~||[[春竜 〜Haryu〜>難易度表/おに/春竜 〜Haryu〜]]|★×8||
+|~||[[夏竜 〜Karyu〜>難易度表/おに/夏竜 〜Karyu〜]]|★×8||
+|~||[[カナデア>難易度表/おに/カナデア]]|★×8||
+|~||[[MATSURI D／A>難易度表/おに/MATSURI D/A]]|★×8||
+|~||[[リバイバー>難易度表/おに/リバイバー]]|★×8||
+|~|【SP】|[[久遠の夜>難易度表/おに/久遠の夜]]|★×8|COLOR(blue){''かつメダル''}|
+|~||[[The Magician's Dream>難易度表/おに/The Magician's Dream]]|★×8||
+|~||[[零の夜想曲>難易度表/おに/零の夜想曲]]|★×8||
+|~||[[ブレイクライン>難易度表/おに/ブレイクライン]]|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[どん子のファーストデート(裏譜面)>難易度表/おに/どん子のファーストデート(裏譜面)]]|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[サタデー太鼓フィーバー(裏譜面)>難易度表/おに/サタデー太鼓フィーバー(裏譜面)]]|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~||[[迅風丸>難易度表/おに/迅風丸]]|★×8||
+|~||[[エゴエゴアタクシ>難易度表/おに/エゴエゴアタクシ]]|★×8||
+|~||[[DON'T CUT>難易度表/おに/DON'T CUT]]|★×8||
+|~||[[エンジェル ドリーム>難易度表/おに/エンジェル ドリーム]]|★×8||
+|~|【SP】|[[風のファンタジー>難易度表/おに/風のファンタジー]]|★×8|隠し曲|
+|~||[[パステル ドリーム>難易度表/おに/パステル ドリーム]]|★×8||
+|~||[[ねがいごと★ぱずる>難易度表/おに/ねがいごと☆ぱずる]]|★×8||
+|~||[[ハロー！ハロウィン>難易度表/おに/ハロー！ハロウィン]]|★×8&br;SIZE(10){譜面分岐あり}||
+|~||[[NECOLOGY>難易度表/おに/NECOLOGY]]|★×8||
+|~||[[LOVE戦!!>難易度表/おに/LOVE戦!!]]|★×8||
+|~|【SP】|[[夢色コースター>難易度表/おに/夢色コースター]]|★×8|COLOR(blue){''かつメダル''}|
+|~|BGCOLOR(#fff):【SP】|BGCOLOR(#fff):[[きみのあかり(裏譜面)>難易度表/おに/きみのあかり(裏譜面)]]|BGCOLOR(#fff):★×8|BGCOLOR(#fff):COLOR(blue){''かつメダル''}|
+|~||[[君のプラネット>難易度表/おに/君のプラネット]]|★×8||
+|~||[[画竜点睛>難易度表/おに/画竜点睛]]|★×8&br;SIZE(10){譜面分岐あり}||
+|~|【SP】|[[月下美人>難易度表/おに/月下美人]]|★×8&br;SIZE(10){譜面分岐あり}|COLOR(blue){''かつメダル''}|
+|~||[[黒船来航>難易度表/おに/黒船来航]]|★×8&br;SIZE(10){譜面分岐あり}||
+|~||[[百花繚乱>難易度表/おに/百花繚乱]]|★×8&br;SIZE(10){譜面分岐あり}||
+|~||[[風雲志士>難易度表/おに/風雲志士]]|★×8&br;SIZE(10){譜面分岐あり}||
+|~||[[桜花爛漫>難易度表/おに/桜花爛漫]]|★×8&br;SIZE(10){譜面分岐あり}||
+|~||[[太鼓乱舞 皆伝>難易度表/おに/太鼓乱舞 皆伝]]|★×8&br;SIZE(10){譜面分岐あり}||
+|~||[[ドン・エンガスの笛吹き>難易度表/おに/ドン・エンガスの笛吹き]]|★×8||
+|~||[[ザストゥールの魔導書>難易度表/おに/ザストゥールの魔導書]]|★×8||
+|~||[[リスドンヴァルナの黄昏>難易度表/おに/リスドンヴァルナの黄昏]]|★×8||
+|~||[[宇宙SAMURAI>難易度表/おに/宇宙SAMURAI]]|★×8||
+|~||[[月影SASURAI>難易度表/おに/月影SASURAI]]|★×8||
+|~||[[SORA-&#8544; アースライズ>難易度表/おに/SORA-I アースライズ]]|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[季曲(裏譜面)>難易度表/おに/季曲 〜Seasons of Asia〜(裏譜面)]]&br;　　SIZE(11){〜Seasons of Asia〜}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[蓄勢(裏譜面)>難易度表/おに/蓄勢 〜GEAR UP〜(裏譜面)]]&br;　　SIZE(11){〜GEAR UP〜}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[蛻変(裏譜面)>難易度表/おに/蛻変 〜transformation〜(裏譜面)]]&br;　　SIZE(11){〜transformation〜}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[春遊(裏譜面)>難易度表/おに/春遊 〜happy excursion〜(裏譜面)]]&br;　　SIZE(11){〜happy excursion〜}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[綻放(裏譜面)>難易度表/おに/綻放 〜Blooming〜(裏譜面)]]&br;　　SIZE(11){〜Blooming〜}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[曙光(裏譜面)>難易度表/おに/曙光 〜Dawn〜(裏譜面)]]&br;　　SIZE(11){〜Dawn〜}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[蝶戀(裏譜面)>難易度表/おに/蝶戀 〜Obsession〜(裏譜面)]]&br;　　SIZE(11){〜Obsession〜}|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~||[[Rotter Tarmination>難易度表/おに/Rotter Tarmination]]|★×8||
+|~||[[ドドンガド〜ン>難易度表/おに/ドドンガド〜ン]]|★×8||
+|~||[[らんぶる乱舞>難易度表/おに/らんぶる乱舞]]|★×8||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[らんぶる乱舞(裏譜面)>難易度表/おに/らんぶる乱舞(裏譜面)]]|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[White Rose Insanity(裏譜面)>難易度表/おに/White Rose Insanity(裏譜面)]]|BGCOLOR(#fff):★×8|BGCOLOR(#fff):|
+|~||[[Blue Rose Ruin>難易度表/おに/Blue Rose Ruin]]|★×8||
+
+**おに★×7 [#oni7]
+~全142曲（表138曲、裏4曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):||[[Lemon>難易度表/おに/Lemon]]&br;　　SIZE(11){米津玄師}|★×7||
+|~||[[JOIN US>難易度表/おに/JOIN US]]&br;　　SIZE(11){UUUMコラボユニット}|★×7||
+|~||[[激レアさんスペシャルメドレー>難易度表/おに/激レアさんスペシャルメドレー]]&br;　　SIZE(11){激レアさんを連れてきた。}|★×7||
+|~||[[YouTubeテーマソング>難易度表/おに/YouTubeテーマソング]]&br;　　SIZE(11){HIKAKIN & SEIKIN}|★×7||
+|~||[[Hero>難易度表/おに/Hero]]&br;　　SIZE(11){安室奈美恵}|★×7||
+|~||[[ダンシング・ヒーロー(Eat You Up)>難易度表/おに/ダンシング・ヒーロー(Eat You Up)]]&br;　　SIZE(11){荻野目洋子}|★×7||
+|~||[[TT -Japanese ver.->難易度表/おに/TT -Japanese ver.-]]|★×7||
+|~||[[クリスマスソング>難易度表/おに/クリスマスソング]]&br;　　SIZE(11){back number}|★×7||
+|~||[[ともに>難易度表/おに/ともに]]&br;　　SIZE(11){WANIMA}|★×7||
+|~||[[好きな人がいること>難易度表/おに/好きな人がいること]]|★×7||
+|~||[[恋音と雨空>難易度表/おに/恋音と雨空]]|★×7||
+|~||[[イケナイ太陽>難易度表/おに/イケナイ太陽]]|★×7||
+|~||[[STAY TUNE>難易度表/おに/STAY TUNE]]&br;　　SIZE(11){Suchmos}|★×7||
+|~||[[ひまわりの約束>難易度表/おに/ひまわりの約束]]|★×7||
+|~||[[ごめんなさいのKissing You>難易度表/おに/ごめんなさいのKissing You]]|★×7||
+|~||[[DREAMERS' PARADISE>難易度表/おに/DREAMERS' PARADISE]]&br;　　SIZE(11){DANCE EARTH PARTY タイアップソング}|★×7||
+|~||[[もったいないとらんど>難易度表/おに/もったいないとらんど]]|★×7||
+|~||[[ファッションモンスター>難易度表/おに/ファッションモンスター]]&br;　　SIZE(11){きゃりーぱみゅぱみゅ}|★×7||
+|~||[[Dance My Generation>難易度表/おに/Dance My Generation]]&br;　　SIZE(11){ゴールデンボンバー}|★×7||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[Dance My Generation(裏譜面)>難易度表/おに/Dance My Generation]]&br;　　SIZE(11){ゴールデンボンバー}|BGCOLOR(#fff):★×7|BGCOLOR(#fff):|
+|~||[[恋するフォーチュンクッキー>難易度表/おに/恋するフォーチュンクッキー]]|★×7||
+|~||[[ポニーテールとシュシュ>難易度表/おに/ポニーテールとシュシュ]]|★×7||
+|~||[[さちさちにしてあげる♪>難易度表/おに/さちさちにしてあげる♪]]&br;　　SIZE(11){小林幸子}|★×7||
+|~||[[誘惑>難易度表/おに/誘惑]]&br;　　SIZE(11){GLAY}|★×7||
+|~||[[レイン>難易度表/おに/レイン]]|★×7||
+|BGCOLOR(orange):||[[未来コネクション>難易度表/おに/未来コネクション]]&br;　　SIZE(11){テレビアニメ「ポケットモンスター サン＆ムーン」より}|★×7||
+|~||[[零 -ZERO->難易度表/おに/零 -ZERO-]]&br;　　SIZE(11){福山雅治 「名探偵コナン ゼロの執行人」より}|★×7||
+|~||[[NO DOUBT>難易度表/おに/NO DOUBT]]&br;　　SIZE(11){「アイドリッシュセブン」より}|★×7||
+|~||[[Hope>難易度表/おに/Hope]]&br;　　SIZE(11){安室奈美恵「ワンピース」より}|★×7||
+|~||[[GLORIOUS RO@D>難易度表/おに/GLORIOUS RO@D]]&br;　　SIZE(11){「アイドルマスター SideM」より}|★×7||
+|~||[[残酷な天使のテーゼ>難易度表/おに/残酷な天使のテーゼ]]&br;　　SIZE(11){「新世紀エヴァンゲリオン」より}|★×7&br;SIZE(10){譜面分岐あり}||
+|~||[[ようこそジャパリパークへ>難易度表/おに/ようこそジャパリパークへ]]&br;　　SIZE(11){どうぶつビスケッツ×PPP 「けものフレンズ」より}|★×7||
+|~||[[アローラ!!>難易度表/おに/アローラ!!]]&br;　　SIZE(11){「ポケットモンスター サン＆ムーン」より}|★×7||
+|~||[[ウィーキャン！>難易度表/おに/ウィーキャン！]]&br;　　SIZE(11){「ワンピース」より}|★×7||
+|~||[[EXCITE>難易度表/おに/EXCITE]]&br;　　SIZE(11){「仮面ライダーエグゼイド」より}|★×7||
+|~||[[君の知らない物語>難易度表/おに/君の知らない物語]]&br;　　SIZE(11){「化物語」より}|★×7||
+|~||[[Butter-Fly>難易度表/おに/Butter-Fly]]&br;　　SIZE(11){「デジモンアドベンチャー」より}|★×7||
+|~||[[人生ドラマチック>難易度表/おに/人生ドラマチック]]&br;　　SIZE(11){「妖怪ウォッチ」より}|★×7||
+|~||[[初恋峠でゲラゲラポー>難易度表/おに/初恋峠でゲラゲラポー]]&br;　　SIZE(11){「妖怪ウォッチ」より}|★×7||
+|~||[[祭り囃子でゲラゲラポー>難易度表/おに/祭り囃子でゲラゲラポー]]&br;　　SIZE(11){「妖怪ウォッチ」より}|★×7||
+|~||[[ダン・ダン ドゥビ・ズバー！>難易度表/おに/ダン・ダン ドゥビ・ズバー！]]&br;　　SIZE(11){「妖怪ウォッチ」より}|★×7||
+|~||[[ようかい体操第一>難易度表/おに/ようかい体操第一]]&br;　　SIZE(11){「妖怪ウォッチ」より}|★×7||
+|~||[[ゲラゲラポーのうた>難易度表/おに/ゲラゲラポーのうた]]&br;　　SIZE(11){「妖怪ウォッチ」より}|★×7||
+|~||[[カゲロウ>難易度表/おに/カゲロウ]]&br;　　SIZE(11){ 「銀魂.」より}|★×7||
+|~||[[GO>難易度表/おに/GO]]&br;　　SIZE(11){ 「グランブルーファンタジー ジ・アニメーション」主題歌}|★×7||
+|~||[[SHINY>難易度表/おに/SHINY]]&br;　　SIZE(11){「境界のRINNE」より}|★×7||
+|~||[[ブラッドサーキュレーター>難易度表/おに/ブラッドサーキュレーター]]&br;　　SIZE(11){「NARUTO -ナルト- 疾風伝」より}|★×7||
+|~||[[Angelic Angel>難易度表/おに/Angelic Angel]]&br;　　SIZE(11){μ's 映画「ラブライブ！The School Idol Movie」より}|★×7||
+|~||[[それは僕たちの奇跡>難易度表/おに/それは僕たちの奇跡]]&br;　　SIZE(11){μ's TVアニメ「ラブライブ！」より}|★×7||
+|~||[[QUESTION>難易度表/おに/QUESTION]]&br;　　SIZE(11){「暗殺教室」より}|★×7||
+|~||[[我ら思う、故に我ら在り>難易度表/おに/我ら思う、故に我ら在り]]&br;　　SIZE(11){「仮面ライダーゴースト」より}|★×7||
+|~||[[GEEDの証>難易度表/おに/GEEDの証]]&br;　　SIZE(11){『ウルトラマンジード』より}|★×7||
+|~||[[ウルトラマンX>難易度表/おに/ウルトラマンX]]|★×7||
+|~||[[オリオンをなぞる>難易度表/おに/オリオンをなぞる]]&br;　　SIZE(11){「TIGER & BUNNY」より}|★×7||
+|~||[[創聖のアクエリオン>難易度表/おに/創聖のアクエリオン]]|★×7||
+|BGCOLOR(silver):||[[＋♂(プラス男子)>難易度表/おに/＋♂(プラス男子)]]&br;　　SIZE(11){ギガれをる feat.鏡音レン}|★×7||
+|~||[[千本桜>難易度表/おに/千本桜]]&br;　　SIZE(11){黒うさP feat.初音ミク}|★×7||
+|~||[[カゲロウデイズ>難易度表/おに/カゲロウデイズ]]&br;　　SIZE(11){じん}|★×7||
+|~||[[僕らの世界にダンスを>難易度表/おに/僕らの世界にダンスを]]&br;　　SIZE(11){サカモト教授 feat.GUMI}|★×7||
+|~||[[ドキドキ恋の予感！？>難易度表/おに/ドキドキ恋の予感！？]]&br;　　SIZE(11){Noriyuki feat.GUMI}|★×7||
+|BGCOLOR(magenta):||[[いぬのおまわりさん>難易度表/おに/いぬのおまわりさん]]|★×7||
+|~||[[ロシア民謡メドレー>難易度表/おに/ロシア民謡メドレー]]|★×7||
+|BGCOLOR(lime):||[[ペンパイナッポーアッポーペン(PPAP)>難易度表/おに/ペンパイナッポーアッポーペン(PPAP)]]&br;　　SIZE(11){ピコ太郎}|★×7||
+|~||[[FANTASTIC BABY>難易度表/おに/FANTASTIC BABY]]|★×7||
+|~||[[ラッスンゴレライ>難易度表/おに/ラッスンゴレライ]]&br;　　SIZE(11){8.6秒バズーカー}|★×7||
+|~||[[ハートスランプ二人ぼっち>難易度表/おに/ハートスランプ二人ぼっち]]&br;　　SIZE(11){「探偵！ナイトスクープ」のテーマ}|★×7||
+|~||[[あったかいんだからぁ♪>難易度表/おに/あったかいんだからぁ♪]]|★×7||
+|~||[[おさかな毎日！さかなクン>難易度表/おに/おさかな毎日！さかなクン]]&br;　　SIZE(11){さかなクン}|★×7||
+|~||[[買ってロック>難易度表/おに/買ってロック]]&br;　　SIZE(11){「グルト！」CMソング}|★×7||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[二人の結晶-INNOCENCE-(裏譜面)>難易度表/おに/二人の結晶-INNOCENCE-(裏譜面)]]&br;　　SIZE(11){東方Projectアレンジ 暁Records}|BGCOLOR(#fff):★×7|BGCOLOR(#fff):|
+|~||[[Grip & Break down !! -達人Edit.->難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]&br;　　SIZE(11){東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi}|★×7||
+|BGCOLOR(gold):||[[カルメン 組曲一番終曲>難易度表/おに/カルメン組曲一番終曲]]&br;　　SIZE(11){ビゼー}|★×7||
+|~||[[ウィリアム・テル序曲>難易度表/おに/ウィリアム・テル序曲]]&br;　　SIZE(11){ロッシーニ}|★×7||
+|~||[[交響曲第7番から>難易度表/おに/交響曲第7番から]]&br;　　SIZE(11){ベートーヴェン}|★×7||
+|BGCOLOR(darkorchid):||[[スプラトゥーン2 メドレー>難易度表/おに/スプラトゥーン2 メドレー]]|★×7||
+|~||[[シオカラ節>難易度表/おに/シオカラ節]]&br;　　SIZE(11){「スプラトゥーン」より}|★×7||
+|~||[[メタナイトの逆襲メドレー>難易度表/おに/メタナイトの逆襲メドレー]]&br;　　SIZE(11){「星のカービィ ウルトラスーパーデラックス」より}|★×7||
+|~||[[ポケットモンスター X・Y>難易度表/おに/ポケットモンスター X・Y 野生ポケモン戦メドレー]]&br;　　SIZE(11){野生ポケモン戦メドレー}|★×7||
+|~||[[「ポケットモンスター オメガルビー・アルファサファイア」>難易度表/おに/「ポケットモンスター オメガルビー・アルファサファイア」]]&br;　　SIZE(11){チャンピオンメドレー}|★×7||
+|~||[[ドラゴンボールヒーローズ>難易度表/おに/ドラゴンボールヒーローズ ゴッドミッションシリーズ テーマソング]]&br;　　SIZE(11){ゴッドミッションシリーズ テーマソング}|★×7||
+|~||[[TO MAKE THE END OF BATTLE>難易度表/おに/TO MAKE THE END OF BATTLE]]&br;　　SIZE(11){「イース&#8544; & &#8545;クロニクルズ」より}|★×7||
+|~||[[ソラのミチシルベ>難易度表/おに/ソラのミチシルベ]]&br;　　SIZE(11){「グランブルーファンタジー」より}|★×7||
+|~||[[チェインクロニクル 総力戦メドレー>難易度表/おに/チェインクロニクル 総力戦メドレー]]|★×7||
+|~||[[Holding Hands>難易度表/おに/Holding Hands]]&br;　　SIZE(11){「パズル＆ドラゴンズ」より}|★×7||
+|~||[[Walking Through The Towers>難易度表/おに/Walking Through The Towers]]&br;　　SIZE(11){「パズル＆ドラゴンズ」より}|★×7||
+|~|【SP】|[[ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]|★×7|COLOR(blue){''かつメダル''}|
+|~||[[ワンダーモモーイ>難易度表/おに/ワンダーモモーイ]]|★×7&br;SIZE(10){譜面分岐あり}||
+|~|【SP】|[[恋はみずいろ>難易度表/おに/恋はみずいろ]]&br;　　SIZE(11){「みずいろブラッド」より}|★×7|COLOR(#f00){''どんメダル''}(COLOR(#4169e1){''冬''})|
+|~||[[無慈悲な王>難易度表/おに/無慈悲な王]]&br;　　SIZE(11){「GOD EATER BURST」より}|★×7||
+|~||[[ソウルキャリバー&#8545;>難易度表/おに/ソウルキャリバーII]]&br;　　SIZE(11){Brave Sword, Braver Soul}|★×7||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[ソウルキャリバー&#8545;(裏譜面)>難易度表/おに/ソウルキャリバーII]]&br;　　SIZE(11){Brave Sword, Braver Soul}|BGCOLOR(#fff):★×7|BGCOLOR(#fff):|
+|~||[[BLAZING VORTEX>難易度表/おに/BLAZING VORTEX]]&br;　　SIZE(11){「クリティカルベロシティ」より}|★×7||
+|~||[[Highschool love!>難易度表/おに/Highschool love!]]&br;　　SIZE(11){「鉄拳タッグトーナメント2 Wii U EDITION」より}|★×7||
+|~||[[シンフォニック ドルアーガ>難易度表/おに/シンフォニック　ドルアーガ]]|★×7||
+|~||[[お願い！シンデレラ>難易度表/おに/お願い！シンデレラ]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×7||
+|~||[[あんずのうた>難易度表/おに/あんずのうた]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×7&br;SIZE(10){譜面分岐あり}||
+|~||[[魔法をかけて！>難易度表/おに/魔法をかけて！]]&br;　　SIZE(11){「アイドルマスター」より}|★×7||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[shiny smile(裏譜面)>難易度表/おに/shiny smile(裏譜面)]]&br;　　SIZE(11){「アイドルマスター」より}|BGCOLOR(#fff):★×7|BGCOLOR(#fff):|
+|~||[[自分REST@RT>難易度表/おに/自分REST@RT]]&br;　　SIZE(11){「アイドルマスター」より}|★×7||
+|~||[[七彩ボタン>難易度表/おに/七彩ボタン]]&br;　　SIZE(11){「アイドルマスター」より}|★×7||
+|~||[[GO MY WAY!!>難易度表/おに/GO MY WAY!!]]&br;　　SIZE(11){「アイドルマスター」より}|★×7&br;SIZE(10){譜面分岐あり}||
+|~||[[DRIVE A LIVE>難易度表/おに/DRIVE A LIVE]]&br;　　SIZE(11){「アイドルマスター SideM」より}|★×7||
+|~||[[ファンタジーゾーン OPA-OPA! -GMT remix->難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]&br;　　SIZE(11){Hiro(SEGA)&br;　　「ファンタジーゾーン」}|★×7||
+|~||[[太鼓のマーチ>難易度表/おに/太鼓のマーチ]]|★×7||
+|BGCOLOR(orangered):||[[人のお金で焼肉を食したい！>難易度表/おに/人のお金で焼肉を食したい！]]&br;　　SIZE(11){INSPIONスペシャルコラボ}|★×7||
+|~||[[フリフリ♪ノリノリ♪>難易度表/おに/フリフリ♪ノリノリ♪]]&br;　　SIZE(11){「太鼓の達人 Nintendo Switch ば〜じょん！」テーマソング}|★×7||
+|~|【SP】|[[黒神クロニクル>難易度表/おに/黒神クロニクル]]|★×7|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|★×7|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[うさぎのしっぽ>難易度表/おに/うさぎのしっぽ]]|★×7|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[ラーメン de Yo-Men!!>難易度表/おに/ラーメン de Yo-Men!!]]|★×7|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[願いはエスペラント>難易度表/おに/願いはエスペラント]]|★×7|COLOR(blue){''かつメダル''}|
+|~||[[ねぇ教えて>難易度表/おに/ねぇ教えて]]|★×7||
+|~|【SP】|[[テルミン狂想曲>難易度表/おに/テルミン狂想曲]]&br;　　SIZE(11){第42楽章「悲愴」}|★×7|隠し曲|
+|~||[[Phoenix>難易度表/おに/Phoenix]]|★×7||
+|~||[[恋の処方箋>難易度表/おに/恋の処方箋]]|★×7||
+|~||[[ソードバトラーズ>難易度表/おに/ソードバトラーズ]]|★×7||
+|~||[[希望へのメロディー>難易度表/おに/希望へのメロディー]]&br;　　SIZE(11){「太鼓の達人 Vバージョン」テーマソング}|★×7||
+|~||[[世界はいつでもミステリー>難易度表/おに/世界はいつでもミステリー]]&br;　　SIZE(11){「太鼓の達人 ドコドン！ミステリーアドベンチャー」テーマソング}|★×7||
+|~||[[Fly away>難易度表/おに/Fly away]]|★×7||
+|~||[[忍者は最高>難易度表/おに/忍者は最高]]|★×7||
+|~||[[オールナイトdeインデナイ>難易度表/おに/オールナイトdeインデナイ]]|★×7||
+|~||[[想いを手に願いを込めて>難易度表/おに/想いを手に願いを込めて]]|★×7||
+|~||[[ヘイ，ミスタープロフェッサー>難易度表/おに/ヘイ,ミスタープロフェッサー]]|★×7||
+|~||[[地平線のエオリア>難易度表/おに/地平線のエオリア]]|★×7||
+|~||[[オフ&#9832;ロック>難易度表/おに/オフ・ロック]]|★×7||
+|~||[[スポーツダイジェスドン>難易度表/おに/スポーツダイジェスドン]]&br; 　　SIZE(11){〜Fill in The Sky〜}|★×7||
+|~||[[サタデー太鼓フィーバー>難易度表/おに/サタデー太鼓フィーバー]]|★×7||
+|~|【SP】|[[未来への鍵>難易度表/おに/未来への鍵]]|★×7|COLOR(blue){''かつメダル''}|
+|~||[[シャイニング65>難易度表/おに/シャイニング65]]|★×7||
+|~||[[メカデス。>難易度表/おに/メカデス。]]|★×7||
+|~||[[風雲！バチお先生>難易度表/おに/風雲！バチお先生]]|★×7||
+|~||[[伝説の祭り>難易度表/おに/伝説の祭り]]|★×7||
+|~||[[ユウガオノキミ>難易度表/おに/ユウガオノキミ]]|★×7||
+|~|【SP】|[[Many wow bang!>難易度表/おに/Many wow bang!]]|★×7&br;SIZE(10){譜面分岐あり}|隠し曲|
+|~||[[Mulberry>難易度表/おに/Mulberry]]|★×7||
+|~|【SP】|[[白猫きゃらめる夢幻のわたあめ>難易度表/おに/白猫きゃらめる夢幻のわたあめ]]|★×7|COLOR(blue){''かつメダル''}|
+|~|【SP】|[[駄々っ子モンスター>難易度表/おに/駄々っ子モンスター]]|★×7|COLOR(blue){''かつメダル''}|
+|~||[[3Q-4U-AC00>難易度表/おに/3Q-4U-AC00]]|★×7||
+|~||[[SORA-&#8545; グリーゼ581>難易度表/おに/SORA-II グリーゼ581]]|★×7||
+|~||[[季曲>難易度表/おに/季曲 〜Seasons of Asia〜]]&br;　　SIZE(11){〜Seasons of Asia〜}|★×7||
+|~||[[蓄勢>難易度表/おに/蓄勢 〜GEAR UP〜]]&br;　　SIZE(11){〜GEAR UP〜}|★×7||
+|~||[[蛻変>難易度表/おに/蛻変 〜transformation〜]]&br;　　SIZE(11){〜transformation〜}|★×7||
+|~||[[春遊>難易度表/おに/春遊 〜happy excursion〜]]&br;　　SIZE(11){〜happy excursion〜}|★×7||
+|~||[[綻放>難易度表/おに/綻放 〜Blooming〜]]&br;　　SIZE(11){〜Blooming〜}|★×7||
+|~||[[曙光>難易度表/おに/曙光 〜Dawn〜]]&br;　　SIZE(11){〜Dawn〜}|★×7||
+|~||[[花漾>難易度表/おに/花漾 〜Flourishing Blossoms〜]]&br;　　SIZE(11){〜Flourishing Blossoms〜}|★×7||
+|~||[[蝶戀>難易度表/おに/蝶戀 〜Obsession〜]]&br;　　SIZE(11){〜Obsession〜}|★×7||
+|~|【SP】|[[dance storm>難易度表/おに/dance storm]]|★×7|隠し曲|
+|~|【SP】|[[らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん]]|★×7|隠し曲|
+|~||[[サンバ アレグリーア>難易度表/おに/サンバ アレグリーア]]|★×7||
+|~||[[White Rose Insanity>難易度表/おに/White Rose Insanity]]|★×7||
+|~||[[さいたま2000>難易度表/おに/さいたま2000]]|★×7&br;SIZE(10){譜面分岐あり}||
+
+**おに★×6 [#oni6]
+~全78曲（表77曲、裏1曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):||[[U.S.A.>難易度表/おに/U.S.A.]]|★×6||
+|~||[[虹>難易度表/おに/虹(Fischer's)]]&br;　　SIZE(11){Fischer’s‐フィッシャーズ‐}|★×6||
+|~||[[恋>難易度表/おに/恋]]&br;　　SIZE(11){ドラマ「逃げるは恥だが役に立つ」より}|★×6||
+|~||[[見たこともない景色>難易度表/おに/見たこともない景色]]&br;　　SIZE(11){au 三太郎サッカー応援 CMソング}|★×6||
+|~||[[高嶺の花子さん>難易度表/おに/高嶺の花子さん]]&br;　　SIZE(11){back number}|★×6||
+|~||[[やってみよう>難易度表/おに/やってみよう]]&br;　　SIZE(11){WANIMA au「三太郎シリーズ」CMソング}|★×6||
+|~||[[夏祭り>難易度表/おに/夏祭り]]|★×6||
+|~||[[天体観測>難易度表/おに/天体観測]]|★×6||
+|~||[[サイレントマジョリティー>難易度表/おに/サイレントマジョリティー]]|★×6||
+|~||[[海の声>難易度表/おに/海の声]]&br;　　SIZE(11){au「三太郎シリーズ」CMソング}|★×6||
+|~||[[みんながみんな英雄>難易度表/おに/みんながみんな英雄]]&br;　　SIZE(11){au「三太郎シリーズ」CMソング}|★×6||
+|~||[[Highschool&#9825;love>難易度表/おに/Highschool・love]]|★×6||
+|~||[[RPG>難易度表/おに/RPG]]&br;　　SIZE(11){「映画クレヨンしんちゃん バカうまっ！B級グルメサバイバル」より}|★×6||
+|~||[[インベーダーインベーダー>難易度表/おに/インベーダーインベーダー]]|★×6||
+|~||[[PON PON PON>難易度表/おに/PON PON PON]]&br;　　SIZE(11){きゃりーぱみゅぱみゅ}|★×6||
+|~||[[さよならクロール>難易度表/おに/さよならクロール]]&br;　　SIZE(11){「パピコ」CMソング}|★×6||
+|~||[[UZA>難易度表/おに/UZA]]|★×6||
+|~||[[Everyday、カチューシャ>難易度表/おに/Everyday、カチューシャ]]&br;　　SIZE(11){映画「もしドラ」主題歌}|★×6||
+|~||[[ヘビーローテーション>難易度表/おに/ヘビーローテーション]]|★×6||
+|~||[[黒い猫の歌>難易度表/おに/黒い猫の歌]]&br;　　SIZE(11){back number 映画「ルドルフとイッパイアッテナ」主題歌}|★×6||
+|~||[[ラブソングはとまらないよ>難易度表/おに/ラブソングはとまらないよ]]&br;　　SIZE(11){「カルピスウォーター」CMソング}|★×6||
+|~||[[じょいふる>難易度表/おに/じょいふる]]|★×6||
+|~||[[HOWEVER>難易度表/おに/HOWEVER]]&br;　　SIZE(11){GLAY}|★×6||
+|~||[[嘘>難易度表/おに/嘘]]|★×6||
+|BGCOLOR(orange):||[[Heavenly Visitor>難易度表/おに/Heavenly Visitor]]&br;　　SIZE(11){「アイドリッシュセブン」より}|★×6||
+|~||[[どこまでも〜How Far I'll Go〜>難易度表/おに/どこまでも〜How Far I'll Go〜]]&br;　　SIZE(11){ 「モアナと伝説の海」より}|★×6||
+|~||[[SHINE!! キラキラ☆プリキュアアラモード>難易度表/おに/SHINE!! キラキラ☆プリキュアアラモード]]|★×6||
+|~||[[LUCKYSTAR>難易度表/おに/LUCKYSTAR]]&br;　　SIZE(11){ 「宇宙戦隊キュウレンジャー」より}|★×6||
+|~||[[Reason!!>難易度表/おに/Reason!!]]&br;　　SIZE(11){「アイドルマスター SideM」より}|★×6||
+|~||[[WiSH VOYAGE>難易度表/おに/WiSH VOYAGE]]&br;　　SIZE(11){「アイドリッシュセブン」より}|★×6||
+|~||[[怒りをくれよ>難易度表/おに/怒りをくれよ]]&br;　　SIZE(11){「ワンピース フィルム ゴールド」より}|★×6||
+|~||[[超絶☆ダイナミック！>難易度表/おに/超絶☆ダイナミック！]]&br;　　SIZE(11){「ドラゴンボール超」より}|★×6||
+|~||[[スタートライン！>難易度表/おに/スタートライン！]]&br;　　SIZE(11){「アイカツスターズ！」より}|★×6||
+|~||[[crossing field>難易度表/おに/crossing field]]&br;　　SIZE(11){「ソードアート・オンライン」より}|★×6||
+|~||[[Hard Knock Days>難易度表/おに/Hard Knock Days]]&br;　　SIZE(11){「ワンピース」より}|★×6||
+|~||[[ゲッタバンバン>難易度表/おに/ゲッタバンバン]]&br;　　SIZE(11){「ポケットモンスター XY」より}|★×6||
+|~||[[君をのせて>難易度表/おに/君をのせて]]&br;　　SIZE(11){「天空の城ラピュタ」より}|★×6||
+|~||[[ハルウタ>難易度表/おに/ハルウタ]]&br;　　SIZE(11){「名探偵コナン 11人目のストライカー」より}|★×6||
+|~||[[名探偵コナン メイン・テーマ>難易度表/おに/名探偵コナン メイン・テーマ]]|★×6||
+|BGCOLOR(magenta):||[[おおブレネリ>難易度表/おに/おおブレネリ]]|★×6||
+|BGCOLOR(lime):||[[エビカニクス>難易度表/おに/エビカニクス]]&br;　　SIZE(11){ケロポンズ}|★×6||
+|~||[[やわらか戦車>難易度表/おに/やわらか戦車]]|★×6||
+|~||[[くまもとサプライズ！>難易度表/おに/くまもとサプライズ！]]&br;　　SIZE(11){くまモン体操}|★×6||
+|~||[[Ne&#71;a／Po&#83;i* ラブ／コール>難易度表/おに/NeGa／PoSi* ラブ／コール]]&br;　　SIZE(11){東方Projectアレンジ 凋叶棕}|★×6||
+|BGCOLOR(gold):||[[天国と地獄 序曲>難易度表/おに/天国と地獄 序曲]]&br;　　SIZE(11){オッフェンバック}|★×6&br;SIZE(10){譜面分岐あり}||
+|~||[[第九交響曲>難易度表/おに/第九交響曲]]&br;　　SIZE(11){ベートーヴェン}|★×6||
+|~||[[亡き王女のためのパヴァーヌ>難易度表/おに/亡き王女のためのパヴァーヌ]]&br;　　SIZE(11){〜きみのこどう〜}|★×6||
+|BGCOLOR(darkorchid):||[[スーパードラゴンボールヒーローズ テーマソング>難易度表/おに/スーパードラゴンボールヒーローズ テーマソング]]|★×6||
+|~||[[ドラゴンボールヒーローズ>難易度表/おに/ドラゴンボールヒーローズ 邪悪龍ミッションシリーズ テーマソング]]&br;　　SIZE(11){邪悪龍ミッションシリーズ テーマソング}|★×6||
+|~||[[ドラゴンボールヒーローズ>難易度表/おに/ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング]]&br;　　SIZE(11){ギャラクシーミッションシリーズ テーマソング}|★×6||
+|~||[[キミとボクのミライ>難易度表/おに/キミとボクのミライ]]&br;　　SIZE(11){「グランブルーファンタジー」より}|★×6||
+|~||[[くらえ！ブットバースト！！>難易度表/おに/くらえ！ブットバースト!!]]&br;　　SIZE(11){「友情装着！ブットバースト」より}|★×6||
+|~||[[Star!!>難易度表/おに/Star!!]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×6||
+|~||[[GOIN’!!!>難易度表/おに/GOIN’!!!]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×6||
+|~||[[Shine!!>難易度表/おに/Shine!!]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×6||
+|~||[[S(mile)ING!>難易度表/おに/S(mile)ING!]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×6||
+|~||[[ミツボシ☆☆★>難易度表/おに/ミツボシ☆☆★]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×6||
+|~||[[TOKIMEKIエスカレート>難易度表/おに/TOKIMEKIエスカレート]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×6||
+|~||[[Tulip>難易度表/おに/Tulip]]&br;　　SIZE(11){「アイドルマスター シンデレラガールズ」より}|★×6||
+|~|BGCOLOR(#fff):|BGCOLOR(#fff):[[魔法をかけて！(裏譜面)>難易度表/おに/魔法をかけて！(裏譜面)]]&br;　　SIZE(11){「アイドルマスター」より}|BGCOLOR(#fff):★×6|BGCOLOR(#fff):|
+|~||[[M@STERPIECE>難易度表/おに/M@STERPIECE]]&br;　　SIZE(11){「アイドルマスター」より}|★×6||
+|~||[[ONLY MY NOTE>難易度表/おに/ONLY MY NOTE]]&br;　　SIZE(11){「アイドルマスター」より}|★×6||
+|~||[[きゅんっ！ヴァンパイアガール>難易度表/おに/きゅんっ！ヴァンパイアガール]]&br;　　SIZE(11){「アイドルマスター」より}|★×6||
+|~||[[READY!!>難易度表/おに/READY!!]]&br;　　SIZE(11){「アイドルマスター」より}|★×6||
+|BGCOLOR(orangered):||[[鏡の国のアリス>難易度表/おに/鏡の国のアリス]]&br;　　SIZE(11){伊東歌詞太郎}|★×6||
+|~||[[タイムトラベラー>難易度表/おに/タイムトラベラー]]&br;　　SIZE(11){伊東歌詞太郎}|★×6||
+|~||[[ナツモノ☆>難易度表/おに/ナツモノ☆]]&br;　　SIZE(11){たんきゅんデモクラシー}|★×6||
+|~|【SP】|[[おばけのお仕事>難易度表/おに/おばけのお仕事]]|★×6|隠し曲|
+|~|【SP】|[[キミと響くハーモニー>難易度表/おに/キミと響くハーモニー]]&br;　　SIZE(11){「太鼓の達人 ちびドラゴンと不思議なオーブ」テーマソング}|★×6|隠し曲|
+|~||[[超時空アドベンチャー>難易度表/おに/超時空アドベンチャー]]&br;　　SIZE(11){「太鼓の達人 どんとかつの時空大冒険」テーマソング}|★×6||
+|~||[[My Mine>難易度表/おに/My Mine]]|★×6||
+|~||[[Growing Up>難易度表/おに/Growing Up]]|★×6||
+|~||[[犬吠える>難易度表/おに/犬吠える]]|★×6||
+|~||[[マーブルハート>難易度表/おに/マーブルハート]]|★×6||
+|~||[[虹色・夢色・太鼓色>難易度表/おに/虹色・夢色・太鼓色]]|★×6||
+|~||[[友情ぽっぷ>難易度表/おに/友情ぽっぷ]]|★×6||
+
+**おに★×5 [#oni5]
+~全24曲（表24曲、裏0曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):||[[友よ 〜この先もずっと…>難易度表/おに/友よ 〜この先もずっと…]]&br;　　SIZE(11){「映画クレヨンしんちゃん 爆睡！ユメミーワールド大突撃」より}|★×5||
+|~||[[365日の紙飛行機>難易度表/おに/365日の紙飛行機]]|★×5||
+|~||[[真夏のSounds good!>難易度表/おに/真夏のSounds good!]]|★×5||
+|~||[[フライングゲット>難易度表/おに/フライングゲット]]|★×5||
+|~||[[KISS KISS BANG BANG>難易度表/おに/KISS KISS BANG BANG]]&br;　　SIZE(11){「アサヒ飲料十六茶CM」より}|★×5||
+|~||[[リンダリンダ>難易度表/おに/リンダリンダ]]|★×5||
+|BGCOLOR(orange):||[[ルパンレンジャーVSパトレンジャー>難易度表/おに/ルパンレンジャーVSパトレンジャー]]|★×5||
+|~||[[Be The One>難易度表/おに/Be The One]]&br;　　SIZE(11){「仮面ライダービルド」より}|★×5||
+|~||[[ロードムービー>難易度表/おに/ロードムービー]]&br;　　SIZE(11){「映画クレヨンしんちゃん 襲来！！ 宇宙人シリリ」主題歌より}|★×5||
+|~||[[ス・マ・イ・ル>難易度表/おに/ス・マ・イ・ル]]&br;　　SIZE(11){「はなかっぱ」より}|★×5||
+|~||[[キミに100パーセント>難易度表/おに/キミに100パーセント]]&br;　　SIZE(11){「クレヨンしんちゃん」より}|★×5||
+|~||[[動物戦隊ジュウオウジャー>難易度表/おに/動物戦隊ジュウオウジャー]]|★×5||
+|~||[[となりのトトロ>難易度表/おに/となりのトトロ]]|★×5||
+|~||[[ドリームパレード>難易度表/おに/ドリームパレード]]&br;　　SIZE(11){「プリパラ」より}|★×5||
+|~||[[さんぽ>難易度表/おに/さんぽ]]&br;　　SIZE(11){「となりのトトロ」より}|★×5||
+|~||[[ロックン・ハート！>難易度表/おに/ロックン・ハート！]]&br;　　SIZE(11){「たまごっち！ゆめキラドリーム」より}|★×5||
+|BGCOLOR(lime):||[[ココロ転がせっ！>難易度表/おに/ココロ転がせっ！]]&br;　　SIZE(11){コロコロコミック35周年応援ソング}|★×5||
+|BGCOLOR(darkorchid):||[[MANKAI☆開花宣言>難易度表/おに/MANKAI☆開花宣言]]&br;　　SIZE(11){「A3!」主題歌}|★×5||
+|~||[[Extreme MGG★★★>難易度表/おに/Extreme MGG★★★]]&br;　　SIZE(11){「ミュージックガンガン！2」より}|★×5||
+|~||[[The world is all one !!>難易度表/おに/The world is all one !!]]&br;　　SIZE(11){「アイドルマスター」より}|★×5||
+|BGCOLOR(orangered):||[[太鼓ラブ！>難易度表/おに/太鼓ラブ！]]|★×5||
+|~|【SP】|[[きみのあかり>難易度表/おに/きみのあかり]]|★×5|COLOR(blue){''かつメダル''}|
+
+**おに★×4 [#oni4]
+~全7曲（表7曲、裏0曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):||[[美女と野獣>難易度表/おに/美女と野獣]]|★×4||
+|BGCOLOR(orange):||[[Let It Go〜ありのままで〜>難易度表/おに/Let It Go〜ありのままで〜]]&br;　　SIZE(11){「アナと雪の女王」より}|★×4||
+|~||[[みらくる☆トラベル>難易度表/おに/みらくる☆トラベル]]&br;　　SIZE(11){「たまごっち！みらくるフレンズ」より}|★×4||
+|~||[[夢をかなえてドラえもん>難易度表/おに/夢をかなえてドラえもん]]|★×4||
+|~||[[おどるポンポコリン>難易度表/おに/おどるポンポコリン]]&br;　　SIZE(11){「ちびまる子ちゃん」より}|★×4||
+|BGCOLOR(darkorchid):||[[ミュージック・リボルバー>難易度表/おに/ミュージック・リボルバー]]&br;　　SIZE(11){「ミュージックガンガン！2」より}|★×4||
+|BGCOLOR(orangered):||[[どん子のファーストデート>難易度表/おに/どん子のファーストデート]]|★×4||
+
+**おに★×3 [#oni3]
+~全5曲（表5曲、裏0曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):||[[よく遊びよく学べ>難易度表/おに/よく遊びよく学べ]]|★×3||
+|~||[[愛唄>難易度表/おに/愛唄]]|★×3||
+|BGCOLOR(orange):||[[限界突破×サバイバー>難易度表/おに/限界突破×サバイバー]]&br;　　SIZE(11){ 「ドラゴンボール超」より}|★×3||
+|~||[[トライ・エヴリシング>難易度表/おに/トライ・エヴリシング]]&br;　　SIZE(11){「ズートピア」より}|★×3||
+|~||[[ドラえもんのうた>難易度表/おに/ドラえもんのうた]]|★×3||
+
+**おに★×2 [#oni2]
+~全4曲（表4曲、裏0曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):||[[明日も>難易度表/おに/明日も]]&br;　　SIZE(11){NTTドコモ「ドコモの学割」CMソング}|★×2||
+|~||[[キセキ>難易度表/おに/キセキ]]&br;　　SIZE(11){ドラマ「ROOKIES」より}|★×2||
+|BGCOLOR(orange):||[[We can!! HUGっと！プリキュア>難易度表/おに/We can!! HUGっと！プリキュア]]|★×2||
+|~||[[崖の上のポニョ>難易度表/おに/崖の上のポニョ]]|★×2||
+
+**おに★×1 [#oni1]
+~全4曲（表3曲、裏1曲）
+
+|1|CENTER:40|315|CENTER:65||c
+|>|>|CENTER:''曲名''|BGCOLOR(#f2c):COLOR(#000):''おに''|CENTER:''備考''|h
+|BGCOLOR(cyan):|BGCOLOR(#fff):|BGCOLOR(#fff):[[恋(裏譜面)>難易度表/おに/恋(裏譜面)]]&br;　　SIZE(11){ドラマ「逃げるは恥だが役に立つ」より}|BGCOLOR(#fff):★×1|BGCOLOR(#fff):|
+|BGCOLOR(orange):||[[いつも何度でも>難易度表/おに/いつも何度でも]]&br;　　SIZE(11){「千と千尋の神隠し」より}|★×1||
+|~||[[アンパンマンのマーチ>難易度表/おに/アンパンマンのマーチ]]|★×1||
+|BGCOLOR(magenta):||[[もりのくまさん>難易度表/おに/もりのくまさん]]|★×1||
+
+//サヨナラ曲一覧は編集が止まっていたのと、需要がない情報だったと思われるので消しました

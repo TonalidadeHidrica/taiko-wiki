@@ -1,0 +1,29 @@
+*I Wish For You [#title]
+***詳細・攻略 [#more]
+-「2010世界バレー」テーマソング。
+-詳細は以下の通り：
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''PSPDX''&br;Wii4&br;iOS|★×5|''301''|''722330点''|＋連打|650点|170点|
+|AC15.1.0〜15.5.4||~|~|''734500点''|~|710点|208点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''988200点''}|~|COLOR(#ff3300){3050点}|-|
+-BPMは119。
+-連打秒数目安・・・''約1.723秒''−約0.462秒×2−約0.966秒−SIZE(16){''約2.479秒''}：合計約6.092秒
+-[[ふつう>難易度表/ふつう/I Wish For You]]とはコンボ数が2倍以上離れている。
+-速度は遅いが16分と8分の複合がかなり多い。
+-[[おに>難易度表/おに/I Wish For You]]とは違って★×5にしては骨のある譜面。
+-曲名の読み方は、''アイ ウィッシュ フォー ユー''。
+-アーティストは、''EXILE''。
+-曲IDは、''iwish''。
+-[[かんたん>難易度表/かんたん/I Wish For You]]
+-[[ふつう>難易度表/ふつう/I Wish For You]]
+-[[おに>難易度表/おに/I Wish For You]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=qV4rjUJASw4]]
+
+***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#3333ff){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(i.png,nolink);

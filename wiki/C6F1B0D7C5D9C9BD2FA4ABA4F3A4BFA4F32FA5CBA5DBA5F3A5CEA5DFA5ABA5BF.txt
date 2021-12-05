@@ -1,0 +1,18 @@
+*ニホンノミカタ -ネバダカラキマシタ- [#fd84560f]
+***詳細・攻略 [#h92370ab]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12増''〜14|CENTER:Wii2|CENTER:★×3|CENTER:''90''|CENTER:''333100点''|CENTER:+連打|CENTER:910点|CENTER:390点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''337820点''}|~|CENTER:COLOR(#ff3300){2980点}|CENTER:-|
+-BPMは140。
+-4分音符の3連打が多い。8分音符や複合はなし。
+----
+-[[ふつう>難易度表/ふつう/ニホンノミカタ]] 
+-[[むずかしい>難易度表/むずかしい/ニホンノミカタ]] 
+-[[おに>難易度表/おに/ニホンノミカタ]] 
+-[[オート動画>https://www.youtube.com/watch?v=KZHe-rNGfH4]]
+
+***コメント [#e57dc3a0]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(2honno.png,nolink);

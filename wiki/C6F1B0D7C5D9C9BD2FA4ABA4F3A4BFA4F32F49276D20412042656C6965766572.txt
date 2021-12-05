@@ -1,0 +1,20 @@
+*I'm A Believer [#t516e609]
+***詳細・攻略 [#f98cebcf]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''|CENTER:★×1|CENTER:''129''|''373720点''|＋連打|900点|310点|
+-BPMは161。
+-連打秒数目安・・・約1.087秒
+-★×1だが、8分音符の3連打が4箇所、2連打が8箇所ある。
+-映画「シュレック」に使用された曲である。
+-アーティストは、''Smash Mouth(スマッシュ･マウス)''。
+
+-[[ふつう>難易度表/ふつう/I'm A Believer]]
+-[[むずかしい・おに>難易度表/おに/I'm A Believer]]
+-[[プレイ動画>https://www.youtube.com/watch?v=TWvCUhFQHBs]]
+
+***コメント [#h315748c]
+#pcomment(,noname)
+
+***譜面 [#ide3d4eb]
+&attachref('.png,nolink);

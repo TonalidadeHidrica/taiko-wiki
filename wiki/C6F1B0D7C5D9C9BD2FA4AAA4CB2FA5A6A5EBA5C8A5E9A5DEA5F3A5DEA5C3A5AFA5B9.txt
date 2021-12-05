@@ -1,0 +1,28 @@
+*ウルトラマンマックス [#title]
+-「[[''ウルトラマンマックス''>アニメ別収録曲#ultra]]」のOP曲。
+***詳細 [#detail]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC8''|★×5|COLOR(#909):''277&br;COLOR(#069):249&br;COLOR(#666):229''|''873920点''|＋連打|850点|230点|
+
+***譜面構成・攻略 [#capture]
+-BPMは170。
+-このコースのみHS1.2がかかっているため、初見では少し見切りづらい。
+--ちなみに、見た目BPMは204。
+
+***その他 [#other]
+-アーティストは、''TEAM DASH with Project DMM''。
+--作詞は、及川眠子。作曲・編曲は、高梨康治。
+-曲IDは、''max''。
+----
+-[[かんたん>難易度表/かんたん/ウルトラマンマックス]]
+-[[ふつう>難易度表/ふつう/ウルトラマンマックス]]
+-[[むずかしい>難易度表/むずかしい/ウルトラマンマックス]]
+-プレイ動画
+--[[COLOR(#666):普通譜面>http://www.youtube.com/watch?v=ogct7cGkOL8]]/[[COLOR(#069):玄人譜面>http://www.youtube.com/watch?v=SqxYLPVPpsM]]/[[COLOR(#909):達人譜面>http://www.youtube.com/watch?v=u_J5zMMdYnw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(max.png,nolink);

@@ -1,0 +1,20 @@
+*六本木　〜GIROPPON〜 [#j49ce036]
+***詳細・攻略 [#ed998de1]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''&br;AC12増|CENTER:★×5|CENTER:''326''|CENTER:''893010点''|CENTER:＋連打|CENTER:820点|CENTER:190点|
+-BPMは165。
+-連打秒数目安…1.242秒−''0.879秒''：合計約2.121秒
+-繰り返しのところが多い。
+-あの「ぽぽぽ地帯」は存在しない。その前に曲が終わる。
+-アーティストは、''鼠（ねずみ）先輩''。
+
+-[[かんたん>難易度表/かんたん/六本木〜GIROPPON〜]]
+-[[ふつう>難易度表/ふつう/六本木〜GIROPPON〜]]
+-[[むずかしい>難易度表/むずかしい/六本木〜GIROPPON〜]]
+-[[プレイ動画>https://www.youtube.com/watch?v=Ev4gdgKxZhc]]
+
+***コメント [#m2b15902]
+#pcomment(,noname)
+
+***譜面 [#n102b4a2]
+&attachref(六本木_2.png,nolink);

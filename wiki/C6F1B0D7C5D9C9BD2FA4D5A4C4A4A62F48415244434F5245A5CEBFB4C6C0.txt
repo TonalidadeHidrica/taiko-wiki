@@ -1,0 +1,30 @@
+*HARDCOREノ心得 [#title]
+
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.9.6SP''|PS4 1DL|★×7|''347''|''654140点''|＋連打|520点|120点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''983620点''}|~|COLOR(#ff3300){2380点}|-|
+||iOS&br;AR|~|~|''?????0点''|~|???点|???点|
+
+***譜面構成・攻略 [#capture]
+-BPMは15.83?〜''380''。曲そのもののBPMは190である。
+-連打秒数目安・・・SIZE(16){''約0.3秒''}−''約1.865秒''−SIZE(16){''約1.865秒''}−''約1.865秒''−SIZE(16){約0.58秒}−約0.921秒−SIZE(16){''約0.921秒''}−約2.184秒：合計9.921秒
+--至る所でBPM変化が起きており、倍取りされているところもあれば半減しているところもある。
+
+***その他 [#other]
+-アーティストは、''DJ Myosuke''。
+--2009年より活動しているハードコアDJ。自レーベル「Psycho Filth Records」「Japanese Stream Hardcore」「FREAKIN WORKS」を設立しているほか、「[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]」のメンバーでもある。
+--「HARDCORE TANO*C」メンバーの太鼓の達人進出はこれで6人目。
+----
+-[[かんたん>難易度表/かんたん/HARDCOREノ心得]]
+-[[むずかしい>難易度表/むずかしい/HARDCOREノ心得]]
+-[[おに>難易度表/おに/HARDCOREノ心得]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=AItfUsiWiiw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+~暫定版
+~&attachref(ハードコアふつう.png,nolink);

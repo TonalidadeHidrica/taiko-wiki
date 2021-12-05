@@ -1,0 +1,34 @@
+*KISS KISS BANG BANG [#title]
+***詳細・攻略 [#more]
+-アサヒ飲料「''十六茶''」CMソング。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.2.0|CENTER:''3DS1''|CENTER:★×4|CENTER:''179''|CENTER:''520030点''|CENTER:＋連打|CENTER:730点|CENTER:253点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4290点}|CENTER:-|
+||CENTER:iOS&br;PSPDXDL|~|~|CENTER:''495720点''|~|CENTER:700点|CENTER:180点|
+-BPMは154。
+-連打秒数目安・・・''約0.942秒''×4−約0.747秒×2−SIZE(16){約0.747秒}×3−SIZE(16){約1.526秒}−''約0.942秒''×4：合計約12.792秒
+-裏拍配置が多く、小節にかかっている音符は21個しかない（全73小節）。
+-大音符がかなり多く、47個ある（全体の約26.3%）。
+-速度は至って普通だが、全体的に8分がかなり多い。
+--8分は単色の2連打しかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は数がそんなに多くない。
+-8分の2連打が3連続で出てくるゴーゴーに注意。
+
+***その他 [#other]
+-アーティストは、''いきものがかり''。
+--作詞・作曲は、水野良樹。
+-譜面作成は、''くぼけん''。
+-PSPDXでは、2015年9月30日をもって新規DLができなくなった。
+-[[ムラサキver.段位道場>段位道場#murasaki]]の八級3曲目課題曲となった。
+
+-[[かんたん>難易度表/かんたん/KISS KISS BANG BANG]]
+-[[むずかしい>難易度表/むずかしい/KISS KISS BANG BANG]]
+-[[おに>難易度表/おに/KISS KISS BANG BANG]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=MH_AvhXUs8s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(KKBB_普通.png,nolink);

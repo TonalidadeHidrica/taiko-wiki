@@ -1,0 +1,30 @@
+*Together [#title]
+***詳細・攻略 [#more]
+-「''ポケットモンスター ダイヤモンド&パール''」のOP1。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''DS1''|CENTER:★×3|CENTER:''78''|CENTER:''391020点''|CENTER:＋連打|CENTER:1520点|CENTER:700点|
+|CENTER:''AC10''-13&br;AC11亜&br;AC12亜|CENTER:Wii1|CENTER:★×1|~|CENTER:''369870点''|~|CENTER:1440点|CENTER:660点|
+-BPMは137。
+-黄色連打が多い連打曲である。
+-4分が主体の譜面で、8分は1回も出て来ない。
+--また、4分は全て単色しかない。
+--ただし、4分は3連続で出てくる箇所もあるので油断は禁物。
+-序盤で1回だけ出てくる4分の単色4連打に注意。
+-★×3にしては簡単な方だったが、AC10で★×1に降格した。
+
+***その他 [#other]
+-アーティストは、[[''あきよしふみえ''>アーティスト別収録曲#akiyoshi]]。
+--作詞は、D&Pプロジェクト。作曲は、Rie。編曲は、市川淳。
+-曲IDは、''dp''
+----
+-[[かんたん>難易度表/かんたん/Together]]
+-[[むずかしい>難易度表/むずかしい/Together]]
+-[[おに>難易度表/おに/Together]]
+-[[オート動画>http://www.youtube.com/watch?v=egzaItqo21M]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(Together-normal.png,nolink);

@@ -1,0 +1,37 @@
+*only my railgun [#title]
+-アニメ[[「''とある科学の&ruby(レールガン){超電磁砲};''」>アニメ別収録曲#toaru]]のOP1。
+***詳細 [#detail]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|AC15.11.0|CENTER:''PS Vita1''&br;Wii U3DL&br;PS4 1DL|CENTER:★×6|CENTER:''263''|CENTER:''780620点''|CENTER:＋連打|CENTER:850点|CENTER:253点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3480点}|CENTER:-|
+|AC16.1.0||~|~|''??????0点''|~|???0点|-|
+||iOS&br;AR|~|~|''?????0点''|~|???点|???点|
+
+***譜面構成・攻略 [#capture]
+-BPMは143。
+-黄色連打がかなり多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-速度は至って普通だが、全体的に16分がかなり多い。
+--16分は単色の3連打までしかないが、連続して出てくる箇所もある。
+--ただし、8分の複合は4連打までしかない。
+-8分の複合と16分が何度も出てくるゴーゴーに注意。
+
+***その他 [#other]
+-アーティストは、''fripSide''。
+--作詞は、八木沼悟志・yuki-ka。作曲・編曲は、八木沼悟志。
+-譜面作成は、[[''カワーゲン・コラーゲン''>譜面作成者一覧/カワーゲン・コラーゲン]]。
+-曲IDは、''railgn''。
+----
+-[[かんたん>難易度表/かんたん/only my railgun]]
+-[[ふつう>難易度表/ふつう/only my railgun]]
+-[[おに>難易度表/おに/only my railgun]]
+-[[オート動画>https://www.youtube.com/watch?v=VEgC6r2lfQY]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(only my railgun_hard.png,nolink);

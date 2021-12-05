@@ -1,0 +1,33 @@
+*Inscrutable Battle [#title]
+-テレビ朝日系列「''大改造!!劇的ビフォーアフター''」で使われたBGM。
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''3DS3DL''|★×9|''274''|''1101580点''|1260点|400点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1001880点''}|COLOR(#ff3300){3630点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは141。
+-''完全精度曲''のひとつ。
+-平均密度は''約5.97打/秒''。
+
+***その他 [#more]
+-作･編曲は、''松谷卓''｡
+--なお､この曲は元々この番組の為に作られた曲ではない。
+-「Inscrutable Battle」は直訳で不可解な(謎めいた・理解できない)戦いと言う意味。
+-[[大改造!!劇的ビフォーアフターメドレー>難易度表/おに/大改造！！劇的ビフォーアフターメドレー]]のWii5譜面をさらに短縮したバージョンで、AC13譜面の1〜21小節目前半＆57小節目後半〜ラストのミックス。ゴーゴータイムが追加されたが、譜面に変更は無い。
+-[[Grip!>難易度表/おに/Grip!]]を抜き、[[''おに★×9で最もコンボ数が少ない曲''>コンボ数順/おに#stmin]]となった。
+-曲IDは、''gekit4''
+----
+-[[かんたん>難易度表/かんたん/Inscrutable Battle]]
+-[[ふつう>難易度表/ふつう/Inscrutable Battle]]
+-[[むずかしい>難易度表/むずかしい/Inscrutable Battle]]
+-[[オート動画>https://www.youtube.com/watch?v=w9LDSi7sQu4]]
+
+***コメント [#comment]
+-&color(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''};
+-&color(#3333ff){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''};
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(なんということをしてくれたのでしょう.png,nolink);

@@ -1,0 +1,18 @@
+*美好時光 [#title]
+***詳細・攻略[#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12亜''|CENTER:★×7|CENTER:''317''|CENTER:''?????0点''|CENTER:＋連打|CENTER:900点|CENTER:230点|
+
+-BPMは30.22〜約96。
+-アーティストは、''光良&阿穆隆''。
+
+-[[かんたん>難易度表/かんたん/美好時光]]
+-[[ふつう>難易度表/ふつう/美好時光]]
+-[[むずかしい>難易度表/むずかしい/美好時光]]
+-[[プレイ動画>http://v.youku.com/v_show/id_XMjk1MTE3MzQ1Mg==.html?spm=a2hzp.8253869.0.0]]
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(a12c25_m.png,nolink);

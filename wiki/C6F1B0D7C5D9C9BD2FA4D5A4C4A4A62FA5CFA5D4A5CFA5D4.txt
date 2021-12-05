@@ -1,0 +1,27 @@
+*ハピハピ [#t81132ab]
+ 
+***詳細・攻略 [#ccaf9b2d]
+-アニメ''「クレヨンしんちゃん」''のOP11
+-詳細は以下の通り。
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+||CENTER:''DS3''|CENTER:★×4|CENTER:''105''|CENTER:''540900点''|CENTER:＋連打|CENTER:1260点|CENTER:460点|
+|CENTER:AC14||~|~|CENTER:''541920点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''546120点''}|~|CENTER:COLOR(#ff3300){3960点}|CENTER:-|
+|CENTER:AC15.1.0||CENTER:★×3|~|CENTER:''493920点''|~|CENTER:1160点|CENTER:670点|
+|CENTER:AC15.2.0〜15.5.4||~|~|CENTER:''493980点''|~|CENTER:1170点|CENTER:668点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''994620点''}|~|CENTER:COLOR(#ff3300){7360点}|CENTER:-|
+-BPMは194。ただし、HS0.8がかかっている。
+-4分音符が主体の譜面。
+-アーティストは''ベッキー♪#''
+-曲IDは、''haphap''。
+
+-[[かんたん>難易度表/かんたん/ハピハピ]]
+-[[むずかしい>難易度表/むずかしい/ハピハピ]]
+-[[おに>難易度表/おに/ハピハピ]]
+-[[プレイ動画(AC15)>https://www.youtube.com/watch?v=9AJwWAoL8ls]]
+
+***コメント [#e34deedf]
+#pcomment(,noname)
+
+***譜面 [#h782597e]
+&attachref(haphap.png,nolink);

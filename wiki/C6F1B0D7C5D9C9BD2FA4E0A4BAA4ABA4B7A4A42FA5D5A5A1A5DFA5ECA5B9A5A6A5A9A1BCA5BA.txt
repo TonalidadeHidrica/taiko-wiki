@@ -1,0 +1,33 @@
+*ファミレスウォーズ [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.2.0SP''|CENTER:Wii5SP|CENTER:★×5|CENTER:''387''|CENTER:''731760点''|CENTER:＋連打|CENTER:480点|CENTER:125点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){2080点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''992720点''|~|CENTER:2560点|CENTER:-|
+||CENTER:iOS&br;AR|~|~|CENTER:''725220点''|~|CENTER:410点|CENTER:110点|
+
+-BPMは190。
+-黄色連打が多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符が多く、76個ある（全体の約19.6%）。
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
+--ただし、8分の複合は3連打までしかない。
+-大音符が密集している98〜105小節に注意。
+
+***その他 [#other]
+-歌唱は、''愛原圭織''。
+--作詞・作曲は、みらゐ。
+-譜面作成は、''エトウ''。
+
+-[[かんたん>難易度表/かんたん/ファミレスウォーズ]]
+-[[ふつう>難易度表/ふつう/ファミレスウォーズ]]
+-[[おに>難易度表/おに/ファミレスウォーズ]]
+-[[オート動画(Wii5)>https://www.youtube.com/watch?v=VFLEHK93Byo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(fa3res_h.png,nolink);

@@ -1,0 +1,34 @@
+*Toxic [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''|CENTER:★×2|CENTER:''117''|CENTER:''457470点''|CENTER:＋連打|CENTER:1150点|CENTER:420点|
+|CENTER:AC7|CENTER:★×3|CENTER:''103''|CENTER:''?????0点''|~|CENTER:800点|CENTER:360点|
+-BPMは144。
+-米TDM版は8分の○●がかなり多い(計14回)。
+--''下手なふつうコースより難しいので要注意。''
+-AC7で★×3に昇格し、8分は全て消滅した。クリア難易度は妥当だろう。
+----
+-DP譜面の詳細は以下の通り：
+|CENTER:バージョン((太字は初出))||CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''|CENTER:1P|CENTER:★×2|CENTER:''124''|CENTER:''444920点''|CENTER:＋連打|CENTER:1080点|CENTER:380点|
+|~|CENTER:2P|~|~|CENTER:''444160点''|~|~|~|
+
+-アーティストは''ブリトニー・スピアーズ''。
+-読み方は''トキシック''。
+-[[ふつう>難易度表/ふつう/Toxic]]
+-[[むずかしい・おに>難易度表/おに/Toxic]]
+-[[プレイ動画(AC7)>https://www.youtube.com/watch?v=VA5xh0Kq--w]]
+-[[プレイ動画(米TDM)>http://www.youtube.com/watch?v=WPXsQ3VI4VM]]
+-[[プレイ動画(DP)>http://www.youtube.com/watch?v=qRUTJ6lj0MM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+*** 譜面 [#score]
+~AC7
+&ref(toxic_e.png,nolink);
+~TDM
+&ref(toxic_eo.png,nolink);
+~TDMの２人用譜面
+&ref(toxic_ed.png,nolink);

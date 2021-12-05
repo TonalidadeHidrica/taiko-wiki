@@ -1,0 +1,38 @@
+*only my railgun [#title]
+-アニメ[[「''とある科学の&ruby(レールガン){超電磁砲};''」>アニメ別収録曲#toaru]]のOP1。
+***詳細 [#detail]
+|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|AC15.11.0|''PS Vita1''&br;Wii U3DL&br;PS4 1DL|★×7|''429''|''1001030点''|680点|190点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1000230点''}|COLOR(#ff3300){2310点}|-|
+|AC16.1.0||~|~|''1003860点''|2340点|-|
+||iOS&br;AR|~|~|''?????0点''|???点|???点|
+
+***譜面構成・攻略 [#capture]
+-BPMは143。
+-''完全精度曲''のひとつ。
+-16分音符は基本的に4連打までだが、ラストには9連打(COLOR(red){●}COLOR(blue){●●●}COLOR(red){●}COLOR(blue){●●●}COLOR(red){●})も登場する。
+-1曲を通しての平均密度は、''約4.92打/秒''。
+
+***その他 [#other]
+-アーティストは、''fripSide''。
+--[[南條愛乃>アーティスト別収録曲#nanjo]]起用後の1stシングルである。
+--作詞は、八木沼悟志・yuki-ka。作曲・編曲は、八木沼悟志。
+--他機種と違い、本人音源ではない。
+---シンクロニカにも同じカバー音源で収録されていた。
+-譜面作成は、[[''カワーゲン・コラーゲン''>譜面作成者一覧/カワーゲン・コラーゲン]]。
+-曲IDは、''railgn''。
+-[[グリーンVer.段位道場>過去の段位道場#green]]二段一曲目課題曲となった。
+----
+-[[かんたん>難易度表/かんたん/only my railgun]]
+-[[ふつう>難易度表/ふつう/only my railgun]]
+-[[むずかしい>難易度表/むずかしい/only my railgun]]
+-[[オート動画(Wii U3)>https://youtu.be/cf5-V7Nk46s]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(only my rialgun_2.png,nolink);

@@ -1,0 +1,24 @@
+*Solitude Star [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS4 1DL''|★×7|''464''|''836400点''|＋連打|620点|140点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''985350点''}|~|COLOR(#ff3300){1890点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは178?。
+
+***その他 [#other]
+-アーティストは、''春先 x beet''。
+----
+-[[かんたん>難易度表/かんたん/Solitude Star]]
+-[[ふつう>難易度表/ふつう/Solitude Star]]
+-[[おに>難易度表/おに/Solitude Star]]
+-[[オート動画>https://www.youtube.com/watch?v=DibBBeC5orE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(孤独の星むずかしい.png,nolink);

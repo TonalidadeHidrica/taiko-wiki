@@ -1,0 +1,29 @@
+*WON'T BE LONG [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''DS1''|CENTER:★×3|CENTER:''95''|CENTER:''246430点''|CENTER:＋連打|CENTER:710点|CENTER:950点|
+|CENTER:AC10|CENTER:iOS|~|~|CENTER:''315410点''|~|CENTER:880点|CENTER:330点|
+-BPMは104。 
+-黄色連打が多い連打曲である。
+-大音符がかなり多く、22個ある（全体の約23.2%）。
+-速度は遅めだが、全体的に4分がかなり多い。
+--4分は3連打が主体で、たまに4連打も出てくる。
+--また4分は単色が多いが、複合（●●○）も1回だけ出てくる。
+-中盤で1回だけ出てくる4分の単色5連打に注意。
+
+***その他 [#other]
+-アーティストは、''EXILE'' & ''倖田來未''。
+--因みにこれは''バブルカムブラザーズ''のカバー曲である。
+--作詞・作曲は、Bro.Korn。編曲は、h-wonder。
+-曲IDは、''korn''
+-[[ふつう>難易度表/ふつう/WON'T BE LONG]]
+-[[むずかしい>難易度表/むずかしい/WON'T BE LONG]]
+-[[おに>難易度表/おに/WON'T BE LONG]]
+-[[オート動画>http://www.youtube.com/watch?v=CqqV_CXKE7A]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&ref(うりぉりぉりぉ.png,nolink);

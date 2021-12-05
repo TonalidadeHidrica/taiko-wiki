@@ -1,0 +1,27 @@
+*Lady Marmalade [#f84a1ec8]
+***詳細・攻略 [#c93712af]
+-【1人用譜面】
+- 詳細は以下の通り:
+|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×2|CENTER:''225''|CENTER:''?????0点''|CENTER:820点|CENTER:420点|
+- 黄色連打も風船も無い''完全精度曲''である。
+-米TDMのおに譜面と同一。
+----
+-【2人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×2|CENTER:''187''|CENTER:''??????0点''|CENTER:＋連打|CENTER:980点|CENTER:???点|
+----
+-アーティストは''ラベル(Labelle)''。
+-[[かんたん>難易度表/かんたん/Lady Marmalade]]
+-[[ふつう>難易度表/ふつう/Lady Marmalade]]
+-[[おに>難易度表/おに/Lady Marmalade]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=Y4r4vsbuOYg]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=d4mASrox6R0]]
+
+***コメント [#k46cde7e]
+#pcomment(,noname)
+***譜面 [#ya31fd2b]
+&attachref(Lady Marmalade_h.png,nolink);
+~二人用譜面
+&attachref(ママレードむずかしい.png,nolink);

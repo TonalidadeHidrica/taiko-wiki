@@ -1,0 +1,33 @@
+*The Loco-Motion [#r72428ab]
+**1人用譜面 [#xcc5312c]
+***詳細・攻略 [#more]
+|バージョン((太字は初出))|難易度|最大コンボ数|CENTER:天井スコア|h
+|CENTER:''TDM''|CENTER:★×7|CENTER:''298''|CENTER:''433000点''|
+-BPMは129。
+-''精度曲''のひとつ。
+-やや叩きにくい7連打が出現する36〜39小節が難所だろう。
+-[[オート動画>https://www.youtube.com/watch?v=_-2Jl4A_DbU]]
+**2人用譜面 [#yc3b3fac]
+***詳細・攻略 [#more]
+|>|>|>|>|>|CENTER:|c
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|h
+|CENTER:''TDM''|CENTER:★×7|CENTER:1P|CENTER:''249''|CENTER:''??????点''|CENTER:+連打|
+|~|~|CENTER:2P|CENTER:''253''|CENTER:''??????点''|~|
+-[[プレイ動画>http://www.youtube.com/watch?v=a50Hz25Y4fo]]
+**その他 [#other]
+-アーティストは''カイリー・ミノーグ(Kylie Minogue)''。
+--この曲は[[ロコローション>難易度表/おに/ロコローション]]のカヴァー元でもある。
+-曲IDは''loco''。
+----
+-[[かんたん>難易度表/かんたん/The Loco-Motion]]
+-[[ふつう>難易度表/ふつう/The Loco-Motion]]
+-[[むずかしい>難易度表/むずかしい/The Loco-Motion]]
+
+***コメント [#o9673c80]
+#pcomment(,noname)
+
+***譜面 [#score]
+~1人用譜面
+&attachref(ロコモ１修正.png,nolink);
+~2人用譜面
+&attachref(ロコモ２.png,nolink);

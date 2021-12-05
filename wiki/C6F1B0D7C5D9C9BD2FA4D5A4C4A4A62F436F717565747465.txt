@@ -1,0 +1,29 @@
+*&ruby(コケット){Coquette}; [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.10.8''|PS4 1DL|★×7|''369''|''?????0点''|＋連打|570点|145点|
+|COLOR(#f30){真打}||~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){2420点}|-|
+||iOS&br;AR|~|~|''?????0点''|~|???点|???点|
+
+***譜面構成・攻略 [#capture]
+-BPMは200。
+-平均密度は、''約3.01打/秒''。
+-8分音符の半分以上は複合だが、繰り返しが多め。
+-2回出るCOLOR(blue){●}COLOR(red){●●●}COLOR(blue){●●}COLOR(red){●}の複合に注意。
+
+***その他 [#other]
+-アーティストは''Jun Kuroda''。
+-曲名の意味は、''小悪魔的な女性''([[ソース>https://twitter.com/_JunKuroda/status/1063452193158623232?s=19]])。
+----
+-[[かんたん>難易度表/かんたん/Coquette]]
+-[[むずかしい>難易度表/むずかしい/Coquette]]
+-[[おに>難易度表/おに/Coquette]]
+-[[プレイ動画>https://www.youtube.com/watch?v=UPoOrgRsQtA]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+HS、風船の長さは暫定
+~&attachref(小悪魔的な女性ふつう.png,nolink);

@@ -1,0 +1,14 @@
+*チャレンジお題 梅 [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Wii5''|★×4|''32''|
+-BPMは150。
+-[[プレイ動画>https://www.youtube.com/watch?v=6wIoj9Y3Qdo&=78]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#notes]
+&attachref(梅.png,nolink);

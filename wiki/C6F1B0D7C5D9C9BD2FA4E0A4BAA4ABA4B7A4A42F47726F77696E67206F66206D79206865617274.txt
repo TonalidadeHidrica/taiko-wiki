@@ -1,0 +1,19 @@
+*Growing of my heart[#title]
+***詳細・攻略[#more]
+-''「名探偵コナン」''のOP16。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC8''|★×5|CENTER:''256''|''??????点''|＋連打|770点|220点|
+-BPMは125。
+-アーティストは''倉木麻衣''。
+--この曲はTVサイズの前奏をカットし、歌い終わった後をフェードアウトさせている。
+-[[かんたん>難易度表/かんたん/Growing of my heart]] 
+-[[ふつう>難易度表/ふつう/Growing of my heart]] 
+-[[おに>難易度表/おに/Growing of my heart]] 
+-[[プレイ動画>http://www.youtube.com/watch?v=KjBEqXgcOzY]]
+
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#fumen]
+&attachref(Gomh_h.png,nolink);

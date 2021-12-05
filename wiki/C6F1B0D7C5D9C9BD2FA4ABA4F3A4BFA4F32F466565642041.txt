@@ -1,0 +1,34 @@
+*Feed A [#title]
+***詳細・攻略 [#more]
+-TVアニメ「''GOD EATER''」のOP。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.6.5''|CENTER:PS Vita1DL|CENTER:★×4|CENTER:''98''|CENTER:''336990点''|CENTER:＋連打|CENTER:940点|CENTER:580点|
+||CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|~|CENTER:310点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''982640点''}|~|CENTER:COLOR(#ff3300){8320点}|CENTER:-|
+-BPMは約262。
+--速度がかなり速いが、BPM262地帯に低速HSはかかっていない。
+-黄色連打がかなり多い連打曲である。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-大音符がかなり多く、19個ある（全体の約19.4%）。
+-譜面自体は2分までしかなく、その2分もほとんどが単色である。
+--ただし速度が速いので、譜面についていけないとノルマ落ちする可能性がある。
+--また裏拍配置が多いので、全良難易度は高めである。
+-ゴーゴーで2回出てくる2分の複合6連打に注意。
+--また、ラストの大音符は高速HSがかかっているので、フルコン及び全良狙いの人は特に注意しておきたいところ。
+
+***その他 [#other]
+-アーティストは、''OLDCODEX''。
+--作曲は、Ta_2。編曲は、小山寿。作詞は、YORKE.。
+-曲IDは、''godea4''
+
+-[[ふつう>難易度表/ふつう/Feed A]]
+-[[むずかしい>難易度表/むずかしい/Feed A]]
+-[[おに>難易度表/おに/Feed A]]
+-[[オート動画(キャプチャ)>https://youtube.com/watch?v=xq_QZFFMnpo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(godea4_e.png,nolink);

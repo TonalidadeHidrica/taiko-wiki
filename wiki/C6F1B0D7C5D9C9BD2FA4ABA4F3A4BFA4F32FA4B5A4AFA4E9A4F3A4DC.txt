@@ -1,0 +1,49 @@
+*さくらんぼ [#title]
+***詳細・攻略 [#more]
+-TBS系「''COUNT DOWN TV''」オープニングテーマ、およびフジテレビ系「''めちゃ&sup2;イケてるッ！''」エンディングテーマ。
+-詳細は以下の通り：
+|>|CENTER:バージョン|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''AC6''|CENTER:CS4|CENTER:''J-POP''|CENTER:★×4|CENTER:''114''|CENTER:''491750点''|CENTER:＋連打|CENTER:1310点|CENTER:500点||
+|CENTER:AC7|CENTER:PSP1|~|~|~|CENTER:''359760点''|~|CENTER:900点|CENTER:320点|CENTER:''ゴーゴーバグ&br;あり''|
+|CENTER:AC8、9||~|~|~|CENTER:''355010点''|~|CENTER:920点|CENTER:310点||
+|CENTER:AC12&br;11亜&br;12増、12亜|CENTER:Wii1&br;PSPDXDL&br;iOS|~|~|~|CENTER:''355690点''|~|CENTER:870点|CENTER:320点||
+|CENTER:AC15.1.0|CENTER:Wii U3DL|~|~|~|CENTER:''358140点''|~|CENTER:880点|CENTER:480点||
+||CENTER:PS4 1|CENTER:''ポップス''|~|~|~|~|~|~|~|
+|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''998750点''}|~|CENTER:COLOR(#ff3300){7990点}|CENTER:-||
+|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''999780点''|~|CENTER:8770点|CENTER:-||
+||CENTER:DS1|CENTER:''J-POP''|CENTER:★×3|CENTER:''78''|CENTER:''265560点''|~|CENTER:910点|CENTER:480点||
+-BPMは170。
+-連打秒数目安・・・約1.28秒。
+-4分が主体の譜面で、8分も数が多い。
+--8分は単色の3連打までしかないが、そのほとんどが4分と隣接している。
+--ただし、4分は全て単色しかない。
+-ゴーゴーで1回だけ出てくる4分の単色5連打に注意。
+-DS1のみ譜面が簡略化されており、DS1以外のかんたん譜面=DS1の[[ふつう>難易度表/ふつう/さくらんぼ]]譜面に変更されている。
+
+***その他 [#other]
+-CS4とAC6は曲の長さが現在より長い（歌い手も違う）。
+-アーティストは、''大塚愛''。
+-譜面作成は、''タカハシ''。
+-曲IDは、''skrnb''
+-''2014年11月5日7:00より、無印・KATSU-DON・ソライロ・モモイロバージョンよりサヨナラ''となった。
+--''キミドリVer.以降では今まで通り選曲が可能''。
+-PSPDXでは、2015年9月30日をもって新規DLができなくなった。
+-[[ホワイトVer.段位道場>過去の段位道場#white]]の初級2曲目課題曲、[[レッドVer.段位道場>段位道場#red]]の初級2曲目課題曲となった。
+-[[ふつう>難易度表/ふつう/さくらんぼ]]
+-[[むずかしい>難易度表/むずかしい/さくらんぼ]]
+-[[おに>難易度表/おに/さくらんぼ]]
+-[[オート動画(現行譜面)>https://www.youtube.com/watch?v=YwFvzUDXRxs]]
+-[[プレイ動画(現行譜面)>https://www.youtube.com/watch?v=UweMEMK1wYA]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+-DS1以外の譜面
+-AC7とPSP1は、53小節目がゴーゴータイムではありません。
+-実際は53小節まであります(50〜非ゴーゴー)。
+&attachref(cherry.png,nolink);
+
+-DS1譜面(でんでんはすずで代用)
+-実際は53小節まであります(50〜非ゴーゴー)。
+&attachref(sakura.png,nolink);

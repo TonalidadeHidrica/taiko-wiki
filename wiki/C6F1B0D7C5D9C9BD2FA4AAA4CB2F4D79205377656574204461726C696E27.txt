@@ -1,0 +1,22 @@
+*My Sweet Darlin' [#title]
+***詳細・攻略 [#more]
+-ニコンデジタルカメラ''「COOLPIX 880」''CMソング。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''&br;AC11、12亜|CENTER:★×6|CENTER:''514''|CENTER:''939890点''|CENTER:＋連打|CENTER:560点|CENTER:120点|
+-BPMは157。
+-連打秒数目安・・・約1.306秒−約0.732秒：合計約2.038秒
+-平均密度は、''約4.42打/秒''。
+-16分は殆ど単色3連打で、複合はCOLOR(red){●}COLOR(blue){●}COLOR(red){●}が2回出現するのみ。
+-アーティストは、''矢井田瞳''。
+-曲IDは、''yaiko''。
+-[[かんたん>難易度表/かんたん/My Sweet Darlin']]
+-[[ふつう>難易度表/ふつう/My Sweet Darlin']]
+-[[むずかしい>難易度表/むずかしい/My Sweet Darlin']]
+-[[プレイ動画>https://www.youtube.com/watch?v=lCru1leWQrw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(y.png,nolink);

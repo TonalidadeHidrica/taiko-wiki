@@ -1,0 +1,29 @@
+*Calamity Fortune [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15 第六回秋季例大祭Ver.''&br;AC15.11.9|PS4 1DL|★×4|''201''|''349370点''|＋連打|490点|95点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''992620点''}|~|COLOR(#ff3300){4070点}|-|
+|AC16.1.0||~|~|''??????0点''|~|???点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは200。
+
+***その他 [#other]
+-原曲は、「東方風神録 &#12316; Mountain of Faith.」の5面テーマである「''少女が見た日本の原風景''」。
+-アーティストは、''LeaF''。
+--本楽曲は2013年のBMSイベント「東方音弾遊戯5」初出の[[''BMS楽曲''>BMS楽曲一覧]]である。このイベントは点数評価を行わないイベントであったため、順位は存在しない。
+--BMS楽曲かつ[[東方Projectアレンジ>東方Projectアレンジ楽曲一覧]]でもある曲が収録されるのはこの曲が初の事例となる。
+----
+-[[ふつう>難易度表/ふつう/Calamity Fortune]]
+-[[むずかしい>難易度表/むずかしい/Calamity Fortune]]
+-[[おに>難易度表/おに/Calamity Fortune]]/[[裏譜面>難易度表/おに/Calamity Fortune(裏譜面)]]
+-[[楽曲MV(公式)>https://www.youtube.com/watch?v=L_iSDqqhsBg]]
+-[[BMS>http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~風船の長さは暫定
+~&attachref(早苗かんたん.png,nolink);

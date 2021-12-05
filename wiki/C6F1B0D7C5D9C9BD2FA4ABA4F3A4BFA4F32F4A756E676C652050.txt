@@ -1,0 +1,28 @@
+*Jungle P [#title]
+***詳細・攻略 [#more]
+-アニメ「''ONE PIECE''」のOP9。
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11''&br;AC11亜|Wii1&br;iOS&br;AR|★×2|''70''|''287180点''|＋連打|1220点|590点|
+-BPMは145。
+-黄色連打がかなり多い連打曲である。
+-大音符が多く、10個ある（全体の約14.3%）。
+-ほとんどが2分で、4分は3連打が1回しか出て来ない。
+--また、2分は単色の3連打までしかない。
+-iOSでも残留したが、全体的にスカスカなのでクリアは下位クラスだろう。
+
+***その他 [#other]
+-アーティストは、''5050''。
+-曲IDは、''junglp''
+
+-[[ふつう>難易度表/ふつう/Jungle P]]
+-[[むずかしい>難易度表/むずかしい/Jungle P]]
+-[[おに>難易度表/おに/Jungle P]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=3KREbopCGVM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(Jungle P.png,nolink);

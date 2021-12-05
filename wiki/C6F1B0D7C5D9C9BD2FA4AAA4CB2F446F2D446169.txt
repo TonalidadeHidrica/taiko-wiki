@@ -1,0 +1,43 @@
+*Do-Dai[#title]
+-ゲーム「''THE IDOLM@STER LIVE FOR YOU!''」の楽曲。
+***詳細・攻略 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''-13&br;AC12亜|CENTER:''Wii1''&br;iOS|CENTER:★×8|CENTER:''588''|CENTER:''1035720点''|CENTER:＋連打|CENTER:500点|CENTER:110点|
+||CENTER:PSPDXDL|CENTER:★×7|~|CENTER:''985700点''|~|CENTER:430点|~|
+||CENTER:COLOR(#ff0000){PS Vita MS}|~|CENTER:''590''|CENTER:''995290点''|~|CENTER:480点|CENTER:125点|
+|>|CENTER:COLOR(#f30){真打}|~|~|CENTER:COLOR(#f30){''998560点''}|~|CENTER:COLOR(#f30){1580点}|CENTER:-|
+-BPMは171。
+-連打秒数・・・約1.579秒−約1.228秒−約2.105秒：合計約4.912秒
+-従来のアイマス曲と同じく赤青混合8分16分が中心の譜面。
+--特に13〜15小節の16分3連打ラッシュとゴーゴーでのラッシュに注意。
+-78〜80小節に偶数連打がある。
+-PSPDXにて★×7に降格した。
+--しかし、PSPDXの連打は旧基準仕様なので連打が速ければ元の★×8の基本天井である''105万点に到達可能''。
+--PSPDXでは、2015年9月30日をもって、新規DLができなくなった。
+-平均密度は、''約4.84打/秒''(新譜面)、''約4.82打/秒''(旧譜面)。
+
+***その他 [#other]
+-曲名の読み方は、''ドーダイ''。
+--通称は、''土台''。
+-作曲は、[[relations>難易度表/おに/relations]]や[[オーバーマスター>難易度表/おに/オーバーマスター]]と同じく、[[''中川浩二''>参加アーティスト一覧/中川浩二]]。
+-ちなみに、アイドルマスター2では''双海真美''の持ち歌である。
+-歌唱は''IM@S ALLSTARS''。
+--アイドルマスター2で萩原雪歩の声優が交代したためWii1以前とiOS以降では音源が違う。
+--アイドルマスターSP及び2では我那覇響、四条貴音が歌ったものもあるがPSPDXでも音源は変更されていない。
+-ちなみにアイドルマスターシャイニーフェスタでは579コンボであり、譜面も非常に似ている。
+-曲IDは、''dodai''、''imsdod''(新譜面)。
+----
+-[[かんたん>難易度表/かんたん/Do-Dai]]
+-[[ふつう>難易度表/ふつう/Do-Dai]]
+-[[むずかしい>難易度表/むずかしい/Do-Dai]]
+-[[オート動画(PS Vita MS)>https://www.youtube.com/watch?v=kBzf8DZy2pI]]
+-[[オート動画(Wii1)>https://www.youtube.com/watch?v=xwbbneq4Rgw]]
+
+***コメント [#comment]
+-&color(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''};
+-&color(#3333ff){''各曲の難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''};
+#pcomment(,noname)
+
+***譜面 [#score]
+玄人譜面はCOLOR(#ff0000){PS Vita MS}で変更された譜面。
+&ref(dodaif2.png,nolink);

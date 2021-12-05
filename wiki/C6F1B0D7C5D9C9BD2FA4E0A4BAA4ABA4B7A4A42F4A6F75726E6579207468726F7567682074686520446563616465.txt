@@ -1,0 +1,30 @@
+*Journey through the Decade [#title]
+-[[「''仮面ライダーディケイド''」>アニメ別収録曲#rider]]のOP。
+***詳細 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12増''&br;AC13|CENTER:★×5|CENTER:''163''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1310点|CENTER:370点|
+
+***譜面構成・攻略 [#capture]
+-BPMは170。
+-黄色連打が多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符が多く、13個ある（全体の約7.98%）。
+--コンボ数がかなり少なく、1個でも特良を逃すと痛い失点になる可能性がある。
+-8分の複合が多いが、16分が1回も出て来ないので★×5にしては簡単な方。
+--また、8分の複合は長くても4連打までしかない。
+
+***その他 [#other]
+-アーティストは、''Gackt''。
+--作詞は、Shoko Fujibayashi。作曲は、Ryo。編曲は、Kotaro Nakagawa・Ryo。
+-曲IDは、''decade''。
+----
+-[[かんたん>難易度表/かんたん/Journey through the Decade]] 
+-[[ふつう>難易度表/ふつう/Journey through the Decade]] 
+-[[おに>難易度表/おに/Journey through the Decade]]
+-[[プレイ動画>https://www.youtube.com/watch?v=9yMzV3MTxTs]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(Journey through the Decade hard.png,nolink);

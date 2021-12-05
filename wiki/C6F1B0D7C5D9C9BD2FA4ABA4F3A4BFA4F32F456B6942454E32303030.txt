@@ -1,0 +1,41 @@
+*EkiBEN2000 [#Title]
+***詳細・攻略 [#More]
+-2000シリーズ第9弾。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''〜14|CENTER:Wii1SP、4SP|CENTER:★×5|CENTER:''278''|CENTER:''366170点''|CENTER:＋連打|CENTER:310点|CENTER:100点|
+||CENTER:DS2SP|~|~|CENTER:''286510点''|~|CENTER:230点|CENTER:80点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''376740点''}|~|CENTER:COLOR(#ff3300){1260点}|CENTER:-|
+|CENTER:AC15.4.6SP||~|~|CENTER:''375820点''|~|CENTER:380点|CENTER:115点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''995670点''}|~|CENTER:COLOR(#ff3300){3330点}|CENTER:-|
+-BPMは194。
+-連打秒数目安・・・''約0.284秒''−約0.284秒−''約0.284秒''−約1.211秒−''約0.593秒''−''約1.211秒''：合計約3.867秒
+--歌詞に合わせた「ピー」音部分が連打になっているのが特徴的。
+-全体的に4分がかなり多い物量譜面で、休みが少ない。
+--また、4分は長めのが多く、ラストには40連打もある。
+-中盤に3回出てくる8分の3連打に注意。
+--そのうち1回は大音符であり、両手でないと高得点が取れない家庭用では鬼門である。
+-AC15でも★×5のままだったが、4分が主体なのでクリアは下位クラスだろう。
+-ボーカルは、''MC Linn（黄ダルマ）''。
+-作曲は、''LindaAI-CUE''。
+-譜面作成は、''タカハシ''。
+-曲IDは、''ekiben''
+-AC14の7次解禁で86〜101小節が[[〆ドレー2000>難易度表/かんたん/〆ドレー2000]]の104〜119小節に引用された。
+-''2014年4月10日に、予告無しにドンだーひろばのごほうびショップに追加され、AC復活を果たした。'' 4月10日は駅弁の日である。
+--必要なポイントは''20000ポイント''であり、楽曲の中では一番高い。
+--2000シリーズの曲が、ごほうびショップへ入るのは初めてである。
+
+-[[ふつう>難易度表/ふつう/EkiBEN2000]]
+-[[むずかしい>難易度表/むずかしい/EkiBEN2000]]
+-[[おに>難易度表/おに/EkiBEN2000]]
+-[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2008/08/post_51.html]]
+-[[楽曲紹介（譜面編）>http://taikoblog.namco-ch.net/blog/2008/07/post_50.html]]
+-[[歌手紹介>http://taikoblog.namco-ch.net/blog/2008/07/20002000.html]]
+-[[歌詞紹介>http://taikoblog.namco-ch.net/lyrics/2008/04/ekiben2000.html]]
+-[[オート動画(Wii4, キャプチャ)>https://www.youtube.com/watch?v=UPXVVnf09sQ]]
+
+***コメント [#Comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+&attachref(ekiben_easy.png,nolink);

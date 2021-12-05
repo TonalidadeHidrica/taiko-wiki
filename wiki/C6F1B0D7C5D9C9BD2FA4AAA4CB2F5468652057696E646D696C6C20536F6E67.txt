@@ -1,0 +1,41 @@
+*The Windmill Song [#title]
+-ゲーム「''風のクロノア door to phantomile''」の楽曲。 Stage1-1「風の村ブリーガル」BGM。
+--クロノアシリーズの楽曲が収録されることは、CS1で登場した[[STEPPING WIND>難易度表/おに/STEPPING WIND]]以来''約11年2ヶ月ぶり''のことである。
+
+***詳細 [#details]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC15.4.0''|Wii U2|★×8|''572''|''1051750点''|560点|148点|
+|COLOR(#f30):真打||~|~|COLOR(#f30):''1002750点''|COLOR(#f30):1750点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは125。
+-''完全精度曲''のひとつ。
+--新筐体の全コースでの精度曲は、これは[[キセキ>難易度表/おに/キセキ]]・ [[友情ぽっぷ>難易度表/おに/友情ぽっぷ]]・[[らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん]]に続き4曲目である。
+-全体的に変拍子であり、変拍子を苦手とするドンだーは苦戦を強いられるだろう。
+--([[ドン・エンガスの笛吹き>難易度表/おに/ドン・エンガスの笛吹き]]+[[MAGICAL SOUND SHOWER>難易度表/おに/MAGICAL SOUND SHOWER]])÷2といった感じの譜面傾向である。
+-序盤と終盤に24分が挟まった16分の長複合がある。このため、クリアはまだしもフルコンボや全良となると難易度は跳ね上がる。
+--覚え方としては、COLOR(red){●●●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●●●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●●●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}が一例。
+--また、最初の面を逆手で入れば24分は全て利き手で入ることが出来る。この場合、最初の面の後はCOLOR(red){●●●}COLOR(blue){○}(24分)とCOLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}(16分)の繰り返しとなるため、こちらの区切り方で叩いても良いだろう。
+-大音符は41小節の縁一個のみ。
+-平均密度は、''約5.46打/秒''。
+
+***その他 [#other]
+-作曲は、[[''小沢純子''>参加アーティスト一覧/小沢純子]]。
+-譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。(ソースは2013/12/11生放送)
+-風のクロノア1作目の発売日は1997/''12/11''、モモイロVer.アップデート日は2013/''12/11''で月日が同じ。
+-[[グリーンVer.段位道場 外伝>過去の段位道場#green-gaiden]]の「チャレンジ！グリーン外伝�ぁ廚�1曲目課題曲となった。
+----
+-[[かんたん>難易度表/かんたん/The Windmill Song]]
+-[[ふつう>難易度表/ふつう/The Windmill Song]]
+-[[むずかしい>難易度表/むずかしい/The Windmill Song]]
+-[[プレイ動画(AC15)>https://www.youtube.com/watch?v=X31-uqtHdEE]]
+-[[オート動画(WiiU2)>https://www.youtube.com/watch?v=vabGyKUhcvY]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(TWS2.png,nolink);

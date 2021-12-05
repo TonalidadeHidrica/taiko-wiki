@@ -1,0 +1,33 @@
+*Blessed Bouquet Buskers [#title]
+***詳細 [#detail]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.9.9SP''|PS4 1DL&br;NS1DL|★×6|''492''|''786040点''|＋連打|480点|108点|
+|COLOR(#f30){真打}||~|~|COLOR(#f30){''988200点''}|~|COLOR(#f30){1770点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは188。
+-黄色連打が多い連打曲である。
+-速度が少し速く、全体的に16分がかなり多い。
+--16分はほとんどが3連打だが、1回だけ5連打も出てくる。
+--また16分は単色が多いが、複合も1回だけ出てくる。
+-ラストゴーゴーは4分以上の休憩がないため、適正者には体力的に厳しいかもしれない。
+-終盤で2回出てくる12分の単色4連打に注意。
+-フルコン難易度は少し高めだが、8分の複合は短めのが多い。
+
+***その他 [#other]
+-アーティストは、''[[steμ>参加アーティスト一覧/steμ]]''。
+-曲IDは、''bbb''。
+----
+-[[かんたん>難易度表/かんたん/Blessed Bouquet Buskers]]
+-[[ふつう>難易度表/ふつう/Blessed Bouquet Buskers]]
+-[[おに>難易度表/おに/Blessed Bouquet Buskers]]
+-[[プレイ動画>http://www.youtube.com/watch?v=LaU9GPgfmh4]]
+-[[プレイ動画(全良)>http://www.youtube.com/watch?v=CdO-wXmgr_8]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定
+&attachref(BBBむずかしい.png,nolink,);

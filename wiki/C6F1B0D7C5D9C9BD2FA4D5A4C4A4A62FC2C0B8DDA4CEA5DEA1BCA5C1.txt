@@ -1,0 +1,64 @@
+*太鼓のマーチ [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+||CENTER:''CS2''|CENTER:★×6|CENTER:''390''|CENTER:''?????0点''|CENTER:＋連打|CENTER:510点|CENTER:110点||
+|CENTER:AC5||~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点||
+||CENTER:米TDM&br;TDM|CENTER:★×5|~|CENTER:''?????0点''|~|CENTER:510点|CENTER:110点||
+||CENTER:PSP1|~|~|CENTER:''?????0点''|~|CENTER:500点|CENTER:100点|CENTER:''ゴーゴーバグあり''|
+||CENTER:Wii1|CENTER:★×6|CENTER:''342''|CENTER:''637620点''|~|CENTER:410点|CENTER:140点||
+|CENTER:AC15.8.4|CENTER:Wii U2&br;PS4 1DL|~|~|CENTER:''?????0点''|~|CENTER:540点|CENTER:153点||
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''??????点''}|~|CENTER:COLOR(#ff3300){2710点}|CENTER:-||
+-BPMは約145。
+-ゴーゴーは5回。旧譜面では位置が異なっていた。 
+
+***旧譜面 [#old]
+-中盤（41小節）までとそれ以降で譜面構成が大きく異なっている。
+--中盤までは8分がかなり多い。
+---8分はほとんどが2連打だが、たまに長めのも出てくる。
+---ただし、4分の複合は2連打（○●）しかない。
+--1回だけ出てくる8分の複合13連打と、2回出てくる16分の単色3連打に注意。
+--中盤以降は12分がかなり多い。
+---12分は4連打が主体で、たまに2連打も出てくる。
+---また12分は単色が多いが、複合も数がかなり多い（配色は●○と●●●○）。
+--1回ずつ出てくる12分の単色6連打と単色7連打に注意。
+-TDMで★×5に降格したが、フルコン難易度は''★×6,7にも相当するので要注意''。
+-[[オート動画>http://www.youtube.com/watch?v=O3efe7PgcPw]]
+
+***新譜面 [#new]
+-黄色連打が多い連打曲である。
+-Wii1で譜面が書き直され12分の複合が減らされたが、こちらも8分や12分がかなり多いので油断は禁物。
+--コンボ数は多いものの、★×6の標準曲と言える。
+-8分の複合3連打（●○●）が3連続で出てくる19〜20小節に注意。
+-この曲を始め、書き替えられ、コンボ数が減った曲も多い。特に[[ラブリーX>難易度表/ふつう/ラブリーX]]、[[KAGEKIYO 源平討魔伝メドレー>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]はコンボ数が大幅に減った。
+-[[オート動画>http://www.youtube.com/watch?v=Ml3ElK_ptLE]]
+
+***2人用譜面 [#dp]
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×5|CENTER:1P|CENTER:''273''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1060点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''275''|CENTER:''?????0点''|~|~|~|
+-米TDM・TDMにのみ２人用譜面が存在する。
+-[[オート動画>http://www.youtube.com/watch?v=0i2tSr24YyQ]]
+
+***その他 [#other]
+-曲順はスカイキッド（ステージ開始曲→メインBGM）→ドルアーガの塔（ラウンドスタート曲→メインBGM）→ワルキューレの伝説（メインテーマ）の順。
+-編曲は、''増渕裕二''。
+-曲IDは、''march''
+-[[かんたん>難易度表/かんたん/太鼓のマーチ]]
+-[[むずかしい>難易度表/むずかしい/太鼓のマーチ]]
+-[[おに>難易度表/おに/太鼓のマーチ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+12小節目と28小節目に巨大音符があります~
+巨大音符:良が達人譜面、不可が普通譜面~
+&ref(taiko_march_normal.png,nolink);
+~旧譜面~
+ゴーゴーの位置はPSP1に準拠~
+&ref(taiko_march_normal_old.png,nolink);
+
+~2人用譜面(TDM)~
+&ref(march_nd.png,nolink);

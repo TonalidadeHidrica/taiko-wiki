@@ -1,0 +1,13 @@
+*Taiji [#title]
+
+**概要 [#more]
+-作編曲家。
+-[[Twitter>https://twitter.com/Taiji_voicez]]
+
+**作品一覧 [#work]
+-ナムコオリジナル
+---[[λ7708>難易度表/おに/λ7708]]
+---[[Caribbean Knight>難易度表/おに/Caribbean Knight]]
+
+**コメント [#comment]
+#pcomment(,noname)

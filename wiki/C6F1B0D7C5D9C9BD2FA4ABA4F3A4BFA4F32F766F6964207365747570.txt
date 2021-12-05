@@ -1,0 +1,29 @@
+*void setup [#title]
+***詳細 [#details]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''NS1''|★×4|''199''|''340090点''|＋連打|520点|140点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''983100点''}|~|COLOR(#ff3300){4440点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは140。
+
+***その他 [#other]
+-歌唱は、[[''愛原圭織''>参加アーティスト一覧/愛原圭織]]。
+-作曲は、[[''増渕裕二''>参加アーティスト一覧/増渕裕二]]。
+-プログラミング（作詞）は、[[''祇羽''>参加アーティスト一覧/祇羽]]。
+-歌詞は[[Processing(Wikipedia)>https://ja.wikipedia.org/wiki/Processing]]というプログラミング言語のソースコードである。
+-曲IDは、''voidse''。
+
+----
+-[[ふつう>難易度表/ふつう/void setup]]
+-[[むずかしい>難易度表/むずかしい/void setup]]
+-[[おに>難易度表/おに/void setup]]
+-[[オート動画>https://www.youtube.com/watch?v=3o-kTmUicTc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定
+&attachref(ようじょせいさくかんたん.png,nolink);

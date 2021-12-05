@@ -1,0 +1,33 @@
+*FUNKASTIC [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''iOS''|CENTER:★×4|CENTER:''147''|CENTER:''329390点''|CENTER:＋連打|CENTER:510点|CENTER:140点|
+-BPMは約125。
+-黄色連打が多い連打曲である。
+-[[ふつう>難易度表/ふつう/FUNKASTIC]]とはコンボ数が''13コンボしか''離れていない。
+-大音符がかなり多く、47個ある（全体の約31.97%）。
+-4分の複合が主体の譜面で、8分も数が多い。
+--8分は2連打が主体で、たまに3連打も出てくる。
+--また、4分の複合は種類がそれなりに多い。
+-4分の複合と8分が何度も出てくる51〜54小節に注意。
+-全難易度を通して途中の風船地帯にはソフランがかかっている。
+
+***その他 [#other]
+-曲名の読み方は、''ファンカスティック''。
+--「FUNKASTIC」とは、「FUNK」と「FANTASTIC」を組み合わせた造語である。
+-アーティストは、''RIP SLYME''。
+--RSぱっくそのものがRIP SLYMEとの企画物なので''本人音源''である（[[ソース>http://www.youtube.com/watch?v=bKJ-35W6MGI]]）。
+--作詞は、RYO-Z・ILMARI・PES・SU。作曲は、DJ FUMIYA。
+
+-[[ふつう>難易度表/ふつう/FUNKASTIC]]
+-[[むずかしい>難易度表/むずかしい/FUNKASTIC]]
+-[[おに>難易度表/おに/FUNKASTIC]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=k3LhlJ0qZv0]]
+
+*** コメント [#comment]
+#pcomment(,noname)
+
+*** 譜面 [#fumen]
+HSは暫定です。
+~&attachref(RIP_funk_easy_2.png,nolink);

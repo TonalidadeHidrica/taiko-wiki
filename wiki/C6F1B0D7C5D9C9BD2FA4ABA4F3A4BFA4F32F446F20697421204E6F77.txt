@@ -1,0 +1,20 @@
+*Do it! Now [#wf91591a]
+***詳細・攻略 [#xb88d6f7]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC4''|CENTER:★×1|CENTER:''106''|CENTER:''?????0点''|CENTER:＋連打|CENTER:??0点|CENTER:??0点|
+-BPMは96。
+-連打秒数目安・・・約1.510秒−約1.823秒：合計約3.333秒
+-4分が主体の譜面で、8分も数がかなり多い。
+--8分は単色の2連打のみで、そのほとんどが単発である。
+-フルコン難易度は高めだが、速度が遅く4分も単色しかない。
+-アーティストは、''モーニング娘''。
+----
+-[[ふつう>難易度表/ふつう/Do it! Now]]
+-[[むずかしい>難易度表/むずかしい/Do it! Now]]
+-[[おに>難易度表/おに/Do it! Now]]
+-[[プレイ動画(全難易度同時再生)>https://www.youtube.com/watch?v=sP5SRzTJwH0]]
+***コメント [#jb0b40e3]
+#pcomment(,noname)
+***譜面 [#c607e7ba]
+&attachref(d.png,nolink);

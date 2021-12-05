@@ -1,0 +1,17 @@
+*My Revolution [#i3adbf2f]
+***詳細・攻略 [#ce5b4134]
+-TBS系テレビドラマ「''セーラー服通り''」主題歌。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''|CENTER:★×4|CENTER:''139''|CENTER:''??????点''|CENTER:＋連打|CENTER:1070点|CENTER:点|
+-BPMは129。
+-アーティストは、''渡辺美里''。
+-[[ふつう>難易度表/ふつう/My Revolution]]
+-[[むずかしい>難易度表/むずかしい/My Revolution]]
+-[[おに>難易度表/おに/My Revolution]]
+-[[プレイ動画>https://www.youtube.com/watch?v=UlXBlpIo2R8]]
+***コメント [#q86a6f58]
+#pcomment(,noname)
+***譜面 [#b8708855]
+風船は適当
+&attachref(マイレボかんたん.png,nolink);

@@ -1,0 +1,44 @@
+*Extreme MGG★★★ [#title]
+-タイトー「''ミュージックガンガン！2''」とのコラボ楽曲のひとつ。
+
+***1人用譜面 [#single]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.3''|CENTER:PS Vita1DL&br;3DS3DL|CENTER:★×3|CENTER:''230''|CENTER:''649750点''|CENTER:＋連打|CENTER:870点|CENTER:250点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''998530点''}|~|CENTER:COLOR(#ff3300){3910点}|CENTER:-|
+
+-BPMは120〜240（160→240（中盤）→200→140→160→120（最後）→160）。
+-16分は1回も出て来ないが、8分が多くリズムが取りづらいので★×3にしては強い方。
+
+***2人用譜面 [#twin]
+|CENTER:バージョン|CENTER:難易度|>|CENTER:最大コンボ数|>|>|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|~|~|CENTER:1P|CENTER:2P|>|CENTER:1P|>|CENTER:2P|~|~|h
+|CENTER:''AC15.1.3''|CENTER:★×3|CENTER:''137''|CENTER:''138''|CENTER:''648670点''|CENTER:＋連打|CENTER:''660030点''|CENTER:＋連打|CENTER:1470点|CENTER:578点|
+|CENTER:COLOR(#ff3300){真打}|~|~|~|CENTER:COLOR(#ff3300){''998740点''}|~|CENTER:COLOR(#ff3300){''1012220点''}|~|CENTER:COLOR(#ff3300){6740点}|CENTER:-|
+-恐らく元のゲームでの譜面を反映させているものと思われるが、まるでDP譜面のように1P2Pでリズムを分担したリズム難気味の譜面である。
+-1人用譜面には存在しない8分の17連打と16連打がある。
+
+***その他 [#other]
+-作曲・編曲は、元ZUNTATAのCOSIOこと''小塩広和''。
+-読み方は、''エクストリーム エムジージートライスター''。
+-曲IDは、''mggext''
+-元のゲームのHARD譜面がベースとなっている。
+-''2020年3月24日のニジイロVer.稼働をもって、2人用譜面がACから一時的に削除される''が、今後のアップデートで再登場する予定（曲自体はサヨナラにならない）。
+--再登場の際には双打専用の''別曲扱い''となり、むずかしいに加えて''かんたん・ふつう・おにの双打譜面も追加される''。
+--この変更により、本曲のむずかしいは1人用譜面のみとなる。
+--なお、1人用譜面が存在する関係からか、''本曲のむずかしいの成績は双打専用楽曲に引き継がれない''。
+--（[[上記ソース>https://taiko-ch.net/blog/?p=4267]]）
+
+-[[かんたん>難易度表/かんたん/Extreme MGG★★★]]
+-[[ふつう>難易度表/ふつう/Extreme MGG★★★]]
+-[[おに>難易度表/おに/Extreme MGG★★★]]/[[裏譜面>難易度表/おに/Extreme MGG★★★(裏譜面)]]
+-[[プレイ動画(1人用,キャプチャ)>https://www.youtube.com/watch?v=SVFe953WuAc]]
+-[[プレイ動画(2人用,キャプチャ,フルコンボ,真打)>http://www.youtube.com/watch?v=qnBfEWnO0mc]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~くす玉の長さは適当。
+&attachref(mgg.png,nolink);
+~二人譜面
+&attachref(mgg2p.png,nolink);

@@ -1,0 +1,16 @@
+*初恋列車 [#title]
+***詳細・攻略 [#more]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|h
+|CENTER:''AC7''|CENTER:★×4|CENTER:''249''|CENTER:''334900点''|CENTER:＋連打|
+-BPMは90-110。基本BPMは100。
+-BPMは遅いものの、ところどころに16分の複合があるので注意。
+- 連打曲である。　
+- アーティストは、[[''氷川きよし''>アーティスト別収録曲#kiyoshi]]。
+-[[かんたん>難易度表/かんたん/初恋列車]]
+-[[ふつう>難易度表/ふつう/初恋列車]]
+-[[むずかしい>難易度表/むずかしい/初恋列車]]
+-[[プレイ動画>https://www.youtube.com/watch?v=ZnfFcp4kBEA]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&ref(kiyo3_o.png,nolink);

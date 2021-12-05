@@ -1,0 +1,26 @@
+*ホルディリディア [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''PSP1DL''|CENTER:''クラシック''|CENTER:★×3|CENTER:''104''|CENTER:''348660点''|CENTER:＋連打|CENTER:700点|CENTER:360点|
+|CENTER:PSP2|CENTER:''童謡・民謡''|CENTER:★×4|~|~|~|~|~|
+|CENTER:DS3|CENTER:''クラシック''|CENTER:★×3|~|CENTER:''334090点''|~|CENTER:840点|CENTER:310点|
+|CENTER:Wii U2|~|~|~|CENTER:''338380点''|~|CENTER:860点|CENTER:500点|
+-BPMは95〜100。
+-大音符がかなり多く、21個ある（全体の約20.2%）。
+-速度は遅めだが、全体的に4分がかなり多い。
+--4分はほとんどが単色だが、5連続で出てくる箇所もある。
+-ゴーゴーで1回ずつ出てくる4分の複合7連打と8分の単色3連打に注意。
+-歌唱は、''西順子''。編曲は、''小沢純子''。
+-曲IDは、''clshol''
+
+-[[ふつう>難易度表/ふつう/ホルディリディア]]
+-[[むずかしい>難易度表/むずかしい/ホルディリディア]]
+-[[おに>難易度表/おに/ホルディリディア]]
+-[[オート動画(Wii U2)>http://www.youtube.com/watch?v=ShYJsqscgE4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(clshol_easy.png,nolink);

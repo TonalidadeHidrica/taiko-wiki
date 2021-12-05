@@ -1,0 +1,18 @@
+*HOTEL PACIFIC [#title]
+***詳細・攻略 [#capture]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC1''|★×4|''247''|''528770点''|＋連打|760点|190点|
+-52小節に16分音符の3連打がある。大音符はラスト一個のみ。
+-二人用譜面が存在する。
+- この曲はふつうコースしか存在しない。
+- アーティストは、''サザンオールスターズ''。45枚目のシングル曲。
+-譜面作成は、[[''ササオカ''>譜面作成者一覧/ササオカ]]。
+-[[プレイ動画>http://www.youtube.com/watch?v=mUXWGl5mmT8]]
+-[[プレイ動画(2人用譜面)>http://www.youtube.com/watch?v=xtQXAdoB-V0]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(HOTEL PACIFIC2.png,nolink);

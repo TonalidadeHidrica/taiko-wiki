@@ -1,0 +1,43 @@
+*ハンガリー舞曲第5番 [#title]
+***攻略・詳細 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''CS4''|CENTER:★×5|CENTER:''270''|CENTER:''?????0点''|CENTER:+連打|CENTER:740点|CENTER:180点|
+||CENTER:米TDM&br;TDM|CENTER:★×4|~|CENTER:''?????0点''|~|CENTER:680点|CENTER:170点|
+|CENTER:AC7||CENTER:★×5|~|CENTER:''?????0点''|~|CENTER:700点|~|
+||CENTER:Wii1|~|~|CENTER:''679610点''|~|CENTER:630点|CENTER:140点|
+||CENTER:DS3&br;iOS|~|~|CENTER:''576050点''|~|CENTER:620点|~|
+||CENTER:NS1DL|~|~|CENTER:''586100点''|~|CENTER:610点|CENTER:183点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3190点}|CENTER:-|
+
+-BPMは約69〜156。
+--速度変化が激しく、可を出しやすい。
+-8分がかなり多い。8分はほとんどが単色の3連打だが、5連打も2回出てくる。
+-3回出てくる16分の単色2連打に注意。
+-[[ヤッターマンの歌>難易度表/ふつう/ヤッターマンの歌(ET-KING)]]と並んで★×5では難しい部類に入る。
+-AC7までは譜面の追い抜きがあった。
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=XlsXYti_mQk]]
+----
+-AC7とTDMにのみ[[DP譜面>ダブルプレイ]]が存在する。詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''米TDM''&br;TDM|CENTER:★×4|CENTER:1P|CENTER:''230''|CENTER:''?????0点''|CENTER:＋連打|CENTER:800点|CENTER:210点|
+|~|~|~|CENTER:2P|~|CENTER:''?????0点''|~|~|~|
+|CENTER:AC7||CENTER:★×5|CENTER:1P|CENTER:''???''|CENTER:''?????0点''|~|CENTER:700点|CENTER:170点|
+|~|~|~|CENTER:2P|CENTER:''???''|CENTER:''?????0点''|~|~|~|
+-こちらは追い抜き地帯の譜面が2人交互に割り振られているため、追い抜きが発生していない。
+-[[オート動画>https://www.youtube.com/watch?v=QZOTeeBrSY0]]
+***その他 [#other]
+-作曲は、''ヨハネス・ブラームス''。
+-曲IDは、''clsh''
+----
+-[[かんたん>難易度表/かんたん/ハンガリー舞曲第５番]]
+-[[むずかしい>難易度表/むずかしい/ハンガリー舞曲第５番]]
+-[[おに>難易度表/おに/ハンガリー舞曲第５番]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(舞曲.png,nolink);
+
+~2人用譜面
+&ref(clsh_nd.png,nolink);

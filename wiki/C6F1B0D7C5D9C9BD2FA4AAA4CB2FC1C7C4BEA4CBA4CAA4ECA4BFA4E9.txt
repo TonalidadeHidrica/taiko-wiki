@@ -1,0 +1,23 @@
+*素直になれたら [#ue0acc50]
+***詳細・攻略 [#q05ce247]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+||iOS''&br;''AR|★×5|''266''|''795660点''|＋連打|860点|220点|''ゴーゴーバグあり''|
+|''AC12増''-14||★×3|~|''795100点''|~|~|~||
+|COLOR(#ff3300){真打モード}||~|~|COLOR(#ff3300){''797640点''}|~|COLOR(#ff3300){2890点}|-||
+||もばいるDL|★×1|~|''?????0点''|~|710点|170点||
+-BPMは98。
+-16分の複合が多く、付点8分や偶数連打など厄介な配置も存在する。但しBPMが遅いので、HSオプションをかけると楽になるだろう。
+-iOSでは★×5だが、配点は★×3のままである。
+-アーティストは、''JUJU''。
+--作詞は、JUJU・Spontania・Jeff Miyahara。作曲は、JUJU・Spontania・Jeff Miyahara・RYLL。編曲は、Jeff Miyahara・RYLL。
+-[[かんたん>難易度表/かんたん/素直になれたら]]
+-[[ふつう>難易度表/ふつう/素直になれたら]]
+-[[むずかしい>難易度表/むずかしい/素直になれたら]]
+-[[オート動画>http://www.youtube.com/watch?v=4yDZQP1gLug]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(素直になれたら_2.png,nolink);

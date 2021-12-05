@@ -1,0 +1,17 @@
+*刀馬旦 [#p3ec3597]
+
+*** 詳細・攻略 [#v087eece]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11亜''|CENTER:★×5|CENTER:''313''|CENTER:''735980点''|CENTER:＋連打|CENTER:640点|CENTER:170点|
+- アーティストは''ココ・リー''。
+
+-[[かんたん>難易度表/かんたん/刀馬旦]]
+-[[ふつう>難易度表/ふつう/刀馬旦]]
+-[[おに>難易度表/おに/刀馬旦]]
+
+***コメント [#n218e1a9]
+
+#pcomment(,noname)
+
+*** 譜面 [#aa418e29]
+&ref(horse-hard.png,nolink);

@@ -1,0 +1,39 @@
+*&ruby(サムライ){SAMURAI}; &ruby(ロケット){ROCKET}; [#title]
+-ナムコ「''[[RIDGE RACER V>ゲーム別収録曲#rr]]''」より。
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12''-13&br;AC12亜|Wii2SP|★×7|''647''|''848640点''|＋連打|360点|90点|
+|AC15.9.9SP|3DS2|~|~|''854560点''|~|410点|98点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){1520点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは136。
+-表譜面では、このコースのみ連打音符がある。
+-37〜40小節目に[[KAGEKIYO>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]のメロディがあり、譜面もそのまま引用されている。また、69〜75小節目も[[おにコース>難易度表/おに/SAMURAI ROCKET]]と同様に[[KAGEKIYO>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]から引用されている。
+
+***その他 [#other]
+-AC13以降しばらくACには収録されていなかったが、新筐体イエローverにて''約7年ぶり''にAC復活を果たした。ドンだーひろばのごほうびショップから、かつメダル2500枚で購入可能。
+-作曲は、[[''KOHTA TAKAHASHI''>参加アーティスト一覧/高橋弘太]]。
+-略称は、''侍''、''サムロケ''等。
+--ただし、''侍''は[[太鼓侍>難易度表/むずかしい/太鼓侍]]のことを言うこともあるので注意。
+-1986年のナムコのゲーム「''[[源平討魔伝>https://ja.wikipedia.org/wiki/%E6%BA%90%E5%B9%B3%E8%A8%8E%E9%AD%94%E4%BC%9D]]''」のBGMのアレンジ曲である。
+--同じく「''源平討魔伝''」のアレンジ曲である[[KAGE>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]][[KIYO>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]、[[SHOGYO MUJO>難易度表/むずかしい/SHOGYO MUJO]]と一部メロディが共通しているのはそのためである。
+--この曲が[[KAGE>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]][[KIYO>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]のアレンジであるというのは''完全な誤解''であるので注意。
+-AC12増量版ではジャンル別で[[Kamikaze Remix>難易度表/むずかしい/Kamikaze Remix]]と[[Naked Glow>難易度表/むずかしい/Naked Glow]]の間にあったが、[[Kamikaze Remix>難易度表/むずかしい/Kamikaze Remix]]よりこちらのほうが先に曲が出ているためか、AC13では[[Kamikaze Remix>難易度表/むずかしい/Kamikaze Remix]]とジャンル別の位置が入れ替わった。
+-[[Naked Glow>難易度表/むずかしい/Naked Glow]]同様、原曲よりやや短めにアレンジされている。
+-曲IDは、''rrsam''。
+----
+
+-[[かんたん>難易度表/かんたん/SAMURAI ROCKET]]/[[裏譜面>難易度表/かんたん/SAMURAI ROCKET(裏譜面)]]
+-[[ふつう>難易度表/ふつう/SAMURAI ROCKET]]/[[裏譜面>難易度表/ふつう/SAMURAI ROCKET(裏譜面)]]
+-むずかしい/[[裏譜面>難易度表/むずかしい/SAMURAI ROCKET(裏譜面)]]
+-[[おに>難易度表/おに/SAMURAI ROCKET]]/[[裏譜面>難易度表/おに/SAMURAI ROCKET(裏譜面)]]
+-[[オート動画(Wii2)>https://www.youtube.com/watch?v=pv0t_TorPS4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+実際の譜面の開始位置は2小節目です。
+&attachref(ridge5_hard.png,nolink);

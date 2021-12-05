@@ -1,0 +1,21 @@
+*Brightdown [#vd4c575f]
+-アニメ''「D.Gray-man」''のOP2。
+***詳細・攻略 [#q402d050]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC10''|CENTER:★×6|CENTER:''303''|CENTER:''?????0点''|CENTER:＋連打|CENTER:740点|CENTER:190点|
+-BPMは194〜197。
+-★×6だが、16分音符は一切なく、8分音符の複合が中心。
+-アーティストは、''玉置成実''。
+-余談だが、この曲のシングルCD発売は2007年8月29日、AC10の稼働は2007年7月26日であり、CD発売前に収録されたことになる。
+-曲IDは、''bright''
+----
+-[[かんたん>難易度表/かんたん/Brightdown]]
+-[[ふつう>難易度表/ふつう/Brightdown]]
+-[[おに>難易度表/おに/Brightdown]]
+-[[プレイ動画>http://www.youtube.com/watch?v=PGgstE_-Xuw]]
+*** コメント [#ub6465c6]
+#pcomment(,noname)
+
+*** 譜面 [#x5e800cf]
+&ref(bright.png,nolink);

@@ -1,0 +1,32 @@
+*Shiny Kung-fu Revival [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.42''|CENTER:Wii U2DL&br;NS1DL|CENTER:★×4|CENTER:''260''|CENTER:''342210点''|CENTER:＋連打|CENTER:360点|CENTER:105点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''983710点''}|~|CENTER:COLOR(#ff3300){3290点}|CENTER:-|
+-BPMは222.2。
+-黄色連打がかなり多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符が多く、39個ある（全体の15%）。
+-全体的に4分がかなり多いが、8分は1回も出て来ない。
+--また、4分の複合も数がそんなに多くない。
+--ただし、譜面についていけないとノルマ落ちする可能性があるため注意が必要。
+-フルコン及び全良狙いの人は、ラストの縁大音符に注意。
+
+***その他 [#other]
+-2015年1月のドンチャレによる先行解禁曲である。
+-曲名の読み方は、''シャイニー カンフー リバイバル''。
+-アーティストは、''t+pazolite''（[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]）。
+--同氏は過去に「Kung-fu」を冠する曲を2曲((Kick-ass Kung-fu Carnival、Rumble Kung-fu Showdown))制作しており、この曲は3曲目にあたる。
+-譜面作成は、''エトウ''。
+-曲IDは、''shinyk''
+-[[ふつう>難易度表/ふつう/Shiny Kung-fu Revival]]
+-[[むずかしい>難易度表/むずかしい/Shiny Kung-fu Revival]]
+-[[おに>難易度表/おに/Shiny Kung-fu Revival]]
+-[[オート動画>https://www.youtube.com/watch?v=kMXAI3O25a4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(( ﾟдﾟ )彡ハイヤー！！！！_e.png,nolink);

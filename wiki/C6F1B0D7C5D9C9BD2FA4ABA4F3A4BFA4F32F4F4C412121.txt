@@ -1,0 +1,34 @@
+*OLA!! [#title]
+-[[映画「''クレヨンしんちゃん オラの引越し物語〜サボテン大襲撃〜''」>アニメ別収録曲#crasin]]主題歌。
+***詳細 [#detail]
+|CENTER:バージョン((太字は初出))|CENTER:ジャンル |CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii U3''|CENTER:''J-POP''|CENTER:★×4|CENTER:''61''|CENTER:''347160点''|CENTER:＋連打|CENTER:990点|CENTER:1195点|
+|CENTER:3DS3DL|CENTER:''アニメ''|~|~|~|~|~|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''988800点''}|~|CENTER:COLOR(#ff3300){10600点}|CENTER:-|
+|CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''334450点''|~|CENTER:1180点|CENTER:730点|
+
+***譜面構成・攻略 [#capture]
+-BPMは115。
+-黄色連打が多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符がかなり多く、31個ある（全体の約50.8%）。
+-付点8分が主体の譜面で、たまに8分も出てくる。
+--8分は単色の2連打しかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は1回も出て来ない。
+
+***その他 [#other]
+-アーティストは、[[''ゆず''>アーティスト別収録曲#yuzu]]。
+--作詞・作曲は、北川悠仁。編曲は、前山田健一・北川悠仁。
+-譜面作成は、[[''しか@に〜さん''>譜面作成者一覧/しか@に〜さん]]。
+-曲IDは、''ola''。
+----
+-[[ふつう>難易度表/ふつう/OLA!!]]
+-[[むずかしい>難易度表/むずかしい/OLA!!]]
+-[[おに>難易度表/おに/OLA!!]]
+-[[オート動画>http://www.youtube.com/watch?v=aiO7-uqWZxg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(OLA!!__e.png,nolink);

@@ -1,0 +1,14 @@
+*チャレンジお題 初級 [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Wii4''|★×3|''26''|
+-BPMは150。
+-[[プレイ動画>https://www.youtube.com/watch?v=cyTH4baqzDs&t=73]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#notes]
+&attachref(初級.png,nolink);

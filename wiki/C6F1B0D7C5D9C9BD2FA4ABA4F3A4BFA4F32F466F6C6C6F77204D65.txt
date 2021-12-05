@@ -1,0 +1,30 @@
+*Follow Me [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.6.0''|PS Vita1&br;Wii U3DL|★×3|''93''|''327730点''|＋連打|970点|645点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''989000点''}|~|COLOR(#ff3300){9360点}|-|
+-BPMは143。
+-黄色連打が多い連打曲で、1本あたりの長さも長い。
+-大音符が多く、12個ある（全体の約12.9%）。
+-速度は至って普通だが、全体的に4分がかなり多い。
+--4分は3連打が主体で、たまに2連打も出てくる。
+-ゴーゴーで4回出てくる8分の単色2連打に注意。
+
+***その他 [#other]
+-曲名の読み方は、''フォローミー''。
+-アーティストは、''E-girls''。
+--作詞は、Shoko Fujibayashi。作曲は、Jam9・ArmySlick。
+-曲IDは、''follom''
+
+-[[ふつう>難易度表/ふつう/Follow Me]]
+-[[むずかしい>難易度表/むずかしい/Follow Me]]
+-[[おに>難易度表/おに/Follow Me]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=GklvWIrxx8g]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(flme.png,nolink);

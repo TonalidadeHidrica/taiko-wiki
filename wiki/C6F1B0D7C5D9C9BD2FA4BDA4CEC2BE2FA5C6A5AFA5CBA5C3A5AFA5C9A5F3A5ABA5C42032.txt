@@ -1,0 +1,15 @@
+*テクニックドンカツ 2 [#title]
+-[[毎日チャレンジ道場(Wii3)>難易度表/その他/毎日チャレンジ道場(Wii3)]]のお題。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Wii3''|★×2|''24''|
+-BPMは116。
+-[[プレイ動画>https://www.youtube.com/watch?v=ZflPvIU85VQ&t=55]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(テク2.png,nolink);

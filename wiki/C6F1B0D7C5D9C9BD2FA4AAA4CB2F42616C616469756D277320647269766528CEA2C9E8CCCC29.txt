@@ -1,0 +1,24 @@
+*Baladium's drive(裏譜面) [#title]
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii U3SP''|★×9|''727''|''1096440点''|+連打|460点|108点|
+-BPMは120。
+-連打秒数目安・・・''約0.708秒''−約1.208秒−''約0.708秒''−約1.208秒:合計約3.833秒
+-精度譜面の[[表譜面>難易度表/おに/Baladium's drive]]に対してこちらは黄色連打がある。
+-[[表譜面>難易度表/おに/Baladium's drive]]同様、縁の方が多く、''約52.68%''(383/727)。
+
+-後半の譜面はほぼ前半の繰り返し。
+-平均密度は、''約5.63打/秒''。
+----
+-[[かんたん>難易度表/かんたん/Baladium's drive]]
+-[[ふつう>難易度表/ふつう/Baladium's drive]]
+-[[むずかしい>難易度表/むずかしい/Baladium's drive]]
+-[[おに>難易度表/おに/Baladium's drive]]/裏譜面
+-[[オート動画>https://www.youtube.com/watch?v=uQZoyhFbCME]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(exBaladium.png,nolink);

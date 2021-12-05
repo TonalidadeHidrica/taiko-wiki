@@ -1,0 +1,25 @@
+*WE ARE THE CHAMP 〜THE NAME OF THE GAME〜 [#title]
+***詳細・攻略 [#more]
+-''日本サッカー協会公認'93日本代表オフィシャル応援歌''
+- 詳細は以下の通り:
+|CENTER:バージョン((太字は初出))|CENTER:コース|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC3''|CENTER:むずかしい|CENTER:★×2|CENTER:''389''|CENTER:''590530点''|CENTER:＋連打|CENTER:510点|CENTER:110点|
+|~|CENTER:ドンだフル！|CENTER:★×5|~|CENTER:''602200点''|~|CENTER:-|CENTER:-|
+-サッカーでおなじみの「オーレーオレオレオレ」の曲である。
+-むずかしいコースは★×2。詐称に見えるが、当時の★×2は1曲を除いて異常に難しかったので、実質詐称曲としては機能していない。当然現基準だとかなりの詐称だが。
+-原曲はTHE FANSの「''Ol&#233;, Ol&#233;, Ol&#233;（THE NAME OF THE GAME）''」
+-アーティストは''THE WAVES''
+--後に発売された''SAY・S''との競作である。
+-譜面作成は、[[''こはらー''>譜面作成者一覧/こはらー]]。
+----
+-[[かんたん>難易度表/かんたん/WE ARE THE CHAMP]]
+-[[ふつう>難易度表/ふつう/WE ARE THE CHAMP]]
+-[[プレイ動画(むずかしい)>http://www.youtube.com/watch?v=ef23VOB412g]]
+-[[プレイ動画(ドンだフル！)>https://www.youtube.com/watch?v=NNVoY5wRm8s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+某所の動画参照なので、BPMは適当です。また、画像はtjaから変換しております。
+&attachref(オーレーオレオレオレ_2.png,nolink);

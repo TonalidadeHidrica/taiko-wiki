@@ -1,0 +1,16 @@
+*桃太郎 [#Title]
+***詳細・攻略 [#More]
+-詳細は以下の通り：
+|バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''RT''|CENTER:★×3|CENTER:''50''|CENTER:''609330点''|CENTER:＋連打|CENTER:3880点|CENTER:3610点|
+-BPMは約104。
+-[[かんたん>難易度表/かんたん/桃太郎]]
+-[[プレイ動画>https://www.youtube.com/watch?v=-LXaxdMEcSI]]
+
+***コメント [#Comment]
+#pcomment(,noname)
+
+***譜面 [#Fumen]
+//実際には最後は遅くなる。
+最後は曲自体は減速していますが、譜面はBPM104のままだと思われます。
+&attachref(momon2.png,nolink);

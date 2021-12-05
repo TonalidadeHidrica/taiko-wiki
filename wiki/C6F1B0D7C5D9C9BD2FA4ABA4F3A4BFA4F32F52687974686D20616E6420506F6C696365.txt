@@ -1,0 +1,26 @@
+*RHYTHM AND POLICE [#title]
+***詳細・攻略 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''||CENTER:''バラエティ''|CENTER:★×4|CENTER:''122''|CENTER:''??????点''|CENTER:+連打|CENTER:1230点|CENTER:440点|
+|CENTER:AC6||CENTER:''ドラマ''|~|~|~|~|~|~|
+||CENTER:CS3|~|~|~|CENTER:''??????点''|~|~|~|
+||CENTER:DS3|CENTER:''バラエティ''|CENTER:★×3|CENTER:''113''|CENTER:''324280点''|~|CENTER:750点|CENTER:260点|
+|CENTER:AC14|CENTER:PSPDXDL|~|~|~|CENTER:''325000点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''334720点''}|~|CENTER:COLOR(#ff3300){2370点}|CENTER:-|
+-BPMは約141。
+--ただし、新譜面にはHS0.92がかかっている。
+----
+-[[ふつう>難易度表/ふつう/Rhythm and Police]]
+-[[むずかしい>難易度表/むずかしい/Rhythm and Police]]
+-[[おに>難易度表/おに/Rhythm and Police]]
+-[[プレイ動画(新譜面)>https://www.youtube.com/watch?v=OlUKc-pKG6s]]
+-[[オート動画(旧譜面)>https://www.youtube.com/watch?v=RkCiur1VeA4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~DS3以降
+&ref(sousa.png,nolink);
+~CS3まで
+&attachref(r&p_e.png,nolink);

@@ -1,0 +1,30 @@
+*Sweet Sweet Magic [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''3DS1''|CENTER:★×4|CENTER:''206''|CENTER:''348500点''|CENTER:＋連打|CENTER:460点|CENTER:130点|
+-BPMは179。
+-黄色連打がかなり多い連打曲である。
+-大音符が多く、37個ある（全体の約17.96%）。
+-4分が主体の譜面で、たまに8分も出てくる。
+--8分は全て単色しかなく、その全てが単発である。
+--ただし、4分の複合は3連打が2回しか出て来ない。
+-たまに出てくる8分の単色4連打に注意。
+--そのうち4回は大音符なので、1個でも特良を逃すと痛い失点になる可能性がある。
+-以上のことからフルコン難易度は高く、''下手なふつうコースよりも難しいので要注意''。
+
+***その他 [#other]
+-作詞・作曲は、''Claire''。編曲は、''Clarie・K-MASERA''。歌唱は、''葉月ゆら・月子''。
+--[[''JBG音楽院''>http://www.jbg-ongakuin.com/]]が提供している楽曲である。
+-曲IDは、''smagic''。
+
+-[[ふつう>難易度表/ふつう/Sweet Sweet Magic]]
+-[[むずかしい>難易度表/むずかしい/Sweet Sweet Magic]]
+-[[おに>難易度表/おに/Sweet Sweet Magic]]
+-[[オート動画(直撮り)>http://www.youtube.com/watch?v=8M26KL1qQlk]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(きゅん！.png,nolink);

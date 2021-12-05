@@ -1,0 +1,36 @@
+*Ridge racer(RIDGE RACER USA MIX) [#title]
+***詳細・攻略 [#more]
+-PS Vita用ソフト「''RIDGE RACER''」の楽曲。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''PS Vita1''|CENTER:★×4|CENTER:''177''|CENTER:''327060点''|CENTER:＋連打|CENTER:550点|CENTER:160点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''970700点''}|~|CENTER:COLOR(#ff3300){4790点}|CENTER:-|
+-BPMは232。
+-黄色連打がかなり多い連打曲で、1本あたりの長さも長い。
+-全体的に付点配置や裏拍配置が多く、リズムが取りづらい。
+-大音符が多く、23個ある（全体の約12.99%）。
+-4分が主体の譜面で、8分は1回も出て来ない。
+--また、4分は単色の3連打までしかない。
+--ただし速度が速いので、譜面についていけないとノルマ落ちする可能性がある。
+-4分の3連打が4連続で出てくる118〜121小節に注意。
+-付点配置が多いので全良難易度は少し高めだが、全体的にスカスカで休みも多い。
+
+***その他 [#other]
+-セガのレーシングゲーム「''デイトナUSA''」とのコラボ楽曲としてDLC配信された。
+--曲終盤にデイトナUSAの楽曲「''Let's Go Away''」のフレーズが使用されている。
+-リッジレーサーシリーズ20周年として制作されたCD「リッジレーサー20th アニバーサリーリミックス」に本楽曲が収録されている。
+-原曲は、[[「''Ridge Racer''>難易度表/かんたん/Ridge Racer]] [[''(POWER REMIX)''」>難易度表/かんたん/Ridge Racer(裏譜面)]]。
+-歌唱は、セガの''光吉猛修''。
+--編曲（アレンジ）は、大久保博。
+-曲IDは、''rrvusa''
+
+-[[ふつう>難易度表/ふつう/Ridge racer (RIDGE RACER USA MIX)]]
+-[[むずかしい>難易度表/むずかしい/Ridge racer (RIDGE RACER USA MIX)]]
+-[[おに>難易度表/おに/Ridge racer (RIDGE RACER USA MIX)]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=amzvlXATLNo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(r0.png,nolink);

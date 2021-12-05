@@ -1,0 +1,26 @@
+*ALRIGHT* [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(red){PS Vita MS SP}''|★×3|''125''|''311000点''|+連打|630点|220点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''975580点''}|~|COLOR(#ff3300){5840点}|-|
+-BPMは184。
+
+***その他 [#other]
+-この曲は''萩原雪歩(CV:浅倉杏美)''の持ち歌である。
+-作詞は、''Yura''。作曲は、''cota''。編曲は、''cota''、''関淳二郎''。
+-譜面作成は、''くぼけん''。
+
+----
+-[[ふつう>難易度表/ふつう/ALRIGHT*]]
+-[[むずかしい>難易度表/むずかしい/ALRIGHT*]]
+-[[おに>難易度表/おに/ALRIGHT*]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=IaloE9ppHBo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定
+&ref(alright_e.png,nolink);

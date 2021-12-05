@@ -1,0 +1,46 @@
+*L・O・B・M [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''Wii3''&br;iOS|CENTER:★×6|CENTER:''360''|CENTER:''785010点''|CENTER:＋連打|CENTER:610点|CENTER:140点|
+|CENTER:COLOR(red):PS Vita MS|~|CENTER:''411''|CENTER:''789360点''|~|CENTER:570点|CENTER:140点|
+|CENTER:COLOR(#f30):真打|~|~|CENTER:COLOR(#f30):''?????0点''|~|CENTER:COLOR(#f30):???0点|CENTER:-|
+-BPMは170。
+
+***新譜面 [#new]
+***旧譜面 [#old]
+-黄色連打は3本と少なめだが、1本あたりの長さは長い。
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+--16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
+--また、8分の複合は種類がかなり多い。
+-ゴーゴーで1回だけ出てくる8分の複合8連打に注意。
+-フルコン難易度は妥当〜少し弱めだが、16分は数が少ないのでクリアは簡単な方である。
+
+***その他 [#other]
+-アイドルマスターSPでの最後の配信曲で、CDのMASTER SPECIALシリーズの共通曲である。
+-L・O・B・Mとは、''Love Organized Boost Musicの略''らしい。訳すと''愛が団結した応援曲''になる。
+-因みにLOBMだとLow Orbiting Battle Missile（低軌道戦闘用ミサイル）の略｡ラブミサイル?
+-作曲は、[[バベルの塔>難易度表/むずかしい/バベルの塔]]や[[SORA-IV ブンパソング>難易度表/むずかしい/SORA-IV ブンパソング]]と同じ''高田龍一''。
+-作詞は、''mft''｡
+-譜面作成は、''くぼけん''。
+-アイマス2のカタログ5号からも配信された。若干ソロとユニットだと振り付けが変わる。
+-余談だが、アニスペに収録されている''[[L・O・V・E>難易度表/むずかしい/L・O・V・E]]''とは関係ない。
+-ちなみにサビの歌詞の頭文字はあいうかきく・・・わをんとなっている。
+--GAME VERSIONでは、あいう→かきく→たちつ→まみむ で発射して終わる。
+-[[かんたん>難易度表/かんたん/L・O・B・M]]
+-[[ふつう>難易度表/ふつう/L・O・B・M]]
+-[[おに>難易度表/おに/L・O・B・M]]
+-[[オート動画(新譜面,5:03〜)>https://www.youtube.com/watch?v=-tYUib3gFjU&t=303]]
+-[[オート動画(旧譜面)>http://www.youtube.com/watch?v=GHfAQOcVuMM]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+~新譜面
+&attachref(LOBMn_h.png,nolink);
+
+~旧譜面
+&ref(lobm.png,nolink);

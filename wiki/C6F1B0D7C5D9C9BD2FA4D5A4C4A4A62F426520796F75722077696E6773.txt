@@ -1,0 +1,29 @@
+*Be your wings [#title]
+***詳細・攻略 [#more]
+-「''テイルズ オブ バーサス''」のテーマソング。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC13|CENTER:''Wii2''|CENTER:★×5|CENTER:''126''|CENTER:''586490点''|CENTER:+連打|CENTER:1240点|CENTER:400点|
+-BPMは138。
+-大音符が多く、20個ある（全体の約15.9%）。
+-4分の複合が主体の譜面で、たまに8分も出てくる。
+--8分は単色の3連打までしかないが、そのほとんどが4分と隣接している。
+--ただし、4分の複合は面と縁の交互連打しかない。
+-中盤で1回だけ出てくる4分の複合7連打に注意。
+-フルコン難易度は妥当〜少し弱めだが、8分は数が少ないので当時の★×5にしては簡単な方である。
+
+***その他 [#other]
+-アーティストは、''GIRL NEXT DOOR''。
+--作詞は、''千紗''・''Kenn Kato''。作曲は、''鈴木大輔''。編曲は、''GIRL NEXT DOOR''・''渡辺徹''。
+-曲IDは、''beyour''
+
+-[[かんたん>難易度表/かんたん/Be your wings]]
+-[[むずかしい>難易度表/むずかしい/Be your wings]]
+-[[おに>難易度表/おに/Be your wings]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=JIQ3sfKOgLo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&ref(beyourwings.png,nolink);

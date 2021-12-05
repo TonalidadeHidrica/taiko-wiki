@@ -1,0 +1,22 @@
+*CHAOS RINGS [#title]
+-スクウェア・エニックスのiOS・Android用のRPGゲーム、''「[[CHAOS RINGS>http://dlgames.square-enix.com/chaosrings/]]」''より。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''iOS''|★×4|''129''|''??????点''|＋連打|790点|210点|
+-作曲者は、''上松範康''。
+-読み方は、''「ケイオスリングス」''。
+--ちなみにCHAOSとは、混沌という意味で皆さんおなじみの「''カオス''」の英語版である。ここではBPMに現れているだろう。
+----
+-[[ふつう>難易度表/ふつう/CHAOS RINGS]]
+-[[むずかしい>難易度表/むずかしい/CHAOS RINGS]]
+-[[おに>難易度表/おに/CHAOS RINGS]]
+-[[オート動画>http://www.youtube.com/watch?v=2v9cIMJ3mpk]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは適当
+~&attachref(混沌の輪かんたん.png,nolink);

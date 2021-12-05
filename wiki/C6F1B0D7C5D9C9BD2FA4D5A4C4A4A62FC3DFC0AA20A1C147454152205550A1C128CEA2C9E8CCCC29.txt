@@ -1,0 +1,24 @@
+*蓄勢 〜GEAR UP〜(裏譜面) [#j621d639]
+***詳細・攻略 [#g88449a3]
+- 詳細は以下の通り:
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii2SP''|★×7|COLOR(#909){''498}&br;COLOR(#069){370}&br;COLOR(#666){278''}|''699250点''|＋連打|400点|90点|
+-BPMは146。
+-玄人・達人には16分音符がある。
+-音符密度は''約3.79打/秒''(1コンボ目から498コンボ目まで、達人譜面)。
+
+-曲IDは、''exmgw2''。
+----
+-[[表譜面>難易度表/かんたん/蓄勢 〜GEAR UP〜]]/[[かんたん>難易度表/かんたん/蓄勢 〜GEAR UP〜(裏譜面)]]
+-[[表譜面>難易度表/ふつう/蓄勢 〜GEAR UP〜]]/ふつう
+-[[表譜面>難易度表/むずかしい/蓄勢 〜GEAR UP〜]]/[[むずかしい>難易度表/むずかしい/蓄勢 〜GEAR UP〜(裏譜面)]]
+-[[表譜面>難易度表/おに/蓄勢 〜GEAR UP〜]]/[[おに>難易度表/おに/蓄勢 〜GEAR UP〜(裏譜面)]]
+-[[プレイ動画(玄人・普通譜面)>https://www.youtube.com/watch?v=c1HLqohGgWg]]
+-[[オート動画(達人譜面)>https://www.youtube.com/watch?v=uwy_RYSnoqo]]
+
+***コメント [#v8bb8ad4]
+#pcomment(,noname)
+
+***譜面 [#ga879e76]
+&attachref(exmgw2_n.png,nolink);

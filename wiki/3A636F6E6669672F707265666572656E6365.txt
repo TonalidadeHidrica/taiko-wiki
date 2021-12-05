@@ -1,0 +1,28 @@
+オリジナルのロゴやcssを設定する場合は、[[:config/preference/skin]]にファイルを添付してください。
+
+*setting [#ya82c107]
+
+|LEFT|LEFT:250|LEFT:300|c
+|キー|値|説明|h
+|defaultpage  |FrontPage   |トップページの名前|
+|page_title   |太鼓の達人 譜面とかWiki    |ページタイトル|
+|zone         |JST  |タイムゾーン|
+|zonetime     |9    |GMTからのオフセット|
+|private_use  |0    |プライベート利用するときは 1, 公開するときは 0|
+|trackback    |0    |Trackbackを使用するときは 1, しないときは 0|
+|referer      |0    |リンク元を記録するときは 1, しないときは 0|
+|nowikiname   |0    |WikiNameを無効にする場合は 1, しない場合は 0|
+|autolink     |0    |AutoLinkを有効にする場合は、AutoLink対象となるページ名の最短バイト数を指定。AutoLinkを無効にする場合は0|
+|read_auth    |0    |閲覧認証する場合は 1, しない場合は 0|
+|edit_auth    |0    |編集認証する場合は 1, しない場合は 0|
+|notify       |1    |ページの更新時にメールを送信するときは 1, 送信しないときは 0|
+|notify_diff_only |1 |差分だけを送信するときは 1, ページ全部を送信するときは 0|
+|notify_to    |fumentoka@outlook.com|宛先のメールアドレスを指定。複数あるときはカンマ(,)で区切る|
+|notify_from    |dont@reply.to.me |送信元のメールアドレスを指定|
+|notify_subject |[pukiwiki] $page |Subject: 件名。$pageにページ名が入る|
+
+*users [#ceae0ed3]
+
+ユーザ定義
+
+|id|passwd|h

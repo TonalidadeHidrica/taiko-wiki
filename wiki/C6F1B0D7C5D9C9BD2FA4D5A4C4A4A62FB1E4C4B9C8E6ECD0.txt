@@ -1,0 +1,17 @@
+*延長比賽 [#ya6d186f]
+
+*** 詳細・攻略 [#t49ff318]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11亜''|CENTER:★×3|CENTER:''87''|CENTER:''465510点''|CENTER:＋連打|CENTER:1630点|CENTER:670点|
+- アーティストは''タンク・リュ''（''呂建中''）。
+
+-[[かんたん>難易度表/かんたん/延長比賽]]
+-[[むずかしい>難易度表/むずかしい/延長比賽]]
+-[[おに>難易度表/おに/延長比賽]]
+
+***コメント [#rb497b11]
+
+#pcomment(,noname)
+
+*** 譜面 [#jd5c5bcc]
+&ref(keep_fighting-n.png,nolink);

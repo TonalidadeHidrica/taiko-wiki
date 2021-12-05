@@ -1,0 +1,95 @@
+*ミュージック・リボルバー(裏譜面) [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.1.3''|PS Vita1DL&br;3DS3DL&br;PS4 1DL|★×10|''777''|''1195560点''|+連打|440点|113点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''998440点''}|~|COLOR(#ff3300){1220点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは168。
+-連打秒数目安・・・約0.685秒−SIZE(16){約1.399秒}：合計約2.083秒
+-777コンボの曲は、AC12増量版の[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]以来2年ぶりである。
+-非常に長い複合が特徴的な譜面。稼ぎ所や休憩地帯はあるにしても、後半の複合をある程度耐えないとそこで根こそぎゲージを持っていかれる可能性が高い。
+-1打目に高速(BPM168×HS5.73＝見た目BPM''962.64'')で大音符が流れてくる。(詳細は後述)
+-途中に[[熊蜂の飛行>難易度表/おに/熊蜂の飛行]]ばりの長複合に[[お菓子刑事の歌>難易度表/おに/お菓子刑事の歌]]に似た発狂が混じっている複合、後半は[[旋風ノ舞【天】>難易度表/おに/旋風ノ舞【天】]]以上に複雑な長複合が存在し、高度な複合処理能力が要求される。
+-休憩地帯が長いため、1曲を通しての平均密度は''約5.94打/秒''と★×10にしては低い。
+--しかし、ゴーゴータイム以降は平均密度が''約9.67打/秒''と跳ね上がる。
+
+***1打目の見切り方[#first]
+-1打目に高速(BPM168×HS5.73＝BPM''962.64'')で大音符が流れてくる。
+--[[タイコタイム(裏譜面)>難易度表/おに/タイコタイム(裏譜面)]]以上に、リズムを取って叩くことが困難。目押しで叩くのが無難。
+---開始3秒後に流れてくることを意識すればだいぶ楽である。
+--難しい方法ではあるが、曲が流れ出す前のどんちゃん(かっちゃん)の首の動きに合わせて8分音符間隔で叩くという手がある。
+---最初はゆっくり首を振るが、少しすると曲のBPMに合わせて首を振り始めるので、その時から8分音符刻みで叩き始めるといいだろう。
+--''モモイロVer.第31回のアップデートにて、開幕の流れ出すタイミングが変更された''。
+---従来の曲名と○曲目の表示を頼りにした方法が通用しなくなったが、どんちゃん(かっちゃん)の首の動きに合わせて叩く方法は可能なため、こちらでタイミングを計ることを推奨。
+---幕が上がってから7回目の首振で叩くと良い。(現在ではこの方法が一番無難となっている)
+--また、[[タイコタイム(裏譜面)>難易度表/おに/タイコタイム(裏譜面)]]と同じく、別難易度とのセッションなら他コースの譜面に合わせて目押しすることも可能。確実に特良を取りたいならばこの方法が一番であろう。
+--PS Vita1、3DS3、PS4 1では、大音符の前に小節線が1本表示されるので、タイミングがとりやすくなった。
+--最後の一打にも縁の大音符が開幕の大音符と同じようにかなりの速さで流れてくるが、こちらは776打目から4分音符刻みで叩いていれば合わせることができる。
+---開幕の1打よりは叩きやすいので、ここでミスをしたくないところ。
+--ちなみにHS5.73は[[Black Rose Apostle>難易度表/おに/Black Rose Apostle]]と同じく、アーティストの[[世阿弥>参加アーティスト一覧/世阿弥]]が[[Tatsh>参加アーティスト一覧/世阿弥]]と同一人物であるということを譜面作成者の[[エトウ>譜面作成者一覧/エトウ]]が仄めかしたものだと思われる。(当時はまだ世阿弥=Tatshであることが公表されていなかった)
+
+***長複合の見切る・覚える際のポイント [#point]
+-1本目(40〜45小節)
+--24分音符も含めて105連打。
+--2小節分偶数打交互連打→16分音符でCOLOR(red){●●●●}/COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}×2の3セット＋16、24分音符混合面連打が基本構成。そのうち、43小節は24分音符が混じる。そのため3回目のCOLOR(blue){○○}COLOR(red){●}COLOR(blue){○}と2回目の24分音符が逆手入り。&br;最後の面のみの24分音符連打は相当連打スピードが速くないと不可が出る。接続難易度はかなり高い。[[夜桜謝肉祭(裏譜面)>難易度表/おに/夜桜謝肉祭(裏譜面)]]にも7連打ではあるがほぼ同じスピードの24分音符があるので、そちらで練習するのも手。
+-2本目、3本目前半(66〜68、70〜72小節)
+--2本目は50連打。3本目は98連打。
+--A.COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}、B.COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}、C.COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}の3本セット。A→B→C→C→A→BまたはA(あべこべ)の繰り返しとみると意外と覚えやすい複合かもしれない。&br;[[ヒカリノカナタヘ>難易度表/おに/ヒカリノカナタヘ]]の後半が下位互換に当たる。
+
+//---参考：4打で区切った場合&br;
+//66~68小節：&br;
+//COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/&br;
+//COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}/&br;
+//70~72小節：&br;
+//COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/&br;
+//COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○○}COLOR(red){●●}/
+
+-3本目後半(73〜75小節)
+--COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}とそのあべこべがカギ。73小節も8打＋COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}と見ればよい。74小節は戸惑いがちだがCOLOR(blue){○}COLOR(red){●●●}/COLOR(blue){○○}COLOR(red){●●}の入り手で切り返し＋3-3型の複合である。&br;75小節はCOLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}とそのあべこべで16打をなしている。その部分は6,6,4打で区切るのもあり。
+
+//---参考：4打で区切った場合&br;
+//73小節：COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}/&br;
+//74小節：COLOR(blue){○}COLOR(red){●●●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/&br;
+//75小節：COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○○}/&br;
+//75小節(6/6/4区切り)：
+//COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○○}/
+
+-4本目(77〜80小節)
+--3本目から微妙に変わっているが、77と78小節で奇数だったところが2-2になっているだけである。&br;最後の2小節はCOLOR(red){●}COLOR(blue){○○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}＋COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}＋COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}交互だがラストにCOLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}の24分音符がある。
+---ただし、ラストに開幕と同じく5.73倍速で大音符が飛んでくるので注意。
+
+//---参考：4打で区切った場合&br;
+//77小節：COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}/&br;
+//78小節：COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/&br;
+//79小節：COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/&br;
+//80小節：COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}(24分)
+
+***その他 [#other]
+-楽曲情報は[[表譜面>難易度表/おに/ミュージック・リボルバー]]を参照。
+-略称は、''ミューリボ裏''など。
+-譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
+-新筐体におけるフルコンボ称号は実装されていない。
+-表譜面と裏譜面の★の数の差は、[[Switch>難易度表/おに/Switch On!]] [[On!>難易度表/おに/Switch On!(裏譜面)]]、[[ダジャレd>難易度表/おに/ダジャレdeオシャレ]][[eオシャレ>難易度表/おに/ダジャレdeオシャレ(裏譜面)]]と共に、9つ差のあなたとトゥラッタッタ♪([[★×1>難易度表/おに/あなたとトゥラッタッタ♪]]〜[[★×10>難易度表/おに/あなたとトゥラッタッタ♪(裏譜面)]])、8つ差のもりのくまさん([[★×1>難易度表/おに/もりのくまさん]]〜[[★×9>難易度表/おに/もりのくまさん(裏譜面)]])に次ぐ6つ差と歴代3番目に大きい。
+-太鼓の達人オンライン公式大会[[「''ドンだー祭り 陽春の陣''」>ドンだーひろば 公式大会#taikai2]]の課題曲に選ばれた。
+-[[ソライロVer.段位道場>過去の段位道場#sorairo]]の八段3曲目課題曲、[[モモイロVer.段位道場>過去の段位道場#momoiro]]の八段1曲目課題曲となった。
+-''2016年10月13日(木)7:00を以て、新筐体ホワイト以前のVer.よりサヨナラ''になった。
+--''レッドVer.以降では、今まで通り選曲が可能。''
+--公式告知による通常配信の★×10譜面を含む曲でのサヨナラ曲が出されたのは''新筐体初''。
+
+----
+-[[かんたん>難易度表/かんたん/ミュージック・リボルバー]]
+-[[ふつう>難易度表/ふつう/ミュージック・リボルバー]]
+-[[むずかしい>難易度表/むずかしい/ミュージック・リボルバー]]
+-[[おに>難易度表/おに/ミュージック・リボルバー]]/裏譜面
+-[[プレイ動画>https://www.youtube.com/watch?v=mYe2GZIyhtk]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+~HS6→HS5.73
+~&attachref(revolverxx.png,nolink);

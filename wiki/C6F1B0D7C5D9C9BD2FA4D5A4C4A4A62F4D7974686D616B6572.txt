@@ -1,0 +1,25 @@
+*Mythmaker [#title]
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(red){PS Vita MS SP}''|★×5|''180''|''569650点''|+連打|1050点|368点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''975520点''}|~|COLOR(#ff3300){5360点}|-|
+-BPMは114。
+
+***その他 [#other]
+-この曲は''三浦あずさ(CV:たかはし智秋)''の持ち歌である。
+-作詞・作曲・編曲は''LindaAI-CUE''。
+-譜面作成は、''くぼけん''。
+
+----
+-[[かんたん>難易度表/かんたん/Mythmaker]]
+-[[むずかしい>難易度表/むずかしい/Mythmaker]]
+-[[おに>難易度表/おに/Mythmaker]]
+-[[オート動画(2:35〜)>https://www.youtube.com/watch?v=GFs7ZLI-hc8&t=155]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(mythm_n.png,nolink);

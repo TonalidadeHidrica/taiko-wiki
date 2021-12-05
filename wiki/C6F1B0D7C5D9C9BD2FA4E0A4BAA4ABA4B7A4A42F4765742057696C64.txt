@@ -1,0 +1,22 @@
+*Get Wild [#gf275e97]
+***詳細・攻略 [#j8ccff47]
+-アニメ「''シティーハンター''」のED。
+--1987年4月から1988年3月まで放送された。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''、6||CENTER:★×3|CENTER:''236''|''635930点''|840点|210点|
+||CENTER:CS3|~|~|''628950点''|~|~|
+-BPMは131.8。
+-''精度曲''のひとつ。
+-アーティストは、''TM NETWORK''。
+-[[かんたん>難易度表/かんたん/Get Wild]]
+-[[ふつう>難易度表/ふつう/Get Wild]]
+-[[おに>難易度表/おに/Get Wild]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=zxKHQOvaU5k]]
+
+***コメント [#i51231b8]
+#pcomment(,noname)
+
+***譜面 [#iac8ac2b]
+風船は適当
+&attachref(シティハンターむずかしい.png,nolink);

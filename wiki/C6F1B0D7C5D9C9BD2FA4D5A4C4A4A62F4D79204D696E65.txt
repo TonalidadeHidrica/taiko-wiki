@@ -1,0 +1,36 @@
+*My Mine [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.0''||CENTER:★×5|CENTER:''322''|CENTER:''?????0点''|CENTER:＋連打|CENTER:580点|CENTER:158点|
+|CENTER:AC15.2.0|CENTER:NS1DL|~|~|CENTER:''589750点''|~|CENTER:570点|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''994580点''}|~|CENTER:COLOR(#ff3300){3030点}|CENTER:-|
+||CENTER:Wii4SP&br;iOS|~|~|CENTER:''577360点''|~|CENTER:540点|CENTER:130点|
+-BPMは177。
+-黄色連打が多い連打曲である。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-最近のふつうコースでは珍しく、コンボ数が[[おに>難易度表/おに/My Mine]](635コンボ)の半分を超えている。
+-速度が少し速く、全体的に8分がかなり多い。
+--8分は単色の3連打までしかないが、連続して出てくる箇所もある。
+--また、4分の複合は全体的に長めのが多い。
+-フルコン難易度は妥当だが、8分が単色しかないのでクリアは下位クラスだろう。
+
+***その他 [#other]
+-作曲は、[[MintJam>http://www.mintjam.net/mj/index.html]]の''setzer''。作詞は、''アリヤ''。ボーカルは、''月乃紫音''。リードギターは、''しょご''。
+--ちなみに、月乃紫音はニコニコ動画「歌ってみた」の投稿者である。
+-曲IDは、''mymine''
+-略称は''マイマイ''など。
+-ACでは、第1回アップデートまで曲名が''My mine''となっていた。
+-[[キミドリVer.段位道場>過去の段位道場#kimidori]]の八級1曲目課題曲となった。
+
+-[[かんたん>難易度表/かんたん/My Mine]]
+-[[むずかしい>難易度表/むずかしい/My Mine]]
+-[[おに>難易度表/おに/My Mine]]
+-[[オート動画(Wii4, キャプチャ)>http://www.youtube.com/watch?v=8mt30SmSN38]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~難易度は、ふつう★★★★★☆☆
+&attachref(mymine_n.png,nolink);

@@ -1,0 +1,26 @@
+*Touch off [#title]
+-アニメ「''約束のネバーランド''」のOP。
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS4 1DL''|★×9|''491''|''1093630点''|＋連打|670点|178点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''994800点''}|~|COLOR(#ff3300){1940点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは200。
+-平均密度は、''約5.76打/秒''
+
+***その他 [#other]
+-歌唱・作曲は、[[''UVERworld''>アーティスト別収録曲#uvbr]]。
+--作詞は、TAKUYA∞。編曲は、UVERworld・平出悟。
+----
+-[[かんたん>難易度表/かんたん/Touch off]]
+-[[ふつう>難易度表/ふつう/Touch off]]
+-[[むずかしい>難易度表/むずかしい/Touch off]]
+-[[オート動画>https://www.youtube.com/watch?v=l7TSNrRx9dI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(uwtcof_m.png,nolink);

@@ -1,0 +1,27 @@
+*future beat [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''NS1DL''|★×9|''697''|''1100510点''|480点|123点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''1006720点''}|COLOR(#ff3300){1430点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは、143。
+-''完全精度曲''のひとつ。
+
+***その他 [#other]
+-歌唱は、[[''ミライ小町''>ボーカロイド別収録曲#komachi]]。
+-作詞・作曲・編曲は、''ミフメイ''。
+-曲IDは、''mkftbt''。
+----
+-[[かんたん>難易度表/かんたん/future beat]]
+-[[ふつう>難易度表/ふつう/future beat]]
+-[[むずかしい>難易度表/むずかしい/future beat]]
+-[[オート動画>https://www.youtube.com/watch?v=GkVdtZ0suhg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(mkftbt_m.png,nolink);

@@ -1,0 +1,32 @@
+*Brand-new World [#title]
+***詳細・攻略 [#more]
+-アニメ「''学戦都市アスタリスク''」のOP。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''PS Vita1DL''|CENTER:★×4|CENTER:''68''|CENTER:''341180点''|CENTER:＋連打|CENTER:1180点|CENTER:930点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''984200点''}|~|CENTER:COLOR(#ff3300){10100点}|CENTER:-|
+-BPMは205。
+--HS0.67(推定)がかかっており、見かけ上のBPMは137.35。
+-黄色連打がかなり多い連打曲である。
+-全体的に付点配置や裏拍配置が多く、リズムが取りづらい。
+-大音符がかなり多く、26個ある（全体の約38.2%）。
+-速度は速いが、全体的にスカスカで休みも多い。
+--また4分は数が少なく、複合も計2回しか出て来ない。
+-ラストで1回だけ出てくる4分の複合5連打に注意。
+
+***その他 [#other]
+-曲名の読み方は、''ブランニュー ワールド''。
+-アーティストは、''西沢幸奏''。
+--作詞・作曲は、''WEST GROUND''。
+--''本人音源''である。
+-同ジャンルの[[BRAND NEW WORLD>難易度表/かんたん/BRAND NEW WORLD]]と間違えないように。
+-[[ふつう>難易度表/ふつう/Brand-new World]]
+-[[むずかしい>難易度表/むずかしい/Brand-new World]]
+-[[おに>難易度表/おに/Brand-new World]]
+-[[オート動画>http://www.youtube.com/watch?v=LJQHEtevaPY]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(b0.png,nolink);

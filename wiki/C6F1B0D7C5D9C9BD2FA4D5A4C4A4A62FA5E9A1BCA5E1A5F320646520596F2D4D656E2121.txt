@@ -1,0 +1,29 @@
+*ラーメン de Yo-Men!! [#title]
+***詳細・攻略 [#more]
+-deシリーズ第5弾。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.9.3SP|CENTER:''Wii5SP''|CENTER:★×4|CENTER:''253''|CENTER:''532040点''|CENTER:＋連打|CENTER:540点|CENTER:140点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3090点}|CENTER:-|
+-BPMは118。
+-「ラーメン食べたい」などの歌詞から[[オールナイトdeインデナイ>難易度表/ふつう/オールナイトdeインデナイ]]の続編のような曲である。 
+-8分音符の複合や付点8分音符が多く、かなりのリズム難曲である。BPMが遅いのでHSの使用を推奨する。
+-後半に3-3型の8分音符の複合がある。
+
+***その他 [#other]
+-作曲は、''矢野義人''。
+-新筐体イエローVer.において、ごほうびショップで解禁できる隠し曲として復活を果たした。
+--解禁に必要なかつメダルは''1000''。
+-曲IDは、''ramen''
+
+-[[かんたん>難易度表/かんたん/ラーメン de Yo-Men!!]]
+-[[むずかしい>難易度表/むずかしい/ラーメン de Yo-Men!!]]
+-[[おに>難易度表/おに/ラーメン de Yo-Men!!]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=BgMqZE8XXGQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+4小節目のドン（大）は巨大音符です。
+&attachref(ramen_n3.png,nolink);

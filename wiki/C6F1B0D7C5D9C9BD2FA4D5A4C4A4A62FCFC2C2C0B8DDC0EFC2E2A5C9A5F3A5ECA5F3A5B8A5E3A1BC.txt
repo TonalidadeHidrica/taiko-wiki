@@ -1,0 +1,52 @@
+*和太鼓戦隊ドンレンジャー [#title]
+***詳細・攻略 [#more]
+''【1人用譜面】''
+-詳細は以下の通り：
+|>|CENTER:バージョン|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''CS3''|CENTER:★×5|CENTER:''223''|CENTER:''??????点''|CENTER:＋連打|CENTER:890点|CENTER:230点|
+|CENTER:AC6||~|~|CENTER:''??????点''|~|CENTER:???点|CENTER:???点|
+||CENTER:米TDM&br;TDM|CENTER:★×4|~|CENTER:''??????点''|~|CENTER:830点|CENTER:210点|
+||CENTER:アニメ祭り|CENTER:★×5|CENTER:''169''|CENTER:''??????点''|~|CENTER:1180点|CENTER:340点|
+-BPMは160。
+-黄色連打や風船の多い連打曲。
+-★×4にしてはかなり8分が多く、厳しめな譜面。
+--3連打までとはいえ複合まで出てくるため、★×5と考えてもやや強めだろう。
+---ただし当時のふつうコースは★×6までしか無かったため、それを考えると★×5で妥当といったところか。
+-31小節は裏拍から入るため注意。この部分はボーカル合わせのため曲を良く聞いておこう。
+-アニメ祭りでは音源がショートVer.になっている。
+--主な違いは前奏・後奏、65〜74小節のカットなど。
+--こちらでは8分の複合は出てこないため、他のものよりは易し目。
+----
+''【2人用譜面】''
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×4|CENTER:1P|CENTER:''182''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1010点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''183''|CENTER:''?????0点''|~|~|~|
+-TDMにのみ存在する。
+-65-72小節は交互に裏拍から叩く配置となっている。ややリズムが取りづらいため注意。
+----
+***その他 [#other]
+-アニメ祭りでの''唯一のナムコオリジナル曲''である。
+-TDMでは''Don Rangers''と表記されている。
+-歌唱は、[[''谷本貴義''>参加アーティスト一覧/谷本貴義]]。
+-作曲は、[[''みすみゆり''>参加アーティスト一覧/みすみゆり]]。作詞は、[[''LindaAI-CUE''>参加アーティスト一覧/LindaAI-CUE]]。
+-曲IDは、''dren''、''dren2''(アニメ祭りのショートVer.)。
+
+----
+-[[かんたん>難易度表/かんたん/和太鼓戦隊ドンレンジャー]]
+-[[むずかしい>難易度表/むずかしい/和太鼓戦隊ドンレンジャー]]
+-[[おに>難易度表/おに/和太鼓戦隊ドンレンジャー]]
+-[[オート動画(TDM 1人用譜面)>https://www.youtube.com/watch?v=YXQFsxiQ7jI]]
+-[[オート動画(TDM 2人用譜面)>https://www.youtube.com/watch?v=JZK_-hjWe5k]]
+-[[オート動画(アニメ祭)>https://www.youtube.com/watch?v=ay1_Bc9xRdE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~1人用譜面
+&attachref(ドンレンジャーふつう.png,nolink);
+~2人用譜面
+&attachref(ドンレンジャーふつう２.png,nolink);
+~アニメ祭りの譜面
+&attachref(ドンレンジャーふつうアニ祭.png,nolink);

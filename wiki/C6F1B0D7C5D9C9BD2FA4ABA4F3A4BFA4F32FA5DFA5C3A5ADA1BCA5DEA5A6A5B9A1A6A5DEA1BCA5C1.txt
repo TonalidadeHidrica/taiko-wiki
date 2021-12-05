@@ -1,0 +1,29 @@
+*ミッキーマウス・マーチ((AC7以降))&br;ミッキーマウスマーチ((AC6)) [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+|CENTER:''AC6''||CENTER:★×3|CENTER:''136''|CENTER:''?????0点''||CENTER:???0点|CENTER:??0点|
+|CENTER:AC7|CENTER:CS5|~|CENTER:''132''|CENTER:''393990点''|CENTER:＋連打|CENTER:820点|CENTER:280点|
+|CENTER:AC8,9||~|~|CENTER:''?????0点''|~|CENTER:800点|CENTER:220点|
+|CENTER:AC10-14|CENTER:Wii1|~|~|CENTER:''335220点''|~|CENTER:690点|CENTER:240点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''338400点''}|~|CENTER:COLOR(#ff3300){2400点}|CENTER:-|
+||CENTER:Wii U1|CENTER:★×4|~|CENTER:''?????0点''|~|CENTER:750点|CENTER:358点|
+-BPMは124。
+-速度は少し遅めだが、全体的に4分がかなり多い。
+--4分はほとんどが単色の3連打だが、連続して出てくる箇所もある。
+-ラストゴーゴーで3回出てくる4分の複合7連打に注意。
+-Wii U1で★×4に昇格したが、速度が遅いのでクリアは逆詐称だろう。
+-CS5で音源が差し替えられ（それに伴い譜面も微変更）、AC7以降はそちらが使われている。
+-作詞・作曲は、Jimmie Dodd。訳詞は、さざなみけんじ。
+-曲IDは、''dis1''（dis2は[[エレクトリカル パレードのテーマ　BAROQUE HOEDOWN>難易度表/かんたん/エレクトリカルパレード]]）
+-[[ふつう>難易度表/ふつう/ミッキーマウス・マーチ]]
+-[[むずかしい>難易度表/むずかしい/ミッキーマウス・マーチ]]
+-[[おに>難易度表/おに/ミッキーマウス・マーチ]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=GBGKftrjCQc]]
+-[[プレイ動画(旧譜面)>http://youtube.com/watch?v=qvVMpmvQz0U]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(mickey mouse.png,nolink);

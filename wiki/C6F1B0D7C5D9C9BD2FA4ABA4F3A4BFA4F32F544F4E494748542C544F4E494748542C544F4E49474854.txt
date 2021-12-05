@@ -1,0 +1,22 @@
+*TONIGHT,TONIGHT,TONIGHT(かんたん) [#y113c776]
+***詳細・攻略 [#z4fa7dac]
+-アニメ''「BLEACH」''のOP4
+--この名義で歌われている曲はこの曲を含め歌詞が全て英語であるが所謂カタカナ語的な発音なのが特徴。
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC9''|CENTER:★×4|CENTER:''94''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1300点|CENTER:440点|
+-BPMは178。
+-黄色連打は3本しかないが、1本あたりの長さが長い。
+-全体的に4分が多いが、8分は1回も出て来ないので★×4にしては簡単な方。
+-また、4分は単色の3連打までしかない。
+-アーティストは、''BEAT CRUSADERS''。
+-[[ふつう>難易度表/ふつう/TONIGHT,TONIGHT,TONIGHT]]
+-[[むずかしい>難易度表/むずかしい/TONIGHT,TONIGHT,TONIGHT]]
+-[[おに>難易度表/おに/TONIGHT,TONIGHT,TONIGHT]]
+-[[プレイ動画>http://www.youtube.com/watch?v=cBDsC5Afg48]]
+
+***コメント [#n7a579fe]
+#pcomment(,noname)
+
+***譜面 [#h964e6d0]
+&attachref(TTT_e.png,nolink);

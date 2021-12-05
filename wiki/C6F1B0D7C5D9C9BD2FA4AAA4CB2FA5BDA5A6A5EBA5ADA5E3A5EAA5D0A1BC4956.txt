@@ -1,0 +1,36 @@
+*ソウルキャリバーIV SIZE(16){&ruby(イマキュリット){IMMACULATE}; &ruby(プレッジ){PLEDGE};} [#title]
+-ナムコのPS3、Xbox 360用ソフト「''[[ソウルキャリバーIV>ゲーム別収録曲#sc]]''」の楽曲。(→[[公式サイト>http://www.soularchive.jp/SC4/]])
+
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12''~12増&br;AC12亜|''Wii1''|★×8|''406''|''1038770点''|+連打|740点|170点|
+
+***譜面構成・攻略 [#capture]
+-BPMは約150。
+-連打秒数目安・・・''約1.167秒''−約1.165秒−約1.367秒:合計約3.698秒
+-16分音符は、5連打まで。★×8にしては特に難しい複合はなく、クリア自体は難しくないだろう。
+--ちなみに、AC12のロケテの段階では★×7であった。(→[[参考動画(niconico)>https://www.nicovideo.jp/watch/sm4691867?from=72]])
+-平均密度は、''約3.97打/秒''。
+
+***その他 [#other]
+-「''IMMACULATE PLEDGE''」の意味は、直訳すると「純粋な誓い」。公式の日本語タイトルは、「''その誓いに一点の穢れなし''」。(→[[ソース>http://www.soularchive.jp/SC4/blog/2008/09/post-12.html]])
+--太鼓の達人ではサブタイトルのような扱いになっているが、本来はこちらが曲名である。
+-作曲は、''[[中鶴潤一>参加アーティスト一覧/中鶴潤一]]''。
+--同氏は、「ソウルシリーズ」のサウンドディレクターでもある。
+-曲IDは、''calib4''。
+----
+-[[かんたん>難易度表/かんたん/ソウルキャリバーIV]]
+-[[ふつう>難易度表/ふつう/ソウルキャリバーIV]]
+-[[むずかしい>難易度表/むずかしい/ソウルキャリバーIV]]
+-[[プレイ動画(720p,60fps)>https://www.youtube.com/watch?v=GFnGZrLB-IE]]
+-[[オート動画(1080p,30fps)>https://www.youtube.com/watch?v=0ytPpV6SV1I]]
+#region(低画質版)
+-[[オート動画(Wii1)>https://www.youtube.com/watch?v=crjFXxtK5Go]]
+#endregion
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(calib4_2.png,nolink);

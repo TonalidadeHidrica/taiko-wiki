@@ -1,0 +1,34 @@
+*Raise your flag [#title]
+-アニメ[[「''機動戦士ガンダム 鉄血のオルフェンズ''」>アニメ別収録曲#gundam]]のOP1。
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1DL''|★×8|''411''|''1043460点''|+連打|650点|198点|
+|COLOR(#f30){真打}|~|~|COLOR(#f30){''??????点''}|~|COLOR(#f30){????点}|-|
+|iOS&br;AR|~|~|''?????0点''|~|660点|160点|
+
+***譜面構成・攻略 [#capture]
+-BPMは145。
+-連打秒数目安・・・SIZE(16){''0.793秒×3''}：合計約2.379秒
+-平均密度は、''約5.21打/秒''。
+-殆どの所でHS1.4がかかっており、HS1地帯は7小節目までと40〜43小節だけなので混乱しないように注意しよう。
+
+***その他 [#other]
+-曲名の読み方は、''レイズ ユア フラッグ''。
+-アーティストは、[[''MAN WITH A MISSION''>アーティスト別収録曲#mwam]]。
+--作詞は、Kamikaze Boy・Jean-Ken Johnny。作曲は、Kamikaze Boy。編曲は、MAN WITH A MISSION・大島こうすけ。
+-譜面作成は、[[''ヤマグチ''>譜面作成者一覧/ヤマグチ]]。
+-曲IDは、''gdmorp''
+
+----
+-[[かんたん>難易度表/かんたん/Raise your flag]]
+-[[ふつう>難易度表/ふつう/Raise your flag]]
+-[[むずかしい>難易度表/むずかしい/Raise your flag]]
+-[[オート動画>https://www.youtube.com/watch?v=Hs9pTdJUcDI]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~HS1.25→HS1.4
+~&ref(RYF.png,nolink);

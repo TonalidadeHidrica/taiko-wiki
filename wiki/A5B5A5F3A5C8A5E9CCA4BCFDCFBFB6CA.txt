@@ -1,0 +1,84 @@
+*サウンドトラック未収録曲 [#title]
+-太鼓の達人用に書き下ろされたオリジナル曲と太鼓の達人用にアレンジされた童謡、クラシック、ゲームミュージックをまとめました。
+--版権曲は含みません。
+
+#contents
+-[[サントラ収録曲]]
+
+**リスト 全32曲 [#list]
+|1||||c
+||曲名(50音順)|歌唱|作曲(編曲)|h
+|BGCOLOR(orangered):|[[哀 want U>難易度表/おに/哀 want U]]|-|かねこちはる|
+|BGCOLOR(orangered):|[[あの日出会えたキセキ>難易度表/おに/あの日出会えたキセキ]]|大瀬良あい、miko|溝口ゆうま|
+|BGCOLOR(orangered):|[[ARMAGEΔDON>難易度表/おに/ARMAGEΔDON]]|-|BlackY|
+|BGCOLOR(orangered):|[[頂>難易度表/おに/頂]]|-|CHUBAY|
+|BGCOLOR(orangered):|[[イヌノノリモノ>難易度表/おに/イヌノノリモノ]]|カタイカオル|?|
+|BGCOLOR(orangered):|[[EterNal Ring>難易度表/おに/EterNal Ring]]|-|museo|
+|BGCOLOR(orangered):|[[行かないでイカロス>難易度表/おに/行かないでイカロス]]|?|AJURIKA|
+|BGCOLOR(orangered):|[[オレサマパイレーツ>難易度表/おに/オレサマパイレーツ]]|-|大上昌子|
+|BGCOLOR(orangered):|[[和蘭撫子>難易度表/おに/和蘭撫子]]|飛鳥男|飛鳥男、野見★隆明|
+|BGCOLOR(orangered):|[[カラフル>難易度表/おに/カラフル]]|-|しょご/野村渉悟|
+|BGCOLOR(orangered):|[[Clotho クロートー>難易度表/おに/Clotho クロートー]]|小田ユウ|Tatsh|
+|BGCOLOR(orangered):|[[こ・き・く・くる・くる・くれ・こ！>難易度表/おに/こ・き・く・くる・くる・くれ・こ！]]|加藤はるか|諸星なな|
+|BGCOLOR(orangered):|[[GO GET'EM!>難易度表/おに/GO GET'EM!]]|-|寺島怜志|
+|BGCOLOR(orangered):|[[Coquette>難易度表/おに/Coquette]]|-|Jun Kuroda|
+|BGCOLOR(orangered):|[[CYBERgenicALICE>難易度表/おに/CYBERgenicALICE]]|葉月ゆら|Drop|
+|BGCOLOR(orangered):|[[シャイニング☆アブラカタブラ 〜阿羅仁＆マジカルランプ姫〜>難易度表/おに/シャイニング☆アブラカタブラ]]|葉月ゆら|葉月ゆら、Drop|
+|BGCOLOR(orangered):|[[青天の黎明>難易度表/おに/青天の黎明]]|siroa|steμ|
+|BGCOLOR(orangered):|[[第六天魔王>難易度表/おに/第六天魔王]]|-|黒沢ダイスケ×Masahiro "Godspeed" Aoki|
+|BGCOLOR(orangered):|[[ダンガンノーツ>難易度表/おに/ダンガンノーツ]]|-|cosMo@暴走P|
+|BGCOLOR(orangered):|[[天下統一録>難易度表/おに/天下統一録]]|-|黒沢ダイスケ×Masahiro "Godspeed" Aoki|
+|BGCOLOR(orangered):|[[トイマチック☆パレード!!>難易度表/おに/トイマチック☆パレード!!]]|-|DJ Genki|
+|BGCOLOR(orangered):|[[Toon Town's Toys' Tune>難易度表/おに/Toon Town's Toys' Tune]]|駄々子|Retropolitaliens|
+|BGCOLOR(orangered):|[[ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|DAIKI|?|
+|BGCOLOR(orangered):|[[241ディープラーニング>難易度表/おに/241ディープラーニング]]|翡翠、栗山叶|翡翠|
+|BGCOLOR(orangered):|[[パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]|miko、山本椛|コバヤシユウヤ|
+|BGCOLOR(orangered):|[[人のお金で焼肉を食したい！>難易度表/おに/人のお金で焼肉を食したい！]]|桑村拓朗、おかか|土屋裕一／INSPION|
+|BGCOLOR(orangered):|[[via lactea>難易度表/おに/via lactea]]|薛南(Harmonic Reflection)|EAjRock|
+|BGCOLOR(orangered):|[[Behemoth>難易度表/おに/Behemoth]]|-|DJ Myosuke|
+|BGCOLOR(darkorchid):|[[マジで…！？>難易度表/おに/マジで…！？]]|765PRO ALLSTARS|佐藤たかふみ|
+|BGCOLOR(orangered):|[[まるくてはやくてすさまじいリズム>難易度表/おに/まるくてはやくてすさまじいリズム]]|ちょこ|立秋|
+|BGCOLOR(orangered):|[[ユースフルコースター>難易度表/おに/ユースフルコースター]]|かずらなつ|U-suke|
+|BGCOLOR(orangered):|[[λ7708>難易度表/おに/λ7708]]||Taiji|
+//|BGCOLOR():|[[>難易度表/おに/]]|||
+
+**収録されない可能性が高いもの [#possibility]
+|1|||||c
+||曲名(50音順)|歌唱|作曲(編曲)|備考|h
+|BGCOLOR(orangered):|[[春夏秋冬ドンドコドン>難易度表/ふつう/春夏秋冬ドンドコドン]]|宮川博之|宮川博之||
+|BGCOLOR(lime):|[[パパマママック>難易度表/おに/パパマママック]]|牧野桃子、太郎、桜子|山本由貴子||
+|BGCOLOR(orangered):|[[Many wow bang!>難易度表/おに/Many wow bang!]]|???|みすみゆり|2013/6/6の公式ツイッターより、&br;「この曲は太鼓の達人オリジナル楽曲ではないため、&br;太鼓の達人オリジナルサウンドトラックには収録できません」とのこと。|
+
+***ロングver.やフルver.が収録済みでゲームsizeが未収録もの [#short]
+|1|||||c
+||曲名(50音順)|歌唱|作曲(編曲)|備考|h
+|BGCOLOR(orangered):|[[合体！ドンレンジャーロボ>難易度表/おに/合体！ドンレンジャーロボ]]|水木一郎|LindaAI-CUE||
+|BGCOLOR(orangered):|[[きっと もっと ずっと>難易度表/おに/きっと　もっと　ずっと]]|水木一郎、堀江美都子、影山ヒロノブ|岡部啓一||
+|BGCOLOR(orangered):|[[〆ドレー2000>難易度表/おに/〆ドレー2000]]|-|LindaAI-CUE(増渕裕二)|「[[〆ドレー2000＋>難易度表/おに/〆ドレー2000＋]]」が収録済み|
+|BGCOLOR(orangered):|[[世界はいつでもミステリー>難易度表/おに/世界はいつでもミステリー]]|HONOKA|トリ音||
+|BGCOLOR(orangered):|[[そつおめしき2ばん>難易度表/おに/そつおめしき2ばん]]|unmo|川元義徳|「[[そつおめしき>難易度表/おに/そつおめしき]]」と「[[そつおめしき2ばん>難易度表/おに/そつおめしき2ばん]]」をつなげた「[[そつおめしき・ふる>難易度表/おに/そつおめしき・ふる]]」が収録済み|
+|BGCOLOR(orangered):|[[太鼓の達人・愛のテーマ>難易度表/おに/太鼓の達人・愛のテーマ]]|Argie Phine|椎名豪||
+|BGCOLOR(orangered):|[[宝の丘>難易度表/おに/宝の丘]]|矢吹高音|佐々木宏人||
+|BGCOLOR(orangered):|[[ドリルファイター ゴーゴーDigDug>難易度表/おに/ドリルファイター ゴーゴーDigDug]]|影山ヒロノブ|慶野由利子(自営山)||
+|BGCOLOR(orangered):|[[拝啓、学校にて…>難易度表/おに/拝啓、学校にて…]]|風間飛鳥(CV:白石涼子)|椎名豪||
+|BGCOLOR(orangered):|[[ヒカリノカナタヘ>難易度表/おに/ヒカリノカナタヘ]]|谷本貴義|矢野義人||
+|BGCOLOR(orangered):|[[響け！太鼓の達人>難易度表/おに/響け！太鼓の達人]]|水木一郎、堀江美都子、影山ヒロノブ|神前暁、小田一行||
+|BGCOLOR(orangered):|[[フューチャー・ラボ>難易度表/おに/フューチャー・ラボ]]|山本由貴子|山本由貴子||
+|BGCOLOR(orangered):|[[未来への鍵>難易度表/おに/未来への鍵]]|土屋実紀|佐々木宏人||
+|BGCOLOR(orangered):|[[女神な世界&#8544;>難易度表/おに/女神な世界I]]|寺井沙織|翡翠|&#8544;と&#8545;をつなげた「女神な世界」が収録済み|
+|BGCOLOR(orangered):|[[女神な世界&#8545;>難易度表/おに/女神な世界II]]|葉月ゆら|翡翠|~|
+|BGCOLOR(orangered):|[[リブルとラブルのマジカルファンタジー>難易度表/おに/リブルとラブルのマジカルファンタジー]]|堀江美都子|大野木宜幸(大上昌子)||
+|BGCOLOR(darkorchid):|[[ワンダーモモーイ>難易度表/おに/ワンダーモモーイ]]|桃井はるこ|弓達公雄(manzo)||
+|BGCOLOR(lime):|[[Asteroid>難易度表/おに/Asteroid]]|-|増渕裕二||
+|BGCOLOR(orangered):|[[Sweet Lay>難易度表/おに/Sweet Lay]]|Kyah|佐々木宏人||
+
+***再生速度や音程を変えたもの [#speedandpitch]
+|1|||||c
+||曲名(50音順)|歌唱|作曲(編曲)|原曲|h
+|BGCOLOR(darkorchid):|[[KAGYUKIYO>難易度表/おに/KAGYUKIYO]]|-|(増渕裕二)|[[KAGEKIYO 源平討魔伝メドレー>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|
+|BGCOLOR(orangered):|[[きたさいたま200>難易度表/おに/きたさいたま200]]|-|LindaAI-CUE(?)|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|
+|BGCOLOR(orangered):|[[はやさいたま2000>難易度表/おに/はやさいたま2000]]|-|LindaAI-CUE(増渕裕二)|[[さいたま2000>難易度表/おに/さいたま2000]]|
+|BGCOLOR(orangered):|[[よくでる15300>難易度表/おに/よくでる15300]]|-|LindaAI-CUE(?)|[[よくでる2000>難易度表/おに/よくでる2000]]|
+
+**コメント [#comment]
+#pcomment(,20,noname)

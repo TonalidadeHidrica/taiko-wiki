@@ -1,0 +1,28 @@
+*Howling [#title]
+-アニメ[[「''七つの大罪 戒めの復活''」>アニメ別収録曲#taizai]]のOP1。
+***詳細 [#detail]
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''NS1''|★×3|''140''|''?????0点''|??点|???点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''??????0点''}|COLOR(#ff3300){???0点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは100〜200。
+-''精度曲''のひとつ。
+
+***その他 [#other]
+-アーティストは、''[[FLOW>アーティスト別収録曲#flow]]×[[GRANRODEO>アーティスト別収録曲#granrodeo]]''。
+--作詞は、Kohshi Asakawa・Keigo Hayashi・Kisho Taniyama。作曲は、Takeshi Asakawa・Masaaki Iizuka。
+
+----
+-[[かんたん>難易度表/かんたん/Howling]]
+-[[むずかしい>難易度表/むずかしい/Howling]]
+-[[おに>難易度表/おに/Howling]]
+-[[オート動画>https://www.youtube.com/watch?v=Gfumv0qxC-8]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船、くすだま(こづち)の長さは暫定
+&ref(吠えるふつう.png,nolink);

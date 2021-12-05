@@ -1,0 +1,20 @@
+*GOOD BYE 夏男 [#bc78d662]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC5''||CENTER:★×4|CENTER:''125''|CENTER:''??????点''|CENTER:＋連打|CENTER:???点|CENTER:???点|
+||CENTER:CS3|~|~|CENTER:''??????点''|~|CENTER:1200点|CENTER:420点|
+-おに譜面以外は''高速ソフラン曲ではない''。
+-アーティストは''松浦亜弥''。
+--他に[[Yeah!めっちゃホリディ>難易度表/かんたん/Yeah!めっちゃホリディ]]、[[気がつけば あなた>難易度表/かんたん/気がつけば　あなた]]などがある。
+-[[ふつう>難易度表/ふつう/GOOD BYE 夏男]]
+-[[むずかしい>難易度表/むずかしい/GOOD BYE 夏男]]
+-[[おに>難易度表/おに/GOOD BYE 夏男]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=NaQwjFMbJrE]]
+
+***コメント [#y40a3be9]
+#pcomment(,noname)
+
+***譜面 [#xa89213d]
+風船は適当
+&attachref(夏男かんたん.png,nolink);

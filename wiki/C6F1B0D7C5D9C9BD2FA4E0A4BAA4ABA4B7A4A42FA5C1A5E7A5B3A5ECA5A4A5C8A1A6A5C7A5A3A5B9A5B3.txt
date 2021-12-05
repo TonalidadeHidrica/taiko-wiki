@@ -1,0 +1,30 @@
+*チョコレイト・ディスコ [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.3.0''|CENTER:Wii U1&br;3DS2DL|CENTER:★×5|CENTER:''283''|CENTER:''745310点''|CENTER:＋連打|CENTER:750点|CENTER:225点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3200点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''741220点''|~|CENTER:730点|CENTER:180点|
+-BPMは128。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符が多く、28個ある（全体の約9.9%）。
+-8分の複合が主体の譜面で、たまに16分も出てくる。
+-16分は単色の3連打までしかないが、そのほとんどが8分と隣接している。
+
+***その他 [#other]
+-アーティストは、[[ポリリズム>難易度表/むずかしい/ポリリズム]]と同じ''Perfume''。
+--作詞・作曲・編曲は、中田ヤスタカ。
+--ちなみに、この曲が収録されたシングル、ファン・サーヴィス［sweet］の発売は、2007年2月14日で[[ポリリズム>難易度表/むずかしい/ポリリズム]]よりも早い。
+-[[モモイロVer.段位道場>過去の段位道場#momoiro]]の二級2曲目課題曲となった。
+-[[かんたん>難易度表/かんたん/チョコレイト・ディスコ]]
+-[[ふつう>難易度表/ふつう/チョコレイト・ディスコ]]
+-[[おに>難易度表/おに/チョコレイト・ディスコ]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=BuhH7ydHYb8]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(choco_h.png,nolink);

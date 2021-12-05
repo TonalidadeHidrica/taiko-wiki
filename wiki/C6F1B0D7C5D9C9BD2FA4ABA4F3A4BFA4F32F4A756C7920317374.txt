@@ -1,0 +1,19 @@
+*July 1st [#title]
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''CS2''|★×3|''146''|''?????0点''|+連打|920点|290点|
+-BPMは128。
+-アーティストは''[[浜崎あゆみ>アーティスト別収録曲#ayumi]]''。
+-曲IDは''july''。
+----
+-[[ふつう>難易度表/ふつう/July 1st]]
+-[[むずかしい>難易度表/むずかしい/July 1st]]
+-[[おに>難易度表/おに/July 1st]]
+-[[オート動画>https://www.youtube.com/watch?v=dcx2y4vaTm0]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(july_e.png,nolink);

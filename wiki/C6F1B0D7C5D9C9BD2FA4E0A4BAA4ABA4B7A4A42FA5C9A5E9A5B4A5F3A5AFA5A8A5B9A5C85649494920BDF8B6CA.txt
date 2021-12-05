@@ -1,0 +1,20 @@
+* ¥É¥é¥´¥ó¥¯¥¨¥¹¥È­¼¡¡½ø¶Ê [#title]
+*** ¾ÜºÙ¡¦¹¶Î¬ [#more]
+-¥²¡¼¥à''¡Ö¥É¥é¥´¥ó¥¯¥¨¥¹¥È­¼¡¡¶õ¤È³¤¤ÈÂçÃÏ¤È¼ö¤ï¤ì¤·É±·¯¡×''¤è¤ê¡£
+-¾ÜºÙ¤Ï°Ê²¼¤ÎÄÌ¤ê¡§
+|CENTER:¥Ð¡¼¥¸¥ç¥ó((ÂÀ»ú¤Ï½é½Ð))|CENTER:¥¸¥ã¥ó¥ë|CENTER:Æñ°×ÅÙ|CENTER:ºÇÂç¥³¥ó¥Ü¿ô|>|CENTER:Å·°æ¥¹¥³¥¢|CENTER:½é¹à|CENTER:¸øº¹||h
+|CENTER:''AC7''|CENTER:''¥Ð¥é¥¨¥Æ¥£''|CENTER:¡ú¡ß3|CENTER:''152''|CENTER:''598470ÅÀ''|CENTER:¡ÜÏ¢ÂÇ|CENTER:1250ÅÀ|CENTER:380ÅÀ|CENTER:''¥´¡¼¥´¡¼¥Ð¥°¤¢¤ê''|
+|CENTER:AC8|CENTER:''¥²¡¼¥à&br;¥ß¥å¡¼¥¸¥Ã¥¯''|~|~|CENTER:''??????ÅÀ''|~|CENTER:1020ÅÀ|CENTER:400ÅÀ||
+-BPM¤ÏÌó65¡Á122¡£
+-¥¢¡¼¥Æ¥£¥¹¥È¤Ï''¤¹¤®¤ä¤Þ¤³¤¦¤¤¤Á''¡£
+-[[¤«¤ó¤¿¤ó>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/¥É¥é¥´¥ó¥¯¥¨¥¹¥ÈVIII ½ø¶Ê]]
+-[[¤Õ¤Ä¤¦>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/¥É¥é¥´¥ó¥¯¥¨¥¹¥ÈVIII ½ø¶Ê]]
+-[[¤ª¤Ë>Æñ°×ÅÙÉ½/¤ª¤Ë/¥É¥é¥´¥ó¥¯¥¨¥¹¥ÈVIII ½ø¶Ê]]
+-[[¥×¥ì¥¤Æ°²è(AC7,Ä¾»£¤ê)>http://www.youtube.com/watch?v=Ft2E00mgXhw]]
+-[[¥×¥ì¥¤Æ°²è(AC8,¥­¥ã¥×¥Á¥ã)>http://www.youtube.com/watch?v=eljeeTpoAiY]]
+
+*** ¥³¥á¥ó¥È [#comment]
+#pcomment(,noname)
+
+*** ÉèÌÌ [#score]
+&ref(dq8ov_h.png,nolink);

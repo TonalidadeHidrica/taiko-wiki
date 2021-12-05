@@ -1,0 +1,33 @@
+*うさぎのしっぽ [#title]
+***詳細 [#details]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.9.3SP|''Wii U1SP''|★×7|''521''|''998030点''|＋連打|570点|150点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''995520点''}|~|COLOR(#ff3300){1830点}|-|
+||iOS|~|~|''??????点''|~|???点|???点|
+***譜面構成・攻略 [#capture]
+-BPMは170。
+-縁の方が多く、''約60.46%''(315/521)。
+-4拍子の16分構成だが、中盤に3拍子の12分構成になる箇所がある。
+-16分の複合は少なく、8分中心のところも多い。ただ、COLOR(red){●●}COLOR(blue){○○○○}COLOR(red){●●●}やCOLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●●}といった9連打や、COLOR(blue){○}＋COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○}(12分＋16分)といった複合もあるので油断しないように。
+-1曲を通しての平均密度は、''約4.09打/秒''である。
+***その他 [#other]
+-作詞・作曲・歌唱は、''益田舞''。
+-編曲は、''益田舞''、''K Masera''。
+--[[''JBG音楽院''>http://www.jbg-ongakuin.com]]が提供している楽曲である。
+-曲IDは、''u3gino''。
+-NS1においては、[[オンラインランクマッチ]]における4月のごほうびミッションのごほうびとして収録。オンラインランクマッチで異なる曲を30曲プレイすると''4/9〜4/29''の間に解禁できる。
+----
+-[[かんたん>難易度表/かんたん/うさぎのしっぽ]]
+-[[ふつう>難易度表/ふつう/うさぎのしっぽ]]
+-[[むずかしい>難易度表/むずかしい/うさぎのしっぽ]]
+-[[オート動画>http://www.youtube.com/watch?v=MN_XfMzrTEY]]
+-[[公式曲紹介>https://www.youtube.com/watch?v=6jbC3u-B5i8]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(rabitail_小節線修正.png,nolink);

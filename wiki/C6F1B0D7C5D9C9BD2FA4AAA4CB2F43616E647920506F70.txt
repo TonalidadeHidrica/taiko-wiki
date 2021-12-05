@@ -1,0 +1,29 @@
+*Candy Pop [#title]
+***詳細 [#detail]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.0''|★×6|''288''|''946240点''|＋連打|980点|303点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''999320点''}|~|COLOR(#ff3300){3320点}|-|
+|AC16.1.0|~|~|''996480点''|~|3460点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは174。
+-縁の方が多く、''約56.59%''(163/288)。
+-連打秒数目安・・・約0.661秒−''約0.316秒''×3−''約0.661秒''：合計約2.270秒
+--この難易度のみ精度曲ではない。
+
+***その他 [#other]
+-アーティストは、[[''TWICE''>アーティスト別収録曲#twice]]。
+-作詞は、Min Lee "collapsedone"・Mayu Wakisaka。作曲は、Min Lee "collapsedone"・Mayu Wakisaka。編曲は、Min Lee "collapsedone"。
+-踊り子がどん子に固定されている模様(詳細な情報求む)。
+----
+-[[かんたん>難易度表/かんたん/Candy Pop]]
+-[[ふつう>難易度表/ふつう/Candy Pop]]
+-[[むずかしい>難易度表/むずかしい/Candy Pop]]
+-[[プレイ動画>https://www.youtube.com/watch?v=10DTvwmrIRs]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(tccdpp_m.png,nolink);

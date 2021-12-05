@@ -1,0 +1,17 @@
+*むずかしい特訓　その1 [#title]
+-[[毎日チャレンジ道場>難易度表/その他/毎日チャレンジ道場]]のお題。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Wii1''|★×3|''25''|
+-BPMは80。
+-題名は、「ゆっくりドコドン」
+-曲IDは、''pack10''
+-[[プレイ動画>https://www.youtube.com/watch?v=om8RY0wWk6Y&t=373]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(pack10.png,nolink);

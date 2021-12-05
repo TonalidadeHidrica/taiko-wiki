@@ -1,0 +1,31 @@
+*Diver SIZE(16){「トレジャーガウスト ガウストダイバー」より} [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.7.9''|CENTER:''3DS3DL''|CENTER:★×5|CENTER:''190''|CENTER:''572740点''|CENTER:＋連打|CENTER:1000点|CENTER:290点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''976930点''}|~|CENTER:COLOR(#ff3300){4830点}|CENTER:-|
+-BPMは136。
+-黄色連打がかなり多く、16本ある。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-速度は至って普通だが、全体的に8分がかなり多い。
+--8分はほとんどが2・3連打だが、4連打も3回出てくる。
+--また、4分の複合は全体的に長めのが多い。
+-終盤で1回だけ出てくる8分の複合2連打（COLOR(blue){○}COLOR(red){●}）に注意。
+--付点8分と隣接しており、リズムが取りづらくなっている。
+
+***その他 [#other]
+-作詞・作曲・編曲・譜面作成は、''カワーゲン・コラーゲン''(''川元義徳'')。
+--歌唱は、''黒瀬佳子''。
+
+-[[かんたん>難易度表/かんたん/Diver]]
+-[[むずかしい>難易度表/むずかしい/Diver]]
+-[[おに>難易度表/おに/Diver]]
+-[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2016/06/post_434.html]]
+-[[プレイ動画(全難易度)>http://www.youtube.com/watch?v=ypvdM6_oxVg]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船、くすだまの長さは適当
+~&attachref(潜る人ふつう.png,nolink);

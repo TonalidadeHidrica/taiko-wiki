@@ -1,0 +1,21 @@
+*浮世CROSSING [#b4820467]
+***攻略・詳細 [#o0b83098]
+-日本テレビ系ドラマ「''働きマン''」主題歌。
+-詳細は以下の通り。
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11''&br;AC11亜洲版|★×5|''242''|''?????0点''|＋連打|880点|220点|
+-BPMは171。
+-8分音符が主体の譜面で、16分音符は一切ない。
+-読み方は、''うきよクロッシング''。
+-アーティストは[[D-tecnoLife>難易度表/むずかしい/D-tecnoLife]]と同じく''UVERworld''。
+-[[かんたん>難易度表/かんたん/浮世CROSSING]]
+-[[ふつう>難易度表/ふつう/浮世CROSSING]]
+-[[おに>難易度表/おに/浮世CROSSING]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=I04KapyCdXo]]
+
+***コメント [#g114fe06]
+#pcomment(,noname)
+
+***譜面 [#n173a456]
+&ref(ukiyo.png,nolink);

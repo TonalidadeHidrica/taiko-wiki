@@ -1,0 +1,24 @@
+*PECORI&#9829;NIGHT [#w506ca6f]
+***詳細・攻略 [#m14a3f07]
+|>|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|~|~|~|~|CENTER:一人|CENTER:二人|~|~|h
+||CENTER:''CS6''|CENTER:★×5|CENTER:''295''|CENTER:''753740点''|CENTER:''1132800点''|630点|140点|
+|CENTER:AC8||~|~|~|CENTER:''755240点''|~|~|
+-BPMは160。
+-''精度曲''のひとつ。
+-大音符が多く、全体の36%（107/295）が大音符。
+-2人プレイの場合手つなぎ音符がかなり多くなり、''むずかしい★5の精度曲でありながら113万点に乗せることが出来る。''([[参考動画>https://www.youtube.com/watch?v=Kt__Mg_SbtA]])
+--これは当時通常の配点に1万点が加わる仕様だった為このようなスコアが出る。
+-原曲はBay City Rollers(ベイ・シティ・ローラーズ)の''Saturday Night''。
+-アーティストは''Gorie with Jasmine & Joann''。
+-曲IDは''pecori''。
+-[[かんたん>難易度表/かんたん/PECORI NIGHT]]
+-[[ふつう>難易度表/ふつう/PECORI NIGHT]]
+-[[おに>難易度表/おに/PECORI NIGHT]]
+-[[オート動画>https://www.youtube.com/watch?v=O2AKityvFbU]]
+
+***コメント [#x5e54bcd]
+#pcomment(,noname)
+
+***譜面 [#b0238674]
+&ref(PECORI NIGHT.png,nolink);

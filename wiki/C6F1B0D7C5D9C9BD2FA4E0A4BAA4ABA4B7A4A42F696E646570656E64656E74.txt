@@ -1,0 +1,19 @@
+*independent [#x9f4102c]
+***詳細･攻略 [#d530b256]
+-詳細は以下の通り:
+|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC4''|CENTER:★×6|CENTER:COLOR(#909):''453&br;COLOR(#069):426&br;COLOR(#666):404''|''??????点''|＋連打|580点|130点|
+- BPMは149。
+-普通譜面の面の数は360/404(約89.1%)
+- 達人譜面は[[ドンだフル!コース>難易度表/おに/independent]]と同一譜面。
+- アーティストは''浜崎あゆみ''。
+- [[かんたん>難易度表/かんたん/independent]]
+- [[ふつう>難易度表/ふつう/independent]]
+- [[おに>難易度表/おに/independent]]
+- プレイ動画
+-- [[COLOR(#666):普通譜面>https://www.youtube.com/watch?v=6vzmVl7mhZQ]]/[[COLOR(#069):玄人譜面>https://www.youtube.com/watch?v=14IYA42a0qU]]/[[COLOR(#909):達人譜面>https://www.youtube.com/watch?v=yyRZWs35lvI]]
+***コメント [#y9aaf3f4]
+#pcomment(,noname)
+
+***譜面 [#wde90bed]
+&attachref(independent_hx.png,nolink);

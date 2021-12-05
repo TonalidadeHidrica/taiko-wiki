@@ -1,0 +1,36 @@
+*Flower Song [#title]
+***詳細・攻略 [#more]
+-ドラマ「''35歳の高校生''」の主題歌。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''Wii U1''|CENTER:★×5|CENTER:''199''|CENTER:''726150点''|CENTER:＋連打|CENTER:990点|CENTER:323点|
+|CENTER:AC15.4.0||~|~|CENTER:''725930点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4350点}|CENTER:-|
+-BPMは110。
+-黄色連打がかなり多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符が多く、24個ある（全体の約12.1%）。
+--1つの箇所に密集していることが多く、両手でないと高得点が取れない家庭用では鬼門である。
+-8分の複合が主体の譜面で、第2ゴーゴーからは16分も出てくる。
+--16分は単色の3連打しかないが、そのほとんどが8分と隣接している。
+--また8分の複合は5連打までしかないが、種類がそれなりに多い。
+-ゴーゴーは付点配置が多く、リズムが取りづらくなっている。
+
+***その他 [#other]
+-アーティストは、''EXILE''。
+--作詞は、ATSUSHI。作曲は、Magnus Funemyr・Yoichiro Nomura。編曲は、Magnus Furemyr。
+-''2017年3月15日(水)7:00をもって、新筐体の全てのバージョンからサヨナラとなった''。
+--14以前のACには収録されていないため、現在はWii U1でしか遊べない。
+-[[かんたん>難易度表/かんたん/Flower Song]]
+-[[ふつう>難易度表/ふつう/Flower Song]]
+-[[おに>難易度表/おに/Flower Song]]
+-[[オート動画>http://www.youtube.com/watch?v=VoXANnm5M2Y]]
+
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定&br;黄色連打は下の画像より48分音符1つ分短い
+~&attachref(fsong_h.png,nolink);

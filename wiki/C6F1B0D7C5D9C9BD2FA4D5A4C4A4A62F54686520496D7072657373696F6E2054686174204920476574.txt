@@ -1,0 +1,30 @@
+*The Impression That I Get [#x742f0e9]
+***詳細・攻略 [#m76e47a4]
+-【1人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×5|CENTER:''278''|CENTER:''?????0点''|CENTER:＋連打|CENTER:710点|CENTER:170点|
+-BPMは180。
+----
+-【2人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×5|CENTER:1P|CENTER:''272''|CENTER:''?????0点''|CENTER:＋連打|CENTER:730点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''270''|CENTER:''?????0点''|~|~|~|
+----
+- アーティストは''The Mighty Mighty Bosstones(マイティ・マイティ・ボストーンズ)''。
+-[[かんたん>難易度表/かんたん/The Impression That I Get]]
+-[[むずかしい>難易度表/むずかしい/The Impression That I Get]]
+-[[おに>難易度表/おに/The Impression That I Get]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=B05TasTAE7s]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=AEhNFHEkNUU]]
+
+***コメント [#a96815e7]
+#pcomment(,noname)
+
+***譜面　[#fmn]
+~風船の長さは適当
+~1人用譜面
+&attachref(インプレッサふつう.png,nolink);
+~2人用譜面
+&attachref(インプレッサふつう２.png,nolink);

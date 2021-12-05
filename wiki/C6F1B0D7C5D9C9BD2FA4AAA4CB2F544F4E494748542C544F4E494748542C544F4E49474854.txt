@@ -1,0 +1,29 @@
+*TONIGHT,TONIGHT,TONIGHT [#title]
+-アニメ[[「''BLEACH''」>アニメ別収録曲#bleach]]のOP4。
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC9''|★×8|''504''|''1053780点''|700点|140点|
+
+***譜面構成・攻略 [#capture]
+-BPMは178。
+-黄色連打も風船連打もない''完全精度曲''。
+-間奏以外はかなり忙しい。特に、49小節目の17連打に注意。
+-小節線に縁の音符が重なっている小節は19と、かなり多い。
+-AC9当時は、★×8アニメの発狂曲の一つだった。
+-1曲を通しての平均密度は、''約6.54打/秒''。
+
+***その他 [#other]
+-アーティストは、''BEAT CRUSADERS''(2010年9月に解散)。
+-曲IDは、''2night''。
+----
+-[[かんたん>難易度表/かんたん/TONIGHT,TONIGHT,TONIGHT]] 
+-[[ふつう>難易度表/ふつう/TONIGHT,TONIGHT,TONIGHT]] 
+-[[むずかしい>難易度表/むずかしい/TONIGHT,TONIGHT,TONIGHT]]
+-[[プレイ動画>http://www.youtube.com/watch?v=ssgcprHSwm8]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(2night.png,nolink);

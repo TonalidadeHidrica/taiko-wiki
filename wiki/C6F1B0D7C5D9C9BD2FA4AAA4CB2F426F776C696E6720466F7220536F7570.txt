@@ -1,0 +1,25 @@
+*Bowling for Soup - Jimmy Neutron Theme[#title]
+***詳細・攻略 [#more]
+-映画''「Jimmy Neutron: Boy Genius」''の主題歌。
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|>|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''米TDM''|おに|★×4|''409''|''664000点''|＋連打|-|-|
+|~|むずかしい|~|~|''??????点''|~|???点|???点|
+-BPMは202。
+-おにとむずかしいは''同一譜面''。
+-序盤に面の16分音符3連打が4回登場するが、それ以降は8分音符が中心となる。
+-DP譜面が存在する。1Pが398コンボ、2Pが402コンボ。
+-アーティストは''Bowling for Soup''。
+-読み方は、''ボウリング・フォー・スープ - ジミー・ニュートロン テーマ''。
+----
+-[[かんたん>難易度表/かんたん/Bowling For Soup]]
+-[[ふつう>難易度表/ふつう/Bowling For Soup]]
+-[[プレイ動画>https://www.youtube.com/watch?v=KkY4DkgB6Zg]]
+-[[オート動画(DP)>https://www.youtube.com/watch?v=nzrlHZIuob0]]
+***コメント [#comment]
+#pcomment(,noname)
+***譜面 [#score]
+風船の長さ・打数は適当です。
+&attachref(BFS.png,nolink);
+~二人用譜面
+&attachref(ジミー大西.png,nolink);

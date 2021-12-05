@@ -1,0 +1,35 @@
+*DAYBREAK'S BELL [#title]
+***詳細・攻略 [#more]
+-「''機動戦士ガンダムOO(ダブルオー)''」（1stシーズン）の第1期（第1話〜第13話まで）オープニングテーマ。
+-エムティーアイ「''music.jp''」CMソング。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC11''&br;AC12亜||CENTER:★×3|CENTER:''91''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1060点|CENTER:380点|
+||CENTER:DS2|~|~|CENTER:''227660点''|~|CENTER:840点|CENTER:280点|
+-BPMは156。
+-黄色連打がかなり多い連打曲である。
+-全体的に裏拍配置が多く、リズムが取りづらい。
+-[[ふつう>難易度表/ふつう/DAYBREAK'S BELL]]とはコンボ数が''24コンボしか''離れていない。
+-速度は至って普通だが、全体的に4分がかなり多い。
+--4分は単色の3連打までしかないが、連続して出てくる箇所もある。
+--ただし、2分の複合は数がそんなに多くない。
+-他の難易度と違い、ゴーゴーは面のみで構成されている。
+-4分2連続→2分の複合5連打になっている5〜9小節に注意。
+
+***その他 [#other]
+-曲名の読み方は、''デイブレイクス ベル''。
+--日本語でDAYBREAK'S BELLは「''夜明けの鐘''」の意味。まさに00のイメージとぴったりなタイトルである。
+-アーティストは、''L'Arc〜en〜Ciel''。
+--作詞は、hyde。作曲は、ken。編曲は、L'Arc〜en〜Ciel。
+-曲IDは、''gdm00''
+
+-[[ふつう>難易度表/ふつう/DAYBREAK'S BELL]]
+-[[むずかしい>難易度表/むずかしい/DAYBREAK'S BELL]]
+-[[おに>難易度表/おに/DAYBREAK'S BELL]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=qFC-xhx30ck]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(DAYBREAK\'S BELL.png,nolink);

@@ -1,0 +1,32 @@
+*Flower Song [#title]
+***詳細・攻略 [#more]
+-ドラマ「''35歳の高校生''」の主題歌。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''Wii U1''|CENTER:★×2|CENTER:''84''|CENTER:''297160点''|CENTER:＋連打|CENTER:940点|CENTER:583点|
+|CENTER:AC15.4.0||~|~|CENTER:''296800点''|~|~|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''979240点''}|~|CENTER:COLOR(#ff3300){9540点}|CENTER:-|
+-BPMは110。
+-黄色連打がかなり多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-大音符がかなり多く、17個ある（全体の約20.2%）。
+-4分は3連打しかないが、数がそれなりに多い。
+--また4分は単色が多いが、たまに複合も出てくる。
+-ゴーゴーは付点配置が多く、リズムが取りづらくなっている。
+
+***その他 [#other]
+-アーティストは、''EXILE''。
+--作詞は、ATSUSHI。作曲は、Magnus Funemyr・Yoichiro Nomura。編曲は、Magnus Furemyr。
+-''2017年3月15日(水)7:00をもって、新筐体の全てのバージョンからサヨナラとなった''。
+--14以前のACには収録されていないため、現在はWii U1でしか遊べない。
+-[[ふつう>難易度表/ふつう/Flower Song]]
+-[[むずかしい>難易度表/むずかしい/Flower Song]]
+-[[おに>難易度表/おに/Flower Song]]
+-[[オート動画>http://www.youtube.com/watch?v=thvnM8oRIN4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船、くすだまの長さは暫定&br;黄色連打は下の画像より48分音符1つ分短い
+~&attachref(fsong_e.png,nolink);

@@ -1,0 +1,27 @@
+*CHANGE!!!! [#title]
+-アニメ「''アイドルマスター''」のOP2。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''COLOR(blue){PS Vita MS}''|★×6|''271''|''781040点''|+連打|740点|220点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''984400点''}|~|COLOR(#ff3300){3000点}|-|
+-BPMは170。
+
+***その他 [#other]
+-歌唱は、''765PRO ALLSTARS''。
+-作詞は''yura''。作曲・編曲は''内田哲也''。編曲は''橋本由香利''。
+-譜面作成は、''くぼけん''。
+
+----
+-[[かんたん>難易度表/かんたん/CHANGE!!!!]]
+-[[ふつう>難易度表/ふつう/CHANGE!!!!]]
+-[[おに>難易度表/おに/CHANGE!!!!]]
+-[[オート動画(3:57〜)>http://www.youtube.com/watch?v=Vp2oK7rsW8k&t=237]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~くす玉の長さは暫定
+&ref(変化する！！！！_hf.png,nolink);

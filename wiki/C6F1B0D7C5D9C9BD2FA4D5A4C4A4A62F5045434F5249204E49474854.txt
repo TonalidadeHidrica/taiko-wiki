@@ -1,0 +1,21 @@
+*PECORI&#9829;NIGHT [#dad6a85b]
+***詳細・攻略 [#w9a4a944]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC8|CENTER:''CS6''|CENTER:★×4|CENTER:''190''|''543540点''|＋連打|720点|220点|
+||~|~|~|''641440点''((2人プレイ,芋音符を一人で早く食べ切った場合))|~|~|~|
+-BPMは160。
+-原曲はBay City Rollers(ベイ・シティ・ローラーズ)の''Saturday Night''。
+-アーティストは''Gorie with Jasmine & Joann''。
+-曲IDは''pecori''。
+-[[かんたん>難易度表/かんたん/PECORI NIGHT]]
+-[[むずかしい>難易度表/むずかしい/PECORI NIGHT]]
+-[[おに>難易度表/おに/PECORI NIGHT]]
+-[[オート動画>https://www.youtube.com/watch?v=uz1vgkjBGEo]]
+
+***コメント [#zfea1f09]
+#pcomment(,noname)
+
+***譜面 [#udb92c32]
+手つなぎ音符は非ゴーゴータイムの31小節目以外の全ての大音符、計12個。風船、芋の長さは暫定
+~&attachref(ゴリエふつう.png,nolink);

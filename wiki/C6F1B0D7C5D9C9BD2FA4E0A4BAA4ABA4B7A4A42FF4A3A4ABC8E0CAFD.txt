@@ -1,0 +1,14 @@
+*遙か彼方 [#x72d06bf]
+***詳細・攻略 [#f41c313a]
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''アニメ祭''|CENTER:★×5|CENTER:''238''|CENTER:''??????点''|CENTER:＋連打|CENTER:980点|CENTER:250点|
+- BPMは154-175
+-アーティストは、[[アフターダーク>難易度表/むずかしい/アフターダーク]]、[[リライト>難易度表/むずかしい/リライト]]と同じく''ASIAN KUNG-FU GENERATION'' 。読み方は、''アジアン・カンフー・ジェネレーション''。
+-[[かんたん>難易度表/かんたん/遙か彼方]]
+-[[ふつう>難易度表/ふつう/遙か彼方]]
+-[[おに>難易度表/おに/遙か彼方]]
+-[[オート動画>https://www.youtube.com/watch?v=dt8Nlu-n3o4]]
+***コメント[#comment]
+#pcomment(,noname)
+***譜面[#score]
+&attachref(haruka.png,nolink);

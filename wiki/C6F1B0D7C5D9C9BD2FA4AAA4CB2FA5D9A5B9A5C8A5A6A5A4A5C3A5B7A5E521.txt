@@ -1,0 +1,37 @@
+*ベストウイッシュ！ [#title]
+-「''ポケットモンスター ベストウイッシュ''」のOP。
+***詳細･攻略 [#more]
+- 詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.0''|CENTER:3DS1|CENTER:★×4|CENTER:''325''|CENTER:''849940点''|CENTER:＋連打|CENTER:770点|CENTER:213点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''998260点''}|~|CENTER:COLOR(#ff3300){2840点}|CENTER:-|
+||CENTER:Wii4|CENTER:★×5|~|CENTER:''893990点''|~|CENTER:740点|CENTER:190点|
+
+***譜面構成・攻略 [#capture]
+-BPMは160。
+-平均密度は、''約3.87打/秒''。
+-8分の複合が主体の譜面で、たまに16分が出る程度。
+-16分は3連打しかない。
+-フルコンボ狙いなら、開幕の8分の長複合とラストにある●●○の2連続に注意。
+-2つ目と3つ目の8打風船は、割り切るのに''15.06打/秒以上''が必要。このレベル帯にしては重めである。
+
+***その他 [#other]
+-アーティストは、''[[松本梨香>アーティスト別収録曲#maturi]]''。
+--作詞は、戸田昭吾。作曲は、たなかひろかず。編曲は、小谷野謙一。
+-''2014年4月10日（木）午前7：00を以てサヨナラ''となった。
+--現在はこの曲が収録されているWii4、3DS1でしかプレイできない。
+-曲IDは、''pkmnbw''。
+
+----
+-[[かんたん>難易度表/かんたん/ベストウイッシュ!]]
+-[[ふつう>難易度表/ふつう/ベストウイッシュ!]]
+-[[むずかしい>難易度表/むずかしい/ベストウイッシュ!]]
+-[[オート動画>http://www.youtube.com/watch?v=HdOOFQWfC6M]]
+
+***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#3333ff){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(bestws.png,nolink);

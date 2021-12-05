@@ -1,0 +1,45 @@
+*南中ソーラン&br;TAKIO'S SOHRAN 2((AC9の表記)) [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC9''|CENTER:★×3|CENTER:''169''|CENTER:''?????0点''|CENTER:＋連打|CENTER:540点|CENTER:100点|
+|CENTER:AC10|~|~|CENTER:''?????0点''|~|CENTER:420点|CENTER:120点|
+-BPMは147。
+-大音符がかなり多く、57個ある（全体の約33.7%）。
+-速度は至って普通だが、全体的に4分がかなり多い。
+--4分はほとんどが3連打だが、たまに長めのも出てくる。
+--また4分は単色が多いが、複合も数がそれなりに多い。
+-ゴーゴーは休みが少ないので、適正者にとっては体力的に厳しいかもしれない。
+-ゴーゴーで1回だけ出てくる4分の複合11連打と、終盤で3回出てくる8分の単色2連打に注意。
+-[[プレイ動画(AC9)>http://www.youtube.com/watch?v=v7jvP5yvSEE]]
+
+***【2人用譜面】 [#v5610d1f]
+-詳細は以下の通り：
+|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC9''|CENTER:★×3|CENTER:''149''|CENTER:''?????0点''|CENTER:＋連打|CENTER:560点|CENTER:130点|
+|CENTER:AC10|~|~|CENTER:''?????0点''|~|CENTER:520点|CENTER:140点|
+-[[プレイ動画(AC9)>https://www.youtube.com/watch?v=U2xcecgRyxE]]
+
+***その他 [#other]
+-この曲名の''南中''は、北海道稚内市立稚内''南中''学校を指す。
+--1983年にこの中学校で生まれた、アップテンポにアレンジされたソーラン節「TAKIO'S SOHRAN2」に合わせて踊る踊りである。
+--それ以後は、北海道のみならず、全国の多くの学校の運動会や体育祭のダンスにも使われるようになった。
+-AC9収録時の名称は、''TAKIO'S SOHRAN 2''だった。TA''IK''OではなくTA''KI''O。
+--AC10ではサブタイトルになり、Nと2の間の空白が削除されている。
+-また、[[ソーラン節>難易度表/かんたん/ソーラン節]]とは違う曲。そちらのジャンルは民謡（現：どうよう）である。
+--こちらのジャンルはバラエティ。
+-アーティストは、''伊藤多喜雄''。
+-譜面作成は、''キジキジ''。
+-曲IDは、''takio''
+-[[ふつう>難易度表/ふつう/TAKIO'S SOHRAN 2]]
+-[[むずかしい>難易度表/むずかしい/TAKIO'S SOHRAN 2]]
+-[[おに>難易度表/おに/TAKIO'S SOHRAN 2]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(takio.png,nolink);
+
+~二人用譜面
+&attachref(takio_eDP.png,nolink);

@@ -1,0 +1,27 @@
+*TT -Japanese ver.- [#title]
+***詳細 [#detail]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.9.9''|NS1|★×3|''91''|''328020点''|＋連打|900点|535点|
+|COLOR(#f30){真打}||~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){8350点}|-|
+||iOS&br;AR|~|~|''?????0点''|~|???点|???点|
+|AC16.1.0||~|~|''996740点''|~|10940点|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは130。
+
+***その他 [#other]
+-アーティストは、[[''TWICE''>アーティスト別収録曲#twice]]。
+--作詞は、Sam Lewis・Shoko Fujibayashi。作曲は、Black Eyed Pilseung。
+----
+-[[ふつう>難易度表/ふつう/TT -Japanese ver.-]]
+-[[むずかしい>難易度表/むずかしい/TT -Japanese ver.-]]
+-[[おに>難易度表/おに/TT -Japanese ver.-]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=gdzjv4rv0FM]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは暫定
+&attachref(アウディのスポーツカーかんたん.png,nolink,);

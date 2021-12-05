@@ -1,0 +1,63 @@
+*ルパン三世のテーマ'78 [#title]
+-アニメ「''ルパン三世''」のテーマ曲。
+***詳細・攻略 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+|CENTER:''AC1''||CENTER:★×4|CENTER:COLOR(#909):''289&br;COLOR(#069):285&br;COLOR(#666):132''|CENTER:''707920点''||CENTER:880点|CENTER:210点||
+|CENTER:AC2||CENTER:★×5|CENTER:COLOR(#909):''293&br;COLOR(#069):270&br;COLOR(#666):236''|CENTER:''851950点''|~|CENTER:950点|CENTER:240点|~|
+|CENTER:AC6||~|~|CENTER:''738770点''|~|CENTER:890点|CENTER:200点|~|
+|CENTER:AC3、4||~|CENTER:COLOR(#909):''282&br;COLOR(#069):270&br;COLOR(#666):236''|CENTER:''627540点''|CENTER:＋連打|CENTER:770点|CENTER:180点|~|
+||CENTER:CS1|~|CENTER:COLOR(#909):''274&br;COLOR(#069):270&br;COLOR(#666):236''|CENTER:''606980点''|~|~|~|~|
+|CENTER:AC7||~|CENTER:COLOR(#909):''304&br;COLOR(#069):281&br;COLOR(#666):247''|CENTER:''959760点''||CENTER:1000点|CENTER:240点|CENTER:''ゴーゴーバグあり''|
+||CENTER:PSP1|~|~|CENTER:''762480点''|~|CENTER:800点|CENTER:190点|~|
+|CENTER:AC8||~|~|CENTER:''752690点''|~|CENTER:690点|CENTER:200点||
+||CENTER:PSPDXDL|~|~|CENTER:''752010点''|~|CENTER:770点|CENTER:190点|~|
+||CENTER:iOS|CENTER:★×6|~|CENTER:''802210点''|~|CENTER:760点|CENTER:210点|~|
+||CENTER:3DS2DL|~|~|CENTER:''802680点''|~|CENTER:830点|CENTER:250点|~|
+-BPMは138。旧音源は137.7。
+-開幕達人が成功すれば''完全精度曲''。
+-AC2、7では天井点が他の譜面より断然高い。
+-大音符が存在しない。
+
+***AC1譜面 [#ac1]
+-AC1はAC2以降の譜面とは大分異なる部分が多い(9,12〜26,35,38〜41,43小節)。また開幕達人は全良必須。
+--普通譜面は[[かんたん>難易度表/かんたん/ルパン三世のテーマ '78]](旧譜面)と同一。
+-譜面作成は、''こはらー''。
+
+***AC2〜4、6、CS1譜面 [#ac2346cs1]
+-音符は46小節まで。
+-最初の分岐で達人譜面を出す条件は以下
+--AC2、6：10コンボ目まで全て良で取ること
+--AC3〜4、CS1：不可能
+--- 16小節までに8万点以上(推定)であれば、2つ目の分岐で達人譜面になる。
+
+***現行譜面 [#now]
+-連打秒数目安&br;COLOR(#069){玄人譜面}・・・約0.616秒×2:合計約1.232秒&br;COLOR(#666){普通譜面}・・・約0.616秒×2−''約1.703秒'':合計約2.935秒
+-AC7以降の玄人譜面は非ゴーゴータイムは普通譜面と、ゴーゴータイムは達人譜面と同じ。
+-どの譜面も16分の2連打が多く、リズム難。また、玄人と達人譜面の途中には16分の16連打もあり、★×5適正者にはかなりきつめ。
+--そのことが反映されたのか、譜面分岐があるにもかかわらずiOSで★×6に昇格した。
+
+***その他 [#other]
+-作曲は、''大野雄二''。
+-曲IDは、''lupin''
+-PSP1では曲名が「ルパン''��''世のテーマ '78」になっている(誤植と思われる)。
+-PSPDXでは、2015年9月30日をもって新規DLができなくった。
+-iOSでは、2017年11月30日をもって新規DLができなくった。
+
+-[[かんたん>難易度表/かんたん/ルパン三世のテーマ '78]]
+-[[ふつう>難易度表/ふつう/ルパン三世のテーマ '78]]
+-[[おに>難易度表/おに/ルパン三世のテーマ '78]]/[[裏譜面>難易度表/おに/ルパン三世のテーマ '78(裏譜面)]]
+-プレイ動画(AC1) [[COLOR(#909):達人譜面>http://www.youtube.com/watch?v=zVNNgCETyX4]]／[[COLOR(#069):玄人譜面>http://www.youtube.com/watch?v=3jHAR_oAsCo]]／[[COLOR(#666):普通譜面>http://www.youtube.com/watch?v=RVAV_s3IrpI]]
+-[[プレイ動画>http://www.youtube.com/watch?v=XgUqE1Sdnak]](AC2)
+-[[オート動画>http://www.youtube.com/watch?v=OTqTg9ET418]](CS1)
+-[[プレイ動画>http://www.youtube.com/watch?v=JwElMgaNPWc]](AC7)
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~現行譜面&br;iOS、3DS2は★×6
+~また、AC2〜4、6、CS1では、ゴーゴータイム無しで、45,46小節の音符が存在しない譜面になっている。
+~&attachref(l.png,nolink);
+
+~AC1譜面
+~&attachref(lupin_h_AC1.png,nolink);

@@ -1,0 +1,27 @@
+*Don't Stop the Game [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.8''|★×7|''326''|''?????0点''|＋連打|630点|143点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){2650点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは175。
+
+***その他 [#other]
+-[[''全コース''>太鼓ギネス/その他#highestdifficulty]][[''最高難易度曲''>全コース最高難易度曲一覧]]である。
+-アーティストは、[[''DJ Myosuke''>参加アーティスト一覧/DJ Myosuke]] ([[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]])。
+----
+
+-[[かんたん>難易度表/かんたん/Don't Stop the Game]]
+-[[むずかしい>難易度表/むずかしい/Don't Stop the Game]]
+-[[おに>難易度表/おに/Don't Stop the Game]]
+-[[プレイ動画>https://www.youtube.com/watch?v=4QXHqlvR1I8]]
+-[[公式音源動画>https://www.youtube.com/watch?v=_stkl6IOmTY]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~風船、くす玉の長さ、HSは暫定
+~&attachref(DStGN.png,nolink);

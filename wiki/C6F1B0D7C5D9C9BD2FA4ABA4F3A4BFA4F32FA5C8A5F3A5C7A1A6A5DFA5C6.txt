@@ -1,0 +1,118 @@
+*トンデ・ミテ [#title]
+***詳細 [#detail]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''NS1''|★×4|''117''|''351650点''|＋連打|910点|413点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''993220点''}|~|COLOR(#ff3300){7780点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは132。
+
+***その他 [#other]
+-作曲は、''横川理彦''。
+-歌唱は、[[''団地ノ宮弥子''>参加アーティスト一覧/団地ノ宮]]。
+-曲IDは、''tondem''。
+
+----
+-[[ふつう>難易度表/ふつう/トンデ・ミテ]]
+-[[むずかしい>難易度表/むずかしい/トンデ・ミテ]]
+-[[おに>難易度表/おに/トンデ・ミテ]]
+-[[オート動画>https://www.youtube.com/watch?v=VT5bXSUQn8c]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+ 終盤のHS変化について
+ 黄色連打はHS1
+ 84小節から
+ 1.06→1.13→1.25→1.38→1.5→1.63→1.75→1.88→2→
+ 1.96→1.91→1.87→1.83→1.78→1.74→1.7→1.65→1.61→1.57→1.52→
+ 1.48→1.43→1.39→1.35→1.3→1.26→1.22→1.17→1.13→1.09→1.04→1
+~&attachref(トンデ.png,nolink);
+&br;
+#region(24〜37小節のTJA表記)
+&br;MEASURE 38/48
+&br;20000020010000010010020000000000000000,
+&br;DELAY -0.0189371844415986
+&br;SCROLL 2.5
+&br;MEASURE 1/16
+&br;0
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1
+&br;00,
+&br;DELAY -0.0189371844415986
+&br;SCROLL 2.37
+&br;MEASURE 2/48
+&br;0
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1
+&br;0,
+&br;DELAY 0.0189376577792007
+&br;SCROLL 2.25
+&br;MEASURE 1/16
+&br;00
+&br;DELAY -0.0189371844415986
+&br;SCROLL 1
+&br;0,
+&br;DELAY 0.0189376577792007
+&br;SCROLL 2.12
+&br;MEASURE 2/48
+&br;0,
+&br;DELAY -0.0189371844415986
+&br;SCROLL 1
+&br;MEASURE 1/48
+&br;1,
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1.99
+&br;MEASURE 1/16
+&br;00
+&br;DELAY -0.0189371844415986
+&br;SCROLL 1
+&br;0,
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1.86
+&br;00
+&br;DELAY -0.0189371844415986
+&br;SCROLL 1
+&br;1,
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1.74
+&br;0
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1
+&br;20,
+&br;DELAY -0.0189371844415986
+&br;SCROLL 1.61
+&br;0
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1
+&br;00,
+&br;DELAY -0.0189371844415986
+&br;SCROLL 1.48
+&br;0
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1
+&br;10,
+&br;DELAY -0.0189371844415986
+&br;SCROLL 1.35
+&br;0
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1
+&br;10,
+&br;DELAY -0.0189371844415986
+&br;SCROLL 1.23
+&br;MEASURE 2/48
+&br;0
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1
+&br;2,
+&br;DELAY 0.0189376577792007
+&br;SCROLL 1.1
+&br;MEASURE 26/48
+&br;00
+&br;DELAY -0.0189371844415986
+&br;SCROLL 1
+&br;000200200100000100200100,
+&br;MEASURE 4/4
+#endregion

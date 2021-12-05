@@ -1,0 +1,39 @@
+*Choo Choo TRAIN [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+||CENTER:''CS5''|CENTER:★×3|CENTER:''143''|CENTER:''?????0点''|CENTER:＋連打|CENTER:750点|CENTER:240点|CENTER:''ゴーゴーバグあり''|
+|CENTER:AC7||~|~|CENTER:''?????0点''|~|CENTER:620点|CENTER:200点|~|
+||CENTER:PSP1|~|~|CENTER:''?????0点''|~|~|~|~|
+||CENTER:DS3|CENTER:★×2|CENTER:''72''|CENTER:''266010点''|~|CENTER:1100点|CENTER:450点||
+||CENTER:iOS|~|~|CENTER:''?????0点''|~|~|~|~|
+-BPMは115。
+----
+***CS5,AC7,PSP1 [#old]
+-速度は少し遅めだが、全体的に4分がかなり多い。
+--4分は単色が多いが、複合も数がそれなりに多い。
+--ただし、4分は3連打までしかない。
+-たまに出てくる付点配置の大音符に注意。
+----
+***DS3,iOS [#new]
+-黄色連打がかなり多い連打曲である。
+-大音符が多く、13個ある（全体の約18.1%）。
+-4分は単色の3連打までしかないが、数がかなり多い。
+----
+-アーティストは、''EXILE''。
+-AC7では''ChooChooTRAIN''(空白が無い)、ぽた1のゲーム内の一部とDS3の公式ページの収録曲リストでは、曲名がChoo Choo T''rain''と誤植されている。
+-[[ふつう>難易度表/ふつう/Choo Choo TRAIN]]
+-[[むずかしい>難易度表/むずかしい/Choo Choo TRAIN]]
+-[[おに>難易度表/おに/Choo Choo TRAIN]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=JkrX9f4ga_w]]
+-[[オート動画(旧譜面)>https://www.youtube.com/watch?v=zy7zmJFZ8PQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~新譜面
+~&attachref(choo2_easy.png,nolink);
+
+~旧譜面
+~&attachref(超 超 トライさん.png,nolink);

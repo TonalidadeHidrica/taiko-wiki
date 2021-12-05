@@ -1,0 +1,30 @@
+* American Girls [#n44486db]
+***詳細・攻略 [#xe91e29f]
+-【1人用譜面】
+- 詳細は以下の通り:
+|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×2|CENTER:''226''|CENTER:''547170点''|CENTER:810点|CENTER:210点|
+-BPMは105。
+- 黄色連打も風船も無い''完全精度曲''である。
+----
+-【2人用譜面】
+-詳細は以下の通り：
+|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''米TDM''&br;TDM|CENTER:★×2|CENTER:1P|CENTER:''183''|CENTER:''?????0点''|CENTER:1010点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''165''|CENTER:''?????0点''|~|~|
+----
+- アーティストは''Counting Crows(カウンティング・クロウズ)''
+-[[かんたん>難易度表/かんたん/American Girls]]
+-[[ふつう>難易度表/ふつう/American Girls]]
+-[[おに>難易度表/おに/American Girls]]
+-[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=6gAOK-rAzeo]]
+-[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=ZMmG-GViwPk]]
+
+***コメント [#qc13a970]
+#pcomment(,noname)
+
+***譜面 [#u2aca7b8]
+~1人用譜面
+&ref(American Girls.png,nolink);
+~2人用譜面
+&attachref(アメリカむずかしい２.png,nolink);

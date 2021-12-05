@@ -1,0 +1,22 @@
+*フレンジャー [#f4ea7eae]
+***詳細・攻略 [#n71307c6]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSP2''|CENTER:★×4|CENTER:''87''|CENTER:''344780点''((鈴どん音符の得点は抜いている(ボーナス5000点を除く) ))|CENTER:+連打|CENTER:1200点|CENTER:550点|
+|CENTER:AC9|CENTER:CS7|~|~|CENTER:''339170点''|~|CENTER:1090点|~|
+||CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|CENTER:???点|CENTER:???点|
+-BPMは170。
+
+***その他 [#other]
+-アーティストは、[[さくらんぼ>難易度表/かんたん/さくらんぼ]]等と同じく、[[''大塚愛''>アーティスト別収録曲#ai]]。
+-曲IDは、''frieng''。
+----
+-[[ふつう>難易度表/ふつう/フレンジャー]]
+-[[むずかしい>難易度表/むずかしい/フレンジャー]]
+-[[おに>難易度表/おに/フレンジャー]]
+-[[オート動画>https://www.youtube.com/watch?v=h84pVq_rxH8]]
+
+***コメント [#hf0781d1]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(frenge.png,nolink);

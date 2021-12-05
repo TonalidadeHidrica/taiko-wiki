@@ -1,0 +1,28 @@
+*Pastel Sealane [#title]
+***詳細・攻略 [#details]
+-ナムコのシューティングゲーム''「[[ブレイザー>http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC_%28%E3%82%B2%E3%83%BC%E3%83%A0%29]]」''より。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.4.0|CENTER:''Wii U1SP''|CENTER:★×5|CENTER:''212''|CENTER:''357590点''|CENTER:＋連打|CENTER:440点|CENTER:98点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3390点}|CENTER:-|
+-BPMは140.1。
+-黄色連打がかなり多い連打曲である。
+-大音符が多く、63個ある（全体の約29.7%）。
+-8分は2連打が主体で、たまに3連打も出てくる。数はかなり多め。
+-6分と付点8分の両方が出てくるため、リズムが取りづらい。
+-64〜66小節に出てくる大音符の4分複合9連打に注意。
+--両手でないと高得点が取れない家庭用では鬼門である。
+-曲名の読み方は、''パステル　シーレーン''。
+-アーティストは、''桜井誠一''。
+
+-[[ふつう>難易度表/ふつう/Pastel Sealane]]
+-[[むずかしい>難易度表/むずかしい/Pastel Sealane]]
+-[[おに>難易度表/おに/Pastel Sealane]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=KSHqucoX7sU]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船の長さは適当
+~&attachref(sealane_e.png,nolink);

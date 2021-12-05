@@ -1,0 +1,35 @@
+*TO MAKE THE END OF BATTLE [#title]
+***詳細・攻略 [#more]
+-日本ファルコム「''イースI&IIクロニクルズ''」より。
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:AC15.7.0|CENTER:''PS Vita1''|CENTER:★×4|CENTER:''175''|CENTER:''356440点''|CENTER:＋連打|CENTER:560点|CENTER:208点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''995880点''}|~|CENTER:COLOR(#ff3300){5160点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
+-BPMは232.4。
+--ただしHS0.85がかかっており、見かけ上のBPMは197.54。
+-全体的に付点配置がかなり多く、リズムが取りづらい。
+-大音符が多く、18個ある（全体の約10.3%）。
+-2分と付点4分が主体の譜面で、4分も数が多い。
+--4分は2連打が主体で、たまに3連打も出てくる。
+--ただし、付点4分の複合は2連打が4回しか出て来ない。
+-ゴーゴーは付点4分＋4分（●　 ●　 ●  ●）が多く、リズムが取りづらくなっている。
+-4分の3連打が連続して出てくるゴーゴーに注意。
+
+***その他 [#other]
+-アーティストは、''古代祐三''(オリジナル曲)。
+-原曲は、1988年に発売された「イースII」のオープニングテーマ曲。
+--太鼓の達人に入っているのは、PSP版「イースII」用にアレンジが加えられた音源である。
+-譜面作成は、''オオサワ''。
+-曲IDは、''ys2op''
+
+-[[ふつう>難易度表/ふつう/TO MAKE THE END OF BATTLE]]
+-[[むずかしい>難易度表/むずかしい/TO MAKE THE END OF BATTLE]]
+-[[おに>難易度表/おに/TO MAKE THE END OF BATTLE]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=wecVhRUOBz8]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&ref(ys2op_e.png,nolink);

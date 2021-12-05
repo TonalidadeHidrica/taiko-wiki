@@ -1,0 +1,15 @@
+*おに修行の旅 その4 [#title]
+-[[もっと毎日チャレンジ道場>難易度表/その他/もっと毎日チャレンジ道場]]のお題。
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|h
+|''Wii2''|★×7|''59''|
+-BPMは80。
+-[[プレイ動画>https://www.youtube.com/watch?v=9jJYPOpL3cE&t=147]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(おに修行4.png,nolink);

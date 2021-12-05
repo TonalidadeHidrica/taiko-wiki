@@ -1,0 +1,26 @@
+*ラヴァーズ[#title]
+***詳細・攻略[#more]
+-''「NARUTO -ナルト- 疾風伝」''のOP9。
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSPDX''&br;Wii4|CENTER:★×6|CENTER:''234''|CENTER:''758500点''|CENTER:＋連打|CENTER:1000点|CENTER:240点|
+|CENTER:AC15.1.0||CENTER:★×5|~|CENTER:''733670点''|~|CENTER:950点|CENTER:300点|
+||CENTER:iOS|~|~|CENTER:''706460点''|~|CENTER:880点|CENTER:230点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''984970点''}|~|CENTER:COLOR(#ff3300){3990点}|CENTER:-|
+
+-BPMは164。
+-連打秒数目安・・・''約2.530秒×2''−約0.518秒−''約2.530秒−約2.348秒''：合計約10.457秒
+-8分の複合が主体の譜面。16分は単色の3連打しかなく、数もそんなに多くない。
+-アーティストは、''7!!''（セブンウップス）。
+-曲IDは、''7oops''。
+-[[キミドリVer.段位道場>過去の段位道場#kimidori]]の五級2曲目課題曲となった。
+
+-[[かんたん>難易度表/かんたん/ラヴァーズ]]
+-[[ふつう>難易度表/ふつう/ラヴァーズ]]
+-[[おに>難易度表/おに/ラヴァーズ]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=b9OvF8LOwKs]]
+
+***コメント[#comment]
+#pcomment(,noname)
+
+***譜面[#score]
+&attachref(7oops.png,nolink);

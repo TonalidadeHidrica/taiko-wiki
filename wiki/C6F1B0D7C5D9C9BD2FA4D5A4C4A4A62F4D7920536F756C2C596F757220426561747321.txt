@@ -1,0 +1,39 @@
+*My Soul,Your Beats! [#title]
+-アニメ「''Angel Beats!''」のOP。
+***詳細・攻略 [#more]
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC14''|CENTER:PSPDXDL|CENTER:★×4|CENTER:''122''|CENTER:''494790点''|CENTER:＋連打|CENTER:1330点|CENTER:420点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''526250点''}|~|CENTER:COLOR(#ff3300){4210点}|CENTER:-|
+|CENTER:AC15.1.0||~|~|CENTER:''?????0点''|~|CENTER:1380点|CENTER:660点|
+|CENTER:AC15.2.0|CENTER:PS Vita1DL|~|~|CENTER:''516730点''|~|~|CENTER:658点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''972500点''}|~|CENTER:COLOR(#ff3300){7780点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約145。
+-黄色連打がかなり多い連打曲で、1本あたりの長さも長い。
+-4分が主体の譜面で、たまに8分も出てくる。
+--8分は単色の2連打しかなく、そのほとんどが単発である。
+--また、4分の複合は計3回しか出て来ない。
+-8分の2連打が3連続出てくる11〜12小節に注意。
+-★×4にしては簡単な方だったが、AC15でも残留した。クリアだけなら逆詐称だろう。
+-一応コンボ数は[[むずかしい>難易度表/むずかしい/My Soul,Your Beats!]]の半分を超えているが、難易度は雲泥の差がある。
+
+***その他 [#other]
+-アーティストは、[[''Lia''>アーティスト別収録曲#lia]]。
+--作詞・作曲は、麻枝准。編曲は、ANANT-GARDE EYES。
+-''2015年3月11日7:00からのムラサキバージョン稼働をもって、無印・KATSU-DON・ソライロ・モモイロ・キミドリバージョンよりサヨナラ''となった。
+--''ムラサキVer.以降では今まで通り選曲が可能''。
+-PSPDXの楽曲配信は2015年9月30日を以て終了となったが、その翌日である10月1日にPS Vita1の人気曲パック6においてこの曲が配信された。
+--これにより、PSPDXに入れていなければAC14か新筐体ムラサキVer.以降でしか遊べなくなる事態は避けられた。
+-曲IDは、''angelb''。
+----
+-[[かんたん>難易度表/かんたん/My Soul,Your Beats!]]
+-[[むずかしい>難易度表/むずかしい/My Soul,Your Beats!]]
+-[[おに>難易度表/おに/My Soul,Your Beats!]]
+-[[プレイ動画(PSPDX、キャプチャ)>https://www.youtube.com/watch?v=HAZLX3DgYhE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(AB.png,nolink);

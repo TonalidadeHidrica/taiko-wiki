@@ -1,0 +1,24 @@
+*ARMAGEΔDON [#title]
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.10.9''|PS4 1DL|★×5|''218''|''362490点''|+連打|440点|115点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){3610点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは190?
+
+***その他 [#other]
+-アーティストは、''BlackY''。
+----
+-[[ふつう>難易度表/ふつう/ARMAGEΔDON]]
+-[[むずかしい>難易度表/むずかしい/ARMAGEΔDON]]
+-[[おに>難易度表/おに/ARMAGEΔDON]]
+-[[プレイ動画>https://www.youtube.com/watch?v=oqNQWAhiaIY]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+風船、くすだまの長さは暫定
+&attachref(△簡.png,nolink);

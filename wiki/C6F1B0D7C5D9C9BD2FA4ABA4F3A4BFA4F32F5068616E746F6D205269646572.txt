@@ -1,0 +1,36 @@
+*Phantom Rider [#title]
+***詳細・攻略 [#more]
+-詳細は以下の通り：
+|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.2.0SP''|CENTER:Wii5SP|CENTER:★×4|CENTER:''196''|CENTER:''352460点''|CENTER:＋連打|CENTER:530点|CENTER:118点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4290点}|CENTER:-|
+-BPMは268。
+--ただしHS0.5がかかっており、見かけ上のBPMは134。
+-黄色連打が多い連打曲である。
+-全体的に付点配置が多く、リズムが取りづらい。
+-4分の複合が主体の譜面で、たまに8分も出てくる。
+--8分は単色の3連打しかないが、そのほとんどが4分と隣接している。
+--ただしHS0.5がかかっているので、等速だと4分までしかない。
+-フルコン狙いの人はラストゴーゴーに要注意。
+--8分の3連打が何度も出てくる上に配置も不規則なので、リズムが取りづらくなっている。
+--ちなみに、ラストゴーゴーは[[ふつう>難易度表/ふつう/Phantom Rider]]と同じ配置である。
+
+***その他 [#other]
+-曲名の読み方は、''ファントム ライダー''。
+--スペルは''Phantom''であり、''Fantom''ではない。間違えないように。
+-アーティストは、''濱本理央''。
+-曲IDは、''phride''
+
+-[[ふつう>難易度表/ふつう/Phantom Rider]]
+-[[むずかしい>難易度表/むずかしい/Phantom Rider]]
+-[[おに>難易度表/おに/Phantom Rider]]/[[裏譜面>難易度表/おに/Phantom Rider(裏譜面)]]
+-[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=lbKsqxXxZHw]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#fumen]
+&attachref(PR k.png,nolink);
+
+半速表記
+&attachref(phantom_easy_hs0.5_f1.png,nolink);
