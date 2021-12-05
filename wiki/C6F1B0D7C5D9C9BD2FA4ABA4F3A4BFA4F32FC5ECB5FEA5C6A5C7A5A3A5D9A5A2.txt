@@ -4,6 +4,7 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:AC15.8.0|CENTER:''Wii U3''|CENTER:★×4|CENTER:''226''|CENTER:''345240点''|CENTER:＋連打|CENTER:430点|CENTER:113点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3840点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''996600点''|~|CENTER:4400点|~|
 -BPMは約204。
 --ただしHS0.8がかかっており、見かけ上のBPMは163.2。
 -黄色連打が多い連打曲である。
