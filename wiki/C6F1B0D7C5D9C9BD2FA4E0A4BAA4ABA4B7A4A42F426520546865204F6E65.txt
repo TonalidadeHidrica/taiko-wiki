@@ -5,9 +5,9 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.9.9''|PS4 1DL&br;NS1|BGCOLOR(orange):''アニメ''|★×4|''162''|''699520点''|＋連打|1150点|435点|
-|COLOR(#f30){真打}||~|~|~|COLOR(#f30){''999120点''}|~|COLOR(#f30){5340点}|-|
+|COLOR(#f30){真打}||~|~|~|COLOR(#f30){''999120点''}|~|COLOR(#f30){5330点}|-|
 ||iOS|~|~|~|''698000点''|~|1130点|320点|
-|AC16.1.0||BGCOLOR(yellow):''キッズ''|~|~|''?????0点''|~|?)0点|-|
+|AC16.1.0||BGCOLOR(yellow):''キッズ''|~|~|''999300点''|~|6150点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは136。
@@ -28,11 +28,11 @@
 -[[かんたん>難易度表/かんたん/Be The One]]
 -[[ふつう>難易度表/ふつう/Be The One]]
 -[[おに>難易度表/おに/Be The One]]
--[[オート動画(iOS,3:00〜)>http://www.youtube.com/watch?v=sLgw85k6Z8M&t=180]]
+-[[オート動画(iOS,3:00〜)>https://www.youtube.com/watch?v=sLgw85k6Z8M&t=180]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船、くすだまの長さは暫定
-&attachref(BTOむずかしい.png,nolink,);
+~風船、くすだまの長さは暫定
+~&attachref(BTOむずかしい.png,nolink,);
