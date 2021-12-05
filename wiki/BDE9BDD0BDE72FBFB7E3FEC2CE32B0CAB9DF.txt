@@ -60,7 +60,7 @@
 |~|''2020/9/5''|''Parousia''&br;　　SIZE(11){xi}|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|-|
 |~|''2020/9/19''|''Leviathan''&br;　　SIZE(11){NeLiME}|88?-185|[[★×4>難易度表/かんたん/Leviathan]]|[[★×7>難易度表/ふつう/Leviathan]]|[[★×7>難易度表/むずかしい/Leviathan]]|[[★×9>難易度表/おに/Leviathan]]|-|
 |~|''2020/9/26''|''Wish upon a shooting star''&br;　　SIZE(11){SUi 「DEEMO」より}|128|[[★×4>難易度表/かんたん/Wish upon a shooting star]]|[[★×5>難易度表/ふつう/Wish upon a shooting star]]|[[★×6>難易度表/むずかしい/Wish upon a shooting star]]|[[★×9>難易度表/おに/Wish upon a shooting star]]|-|
-//|~|''2020/10/3''|''MagiCatz''&br;　　SIZE(11){Sakuzyo 「DEEMO」より}||[[★×>難易度表/かんたん/MagiCatz]]|[[★×>難易度表/ふつう/MagiCatz]]|[[★×>難易度表/むずかしい/MagiCatz]]|[[★×>難易度表/おに/MagiCatz]]|-|
+|~|''2020/10/3''|''Magi&#67;atz''&br;　　SIZE(11){Sakuzyo 「DEEMO」より}|135-210|[[★×2>難易度表/かんたん/MagiCatz]]|[[★×3>難易度表/ふつう/MagiCatz]]|[[★×6>難易度表/むずかしい/MagiCatz]]|[[★×10>難易度表/おに/MagiCatz]]|-|
 //|''NS1''|''2020/10/8''|''ANiMA''&br;　　SIZE(11){xi 「DEEMO」より}||[[★×>難易度表/かんたん/ANiMA]]|[[★×>難易度表/ふつう/ANiMA]]|[[★×>難易度表/むずかしい/ANiMA]]|[[★×>難易度表/おに/ANiMA]]|-|
 |>|>|>|>|>|>|>|>|BGCOLOR(orangered):''ナムコオリジナル''&aname(namco);|
 |''ニジイロ''|''2020/3/24''|''幕末維新譚''&br;　　SIZE(11){黒沢ダイスケ × Masahiro "Godspeed" Aoki}|260-325|[[★×5>難易度表/かんたん/幕末維新譚]]|[[★×7>難易度表/ふつう/幕末維新譚]]|[[★×8>難易度表/むずかしい/幕末維新譚]]|[[★×10>難易度表/おに/幕末維新譚]]|-|

@@ -533,7 +533,7 @@
 |||''ヘ調の協奏曲 第3楽章''&br;　　SIZE(11){ガーシュウィン}|70-157※|[[★×4>難易度表/かんたん/ヘ調の協奏曲　第3楽章]]|[[★×5>難易度表/ふつう/ヘ調の協奏曲　第3楽章]]|[[★×7>難易度表/むずかしい/ヘ調の協奏曲　第3楽章]]|[[★×9>難易度表/おに/ヘ調の協奏曲　第3楽章]]|-|
 |>|>|>|>|>|>|>|>|BGCOLOR(darkorchid):''ゲーム＆バラエティ''&aname(gameandvariety);|
 //|''20/10/10''|''NEW''|''ANiMA''&br;　　SIZE(11){xi 「DEEMO」より}||[[★×>難易度表/かんたん/ANiMA]]|[[★×>難易度表/ふつう/ANiMA]]|[[★×>難易度表/むずかしい/ANiMA]]|[[★×>難易度表/おに/ANiMA]]|-|
-//|''20/10/3''|''NEW''|''Magi&#67;atz''&br;　　SIZE(11){Sakuzyo 「DEEMO」より}||[[★×>難易度表/かんたん/MagiCatz]]|[[★×>難易度表/ふつう/MagiCatz]]|[[★×>難易度表/むずかしい/MagiCatz]]|[[★×>難易度表/おに/MagiCatz]]|-|
+|''20/10/3''|''NEW''|''Magi&#67;atz''&br;　　SIZE(11){Sakuzyo 「DEEMO」より}|135-217.5|[[★×2>難易度表/かんたん/MagiCatz]]|[[★×3>難易度表/ふつう/MagiCatz]]|[[★×6>難易度表/むずかしい/MagiCatz]]|[[★×10>難易度表/おに/MagiCatz]]|-|
 |''20/9/26''|''NEW''|''Wish upon a shooting star''&br;　　SIZE(11){SUi 「DEEMO」より}|128|[[★×4>難易度表/かんたん/Wish upon a shooting star]]|[[★×5>難易度表/ふつう/Wish upon a shooting star]]|[[★×6>難易度表/むずかしい/Wish upon a shooting star]]|[[★×9>難易度表/おに/Wish upon a shooting star]]|-|
 |''20/9/19''|''NEW''|''Leviathan''&br;　　SIZE(11){NeLiME 「DEEMO」より}|88?-185|[[★×4>難易度表/かんたん/Leviathan]]|[[★×7>難易度表/ふつう/Leviathan]]|[[★×7>難易度表/むずかしい/Leviathan]]|[[★×9>難易度表/おに/Leviathan]]|-|
 |''20/9/5''|''NEW''|''Parousia''&br;　　SIZE(11){xi}|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|-|

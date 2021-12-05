@@ -1033,8 +1033,8 @@
 |931|[[JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|BGCOLOR(darkorchid):G & V|pacm40||
 |932|[[Wish upon a shooting star>難易度表/おに/Wish upon a shooting star]]|BGCOLOR(darkorchid):G & V|?||
 |933|[[Leviathan>難易度表/おに/Leviathan]]|BGCOLOR(darkorchid):G & V|?||
-|934|非公開|BGCOLOR(darkorchid):G & V|非公開||
-|935|非公開|BGCOLOR(darkorchid):G & V|非公開||
+|934|非公開|BGCOLOR(darkorchid):G & V|非公開|推測：[[ANiMA>難易度表/おに/ANiMA]](？)|
+|935|[[MagiCatz>難易度表/おに/MagiCatz]]|BGCOLOR(darkorchid):G & V|?||
 |936|[[Smile! Smile! Smile!>難易度表/おに/Smile! Smile! Smile!]]|BGCOLOR(yellow):キッズ|?||
 |937|[[夜に駆ける>難易度表/おに/夜に駆ける]]|BGCOLOR(cyan):ポップス|?||
 |938|[[零の交響曲>難易度表/おに/零の交響曲]]|BGCOLOR(orangered):ナムオリ|?||

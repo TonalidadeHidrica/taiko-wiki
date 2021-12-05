@@ -918,6 +918,7 @@
 -[[コメント/難易度表/おに/MUSIC♪]] コメント/ナンイドオモテ/オニ/MUSIC♪
 -[[コメント/難易度表/おに/MUSIC♪(裏譜面)]] コメント/ナンイドオモテ/オニ/MUSIC♪(ウラフメン)
 -[[コメント/難易度表/おに/MachineGun Kiss]] コメント/ナンイドオモテ/オニ/MachineGun Kiss
+-[[コメント/難易度表/おに/MagiCatz]] コメント/ナンイドオモテ/オニ/MagiCatz
 -[[コメント/難易度表/おに/Many wow bang!]] コメント/ナンイドオモテ/オニ/Many wow bang!
 -[[コメント/難易度表/おに/Many wow bang!(裏譜面)]] コメント/ナンイドオモテ/オニ/Many wow bang!(ウラフメン)
 -[[コメント/難易度表/おに/Marine Mirage]] コメント/ナンイドオモテ/オニ/Marine Mirage
@@ -2127,7 +2128,6 @@
 -[[コメント/難易度表/おに/時の足音]] コメント/ナンイドオモテ/オニ/トキノアシオト
 -[[コメント/難易度表/おに/時を待とう]] コメント/ナンイドオモテ/オニ/トキヲマトウ
 -[[コメント/難易度表/おに/特捜戦隊デカレンジャー]] コメント/ナンイドオモテ/オニ/トクソウセンタイデカレンジャー
--[[コメント/難易度表/おに/特務J]] コメント/ナンイドオモテ/オニ/トクムJ
 -[[コメント/難易度表/おに/トッカータとフーガとロック]] コメント/ナンイドオモテ/オニ/トッカータトフーガトロック
 -[[コメント/難易度表/おに/突撃ロック]] コメント/ナンイドオモテ/オニ/トツゲキロック
 -[[コメント/難易度表/おに/轟轟戦隊ボウケンジャー]] コメント/ナンイドオモテ/オニ/トドロキトドロキセンタイボウケンジャー
@@ -3022,6 +3022,7 @@
 -[[コメント/難易度表/かんたん/MEGARE!]] コメント/ナンイドオモテ/カンタン/MEGARE!
 -[[コメント/難易度表/かんたん/MISTER]] コメント/ナンイドオモテ/カンタン/MISTER
 -[[コメント/難易度表/かんたん/MUSIC♪]] コメント/ナンイドオモテ/カンタン/MUSIC♪
+-[[コメント/難易度表/かんたん/MagiCatz]] コメント/ナンイドオモテ/カンタン/MagiCatz
 -[[コメント/難易度表/かんたん/Many wow bang!]] コメント/ナンイドオモテ/カンタン/Many wow bang!
 -[[コメント/難易度表/かんたん/Marine Mirage]] コメント/ナンイドオモテ/カンタン/Marine Mirage
 -[[コメント/難易度表/かんたん/Marionette]] コメント/ナンイドオモテ/カンタン/Marionette
@@ -4642,6 +4643,7 @@
 -[[コメント/難易度表/ふつう/MOSKAU]] コメント/ナンイドオモテ/フツウ/MOSKAU
 -[[コメント/難易度表/ふつう/MUSIC♪]] コメント/ナンイドオモテ/フツウ/MUSIC♪
 -[[コメント/難易度表/ふつう/MachineGun Kiss]] コメント/ナンイドオモテ/フツウ/MachineGun Kiss
+-[[コメント/難易度表/ふつう/MagiCatz]] コメント/ナンイドオモテ/フツウ/MagiCatz
 -[[コメント/難易度表/ふつう/Many wow bang!]] コメント/ナンイドオモテ/フツウ/Many wow bang!
 -[[コメント/難易度表/ふつう/Marine Mirage]] コメント/ナンイドオモテ/フツウ/Marine Mirage
 -[[コメント/難易度表/ふつう/Marionette]] コメント/ナンイドオモテ/フツウ/Marionette
@@ -8657,6 +8659,7 @@
 -[[難易度表/おに/MUSIC♪]] ナンイドオモテ/オニ/MUSIC♪
 -[[難易度表/おに/MUSIC♪(裏譜面)]] ナンイドオモテ/オニ/MUSIC♪(ウラフメン)
 -[[難易度表/おに/MachineGun Kiss]] ナンイドオモテ/オニ/MachineGun Kiss
+-[[難易度表/おに/MagiCatz]] ナンイドオモテ/オニ/MagiCatz
 -[[難易度表/おに/Many wow bang!]] ナンイドオモテ/オニ/Many wow bang!
 -[[難易度表/おに/Many wow bang!(裏譜面)]] ナンイドオモテ/オニ/Many wow bang!(ウラフメン)
 -[[難易度表/おに/Marine Mirage]] ナンイドオモテ/オニ/Marine Mirage
@@ -10859,6 +10862,7 @@
 -[[難易度表/かんたん/MOSKAU]] ナンイドオモテ/カンタン/MOSKAU
 -[[難易度表/かんたん/MUSIC♪]] ナンイドオモテ/カンタン/MUSIC♪
 -[[難易度表/かんたん/MachineGun Kiss]] ナンイドオモテ/カンタン/MachineGun Kiss
+-[[難易度表/かんたん/MagiCatz]] ナンイドオモテ/カンタン/MagiCatz
 -[[難易度表/かんたん/Many wow bang!]] ナンイドオモテ/カンタン/Many wow bang!
 -[[難易度表/かんたん/Marine Mirage]] ナンイドオモテ/カンタン/Marine Mirage
 -[[難易度表/かんたん/Marionette]] ナンイドオモテ/カンタン/Marionette
@@ -13223,6 +13227,7 @@
 -[[難易度表/ふつう/MOSKAU]] ナンイドオモテ/フツウ/MOSKAU
 -[[難易度表/ふつう/MUSIC♪]] ナンイドオモテ/フツウ/MUSIC♪
 -[[難易度表/ふつう/MachineGun Kiss]] ナンイドオモテ/フツウ/MachineGun Kiss
+-[[難易度表/ふつう/MagiCatz]] ナンイドオモテ/フツウ/MagiCatz
 -[[難易度表/ふつう/Many wow bang!]] ナンイドオモテ/フツウ/Many wow bang!
 -[[難易度表/ふつう/Marine Mirage]] ナンイドオモテ/フツウ/Marine Mirage
 -[[難易度表/ふつう/Marionette]] ナンイドオモテ/フツウ/Marionette
@@ -15276,6 +15281,7 @@
 -[[難易度表/むずかしい/MOSKAU]] ナンイドオモテ/ムズカシイ/MOSKAU
 -[[難易度表/むずかしい/MUSIC♪]] ナンイドオモテ/ムズカシイ/MUSIC♪
 -[[難易度表/むずかしい/MachineGun Kiss]] ナンイドオモテ/ムズカシイ/MachineGun Kiss
+-[[難易度表/むずかしい/MagiCatz]] ナンイドオモテ/ムズカシイ/MagiCatz
 -[[難易度表/むずかしい/Many wow bang!]] ナンイドオモテ/ムズカシイ/Many wow bang!
 -[[難易度表/むずかしい/Marine Mirage]] ナンイドオモテ/ムズカシイ/Marine Mirage
 -[[難易度表/むずかしい/Marionette]] ナンイドオモテ/ムズカシイ/Marionette
