@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(csabed_2.png,nolink);
+&attachref(csabed_m.png,nolink);

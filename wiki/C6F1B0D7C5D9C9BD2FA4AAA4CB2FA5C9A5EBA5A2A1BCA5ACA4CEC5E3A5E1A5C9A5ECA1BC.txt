@@ -7,7 +7,7 @@
 ||PSP2|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|''1192800点''|~|530点|120点|~|
 |AC9||★×9|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|''1101270点''|~|590点|100点||
 ||Wii U2&br;PS4 1DL|★×8|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|''1048930点''|~|470点|123点||
-|COLOR(#ff3300){真打}||~||~|COLOR(#ff3300){''999570点''}|~|COLOR(#ff3300){1430点}|-||
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''999570点''}|~|COLOR(#ff3300){1430点}|-||
 |AC16.1.0SP||~|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|''1002450点''|~|1470点|-||
 
 ***譜面構成・攻略 [#capture]

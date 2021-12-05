@@ -1,11 +1,11 @@
 *馬と鹿 [#title]
 -TBS系ドラマ「''ノーサイド・ゲーム''」主題歌。
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.11.11&br;AC15.11.6((アジア版))||BGCOLOR(cyan):''J-POP''|★×3|CENTER:COLOR(#909):''157&br;COLOR(#069):148&br;COLOR(#666):130''|''643320点''|＋連打|1240点|475点|
-||''NS1DL''&br;PS4 1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
-|COLOR(#f30){真打}|||~|~|COLOR(#f30){''995480点''}|~|COLOR(#f30){6210点}|-|
+||''NS1DL''&br;PS4 1DL|BGCOLOR(cyan):''ポップス''|★×3|CENTER:COLOR(#909):''157&br;COLOR(#069):148&br;COLOR(#666):130''|''643320点''|＋連打|1240点|475点|
+|AC15.11.11&br;AC15.11.6((アジア版))||BGCOLOR(cyan):''J-POP''|~|~|~|~|~|~|
+|COLOR(#f30){真打}||~|~|~|COLOR(#f30){''995480点''}|~|COLOR(#f30){6210点}|-|
 |AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''998580点''|~|6340点|-|
 
 ***譜面構成・攻略 [#capture]
