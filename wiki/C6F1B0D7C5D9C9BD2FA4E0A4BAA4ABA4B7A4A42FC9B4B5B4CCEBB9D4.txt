@@ -2,13 +2,16 @@
 ***詳細・攻略 [#more]
 -画竜点睛シリーズ第8弾。
 -詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''DS3''|CENTER:★×8|CENTER:''413''|CENTER:''900180点''|CENTER:510点|CENTER:120点|
-|CENTER:AC14|CENTER:PSPDX&br;Wii4SP|~|~|CENTER:''903540点''|~|~|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''901400点''}|CENTER:COLOR(#ff3300){1710点}|CENTER:-|
-||CENTER:iOS|CENTER:★×7|~|CENTER:''852890点''|CENTER:500点|CENTER:110点|
-|CENTER:AC15.6.5||~|~|CENTER:''850890点''|CENTER:540点|CENTER:125点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''1002200点''}|CENTER:COLOR(#ff3300){1920点}|CENTER:-|
+|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
+||''DS3''|★×8|''413''|''900180点''|510点|120点|
+|AC14|PSPDX&br;Wii4SP|~|~|''903540点''|~|~|
+|COLOR(#ff3300){真打モード}||~|~|COLOR(#ff3300){''901400点''}|COLOR(#ff3300){1710点}|-|
+||iOS|★×7|~|''852890点''|500点|110点|
+|AC15.6.5||~|~|''850890点''|540点|125点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1002200点''}|COLOR(#ff3300){1920点}|-|
+|AC16.1.0||~|~|''1002400点''|2400点|-|
+
 -BPMは145。
 -''精度曲''のひとつ。
 -大音符が多く、67個ある（全体の約16.2%）。

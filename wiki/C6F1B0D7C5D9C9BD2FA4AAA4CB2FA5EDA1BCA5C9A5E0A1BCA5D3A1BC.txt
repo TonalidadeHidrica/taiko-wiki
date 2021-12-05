@@ -36,4 +36,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(rodmov_m2.png,nolink);
+~&attachref(ロードムービー.png,nolink);

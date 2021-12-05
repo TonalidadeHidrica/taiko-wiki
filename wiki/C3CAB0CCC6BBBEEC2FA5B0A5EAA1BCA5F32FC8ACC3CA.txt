@@ -45,6 +45,3 @@
 &attachref(右手始動交互.png,nolink);
 --左手で入った場合
 &attachref(左手始動交互.png,nolink);
-
-***コメント [#comment]
-#pcomment(,noname)

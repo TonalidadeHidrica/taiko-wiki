@@ -5,6 +5,7 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.7.3''|CENTER:3DS3|CENTER:★×6|CENTER:''200''|CENTER:''651130点''|CENTER:＋連打|CENTER:910点|CENTER:305点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''999980点''}|~|CENTER:COLOR(#ff3300){4560点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''1000400点''|~|CENTER:5000点|CENTER:-|
 -BPMは136。
 -速度は少し遅めだが、全体的に8分がかなり多い。
 --8分はほとんどが3連打だが、ゴーゴーからは長めのも出てくる。

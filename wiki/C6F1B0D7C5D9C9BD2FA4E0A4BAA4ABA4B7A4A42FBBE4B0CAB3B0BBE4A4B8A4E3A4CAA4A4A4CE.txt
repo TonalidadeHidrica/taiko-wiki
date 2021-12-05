@@ -5,6 +5,7 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.7.3''|CENTER:3DS3|CENTER:★×6|CENTER:''268''|CENTER:''799940点''|CENTER:＋連打|CENTER:860点|CENTER:265点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''1001180点''}|~|CENTER:COLOR(#ff3300){3480点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''1000040点''|~|CENTER:3730点|CENTER:-|
 -BPMは136。
 -全体的に付点配置が多く、リズムが取りづらい。
 -8分の複合が主体の譜面で、16分も数が多い。

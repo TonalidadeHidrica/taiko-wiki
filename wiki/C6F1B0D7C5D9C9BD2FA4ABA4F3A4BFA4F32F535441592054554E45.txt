@@ -6,6 +6,7 @@
 |CENTER:''AC15.9.4''||CENTER:★×2|CENTER:''86''|CENTER:''306150点''|CENTER:＋連打|CENTER:1000点|CENTER:640点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){9500点}|CENTER:-|
 ||CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|CENTER:990点|CENTER:360点|
+|CENTER:AC16.1.0||~|~|CENTER:''996040点''|~|CENTER:11540点|CENTER:-|
 -BPMは123。
 -黄色連打は3本と少なめだが、1本あたりの長さは長い。
 -大音符が多く、15個ある（全体の約17.4%）。

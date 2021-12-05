@@ -5,6 +5,7 @@
 |CENTER:''AC15.6.4''|CENTER:PS Vita1|CENTER:★×5|CENTER:''302''|CENTER:''589120点''|CENTER:＋連打|CENTER:530点|CENTER:140点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''988930点''}|~|CENTER:COLOR(#ff3300){2770点}|CENTER:-|
 ||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
+|CENTER:AC16.1.0||~|~|CENTER:''996280点''|~|CENTER:3290点|CENTER:-|
 -BPMは約162。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。

@@ -13,7 +13,7 @@
 |BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(hotpink):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(silver):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(yellow):~[[&color(black){%%%キッズ%%%};>#kids]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;＆&br;バラエティ%%%};>#gameandvariety]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
 //4/1時点 804曲
 //ニジイロVer.では複数のフォルダに同じ曲が含まれているケースがあります。フォルダに含まれている曲数の和=収録曲数 とはなりませんのでご注意ください。
-|''121'' 曲|''104'' 曲|''55'' 曲|''91'' 曲|''28'' 曲|''218'' 曲|''384'' 曲|
+|''121'' 曲|''104'' 曲|''55'' 曲|''92'' 曲|''28'' 曲|''218'' 曲|''384'' 曲|
 
 -[[公式サイト>http://taiko.namco-ch.net/taiko/]]
 -[[公式ブログ>http://taiko-ch.net/blog/]]
@@ -86,7 +86,7 @@
 |CENTER:28|CENTER:1||LEFT:60|>|>|>|>|CENTER:42|c
 |>||''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|h
 |>|>|>|>|>|>|>|>|BGCOLOR(cyan):''ポップス''&aname(pops);|
-||''NEW''|''HIMAWARI HAPPY''&br;　　SIZE(11){HIMAWARIちゃんねる}|?-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]&br;SIZE(10){(S)}|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|-|
+||''NEW''|''HIMAWARI HAPPY''&br;　　SIZE(11){HIMAWARIちゃんねる}|120?-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]&br;SIZE(10){(S)}|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|-|
 ||''NEW''|''今''&br;　　SIZE(11){HIKAKIN & SEIKIN}|128|[[★×2>難易度表/かんたん/今]]&br;SIZE(10){(S)}|[[★×3>難易度表/ふつう/今]]|[[★×3>難易度表/むずかしい/今]]|[[★×5>難易度表/おに/今]]|-|
 |||''You&#84;ubeテーマソング''&br;　　SIZE(11){HIKAKIN & SEIKIN}|128|[[★×3>難易度表/かんたん/YouTubeテーマソング]]&br;SIZE(10){(S)}|[[★×4>難易度表/ふつう/YouTubeテーマソング]]|[[★×5>難易度表/むずかしい/YouTubeテーマソング]]|[[★×7>難易度表/おに/YouTubeテーマソング]]|-|
 |||''雑草''&br;　　SIZE(11){HIKAKIN & SEIKIN}|128|[[★×3>難易度表/かんたん/雑草]]&br;SIZE(10){(S)}|[[★×3>難易度表/ふつう/雑草]]|[[★×5>難易度表/むずかしい/雑草]]|[[★×6>難易度表/おに/雑草]]|-|
@@ -374,7 +374,7 @@
 |||''僕らの世界にダンスを''&br;　　SIZE(11){サカモト教授 feat. GUMI}|130|[[★×4>難易度表/かんたん/僕らの世界にダンスを]]|[[★×5>難易度表/ふつう/僕らの世界にダンスを]]|[[★×5>難易度表/むずかしい/僕らの世界にダンスを]]|[[★×7>難易度表/おに/僕らの世界にダンスを]]|-|
 |||''さちさちにしてあげる♪''&br;　　SIZE(11){小林幸子}|160|[[★×3>難易度表/かんたん/さちさちにしてあげる♪]]|[[★×6>難易度表/ふつう/さちさちにしてあげる♪]]|[[★×7>難易度表/むずかしい/さちさちにしてあげる♪]]|[[★×7>難易度表/おに/さちさちにしてあげる♪]]|[[★×10>難易度表/おに/さちさちにしてあげる♪(裏譜面)]]|
 |>|>|>|>|>|>|>|>|BGCOLOR(yellow):''キッズ''&aname(kids);|
-||''NEW''|''HIMAWARI HAPPY''&br;　　SIZE(11){HIMAWARIちゃんねる}|?-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|-|
+||''NEW''|''HIMAWARI HAPPY''&br;　　SIZE(11){HIMAWARIちゃんねる}|120?-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|-|
 ||''NEW''|''今''&br;　　SIZE(11){HIKAKIN & SEIKIN}|128|[[★×2>難易度表/かんたん/今]]|[[★×3>難易度表/ふつう/今]]|[[★×3>難易度表/むずかしい/今]]|[[★×5>難易度表/おに/今]]|-|
 |||''You&#84;ubeテーマソング''&br;　　SIZE(11){HIKAKIN & SEIKIN}|128|[[★×3>難易度表/かんたん/YouTubeテーマソング]]&br;SIZE(10){(S)}|[[★×4>難易度表/ふつう/YouTubeテーマソング]]|[[★×5>難易度表/むずかしい/YouTubeテーマソング]]|[[★×7>難易度表/おに/YouTubeテーマソング]]|-|
 |||''雑草''&br;　　SIZE(11){HIKAKIN & SEIKIN}|128|[[★×3>難易度表/かんたん/雑草]]&br;SIZE(10){(S)}|[[★×3>難易度表/ふつう/雑草]]|[[★×5>難易度表/むずかしい/雑草]]|[[★×6>難易度表/おに/雑草]]|-|

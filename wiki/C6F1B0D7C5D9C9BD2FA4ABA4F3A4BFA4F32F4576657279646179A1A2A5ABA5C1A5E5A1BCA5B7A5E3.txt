@@ -8,6 +8,7 @@
 |CENTER:AC15.2.0||~|~|CENTER:''315360点''|~|CENTER:560点|~|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){5440点}|CENTER:-|
 ||CENTER:Wii4&br;PSPDXDL&br;iOS|~|~|CENTER:''296820点''|~|CENTER:540点|CENTER:130点|
+|CENTER:AC16.1.0||~|~|CENTER:''985020点''|~|CENTER:8340点|-|
 -BPMは172.4。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。
 -大音符が多く、23個ある（全体の約14.7%）。
