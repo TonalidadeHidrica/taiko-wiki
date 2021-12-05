@@ -153,7 +153,7 @@
 |~|~|~|~|[[公式音源(YouTube)>https://www.youtube.com/watch?v=yUgmfKCs-ow]]|~|
 |BGCOLOR(orangered):|[[にゃーにゃーにゃー>難易度表/おに/にゃーにゃーにゃー]]|ちょこ|立秋|Candy Panic Bomb!|ゲームsize|
 |~|~|~|~|~|ロングver.|
-|BGCOLOR(orangered):|[[サクラ・シークレット>難易度表/おに/サクラ・シークレット]]|-|Taku Inoue|シンクロニカ オリジナルサウンドトラック|ゲームsize|
+|BGCOLOR(lime):|[[サクラ・シークレット>難易度表/おに/サクラ・シークレット]]|-|Taku Inoue|シンクロニカ オリジナルサウンドトラック|ゲームsize|
 |~|~|~|~|[[公式音源(YouTube)>https://www.youtube.com/watch?v=kBxpmcxDRg0]]|~|
 |BGCOLOR(orangered):|[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]|-|あず♪|[[公式音源(YouTube)>https://www.youtube.com/watch?v=KDMGXowxekI]]|ゲームsize|
 |~|~|~|~|[[公式音源(SoundCloud)>https://soundcloud.com/azupiano/kooryu]]|~|
@@ -173,6 +173,8 @@
 |BGCOLOR(orangered):|[[一世風靡>難易度表/おに/一世風靡]]|-|西込加久見|[[公式音源(YouTube)>https://youtu.be/u629fZSJLS0]]|ゲームsize|
 |BGCOLOR(orangered):|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|miko|コバヤシユウヤ|[[公式音源(YouTube)>https://youtu.be/nEuwDbI1akk]]|ゲームsize|
 |BGCOLOR(orangered):|[[大好きな太鼓の音>難易度表/おに/大好きな太鼓の音]]|どんちゃん|粗品|[[自動生成音源(YouTube)>https://youtu.be/9AjrdYiafQ0]]|ロングver.|
+|BGCOLOR(orangered):|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]|-|庭師|[[公式音源(YouTube)>https://youtu.be/mkD_GoWHef0]]|ゲームsize|
+|BGCOLOR(orangered):|[[punk bastards>難易度表/おに/punk bastards]]|-|Sobrem|[[公式音源(YouTube)>https://youtu.be/mkD_GoWHef0]]|ゲームsize|
 
 **収録されない可能性が高いもの [#possibility]
 |1|||||c

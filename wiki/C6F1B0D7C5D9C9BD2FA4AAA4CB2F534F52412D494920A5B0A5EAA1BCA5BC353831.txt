@@ -35,7 +35,7 @@
 -[[ニジイロVer.段位道場2021>段位道場#normal]]の三段1曲目課題曲となった。
 -曲IDは、''sora2x''。
 -ACでは13を最後に収録されていなかったが、''2016年2月6日から開催された「公式マイバチ試遊会」の対象店舗で、新筐体ホワイトVer.に先行収録され''、約6年ぶりにACに収録された。
---なお、3月1日より全店舗で遊べるようになった。
+--なお、2016年3月1日より全店舗で遊べるようになった。
 
 ----
 -[[かんたん>難易度表/かんたん/SORA-II グリーゼ581]]
@@ -44,7 +44,9 @@
 -[[オート動画(Wii5)>https://www.youtube.com/watch?v=XD8oqEo7PI4]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(sora2x_m.png,nolink);
+~&attachref(sora2x_m.png,nolink);

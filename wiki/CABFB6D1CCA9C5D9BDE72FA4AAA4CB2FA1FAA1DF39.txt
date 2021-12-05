@@ -225,7 +225,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(orangered):|[[GO GET’EM！>難易度表/おに/GO GET'EM!]]|''5.688''|146|554|97.40秒||
 |>|>|BGCOLOR(cyan):|[[イイコ進化論(feat. O-LuHA)>難易度表/おに/イイコ進化論(feat. O-LuHA)]]|''5.681''|270.00※|676|119.00秒|動画から計算|
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[TOKIMEKIエスカレート(裏譜面)>難易度表/おに/TOKIMEKIエスカレート(裏譜面)]]|''5.636''|140|666|118.18秒||
-|>|>|BGCOLOR(orangered):|[[花漾 〜Flourishing Blossoms〜(裏譜面)>難易度表/おに/花漾 〜Flourishing Blossoms〜(裏譜面)]]|''5.631''|140|540|95.89秒||
+|>|>|BGCOLOR(orangered):|[[花漾(裏譜面)>難易度表/おに/花漾 〜Flourishing Blossoms〜(裏譜面)]]|''5.631''|140|540|95.89秒||
 |>|BGCOLOR(goldenrod):|BGCOLOR(orangered):|[[メヌエット>難易度表/おに/メヌエット]]|''5.622''|130|528|93.92秒||
 |>|>|BGCOLOR(darkorchid):|[[PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]|''5.621''|150|656|116.70秒||
 |>|>|BGCOLOR(orangered):|[[戦国三弦COLOR(#006191):(玄人譜面)>難易度表/おに/戦国三弦]]|''5.614''|144|662|117.92秒|正確には''5.6141''|
