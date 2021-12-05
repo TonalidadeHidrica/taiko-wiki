@@ -1,9 +1,13 @@
 *&ruby(かいだん){χ談}; [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))||CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.9.3SP''|CENTER:PS4 1DL|CENTER:★×5|CENTER:''158''|CENTER:''373200点''|CENTER:＋連打|CENTER:740点|CENTER:218点|
-|CENTER:COLOR(#ff3300){真打}|~|~|~|CENTER:COLOR(#ff3300){''993780点''}|~|CENTER:COLOR(#ff3300){5760点}|CENTER:-|
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.9.3SP''|PS4 1DL|★×5|''158''|''373200点''|＋連打|740点|218点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''993780点''}|~|COLOR(#ff3300){5760点}|-|
+|AC16.1.0||~|~|''?????0点''|~|???0点|~|
+||iOS&br;AR|~|~|''?????0点''|~|740点|160点|
+
+***譜面構成・攻略 [#capture]
 -BPMは145〜''270''。
 
 ***その他 [#other]
@@ -12,7 +16,7 @@
 -曲名の読み方は、''かいだん''。(→[[ソース>http://twitter.com/Chiharu_v9/status/865045651993772033]])
 --[[「χ」はギリシャ文字であり、「かい」と読む>http://ja.wikipedia.org/wiki/%CE%A7]]。[[「x（エックス）」ではない>http://ja.wikipedia.org/wiki/X]]。
 --「怪談」とかけている。
-
+----
 -[[ふつう>難易度表/ふつう/χ談]]
 -[[むずかしい>難易度表/むずかしい/χ談]]
 -[[おに>難易度表/おに/χ談]]
@@ -22,5 +26,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船、ラストのHSは適当~
-&attachref(階段かんたん.png,nolink);
+~風船、ラストのHSは適当
+~&attachref(階段かんたん.png,nolink);

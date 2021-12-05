@@ -23,4 +23,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(ハウルむずかしい.png,nolink);
+~&attachref(ハウルむずかしい_2.png,nolink);

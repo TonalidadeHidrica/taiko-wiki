@@ -40,6 +40,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-BPMは暫定、全体的に揺れてます
-&br;8小節目は「85.3→72.8→63.9→59.3→51.1」
-&attachref(君に言われたくはないさ・・・.png,nolink);
+BPMは暫定、キャプチャから計測しました
+&attachref(ZERO.png,nolink);

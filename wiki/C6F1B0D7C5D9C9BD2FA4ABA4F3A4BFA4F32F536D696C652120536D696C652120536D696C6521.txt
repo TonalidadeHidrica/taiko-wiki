@@ -7,6 +7,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは''280''。
+-連打秒数目安・・・約1.696秒×2＝合計：約3.393秒
 
 ***その他 [#other]
 -アーティストは、[[''尾崎由香''>アーティスト別収録曲#ozaki]]。
@@ -23,4 +24,4 @@
 ***譜面 [#score]
 ~&attachref(smile3かんたん.png,nolink);
 ~BPMを140と見た場合
-~&attachref(笑3半か__.png,nolink);
+~&attachref(笑3半か___.png,nolink);
