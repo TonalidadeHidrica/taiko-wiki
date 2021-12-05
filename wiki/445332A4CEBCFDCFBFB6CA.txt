@@ -5,8 +5,7 @@
 -[[公式サイト>http://www.bandainamcogames.co.jp/cs/list/taiko_nds_daibouken/index.php]]
 -[[システム詳細>CSの歴史#ds2]]
 -[[毎日うでだめし道場>DS2の収録曲/毎日うでだめし道場(DS2)]]
--[[ストーリーモード>難易度表/その他#pa479531]]
---[[道場やぶり]]
+-[[ストーリーモード>DS2の収録曲/道場やぶり]]
 -[[演奏オプション一覧]]
 //-[[難易度順>http://www52.atwiki.jp/taikolevel/pages/27.html]]
 ----

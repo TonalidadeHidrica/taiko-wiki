@@ -4,6 +4,8 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:AC15.10.5SP|CENTER:''Wii U3SP''&br;PS Vita1DL|CENTER:★×7|CENTER:''363''|CENTER:''689220点''|CENTER:＋連打|CENTER:590点|CENTER:163点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''993240点''}|~|CENTER:COLOR(#ff3300){2710点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''?????0点''|~|CENTER:???0点|CENTER:-|
+
 -BPMは140〜162。
 --44小節から速度が少しずつ速くなり、50小節以降はBPM162になっている。
 -黄色連打が多い連打曲である。

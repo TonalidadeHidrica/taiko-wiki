@@ -5,7 +5,7 @@
 |CENTER:''AC15.6.2''|CENTER:''Wii U2DL''&br;PS Vita1|CENTER:★×6|CENTER:''190''|CENTER:''641920点''|＋連打|CENTER:920点|CENTER:295点|
 |CENTER:COLOR(#f30){真打}||~|~|CENTER:COLOR(#f30){''995540点''}|~|CENTER:COLOR(#f30){4710点}|CENTER:-|
 ||CENTER:''iOS&br;AR''|~|~|CENTER:''?????0点''|~|CENTER:900点|CENTER:220点|
-|AC16.1.2||~|~|''?????0点''|~|??0点|-|
+|AC16.1.1||~|~|''?????0点''|~|??0点|-|
 
 
 -BPMは160。

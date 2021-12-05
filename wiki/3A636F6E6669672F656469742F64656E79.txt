@@ -88,8 +88,11 @@
 
 //- bf1ec048ee3174e1ae582aff23f5cdea
 
-- 25af007975779d2cca5b1fc736d0770d
-- e477f722d23e58c5c0edf13621fa49d2
+//- 25af007975779d2cca5b1fc736d0770d
+//- e477f722d23e58c5c0edf13621fa49d2
+
+//4/23 PS4sage¥²¥Ï +1
+- a6e554dbdc8cef7ce743fd7c346d57ca
 
 //4/20
 - 639b9cd4bc3930881760682704e0a5b0
@@ -119,9 +122,6 @@
 
 //3/9 +3 mctv.ne.jp
 - c27e8f20b935eb4e4e1ff60b8cb0e678
-
-//3/5 PS4sage¥²¥Ï
-//- a6e554dbdc8cef7ce743fd7c346d57ca
 
 //2/26 ste¦Ì¼«±é¥³¥á¥ó¥È
 //- bda1ed1f00408533b38fb5dac6ee4b6d
