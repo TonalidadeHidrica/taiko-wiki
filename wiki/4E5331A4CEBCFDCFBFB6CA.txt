@@ -202,7 +202,7 @@
 ||''天国と地獄 序曲''&br;　　SIZE(11){オッフェンバック}|160※|[[★×4>難易度表/かんたん/天国と地獄 序曲]]|[[★×4>難易度表/ふつう/天国と地獄 序曲]]|[[★×5>難易度表/むずかしい/天国と地獄 序曲]]|[[★×6>難易度表/おに/天国と地獄 序曲]]&br;SIZE(10){譜面分岐}|-|
 |>|>|>|>|>|>|>|BGCOLOR(darkorchid):''ゲームミュージック''&aname(game);|
 //|''DL''|''Saika''&br;　　SIZE(11){NeLiME 「DEEMO」より}|128|[[★×3>難易度表/かんたん/Saika]]|[[★×4>難易度表/ふつう/Saika]]|[[★×6>難易度表/むずかしい/Saika]]|[[★×8>難易度表/おに/Saika]]|-|
-//|''DL''|''Leviathan''&br;　　SIZE(11){NeLiME 「DEEMO」より}||[[★×4>難易度表/かんたん/Leviathan]]|[[★×7>難易度表/ふつう/Leviathan]]|[[★×7>難易度表/むずかしい/Leviathan]]|[[★×9>難易度表/おに/Leviathan]]|-|
+//|''DL''|''Leviathan''&br;　　SIZE(11){NeLiME 「DEEMO」より}|88?-185|[[★×4>難易度表/かんたん/Leviathan]]|[[★×7>難易度表/ふつう/Leviathan]]|[[★×7>難易度表/むずかしい/Leviathan]]|[[★×9>難易度表/おに/Leviathan]]|-|
 //|''DL''|''Wish upon a shooting star''&br;　　SIZE(11){SUi 「DEEMO」より}||[[★×>難易度表/かんたん/Wish upon a shooting star]]|[[★×>難易度表/ふつう/Wish upon a shooting star]]|[[★×>難易度表/むずかしい/Wish upon a shooting star]]|[[★×>難易度表/おに/Wish upon a shooting star]]|-|
 //|''DL''|''MagiCatz''&br;　　SIZE(11){Sakuzyo 「DEEMO」より}||[[★×>難易度表/かんたん/MagiCatz]]|[[★×>難易度表/ふつう/MagiCatz]]|[[★×>難易度表/むずかしい/MagiCatz]]|[[★×>難易度表/おに/MagiCatz]]|-|
 //|''DL''|''ANiMA''&br;　　SIZE(11){xi 「DEEMO」より}||[[★×>難易度表/かんたん/ANiMA]]|[[★×>難易度表/ふつう/ANiMA]]|[[★×>難易度表/むずかしい/ANiMA]]|[[★×>難易度表/おに/ANiMA]]|-|

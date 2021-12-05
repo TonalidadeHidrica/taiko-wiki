@@ -756,7 +756,7 @@
 |654|[[GERMINATION>難易度表/おに/GERMINATION]]|BGCOLOR(orangered):ナムオリ|germin||
 |655|BGCOLOR(#ccc):[[Soup>難易度表/おに/Soup]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):lvsoup|BGCOLOR(#ccc):〜19/10/24　サヨナラ曲|
 |656|BGCOLOR(#ccc):[[Swan>難易度表/おに/Swan]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):alxswn|BGCOLOR(#ccc):〜19/10/24　サヨナラ曲|
-|657|[[ス・マ・イ・ル>難易度表/おに/ス・マ・イ・ル]]|BGCOLOR(orange):アニメ|hanakp|〜20/9/23　サヨナラ曲|
+|657|BGCOLOR(#ccc):[[ス・マ・イ・ル>難易度表/おに/ス・マ・イ・ル]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):hanakp|BGCOLOR(#ccc):〜20/9/23　サヨナラ曲|
 |658|[[ゆーがらお友達>難易度表/おに/ゆーがらお友達]]|BGCOLOR(orange):アニメ|ywyugr||
 |659|[[EXCITE>難易度表/おに/EXCITE]]|BGCOLOR(orange):アニメ|krexd||
 |660|[[エイリアンエイリアン>難易度表/おに/エイリアンエイリアン]]|BGCOLOR(darkgray):ボカロ|mikuaa||
@@ -791,7 +791,7 @@
 |689|[[ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|BGCOLOR(orangered):ナムオリ|ska||
 |690|非公開|BGCOLOR(#333):COLOR(white):非公開|非公開|推測：[[UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]（段位道場用、達人譜面固定） (?)|
 |691|BGCOLOR(beige):[[まださいたま2000>難易度表/おに/まださいたま2000]]|BGCOLOR(orangered):ナムオリ|BGCOLOR(beige):?|BGCOLOR(beige):段位道場用、達人譜面固定|
-|692|[[美女と野獣>難易度表/おに/美女と野獣]]|BGCOLOR(cyan):J-POP|bijoto|〜20/9/23　サヨナラ曲|
+|692|BGCOLOR(#ccc):[[美女と野獣>難易度表/おに/美女と野獣]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):bijoto|BGCOLOR(#ccc):〜20/9/23　サヨナラ曲|
 |693|[[誘惑>難易度表/おに/誘惑]]|BGCOLOR(cyan):J-POP|glyywk||
 |694|[[HOWEVER>難易度表/おに/HOWEVER]]|BGCOLOR(cyan):J-POP|glyhow||
 |695|[[拝啓ドッペルゲンガー>難易度表/おに/拝啓ドッペルゲンガー]]|BGCOLOR(darkgray):ボカロ|gumidp||
@@ -868,7 +868,7 @@
 |766|[[シンクロニシティ>難易度表/おに/シンクロニシティ]]|BGCOLOR(cyan):J-POP|ngzsnc||
 |767|[[時を待とう>難易度表/おに/時を待とう]]|BGCOLOR(orange):アニメ|ywtoki||
 |768|[[Over “Quartzer”>難易度表/おに/Over “Quartzer”]]|BGCOLOR(orange):アニメ|krzio||
-|769|[[DANZEN!ふたりはプリキュア〜唯一無二の光たち〜>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|BGCOLOR(orange):アニメ|pr9all|〜20/9/23　サヨナラ曲|
+|769|BGCOLOR(#ccc):[[DANZEN!ふたりはプリキュア〜唯一無二の光たち〜>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):pr9all|BGCOLOR(#ccc):〜20/9/23　サヨナラ曲|
 |770|[[ダンスロボットダンス>難易度表/おに/ダンスロボットダンス]]|BGCOLOR(darkgray):ボカロ|mikudd||
 |771|[[カンタービレ×パッシオーネ>難易度表/おに/カンタービレ×パッシオーネ]]|BGCOLOR(darkgray):ボカロ|mikucp||
 |772|[[ガラスを割れ！>難易度表/おに/ガラスを割れ！]]|BGCOLOR(cyan):J-POP|kykgrs||
