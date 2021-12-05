@@ -5,6 +5,7 @@
 ||CENTER:''PSPDX''|CENTER:★×3|CENTER:''120''|CENTER:''462960点''|CENTER:＋連打|CENTER:1200点|CENTER:360点|
 |CENTER:AC15.1.0||~|~|CENTER:''483950点''|~|~|CENTER:580点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){7480点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''992000点''|~|CENTER:8260点|CENTER:-|
 -BPMは140。
 -連打秒数目安・・・約0.607秒−約1.036秒−約1.679秒−約1.036秒−約1.679秒−''約1.036秒''×2−''約1.893秒''：合計10秒
 --[[White Rose Insanity(おに)>難易度表/おに/White Rose Insanity]]と合計秒数が同じく10秒で、合計秒数から平均秒速を求めることがしやすい。

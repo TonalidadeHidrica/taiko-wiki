@@ -5,7 +5,7 @@
 |CENTER:AC15.7.1|CENTER:''Wii U3DL''|CENTER:★×6|CENTER:''339''|CENTER:''788840点''|CENTER:＋連打|CENTER:670点|CENTER:180点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''991500点''}|~|CENTER:COLOR(#ff3300){2700点}|CENTER:-|
 ||CENTER:iOS|~|~|CENTER:''??????0点''|~|CENTER:??0点|CENTER:??0点|
-|AC16.1.0||~|~|''??????0点''|~|???点|-|
+|AC16.1.0||~|~|''993480点''|~|2920点|-|
 
 -BPMは126。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。

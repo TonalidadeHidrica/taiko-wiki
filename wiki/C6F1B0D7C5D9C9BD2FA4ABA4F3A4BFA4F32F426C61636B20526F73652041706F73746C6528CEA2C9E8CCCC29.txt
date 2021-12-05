@@ -1,12 +1,12 @@
 *Black Rose Apostle（裏譜面）[#Title]
 ***詳細・攻略 [#More]
 -Roseシリーズ第1弾。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii3SP''&br;PSPDXSP|CENTER:★×5|CENTER:''229''|CENTER:''369430点''|CENTER:＋連打|CENTER:450点|CENTER:120点|
--BPMは102〜204。
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii3SP''&br;PSPDXSP|★×5|''229''|''369430点''|+連打|450点|120点|
+-BPMは102-204。
 --[[僕たちの行方>難易度表/かんたん/僕たちの行方]]とBPMもBPM変化も同じである。
--コンボ数は[[ふつう（表譜面）>難易度表/ふつう/Black Rose Apostle]]を上回っている。
+-コンボ数は[[ふつう(表譜面)>難易度表/ふつう/Black Rose Apostle]]を上回っている。
 -[[表譜面>難易度表/かんたん/Black Rose Apostle]]と同じく★×5だが、79コンボもの差がある。
 --[[ふつう>難易度表/ふつう/Black Rose Apostle(裏譜面)]]とは85コンボ、[[むずかしい>難易度表/むずかしい/Black Rose Apostle(裏譜面)]]とは338コンボ離れている。
 -最初と中盤に速度変化があり、等速の4分が見かけ8分になっている。

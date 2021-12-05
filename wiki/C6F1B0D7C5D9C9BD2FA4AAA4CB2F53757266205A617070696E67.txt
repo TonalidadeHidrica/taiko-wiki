@@ -1,9 +1,10 @@
 *Surf Zapping [#title]
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |AC15.10.7SP|''3DS3DL''&br;PS4 1DL|★×10|''840''|''1203040点''|＋連打|420点|105点|
 |COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''1002280点''}|~|COLOR(#ff3300){1130点}|-|
+|AC16.1.0||~|~|''1000600点''|~|1190点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは100-200。

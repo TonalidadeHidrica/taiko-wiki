@@ -1,5 +1,4 @@
 *Taiko Session SIZE(16){〜Live Version〜} [#title]
-
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -29,5 +28,6 @@
 ***譜面 [#score]
 ~新譜面
 &ref(セッションふつう.png,nolink);
+
 ~旧譜面
 &ref(taikosession_n.png,nolink);

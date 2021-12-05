@@ -1,10 +1,11 @@
 *リッジでリッジで GO!GO!GO! -GMT mashup- SIZE(16){Hiro(SEGA)} [#title]
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15 超会議3Ver.''&br;AC15.4.8|★×9|''600''|''1085190点''|＋連打|510点|128点|
 |COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''986000点''}|~|COLOR(#ff3300){1480点}|-|
+|AC16.1.0|~|~|''991500点''|~|1650点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは146。

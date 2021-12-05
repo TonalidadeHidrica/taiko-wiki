@@ -6,6 +6,7 @@
 |CENTER:''AC15.5.1''|CENTER:Wii U2|CENTER:★×4|CENTER:''202''|CENTER:''544030点''|CENTER:＋連打|CENTER:790点|CENTER:265点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''993960点''}|~|CENTER:COLOR(#ff3300){4660点}|CENTER:-|
 ||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
+|CENTER:AC16.1.0||~|~|CENTER:''997860点''|~|CENTER:4930点|CENTER:-|
 -BPMは114。
 -連打秒数目安・・・約3.114秒−''約1.535秒'':合計約4.649秒
 --黄色連打は2本しかないが、1本あたりの長さが長い。
