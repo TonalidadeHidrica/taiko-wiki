@@ -1,6 +1,6 @@
 *DAY×DAY [#title]
 ***詳細・攻略 [#more]
--アニメ「''銀魂゜''」のOP14(通算)。
+-アニメ「[[''銀魂°''>アニメ別収録曲#gintama]]」のOP1。
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''Wii U3''&br;3DS3DL|CENTER:★×5|CENTER:''153''|CENTER:''577490点''|CENTER:＋連打|CENTER:1080点|CENTER:383点|
