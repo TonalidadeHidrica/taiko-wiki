@@ -1,10 +1,14 @@
 *もりのくまさん [#title]
 
-***詳細・攻略 [#more]
+***詳細 [#more]
 |>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|h
 |''Beena''|★×3|''87''|
+
+***譜面構成・攻略 [#capture]
 -BPMは130.5。
+
+***その他 [#other]
 -この[[もりのくまさん>http://www.wikihouse.com/taiko/index.php?%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A4%E2%A4%EA%A4%CE%A4%AF%A4%DE%A4%B5%A4%F3]]と同じ音源ではないので注意。
 ----
 -[[かんたん>難易度表/かんたん/もりのくまさん(Beena)]]

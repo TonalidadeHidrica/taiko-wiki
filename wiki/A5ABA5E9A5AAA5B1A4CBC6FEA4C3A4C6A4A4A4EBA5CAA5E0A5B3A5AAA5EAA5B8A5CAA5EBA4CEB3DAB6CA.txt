@@ -14,7 +14,7 @@
 --World tour version（MAX, f1, 響, fR）
 -[[虹色・夢色・太鼓色>難易度表/おに/虹色・夢色・太鼓色]]((ロングバージョンのみ))（MAX, f1, 響, fR）
 -[[Red Rose Evangel>難易度表/おに/Red Rose Evangel]](モバイル歌詞のみ=歌うことはできない)((Full ver.のみ))
--[[Growing Up>難易度表/おに/Growing Up]]((フルバージョンのみ)
+-[[Growing Up>難易度表/おに/Growing Up]]((Full ver.のみ))
 -[[きっと もっと ずっと>難易度表/おに/きっと　もっと　ずっと]]（MAX, f1, CROSSO, WAVE）
 
 ・予定の曲([[ナムコオリジナル曲のリクエスト状況>http://joysound.com/ex/utasuki/request/sorry.htm?sortkey=1&offset=0&searchKbn=2&searchKeyword=NBGI&statusKbn=]])は

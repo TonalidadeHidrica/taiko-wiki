@@ -6,7 +6,6 @@
 -[[公式サイト>http://taiko3ds.namco-ch.net/]]
 -[[開発日記>https://web.archive.org/web/20161110125329/http://taikoblog.namco-ch.net/blog/cat30]]
 -[[システム詳細>CSの歴史#n3ds1]]
-//-[[ストーリーモード>3DS1の収録曲/ちびドラゴンと不思議なオーブ]]
 -[[スタンプ帳>3DS1の収録曲/スタンプ帳]]
 -[[演奏オプション一覧]]
 -[[音色の一覧]]
