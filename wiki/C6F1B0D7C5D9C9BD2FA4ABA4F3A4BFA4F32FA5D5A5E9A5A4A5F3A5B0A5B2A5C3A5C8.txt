@@ -9,7 +9,6 @@
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''986280点''}|~|CENTER:COLOR(#ff3300){8660点}|CENTER:-|
 ||CENTER:PSPDXDL&br;iOS|~|~|CENTER:''284120点''|~|CENTER:830点|CENTER:290点|
 |CENTER:AC16.1.0||~|~|CENTER:''994000点''|~|CENTER:9930点|CENTER:-|
-
 -BPMは131。
 -黄色連打がかなり多い連打曲である。
 -[[ふつう>難易度表/ふつう/フライングゲット]]とは難易度であまり差が無く、コンボ数も''21コンボ''しか離れていない。 
@@ -20,11 +19,10 @@
 -アーティストは、''AKB48''。
 -曲IDは、''akbfly''
 -[[キミドリVer.段位道場>過去の段位道場#kimidori]]の初級2曲目課題曲となった。
-
 -[[ふつう>難易度表/ふつう/フライングゲット]]
 -[[むずかしい>難易度表/むずかしい/フライングゲット]]
 -[[おに>難易度表/おに/フライングゲット]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=tsLaGaVnBMo]]
+-[[オート動画>https://www.youtube.com/watch?v=tsLaGaVnBMo]]
 
 ***コメント [#comment]
 #pcomment(,noname)

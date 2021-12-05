@@ -19,11 +19,10 @@
 ***その他 [#other]
 -アーティストは、''三代目 J Soul Brothers from EXILE TRIBE''。
 --作詞は、STY。作曲は、STY・Maozon。
-
 -[[かんたん>難易度表/かんたん/R.Y.U.S.E.I.]]
 -[[ふつう>難易度表/ふつう/R.Y.U.S.E.I.]]
 -[[おに>難易度表/おに/R.Y.U.S.E.I.]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=Hvb9UKnj2qY]]
+-[[オート動画>http://www.youtube.com/watch?v=Hvb9UKnj2qY]]
 
 ***コメント [#comment]
 #pcomment(,noname)

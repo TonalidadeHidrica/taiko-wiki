@@ -1,10 +1,11 @@
 *Evidence of evil [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.5.5''|CENTER:3DS2DL&br;Wii U3DL&br;PS Vita1DL|CENTER:★×7|CENTER:''391''|CENTER:''691160点''|CENTER:＋連打|CENTER:500点|CENTER:135点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''995920点''}|~|CENTER:COLOR(#ff3300){2270点}|CENTER:-|
 ||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
+
+***譜面構成・攻略 [#capture]
 -BPMは180。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。
 -大音符が多く、45個ある（全体の約11.5%）。
@@ -25,7 +26,7 @@
 -アーティストは、''AJURIKA(遠山明孝)''。現在はこの名義で統一している。
 -譜面作成は、''くぼけん''([[彼のツイート>https://twitter.com/shiropokko/status/539797291821846528]]、2015/3/10の生放送)。
 --自身初の全コース最高難易度の曲である。
-
+----
 -[[かんたん>難易度表/かんたん/Evidence of evil]]
 -[[むずかしい>難易度表/むずかしい/Evidence of evil]]
 -[[おに>難易度表/おに/Evidence of evil]]

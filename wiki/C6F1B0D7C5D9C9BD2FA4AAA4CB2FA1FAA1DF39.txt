@@ -11,7 +11,7 @@
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンルを選択すると新筐体のそのジャンルに移動します)|
 |BGCOLOR(cyan):[[COLOR(black){%%%''ポップス''%%%}>#jpop]]|BGCOLOR(hotpink):[[COLOR(black){%%%''アニメ''%%%}>#anime]]|BGCOLOR(silver):[[COLOR(black){%%%''ボーカロイド&#8482;曲''%%%}>#vocalo]]|BGCOLOR(yellow):[[COLOR(black){%%%''キッズ''%%%}>#kidsfalk]]|BGCOLOR(gold):[[COLOR(black){%%%''クラシック''%%%}>#classic]]|BGCOLOR(darkorchid):[[COLOR(black){%%%''ゲーム&バラエティ''%%%}>#gm]]|BGCOLOR(orangered):[[COLOR(black){%%%''ナムコ&br;オリジナル''%%%}>#namco]]|''合計''|
-|   ''8''曲&br;''8''譜面   |   ''18''曲&br;''18''譜面   |   ''22''曲&br;''23''譜面   |   ''8''曲&br;''8''譜面   |   ''8''曲&br;''8''譜面   |   ''73''曲&br;''73''譜面   |   ''109''曲&br;''112''譜面   |   ''216''曲&br;''220''譜面   |
+|   ''8''曲&br;''8''譜面   |   ''18''曲&br;''18''譜面   |   ''22''曲&br;''23''譜面   |   ''8''曲&br;''8''譜面   |   ''8''曲&br;''8''譜面   |   ''74''曲&br;''74''譜面   |   ''109''曲&br;''112''譜面   |   ''217''曲&br;''221''譜面   |
 
 |||LEFT:140|c
 |曲名(五十音順)|BPM((※があるものは細かなBPM変化がある))|最大コンボ数|h
@@ -90,6 +90,7 @@
 |[[ALiVE>難易度表/おに/ALiVE]]|170|''830''|
 |[[Asteroid>難易度表/おに/Asteroid]]|144-288|''784''|
 |[[IN THE ZONE>難易度表/おに/IN THE ZONE]]|172※|''765''|
+|[[Wish upon a shooting star>難易度表/おに/Wish upon a shooting star]]|128|''618''|
 |[[Wings of Tomorrow(Tatsujin Mix)>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]|160※|''765''|
 |[[Where is the Target?>難易度表/おに/Where is the Target？]]|222.93-229.89※|''546''|
 |[[Extreme MGG★★★(裏譜面)>難易度表/おに/Extreme MGG★★★(裏譜面)]]|120-240|''757''|
