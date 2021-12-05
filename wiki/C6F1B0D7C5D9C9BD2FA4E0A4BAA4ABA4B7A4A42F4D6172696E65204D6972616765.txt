@@ -6,8 +6,8 @@
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.10.10''|BGCOLOR(lime):''バラエティ''|★×3|''227''|''633470点''|＋連打|780点|228点|
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){3970点}|-|
-|AC16.1.0|BGCOLOR(hotpink):''アニメ''|~|~|''?????0点''|~|??0点|-|
-|~|BGCOLOR(darkorchid):''ゲーム&&br;バラエティ''|~|~|~|~|~|~|
+|AC16.1.0|BGCOLOR(hotpink):''アニメ''|~|~|''?????0点''|~|???0点|-|
+|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは170。
@@ -25,11 +25,11 @@
 -[[かんたん>難易度表/かんたん/Marine Mirage]]
 -[[ふつう>難易度表/ふつう/Marine Mirage]]
 -[[おに>難易度表/おに/Marine Mirage]]
--[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=wWhoB3a7iLI]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=wWhoB3a7iLI]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船・くすだまの長さは暫定
-&attachref(海の希望むずかしい.png,nolink);
+~風船・くすだまの長さは暫定
+~&attachref(海の希望むずかしい.png,nolink);

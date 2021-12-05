@@ -1,4 +1,5 @@
 *UNDEAD HEART(怒りのWarriors) [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -21,7 +22,7 @@
 
 ***その他 [#other]
 -[[''全コース''>太鼓ギネス/その他#highestdifficulty]][[''最高難易度曲''>全コース最高難易度曲一覧]]である。
--[[おに(達人譜面)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]とはコンボ数が''605''も離れており、[[≠M>難易度表/むずかしい/≠MM]][[M>難易度表/おに/≠MM]]を抜いて、むずかしいとおにとのコンボ差が最も大きい表譜面である。
+-[[おに(達人譜面)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]とはコンボ数が''605''も離れており、[[≠M>難易度表/むずかしい/≠MM]][[M>難易度表/おに/≠MM]]を抜いて、むずかしい・おにとのコンボ差が最も大きい表譜面である。
 -演奏時間が約2分13秒とやや長め。
 -曲名の読みは、''アンデッド ハート(いかりのウォリアーズ)''。
 --warriorとは「武士」「戦士」などを意味する。
@@ -34,7 +35,7 @@
 -[[かんたん>難易度表/かんたん/UNDEAD HEART(怒りのWarriors)]]
 -[[ふつう>難易度表/ふつう/UNDEAD HEART(怒りのWarriors)]]
 -[[おに>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]
--[[オート動画>https://www.youtube.com/watch?v=AXNrBZTEcE0]]
+-[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=c43ubIZRLwc&t=21s]]
 
 ***コメント [#comment]
 #pcomment(,noname)

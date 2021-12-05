@@ -1,12 +1,14 @@
 *ラ・カンパネラ [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
+
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 ||CENTER:''PSP2''|CENTER:★×4|CENTER:''102''|CENTER:''341580点''|CENTER:＋連打|CENTER:800点|CENTER:390点|
 ||CENTER:DS2|~|~|CENTER:''279140点''|~|CENTER:760点|CENTER:290点|
 |CENTER:AC13|CENTER:Wii2&br;iOS|~|~|CENTER:''353780点''|~|CENTER:970点|CENTER:370点|
 ||CENTER:NS1DL|~|~|CENTER:''357920点''|~|CENTER:1000点|CENTER:600点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){8830点}|CENTER:-|
+
+***譜面構成・攻略 [#capture]
 -BPMは約78〜117。
 --速度変化が激しく、可を出しやすい。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -21,11 +23,11 @@
 --リストのパガニーニ大練習曲第3番嬰ト短調。作曲者のフランツ・リストは自身の技術を披露するため、難しい(超絶技巧)ピアノ曲を多く作曲した。この曲もそのうちの一つ。
 --世界一難しいピアノ曲''の方ではない''。
 -曲IDは、''clscam''
-
+----
 -[[ふつう>難易度表/ふつう/ラ・カンパネラ]]
 -[[むずかしい>難易度表/むずかしい/ラ・カンパネラ]]
 -[[おに>難易度表/おに/ラ・カンパネラ]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=EDSpgjFsL3Q]]
+-[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=EDSpgjFsL3Q]]
 
 *** コメント [#comment]
 #pcomment(,noname)

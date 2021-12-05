@@ -13,7 +13,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは約107〜''320''。
--連打秒数目安・・・0.734秒−''0.842秒''(イモ/でんでん/風船連打、ボーナス6000の場合では0.609秒)：合計約1.576秒
+-連打秒数目安・・・約0.734秒−''約0.842秒''(イモ/でんでん/風船連打、ボーナス6000の場合では0.609秒)：合計約1.576秒
 -見かけ上の最大BPMは連打を除き約160であるが、下の譜面画像にもある通り内部のデータ上はゴーゴータイムの基本BPMは約320で、そこにHS0.5がかかって表示されている。
 --ゴーゴータイムでのキャラクター達の動きを見ればそれがわかる。
 -2回あるAメロでは1小節ごとに減速していき、戻る直前には[[ボレロ>難易度表/おに/ボレロ]]並の速度・密度になる(実際の速さは変わらない)。低速地帯は見にくいがリズムは分かりやすい。ここが回復地帯と思えなければこの曲に挑むのはまだ早いだろう。暗記するのも手。
@@ -77,8 +77,8 @@
 -[[開発日記(楽曲編・アーカイブ)>https://web.archive.org/web/20170715054134/http://taikoblog.namco-ch.net/blog/2010/03/post_146.html]]
 -[[開発日記(譜面編・アーカイブ)>https://web.archive.org/web/20170715054819/http://taikoblog.namco-ch.net/blog/2010/02/post_143.html]]
 -[[歌詞紹介(アーカイブ)>https://web.archive.org/web/20170715130017/http://taikoblog.namco-ch.net/lyrics/2010/03/post_28.html]]
--[[オート動画(Wii4)>https://www.youtube.com/watch?v=hUlat6fMIGA]]
--[[プレイ動画(AC15)>https://www.youtube.com/watch?v=mP_9KIqGl-s]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=qMlhgrRDm0E&t=13s]]
+-[[オート動画(Wii U3)>https://www.youtube.com/watch?v=TwnI_Dr2MpI]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -90,7 +90,9 @@
 ~DS3ではHS1の部分に全てHS1.12がかかっている
 ~HS1→1200点ボーナス
 &ref(hatara_m.png,nolink);
+
 ~見た目重視
 &ref(mitamehataraku2.png,nolink);
+
 ~参考画像
 &attachref(ほたラク.png,nolink);
