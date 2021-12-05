@@ -1,9 +1,9 @@
 *last cross [#title]
 -[[「''家庭教師ヒットマンREBORN!''」>アニメ別収録曲#reborn]]のOP5。
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC12亜''|★×7|''311''|''991080点''|+連打|920点|230点|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12亜''|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|★×7|''311''|''991080点''|+連打|920点|230点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは146。

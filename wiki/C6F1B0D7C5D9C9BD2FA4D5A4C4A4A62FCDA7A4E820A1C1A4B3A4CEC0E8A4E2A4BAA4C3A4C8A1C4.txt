@@ -4,7 +4,7 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.8.2''|CENTER:3DS3DL|CENTER:★×4|CENTER:''165''|CENTER:''545010点''|CENTER:＋連打|CENTER:990点|CENTER:348点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''994900点''}|~|CENTER:COLOR(#ff3300){5600点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|
+||CENTER:iOS|~|~|CENTER:''537480点''|~|CENTER:930点|CENTER:260点|
 -BPMは127。
 -連打秒数目安・・・0.906秒−1.378秒×2：合計約3.662秒
 -4分の複合が主体の譜面で、8分も数がかなり多い。
@@ -30,4 +30,4 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-&attachref(Friend_normal.png,nolink);
+&attachref(Friend_n.png,nolink);

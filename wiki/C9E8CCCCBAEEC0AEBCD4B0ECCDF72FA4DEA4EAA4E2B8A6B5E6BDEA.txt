@@ -54,5 +54,7 @@
 ---[[魔導幻想曲>難易度表/おに/魔導幻想曲]]
 ---[[シン・ゾンビ>難易度表/おに/シン・ゾンビ]]
 ---[[マキシフュージョン>難易度表/おに/マキシフュージョン]]
+---[[HOWEVER>難易度表/おに/HOWEVER]]
+---[[Calamity Fortune>難易度表/おに/Calamity Fortune]]/[[裏譜面>難易度表/おに/Calamity Fortune(裏譜面)]]
 ***コメント[#comment]
 #pcomment(,noname)

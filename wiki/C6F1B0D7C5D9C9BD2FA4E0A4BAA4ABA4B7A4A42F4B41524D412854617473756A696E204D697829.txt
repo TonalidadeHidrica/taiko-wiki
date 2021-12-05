@@ -1,14 +1,17 @@
-*KARMA (Tatsujin Mix) [#title]
-***詳細・攻略 [#more]
+*KARMA(Tatsujin Mix) [#title]
 -バンダイナムコゲームス「[[''鉄拳6 BLOODLINE REBELLION''>http://www.tekken-official.jp/tk6ac/index.html]]」の楽曲を太鼓の達人向けに再編集した曲。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14SP''||CENTER:★×8|CENTER:''472''|CENTER:''888640点''|CENTER:＋連打|CENTER:450点|CENTER:100点|
-||CENTER:PSPDX|~|~|CENTER:''887440点''|~|~|~|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''901060点''}|~|CENTER:COLOR(#ff3300){1540点}|CENTER:-|
-||CENTER:Wii5SP|~|CENTER:''473''|CENTER:''887560点''|~|CENTER:480点|CENTER:115点|
-|CENTER:AC15.10.4||CENTER:★×7|CENTER:''472''|CENTER:''841730点''|~|CENTER:460点|CENTER:108点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){1710点}|CENTER:-|
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC14SP''||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|''472''|''888640点''|＋連打|450点|100点|
+||PSPDX|~|~|~|''887440点''|~|~|~|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''901060点''}|~|COLOR(#ff3300){1540点}|-|
+||Wii5SP|~|~|''473''|''887560点''|~|480点|115点|
+|AC15.10.4|NS1DL|~|★×7|''472''|''841730点''|~|460点|108点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){1710点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???0点|‐|
+
+***譜面構成・攻略 [#capture]
 -BPMは約145。
 -黄色連打が多く、中盤には芋連打が35→40→45→50打と4ヵ所ある。2Pプレイの場合、連打によってはかなりの高スコアが狙えるだろう。
 -大音符が多く、67個ある（全体の約14.2％）。
@@ -22,7 +25,7 @@
 
 ***その他 [#other]
 -サブタイトル表記は以下の通り。
---AC14、新筐体ブルー以降：''「鉄拳6 BLOODLINE REBELLION」より''
+--AC14、新筐体ブルー以降、NS1：''「鉄拳6 BLOODLINE REBELLION」より''
 --PSPDX：''「鉄拳6」より''
 --Wii5：記載なし
 -アーティストは、''遠山明孝''(AJURIKA)。
@@ -30,7 +33,7 @@
 -曲IDは、''teken6''。
 -新基準ではWii5、ACでは14以来長らく収録されてなかったが、2018年8月8日にてブルーVer.に収録を果たすこととなった。
 --新基準対応作品に収録されるのは''約6年ぶり''、ACに収録されるのは''約8年ぶり''となる。
-
+----
 -[[かんたん>難易度表/かんたん/KARMA(Tatsujin Mix)]]
 -[[ふつう>難易度表/ふつう/KARMA(Tatsujin Mix)]]
 -[[おに>難易度表/おに/KARMA(Tatsujin Mix)]]

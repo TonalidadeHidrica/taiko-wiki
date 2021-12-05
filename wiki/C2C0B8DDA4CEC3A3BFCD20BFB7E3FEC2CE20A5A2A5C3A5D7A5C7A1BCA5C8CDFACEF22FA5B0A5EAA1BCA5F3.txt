@@ -76,15 +76,12 @@
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Nesin Amatias''>難易度表/おに/Nesin Amatias]]|
 |~|COLOR(orange):''再''|[[''黄ダルマ2000''>難易度表/おに/黄ダルマ2000]]|
 |~|COLOR(orange):''再''|[[''よくでる15300''>難易度表/おに/よくでる15300]]|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/6配信曲''|h
 |BGCOLOR(lime):''バラエティ''|COLOR(blue):''初''|[[''FREEDOM DiVE↓''>難易度表/おに/FREEDOM DiVE↓]]|xi|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/13配信曲''|h
 |BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''Pixel Galaxy''>難易度表/おに/Pixel Galaxy]]|Snail’s House|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/20配信曲''|h
 |BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''Altale''>難易度表/おに/Altale]]|削除|
@@ -107,15 +104,12 @@
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''5/1配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Dragoon''>難易度表/おに/Dragoon]]|Massive New Krew|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''5/2配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''ラヴ&#9825;スパイス&#9825;ライクユー!!!''>難易度表/おに/ラヴ・スパイス・ライクユー!!!]]|DJ Genki feat.ななひら,yukacco,藍月なくる|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''5/3配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''或ル不和''>難易度表/おに/或ル不和]]|aran|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''5/18配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''星屑ストラック''>難易度表/おに/星屑ストラック]]|t+pazolite|
@@ -224,16 +218,13 @@
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''8/1配信曲''|h
 |BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''B.B.K.K.B.K.K.''>難易度表/おに/B.B.K.K.B.K.K.]]|nora2r|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''8/6配信曲''|h
 |BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''もぺもぺ''>難易度表/おに/もぺもぺ]]|LeaF|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''8/20配信曲''|h
 |BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''Dreadnought''>難易度表/おに/Dreadnought]]|Mastermind(xi+nora2r)|
 |~|COLOR(red):''新''|[[''Dreadnought(裏譜面)''>難易度表/おに/Dreadnought(裏譜面)]]|~|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''8/23配信曲''|h
 |BGCOLOR(orange):''アニメ''|COLOR(red):''新''|[[''MOIL''>難易度表/おに/MOIL]]|須田景凪&br;映画「二ノ国」より|

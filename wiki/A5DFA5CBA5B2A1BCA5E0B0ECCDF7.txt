@@ -279,6 +279,7 @@
 -BGMは六代目の「[[まきわってグー！>#maki]]」。
 ***おみこしバトル [#omikosi]
 -PSPDXストーリーモードのリメイク。
+-BGMは[[One Night Carnival>難易度表/おに/One Night Carnival]]、辛口は[[CHA-LA HEAD-CHA-LA>難易度表/おに/CHA-LA HEAD-CHA-LA]]。
 ***だるま落とし [#daruma]
 ***のびのびもちつき [#mochi]
 -BGMはPS3「のびのびBOY」のメインテーマ。

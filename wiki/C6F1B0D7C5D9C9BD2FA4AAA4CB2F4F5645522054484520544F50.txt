@@ -34,4 +34,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(1psovt_m.png,nolink);
+~&attachref(1psovt_m²ş¹Ô.png,nolink);

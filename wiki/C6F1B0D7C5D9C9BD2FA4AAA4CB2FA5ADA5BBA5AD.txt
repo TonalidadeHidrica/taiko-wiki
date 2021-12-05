@@ -49,4 +49,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~DS3ではHS0.92がかかっている
 ~&attachref(kiseki.png,nolink);

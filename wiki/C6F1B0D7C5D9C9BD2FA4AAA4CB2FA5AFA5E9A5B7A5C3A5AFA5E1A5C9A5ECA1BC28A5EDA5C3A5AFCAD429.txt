@@ -64,8 +64,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score] 
-PS4 1では★×8。
+~PS4 1、AC16では★×8。
 &attachref(wii5.png,nolink);
 
-旧譜面&br;BPMは新譜面を参照&br;29小節の大音符は1/2拍子後ろ
+~旧譜面&br;BPMは新譜面を参照&br;29小節の大音符は1/2拍子後ろ
 &attachref(clsroldf.png,nolink);

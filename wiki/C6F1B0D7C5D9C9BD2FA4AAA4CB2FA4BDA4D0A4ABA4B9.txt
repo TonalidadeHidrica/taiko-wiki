@@ -19,6 +19,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは171。
+--旧音源のBPMは170。
 -連打秒数目安…0.497秒×4−1.373秒−1.023秒−''0.848秒''×2：計4.735秒
 -現行の譜面はCS5の前奏部分の譜面を少し弄っただけ。
 -12分が主体のハネリズムな譜面。
@@ -30,6 +31,7 @@
 ***その他 [#other]
 -アーティストは、''JUDY AND MARY''。
 --作詞は、YUKI。作曲は、恩田快人。
+-旧音源(AC5,6)は原曲よりもキーが低くなっている。(→[[参考動画>https://www.youtube.com/watch?v=uM-pPMT90L4]])
 -''2014年11月5日(水)7:00を以てACから再びサヨナラになった''。
 --家庭用作品では、以下の日時を以て新規DLができなくなった。
 ---2015年9月30日(水)、''PSPDX''
@@ -39,19 +41,26 @@
 -[[かんたん>難易度表/かんたん/そばかす]]
 -[[ふつう>難易度表/ふつう/そばかす]]
 -[[むずかしい>難易度表/むずかしい/そばかす]]
--[[オート動画(新譜面)>https://www.youtube.com/watch?v=zmJzwNZfOW8]]
+-[[オート動画(現行譜面)>https://www.youtube.com/watch?v=zmJzwNZfOW8]]
 -[[プレイ動画(旧譜面)>https://www.youtube.com/watch?v=lEJ7w_UHkKE]]
--[[プレイ動画(旧々譜面)>https://www.youtube.com/watch?v=fvvQy6b9coc]]
+-[[プレイ動画(旧々譜面)>https://www.youtube.com/watch?v=31KsJJU3DuQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-【新譜面】&br;iOSでは、芋音符が風船音符に変更されている。
-&attachref(soba_ff.png,nolink);
+~[[COLOR(#333){''【現行譜面】''}>#new]] − [[COLOR(#215dc6){【旧譜面】}>#old]] − [[COLOR(#215dc6){【旧々譜面】}>#oldold]] − [[COLOR(#215dc6):【全譜面比較】>#all]]&aname(new);
+~iOSでは、芋音符が風船音符に変更されている。
+~&attachref(soba_ff.png,nolink);
 
-~【旧譜面】
-&attachref(sobakasuCS5_ff2.png,nolink);
+~[[COLOR(#215dc6){【現行譜面】}>#new]] − [[COLOR(#333){''【旧譜面】''}>#old]] − [[COLOR(#215dc6){【旧々譜面】}>#oldold]] − [[COLOR(#215dc6):【全譜面比較】>#all]]&aname(old);
+~BPMは171
+~&attachref(sobakasuCS5_ff2.png,nolink);
 
-~【旧々譜面】
-&attachref(sobakasuAC5_ff.png,nolink);
+~[[COLOR(#215dc6){【現行譜面】}>#new]] − [[COLOR(#215dc6){【旧譜面】}>#old]] − [[COLOR(#333){''【旧々譜面】''}>#oldold]] − [[COLOR(#215dc6):【全譜面比較】>#all]]&aname(oldold);
+~&attachref(sobakasuAC5_ff.png,nolink);
+
+~[[COLOR(#215dc6){【現行譜面】}>#new]] − [[COLOR(#215dc6){【旧譜面】}>#old]] − [[COLOR(#215dc6){【旧々譜面】}>#oldold]] − [[COLOR(#333):''【全譜面比較】''>#all]]&aname(all);
+~普通：AC5,6(BPMは140、ゴーゴーはなし)&br;玄人：CS5&br;達人：現行譜面
+~9小節以降のCS5は現行と同じのため省略
+~&attachref(sobakasu_比較.png,nolink);

@@ -1,20 +1,29 @@
-*independent [#l803443f]
-***攻略・詳細 [#w818a73c]
--詳細は以下の通り:
-|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|h
-|CENTER:''AC4''|CENTER:★×7|CENTER:''453''|''711000点''|＋連打|
--BPMは149。
+*independent [#title]
+-日本テレビ放送網「''THE BASEBALL 2002''」イメージソング。
+
+***詳細 [#more]
+|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|h
+|''AC4''|★×7|''453''|''711000点''|＋連打|
+
+***譜面構成・攻略 [#capture]
+-BPMは150。
 -面の3連打が多く、中盤からはCOLOR(red){●●}COLOR(blue){●}やCOLOR(red){●●●●}COLOR(blue){●}といった複合も登場する。
 -[[むずかしいコース>難易度表/むずかしい/independent]]の達人譜面もこの譜面。
--アーティストは[[UNITE!>難易度表/おに/UNITE!]]や[[July 1st>難易度表/おに/July 1st]]と同じ''浜崎あゆみ''。
+-平均密度は、''約4.65打/秒''。
+
+***その他 [#other]
+-アーティストは、[[UNITE!>難易度表/おに/UNITE!]]や[[July 1st>難易度表/おに/July 1st]]と同じ''[[浜崎あゆみ>アーティスト別収録曲#ayumi]]''。
 -譜面作成は、[[''こはらー''>譜面作成者一覧/こはらー]]。
+-曲IDは、''inde''。
+----
 -[[かんたん>難易度表/かんたん/independent]]
 -[[ふつう>難易度表/ふつう/independent]]
 -[[むずかしい>難易度表/むずかしい/independent]]
 -[[プレイ動画>http://www.youtube.com/watch?v=XS6kDAx4EwU]]
 
-***コメント [#t2ad8700]
+***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(independent2.png,nolink);
+&attachref(independent3.png,nolink);

@@ -1,12 +1,12 @@
 *夢と希望 [#title]
--Microsoft Windows・OS X / PS4 / PS Vita / Nintendo Switch用ソフト「[[''UNDERTALE''>ゲーム別収録曲#undertale]]」に登場するCOLOR(#ffffff){アズリエル・ドリーマー}戦((ネタバレ防止のため反転している。反転部分をドラッグ＆ドロップで選択したり、メモ帳等にコピー＆ペーストしたりすると見えるようになる。))の戦闘BGM。
+-Microsoft Windows・OS X / PS4 / PS Vita / Nintendo Switch用ソフト「[[''UNDERTALE''>ゲーム別収録曲#undertale]]」に登場するボス戦の戦闘BGM。
 --英語版では、原題の「''Hopes and Dreams''」表記となっている。
 ***詳細 [#more]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-||''NS1DL''&br;PS4 1DL|★×8|COLOR(#909):''694&br;COLOR(#069):597''|''1041320点''|＋連打|430点|110点|
-||COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''992900点''}|~|COLOR(#ff3300){1400点}|-|
-|AC16.1.0||~|~|''988680点''|~|1420点|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.11.6((アジア版))|''NS1DL''&br;PS4 1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|COLOR(#909):''694&br;COLOR(#069):597''|''1041320点''|＋連打|430点|110点|
+||COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''992900点''}|~|COLOR(#ff3300){1400点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''988680点''|~|1420点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約170〜176。

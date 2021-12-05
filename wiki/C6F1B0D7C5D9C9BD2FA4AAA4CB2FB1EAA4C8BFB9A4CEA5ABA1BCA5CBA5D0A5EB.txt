@@ -16,13 +16,14 @@
 --''[[本人音源>本人音源曲]]''である。
 --作詞・作曲は、Fukase。編曲は、SEKAI NO OWARI・CHRYSANTHEMUM BRIDGE。
 -同アーティストの曲の中では唯一CS限定である。
+-曲IDは、''skohmc''。
 ----
 -[[かんたん>難易度表/かんたん/炎と森のカーニバル]]
 -[[ふつう>難易度表/ふつう/炎と森のカーニバル]]
 -[[むずかしい>難易度表/むずかしい/炎と森のカーニバル]]
 //-[[オート動画(全難易度)>http://www.nicovideo.jp/watch/sm24952551]](niconico)((画面の比率がおかしい))
 //-[[オート動画(太鼓音のみ)>http://www.youtube.com/watch?v=IGABvdRHXp0]]
--[[オート動画>http://www.nicovideo.jp/watch/sm33971453?from=369]]
+-[[オート動画(niconico)>http://www.nicovideo.jp/watch/sm33971453?from=369]]
 
 ***コメント [#comment]
 #pcomment(,noname)

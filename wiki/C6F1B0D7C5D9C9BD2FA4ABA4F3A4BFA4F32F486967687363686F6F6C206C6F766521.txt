@@ -1,10 +1,12 @@
 *Highschool love! [#title]
-***詳細・攻略 [#more]
 -「''鉄拳タッグトーナメント2 Wii U エディション''」の楽曲。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.3.0''|CENTER:Wii U1&br;NS1SP|CENTER:★×3|CENTER:''111''|CENTER:''318990点''|CENTER:＋連打|CENTER:870点|CENTER:198点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:CENTER:COLOR(#ff3300){8000点}|CENTER:-|
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.3.0''|Wii U1&br;NS1SP|★×3|''111''|''318990点''|＋連打|870点|198点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){8000点}|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは約138。
 -黄色連打がかなり多い連打曲である。
 -速度は少し遅めだが、全体的に4分がかなり多い。
@@ -19,7 +21,7 @@
 -譜面作成は、[[''カーン''>譜面作成者一覧/カーン]]。
 -J-POPの[[Highschool&#9825;love>難易度表/かんたん/Highschool・love]]とは別の曲であるため注意。
 -曲IDは、''tekwiu''
-
+----
 -[[ふつう>難易度表/ふつう/Highschool love!]]
 -[[むずかしい>難易度表/むずかしい/Highschool love!]]
 -[[おに>難易度表/おに/Highschool love!]]
@@ -29,5 +31,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船の長さは暫定&br;黄色連打は下の画像より48分音符1つ分短い
-~&attachref(hisch_e.png,nolink);
+~風船の長さは暫定&br;黄色連打は下の画像より48分音符1つ分短い
+&attachref(hisch_e.png,nolink);

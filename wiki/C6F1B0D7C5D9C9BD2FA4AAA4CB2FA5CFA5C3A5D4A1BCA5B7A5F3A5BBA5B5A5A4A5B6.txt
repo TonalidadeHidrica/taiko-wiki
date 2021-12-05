@@ -27,4 +27,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(hapsyn_2.png,nolink);
+&attachref(hapsyn_z.png,nolink);

@@ -219,5 +219,3 @@
 -[[歩いていこう>難易度表/おに/歩いていこう]]（DL）
 -[[Switch On!>難易度表/おに/Switch On!]]（DL）
 -[[COLOR(green){キセキ}>難易度表/おに/キセキ]]（DL）
-***コメント[#comment]
-#pcomment(,noname)

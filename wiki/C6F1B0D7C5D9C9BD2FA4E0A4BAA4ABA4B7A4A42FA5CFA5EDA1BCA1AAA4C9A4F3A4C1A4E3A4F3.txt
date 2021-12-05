@@ -7,7 +7,7 @@
 |CENTER:AC2,3||>|>|>|>|>|CENTER:''ドンだフル！コースのみ''|
 ||CENTER:CS1|CENTER:★×4|CENTER:''325''|CENTER:''?????0点''|CENTER:＋連打|CENTER:720点|CENTER:170点|
 ||CENTER:Wii4SP|~|CENTER:''309''|CENTER:''692490点''|~|CENTER:650点|CENTER:160点|
-|CENTER:AC16.1.0||CENTER:★×6|~|CENTER:''??????点''|~|CENTER:3230点|CENTER:-|
+|CENTER:AC16.1.0||CENTER:★×6|~|CENTER:''998070点''|~|CENTER:3230点|CENTER:-|
 
 -BPMは約140。
 -全体的に裏拍配置が多く、リズムが取りづらい。
@@ -34,7 +34,7 @@
 -作詞・作曲・歌唱は、''みすみゆり''。
 -譜面作成は、''ササオカ''。
 -曲IDは旧譜面が''hello''、新譜面が''hello2''。
-
+----
 -[[かんたん>難易度表/かんたん/ハロー！どんちゃん]]
 -[[ふつう>難易度表/ふつう/ハロー！どんちゃん]]
 -[[おに>難易度表/おに/ハロー！どんちゃん]]
@@ -44,8 +44,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-新譜面
-~&attachref(don_Newhard.png,nolink);
+~新譜面
+&attachref(don_Newhard.png,nolink);
 
 ~旧譜面
-~&attachref(don_hard.png,nolink);
+&attachref(don_hard.png,nolink);

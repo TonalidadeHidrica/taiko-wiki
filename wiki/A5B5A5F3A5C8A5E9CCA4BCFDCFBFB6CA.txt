@@ -5,7 +5,7 @@
 #contents
 -[[サントラ収録曲]]
 
-**リスト 全32曲 [#list]
+**リスト 全31曲 [#list]
 |1||||c
 ||曲名(50音順)|歌唱|作曲(編曲)|h
 |BGCOLOR(orangered):|[[哀 want U>難易度表/おに/哀 want U]]|-|かねこちはる|
@@ -36,7 +36,6 @@
 |BGCOLOR(orangered):|[[人のお金で焼肉を食したい！>難易度表/おに/人のお金で焼肉を食したい！]]|桑村拓朗、おかか|土屋裕一／INSPION|
 |BGCOLOR(orangered):|[[via lactea>難易度表/おに/via lactea]]|薛南(Harmonic Reflection)|EAjRock|
 |BGCOLOR(orangered):|[[Behemoth>難易度表/おに/Behemoth]]|-|DJ Myosuke|
-|BGCOLOR(darkorchid):|[[マジで…！？>難易度表/おに/マジで…！？]]|765PRO ALLSTARS|佐藤たかふみ|
 |BGCOLOR(orangered):|[[まるくてはやくてすさまじいリズム>難易度表/おに/まるくてはやくてすさまじいリズム]]|ちょこ|立秋|
 |BGCOLOR(orangered):|[[ユースフルコースター>難易度表/おに/ユースフルコースター]]|かずらなつ|U-suke|
 |BGCOLOR(orangered):|[[λ7708>難易度表/おに/λ7708]]||Taiji|

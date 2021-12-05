@@ -30,4 +30,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(g.png,nolink);
+&attachref(g_2.png,nolink);

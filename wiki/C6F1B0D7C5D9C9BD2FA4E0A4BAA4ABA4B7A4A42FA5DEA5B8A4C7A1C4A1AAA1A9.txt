@@ -1,9 +1,11 @@
 *マジで…！？ [#title]
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.6.3''|CENTER:COLOR(blue){PS Vita MS SP}|CENTER:★×6|CENTER:''315''|CENTER:''787690点''|CENTER:＋連打|CENTER:580点|CENTER:165点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){2400点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.6.3''|CENTER:COLOR(blue){PS Vita MS SP}|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|CENTER:''315''|CENTER:''787690点''|CENTER:＋連打|CENTER:580点|CENTER:165点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){2400点}|CENTER:-|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''?????0点''|~|??0点|-|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
 -BPMは140。
 -黄色連打がかなり多い連打曲で、1本あたりの長さは短い。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -18,7 +20,9 @@
 -2015年5月28日、[[アイドルマスター10周年＆太鼓の達人15周年のコラボ祭>http://taiko.namco-ch.net/taiko/imas-taiko/]]で、''「7週連続で楽曲配信＆「アイドルマスター(765PRO ALLSTARS)完全新曲」世界初公開！」''の第7弾として新筐体に配信された。
 --第6弾までは既存の楽曲だったが、この曲は''完全新曲''。
 -作曲は、''佐藤貴文''。作詞は、''エトウ''と''くぼけん''。
-
+-発表・収録から長い間CD音源化されなかったが、2020年8月5日発売の「THE IDOLM@STER MASTER ARTIST 4」で初収録された。
+-曲IDは、''imsmjd''。
+----
 -[[かんたん>難易度表/かんたん/マジで…！？]]
 -[[ふつう>難易度表/ふつう/マジで…！？]]
 -[[おに>難易度表/おに/マジで…！？]]

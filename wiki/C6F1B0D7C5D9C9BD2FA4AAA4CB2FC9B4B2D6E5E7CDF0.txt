@@ -69,6 +69,8 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
+~DS2¤Ç¤ÏHS1.07¤¬¤«¤«¤Ã¤Æ¤¤¤ë
+
 [[COLOR(#333){''Á´ÉèÌÌ''}>#all]] ¡İ [[COLOR(#215dc6){ÉáÄÌÉèÌÌ}>#futsu]] ¡İ [[COLOR(#215dc6){¸¼¿ÍÉèÌÌ}>#kuro]] ¡İ [[COLOR(#215dc6):Ã£¿ÍÉèÌÌ>#tatsu]]&aname(all);
 &ref(b.png,nolink);
 ~[[COLOR(#215dc6){Á´ÉèÌÌ}>#all]] ¡İ [[COLOR(#333){''ÉáÄÌÉèÌÌ''}>#futsu]] ¡İ [[COLOR(#215dc6){¸¼¿ÍÉèÌÌ}>#kuro]] ¡İ [[COLOR(#215dc6):Ã£¿ÍÉèÌÌ>#tatsu]]&aname(futsu);

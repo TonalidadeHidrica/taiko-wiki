@@ -5,6 +5,7 @@
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.3.7''|3DS2DL&br;Wii U2SP|★×4|''186''|''324750点''|＋連打|550点|158点|
+||iOS|~|~|''310180点''|~|490点|120点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''974740点''}|~|COLOR(#ff3300){4770点}|-|
 -BPMは約180。
 -連打秒数目安・・・約0.806秒−SIZE(16){''約1.139秒''}×8：合計約9.917秒
@@ -28,5 +29,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船の長さは間違っている可能性があります
-&attachref(ji9cho_e.png,nolink);
+&attachref(ji9cho_easy.png,nolink);

@@ -6,6 +6,7 @@
 |CENTER:''AC15.7.3''|CENTER:3DS3|CENTER:★×1|CENTER:''36''|CENTER:''272770点''|CENTER:＋連打|CENTER:1980点|CENTER:2340点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''980900点''}|~|CENTER:COLOR(#ff3300){21250点}|CENTER:-|
 ||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:???0点|CENTER:??0点|
+|CENTER:AC16.1.0||~|~|CENTER:''??????0点''|~|CENTER:27460点|CENTER:-|
 -BPMは、''254''。
 --ただしHS0.5がかかっており、見かけ上のBPMは127。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。

@@ -1,0 +1,23 @@
+*JOIN THE PAC -太鼓の達人 Ver.- [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.1.4''|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|★×3|''128''|''998400点''|＋連打|7800点|
+
+***譜面構成・攻略 [#capture]
+-BPMは130-140。
+
+***その他 [#other]
+-アーティストは、''KEN ISHII''。
+
+----
+-[[ふつう>難易度表/ふつう/JOIN THE PAC -太鼓の達人 Ver.-]]
+-[[むずかしい>難易度表/むずかしい/JOIN THE PAC -太鼓の達人 Ver.-]]
+-[[おに>難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(JTPかんたん.png,nolink);

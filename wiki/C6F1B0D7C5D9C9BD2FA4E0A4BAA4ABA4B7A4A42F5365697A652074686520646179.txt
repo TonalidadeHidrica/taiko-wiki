@@ -1,10 +1,12 @@
 *Seize the day [#title]
-***詳細・攻略 [#more]
 -日本ファルコムのPS Vita専用ソフト「''東亰ザナドゥ''」の主題歌。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1DL''|CENTER:★×7|CENTER:''419''|CENTER:''830490点''|CENTER:＋連打|CENTER:570点|CENTER:150点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){???0点}|CENTER:-|
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1DL''|★×7|''419''|''830490点''|＋連打|570点|150点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){2130点}|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは210。
 -黄色連打がかなり多い連打曲である。
 -全体的に付点配置がかなり多く、リズムが取りづらい。

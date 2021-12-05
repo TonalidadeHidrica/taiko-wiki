@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(自力本願.png,nolink);
+&attachref(ansa22_m.png,nolink);

@@ -65,7 +65,7 @@
 ~AC9、10、iOSの譜面&br;風船連打の長さは適当
 &ref(かんたんな胡麻和え.png,nolink);
 
-~DS1、Wii4、新筐体、WiiU2の譜面&br;DS1はHS0.8
+~DS1、Wii4、新筐体、WiiU2の譜面
 &ref(GO MY WAY!! Wii4.png,nolink);
 
 ~3DS2の譜面

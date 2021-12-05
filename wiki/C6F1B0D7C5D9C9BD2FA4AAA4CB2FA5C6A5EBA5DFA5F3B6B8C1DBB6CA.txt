@@ -1,7 +1,7 @@
 *テルミン狂想曲 SIZE(16){第42楽章「悲愴」} [#title]
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差||h
 ||''Wii3SP''|★×8|''401''|''1051940点''|''1177940点''((4人プレイ))|720点|150点|''ゴーゴーバグあり''|
 |AC15.3.5SP||★×7|~|''1001110点''|''1043110点''((2人プレイ))|710点|168点||
@@ -42,15 +42,15 @@
 -[[ふつう>難易度表/ふつう/テルミン狂想曲]]
 -[[むずかしい>難易度表/むずかしい/テルミン狂想曲]]
 -[[プレイ動画(AC15)>http://www.youtube.com/watch?v=QT8-Fb-_YtI]]
--[[オート動画(Wii3)>https://www.youtube.com/watch?v=qOGdUnJbuvI]]
+-[[オート動画(Wii3)>https://www.youtube.com/watch?v=X_2FXR4NtP4]]
 
 ***コメント[#comment]
 #pcomment(,noname)
 
 ***譜面[#score]
-~Wii3では★★★★★★★★☆☆・くすだま→イモ連打
+~Wii3では★×8・くすだま→イモ連打
 ~最後の風船は35打
 ~&attachref(ter_o3.png,nolink);
 
-見た目(新AC譜面)
+~見た目(新AC譜面)
 ~&attachref(ter_o_v2.png,nolink);

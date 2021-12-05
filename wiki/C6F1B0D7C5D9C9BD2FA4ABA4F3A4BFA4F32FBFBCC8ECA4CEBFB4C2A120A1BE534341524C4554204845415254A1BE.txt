@@ -1,11 +1,14 @@
 *&ruby(こきひ){深緋};の心臓 -SCARLET HEART- [#title]
-***詳細・攻略 [#more]
 -''東方Project×NAMCO SOUNDS''によるコラボ楽曲のひとつ。
--詳細は以下の通り：
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15 例大祭12Ver.''&br;AC15.6.6|PS Vita1DL&br;Wii U3DL&br;NS1DL|★×3|''113''|''309490点''|＋連打|780点|323点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''975640点''}|~|COLOR(#ff3300){7210点}|-|
+
+***詳細・攻略 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15&br;例大祭12Ver.''&br;AC15.6.6|PS Vita1DL&br;Wii U3DL&br;NS1DL|BGCOLOR(lime):''バラエティ''|★×3|''113''|''309490点''|＋連打|780点|323点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''975640点''}|~|COLOR(#ff3300){7210点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|''?????0点''|~|???0点|-|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+
 -BPMは130〜143。
 --8小節目のみBPM130で他の小節はBPM143である。
 -黄色連打がかなり多い連打曲である。
@@ -20,7 +23,7 @@
 -アレンジは、''kyo''。作詞は、''七条レタス''(''D.watt''の別名義)。
 --歌唱は、''あさな''(IOSYS)。
 -譜面作成は、''まりも研究所''。
--曲IDは、''thnkyo''
+-曲IDは、''thnkyo''。
 
 -[[ふつう>難易度表/ふつう/深緋の心臓 ‐SCARLET HEART‐]]
 -[[むずかしい>難易度表/むずかしい/深緋の心臓 ‐SCARLET HEART‐]]

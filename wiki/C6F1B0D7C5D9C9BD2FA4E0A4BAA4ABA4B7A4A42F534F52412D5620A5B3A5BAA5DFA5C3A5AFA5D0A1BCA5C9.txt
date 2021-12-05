@@ -5,7 +5,7 @@
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''PSPDX''|CENTER:★×5|CENTER:''263''|CENTER:''719210点''|CENTER:+連打|CENTER:760点|CENTER:190点|
 |CENTER:Wii5SP|CENTER:★×6|~|CENTER:''786740点''|~|CENTER:860点|CENTER:260点|
--BPMは、135。
+-BPMは135。
 -連打秒数目安・・・約1.074秒×2−約1.296秒−''約1.074秒−約1.296秒−約1.074秒−SIZE(16){約1.074秒}'':合計約7.963秒
 -全体的に付点配置がかなり多く、リズムが取りづらい。
 -大音符が多く、32個ある（全体の約12.2%）。

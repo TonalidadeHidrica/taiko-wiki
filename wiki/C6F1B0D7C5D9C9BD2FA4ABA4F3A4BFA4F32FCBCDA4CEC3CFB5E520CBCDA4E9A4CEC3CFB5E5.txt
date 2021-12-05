@@ -1,4 +1,4 @@
-*僕の地球　僕らの地球 [#title]
+*僕の→地球 僕らの地球((NS1での表記))&br;僕の地球 僕らの地球 [#title]
 ***詳細・攻略 [#more]
 -ゲームキューブ「''ミスタードリラー ドリルランド''」のモードの一つ「ワールドドリルツアー」のBGM。
 -詳細は以下の通り： 
@@ -6,6 +6,9 @@
 |CENTER:''CS5''|CENTER:★×4|CENTER:''148''|CENTER:''?????0点''|CENTER:＋連打|CENTER:800点|CENTER:250点|
 |CENTER:PSP1DL|~|~|CENTER:''303020点''|~|CENTER:600点|CENTER:160点|
 |CENTER:PSP2|~|~|CENTER:''335260点''|~|CENTER:800点|~|
+|CENTER:NS1DL|~|~|CENTER:''343120点''|~|CENTER:680点|CENTER:245点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){6150点}|-|
+
 -PSP2の鈴どん音符の得点は抜いています（ボーナス6000点を除く）。
 -BPMは130。
 -黄色連打が多い連打曲である。

@@ -1,10 +1,11 @@
-*&ruby(ほうおう){鳳凰};&ruby(てんぶ){天舞};無限崩れ [#title]
-***詳細 [#details]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.4.1''|Wii U2SP&br;NS1SP|★×9|''689''|''1103660点''|470点|123点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1004700点''}|COLOR(#ff3300){1420点}|-|
-|AC16.1.0||~|~|''1001050点''|1450点|-|
+*&ruby(ほうおう){鳳凰};&ruby(てんぶ){天舞};&ruby(むげん){無限};&ruby(くず){崩};れ [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC15.4.1''|Wii U2SP&br;NS1SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''689''|''1103660点''|470点|123点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1004700点''}|COLOR(#ff3300){1420点}|-|
+|AC16.1.0||~|~|~|''1001050点''|1450点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは150。
@@ -12,14 +13,15 @@
 -序盤から24分が流れてくる。また休憩地帯が少ないため体力も必須。
 -''中盤に24分混じりの発狂があり、フルコンボ・全良を目指す上で最大の難所となる''。
 --どちらの手から入っても、24分を必ず逆手入りしなければならない。
----47小節からの複合は、&br;COLOR(red){●●}COLOR(blue){●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(red){●●●}COLOR(blue){●}/COLOR(red){●}/COLOR(red){●●●}COLOR(blue){●}/COLOR(red){●}/COLOR(red){●●●●}COLOR(red){●●}/COLOR(blue){●}COLOR(red){●}COLOR(red){●●●●}/COLOR(blue){●}と見ることができる。
---この曲での24分は16分換算するとCOLOR(red){''BPM225''}相当になり、''[[Angel Halo>難易度表/おに/Angel Halo]]・[[Gloria>難易度表/おに/Gloria]]・[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]などにおける16分の速さを上回る''。
+---47小節からの複合は、&br;COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●●●}COLOR(blue){○}/COLOR(red){●}/COLOR(red){●●●}COLOR(blue){○}/COLOR(red){●}/COLOR(red){●●●●}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●}COLOR(red){●●●●}/COLOR(blue){○}と見ることができる。
+--この曲での24分は16分換算すると''BPM225''相当になり、[[Angel Halo>難易度表/おに/Angel Halo]]・[[Gloria>難易度表/おに/Gloria]]・[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]などにおける16分の速さをわずかに上回る。
 -ほとんどが16分→24分の接続だが、終盤の1箇所(65小節〜66小節)だけ24分→16分の接続があるので、リズムを崩されないように。
 -平均密度は、''約6.95打/秒''。
 
 ***その他 [#other]
 -作曲は、''江口貴勅''。
 -曲IDは、''kuzure''。
+-[[ニジイロVer.段位道場2020>段位道場]]の八段1曲目課題曲となった。
 ----
 -[[かんたん>難易度表/かんたん/鳳凰天舞無限崩れ]]
 -[[ふつう>難易度表/ふつう/鳳凰天舞無限崩れ]]
@@ -27,8 +29,6 @@
 -[[オート動画>https://www.youtube.com/watch?v=L4Hn3-FcNXs]]
 
 ***コメント [#comment]
--COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
--COLOR(#33f){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

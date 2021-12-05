@@ -1,13 +1,16 @@
 *メタルホーク　BGM1 [#title]
-***詳細・攻略 [#more]
 -ナムコのシューティングゲーム「[[''メタルホーク''>http://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%9B%E3%83%BC%E3%82%AF]]」のBGM。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:DS3|CENTER:★×5|CENTER:''168''|CENTER:''348710点''|CENTER:＋連打|CENTER:590点|CENTER:120点|
-|CENTER:AC14|CENTER:PSPDXDL|~|~|CENTER:''350450点''|~|~|~|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''368650点''}|~|CENTER:COLOR(#ff3300){1690点}|CENTER:-|
-|CENTER:AC15.5.7((2014/12/14〜12/31限定))&br;AC15.6.0SP|CENTER:Wii5SP|~|~|CENTER:''362660点''|~|CENTER:600点|CENTER:168点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4870点}|CENTER:-|
+
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||DS3|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|''168''|''348710点''|＋連打|590点|120点|
+|AC14|CENTER:PSPDXDL|~|~|~|''350450点''|~|~|~|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''368650点''}|~|COLOR(#ff3300){1690点}|-|
+|AC15.5.7((2014/12/14〜12/31限定))&br;AC15.6.0SP|Wii5SP|~|~|~|''362660点''|~|600点|168点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){4870点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???点|-|
+
 -BPMは153.25。
 -黄色連打がかなり多く、14本ある。
 -大音符が多く、27個ある（全体の約16.1%）。
@@ -23,7 +26,7 @@
 --2015年3月10日〜11日に行われた二コ生で、みんチャレ@ニコ生版を達成した為、16日よりごほうびショップに追加されることになった。([[開発日記>http://taikoblog.namco-ch.net/blog/2015/03/310versp.html]]より)
 -作曲は、''細江慎治''。
 -譜面作成は、''オジマ''。
--曲IDは、''metalh''
+-曲IDは、''metalh''。
 -PSPDXでは、2015年9月30日をもって新規DLができなくなった。
 
 -[[ふつう>難易度表/ふつう/メタルホーク　BGM1]]

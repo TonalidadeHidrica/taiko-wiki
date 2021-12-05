@@ -1,11 +1,11 @@
 *亜空間遊泳ac12.5 [#title]
 ***詳細・攻略 [#more]
 -acシリーズ第3弾。
--詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12増SP''&br;AC13|CENTER:Wii2SP&br;PSPDX|CENTER:★×5|CENTER:''144''|CENTER:''347300点''|CENTER:＋連打|CENTER:670点|CENTER:170点|
+|CENTER:''AC12増SP''&br;AC13|CENTER:Wii2SP&br;PSPDX|CENTER:★×5|CENTER:''144''|CENTER:''347300点''|CENTER:+連打|CENTER:670点|CENTER:170点|
 |CENTER:AC15.35((2014/8/1〜8/10限定))&br;AC15.38SP|CENTER:Wii5SP|~|~|CENTER:''366010点''|~|CENTER:700点|CENTER:250点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''987120点''}|~|CENTER:COLOR(#ff3300){5620点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''?????0点''|~|CENTER:6880点|CENTER:-|
 -BPMは153。
 --ただしHS0.8がかかっており、見かけ上のBPMは122.4。
 -黄色連打が多い連打曲である。

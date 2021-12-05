@@ -60,5 +60,5 @@
 ~&ref(imsgmw_n.png,nolink);
 ~旧譜面
 ~普通譜面はAC9、10、iOSの譜面
-~DS1はHS0.8
+~DS1はHS0.76
 ~&ref(6年4カ月ぶりの復活おめでとー!.png,nolink);

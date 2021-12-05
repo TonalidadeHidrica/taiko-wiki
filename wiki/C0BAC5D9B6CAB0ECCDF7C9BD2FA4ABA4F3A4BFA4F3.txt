@@ -8,22 +8,26 @@
 
 -★は完全精度曲
 **新筐体収録曲(23曲) [#new]
-***J-POP [#jpop]
+***ポップス [#pop]
 -[[キセキ>難易度表/かんたん/キセキ]]
 -[[Candy Pop>難易度表/かんたん/Candy Pop]]
+-[[零 -ZERO->難易度表/かんたん/零 -ZERO-]]
+-[[RAINMAKER>難易度表/かんたん/RAINMAKER]]
 
 ***アニメ [#anime]
 -[[零 -ZERO->難易度表/かんたん/零 -ZERO-]]
 
-***バラエティ [#variety]
+***キッズ [#kids]
+-[[零 -ZERO->難易度表/かんたん/零 -ZERO-]]
 -[[RAINMAKER>難易度表/かんたん/RAINMAKER]]
 
-***ゲームミュージック [#gamemusic]
+***ゲーム&バラエティ [#game&variety] [#b2529513]
 -[[Got more raves?>難易度表/かんたん/Got more raves?]]
 -[[The Windmill Song>難易度表/かんたん/The Windmill Song]]
 -[[SAMURAI ROCKET>難易度表/かんたん/SAMURAI ROCKET]]
 -[[ゼルダの伝説 ブレス オブ ザ ワイルド メドレー>難易度表/かんたん/ゼルダの伝説 ブレス オブ ザ ワイルド メドレー]]
 -[[PaPaPa Love>難易度表/かんたん/PaPaPa Love]]
+-[[RAINMAKER>難易度表/かんたん/RAINMAKER]]
 
 ***ナムコオリジナル [#namcooriginal]
 -[[愛と浄罪の森>難易度表/かんたん/愛と浄罪の森]]

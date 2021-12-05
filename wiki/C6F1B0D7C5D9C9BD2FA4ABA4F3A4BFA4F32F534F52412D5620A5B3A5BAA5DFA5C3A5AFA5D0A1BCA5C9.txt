@@ -5,7 +5,7 @@
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''PSPDX''|CENTER:★×3|CENTER:''109''|CENTER:''314060点''|CENTER:+連打|CENTER:800点|CENTER:250点|
 |CENTER:Wii5SP|~|~|CENTER:''324340点''|~|CENTER:850点|CENTER:395点|
--BPMは、135。
+-BPMは135。
 -連打秒数目安・・・約1.074秒−''約1.074秒×2−約1.296秒−SIZE(16){約1.519秒}''：合計約6.037秒
 -[[ふつう>難易度表/ふつう/SORA-V コズミックバード]]以上と違い、付点配置は1回も出てこない。
 -大音符が多く、19個ある（全体の約17.4%）。

@@ -1,0 +1,28 @@
+*JOIN THE PAC -太鼓の達人 Ver.- [#title]
+-パックマン40周年を記念して制作された公式テーマソング。
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.1.4''|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|★×9|''606''|''1003100点''|＋連打|1650点|
+
+***譜面構成・攻略 [#capture]
+-BPMは130-140。
+-連打秒数目安・・・約1.25秒
+
+***その他 [#other]
+-アーティストは、''KEN ISHII''。
+-「太鼓の達人 Ver.」とあるように、太鼓の達人に収録された音源は原曲よりBPMが速くなっている。([[ソース>https://mobile.twitter.com/K_Ishii_70Drums/status/1290539396261752833]])
+-この譜面をフルコンボすると''称号''「''JOIN THE PAC''」を獲得できる。
+----
+-[[かんたん>難易度表/かんたん/JOIN THE PAC -太鼓の達人 Ver.-]]
+-[[ふつう>難易度表/ふつう/JOIN THE PAC -太鼓の達人 Ver.-]]
+-[[むずかしい>難易度表/むずかしい/JOIN THE PAC -太鼓の達人 Ver.-]]
+-[[公式MV(原曲)>https://www.youtube.com/watch?v=q_ID77tWbTs]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~BPM変化は暫定
+~&attachref(JTP_3.png,nolink);

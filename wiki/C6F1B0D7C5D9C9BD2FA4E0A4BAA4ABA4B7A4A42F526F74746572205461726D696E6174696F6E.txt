@@ -1,11 +1,12 @@
 *Rotter Tarmination [#q19bef45]
 ***詳細・攻略 [#x00fef88]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12''〜14|CENTER:Wii1&br;Wii2SP&br;Wii4SP&br;PSPDX|CENTER:★×7|CENTER:''438''|CENTER:''831790点''|CENTER:＋連打|CENTER:500点|CENTER:130点|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''846820点''}|~|CENTER:COLOR(#ff3300){1730点}|CENTER:-|
-|CENTER:AC15.1.0|CENTER:Wii U2|~|~|CENTER:''842290点''|~|CENTER:560点|CENTER:150点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''992020点''}|~|CENTER:COLOR(#ff3300){2030点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12''〜14|Wii1&br;Wii2SP&br;Wii4SP&br;PSPDX|BGCOLOR(orangered):''ナムコ&br;オリジナル''|CENTER:★×7|CENTER:''438''|CENTER:''831790点''|CENTER:＋連打|CENTER:500点|CENTER:130点|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''846820点''}|~|CENTER:COLOR(#ff3300){1730点}|CENTER:-|
+|CENTER:AC15.1.0|CENTER:Wii U2&br;NS1DL|~|~|~|CENTER:''842290点''|~|CENTER:560点|CENTER:150点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''992020点''}|~|CENTER:COLOR(#ff3300){2030点}|CENTER:-|
+|AC16.1.0||~|~|~|''?????0点''|~|??0点|-|
 -BPMは200。
 --[[さいたま2000>難易度表/むずかしい/さいたま2000]]、[[恋文2000>難易度表/むずかしい/恋文2000]]などと同じBPMである。
 -速度は速めだが、ほとんどが8分なのでクリアはそこまで難しくはない。

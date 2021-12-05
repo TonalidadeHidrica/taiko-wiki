@@ -1,11 +1,12 @@
 *やってみよう [#title]
-***詳細・攻略 [#more]
 -au「''三太郎シリーズ''」CMソング。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.9.4''|CENTER:★×5|CENTER:''177''|CENTER:''749680点''|CENTER:＋連打|CENTER:1080点|CENTER:370点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4560点}|CENTER:-|
-|CENTER:AC16.1.0|~|~|CENTER:''998770点''|~|CENTER:5610点|CENTER:-|
+
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|CENTER:バージョン((太字は初出))|ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.9.4''|BGCOLOR(cyan):''J-POP''|CENTER:★×5|CENTER:''177''|CENTER:''749680点''|CENTER:＋連打|CENTER:1080点|CENTER:370点|
+|CENTER:COLOR(#ff3300){真打}|~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4560点}|CENTER:-|
+|CENTER:AC16.1.0|BGCOLOR(cyan):''ポップス''|~|~|CENTER:''998770点''|~|CENTER:5610点|CENTER:-|
 -BPMは約260。
 --速度がかなり速いが、''低速HSはかかっていない''。
 -大音符が多く、33個ある（全体の約18.6%）。
@@ -19,6 +20,10 @@
 -アーティストは、''WANIMA''。
 --作詞は、篠原誠。作・編曲は、WANIMA。
 -''本人音源''である。
+-曲IDは、''w2myat''。
+-''2020年6月23日(火)午前7:00をもって新筐体の全てのバージョンよりサヨナラ''となった。
+--14以前のACには収録されておらず、家庭用作品にも収録されていないため、現在はこの曲を遊ぶことができない。
+----
 -[[かんたん>難易度表/かんたん/やってみよう]]
 -[[ふつう>難易度表/ふつう/やってみよう]]
 -[[おに>難易度表/おに/やってみよう]]

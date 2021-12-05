@@ -35,4 +35,4 @@ COLOR(#33f):''¤³¤Î¥Ú¡¼¥¸¤ò½é¤á¤Æ¤´ÍøÍÑ¤Ë¤Ê¤ëÊı¤Ï¡¢É¬¤º[[''¥³¥á¥ó¥È»ş¤ÎÃí°Õ''>¥Ú¡
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(o.png,nolink);
+&attachref(orion_m.png,nolink);

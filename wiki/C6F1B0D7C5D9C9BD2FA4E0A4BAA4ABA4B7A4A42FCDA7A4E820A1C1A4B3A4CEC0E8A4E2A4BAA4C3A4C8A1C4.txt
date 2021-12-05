@@ -4,7 +4,7 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.8.2''|CENTER:3DS3DL|CENTER:★×4|CENTER:''239''|CENTER:''691680点''|CENTER:＋連打|CENTER:890点|CENTER:280点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''991640点''}|~|CENTER:COLOR(#ff3300){3990点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|
+||CENTER:iOS|~|~|CENTER:''677250点''|~|CENTER:830点|CENTER:220点|
 -BPMは127。
 -連打秒数目安・・・0.906秒−1.378秒−''1.85秒×2''：合計約5.984秒
 -全体的に付点配置が多く、リズムが取りづらい。

@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15 超会議3Ver.''&br;AC15 例大祭11Ver.&br;AC15.5.0|PS Vita1DL&br;PS4 1DL|BGCOLOR(lime):''バラエティ''|★×10|''1160''|''1162290点''|＋連打|310点|70点|
+|''AC15&br;超会議3Ver.''&br;AC15&br;例大祭11Ver.&br;AC15.5.0|PS Vita1DL&br;PS4 1DL|BGCOLOR(lime):''バラエティ''|★×10|''1160''|''1162290点''|＋連打|310点|70点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''979400点''}|~|COLOR(#ff3300){830点}|-|
 ||iOS&br;AR|~|~|~|''1125830点''|~|230点|70点|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''974400点''|~|840点|-|
@@ -47,8 +47,8 @@
 -[[かんたん>難易度表/かんたん/ネクロファンタジア 〜 Arr.Demetori]]
 -[[ふつう>難易度表/ふつう/ネクロファンタジア 〜 Arr.Demetori]]
 -[[むずかしい>難易度表/むずかしい/ネクロファンタジア 〜 Arr.Demetori]]
--[[プレイ動画(AC15)>https://www.youtube.com/watch?v=phYWnGZFpYI]]
--[[オート動画(iOS/AR)>https://www.youtube.com/watch?v=lCgvlsrdqJ0]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=U9VZLzz7Wuo&t=5s]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=lCgvlsrdqJ0]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

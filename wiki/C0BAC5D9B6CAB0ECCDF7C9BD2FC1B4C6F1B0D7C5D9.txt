@@ -8,10 +8,10 @@
 
 -★は全難易度で完全精度曲
 **新筐体収録曲(12曲) [#new]
-***J-POP [#jpop]
+***ポップス [#pop]
 -[[キセキ>難易度表/おに/キセキ]]
 
-***ゲームミュージック [#gamemusic]
+***ゲーム&バラエティ [#game variety] [#z5a8ae4d]
 -[[Got more raves?>難易度表/おに/Got more raves?]]
 -[[The Windmill Song>難易度表/おに/The Windmill Song]]
 -[[PaPaPa Love>難易度表/おに/PaPaPa Love]]

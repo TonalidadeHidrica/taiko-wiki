@@ -2,7 +2,9 @@
 ***詳細・攻略 [#more]
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii U3SP''|CENTER:★×6|CENTER:''514''|CENTER:''799340点''|CENTER:＋連打|CENTER:460点|CENTER:125点|
+|CENTER:''Wii U3SP''&br;NS1SP|CENTER:★×6|CENTER:''514''|CENTER:''799340点''|CENTER:＋連打|CENTER:460点|CENTER:125点|
+|CENTER:COLOR(#f30){真打}|~|~|CENTER:COLOR(#f30){''1000680点''}|~|CENTER:COLOR(#f30){1860点}|-|
+
 -BPMは182。
 -全体的に付点配置が多く、リズムが取りづらい。
 -8分の複合が主体の譜面で、たまに16分も出てくる。

@@ -7,7 +7,7 @@
 ||COLOR(blue){PS Vita MS}|~|~|''1055330点''|520点|130点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1000300点''}|COLOR(#ff3300){1550点}|-|
 
-***詳細 [#detail]
+***譜面構成・攻略 [#capture]
 -BPMは173。
 -''精度曲''のひとつ。
 -16分の''複合''は、COLOR(red){●●}COLOR(blue){●}やCOLOR(blue){●●}COLOR(red){●}と48小節のCOLOR(red){●●●●●}COLOR(blue){●●●●}しか登場しない。

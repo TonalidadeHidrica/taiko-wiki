@@ -1,11 +1,13 @@
 *Garakuta Doll Play [#title]
-***詳細・攻略 [#more]
 -セガ「''maimai''」より。
 --全日本アミューズメント施設営業者協会連合会(AOU)主催「[[天下一音ゲ祭　全国一斉認定大会>http://www.gamesday.jp/otogesai]]」の予選大会用課題曲である。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.5.4''|CENTER:★×6|CENTER:''419''|CENTER:''634900点''|CENTER:＋連打|CENTER:340点|CENTER:93点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''989920点''}|~|CENTER:COLOR(#ff3300){1840点}|CENTER:-|
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.5.4''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|CENTER:★×6|CENTER:''419''|CENTER:''634900点''|CENTER:＋連打|CENTER:340点|CENTER:93点|
+|CENTER:COLOR(#ff3300){真打}|~|~|~|CENTER:COLOR(#ff3300){''989920点''}|~|CENTER:COLOR(#ff3300){1840点}|CENTER:-|
+|AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???点|-|
+
 -BPMは''256''。
 --ただしHS0.78がかかっており、見かけ上のBPMはおよそ200（199.68）。
 -ふつう★×6の中では最多コンボ数だったが、わずか1ヶ月ちょっとで[[闇の魔法少女>難易度表/ふつう/闇の魔法少女]](475コンボ)に抜かれた。
@@ -25,11 +27,13 @@
 --また、クリア難易度も高い。
 -音符密度は、''約3.55打/秒''。
 --ただしこれは1曲を通しての平均密度であり、95〜110小節だけは音符密度が''約5.39打/秒''になっている。
+
 -曲名の読み方は、''ガラクタ ドール プレイ''。
 -アーティストは、''t+pazolite''（[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]）。
 --読み方は、''トパゾライト''。
 -譜面作成は、''しか@に〜さん''。
-
+-曲IDは、''garakt''。
+----
 -[[かんたん>難易度表/かんたん/Garakuta Doll Play]]
 -[[むずかしい>難易度表/むずかしい/Garakuta Doll Play]]
 -[[おに>難易度表/おに/Garakuta Doll Play]]/[[裏譜面>難易度表/おに/Garakuta Doll Play(裏譜面)]]

@@ -1,13 +1,14 @@
 *ナムコットメドレー [#title]
 -過去にファミコンで発売されたナムコのゲームミュージックをメドレーにしたもの。
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-||CENTER:''DS1''|CENTER:★×7|CENTER:''488''|CENTER:''886250点''|CENTER:＋連打|CENTER:540点|CENTER:120点||
-|CENTER:AC10|CENTER:iOS&br;AR|~|~|CENTER:''989530点''|~|CENTER:550点|CENTER:140点||
-||CENTER:PSP2DL|~|~|CENTER:''984910点''|~|~|~|CENTER:''ゴーゴーバグあり''|
-||CENTER:Wii3SP|~|~|CENTER:''990310点''|~|~|~|~|
-||CENTER:Wii U1&br;3DS3SP|CENTER:★×8|~|CENTER:''1046120点''|~|CENTER:650点|CENTER:170点||
-|CENTER:COLOR(#f30){真打}||~|~|CENTER:COLOR(#f30){''??????点''}|~|CENTER:COLOR(#f30){1930点}|CENTER:-||
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+||''DS1''|★×7|''488''|''886250点''|＋連打|540点|120点||
+|''AC10''|iOS&br;AR|~|~|''989530点''|~|550点|140点||
+||PSP2DL|~|~|''984910点''|~|~|~|''ゴーゴーバグあり''|
+||Wii3SP|~|~|''990310点''|~|~|~|~|
+||Wii U1&br;3DS3SP&br;NS1DL|★×8|~|''1046120点''|~|650点|170点||
+|COLOR(#f30){真打}||~|~|COLOR(#f30){''995840点''}|~|COLOR(#f30){1930点}|-||
 
 ***譜面構成・攻略 [#capture]
 -BPMは約110〜153。

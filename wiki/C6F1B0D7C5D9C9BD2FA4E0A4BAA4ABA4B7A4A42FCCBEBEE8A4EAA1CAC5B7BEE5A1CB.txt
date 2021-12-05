@@ -2,9 +2,11 @@
 -ナムコの忍者横スクロールアクションゲーム「''未来忍者''」のネーム入れ((1位のみ))時のBGM。
 --ちなみに、「''名乗り(天下)''」もある((こちらは2位以下で聞く事ができる))。
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11''&br;AC11亜|CENTER:DS3|CENTER:''ゲーム&br;ミュージック''|CENTER:★×6|CENTER:''317''|CENTER:''791270点''|CENTER:＋連打|CENTER:700点|CENTER:190点|
-|CENTER:AC16.1.0SP||CENTER:''ゲーム&br;＆&br;バラエティ''|~|~|CENTER:''??????0点''|~|CENTER:???点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC11''|DS3|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|''317''|''791270点''|＋連打|700点|190点|
+|AC11亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|
+|AC16.1.0SP||BGCOLOR(darkorchid):&color(white){''ゲーム&br;＆&br;バラエティ''};|~|~|''?????0点''|~|???0点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約98〜157.6。

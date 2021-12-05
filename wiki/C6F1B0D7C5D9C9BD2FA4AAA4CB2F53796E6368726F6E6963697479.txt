@@ -1,5 +1,5 @@
 *Synchronicity [#title]
--ナムコ「''シンクロニカ''」とのコラボ楽曲のひとつ。詳細は[[こちら>http://bandainamcoent.co.jp/am/vg/Synchronica/campaign/005.html]]。
+-ナムコ「''シンクロニカ''」とのコラボ楽曲のひとつ。
 
 ***詳細 [#detail]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
@@ -22,6 +22,7 @@
 --しかし、グリーンVer.で太鼓のマーチが移動したため、再びこの曲がフォルダの一番右端になった。
 -移植元である「シンクロニカ」は2019年9月30日にオンラインサービスが終了した。
 -曲IDは、''sysync''。
+-[[ニジイロVer.段位道場2020>段位道場]]の四段1曲目課題曲となった。
 ----
 -[[かんたん>難易度表/かんたん/Synchronicity]]
 -[[ふつう>難易度表/ふつう/Synchronicity]]

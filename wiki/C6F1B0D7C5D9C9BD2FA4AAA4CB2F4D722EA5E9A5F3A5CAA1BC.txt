@@ -22,7 +22,7 @@
 -[[かんたん>難易度表/かんたん/Mr.ランナー]]
 -[[ふつう>難易度表/ふつう/Mr.ランナー]]
 -[[むずかしい>難易度表/むずかしい/Mr.ランナー]]
--[[オート動画>https://www.youtube.com/watch?v=WgUE9JEiHaw]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=WgUE9JEiHaw]]
 
 ***コメント [#comment]
 #pcomment(,noname)

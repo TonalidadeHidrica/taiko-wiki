@@ -1,10 +1,11 @@
 *Surf Zapping [#title]
+
 ***詳細 [#more]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.10.7SP|''3DS3DL''&br;PS4 1DL|★×10|''840''|''1203040点''|＋連打|420点|105点|
-|COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''1002280点''}|~|COLOR(#ff3300){1130点}|-|
-|AC16.1.0||~|~|''1000600点''|~|1190点|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.10.7SP|''3DS3DL''&br;PS4 1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×10|''840''|''1203040点''|＋連打|420点|105点|
+|COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''1002280点''}|~|COLOR(#ff3300){1130点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1000600点''|~|1190点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは100-200。
@@ -17,6 +18,7 @@
 --配置自体はほぼ一定であるが、63、71小節目のCOLOR(blue){●●}COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●●●}には注意。
 -ラストに複雑な長複合が襲いかかる。
 --1拍ごとに区切ると、COLOR(red){●●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●●}/COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●●}/COLOR(blue){●}COLOR(red){●●}COLOR(blue){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}...である。
+--COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(blue){●●●}COLOR(red){●}/COLOR(red){●}COLOR(blue){●●}COLOR(red){●}/COLOR(blue){●●●}COLOR(red){●}/COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(blue){●}...とすると打ちやすいだろう。
 -1曲を通しての平均密度は、''約7.01打/秒''である。
 
 ***その他 [#other]
@@ -28,17 +30,20 @@
 -この譜面をフルコンボすると、''称号''「''波乗りドンだー''」を獲得できる。
 -2019年3月14日以降、当楽曲の新規解禁は一旦できなかったが、6ヶ月後の2019年9月26日よりかつメダルごほうびショップで購入できるようになった。
 --購入に必要なかつメダルは3000枚。
+--ニジイロVer.で''常駐曲''となった。
 -移植元である「シンクロニカ」は2019年9月30日にオンラインサービスが終了した。
 -曲IDは、''sysurf''。
+-[[ニジイロver.段位道場2020>段位道場]]の十段1曲目課題曲となった。
 
 ----
 -[[かんたん>難易度表/かんたん/Surf Zapping]]
 -[[ふつう>難易度表/ふつう/Surf Zapping]]
 -[[むずかしい>難易度表/むずかしい/Surf Zapping]]
--[[プレイ動画(AC15)>https://youtu.be/-JG3pUpfHg8]]
 -[[オート動画(3DS3)>https://www.youtube.com/watch?v=L_uHFPUL_kw]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=9pgfugRhqyc&t=14s]]
 
 ***コメント [#comment]
+-COLOR(red){''ニジイロ十段課題曲決定の影響で難易度比較のコメントが特に発生しやすいページなので注意してください。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

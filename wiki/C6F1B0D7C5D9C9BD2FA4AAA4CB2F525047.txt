@@ -4,11 +4,12 @@
 ***詳細・攻略 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|AC15.5.0|''3DS2''&br;PS Vita1&br;Wii U3|''J-POP''|★×6|''345''|''953630点''|810点|223点|
-||PS4 1&br;NS1|''ポップス''|~|~|~|~|~|
+|AC15.5.0|''3DS2''&br;PS Vita1&br;Wii U3|BGCOLOR(cyan):''J-POP''|★×6|''345''|''953630点''|810点|223点|
+||PS4 1&br;NS1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1003450点''}|COLOR(#ff3300){2670点}|-|
-||iOS&br;AR|''J-POP''|~|~|''953510点''|810点|180点|
-|CENTER:AC16.1.0||CENTER:''ポップス&br;(キッズ)''|~|~|CENTER:''1000100点''|CENTER:2880点|CENTER:-|
+||iOS&br;AR|BGCOLOR(cyan):''J-POP''|~|~|''953510点''|810点|180点|
+|CENTER:AC16.1.0||CENTER:BGCOLOR(cyan):''ポップス''|~|~|CENTER:''1000100点''|CENTER:2880点|CENTER:-|
+|~|~|BGCOLOR(yellow):''キッズ''|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは135。

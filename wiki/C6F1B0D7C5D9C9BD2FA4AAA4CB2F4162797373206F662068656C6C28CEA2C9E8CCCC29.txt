@@ -1,11 +1,11 @@
 *Abyss of hell(裏譜面) [#title]
 
 ***詳細 [#more]
-|>|>|>|>|>|>|>|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.6.5|''PS Vita1SP''|★×10|''1100''|''1184300点''|＋連打|320点|75点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''981200点''}|~|COLOR(#ff3300){880点}|-|
-|AC16.1.0|~|~|~|''979000点''|~|890点|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.6.5|''PS Vita1SP''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×10|''1100''|''1184300点''|＋連打|320点|75点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''981200点''}|~|COLOR(#ff3300){880点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''979000点''|~|890点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約165。
@@ -31,10 +31,10 @@
 -[[ふつう>難易度表/ふつう/Abyss of hell]]
 -[[むずかしい>難易度表/むずかしい/Abyss of hell]]
 -[[おに>難易度表/おに/Abyss of hell]]/裏譜面
--[[プレイ動画(AC15)>https://www.youtube.com/watch?v=cqvMp0UN4f8]]
+-[[オート動画>https://youtu.be/g2Zhk4yQiNo]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(ex_naraku_m.png,nolink);
+~&attachref(Abyss of hell_ex.png,nolink);

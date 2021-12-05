@@ -5,6 +5,7 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.6.7''|CENTER:3DS3|CENTER:★×4|CENTER:''171''|CENTER:''343330点''|CENTER:＋連打|CENTER:590点|CENTER:190点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''987020点''}|~|CENTER:COLOR(#ff3300){5170点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''?????0点''|~|CENTER:5800点|CENTER:-|
 -BPMは100〜200。基本BPMは160。
 -黄色連打がかなり多い連打曲である。
 -全体的に付点配置や裏拍配置が多く、リズムが取りづらい。

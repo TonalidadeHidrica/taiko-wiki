@@ -1,18 +1,18 @@
 *アルムジカac14.0V [#title]
 ***詳細・攻略 [#more]
 -acシリーズ第4弾。
--詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14SP''|CENTER:iOS|CENTER:★×7|CENTER:''222''|CENTER:''?????0点''|CENTER:＋連打|CENTER:670点|CENTER:180点|
+|CENTER:''AC14SP''|CENTER:iOS|CENTER:★×7|CENTER:''222''|CENTER:''?????0点''|CENTER:+連打|CENTER:670点|CENTER:180点|
 ||CENTER:Wii3|~|~|CENTER:''687550点''|~|CENTER:700点|~|
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''694060点''}|~|CENTER:COLOR(#ff3300){2240点}|CENTER:-|
 |CENTER:AC15.1.0|CENTER:Wii5SP|~|~|CENTER:''693990点''|~|CENTER:730点|CENTER:225点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3260点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''?????0点''|~|CENTER:4480点|CENTER:-|
 -BPMは140。
 -全難易度を通してコンボ数が111の倍数である。
 -大音符がかなり多く、72個ある（全体の約32.4%）。
 -全体的に長めの8分や付点8分が多いが、16分はなく速度もそんなに速くないので★×7にしては簡単な方。
---逆詐称との声もあるが、AC14とWii3の★×7の中ではやや強め。最低でもAC13初出の[[2000>難易度表/ふつう/はたラク2000]][[シリーズ>難易度表/ふつう/きたさいたま200]]よりは強い。
+--逆詐称との声もあるが、AC14とWii3の★×7の中ではやや強め。最低でもAC13初出の[[20000シリーズ>難易度表/ふつう/きたさいたま200]]よりは強い。((はたラク2000を除く))
 --ただし、クリアが基準のAC15でも残留し、同難易度の中では下位クラスになってしまった。
 
 ***その他 [#other]

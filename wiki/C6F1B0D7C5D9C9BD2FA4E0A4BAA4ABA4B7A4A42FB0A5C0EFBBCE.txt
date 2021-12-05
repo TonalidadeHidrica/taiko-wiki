@@ -18,11 +18,10 @@
 --[[学園天国>難易度表/おに/学園天国]]の作曲者でもある。
 --作詞は、井荻麟。
 -曲IDは、''gdm3''
-
 -[[かんたん>難易度表/かんたん/哀戦士]]
 -[[ふつう>難易度表/ふつう/哀戦士]]
 -[[おに>難易度表/おに/哀戦士]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=o37LOlesVUo]]
+-[[オート動画>http://www.youtube.com/watch?v=o37LOlesVUo]]
 
 ***コメント [#comment]
 #pcomment(,noname)

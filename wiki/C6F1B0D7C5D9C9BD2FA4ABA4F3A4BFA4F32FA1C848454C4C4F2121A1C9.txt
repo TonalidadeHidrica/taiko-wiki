@@ -1,11 +1,12 @@
 *“HELLO!!” [#title]
--ニンテンドーDS用ソフト[[「''THE IDOLM@STER Dearly Stars''」>THE IDOLM@STER関連楽曲一覧#dest]]の楽曲。
+-ニンテンドーDS用ソフト「[[''THE IDOLM@STER Dearly Stars''>THE IDOLM@STER関連楽曲一覧#dest]]」の楽曲。
 ***詳細 [#detail]
-|>|>|>|>|>|>|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC13|CENTER:''Wii2''|CENTER:★×4|CENTER:''174''|CENTER:''327710点''|CENTER:＋連打|CENTER:590点|CENTER:140点|
-||CENTER:COLOR(blue){PS Vita MS}|CENTER:★×3|CENTER:''159''|CENTER:''315340点''|~|CENTER:540点|CENTER:198点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''??????0点''}|~|CENTER:COLOR(#ff3300){???0点}|CENTER:-|
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC13|''Wii2''|★×4|''174''|''327710点''|＋連打|590点|140点|
+||COLOR(blue){PS Vita MS}|★×3|''159''|''315340点''|~|540点|198点|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){???0点}|-|
+
 -BPMは173。
 
 ***新譜面 [#new]

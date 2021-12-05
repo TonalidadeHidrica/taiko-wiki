@@ -34,5 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-・BPM182の部分 → BPM181。
-~&attachref(あの日出会えたキセキ.png,nolink);
+~&attachref(anohid_z.png,nolink);

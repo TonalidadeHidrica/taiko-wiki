@@ -64,4 +64,4 @@
 ~&attachref(honey_ex_v.png,nolink);
 
 ~ゴーゴー半速表記
-~&attachref(Honey Heartbeat（裏）見た目.png,nolink);
+~&attachref(ex_imshhb_bpm.png,nolink);

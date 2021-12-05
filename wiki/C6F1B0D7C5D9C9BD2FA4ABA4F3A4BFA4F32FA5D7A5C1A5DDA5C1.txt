@@ -1,10 +1,12 @@
 *プチポチ [#title]
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC15.10.5SP|CENTER:''Wii U3SP''&br;PS Vita1DL|CENTER:★×5|CENTER:''194''|CENTER:''373240点''|CENTER:＋連打|CENTER:560点|CENTER:170点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''993710点''}|~|CENTER:COLOR(#ff3300){4590点}|CENTER:-|
-|CENTER:AC16.1.0||~|~|CENTER:''??????0点''|~|CENTER:???0点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC15.10.5SP|''Wii U3SP''&br;PS Vita1DL|BGCOLOR(gold):''クラシック''|★×5|''194''|''373240点''|＋連打|560点|170点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''993710点''}|~|COLOR(#ff3300){4590点}|-|
+|AC16.1.0||BGCOLOR(gold):''クラシック''|~|~|''??????0点''|~|???0点|-|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+
 -BPMは140〜162。
 --44小節から速度が少しずつ速くなり、50小節以降はBPM162になっている。
 -黄色連打が多い連打曲である。
@@ -19,7 +21,7 @@
 ***その他 [#other]
 -''ショパン''の「[[''子犬のワルツ''>http://www.youtube.com/watch?v=CNrl3Yiu7rQ]](原題：Valse du Petit Chien)」のロックアレンジ。
 -編曲は、''田島勝朗''。
--曲IDは、''clsdog''
+-曲IDは、''clsdog''。
 
 -[[ふつう>難易度表/ふつう/プチポチ]]
 -[[むずかしい>難易度表/むずかしい/プチポチ]]

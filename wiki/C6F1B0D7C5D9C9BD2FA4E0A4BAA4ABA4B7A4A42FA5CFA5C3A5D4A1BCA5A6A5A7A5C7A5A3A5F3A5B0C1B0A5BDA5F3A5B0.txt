@@ -2,7 +2,7 @@
 ***詳細 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.11.6''||BGCOLOR(cyan):''J-POP''|★×3|''162''|''?????0点''|＋連打|1210点|408点|
+|''AC15.11.6''&br;AC15.11.6((アジア版))||BGCOLOR(cyan):''J-POP''|★×3|''162''|''?????0点''|＋連打|1210点|408点|
 |COLOR(#f30){真打}||~|~|~|COLOR(#f30){''??????点''}|~|COLOR(#f30){5610点}|-|
 |AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''992000点''|~|6100点|-|
 ||CENTER:iOS&br;AR|~|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|

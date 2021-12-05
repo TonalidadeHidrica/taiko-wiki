@@ -9,7 +9,7 @@
 |COLOR(#ff3300){真打モード}||~|~|COLOR(#ff3300){''946990点''}|~|COLOR(#ff3300){3790点}|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは140。
+-BPMは約140。
 -連打秒数目安・・・1.25秒−''1.25秒''−SIZE(16){''約1.679秒''}：合計約4.179秒
 -平均密度は、''約3.48打/秒''。
 
@@ -35,4 +35,5 @@
 #pcomment(,noname)
 
 ***譜面[#score]
-&attachref(w.png,nolink);
+~DS3ではHS0.91がかかっている
+&attachref(decad2_m.png,nolink);

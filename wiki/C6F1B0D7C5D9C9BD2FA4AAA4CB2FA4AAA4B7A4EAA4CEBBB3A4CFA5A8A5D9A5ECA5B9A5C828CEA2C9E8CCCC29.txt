@@ -1,10 +1,10 @@
 *おしりの山はエベレスト(裏譜面) [#title]
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.2.0''-15.5.4||''アニメ''|★×9|''784''|''1099660点''|＋連打|420点|88点|
+|''AC15.2.0''-15.5.4||BGCOLOR(orange):''アニメ''|★×9|''784''|''1099660点''|＋連打|420点|88点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''995580点''}|~|COLOR(#ff3300){1120点}|-|
-||Wii5SP|''バラエティ''|~|''788''|''1095450点''|~|410点|88点|
+||Wii5SP|BGCOLOR(lime):''バラエティ''|~|''788''|''1095450点''|~|410点|88点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは58.5〜234。
@@ -58,10 +58,8 @@
 
 ***譜面 [#score]
 ~Wii5譜面
-~&attachref(ex_osiri2.png,nolink);
-
+&attachref(ex_osiri2.png,nolink);
 ~AC譜面
-~&attachref(exosr2_f3.png,nolink);
-
+&attachref(exosr2_f3.png,nolink);
 ~見た目
-~&attachref(exosr2_m_f3.png,nolink);
+&attachref(exosr2_m_f3.png,nolink);

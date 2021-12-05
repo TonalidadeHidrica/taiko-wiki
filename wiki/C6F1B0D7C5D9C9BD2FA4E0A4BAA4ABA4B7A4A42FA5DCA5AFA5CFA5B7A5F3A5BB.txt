@@ -32,4 +32,4 @@
 
 ***譜面 [#fumen]
 風船の長さは暫定
-&attachref(synth_h2.png,nolink);
+&attachref(synth_ha.png,nolink);

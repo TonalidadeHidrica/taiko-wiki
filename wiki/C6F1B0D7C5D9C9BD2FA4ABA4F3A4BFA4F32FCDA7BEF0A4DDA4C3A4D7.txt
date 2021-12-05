@@ -1,16 +1,16 @@
 *友情ぽっぷ [#title]
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|>|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|~|~|~|~|>|CENTER:一人|CENTER:二人((両方かんたん))|CENTER:二人((片方ふつう))|~|~|h
-|CENTER:''AC12増SP''-14||CENTER:★×4|CENTER:''170''|CENTER:''363160点''||CENTER:''373960点''|CENTER:-|CENTER:600点|CENTER:140点|
-||CENTER:PSP2DL|~|~|CENTER:''346660点''|CENTER:＋連打((すずどん連打))|CENTER:-|CENTER:-|~|~|
-||CENTER:iOS|~|~|CENTER:''362080点''||CENTER:-|CENTER:-|~|~|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''361290点''}||CENTER:COLOR(#ff3300){''370290点''}|CENTER:-|CENTER:COLOR(#ff3300){1730点}|CENTER:-|
-|CENTER:AC15.1.0||~|~|CENTER:''361380点''||CENTER:''372180点''|CENTER:''376140点''|CENTER:600点|CENTER:188点|
-|CENTER:AC15.2.0|CENTER:Wii U1SP|~|~|CENTER:''361350点''||CENTER:''372150点''|CENTER:''376110点''|~|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''1000890点''}||CENTER:-|CENTER:-|CENTER:COLOR(#ff3300){5230点}|CENTER:-|
-||CENTER:Wii2|~|CENTER:''171''|CENTER:''361370点''||CENTER:''372170点''|CENTER:''376130点''|CENTER:580点|CENTER:140点|
+|>|>|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|難易度|最大&br;コンボ数|>|>|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
+|~|~|~|~|~|>|CENTER:一人|CENTER:二人((両方かんたん))|CENTER:二人((片方ふつう))|~|~|h
+|CENTER:''AC12増SP''-14||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|CENTER:''170''|CENTER:''363160点''||CENTER:''373960点''|CENTER:-|CENTER:600点|CENTER:140点|
+||CENTER:PSP2DL|~|~|~|CENTER:''346660点''|CENTER:＋連打((すずどん連打))|CENTER:-|CENTER:-|~|~|
+||CENTER:iOS|~|~|~|CENTER:''362080点''||CENTER:-|CENTER:-|~|~|
+|CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''361290点''}||CENTER:COLOR(#ff3300){''370290点''}|CENTER:-|CENTER:COLOR(#ff3300){1730点}|CENTER:-|
+|CENTER:AC15.1.0||~|~|~|CENTER:''361380点''||CENTER:''372180点''|CENTER:''376140点''|CENTER:600点|CENTER:188点|
+|CENTER:AC15.2.0|CENTER:Wii U1SP&br;NS1DL|~|~|~|CENTER:''361350点''||CENTER:''372150点''|CENTER:''376110点''|~|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''1000890点''}||CENTER:-|CENTER:-|CENTER:COLOR(#ff3300){5230点}|CENTER:-|
+||CENTER:Wii2|~|~|CENTER:''171''|CENTER:''361370点''||CENTER:''372170点''|CENTER:''376130点''|CENTER:580点|CENTER:140点|
 -BPMは174。
 -全コースを通して''精度曲''。
 --ただし、PSP2のみ芋音符ではなく鈴連打なので例外。回転の速さによってはかなりの高スコアを出せるだろう。
@@ -28,7 +28,7 @@
 --bermei.inazawaは''某韓国製音ゲー''や''某DJシミュレーションゲーム''にも楽曲を提供していたことがある。
 -歌：[[夢の潮流>難易度表/かんたん/Dream Tide]]、[[Mulberry>難易度表/かんたん/Mulberry]]、[[駄々っ子モンスター>難易度表/かんたん/駄々っ子モンスター]]、[[リバイバー>難易度表/かんたん/リバイバー]]と同じ''茶太''([[茶太屋>http://chata.moo.jp/]])
 --ちなみに茶太はpop'n musicの''撫子メタル''も歌っている。
--曲IDは、''ujopop''
+-曲IDは、''ujopop''。
 
 -[[ふつう>難易度表/ふつう/友情ぽっぷ]]
 -[[むずかしい>難易度表/むずかしい/友情ぽっぷ]]

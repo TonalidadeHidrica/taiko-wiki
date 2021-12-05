@@ -26,7 +26,7 @@
 --歌唱は、''Julie''。
 -この譜面と[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]](おに)または[[Evidence of evil>難易度表/おに/Evidence of evil]](おに)を1ゲーム内でフルコンボすると、称号「''Seafood Seeker''」を入手できる。
 -現在はかつメダル1000枚で購入可能。
--曲IDは、''ta5ta5''
+-曲IDは、''ta5ta5''。
 ----
 -[[かんたん>難易度表/かんたん/Turquoise Tachometer]]
 -[[ふつう>難易度表/ふつう/Turquoise Tachometer]]

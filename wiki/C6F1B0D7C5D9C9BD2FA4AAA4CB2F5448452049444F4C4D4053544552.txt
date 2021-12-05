@@ -76,6 +76,7 @@
 
 ***譜面 [#score]
 新譜面&aname(n); − [[COLOR(#215dc6):見た目重視>#m]]&br;COLOR(red){PS Vita MS}は82小節目までしかありません。
+>高速大音符のHSは各譜面ごとに異なる。普通2、玄人3、達人4(暫定)
 &ref(utamas_2.png,nolink);
 ~旧譜面&br;新AC以降は★×8&br;新AC以降のゴーゴータイムは新譜面準拠
 &ref(出落ち代表.png,nolink);

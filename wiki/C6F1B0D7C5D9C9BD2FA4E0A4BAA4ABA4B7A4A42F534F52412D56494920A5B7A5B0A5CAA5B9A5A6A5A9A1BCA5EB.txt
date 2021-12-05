@@ -22,8 +22,7 @@
 -[[かんたん>難易度表/かんたん/SORA-VII シグナスウォール]]
 -[[ふつう>難易度表/ふつう/SORA-VII シグナスウォール]]
 -[[おに>難易度表/おに/SORA-VII シグナスウォール]]
--[[プレイ動画(直撮り)>https://youtu.be/yCffSCys1Uk]]
--[[プレイ動画(全良)>https://youtu.be/7yotfzZP_xo]]
+-[[プレイ動画>https://youtu.be/7yotfzZP_xo]]
 
 ***コメント [#comment]
 #pcomment(,noname)

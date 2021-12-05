@@ -51,4 +51,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(kmbaby_m.png,nolink);
+~&attachref(kmbaby_m2.png,nolink);

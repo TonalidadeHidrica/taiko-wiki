@@ -43,6 +43,7 @@
 
 ***譜面 [#score]
 AC8以降の譜面
+~DS2ではHS1.07がかかっている
 ~&attachref(chala_m2.png,nolink);
 
 ~PSP1の譜面&br;CS3までの譜面は50小節まで、＋風船。

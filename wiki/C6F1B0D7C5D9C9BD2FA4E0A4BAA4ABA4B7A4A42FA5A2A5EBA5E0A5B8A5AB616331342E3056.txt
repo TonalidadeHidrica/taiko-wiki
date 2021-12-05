@@ -1,14 +1,14 @@
 *アルムジカac14.0V [#title]
 ***詳細・攻略 [#more]
 -acシリーズ第4弾。
--詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14SP''|CENTER:iOS|CENTER:★×7|CENTER:''333''|CENTER:''832410点''|CENTER:＋連打|CENTER:650点|CENTER:140点|
+|CENTER:''AC14SP''|CENTER:iOS|CENTER:★×7|CENTER:''333''|CENTER:''832410点''|CENTER:+連打|CENTER:650点|CENTER:140点|
 ||CENTER:Wii3|~|~|CENTER:''835220点''|~|CENTER:660点|~|
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''840990点''}|~|CENTER:COLOR(#ff3300){2010点}|CENTER:-|
 |CENTER:AC15.1.0||~|~|CENTER:''?????0点''|~|CENTER:640点|CENTER:178点|
 |CENTER:AC15.2.0|CENTER:Wii5SP|~|~|CENTER:''843090点''|~|CENTER:660点|CENTER:175点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''993560点''}|~|CENTER:COLOR(#ff3300){2390点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''?????0点''|~|CENTER:2980点|CENTER:-|
 -BPMは140。
 -黄色連打が多い連打曲である。また風船連打も多い。 
 -大音符が多く、66個ある（全体の約19.8%）。

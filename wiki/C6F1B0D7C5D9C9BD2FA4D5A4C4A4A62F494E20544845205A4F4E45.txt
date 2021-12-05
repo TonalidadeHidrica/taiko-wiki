@@ -1,15 +1,17 @@
 *IN THE ZONE [#title]
-***詳細・攻略 [#more]
 -ナムコのPSP用ソフト「[[''ACE COMBAT X2 JOINT ASSAULT''>http://www.acecombat.jp/x2/]]」のテーマソング。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-||CENTER:''PSP2DL''|CENTER:★×6|CENTER:''222''|CENTER:''594070点''|CENTER:＋連打|CENTER:760点|CENTER:160点|CENTER:''ゴーゴーバグあり''|
-||CENTER:Wii3|CENTER:★×7|~|CENTER:''607030点''|~|~|~|~|
-|CENTER:AC14||~|~|CENTER:''606090点''|~|~|~||
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''641020点''}|~|CENTER:COLOR(#ff3300){2310点}|CENTER:-||
-|CENTER:AC15.1.0||CENTER:★×6|~|CENTER:''?????0点''|~|CENTER:780点|CENTER:215点||
-|CENTER:AC15.2.0||~|~|CENTER:''626660点''|~|CENTER:770点|~||
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3650点}|CENTER:-||
+***詳細・攻略 [#more]
+|>|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
+||CENTER:''PSP2DL''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|CENTER:''222''|CENTER:''594070点''|CENTER:＋連打|CENTER:760点|CENTER:160点|CENTER:''ゴーゴー&br;バグあり''|
+||CENTER:Wii3|~|★×7|~|CENTER:''607030点''|~|~|~|~|
+|CENTER:AC14||~|~|~|CENTER:''606090点''|~|~|~||
+|CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''641020点''}|~|CENTER:COLOR(#ff3300){2310点}|CENTER:-|~|
+|CENTER:AC15.1.0||~|★×6|~|CENTER:''?????0点''|~|CENTER:780点|CENTER:215点|~|
+|CENTER:AC15.2.0|NS1DL|~|~|~|CENTER:''626660点''|~|CENTER:770点|~|~|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3650点}|CENTER:-|~|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???点|-|~|
+
 -BPMは約172。
 -黄色連打が多く、11本（うちゴーゴータイムに9本）ある連打曲である。
 --そのため、AC15での全一は68万点を超えている。
@@ -26,7 +28,8 @@
 -作曲は、[[No Way>難易度表/ふつう/No Way Back]] [[Back>難易度表/ふつう/No Way Back(裏譜面)]]や[[風雲！>難易度表/ふつう/風雲！バチお先生]][[バチお先生>難易度表/ふつう/風雲！バチお先生(裏譜面)]]などと同じ''椎名豪''。
 -アーティストは、''Jonathan Underdown''。
 -DDRに収録の同名曲とは無関係。
--曲IDは、''acex2''
+-曲IDは、''acex2''。
+----
 -[[かんたん>難易度表/かんたん/IN THE ZONE]]
 -[[むずかしい>難易度表/むずかしい/IN THE ZONE]]
 -[[おに>難易度表/おに/IN THE ZONE]]

@@ -1,5 +1,6 @@
 *Howling [#title]
 -アニメ[[「''七つの大罪 戒めの復活''」>アニメ別収録曲#taizai]]のOP1。
+
 ***詳細 [#detail]
 |>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
@@ -11,14 +12,16 @@
 -''精度曲''のひとつ。
 -平均密度は、''約5.30打/秒''。
 -大音符が多く、30個ある。(全体の約6.73%)
+
 ***その他 [#other]
 -アーティストは、''[[FLOW>アーティスト別収録曲#flow]]×[[GRANRODEO>アーティスト別収録曲#granrodeo]]''。
 --作詞は、Kohshi Asakawa・Keigo Hayashi・Kisho Taniyama。作曲は、Takeshi Asakawa・Masaaki Iizuka。
-
+-曲IDは、''howlin''。
 ----
 -[[かんたん>難易度表/かんたん/Howling]]
 -[[ふつう>難易度表/ふつう/Howling]]
 -[[むずかしい>難易度表/むずかしい/Howling]]
+-[[オート動画>https://www.youtube.com/watch?v=0iOsLvONvJ8]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -2,11 +2,14 @@
 ***詳細・攻略 [#more]
 -竜シリーズ第1弾。
 -詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.1.2''||CENTER:★×7|CENTER:''355''|CENTER:''850440点''|CENTER:＋連打|CENTER:740点|CENTER:213点|
-|CENTER:AC15.2.0|CENTER:Wii5SP&br;PS Vita1&br;PS4 1DL&br;NS1DL|~|~|CENTER:''846740点''|~|CENTER:730点|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''999000点''}|~|CENTER:COLOR(#ff3300){2700点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''844220点''|~|CENTER:660点|CENTER:180点|
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.1.2''||★×7|''355''|''850440点''|＋連打|740点|213点|
+|AC15.2.0|Wii5SP&br;PS Vita1&br;PS4 1DL&br;NS1DL|~|~|''846740点''|~|730点|~|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''999000点''}|~|COLOR(#ff3300){2700点}|CENTER:-|
+||iOS|~|~|''844220点''|~|660点|180点|
+|AC16.1.0||~|~|''1001100点''|~|2820点|-|
+
 -BPMは110。
 --ゴーゴーはHS1.5がかかっており、見かけ上のBPMは165。
 --譜面が見切れるのであればHSをかけるのもアリ。

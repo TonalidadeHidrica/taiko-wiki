@@ -28,7 +28,7 @@
 -[[かんたん>難易度表/かんたん/延命治療]]
 -[[ふつう>難易度表/ふつう/延命治療]]
 -[[むずかしい>難易度表/むずかしい/延命治療]]
--[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?v=QyhzO0ijRu0&feature=youtu.be]]((手元付き))
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=QyhzO0ijRu0]]((手元付き))
 
 ***コメント [#comment]
 #pcomment(,noname)

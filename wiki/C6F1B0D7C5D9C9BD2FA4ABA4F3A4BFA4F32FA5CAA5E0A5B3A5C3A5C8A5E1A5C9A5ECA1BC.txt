@@ -1,13 +1,15 @@
 *ナムコットメドレー [#title]
-***詳細・攻略 [#more]
 -過去にファミコンで発売されたナムコのゲームミュージックをメドレーにしたもの。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''DS1''|CENTER:★×4|CENTER:''111''|CENTER:''267230点''|CENTER:+連打|CENTER:780点|CENTER:270点|
-|CENTER:AC10|CENTER:iOS&br;AR|CENTER:★×3|~|CENTER:''322680点''|~|CENTER:920点|CENTER:330点|
-||CENTER:PSP2DL&br;Wii3|~|~|CENTER:''323890点''|~|~|~|
-||CENTER:Wii U1&br;3DS3SP|~|~|CENTER:''333780点''|~|CENTER:930点|CENTER:528点|
-|CENTER:COLOR(#f30){真打}||~|~|CENTER:COLOR(#f30){''992960点''}|~|CENTER:COLOR(#f30){8560点}|CENTER:-|
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||''DS1''|★×4|''111''|''267230点''|＋連打|780点|270点|
+|''AC10''|iOS&br;AR|★×3|~|''322680点''|~|920点|330点|
+||PSP2DL&br;Wii3|~|~|''323890点''|~|~|~|
+||Wii U1&br;3DS3SP&br;NS1DL|~|~|''333780点''|~|930点|528点|
+|COLOR(#f30){真打}||~|~|COLOR(#f30){''992960点''}|~|COLOR(#f30){8560点}|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは約110〜153。
 --速度変化が激しく、可を出しやすい。
 -黄色連打が多い連打曲である。

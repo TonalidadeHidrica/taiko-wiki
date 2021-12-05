@@ -1,14 +1,14 @@
 *KARMA(Tatsujin Mix) [#title]
--バンダイナムコゲームス[[「''鉄拳6 BLOODLINE REBELLION''」>http://www.tekken-official.jp/tk6ac/index.html]]のBGMを本作用にリミックスした楽曲。
+-バンダイナムコゲームス「[[''鉄拳6 BLOODLINE REBELLION''>http://www.tekken-official.jp/tk6ac/index.html]]」のBGMを本作用にリミックスした楽曲。
 
 ***詳細 [#detail]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC14SP''|PSPDX|★×10|''876''|''1202440点''|310点|90点|
-|COLOR(#ff3300){真打モード}||~|~|COLOR(#ff3300){''1207770点''}|COLOR(#ff3300){1270点}|-|
-|AC15.10.4|Wii5SP|★×9|~|''1104520点''|340点|88点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1008060点''}|COLOR(#ff3300){1060点}|-|
-|AC16.1.0|~|~|~|''1007400点''|1150点|-|
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC14SP''|PSPDX|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×10|''876''|''1202440点''|310点|90点|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''1207770点''}|COLOR(#ff3300){1270点}|-|
+|AC15.10.4|Wii5SP&br;NS1DL|~|★×9|~|''1104520点''|340点|88点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1008060点''}|COLOR(#ff3300){1060点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1007400点''|1150点|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約145。
@@ -27,7 +27,7 @@
 
 ***その他 [#other]
 -サブタイトル表記は以下の通り。
---AC14、新筐体ブルーVer.以降：''「鉄拳6 BLOODLINE REBELLION」より''
+--AC14、AC15ブルーVer.以降、NS1：''「鉄拳6 BLOODLINE REBELLION」より''
 --PSPDX：''「鉄拳6」より''
 --Wii5：記載なし
 -アーティストは、[[''遠山明孝''>参加アーティスト一覧/遠山明孝]](AJURIKA)。

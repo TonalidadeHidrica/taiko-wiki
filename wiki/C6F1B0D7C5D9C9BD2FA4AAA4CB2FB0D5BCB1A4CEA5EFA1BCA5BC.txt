@@ -1,9 +1,9 @@
 *意識のワーゼ [#title]
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''PS4 1DL''|★×9|''636''|''1101600点''|＋連打|540点|133点|
-|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''998560点''}|~|COLOR(#ff3300){1540点}|-|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS4 1DL''|BGCOLOR(orangered):''ナムコオリジナル''|★×9|''636''|''1101600点''|＋連打|540点|133点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''998560点''}|~|COLOR(#ff3300){1540点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは89-130?

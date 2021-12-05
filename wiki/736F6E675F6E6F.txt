@@ -21,9 +21,12 @@
 -[[コメント>#comment]]
 
 **リスト &size(12){(最終更新：&lastmod;)}; [#list]
--凡例&br;''背景が灰色(COLOR(#ccc){■})の曲''・・・サヨナラ曲となり現在は非公開、もしくは別の楽曲に置き換わった曲&br;背景がベージュ色（COLOR(beige){■}）の曲・・・非公開だがどの曲が入っているか確定している番号
+-凡例&br;''背景が灰色(COLOR(#ccc){■})の曲''・・・サヨナラ曲となり現在は非公開、もしくは別の楽曲に置き換わった曲
+//-背景がベージュ色（COLOR(beige){■}）の曲・・・非公開だがどの曲が入っているか確定している番号
+-初出時のジャンルを記しています
 
-|CENTER:song_no|CENTER:曲|CENTER:ジャンル|CENTER:曲ID|CENTER:備考|h
+|>|>|>|CENTER:||c
+|song_no|曲|ジャンル|曲ID|CENTER:備考|h
 |1|[[てんぢく2000>難易度表/おに/てんぢく2000]]|BGCOLOR(orangered):ナムオリ|10jiku||
 |2|[[天体観測>難易度表/おに/天体観測]]|BGCOLOR(cyan):J-POP|10tai||
 |3|[[願いはエスペラント>難易度表/おに/願いはエスペラント]]|BGCOLOR(orangered):ナムオリ|espera|17/3/15〜|
@@ -298,7 +301,7 @@
 |237|[[おしえて くまとも>難易度表/おに/おしえて くまとも]]|BGCOLOR(darkorchid):ゲーミュ|kumatm||
 |238|[[久遠の夜>難易度表/おに/久遠の夜]]|BGCOLOR(orangered):ナムオリ|kuon||
 |239|[[鳳凰天舞無限崩れ>難易度表/おに/鳳凰天舞無限崩れ]]|BGCOLOR(orangered):ナムオリ|kuzure||
-|240|BGCOLOR(#ccc):[[SHINE!! キラキラ☆プリキュアアラモード>難易度表/おに/SHINE!! キラキラ☆プリキュアアラモード]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):?|BGCOLOR(#ccc):17/4/26〜19/3/14　サヨナラ曲|
+|240|BGCOLOR(#ccc):[[SHINE!! キラキラ☆プリキュアアラモード>難易度表/おに/SHINE!! キラキラ☆プリキュアアラモード]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):pr9ala|BGCOLOR(#ccc):17/4/26〜19/3/14　サヨナラ曲|
 |~|BGCOLOR(#ccc):[[VAMOLA!キョウリュウジャー>難易度表/おに/VAMOLA!キョウリュウジャー]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):kyorja|BGCOLOR(#ccc):〜16/3/29　サヨナラ曲|
 |241|[[きゅんっ！ヴァンパイアガール>難易度表/おに/きゅんっ！ヴァンパイアガール]]|BGCOLOR(darkorchid):ゲーミュ|kyunva||
 |242|[[君をのせて>難易度表/おに/君をのせて]]|BGCOLOR(orange):アニメ|laputa||
@@ -365,7 +368,7 @@
 |292|BGCOLOR(#ccc):[[もったいないとらんど>難易度表/おに/もったいないとらんど]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):mottai|BGCOLOR(#ccc):〜19/3/14　サヨナラ曲|
 |293|[[ヘイ，ミスタープロフェッサー>難易度表/おに/ヘイ,ミスタープロフェッサー]]|BGCOLOR(orangered):ナムオリ|mrprof||
 |294|[[PaPaPa Love>難易度表/おに/PaPaPa Love]]|BGCOLOR(darkorchid):ゲーミュ|mscl1||
-|295|BGCOLOR(beige):[[負け犬返上 feat.蟹プリンス>難易度表/おに/負け犬返上]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|BGCOLOR(beige):mscl3|BGCOLOR(beige):未公開曲|
+//|295|BGCOLOR(beige):[[負け犬返上 feat.蟹プリンス>難易度表/おに/負け犬返上]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|BGCOLOR(beige):mscl3|BGCOLOR(beige):未公開曲|
 |296|[[筋肉のような僕ら 〜マッスル愛のテーマ〜>難易度表/おに/筋肉のような僕ら]]|BGCOLOR(darkorchid):ゲーミュ|mscl5||
 |297|[[M.S.S.Planet>難易度表/おに/M.S.S.Planet]]|BGCOLOR(darkgray):ボカロ|msspln||
 |298|[[夢幻の蒼空>難易度表/おに/夢幻の蒼空]]|BGCOLOR(orangered):ナムオリ|mugens||
@@ -656,7 +659,7 @@
 |560|[[Choco Chiptune.>難易度表/おに/Choco Chiptune.]]|BGCOLOR(orangered):ナムオリ|cchipt||
 |561|[[輝きを求めて>難易度表/おに/輝きを求めて]]|BGCOLOR(orangered):ナムオリ|kagmtm||
 |562|BGCOLOR(#ccc):[[talking>難易度表/おに/talking]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):f2naru|BGCOLOR(#ccc):〜18/11/21　サヨナラ曲|
-|563|BGCOLOR(#ccc):[[Dokkin&#9826;魔法つかいプリキュア！>難易度表/おに/Dokkin 魔法つかいプリキュア！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):?|BGCOLOR(#ccc):〜17/12/6　サヨナラ曲|
+|563|BGCOLOR(#ccc):[[Dokkin&#9826;魔法つかいプリキュア！>難易度表/おに/Dokkin 魔法つかいプリキュア！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):pr9mah|BGCOLOR(#ccc):〜17/12/6　サヨナラ曲|
 |564|BGCOLOR(#ccc):[[QUESTION>難易度表/おに/QUESTION]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):ansa23|BGCOLOR(#ccc):〜18/11/21　サヨナラ曲|
 |565|[[ほうかご☆マジシャン>難易度表/おに/ほうかご☆マジシャン]]|BGCOLOR(orangered):ナムオリ|hkgmag||
 |566|[[凛>難易度表/おに/凛]]|BGCOLOR(orangered):ナムオリ|rinhis||
@@ -763,7 +766,7 @@
 |664|[[どん子のファーストデート>難易度表/おに/どん子のファーストデート]]|BGCOLOR(orangered):ナムオリ|bko2||
 |665|[[ワタリドリ>難易度表/おに/ワタリドリ]]|BGCOLOR(cyan):J-POP|alxwtr||
 |666|[[ヒカリアレ>難易度表/おに/ヒカリアレ]]|BGCOLOR(orange):アニメ|haiky2||
-|667|BGCOLOR(#ccc):[[花丸◎日和！>難易度表/おに/花丸◎日和！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):?|BGCOLOR(#ccc):〜18/11/21　サヨナラ曲|
+|667|BGCOLOR(#ccc):[[花丸◎日和！>難易度表/おに/花丸◎日和！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):?touken|BGCOLOR(#ccc):〜18/11/21　サヨナラ曲|
 |668|[[ペンパイナッポーアッポーペン(PPAP)>難易度表/おに/ペンパイナッポーアッポーペン(PPAP)]]|BGCOLOR(lime):バラエティ|ppap||
 |669|[[「ポケットモンスター サン・ムーン」メドレー>難易度表/おに/「ポケットモンスター サン・ムーン」メドレー]]|BGCOLOR(darkorchid):ゲーミュ|pkmnsm||
 |670|[[ファミコンメドレー>難易度表/おに/ファミコンメドレー]]|BGCOLOR(darkorchid):ゲーミュ|fcmedl||
@@ -905,7 +908,7 @@
 |806|[[Spread the Wings!!>難易度表/おに/Spread the Wings!!]]|BGCOLOR(darkorchid):ゲーミュ|im4spr||
 |807|[[ヒカリのdestination>難易度表/おに/ヒカリのdestination]]|BGCOLOR(darkorchid):ゲーミュ|im4dst||
 |808|[[ハイスペックニート>難易度表/おに/ハイスペックニート]]|BGCOLOR(darkgray):ボカロ|mikuhn||
-|809|[[アルカリレットウセイ>難易度表/おに/アルカリレットウセイ]]|BGCOLOR(darkgray):ボカロ|mikyar||
+|809|[[アルカリレットウセイ>難易度表/おに/アルカリレットウセイ]]|BGCOLOR(darkgray):ボカロ|mikuar||
 |810|BGCOLOR(beige):[[Nesin Amatias>難易度表/おに/Nesin Amatias]]|BGCOLOR(orangered):ナムオリ|BGCOLOR(beige):tor|BGCOLOR(beige):期間限定曲|
 |811|[[あなたとトゥラッタッタ♪>難易度表/おに/あなたとトゥラッタッタ♪]]|BGCOLOR(cyan):J-POP|manpu2||
 |812|[[アンビバレント>難易度表/おに/アンビバレント]]|BGCOLOR(cyan):J-POP|kykamb||
@@ -993,10 +996,49 @@
 |894|[[今>難易度表/おに/今]]|BGCOLOR(cyan):ポップス|?||
 |895|[[HIMAWARI HAPPY>難易度表/おに/HIMAWARI HAPPY]]|BGCOLOR(cyan):ポップス|?||
 |896|[[続・〆ドレー2000>難易度表/おに/続・〆ドレー2000]]|BGCOLOR(orangered):ナムオリ|?||
+|897|[[ヒミツキチューバー>難易度表/おに/ヒミツキチューバー]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|nbox||
+|898|[[God knows...>難易度表/おに/God knows...]]|BGCOLOR(hotpink):アニメ|?||
+|899|非公開|BGCOLOR(cyan):ポップス|非公開||
+|900|非公開|BGCOLOR(orangered):ナムオリ|非公開||
+|901|非公開|BGCOLOR(cyan):ポップス|非公開||
+|902|非公開|BGCOLOR(yellow):キッズ|非公開||
+|903|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
+|904|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
+|905|[[memoria ficta>難易度表/おに/memoria ficta]]|BGCOLOR(orangered):ナムオリ|?||
+|906|[[ペットショップ大戦>難易度表/おに/ペットショップ大戦]]|BGCOLOR(orangered):ナムオリ|?||
+|907|[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/おに/TOKIMEKI・ですとろいやー！！]]|BGCOLOR(orangered):ナムオリ|?||
+|908|[[レトロマニア狂想曲>難易度表/おに/レトロマニア狂想曲]]|BGCOLOR(darkgray):ボカロ|?||
+|909|[[キレキャリオン>難易度表/おに/キレキャリオン]]|BGCOLOR(darkgray):ボカロ|?||
+|910|[[猫サンキュー>難易度表/おに/猫サンキュー]]|BGCOLOR(cyan):ポップス|?||
+|911|[[神様の言うとおりに>難易度表/おに/神様の言うとおりに]]|BGCOLOR(cyan):ポップス|?||
+|912|[[ヒーリングっど&#9829;プリキュア Touch!! >難易度表/おに/ヒーリングっど・プリキュア Touch!!]]|BGCOLOR(yellow):キッズ|?||
+|913|[[ギンギラ銀河>難易度表/おに/ギンギラ銀河]]|BGCOLOR(yellow):キッズ|?||
+|914|[[シンクロニカ・エアライン>難易度表/おに/シンクロニカ・エアライン]]|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|?||
+|915|[[白日>難易度表/おに/白日]]|BGCOLOR(cyan):ポップス|kgnhak||
+|916|[[魔進戦隊キラメイジャー>難易度表/おに/魔進戦隊キラメイジャー]]|BGCOLOR(yellow):キッズ|?||
+|917|[[Freeway3234>難易度表/おに/Freeway3234]]|BGCOLOR(orangered):ナムオリ|?||
+|918|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|BGCOLOR(orangered):ナムオリ|idol||
+|919|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|BGCOLOR(orangered):ナムオリ|?||
+|920|[[ゴッドソング>難易度表/おに/ゴッドソング]]|BGCOLOR(cyan):ポップス|godsng||
+|921|[[8月の坂>難易度表/おに/8月の坂]]|BGCOLOR(cyan):ポップス|?||
+|922|[[アバみ>難易度表/おに/アバみ]]|BGCOLOR(cyan):ポップス|?||
+|923|[[まちがいさがし>難易度表/おに/まちがいさがし]]|BGCOLOR(cyan):ポップス|?||
+|924|[[青と夏>難易度表/おに/青と夏]]|BGCOLOR(cyan):ポップス|?||
+|925|[[秒針を噛む>難易度表/おに/秒針を噛む]]|BGCOLOR(cyan):ポップス|?||
+|926|[[命に嫌われている。>難易度表/おに/命に嫌われている。]]|BGCOLOR(darkgray):ボーカロイド|?||
+|927|非公開|BGCOLOR(darkorchid): ゲーム＆&br;バラエティ |非公開||
+|928|非公開|BGCOLOR(darkorchid): ゲーム＆&br;バラエティ |非公開||
+|929|非公開|BGCOLOR(darkorchid): ゲーム＆&br;バラエティ |非公開||
+|930|非公開|BGCOLOR(darkorchid): ゲーム＆&br;バラエティ |非公開||
+|931|[[JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|BGCOLOR(darkorchid): ゲーム＆&br;バラエティ |?||
+
+
+
+//||[[曲名>難易度表/おに/曲名]]|BGCOLOR():|?||
 
 **未確認 [#lostn]
-|CENTER:60|350|CENTER:COLOR(black):70|60||c
-|CENTER:song_no|CENTER:曲|CENTER:ジャンル|CENTER:曲ID|CENTER:備考|
+|>|>|>|CENTER:||c
+|song_no|曲|ジャンル|曲ID|CENTER:備考|
 |334?|[[エレクトリック・ポストマン>難易度表/おに/エレクトリック・ポストマン]]|BGCOLOR(orangered):ナムオリ|postm||
 |529?|[[スカッとじゃんけん>難易度表/おに/スカッとじゃんけん]]|BGCOLOR(lime):バラエティ|?||
 |690?|[[UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|BGCOLOR(orangered):ナムオリ|?|段位道場用、達人譜面固定|

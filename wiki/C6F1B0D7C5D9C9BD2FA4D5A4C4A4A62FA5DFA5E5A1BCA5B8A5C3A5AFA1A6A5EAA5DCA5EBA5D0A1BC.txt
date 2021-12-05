@@ -1,10 +1,12 @@
 *ミュージック・リボルバー [#gca48e2a]
-***詳細・攻略 [#q8dc22a0]
 -タイトー「''ミュージックガンガン！2''」とのコラボ楽曲のひとつ。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.1.3''|CENTER:PS Vita1DL&br;3DS3DL&br;PS4 1DL|CENTER:★×3|CENTER:''222''|CENTER:''489670点''|CENTER:＋連打|CENTER:610点|CENTER:188点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''992050点''}|~|CENTER:COLOR(#ff3300){3850点}|CENTER:-|
+***詳細・攻略 [#q8dc22a0]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.1.3''|CENTER:PS Vita1DL&br;3DS3DL&br;PS4 1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×3|CENTER:''222''|CENTER:''489670点''|CENTER:＋連打|CENTER:610点|CENTER:188点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''992050点''}|~|CENTER:COLOR(#ff3300){3850点}|CENTER:-|
+||iOS&br;AR|~|~|~|''?????0点''|~|??0点|??0点|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|??0点|-|
 -BPMは168。
 -★×3だが8分がかなり多い。
 --特にラストゴーゴーは休みがほとんどないため、くす玉でどれだけ体力を削られないかがクリアのカギになるだろう。
@@ -16,7 +18,7 @@
 ***その他 [#other]
 -リボルバーの英語表記は「revolver」であり、「''回転式拳銃''」を意味する。
 -アーティストは、''世阿弥''。
--曲IDは、''mggre2''
+-曲IDは、''mggrev''(AC、iOS・AR)、''mggre2''(家庭用作品)。
 
 -[[かんたん>難易度表/かんたん/ミュージック・リボルバー]]
 -[[むずかしい>難易度表/むずかしい/ミュージック・リボルバー]]

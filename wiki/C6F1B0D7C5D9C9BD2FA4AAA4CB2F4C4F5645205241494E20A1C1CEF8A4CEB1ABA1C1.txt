@@ -1,18 +1,29 @@
-* LOVE RAIN 〜恋の雨〜 [#ue0acc50]
-*** 詳細・攻略 [#q05ce247]
-- ドラマ''「月の恋人〜Moon Lovers〜」''主題歌。
-- 詳細は以下の通り:
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14''|CENTER:★×7|CENTER:''321''|CENTER:''1002960点''|CENTER:850点|CENTER:220点|
-|CENTER:COLOR(#ff3300){真打モード}|~|~|CENTER:COLOR(#ff3300){''1004450点''}|CENTER:COLOR(#ff3300){2930点}|CENTER:-|
+*LOVE RAIN 〜恋の雨〜 [#title]
+-ドラマ''「月の恋人〜Moon Lovers〜」''主題歌。
+
+***詳細 [#more]
+|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア((赤字は真打モード))|初項|公差|h
+|''AC14''|★×7|''321''|''1002960点''|850点|220点|
+|COLOR(#ff3300){真打モード}|~|~|COLOR(#ff3300){''1004450点''}|COLOR(#ff3300){2930点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは110。
 -''精度曲''のひとつ。
 -16分音符は4連打までだが、偶数連打が多くややリズム難気味。
+
+***その他 [#other]
 -アーティストは、''久保田利伸''。
+--編曲は、柿崎洋一郎。
+-曲IDは、''lovera''。
+----
 -[[かんたん>難易度表/かんたん/LOVE RAIN 〜恋の雨〜]]
 -[[ふつう>難易度表/ふつう/LOVE RAIN 〜恋の雨〜]]
 -[[むずかしい>難易度表/むずかしい/LOVE RAIN 〜恋の雨〜]]
 -[[プレイ動画>https://www.youtube.com/watch?v=g2GbgtF581s]]
-*** コメント [#r8266101]
+
+***コメント [#comment]
 #pcomment(,noname)
-*** 譜面 [#g02d8f6e]
+
+***譜面 [#score]
 &attachref(love rain_2.png,nolink);

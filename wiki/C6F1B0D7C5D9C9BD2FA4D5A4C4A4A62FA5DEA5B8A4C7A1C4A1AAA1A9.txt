@@ -1,9 +1,12 @@
 *マジで…！？ [#title]
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15 超会議2015Ver.''&br;AC15.6.3|CENTER:COLOR(blue){PS Vita MS SP}|CENTER:★×5|CENTER:''139''|CENTER:''582730点''|CENTER:＋連打|CENTER:790点|CENTER:320点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''984370点''}|~|CENTER:COLOR(#ff3300){4430点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|最大&br;コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15 超会議2015Ver.''&br;AC15.6.3|CENTER:COLOR(blue){PS Vita MS SP}|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|CENTER:''139''|CENTER:''582730点''|CENTER:＋連打|CENTER:790点|CENTER:320点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''984370点''}|~|CENTER:COLOR(#ff3300){4430点}|CENTER:-|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''?????0点''|~|??0点|-|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+
 -BPMは140。
 -黄色連打がかなり多い連打曲で、1本あたりの長さも短い。
 -全体的に裏拍配置が多く、リズムが取りづらい。
@@ -19,6 +22,7 @@
 -2015年5月28日、[[アイドルマスター10周年＆太鼓の達人15周年のコラボ祭>http://taiko.namco-ch.net/taiko/imas-taiko/]]で、''「7週連続で楽曲配信＆「アイドルマスター(765PRO ALLSTARS)完全新曲」世界初公開！」''の第7弾として新筐体に配信された。
 --第6弾までは復活、あるいはCSからの再録曲だったが、この曲は''完全新曲''。
 -作曲は、''佐藤貴文''。作詞は、''エトウ''と''くぼけん''。
+
 -[[かんたん>難易度表/かんたん/マジで…！？]]
 -[[むずかしい>難易度表/むずかしい/マジで…！？]]
 -[[おに>難易度表/おに/マジで…！？]]

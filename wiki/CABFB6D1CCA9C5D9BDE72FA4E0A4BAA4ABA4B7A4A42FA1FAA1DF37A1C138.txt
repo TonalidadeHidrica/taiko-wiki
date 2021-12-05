@@ -42,9 +42,11 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''7.000未満''|
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''6.500未満''|
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''6.000未満''|
-|BGCOLOR(orange):|[[キルミーのベイベー！>難易度表/むずかしい/キルミーのベイベー！]]|''5.897''|200|490|83.10秒|サヨナラ曲 ・ ''5位(★×8)'' ・ ''ジャンル1位(★×8):COLOR(orange):アニメ''|
-|BGCOLOR(orangered):|[[〆ドレー2000>難易度表/むずかしい/〆ドレー2000]]|''5.887''|209.01※|1003|170.37秒|''(★×8)''|
+|BGCOLOR(orangered):|[[幕末維新譚>難易度表/むずかしい/幕末維新譚]]|''5.941''|???※|800|134.66秒|''5位(★×8)''|
+|BGCOLOR(orange):|[[キルミーのベイベー！>難易度表/むずかしい/キルミーのベイベー！]]|''5.897''|200|490|83.10秒|サヨナラ曲 ・ ''ジャンル1位(★×8):COLOR(orange):アニメ''|
+|BGCOLOR(orangered):|[[〆ドレー2000>難易度表/むずかしい/〆ドレー2000]]|''5.887''|209.01※|1003|170.37秒||
 |BGCOLOR(orangered):|[[Hurtling Boys>難易度表/むずかしい/Hurtling Boys]]|''5.849''|195|633|108.23秒||
+|BGCOLOR(orangered):|[[poxei&#9830;DOON>難易度表/むずかしい/poxei◆DOON]]|''5.759''|???※|869|150.90秒||
 |BGCOLOR(orangered):|[[恋文2000>難易度表/むずかしい/恋文2000]]|''5.743''|200|665|115.80秒||
 |BGCOLOR(orangered):|[[はやさいたま2000>難易度表/むずかしい/はやさいたま2000]]|''5.586''||488|87.36秒||
 |BGCOLOR(orangered):|[[束ね糸>難易度表/むずかしい/束ね糸]]|''5.524''|270|666|120.56秒||
@@ -54,34 +56,46 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[時空庁時空1課>難易度表/むずかしい/時空庁時空1課]]|''5.390''|180|601|111.50秒||
 |BGCOLOR(goldenrod):|[[プチポチ>難易度表/むずかしい/プチポチ]]|''5.378''|146.33※|527|98.00秒|''新筐体ジャンル1位(★×8):COLOR(goldenrod):クラシック''|
 |BGCOLOR(orangered):|[[タベルナ2000>難易度表/むずかしい/タベルナ2000]]|''5.333''|170.00※|639|119.82秒||
+|BGCOLOR(orangered):|[[まるくてはやくてすさまじいリズム>難易度表/むずかしい/まるくてはやくてすさまじいリズム]]|''5.330''|???|628|117.83秒||
+|BGCOLOR(orangered):|[[森羅万象>難易度表/むずかしい/森羅万象]]|''5.322''|290|702|131.90秒||
 |BGCOLOR(orangered):|[[まださいたま2000COLOR(#890089):(達人譜面)>難易度表/むずかしい/まださいたま2000]]|''5.292''||635|120.00秒||
 |BGCOLOR(orangered):|[[まださいたま2000COLOR(#5f5f5f):(普通譜面)>難易度表/むずかしい/まださいたま2000]]|''5.292''||635|120.00秒||
 |BGCOLOR(cyan):|[[新しい光(9mm)>難易度表/むずかしい/新しい光(9mm)]]|''5.287''|179.82※|665|125.79秒|サヨナラ曲 ・ ''ジャンル1位(★×8):COLOR(cyan):J-POP''|
 |BGCOLOR(orangered):|[[Evidence of evil>難易度表/むずかしい/Evidence of evil]]|''5.286''|180|563|106.50秒||
+|BGCOLOR(orangered):|[[気焔万丈神楽>難易度表/むずかしい/気焔万丈神楽]]|''5.277''|200|661|125.25秒||
 |BGCOLOR(orangered):|[[Calculator>難易度表/むずかしい/Calculator]]|''5.267''||554|105.19秒||
 |BGCOLOR(orangered):|[[D's Adventure Note>難易度表/むずかしい/D's Adventure Note]]|''5.219''|174.00※|647|123.96秒||
 |BGCOLOR(orangered):|[[8OROCHI>難易度表/むずかしい/8OROCHI]]|''5.181''|200.8|685|132.22秒||
 |BGCOLOR(darkorchid):|[[怒槌>難易度表/むずかしい/怒槌]]|''5.152''|198.76※|748|145.20秒||
 |BGCOLOR(orangered):|[[大空と太鼓の踊り>難易度表/むずかしい/大空と太鼓の踊り]]|''5.151''||641|124.44秒||
 |BGCOLOR(orangered):|[[EkiBEN2000>難易度表/むずかしい/EkiBEN2000]]|''5.150''|194|630|122.32秒||
+|BGCOLOR(orangered):|[[或ル不和>難易度表/むずかしい/或ル不和]]|''5.148''|200|593|115.20秒||
+|BGCOLOR(orangered):|[[デッド・オア・ダイ>難易度表/むずかしい/デッド・オア・ダイ]]|''5.148''|???|690|134.03秒||
 |BGCOLOR(orangered):|[[きたさいたま2000>難易度表/むずかしい/きたさいたま2000]]|''5.140''|222|614|119.46秒||
 |BGCOLOR(orangered):|[[X-DAY2000>難易度表/むずかしい/X-DAY2000]]|''5.137''||554|107.84秒||
 |BGCOLOR(orangered):|[[冷凍庫CJ 〜嗚呼面太鼓ブラザーズ〜>難易度表/むずかしい/冷凍庫CJ 〜嗚呼面太鼓ブラザーズ〜]]|''5.114''|240|450|88.00秒||
 |BGCOLOR(orangered):|[[夜桜謝肉祭COLOR(#890089):(達人譜面)>難易度表/むずかしい/夜桜謝肉祭]]|''5.087''|169.85※|690|135.65秒||
+|BGCOLOR(orangered):|[[わら得る2000>難易度表/むずかしい/わら得る2000]]|''5.079''|211.19※|604|118.91秒||
 |BGCOLOR(darkorchid):|[[Ridge Racer>難易度表/おに/Ridge Racer]]|''5.071''|139.66※|732|144.35秒||
 |BGCOLOR(darkgray):|[[おにぎりはどこかしら♪>難易度表/むずかしい/おにぎりはどこかしら♪]]|''5.029''||612|121.70秒|''ジャンル1位(★×8):COLOR(darkgray):ボーカロイド曲''|
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''5.000未満''|
 |BGCOLOR(orangered):|[[Ignis Danse>難易度表/むずかしい/Ignis Danse]]|''4.923''||582|118.21秒||
+|BGCOLOR(orangered):|[[λ7708>難易度表/むずかしい/λ7708]]|''4.915''|???※|503|102.35秒||
+|BGCOLOR(darkorchid):|[[Xevel>難易度表/むずかしい/Xevel]]|''4.908''|???※|622|126.74秒||
 |BGCOLOR(darkgray):|[[SstTAarR*>難易度表/むずかしい/SstTAarR*]]|''4.877''|200|556|114.00秒||
 |BGCOLOR(darkorchid):|[[FUJIN Rumble>難易度表/むずかしい/FUJIN Rumble]]|''4.876''|192|531|108.91秒||
 |BGCOLOR(darkorchid):|[[Garakuta Doll Play>難易度表/むずかしい/Garakuta Doll Play]]|''4.875''|256|569|116.72秒||
+|BGCOLOR(orangered):|[[カラフル>難易度表/むずかしい/カラフル]]|''4.853''|204|460|94.78秒||
 |BGCOLOR(orangered):|[[Purple Rose Fusion>難易度表/むずかしい/Purple Rose Fusion]]|''4.831''||615|127.30秒||
 |BGCOLOR(cyan):|[[Punishment>難易度表/むずかしい/Punishment]]|''4.825''|215.06※|673|139.49秒|サヨナラ曲|
 |BGCOLOR(orangered):|[[紫煌ノ乱>難易度表/むずかしい/紫煌ノ乱]]|''4.817''|183|537|111.48秒||
+|BGCOLOR(orangered):|[[ラヴ&#9825;スパイス&#9825;ライクユー!!!>難易度表/むずかしい/ラヴ・スパイス・ライクユー!!!]]|''4.815''|200|572|118.8秒||
+|BGCOLOR(orangered):|[[続・〆ドレー2000>難易度表/むずかしい/続・〆ドレー2000]]|''4.781''|???※|594|124.24秒||
 |BGCOLOR(orangered):|[[またさいたま2000>難易度表/むずかしい/またさいたま2000]]|''4.778''||574|120.13秒||
 |BGCOLOR(orangered):|[[ドンカマ2000>難易度表/むずかしい/ドンカマ2000]]|''4.770''|177.71※|587|123.07秒||
 |BGCOLOR(orangered):|[[トイマチック☆パレード!!>難易度表/むずかしい/トイマチック☆パレード!!]]|''4.761''|???※|574|120.56秒||
 |BGCOLOR(darkgray):|[[愛×愛ホイッスル(カレーメシ公式曲)>難易度表/むずかしい/愛×愛ホイッスル（カレーメシ公式曲）]]|''4.721''|184.68※|704|149.13秒||
+|BGCOLOR(orangered):|[[うちゅうひこうし冒険譚>難易度表/むずかしい/うちゅうひこうし冒険譚]]|''4.720''|208|560|118.65秒||
 |BGCOLOR(darkorchid):|[[Abyss of hell>難易度表/むずかしい/Abyss of hell]]|''4.711''||704|149.43秒||
 |BGCOLOR(darkgray):|[[Eternal bond>難易度表/むずかしい/Eternal bond]]|''4.676''|170|486|103.94秒||
 |BGCOLOR(orangered):|[[化物月夜>難易度表/むずかしい/化物月夜]]|''4.660''|180|501|107.50秒||
@@ -91,13 +105,17 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[てんぢく2000>難易度表/むずかしい/てんぢく2000]]|''4.625''|180|592|128.00秒||
 |BGCOLOR(orangered):|[[亜空間遊泳ac12.5>難易度表/むずかしい/亜空間遊泳ac12.5]]|''4.612''|153|624|135.29秒||
 |BGCOLOR(orangered):|[[HARDCOREノ心得>難易度表/むずかしい/HARDCOREノ心得]]|''4.611''|???※|530|114.95秒||
+|BGCOLOR(orangered):|[[頂>難易度表/むずかしい/頂]]|''4.596''|202|529|115.10秒||
 |BGCOLOR(orangered):|[[天照>難易度表/むずかしい/天照]]|''4.592''||545|118.68秒||
+|BGCOLOR(orangered):|[[Coquette>難易度表/むずかしい/Coquette]]|''4.587''|200|527|114.9秒||
 |BGCOLOR(orangered):|[[ケチャドン2000>難易度表/むずかしい/ケチャドン2000]]|''4.573''|195.73※|436|95.34秒||
 |BGCOLOR(orangered):|[[R.I.>難易度表/むずかしい/R.I.]]|''4.555''|190|584|128.21秒||
 |BGCOLOR(darkorchid):|[[VERTeX>難易度表/むずかしい/VERTeX]]|''4.507''|237|510|113.16秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''4.500未満''|
 |BGCOLOR(orangered):|[[夜桜謝肉祭COLOR(#006191):(玄人譜面)>難易度表/むずかしい/夜桜謝肉祭]]|''4.497''|169.85※|610|135.65秒||
 |BGCOLOR(orangered):|[[≠MM>難易度表/むずかしい/≠MM]]|''4.486''|214.01※|703|156.72秒||
+|BGCOLOR(darkorchid):|[[ouroboros -twin stroke of the end->難易度表/むずかしい/ouroboros -twin stroke of the end-]]|''4.478''|188|651|145.37秒||
+|BGCOLOR(orangered):|[[Goldfish City>難易度表/むずかしい/Goldfish City]]|''4.471''|200|515|115.2秒||
 |BGCOLOR(darkorchid):|[[Angel Halo>難易度表/むずかしい/Angel Halo]]|''4.458''||535|120.00秒||
 |BGCOLOR(darkorchid):|[[ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]|''4.441''|175|670|150.86秒||
 |BGCOLOR(orangered):|[[万戈イム−一ノ十>難易度表/むずかしい/万戈イム−一ノ十]]|''4.433''||532|120.00秒||
@@ -115,24 +133,30 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(darkorchid):|[[Kamikaze Remix>難易度表/むずかしい/Kamikaze Remix]]|''4.332''|158.03※|500|115.42秒||
 |BGCOLOR(orangered):|[[DON'T CUT>難易度表/むずかしい/DON'T CUT]]|''4.309''|170|530|123.00秒||
 |BGCOLOR(orangered):|[[ダンガンノーツ>難易度表/むずかしい/ダンガンノーツ]]|''4.306''|???※|502|116.57秒||
+|BGCOLOR(orangered):|[[天下統一録>難易度表/むずかしい/天下統一録]]|''4.293''|210|574|133.71秒||
 |BGCOLOR(goldenrod):|[[メヌエット>難易度表/むずかしい/メヌエット]]|''4.280''|130|402|93.92秒||
 |BGCOLOR(goldenrod):|[[トッカータとフーガとロック>難易度表/むずかしい/トッカータとフーガとロック]]|''4.264''|143|623|146.12秒||
 |BGCOLOR(orangered):|[[懐中庭園を持つ少女>難易度表/むずかしい/懐中庭園を持つ少女]]|''4.242''|301.58※|476|112.21秒||
 |BGCOLOR(orangered):|[[アレキサンダーのテーマ>難易度表/むずかしい/アレキサンダーのテーマ]]|''4.231''||536|126.67秒||
+|BGCOLOR(orangered):|[[Don't Stop the Game>難易度表/むずかしい/Don't Stop the Game]]|''4.222''|175|498|117.94秒||
 |BGCOLOR(orangered):|[[食らいむ！まうんとぱふぇ>難易度表/むずかしい/食らいむ！まうんとぱふぇ]]|''4.221''|186|499|118.23秒||
 |BGCOLOR(orangered):|[[DEBSTEP!>難易度表/むずかしい/DEBSTEP!]]|''4.217''|130|545|129.23秒||
 |BGCOLOR(darkgray):|[[初音ミクの消失 -劇場版-COLOR(#006191):(玄人譜面)>難易度表/むずかしい/初音ミクの消失‐劇場版‐]]|''4.215''||485|115.06秒||
+|BGCOLOR(darkorchid):|[[GERBERA>難易度表/むずかしい/GERBERA]]|''4.206''|205.02|512|121.74秒||
 |BGCOLOR(orangered):|[[スーハー2000>難易度表/むずかしい/スーハー2000]]|''4.178''|256.17※|505|120.86秒||
 |BGCOLOR(darkorchid):|[[IN THE ZONE>難易度表/むずかしい/IN THE ZONE]]|''4.175''|172.09※|492|117.84秒||
 |BGCOLOR(darkorchid):|[[Scarlet Lance>難易度表/むずかしい/Scarlet Lance]]|''4.147''||495|119.35秒||
 |BGCOLOR(lime):|[[郢曲／暁闇>難易度表/むずかしい/郢曲／暁闇]]|''4.137''||515|124.50秒||
+|BGCOLOR(orangered):|[[疾風怒濤>難易度表/むずかしい/疾風怒濤]]|''4.136''|???※|498|120.42秒||
 |BGCOLOR(orangered):|[[きたさいたま200>難易度表/むずかしい/きたさいたま200]]|''4.112''|177.6|614|149.32秒||
+|BGCOLOR(orangered):|[[TD - 28619029byte remix ->難易度表/むずかしい/TD -28619029byte remix-]]|''4.091''|150.11|605|147.89秒||
 |BGCOLOR(darkorchid):|[[Sunset Runaway>難易度表/むずかしい/Sunset Runaway]]|''4.088''|153.98※|415|101.51秒||
 |BGCOLOR(goldenrod):|[[千鼓千鼓>難易度表/むずかしい/千鼓千鼓]]|''4.088''||533|130.39秒||
 |BGCOLOR(orangered):|[[Blue Rose Ruin>難易度表/むずかしい/Blue Rose Ruin]]|''4.079''|185|465|114.00秒||
 |BGCOLOR(orangered):|[[愛と浄罪の森>難易度表/むずかしい/愛と浄罪の森]]|''4.075''|???※|501|122.95秒|動画から計算|
 |BGCOLOR(darkgray):|[[初音ミクの消失 -劇場版-COLOR(#5f5f5f):(普通譜面)>難易度表/むずかしい/初音ミクの消失‐劇場版‐]]|''4.059''||467|115.06秒||
 |BGCOLOR(orangered):|[[VICTORIA>難易度表/むずかしい/VICTORIA]]|''4.032''|???※|544|134.92秒||
+|BGCOLOR(orangered):|[[GO GET'EM!>難易度表/むずかしい/GO GET'EM!]]|''4.004''|146|383|95.65秒||
 |BGCOLOR(orangered):|[[月読命>難易度表/むずかしい/月読命]]|''4.001''||512|127.96秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''4.000未満''|
 |BGCOLOR(orangered):|[[隼>難易度表/むずかしい/隼]]|''3.991''|186.01※|558|139.83秒||
@@ -145,9 +169,11 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[らんぶる乱舞>難易度表/むずかしい/らんぶる乱舞]]|''3.855''|160|480|124.50秒||
 |BGCOLOR(goldenrod):|[[幻想即興曲>難易度表/むずかしい/幻想即興曲]]|''3.838''|153.76※|359|93.55秒||
 |BGCOLOR(darkorchid):|[[Night And Day>難易度表/むずかしい/Night And Day]]|''3.836''|140.01※|480|125.14秒||
+|BGCOLOR(orangered):|[[ARMAGEΔDON>難易度表/むずかしい/ARMAGEΔDON]]|''3.834''|190|474|123.63秒||
 |BGCOLOR(darkorchid):|[[Pastel Sealane>難易度表/むずかしい/Pastel Sealane]]|''3.821''|140.1|556|145.50秒||
 |BGCOLOR(orangered):|[[Heaven's Rider>難易度表/むずかしい/Heaven's Rider]]|''3.816''|150|464|121.60秒||
 |BGCOLOR(orangered):|[[STAGE 0.ac11>難易度表/むずかしい/STAGE 0.ac11]]|''3.801''|138|502|132.07秒||
+|BGCOLOR(orangered):|[[アムピト&#9826;リーテー>難易度表/むずかしい/アムピト◇リーテー]]|''3.792''|190.92※|485|127.91秒||
 |BGCOLOR(orangered):|[[双竜ノ乱>難易度表/むずかしい/双竜ノ乱]]|''3.782''|160|446|117.94秒||
 |BGCOLOR(goldenrod):|[[チャーリー ダッシュ！>難易度表/むずかしい/チャーリー ダッシュ！]]|''3.749''|156.54※|480|128.02秒||
 |BGCOLOR(orangered):|[[夜櫻ブレヰダアズ>難易度表/むずかしい/夜櫻ブレヰダアズ]]|''3.727''|166.37※|423|113.51秒||
@@ -155,12 +181,14 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(darkorchid):|[[メタルホーク BGM1COLOR(#890089):(達人譜面)>難易度表/むずかしい/メタルホーク　BGM1]]|''3.684''||438|118.89秒||
 |BGCOLOR(orangered):|[[ヌムジカac.10>難易度表/むずかしい/ヌムジカac.10]]|''3.631''|142|445|122.54秒||
 |BGCOLOR(orangered):|[[DIMENSIONS>難易度表/むずかしい/DIMENSIONS]]|''3.603''||353|97.98秒||
+|BGCOLOR(orangered):|[[UFO Swingin'>難易度表/むずかしい/UFO Swingin']]|''3.599''|???|330|91.70秒||
 |BGCOLOR(orangered):|[[カナデア>難易度表/むずかしい/カナデア]]|''3.537''|132|462|130.61秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.500未満''|
 |BGCOLOR(orangered):|[[須佐之男>難易度表/むずかしい/須佐之男]]|''3.498''||403|115.21秒||
 |BGCOLOR(orangered):|[[Black Rose Apostle>難易度表/むずかしい/Black Rose Apostle]]|''3.471''|202.59※|369|106.32秒||
 |BGCOLOR(orangered):|[[女帝 〜インバラトゥーラ〜>難易度表/むずかしい/女帝 〜インバラトゥーラ〜]]|''3.466''|233.02※|502|144.84秒||
 |BGCOLOR(darkorchid):|[[Where is the Target?>難易度表/むずかしい/Where is the Target？]]|''3.431''|227.47※|381|111.05秒||
+|BGCOLOR(goldenrod):|[[クラシックメドレー(ロック編)>難易度表/むずかしい/クラシックメドレー(ロック編)]]|''3.424''|145.02※|380|110.98秒||
 |BGCOLOR(darkorchid):|[[メタルホーク BGM1COLOR(#006191):(玄人譜面)>難易度表/むずかしい/メタルホーク　BGM1]]|''3.423''||407|118.89秒||
 |BGCOLOR(orangered):|[[χ談>難易度表/むずかしい/χ談]]|''3.304''|???※|411|124.41秒||
 |BGCOLOR(goldenrod):|[[クープランの墓>難易度表/むずかしい/クープランの墓]]|''3.265''|140|459|140.57秒||
@@ -170,6 +198,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[サタデー太鼓フィーバー>難易度表/むずかしい/サタデー太鼓フィーバー]]|''3.055''|130|332|108.69秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.000未満''|
 |BGCOLOR(orangered):|[[OK I'm blue rat>難易度表/むずかしい/OK I’m blue rat]]|''2.975''||410|137.81秒||
+|BGCOLOR(orangered):|[[氷竜 〜Kooryu〜>難易度表/むずかしい/氷竜 〜Kooryu〜]]|''2.833''|???※|371|130.94秒||
 #br
 ***★×8新筐体未収録曲 [#notac_star8]
 |1|210|CENTER:52|58|CENTER:54|RIGHT:58||c
@@ -184,20 +213,22 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[エンジェル ドリーム(裏譜面)COLOR(#006191):(玄人譜面)>難易度表/むずかしい/エンジェル ドリーム(裏譜面)]]|''4.787''|180|675|141.00秒||
 |BGCOLOR(orangered):|[[メンクイミラクル>難易度表/むずかしい/メンクイミラクル]]|''4.598''|175|406|88.29秒||
 |BGCOLOR(orangered):|[[太鼓侍>難易度表/むずかしい/太鼓侍]]|''4.553''|135|518|113.78秒||
+|BGCOLOR(goldenrod):|[[其方、激昂>難易度表/むずかしい/其方、激昂]]|''4.550''|185.46※|616|135.39秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''4.500未満''|
 |BGCOLOR(orangered):|[[ヒカリノカナタヘ>難易度表/むずかしい/ヒカリノカナタヘ]]|''4.441''|146|564|126.99秒||
 |BGCOLOR(orangered):|[[クレイジービューティー>難易度表/むずかしい/クレイジービューティー]]|''4.217''|180.22※|577|136.83秒||
 |BGCOLOR(orangered):|[[クレーンシティ>難易度表/むずかしい/クレーンシティ]]|''4.193''|148|518|123.55秒||
 |BGCOLOR(orangered):|[[龍脈の王>難易度表/むずかしい/龍脈の王]]|''4.160''|150|634|152.40秒||
-|BGCOLOR(orangered):|[[TD - 28619029byte remix ->難易度表/むずかしい/TD -28619029byte remix-]]|''4.091''|150.11|605|147.89秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''4.000未満''|
 |BGCOLOR(orangered):|[[エンジェル ドリーム(裏譜面)COLOR(#5f5f5f):(普通譜面)>難易度表/むずかしい/エンジェル ドリーム(裏譜面)]]|''3.943''|180|556|141.00秒||
 |BGCOLOR(orangered):|[[卓球de脱臼>難易度表/むずかしい/卓球de脱臼]]|''3.833''|119.99※|460|120.01秒||
+|BGCOLOR(orangered):|[[大多羅捌伍伍壱>難易度表/むずかしい/大多羅捌伍伍壱]]|''3.753''|144.83※|454|120.97秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.500未満''|
-|BGCOLOR(goldenrod):|[[クラシックメドレー(ロック編)>難易度表/むずかしい/クラシックメドレー(ロック編)]]|''3.424''|145.02※|380|110.98秒||
 |BGCOLOR(orangered):|[[ワルルーさまの歌を聴けぇ！>難易度表/むずかしい/ワルルーさまの歌を聴けぇ！]]|''3.238''|127|379|117.05秒||
+|BGCOLOR(orangered):|[[ヒカリノカナタヘ -Long Ver.->難易度表/むずかしい/ヒカリノカナタヘ(裏譜面)]]|''3.161''|146|660|208.77秒|ロングバージョン|
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.000未満''|
-|BGCOLOR(orangered):|[[トンデ・ミテ>難易度表/むずかしい/トンデ・ミテ]]|''2.504''|(132)|317|126.59秒|DELAYあり|
+|BGCOLOR(orangered):|[[241ディープラーニング>難易度表/むずかしい/241ディープラーニング]]|''2.755''|105|412|149.57秒||
+|BGCOLOR(orangered):|[[トンデ・ミテ>難易度表/むずかしい/トンデ・ミテ]]|''2.504''|132|317|126.59秒||
 #br
 **★×8旧基準 [#old_star8]
 |1|210|CENTER:52|58|CENTER:54|RIGHT:58||c
@@ -233,14 +264,12 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[夜桜謝肉祭(裏譜面)COLOR(#5f5f5f):(普通譜面)>難易度表/むずかしい/夜桜謝肉祭(裏譜面)]]|''3.892''|169.85※|528|135.65秒||
 |BGCOLOR(orangered):|[[らんぶる乱舞(裏譜面)COLOR(#5f5f5f):(普通譜面)>難易度表/むずかしい/らんぶる乱舞(裏譜面)]]|''3.855''|160|480|124.50秒||
 |BGCOLOR(orangered):|[[季曲 〜Seasons of Asia〜(裏譜面)COLOR(#890089):(達人譜面)>難易度表/むずかしい/季曲 〜Seasons of Asia〜(裏譜面)]]|''3.800''|150|535|140.80秒||
-|BGCOLOR(orangered):|[[大多羅捌伍伍壱>難易度表/むずかしい/大多羅捌伍伍壱]]|''3.753''|144.83※|454|120.97秒||
 |BGCOLOR(darkorchid):|[[SAMURAI ROCKET(裏譜面)COLOR(#5f5f5f):(普通譜面)>難易度表/むずかしい/SAMURAI ROCKET(裏譜面)]]|''3.719''|136|564|151.65秒||
 |BGCOLOR(darkorchid):|[[No Way Back(裏譜面)(PSPDX)>難易度表/むずかしい/No Way Back(裏譜面)]]|''3.705''|158|510|137.66秒|BPM変化がWii3と違う？|
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.500未満''|
 |BGCOLOR(darkorchid):|[[No Way Back(裏譜面)(Wii3)>難易度表/むずかしい/No Way Back(裏譜面)]]|''3.332''|158.00※|491|147.34秒||
 |BGCOLOR(orangered):|[[春遊 〜happy excursion〜(裏譜面)>難易度表/むずかしい/春遊 〜happy excursion〜(裏譜面)]]|''3.301''|140|406|123.00秒||
 |BGCOLOR(orangered):|[[季曲 〜Seasons of Asia〜(裏譜面)COLOR(#006191):(玄人譜面)>難易度表/むずかしい/季曲 〜Seasons of Asia〜(裏譜面)]]|''3.267''|150|460|140.80秒||
-|BGCOLOR(orangered):|[[ヒカリノカナタヘ(裏譜面)>難易度表/むずかしい/ヒカリノカナタヘ(裏譜面)]]|''3.161''|146|660|208.77秒|ロングバージョン|
 |BGCOLOR(orangered):|[[サタデー太鼓フィーバー(裏譜面)>難易度表/むずかしい/サタデー太鼓フィーバー(裏譜面)]]|''3.055''|130|332|108.69秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.000未満''|
 |BGCOLOR(orangered):|[[季曲 〜Seasons of Asia〜(裏譜面)COLOR(#5f5f5f):(普通譜面)>難易度表/むずかしい/季曲 〜Seasons of Asia〜(裏譜面)]]|''2.791''|150|393|140.80秒||
@@ -260,7 +289,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(cyan):|[[紅COLOR(#890089):(達人譜面)>難易度表/むずかしい/紅]]|''5.030''|156.3|726|144.34秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''5.000未満''|
 |BGCOLOR(orangered):|[[時空庁捜査2課>難易度表/むずかしい/時空庁捜査2課]]|''4.953''|200|578|116.70秒||
-|BGCOLOR(cyan):|[[ギミチョコ！！>難易度表/むずかしい/ギミチョコ！！]]|''4.882''|220|681|139.50秒||
+|BGCOLOR(cyan):|[[ギミチョコ！！>難易度表/むずかしい/ギミチョコ！！]]|''4.882''|220|681|139.50秒|サヨナラ曲|
 |BGCOLOR(orangered):|[[KUSANAGI>難易度表/むずかしい/KUSANAGI]]|''4.841''|180|568|117.33秒||
 |BGCOLOR(orangered):|[[ゴーゴー・キッチンCOLOR(#890089):(達人譜面)>難易度表/むずかしい/ゴーゴー・キッチン]]|''4.787''|206|557|116.36秒||
 |BGCOLOR(lime):|[[ナイト・オブ・ナイツCOLOR(#890089):(達人譜面)>難易度表/むずかしい/ナイト・オブ・ナイツ]]|''4.764''|180|501|105.17秒||
@@ -338,7 +367,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[太鼓乱舞 皆伝COLOR(#5f5f5f):(普通譜面)>難易度表/むずかしい/太鼓乱舞 皆伝]]|''3.027''|130|299|98.77秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.000未満''|
 |BGCOLOR(orange):|[[My Soul,Your Beats!>難易度表/むずかしい/My Soul,Your Beats!]]|''2.755''|144.00※|236|85.66||
-|BGCOLOR(orange):|[[Groovy Duel>難易度表/むずかしい/Groovy Duel]]|''2.534''|???※|288|113.72秒|動画から計算|
+|BGCOLOR(orange):|[[Groovy Duel>難易度表/むずかしい/Groovy Duel]]|''2.534''|???※|288|113.72秒|サヨナラ曲・動画から計算|
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''2.500未満''|
 |BGCOLOR(cyan):|[[R.Y.U.S.E.I.>難易度表/むずかしい/R.Y.U.S.E.I.]]|''2.499''|128|294|117.66秒||
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:以下計算途中|
@@ -347,20 +376,25 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(goldenrod):|[[熊蜂の飛行>難易度表/むずかしい/熊蜂の飛行]]|''''||361|秒||
 |BGCOLOR(goldenrod):|[[白鳥の湖>難易度表/むずかしい/白鳥の湖〜still a duckling〜]]|''''||405|秒||
 |BGCOLOR(goldenrod):|[[夜想曲Op.9-2>難易度表/むずかしい/夜想曲Op.9-2]]|''''||378|秒||
-|BGCOLOR(darkorchid):|[[「ポケットモンスター オメガルビー・アルファサファイア」>難易度表/むずかしい/「ポケットモンスター オメガルビー・アルファサファイア」]]|''''||403|秒||
+|BGCOLOR(goldenrod):|[[ハンロック>難易度表/むずかしい/ハンロック]]|''''|||秒||
+|BGCOLOR(darkorchid):|[[「ポケットモンスター オメガルビー・アルファサファイア」>難易度表/むずかしい/「ポケットモンスター オメガルビー・アルファサファイア」]]|''''||403|秒|サヨナラ曲|
 |BGCOLOR(darkorchid):|[[BLAZING VORTEX>難易度表/むずかしい/BLAZING VORTEX]]|''''||693|秒||
+|BGCOLOR(darkorchid):|[[Comona>難易度表/むずかしい/Comona]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Dr.WILY STAGE 1>難易度表/むずかしい/Dr.WILY STAGE 1]]|''''||387|秒||
 |BGCOLOR(darkorchid):|[[God Ray>難易度表/むずかしい/God Ray]]|''''||412|秒||
 |BGCOLOR(darkorchid):|[[Good-bye my earth>難易度表/むずかしい/Good-bye my earth]]|''''||264|秒||
+|BGCOLOR(darkorchid):|[[Heat Haze Shadow 2>難易度表/むずかしい/Heat Haze Shadow 2]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/むずかしい/Honey Heartbeat 〜10 Stars Mix〜]]|''''||456|秒||
 |BGCOLOR(darkorchid):|[[KAGEKIYO 源平討魔伝メドレー>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]|''''||615|秒||
 |BGCOLOR(darkorchid):|[[Lightning Dance>難易度表/むずかしい/Lightning Dance]]|''''||499|秒||
 |BGCOLOR(darkorchid):|[[New World>難易度表/むずかしい/New World]]|''''||402|秒||
 |BGCOLOR(darkorchid):|[[No Way Back>難易度表/むずかしい/No Way Back]]|''''||425|秒||
 |BGCOLOR(darkorchid):|[[Over Clock 〜開放〜>難易度表/むずかしい/Over Clock 〜開放〜]]|''''||323|秒||
+|BGCOLOR(darkorchid):|[[PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/むずかしい/PAC‐MAN CHAMPIONSHIP EDITION 2]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[RIDGE RACER STEPS -GMT remix->難易度表/むずかしい/RIDGE RACER STEPS -GMT remix-]]|''''||321|秒||
 |BGCOLOR(darkorchid):|[[Scars of FAUNA>難易度表/むずかしい/Scars of FAUNA]]|''''||572|秒||
 |BGCOLOR(darkorchid):|[[SHOGYO MUJO>難易度表/むずかしい/SHOGYO MUJO]]|''''||480|秒||
+|BGCOLOR(darkorchid):|[[Surf Zapping>難易度表/むずかしい/Surf Zapping]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[TO MAKE THE END OF BATTLE>難易度表/むずかしい/TO MAKE THE END OF BATTLE]]|''''||497|秒||
 |BGCOLOR(darkorchid):|[[Unite The Force>難易度表/むずかしい/Unite The Force]]|''''||261|秒||
 |BGCOLOR(darkorchid):|[[Venomous>難易度表/むずかしい/Venomous]]|''''||369|秒||
@@ -368,6 +402,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(darkorchid):|[[シンフォニック ドルアーガ>難易度表/むずかしい/シンフォニック　ドルアーガ]]|''''||278|秒||
 |BGCOLOR(darkorchid):|[[スーパーマリオブラザーズ>難易度表/むずかしい/スーパーマリオブラザーズ(新)]]|''''||443|秒||
 |BGCOLOR(darkorchid):|[[テイルズ オブ ジ アビス>難易度表/むずかしい/テイルズ オブ ジ アビス]]|''''||541|秒||
+|BGCOLOR(darkorchid):|[[ドルアーガの塔メドレー>難易度表/むずかしい/ドルアーガの塔メドレー]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[ナックルヘッズ 鷹舞狼吼>難易度表/むずかしい/ナックルヘッズ 鷹舞狼吼]]|''''||441|秒||
 |BGCOLOR(darkorchid):|[[ピコピコ マッピー>難易度表/むずかしい/ピコピコ マッピー]]|''''||360|秒||
 |BGCOLOR(darkorchid):|[[ファミコンメドレー>難易度表/むずかしい/ファミコンメドレー]]|''''||407|秒||
@@ -384,6 +419,8 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[Choco Chiptune.>難易度表/むずかしい/Choco Chiptune.]]|''''||403|秒||
 |BGCOLOR(orangered):|[[Day by Day!>難易度表/むずかしい/Day by Day!]]|''''||523|秒||
 |BGCOLOR(orangered):|[[Dream Tide>難易度表/むずかしい/Dream Tide]]|''''||353|秒||
+|BGCOLOR(orangered):|[[Freeway3234>難易度表/むずかしい/Freeway3234]]|''''|||秒||
+|BGCOLOR(orangered):|[[GERMINATION>難易度表/むずかしい/GERMINATION]]|''''|||秒||
 |BGCOLOR(orangered):|[[Gloria>難易度表/むずかしい/Gloria]]|''''||501|秒||
 |BGCOLOR(orangered):|[[G意識過剰>難易度表/むずかしい/G意識過剰]]|''''||492|秒||
 |BGCOLOR(orangered):|[[Many wow bang!>難易度表/むずかしい/Many wow bang!]]|''''||325|秒||
@@ -405,12 +442,16 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[行かないでイカロス>難易度表/むずかしい/行かないでイカロス]]|''''||420|秒||
 |BGCOLOR(orangered):|[[うそうそ時>難易度表/むずかしい/うそうそ時]]|''''||407|秒||
 |BGCOLOR(orangered):|[[エゴエゴアタクシ>難易度表/むずかしい/エゴエゴアタクシ]]|''''||469|秒||
+|BGCOLOR(orangered):|[[エリンギのエクボ>難易度表/むずかしい/エリンギのエクボ]]|''''|||秒||
 |BGCOLOR(orangered):|[[エンジェル ドリーム>難易度表/むずかしい/エンジェル ドリーム]]|''''||525|秒||
 |BGCOLOR(orangered):|[[カグツチ>難易度表/むずかしい/カグツチ]]|''''||463|秒||
 |BGCOLOR(orangered):|[[がしゃどくろ>難易度表/むずかしい/がしゃどくろ]]|''''||443|秒||
+|BGCOLOR(orangered):|[[カッティアワールの宝剣>難易度表/むずかしい/カッティアワールの宝剣]]|''''|||秒||
 |BGCOLOR(orangered):|[[さよならワーリャ>難易度表/むずかしい/さよならワーリャ]]|''''||348|秒||
+|BGCOLOR(orangered):|[[スクロール・ミカ>難易度表/むずかしい/スクロール・ミカ]]|''''|||秒||
 |BGCOLOR(orangered):|[[セイクリッド ルイン>難易度表/むずかしい/セイクリッド ルイン]]|''''||474|秒||
 |BGCOLOR(orangered):|[[ピコピコ ルイン>難易度表/むずかしい/ピコピコ ルイン]]|''''||474|秒||
+|BGCOLOR(orangered):|[[タベテモタベテモ>難易度表/むずかしい/タベテモタベテモ]]|''''|||秒||
 |BGCOLOR(orangered):|[[ダンバ・ダンバ・ディン・ダン>難易度表/むずかしい/ダンバ・ダンバ・ディン・ダン]]|''''||447|秒||
 |BGCOLOR(orangered):|[[つながれ！ひろがれ！打ち上がれ！>難易度表/むずかしい/つながれ！ひろがれ！打ち上がれ！]]|''''||465|秒||
 |BGCOLOR(orangered):|[[ツンデレCafeへようこそ☆>難易度表/むずかしい/ツンデレCafeへようこそ☆]]|''''||321|秒||
@@ -441,7 +482,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[私立高天原学園高校・校歌>難易度表/むずかしい/私立高天原学園高校・校歌]]|''''||585|秒||
 |BGCOLOR(orangered):|[[秋竜 〜Shiuryu〜>難易度表/むずかしい/秋竜 〜Shiuryu〜]]|''''||557|秒||
 |BGCOLOR(orangered):|[[春竜 〜Haryu〜>難易度表/むずかしい/春竜 〜Haryu〜]]|''''||501|秒||
-|BGCOLOR(orangered):|[[曙光>難易度表/むずかしい/曙光 〜Dawn〜]]|''''||426|秒||
+|BGCOLOR(orangered):|[[曙光 〜Dawn〜>難易度表/むずかしい/曙光 〜Dawn〜]]|''''||426|秒||
 |BGCOLOR(orangered):|[[聖徳たいこの「日いずるまで飛鳥」>難易度表/むずかしい/聖徳たいこの「日いずるまで飛鳥」]]|''''||564|秒||
 |BGCOLOR(orangered):|[[旋風ノ舞【地】>難易度表/むずかしい/旋風ノ舞【地】]]|''''||491|秒||
 |BGCOLOR(orangered):|[[蒼の旋律>難易度表/むずかしい/蒼の旋律]]|''''||458|秒||
@@ -451,6 +492,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[冬竜 〜Toryu〜>難易度表/むずかしい/冬竜 〜Toryu〜]]|''''||354|秒||
 |BGCOLOR(orangered):|[[東京ソーダ 8Bit Edit>難易度表/むずかしい/東京ソーダ 8Bit Edit]]|''''||519|秒||
 |BGCOLOR(orangered):|[[秘ナルメジェドノ悲ナル憂鬱>難易度表/むずかしい/秘ナルメジェドノ悲ナル憂鬱]]|''''||407|秒||
+|BGCOLOR(orangered):|[[百鬼夜行>難易度表/むずかしい/百鬼夜行]]|''''||412|秒||
 |BGCOLOR(orangered):|[[風の国の龍と騎士>難易度表/むずかしい/風の国の龍と騎士]]|''''||404|秒||
 |BGCOLOR(orangered):|[[風雲志士>難易度表/むずかしい/風雲志士]]|''''||377|秒||
 |BGCOLOR(orangered):|[[豊穣弥生>難易度表/むずかしい/豊穣弥生]]|''''||331|秒||
@@ -461,6 +503,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[友情ぽっぷ>難易度表/むずかしい/友情ぽっぷ]]|''''||476|秒||
 |BGCOLOR(orangered):|[[竜と黒炎の姫君>難易度表/むずかしい/竜と黒炎の姫君]]|''''||389|秒||
 |BGCOLOR(orangered):|[[零の狂詩曲>難易度表/むずかしい/零の狂詩曲]]|''''||574|秒||
+|BGCOLOR(orangered):|[[和有るど経りて維持・序>難易度表/むずかしい/和有るど経りて維持・序]]|''''|||秒||
 |BGCOLOR(cyan):|[[前略、道の上より>難易度表/むずかしい/前略、道の上より]]|''''||517|秒|サヨナラ曲|
 |BGCOLOR(cyan):|[[maximum the hormone>難易度表/むずかしい/maximum the hormone]]|''''||466|秒|サヨナラ曲|
 |BGCOLOR(cyan):|[[Telecastic fake show>難易度表/むずかしい/Telecastic fake show]]|''''||568|秒|サヨナラ曲|
@@ -469,7 +512,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orange):|[[Du-Du-Wa DO IT!!>難易度表/むずかしい/Du-Du-Wa DO IT!!]]|''''||241|秒|サヨナラ曲|
 |BGCOLOR(orange):|[[青春サツバツ論>難易度表/むずかしい/青春サツバツ論]]|''''||317|秒|サヨナラ曲|
 |BGCOLOR(orange):|[[とんかつDJアゲ太郎>難易度表/むずかしい/とんかつDJアゲ太郎]]|''''||504|秒|サヨナラ曲|
-|BGCOLOR(orangered):|[[百鬼夜行>難易度表/むずかしい/百鬼夜行]]|''''||412|秒|期間限定曲|
 #br
 ***★×7新筐体未収録曲 [#notac_star7]
 |1|210|CENTER:52|58|CENTER:54|RIGHT:58||c
@@ -481,6 +523,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orange):|[[快晴・上昇・ハレルーヤ>難易度表/むずかしい/快晴・上昇・ハレルーヤ]]|''''|||秒||
 |BGCOLOR(darkgray):|[[からくりピエロ>難易度表/むずかしい/からくりピエロ]]|''''|||秒||
 |BGCOLOR(darkgray):|[[セツナトリップ>難易度表/むずかしい/セツナトリップ]]|''''|||秒||
+|BGCOLOR(darkgray):|[[ブリキノダンス>難易度表/むずかしい/ブリキノダンス]]|''4.560''|172|587|128.72秒||
 |BGCOLOR(darkgray):|[[有頂天ビバーチェ>難易度表/むずかしい/有頂天ビバーチェ]]|''''|||秒||
 |BGCOLOR(lime):|[[Inscrutable Battle>難易度表/むずかしい/Inscrutable Battle]]|''''|||秒||
 |BGCOLOR(lime):|[[TRUTH>難易度表/むずかしい/TRUTH]]|''''|||秒||
@@ -491,7 +534,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(goldenrod):|[[エンターテイナー>難易度表/むずかしい/エンターテイナー]]|''''|||秒||
 |BGCOLOR(goldenrod):|[[クラポルポルスカ>難易度表/むずかしい/クラポルポルスカ]]|''''|||秒||
 |BGCOLOR(goldenrod):|[[シンフォニックメドレー第1番>難易度表/むずかしい/シンフォニックメドレー第1番]]|''''|||秒||
-|BGCOLOR(goldenrod):|[[ハンロック>難易度表/むずかしい/ハンロック]]|''''|||秒||
 |BGCOLOR(goldenrod):|[[ポルカ「雷鳴と稲妻」>難易度表/むずかしい/ポルカ「雷鳴と稲妻」]]|''''|||秒||
 |BGCOLOR(goldenrod):|[[まおぅ>難易度表/むずかしい/まおぅ]]|''''|||秒||
 |BGCOLOR(goldenrod):|[[ラ・カンパネラ>難易度表/むずかしい/ラ・カンパネラ]]|''''|||秒||
@@ -499,27 +541,22 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(goldenrod):|[[ロシアの踊り「トレパーク」>難易度表/むずかしい/ロシアの踊り「トレパーク」]]|''''|||秒||
 |BGCOLOR(goldenrod):|[[剣士の入場>難易度表/むずかしい/剣士の入場]]|''''|||秒||
 |BGCOLOR(goldenrod):|[[聖者の行進>難易度表/むずかしい/聖者の行進]]|''''|||秒||
-|BGCOLOR(darkorchid):|[[Comona>難易度表/むずかしい/Comona]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[DADDY MULK>難易度表/むずかしい/DADDY MULK]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[DIGITAL HORIZON>難易度表/むずかしい/DIGITAL HORIZON]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Dual Moon>難易度表/むずかしい/Dual Moon]]|''''|||秒||
-|BGCOLOR(darkorchid):|[[Heat Haze Shadow 2>難易度表/むずかしい/Heat Haze Shadow 2]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Honey Heartbeat 〜10 Stars Mix〜(PS Vita MS譜面)>難易度表/むずかしい/Honey Heartbeat 〜10 Stars Mix〜]]|''''||461|秒||
 |BGCOLOR(darkorchid):|[[Next Life>難易度表/むずかしい/Next Life]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Outride a Crisis>難易度表/むずかしい/Outride a Crisis]]|''''|||秒||
-|BGCOLOR(darkorchid):|[[PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/むずかしい/PAC‐MAN CHAMPIONSHIP EDITION 2]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Racing the Storm>難易度表/むずかしい/Racing the Storm]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[RARE HERO>難易度表/むずかしい/Rare Hero]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Rising>難易度表/むずかしい/Rising]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Seize the day>難易度表/むずかしい/Seize the day]]|''''|||秒||
-|BGCOLOR(darkorchid):|[[Surf Zapping>難易度表/むずかしい/Surf Zapping]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Thinking 〜Must Mix〜>難易度表/むずかしい/Thinking 〜Must Mix〜]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[YOU往MY進！>難易度表/むずかしい/YOU往MY進！]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[オーバーマスター(新譜面)>難易度表/むずかしい/オーバーマスター]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[ソウルキャリバーIII>難易度表/むずかしい/ソウルキャリバーIII]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[テイルズ オブ エクシリア メドレー>難易度表/むずかしい/テイルズ オブ エクシリア メドレー]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[ドラゴンセイバー 水没都市>難易度表/むずかしい/ドラゴンセイバー 水没都市]]|''''|||秒||
-|BGCOLOR(darkorchid):|[[ドルアーガの塔メドレー>難易度表/むずかしい/ドルアーガの塔メドレー]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[マッピーメドレー>難易度表/むずかしい/マッピーメドレー]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[モンスターハンター4G メドレー>難易度表/むずかしい/モンスターハンター4G メドレー]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[戦国BASARA BGMメドレー>難易度表/むずかしい/戦国BASARA BGMメドレー]]|''''|||秒||
@@ -527,17 +564,12 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(darkorchid):|[[黎明スターライン>難易度表/むずかしい/黎明スターライン]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Naked Glow>難易度表/むずかしい/Naked Glow]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[Fight the Fanatics>難易度表/むずかしい/Fight the Fanatics]]|''''|||秒||
-|BGCOLOR(orangered):|[[Freeway3234>難易度表/むずかしい/Freeway3234]]|''''|||秒||
-|BGCOLOR(orangered):|[[GERMINATION>難易度表/むずかしい/GERMINATION]]|''''|||秒||
 |BGCOLOR(orangered):|[[SORA-III ヘリオポーズ>難易度表/むずかしい/SORA-III ヘリオポーズ]]|''''|||秒||
 |BGCOLOR(orangered):|[[SORA-III ヘリオポーズ>難易度表/むずかしい/SORA-III ヘリオポーズ]]|''''|||秒||
 |BGCOLOR(orangered):|[[SORA-IV ブンパソング>難易度表/むずかしい/SORA-IV ブンパソング]]|''''|||秒||
 |BGCOLOR(orangered):|[[Time to dine>難易度表/むずかしい/Time to dine]]|''''|||秒||
 |BGCOLOR(orangered):|[[いっしょにあそぼ♪>難易度表/むずかしい/いっしょにあそぼ♪]]|''''|||秒||
-|BGCOLOR(orangered):|[[エリンギのエクボ>難易度表/むずかしい/エリンギのエクボ]]|''''|||秒||
-|BGCOLOR(orangered):|[[カッティアワールの宝剣>難易度表/むずかしい/カッティアワールの宝剣]]|''''|||秒||
 |BGCOLOR(orangered):|[[サイクル・オブ・リバース>難易度表/むずかしい/サイクル・オブ・リバース]]|''''|||秒||
-|BGCOLOR(orangered):|[[スクロール・ミカ>難易度表/むずかしい/スクロール・ミカ]]|''''|||秒||
 |BGCOLOR(orangered):|[[そつおめしき・ふる>難易度表/むずかしい/そつおめしき・ふる]]|''''|||秒||
 |BGCOLOR(orangered):|[[ダイエット・パダライス>難易度表/むずかしい/ダイエット・パダライス]]|''''|||秒||
 |BGCOLOR(orangered):|[[ダイエットファイター>難易度表/むずかしい/ダイエットファイター]]|''''|||秒||
@@ -590,7 +622,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(darkorchid):|[[ゼビウス体操>難易度表/むずかしい/ゼビウス体操]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[ソニック4 エピソードI メドレー>難易度表/むずかしい/ソニック4 エピソードI メドレー]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[TE-20>難易度表/むずかしい/TE-20]]|''''|||秒||
-|BGCOLOR(darkorchid):|[[初音ミクの激唱>難易度表/むずかしい/初音ミクの激唱]]|''''|||秒|ゲームミュージックは当時の基準|
 |BGCOLOR(darkorchid):|[[PENETRATION>難易度表/むずかしい/PENETRATION]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[負け犬返上 feat.蟹プリンス>難易度表/むずかしい/負け犬返上]]|''''|||秒||
 |BGCOLOR(darkorchid):|[[MAGICAL SOUND SHOWER>難易度表/むずかしい/MAGICAL SOUND SHOWER]]|''''|||秒||
@@ -601,8 +632,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |BGCOLOR(orangered):|[[くもまでとどけ！>難易度表/むずかしい/くもまでとどけ！]]|''''|||秒||
 |BGCOLOR(orangered):|[[地獄の太鼓事典>難易度表/むずかしい/地獄の太鼓事典]]|''''|||秒||
 |BGCOLOR(orangered):|[[太鼓乱舞 炎の巻>難易度表/むずかしい/太鼓乱舞 皆伝]]|''''|||秒||
-|BGCOLOR(orangered):|[[響け！太鼓の達人(裏譜面)>難易度表/むずかしい/響け！太鼓の達人(裏譜面)]]|''''|||秒|ロングバージョン|
-|BGCOLOR(orangered):|[[風雲志士>難易度表/むずかしい/風雲志士]]|''''|||秒||
 |BGCOLOR(orangered):|[[White Rose Insanity(裏譜面)>難易度表/むずかしい/White Rose Insanity(裏譜面)]]|''''|||秒||
 |BGCOLOR(orangered):|[[ラ・モレーナ・クモナイ>難易度表/むずかしい/ラ・モレーナ・クモナイ]]|''''|||秒||
 |BGCOLOR(orangered):|[[ららら☆ハッピネス>難易度表/むずかしい/ららら☆ハッピネス]]|''''|||秒||

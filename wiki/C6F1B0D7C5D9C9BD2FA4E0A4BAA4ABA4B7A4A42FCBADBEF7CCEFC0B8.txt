@@ -5,6 +5,7 @@
 |CENTER:''AC15.3.0SP''|CENTER:PS4 1&br;NS1DL|CENTER:★×7|CENTER:''332''|CENTER:''845330点''|CENTER:＋連打|CENTER:730点|CENTER:203点|
 ||CENTER:Wii U1SP|~|~|CENTER:''845430点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''997240点''}|~|CENTER:COLOR(#ff3300){2760点}|CENTER:-|
+|AC16.1.0||~|~|''999600点''|~|3000点|-|
 -BPMは126。
 -全体的に付点配置がかなり多く、リズムが取りづらい。
 -速度は少し遅めだが、全体的に16分がかなり多い。

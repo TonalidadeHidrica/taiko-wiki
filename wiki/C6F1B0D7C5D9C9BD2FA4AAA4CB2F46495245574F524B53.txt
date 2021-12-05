@@ -1,12 +1,21 @@
 *&ruby(ファイヤーワークス){FIREWORKS}; [#qdfb225d]
-***詳細･攻略 [#xe6cd84d]
--詳細は以下の通り｡
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC13''|CENTER:★×5|CENTER:''290''|CENTER:''883080点''|CENTER:＋連打|CENTER:850点|CENTER:210点|
+-「''スカパー！EXILE TV''」CMソング。
+
+***詳細 [#xe6cd84d]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC13''|★×5|''290''|''883080点''|＋連打|850点|210点|
+
+***譜面構成・攻略 [#capture]
 -BPMは113｡
 -単色の16分音符中心の譜面で、たまに複合2連打や4連打が登場する。
+
+***その他 [#other]
+-FIREWORKは、「''花火''」を意味する。
 -アーティストは、[[''EXILE''>アーティスト別収録曲#exile]]。
--FIREWORKは、''花火''を意味する。
+--作詞は、michico・P-CHO・GS・KUBO-C・TOMOGEN。作曲は、T. Kura・michico。編曲は、T. Kura。
+-曲IDは、''firewo''。
+----
 -[[かんたん>難易度表/かんたん/FIREWORKS]]
 -[[ふつう>難易度表/ふつう/FIREWORKS]]
 -[[むずかしい>難易度表/むずかしい/FIREWORKS]]
@@ -14,6 +23,5 @@
 ***コメント [#sab52516]
 #pcomment(,noname)
 ***譜面 [#z0a4e5e5]
--連打や風船は適当です
-
+~連打や風船は適当です
 &attachref(FIREWORKS_2.png,nolink);

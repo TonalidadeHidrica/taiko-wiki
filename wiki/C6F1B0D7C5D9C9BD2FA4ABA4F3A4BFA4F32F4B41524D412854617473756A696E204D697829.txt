@@ -1,14 +1,17 @@
 *KARMA(Tatsujin Mix) [#title]
-***詳細・攻略 [#more]
 -バンダイナムコゲームス「[[''鉄拳6 BLOODLINE REBELLION''>http://www.tekken-official.jp/tk6ac/index.html]]」の楽曲を太鼓の達人向けに再編集した曲。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14SP''||CENTER:★×5|CENTER:''157''|CENTER:''366060点''|CENTER:＋連打|CENTER:640点|CENTER:150点|
-||CENTER:PSPDX|~|~|CENTER:''364860点''|~|~|~|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''374360点''}|~|CENTER:COLOR(#ff3300){1860点}|CENTER:-|
-||CENTER:Wii5SP|~|~|CENTER:''371390点''|~|CENTER:640点|CENTER:210点|
-|CENTER:AC15.10.4||CENTER:★×4|~|CENTER:''349710点''|~|CENTER:600点|CENTER:195点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){5380点}|CENTER:-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC14SP''||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|''157''|''366060点''|＋連打|640点|150点|
+||PSPDX|~|~|~|''364860点''|~|~|~|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''374360点''}|~|COLOR(#ff3300){1860点}|-|
+||Wii5SP|~|~|~|''371390点''|~|640点|210点|
+|AC15.10.4|NS1DL|~|★×4|~|''349710点''|~|600点|195点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){5380点}|-|
+|AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''?????0点''|~|???0点|‐|
+
 -BPMは約145。
 -連打秒数目安・・・''約0.793秒''×2−SIZE(16){約1.618秒}−SIZE(16){約0.379秒}−SIZE(16){''約0.379秒''}：合計約3.963秒
 -大音符が多く、17個ある（全体の約10.8%）。
@@ -19,7 +22,7 @@
 
 ***その他 [#other]
 -サブタイトル表記は以下の通り。
---AC14、新筐体ブルー以降：''「鉄拳6 BLOODLINE REBELLION」より''
+--AC14、新筐体ブルー以降、NS1：''「鉄拳6 BLOODLINE REBELLION」より''
 --PSPDX：''「鉄拳6」より''
 --Wii5：記載なし
 -アーティストは、''遠山明孝''(AJURIKA)。
@@ -27,7 +30,7 @@
 -曲IDは、''teken6''。
 -新基準ではWii5、ACでは14以来長らく収録されてなかったが、2018年8月8日にてブルーVer.に収録を果たすこととなった。
 --新基準対応作品に収録されるのは''約6年ぶり''、ACに収録されるのは''約8年ぶり''となる。
-
+----
 -[[ふつう>難易度表/ふつう/KARMA(Tatsujin Mix)]]
 -[[むずかしい>難易度表/むずかしい/KARMA(Tatsujin Mix)]]
 -[[おに>難易度表/おに/KARMA(Tatsujin Mix)]]

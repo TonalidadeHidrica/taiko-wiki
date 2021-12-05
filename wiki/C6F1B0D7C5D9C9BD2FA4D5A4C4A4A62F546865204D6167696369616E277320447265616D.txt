@@ -1,9 +1,14 @@
 *The Magician's Dream [#title]
-***詳細・攻略 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.1.0SP''|CENTER:3DS1|CENTER:★×6|CENTER:''219''|CENTER:''641190点''|CENTER:＋連打|CENTER:850点|CENTER:233点|
-|CENTER:AC15.2.0|CENTER:Wii U2SP&br;PS4 1DL|~|~|CENTER:''641120点''|~|~|~|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''991220点''}|~|CENTER:COLOR(#ff3300){3940点}|CENTER:-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.1.0SP''|3DS1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''219''|''641190点''|+連打|850点|233点|
+|AC15.2.0|Wii U2SP&br;PS4 1DL|~|~|~|''641120点''|~|~|~|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''991220点''}|~|COLOR(#ff3300){3940点}|-|
+|AC16.1.0||~|~|~|''?????0点''|~|4500点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは191。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -15,8 +20,8 @@
 ***その他 [#other]
 -曲名の読み方は、''ザ マジシャンズ ドリーム''。
 -アーティストは、''川井遠瑠''。
---[[LOVE戦!!>難易度表/ふつう/LOVE戦!!]]、[[地平線のエオリア>難易度表/ふつう/地平線のエオリア]]、[[マーブルハート>難易度表/ふつう/マーブルハート]]、[[久遠の夜>難易度表/ふつう/久遠の夜]]と同じJBG音楽院の提供曲である。
 -曲IDは、''magdrm''。
+----
 -[[かんたん>難易度表/かんたん/The Magician's Dream]]
 -[[むずかしい>難易度表/むずかしい/The Magician's Dream]]
 -[[おに>難易度表/おに/The Magician's Dream]]
@@ -25,5 +30,5 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &attachref(マジカルドリーム.png,nolink);

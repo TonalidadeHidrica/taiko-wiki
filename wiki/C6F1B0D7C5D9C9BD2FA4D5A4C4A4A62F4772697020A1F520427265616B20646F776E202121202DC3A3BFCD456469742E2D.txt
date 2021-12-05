@@ -1,11 +1,11 @@
 *Grip & Break down !! -達人Edit.- [#title]
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.4.4''|CENTER:NS1|CENTER:★×5|CENTER:''268''|CENTER:''584770点''|CENTER:＋連打|CENTER:630点|CENTER:185点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''986200点''}|~|CENTER:COLOR(#ff3300){3360点}|CENTER:-|
-||CENTER:iOS&br;AR|~|~|CENTER:''??????点''|~|CENTER:610点|CENTER:140点|
-|CENTER:AC16.1.0||~|~|CENTER:''992400点''|~|CENTER:3700点|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC15.4.4''|CENTER:NS1|BGCOLOR(lime):''バラエティ''|CENTER:★×5|CENTER:''268''|CENTER:''584770点''|CENTER:＋連打|CENTER:630点|CENTER:185点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''986200点''}|~|CENTER:COLOR(#ff3300){3360点}|CENTER:-|
+||CENTER:iOS&br;AR|~|~|~|CENTER:''??????点''|~|CENTER:610点|CENTER:140点|
+|CENTER:AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|CENTER:''992400点''|~|CENTER:3700点|CENTER:-|
 -BPMは160。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -20,8 +20,8 @@
 -「達人Edit.」とあるように、他の音楽ゲームに収録されている同曲とは異なった編集がされている。
 -アレンジ(編曲)は、''SHU×GUCCI''(SOUND HOLIC)。作詞は、Blue E。
 --歌唱は、''Nana Takahashi''(高橋菜々)。
--曲IDは、''thgrip''
-
+-曲IDは、''thgrip''。
+----
 -[[かんたん>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]
 -[[むずかしい>難易度表/むずかしい/Grip ＆ Break down !! -達人Edit.-]]
 -[[おに>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]/[[裏譜面>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]

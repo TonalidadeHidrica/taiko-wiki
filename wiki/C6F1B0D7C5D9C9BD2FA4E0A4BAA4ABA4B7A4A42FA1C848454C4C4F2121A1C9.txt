@@ -1,5 +1,5 @@
 *“HELLO!!” [#title]
--ニンテンドーDS用ソフト[[「''THE IDOLM@STER Dearly Stars''」>THE IDOLM@STER関連楽曲一覧#dest]]の楽曲。
+-ニンテンドーDS用ソフト「[[''THE IDOLM@STER Dearly Stars''>THE IDOLM@STER関連楽曲一覧#dest]]」の楽曲。
 ***詳細 [#detail]
 |>|>|>|>|>|>|CENTER:|c
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h

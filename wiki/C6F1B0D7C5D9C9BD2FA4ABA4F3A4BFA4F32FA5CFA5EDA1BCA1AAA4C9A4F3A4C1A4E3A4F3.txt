@@ -7,7 +7,7 @@
 |CENTER:AC2,3||>|>|>|>|>|CENTER:''ドンだフル！コースのみ''|
 ||CENTER:CS1|CENTER:★×2|CENTER:''101''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1330点|CENTER:570点|
 ||CENTER:Wii4SP|CENTER:★×3|CENTER:''107''|CENTER:''321090点''|~|CENTER:920点|CENTER:330点|
-|AC16.1.0||~|~|CENTER:''??????点''|~|CENTER:9320点|CENTER:-|
+|CENTER:AC16.1.0||~|~|CENTER:''997240点''|~|CENTER:9320点|CENTER:-|
 
 -BPMは約140。
 -Wii4で序盤に6コンボ追加された。
@@ -23,6 +23,7 @@
 -作詞・作曲・歌唱は、''みすみゆり''。
 -譜面作成は、''ササオカ''。
 -曲IDは旧譜面が''hello''、新譜面が''hello2''。
+----
 -[[ふつう>難易度表/ふつう/ハロー！どんちゃん]]
 -[[むずかしい>難易度表/むずかしい/ハロー！どんちゃん]]
 -[[おに>難易度表/おに/ハロー！どんちゃん]]
@@ -33,8 +34,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-新譜面
-~&attachref(hello2_e.png,nolink);
+~新譜面
+&attachref(hello2_e.png,nolink);
 
 ~旧譜面
-~&attachref(don_easy.png,nolink);
+&attachref(don_easy.png,nolink);

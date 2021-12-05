@@ -39,4 +39,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(bbkkbk_m.png,nolink);
+~AC16 → 疑似32分を除外(拍数変更のみ)
+~AC15 → 32分音符を48分音符＋HS・BPM変化で処理していると思われる
+&attachref(bbkkbk_m.png,nolink);

@@ -2,7 +2,9 @@
 ***詳細・攻略 [#more]
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii U3SP''|CENTER:★×6|CENTER:''320''|CENTER:''639820点''|CENTER:＋連打|CENTER:590点|CENTER:173点|
+|CENTER:''Wii U3SP''&br;NS1SP|CENTER:★×6|CENTER:''320''|CENTER:''639820点''|CENTER:＋連打|CENTER:590点|CENTER:173点|
+|CENTER:COLOR(#f30){真打}|~|~|CENTER:COLOR(#f30){''991270点''}|~|CENTER:COLOR(#f30){2890点}|-|
+
 -BPMは182。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。

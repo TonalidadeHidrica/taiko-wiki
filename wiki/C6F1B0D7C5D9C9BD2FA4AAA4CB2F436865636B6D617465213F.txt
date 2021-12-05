@@ -30,4 +30,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(chackmate.png,nolink);
+&attachref(dagasi_m.png,nolink);

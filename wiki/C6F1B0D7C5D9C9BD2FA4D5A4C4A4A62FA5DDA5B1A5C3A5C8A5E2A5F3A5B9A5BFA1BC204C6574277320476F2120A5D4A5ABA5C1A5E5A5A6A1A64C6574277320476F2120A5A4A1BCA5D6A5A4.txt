@@ -2,10 +2,12 @@
 -Nintendo Switch用ソフト「''ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ''」のBGMメドレー。
 
 ***詳細・攻略 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15 JAEPO2019Ver.''|NS1DL|★×2|''151''|''418990点''|＋連打|800点|215点|
-|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''974960点''}|~|COLOR(#ff3300){5470点}|-|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15 JAEPO&br;2019Ver.''&br;AC15.11.0|NS1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×2|''151''|''418990点''|＋連打|800点|215点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''974960点''}|~|COLOR(#ff3300){5470点}|-|
+|AC16.1.0||BGCOLOR(yellow):''キッズ''|~|~|''?????0点''|~|???0点|-|
+|~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約124〜174。

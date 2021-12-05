@@ -4,7 +4,7 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.8.2''|CENTER:3DS3DL|CENTER:★×2|CENTER:''83''|CENTER:''313350点''|CENTER:＋連打|CENTER:990点|CENTER:608点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''994290点''}|~|CENTER:COLOR(#ff3300){9810点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:???点|
+||CENTER:iOS|~|~|CENTER:''304460点''|~|CENTER:960点|CENTER:360点|
 -BPMは127。
 -「''パパ・ママサポート！''」対応曲。
 --J-POPでは[[ひまわりの約束>難易度表/かんたん/ひまわりの約束]]に次いで2曲目である。
@@ -34,4 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-&attachref(Friend_easy.png,nolink);
+&attachref(Friend_e.png,nolink);

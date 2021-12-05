@@ -1,21 +1,28 @@
 * 夜想曲Op.9-2 [#v275d94c]
 
-*** 詳細・攻略 [#afe407ac]
+*** 詳細 [#afe407ac]
 -[[ノクターン第2番変ホ長調>http://www.youtube.com/watch?v=tEETYoBvSy4&feature=related]]のジャズアレンジ。
--詳細は以下の通り： 
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSP2DL''|CENTER:★×4|CENTER:''143''|CENTER:''347220点((鈴どん音符の得点は抜いている(ボーナス5000点を除く))''|CENTER:＋連打|CENTER:680点|CENTER:200点|
-||CENTER:Wii2|~|~|CENTER:''336620点''|~|CENTER:700点|CENTER:180点|
-|CENTER:AC15.5.1||~|~|CENTER:''349370点''|~|CENTER:720点|CENTER:263点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''992120点''}|~|CENTER:COLOR(#ff3300){5960点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|CENTER:バージョン((太字は初出))|ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+||CENTER:''PSP2DL''|BGCOLOR(gold):''クラシック''|★×4|CENTER:''143''|CENTER:''347220点((鈴どん音符の得点は抜いている(ボーナス5000点を除く))''|CENTER:＋連打|CENTER:680点|CENTER:200点|
+||CENTER:Wii2|~|~|~|''336620点''|~|CENTER:700点|CENTER:180点|
+|CENTER:AC15.5.1||~|~|~|CENTER:''349370点''|~|CENTER:720点|CENTER:263点|
+|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''992120点''}|~|CENTER:COLOR(#ff3300){5960点}|CENTER:-|
+|AC16.1.0||BGCOLOR(gold):''クラシック''|~|~|''??????点''|~|??0点|-|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは144。
 --Wii2以後はHS0.82がかかっている。
+
+***その他 [#other]
 -原曲は''ショパン''。
 -編曲は、''自営山''。
 -曲名の読み方は、''やそうきょくオーパス9-2''。
 --略称は、「''夜想曲''」や「''ノクターン''（夜想曲の意）」等。
 -[[練習曲Op.10-4>難易度表/かんたん/練習曲Op.10-4]]と間違えないように。
--曲IDは、''jaznoc''
+-曲IDは、''jaznoc''。
+----
 -[[ふつう>難易度表/ふつう/夜想曲Op.9-2]] 
 -[[むずかしい>難易度表/むずかしい/夜想曲Op.9-2]] 
 -[[おに>難易度表/おに/夜想曲Op.9-2]]

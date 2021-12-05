@@ -1,10 +1,13 @@
 *銀の意志 Super Arrange Ver. [#title]
-***詳細・攻略 [#more]
 -「''英雄伝説 空の軌跡SC''」のOPテーマ曲。
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1 DL''|CENTER:★×6|CENTER:''359''|CENTER:''770760点''|CENTER:＋連打|CENTER:700点|CENTER:168点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){???0点}|CENTER:-|
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1 DL''|★×6|''359''|''770760点''|＋連打|700点|168点|
+|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){2550点}|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは140。
 -黄色連打がかなり多く、16本ある。
 -全体的に付点配置が多く、リズムが取りづらい。
