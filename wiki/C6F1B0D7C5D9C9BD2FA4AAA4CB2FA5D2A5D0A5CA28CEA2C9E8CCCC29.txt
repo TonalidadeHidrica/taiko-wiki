@@ -1,4 +1,5 @@
 *ヒバナ(裏譜面) [#title]
+
 ***詳細 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
@@ -32,7 +33,8 @@
 -[[ふつう>難易度表/ふつう/ヒバナ]]
 -[[むずかしい>難易度表/むずかしい/ヒバナ]]
 -[[おに>難易度表/おに/ヒバナ]]/裏譜面
--[[プレイ動画>https://youtu.be/kpPK8gWxA-g]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=kpPK8gWxA-g&feature=youtu.be&t=10s]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=WoSLRPsNYwc]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

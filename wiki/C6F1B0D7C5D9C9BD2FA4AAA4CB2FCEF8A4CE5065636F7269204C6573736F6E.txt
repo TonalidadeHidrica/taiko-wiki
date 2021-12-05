@@ -1,8 +1,8 @@
 *恋のPecori&#9825;Lesson [#title]
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC9|''CS7''|★×7|''496''|''945180点''|+連打|490点|100点|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|AC9|''CS7''|BGCOLOR(lime):''バラエティ''|★×7|''496''|''945180点''|+連打|490点|100点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約166〜189。

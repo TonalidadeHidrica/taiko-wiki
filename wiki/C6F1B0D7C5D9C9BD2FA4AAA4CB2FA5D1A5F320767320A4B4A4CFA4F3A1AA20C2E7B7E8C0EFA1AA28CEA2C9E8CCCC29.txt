@@ -37,20 +37,21 @@
 ***その他 [#other]
 -楽曲情報は[[表譜面>難易度表/おに/パン vs ごはん！ 大決戦！]]を参照。
 -この譜面をフルコンボすると、''称号''「''ごはん派の達人''」を入手できる。(普通譜面・達人譜面かは問わない)
+
 ----
 -[[かんたん>難易度表/かんたん/パン vs ごはん！ 大決戦！]]
 -[[ふつう>難易度表/ふつう/パン vs ごはん！ 大決戦！]]
 -[[むずかしい>難易度表/むずかしい/パン vs ごはん！ 大決戦！]]
 -[[おに>難易度表/おに/パン vs ごはん！ 大決戦！]]/裏譜面
--[[プレイ動画(普通譜面)>https://www.youtube.com/watch?v=gPcSfFEBU8o]]
--[[プレイ動画(達人譜面)>https://www.youtube.com/watch?v=n_mXb5OJyJE]]
+-[[プレイ動画(キャプチャ・普通譜面)>https://www.youtube.com/watch?v=gPcSfFEBU8o&t=12s]]
+-[[プレイ動画(キャプチャ・達人譜面)>https://www.youtube.com/watch?v=n_mXb5OJyJE&t=15s]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
 暫定版
-~54小節目のHSは普通譜面が4?、達人譜面が0.5。
+~54小節目のHSは普通譜面が4、達人譜面が0.5。
 ~&attachref(【ごはん派の達人】.png,nolink);
 
 ~&aname(n_fumen);COLOR(#666){普通譜面}のみの画像~

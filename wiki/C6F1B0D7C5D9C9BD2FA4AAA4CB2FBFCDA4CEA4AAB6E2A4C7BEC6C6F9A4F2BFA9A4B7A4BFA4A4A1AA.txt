@@ -1,4 +1,5 @@
 *人のお金で焼肉を食したい！ [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -19,13 +20,14 @@
 -作編曲は、''土屋裕一''(INSPION)。
 --ドラムは''むらたたむ''。テルミン演奏は[[''トリ音''>参加アーティスト一覧/トリ音]]。フレクサトーンは[[''LindaAI-CUE''>参加アーティスト一覧/LindaAI-CUE]]。
 -曲IDは、''insp29''。
+
 ----
 -[[かんたん>難易度表/かんたん/人のお金で焼肉を食したい！]]
 -[[ふつう>難易度表/ふつう/人のお金で焼肉を食したい！]]
 -[[むずかしい>難易度表/むずかしい/人のお金で焼肉を食したい！]]
 -おに/[[裏譜面>難易度表/おに/人のお金で焼肉を食したい！(裏譜面)]]
--[[プレイ動画>https://www.youtube.com/watch?v=suiI62qD8Uk]]
--[[MV>https://www.youtube.com/watch?v=vtiU18VTi4I]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=RKB_SW49sE8&t=14s]]
+-[[公式MV>https://www.youtube.com/watch?v=vtiU18VTi4I]]
 
 ***コメント [#comment]
 #pcomment(,noname)

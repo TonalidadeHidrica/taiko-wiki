@@ -23,22 +23,22 @@
 -平均密度は、''約4.63打/秒''。
 
 ***その他 [#other]
--この曲が当時のプレイヤーに与えた印象は強く、10周年記念「[[思い出の曲アンケート(リンク切れ)>http://form-taiko.namco-ch.net/]]」[[(アーカイブ)>https://web.archive.org/web/20160408040332/http://form-taiko.namco-ch.net/]] のゲームミュージック部門では第2位を獲得した。
+-この曲が当時のプレイヤーに与えた印象は強く、10周年記念「[[思い出の曲アンケート(アーカイブ)>https://web.archive.org/web/20160408040332/http://form-taiko.namco-ch.net/]]」のゲームミュージック部門では第2位を獲得した。
 --長らくAC9にしか収録されていなかったが、''PSPDXにてセガとのコラボレーションで家庭用に初移植を遂げた。''収録されるのは約5年ぶりのことである。
 -曲名の読み方は、''マジカルサウンドシャワー''。
 --当時はあまりの精度のとりにくさに''マジカル2000''と呼ばれることもあった。 
 -よく使われる略称は、''MSS''である。しかし、2015年3月に[[M.S.S.Planet>難易度表/おに/M.S.S.Planet]]という新曲が追加されたので混同に注意。
 --またはSHOWERの読み間違いから、''しょうあー''などと呼ばれることも。
--作曲は''川口博史(Hiro)''。
+-作曲は、''川口博史(Hiro)''。
 -「[[初音ミク Project DIVA Arcade>http://miku.sega.jp/arcade/]]」にこの曲が収録され、初音ミクが歌っている(ラテン風のアレンジを施し、編曲者が作詞をしている)。セガ系列ならではであるといえるか。
--曲IDは、''outrun''。
 -譜面作成は、''[[キジキジ>譜面作成者一覧/キジキジ]]''。
+-曲IDは、''outrun''。
 ----
 -[[かんたん>難易度表/かんたん/MAGICAL SOUND SHOWER]]
 -[[ふつう>難易度表/ふつう/MAGICAL SOUND SHOWER]]
 -[[むずかしい>難易度表/むずかしい/MAGICAL SOUND SHOWER]]
--[[プレイ動画>https://www.youtube.com/watch?v=HjQ1mIOUc14]]
--[[オート動画(PS4)>https://www.youtube.com/watch?v=njI9bmdJzjg]]
+-[[プレイ動画(AC9)>https://www.youtube.com/watch?v=HjQ1mIOUc14]]
+-[[オート動画(PS4 1)>https://www.youtube.com/watch?v=njI9bmdJzjg]]
 
 ***コメント[#comment]
 #pcomment(,noname)

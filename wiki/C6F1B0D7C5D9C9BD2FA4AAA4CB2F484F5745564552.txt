@@ -1,5 +1,6 @@
 *&ruby(ハウエヴァー){HOWEVER}; [#title]
 -TBS系ドラマ「''略奪愛・アブない女''」主題歌。
+
 ***詳細 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -19,11 +20,12 @@
 --''本人音源''である。
 --作詞・作曲は、TAKURO。編曲は、GLAY・佐久間正英。
 -曲IDは、''glyhow''。
+
 ----
 -[[かんたん>難易度表/かんたん/HOWEVER]]
 -[[ふつう>難易度表/ふつう/HOWEVER]]
 -[[むずかしい>難易度表/むずかしい/HOWEVER]]
--[[プレイ動画>http://www.youtube.com/watch?v=WDdo5JNoj6Y]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=WDdo5JNoj6Y&t=17s]]
 
 ***コメント [#comment]
 #pcomment(,noname)

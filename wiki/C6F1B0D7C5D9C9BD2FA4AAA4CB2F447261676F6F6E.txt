@@ -1,11 +1,12 @@
 *Dragoon [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.11.2''||★×9|''765''|''1088040点''|＋連打|410点|100点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''985600点''}|~|COLOR(#ff3300){1200点}|-|
 |AC16.1.0||~|~|''987450点''|~|1290点|-|
-||iOS&br;AR|~|~|''?????0点''|~|???点|???点|
+||iOS&br;AR|~|~|''1074590点''|~|370点|90点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは200。
@@ -33,12 +34,12 @@
 -アーティストは、[[''Massive New Krew''>参加アーティスト一覧/Massive New Krew]]（[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]）。
 -この譜面をフルコンボすると、称号「''Dragoon Commander''」を獲得できる。 
 -曲IDは、''dragoo''。
-----
 
+----
 -[[かんたん>難易度表/かんたん/Dragoon]]
 -[[ふつう>難易度表/ふつう/Dragoon]]
 -[[むずかしい>難易度表/むずかしい/Dragoon]]
--[[プレイ動画>https://www.youtube.com/watch?v=VajCh71UMRI]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=08Sokh3msIg&t=18]]
 -[[オート動画(iOS)>https://www.youtube.com/watch?v=2tEgIhlyFUs]]
 
 ***コメント [#comment]

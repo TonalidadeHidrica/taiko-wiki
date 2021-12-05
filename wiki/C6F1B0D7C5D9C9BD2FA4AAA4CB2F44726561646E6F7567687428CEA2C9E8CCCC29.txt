@@ -227,5 +227,5 @@
 &br;3000222221221221221221012222,
 #endregion
 &attachref(Dreadnought裏.png,nolink);
-~加速部分の拡大版
+~加速部分の拡大版(2倍)
 &attachref(加速部分.png,nolink);
