@@ -1,30 +1,31 @@
-*Love Shack [#q3cf00f0]
-***詳細･攻略 [#dbc4ced6]
+*Love Shack [#title]
+***詳細・攻略 [#more]
 -【1人用譜面】
--詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''米TDM''&br;TDM|CENTER:★×3|CENTER:''208''|CENTER:''??????点''|CENTER:＋連打|CENTER:960点|CENTER:250点|
+|CENTER:''米TDM''&br;TDM|CENTER:★×3|CENTER:''208''|CENTER:''?????0点''|CENTER:＋連打|CENTER:960点|CENTER:250点|
 -BPMは133。
+-連打秒数目安・・・約1.31579秒
 -単色16分が少し出る程度なのでTDMでは逆詐称気味。
 ----
 -【2人用譜面】
--詳細は以下の通り：
 |CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''米TDM''&br;TDM|CENTER:★×3|CENTER:1P|CENTER:''178''|CENTER:''??????点''|CENTER:＋連打|CENTER:1120点|CENTER:???点|
-|~|~|CENTER:2P|CENTER:''175''|CENTER:''??????点''|~|~|~|
+|CENTER:''米TDM''&br;TDM|CENTER:★×3|CENTER:1P|CENTER:''178''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1120点|CENTER:???点|
+|~|~|CENTER:2P|CENTER:''175''|CENTER:''?????0点''|~|~|~|
+
+***その他 [#other]
+-アーティストは、''ビー・フィフティートゥーズ(B-52's)''。
 ----
--アーティストは''B-52's''。
 -[[かんたん>難易度表/かんたん/Love Shack]]
 -[[ふつう>難易度表/ふつう/Love Shack]]
 -[[おに>難易度表/おに/Love Shack]]
 -[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=ZJAXQFqIWbM]]
 -[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=clsn1c14Jkw]]
 
-***コメント [#h93de89f]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#nf1ffaea]
+***譜面 [#score]
 ~1人用譜面
-&attachref(Love Shackむずかしい.png,nolink);
+~&attachref(Love Shackむずかしい.png,nolink);
 ~2人用譜面
-&attachref(Love Shackむずかしい２.png,nolink);
+~&attachref(Love Shackむずかしい２.png,nolink);

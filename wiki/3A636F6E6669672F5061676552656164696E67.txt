@@ -10909,6 +10909,7 @@
 -[[難易度表/かんたん/MUSIC♪]] ナンイドオモテ/カンタン/MUSIC♪
 -[[難易度表/かんたん/MachineGun Kiss]] ナンイドオモテ/カンタン/MachineGun Kiss
 -[[難易度表/かんたん/MagiCatz]] ナンイドオモテ/カンタン/MagiCatz
+-[[難易度表/かんたん/Mani Mani(Prod. TAKU INOUE)]] ナンイドオモテ/カンタン/Mani Mani(Prod. TAKU INOUE)
 -[[難易度表/かんたん/Many wow bang!]] ナンイドオモテ/カンタン/Many wow bang!
 -[[難易度表/かんたん/Marine Mirage]] ナンイドオモテ/カンタン/Marine Mirage
 -[[難易度表/かんたん/Marionette]] ナンイドオモテ/カンタン/Marionette
@@ -13287,6 +13288,7 @@
 -[[難易度表/ふつう/MUSIC♪]] ナンイドオモテ/フツウ/MUSIC♪
 -[[難易度表/ふつう/MachineGun Kiss]] ナンイドオモテ/フツウ/MachineGun Kiss
 -[[難易度表/ふつう/MagiCatz]] ナンイドオモテ/フツウ/MagiCatz
+-[[難易度表/ふつう/Mani Mani(Prod. TAKU INOUE)]] ナンイドオモテ/フツウ/Mani Mani(Prod. TAKU INOUE)
 -[[難易度表/ふつう/Many wow bang!]] ナンイドオモテ/フツウ/Many wow bang!
 -[[難易度表/ふつう/Marine Mirage]] ナンイドオモテ/フツウ/Marine Mirage
 -[[難易度表/ふつう/Marionette]] ナンイドオモテ/フツウ/Marionette
@@ -15353,6 +15355,7 @@
 -[[難易度表/むずかしい/MUSIC♪]] ナンイドオモテ/ムズカシイ/MUSIC♪
 -[[難易度表/むずかしい/MachineGun Kiss]] ナンイドオモテ/ムズカシイ/MachineGun Kiss
 -[[難易度表/むずかしい/MagiCatz]] ナンイドオモテ/ムズカシイ/MagiCatz
+-[[難易度表/むずかしい/Mani Mani(Prod. TAKU INOUE)]] ナンイドオモテ/ムズカシイ/Mani Mani(Prod. TAKU INOUE)
 -[[難易度表/むずかしい/Many wow bang!]] ナンイドオモテ/ムズカシイ/Many wow bang!
 -[[難易度表/むずかしい/Marine Mirage]] ナンイドオモテ/ムズカシイ/Marine Mirage
 -[[難易度表/むずかしい/Marionette]] ナンイドオモテ/ムズカシイ/Marionette

@@ -1,29 +1,33 @@
-*Killer Queen [#je2e0d02]
-***詳細･攻略 [#wa579920]
-- TDMに収録。
-- 詳細は以下の通り:
-|CENTER:バージョン((太字は初出))|CENTER:難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''米TDM''&br;TDM|CENTER:★×4|CENTER:''221''|CENTER:''?????0点''|CENTER:＋連打|CENTER:970点|CENTER:250点|
+*Killer Queen [#title]
+-ホンダ「''モビリオ''」CMソング。
+***詳細・攻略 [#more]
+-【1人用譜面】
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''米TDM''&br;TDM|★×4|''221''|''?????0点''|＋連打|970点|250点|
 -BPMは109。
+-連打秒数目安(1人プレイ時）・・・約0.529秒−約2.26秒−約1.611秒−約1.322秒：合計約5.673秒
+-連打秒数目安(2人プレイ時）・・・約0.529秒(1P側）−約2.26秒−約0.529秒(2P側）−約1.322秒×2：合計約5.384秒
 ----
 -【2人用譜面】
--詳細は以下の通り：
 |CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''米TDM''&br;TDM|CENTER:★×4|CENTER:1P|CENTER:''226''|CENTER:''?????0点''|CENTER:＋連打|CENTER:950点|CENTER:???点|
 |~|~|CENTER:2P|CENTER:''223''|CENTER:''?????0点''|~|~|~|
+
+***その他 [#other]
+-アーティストは、''クイーン''(''Queen'')。
 ----
--アーティストは、''Queen''。
 -[[かんたん>難易度表/かんたん/Killer Queen]]
 -[[ふつう>難易度表/ふつう/Killer Queen]]
 -[[おに>難易度表/おに/Killer Queen]]
 -[[オート動画(1人用譜面)>https://www.youtube.com/watch?v=C607ixusf_U]]
 -[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=kjXwR_9nWL8]]
 
-***コメント [#u7323f2c]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#bc66ff08]
+***譜面 [#score]
 ~一人用譜面
-&attachref(モビリオむずかしい.png,nolink);
+~&attachref(モビリオむずかしい.png,nolink);
 ~二人用譜面
-&attachref(モビリオむずかしい２.png,nolink);
+~&attachref(モビリオむずかしい２.png,nolink);

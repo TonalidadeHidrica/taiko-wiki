@@ -17,7 +17,7 @@
 -面と縁の数がほぼ同じ(COLOR(red){面}：279、COLOR(blue){縁}：281)。
 --縁から入る複合もあるため、人によっては「あべこべ」を使用したほうが楽になることも。
 -ベースとなっているリズムはわかりやすいのでクリアは比較的易しめだが所々に16、24分音符の混合や3-3系の複合があり、フルコンボはやや難しめの部類に入る。
---44〜45小節目は、順手始動で&br;COLOR(red){●●●}COLOR(blue){●●●}×3|COLOR(red){●●}|COLOR(blue){●●●●}(24分)COLOR(blue){●}|COLOR(red){●●}COLOR(blue){●●}COLOR(red){●}と認識すると叩きやすい。(最後のCOLOR(red){●●}COLOR(blue){●●}COLOR(red){●}は逆手から叩く)
+--44〜45小節目は、順手始動で&br;COLOR(red){●●●}COLOR(blue){○○○}×3|COLOR(red){●●}|COLOR(blue){○○○○}(24分)COLOR(blue){○}|COLOR(red){●●}COLOR(blue){○○}COLOR(red){●}と認識すると叩きやすい。(最後のCOLOR(red){●●}COLOR(blue){○○}COLOR(red){●}は逆手から叩く)
 -平均密度は、''約5.37打/秒''。
 
 ***その他 [#other]

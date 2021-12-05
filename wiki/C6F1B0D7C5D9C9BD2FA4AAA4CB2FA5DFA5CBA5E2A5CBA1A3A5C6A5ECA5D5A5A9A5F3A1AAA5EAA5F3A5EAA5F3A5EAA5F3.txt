@@ -1,13 +1,16 @@
 *ミニモニ。テレフォン！リンリンリン [#title]
 -テレビ東京系「''おはスタ''」挿入歌。
 
-***詳細・攻略 [#more]
+***詳細 [#more]
 |>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|h
 |''AC3''||★×3|''225''|''266000点''|＋連打|
 ||CS1|★×6|''426''|''766000点''|~|
 |AC4,5||★×5|''448''|''756000点''|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは146。
+-連打秒数目安・・・約1.6096秒×2：合計約3.2192秒
 -AC3では[[ふつうコース>難易度表/ふつう/ミニモニ。テレフォン！リンリンリン]]、CS1では旧[[むずかしいコース>難易度表/むずかしい/ミニモニ。テレフォン！リンリンリン]]と同一譜面。
 -12分音符中心だが、なぜか16分も混じっているため、精度が取りづらい。
 --当時の譜面にはよく見られる現象で、他にも[[マッピー音頭>難易度表/おに/マッピー音頭]]等が該当する。
@@ -22,16 +25,17 @@
 -[[かんたん>難易度表/かんたん/ミニモニ。テレフォン！リンリンリン]]
 -[[ふつう>難易度表/ふつう/ミニモニ。テレフォン！リンリンリン]]
 -[[むずかしい>難易度表/むずかしい/ミニモニ。テレフォン！リンリンリン]]
--[[プレイ動画(AC4)>http://www.youtube.com/watch?v=PWPhJD5hcMo]]
+-[[プレイ動画(AC4)>https://www.youtube.com/watch?v=PWPhJD5hcMo]]
 -[[プレイ動画(CS1)>https://www.youtube.com/watch?v=SgQ5ZbRPbNI]]/[[2人用譜面(オート)>https://www.youtube.com/watch?v=k7a0SoyIWO4]]
--[[プレイ動画(AC3)>http://www.youtube.com/watch?v=Ns2aA1TOVhY]]
+-[[プレイ動画(AC3)>https://www.youtube.com/watch?v=Ns2aA1TOVhY]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~BPMは146
+~AC4,5譜面
+~&attachref(minite_ac4.png,nolink);
 
-AC4,5譜面&attachref(minite_ac4.png,nolink);
-
-~CS1譜面&attachref(RingRingRing_cs1.png,nolink);
+~CS1譜面
+~&attachref(RingRingRing_cs1.png,nolink);

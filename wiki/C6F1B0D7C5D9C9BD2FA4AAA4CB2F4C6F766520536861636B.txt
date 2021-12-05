@@ -1,21 +1,24 @@
-*Love Shack [#y728b74a]
-***詳細･攻略 [#y7406a61]
+*Love Shack [#title]
+***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|h
 |CENTER:''米TDM''|CENTER:★×3|CENTER:''208''|CENTER:''235000点''|CENTER:＋連打|
 |CENTER:TDM|CENTER:★×7|CENTER:''314''|CENTER:''456000点''|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは133。
 -コンボ数が少ないので、複合が苦手な人はまず簡単なところをしっかり叩けるようにしよう。
-- この譜面は日本版のみで、北米版はむずかしいコースと同一。
+-この譜面は日本版のみで、北米版はむずかしいコースと同一。
+
 ***その他 [#other]
-- アーティストは''ビー・フィフティートゥーズ(B-52's)''。
+-アーティストは、''ビー・フィフティートゥーズ(B-52's)''。
 ----
 -[[かんたん>難易度表/かんたん/Love Shack]]
 -[[ふつう>難易度表/ふつう/Love Shack]]
 -[[むずかしい>難易度表/むずかしい/Love Shack]]
 -[[オート動画(TDM)>https://www.youtube.com/watch?v=ehXo0bbmR2E]]
 
-***コメント [#fb2ebb6e]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#score]
+***譜面 [#score]
 &attachref(Love Shack3.png,nolink);
