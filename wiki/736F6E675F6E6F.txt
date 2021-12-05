@@ -1035,15 +1035,15 @@
 |933|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
 |934|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
 |935|非公開|BGCOLOR(darkorchid):ゲーム＆&br;バラエティ|非公開||
-|936|非公開|BGCOLOR(yellow):キッズ|非公開||
-|937|非公開|BGCOLOR(cyan):ポップス|非公開||
-|938|非公開|BGCOLOR(orangered):ナムオリ|非公開||
-|939|非公開|BGCOLOR(orangered):ナムオリ|非公開||
-|940|非公開|BGCOLOR(orangered):ナムオリ|非公開||
-|941|非公開|BGCOLOR(orangered):ナムオリ|非公開||
-|942|非公開|BGCOLOR(orangered):ナムオリ|非公開||
-|943|非公開|BGCOLOR(orangered):ナムオリ|非公開||
-|944|非公開|BGCOLOR(orangered):ナムオリ|非公開||
+|936|[[Smile! Smile! Smile!>難易度表/おに/Smile! Smile! Smile!]]|BGCOLOR(yellow):キッズ|?||
+|937|[[夜に駆ける>難易度表/おに/夜に駆ける]]|BGCOLOR(cyan):ポップス|?||
+|938|[[零の交響曲>難易度表/おに/零の交響曲]]|BGCOLOR(orangered):ナムオリ|?||
+|939|[[いっそこのままで>難易度表/おに/いっそこのままで]]|BGCOLOR(orangered):ナムオリ|?||
+|940|[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]|BGCOLOR(orangered):ナムオリ|?||
+|941|[[Fly again!>難易度表/おに/Fly again!]]|BGCOLOR(orangered):ナムオリ|?||
+|942|[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|BGCOLOR(orangered):ナムオリ|?||
+|943|[[クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|BGCOLOR(gold):クラシック|clscpl||
+|944|[[令・和太鼓>難易度表/おに/令・和太鼓]]|BGCOLOR(orangered):ナムオリ|reiwad||
 
 //||[[曲名>難易度表/おに/曲名]]|BGCOLOR():|?||
 

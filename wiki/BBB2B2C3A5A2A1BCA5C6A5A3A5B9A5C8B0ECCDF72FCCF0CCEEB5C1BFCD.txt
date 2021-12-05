@@ -39,6 +39,7 @@
 ---[[Fly away>難易度表/おに/Fly away]]
 ---[[ボクハシンセ>難易度表/おに/ボクハシンセ]]
 ---[[希望へのメロディー>難易度表/おに/希望へのメロディー]]
+---[[Fly again!>難易度表/おに/Fly again!]]
 
 
 -太鼓の達人以外の担当作品
@@ -46,7 +47,7 @@
 --[[ソウルキャリバーシリーズ>https://www21.atwiki.jp/gamemusicbest100/sp/pages/2019.html]]
 --[[鉄拳シリーズ>https://www21.atwiki.jp/gamemusicbest100/sp/pages/1938.html]]
 --[[塊魂シリーズ>https://www21.atwiki.jp/gamemusicbest100/sp/pages/1811.html]]
---[[大乱闘スマッシュブラザーズfor 3DS/WiiU>https://www21.atwiki.jp/gamemusicbest100/sp/pages/4467.html]]
+--[[大乱闘スマッシュブラザーズ for 3DS・WiiU>https://www21.atwiki.jp/gamemusicbest100/sp/pages/4467.html]]
 
 ***コメント[#comment]
 #pcomment(,noname)

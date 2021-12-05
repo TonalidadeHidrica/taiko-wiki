@@ -14,12 +14,12 @@
 
 |CENTER:90|||c
 |>|>|CENTER:''配信楽曲''|h
-|>|>|CENTER:BGCOLOR(pink):9/10配信|
-|BGCOLOR(cyan):''ダンスミュージックパック''|[[''Yes we are''>難易度表/おに/Yes we are]]|440円|
-|~|[[''EZ DO DANCE''>難易度表/おに/EZ DO DANCE]]|~|
-|~|[[''気分上々↑↑''>難易度表/おに/気分上々↑↑]]|~|
-|BGCOLOR(cyan):''ポップス&br;(単品販売)''|[[''ただ君に晴れ''>難易度表/おに/ただ君に晴れ]]&br;　　SIZE(11){ヨルシカ}|165円|
-|BGCOLOR(darkorchid):''ゲームミュージック&br;(単品販売)''|[[''JOIN THE PAC -太鼓の達人 Ver.-''>難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]&br;　　SIZE(11){パックマン40周年公式テーマ楽曲}|165円|
+|>|>|CENTER:BGCOLOR(pink):10月配信|
+|BGCOLOR(darkorchid):''DEEMOパック''|[[''Saika''>難易度表/おに/Saika]]|Rabpit 「DEEMO」より|
+|~|[[''Leviathan''>難易度表/おに/Leviathan]]|NeLiME 「DEEMO」より|
+|~|[[''Wish upon a shooting star''>難易度表/おに/Wish upon a shooting star]]|SUi 「DEEMO」より|
+|~|[[''MagiCatz''>難易度表/おに/MagiCatz]]|Sakuzyo 「DEEMO」より|
+|~|[[''ANiMA''>難易度表/おに/ANiMA]]|xi 「DEEMO」より|
 ----
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h

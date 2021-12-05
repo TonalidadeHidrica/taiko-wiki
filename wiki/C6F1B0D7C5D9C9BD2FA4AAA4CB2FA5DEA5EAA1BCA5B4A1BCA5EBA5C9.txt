@@ -20,13 +20,14 @@
 
 ***その他 [#other]
 -歌唱・作詞・作曲は、[[''あいみょん''>アーティスト別収録曲#aimyon]]。
+--本人音源ではない。
 --編曲は、立崎優介・田中ユウスケ。
 -曲IDは、''mrgold''。
 ----
 -[[かんたん>難易度表/かんたん/マリーゴールド]]
 -[[ふつう>難易度表/ふつう/マリーゴールド]]
 -[[むずかしい>難易度表/むずかしい/マリーゴールド]]
--[[オート動画>https://www.youtube.com/watch?v=WOuMV4RpHAo]]
+-[[オート動画>http://www.youtube.com/watch?v=WOuMV4RpHAo]]
 
 ***コメント [#comment]
 #pcomment(,noname)
