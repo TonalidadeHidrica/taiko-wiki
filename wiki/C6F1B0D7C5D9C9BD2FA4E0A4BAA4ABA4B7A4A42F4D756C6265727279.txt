@@ -1,16 +1,20 @@
-*Mulberry [#r90e4205]
-***詳細・攻略 [#ef73530b]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14SP''|CENTER:PSPDX&br;Wii4SP&br;iOS&br;AR|CENTER:★×6|CENTER:''343''|CENTER:''760190点''|CENTER:＋連打|CENTER:630点|CENTER:150点|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''786240点''}|~|CENTER:COLOR(#ff3300){2160点}|CENTER:-|
-|CENTER:AC15.1.0||~|~|CENTER:''778030点''|~|CENTER:650点|CENTER:188点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){2700点}|CENTER:-|
+*Mulberry [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC14SP''|PSPDX&br;Wii4SP&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''343''|''760190点''|+連打|630点|150点|
+|COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''786240点''}|~|COLOR(#ff3300){2160点}|-|
+|AC15.1.0||~|~|~|''778030点''|~|650点|188点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){2700点}|-|
+|AC16.1.0||~|~|~|''?????0点''|~|2890点|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは170。
 -黄色連打が多い連打曲である。
 -8分の複合が主体の譜面。16分は単色のみで数も少ない。
--難所は第2ゴーゴー。基本的には●○・・・の繰り返しだが、途中で16分が混じってくる。
--1回だけ出てくる16分の5連打に注意。
+-難所は第2ゴーゴー。基本的にはCOLOR(red){●}COLOR(blue){○}・・・の繰り返しだが、途中で16分が混じってくる。
+-1回だけ出てくる16分の5連打(COLOR(red){●●●●●})に注意。
 
 ***その他 [#other]
 -曲名の読み方は、''マルベリー''。
@@ -18,15 +22,15 @@
 -歌唱は、''茶太''。
 --作詞は、在藤銀。作曲は、みらゐ。
 -譜面作成は、''くぼけん''。
--曲IDは、''mulber''
-
+-曲IDは、''mulber''。
+----
 -[[かんたん>難易度表/かんたん/Mulberry]]
 -[[ふつう>難易度表/ふつう/Mulberry]]
 -[[おに>難易度表/おに/Mulberry]]
 -[[オート動画(Wii4)>https://www.youtube.com/watch?v=4URjg0klI_U]]
 
-***コメント [#c178e920]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#h162c4e5]
+***譜面 [#score]
 &attachref(mulber.png,nolink);

@@ -45,12 +45,13 @@
 -曲IDは、''debstp''。
 -新筐体でこの譜面をフルコンボすると、''称号''「''重量級ステッパー''」を獲得できる。
 -[[キミドリVer.段位道場>過去の段位道場#kimidori]]の十段2曲目課題曲、[[ブルーVer.段位道場>過去の段位道場#blue]]の超人2曲目課題曲となった。
+
 ----
 -[[かんたん>難易度表/かんたん/DEBSTEP!]]
 -[[ふつう>難易度表/ふつう/DEBSTEP!]]
 -[[むずかしい>難易度表/むずかしい/DEBSTEP!]]
--[[オート動画>https://www.youtube.com/watch?v=mN9fu2ajdIc]]
--[[プレイ動画(ばいそく)>https://www.youtube.com/watch?v=Z-rbiN0nx2w]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=m0gOWEOY5FM&t=11s]]
+-[[オート動画(Wii U2)>https://www.youtube.com/watch?v=mN9fu2ajdIc]]
 
 ***コメント [#comment]
 #pcomment(,noname)

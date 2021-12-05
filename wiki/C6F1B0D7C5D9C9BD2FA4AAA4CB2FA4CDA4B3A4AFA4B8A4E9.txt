@@ -12,6 +12,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは約140。
+-連打秒数・・・約0.536秒−約0.534秒：合計約1.07秒
 -3連符ばかりの譜面。ゴーゴータイムは比較的リズムに乗り易いが、それなりに厄介な複合(68小節)もあるので注意。
 -AC5、CS3までは、[[むずかしい>難易度表/むずかしい/ねこくじら]]と同一譜面だったが、Wii3で新譜面が登場した。
 -平均密度は、''約4.56打/秒''(新譜面)、''約3.21打/秒''(旧譜面)。
@@ -29,8 +30,8 @@
 -おに/[[裏譜面>難易度表/おに/ねこくじら(裏譜面)]]
 -[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20170715163140/http://taikoblog.namco-ch.net/blog/2009/05/post_100.html]]
 -[[歌詞紹介(アーカイブ)>https://web.archive.org/web/20150629235018/http://taikoblog.namco-ch.net/lyrics/2008/10/post_17.html]]
--[[オート動画(新譜面)>https://www.youtube.com/watch?v=qdcgSRUht3Q]]
--[[プレイ動画(旧譜面)>https://www.youtube.com/watch?v=Cr5ugvQFBJA]]
+-[[プレイ動画(旧譜面)>https://youtu.be/Cr5ugvQFBJA]]
+-[[オート動画(新譜面)>https://youtu.be/qdcgSRUht3Q]]
 
 ***コメント [#comment]
 #pcomment(,noname)

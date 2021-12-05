@@ -181,6 +181,7 @@
 -[[Help]] Help
 -[[InterWikiName]] InterWikiName
 -[[MenuBar]] MenuBar
+-[[NS RPGの収録曲]] NS RPGノシュウロクキョク
 -[[NS1の収録曲]] NS1ノシュウロクキョク
 -[[NS1の収録曲/隠し要素解禁条件]] NS1ノシュウロクキョク/カクシヨウソカイキンジョウケン
 -[[NS1の収録曲/ダウンロードコンテンツ]] NS1ノシュウロクキョク/ダウンロードコンテンツ
