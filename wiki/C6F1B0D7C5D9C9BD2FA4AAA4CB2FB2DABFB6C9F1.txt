@@ -36,13 +36,14 @@
 -曲IDは、''wgbhfm''
 -''2018年3月15日(木)をもって、新筐体のイエローVer.以前よりサヨナラとなった。''
 --''ブルーVer.以降では今まで通り選曲可能。''
+
 ----
 -[[かんたん>難易度表/かんたん/華振舞]]
 -[[ふつう>難易度表/ふつう/華振舞]]
 -[[むずかしい>難易度表/むずかしい/華振舞]]
--[[プレイ動画(キャプチャ,フルコンボ)>https://www.youtube.com/watch?v=crzTKOyX3U4]]
--[[プレイ動画(キャプチャ,全良)>https://www.youtube.com/watch?v=k9qYr01YtI8]]
--[[プレイ動画(直撮り,全良)>https://www.youtube.com/watch?v=GodE0Jr6V5k]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=k9qYr01YtI8]]((音量小さめ・ミュート無し))
+//-[[プレイ動画(キャプチャ,フルコンボ)>https://www.youtube.com/watch?v=crzTKOyX3U4]]
+//-[[プレイ動画(直撮り,全良)>https://www.youtube.com/watch?v=GodE0Jr6V5k]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

@@ -11,7 +11,7 @@
 |BGCOLOR(cyan):''J-POP''|BGCOLOR(orange):''アニメ''|BGCOLOR(silver):''ボーカロイド曲''|BGCOLOR(lime):''バラエティ''|BGCOLOR(gold):''クラシック''|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|
 |''8'' 曲&br;(9.5%)|''17'' 曲&br;(20.2%)|''3'' 曲&br;(3.6%)|''9'' 曲&br;(10.7%)|''1'' 曲&br;(1.2%)|''11'' 曲&br;(13.1%)|''17'' 曲&br;(20.2%)|
 ----
-背景がベージュ（COLOR(beige){■}）の曲・・・''現在は%%%購入できない%%%楽曲''（既に購入している場合は再ダウンロード可能）
+背景がベージュ（COLOR(beige){■}）の曲・・・''現在は%%%DLできない%%%楽曲''（既に購入している場合も再ダウンロード不可）
 
 |CENTER:1||CENTER:1|CENTER:40||c
 |NO.|曲名|配信日|価格|備考|h
@@ -26,7 +26,7 @@
 |BGCOLOR(darkorchid):6|[[''THE IDOLM@STER　(裏)''>難易度表/おに/THE IDOLM@STER(裏譜面)]]&br;　　SIZE(11){「アイドルマスター」より}|2015/7/9|無料||
 |BGCOLOR(lime):7|[[''アメイジンググレイス''>難易度表/おに/アメイジンググレイス]]|BGCOLOR(beige):2015/7/15|BGCOLOR(beige):-|BGCOLOR(beige):amazon予約特典|
 |~|~|2015/9/3|162円||
-|BGCOLOR(orange):8|[[''Brand-new world''>難易度表/おに/Brand-new World]]&br;　　SIZE(11){「学戦都市アスタリスク」より}|2016/1/28|162円|2016/02/29まで無料|
+|BGCOLOR(orange):8|BGCOLOR(beige):[[''Brand-new world''>難易度表/おに/Brand-new World]]&br;　　SIZE(11){「学戦都市アスタリスク」より}|BGCOLOR(beige):2016/1/28|BGCOLOR(beige):162円|BGCOLOR(beige):2016/02/29まで無料&br;配信終了時期不明((2019年1月2日に確認、具体的な時期は不明))|
 |BGCOLOR(darkorchid):9|[[''Seize the day''>難易度表/おに/Seize the day]]&br;　　SIZE(11){「東京ザナドゥ」より}|2016/2/4|162円||
 
 ***配信パック [#pack]
