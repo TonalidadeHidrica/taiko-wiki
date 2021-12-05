@@ -8,7 +8,7 @@
 |AC16.1.0|~|~|~|''1003500点''|~|1150点|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは50?-''280''。
+-BPMは45?-''280''。
 -[[まださいたま2000>難易度表/おに/まださいたま2000]]や[[スーハー2000>難易度表/おに/スーハー2000]]と同じBPMで、基本的にはHS1で流れてくる。譜面傾向としては、[[疾風怒濤>難易度表/おに/疾風怒濤]]や[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]のように、8分・12分・16分が複雑に混ざり合ったものを捌いていく譜面。
 --両者よりもBPMが速く、16分は長いものが多く縁の割合も高くなっているため、相当な高速処理が求められる。''特に105小節、139〜140小節は強烈なコンボカッターとなっている。''後者はラス殺しともいえる。
 --[[ブルー超人>段位道場/ブルー/超人]]課題曲であった[[束ね糸>難易度表/おに/束ね糸]]より基本BPMが+10であるうえ、認識しにくい12分・16分の叩き分けが至る所で必要になるため、高速処理要素・リズム難要素があちらよりも強くなっている。
@@ -47,25 +47,25 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-#region(3小節目BPM(HSは見た目BPM125を固定した場合の数値)暫定)
-&br;BPMCHANGE 115
-&br;SCROLL 1.08
-&br;2000
+#region(3小節目のBPM（HSは見た目BPM125を固定した場合の数値）※暫定版)
+&br;BPMCHANGE 112.5
+&br;SCROLL 1.11
+&br;200000000000000000000000
 
-&br;BPMCHANGE 105
-&br;SCROLL 1.19
-&br;2
+&br;BPMCHANGE 100
+&br;SCROLL 1.25
+&br;200000000000
 
-&br;BPMCHANGE 95
-&br;SCROLL 1.31
-&br;0
+&br;BPMCHANGE 87.5
+&br;SCROLL 1.42
+&br;000000000000
 
-&br;BPMCHANGE 85
-&br;SCROLL 1.47
-&br;2
+&br;BPMCHANGE 65
+&br;SCROLL 1.92
+&br;200000000000
 
-&br;BPMCHANGE 50
-&br;SCROLL 2.5
-&br;0,
+&br;BPMCHANGE 45
+&br;SCROLL 2.77
+&br;000000000000,
 #endregion
 &attachref(Connect Colors_4.png,nolink);
