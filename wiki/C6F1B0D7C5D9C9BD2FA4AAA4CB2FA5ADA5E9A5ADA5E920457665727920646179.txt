@@ -26,7 +26,7 @@
 -[[かんたん>難易度表/かんたん/キラキラ Every day]]
 -[[ふつう>難易度表/ふつう/キラキラ Every day]]
 -[[むずかしい>難易度表/むずかしい/キラキラ Every day]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=VUABixqC0zg]]
+-[[プレイ動画>https://www.youtube.com/watch?v=VUABixqC0zg]]
 
 ***コメント[#comment]
 #pcomment(,noname)
