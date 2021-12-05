@@ -1,11 +1,12 @@
 *Town 〜Must Mix〜 [#title]
-***詳細・攻略 [#more]
 -ゲーム版アイドルマスターシリーズのBGM「''Town''」のアレンジ。
--詳細は以下の通り：
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''COLOR(red){PS Vita MS}''|★×3|''275''|''651860点''|＋連打|580点|183点|
 |COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){???0点}|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは200。
 --ただし、HS1である箇所は終盤の連打や大音符のみであり、それ以外では常にHS0.5がかかっているので見かけ上のBPMは100である。
 -連打数の理論値は11打（風船の3打込み）。
@@ -23,7 +24,7 @@
 -アレンジ(編曲)は、[[''増渕裕二''>参加アーティスト一覧/増渕裕二]]。作曲は、[[''高田龍一''>参加アーティスト一覧/高田龍一]]。
 -譜面作成は、[[''くぼけん''>譜面作成者一覧/くぼけん]]。
 -曲IDは、''imsttt''。
-
+----
 -[[かんたん>難易度表/かんたん/Town 〜Must Mix〜]]
 -[[ふつう>難易度表/ふつう/Town 〜Must Mix〜]]
 -[[おに>難易度表/おに/Town 〜Must Mix〜]]
@@ -33,7 +34,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-半速
-&ref(mstown_hv.png,nolink);
+~半速
+~&ref(mstown_hv.png,nolink);
 ~実際の譜面
-&ref(mstown_h.png,nolink);
+~&ref(mstown_h.png,nolink);

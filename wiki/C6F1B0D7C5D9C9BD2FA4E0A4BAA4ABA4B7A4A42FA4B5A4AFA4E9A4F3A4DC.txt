@@ -1,18 +1,20 @@
 *さくらんぼ [#title]
-***詳細・攻略 [#more]
 -TBS系「''COUNT DOWN TV''」オープニングテーマ、およびフジテレビ系「''めちゃ&sup2;イケてるッ！''」エンディングテーマ。
--詳細は以下の通り：
-|>|CENTER:バージョン|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-|CENTER:''AC6''|CENTER:CS4|CENTER:''J-POP''|CENTER:★×4|CENTER:''203''|CENTER:''693560点''|CENTER:＋連打|CENTER:1050点|CENTER:280点||
-|CENTER:AC7|CENTER:PSP1|~|~|~|CENTER:''704830点''|~|CENTER:980点|CENTER:260点|CENTER:''ゴーゴーバグあり''|
-||CENTER:DS1|~|~|~|CENTER:''597720点''|~|CENTER:830点|CENTER:220点||
-|CENTER:AC8、9&br;AC12-12増&br;AC11亜,12亜|CENTER:Wii1&br;PSPDXDL|~|~|~|CENTER:''696440点''|~|CENTER:940点|CENTER:260点||
-|CENTER:AC15.1.0||~|CENTER:★×3|~|CENTER:''649910点''|~|CENTER:890点|CENTER:310点||
-||CENTER:iOS|~|~|~|CENTER:''648200点''|~|~|CENTER:240点||
-|CENTER:AC15.2.0|CENTER:Wii U3DL|~|CENTER:★×4|~|CENTER:''699040点''|~|CENTER:970点|CENTER:333点||
-||CENTER:PS4 1|CENTER:''ポップス''|~|~|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打}|||~|~|CENTER:COLOR(#ff3300){''999040点''}|~|CENTER:COLOR(#ff3300){4460点}|CENTER:-||
-|CENTER:AC16.1.0||CENTER:''ポップス''|~|~|CENTER:''1000790点''|~|CENTER:4930点|CENTER:-||
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+|''AC6''|CS4|BGCOLOR(cyan):''J-POP''|★×4|''203''|''693560点''|＋連打|1050点|280点||
+|AC7|PSP1|~|~|~|''704830点''|~|980点|260点|''ゴーゴーバグあり''|
+||DS1|~|~|~|''597720点''|~|830点|220点||
+|AC8,9&br;AC12-12増&br;AC11亜&br;AC12亜|Wii1&br;PSPDXDL|~|~|~|''696440点''|~|940点|260点|~|
+|AC15.1.0||~|★×3|~|''649910点''|~|890点|310点|~|
+||iOS|~|~|~|''648200点''|~|~|240点|~|
+|AC15.2.0|Wii U3DL|~|★×4|~|''699040点''|~|970点|333点|~|
+||PS4 1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''999040点''}|~|COLOR(#ff3300){4460点}|-|~|
+|AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''1000790点''|~|4930点|-|~|
+
+***譜面構成・攻略 [#capture]
 -BPMは170。
 -連打秒数目安・・・約0.96秒
 -大音符が多く、21個ある（全体の約10.3%）。
@@ -26,22 +28,24 @@
 -ほかのコースと違い、DS1で譜面変更がされていない。
 -二人プレイにおいて、2Pで38〜41小節目と46〜49小節目が入れ替わる。
 -CS4とAC6は曲の長さが現在より長い（歌い手も違う）。
--アーティストは、''大塚愛''。
--譜面作成は、''タカハシ''。
--曲IDは、''skrnb''
+-歌唱は、[[''大塚愛''>アーティスト別収録曲#ai]]。
+-普通譜面の譜面作成は、[[''タカハシ''>譜面作成者一覧/タカハシ]]。
+-曲IDは、''skrnb''。
 -''2014年11月5日7:00より、無印・KATSU-DON・ソライロ・モモイロバージョンよりサヨナラ''となった。
 --''キミドリVer.以降では今まで通り選曲が可能''。
 -PSPDXでは、2015年9月30日をもって新規DLができなくなった。
+----
 -[[かんたん>難易度表/かんたん/さくらんぼ]]
 -[[ふつう>難易度表/ふつう/さくらんぼ]]
 -[[おに>難易度表/おに/さくらんぼ]]
 -[[オート動画(Wii U3、1人用)>https://www.youtube.com/watch?v=aG6U3o5W5Mc]]
--[[オート動画(CS4、2人用)>http://www.youtube.com/watch?v=YbBshlZpxPs]]
--[[プレイ動画(AC6)>https://m.youtube.com/watch?v=WZo-wJtQY-Q]]
+-[[オート動画(CS4、2人用)>https://www.youtube.com/watch?v=YbBshlZpxPs]]
+-[[プレイ動画(AC6)>https://www.youtube.com/watch?v=WZo-wJtQY-Q]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-実際の譜面の開始位置は5小節目です。&br;AC7とPSP1は、53小節目がゴーゴータイムではありません。
-&attachref(sakurambo_hard.png,nolink);
+~実際の譜面の開始位置は5小節目です。
+~AC7とPSP1は、53小節目がゴーゴータイムではありません。
+~&attachref(sakurambo_hard.png,nolink);

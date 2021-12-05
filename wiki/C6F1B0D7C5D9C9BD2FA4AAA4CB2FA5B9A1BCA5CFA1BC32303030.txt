@@ -21,13 +21,13 @@
 ---上記にもある通り、半分近くのノーツはこの発狂部分に敷き詰められているため発狂地帯の密度は、COLOR(red){''約12.22打/秒''}と異様に高い。
 -各ゴーゴーは、音符の配置のみ同じで縁が徐々に減り面へと変わっていく。運手をしっかり頭に入れておくだけでも安定しやすくなる。
 --第1ゴーゴーは、縁が多く面の数が見切りやすいが後半は縁が少ないため非常に見切りにくい。縁を叩く運手、面を何打叩くかをしっかり把握しておこう。ただし、面を連打しているだけで繋がることもありクリア・フルコンボ目的であれば、最後の方が楽な時もある。
----第1ゴーゴーの縁を、入り手をCOLOR(cyan){●}で表すと次のようになる。&br;
-COLOR(cyan){●} COLOR(blue){●} COLOR(red){●●●●} COLOR(cyan){●} COLOR(red){●●●●} COLOR(blue){●} COLOR(red){●●●} COLOR(blue){●} COLOR(red){●●} COLOR(cyan){●} COLOR(red){●●} | COLOR(blue){●} COLOR(cyan){●} COLOR(red){●●} COLOR(blue){●} COLOR(red){●●} COLOR(cyan){●} COLOR(red){●●●} COLOR(cyan){●} COLOR(red){●●●} COLOR(cyan){●}COLOR(blue){●} COLOR(red){●●●●} (COLOR(cyan){●})これを2回繰り返す。
+---第1ゴーゴーの縁を、入り手をCOLOR(cyan){○}で表すと次のようになる。&br;
+COLOR(cyan){○} COLOR(blue){○} COLOR(red){●●●●} COLOR(cyan){○} COLOR(red){●●●●} COLOR(blue){○} COLOR(red){●●●} COLOR(blue){○} COLOR(red){●●} COLOR(cyan){○} COLOR(red){●●} | COLOR(blue){○} COLOR(cyan){○} COLOR(red){●●} COLOR(blue){○} COLOR(red){●●} COLOR(cyan){○} COLOR(red){●●●} COLOR(cyan){○} COLOR(red){●●●} COLOR(cyan){○}COLOR(blue){○} COLOR(red){●●●●} (COLOR(cyan){○})これを2回繰り返す。
 ---文字で書くと、[''順''→逆]→''順''→逆→逆→''順'' | [逆→''順'']→逆→''順''→''順''→[''順''→逆]([]は縁が続く箇所)。
 --「''ばいそく''」を使用するとやり易くなる場合がある(個人差)。ただしBPM280・HS1の地帯が非常に速くなるので注意。
 -一部の作品で、高速音符があるとそれが通過するまで''次の小節が表示されない''箇所がある。
---3DS1では8、20、46、64小節目の黄色連打と40、42小節目のCOLOR(red){●●●}COLOR(blue){●}。
---AC15(~キミドリ V2.06)では40、42小節目のCOLOR(red){●●●}COLOR(blue){●}。
+--3DS1では8、20、46、64小節目の黄色連打と40、42小節目のCOLOR(red){●●●}COLOR(blue){○}。
+--AC15(~キミドリ V2.06)では40、42小節目のCOLOR(red){●●●}COLOR(blue){○}。
 ---''Wii5・iOS・AC15(キミドリ V4.02以降)では全て表示される''。
 -低密度地帯が長いため平均密度は、''約5.52打/秒''と★×10にしては極端に低い。そのため、体力の消費度は他に比べ大きく劣る。
 --しかし、上記にもある通り発狂地帯の密度は非常に高いので、慣れないうちは体力が必要と思って挑んだ方がいいだろう。

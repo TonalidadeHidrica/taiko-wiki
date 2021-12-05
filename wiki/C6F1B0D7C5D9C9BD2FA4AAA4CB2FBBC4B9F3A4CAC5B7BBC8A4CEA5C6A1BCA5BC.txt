@@ -29,7 +29,7 @@
 -1曲を通しての平均密度は、''約4.21打/秒''(新譜面・達人譜面)。
 ***AC3の譜面 [#old]
 -旧[[むずかしい>難易度表/むずかしい/残酷な天使のテーゼ]]と同一。
--サビの部分でCOLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}COLOR(red){●}が3回出てくる。
+-サビの部分でCOLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(blue){○}COLOR(red){●}が3回出てくる。
 -譜面作成は、[[''こはらー''>譜面作成者一覧/こはらー]]。
 
 ***その他 [#other]

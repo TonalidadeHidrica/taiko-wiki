@@ -13,6 +13,7 @@
 |CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''798050点''}|~|CENTER:COLOR(#ff3300){2450点}|CENTER:-|
 |CENTER:AC15.8.5|CENTER:3DS3DL&br;PS4 1DL|~|CENTER:★×6|~|CENTER:''798070点''|~|CENTER:790点|CENTER:225点|
 |CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''1000280点''}|~|CENTER:COLOR(#ff3300){3080点}|CENTER:-|
+|CENTER:AC16.1.0||~|~|~|CENTER:''1000700点''|~|CENTER:3120点|CENTER:-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約130。
@@ -53,7 +54,7 @@
 #pcomment(,noname)
 
 ***譜面 [#fc91acd7]
-AC10以降。DS1、AC15以降は★×6
+AC10以降。DS1・AC14は★★★★★★★☆
 &ref(bachio_hard.png,nolink);
 ~旧譜面~
 AC7からは風船23打~

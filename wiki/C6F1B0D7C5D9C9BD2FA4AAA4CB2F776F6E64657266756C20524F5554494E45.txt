@@ -41,7 +41,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~前半の譜面が追い越す箇所のHSは1.75。
 #region(小節線部分の詳細)
 ~HSは暫定
 
@@ -71,7 +70,7 @@
  BPMCHANGE 160
  SCROLL 3
 #endregion
-~&attachref(while_true_.png,nolink);
+~&attachref(while_1_ROUTINE.png,nolink);
 
 ~小節線の拡大(400%)
 ~&attachref(小節線部分@拡大.png,nolink);
