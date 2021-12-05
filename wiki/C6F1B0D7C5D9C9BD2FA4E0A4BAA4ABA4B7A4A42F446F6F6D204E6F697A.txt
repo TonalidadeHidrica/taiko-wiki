@@ -1,15 +1,17 @@
 *Doom Noiz [#title]
-***詳細・攻略 [#more]
+***詳細 [#more]
 -Xbox360用ソフト[[「''ギャラガレギオンズ''」>http://galagalegions.namco-ch.net/index.html]]の楽曲。
 --「ギャプラス」の「''逆流星ミュージック''」のアレンジである。原曲はBGMというよりはジングルのような扱いの曲である。
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差||h
-||''Wii3SP''|★×10|''620''|''903720点''|380点|90点|''ゴーゴーバグあり''|
+||''Wii3SP''|★×8|''620''|''903720点''|380点|90点|''ゴーゴーバグあり''|
 |AC14Plus|PSPDXDL&br;iOS|~|~|''903210点''|~|~||
 |COLOR(#ff3300){真打モード}||~|~|COLOR(#ff3300){''900760点''}|COLOR(#ff3300){1330点}|-||
 |AC15.1.0|Wii5SP&br;PS4 1DL|~|~|''901520点''|400点|100点||
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''1005080点''}|COLOR(#ff3300){1490点}|-||
 |AC16.1.0||~|~|''??????点''|1610点|-||
+
+***譜面構成・攻略 [#capture]
 -BPMは160。
 -''精度曲''のひとつ。
 -AC14で追加収録され、[[おに>難易度表/おに/Doom Noiz]]同様、[[Kamikaze Remix>難易度表/むずかしい/Kamikaze Remix]]を抜き、GM最難関の曲となった。
@@ -35,7 +37,7 @@
 -[[かんたん>難易度表/かんたん/Doom Noiz]]
 -[[ふつう>難易度表/ふつう/Doom Noiz]]
 -[[おに>難易度表/おに/Doom Noiz]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=uqFiPJWgF-U]]
+-[[オート動画(Wii5)>http://www.youtube.com/watch?v=uqFiPJWgF-U]]
 
 ***コメント [#le35d4fe]
 #pcomment(,noname)

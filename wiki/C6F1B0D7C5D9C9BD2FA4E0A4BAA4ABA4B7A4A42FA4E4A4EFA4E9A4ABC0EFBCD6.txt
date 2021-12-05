@@ -6,7 +6,7 @@
 |CENTER:COLOR(#ff3300){真打モード}||~|~|~|CENTER:COLOR(#ff3300){''799020点''}|~|CENTER:COLOR(#ff3300){2070点}|CENTER:-|
 |CENTER:AC15.1.0|CENTER:3DS2DL&br;PS Vita1&br;PS4 1DL|~|~|~|CENTER:''794600点''|~|CENTER:640点|CENTER:185点|
 |CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''995880点''}|~|CENTER:COLOR(#ff3300){2580点}|CENTER:-|
-|CENTER:AC16.1.0||CENTER:''アニメ''|~|~|CENTER:''??????0点''|~|CENTER:???点|CENTER:-|
+|CENTER:AC16.1.0||CENTER:''アニメ''|~|~|CENTER:''??????0点''|~|CENTER:2900点|CENTER:-|
 |~|~|CENTER:''ゲーム&br;＆&br;バラエティ''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

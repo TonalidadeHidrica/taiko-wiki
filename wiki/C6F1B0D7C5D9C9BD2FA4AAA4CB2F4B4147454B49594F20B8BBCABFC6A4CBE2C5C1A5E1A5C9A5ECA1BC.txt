@@ -2,23 +2,23 @@
 
 **1人用譜面 [#single]
 ***詳細 [#detail]
-|>|CENTER:60|BGCOLOR(darkorchid):COLOR(white):CENTER:80|CENTER:48|CENTER:55|CENTER:84|>|>|CENTER:48|CENTER:|c
-|>|バージョン((太字は初出))|BGCOLOR(default):COLOR(black):ジャンル|難易度|最大&br;コンボ数|>|天井スコア|初項|公差||h
-||CS3|BGCOLOR(default):COLOR(black):''ロック''|★×10|''765''|''1359000点''|+連打|-|-||
-|''AC5'',6||BGCOLOR(default):COLOR(black):''ゲーム音楽''|~|~|''1347000点''|~|-|-||
-|~|~|BGCOLOR(orangered):COLOR(black):''ナムコ&br;オリジナル''|~|~|~|~|~|~|~|
-||米TDMSP&br;TDMSP|BGCOLOR(orangered):COLOR(black):''Namco&br;Original''|~|~|~|~|-|-||
-|AC7|PSP1DL|BGCOLOR(orangered):COLOR(black):''ナムコ&br;オリジナル''|★×9|~|''1422200点''|~|-|-|''ゴーゴーバグあり''|
+|>|CENTER:60|BGCOLOR(darkorchid):CENTER:80|CENTER:48|CENTER:55|CENTER:84|>|>|CENTER:48|CENTER:|c
+|>|バージョン((太字は初出))|BGCOLOR(default):ジャンル|難易度|最大&br;コンボ数|>|天井スコア|初項|公差||h
+||CS3|BGCOLOR(default):''ロック''|★×10|''765''|''1359000点''|+連打|-|-||
+|''AC5'',6||BGCOLOR(default):''ゲーム音楽''|~|~|''1347000点''|~|-|-||
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|~|
+||米TDMSP&br;TDMSP|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|-|-||
+|AC7|PSP1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|~|''1422200点''|~|-|-|''ゴーゴーバグあり''|
 ||DS1|~|~|~|''1145270点''|~|470点|100点||
 |AC8,9||~|~|~|''1094440点''|~|500点|90点||
-||PSP2|''ゲーム&br;ミュージック''|~|~|''1095000点''|~|~|~|''ゴーゴーバグあり''|
+||PSP2|COLOR(white):''ゲーム&br;ミュージック''|~|~|''1095000点''|~|~|~|''ゴーゴーバグあり''|
 |AC10~14|Wii4|~|~|~|''1096560点''|~|410点|100点||
-|AC11亜&br;AC12亜||''遊戲音樂''|~|~|~|~|~|~||
-|COLOR(#f30):真打&br;モード||''ゲーム&br;ミュージック''|~|~|COLOR(#f30):''1106820点''|~|COLOR(#f30):1430点|-||
+|AC11亜&br;AC12亜||COLOR(white):''遊戲音樂''|~|~|~|~|~|~||
+|COLOR(#f30):真打&br;モード||COLOR(white):''ゲーム&br;ミュージック''|~|~|COLOR(#f30):''1106820点''|~|COLOR(#f30):1430点|-||
 |AC15.1.0|Wii U3&br;PS4 1&br;NS1DL|~|★×8|~|''1046860点''|~|410点|108点||
 |COLOR(#f30):真打||~|~|~|COLOR(#f30):''998460点''|~|COLOR(#f30):1290点|-||
 ||iOS|~|~|~|''1047850点''|~|350点|100点||
-|AC16.1.0||''ゲーム＆&br;バラエティ''|~|~|''1002150点''|~|1310点|-||
+|AC16.1.0||COLOR(white):''ゲーム＆&br;バラエティ''|~|~|''1002150点''|~|1310点|-||
 
 ***譜面構成・攻略 [#capture]
 -BPMは約130。開幕で細かく変化している。
