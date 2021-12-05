@@ -1,12 +1,13 @@
-* Together [#i2e1403b]
-*** 詳細・攻略 [#pe785208]
--''「ポケットモンスター ダイヤモンド&パール」''のOP1。
---なお、AC14稼働の翌日にポケットモンスター ダイヤモンド&パールは放送を終了した。
--詳細は以下の通り：
+*Together [#title]
+-アニメ「''[[ポケットモンスター ダイヤモンド＆パール>アニメ別収録曲#pokemon]]''」のOP1。
+
+***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 ||CENTER:''DS1''|CENTER:★×5|CENTER:COLOR(#909){''171}&br;COLOR(#069){152}&br;COLOR(#666){129''}|CENTER:''646660点''|CENTER:＋連打|CENTER:1100点|CENTER:300点|
-|CENTER:AC10,12-13&br;12亜|CENTER:Wii1|~|~|CENTER:''731000点''|~|CENTER:1240点|CENTER:340点|
-|CENTER:AC11、11亜||CENTER:★×4|~|CENTER:''680790点''|~|CENTER:1130点|CENTER:320点|
+|CENTER:AC10&br;AC12-13&br;AC12亜|CENTER:Wii1|~|~|CENTER:''731000点''|~|CENTER:1240点|CENTER:340点|
+|CENTER:AC11&br;AC11亜||CENTER:★×4|~|CENTER:''680790点''|~|CENTER:1130点|CENTER:320点|
+
+***譜面構成・攻略 [#capture]
 -BPMは137。
 -達人譜面でさえ16分音符が少ない。16分音符は単色のみである。
 --人によっては★×3程度に感じることも。
@@ -15,6 +16,10 @@
 -平均密度は約2.38打/秒(達人譜面)
 --平均密度は約2.12打/秒(玄人譜面)
 ---平均密度は1.795打/秒(普通譜面)
+
+***その他 [#other]
+-アーティストは、[[''あきよしふみえ''>アーティスト別収録曲#akiyoshi]]。
+--作詞は、D&Pプロジェクト。作曲は、Rie。編曲は、市川淳。
 -曲IDは''dp''
 ----
 -[[かんたん>難易度表/かんたん/Together]]
@@ -22,7 +27,8 @@
 -[[おに>難易度表/おに/Together]]
 -[[オート動画(Wii1,キャプチャ)>https://www.youtube.com/watch?v=-UvbjAmdb-w]]
 
-*** コメント [#b969df40]
+***コメント [#comment]
 #pcomment(,noname)
-*** 譜面 [#ob00f762]
+
+***譜面 [#score]
 &attachref(Together.png,nolink);
