@@ -14,6 +14,8 @@
 ---[[いっそこのままで>難易度表/おに/いっそこのままで]]
 
 -太鼓の達人には収録されていないその他の作品
+--「アイドルマスター」
+---[[VELVET QUIET>https://www.youtube.com/watch?v=gBw4q4ClJpc]]　
 --「アイドルマスター シンデレラガールズ」　
 ---[[バベル>https://www.youtube.com/watch?v=X8viYNLC6Ow]]
 ---[[躍るFLAGSHIP>https://www.youtube.com/watch?v=JsaMPcHTtzA]]
@@ -24,5 +26,5 @@
 ---Faraway
 ---PRIZM
 
-**コメント [#comment]
+***コメント [#comment]
 #pcomment(,noname)

@@ -20,6 +20,11 @@
 
 //** 個別にページがないアーティスト [#pages]
 
+** 作品一覧 [#works]
+~ 個別ページがあるアーティストの作品はそちらを参照のこと。
+-バラエティ
+--[[BATTLE NO.1>難易度表/おに/BATTLE NO.1]]
+---上記のアーティストのうちaranを除く6組とNoizenecio、DJ Noriken、Getty、Srav3R、USAO、Kobaryo、P*lightの計13組による合作。
 
 ** 関連リンク [#link]
 - [[HARDCORE TANO*C>http://www.tano-c.net/]]

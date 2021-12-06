@@ -11,7 +11,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは222.22。
---[[きたさいたま2000>難易度表/おに/きたさいたま2000]]、[[Shiny Kung-fu Revival>難易度表/おに/Shiny Kung-fu Revival]]等とほぼ同速。
+--[[きたさいたま2000>難易度表/おに/きたさいたま2000]]・[[Shiny Kung-fu Revival>難易度表/おに/Shiny Kung-fu Revival]]などとほぼ同速。
 -連打秒数目安・・・約2.138秒−''約0.788秒''×2−約2.138秒：合計約5.850秒
 -縁の方が多く、''約52.92%''(542/1024)ある。
 -''大音符が一切配置されていない''譜面のひとつ。
@@ -42,8 +42,8 @@
 -[[かんたん>難易度表/かんたん/FREEDOM DiVE↓]]
 -[[ふつう>難易度表/ふつう/FREEDOM DiVE↓]]
 -[[むずかしい>難易度表/むずかしい/FREEDOM DiVE↓]]
+-[[オート動画(PS4 1)>https://www.youtube.com/watch?v=qq9NSZ5IzAU&t=4s]]
 -[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50]]
--[[オート動画>https://www.youtube.com/watch?v=qq9NSZ5IzAU]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

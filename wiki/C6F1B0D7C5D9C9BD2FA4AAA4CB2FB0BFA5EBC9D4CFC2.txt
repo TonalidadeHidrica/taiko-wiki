@@ -50,4 +50,4 @@
 #pcomment(,noname)
 
 ***иХлл [#score]
-~&attachref(╟©╔Китоб.png,nolink);
+~&attachref(╟©╔Китоб_2.png,nolink);

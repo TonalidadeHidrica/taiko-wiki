@@ -36,4 +36,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(MOIL.png,nolink);
+~&attachref(MOIL_2.png,nolink);

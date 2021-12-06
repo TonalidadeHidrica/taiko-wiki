@@ -1,11 +1,11 @@
 *“HELLO!!” [#title]
 -ニンテンドーDS用ソフト「[[''THE IDOLM@STER Dearly Stars''>THE IDOLM@STER関連楽曲一覧#dest]]」の楽曲。
 ***詳細 [#detail]
-|>|>|>|>|>|>|CENTER:|c
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:AC13|CENTER:''Wii2''|CENTER:★×6|CENTER:''430''|CENTER:''778450点''|CENTER:＋連打|CENTER:480点|CENTER:130点|
-||CENTER:COLOR(blue){PS Vita MS}|CENTER:★×5|CENTER:''310''|CENTER:''731440点''|~|CENTER:680点|CENTER:185点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''984840点''}|~|CENTER:COLOR(#ff3300){2830点}|CENTER:-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|>|初項|公差|h
+|AC13|''Wii2''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×6|''430''|''778450点''|＋連打|480点|130点|
+||COLOR(blue){PS Vita MS}|BGCOLOR(#cc3399):''Dearly&br;Stars''|★×5|''310''|''731440点''|~|680点|185点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''984840点''}|~|COLOR(#ff3300){2830点}|-|
 -BPMは173。
 
 ***新譜面 [#new]
@@ -25,11 +25,8 @@
 -16分の3連打が3連続で出てくる40小節に注意。
 
 ***その他 [#other]
--歌唱は、''日高愛''(CV:''戸松遥'')・''水谷絵理''(CV:[[''花澤香菜''>アーティスト別収録曲#zasan]])・''秋月涼''(CV:''三瓶由布子'')。
---作詞は、yura。作曲は、[[神前暁>参加アーティスト一覧/神前暁]]。
---また、全作共通で踊り子として3人が登場する。
--譜面作成は、[[''くぼけん''>譜面作成者一覧/くぼけん]](新譜面)。
--曲IDは、''helmas''、''imehel''(COLOR(blue){PS Vita MS})。
+-楽曲情報は[[おに譜面>難易度表/おに/“HELLO!!”]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/“HELLO!!”]]
 -[[ふつう>難易度表/ふつう/“HELLO!!”]]

@@ -32,4 +32,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(AIAIAI.png,nolink);
+~&attachref(AIAIAI_2.png,nolink);
