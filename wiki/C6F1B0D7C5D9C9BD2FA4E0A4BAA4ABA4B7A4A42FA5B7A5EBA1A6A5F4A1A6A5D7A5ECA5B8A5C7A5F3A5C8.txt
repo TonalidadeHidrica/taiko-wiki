@@ -21,4 +21,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(まずは君を捕まえるね.png,nolink);
+~&attachref(まずは君を捕まえるね♪.png,nolink);

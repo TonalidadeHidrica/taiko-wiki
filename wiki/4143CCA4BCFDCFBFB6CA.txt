@@ -150,6 +150,58 @@
 --[[Happy ＆ Peace>難易度表/おに/Happy ＆ Peace]]
 --[[BE THE ACE>難易度表/おに/BE THE ACE]]
 
+***太鼓の達人 TAIKO DRUM MASTER (日本版) [#ps2dmj]
+-Pop
+--[[ABC>難易度表/おに/ABC]]
+--[[The Loco-Motion>難易度表/おに/The Loco-Motion]]▲
+--[[You Can't Hurry Love>難易度表/おに/You Can't Hurry Love]]▲
+--[[September>難易度表/おに/September]]▲
+--[[That's The Way (I Like It)>難易度表/おに/That's The Way(I Like It)]]
+--[[Material Girl>難易度表/おに/Material Girl]]
+--[[Love Shack>難易度表/おに/Love Shack]]
+--[[Walking on Sunshine>難易度表/おに/Walking On Sunshine]]
+--[[I'm A Slave 4 U>難易度表/おに/I'm A Slave 4 U]]
+--[[Lady Marmalade>難易度表/おに/Lady Marmalade]]
+--[[Tubthumping>難易度表/おに/Tubthumping]]
+--[[The Impression That I Get>難易度表/おに/The Impression That I Get]]
+-Rock
+--[[Killer Queen>難易度表/おに/Killer Queen]]
+--[[Girls & Boys>難易度表/おに/Girls ＆ Boys]]
+--[[Slide>難易度表/おに/Slide]]
+--[[American Girls>難易度表/おに/American Girls]]
+-Children’s song
+--[[Alphabet Song>難易度表/おに/ABCの歌]]
+-Classical
+--[[Foster's Medley>難易度表/おに/クラシックメドレー(ホームパーティ編)]]
+--[[Symphony No.25 in G Minor>難易度表/おに/交響曲第25番ト短調第一楽章]]
+
+*** TAIKO: DRUM MASTER (海外版) [#ps2dmu]
+-Pop
+--[[ABC>難易度表/おに/ABC]]
+--[[That's The Way (I Like It)>難易度表/おに/That's The Way(I Like It)]]
+--[[The Impression That I Get>難易度表/おに/The Impression That I Get]]
+--[[Tubthumping>難易度表/おに/Tubthumping]]
+--[[Walking on Sunshine>難易度表/おに/Walking On Sunshine]]
+--[[Material Girl>難易度表/おに/Material Girl]]
+--[[Love Shack>難易度表/おに/Love Shack]]
+--[[I'm A Believer>難易度表/おに/I'm A Believer]]▲
+-Rock
+--[[Slide>難易度表/おに/Slide]]
+--[[American Girls>難易度表/おに/American Girls]]
+--[[Girls & Boys>難易度表/おに/Girls ＆ Boys]]
+--[[Killer Queen>難易度表/おに/Killer Queen]]
+--[[Lady Marmalade>難易度表/おに/Lady Marmalade]]
+--[[Are You Gonna Be My Girl>難易度表/おに/Are You Gonna Be My Girl]]▲
+--[[My Sharona>難易度表/おに/My Sharona]]▲
+-Anime/TV
+--[[Rock the Dragon - Dragonball Z Theme>難易度表/おに/Rock the Dragon]]▲
+--[[Bowling For Soup - Jimmy Neutron Theme>難易度表/おに/Bowling For Soup]]▲
+-Classical
+--[[Foster's Medley>難易度表/おに/クラシックメドレー(ホームパーティ編)]]
+--[[Symphony No.25 in G Minor>難易度表/おに/交響曲第25番ト短調第一楽章]]
+-Namco Original
+--[[Katamari On The Rocks>難易度表/おに/塊オンザロック]]
+
 **PSP [#psp]
 ***太鼓の達人 ぽ〜たぶる [#psp1]
 -J-POP
@@ -286,6 +338,8 @@
 --[[タマシイレボリューション>難易度表/おに/タマシイレボリューション]]▲((関ジャニの仕分け∞限定版にのみ収録))
 -アニメ
 --[[ユカイ ツーカイ怪物くん>難易度表/おに/ユカイ ツーカイ怪物くん]]▲
+-バラエティ
+--[[ピラメキたいそう　太鼓でメタボやっつけろ！の巻>難易度表/おに/ピラメキたいそう　太鼓の達人バージョン]]▲((AC13・14の[[ピラメキたいそう　太鼓の達人バージョン>難易度表/おに/ピラメキたいそう　太鼓の達人バージョン]]と同一譜面))
 -クラシック
 --[[おもちゃのシンフォニー>難易度表/おに/おもちゃのシンフォニー]]
 -ゲームミュージック
@@ -424,9 +478,11 @@
 --[[L・O・B・M>難易度表/おに/L・O・B・M]]((現在はダウンロード不可))
 --[[ソニック4 エピソードI メドレー>難易度表/おに/ソニック4 エピソードI メドレー]]▲((現在はダウンロード不可))
 --[[CHAOS RINGS>難易度表/おに/CHAOS RINGS]]▲((現在はダウンロード不可))
---[[テイルズ オブ エクシリア メドレー>難易度表/おに/テイルズ オブ エクシリア メドレー]]((現在はプレイ不可))
+--[[テイルズ オブ エクシリア メドレー>難易度表/おに/テイルズ オブ エクシリア メドレー]]
 --[[A New Journey>難易度表/おに/A New Journey]]▲
 --[[The Orb Festival>難易度表/おに/The Orb Festival]]▲
+--[[チェインクロニクル 通常バトルメドレー(ショートVer.)>難易度表/おに/チェインクロニクル 通常バトルメドレー]]▲((現在はプレイ不可))
+--[[チェインクロニクル 通常バトルメドレー(ショートVer.)(裏譜面)>難易度表/おに/チェインクロニクル 通常バトルメドレー(裏譜面)]]▲((現在はプレイ不可))
 --[[明日への鼓動>難易度表/おに/明日への鼓動]]
 --[[Fight the Fanatics>難易度表/おに/Fight the Fanatics]]▲
 --[[テイルズ オブ ゼスティリア メドレー>難易度表/おに/テイルズ オブ ゼスティリア メドレー]]
@@ -1480,8 +1536,8 @@
 --[[突撃ロック>難易度表/おに/突撃ロック]](Wii5)
 --[[バイマイサイド>難易度表/おに/バイマイサイド]](PSPDX、iOS)
 --[[ウィーゴー！>難易度表/おに/ウィーゴー！]](iOS、PSPDX、3DS1、Wii5)
---[[おしりの山はエベレスト>難易度表/おに/おしりの山はエベレスト]](3DS1、Wii5)
---[[おしりの山はエベレスト(裏譜面)>難易度表/おに/おしりの山はエベレスト(裏譜面)]](Wii5)
+--[[おしりの山はエベレスト>難易度表/おに/おしりの山はエベレスト]](3DS1、Wii5、iOS)
+--[[おしりの山はエベレスト(裏譜面)>難易度表/おに/おしりの山はエベレスト(裏譜面)]](Wii5、iOS)
 --[[ガツガツ!!>難易度表/おに/ガツガツ！！]](PSPDX、Wii4、3DS1)
 --[[Switch On!>難易度表/おに/Switch On!]](iOS、PSPDX、3DS1、3DS2)
 --[[Switch On!(裏譜面)>難易度表/おに/Switch On!(裏譜面)]](iOS、3DS2)
