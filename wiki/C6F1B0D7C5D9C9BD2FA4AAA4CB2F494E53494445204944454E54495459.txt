@@ -1,10 +1,10 @@
 *INSIDE IDENTITY [#title]
 -アニメ「''中二病でも恋がしたい！''」のED。
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.3.0''|★×8|''459''|''1046740点''|＋連打|610点|168点|
-|COLOR(#ff3300){真打}|~|~|''COLOR(#ff3300){998450点''}|~|COLOR(#ff3300){1890点}|-|
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.3.0''|BGCOLOR(orange):''アニメ''|★×8|''459''|''1046740点''|＋連打|610点|168点|
+|COLOR(#ff3300){真打}|~|~|~|''COLOR(#ff3300){998450点''}|~|COLOR(#ff3300){1890点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約186。
