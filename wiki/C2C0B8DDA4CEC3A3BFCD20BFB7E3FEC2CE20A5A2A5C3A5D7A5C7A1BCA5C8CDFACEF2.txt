@@ -375,11 +375,28 @@
 |BGCOLOR(yellow):''キッズ''|[[''Over “Quartzer”''>難易度表/おに/Over “Quartzer”]]|「仮面ライダージオウ」より|
 |BGCOLOR(hotpink):''アニメ''|[[''NATSU☆しようぜ！''>難易度表/おに/NATSU☆しようぜ！]]|IDOLiSH7 feat.TRIGGER 「アイドリッシュセブン」より|
 
-**第131回アップデート GAME VERSION:21.10(2021/12/16?実施予定) [#update131]
--''(詳細発表待ち・12/3より準備[事前DL]開始)''
+**第131回アップデート GAME VERSION:21.10(2021/12/15実施予定) [#update131]
+-楽曲配信106。
+
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''バージョンアップ配信曲''(V21.10)|h
+|BGCOLOR(cyan):''ポップス''|COLOR(blue):''初''|[[''踊''>難易度表/おに/踊]]|Ado|
+|~|COLOR(red):''新''|[[''YONA YONA DANCE''>難易度表/おに/YONA YONA DANCE]]|和田アキ子|
+|~|COLOR(blue):''初''|[[''シル・ヴ・プレジデント''>難易度表/おに/シル・ヴ・プレジデント]]|P丸様。|
+|BGCOLOR(hotpink):''アニメ''|COLOR(red):''新''|[[''僕の戦争''>難易度表/おに/僕の戦争]]|「進撃の巨人 Final&#83;eason」より|
+|~|COLOR(red):''新''|[[''明け星''>難易度表/おに/明け星]]||
+|BGCOLOR(gold):''キッズ''|COLOR(red):''新''|[[''Fun!Fun!Fun! 〜夢∞〜''>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|「ビッ友×戦士 キラメキパワーズ！」より|
+|~|COLOR(red):''新''|[[''liveDevil''>難易度表/おに/liveDevil]]|「仮面ライダーリバイス」より|
 -[[''AI粗品バトル演奏''>https://taiko-ch.net/taiko20th/topics/topic09.php]]が追加される。
 --粗品(霜降り明星)の腕前を再現した「AI粗品」とバトルできるモード。
 --好きな楽曲・むずかしさで参加可能で、誰でも楽しめるモードである。
+
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''12/23配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''Agent Hustle & Dr. Hassle''>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|Cory Tarrow(BNSI)|
+|~|COLOR(red):''新''|[[''Spectral Rider''>難易度表/おに/Spectral Rider]]|濱本理央(BNSI)|
+|~|COLOR(blue):''初''|[[''Solitude Star''>難易度表/おに/Solitude Star]]|春先 x beet|
+|~|COLOR(blue):''初''|[[''どんちゃん世界旅行''>難易度表/おに/どんちゃん 世界旅行]]||
 
 -2021/12/24 7:00をもって、以下の4曲がサヨナラとなる。
 |CENTER:100|||c

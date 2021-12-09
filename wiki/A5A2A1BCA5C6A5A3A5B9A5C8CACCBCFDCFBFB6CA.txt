@@ -1439,10 +1439,10 @@
 ||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''ポップス''|
-|''ギミチョコ！！''((SUZUKA名義))|220|[[★×4>難易度表/かんたん/ギミチョコ！！]]|[[★×6>難易度表/ふつう/ギミチョコ！！]]|[[★×7>難易度表/むずかしい/ギミチョコ！！]]|[[★×8>難易度表/おに/ギミチョコ！！]]|
+|''ギミチョコ！！''((SU-METAL名義))|220|[[★×4>難易度表/かんたん/ギミチョコ！！]]|[[★×6>難易度表/ふつう/ギミチョコ！！]]|[[★×7>難易度表/むずかしい/ギミチョコ！！]]|[[★×8>難易度表/おに/ギミチョコ！！]]|
 |~|~|-|-|-|[[★×10>難易度表/おに/ギミチョコ！！(裏譜面)]]|
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''|
-|''Over the Future''((SU-METAL名義))|147|[[★×3>難易度表/かんたん/Over the Future]]|[[★×4>難易度表/ふつう/Over the Future]]|[[★×4>難易度表/むずかしい/Over the Future]]|[[★×7>難易度表/おに/Over the Future]]|
+|''Over the Future''((SUZUKA名義))|147|[[★×3>難易度表/かんたん/Over the Future]]|[[★×4>難易度表/ふつう/Over the Future]]|[[★×4>難易度表/むずかしい/Over the Future]]|[[★×7>難易度表/おに/Over the Future]]|
 
 ***夏川椎菜 (2曲) [#nance]
 ||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c

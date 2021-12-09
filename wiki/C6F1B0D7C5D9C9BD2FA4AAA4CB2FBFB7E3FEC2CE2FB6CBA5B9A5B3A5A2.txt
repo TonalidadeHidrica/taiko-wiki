@@ -761,7 +761,7 @@
 |[[Caribbean Knight>難易度表/おに/Caribbean Knight]]||||
 |[[Toon Town's Toys' Tune>難易度表/おに/Toon Town's Toys' Tune]]|1001190|1002090|9|
 |[[まるくてはやくてすさまじいリズム>難易度表/おに/まるくてはやくてすさまじいリズム]]|>|1007540|0|
-|[[にゃーにゃーにゃー>難易度表/おに/にゃーにゃーにゃー]]||||
+|[[にゃーにゃーにゃー>難易度表/おに/にゃーにゃーにゃー]]|1005830|1007230|14|
 |[[EterNal Ring>難易度表/おに/EterNal Ring]]||||
 |[[Coquette>難易度表/おに/Coquette]]|1003860|1004360|5|
 |[[CYBERgenicALICE>難易度表/おに/CYBERgenicALICE]]||||

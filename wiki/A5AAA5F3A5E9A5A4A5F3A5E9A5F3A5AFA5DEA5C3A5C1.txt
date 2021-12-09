@@ -372,6 +372,22 @@
 -BPM欄に※がついているものには、細かなBPM変化がある。
 -''隠''・・・隠し曲
 -''DL''・・・ダウンロード曲
+*** 第105週(2021年12月10日〜2021年12月16日) [#week105]
+|>|CENTER:1||LEFT:65|>|>|>|>|CENTER:44|c
+|||''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かんたん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずかしい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|h
+|BGCOLOR(cyan):||''TT -Japanese ver.-''|130|[[★×3>難易度表/かんたん/TT -Japanese ver.-]]|[[★×5>難易度表/ふつう/TT -Japanese ver.-]]|[[★×5>難易度表/むずかしい/TT -Japanese ver.-]]|[[★×7>難易度表/おに/TT -Japanese ver.-]]|-|
+|BGCOLOR(orange):||''アローラ!!''&br;　　SIZE(11){「ポケットモンスター サン＆ムーン」より}|153|[[★×2>難易度表/かんたん/アローラ!!]]|[[★×3>難易度表/ふつう/アローラ!!]]|[[★×4>難易度表/むずかしい/アローラ!!]]|[[★×7>難易度表/おに/アローラ!!]]|-|
+|~||''踊れ・どれ・ドラ ドラえもん音頭''|116|[[★×2>難易度表/かんたん/踊れ・どれ・ドラ　ドラえもん音頭]]|[[★×1>難易度表/ふつう/踊れ・どれ・ドラ　ドラえもん音頭]]|[[★×3>難易度表/むずかしい/踊れ・どれ・ドラ　ドラえもん音頭]]|[[★×4>難易度表/おに/踊れ・どれ・ドラ　ドラえもん音頭]]|-|
+|~||''さんぽ''&br;　　SIZE(11){「となりのトトロ」より}|120|[[★×1>難易度表/かんたん/さんぽ]]|[[★×1>難易度表/ふつう/さんぽ]]|[[★×4>難易度表/むずかしい/さんぽ]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/さんぽ]]|[[★×9>難易度表/おに/さんぽ(裏譜面)]]|
+|BGCOLOR(lime):||''Bad Apple!! feat.nomico''&br;　　SIZE(11){東方Projectアレンジ Alstroemeria Records}|138※|[[★×3>難易度表/かんたん/Bad Apple!! feat.nomico]]|[[★×5>難易度表/ふつう/Bad Apple!! feat.nomico]]|[[★×6>難易度表/むずかしい/Bad Apple!! feat.nomico]]|[[★×8>難易度表/おに/Bad Apple!! feat.nomico]]|-|
+|BGCOLOR(darkorchid):||''Racing the Storm''&br;　　SIZE(11){「クリティカルベロシティ」より}|148|[[★×4>難易度表/かんたん/Racing the Storm]]|[[★×5>難易度表/ふつう/Racing the Storm]]|[[★×7>難易度表/むずかしい/Racing the Storm]]|[[★×8>難易度表/おに/Racing the Storm]]|-|
+|BGCOLOR(orangered):||''ボクハシンセ''|110|[[★×3>難易度表/かんたん/ボクハシンセ]]|[[★×3>難易度表/ふつう/ボクハシンセ]]|[[★×4>難易度表/むずかしい/ボクハシンセ]]|[[★×8>難易度表/おに/ボクハシンセ]]|-|
+|~|''DL''|''豊穣弥生''|126※|[[★×4>難易度表/かんたん/豊穣弥生]]|[[★×6>難易度表/ふつう/豊穣弥生]]|[[★×7>難易度表/むずかしい/豊穣弥生]]|[[★×8>難易度表/おに/豊穣弥生]]|-|
+|BGCOLOR(cyan):|''DL''|''Walking with you''|185|[[★×2>難易度表/かんたん/Walking with you]]|[[★×4>難易度表/ふつう/Walking with you]]|[[★×5>難易度表/むずかしい/Walking with you]]|[[★×8>難易度表/おに/Walking with you]]|-|
+|BGCOLOR(orangered):|''隠''|''MATSURI D／A''|130|[[★×5>難易度表/かんたん/MATSURI D／A]]|[[★×7>難易度表/ふつう/MATSURI D／A]]|[[★×8>難易度表/むずかしい/MATSURI D／A]]|[[★×8>難易度表/おに/MATSURI D／A]]|-|
+----
+過去の課題曲はこちら
+#region(第101週〜)
 *** 第104週(2021年12月3日〜2021年12月9日) [#week104]
 |>|CENTER:1||LEFT:65|>|>|>|>|CENTER:44|c
 |||''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かんたん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずかしい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|h
@@ -386,9 +402,6 @@
 |~|''DL''|''Wavy Baby''&br;　　SIZE(11){陽当モナカ}|210|[[★×4>難易度表/かんたん/Wavy Baby]]|[[★×6>難易度表/ふつう/Wavy Baby]]|[[★×7>難易度表/むずかしい/Wavy Baby]]|[[★×9>難易度表/おに/Wavy Baby]]|-|
 |BGCOLOR(darkorchid):|''隠''|''Hole in the wall''&br;　　SIZE(11){「マッスル行進曲」より}|140|[[★×4>難易度表/かんたん/Hole in the wall]]|[[★×6>難易度表/ふつう/Hole in the wall]]|[[★×7>難易度表/むずかしい/Hole in the wall]]|[[★×8>難易度表/おに/Hole in the wall]]|-|
 
-----
-過去の課題曲はこちら
-#region(第101週〜)
 *** 第103週(2021年11月26日〜2021年12月2日) [#week103]
 |>|CENTER:1||LEFT:65|>|>|>|>|CENTER:44|c
 |||''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かんたん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずかしい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|h
