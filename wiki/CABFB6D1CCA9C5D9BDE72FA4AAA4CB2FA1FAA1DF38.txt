@@ -493,7 +493,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(hotpink):|[[クローバー&#9827;かくめーしょん>難易度表/おに/クローバー かくめーしょん]]|''5.047''|145|497|98.48秒||
 |>|BGCOLOR(lime):|BGCOLOR(cyan):|[[「HERO」 -Main Title->難易度表/おに/「HERO」 -Main Title-]]|''5.043''|130|444|88.04秒||
 |>|>|BGCOLOR(darkorchid):|[[Theme of Ryu>難易度表/おに/Theme of Ryu]]|''5.033''|137.00※|626|124.38秒||
-|>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[Thinking 〜Must Mix〜>難易度表/おに/Thinking 〜Must Mix〜]]|''5.020''|190.57※|554|110.35秒||
+|>|>|BGCOLOR(darkorchid):|[[Thinking 〜Must Mix〜>難易度表/おに/Thinking 〜Must Mix〜]]|''5.020''|190.57※|554|110.35秒||
 |>|BGCOLOR(cyan):|BGCOLOR(hotpink):|[[熱情のスペクトラム>難易度表/おに/熱情のスペクトラム]]|''5.011''|160|436|87.00秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''5.000未満''|
 //|BGCOLOR(lime):|[[ライコタイコディスコ>難易度表/おに/ライコタイコディスコ]]|''4.980''|144|664|133.33秒|例大祭|

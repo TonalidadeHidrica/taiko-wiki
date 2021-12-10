@@ -1,4 +1,4 @@
-*&ruby(ネイキッド){Naked}; &ruby(グロウ){Glow}; [#title]
+*Naked Glow [#title]
 -PS用ソフト「[[''R4 -RIDGE RACER TYPE4-''>ゲーム別収録曲#rr]]」より。
 
 ***詳細 [#more]
@@ -16,10 +16,10 @@
 -縁から入る複合が多いため「あべこべ」によりやり易くなる場合もある。
 -リズム難かつ、全体的にさまざまな複合連打を組み合わせた総合譜面となっているため、複合をスムーズに捌く技術が必要。BPMがそこまで速くないのが救い。
 -演奏時間は約2分31秒と長め。集中力も必要となる。
---平均密度は、''約5.45打/秒''。
+-平均密度は、''約5.45打/秒''。
 
 ***その他 [#other]
--作曲は、[[URBAN FRAGMENTS>難易度表/おに/URBAN FRAGMENTS]]や[[SAMURAI>難易度表/おに/SAMURAI ROCKET]] [[ROCKET>難易度表/おに/SAMURAI ROCKET(裏譜面)]]と同じ''[[KOHTA TAKAHASHI>参加アーティスト一覧/高橋弘太]]''。
+-作曲は、[[URBAN FRAGMENTS>難易度表/おに/URBAN FRAGMENTS]]や[[SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]]と同じ''[[KOHTA TAKAHASHI>参加アーティスト一覧/高橋弘太]]''。
 -譜面作成は、''[[キジキジ>譜面作成者一覧/キジキジ]]''。
 -この曲は、ゲームミュージックでありながら初出は亜洲版という非常に珍しい曲である。
 -曲IDは、''r4nak''。
