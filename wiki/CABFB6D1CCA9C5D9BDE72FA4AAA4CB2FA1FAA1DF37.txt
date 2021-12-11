@@ -618,6 +618,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(cyan):|BGCOLOR(lime):|[[Slide>難易度表/おに/Slide]]|''3.788''|112|418|110.36秒|TDM|
 |>|>|BGCOLOR(cyan):|[[ここにいるぜぇ！>難易度表/おに/ここにいるぜぇ！]]|''3.782''|211|348|79.05秒||
 |>|BGCOLOR(cyan):|BGCOLOR(lime):|[[That's The Way (I Like It)>難易度表/おに/That's The Way(I Like It)]]|''3.768''|108.99※|363|96.34秒|TDM ・ 動画から計算|
+|>|>|BGCOLOR(darkorchid):|[[モンスターハンターメドレー(旧)>難易度表/おに/モンスターハンターメドレー]]|''3.765''|128.44※|656|174.25秒||
 |>|>|BGCOLOR(orangered):|[[どろろんガール>難易度表/おに/どろろんガール]]|''3.723''|120|350|94.00秒||
 |>|>|BGCOLOR(lime):|[[MOSKAU>難易度表/おに/MOSKAU]]|''3.721''|131.41|384|103.19秒||
 |>|BGCOLOR(cyan):|BGCOLOR(lime):|[[I Was Born To Love You>難易度表/おに/I Was Born To Love You]]|''3.707''|139.4|426|114.92秒|正確には''3.7069''|
