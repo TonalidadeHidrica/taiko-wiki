@@ -42,4 +42,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(カグツチ2.png,nolink);
+~&attachref(カグツチ3.png,nolink);

@@ -431,7 +431,7 @@
 --[[&color(red){新しい光};>難易度表/おに/新しい光]]▲※
 --[[CAT'S EYE>難易度表/おに/CAT'S EYE]]
 --[[&color(red){いつかいつか};>難易度表/おに/いつかいつか]]▲※
---[[&color(red){I★my★me★mine};>難易度表/おに/I★my★me★mine]]
+--[[&color(red){I★my★me★mine};>難易度表/おに/I★my★me★mine]]※
 --[[HANDS UP!>難易度表/おに/HANDS UP!]]
 --[[キューティーハニー>難易度表/おに/キューティーハニー(倖田來未Ver)]]
 --[[&color(red){ignited -イグナイテッド-};>難易度表/おに/ignited-イグナイテッド-]]※
