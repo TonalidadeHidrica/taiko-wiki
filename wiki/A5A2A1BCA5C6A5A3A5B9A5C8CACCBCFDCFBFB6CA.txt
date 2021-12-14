@@ -2069,7 +2069,7 @@
 |''FUTURE FISH''|163|[[★×3>難易度表/かんたん/FUTURE FISH]]|[[★×5>難易度表/ふつう/FUTURE FISH]]|[[★×5>難易度表/むずかしい/FUTURE FISH]]|[[★×6>難易度表/おに/FUTURE FISH]]|
 |''WiSH VOYAGE''|150|[[★×2>難易度表/かんたん/WiSH VOYAGE]]|[[★×3>難易度表/ふつう/WiSH VOYAGE]]|[[★×4>難易度表/むずかしい/WiSH VOYAGE]]|[[★×6>難易度表/おに/WiSH VOYAGE]]|
 |''NATSU☆しようぜ！''|150|[[★×2>難易度表/かんたん/NATSU☆しようぜ！]]|[[★×2>難易度表/ふつう/NATSU☆しようぜ！]]|[[★×3>難易度表/むずかしい/NATSU☆しようぜ！]]|[[★×6>難易度表/おに/NATSU☆しようぜ！]]|
-|''DiSCOVOR THE FUTURE''|180|[[★×2>難易度表/かんたん/DiSCOVER THE FUTURE]]|[[★×4>難易度表/ふつう/DiSCOVER THE FUTURE]]|[[★×4>難易度表/むずかしい/DiSCOVER THE FUTURE]]|[[★×5>難易度表/おに/DiSCOVER THE FUTURE]]|
+|''DiSCOVER THE FUTURE''|180|[[★×2>難易度表/かんたん/DiSCOVER THE FUTURE]]|[[★×4>難易度表/ふつう/DiSCOVER THE FUTURE]]|[[★×4>難易度表/むずかしい/DiSCOVER THE FUTURE]]|[[★×5>難易度表/おに/DiSCOVER THE FUTURE]]|
 
 ***米津玄師 (7曲) [#hachi]
 ||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
