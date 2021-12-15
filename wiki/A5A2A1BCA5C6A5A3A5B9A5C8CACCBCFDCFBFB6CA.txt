@@ -650,6 +650,14 @@
 |''Ring a Ding Dong''|175|[[★×3>難易度表/かんたん/Ring a Ding Dong]]|[[★×4>難易度表/ふつう/Ring a Ding Dong]]|[[★×4>難易度表/むずかしい/Ring a Ding Dong]]|[[★×7>難易度表/おに/Ring a Ding Dong]]|
 |''Butterfly''|111※|[[★×2>難易度表/かんたん/Butterfly(木村カエラ)]]|[[★×3>難易度表/ふつう/Butterfly(木村カエラ)]]|[[★×4>難易度表/むずかしい/Butterfly(木村カエラ)]]|[[★×6>難易度表/おに/Butterfly(木村カエラ)]]|
 
+***木村昴 (2曲) [#subaru]
+||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|>|>|>|>|>|BGCOLOR(yellow):''キッズ''|
+|''liveDevil''|164|[[★×3>難易度表/かんたん/liveDevil]]|[[★×3>難易度表/ふつう/liveDevil]]|[[★×3>難易度表/むずかしい/liveDevil]]|[[★×6>難易度表/おに/liveDevil]]|
+|>|>|>|>|>|BGCOLOR(lime):''バラエティ''|
+|''ヒプノシスマイク -Division Battle Anthem-''|128|[[★×4>難易度表/かんたん/ヒプノシスマイク -Division Battle Anthem-]]|[[★×6>難易度表/ふつう/ヒプノシスマイク -Division Battle Anthem-]]|[[★×7>難易度表/むずかしい/ヒプノシスマイク -Division Battle Anthem-]]|[[★×9>難易度表/おに/ヒプノシスマイク -Division Battle Anthem-]]|
+
 ***きゃりーぱみゅぱみゅ (12曲) [#pmpm]
 ||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
@@ -917,7 +925,7 @@
 |''Heavenly Visitor''|188|[[★×3>難易度表/かんたん/Heavenly Visitor]]|[[★×3>難易度表/ふつう/Heavenly Visitor]]|[[★×3>難易度表/むずかしい/Heavenly Visitor]]|[[★×6>難易度表/おに/Heavenly Visitor]]|
 |~|~|-|-|-|[[★×9>難易度表/おに/Heavenly Visitor(裏譜面)]]|
 |>|>|>|>|>|BGCOLOR(lime):''バラエティ''|
-|''ヒプノシスマイク -Division Battle Anthem-''|128|[[★×4>難易度表/かんたん/ヒプノシスマイク -Division Battle Anthem-]]|[[★×6>難易度表/ふつう/QUESTION]]|[[★×7>難易度表/むずかしい/ヒプノシスマイク -Division Battle Anthem-]]|[[★×9>難易度表/おに/ヒプノシスマイク -Division Battle Anthem-]]|
+|''ヒプノシスマイク -Division Battle Anthem-''|128|[[★×4>難易度表/かんたん/ヒプノシスマイク -Division Battle Anthem-]]|[[★×6>難易度表/ふつう/ヒプノシスマイク -Division Battle Anthem-]]|[[★×7>難易度表/むずかしい/ヒプノシスマイク -Division Battle Anthem-]]|[[★×9>難易度表/おに/ヒプノシスマイク -Division Battle Anthem-]]|
 
 ***ささきいさお (2曲) [#sasaki]
 ||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
@@ -2125,7 +2133,7 @@
 |''カゲロウ''|164|[[★×2>難易度表/かんたん/カゲロウ]]|[[★×4>難易度表/ふつう/カゲロウ]]|[[★×4>難易度表/むずかしい/カゲロウ]]|[[★×7>難易度表/おに/カゲロウ]]|
 |''未来コネクション''|143|[[★×2>難易度表/かんたん/未来コネクション]]|[[★×3>難易度表/ふつう/未来コネクション]]|[[★×4>難易度表/むずかしい/未来コネクション]]|[[★×7>難易度表/おに/未来コネクション]]|
 
-***LiSA (5曲) [#lisa]
+***LiSA (6曲) [#lisa]
 ||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''|
@@ -2135,6 +2143,7 @@
 |''紅蓮華''|135|[[★×2>難易度表/かんたん/紅蓮華]]|[[★×2>難易度表/ふつう/紅蓮華]]|[[★×3>難易度表/むずかしい/紅蓮華]]|[[★×6>難易度表/おに/紅蓮華]]|
 |~|~|-|-|-|[[★×8>難易度表/おに/紅蓮華(裏譜面)]]|
 |''炎''|76|[[★×1>難易度表/かんたん/炎]]|[[★×2>難易度表/ふつう/炎]]|[[★×1>難易度表/むずかしい/炎]]|[[★×4>難易度表/おに/炎]]|
+|''明け星''|95|[[★×1>難易度表/かんたん/明け星]]|[[★×2>難易度表/ふつう/明け星]]|[[★×5>難易度表/むずかしい/明け星]]|[[★×6>難易度表/おに/明け星]]|
 
 ***RIP SLYME (6曲) [#ripslyme]
 ||68|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
