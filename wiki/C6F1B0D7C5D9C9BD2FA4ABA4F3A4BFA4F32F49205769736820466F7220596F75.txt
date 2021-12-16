@@ -3,7 +3,7 @@
 -「''2010世界バレー''」テーマソング。
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDX''&br;Wii4&br;iOS|CENTER:★×2|CENTER:''104''|CENTER:''299450点''|CENTER:＋連打|CENTER:770点|CENTER:260点|
+||CENTER:''PSPDX''&br;Wii4&br;iOS&br;AR|CENTER:★×2|CENTER:''104''|CENTER:''299450点''|CENTER:＋連打|CENTER:770点|CENTER:260点|
 |CENTER:AC15.1.0〜15.5.4||~|~|CENTER:''311690点''|~|CENTER:800点|CENTER:440点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){7830点}|CENTER:-|
 -BPMは119。
@@ -18,8 +18,8 @@
 -アーティストは、''EXILE''。
 --作詞は、michico。作曲は、T. Kura・michico。編曲は、T. Kura。
 -曲IDは、''iwish''
--2014年11月5日(水)7:00を以てサヨナラ曲となった。
---新筐体以前のACには収録されていないため、現在はこの曲が収録されている家庭用作品でしか遊べない。
+-2014年11月5日(水)7:00をもってサヨナラとなった。
+--現在はこの曲が収録されている家庭用作品でしか遊べない。
 
 -[[ふつう>難易度表/ふつう/I Wish For You]]
 -[[むずかしい>難易度表/むずかしい/I Wish For You]]

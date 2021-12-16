@@ -34,7 +34,7 @@
 -[[かんたん>難易度表/かんたん/Heavenly Visitor]]
 -[[ふつう>難易度表/ふつう/Heavenly Visitor]]
 -[[むずかしい>難易度表/むずかしい/Heavenly Visitor]]
--おに/[[裏譜面>難易度表/おに/Heavenly Visitor(裏譜面)]]
+-おに/[[裏譜面>../Heavenly Visitor(裏譜面)]]
 -[[プレイ動画>https://youtu.be/aAcsHmQkgl0]]
 
 ***コメント [#comment]

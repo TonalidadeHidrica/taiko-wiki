@@ -1,22 +1,22 @@
-* 運命のしずく〜Destiny‘s star〜 [#title]
+* 運命のしずく〜Destiny's star〜 [#title]
 -''「ウルトラマンゼロ THE MOVIE 超決戦!ベリアル銀河帝国」''のエンディング曲。
 *** 詳細・攻略 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''iOS''|★×5|''96''|''?????0点''|＋連打|???0点|???点|
+|''iOS''|★×5|''96''|''?????0点''|＋連打|2300点|930点|
 -BPMは136。
 -演奏時間が''約39.93秒''と非常に短い。
--音符密度は、''約2.38打/秒''。
+-平均密度は、''約2.38打/秒''。
 -アーティストは、[[Be your wings>難易度表/むずかしい/Be your wings]]と同じ''GIRL NEXT DOOR''。
 
 ----
--[[かんたん>難易度表/かんたん/運命のしずく〜Destiny‘s star〜]]
--[[ふつう>難易度表/ふつう/運命のしずく〜Destiny‘s star〜]]
--[[おに>難易度表/おに/運命のしずく〜Destiny‘s star〜]]
+-[[かんたん>難易度表/かんたん/運命のしずく〜Destiny's star〜]]
+-[[ふつう>難易度表/ふつう/運命のしずく〜Destiny's star〜]]
+-[[おに>難易度表/おに/運命のしずく〜Destiny's star〜]]
 -[[オート動画>https://www.youtube.com/watch?v=nWKZgsFQodQ&t=53]]
 
 ***コメント[#comment]
 #pcomment(,noname)
 
 ***譜面[#score]
-&attachref(運命のしずく〜Destiny's star〜 むずかしい_0.png,nolink);
+&attachref(運命のしずくむずかしい.png,nolink);

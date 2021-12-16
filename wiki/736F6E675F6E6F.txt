@@ -1181,6 +1181,7 @@
 |1068|非公開|BGCOLOR(orangered): ナムオリ|?||
 |1069|非公開|BGCOLOR(orangered): ナムオリ|?||
 |1070|非公開|BGCOLOR(orangered): ナムオリ|?||
+//|1070|[[たいこの2000>難易度表/おに/たいこの2000]]|BGCOLOR(orangered): ナムオリ|?||
 |1071|非公開|BGCOLOR(orangered): ナムオリ|?||
 |1072|非公開|BGCOLOR(orangered): ナムオリ|?||
 

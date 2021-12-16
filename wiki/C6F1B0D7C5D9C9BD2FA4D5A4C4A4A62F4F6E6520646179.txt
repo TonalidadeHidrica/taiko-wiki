@@ -2,7 +2,7 @@
 -アニメ[[「''ワンピース''」>アニメ別収録曲#onepiece]]のOP13。
 ***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-||CENTER:''Wii3''|CENTER:★×3|CENTER:''123''|CENTER:''441660点''|CENTER:＋連打|CENTER:1120点|CENTER:330点|CENTER:''ゴーゴーバグあり''|
+||CENTER:''Wii3''&br;iOS&br;AR|CENTER:★×3|CENTER:''123''|CENTER:''441660点''|CENTER:＋連打|CENTER:1120点|CENTER:330点|CENTER:''ゴーゴーバグあり''|
 ||CENTER:PSPDX|~|~|CENTER:''441040点''|~|~|~||
 |CENTER:AC15.1.0||~|~|CENTER:''474450点''|~|CENTER:1170点|CENTER:520点||
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){7570点}|CENTER:-||
@@ -19,8 +19,6 @@
 -アーティストは、''The ROOTLESS''。
 --作詞は、野畑慎。作曲は、内藤デュラン晴久。
 -曲IDは、''oneday''。
--''2014年11月5日(水) 朝7:00を以てサヨナラ''となった。
---現在はこの曲が収録されている家庭用作品でしかプレイできない。
 ----
 -[[かんたん>難易度表/かんたん/One day]]
 -[[むずかしい>難易度表/むずかしい/One day]]

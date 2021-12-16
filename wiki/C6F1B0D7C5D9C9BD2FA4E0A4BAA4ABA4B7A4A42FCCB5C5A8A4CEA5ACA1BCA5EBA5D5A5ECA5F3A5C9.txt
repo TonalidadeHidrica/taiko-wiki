@@ -23,4 +23,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#fumen]
-&attachref(girlfriend_h_n.png,nolink);
+&attachref(mgirlf_h_0.png,nolink);

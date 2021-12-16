@@ -388,9 +388,11 @@
 |BGCOLOR(gold):''キッズ''|COLOR(red):''新''|[[''Fun!Fun!Fun! 〜夢∞〜''>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|「ビッ友×戦士 キラメキパワーズ！」より|
 |~|COLOR(red):''新''|[[''liveDevil''>難易度表/おに/liveDevil]]|「仮面ライダーリバイス」より|
 -[[Phantom Rider>難易度表/おに/Phantom Rider]]と[[Heaven’s Rider>難易度表/おに/Heaven's Rider]]にサブタイトルが追加された(非告知)。
--''12/16(日本のアップデート翌日)より''、[[''AI粗品バトル演奏''>https://taiko.namco-ch.net/taiko/special/ai_soshina/]]が追加される。
+-''12/16(日本のアップデート翌日)より''、[[''AI粗品バトル演奏''>https://taiko.namco-ch.net/taiko/special/ai_soshina/]]が追加された。
 --粗品(霜降り明星)の腕前を再現した「AI粗品」とバトルできるモード。
---好きな楽曲・むずかしさで参加可能で、誰でも楽しめるモードである。
+--好きな楽曲・むずかしさで参加可能。バナパスポートも不要で、誰でも楽しめるモードである。
+---ただし専用のごほうびを入手するためにはバナパスポートが必要になる。
+--なお、このモードが稼働している期間も、通常のAIバトル演奏は問題なくプレイできる。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''12/18配信曲''|h
@@ -405,6 +407,10 @@
 |~|COLOR(blue):''初''|[[''Solitude Star''>難易度表/おに/Solitude Star]]|春先 x beet|
 |~|COLOR(blue):''初''|[[''どんちゃん世界旅行''>難易度表/おに/どんちゃん 世界旅行]]||
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''2022年1月配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''The Future of the 太鼓ドラム''>難易度表/おに/The Future of the 太鼓ドラム]]||
+
 -2021/12/24 7:00をもって、以下の4曲がサヨナラとなる。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V21.10)|h
@@ -412,11 +418,6 @@
 |~|[[''アイノカタチ feat.HIDE(GReeeeN)''>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]||
 |~|[[''LOSER''>難易度表/おに/LOSER]]|米津玄師|
 |BGCOLOR(hotpink):''アニメ''|[[''ミッション！ 健・康・第・イチ''>難易度表/おに/ミッション！ 健・康・第・イチ]]|「はたらく細胞」より|
-
-|CENTER:100|CENTER:50||250|c
-|>|>|>|CENTER:''2022年1月配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''The Future of the 太鼓ドラム''>難易度表/おに/The Future of the 太鼓ドラム]]||
-
 
 //ジャンルについて↓
 //BGCOLOR(cyan):''ポップス''

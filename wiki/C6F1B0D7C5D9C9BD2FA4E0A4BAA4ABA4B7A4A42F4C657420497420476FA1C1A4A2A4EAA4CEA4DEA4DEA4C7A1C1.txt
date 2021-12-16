@@ -29,9 +29,10 @@
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/Let It Go〜ありのままで〜]]を参照。
 ----
--[[かんたん>難易度表/かんたん/Let It Go〜ありのままで〜]]
--[[ふつう>難易度表/ふつう/Let It Go〜ありのままで〜]]
--[[おに>難易度表/おに/Let It Go〜ありのままで〜]]
+-[[かんたん>難易度表/かんたん/Let It Go〜ありのままで〜]]/[[英語版>難易度表/かんたん/Let It Go]]
+-[[ふつう>難易度表/ふつう/Let It Go〜ありのままで〜]]/[[英語版>難易度表/ふつう/Let It Go]]
+-むずかしい/[[英語版>../Let It Go]]
+-[[おに>難易度表/おに/Let It Go〜ありのままで〜]]/[[英語版>難易度表/おに/Let It Go]]
 -[[オート動画(Wii U2,キャプチャ)>http://www.youtube.com/watch?v=1vdiusrZtHo]]
 -[[オート動画(3DS2,直撮り)>http://www.youtube.com/watch?v=NKAbXL6jNio]]
 

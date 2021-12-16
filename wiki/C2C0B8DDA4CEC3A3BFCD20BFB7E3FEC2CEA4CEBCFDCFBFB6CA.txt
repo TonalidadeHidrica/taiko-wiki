@@ -14,7 +14,7 @@
 |BGCOLOR(#49d5eb):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(#fe90d2):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(#cbcfde):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(#cc8aeb):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#gamemusic]]|BGCOLOR(#0acc2a):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(#ded523):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(#ff7028):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|BGCOLOR(#fdc000):~[[&color(black){%%%キッズ%%%};>#kids]]|BGCOLOR(#3c64b6):~[[&color(white){%%%段位道場&br;課題曲%%%};>#assigned]]|
 //12/15時点 937曲
 //ニジイロVer.では複数のフォルダに同じ曲が含まれているケースがあります。フォルダに含まれている曲数の和=収録曲数 とはなりませんのでご注意ください。
-|''130'' 曲|''111'' 曲|''68'' 曲|''180'' 曲|''73'' 曲|''31'' 曲|''448'' 曲|''94'' 曲|''59'' 曲|
+|''130'' 曲|''111'' 曲|''68'' 曲|''180'' 曲|''73'' 曲|''31'' 曲|''448'' 曲|''97'' 曲|''59'' 曲|
 
 -[[公式サイト>http://taiko.namco-ch.net/taiko/]]
 -[[公式ブログ>http://taiko-ch.net/blog/]]

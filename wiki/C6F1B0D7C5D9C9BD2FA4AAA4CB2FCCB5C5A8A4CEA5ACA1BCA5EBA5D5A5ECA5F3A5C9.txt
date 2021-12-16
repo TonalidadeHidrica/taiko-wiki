@@ -25,4 +25,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#t500bc03]
-&attachref(girlfriend.png,nolink);
+&attachref(mgirlf_m_0.png,nolink);
