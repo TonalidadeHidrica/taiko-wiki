@@ -8,7 +8,7 @@
 ||iOS&br;AR|~|~|~|''1100580点''|570点|150点|
 |AC16.1.0||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''1000160点''|1880点|-|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|~|~|~|
-|AC16.2.12||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

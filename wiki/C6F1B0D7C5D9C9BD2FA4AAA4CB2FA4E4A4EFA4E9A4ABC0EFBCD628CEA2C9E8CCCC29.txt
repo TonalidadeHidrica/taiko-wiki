@@ -14,7 +14,7 @@
 ||iOS&br;AR|BGCOLOR(lime):''バラエティ''|~|~|''1102960点''|320点|90点|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''1004570点''|1130点|-|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|~|~|~|
-|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
 |~|~|BGCOLOR(lime):''バラエティ''|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

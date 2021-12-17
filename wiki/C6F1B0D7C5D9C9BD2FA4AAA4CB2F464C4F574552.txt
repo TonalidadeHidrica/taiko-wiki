@@ -7,7 +7,7 @@
 |''AC15.5.4''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×9|''721''|''1095860点''|+連打|420点|105点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''996560点''}|~|COLOR(#ff3300){1260点}|-|
 |AC16.1.0|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''995480点''|~|1380点|-|
-|AC16.2.12|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは''346''。ただし、裏譜面で32分を配置するためBPM2倍HS0.5を行っており、実質のBPMは''173''。BPMが倍になっているのは太鼓の達人のみである。

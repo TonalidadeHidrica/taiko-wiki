@@ -13,7 +13,7 @@
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1000550点''}|COLOR(#ff3300){1350点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''1003150点''|1450点|-|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|~|~|~|~|
-|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
 
 -''精度曲''のひとつ。

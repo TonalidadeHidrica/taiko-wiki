@@ -10,7 +10,7 @@
 |AC15.2.6SP|Wii U3DL|~|~|~|''1048380点''|~|550点|148点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1001820点''}|~|COLOR(#ff3300){1770点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''997350点''|~|1830点|-|
-|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは144。

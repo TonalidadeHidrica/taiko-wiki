@@ -10,7 +10,7 @@
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''994840点''}|~|COLOR(#ff3300){1260点}|-|
 ||iOS|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|''1029240点''|~|360点|90点|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''995800点''|~|1300点|-|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約127-190。

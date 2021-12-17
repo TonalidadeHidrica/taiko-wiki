@@ -9,7 +9,7 @@
 |AC15.5.4|3DS2DL&br;Wii U3SP|★×8|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|''1054720点''|470点|123点||
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1002640点''}|COLOR(#ff3300){1510点}|-|~|
 |AC16.1.0||~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|''1003230点''|1570点|-|~|
-|AC16.2.12||~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
+|AC16.2.0||~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
 
 ~''【2人用譜面】''
 |>|>|>|>|>|>|>|>|>|CENTER:|c

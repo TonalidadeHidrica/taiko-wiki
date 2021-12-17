@@ -8,7 +8,7 @@
 |''AC11''|DS3|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×8|''480''|''1046070点''|＋連打|640点|150点|
 |AC11亜||BGCOLOR(darkorchid):COLOR(white){''遊戲音樂''}|~|~|~|~|~|~|
 |AC16.1.0SP||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''998400点''|~|2080点|-|
-|AC16.2.12SP||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0SP||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約98-158。

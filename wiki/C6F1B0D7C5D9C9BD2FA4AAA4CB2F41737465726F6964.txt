@@ -8,7 +8,7 @@
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''1006800点''}|~|COLOR(#f30){1200点}|-|
 |AC16.1.0|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1004680点''|~|1270点|-|
 |~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
-|AC16.2.12|BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
+|AC16.2.0|BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
 |~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

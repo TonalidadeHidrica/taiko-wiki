@@ -7,7 +7,7 @@
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1004800点''}|~|COLOR(#ff3300){1400点}|-|
 |AC16.1.0|BGCOLOR(hotpink):''アニメ''|~|~|''1003960点''|~|1480点|-|
 |~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
-|AC16.2.12|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|AC16.2.0|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
 |~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

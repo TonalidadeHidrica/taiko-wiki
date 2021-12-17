@@ -7,7 +7,7 @@
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''994410点''}|~|COLOR(#ff3300){1270点}|-|
 |AC16.1.0||BGCOLOR(yellow):''キッズ''|~|~|''991670点''|~|1310点|-|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|~|~|~|~|
-|AC16.2.12||BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

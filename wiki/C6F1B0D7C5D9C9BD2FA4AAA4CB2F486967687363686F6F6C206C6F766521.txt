@@ -7,7 +7,7 @@
 |''AC15.3.0''|Wii U1&br;NS1SP|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×7|''387''|''994900点''|+連打|740点|210点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''995330点''}|~|COLOR(#ff3300){2410点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''998460点''|~|2580点|-|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約138。

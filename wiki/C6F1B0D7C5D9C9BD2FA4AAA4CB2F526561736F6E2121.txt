@@ -10,7 +10,7 @@
 ||iOS|BGCOLOR(orange):''アニメ''|~|~|''9????0点''|~|??0点|???点|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''999100点''|~|2460点|-|
 |~|~|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 |~|~|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

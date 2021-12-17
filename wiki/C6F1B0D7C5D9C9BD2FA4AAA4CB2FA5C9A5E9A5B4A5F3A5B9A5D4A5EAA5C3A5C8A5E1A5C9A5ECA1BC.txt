@@ -18,7 +18,7 @@
 |AC15.6.1((2015/4/18~4/26))&br;AC15.7.0((2015/12/10〜12/31))&br;AC15.7.3((段位道場内でのみプレイ可能))&br;AC15.8.0SP|Wii5SP&br;PS4 1DL&br;NS1SP|~|~|~|''1003590点''|~|470点|123点|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1001070点''}|~|COLOR(#ff3300){1470点}|-|~|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''999790点''|~|1490点|-|~|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture1]
 -BPMは175。
@@ -47,7 +47,7 @@
 |AC15.6.1((2015/4/18~4/26))&br;AC15.7.0((2015/12/10〜12/31))&br;AC15.8.0SP|Wii5SP&br;PS4 1DL&br;NS1SP|BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|~|~|''899550点''|~|430点|108点|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1001070点''}|~|COLOR(#ff3300){1470点}|-|~|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''999790点''|~|1490点|-|~|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture2]
 -''おにと同一譜面''。

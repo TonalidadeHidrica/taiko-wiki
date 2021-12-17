@@ -12,7 +12,7 @@
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''983630点''}|~|COLOR(#ff3300){1670点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''989100点''|~|1780点|-|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
-|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 -BPMは約170(旧譜面)、170(新譜面)。

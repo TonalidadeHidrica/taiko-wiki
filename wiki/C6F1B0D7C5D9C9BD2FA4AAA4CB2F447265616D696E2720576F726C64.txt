@@ -1,4 +1,4 @@
-*&ruby(ドリーミン){Dreamin'}; &ruby(ワールド){World}; [#title]
+*&ruby(ドリーミン){Dreamin};' &ruby(ワールド){World}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -27,4 +27,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(真っ白な夢の世界.png,nolink);
+~&attachref(真っ白な夢の世界_2.png,nolink);

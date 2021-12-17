@@ -23,7 +23,7 @@
 ||PS Vita1亜|BGCOLOR(darkorchid):COLOR(white){''遊戯音樂''}|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1001700点''}|COLOR(#ff3300){1350点}|-|~|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1004210点''|1370点|-|~|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 -BPMは約139.66。
 -''完全精度曲''のひとつ。
@@ -70,7 +70,7 @@
 ||PS Vita1亜|BGCOLOR(darkorchid):COLOR(white){''遊戯音樂''}|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1001700点''}|COLOR(#ff3300){1350点}|-|~|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1004210点''|1370点|-|~|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 -''おにコースと同一譜面。''
 -''むずかしいコース最難関候補の一つ''として選ばれた事がある。 

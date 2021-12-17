@@ -6,7 +6,7 @@
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
 |''AC16.1.6''|BGCOLOR(hotpink):''アニメ''|★×5|''293''|''990410点''|＋連打|3370点|
 |~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|~|~|~|
-|AC16.2.12|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
+|AC16.2.0|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
 |~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

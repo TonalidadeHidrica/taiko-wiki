@@ -16,7 +16,7 @@
 ||iOS&br;AR|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|''1018840点''|~|320点|80点|~|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''986850点''|~|1290点|-|~|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|~|~|~|~|~|~|
-|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|~|
 ||COLOR(red){PS Vita MS}((ライブフェスティバルモード))|BGCOLOR(#ff99cc):''アーケード''|~|COLOR(#909):''771&br;COLOR(#069):573&br;COLOR(#666):495''|''?????0点''|~|360点|88点|~|
 

@@ -6,7 +6,7 @@
 |''AC15&br;超会議3Ver.''&br;AC15.4.8|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×8|''658''|''1048160点''|+連打|480点|120点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''994800点''}|~|COLOR(#ff3300){1460点}|-|
 |AC16.1.0|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1002560点''|~|1520点|-|
-|AC16.2.12|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは134-''268''。
