@@ -174,7 +174,9 @@
 |BGCOLOR(orangered):|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|miko|コバヤシユウヤ|[[公式音源(YouTube)>https://youtu.be/nEuwDbI1akk]]|ゲームsize|
 |BGCOLOR(orangered):|[[大好きな太鼓の音>難易度表/おに/大好きな太鼓の音]]|どんちゃん|粗品|[[自動生成音源(YouTube)>https://youtu.be/9AjrdYiafQ0]]|ロングver.|
 |BGCOLOR(orangered):|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]|-|庭師|[[公式音源(YouTube)>https://youtu.be/mkD_GoWHef0]]|ゲームsize|
-|BGCOLOR(orangered):|[[punk bastards>難易度表/おに/punk bastards]]|-|Sobrem|[[公式音源(YouTube)>https://youtu.be/mkD_GoWHef0]]|ゲームsize|
+|BGCOLOR(orangered):|[[punk bastards>難易度表/おに/punk bastards]]|-|Sobrem|[[公式音源(YouTube)>https://youtu.be/t_go-kRZQZk]]|ゲームsize|
+|BGCOLOR(orangered):|[[仮想現実のテレスコープ>難易度表/おに/仮想現実のテレスコープ]]|-|deli.|[[公式音源(YouTube)>https://youtu.be/fqmLytgDsPQ]]|ゲームsize|
+|BGCOLOR(orangered):|[[たいこの2000>難易度表/おに/たいこの2000]]|-|LindaAI-CUE|[[公式音源(YouTube)>https://youtu.be/3jZQVBc2I_A]]|ゲームsize|
 
 **収録されない可能性が高いもの [#possibility]
 |1|||||c
