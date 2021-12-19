@@ -7,8 +7,7 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差||h
 ||''CS3''|>|>|>|>|>|>|>|''ふつう以上のみ''|
 |AC6||>|~|~|~|~|~|~|~|
-||米TDM|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|★×3|''144''|''?????0点''|＋連打|930点|300点||
-||TDM|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|~|~|~|
+||米TDM&br;TDM|BGCOLOR(orangered):''Namco&br;Original''| ★×3|''144''|''?????0点''|＋連打|930点|300点||
 |AC7||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''?????0点''|~|620点|200点|''ゴーゴー&br;バグあり''|
 ||PSP1DL|~|~|~|''?????0点''|~|570点|200点|~|
 ||PSP2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''316840点''|~|650点|200点|~|
@@ -23,7 +22,7 @@
 ||3DS2韓|BGCOLOR(darkorchid):COLOR(white){''&#44172;&#51076; &#51020;&#50501;''}|~|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''993370点''}|~|COLOR(#ff3300){6170点}|-|~|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''997920点''|~|6930点|-|~|
-|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約150。
@@ -38,8 +37,7 @@
 ***【2人用譜面】 [#double]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度||最大コンボ数|>|天井スコア|初項|公差|h
-|''米TDM''|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|★×3|1P|''137''|''?????0点''|＋連打|980点|???点|
-|TDM|BGCOLOR(orangered):''Namco&br;Original''|~|2P|''134''|''?????0点''|~|~|~|
+|''米TDM''&br;TDM|BGCOLOR(orangered):''Namco&br;Original''|★×3|1P|''137''|''?????0点''|＋連打|980点|???点|
 -[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=dlhbzYsKaEg]]
 
 ***その他 [#other]

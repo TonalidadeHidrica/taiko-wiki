@@ -7,8 +7,7 @@
 ||CS3|''ロック''|★×10|''765''|''1359000点''|+連打|-|-||
 |''AC5''-6||''ゲーム音楽''|~|~|''1347000点''|~|-|-|~|
 |~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|~|
-||米TDMSP|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|~|~|~|~|-|-|~|
-||TDMSP|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|~|~|~|
+||米TDMSP&br;TDMSP|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|-|-|~|
 |AC7|PSP1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|~|''1422200点''|~|-|-|''ゴーゴー&br;バグあり''|
 |AC8-9||~|~|~|''1094440点''|~|500点|90点||
 ||DS1|~|~|~|''1145270点''|~|470点|100点|~|

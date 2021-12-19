@@ -8,8 +8,7 @@
 |''CS4''|BGCOLOR(gold):''クラシック''|★×5|''224''|''506040点''|＋連打|670点|170点|
 |Wii U3SP&br;NS1DL|~|~|~|''375780点''|~|460点|133点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''998180点''}|~|COLOR(#ff3300){3970点}|-|
-|米TDM|BGCOLOR(gold):''CLASSICAL''|★×3|''223''|''?????0点''|~|600点|150点|
-|TDM|BGCOLOR(gold):''Classical''|~|~|~|~|~|~|
+|米TDM&br;TDM|BGCOLOR(gold):''Classical''|★×3|''223''|''?????0点''|~|600点|150点|
 -8分音符は3連打が3回、4分音符の複合は3連打が2回、2連打が1回出現する。それ以外は★×3程度の譜面である。
 -[[オート動画(現行譜面)>https://www.youtube.com/watch?v=tW9H7T74tt0]]
 -[[オート動画(TDM)>https://www.youtube.com/watch?v=lyvrsrTGB74]]

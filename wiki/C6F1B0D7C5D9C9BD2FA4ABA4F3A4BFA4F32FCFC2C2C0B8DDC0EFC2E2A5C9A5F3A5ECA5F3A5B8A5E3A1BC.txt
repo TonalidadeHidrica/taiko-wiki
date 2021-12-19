@@ -4,8 +4,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |AC6|''CS3''&br;アニメ祭|>|>|>|>|>|>|''存在しない''|
-||米TDMSP|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|★×3|''144''|''??????点''|+連打|930点|300点|
-||TDMSP|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|~|~|
+||米TDMSP|BGCOLOR(orangered):''Namco&br;Original''|★×3|''144''|''??????点''|+連打|930点|300点|
 -BPMは160。
 -8分は2連打までだが、数が多い。
 -かんたんコースが存在するのはTDMのみである。

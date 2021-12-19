@@ -8,8 +8,7 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差||h
 |''AC6''||>|>|>|>|>|>|>|''なし((ふつうコース以上のみ存在))''|
 ||CS4|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''197''|''485240点''|＋連打|760点|200点||
-||米TDM|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|~|~|~|~|~|~|~|
-||TDM|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|~|~|~|
+||米TDM&br;TDM|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|~|~|~|
 |AC7|PSP1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''?????0点''|~|480点|130点|''ゴーゴー&br;バグあり''|
 |AC8-9||~|~|~|''?????0点''|~|600点|~||
 |AC10-11|iOS|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''352160点''|~|540点|140点|~|
@@ -18,7 +17,7 @@
 |AC15.6.1((2015/4/18~4/26))&br;AC15.7.0((2015/12/10〜12/31))&br;AC15.8.0SP|Wii5SP&br;PS4 1DL&br;NS1SP|~|~|~|''356210点''|~|540点|188点|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''997320点''}|~|COLOR(#ff3300){4630点}|-|~|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''999290点''|~|5070点|-|~|
-|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは175。

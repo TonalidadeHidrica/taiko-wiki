@@ -9,7 +9,7 @@
 -[[音色の一覧]]
 ----
 |>|>|>|>|CENTER:''Number of songs by genre''|h
-|BGCOLOR(cyan):CENTER:''POP''|BGCOLOR(lime):CENTER:''ROCK''|BGCOLOR(magenta):CENTER:''Children's Song''|BGCOLOR(gold):CENTER:''Classical''|BGCOLOR(orangered):CENTER:''Namco Original''|
+|BGCOLOR(cyan):CENTER:''Pop''|BGCOLOR(lime):CENTER:''Rock''|BGCOLOR(magenta):CENTER:''Children's Song''|BGCOLOR(gold):CENTER:''Classical''|BGCOLOR(orangered):CENTER:''Namco Original''|
 |CENTER:''12'' songs&br;(About36.4%)|CENTER:''6'' songs&br;(About18.2%)|CENTER:''1'' songs&br;(About3.0%)|CENTER:''6'' songs&br;(About18.2%)|CENTER:''8'' songs&br;(About24.2%)|
 ----
 |CENTER:1|||LEFT:59|>|>|>|CENTER:61|c

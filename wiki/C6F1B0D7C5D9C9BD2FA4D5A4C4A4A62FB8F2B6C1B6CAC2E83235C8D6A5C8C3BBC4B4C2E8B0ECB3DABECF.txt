@@ -8,8 +8,7 @@
 |''CS4''|BGCOLOR(gold):''クラシック''|★×5|''298''|''?????0点''|＋連打|670点|160点|
 |Wii U3SP&br;NS1DL|~|~|''299''|''597520点''|~|570点|158点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''996300点''}|~|COLOR(#ff3300){3050点}|-|
-|米TDM|BGCOLOR(gold):''CLASSICAL''|★×4|''298''|''?????0点''|~|620点|150点|
-|TDM|BGCOLOR(gold):''Classical''|~|~|~|~|~|~|
+|米TDM&br;TDM|BGCOLOR(gold):''Classical''|★×4|''298''|''?????0点''|~|620点|150点|
 -47小節に出現する8分音符の複合3連打に注意。
 -[[オート動画(現行譜面)>https://www.youtube.com/watch?v=udbQvnB8EzQ]]
 -[[オート動画(TDM)>https://www.youtube.com/watch?v=WWGpnxZDHPY]]

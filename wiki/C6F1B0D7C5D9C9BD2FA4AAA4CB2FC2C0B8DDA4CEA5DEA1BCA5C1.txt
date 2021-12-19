@@ -7,8 +7,7 @@
 ||''CS2''|''マーチ''|★×7|''553''|''968400点''|＋連打|-|-|CS2の&br;スコア&br;ルート|
 |AC5||''マーチ''|~|~|''936400点''|~|~|~||
 |~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|-|-|~|
-||米TDMSP|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|★×5|~|''931000点''|~|-|-|~|
-||TDMSP|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|~|~|~|
+||米TDMSP&br;TDMSP|BGCOLOR(orangered):''Namco&br;Original''|★×5|~|''931000点''|~|-|-|~|
 ||PSP1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''988800点''|~|-|-|''ゴーゴー&br;バグあり''|
 ||Wii1SP&br;iOS&br;AR|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×7|~|''1002840点''|~|530点|120点||
 |AC15.8.4|Wii U2&br;PS4 1DL|~|~|~|''999800点''|~|540点|140点|~|

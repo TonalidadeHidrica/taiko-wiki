@@ -48,7 +48,7 @@
 --三味線は、''雲泉亀吾''。
 -「桜花爛漫」は「桜の花が満開になって、みごとに咲き乱れているさま」という意味。
 -譜面作成者は2016/9/30の公式生放送にて、Twitterのアンケート結果をもとに決定された。
--新筐体でこの譜面をフルコンボすると、''称号''「''三者三様の桜咲く''」を獲得出来る。
+-新筐体でこの譜面をフルコンボすると、''称号''「''三者三様の桜咲く''」を獲得できる。
 -PS4 1でこの曲のミッションビンゴをコンプリートすると、''称号''「''桜吹雪浴''」を獲得できる。
 -曲IDは、''butou9''。
 
@@ -56,10 +56,11 @@
 -[[かんたん>難易度表/かんたん/桜花爛漫]]
 -[[ふつう>難易度表/ふつう/桜花爛漫]]
 -[[むずかしい>難易度表/むずかしい/桜花爛漫]]
--[[プレイ動画(普通譜面)>https://youtu.be/9_Mc6QOijCo]]
--[[プレイ動画(玄人譜面)>https://youtu.be/wBXUPTWigEg]]
--[[プレイ動画(達人譜面)>https://youtu.be/rm78D1yEToQ]]
+-プレイ動画(キャプチャ)
+--[[普通譜面>https://youtu.be/9_Mc6QOijCo]]・[[玄人譜面>https://youtu.be/wBXUPTWigEg]]・[[達人譜面>https://youtu.be/rm78D1yEToQ]]
 -[[オート動画(PS4)>https://www.youtube.com/watch?v=t2jk7_PQw6g]]
+-オート動画(PS4 1)
+--[[普通譜面>https://youtu.be/FDi6dyv8t3k]]・[[玄人譜面>https://youtu.be/9AtbVx_nu1E]]・[[達人譜面>https://youtu.be/Z9Nb8-2k3GA]]
 -[[各譜面ジャーからのコメント>http://taiko-ch.net/blog/?p=1460]]
 -[[公式曲紹介>https://www.youtube.com/watch?v=IpOmoa9SfWo]]
 

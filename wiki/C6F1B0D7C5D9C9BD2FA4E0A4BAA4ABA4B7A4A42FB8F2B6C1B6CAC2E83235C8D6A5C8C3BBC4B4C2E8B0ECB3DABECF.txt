@@ -8,8 +8,7 @@
 |''CS4''|BGCOLOR(gold):''クラシック''|★×6|''512''|''852810点''|＋連打|520点|110点|
 |Wii U3SP&br;NS1DL|~|~|~|''794450点''|~|430点|105点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''993600点''}|~|COLOR(#ff3300){1750点}|-|
-|米TDM|BGCOLOR(gold):''CLASSICAL''|★×5|''511''|''769120点''|~|460点|100点|
-|TDM|BGCOLOR(gold):''Classical''|~|~|~|~|~|~|
+|米TDM&br;TDM|BGCOLOR(gold):''Classical''|★×5|''511''|''769120点''|~|460点|100点|
 -16分音符の5連打がかなり多いが、複合は5連打以外も含めて一切出現しない。
 -[[オート動画(現行譜面)>https://www.youtube.com/watch?v=Oo90x0Az9Xk]]
 -[[オート動画(TDM)>https://www.youtube.com/watch?v=5-edhVTZCuA]]

@@ -6,8 +6,7 @@
 ||''CS3''|''戦隊''|★×6|''339''|''?????0点''|+連打|780点|180点|
 |AC6||''戦隊''|~|~|''?????0点''|~|???点|???点|
 |~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
-||米TDMSP|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|★×5|~|''?????0点''|~|???点|???点|
-||TDMSP|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|~|~|
+||米TDMSP&br;TDMSP|BGCOLOR(orangered):''Namco&br;Original''|★×5|~|''?????0点''|~|???点|???点|
 ||アニメ祭|''戦隊''|★×6|''267''|''?????0点''|~|1000点|250点|
 
 -BPMは160。

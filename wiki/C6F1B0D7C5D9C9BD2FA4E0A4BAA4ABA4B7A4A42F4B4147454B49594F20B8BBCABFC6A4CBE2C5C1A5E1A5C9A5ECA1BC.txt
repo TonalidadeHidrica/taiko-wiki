@@ -7,8 +7,7 @@
 |''AC5''||''ゲーム音楽''|★×7|''765''|''862380点''|＋連打|370点|80点||
 |~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|~|
 ||CS3|''ロック''|~|~|''846300点''|~|~|~|~|
-||米TDMSP|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|~|''616''|''868940点''|~|460点|100点|~|
-||TDMSP|BGCOLOR(orangered):''Namco&br;Original''|~|~|~|~|~|~|~|
+||米TDMSP&br;TDMSP|BGCOLOR(orangered):''Namco&br;Original''|~|''616''|''868940点''|~|460点|100点|~|
 |AC6||''ゲーム音楽''|★×6|~|''795010点''|~|430点|90点|~|
 |~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|~|
 |AC7||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''803930点''|~|380点|~|''ゴーゴー&br;バグあり''|
@@ -24,7 +23,7 @@
 |WM||BGCOLOR(darkorchid):COLOR(white){''M&#250;sicas de&br;Jogos Eletr&#244;nicos''}|~|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''1000920点''}|~|COLOR(#ff3300){1580点}|-|~|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''998720点''|~|1620点|-|~|
-|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約135。
