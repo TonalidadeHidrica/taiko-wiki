@@ -1,5 +1,4 @@
 *Ridge Racer [#title]
-
 -[[Ridge Racerシリーズ>ゲーム別収録曲#rr]]第1弾。
 
 **詳細・攻略 [#more]
@@ -34,7 +33,8 @@
 --新基準では★×8に2段階降格。現在の基準なら中クラス程度だろう。
 -平均密度は、''約5.07打/秒''。
 -クリアするための最低ラインは(良75、可658、不可0)〜(良630、可0、不可103)((ゲージが空の状態で不可を出すことを許可すると、良422、可0、不可311))。※むずかしいとの比較用
--[[オート動画>https://www.youtube.com/watch?v=MVRcxzHcY3I]]
+-[[オート動画(Wii5)>https://www.youtube.com/watch?v=MVRcxzHcY3I]]
+-[[オート動画(NS1)>https://youtu.be/BtZNfkNBPe0]]
 
 ----
 ''【2人用譜面】''
@@ -47,7 +47,7 @@
 
 -1人用譜面よりこちらの方が難しいという意見が多い（DPだと難易度がさらに上がる）。
 -平均密度は''約4.50打/秒''(1P)、''約4.51打/秒''(2P)。
--[[オート動画>https://www.youtube.com/watch?v=zfCtSkCmmeY]]
+-[[オート動画(Wii U2)>https://www.youtube.com/watch?v=zfCtSkCmmeY]]
 
 ----
 ***むずかしい [#hard]
@@ -83,7 +83,7 @@
 -おにコースでプレイする前のステップUPとして練習するというのもありだろう。
 -16分連打を構成する音符の割合は、約58.7%(430/733)。
 //-新筐体では、2人プレイでそれぞれ難易度を変えられるようになったため、事実上の両譜面同時演奏が可能である。
--[[オート動画>https://www.youtube.com/watch?v=7xzCWXmzWuk]]
+-[[オート動画(Wii U2)>https://www.youtube.com/watch?v=7xzCWXmzWuk]]
 
 ----
 ''【2人用譜面】''
@@ -120,7 +120,7 @@
 #pcomment(,noname)
 
 **譜面 [#score]
-1人用譜面&br;AC7・PSP1・PS Vita1のゴーゴータイムの位置は2人用譜面を参照。
+~1人用譜面&br;AC7・PSP1・PS Vita1のゴーゴータイムの位置は2人用譜面を参照。
 &attachref(りっじれえさあ_0.png,nolink);
 
 ~2人用譜面&br;Wii U2のゴーゴータイムの位置は1人用譜面を参照。

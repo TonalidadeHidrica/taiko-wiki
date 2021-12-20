@@ -88,8 +88,7 @@
 |44|[[YouTubeテーマソング>難易度表/おに/YouTubeテーマソング]]|BGCOLOR(cyan):J-POP|umtube|18/3/15〜|
 |~|BGCOLOR(#ccc):[[青春サツバツ論>難易度表/おに/青春サツバツ論]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):ansa2k|BGCOLOR(#ccc):〜17/12/6　サヨナラ曲|
 |45|[[蒼の旋律>難易度表/おに/蒼の旋律]]|BGCOLOR(orangered):ナムオリ|aonose||
-|46|[[創聖のアクエリオン>難易度表/おに/創聖のアクエリオン]]|BGCOLOR(orange):アニメ|aquari|〜21/10/20　サヨナラ曲|
-//|46|BGCOLOR(#ccc):[[創聖のアクエリオン>難易度表/おに/創聖のアクエリオン]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):aquari|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
+|46|BGCOLOR(#ccc):[[創聖のアクエリオン>難易度表/おに/創聖のアクエリオン]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):aquari|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
 |47|[[前前前世>難易度表/おに/前前前世]]|BGCOLOR(cyan):J-POP|zense|17/3/14〜|
 |~|BGCOLOR(#ccc):[[ありがとう>難易度表/おに/ありがとう]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):arigat|BGCOLOR(#ccc):〜16/3/29　サヨナラ曲|
 |48|[[アサルト BGM1>難易度表/おに/アサルト BGM1]]|BGCOLOR(darkorchid):ゲーミュ|aslt||
@@ -279,8 +278,7 @@
 |215|[[時空庁捜査2課>難易度表/おに/時空庁捜査2課]]|BGCOLOR(orangered):ナムオリ|ji9sou||
 |216|BGCOLOR(#ccc):[[カゲロウ>難易度表/おに/カゲロウ]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):gntkag|BGCOLOR(#ccc):17/4/26〜21/3/24　サヨナラ曲|
 |~|BGCOLOR(#ccc):[[気分上々↑↑>難易度表/おに/気分上々↑↑]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):jojo|BGCOLOR(#ccc):〜16/10/13　サヨナラ曲|
-|217|[[じょいふる>難易度表/おに/じょいふる]]|BGCOLOR(cyan):J-POP|joyful|〜21/10/20　サヨナラ曲|
-//|217|BGCOLOR(#ccc):[[じょいふる>難易度表/おに/じょいふる]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):joyful|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
+|217|BGCOLOR(#ccc):[[じょいふる>難易度表/おに/じょいふる]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):joyful|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
 |218|[[FLOWER>難易度表/おに/FLOWER]]|BGCOLOR(darkorchid):ゲーミュ|jubflw||
 |219|[[トータル・エクリプス 2035>難易度表/おに/トータル・エクリプス　2035]]|BGCOLOR(orangered):ナムオリ|kaiki||
 |220|[[カラ鞠の花>難易度表/おに/カラ鞠の花]]|BGCOLOR(darkgray):ボカロ|karamr||
@@ -765,8 +763,7 @@
 |655|BGCOLOR(#ccc):[[Soup>難易度表/おに/Soup]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):lvsoup|BGCOLOR(#ccc):〜19/10/24　サヨナラ曲|
 |656|BGCOLOR(#ccc):[[Swan>難易度表/おに/Swan]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):alxswn|BGCOLOR(#ccc):〜19/10/24　サヨナラ曲|
 |657|BGCOLOR(#ccc):[[ス・マ・イ・ル>難易度表/おに/ス・マ・イ・ル]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):hanakp|BGCOLOR(#ccc):〜20/9/23　サヨナラ曲|
-|658|[[ゆーがらお友達>難易度表/おに/ゆーがらお友達]]|BGCOLOR(orange):アニメ|ywyugr|〜21/10/20　サヨナラ曲|
-//|658|BGCOLOR(#ccc):[[ゆーがらお友達>難易度表/おに/ゆーがらお友達]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):ywyugr|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
+|658|BGCOLOR(#ccc):[[ゆーがらお友達>難易度表/おに/ゆーがらお友達]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):ywyugr|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
 |659|[[EXCITE>難易度表/おに/EXCITE]]|BGCOLOR(orange):アニメ|krexd||
 |660|[[エイリアンエイリアン>難易度表/おに/エイリアンエイリアン]]|BGCOLOR(darkgray):ボカロ|mikuaa||
 |661|[[スーパードラゴンボールヒーローズ　テーマソング>難易度表/おに/スーパードラゴンボールヒーローズ テーマソング]]|BGCOLOR(darkorchid):ゲーミュ|dhero5||
@@ -777,8 +774,7 @@
 |666|[[ヒカリアレ>難易度表/おに/ヒカリアレ]]|BGCOLOR(orange):アニメ|haiky2||
 |667|BGCOLOR(#ccc):[[花丸◎日和！>難易度表/おに/花丸◎日和！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):touken|BGCOLOR(#ccc):〜18/11/21　サヨナラ曲|
 |668|[[ペンパイナッポーアッポーペン(PPAP)>難易度表/おに/ペンパイナッポーアッポーペン(PPAP)]]|BGCOLOR(lime):バラエティ|ppap||
-|669|[[「ポケットモンスター サン・ムーン」メドレー>難易度表/おに/「ポケットモンスター サン・ムーン」メドレー]]|BGCOLOR(darkorchid):ゲーミュ|pkmnsm|〜21/10/20　サヨナラ曲|
-//|669|BGCOLOR(#ccc):[[「ポケットモンスター サン・ムーン」メドレー>難易度表/おに/「ポケットモンスター サン・ムーン」メドレー]]|BGCOLOR(darkorchid):ゲーミュ|BGCOLOR(#ccc):pkmnsm|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
+|669|BGCOLOR(#ccc):[[「ポケットモンスター サン・ムーン」メドレー>難易度表/おに/「ポケットモンスター サン・ムーン」メドレー]]|BGCOLOR(darkorchid):ゲーミュ|BGCOLOR(#ccc):pkmnsm|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
 |670|[[ファミコンメドレー>難易度表/おに/ファミコンメドレー]]|BGCOLOR(darkorchid):ゲーミュ|fcmedl||
 |671|[[Tulip>難易度表/おに/Tulip]]|BGCOLOR(darkorchid):ゲーミュ|imclip||
 |672|[[S(mile)ING!>難易度表/おに/S(mile)ING!]]|BGCOLOR(darkorchid):ゲーミュ|imcsml||
@@ -877,12 +873,11 @@
 |765|[[第六天魔王>難易度表/おに/第六天魔王]]|BGCOLOR(orangered):ナムオリ|nobu7g||
 |766|[[シンクロニシティ>難易度表/おに/シンクロニシティ]]|BGCOLOR(cyan):J-POP|ngzsnc||
 |767|[[時を待とう>難易度表/おに/時を待とう]]|BGCOLOR(orange):アニメ|ywtoki||
-|768|[[Over “Quartzer”>難易度表/おに/Over “Quartzer”]]|BGCOLOR(orange):アニメ|krzio||
+|768|BGCOLOR(#ccc):[[Over “Quartzer”>難易度表/おに/Over “Quartzer”]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):krzio|BGCOLOR(#ccc):〜21/11/22　サヨナラ曲|
 |769|BGCOLOR(#ccc):[[DANZEN!ふたりはプリキュア〜唯一無二の光たち〜>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):pr9all|BGCOLOR(#ccc):〜20/9/23　サヨナラ曲|
 |770|[[ダンスロボットダンス>難易度表/おに/ダンスロボットダンス]]|BGCOLOR(darkgray):ボカロ|mikudd||
 |771|[[カンタービレ×パッシオーネ>難易度表/おに/カンタービレ×パッシオーネ]]|BGCOLOR(darkgray):ボカロ|mikucp||
-|772|[[ガラスを割れ！>難易度表/おに/ガラスを割れ！]]|BGCOLOR(cyan):J-POP|kykgrs|〜21/10/20　サヨナラ曲|
-//|772|BGCOLOR(#ccc):[[ガラスを割れ！>難易度表/おに/ガラスを割れ！]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):kykgrs|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
+|772|BGCOLOR(#ccc):[[ガラスを割れ！>難易度表/おに/ガラスを割れ！]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):kykgrs|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
 |773|[[命短し恋せよ乙女>難易度表/おに/命短し恋せよ乙女]]|BGCOLOR(cyan):J-POP|msmino||
 |774|[[ハンロック>難易度表/おに/ハンロック]]|BGCOLOR(gold):クラシック|clsh69||
 |775|[[パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]|BGCOLOR(orangered):ナムオリ|ghnpan||
@@ -897,11 +892,15 @@
 |784|[[頂>難易度表/おに/頂]]|BGCOLOR(orangered):ナムオリ|itadak||
 |785|[[ユースフルコースター>難易度表/おに/ユースフルコースター]]|BGCOLOR(orangered):ナムオリ|ycoast||
 |786|[[天下統一録>難易度表/おに/天下統一録]]|BGCOLOR(orangered):ナムオリ|hide4s||
-|787|[[Candy Pop>難易度表/おに/Candy Pop]]|BGCOLOR(cyan):J-POP|twccp||
-|788|[[アイノカタチ feat.HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|BGCOLOR(cyan):J-POP|ainokt||
-|789|[[LOSER>難易度表/おに/LOSER]]|BGCOLOR(cyan):J-POP|ynlose||
+|787|[[Candy Pop>難易度表/おに/Candy Pop]]|BGCOLOR(cyan):J-POP|twccp|〜21/12/24　サヨナラ曲|
+|788|[[アイノカタチ feat.HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|BGCOLOR(cyan):J-POP|ainokt|〜21/12/24　サヨナラ曲|
+|789|[[LOSER>難易度表/おに/LOSER]]|BGCOLOR(cyan):J-POP|ynlose|〜21/12/24　サヨナラ曲|
+//|787|BGCOLOR(#ccc):[[Candy Pop>難易度表/おに/Candy Pop]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):twccp|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
+//|788|BGCOLOR(#ccc):[[アイノカタチ feat.HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):ainokt|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
+//|789|BGCOLOR(#ccc):[[LOSER>難易度表/おに/LOSER]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):ynlose|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
 |790|[[雑草>難易度表/おに/雑草]]|BGCOLOR(cyan):J-POP|umzaso||
-|791|[[ミッション！ 健・康・第・イチ>難易度表/おに/ミッション！ 健・康・第・イチ]]|BGCOLOR(orange):アニメ|saibou||
+|791|[[ミッション！ 健・康・第・イチ>難易度表/おに/ミッション！ 健・康・第・イチ]]|BGCOLOR(orange):アニメ|saibou|〜21/12/24　サヨナラ曲|
+//|791|BGCOLOR(#ccc):[[ミッション！ 健・康・第・イチ>難易度表/おに/ミッション！ 健・康・第・イチ]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):saibou|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
 |792|[[only my railgun>難易度表/おに/only my railgun]]|BGCOLOR(orange):アニメ|railgn||
 |793|[[雨とペトラ>難易度表/おに/雨とペトラ]]|BGCOLOR(darkgray):ボカロ|vfpetr||
 |794|[[バイオレンストリガー>難易度表/おに/バイオレンストリガー]]|BGCOLOR(darkgray):ボカロ|mikuvt||
@@ -973,7 +972,7 @@
 |860|[[にゃーにゃーにゃー>難易度表/おに/にゃーにゃーにゃー]]|BGCOLOR(orangered):ナムオリ|nya3||
 |861|[[ナンセンス文学>難易度表/おに/ナンセンス文学]]|BGCOLOR(cyan):J-POP|evensb||
 |862|[[君はロックを聴かない>難易度表/おに/君はロックを聴かない]]|BGCOLOR(cyan):J-POP|kim69||
-|863|[[NATSU☆しようぜ！>難易度表/おに/NATSU☆しようぜ！]]|BGCOLOR(orange):アニメ|i7natu||
+|863|BGCOLOR(#ccc):[[NATSU☆しようぜ！>難易度表/おに/NATSU☆しようぜ！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):i7natu|BGCOLOR(#ccc):〜21/11/22　サヨナラ曲|
 |864|[[TD - 28619029byte remix ->難易度表/おに/TD -28619029byte remix-]]|BGCOLOR(darkorchid):ゲーミュ|tecdrv||
 |865|[[流浪の琥珀姫>難易度表/おに/流浪の琥珀姫]]|BGCOLOR(orangered):ナムオリ|589him||
 |866|[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]|BGCOLOR(orangered):ナムオリ|kooryu||

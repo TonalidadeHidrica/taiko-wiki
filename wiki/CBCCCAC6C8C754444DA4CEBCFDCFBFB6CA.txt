@@ -32,7 +32,7 @@
 ||''Lady Marmalade''|110|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Lady Marmalade]]|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Lady Marmalade]]|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Lady Marmalade]]|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤ª¤Ë/Lady Marmalade]]|
 ||''Are You Gonna Be My Girl''|210|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Are You Gonna Be My Girl]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Are You Gonna Be My Girl]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤ª¤Ë/Are You Gonna Be My Girl]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤ª¤Ë/Are You Gonna Be My Girl]]|
 ||''My Sharona''|146|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/My Sharona]]|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/My Sharona]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤ª¤Ë/My Sharona]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤ª¤Ë/My Sharona]]|
-|>|>|>|>|>|>|BGCOLOR(orange):CENTER:''ANIME/TV''|
+|>|>|>|>|>|>|BGCOLOR(orange):CENTER:''Anime/TV''|
 ||''Rock the Dragon&br; - Dragon Z Theme''|108-216|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Rock the Dragon]]|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Rock the Dragon]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤ª¤Ë/Rock the Dragon]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤ª¤Ë/Rock the Dragon]]|
 ||''Bowling For Soup&br; - Jimmy Neutron Theme''|202|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Bowling For Soup]]|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Bowling For Soup]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤ª¤Ë/Bowling For Soup]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤ª¤Ë/Bowling For Soup]]|
 |>|>|>|>|>|>|BGCOLOR(gold):CENTER:''Classical''|

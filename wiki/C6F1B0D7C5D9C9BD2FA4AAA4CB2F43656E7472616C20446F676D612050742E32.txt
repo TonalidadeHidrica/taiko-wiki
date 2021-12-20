@@ -40,3 +40,6 @@
 
 ***譜面 [#score]
 ~&attachref(Central Dogma Pt.2_4.png,nolink);
+
+***あべこべ [#score]
+~&attachref(dogma2abekobe.png,nolink);

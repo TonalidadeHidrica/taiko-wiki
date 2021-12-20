@@ -295,10 +295,24 @@
 |>|>|>|CENTER:''バージョンアップ配信曲''(V09.02)|h
 |BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''ウサテイ''>難易度表/おに/ウサテイ]]|東方Projectアレンジ あまね＋ビートまりお (COOL&CREATE)|
 
+-延期となっている''[[ドンだー世界一決定戦2021>https://taiko.namco-ch.net/taiko/wcs2021/]]''の「エリア大会課題曲/決勝大会課題曲」で使用予定の楽曲が配信された。
+
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''11/20配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''燃えよサファイア''>難易度表/おに/燃えよサファイア]]|庭師|
--延期となっている''[[ドンだー世界一決定戦2021>https://taiko.namco-ch.net/taiko/wcs2021/]]''の「エリア大会課題曲/決勝大会課題曲」で使用予定の楽曲の１つである。
+
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''11/27配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''punk bastards''>難易度表/おに/punk bastards]]|Sobrem|
+
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''12/4配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''仮想現実のテレスコープ''>難易度表/おに/仮想現実のテレスコープ]]|deli.|
+
+-「クリスマス」にちなんで、今年も「ジングルベル第765番」が期間限定解放された。
+|CENTER:100|||c
+|>|>|CENTER:''期間限定配信楽曲''(12/1〜12/25)|h
+|BGCOLOR(lime):''バラエティ''|[[''【限定】 ジングルベル第765番''>難易度表/おに/ジングルベル第765番]]|>|
 
 -2021/11/22 7:00をもって、以下の2曲がサヨナラとなった。
 |CENTER:100|||c
@@ -306,13 +320,34 @@
 |BGCOLOR(yellow):''キッズ''|[[''Over “Quartzer”''>難易度表/おに/Over “Quartzer”]]|「仮面ライダージオウ」より|
 |BGCOLOR(hotpink):''アニメ''|[[''NATSU☆しようぜ！''>難易度表/おに/NATSU☆しようぜ！]]|IDOLiSH7 feat.TRIGGER 「アイドリッシュセブン」より|
 
+**第58回アップデート GAME VERSION:10.03(2021/12/16実施) [#v1003]
+
+-''12/16(日本のアップデート翌日)より''、[[''AI粗品バトル演奏''>https://taiko.namco-ch.net/taiko/special/ai_soshina/]]が追加された。
+--粗品(霜降り明星)の腕前を再現した「AI粗品」とバトルできるモード。
+--好きな楽曲・むずかしさで参加可能。バナパスポートも不要で、誰でも楽しめるモードである。
+---ただし専用のごほうびを入手するためにはバナパスポートが必要になる。
+--なお、このモードが稼働している期間も、通常のAIバトル演奏は問題なくプレイできる。
+
 |CENTER:100|CENTER:50||250|c
-|>|>|>|CENTER:''11/27配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''punk bastards''>難易度表/おに/punk bastards]]|Sobrem|
+|>|>|>|CENTER:''12/18配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''たいこの2000''>難易度表/おに/たいこの2000]]|太鼓 de タイムトラベル紀元前 / LindaAI-CUE|
+
+-''アップデートから約1週間後の12/23''に、どんメダルショップのラインナップ変更(追加) が行われる。
+--どんメダルショップラインナップ更新に合わせて、''所持どんメダルがリセット''される。「秋」の楽曲は''引き続き交換可能''で、''必要どんメダル量が減らされる''。
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''12/23配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''Agent Hustle & Dr. Hassle''>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|Cory Tarrow(BNSI)|
+|~|COLOR(red):''新''|[[''Spectral Rider''>難易度表/おに/Spectral Rider]]|濱本理央(BNSI)|
+|~|COLOR(blue):''初''|[[''Solitude Star''>難易度表/おに/Solitude Star]]|春先 x beet|
+|~|COLOR(blue):''初''|[[''どんちゃん世界旅行''>難易度表/おに/どんちゃん 世界旅行]]||
+
+//|CENTER:100|CENTER:50||250|c
+//|>|>|>|CENTER:''2022年1月配信曲''|h
+//|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''The Future of the 太鼓ドラム''>難易度表/おに/The Future of the 太鼓ドラム]]||
 
 -2021/12/24 7:00をもって、以下の4曲がサヨナラとなる。
 |CENTER:100|||c
-|>|>|CENTER:''サヨナラ曲''(V??.??)|h
+|>|>|CENTER:''サヨナラ曲''(V1?.??)|h
 |BGCOLOR(cyan):''ポップス''|[[''Candy Pop''>難易度表/おに/Candy Pop]]||
 |~|[[''アイノカタチ feat.HIDE(GReeeeN)''>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]||
 |~|[[''LOSER''>難易度表/おに/LOSER]]|米津玄師|

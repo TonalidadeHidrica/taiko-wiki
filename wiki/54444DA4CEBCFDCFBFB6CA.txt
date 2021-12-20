@@ -14,7 +14,7 @@
 ----
 |CENTER:1|||LEFT:59|>|>|>|CENTER:61|c
 ||''Title''|''日本名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#f30):COLOR(#111):''Easy''|BGCOLOR(#8c2):COLOR(#111):''Normal''|BGCOLOR(#3ab):COLOR(#111):''Hard''|BGCOLOR(#f2c):COLOR(#000):''Oni''|h
-|>|>|>|>|>|>|>|BGCOLOR(cyan):CENTER:''POP''|
+|>|>|>|>|>|>|>|BGCOLOR(cyan):CENTER:''Pop''|
 ||''ABC''||189|[[★×2>難易度表/かんたん/ABC]]|[[★×2>難易度表/ふつう/ABC]]|[[★×2>難易度表/おに/ABC]]|[[★×2>難易度表/おに/ABC]]|
 ||''The Loco-Motion''||129|[[★×4>難易度表/かんたん/The Loco-Motion]]|[[★×3>難易度表/ふつう/The Loco-Motion]]|[[★×5>難易度表/むずかしい/The Loco-Motion]]|[[★×7>難易度表/おに/The Loco-Motion]]|
 ||''You Can't Hurry Love''||192-194|[[★×3>難易度表/かんたん/You Can't Hurry Love]]|[[★×4>難易度表/ふつう/You Can't Hurry Love]]|[[★×5>難易度表/むずかしい/You Can't Hurry Love]]|[[★×6>難易度表/おに/You Can't Hurry Love]]|
@@ -27,7 +27,7 @@
 ||''Lady Marmalade''||110|[[★×2>難易度表/かんたん/Lady Marmalade]]|[[★×2>難易度表/ふつう/Lady Marmalade]]|[[★×2>難易度表/むずかしい/Lady Marmalade]]|[[★×4>難易度表/おに/Lady Marmalade]]|
 ||''Tubthumping''||104|[[★×2>難易度表/かんたん/Tubthumping]]|[[★×2>難易度表/ふつう/Tubthumping]]|[[★×5>難易度表/むずかしい/Tubthumping]]|[[★×6>難易度表/おに/Tubthumping]]|
 ||''The Impression That I Get''||180|[[★×5>難易度表/かんたん/The Impression That I Get]]|[[★×5>難易度表/ふつう/The Impression That I Get]]|[[★×6>難易度表/むずかしい/The Impression That I Get]]|[[★×7>難易度表/おに/The Impression That I Get]]|
-|>|>|>|>|>|>|>|BGCOLOR(lime):CENTER:''ROCK''|
+|>|>|>|>|>|>|>|BGCOLOR(lime):CENTER:''Rock''|
 ||''I Was Born To Love You''||139.3|[[★×4>難易度表/かんたん/I Was Born To Love You]]|[[★×4>難易度表/ふつう/I Was Born To Love You]]|[[★×4>難易度表/むずかしい/I Was Born To Love You]]|[[★×6>難易度表/おに/I Was Born To Love You]]|
 ||''We Will Rock You''||162※|[[★×2>難易度表/かんたん/We Will Rock You]]|[[★×1>難易度表/ふつう/We Will Rock You]]|[[★×1>難易度表/むずかしい/We Will Rock You]]|[[★×3>難易度表/おに/We Will Rock You]]|
 ||''Killer Queen''||109|[[★×2>難易度表/かんたん/Killer Queen]]|[[★×3>難易度表/ふつう/Killer Queen]]|[[★×4>難易度表/むずかしい/Killer Queen]]|[[★×5>難易度表/おに/Killer Queen]]|
