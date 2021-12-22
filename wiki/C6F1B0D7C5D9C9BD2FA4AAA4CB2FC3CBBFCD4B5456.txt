@@ -1,7 +1,9 @@
 *男人KTV [#title]
+
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12亜''|CENTER:★×5|CENTER:''203''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1350点|CENTER:330点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12亜''|BGCOLOR(lime):''華語&br;流行音樂''|★×5|''203''|''?????0点''|＋連打|1350点|330点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは42.02-約72。
@@ -9,6 +11,7 @@
 ***その他 [#other]
 -アーティストは、''胡彦斌''。
 -曲IDは、''a12c61''。
+
 ----
 -[[かんたん>難易度表/かんたん/男人KTV]]
 -[[ふつう>難易度表/ふつう/男人KTV]]
@@ -18,5 +21,5 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &attachref(a12c61_m.png,nolink);

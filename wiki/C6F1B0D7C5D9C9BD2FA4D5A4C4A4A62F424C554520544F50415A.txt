@@ -8,7 +8,7 @@
 |AC15.5.4|3DS2DL&br;Wii U3SP|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|''591330点''|~|670点|210点||
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''992610点''}|~|COLOR(#ff3300){3690点}|-|~|
 |AC16.1.0||~|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|''996820点''|~|3940点|-|~|
-|AC16.2.12||~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+|AC16.2.0||~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 -BPMは130.6。
 -黄色連打が多い連打曲である。
