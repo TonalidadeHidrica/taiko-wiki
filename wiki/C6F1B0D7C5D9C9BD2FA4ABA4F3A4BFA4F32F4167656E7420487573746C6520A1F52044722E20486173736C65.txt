@@ -1,0 +1,26 @@
+*Agent Hustle & Dr. Hassle [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.2.9SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''142''|''?????0点''|+連打|???0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは240。
+--ただし譜面全体にHS0.5が掛かっており、見た目のBPMは120。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/Agent Hustle ＆ Dr. Hassle]]
+-[[むずかしい>難易度表/むずかしい/Agent Hustle ＆ Dr. Hassle]]
+-[[おに>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]/[[裏譜面>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~見た目重視
+~&attachref(Agent Hustle & Dr. Hassle_half_e.png,nolink);

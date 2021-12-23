@@ -17,7 +17,7 @@
 --ナムコオリジナル
 ---[[Phantom>難易度表/おに/Phantom Rider]] [[Rider>難易度表/おに/Phantom Rider(裏譜面)]]
 ---[[Heaven's Rider>難易度表/おに/Heaven's Rider]]
-//---[[Spectral Rider>難易度表/おに/Spectral Rider]]
+---[[Spectral Rider>難易度表/おに/Spectral Rider]]
 ---[[星屑とリニアと僕>難易度表/おに/星屑とリニアと僕]]
 ---[[SAKURA EXHAUST>難易度表/おに/SAKURA EXHAUST]]
 

@@ -198,6 +198,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(orangered):|[[百鬼夜行COLOR(#890089):(達人譜面)>難易度表/おに/百鬼夜行]]|''5.896''|145|710|120.41秒|正確には''5.8963'' ・ AC15以前は普通譜面|
 |>|>|BGCOLOR(lime):|[[Shining Lights (feat. PSYQUI)>難易度表/おに/Shining Lights (feat. PSYQUI)]]|''5.896''|170|861|146.03秒|正確には''5.8961''|
 |>|>|BGCOLOR(orangered):|[[タイコタイムCOLOR(#890089):(達人譜面)>難易度表/おに/タイコタイム]]|''5.892''|170.12※|764|129.67秒||
+|>|>|BGCOLOR(orangered):|[[Solitude Star>難易度表/おに/Solitude Star]]|''5.887''|178|765|129.94秒||
 |>|>|BGCOLOR(orangered):|[[聖徳たいこの「日いずるまで飛鳥」&br;COLOR(#006191):(玄人譜面)>難易度表/おに/聖徳たいこの「日いずるまで飛鳥」]]|''5.885''|161.81※|802|136.28秒||
 |>|>|BGCOLOR(orangered):|[[Heaven's Rider>難易度表/おに/Heaven's Rider]]|''5.863''|150|713|121.60秒||
 |>|>|BGCOLOR(darkorchid):|[[SAMURAI ROCKET(裏譜面)>難易度表/おに/SAMURAI ROCKET(裏譜面)]]|''5.853''|136|887|151.54秒||
@@ -301,6 +302,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''4.500未満''|
 |>|>|BGCOLOR(darkorchid):|[[RIDGE RACER STEPS ‐ GMT remix ‐>難易度表/おに/RIDGE RACER STEPS -GMT remix-]]|''4.486''|240|535|119.25秒||
 |>|>|BGCOLOR(orangered):|[[女帝 〜インバラトゥーラ〜>難易度表/おに/女帝 〜インバラトゥーラ〜]]|''4.467''|233.02※|647|144.84秒||
+|>|>|BGCOLOR(orangered):|[[Agent Hustle & Dr. Hassle(裏譜面)>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|''4.433''|240|517|116.63秒||
 |>|>|BGCOLOR(orangered):|[[真・画竜点睛(裏譜面)COLOR(#006191):(玄人譜面)>難易度表/おに/真・画竜点睛]]|''4.410''|125.14※|480|108.84秒|AC15以前は達人譜面|
 |>|>|BGCOLOR(orangered):|[[ぺた・PETA！？パンプキン>難易度表/おに/ぺた・PETA！？パンプキン]]|''4.408''|122.24※|523|118.66秒||
 |>|>|BGCOLOR(darkorchid):|[[Wish upon a shooting star>難易度表/おに/Wish upon a shooting star]]|''4.330''|128|617|142.50秒||
@@ -363,7 +365,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(hotpink):|[[Tank!(裏譜面)>難易度表/おに/Tank!(裏譜面)]]|''5.903''|138.00※|539|91.30秒||
 |>|>|BGCOLOR(orange):|[[おしりの山はエベレスト(裏譜面)>難易度表/おに/おしりの山はエベレスト(裏譜面)]]|''5.895''|136.42※|783|132.82秒|Wii5以外|
 |>|>|BGCOLOR(orange):|[[おしりの山はエベレスト(裏譜面)>難易度表/おに/おしりの山はエベレスト(裏譜面)]]|''5.891''|228.61※|787|133.59秒|Wii5|
-|>|>|BGCOLOR(orangered):|[[Solitude Star>難易度表/おに/Solitude Star]]|''5.887''|178|765|129.94秒|暫定BPM|
 |>|>|BGCOLOR(orangered):|[[Time to dine>難易度表/おに/Time to dine]]|''5.827''|145|742|127.34秒||
 |>|>|BGCOLOR(orangered):|[[リンダは今日も絶好調(裏譜面)>難易度表/おに/リンダは今日も絶好調(裏譜面)]]|''5.777''|172.71※|593|102.65秒||
 |>|>|BGCOLOR(hotpink):|[[Touch off>難易度表/おに/Touch off]]|''5.761''|200|490|85.05秒||

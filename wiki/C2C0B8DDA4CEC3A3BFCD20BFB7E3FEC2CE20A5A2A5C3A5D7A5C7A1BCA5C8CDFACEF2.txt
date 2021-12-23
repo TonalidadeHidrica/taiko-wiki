@@ -407,11 +407,11 @@
 |>|>|>|CENTER:''12/18配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''たいこの2000''>難易度表/おに/たいこの2000]]|太鼓 de タイムトラベル紀元前 / LindaAI-CUE|
 
--''アップデートから約1週間後の12/23''に、どんメダルショップのラインナップ変更(追加) が行われる。
---どんメダルショップラインナップ更新に合わせて、''所持どんメダルがリセット''される。「秋」の楽曲は''引き続き交換可能''で、''必要どんメダル量が減らされる''。
+-''アップデートから約1週間後の12/23''に、どんメダルショップのラインナップ変更(追加) が行われた。
+--どんメダルショップラインナップ更新に合わせて、''所持どんメダルがリセット''された。「秋」の楽曲は''引き続き交換可能''で、''必要どんメダル量が減らされた''。
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''12/23配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''Agent Hustle & Dr. Hassle''>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|Cory Tarrow(BNSI)|
+|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''Agent Hustle & Dr. Hassle''>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]／[[''(裏譜面)''>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|Cory Tarrow(BNSI)|
 |~|COLOR(red):''新''|[[''Spectral Rider''>難易度表/おに/Spectral Rider]]|濱本理央(BNSI)|
 |~|COLOR(blue):''初''|[[''Solitude Star''>難易度表/おに/Solitude Star]]|春先 x beet|
 |~|COLOR(blue):''初''|[[''どんちゃん世界旅行''>難易度表/おに/どんちゃん 世界旅行]]||

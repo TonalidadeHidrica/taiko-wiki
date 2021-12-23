@@ -665,6 +665,8 @@
 -[[コメント/難易度表/おに/Abyss of hell(裏譜面)]] コメント/ナンイドオモテ/オニ/Abyss of hell(ウラフメン)
 -[[コメント/難易度表/おに/Act! Addict! Actors!]] コメント/ナンイドオモテ/オニ/Act! Addict! Actors!
 -[[コメント/難易度表/おに/Act! Addict! Actors!(裏譜面)]] コメント/ナンイドオモテ/オニ/Act! Addict! Actors!(ウラフメン)
+-[[コメント/難易度表/おに/Agent Hustle ＆ Dr. Hassle]] コメント/ナンイドオモテ/オニ/Agent Hustle ＆ Dr. Hassle
+-[[コメント/難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]] コメント/ナンイドオモテ/オニ/Agent Hustle ＆ Dr. Hassle(ウラフメン)
 -[[コメント/難易度表/おに/Alice or Guilty]] コメント/ナンイドオモテ/オニ/Alice or Guilty
 -[[コメント/難易度表/おに/Allegro Cantabile]] コメント/ナンイドオモテ/オニ/Allegro Cantabile
 -[[コメント/難易度表/おに/Aloft in the wind]] コメント/ナンイドオモテ/オニ/Aloft in the wind
@@ -1178,6 +1180,7 @@
 -[[コメント/難易度表/おに/Snow halation]] コメント/ナンイドオモテ/オニ/Snow halation
 -[[コメント/難易度表/おに/Solitude Star]] コメント/ナンイドオモテ/オニ/Solitude Star
 -[[コメント/難易度表/おに/Soup]] コメント/ナンイドオモテ/オニ/Soup
+-[[コメント/難易度表/おに/Spectral Rider]] コメント/ナンイドオモテ/オニ/Spectral Rider
 -[[コメント/難易度表/おに/Spread the Wings!!]] コメント/ナンイドオモテ/オニ/Spread the Wings!!
 -[[コメント/難易度表/おに/SstTAarR*]] コメント/ナンイドオモテ/オニ/SstTAarR*
 -[[コメント/難易度表/おに/Stairway Generation]] コメント/ナンイドオモテ/オニ/Stairway Generation
@@ -4062,6 +4065,7 @@
 -[[コメント/難易度表/かんたん/タイムトラベラー]] コメント/ナンイドオモテ/カンタン/タイムトラベラー
 -[[コメント/難易度表/かんたん/對面的女孩看過來]] コメント/ナンイドオモテ/カンタン/タイメンテキオンナガイカンカライ
 -[[コメント/難易度表/かんたん/太陽系デスコ]] コメント/ナンイドオモテ/カンタン/タイヨウケイデスコ
+-[[コメント/難易度表/かんたん/太陽とビキニ]] コメント/ナンイドオモテ/カンタン/タイヨウトビキニ
 -[[コメント/難易度表/かんたん/太陽もヤッパッパー(裏譜面)]] コメント/ナンイドオモテ/カンタン/タイヨウモヤッパッパー(ウラフメン)
 -[[コメント/難易度表/かんたん/高嶺の花子さん]] コメント/ナンイドオモテ/カンタン/タカネノハナコサン
 -[[コメント/難易度表/かんたん/宝の丘]] コメント/ナンイドオモテ/カンタン/タカラノオカ
@@ -4574,6 +4578,7 @@
 -[[コメント/難易度表/かんたん/ライコタイコディスコ]] コメント/ナンイドオモテ/カンタン/ライコタイコディスコ
 -[[コメント/難易度表/かんたん/らいとにんぐ ぱっしょん]] コメント/ナンイドオモテ/カンタン/ライトニング パッション
 -[[コメント/難易度表/かんたん/らいとにんぐ ぱっしょん(裏譜面)]] コメント/ナンイドオモテ/カンタン/ライトニング パッション(ウラフメン)
+-[[コメント/難易度表/かんたん/楽園ベイベー]] コメント/ナンイドオモテ/カンタン/ラクエンベイベー
 -[[コメント/難易度表/かんたん/ラジオ体操第一]] コメント/ナンイドオモテ/カンタン/ラジオタイソウダイイチ
 -[[コメント/難易度表/かんたん/ラデツキー行進曲]] コメント/ナンイドオモテ/カンタン/ラデツキーコウシンキョク
 -[[コメント/難易度表/かんたん/ラパスの虹]] コメント/ナンイドオモテ/カンタン/ラパスノニジ
@@ -4903,6 +4908,7 @@
 -[[コメント/難易度表/ふつう/FLOWER]] コメント/ナンイドオモテ/フツウ/FLOWER
 -[[コメント/難易度表/ふつう/FREEDOM DiVE↓]] コメント/ナンイドオモテ/フツウ/FREEDOM DiVE↓
 -[[コメント/難易度表/ふつう/FUJIN Rumble]] コメント/ナンイドオモテ/フツウ/FUJIN Rumble
+-[[コメント/難易度表/ふつう/FUNKASTIC]] コメント/ナンイドオモテ/フツウ/FUNKASTIC
 -[[コメント/難易度表/ふつう/FUTURE FISH]] コメント/ナンイドオモテ/フツウ/FUTURE FISH
 -[[コメント/難易度表/ふつう/Favorite Days]] コメント/ナンイドオモテ/フツウ/Favorite Days
 -[[コメント/難易度表/ふつう/Feed A]] コメント/ナンイドオモテ/フツウ/Feed A
@@ -6447,6 +6453,7 @@
 -[[コメント/難易度表/ふつう/ライコタイコディスコ]] コメント/ナンイドオモテ/フツウ/ライコタイコディスコ
 -[[コメント/難易度表/ふつう/らいとにんぐ ぱっしょん]] コメント/ナンイドオモテ/フツウ/ライトニング パッション
 -[[コメント/難易度表/ふつう/らいとにんぐ ぱっしょん(裏譜面)]] コメント/ナンイドオモテ/フツウ/ライトニング パッション(ウラフメン)
+-[[コメント/難易度表/ふつう/楽園ベイベー]] コメント/ナンイドオモテ/フツウ/ラクエンベイベー
 -[[コメント/難易度表/ふつう/螺旋周回軌道]] コメント/ナンイドオモテ/フツウ/ラセンシュウカイキドウ
 -[[コメント/難易度表/ふつう/ラッスンゴレライ]] コメント/ナンイドオモテ/フツウ/ラッスンゴレライ
 -[[コメント/難易度表/ふつう/ラデツキー行進曲]] コメント/ナンイドオモテ/フツウ/ラデツキーコウシンキョク
@@ -6767,6 +6774,7 @@
 -[[コメント/難易度表/むずかしい/I★my★me★mine]] コメント/ナンイドオモテ/ムズカシイ/I★my★me★mine
 -[[コメント/難易度表/むずかしい/JOIN THE PAC -太鼓の達人 Ver.-]] コメント/ナンイドオモテ/ムズカシイ/JOIN THE PAC -タイコノタツジン Ver.-
 -[[コメント/難易度表/むずかしい/JOIN US]] コメント/ナンイドオモテ/ムズカシイ/JOIN US
+-[[コメント/難易度表/むずかしい/JOINT]] コメント/ナンイドオモテ/ムズカシイ/JOINT
 -[[コメント/難易度表/むずかしい/JUST LIVE MORE]] コメント/ナンイドオモテ/ムズカシイ/JUST LIVE MORE
 -[[コメント/難易度表/むずかしい/Journey through the Decade]] コメント/ナンイドオモテ/ムズカシイ/Journey through the Decade
 -[[コメント/難易度表/むずかしい/July 1st]] コメント/ナンイドオモテ/ムズカシイ/July 1st
@@ -7721,6 +7729,7 @@
 -[[コメント/難易度表/むずかしい/大切なもの]] コメント/ナンイドオモテ/ムズカシイ/タイセツナモノ
 -[[コメント/難易度表/むずかしい/タイムトラベラー]] コメント/ナンイドオモテ/ムズカシイ/タイムトラベラー
 -[[コメント/難易度表/むずかしい/太陽系デスコ]] コメント/ナンイドオモテ/ムズカシイ/タイヨウケイデスコ
+-[[コメント/難易度表/むずかしい/太陽とビキニ]] コメント/ナンイドオモテ/ムズカシイ/タイヨウトビキニ
 -[[コメント/難易度表/むずかしい/太陽にほえろのテーマ]] コメント/ナンイドオモテ/ムズカシイ/タイヨウニホエロノテーマ
 -[[コメント/難易度表/むずかしい/太陽もヤッパッパー]] コメント/ナンイドオモテ/ムズカシイ/タイヨウモヤッパッパー
 -[[コメント/難易度表/むずかしい/太陽もヤッパッパー(裏譜面)]] コメント/ナンイドオモテ/ムズカシイ/タイヨウモヤッパッパー(ウラフメン)
@@ -9073,6 +9082,8 @@
 -[[難易度表/おに/Abyss of hell(裏譜面)]] ナンイドオモテ/オニ/Abyss of hell(ウラフメン)
 -[[難易度表/おに/Act! Addict! Actors!]] ナンイドオモテ/オニ/Act! Addict! Actors!
 -[[難易度表/おに/Act! Addict! Actors!(裏譜面)]] ナンイドオモテ/オニ/Act! Addict! Actors!(ウラフメン)
+-[[難易度表/おに/Agent Hustle ＆ Dr. Hassle]] ナンイドオモテ/オニ/Agent Hustle ＆ Dr. Hassle
+-[[難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]] ナンイドオモテ/オニ/Agent Hustle ＆ Dr. Hassle(ウラフメン)
 -[[難易度表/おに/Alice or Guilty]] ナンイドオモテ/オニ/Alice or Guilty
 -[[難易度表/おに/Allegro Cantabile]] ナンイドオモテ/オニ/Allegro Cantabile
 -[[難易度表/おに/Aloft in the wind]] ナンイドオモテ/オニ/Aloft in the wind
@@ -9588,6 +9599,7 @@
 -[[難易度表/おに/Snow halation]] ナンイドオモテ/オニ/Snow halation
 -[[難易度表/おに/Solitude Star]] ナンイドオモテ/オニ/Solitude Star
 -[[難易度表/おに/Soup]] ナンイドオモテ/オニ/Soup
+-[[難易度表/おに/Spectral Rider]] ナンイドオモテ/オニ/Spectral Rider
 -[[難易度表/おに/Spread the Wings!!]] ナンイドオモテ/オニ/Spread the Wings!!
 -[[難易度表/おに/SstTAarR*]] ナンイドオモテ/オニ/SstTAarR*
 -[[難易度表/おに/Stairway Generation]] ナンイドオモテ/オニ/Stairway Generation
@@ -11483,6 +11495,7 @@
 -[[難易度表/かんたん/Abandoned Temple Final 2nd]] ナンイドオモテ/カンタン/Abandoned Temple Final 2nd
 -[[難易度表/かんたん/Abyss of hell]] ナンイドオモテ/カンタン/Abyss of hell
 -[[難易度表/かんたん/Act! Addict! Actors!]] ナンイドオモテ/カンタン/Act! Addict! Actors!
+-[[難易度表/かんたん/Agent Hustle ＆ Dr. Hassle]] ナンイドオモテ/カンタン/Agent Hustle ＆ Dr. Hassle
 -[[難易度表/かんたん/Alice or Guilty]] ナンイドオモテ/カンタン/Alice or Guilty
 -[[難易度表/かんたん/Allegro Cantabile]] ナンイドオモテ/カンタン/Allegro Cantabile
 -[[難易度表/かんたん/Aloft in the wind]] ナンイドオモテ/カンタン/Aloft in the wind
@@ -11960,6 +11973,7 @@
 -[[難易度表/かんたん/Snow halation]] ナンイドオモテ/カンタン/Snow halation
 -[[難易度表/かんたん/Solitude Star]] ナンイドオモテ/カンタン/Solitude Star
 -[[難易度表/かんたん/Soup]] ナンイドオモテ/カンタン/Soup
+-[[難易度表/かんたん/Spectral Rider]] ナンイドオモテ/カンタン/Spectral Rider
 -[[難易度表/かんたん/Spread the Wings!!]] ナンイドオモテ/カンタン/Spread the Wings!!
 -[[難易度表/かんたん/SstTAarR*]] ナンイドオモテ/カンタン/SstTAarR*
 -[[難易度表/かんたん/Stairway Generation]] ナンイドオモテ/カンタン/Stairway Generation
@@ -14036,6 +14050,7 @@
 -[[難易度表/ふつう/Abandoned Temple Final 2nd]] ナンイドオモテ/フツウ/Abandoned Temple Final 2nd
 -[[難易度表/ふつう/Abyss of hell]] ナンイドオモテ/フツウ/Abyss of hell
 -[[難易度表/ふつう/Act! Addict! Actors!]] ナンイドオモテ/フツウ/Act! Addict! Actors!
+-[[難易度表/ふつう/Agent Hustle ＆ Dr. Hassle]] ナンイドオモテ/フツウ/Agent Hustle ＆ Dr. Hassle
 -[[難易度表/ふつう/Alice or Guilty]] ナンイドオモテ/フツウ/Alice or Guilty
 -[[難易度表/ふつう/Allegro Cantabile]] ナンイドオモテ/フツウ/Allegro Cantabile
 -[[難易度表/ふつう/Aloft in the wind]] ナンイドオモテ/フツウ/Aloft in the wind
@@ -14515,6 +14530,7 @@
 -[[難易度表/ふつう/Snow halation]] ナンイドオモテ/フツウ/Snow halation
 -[[難易度表/ふつう/Solitude Star]] ナンイドオモテ/フツウ/Solitude Star
 -[[難易度表/ふつう/Soup]] ナンイドオモテ/フツウ/Soup
+-[[難易度表/ふつう/Spectral Rider]] ナンイドオモテ/フツウ/Spectral Rider
 -[[難易度表/ふつう/Spread the Wings!!]] ナンイドオモテ/フツウ/Spread the Wings!!
 -[[難易度表/ふつう/SstTAarR*]] ナンイドオモテ/フツウ/SstTAarR*
 -[[難易度表/ふつう/Stairway Generation]] ナンイドオモテ/フツウ/Stairway Generation
@@ -16272,6 +16288,7 @@
 -[[難易度表/むずかしい/Abandoned Temple Final 2nd]] ナンイドオモテ/ムズカシイ/Abandoned Temple Final 2nd
 -[[難易度表/むずかしい/Abyss of hell]] ナンイドオモテ/ムズカシイ/Abyss of hell
 -[[難易度表/むずかしい/Act! Addict! Actors!]] ナンイドオモテ/ムズカシイ/Act! Addict! Actors!
+-[[難易度表/むずかしい/Agent Hustle ＆ Dr. Hassle]] ナンイドオモテ/ムズカシイ/Agent Hustle ＆ Dr. Hassle
 -[[難易度表/むずかしい/Alice or Guilty]] ナンイドオモテ/ムズカシイ/Alice or Guilty
 -[[難易度表/むずかしい/Allegro Cantabile]] ナンイドオモテ/ムズカシイ/Allegro Cantabile
 -[[難易度表/むずかしい/Aloft in the wind]] ナンイドオモテ/ムズカシイ/Aloft in the wind
@@ -16747,6 +16764,7 @@
 -[[難易度表/むずかしい/Snow halation]] ナンイドオモテ/ムズカシイ/Snow halation
 -[[難易度表/むずかしい/Solitude Star]] ナンイドオモテ/ムズカシイ/Solitude Star
 -[[難易度表/むずかしい/Soup]] ナンイドオモテ/ムズカシイ/Soup
+-[[難易度表/むずかしい/Spectral Rider]] ナンイドオモテ/ムズカシイ/Spectral Rider
 -[[難易度表/むずかしい/Spread the Wings!!]] ナンイドオモテ/ムズカシイ/Spread the Wings!!
 -[[難易度表/むずかしい/SstTAarR*]] ナンイドオモテ/ムズカシイ/SstTAarR*
 -[[難易度表/むずかしい/Stairway Generation]] ナンイドオモテ/ムズカシイ/Stairway Generation

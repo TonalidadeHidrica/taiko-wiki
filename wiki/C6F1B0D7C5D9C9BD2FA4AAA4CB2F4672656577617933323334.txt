@@ -10,12 +10,12 @@
 ***譜面構成・攻略 [#more]
 -BPMは約145。
 -連打秒数・・・約0.897秒
--12・24分は存在しないものの、[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]や[[夜櫻ブレヰダアズ>難易度表/おに/夜櫻ブレヰダアズ]]などを彷彿させる多くの付点配置によりリズムがとりづらい。
+-12・24分は存在しないものの、[[亜空間遊泳ac12.5>../亜空間遊泳ac12.5]]や[[夜櫻ブレヰダアズ>../夜櫻ブレヰダアズ]]などを彷彿させる多くの付点配置によりリズムがとりづらい。
 --46小節の面は9連打である。裏拍から始まるのでリズムを崩されないよう気をつけよう。終盤には5/8の変拍子となる。
 -★×8にしては複雑な複合も一部存在する。
 --30小節の複合は逆手から入ると叩きやすいだろう。
---56小節の複合はCOLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●●}COLOR(blue){●●●}/COLOR(red){●●}COLOR(blue){●}COLOR(red){●}/COLOR(red){●●}と区切ると分かりやすいだろう。
---60小節の長複合が最も繋げにくいだろう。区切り方の一例として、COLOR(red){●●●●}COLOR(blue){●●●●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●}/COLOR(blue){●}COLOR(red){●}COLOR(blue){●●}/COLOR(red){●●●}COLOR(blue){●●}などがある。
+--56小節の複合はCOLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●●}COLOR(blue){○○○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}と区切ると分かりやすいだろう。
+--60小節の長複合が最も繋げにくいだろう。区切り方の一例として、COLOR(red){●●●●}COLOR(blue){○○○○}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●●●}COLOR(blue){○○}などがある。
 -平均密度は、''約4.83打秒''。
 
 ***その他 [#other]
@@ -23,7 +23,7 @@
 -編曲は、''K Masera''、''mao''。
 --トラックダウンは、''K Masera''。
 -譜面作成は、[[''増渕裕二''>譜面作成者一覧/増渕裕二]]。
--現在、AC16ではどんメダル20枚で解禁可能。
+-現在、ACではどんメダル20枚で解禁可能。
 -新筐体でこの譜面をフルコンボすると、''称号''「''フリーウェイドンだー''」を獲得できる。
 -曲IDは、''freewy''。
 

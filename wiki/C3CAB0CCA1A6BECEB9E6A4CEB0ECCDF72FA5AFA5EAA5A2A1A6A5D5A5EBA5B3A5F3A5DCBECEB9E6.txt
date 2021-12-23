@@ -174,7 +174,12 @@
 |~|[[COLOR(blue):Wasabi Body Blow>難易度表/おに/Wasabi Body Blow]]|おに|わさびの達人||
 |~|[[COLOR(blue):グレート！アニマルカイザー!!>難易度表/おに/グレート!アニマルカイザー!!]]|-|百獣王者どんちゃん||
 |~|[[COLOR(blue):チェインクロニクル 最終決戦メドレー>難易度表/おに/チェインクロニクル 最終決戦メドレー]]|-|クロニクルの使い手||
-|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):たいこの2000>難易度表/おに/たいこの2000]]|おに|たいこの達人||
+|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):どんちゃん 世界旅行>難易度表/おに/どんちゃん 世界旅行]]|おに|世界旅行ドンだー||
+|~|[[COLOR(blue):Solitude Star>難易度表/おに/Solitude Star]]|おに|闇を裂く新星||
+|~|[[COLOR(blue):Agent Hustle ＆ Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|おに|Mission Complete!||
+|~|[[COLOR(blue):Agent Hustle ＆ Dr. Hassle(裏譜面)>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|裏譜面|EX Mission Complete!||
+|~|[[COLOR(blue):Spectral Rider>難易度表/おに/Spectral Rider]]|おに|幻ドンだー||
+|~|[[COLOR(blue):たいこの2000>難易度表/おに/たいこの2000]]|おに|たいこの達人||
 |~|[[COLOR(blue):仮想現実のテレスコープ>難易度表/おに/仮想現実のテレスコープ]]|おに|夢幻彼方のランドスケープ||
 |~|[[COLOR(blue):punk bastards>難易度表/おに/punk bastards]]|おに|クレイジーパンカー||
 |~|[[COLOR(blue):燃えよサファイア>難易度表/おに/燃えよサファイア]]|おに|サファイア・オン・ファイア||
