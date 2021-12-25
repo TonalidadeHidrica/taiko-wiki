@@ -6574,6 +6574,7 @@
 -[[コメント/難易度表/むずかしい/Abandoned Temple Final 2nd]] コメント/ナンイドオモテ/ムズカシイ/Abandoned Temple Final 2nd
 -[[コメント/難易度表/むずかしい/Abyss of hell]] コメント/ナンイドオモテ/ムズカシイ/Abyss of hell
 -[[コメント/難易度表/むずかしい/Act! Addict! Actors!]] コメント/ナンイドオモテ/ムズカシイ/Act! Addict! Actors!
+-[[コメント/難易度表/むずかしい/Agent Hustle ＆ Dr. Hassle]] コメント/ナンイドオモテ/ムズカシイ/Agent Hustle ＆ Dr. Hassle
 -[[コメント/難易度表/むずかしい/Alice or Guilty]] コメント/ナンイドオモテ/ムズカシイ/Alice or Guilty
 -[[コメント/難易度表/むずかしい/Allegro Cantabile]] コメント/ナンイドオモテ/ムズカシイ/Allegro Cantabile
 -[[コメント/難易度表/むずかしい/Aloft in the wind]] コメント/ナンイドオモテ/ムズカシイ/Aloft in the wind
@@ -6967,6 +6968,7 @@
 -[[コメント/難易度表/むずかしい/Smile! Smile! Smile!]] コメント/ナンイドオモテ/ムズカシイ/Smile! Smile! Smile!
 -[[コメント/難易度表/むずかしい/Snow halation]] コメント/ナンイドオモテ/ムズカシイ/Snow halation
 -[[コメント/難易度表/むずかしい/Soup]] コメント/ナンイドオモテ/ムズカシイ/Soup
+-[[コメント/難易度表/むずかしい/Spectral Rider]] コメント/ナンイドオモテ/ムズカシイ/Spectral Rider
 -[[コメント/難易度表/むずかしい/Spread the Wings!!]] コメント/ナンイドオモテ/ムズカシイ/Spread the Wings!!
 -[[コメント/難易度表/むずかしい/SstTAarR*]] コメント/ナンイドオモテ/ムズカシイ/SstTAarR*
 -[[コメント/難易度表/むずかしい/Star Wars： Main Title]] コメント/ナンイドオモテ/ムズカシイ/Star Wars： Main Title
