@@ -37,7 +37,8 @@
 -[[かんたん>難易度表/かんたん/エキセントリックw]]
 -[[ふつう>難易度表/ふつう/エキセントリックw]]
 -[[むずかしい>難易度表/むずかしい/エキセントリックw]]
--[[プレイ動画>http://www.youtube.com/watch?v=JpewkJkmxbA]]
+-[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=JpewkJkmxbA]]
+-[[オート動画(NS RPG)>https://youtu.be/BwCcFaBI0TE]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

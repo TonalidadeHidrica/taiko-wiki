@@ -35,7 +35,8 @@
 -[[かんたん>難易度表/かんたん/ゲラゲラポーのうた]]
 -[[ふつう>難易度表/ふつう/ゲラゲラポーのうた]]
 -[[むずかしい>難易度表/むずかしい/ゲラゲラポーのうた]]
--[[プレイ動画>https://www.youtube.com/watch?v=yfSfMNbq4lE]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=yfSfMNbq4lE]]
+-[[オート動画(NS RPG)>https://youtu.be/0edlrfcadKQ]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

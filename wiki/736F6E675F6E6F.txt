@@ -892,15 +892,11 @@
 |784|[[頂>難易度表/おに/頂]]|BGCOLOR(orangered):ナムオリ|itadak||
 |785|[[ユースフルコースター>難易度表/おに/ユースフルコースター]]|BGCOLOR(orangered):ナムオリ|ycoast||
 |786|[[天下統一録>難易度表/おに/天下統一録]]|BGCOLOR(orangered):ナムオリ|hide4s||
-|787|[[Candy Pop>難易度表/おに/Candy Pop]]|BGCOLOR(cyan):J-POP|twccp|〜21/12/24　サヨナラ曲|
-|788|[[アイノカタチ feat.HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|BGCOLOR(cyan):J-POP|ainokt|〜21/12/24　サヨナラ曲|
-|789|[[LOSER>難易度表/おに/LOSER]]|BGCOLOR(cyan):J-POP|ynlose|〜21/12/24　サヨナラ曲|
-//|787|BGCOLOR(#ccc):[[Candy Pop>難易度表/おに/Candy Pop]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):twccp|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
-//|788|BGCOLOR(#ccc):[[アイノカタチ feat.HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):ainokt|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
-//|789|BGCOLOR(#ccc):[[LOSER>難易度表/おに/LOSER]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):ynlose|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
+|787|BGCOLOR(#ccc):[[Candy Pop>難易度表/おに/Candy Pop]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):twccp|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
+|788|BGCOLOR(#ccc):[[アイノカタチ feat.HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):ainokt|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
+|789|BGCOLOR(#ccc):[[LOSER>難易度表/おに/LOSER]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):ynlose|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
 |790|[[雑草>難易度表/おに/雑草]]|BGCOLOR(cyan):J-POP|umzaso||
-|791|[[ミッション！ 健・康・第・イチ>難易度表/おに/ミッション！ 健・康・第・イチ]]|BGCOLOR(orange):アニメ|saibou|〜21/12/24　サヨナラ曲|
-//|791|BGCOLOR(#ccc):[[ミッション！ 健・康・第・イチ>難易度表/おに/ミッション！ 健・康・第・イチ]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):saibou|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
+|791|BGCOLOR(#ccc):[[ミッション！ 健・康・第・イチ>難易度表/おに/ミッション！ 健・康・第・イチ]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):saibou|BGCOLOR(#ccc):〜21/12/24　サヨナラ曲|
 |792|[[only my railgun>難易度表/おに/only my railgun]]|BGCOLOR(orange):アニメ|railgn||
 |793|[[雨とペトラ>難易度表/おに/雨とペトラ]]|BGCOLOR(darkgray):ボカロ|vfpetr||
 |794|[[バイオレンストリガー>難易度表/おに/バイオレンストリガー]]|BGCOLOR(darkgray):ボカロ|mikuvt||
@@ -1176,10 +1172,10 @@
 |1064|[[Fun!Fun!Fun! 〜夢∞〜>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|BGCOLOR(yellow):キッズ|?||
 |1065|[[liveDevil>難易度表/おに/liveDevil]]|BGCOLOR(yellow):キッズ|?||
 |1066|[[たいこの2000>難易度表/おに/たいこの2000]]|BGCOLOR(orangered): ナムオリ|?||
-|1067|[[Agent Hustle ＆ Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|BGCOLOR(orangered): ナムオリ|?||
+|1067|[[Agent Hustle & Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|BGCOLOR(orangered): ナムオリ|?||
 |1068|[[Spectral Rider>難易度表/おに/Spectral Rider]]|BGCOLOR(orangered): ナムオリ|?||
-|1069|非公開|BGCOLOR(orangered): ナムオリ|?||
-|1070|非公開|BGCOLOR(orangered): ナムオリ|?||
+|1069|[[Solitude Star>難易度表/おに/Solitude Star]]|BGCOLOR(orangered): ナムオリ|solstr||
+|1070|[[どんちゃん世界旅行>難易度表/おに/どんちゃん 世界旅行]]|BGCOLOR(orangered): ナムオリ|bko1||
 |1071|非公開|BGCOLOR(orangered): ナムオリ|?||
 |1072|非公開|BGCOLOR(orangered): ナムオリ|?||
 
