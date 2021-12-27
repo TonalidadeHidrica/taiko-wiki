@@ -10,7 +10,7 @@
 -[[新筐体BPM順>BPM順/新筐体]]
 -[[見た目BPM順>BPM順/見た目BPM]]
 
-***基本BPM180以上 [#haf720e9]
+***最高BPM180以上 [#haf720e9]
 |CENTER:1||CENTER:1||c
 |最高&br;BPM|曲名|基本&br;BPM|備考|h
 |800|恋文2000|200|PSP2・おにのみ|

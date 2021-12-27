@@ -36,4 +36,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ[#score]
-&attachref(ttk2.png,nolink);
+&attachref(ttk2_2.png,nolink);

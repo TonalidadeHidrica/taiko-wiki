@@ -5,7 +5,7 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |AC15.9.3SP|''Wii U1SP''&br;NS1SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''368''|''748320点''|+連打|610点|168点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''996780点''}|~|COLOR(#ff3300){2590点}|-|
-||iOS|~|~|~|''??????点''|~|???点|???点|
+||iOS&br;AR|~|~|~|''??????点''|~|???点|???点|
 |AC16.1.0||~|~|~|''998180点''|~|2710点|-|
 
 ***譜面構成・攻略 [#capture]
@@ -29,7 +29,9 @@
 -[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=8TtHOkYedWA]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(u2.png,nolink);
+~&attachref(u2.png,nolink);

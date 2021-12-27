@@ -6,7 +6,7 @@
 |''AC16.2.9SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''149''|''?????0点''|+連打|???0点|
 
 ***譜面構成・攻略 [#capture]
--BPMは170.66…-''256''。
+-BPMは172-''258''。
 
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/Spectral Rider]]を参照。
@@ -22,4 +22,4 @@
 
 ***譜面 [#score]
 ~見た目重視
-~&attachref(Spectral Rider_見た目e.png,nolink);
+~&attachref(Spectral Rider_見た目e2.png,nolink);
