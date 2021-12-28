@@ -253,6 +253,8 @@
 |''KISS KISS BANG BANG''|154|[[★×4>難易度表/かんたん/KISS KISS BANG BANG]]|[[★×4>難易度表/ふつう/KISS KISS BANG BANG]]|[[★×5>難易度表/むずかしい/KISS KISS BANG BANG]]|[[★×5>難易度表/おに/KISS KISS BANG BANG]]|
 |''LAST CHRISTMAS''|107|[[★×4>難易度表/かんたん/LAST CHRISTMAS]]|[[★×5>難易度表/ふつう/LAST CHRISTMAS]]|[[★×5>難易度表/むずかしい/LAST CHRISTMAS]]|[[★×7>難易度表/おに/LAST CHRISTMAS]]|
 |''Lemon''|87|[[★×2>難易度表/かんたん/Lemon]]|[[★×3>難易度表/ふつう/Lemon]]|[[★×5>難易度表/むずかしい/Lemon]]|[[★×7>難易度表/おに/Lemon]]|
+|''LISTEN TO THE STEREO!!''|55-182※|[[★×3>難易度表/かんたん/LISTEN TO THE STEREO!!]]|[[★×5>難易度表/ふつう/LISTEN TO THE STEREO!!]]|[[★×5>難易度表/むずかしい/LISTEN TO THE STEREO!!]]|[[★×7>難易度表/おに/LISTEN TO THE STEREO!!]]|
+|''LISTEN TO THE STEREO!!(裏譜面)''|~|-|-|-|[[★×7>難易度表/おに/LISTEN TO THE STEREO!!]]|
 |''LOSER''|121|[[★×3>難易度表/かんたん/LOSER]]|[[★×5>難易度表/ふつう/LOSER]]|[[★×6>難易度表/むずかしい/LOSER]]|[[★×8>難易度表/おに/LOSER]]|
 |''LOVEずっきゅん''|150|[[★×4>難易度表/かんたん/LOVEずっきゅん]]|[[★×4>難易度表/ふつう/LOVEずっきゅん]]|[[★×6>難易度表/むずかしい/LOVEずっきゅん]]|[[★×8>難易度表/おに/LOVEずっきゅん]]|
 |''LOVEマシーン''|131|[[★×4>難易度表/かんたん/LOVEマシーン]]|[[★×5>難易度表/ふつう/LOVEマシーン]]|[[★×5>難易度表/むずかしい/LOVEマシーン]]|[[★×5>難易度表/おに/LOVEマシーン]]|

@@ -419,6 +419,11 @@
 |~|COLOR(blue):''初''|[[''どんちゃん世界旅行''>難易度表/おに/どんちゃん 世界旅行]]||
 
 |CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''2022/1/1配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''ex寅 Trap!!''>難易度表/おに/ex寅 Trap!!]]|かねこちはる|
+
+
+|CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''2022年1月配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''The Future of the 太鼓ドラム''>難易度表/おに/The Future of the 太鼓ドラム]]||
 

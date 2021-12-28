@@ -587,7 +587,7 @@
 |BGCOLOR(#db2900):COLOR(white):''八段''|''2430''&br;[[動画>http://www.youtube.com/watch?v=x2qRjwgHF3E]]|[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]&br;おに★×9&br;777コンボ|[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]&br;おに★×9&br;777コンボ|[[Black Rose Apostle>難易度表/おに/Black Rose Apostle]]&br;おに★×10&br;876コンボ|魂ゲージ100%&br;可300未満&br;不可50未満|魂ゲージ100%&br;可150未満&br;不可20未満|
 |BGCOLOR(#db2900):COLOR(white):''九段''|''2678''&br;[[動画>https://www.youtube.com/watch?v=6qXfPuXcf3o]]|[[チルノのパーフェクトさんすう教室(裏譜面)>難易度表/おに/チルノのパーフェクトさんすう教室(裏譜面)]]&br;おに★×10&br;939コンボ|[[夜桜謝肉祭(裏譜面)>難易度表/おに/夜桜謝肉祭(裏譜面)]]&br;おに★×10&br;942コンボ|[[そつおめしき>難易度表/おに/そつおめしき]]&br;おに★×10&br;797コンボ|魂ゲージ100%&br;可125未満&br;不可30未満|魂ゲージ100%&br;可30未満&br;不可10未満|
 |BGCOLOR(#db2900):COLOR(white):''十段''|''2586''&br;[[動画>http://www.youtube.com/watch?v=z6M7W5FWKng]]|[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]&br;おに★×10&br;876コンボ|[[DEBSTEP!>難易度表/おに/DEBSTEP!]]&br;おに★×10&br;888コンボ|[[燎原ノ舞>難易度表/おに/燎原ノ舞]]&br;おに★×10&br;822コンボ|魂ゲージ100%&br;可30未満&br;不可10未満|魂ゲージ100%&br;可10未満&br;不可0|
-|BGCOLOR(gold):COLOR(black):''達人''|''3231''&br;[[動画>http://www.youtube.com/watch?v=yaPsxYS0rH4]]|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]※&br;おに★×10&br;999コンボ|[[双竜ノ乱>難易度表/おに/双竜ノ乱]]※&br;おに★×10&br;970コンボ|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]※&br;おに★×10&br;1262コンボ|魂ゲージ100%&br;良3180以上&br;不可5未満|魂ゲージ100%&br;良3230以上&br;不可0|
+|BGCOLOR(gold):COLOR(black):''達人''|''3231''&br;[[動画>http://www.youtube.com/watch?v=yaPsxYS0rH4]]|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]※&br;おに★×10&br;999コンボ|[[双竜ノ乱>難易度表/おに/双竜ノ乱]]※&br;おに★×10&br;970コンボ|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]※&br;おに★×10&br;1262コンボ|魂ゲージ100%&br;良3180以上&br;不可5未満|魂ゲージ100%&br;良3230以上((復活！キミドリ達人で判明))&br;不可0|
 
 -天井スコア（キミドリ本編）
 |CENTER:40|CENTER:140|BGCOLOR(white):|c
