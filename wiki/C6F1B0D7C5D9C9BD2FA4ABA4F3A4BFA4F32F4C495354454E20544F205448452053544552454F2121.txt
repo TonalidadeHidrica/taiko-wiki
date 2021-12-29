@@ -1,22 +1,29 @@
 *&ruby(リスン){LISTEN}; &ruby(トゥー){TO}; &ruby(ザ){THE}; &ruby(ステレオ){STEREO};!! [#title]
-***詳細・攻略 [#more]
--「''家庭教師ヒットマンREBORN!''」のOP8。
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14''||CENTER:''アニメ''|CENTER:★×3|CENTER:''77''|CENTER:''318770点''|CENTER:＋連打|CENTER:1090点|CENTER:540点|
-||CENTER:PSPDXDL|CENTER:''J-POP''|~|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打モード}||CENTER:''アニメ''|~|~|CENTER:COLOR(#ff3300){''330080点''}|~|CENTER:COLOR(#ff3300){3460点}|CENTER:-|
-|CENTER:AC15.1.0||CENTER:''J-POP''|~|~|CENTER:''?????0点''|~|CENTER:1100点|CENTER:858点|
-|CENTER:AC15.2.0〜15.4.6|CENTER:Wii U3DL|~|~|~|CENTER:''328410点''|~|~|CENTER:855点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''988520点''}|~|CENTER:COLOR(#ff3300){10540点}|CENTER:-|
--BPMは約55〜182。
+-「[[''家庭教師ヒットマンREBORN!''>アニメ別収録曲#reborn]]」OP8。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC14''||BGCOLOR(orange):''アニメ''|★×3|''77''|''318770点''|＋連打|1090点|540点|
+||PSPDXDL|BGCOLOR(cyan):''J-POP''|~|~|~|~|~|~|
+||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打モード}||BGCOLOR(orange):''アニメ''|~|~|COLOR(#ff3300){''330080点''}|~|COLOR(#ff3300){3460点}|-|
+|AC15.1.0||BGCOLOR(cyan):''J-POP''|~|~|''?????0点''|~|1100点|858点|
+|AC15.2.0-15.4.6|Wii U3DL|~|~|~|''328410点''|~|~|855点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''988520点''}|~|COLOR(#ff3300){10540点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約55-182。
 -ほとんどが2分で、4分は単色の3連打が5回しか出て来ないので★×3にしては簡単な方。
 --にもかかわらず、AC15でも残留した。クリアだけなら逆詐称だろう。
 -一応コンボ数は[[ふつう>難易度表/ふつう/LISTEN TO THE STEREO!!]]の半分を超えているが、難易度は雲泥の差がある。
+
+***その他 [#other]
 -アーティストは、''GOING UNDER GROUND''。
 --作詞は、松本素生。作曲は、松本素生・河野丈洋。編曲は、GOING UNDER GROUND・ヒダカトオル。
 -曲IDは、''listen''。
 
+----
 -[[ふつう>難易度表/ふつう/LISTEN TO THE STEREO!!]]
 -[[むずかしい>難易度表/むずかしい/LISTEN TO THE STEREO!!]]
 -[[おに>難易度表/おに/LISTEN TO THE STEREO!!]]

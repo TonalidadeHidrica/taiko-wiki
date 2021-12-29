@@ -1,21 +1,29 @@
 *&ruby(リスン){LISTEN}; &ruby(トゥー){TO}; &ruby(ザ){THE}; &ruby(ステレオ){STEREO};!! [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14''||CENTER:''アニメ''|CENTER:★×5|CENTER:''237''|CENTER:''732930点''|CENTER:＋連打|CENTER:820点|CENTER:220点|
-||CENTER:PSPDXDL|CENTER:''J-POP''|~|~|~|~|~|~|
-|CENTER:COLOR(#ff3300){真打モード}||CENTER:''アニメ''|~|~|CENTER:COLOR(#ff3300){''745110点''}|~|CENTER:COLOR(#ff3300){2710点}|CENTER:-|
-|CENTER:AC15.1.0〜15.4.6|CENTER:Wii U3DL|CENTER:''J-POP''|~|~|CENTER:''743890点''|~|CENTER:860点|CENTER:280点|
-|CENTER:COLOR(#ff3300){真打}||~|~|~|CENTER:COLOR(#ff3300){''991720点''}|~|CENTER:COLOR(#ff3300){3620点}|CENTER:-|
--BPMは約55〜182。
+-「[[''家庭教師ヒットマンREBORN!''>アニメ別収録曲#reborn]]」のOP8。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC14''||BGCOLOR(orange):''アニメ''|★×5|''237''|''732930点''|＋連打|820点|220点|
+||PSPDXDL|BGCOLOR(cyan):''J-POP''|~|~|~|~|~|~|
+||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打モード}||BGCOLOR(orange):''アニメ''|~|~|COLOR(#ff3300){''745110点''}|~|COLOR(#ff3300){2710点}|-|
+|AC15.1.0-15.4.6|Wii U3DL|BGCOLOR(cyan):''J-POP''|~|~|''743890点''|~|860点|280点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''991720点''}|~|COLOR(#ff3300){3620点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約55-182。
 -黄色連打が多い連打曲である。
 -大音符が多く、34個ある（全体の約14.3%）。
 -8分の複合がかなり多いが、16分は3連打が3回しか出て来ないので★×5にしては簡単な方。
 --にもかかわらず、AC15でも残留した。クリアだけなら逆詐称だろう。
+
+***その他 [#other]
 -アーティストは、''GOING UNDER GROUND''。
 --作詞は、松本素生。作曲は、松本素生・河野丈洋。編曲は、GOING UNDER GROUND・ヒダカトオル。
 -曲IDは、''listen''。
 
+----
 -[[かんたん>難易度表/かんたん/LISTEN TO THE STEREO!!]]
 -[[ふつう>難易度表/ふつう/LISTEN TO THE STEREO!!]]
 -[[おに>難易度表/おに/LISTEN TO THE STEREO!!]]

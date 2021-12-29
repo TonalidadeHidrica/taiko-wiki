@@ -1,9 +1,10 @@
 *KING [#title]
 
 ***詳細 [#more]
-|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|h
-|''AC16.2.3''|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|★×8|''781''|''1003280点''|1280点|
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC16.2.3''||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|★×8|''781''|''1003280点''|1280点|-|
+||iOS&br;AR|~|~|~|''1054300点''|360点|90点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは166。
@@ -25,7 +26,8 @@
 -[[かんたん>難易度表/かんたん/KING]]
 -[[ふつう>難易度表/ふつう/KING]]
 -[[むずかしい>難易度表/むずかしい/KING]]
--[[プレイ動画>https://www.youtube.com/watch?v=DoezQjnM-Jk]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=DoezQjnM-Jk]]
+-[[オート動画(iOS)>https://m.youtube.com/watch?v=vFWPoh1QRvY&t=5s]]
 
 ***コメント [#comment]
 #pcomment(,noname)
