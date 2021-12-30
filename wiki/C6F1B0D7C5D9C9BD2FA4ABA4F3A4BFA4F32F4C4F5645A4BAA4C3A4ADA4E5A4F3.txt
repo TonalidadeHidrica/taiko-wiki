@@ -3,7 +3,7 @@
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC14''|CENTER:|CENTER:★×4|CENTER:''140''|CENTER:''336800点''|CENTER:＋連打|CENTER:620点|CENTER:180点|
-||CENTER:iOS&br;PSPDXDL|~|~|CENTER:''336500点''|~|~|~|
+||CENTER:iOS&br;PSPDXDL&br;AR|~|~|CENTER:''336500点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''353000点''}|~|CENTER:COLOR(#ff3300){2100点}|CENTER:-|
 -BPMは150。
 -黄色連打が多い連打曲である。

@@ -11,7 +11,7 @@
 ||PSP1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|''554310点''|~|680点|160点|''ゴーゴーバグあり''|
 |AC8,9||~|~|~|~|''547340点''|~|580点|170点||
 ||DS1|~|★×6|~|~|''568290点''|~|650点|~||
-|AC10-14|iOS|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×4|~|~|''550100点''|~|590点|~||
+|AC10-14|iOS&br;AR|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×4|~|~|''550100点''|~|590点|~||
 |AC11亜&br;AC12亜||BGCOLOR(darkorchid):&color(white){''遊戯音楽''};|~|~|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|COLOR(#ff3300){''553280点''}|~|COLOR(#ff3300){2080点}|-||
 ||Wii5SP&br;Wii U3SP&br;PS4 1DL&br;NS1DL|~|~|~|~|''550100点''|~|650点|205点||

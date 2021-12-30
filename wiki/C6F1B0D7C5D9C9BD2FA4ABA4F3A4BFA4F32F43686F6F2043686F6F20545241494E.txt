@@ -6,7 +6,7 @@
 |CENTER:AC7||~|~|CENTER:''?????0点''|~|CENTER:620点|CENTER:200点|~|
 ||CENTER:PSP1|~|~|CENTER:''?????0点''|~|~|~|~|
 ||CENTER:DS3|CENTER:★×2|CENTER:''72''|CENTER:''266010点''|~|CENTER:1100点|CENTER:450点||
-||CENTER:iOS|~|~|CENTER:''?????0点''|~|~|~|~|
+||CENTER:iOS|~|~|~|~|~|~|~|
 -BPMは115。
 ----
 ***CS5,AC7,PSP1 [#old]

@@ -7,7 +7,7 @@
 |AC4|''CS1''|>|>|>|>|>|>|>|''かんたんコースはなかった''|
 ||TDM|BGCOLOR(orangered):''Namco&br;Original''|★×4|''201''|''?????0点''|＋連打|850点|180点||
 |AC8,9||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''?????0点''|~|590点|120点||
-|AC10-14|iOS|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''350470点''|~|510点|150点||
+|AC10-14|iOS&br;AR|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''350470点''|~|510点|150点||
 |AC11亜&br;AC12亜||BGCOLOR(darkorchid):&color(white){''遊戯音楽''};|~|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|COLOR(#ff3300){''358750点''}|~|COLOR(#ff3300){1750点}|-||
 ||Wii5SP&br;Wii U3SP&br;PS4 1DL&br;NS1DL|~|~|~|''355370点''|~|550点|185点||
