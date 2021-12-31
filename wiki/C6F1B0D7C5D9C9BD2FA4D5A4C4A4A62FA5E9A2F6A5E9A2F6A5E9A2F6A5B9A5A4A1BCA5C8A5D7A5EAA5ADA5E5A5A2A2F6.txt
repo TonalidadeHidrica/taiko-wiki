@@ -8,6 +8,7 @@
 |CENTER:AC15.2.0〜15.3.7||~|~|CENTER:''388650点''|~|~|CENTER:778点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''990460点''}|~|CENTER:COLOR(#ff3300){9640点}|CENTER:-|
 ||CENTER:Wii4|CENTER:★×2|~|CENTER:''423190点''|~|CENTER:1360点|CENTER:510点|
+||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
 -BPMは162。
 -黄色連打が多い連打曲である。
 -8分はなく、4分も単色の4連打までしかない。

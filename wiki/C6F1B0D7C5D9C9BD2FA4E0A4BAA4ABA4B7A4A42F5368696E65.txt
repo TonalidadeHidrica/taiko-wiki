@@ -5,7 +5,7 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.2.2''&br;AC15.1.6||CENTER:★×3|CENTER:''153''|CENTER:''632440点''|CENTER:＋連打|CENTER:1150点|CENTER:455点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){5830点}|CENTER:-|
-||CENTER:iOS&br;PSPDXDL|~|~|CENTER:''607680点''|~|CENTER:1120点|CENTER:310点|
+||CENTER:iOS&br;PSPDXDL&br;AR|~|~|CENTER:''607680点''|~|CENTER:1120点|CENTER:310点|
 -BPMは127。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。
 -連打秒数目安・・・約1.614秒×2−''約1.378秒''×2−''約2.323秒''−''約2.559秒''：合計約10.876秒

@@ -5,7 +5,8 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
 ||CENTER:''DS3''|CENTER:★×2|CENTER:''72''|CENTER:''303980点''|CENTER:＋連打|CENTER:1050点|CENTER:450点|
 |CENTER:AC14||~|~|CENTER:''305360点''|~|~|~|
-||CENTER:Wii3&br;iOS|~|~|CENTER:''305450点''|~|~|~|
+||CENTER:Wii3|~|~|CENTER:''305450点''|~|~|~|
+||CENTER:iOS|~|~|CENTER:''304700点''|~|~|~|
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''311980点''}|~|CENTER:COLOR(#ff3300){3080点}|CENTER:-|
 -BPMは184。
 --ただしHS0.8がかかっており、見かけ上のBPMは147.2。

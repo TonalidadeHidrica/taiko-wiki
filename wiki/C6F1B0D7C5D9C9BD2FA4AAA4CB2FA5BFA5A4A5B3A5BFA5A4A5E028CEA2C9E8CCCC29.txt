@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC14SP''|Wii4SP&br;PSPDXDL&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''876''|''1204780点''|340点|90点|
+|''AC14SP''|Wii4SP&br;iOS&br;PSPDXDL&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''876''|''1204780点''|340点|90点|
 |COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''1217390点''}|COLOR(#ff3300){1270点}|-|
 |AC15.1.0|Wii U2SP&br;3DS3DL|~|~|~|''1207810点''|400点|95点|
 |WM||BGCOLOR(orangered):''M&#250;sicas originais&br;da NAMCO''|~|~|~|~|~|

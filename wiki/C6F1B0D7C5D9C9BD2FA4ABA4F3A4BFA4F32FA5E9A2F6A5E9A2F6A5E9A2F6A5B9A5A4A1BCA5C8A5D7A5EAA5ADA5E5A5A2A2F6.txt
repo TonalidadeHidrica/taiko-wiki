@@ -8,6 +8,7 @@
 |CENTER:AC15.2.0〜15.3.7||~|~|CENTER:''308640点''|~|~|CENTER:858点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''989900点''}|~|CENTER:COLOR(#ff3300){11930点}|CENTER:-|
 ||CENTER:Wii4|~|~|CENTER:''293370点''|~|CENTER:1180点|CENTER:520点|
+||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
 -BPMは162。
 -黄色連打が多い連打曲である。
 -第2ゴーゴーから出てくる4分の単色3連打に注意。それ以外は2分までしかない。

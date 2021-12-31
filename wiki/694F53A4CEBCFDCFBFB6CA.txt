@@ -46,7 +46,7 @@
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
 |BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(darkgray):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(magenta):~[[&color(black){%%%どうよう%%%};>#doyo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
-|''184'' 曲&br;(約22.2%)|''154'' 曲&br;(約18.6%)|''50'' 曲&br;(約6.1%)|''5'' 曲&br;(約0.6%) |''55'' 曲&br;(約6.7%)|''34'' 曲&br;(約4.1%)|''62'' 曲&br;(約7.5%)|''282'' 曲&br;(約34.1%)|
+|''184'' 曲&br;(約22.3%)|''154'' 曲&br;(約18.6%)|''50'' 曲&br;(約6.1%)|''5'' 曲&br;(約0.6%) |''55'' 曲&br;(約6.7%)|''34'' 曲&br;(約4.1%)|''62'' 曲&br;(約7.5%)|''282'' 曲&br;(約34.1%)|
 -人気曲ぱっく6以降(2012/6/25~)の難易度は''新基準''。ただし、むずかしいコースの[[さくらんぼ>難易度表/むずかしい/さくらんぼ]]と[[前略、道の上より>難易度表/むずかしい/前略、道の上より]]はKATSU-DON以降と基準が異なる。
 
 -凡例&br;''追''・・・追加楽曲&br;''期''・・・期間限定&br;◎・・・楽曲取り放題対象曲&br;★・・・楽曲取り放題限定曲&br;背景が灰色（COLOR(#ccc){■}）の曲・・・''現在は%%%プレイできない%%%楽曲''&br;背景がベージュ（COLOR(beige){■}）の曲・・・''現在は%%%ダウンロードできない%%%楽曲''（既にダウンロードしている場合はプレイ可能）
@@ -492,7 +492,7 @@
 |BGCOLOR(beige):|BGCOLOR(beige):''狙いうち''&br;　　SIZE(11){(ブラバン！甲子園)}|BGCOLOR(beige):159※|BGCOLOR(beige):[[★×4>難易度表/かんたん/狙いうち]]|BGCOLOR(beige):[[★×5>難易度表/ふつう/狙いうち]]|BGCOLOR(beige):[[★×6>難易度表/むずかしい/狙いうち]]|BGCOLOR(beige):[[★×8>難易度表/おに/狙いうち]]|BGCOLOR(beige):-|
 |◎|''PERFECT HUMAN''|128|[[★×2>難易度表/かんたん/PERFECT HUMAN]]|[[★×3>難易度表/ふつう/PERFECT HUMAN]]|[[★×4>難易度表/むずかしい/PERFECT HUMAN]]|[[★×8>難易度表/おに/PERFECT HUMAN]]|-|
 |◎|''Bad Apple!! feat.nomico''&br;　　SIZE(11){東方Projectアレンジ Alstroemeria Records}|138|[[★×3>難易度表/かんたん/Bad Apple!! feat.nomico]]|[[★×5>難易度表/ふつう/Bad Apple!! feat.nomico]]|[[★×6>難易度表/むずかしい/Bad Apple!! feat.nomico]]|[[★×8>難易度表/おに/Bad Apple!! feat.nomico]]|-|
-|BGCOLOR(#ccc):期|BGCOLOR(#ccc):''パパマママック''&br;　　SIZE(11){マクドナルドコラボ曲}|BGCOLOR(#ccc):112|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/パパマママック]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/パパマママック]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/パパマママック]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/パパマママック]]|BGCOLOR(#ccc):-|
+|BGCOLOR(#ccc):期|BGCOLOR(#ccc):''パパマママック''&br;　　SIZE(11){マクドナルドコラボ曲}|BGCOLOR(#ccc):112|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/パパマママック限定バージョン]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/パパマママック限定バージョン]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/パパマママック限定バージョン]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/パパマママック限定バージョン]]|BGCOLOR(#ccc):-|
 |BGCOLOR(beige):|BGCOLOR(beige):''ふな ふな ふなっしー♪''&br;　　SIZE(11){〜ふなっしー公式テーマソング〜}|BGCOLOR(beige):152|BGCOLOR(beige):[[★×3>難易度表/かんたん/ふな ふな ふなっしー♪]]|BGCOLOR(beige):[[★×4>難易度表/ふつう/ふな ふな ふなっしー♪]]|BGCOLOR(beige):[[★×5>難易度表/むずかしい/ふな ふな ふなっしー♪]]|BGCOLOR(beige):[[★×8>難易度表/おに/ふな ふな ふなっしー♪]]|BGCOLOR(beige):-|
 |★|''FREEDOM DiVE↓''&br;　　SIZE(11){xi}|222.22|[[★×4>難易度表/かんたん/FREEDOM DiVE↓]]|[[★×6>難易度表/ふつう/FREEDOM DiVE↓]]|[[★×7>難易度表/むずかしい/FREEDOM DiVE↓]]|[[★×10>難易度表/おに/FREEDOM DiVE↓]]|-|
 |★|''Help me, ERINNNNNN!!''&br;　　SIZE(11){東方Projectアレンジ ビートまりお}|183※|[[★×3>難易度表/かんたん/Help me, ERINNNNNN!!]]|[[★×4>難易度表/ふつう/Help me, ERINNNNNN!!]]|[[★×7>難易度表/むずかしい/Help me, ERINNNNNN!!]]|[[★×8>難易度表/おに/Help me, ERINNNNNN!!]]|-|

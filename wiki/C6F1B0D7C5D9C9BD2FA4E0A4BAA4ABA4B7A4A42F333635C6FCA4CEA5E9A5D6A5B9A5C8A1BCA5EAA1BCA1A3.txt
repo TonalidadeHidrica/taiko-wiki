@@ -3,7 +3,7 @@
 -テレビ朝日系「''お願い！ランキング''」10月度エンディングテーマ、「''Musicる TV''」2月度エンディングテーマ。
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''PSPDXDL''&br;iOS|CENTER:★×3|CENTER:''227''|CENTER:''632780点''|CENTER:＋連打|CENTER:740点|CENTER:180点|
+||CENTER:''PSPDXDL''&br;iOS&br;AR|CENTER:★×3|CENTER:''227''|CENTER:''632780点''|CENTER:＋連打|CENTER:740点|CENTER:180点|
 |CENTER:AC15.1.3|CENTER:3DS1|~|~|CENTER:''642650点''|~|CENTER:760点|CENTER:235点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3830点}|CENTER:-|
 -BPMは約124。

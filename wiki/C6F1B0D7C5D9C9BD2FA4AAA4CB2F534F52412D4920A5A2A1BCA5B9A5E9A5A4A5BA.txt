@@ -43,7 +43,7 @@
 -[[かんたん>難易度表/かんたん/SORA-I アースライズ]]
 -[[ふつう>難易度表/ふつう/SORA-I アースライズ]]
 -[[むずかしい>難易度表/むずかしい/SORA-I アースライズ]]
--[[オート動画>https://www.youtube.com/watch?v=NiShXpGGm-k]]
+-[[オート動画(Wii5)>https://www.youtube.com/watch?v=NiShXpGGm-k]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
