@@ -5,7 +5,7 @@
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''PSP2''|CENTER:★×6|CENTER:''268''|CENTER:''772940点''|CENTER:＋連打|CENTER:740点|CENTER:220点|
-|CENTER:iOS|~|~|CENTER:''769840点''|~|CENTER:810点|CENTER:210点|
+|CENTER:iOS&br;AR|~|~|CENTER:''769840点''|~|CENTER:810点|CENTER:210点|
 -BPMは約145。
 -連打秒数目安・・・約0.999秒−''約1.206秒''−''約0.586秒''−''約1.206秒''×2−''約0.586秒''−''約2.033秒''：合計約7.822秒
 -ゴーゴーのCOLOR(blue){●}COLOR(blue){●}COLOR(blue){●}COLOR(blue){●} COLOR(red){●}COLOR(red){●}COLOR(red){●}COLOR(red){●}に注意。

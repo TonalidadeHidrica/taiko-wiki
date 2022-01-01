@@ -5,7 +5,7 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.2.4''|Wii U2SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''186''|''580980点''|+連打|900点|313点|
 |WM||BGCOLOR(orangered):''M&#250;sicas originais&br;da NAMCO''|~|~|~|~|~|~|
-||PSPDXDL&br;iOS|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''559310点''|~|~|220点|
+||PSPDXDL&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''559310点''|~|~|220点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''985100点''}|~|COLOR(#ff3300){4850点}|-|
 |AC16.1.0||~|~|~|''991420点''|~|5320点|-|
 

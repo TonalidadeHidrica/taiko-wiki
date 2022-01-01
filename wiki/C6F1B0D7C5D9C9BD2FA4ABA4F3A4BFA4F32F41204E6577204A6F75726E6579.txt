@@ -3,7 +3,7 @@
 -ガンホーのスマートフォン用ゲームアプリ「''パズル&ドラゴンズ''」テクニカル・降臨・参上ダンジョン通常BGM。
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''iOS''|CENTER:★×3|CENTER:''116''|CENTER:''317910点''|CENTER:＋連打|CENTER:790点|CENTER:240点|
+|CENTER:''iOS''&br;AR|CENTER:★×3|CENTER:''116''|CENTER:''317910点''|CENTER:＋連打|CENTER:790点|CENTER:240点|
 -BPMは137。
 -黄色連打が多い連打曲である。
 -大音符が多く、17個ある（全体の約14.7%）。

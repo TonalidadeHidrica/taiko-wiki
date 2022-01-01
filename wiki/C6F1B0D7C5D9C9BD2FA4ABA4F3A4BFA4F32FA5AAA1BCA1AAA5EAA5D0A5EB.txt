@@ -6,7 +6,7 @@
 |CENTER:''Wii U3''|CENTER:''J-POP''|CENTER:★×3|CENTER:''104''|CENTER:''331170点''|CENTER:850点|CENTER:390点|
 |CENTER:3DS3DL|CENTER:''アニメ''|~|~|~|~|~|
 |CENTER:COLOR(#ff3300){真打}|~|~|~|CENTER:COLOR(#ff3300){''993100点''}|CENTER:COLOR(#ff3300){7700点}|CENTER:-|
-|CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''?????0点''|CENTER:830点|CENTER:240点|
+|CENTER:iOS&br;AR|CENTER:''J-POP''|~|~|CENTER:''323670点''|CENTER:830点|CENTER:240点|
 -BPMは129。
 -黄色連打は3本と少なめだが、1本あたりの長さは長い。
 -大音符が多く、19個ある（全体の約18.3%）。
@@ -28,4 +28,4 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-&attachref(r0.png,nolink);
+&attachref(r_0.png,nolink);

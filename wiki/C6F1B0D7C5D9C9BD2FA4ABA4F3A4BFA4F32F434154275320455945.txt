@@ -5,7 +5,7 @@
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''PSP2''|CENTER:★×2|CENTER:''71''|CENTER:''303000点''|CENTER:＋連打|CENTER:800点|CENTER:850点|
-|CENTER:iOS|~|~|CENTER:''303370点''|~|CENTER:1350点|CENTER:660点|
+|CENTER:iOS&br;AR|~|~|CENTER:''303370点''|~|CENTER:1350点|CENTER:660点|
 -BPMは約145。
 -連打秒数目安・・・約2.446秒−''約0.999秒''×2：合計約4.445秒
 -PSP2では[[残酷な天使のテーゼ（ふつう）>難易度表/ふつう/残酷な天使のテーゼ]]（PSP2）等と同じく、''公差が初項よりも高い''。

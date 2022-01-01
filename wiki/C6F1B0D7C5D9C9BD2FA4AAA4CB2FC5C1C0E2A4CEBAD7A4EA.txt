@@ -5,7 +5,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 ||''CS7SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''777''|''983790点''|+連打|460点|70点|
-|AC10-14|Wii1SP&br;Wii4SP&br;PSPDX&br;iOS|~|~|~|''986570点''|~|370点|80点|
+|AC10-14|Wii1SP&br;Wii4SP&br;PSPDX&br;iOS&br;AR|~|~|~|''986570点''|~|370点|80点|
 |AC11亜&br;AC12亜||BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|COLOR(#ff3300){''1002500点''}|~|COLOR(#ff3300){1200点}|-|
 |AC15.1.0|Wii U2SP&br;3DS2DL&br;3DS3DL|~|~|~|''991540点''|~|380点|90点|

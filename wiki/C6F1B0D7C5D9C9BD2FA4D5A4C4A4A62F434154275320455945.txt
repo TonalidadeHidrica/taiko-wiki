@@ -5,7 +5,7 @@
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''PSP2''|CENTER:★×4|CENTER:''127''|CENTER:''518880点''|CENTER:＋連打|CENTER:1000点|CENTER:400点|
-|CENTER:iOS|~|~|CENTER:''536190点''|~|CENTER:1250点|CENTER:370点|
+|CENTER:iOS&br;AR|~|~|CENTER:''536190点''|~|CENTER:1250点|CENTER:370点|
 -BPMは約145。
 -連打秒数目安・・・約2.033秒−''約0.999秒''×2：合計約4.031秒
 -コンボ数が[[むずかしい>難易度表/むずかしい/CAT'S EYE]](268コンボ)の半分以下しかない。

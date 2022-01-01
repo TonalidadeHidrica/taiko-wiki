@@ -175,7 +175,8 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):どんちゃん 世界旅行>難易度表/おに/どんちゃん 世界旅行]]|おに|世界旅行ドンだー||
+|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|おに|猛寅級トラッパー||
+|~|[[COLOR(blue):どんちゃん 世界旅行>難易度表/おに/どんちゃん 世界旅行]]|おに|世界旅行ドンだー||
 |~|[[COLOR(blue):Solitude Star>難易度表/おに/Solitude Star]]|おに|闇を裂く新星||
 |~|[[COLOR(blue):Agent Hustle ＆ Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|おに|Mission Complete!||
 |~|[[COLOR(blue):Agent Hustle ＆ Dr. Hassle(裏譜面)>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|裏譜面|EX Mission Complete!||
@@ -546,6 +547,7 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
+|~|[[COLOR(blue):ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|おに|猛寅級トラッパー||
 |~|[[COLOR(blue):Agent Hustle ＆ Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|おに|Mission Complete!||
 |~|[[COLOR(blue):Spectral Rider>難易度表/おに/Spectral Rider]]|おに|幻ドンだー||
 |~|[[COLOR(blue):たいこの2000>難易度表/おに/たいこの2000]]|おに|たいこの達人||

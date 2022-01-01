@@ -10,7 +10,8 @@
 |WM||BGCOLOR(orangered):''M&#250;sicas originais&br;da NAMCO''|~|~|~|~|~|~|
 ||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''997500点''}|~|COLOR(#ff3300){1250点}|-|
-|AC16.1.0||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''994500点''|~|1300点|-|
+||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1032060点''|~|360点|90点|
+|AC16.1.0||~|~|~|''994500点''|~|1300点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは180。

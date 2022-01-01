@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC11SP''|Wii2SP&br;Wii4SP&br;iOS|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''763''|''1050900点''|370点|90点|
+|''AC11SP''|Wii2SP&br;Wii4SP&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''763''|''1050900点''|370点|90点|
 |AC11亜SP||BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|
 |AC15.1.0||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1059780点''|420点|98点|
 |WM||BGCOLOR(orangered):''M&#250;sicas originais&br;da NAMCO''|~|~|~|~|~|

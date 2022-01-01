@@ -5,9 +5,9 @@
 -詳細は以下の通り：
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|CENTER:バージョン((太字は初出))|CENTER:ジャンル|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-||CENTER:''AR''&br;iOS|CENTER:''バラエティ''|CENTER:★×5|CENTER:''133''|CENTER:''571470点''|CENTER:＋連打|CENTER:1210点|CENTER:360点|
+||CENTER:''iOS''&br;AR|CENTER:''バラエティ''|CENTER:★×5|CENTER:''133''|CENTER:''571470点''|CENTER:＋連打|CENTER:1210点|CENTER:360点|
 ||CENTER:Wii U1|~|~|~|CENTER:''588960点''|~|CENTER:1250点|CENTER:543点|
-||CENTER:3DS2|~|~|~|CENTER:''588830点''|~|~|~|
+||CENTER:3DS2&br;NS RPG|~|~|~|CENTER:''588830点''|~|~|~|
 |CENTER:AC15.4.0||CENTER:''J-POP''|~|~|~|~|~|~|
 ||3DS2韓|''&#50696;&#45733; &#44592;&#53440;''|~|~|~|~|~|~|
 |CENTER:COLOR(#ff3300){真打}||''J-POP''|~|~|CENTER:COLOR(#ff3300){''989920点''}|~|CENTER:COLOR(#ff3300){6740点}|CENTER:-|

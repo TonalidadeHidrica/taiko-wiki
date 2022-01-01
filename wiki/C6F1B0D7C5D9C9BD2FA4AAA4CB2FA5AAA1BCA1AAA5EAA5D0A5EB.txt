@@ -7,7 +7,7 @@
 |''Wii U3''|BGCOLOR(cyan):''J-POP''|★×8|''461''|''1051160点''|670点|178点|
 |3DS3DL|BGCOLOR(orange):''アニメ''|~|~|~|~|~|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1000360点''}|COLOR(#ff3300){2040点}|-|
-|iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''??????点''|640点|150点|
+|iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''1050970点''|640点|150点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは129。
@@ -32,4 +32,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(リバル.png,nolink);
+&attachref(リバル_.png,nolink);
