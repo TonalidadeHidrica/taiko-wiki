@@ -1,4 +1,4 @@
-*&ruby(シンクロニシティ){Synchronicity}; [#title]
+*Synchronicity [#title]
 -ナムコ「''シンクロニカ''」とのコラボ楽曲のひとつ。
 
 ***詳細 [#more]

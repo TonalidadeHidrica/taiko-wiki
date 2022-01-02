@@ -190,7 +190,6 @@
 |alps|[[アルプス一万尺>難易度表/おに/アルプス一万尺]]||
 |alrpri|[[Alright! ハートキャッチプリキュア！>難易度表/おに/Alright! ハートキャッチプリキュア！]]||
 |altale|[[Altale>難易度表/おに/Altale]]||
-|alxswn|[[Swan>難易度表/おに/Swan]]|Alexandros|
 |alxswn|[[Swan>難易度表/おに/Swan]]|[Alexandros]|
 |alxwtr|[[ワタリドリ>難易度表/おに/ワタリドリ]]|~|
 |ama|[[亜麻色の髪の乙女>難易度表/おに/亜麻色の髪の乙女]]||
@@ -238,9 +237,6 @@
 |astero|[[Asteroid>難易度表/おに/Asteroid]]||
 |atsu|[[熱き鼓動の果て>難易度表/おに/熱き鼓動の果て]]||
 |attaka|[[あったかいんだからぁ♪>難易度表/おに/あったかいんだからぁ♪]]||
-|audasu|[[明日への鼓動>難易度表/おに/明日への鼓動]]||
-|audg14|[[銀の意志 Super Arrange Ver.>難易度表/おに/銀の意志 Super Arrange Ver.]]||
-|audsen|[[閃光の行方>難易度表/おに/閃光の行方]]||
 |audasu|[[明日への鼓動>難易度表/おに/明日への鼓動]]|英雄伝説|
 |audg14|[[銀の意志 Super Arrange Ver.>難易度表/おに/銀の意志 Super Arrange Ver.]]|~|
 |audsen|[[閃光の行方>難易度表/おに/閃光の行方]]|~|
@@ -322,11 +318,11 @@
 |c25|[[交響曲第25番ト短調より 第一楽章>難易度表/おに/交響曲第25番ト短調第一楽章]]|TDMのみ|
 |cal|[[ソウルキャリバーII>難易度表/おに/ソウルキャリバーII]]|TDMのみ|
 |calc|[[Calculator>難易度表/おに/Calculator]]||
-|calib|[[Brave Sword, Braver Soul>難易度表/おに/ソウルキャリバーII]]||
-|calib3|[[New Legend>難易度表/おに/ソウルキャリバーIII]]||
-|calib4|[[IMMACULATE PLEDGE>難易度表/おに/ソウルキャリバーIV]]||
-|calib5|[[The Invincible Blade>難易度表/おに/ソウルキャリバーV]]||
-|calib6|[[Undying Legend>難易度表/おに/Undying Legend]]||
+|calib|[[Brave Sword, Braver Soul>難易度表/おに/ソウルキャリバーII]]|ソウルキャリバー|
+|calib3|[[New Legend>難易度表/おに/ソウルキャリバーIII]]|~|
+|calib4|[[IMMACULATE PLEDGE>難易度表/おに/ソウルキャリバーIV]]|~|
+|calib5|[[The Invincible Blade>難易度表/おに/ソウルキャリバーV]]|~|
+|calib6|[[Undying Legend>難易度表/おに/Undying Legend]]|~|
 |calice|[[CYBERgenicALICE>難易度表/おに/CYBERgenicALICE]]||
 |cancan|[[CANDY CANDY>難易度表/おに/CANDY CANDY]]||
 |cando|[[Can Do>難易度表/おに/Can Do]]||
@@ -340,7 +336,7 @@
 |castle|[[Black Rose Apostle>難易度表/おに/Black Rose Apostle]]|Bla''c''k Rose ''A''po''stle''?|
 |catdog|[[白猫きゃらめる夢幻のわたあめ>難易度表/おに/白猫きゃらめる夢幻のわたあめ]]|猫と犬の声|
 |cats|[[CAT'S EYE>難易度表/おに/CAT'S EYE]]||
-|cbebop|[[Tank!>難易度表/おに/Tank!]]||
+|cbebop|[[Tank!>難易度表/おに/Tank!]]|カウボーイビバップ|
 |cbu|[[交響曲第五番「運命」>難易度表/おに/交響曲第五番「運命」]]|TDMのみ|
 |cca|[[カルメン組曲一番終曲>難易度表/おに/カルメン組曲一番終曲]]|TDMのみ|
 |ccb|[[君に、ロマンティック。>難易度表/おに/君に、ロマンティック。]]|Romanticが止まらないのアーティストがC-C-B|
@@ -523,7 +519,6 @@
 |densgo|[[電車で電車でGO!GO!GO!GC! -GMT remix->難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]|~|
 |densrr|[[リッジでリッジで GO!GO!GO! -GMT mashup->難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]|~|
 |deo|[[ユルユルでDE-O!>難易度表/おに/ユルユルでDE-O!]]||
-|dgbite|[[Dogbite>難易度表/おに/Dogbite]]||
 |dhero2|[[ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング>難易度表/おに/ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング]]||
 |dhero3|[[ドラゴンボールヒーローズ 邪悪龍ミッションシリーズ テーマソング>難易度表/おに/ドラゴンボールヒーローズ 邪悪龍ミッションシリーズ テーマソング]]||
 |dhero4|[[ドラゴンボールヒーローズ ゴッドミッションシリーズ テーマソング>難易度表/おに/ドラゴンボールヒーローズ ゴッドミッションシリーズ テーマソング]]||
@@ -2120,8 +2115,7 @@
 |w3at22|[[オレサマパイレーツ>難易度表/おに/オレサマパイレーツ]]||
 |w3at2x|[[イカサマパイレーツ>難易度表/おに/イカサマパイレーツ]]|アトラクション曲2|
 |w3op|[[ポップコーン★パレード>難易度表/おに/ポップコーン★パレード]]||
-|waitin|[[waitin' for u>難易度表/おに/waitin' for u]]||
-|wangan|[[Lightning Dance>難易度表/おに/Lightning Dance]]|湾岸|
+|wangan|[[Lightning Dance>難易度表/おに/Lightning Dance]]|''湾岸''ミッドナイト|
 |wara2k|[[わら得る2000>難易度表/おに/わら得る2000]]||
 |warabe|[[わらべ歌メドレー>難易度表/おに/わらべ歌メドレー]]||
 |warau|[[「笑うが勝ち!」でGO!>難易度表/おに/「笑うが勝ち!」でGO!]]||
@@ -2139,7 +2133,7 @@
 |wedh|[[ワールズエンド・ダンスホール>難易度表/おに/ワールズエンド・ダンスホール]]||
 |wego|[[ウィーゴー！>難易度表/おに/ウィーゴー！]]||
 |wegos|~|ショート|
-|wgbhfm|[[華振舞>難易度表/おに/華振舞]]||
+|wgbhfm|[[華振舞>難易度表/おに/華振舞]]|和楽器バンド|
 |whibox|[[What's in the box?>難易度表/おに/What's in the box?]]||
 |whrose|[[White Rose Insanity>難易度表/おに/White Rose Insanity]]||
 |wii2op|[[ららら☆ハッピネス>難易度表/おに/ららら☆ハッピネス]]||
@@ -2157,7 +2151,7 @@
 |worldi|[[ワールドイズマイン>難易度表/おに/ワールドイズマイン]]||
 |worldt|[[アシタノヒカリ>難易度表/おに/アシタノヒカリ]]|ワールドトリガー|
 |xan|[[Xa>難易度表/おに/Xa]]||
-|xanadu|[[Seize the day>難易度表/おに/Seize the day]]||
+|xanadu|[[Seize the day>難易度表/おに/Seize the day]]|東亰''ザナドゥ''|
 |xday2k|[[X-DAY2000>難易度表/おに/X-DAY2000]]||
 |xevel|[[Xevel>難易度表/おに/Xevel]]||
 |xevi|[[ゼビウス体操>難易度表/おに/ゼビウス体操]]||

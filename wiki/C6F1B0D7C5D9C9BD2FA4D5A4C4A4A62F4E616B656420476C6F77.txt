@@ -2,12 +2,13 @@
 -PS用ソフト「''[[R4 -RIDGE RACER TYPE4->ゲーム別収録曲#rr]]''」より。
 
 ***詳細 [#more]
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12亜SP''&br;AC12増SP-13|CENTER:Wii2|CENTER:★×6|CENTER:''278''|CENTER:''642090点''|CENTER:＋連打|CENTER:690点|CENTER:160点|
-|>|CENTER:2人プレイ|~|~|CENTER:''648690点''|~|~|~|
-||CENTER:PSPDXDL&br;iOS|~|~|CENTER:''641790点''|~|~|~|
-||CENTER:PS4 1DL|~|~|CENTER:''647720点''|~|CENTER:700点|CENTER:203点|
-||CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''996380点''}|~|CENTER:COLOR(#ff3300){3280点}|-|
+|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC12亜SP''&br;AC12増SP-13|Wii2|★×6|''278''|''642090点''|＋連打|690点|160点|
+|>|2人プレイ|~|~|''648690点''|~|~|~|
+||PSPDXDL&br;iOS&br;AR|~|~|''641790点''|~|~|~|
+||PS4 1DL|~|~|''647720点''|~|700点|203点|
+||COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''996380点''}|~|COLOR(#ff3300){3280点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは133.05。

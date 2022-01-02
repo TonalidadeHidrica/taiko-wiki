@@ -6,7 +6,8 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC11''|PSPDX&br;iOS|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×4|''213''|''515370点''|＋連打|740点|180点|
 |AC11亜||BGCOLOR(darkorchid):COLOR(white){''遊戲音樂''}|~|~|~|~|~|~|
-||DS2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''445870点''|~|670点|150点|
+||PSPDX&br;iOS|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''514650点''|~|~|~|
+||DS2|~|~|~|''445870点''|~|670点|150点|
 ||Wii U2DL|~|~|~|''531280点''|~|780点|233点|
 
 ***譜面構成・攻略 [#capture]

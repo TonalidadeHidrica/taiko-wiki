@@ -1,4 +1,4 @@
-*ex寅 Trap!! [#title]
+*&ruby(エクストラ){ex寅}; &ruby(トラップ){Trap};!! [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
