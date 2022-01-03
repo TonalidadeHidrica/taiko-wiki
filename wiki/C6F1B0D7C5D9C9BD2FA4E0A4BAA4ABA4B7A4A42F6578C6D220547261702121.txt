@@ -21,3 +21,6 @@
 
 ***コメント [#comment]
 #pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(寅_h.png,nolink);

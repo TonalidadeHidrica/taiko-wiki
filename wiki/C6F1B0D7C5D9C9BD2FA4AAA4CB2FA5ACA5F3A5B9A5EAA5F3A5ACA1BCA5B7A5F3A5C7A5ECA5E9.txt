@@ -7,13 +7,13 @@
 ||''PS Vita1亜DL''|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''990670点''}|~|COLOR(#ff3300){1110点}|-|
 |AC16.1.0||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''992750点''|~|1150点|-|
-||iOS&br;AR|~|~|~|''?????0点''|~|??0点|???点|
+||iOS&br;AR|~|~|~|''?????0点''|~|370点|80点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは167。
 -連打秒数目安・・・約0.689秒−約0.509秒−約0.689秒−SIZE(16){''約0.689秒}−約1.228秒''−約1.407秒−SIZE(16){''約0.689秒}−約1.228秒'':合計約7.128秒
 -やや速めのBPMの中で、奇数・偶数打の混合、24分音符混じりの長複合、そして複合ラッシュを正確に打ち分ける技術を求められる。
---★×9の中では複合のレベルが全体的に高め。少なくともBPMが近く類似の譜面傾向である[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]や[[SAKURA EXHAUST>難易度表/おに/SAKURA EXHAUST]]などに立ち向かえるほどの地力は欲しいところ。
+--★×9の中では複合のレベルが全体的に高め。少なくともBPMが近く類似の譜面傾向である[[The Carnivorous Carnival>../The Carnivorous Carnival]]や[[SAKURA EXHAUST>../SAKURA EXHAUST]]などに立ち向かえるほどの地力は欲しいところ。
 ---また、連打を無視しない場合は中盤以外に休憩地帯がほぼ存在しない。
 -17、68小節に高速でくる大音符が存在する。直前の小節線は表示されないため、4拍目のリズムで叩くことを意識すること。
 -イントロ・アウトロに24分交じりの複合がある。フルコンボ・全良狙いの際はここが一番の難所となるだろう。
@@ -23,12 +23,12 @@
 -1曲を通しての平均密度は、''約6.83打/秒''である。
 
 ***その他 [#other]
--''全コースにおいて物量が多いので選曲する際は要注意''。
--作詞・歌唱・コーラスは、''[[ヒスイリカ>https://twitter.com/rika_hisui]]''。
--作曲・編曲・トラックダウンは、同人サークル''Cineraria Studio''の''[[TiS>https://twitter.com/tis_atisie]]''。
---ギターは、''[[山田英希>https://twitter.com/hideyamadagt]]''。
+-''全コースにおいて物量なので選曲する際は要注意''。
+-作詞・歌唱・コーラスは、[[''ヒスイリカ''>https://twitter.com/rika_hisui]]。
+-作曲・編曲・トラックダウンは、同人サークル''Cineraria Studio''の[[''TiS''>https://twitter.com/tis_atisie]]。
+--ギターは、[[''山田英希''>https://twitter.com/hideyamadagt]]。
 --サウンドトリートメントは、[[''K Masera''>参加アーティスト一覧/K Masera]]、[[''増渕裕二''>参加アーティスト一覧/増渕裕二]]。
--譜面作成は、''[[キジキジ>譜面作成者一覧/キジキジ]]''。
+-譜面作成は、[[''キジキジ''>譜面作成者一覧/キジキジ]]。
 -曲IDは、''gunsln''。
 
 ----
@@ -39,7 +39,9 @@
 -[[公式曲紹介>https://www.youtube.com/watch?v=PcxqI_8AMCw]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(gunsln.png,nolink);
+~&attachref(gunsln.png,nolink);
