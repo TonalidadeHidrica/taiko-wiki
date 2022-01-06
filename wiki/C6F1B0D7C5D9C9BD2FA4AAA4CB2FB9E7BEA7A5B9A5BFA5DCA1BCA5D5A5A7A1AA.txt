@@ -22,6 +22,7 @@
 --69〜70小節の9連打にも注意。2回目の縁2打は逆手入り。
 --72〜74小節(34打)がラス殺しとも言える。運手をしっかり決めて臨みたいところ。
 ---拍ごとに区切ると次のようになる。COLOR(red){●●●}COLOR(blue){○}/COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●●●}COLOR(blue){○}/COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}
+-平均密度は、''約5.98打/秒''。
 
 ***その他 [#other]
 -作詞・作曲・編曲は、[[''大上昌子''>参加アーティスト一覧/大上昌子]]。[[譜面作成>譜面作成者一覧/大上昌子]]にも携わっている。
@@ -35,6 +36,7 @@
 -[[ふつう>難易度表/ふつう/合唱スタボーフェ！]]
 -[[むずかしい>難易度表/むずかしい/合唱スタボーフェ！]]
 -[[オート動画>https://www.youtube.com/watch?v=Ti5lckjWEMM]]
+-[[オート動画(PS4 1)>https://youtu.be/2dCkFKJm-Po]]
 
 ***コメント [#comment]
 #pcomment(,noname)

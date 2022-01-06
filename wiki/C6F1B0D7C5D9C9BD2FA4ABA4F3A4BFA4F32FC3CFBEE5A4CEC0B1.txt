@@ -3,7 +3,7 @@
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC8''|CENTER:PSP2|CENTER:★×3|CENTER:''63''|CENTER:''267940点''|CENTER:＋連打|CENTER:1720点|CENTER:700点|
-||CENTER:iOS|~|~|CENTER:''310310点''|~|CENTER:1480点|CENTER:800点|
+||CENTER:iOS&br;AR|~|~|CENTER:''310310点''|~|CENTER:1480点|CENTER:800点|
 -BPMは100。
 -連打秒数目安・・・約1.45秒×2−''約1.45秒''×2−SIZE(16){''約1.15秒''}：合計約6.95秒
 -大音符が多く、9個ある（全体の約14.3%）。
