@@ -33,7 +33,7 @@
 ***攻略 [#capture]
 -1曲目、[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]は3拍子の複雑な12分長複合を多く捌く譜面。
 --複雑な12分や24分に気を取られやすいが、(平均密度こそ★×10では高くないものの)休憩が少なく16分ラッシュなどは体力も要するので気を抜かないように。
---12分から16分に移るときには遅可が、16分から12分に移るときには早可が出やすいので、頭の中でしっかりと譜面を区切ろう。
+--12分から16分に移るときには遅可が、16分から12分に移るときには早可が出やすいので、曲に合わせて叩くことや譜面を区切ることを意識しよう。
 --21〜23小節は&color(blue){○ };&color(red){● ● ● };''/''&color(blue){○};&color(red){●●●};/&color(blue){○};&color(red){●●};&color(blue){○};/&color(red){●●};&color(blue){○○};/&color(blue){○};&color(red){●●●};''/''&color(blue){○ ○ };&color(red){● };/&color(blue){○ ○ };&color(red){● };/&color(blue){○ ○ };&color(red){● };/&color(red){● ● ● };と区切って覚えよう。
 --42・46・50・54小節の&color(red){●　　};&color(blue){○};&color(red){●　　};&color(blue){○};&color(red){●};&color(blue){○○○};&color(red){●};で可が出やすいなら、リズムをとりながら&color(red){●　●};&color(blue){○};&color(red){●　●};&color(blue){○};&color(red){●};&color(blue){○○○};&color(red){●};などとアレンジすると良い。
 --78〜80小節の12分+16分の複合は12分を利き手で入ると16分は逆手入りしなければならない厄介な配置。16分の逆手入りが苦手な場合、最初の12分を逆手入りするのも一つの手。
@@ -54,6 +54,7 @@
 ---71〜74小節：&color(blue){○ ○ ○ ○ };/&color(red){● ● ● };/&color(blue){○ ○ ○ };/&color(red){● ● };&color(blue){○ };&color(red){● };/&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ ○ };/&color(red){● };&color(blue){○ };&color(red){● };
 --連打音符は107〜110小節に7連続で現れる風船連打のみ。これを全て割れば連打条件は金合格になる。
 --159小節は&color(red){●●};&color(blue){○○};&color(red){●●};+&color(red){● ● ● ● };&color(blue){○ ○ };と覚えるとやりやすい。逆手は一切使わないので全て入り手で叩ける。
+--160小節以降は交互で叩くことで体力を温存し、ラストの16分32連打を通せるようにすると良い。
 
 ***対策 [#p2c4dc3e]
 -各譜面ページを参照。

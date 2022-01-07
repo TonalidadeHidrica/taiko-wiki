@@ -418,6 +418,14 @@
 |~|COLOR(blue):''初''|[[''Solitude Star''>難易度表/おに/Solitude Star]]|春先 x beet|
 |~|COLOR(blue):''初''|[[''どんちゃん世界旅行''>難易度表/おに/どんちゃん 世界旅行]]||
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''2022/1/1配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''ex寅 Trap!!''>難易度表/おに/ex寅 Trap!!]]|かねこちはる|
+
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''1/??配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''The Future of the 太鼓ドラム''>難易度表/おに/The Future of the 太鼓ドラム]]|太鼓 de タイムトラベル超未来 / かめりあ|
+
 -2021/12/24 7:00をもって、以下の4曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V21.10)|h
@@ -426,21 +434,11 @@
 |~|[[''LOSER''>難易度表/おに/LOSER]]|米津玄師|
 |BGCOLOR(hotpink):''アニメ''|[[''ミッション！ 健・康・第・イチ''>難易度表/おに/ミッション！ 健・康・第・イチ]]|「はたらく細胞」より|
 
-|CENTER:100|CENTER:50||250|c
-|>|>|>|CENTER:''2022/1/1配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''ex寅 Trap!!''>難易度表/おに/ex寅 Trap!!]]|かねこちはる|
-
-
-|CENTER:100|CENTER:50||250|c
-|>|>|>|CENTER:''2022年1月配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''The Future of the 太鼓ドラム''>難易度表/おに/The Future of the 太鼓ドラム]]||
-
-
 -2022/1/24 7:00をもって、以下の2曲がサヨナラとなる。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V??.??)|h
-|BGCOLOR(hotpink):''アニメ''|[[''アローラ!!''>難易度表/おに/アローラ!!]]|「ポケットモンスター サン＆ムーン」より|
-|~|[[''ADAMAS''>難易度表/おに/ADAMAS]]|「ソードアート・オンライン アリシゼーション」より|
+|BGCOLOR(yellow):''キッズ''|[[''アローラ!!''>難易度表/おに/アローラ!!]]|「ポケットモンスター サン＆ムーン」より|
+|BGCOLOR(hotpink):''アニメ''|[[''ADAMAS''>難易度表/おに/ADAMAS]]|「ソードアート・オンライン アリシゼーション」より|
 
 //ジャンルについて↓
 //BGCOLOR(cyan):''ポップス''

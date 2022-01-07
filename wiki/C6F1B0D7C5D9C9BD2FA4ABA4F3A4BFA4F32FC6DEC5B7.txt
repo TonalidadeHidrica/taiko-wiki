@@ -3,7 +3,8 @@
 -アニメ「''銀魂''」のOP5。
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC12''&br;AC12増&br;AC12亜|CENTER:iOS|CENTER:★×3|CENTER:''92''|CENTER:''328570点''|CENTER:＋連打|CENTER:1060点|CENTER:430点|
+|CENTER:''AC12''&br;AC12増&br;AC12亜||CENTER:★×3|CENTER:''92''|CENTER:''328930点''|CENTER:＋連打|CENTER:1060点|CENTER:430点|
+||CENTER:iOS|~|~|CENTER:''328570点''|~|~|~|
 -BPMは187。
 -黄色連打は2本しかないが、1本あたりの長さが長い。
 -ほとんどが面で、縁は全体の約4.35%しかない（4/92）。
