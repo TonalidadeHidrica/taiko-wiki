@@ -7,6 +7,7 @@
 ||CENTER:Wii4|~|~|CENTER:''304420点''|~|~|~|
 |CENTER:AC15.1.0||~|~|CENTER:''318610点''|~|CENTER:740点|CENTER:325点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''982280点''}|~|CENTER:COLOR(#ff3300){7020点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
 -BPMは170。
 -黄色連打が多い連打曲である。
 -連打秒数目安・・・約0.853秒×7−SIZE(16){約1.382秒}×2：合計約8.736秒

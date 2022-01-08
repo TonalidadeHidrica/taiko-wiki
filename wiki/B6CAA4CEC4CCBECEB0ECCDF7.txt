@@ -419,7 +419,7 @@
 |[[HARDCOREノ心得>難易度表/おに/HARDCOREノ心得]]|ハーコー|曲中の空耳|
 |[[Don't Stop the Game>難易度表/おに/Don't Stop the Game]]|ドンゲー|''ドン''ト ストップ ザ ''ゲー''ム|
 //|[[mint tears>難易度表/おに/mint tears]]|ミンティア|''min''t ''tear''s((発音すると"ミン ティアーズ"のような発音になることから))|
-|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|TDM|曲名の頭文字|
+|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|TDM|曲名の頭文字 [[このゲーム>CSの歴史#tdm]]との混同に注意|
 |~|ドラモン|タイコ''ドラ''ム''モン''スター|
 |[[はやさいたま2000>難易度表/おに/はやさいたま2000]]|はやさい|''はやさい''たま|
 |~|葉野菜|~|

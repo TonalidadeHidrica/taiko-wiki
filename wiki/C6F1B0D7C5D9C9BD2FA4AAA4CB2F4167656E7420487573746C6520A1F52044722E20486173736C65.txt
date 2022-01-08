@@ -1,4 +1,4 @@
-*Agent Hustle & Dr. Hassle [#title]
+*&ruby(エージェント){Agent}; &ruby(ハッスル){Hustle}; & &ruby(ドクター){Dr.}; &ruby(ハッスル){Hastle}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
@@ -20,7 +20,7 @@
 
 ***その他 [#other]
 -アーティストは、''Cory Tarrow''。
--''表譜面の★の数・最大コンボ数がどちらも裏譜面より多い''、珍しい曲である。ニジイロVer.では初。
+-''表譜面の★の数・最大コンボ数がどちらも[[裏譜面>../Agent Hustle ＆ Dr. Hassle(裏譜面)]]より多い''、珍しい曲である。ニジイロVer.では初。
 -この譜面をフルコンボすると、''称号''「''Mission Complete!''」を獲得できる。
 
 ----

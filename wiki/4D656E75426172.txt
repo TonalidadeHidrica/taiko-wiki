@@ -178,6 +178,7 @@
 -[[開発日記>https://web.archive.org/web/20170707175213/http://taikoblog.namco-ch.net/]](旧公式ブログ・アーカイブ)
 -[[歌詞紹介>https://web.archive.org/web/20170906233336/http://taikoblog.namco-ch.net:80/lyrics.html]](アーカイブ)
 -[[設置店舗情報>https://taiko.namco-ch.net/taiko/location/]]
+--[[旧筐体設置店舗情報>https://w.atwiki.jp/q-taiko/]]
 -太鼓の達人 公式Twitter
 --[[総合>https://twitter.com/taiko_All]]
 --[[ゲームセンター版>https://twitter.com/taiko_team]](旧総合)

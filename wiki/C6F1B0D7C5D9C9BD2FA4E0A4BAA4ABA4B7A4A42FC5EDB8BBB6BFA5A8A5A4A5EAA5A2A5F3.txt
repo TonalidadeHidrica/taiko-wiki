@@ -6,6 +6,7 @@
 ||CENTER:''PSPDXDL''&br;Wii4|CENTER:★×5|CENTER:''215''|CENTER:''726030点''|CENTER:＋連打|CENTER:880点|CENTER:220点|
 |CENTER:AC15.1.0||~|~|CENTER:''736990点''|~|CENTER:900点|CENTER:290点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''989600点''}|~|CENTER:COLOR(#ff3300){3780点}|CENTER:-|
+||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点|
 -BPMは170。
 -連打秒数目安・・・''約0.853秒''−約0.853秒×5−SIZE(16){約0.853秒}−SIZE(16){''約0.853秒''}：''合計約6.824秒''
 -大音符が多く、40個ある（全体の約18.6%）。
