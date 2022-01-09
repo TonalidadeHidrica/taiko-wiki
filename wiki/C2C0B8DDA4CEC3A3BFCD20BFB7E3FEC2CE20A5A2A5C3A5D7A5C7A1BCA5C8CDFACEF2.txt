@@ -361,12 +361,6 @@
 |>|>|>|CENTER:''11/20配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''燃えよサファイア''>難易度表/おに/燃えよサファイア]]|庭師|
 
--2021/11/22 7:00をもって、以下の2曲がサヨナラとなった。
-|CENTER:100|||c
-|>|>|CENTER:''サヨナラ曲''(V20.07)|h
-|BGCOLOR(gold):''キッズ''|[[''Over “Quartzer”''>難易度表/おに/Over “Quartzer”]]|「仮面ライダージオウ」より|
-|BGCOLOR(hotpink):''アニメ''|[[''NATSU☆しようぜ！''>難易度表/おに/NATSU☆しようぜ！]]|IDOLiSH7 feat.TRIGGER 「アイドリッシュセブン」より|
-
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''11/27配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''punk bastards''>難易度表/おに/punk bastards]]|Sobrem|
@@ -379,6 +373,12 @@
 |CENTER:100|||c
 |>|>|CENTER:''期間限定配信楽曲''(12/1〜12/25)|h
 |BGCOLOR(lime):''バラエティ''|[[''【限定】 ジングルベル第765番''>難易度表/おに/ジングルベル第765番]]|>|
+
+-2021/11/22 7:00をもって、以下の2曲がサヨナラとなった。
+|CENTER:100|||c
+|>|>|CENTER:''サヨナラ曲''(V20.07)|h
+|BGCOLOR(gold):''キッズ''|[[''Over “Quartzer”''>難易度表/おに/Over “Quartzer”]]|「仮面ライダージオウ」より|
+|BGCOLOR(hotpink):''アニメ''|[[''NATSU☆しようぜ！''>難易度表/おに/NATSU☆しようぜ！]]|IDOLiSH7 feat.TRIGGER 「アイドリッシュセブン」より|
 
 **第131回アップデート GAME VERSION:21.10(2021/12/15実施) [#update131]
 -楽曲配信106。
