@@ -9,7 +9,7 @@
 ||''iOS&br;AR''|~|~|~|''?????0点''|~|??0点|???点|
 
 ***譜面構成・攻略 [#capture]
--BPMは85-170。
+-BPMは約85-170。所々揺れている。
 
 ***その他 [#other]
 -作詞・作曲は、[[''粗品''>譜面作成者一覧/粗品]] (霜降り明星)。
@@ -26,5 +26,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~41小節の連打はこづち
-~&attachref(粗品梅.png,nolink);
+~&attachref(ssnrns_e.png,nolink);
