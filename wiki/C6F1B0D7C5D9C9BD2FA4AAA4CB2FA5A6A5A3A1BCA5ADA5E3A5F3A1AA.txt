@@ -30,7 +30,8 @@
 -[[かんたん>難易度表/かんたん/ウィーキャン！]]
 -[[ふつう>難易度表/ふつう/ウィーキャン！]]
 -[[むずかしい>難易度表/むずかしい/ウィーキャン！]]
--[[オート動画>https://www.youtube.com/watch?v=TIxE7FJbWYc]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=TIxE7FJbWYc]]
+-[[オート動画(NS1)>https://youtu.be/ssaFQtB5tiY]]
 
 *** コメント [#comment]
 #pcomment(,noname)
