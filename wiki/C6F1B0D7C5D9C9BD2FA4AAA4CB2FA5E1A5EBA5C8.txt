@@ -56,6 +56,7 @@
 -[[むずかしい>難易度表/むずかしい/メルト]]
 -[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20170715042544/http://taikoblog.namco-ch.net/blog/2009/06/post_104.html]]
 -[[プレイ動画(AC15)>https://www.youtube.com/watch?v=uhuamn3Lmbc]]
+-[[オート動画(NS1)>https://youtu.be/6OLEoMlB3os]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

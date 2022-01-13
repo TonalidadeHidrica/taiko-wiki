@@ -22,7 +22,7 @@
 --難易度は歴代ミク曲では[[メルト>難易度表/おに/メルト]]などを下回り、[[みくみくにしてあげる♪【してやんよ】>難易度表/おに/みくみくにしてあげる♪【してやんよ】]]と共に最も低い。
 -作詞・作曲・編曲は、livetuneの''kz''。
 -譜面作成は、''[[マツモト>譜面作成者一覧/マツモト]]''。
---「むずかしい」を大体クリア出来るドンだー向けに、「おに」をプレイするきっかけとして制作した譜面らしい。([[開発日記>https://web.archive.org/web/20140721163947/http://taikoblog.namco-ch.net/blog/2013/09/post_354.html]]より)
+--「むずかしい」を大体クリア出来るドンだー向けに「おに」をプレイするきっかけとして制作した譜面らしい。([[開発日記>https://web.archive.org/web/20140721163947/http://taikoblog.namco-ch.net/blog/2013/09/post_354.html]]より)
 -AC9、CS7に収録されている[[''Your World''>難易度表/おに/Your World]]と間違えないように。
 -曲IDは、''mikute''。
 -[[ソライロVer.段位道場>過去の段位道場#sorairo]]の二段1曲目課題曲となった。
@@ -35,6 +35,7 @@
 -[[ふつう>難易度表/ふつう/Tell Your World]]
 -[[むずかしい>難易度表/むずかしい/Tell Your World]]
 -[[プレイ動画(AC15)>https://www.youtube.com/watch?v=tIlqj4YMFOU]]
+-[[オート動画(NS1)>https://youtu.be/4RPnu3WE36E]]
 
 ***コメント [#comment]
 #pcomment(,noname)
