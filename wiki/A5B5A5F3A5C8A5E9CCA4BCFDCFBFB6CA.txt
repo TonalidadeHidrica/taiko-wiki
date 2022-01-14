@@ -58,7 +58,6 @@
 |BGCOLOR(orangered):|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|-|黒沢ダイスケ|
 |BGCOLOR(orangered):|[[続・〆ドレー2000>難易度表/おに/続・〆ドレー2000]]|-|LindaAI-CUE(増渕裕二)|
 |BGCOLOR(gold):|[[其方、激昂>難易度表/おに/其方、激昂]]|-|ベートーヴェン(田島勝朗)|
-|BGCOLOR(orangered):|[[Solitude Star>難易度表/おに/Solitude Star]]|春先 x beet|佐藤希久生|
 |BGCOLOR(orangered):|[[Diving Drive>難易度表/おに/Diving Drive]]|Mu&#77;enkyo.|Tanchiky|
 |BGCOLOR(orangered):|[[タイコロール>難易度表/おに/タイコロール]]|siroa|steμ|
 |BGCOLOR(orangered):|[[大冒険タツドン>難易度表/おに/大冒険タツドン]]|小田原 ODY 友洋、高尾直樹、今山慎一郎|田島勝朗|
@@ -70,7 +69,6 @@
 |BGCOLOR(orangered):|[[轟け！太鼓の達人>難易度表/おに/轟け！太鼓の達人]]|谷本貴義、たかはし智秋|steμ、増渕裕二|
 |BGCOLOR(orangered):|[[ドローイン☆ドリーム！>難易度表/おに/ドローイン☆ドリーム！]]|白黒黒白(No&#87;orld)|Versus|
 |BGCOLOR(orangered):|[[Toon Town's Toys' Tune>難易度表/おに/Toon Town's Toys' Tune]]|駄々子|Ms.|
-|BGCOLOR(orangered):|[[Dragoon>難易度表/おに/Dragoon]]|-|Massive New Krew|
 |BGCOLOR(orangered):|[[Donder Time>難易度表/おに/Donder Time]]|団地ノ宮琴子|おおがみまさこ|
 |BGCOLOR(orangered):|[[ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|DAIKI|高濱祐輔|
 |BGCOLOR(orangered):|[[ニジイロバトン>難易度表/おに/ニジイロバトン]]|はぁち|Ponchi♪|
@@ -131,6 +129,8 @@
 |~|~|~|~|[[公式音源(YouTube)>https://www.youtube.com/watch?v=-kw8eUIgfzs]]|ロングver.|
 |BGCOLOR(orangered):|[[天下統一録>難易度表/おに/天下統一録]]|-|黒沢ダイスケ × Masahiro "Godspeed" Aoki|BLACK ALBUM 3|ゲームsize|
 |~|~|~|~|[[公式音源(YouTube)>https://www.youtube.com/watch?v=KEPUTdD5zVY]]|~|
+|BGCOLOR(orangered):|[[Dragoon>難易度表/おに/Dragoon]]|-|Massive New Krew|OVERHEAT|ロングver.|
+|~|~|~|~|[[公式音源(YouTube)>https://youtu.be/-oPL0dHXuXo]]|~|
 |BGCOLOR(orangered):|[[ラヴ・スパイス・ライクユー!!!>難易度表/おに/ラヴ・スパイス・ライクユー!!!]]|ななひら、yukacco、藍月なくる|DJ Genki|ULTIMATE HAPPY CARNIVAL|ゲームsize・ロングver.|
 |~|~|~|~|[[自動生成音源(YouTube)>https://www.youtube.com/watch?v=UTZPKP9Zph8]]|ゲームsize|
 |~|~|~|~|[[自動生成音源(YouTube)>https://www.youtube.com/watch?v=AvigwK5tefA]]|ロングver.|
@@ -157,6 +157,7 @@
 |~|~|~|~|[[公式音源(YouTube)>https://www.youtube.com/watch?v=kBxpmcxDRg0]]|~|
 |BGCOLOR(orangered):|[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]|-|あず♪|[[公式音源(YouTube)>https://www.youtube.com/watch?v=KDMGXowxekI]]|ゲームsize|
 |~|~|~|~|[[公式音源(SoundCloud)>https://soundcloud.com/azupiano/kooryu]]|~|
+|BGCOLOR(orangered):|[[Solitude Star>難易度表/おに/Solitude Star]]|春先 x beet|佐藤希久生|[[公式音源(YouTube)>https://youtu.be/a_fqKpTmjrs]]|ゲームsize|
 |BGCOLOR(orangered):|[[1/2 〜inside me>難易度表/おに/1／2 〜inside me]]|愛原圭織|篠原瑞希|C-VALKYLUNA2|ゲームsize|
 |BGCOLOR(orangered):|[[モノクロボイス>難易度表/おに/モノクロボイス]]|初音ミク、GUMI|cosMo＠暴走P|ゴシップの海|ゲームsize|
 |~|~|~|~|[[公式音源(YouTube)>https://www.youtube.com/watch?v=3nSO6Ad_Na4]]|~|
@@ -176,7 +177,11 @@
 |BGCOLOR(orangered):|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]|-|庭師|[[公式音源(YouTube)>https://youtu.be/mkD_GoWHef0]]|ゲームsize|
 |BGCOLOR(orangered):|[[punk bastards>難易度表/おに/punk bastards]]|-|Sobrem|[[公式音源(YouTube)>https://youtu.be/t_go-kRZQZk]]|ゲームsize|
 |BGCOLOR(orangered):|[[仮想現実のテレスコープ>難易度表/おに/仮想現実のテレスコープ]]|-|deli.|[[公式音源(YouTube)>https://youtu.be/fqmLytgDsPQ]]|ゲームsize|
-|BGCOLOR(orangered):|[[たいこの2000>難易度表/おに/たいこの2000]]|-|LindaAI-CUE|[[公式音源(YouTube)>https://youtu.be/3jZQVBc2I_A]]|ゲームsize|
+|BGCOLOR(orangered):|[[たいこの2000>難易度表/おに/たいこの2000]]|LindaAI-CUE|LindaAI-CUE|[[公式音源(YouTube)>https://youtu.be/3jZQVBc2I_A]]|ゲームsize|
+|BGCOLOR(orangered):|[[Spectral Rider>難易度表/おに/Spectral Rider]]|-|濱本理央|[[公式音源(YouTube)>https://youtu.be/RxHj2RhiLJw]]|ゲームsize|
+|BGCOLOR(orangered):|[[Agent Hustle ＆ Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|-|Cory Tarrow|[[公式音源(YouTube)>https://youtu.be/t4IHWBIH3pE]]|ゲームsize|
+|BGCOLOR(orangered):|[[ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|-|かねこちはる|[[公式音源(YouTube)>https://youtu.be/SDgDzhhX6DA]]|ゲームsize|
+|BGCOLOR(orangered):|[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|-|かめりあ|[[公式音源(YouTube)>https://youtu.be/xXgW2ia4hZw]]|ゲームsize|
 
 **収録されない可能性が高いもの [#possibility]
 |1|||||c

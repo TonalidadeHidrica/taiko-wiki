@@ -21,7 +21,8 @@
 -[[かんたん>難易度表/かんたん/ハッピーシンセサイザ]]
 -[[ふつう>難易度表/ふつう/ハッピーシンセサイザ]]
 -[[むずかしい>難易度表/むずかしい/ハッピーシンセサイザ]]
--[[オート動画>https://www.youtube.com/watch?v=6OVCMPIpOLg]]
+-[[オート動画(3DS3)>https://www.youtube.com/watch?v=6OVCMPIpOLg]]
+-[[オート動画(NS1)>https://youtu.be/Nr3hg6cRQak]]
 
 ***コメント [#comment]
 #pcomment(,noname)
