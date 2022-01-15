@@ -64,7 +64,7 @@
 |BGCOLOR(orangered):|[[チキンレース>難易度表/おに/チキンレース]]|-|ナカマオト|
 |BGCOLOR(orangered):|[[241ディープラーニング>難易度表/おに/241ディープラーニング]]|翡翠、栗山叶|翡翠|
 |BGCOLOR(orangered):|[[テトラリュトモスフォビア>難易度表/おに/テトラリュトモスフォビア]]|ルシュカ|北谷光浩|
-|BGCOLOR(orangered):|[[テルミービート>難易度表/おに/テルミービート]]|鏡音リン|キノシタ|
+|BGCOLOR(darkgray):|[[テルミービート>難易度表/おに/テルミービート]]|鏡音リン|キノシタ|
 |BGCOLOR(orangered):|[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/おに/TOKIMEKI・ですとろいやー！！]]|-|Ayatsugu_Otowa|
 |BGCOLOR(orangered):|[[轟け！太鼓の達人>難易度表/おに/轟け！太鼓の達人]]|谷本貴義、たかはし智秋|steμ、増渕裕二|
 |BGCOLOR(orangered):|[[ドローイン☆ドリーム！>難易度表/おに/ドローイン☆ドリーム！]]|白黒黒白(No&#87;orld)|Versus|
@@ -91,7 +91,7 @@
 |BGCOLOR(orangered):|[[ユースフルコースター>難易度表/おに/ユースフルコースター]]|かずらなつ|U-ske|
 |BGCOLOR(orangered):|[[UFO Swingin'>難易度表/おに/UFO Swingin']]|A.Dokuga|シバガキ|
 |BGCOLOR(orangered):|[[YOAKE>難易度表/おに/YOAKE]]|Uzumaki|Capchii|
-|BGCOLOR(orangered):|[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|初音ミク|cosMo@暴走P|
+|BGCOLOR(darkgray):|[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|初音ミク|cosMo@暴走P|
 |BGCOLOR(orangered):|[[螺旋周回軌道>難易度表/おに/螺旋周回軌道]]|Risa Yuzuki|BlackY|
 |BGCOLOR(orangered):|[[ラパスの虹>難易度表/おに/ラパスの虹]]|-|Le&#78;oir|
 |BGCOLOR(orangered):|[[λ7708>難易度表/おに/λ7708]]|-|Taiji|
@@ -163,6 +163,7 @@
 |~|~|~|~|[[公式音源(YouTube)>https://www.youtube.com/watch?v=3nSO6Ad_Na4]]|~|
 |BGCOLOR(orangered):|[[森羅万象>難易度表/おに/森羅万象]]|-|削除|[[公式音源(YouTube)>https://www.youtube.com/watch?v=yKRFVVhOq4o]]|ゲームsize|
 |~|~|~|~|[[公式音源(SoundCloud)>https://soundcloud.com/sakuzyo/shinra]]|~|
+|~|~|~|~|∀rkadia Яesurrection|ロングver.|
 |BGCOLOR(orangered):|[[令・和太鼓>難易度表/おに/令・和太鼓]]|-|翡翠|C-VALKYLUNA2|ゲームsize|
 |BGCOLOR(orangered):|[[幕末維新譚>難易度表/おに/幕末維新譚]]|-|黒沢ダイスケ × Masahiro "Godspeed" Aoki|BLACK ALBUM 3|ゲームsize|
 |BGCOLOR(orangered):|[[彁>難易度表/おに/彁]]|-|LeaF|[[公式音源(YouTube)>https://youtu.be/EsOU0V2kpUI]]|ゲームsize|
@@ -171,7 +172,7 @@
 |BGCOLOR(orangered):|[[†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|大瀬良あい、まるもこ|溝口ゆうま|[[公式音源(YouTube)>https://youtu.be/DX5MHgtM3eI]]|ゲームsize|
 |BGCOLOR(orangered):|[[魑魅魍魎>難易度表/おに/魑魅魍魎]]|-|Laur|[[公式音源(YouTube)>https://youtu.be/WwJe9k9sVZA]]|ゲームsize|
 |BGCOLOR(orangered):|[[憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]|-|t+pazolite|[[公式音源(YouTube)>https://youtu.be/ZvEpbVG99gw]]|ゲームsize|
-|BGCOLOR(orangered):|[[一世風靡>難易度表/おに/一世風靡]]|-|西込加久見|[[公式音源(YouTube)>https://youtu.be/u629fZSJLS0]]|ゲームsize|
+|BGCOLOR(orangered):|[[一世風靡>難易度表/おに/一世風靡]]|ヤジュール宮嶋|西込加久見|[[公式音源(YouTube)>https://youtu.be/u629fZSJLS0]]|ゲームsize|
 |BGCOLOR(orangered):|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|miko|コバヤシユウヤ|[[公式音源(YouTube)>https://youtu.be/nEuwDbI1akk]]|ゲームsize|
 |BGCOLOR(orangered):|[[大好きな太鼓の音>難易度表/おに/大好きな太鼓の音]]|どんちゃん|粗品|[[自動生成音源(YouTube)>https://youtu.be/9AjrdYiafQ0]]|ロングver.|
 |BGCOLOR(orangered):|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]|-|庭師|[[公式音源(YouTube)>https://youtu.be/mkD_GoWHef0]]|ゲームsize|
@@ -218,6 +219,7 @@
 ||曲名(50音順)|歌唱|作曲(編曲)|原曲|h
 |BGCOLOR(darkorchid):|[[KAGYUKIYO>難易度表/おに/KAGYUKIYO]]|-|(増渕裕二)|[[KAGEKIYO 源平討魔伝メドレー>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|
 |BGCOLOR(orangered):|[[きたさいたま200>難易度表/おに/きたさいたま200]]|-|LindaAI-CUE(?)|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|
+|BGCOLOR(orangered):|[[Nesin Amatias>難易度表/おに/Nesin Amatias]]|-|LindaAI-CUE(?)|[[さいたま2000>難易度表/おに/さいたま2000]]|
 |BGCOLOR(orangered):|[[はやさいたま2000>難易度表/おに/はやさいたま2000]]|-|LindaAI-CUE(増渕裕二)|[[さいたま2000>難易度表/おに/さいたま2000]]|
 |BGCOLOR(orangered):|[[よくでる15300>難易度表/おに/よくでる15300]]|-|LindaAI-CUE(?)|[[よくでる2000>難易度表/おに/よくでる2000]]|
 

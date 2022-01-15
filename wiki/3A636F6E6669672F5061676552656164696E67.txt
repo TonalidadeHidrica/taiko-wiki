@@ -1228,6 +1228,8 @@
 -[[コメント/難易度表/おに/Thank You!]] コメント/ナンイドオモテ/オニ/Thank You!
 -[[コメント/難易度表/おに/That's The Way(I Like It)]] コメント/ナンイドオモテ/オニ/That's The Way(I Like It)
 -[[コメント/難易度表/おに/The Carnivorous Carnival]] コメント/ナンイドオモテ/オニ/The Carnivorous Carnival
+-[[コメント/難易度表/おに/The Future of the 太鼓ドラム]] コメント/ナンイドオモテ/オニ/The Future of the タイコドラム
+-[[コメント/難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]] コメント/ナンイドオモテ/オニ/The Future of the タイコドラム(ウラフメン)
 -[[コメント/難易度表/おに/The Impression That I Get]] コメント/ナンイドオモテ/オニ/The Impression That I Get
 -[[コメント/難易度表/おに/The Loco-Motion]] コメント/ナンイドオモテ/オニ/The Loco-Motion
 -[[コメント/難易度表/おに/The Magician's Dream]] コメント/ナンイドオモテ/オニ/The Magician's Dream
@@ -7021,6 +7023,7 @@
 -[[コメント/難易度表/むずかしい/Thank You!]] コメント/ナンイドオモテ/ムズカシイ/Thank You!
 -[[コメント/難易度表/むずかしい/The Carnivorous Carnival]] コメント/ナンイドオモテ/ムズカシイ/The Carnivorous Carnival
 -[[コメント/難易度表/むずかしい/The Dragon Knights]] コメント/ナンイドオモテ/ムズカシイ/The Dragon Knights
+-[[コメント/難易度表/むずかしい/The Future of the 太鼓ドラム]] コメント/ナンイドオモテ/ムズカシイ/The Future of the タイコドラム
 -[[コメント/難易度表/むずかしい/The Loco-Motion]] コメント/ナンイドオモテ/ムズカシイ/The Loco-Motion
 -[[コメント/難易度表/むずかしい/The Magician's Dream]] コメント/ナンイドオモテ/ムズカシイ/The Magician's Dream
 -[[コメント/難易度表/むずかしい/The Orb Festival]] コメント/ナンイドオモテ/ムズカシイ/The Orb Festival
@@ -8957,8 +8960,8 @@
 -[[段位道場/ニジイロ2021/十段]] ダンイドウジョウ/ニジイロ2021/ジュウダン
 -[[段位道場/ニジイロ2021/達人]] ダンイドウジョウ/ニジイロ2021/タツジン
 -[[段位道場/ニジイロ2021/超人]] ダンイドウジョウ/ニジイロ2021/チョウジン
--[[段位道場/ニジイロ2021/二級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/ニ級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
+-[[段位道場/ニジイロ2021/二級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/二段]] ダンイドウジョウ/ニジイロ2021/ニダン
 -[[段位道場/ニジイロ2021/八段]] ダンイドウジョウ/ニジイロ2021/ハチダン
 -[[段位道場/ニジイロ2021/名人]] ダンイドウジョウ/ニジイロ2021/メイジン
@@ -9664,6 +9667,8 @@
 -[[難易度表/おに/Thank You!]] ナンイドオモテ/オニ/Thank You!
 -[[難易度表/おに/That's The Way(I Like It)]] ナンイドオモテ/オニ/That's The Way(I Like It)
 -[[難易度表/おに/The Carnivorous Carnival]] ナンイドオモテ/オニ/The Carnivorous Carnival
+-[[難易度表/おに/The Future of the 太鼓ドラム]] ナンイドオモテ/オニ/The Future of the タイコドラム
+-[[難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]] ナンイドオモテ/オニ/The Future of the タイコドラム(ウラフメン)
 -[[難易度表/おに/The Impression That I Get]] ナンイドオモテ/オニ/The Impression That I Get
 -[[難易度表/おに/The Loco-Motion]] ナンイドオモテ/オニ/The Loco-Motion
 -[[難易度表/おに/The Magician's Dream]] ナンイドオモテ/オニ/The Magician's Dream
@@ -12034,6 +12039,7 @@
 -[[難易度表/かんたん/Thank You!]] ナンイドオモテ/カンタン/Thank You!
 -[[難易度表/かんたん/That's The Way(I Like It)]] ナンイドオモテ/カンタン/That's The Way(I Like It)
 -[[難易度表/かんたん/The Carnivorous Carnival]] ナンイドオモテ/カンタン/The Carnivorous Carnival
+-[[難易度表/かんたん/The Future of the 太鼓ドラム]] ナンイドオモテ/カンタン/The Future of the タイコドラム
 -[[難易度表/かんたん/The Impression That I Get]] ナンイドオモテ/カンタン/The Impression That I Get
 -[[難易度表/かんたん/The Loco-Motion]] ナンイドオモテ/カンタン/The Loco-Motion
 -[[難易度表/かんたん/The Magician's Dream]] ナンイドオモテ/カンタン/The Magician's Dream
@@ -14592,6 +14598,7 @@
 -[[難易度表/ふつう/Thank You!]] ナンイドオモテ/フツウ/Thank You!
 -[[難易度表/ふつう/That's The Way(I Like It)]] ナンイドオモテ/フツウ/That's The Way(I Like It)
 -[[難易度表/ふつう/The Carnivorous Carnival]] ナンイドオモテ/フツウ/The Carnivorous Carnival
+-[[難易度表/ふつう/The Future of the 太鼓ドラム]] ナンイドオモテ/フツウ/The Future of the タイコドラム
 -[[難易度表/ふつう/The Impression That I Get]] ナンイドオモテ/フツウ/The Impression That I Get
 -[[難易度表/ふつう/The Loco-Motion]] ナンイドオモテ/フツウ/The Loco-Motion
 -[[難易度表/ふつう/The Magician's Dream]] ナンイドオモテ/フツウ/The Magician's Dream
@@ -16829,6 +16836,7 @@
 -[[難易度表/むずかしい/That's The Way(I Like It)]] ナンイドオモテ/ムズカシイ/That's The Way(I Like It)
 -[[難易度表/むずかしい/The Carnivorous Carnival]] ナンイドオモテ/ムズカシイ/The Carnivorous Carnival
 -[[難易度表/むずかしい/The Dragon Knights]] ナンイドオモテ/ムズカシイ/The Dragon Knights
+-[[難易度表/むずかしい/The Future of the 太鼓ドラム]] ナンイドオモテ/ムズカシイ/The Future of the タイコドラム
 -[[難易度表/むずかしい/The Impression That I Get]] ナンイドオモテ/ムズカシイ/The Impression That I Get
 -[[難易度表/むずかしい/The Loco-Motion]] ナンイドオモテ/ムズカシイ/The Loco-Motion
 -[[難易度表/むずかしい/The Magician's Dream]] ナンイドオモテ/ムズカシイ/The Magician's Dream

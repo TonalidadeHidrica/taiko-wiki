@@ -1153,9 +1153,9 @@
 |1045|[[一世風靡>難易度表/おに/一世風靡]]|BGCOLOR(orangered): ナムオリ|20tbtu||
 |1046|[[怪獣少女は火を吹かない>難易度表/おに/怪獣少女は火を吹かない]]|BGCOLOR(darkgray): ボカロ|ssnkjs||
 |1047|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]|BGCOLOR(orangered): ナムオリ|?||
-|1048|非公開|BGCOLOR(#333):？？？|?||
-|1049|非公開|BGCOLOR(#333):？？？|?||
-|1050|非公開|BGCOLOR(#333):？？？|?||
+|1048|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1049|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1050|非公開|BGCOLOR(orangered):ナムオリ|?||
 |1051|[[punk bastards>難易度表/おに/punk bastards]]|BGCOLOR(orangered): ナムオリ|?||
 |1052|[[仮想現実のテレスコープ>難易度表/おに/仮想現実のテレスコープ]]|BGCOLOR(orangered): ナムオリ|?||
 |1053|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|BGCOLOR(orangered): ナムオリ|20thei||
@@ -1177,7 +1177,8 @@
 |1069|[[Solitude Star>難易度表/おに/Solitude Star]]|BGCOLOR(orangered): ナムオリ|solstr||
 |1070|[[どんちゃん世界旅行>難易度表/おに/どんちゃん 世界旅行]]|BGCOLOR(orangered): ナムオリ|bko1||
 |1071|[[ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|BGCOLOR(orangered): ナムオリ|?||
-|1072|非公開|BGCOLOR(orangered): ナムオリ|?||
+|1072|[[ The Future of the 太鼓ドラム>難易度表/おに/  The Future of the 太鼓ドラム]]|BGCOLOR(orangered): ナムオリ|?||
+|1073|非公開|BGCOLOR(cyan):ポップス|?||
 
 **未確認 [#lostn]
 |>|>|>|CENTER:||c
