@@ -1177,7 +1177,7 @@
 |1069|[[Solitude Star>難易度表/おに/Solitude Star]]|BGCOLOR(orangered): ナムオリ|solstr||
 |1070|[[どんちゃん世界旅行>難易度表/おに/どんちゃん 世界旅行]]|BGCOLOR(orangered): ナムオリ|bko1||
 |1071|[[ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|BGCOLOR(orangered): ナムオリ|?||
-|1072|[[ The Future of the 太鼓ドラム>難易度表/おに/  The Future of the 太鼓ドラム]]|BGCOLOR(orangered): ナムオリ|?||
+|1072|[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|BGCOLOR(orangered): ナムオリ|?||
 |1073|非公開|BGCOLOR(cyan):ポップス|?||
 
 **未確認 [#lostn]

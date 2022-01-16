@@ -35,7 +35,8 @@
 -[[かんたん>難易度表/かんたん/Help me, ERINNNNNN!!]]
 -[[ふつう>難易度表/ふつう/Help me, ERINNNNNN!!]]
 -[[むずかしい>難易度表/むずかしい/Help me, ERINNNNNN!!]]
--[[プレイ動画>https://www.youtube.com/watch?v=NnVsLziTZxc]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=NnVsLziTZxc]]
+-[[オート動画(NS1)>https://youtu.be/aO0MZsvHEZU]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

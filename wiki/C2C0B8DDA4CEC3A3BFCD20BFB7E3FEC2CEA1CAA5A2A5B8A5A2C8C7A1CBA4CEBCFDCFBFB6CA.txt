@@ -11,12 +11,6 @@
 -''※楽曲の頭に【双打】【限定】がついたものは、スコアの記録は行われますが、王冠数にCOLOR(red){カウントされません}''。
 ----
 
--COLOR(red){SIZE(15){''東方Project×太鼓の達人 コラボキャンペーン【2021】''}}が開催中！！
---開催期間： 2021 年 11 月 18 日（木）〜 2022 年 1 月 16 日（日）
---[[特設サイト>https://taiko.namco-ch.net/taiko/special/touhou2021/]]
-
-----
-
 -[[公式サイト>http://taiko.namco-ch.net/taiko/]]
 --[[ドンだーひろば>https://donderhiroba.jp/]]
 -[[公式ブログ>http://taiko-ch.net/blog/]]

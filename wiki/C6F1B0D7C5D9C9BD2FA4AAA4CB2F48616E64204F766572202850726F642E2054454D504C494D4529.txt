@@ -1,5 +1,6 @@
 *Hand Over (Prod. TEMPLIME) [#title]
 -バンダイナムコエンターテインメントの音楽原作キャラクタープロジェクト「''電音部''」からの楽曲。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -26,7 +27,7 @@
 -[[かんたん>難易度表/かんたん/Hand Over (Prod. TEMPLIME)]]
 -[[ふつう>難易度表/ふつう/Hand Over (Prod. TEMPLIME)]]
 -[[むずかしい>難易度表/むずかしい/Hand Over (Prod. TEMPLIME)]]
-//-[[プレイ動画>]]
+-[[オート動画(NS1)>https://youtu.be/uiStfbq7Qpc]]
 
 ***コメント [#comment]
 #pcomment(,noname)
