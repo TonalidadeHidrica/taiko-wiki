@@ -1,4 +1,4 @@
-*&ruby(ステージ){STAGE}; &ruby(ゼロ){0};.ac11&br;Stage 0.ac11((Wii1での表記。公式ブログによるとこれは誤植らしい。)) [#title]
+*&ruby(ステージ){STAGE}; 0.ac11&br;Stage 0.ac11((Wii1での表記。公式ブログによるとこれは誤植らしい。)) [#title]
 -[[acシリーズ>シリーズ曲一覧#ac]]第2弾。
 
 ***詳細 [#more]

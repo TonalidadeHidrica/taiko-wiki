@@ -11,7 +11,7 @@
 
 ***ÉèÌÌ¹½À®¡¦¹¶Î¬ [#capture]
 -BPM¤ÏÌó160¡£
--Ï¢ÂÇÉÃ¿ôÌÜ°Â¡¦¡¦¡¦''Ìó0.906ÉÃ''¡ß2:¹ç·×Ìó1.813ÉÃ
+-Ï¢ÂÇÉÃ¿ôÌÜ°Â¡¦¡¦¡¦''Ìó0.906ÉÃ''¡ß2¡§¹ç·×Ìó1.813ÉÃ
 --¿¿ÂÇ¤ÎÅ·°æ¥¹¥³¥¢¤Ï¤ä¤äÄã¤¯¡¢100ËüÅÀ¤ËÅþÃ£¤µ¤»¤ë¤Ë¤ÏÏ¢ÂÇ¤¬26ÂÇ(Ìó14.3ÂÇ/ÉÃ)°Ê¾åÉ¬Í×¡£
 -½øÈ×¤Î1-2·¿¤ÎÊ£¹ç¤äÊÑÇï»Ò¤Ë¤è¤ê¥ê¥º¥à¤¬¤ä¤ä¼è¤ê¤Ë¤¯¤¤¡£½çµÕ¸ò¸ß¤ËÊ£¹ç¤òÃ¡¤¯¤Î¤ÇÍ½¤á³Ð¤¨¤è¤¦¡£
 --½ç¼ê COLOR(blue){¡û}COLOR(red){¡ü¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(blue){¡û}  COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü¡ü}COLOR(blue){¡û}/COLOR(red){¡ü¡ü}COLOR(blue){¡û}/COLOR(red){¡ü¡ü}COLOR(blue){¡û}/COLOR(red){¡ü¡ü}COLOR(blue){¡û}/COLOR(blue){¡û¡û}/COLOR(blue){¡û¡û} 
@@ -33,7 +33,8 @@
 -[[¤ª¤Ë>Æñ°×ÅÙÉ½/¤ª¤Ë/Grip ¡õ Break down !! -Ã£¿ÍEdit.-]]/Î¢ÉèÌÌ
 -[[³Ú¶ÊPV(SOUND HOLIC¸ø¼°)>https://www.youtube.com/watch?v=5K3Zz_PQGzo]]
 -[[¥×¥ì¥¤Æ°²è(AC15)>https://www.youtube.com/watch?v=EmhPNlpYlTI]]
--[[¥ª¡¼¥ÈÆ°²è(iOS/AR)>https://www.youtube.com/watch?v=4Y3towkGeMI]]
+-[[¥ª¡¼¥ÈÆ°²è(iOS)>https://www.youtube.com/watch?v=4Y3towkGeMI]]
+-[[¥ª¡¼¥ÈÆ°²è(NS1)>https://youtu.be/5SYS135MqTE]]
 
 ***¥³¥á¥ó¥È [#comment]
 #pcomment(,noname)
