@@ -42,7 +42,6 @@
 
 ***譜面 [#score]
 #region(小節線部分の詳細)
-~HSは暫定
 
 ■60〜67小節~
 前から
@@ -69,8 +68,9 @@
 ■74小節~
  BPMCHANGE 160
  SCROLL 3
+ SCROLL 1
 #endregion
-~&attachref(ROUTINE_txt修正_2.png,nolink);
+~&attachref(dptfct_m.png,nolink);
 
 ~小節線の拡大(400%)
-~&attachref(ROUTINE_60-74.png,nolink);
+~&attachref(小節線拡大.png,nolink);

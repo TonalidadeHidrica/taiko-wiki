@@ -38,9 +38,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~最後のBPM変化は暫定
- BMSで表示されているBPM
- 75小節:BPM154・5拍目:BPM150
- 76小節:BPM146・5拍目:BPM142・7拍目:BPM132
- 77小節:BPM158(79)
-~&attachref(キリスト再臨_4.png,nolink);
+// BMSで表示されているBPM
+// 75小節:BPM154・5拍目:BPM150
+// 76小節:BPM146・5拍目:BPM142・7拍目:BPM132
+// 77小節:BPM158(79)
+~&attachref(parous_m.png,nolink);

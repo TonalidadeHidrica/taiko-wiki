@@ -1004,69 +1004,69 @@
 |896|[[続・〆ドレー2000>難易度表/おに/続・〆ドレー2000]]|BGCOLOR(orangered):ナムオリ|medl22||
 |897|[[ヒミツキチューバー>難易度表/おに/ヒミツキチューバー]]|BGCOLOR(darkorchid):G & V|nbox||
 |898|[[God knows...>難易度表/おに/God knows...]]|BGCOLOR(hotpink):アニメ|godkno||
-|899|[[【双打】 恋>難易度表/おに/【双打】 恋]]|BGCOLOR(cyan):ポップス|?||
-|900|[[【双打】 双竜ノ乱>難易度表/おに/双竜ノ乱(裏譜面)]]|BGCOLOR(orangered):ナムオリ|?||
-|901|[[【双打】 WE WILL ROCK YOU>難易度表/おに/We Will Rock You#twop]]|BGCOLOR(cyan):ポップス|?||
-|902|[[【双打】 もりのくまさん>難易度表/おに/【双打】 もりのくまさん]]|BGCOLOR(yellow):キッズ|?||
-|903|[[【双打】 ミュージック・リボルバー>難易度表/おに/【双打】 ミュージック・リボルバー]]|BGCOLOR(darkorchid):G & V|?||
-|904|[[【双打】 Extreme MGG★★★>難易度表/おに/【双打】 Extreme MGG★★★]]|BGCOLOR(darkorchid):G & V|?||
-|905|[[memoria ficta>難易度表/おに/memoria ficta]]|BGCOLOR(orangered):ナムオリ|?||
-|906|[[ペットショップ大戦>難易度表/おに/ペットショップ大戦]]|BGCOLOR(orangered):ナムオリ|?||
-|907|[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/おに/TOKIMEKI・ですとろいやー！！]]|BGCOLOR(orangered):ナムオリ|?||
-|908|[[レトロマニア狂想曲>難易度表/おに/レトロマニア狂想曲]]|BGCOLOR(darkgray):ボカロ|?||
-|909|[[キレキャリオン>難易度表/おに/キレキャリオン]]|BGCOLOR(darkgray):ボカロ|?||
-|910|[[猫サンキュー>難易度表/おに/猫サンキュー]]|BGCOLOR(cyan):ポップス|?||
-|911|[[神様の言うとおりに>難易度表/おに/神様の言うとおりに]]|BGCOLOR(cyan):ポップス|?||
-|912|[[ヒーリングっど&#9829;プリキュア Touch!! >難易度表/おに/ヒーリングっど・プリキュア Touch!!]]|BGCOLOR(yellow):キッズ|?||
-|913|[[ギンギラ銀河>難易度表/おに/ギンギラ銀河]]|BGCOLOR(yellow):キッズ|?||
-|914|[[シンクロニカ・エアライン>難易度表/おに/シンクロニカ・エアライン]]|BGCOLOR(darkorchid):G & V|?||
+|899|[[【双打】 恋>難易度表/おに/【双打】 恋]]|BGCOLOR(cyan):ポップス|2ge8jixx||
+|900|[[【双打】 双竜ノ乱>難易度表/おに/双竜ノ乱(裏譜面)]]|BGCOLOR(orangered):ナムオリ|souryuxx||
+|901|[[【双打】 WE WILL ROCK YOU>難易度表/おに/We Will Rock You#twop]]|BGCOLOR(cyan):ポップス|rockxx||
+|902|[[【双打】 もりのくまさん>難易度表/おに/【双打】 もりのくまさん]]|BGCOLOR(yellow):キッズ|kumaxx||
+|903|[[【双打】 ミュージック・リボルバー>難易度表/おに/【双打】 ミュージック・リボルバー]]|BGCOLOR(darkorchid):G & V|mggrevxx||
+|904|[[【双打】 Extreme MGG★★★>難易度表/おに/【双打】 Extreme MGG★★★]]|BGCOLOR(darkorchid):G & V|mggextxx||
+|905|[[memoria ficta>難易度表/おに/memoria ficta]]|BGCOLOR(orangered):ナムオリ|mficta||
+|906|[[ペットショップ大戦>難易度表/おに/ペットショップ大戦]]|BGCOLOR(orangered):ナムオリ|pettsn||
+|907|[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/おに/TOKIMEKI・ですとろいやー！！]]|BGCOLOR(orangered):ナムオリ|tkmdst||
+|908|[[レトロマニア狂想曲>難易度表/おに/レトロマニア狂想曲]]|BGCOLOR(darkgray):ボカロ|rlnrtr||
+|909|[[キレキャリオン>難易度表/おに/キレキャリオン]]|BGCOLOR(darkgray):ボカロ|mikukr||
+|910|[[猫サンキュー>難易度表/おに/猫サンキュー]]|BGCOLOR(cyan):ポップス|umneko||
+|911|[[神様の言うとおりに>難易度表/おに/神様の言うとおりに]]|BGCOLOR(cyan):ポップス|umkami||
+|912|[[ヒーリングっど&#9829;プリキュア Touch!! >難易度表/おに/ヒーリングっど・プリキュア Touch!!]]|BGCOLOR(yellow):キッズ|pr9hlg||
+|913|[[ギンギラ銀河>難易度表/おに/ギンギラ銀河]]|BGCOLOR(yellow):キッズ|ywging||
+|914|[[シンクロニカ・エアライン>難易度表/おに/シンクロニカ・エアライン]]|BGCOLOR(darkorchid):G & V|syairl||
 |915|[[白日>難易度表/おに/白日]]|BGCOLOR(cyan):ポップス|kgnhak||
-|916|[[魔進戦隊キラメイジャー>難易度表/おに/魔進戦隊キラメイジャー]]|BGCOLOR(yellow):キッズ|?||
+|916|[[魔進戦隊キラメイジャー>難易度表/おに/魔進戦隊キラメイジャー]]|BGCOLOR(yellow):キッズ|kiramj||
 |917|[[Freeway3234>難易度表/おに/Freeway3234]]|BGCOLOR(orangered):ナムオリ|freewy||
 |918|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|BGCOLOR(orangered):ナムオリ|idol||
-|919|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|BGCOLOR(orangered):ナムオリ|?||
+|919|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|BGCOLOR(orangered):ナムオリ|ai7ndz||
 |920|[[ゴッドソング>難易度表/おに/ゴッドソング]]|BGCOLOR(cyan):ポップス|godsng||
-|921|[[8月の坂>難易度表/おに/8月の坂]]|BGCOLOR(cyan):ポップス|?||
+|921|[[8月の坂>難易度表/おに/8月の坂]]|BGCOLOR(cyan):ポップス|um8ga2||
 |922|[[アバみ>難易度表/おに/アバみ]]|BGCOLOR(cyan):ポップス|umaba3||
-|923|[[まちがいさがし>難易度表/おに/まちがいさがし]]|BGCOLOR(cyan):ポップス|?||
+|923|[[まちがいさがし>難易度表/おに/まちがいさがし]]|BGCOLOR(cyan):ポップス|machig||
 |924|[[青と夏>難易度表/おに/青と夏]]|BGCOLOR(cyan):ポップス|mgaaot||
 |925|[[秒針を噛む>難易度表/おに/秒針を噛む]]|BGCOLOR(cyan):ポップス|byosin||
 |926|[[命に嫌われている。>難易度表/おに/命に嫌われている。]]|BGCOLOR(darkgray):ボカロ|mikuik||
-|927|[[Dogbite>難易度表/おに/Dogbite]]|BGCOLOR(darkorchid):G & V|?||
-|928|[[Parousia>難易度表/おに/Parousia]]|BGCOLOR(darkorchid):G & V|?||
-|929|[[waitin' for u>難易度表/おに/waitin' for u]]|BGCOLOR(darkorchid):G & V|?||
-|930|[[ALiVE>難易度表/おに/ALiVE]]|BGCOLOR(darkorchid):G & V|?||
+|927|[[Dogbite>難易度表/おに/Dogbite]]|BGCOLOR(darkorchid):G & V|dogbit||
+|928|[[Parousia>難易度表/おに/Parousia]]|BGCOLOR(darkorchid):G & V|parous||
+|929|[[waitin' for u>難易度表/おに/waitin' for u]]|BGCOLOR(darkorchid):G & V|wait4u||
+|930|[[ALiVE>難易度表/おに/ALiVE]]|BGCOLOR(darkorchid):G & V|ralive||
 |931|[[JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|BGCOLOR(darkorchid):G & V|pacm40||
 |932|[[Wish upon a shooting star>難易度表/おに/Wish upon a shooting star]]|BGCOLOR(darkorchid):G & V|demwis||
 |933|[[Leviathan>難易度表/おに/Leviathan]]|BGCOLOR(darkorchid):G & V|demlev||
 |934|[[ANiMA>難易度表/おに/ANiMA]]|BGCOLOR(darkorchid):G & V|dema2m||
 |935|[[MagiCatz>難易度表/おに/MagiCatz]]|BGCOLOR(darkorchid):G & V|demmag||
-|936|[[Smile! Smile! Smile!>難易度表/おに/Smile! Smile! Smile!]]|BGCOLOR(yellow):キッズ|?||
+|936|[[Smile! Smile! Smile!>難易度表/おに/Smile! Smile! Smile!]]|BGCOLOR(yellow):キッズ|ashibe||
 |937|[[夜に駆ける>難易度表/おに/夜に駆ける]]|BGCOLOR(cyan):ポップス|yorukk||
-|938|[[零の交響曲>難易度表/おに/零の交響曲]]|BGCOLOR(orangered):ナムオリ|?||
-|939|[[いっそこのままで>難易度表/おに/いっそこのままで]]|BGCOLOR(orangered):ナムオリ|?||
-|940|[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]|BGCOLOR(orangered):ナムオリ|?||
-|941|[[Fly again!>難易度表/おに/Fly again!]]|BGCOLOR(orangered):ナムオリ|?||
-|942|[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|BGCOLOR(orangered):ナムオリ|?||
+|938|[[零の交響曲>難易度表/おに/零の交響曲]]|BGCOLOR(orangered):ナムオリ|zerosy||
+|939|[[いっそこのままで>難易度表/おに/いっそこのままで]]|BGCOLOR(orangered):ナムオリ|issokm||
+|940|[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]|BGCOLOR(orangered):ナムオリ|dptfct||
+|941|[[Fly again!>難易度表/おに/Fly again!]]|BGCOLOR(orangered):ナムオリ|flyagn||
+|942|[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|BGCOLOR(orangered):ナムオリ|gnkcrt||
 |943|[[クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|BGCOLOR(gold):クラシック|clscpl||
 |944|[[令・和太鼓>難易度表/おに/令・和太鼓]]|BGCOLOR(orangered):ナムオリ|reiwad||
-|945|[[RESTART>難易度表/おに/RESTART]]|BGCOLOR(cyan):ポップス|?||
-|946|[[ミュートすればいいじゃん。>難易度表/おに/ミュートすればいいじゃん。]] |BGCOLOR(cyan):ポップス|?||
+|945|[[RESTART>難易度表/おに/RESTART]]|BGCOLOR(cyan):ポップス|umrest||
+|946|[[ミュートすればいいじゃん。>難易度表/おに/ミュートすればいいじゃん。]] |BGCOLOR(cyan):ポップス|ummute||
 |947|[[だれかの心臓になれたなら>難易度表/おに/だれかの心臓になれたなら]]|BGCOLOR(darkgray):ボカロ|gumids||
 |948|[[患部で止まってすぐ溶ける 〜 狂気の優曇華院>難易度表/おに/患部で止まってすぐ溶ける 〜 狂気の優曇華院]]|BGCOLOR(darkorchid):G & V|thkanb||
 |949|[[Favorite Days>難易度表/おに/Favorite Days]]|BGCOLOR(darkorchid):G & V|dobfav||
 |950|[[Mani Mani(Prod. TAKU INOUE)>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]|BGCOLOR(darkorchid):G & V|dobma2||
 |951|[[アイドル狂戦士(feat.佐藤貴文)>難易度表/おに/アイドル狂戦士(feat.佐藤貴文)]]|BGCOLOR(darkorchid):G & V|dobbsk||
-|952|[[テトラリュトモスフォビア>難易度表/おに/テトラリュトモスフォビア]]|BGCOLOR(orangered):ナムオリ|?||
-|953|[[DiSCOVER THE FUTURE>難易度表/おに/DiSCOVER THE FUTURE]]|BGCOLOR(hotpink):アニメ|?||
-|954|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|BGCOLOR(orangered):ナムオリ|?||
-|955|[[絡繰廻廊>難易度表/おに/絡繰廻廊]]|BGCOLOR(orangered):ナムオリ|?||
+|952|[[テトラリュトモスフォビア>難易度表/おに/テトラリュトモスフォビア]]|BGCOLOR(orangered):ナムオリ|tetra||
+|953|[[DiSCOVER THE FUTURE>難易度表/おに/DiSCOVER THE FUTURE]]|BGCOLOR(hotpink):アニメ|i7dscv||
+|954|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|BGCOLOR(orangered):ナムオリ|dogma1||
+|955|[[絡繰廻廊>難易度表/おに/絡繰廻廊]]|BGCOLOR(orangered):ナムオリ|kkairo||
 |956|[[だから僕は音楽を辞めた>難易度表/おに/だから僕は音楽を辞めた]]|BGCOLOR(cyan):ポップス|yrsdak||
-|957|[[Circle of Seasons>難易度表/おに/Circle of Seasons]]|BGCOLOR(hotpink):アニメ|?||
-|958|[[儚姫は原初に舞う>難易度表/おに/儚姫は原初に舞う]]|BGCOLOR(orangered):ナムオリ|?||
-|959|[[螺旋周回軌道>難易度表/おに/螺旋周回軌道]]|BGCOLOR(orangered):ナムオリ|?||
+|957|[[Circle of Seasons>難易度表/おに/Circle of Seasons]]|BGCOLOR(hotpink):アニメ|a3cos||
+|958|[[儚姫は原初に舞う>難易度表/おに/儚姫は原初に舞う]]|BGCOLOR(orangered):ナムオリ|8ka7ki||
+|959|[[螺旋周回軌道>難易度表/おに/螺旋周回軌道]]|BGCOLOR(orangered):ナムオリ|rasens||
 |960|[[Vixtory>難易度表/おに/Vixtory]]|BGCOLOR(orangered):ナムオリ|vixtor||
-|961|[[Stick Trick ShowTime!!>難易度表/おに/Stick Trick ShowTime!!]]|BGCOLOR(orangered):ナムオリ|?||
+|961|[[Stick Trick ShowTime!!>難易度表/おに/Stick Trick ShowTime!!]]|BGCOLOR(orangered):ナムオリ|stshow||
 |962|[[香水>難易度表/おに/香水]]|BGCOLOR(cyan):ポップス|kousui||
 |963|[[イイコ進化論(feat. O-LuHA)>難易度表/おに/イイコ進化論(feat. O-LuHA)]] |BGCOLOR(cyan):ポップス|?||
 |964|[[轟!!!>難易度表/おに/轟!!!]]|BGCOLOR(cyan):ポップス|?||
@@ -1104,7 +1104,7 @@
 |996|[[テーマ・オブ・半沢直樹 〜Main Title〜 >難易度表/おに/テーマ・オブ・半沢直樹 〜Main Title〜]]|BGCOLOR(lime):バラエティ|?||
 |997|[[twinkle night (feat. somunia)>難易度表/おに/twinkle night (feat. somunia)]]|BGCOLOR(lime):バラエティ|?||
 |998|[[Connected World>難易度表/おに/Connected World]]|BGCOLOR(lime):バラエティ|?||
-|999|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|BGCOLOR(orangered):ナムオリ|?||
+|999|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|BGCOLOR(orangered):ナムオリ|dogma2||
 |1000|[[しょうゆ de Show you! >難易度表/おに/しょうゆ de Show you!]]|BGCOLOR(orangered):ナムオリ|?||
 |1001|[[なんどでも笑おう>難易度表/おに/なんどでも笑おう]]|BGCOLOR(darkorchid):ゲーミュ|?||
 |1002|[[うっせぇわ>難易度表/おに/うっせぇわ]]|BGCOLOR(cyan):ポップス|adusse||

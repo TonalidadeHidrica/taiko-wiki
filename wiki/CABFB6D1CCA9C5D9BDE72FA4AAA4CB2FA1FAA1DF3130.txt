@@ -259,7 +259,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(orangered):|[[疾風怒濤>難易度表/おに/疾風怒濤]]|''6.404''|246.43※|771|120.40秒||
 |>|>|BGCOLOR(orangered):|[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]|''6.402''|250|756|118.08秒||
 |>|>|BGCOLOR(darkorchid):|[[Kamikaze Remix>難易度表/おに/Kamikaze Remix]]|''6.377''|158.03※|736|115.42秒||
-|>|>|BGCOLOR(lime):|[[Parousia>難易度表/おに/Parousia]]|''6.358''|150.01※|786|123.63秒|動画から計算|
+|>|>|BGCOLOR(lime):|[[Parousia>難易度表/おに/Parousia]]|''6.358''|150.02※|786|123.62秒||
 |>|>|BGCOLOR(orangered):|[[VICTORIA>難易度表/おに/VICTORIA]]|''6.352''|183.22※|857|134.92秒||
 |>|>|BGCOLOR(darkorchid):|[[メタルホーク BGM1COLOR(#890089):(達人譜面)>難易度表/おに/メタルホーク　BGM1]]|''6.343''|153.25|764|120.46秒||
 |>|>|BGCOLOR(orangered):|[[儚姫は原初に舞う>難易度表/おに/儚姫は原初に舞う]]|''6.304''|224|739|117.23秒||

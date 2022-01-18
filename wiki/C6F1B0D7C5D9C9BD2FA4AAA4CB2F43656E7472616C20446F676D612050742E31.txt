@@ -43,7 +43,7 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(Central Dogma Pt.1_4.png,nolink);
+~&attachref(dogma1_m.png,nolink);
 
 ~¹âÂ®ÃÏÂÓÈ¾Â®Ver.
 ~&attachref(Central Dogma Pt.1_hurf3.png,nolink);

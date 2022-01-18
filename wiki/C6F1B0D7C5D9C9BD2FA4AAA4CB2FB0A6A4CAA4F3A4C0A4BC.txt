@@ -17,6 +17,7 @@
 --[[氏がバンダイナムコを>https://mobile.twitter.com/ino_tac/status/1275333223057199106]][[退職する前に作られた最後の曲>https://mobile.twitter.com/ino_tac/status/1275624688731910144]]とのこと。
 -現在、AC16ではどんメダル20枚で解禁可能。
 -この譜面をフルコンボすると、''称号''「''そう、愛なんだぜ''」を獲得できる。
+-曲IDは、''ai7ndz''。
 
 ----
 -[[かんたん>難易度表/かんたん/愛なんだぜ]]
@@ -28,13 +29,30 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~BPM変化(暫定)
- 75小節：194.59 → 156.52 → 133.33
-~tja表記
- 81小節：
+~BPM変化
+ 75~77小節：196.41 → 154.85 → 136
+#region(tja表記)
+ 84小節から：
  #BARLINEOFF
- #BPMCHANGE 33.33
- #MEASURE 1/16
- #SCROLL 6
- 100000000000000000100100,
-~&attachref(ai7ndz_m2.png,nolink);
+ #MEASURE 1/64
+ #BPMCHANGE 63.41
+ #SCROLL 3.15
+ 1,
+ 1, 
+ #BARLINEON
+ #MEASURE 1/4
+ #BPMCHANGE 84.03
+ #SCROLL 2.38
+ 2100,
+ #BARLINEOFF
+ #MEASURE 1/8
+ #BPMCHANGE 68.56
+ #SCROLL 2.91
+ 0,
+ #BARLINEON
+ #MEASURE 2/4
+ #BPMCHANGE 79.21
+ #SCROLL 2.52
+ 700000000000000000000000000000000000080000000000,
+#endregion
+~&attachref(ai7ndz_m3.png,nolink);

@@ -76,3 +76,5 @@
 -¢¬»ä¤À¤Ã¤¿¤é­¡Ê£¹ç¤ò4¤Ä¤º¤Ä¤Ë¶èÀÚ¤ê¤Þ¤¹¡£¤³¤ÎÂ¾¤Ë¤â­¢ &color(blue){k}; ¤ò¤É¤Á¤é¤Î¼ê¤ÇÃ¡¤¯¤«¤ò³ÎÇ§¤·°Õ¼±¤¹¤ëÊýË¡¤â¤¢¤ê¤Þ¤¹¡£­¡¤ÎÊýË¡¤À¤Ã¤¿¤é¤³¤ó¤ÊÉ÷¤Ë¶èÀÚ¤ê¤Þ¤¹¡£ÂÀ»ú¤Î&color(blue){''k''};¤ÏµÕ¼ê¤Ê¤Î¤ÇÃí°Õ¤Ç¤¹¡ª&br;Îã¡§&color(red){dd};&color(blue){k};&color(red){d};/&color(red){dd};&color(blue){k};&color(red){d};/&color(red){dd};&color(blue){k};&color(red){d};/&color(red){d};&color(blue){k''k''};&color(red){d}; ¡ß2 ¢ª &color(blue){k};&color(red){d};&color(blue){k};&color(red){d};/&color(blue){k};&color(red){d};&color(blue){k};&color(red){d};/&color(blue){k};&color(red){ddd};/&color(blue){k K}; ¢ª &color(red){dd};&color(blue){k};&color(red){d};/&color(red){dd};&color(blue){k};&color(red){d};/&color(blue){k};&color(red){dd};&color(blue){''k''};/&color(red){ddddd¡¡D}; --  &new{2021-10-13 (¿å) 00:19:06};
 -º£²ó6ÃÊ¤ÎÌñ²ð¤µ¤Ç¸À¤¨¤Ð¤è¤¯¤Ç¤ë¤è¤ê2¤Ä¾å¤«¤â¤·¤ì¤Ê¤¤ --  &new{2021-10-20 (¿å) 07:38:06};
 -41¾®Àá¤«¤éËÜÅö¤ÎÃÏ¹ö¡£Ï»ÃÊ¹ç³Ê¤ÎºÝ¤Ë¤ÏÃí°Õ¤¬É¬Í× --  &new{2021-10-20 (¿å) 07:39:03};
+-¶âÏ»ÃÊ¼è¤ëºÝ°ìÈÖ²Ä¤¬¤Ç¤¿¶Ê,°ì¶ÊÌÜ¤Ï²Ä75Æó¶ÊÌÜ¤Ï²Ä100¤Þ¤Ç¤À¤Ã¤¿¤±¤É¤³¤ì¤Ï²Ä130¤â¤Ç¤¿ --  &new{2022-01-18 (²Ð) 14:40:36};
+-¢¬¤Ê¤ª°ìÅÙÏ¢ÂÇ¤Ç¶â¹ç³ÊÆ¨¤·¤ÆÈ¯¶¸¤·¤¿»×¤¤½Ð¤âÂ¸ºß¤¹¤ë --  &new{2022-01-18 (²Ð) 14:41:54};

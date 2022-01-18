@@ -43,12 +43,13 @@
 -[[かんたん>難易度表/かんたん/あんずのうた]]
 -[[ふつう>難易度表/ふつう/あんずのうた]]
 -[[むずかしい>難易度表/むずかしい/あんずのうた]]
--[[達人譜面プレイ動画（ニジイロの玄人譜面）>https://www.youtube.com/watch?v=5YRkIqPuROM]]
--[[玄人譜面プレイ動画（ニジイロの達人譜面）>https://www.youtube.com/watch?v=gpRlBdCXZkA]]
+-[[プレイ動画（ニジイロの玄人譜面）>https://www.youtube.com/watch?v=5YRkIqPuROM]]
+-[[プレイ動画（ニジイロの達人譜面）>https://www.youtube.com/watch?v=gpRlBdCXZkA]]
+-[[オート動画(NS1・ニジイロの玄人譜面)>https://youtu.be/6mG_jNuzaBM]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-グリーンver.までのものであり、ニジイロver.では達人譜面と玄人譜面が入れ替わっている。
+~グリーンVer.までのものであり、ニジイロVer.では達人譜面と玄人譜面が入れ替わっている。
 &ref(imcanz_m.png,nolink);
