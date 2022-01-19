@@ -51,3 +51,5 @@
 ***譜面 [#score]
 ~AC8以降の譜面
 ~&attachref(1.png,nolink);
+~AC7以前の譜面
+~&attachref(天体観測 旧かんたん.png,nolink);

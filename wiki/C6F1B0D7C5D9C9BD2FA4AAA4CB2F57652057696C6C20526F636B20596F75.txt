@@ -79,7 +79,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-//~現行譜面のBPMは162.55
+~現行譜面のBPMは一定で162.55
 ~&attachref(rockおに１.png,nolink);
 
 ~2人用(双打)譜面

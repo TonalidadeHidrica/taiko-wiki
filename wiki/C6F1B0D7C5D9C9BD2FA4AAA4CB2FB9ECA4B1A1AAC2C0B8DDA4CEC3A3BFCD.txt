@@ -40,8 +40,9 @@
 -[[ふつう>難易度表/ふつう/轟け！太鼓の達人]]
 -[[むずかしい>難易度表/むずかしい/轟け！太鼓の達人]]
 //-[[プレイ動画(公式生放送、打音あり)>https://youtu.be/D9iNNfC9AgY?t=7155]]
--[[プレイ動画(1人用譜面)>https://www.youtube.com/watch?v=9-S7ZrcSc10]]
--[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=hXdWO108M84]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=9-S7ZrcSc10]]
+-[[オート動画(NS1)>https://youtu.be/CbGHrGZCn84]]
+-[[オート動画(NS1・2人用譜面)>https://www.youtube.com/watch?v=hXdWO108M84]]
 -[[20周年ありがドーン！映像>https://www.youtube.com/watch?v=JapKVRVIUPg]]
 
 ***コメント [#comment]
@@ -49,5 +50,4 @@
 
 ***譜面 [#score]
 ~2人用譜面は玄人譜面に表示。
-
 ~&attachref(轟け！太鼓の達人_d.png,nolink);

@@ -59,7 +59,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(orange):|BGCOLOR(cyan):|[[カラフル・パーティ>難易度表/おに/カラフル・パーティ]]|''2.685''|146|224|83.42秒||
 |>|BGCOLOR(hotpink):|BGCOLOR(cyan):|[[愛にできることはまだあるかい>難易度表/おに/愛にできることはまだあるかい]]|''2.655''|71|295|111.13秒||
 |>|BGCOLOR(cyan):|BGCOLOR(darkgray):|[[ドラマツルギー>難易度表/おに/ドラマツルギー]]|''2.570''|148.75※|198|77.04秒|''新筐体ジャンル1位:COLOR(darkgray):ボーカロイド曲''|
-|>|BGCOLOR(cyan):|BGCOLOR(lime):|[[WE WILL ROCK YOU>難易度表/おに/We Will Rock You]]|''2.535''|162.55※|218|86.00秒||
+|>|BGCOLOR(cyan):|BGCOLOR(lime):|[[WE WILL ROCK YOU>難易度表/おに/We Will Rock You]]|''2.535''|162.55|218|86.00秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''2.500未満''|
 |>|BGCOLOR(cyan):|BGCOLOR(orange):|[[今>難易度表/おに/今]]|''2.361''|128|322|136.41秒||
 |>|>|BGCOLOR(darkorchid):|[[【双打】 ミュージック・リボルバー>難易度表/おに/【双打】 ミュージック・リボルバー]]|''2.249''|168|294|130.71秒|2P|
