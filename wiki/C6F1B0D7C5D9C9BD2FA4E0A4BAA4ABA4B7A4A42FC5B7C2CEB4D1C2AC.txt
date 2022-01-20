@@ -61,3 +61,6 @@
 ~Wii2の譜面
 ~48小節目のドンが巨大音符
 ~&attachref(t.png,nolink);
+
+~AC7以前の譜面
+~&attachref(夭休観側 .png,nolink);

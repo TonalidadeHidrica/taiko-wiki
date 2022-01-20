@@ -32,5 +32,4 @@
 
 ***譜面 [#score]
 ~ふうせん・くすだまの長さは適当
-~29小節のふうせんは8打(7打は間違い)
-~&attachref(よるが来ねぇ.png,nolink);
+~&attachref(うるう年は無視.png,nolink);

@@ -40,7 +40,7 @@
 -[[かんたん>難易度表/かんたん/ゴーストマスク]]
 -[[ふつう>難易度表/ふつう/ゴーストマスク]]
 -[[むずかしい>難易度表/むずかしい/ゴーストマスク]]
--[[プレイ動画>https://www.youtube.com/watch?v=KP9FfmKB3ME]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=KP9FfmKB3ME&t=12s]]
 
 ***コメント [#comment]
 #pcomment(,noname)

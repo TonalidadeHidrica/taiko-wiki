@@ -40,6 +40,7 @@
 -[[むずかしい>難易度表/むずかしい/クロス・ブルー]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=6uiwtY7lWkA&t=13s]]
 -[[オート動画(iOS)>https://www.youtube.com/watch?v=NeWJ1kPt3VM&t=4s]]
+-[[オート動画(NS1)>https://youtu.be/ZpQocnC64A4]]
 
 ***コメント [#comment]
 #pcomment(,noname)

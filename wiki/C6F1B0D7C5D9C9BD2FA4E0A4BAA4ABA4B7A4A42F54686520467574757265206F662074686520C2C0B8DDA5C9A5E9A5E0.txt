@@ -30,5 +30,5 @@
 #pcomment(,noname)
 
 ***设烫 [#score]
-~簿设烫
-~&attachref(The Future of the 吕篙ドラム h2.png,nolink);
+~幻年设烫
+~&attachref(The Future of the 吕篙ドラム h3.png,nolink);
