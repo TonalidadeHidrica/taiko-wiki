@@ -356,6 +356,8 @@
 |''Dang Dang''|183|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/Dang Dang]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Dang Dang]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Dang Dang]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Dang Dang]]|
 |''DANZEN! ふたりはプリキュア''|167|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DANZEN! ふたりはプリキュア]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/DANZEN! ふたりはプリキュア]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/DANZEN! ふたりはプリキュア]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/DANZEN! ふたりはプリキュア]]|
 |''DANZEN! ふたりはプリキュア(Ver.Max Heart)''|167|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]|
+|''DANZEN! ふたりはプリキュア〜唯一無二の光たち〜''|168|[[★×1>難易度表/かんたん/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|[[★×2>難易度表/ふつう/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|[[★×4>難易度表/むずかしい/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|[[★×6>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|
+|''DANZEN! ふたりはプリキュア〜唯一無二の光たち〜(裏譜面)''|~|-|-|-|[[★×5>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜(裏譜面)]]|
 |''database feat.TAKUMA(10-FEET)''|177|[[★×4>難易度表/かんたん/database feat.TAKUMA(10-FEET)]]|[[★×6>難易度表/ふつう/database feat.TAKUMA(10-FEET)]]|[[★×6>難易度表/むずかしい/database feat.TAKUMA(10-FEET)]]|[[★×7>難易度表/おに/database feat.TAKUMA(10-FEET)]]|
 |''DAYBREAK'S BELL''|156|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DAYBREAK'S BELL]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/DAYBREAK'S BELL]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/DAYBREAK'S BELL]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/DAYBREAK'S BELL]]|
 |''DAY×DAY''|193|[[★×4>難易度表/かんたん/DAY×DAY]]|[[★×5>難易度表/ふつう/DAY×DAY]]|[[★×6>難易度表/むずかしい/DAY×DAY]]|[[★×8>難易度表/おに/DAY×DAY]]|

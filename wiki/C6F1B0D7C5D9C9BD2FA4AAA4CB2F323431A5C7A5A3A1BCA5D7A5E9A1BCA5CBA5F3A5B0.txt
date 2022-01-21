@@ -9,7 +9,7 @@
 ***譜面構成・攻略 [#capture]
 -BPMは105。
 -32分があり「ばいそく」等にすると楽になる。
--平均密度は、''約4.02打/秒''。
+-平均密度は、''約4.05打/秒''。
 
 ***その他 [#other]
 -マスブチ曰く、「[[『２つで１つになる（two for one）』みたいな意味合いです。>http://giw.cocolog-nifty.com/blog/2019/07/post-88f456.html]]」とのこと。
@@ -154,5 +154,5 @@
 #endregion
 ~&attachref(dlearn_m_f.png,nolink);
 
-~141小節からの拡大画像(4倍)
+~141小節からの拡大画像(8倍)
 ~&attachref(dlearn_141_ff.png,nolink);

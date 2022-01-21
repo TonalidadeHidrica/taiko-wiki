@@ -12,7 +12,7 @@
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''994720点''}|~|COLOR(#ff3300){3980点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''997300点''|~|4100点|-|
 |~|~|BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
-|AC16.2.12||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 ||3DS2DL|BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|★×3|''186''|''487060点''|~|570点|193点|
 ||COLOR(red){PS Vita MS}|BGCOLOR(#ff9933):''THE IDOLM@STER&br;(家庭用)''|~|~|~|~|~|~|

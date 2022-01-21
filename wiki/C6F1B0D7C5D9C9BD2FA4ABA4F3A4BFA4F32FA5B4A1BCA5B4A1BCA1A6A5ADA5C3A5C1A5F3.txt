@@ -12,7 +12,7 @@
 |AC11&br;AC14SP|iOS&br;Wii4SP&br;AR|~|~|~|''377820点''|~|480点|120点|~|
 |AC11亜||BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|COLOR(#ff3300){''379750点''}|~|COLOR(#ff3300){1550点}|-|~|
-|AC15.9.6SP|Wii U2SP&br;3DS3DL|~|~|~|''379000点''|~|480点|148点|~|
+|AC15.9.6SP|Wii U2SP&br;3DS3DL&br;NS1SP|~|~|~|''379000点''|~|480点|148点|~|
 |COLOR(#ff3300){真打}&br;AC16.1.0||~|~|~|COLOR(#ff3300){''999600点''}|~|COLOR(#ff3300){4080点}|-|~|
 
 ***譜面構成・攻略 [#capture]

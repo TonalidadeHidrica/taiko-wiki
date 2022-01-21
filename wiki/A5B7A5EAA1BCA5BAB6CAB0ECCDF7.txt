@@ -464,8 +464,8 @@
 ||''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|>|初出|紹介記事|h
 |第1弾|''Phantom Rider''|268※|[[★×4>難易度表/かんたん/Phantom Rider]]|[[★×6>難易度表/ふつう/Phantom Rider]]|[[★×7>難易度表/むずかしい/Phantom Rider]]|[[★×8>難易度表/おに/Phantom Rider]]|''KATSU-DON&br;(2012/7/25)''|Wii5&br;(2012/11/29)||
 |~|''Phantom Rider(裏譜面)''|~|-|-|-|[[★×9>難易度表/おに/Phantom Rider(裏譜面)]]|~|~||
-|第2弾|''Heaven's Rider''|150※|[[★×5>難易度表/かんたん/Heaven's Rider]]|[[★×6>難易度表/ふつう/Heaven's Rider]]|[[★×8>難易度表/むずかしい/Heaven's Rider]]|[[★×9>難易度表/おに/Heaven's Rider]]|''ホワイト&br;イベント先行((「太鼓の達人公式大会〜2016年2月の陣〜」(2016/1/15〜1/21の期間内)キャンペーンで獲得))&br;(2016/1/15)''|3DS3&br;(2016/6/16)||
-|第3弾|''Spectral Rider''|170.67-256|[[★×5>難易度表/かんたん/Spectral Rider]]|[[★×6>難易度表/ふつう/Spectral Rider]]|[[★×7>難易度表/むずかしい/Spectral Rider]]|[[★×10>難易度表/おに/Spectral Rider]]|''ニジイロ&br;(2021/12/23)''|(未収録)||
+|第2弾|''Heaven's Rider''|150|[[★×5>難易度表/かんたん/Heaven's Rider]]|[[★×6>難易度表/ふつう/Heaven's Rider]]|[[★×8>難易度表/むずかしい/Heaven's Rider]]|[[★×9>難易度表/おに/Heaven's Rider]]|''ホワイト&br;イベント先行((「太鼓の達人公式大会〜2016年2月の陣〜」(2016/1/15〜1/21の期間内)キャンペーンで獲得))&br;(2016/1/15)''|3DS3&br;(2016/6/16)||
+|第3弾|''Spectral Rider''|172-258|[[★×5>難易度表/かんたん/Spectral Rider]]|[[★×6>難易度表/ふつう/Spectral Rider]]|[[★×7>難易度表/むずかしい/Spectral Rider]]|[[★×10>難易度表/おに/Spectral Rider]]|''ニジイロ&br;(2021/12/23)''|(未収録)||
 
 ***旋律シリーズ [#senitsu]
 -作曲は[[''AILE''>参加アーティスト一覧/AILE]]。
