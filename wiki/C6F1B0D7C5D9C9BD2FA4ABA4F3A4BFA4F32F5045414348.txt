@@ -4,7 +4,7 @@
 -詳細は以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC11''&br;AC11亜洲版||CENTER:★×3|CENTER:''81''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1260点|CENTER:600点|
-||CENTER:iOS|~|~|CENTER:''328630点''|~|~|~|
+||CENTER:iOS&br;AR|~|~|CENTER:''328630点''|~|~|~|
 ||CENTER:DS2|~|~|CENTER:''258990点''|~|CENTER:990点|CENTER:470点|
 -BPMは147。
 -速度は至って普通だが、全体的に4分が多い。

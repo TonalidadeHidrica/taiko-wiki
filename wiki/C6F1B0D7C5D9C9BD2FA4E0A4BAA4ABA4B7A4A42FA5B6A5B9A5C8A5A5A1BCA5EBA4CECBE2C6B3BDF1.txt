@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(n.png,nolink);
+~&attachref(ザストゥールの焼肉.png,nolink);

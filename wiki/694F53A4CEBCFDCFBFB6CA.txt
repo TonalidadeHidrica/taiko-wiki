@@ -309,11 +309,11 @@
 |◎|''さんぽ''|120|[[★×1>難易度表/かんたん/さんぽ]]|[[★×1>難易度表/ふつう/さんぽ]]|[[★×4>難易度表/むずかしい/さんぽ]]|[[★×5>難易度表/おに/さんぽ]]|[[★×9>難易度表/おに/さんぽ(裏譜面)]]|
 |★|''GEEDの証''&br;　　SIZE(11){『ウルトラマンジード』より}|158|[[★×3>難易度表/かんたん/GEEDの証]]|[[★×3>難易度表/ふつう/GEEDの証]]|[[★×4>難易度表/むずかしい/GEEDの証]]|[[★×7>難易度表/おに/GEEDの証]]|-|
 |★|''SHINY''&br;　　SIZE(11){「境界のRINNE」より}|175|[[★×3>難易度表/かんたん/SHINY]]|[[★×4>難易度表/ふつう/SHINY]]|[[★×5>難易度表/むずかしい/SHINY]]|[[★×7>難易度表/おに/SHINY]]|-|
-|BGCOLOR(beige):|BGCOLOR(beige):''SHINING LINE*''|BGCOLOR(beige):134-150|BGCOLOR(beige):[[★×2>難易度表/かんたん/SHINING LINE*]]|BGCOLOR(beige):[[★×2>難易度表/ふつう/SHINING LINE*]]|BGCOLOR(beige):[[★×4>難易度表/むずかしい/SHINING LINE*]]|BGCOLOR(beige):[[★×6>難易度表/おに/SHINING LINE*]]|BGCOLOR(beige):-|
+|BGCOLOR(beige):◎|BGCOLOR(beige):''SHINING LINE*''|BGCOLOR(beige):134-150|BGCOLOR(beige):[[★×2>難易度表/かんたん/SHINING LINE*]]|BGCOLOR(beige):[[★×2>難易度表/ふつう/SHINING LINE*]]|BGCOLOR(beige):[[★×4>難易度表/むずかしい/SHINING LINE*]]|BGCOLOR(beige):[[★×6>難易度表/おに/SHINING LINE*]]|BGCOLOR(beige):-|
 |BGCOLOR(beige):|BGCOLOR(beige):''JUST LIVE MORE''|BGCOLOR(beige):190|BGCOLOR(beige):[[★×2>難易度表/かんたん/JUST LIVE MORE]]|BGCOLOR(beige):[[★×3>難易度表/ふつう/JUST LIVE MORE]]|BGCOLOR(beige):[[★×5>難易度表/むずかしい/JUST LIVE MORE]]|BGCOLOR(beige):[[★×7>難易度表/おに/JUST LIVE MORE]]|BGCOLOR(beige):-|
 |◎|''Jungle P''|145|[[★×2>難易度表/かんたん/Jungle P]]|[[★×2>難易度表/ふつう/Jungle P]]|[[★×5>難易度表/むずかしい/Jungle P]]|[[★×7>難易度表/おに/Jungle P]]|-|
 |BGCOLOR(beige):|BGCOLOR(beige):''獣拳戦隊ゲキレンジャー''|BGCOLOR(beige):162|BGCOLOR(beige):[[★×2>難易度表/かんたん/獣拳戦隊ゲキレンジャー]]|BGCOLOR(beige):[[★×2>難易度表/ふつう/獣拳戦隊ゲキレンジャー]]|BGCOLOR(beige):[[★×5>難易度表/むずかしい/獣拳戦隊ゲキレンジャー]]&br;SIZE(9){譜面分岐}|BGCOLOR(beige):[[★×7>難易度表/おに/獣拳戦隊ゲキレンジャー]]|BGCOLOR(beige):-|
-|◎|''ジョジョ 〜その血の運命〜''|146|[[★×3>難易度表/かんたん/ジョジョ 〜その血の運命〜]]|[[★×5>難易度表/ふつう/ジョジョ 〜その血の運命〜]]|[[★×5>難易度表/むずかしい/ジョジョ 〜その血の運命〜]]|[[★×7>難易度表/おに/ジョジョ 〜その血の運命〜]]|-|
+|◎|''ジョジョ〜その血の運命〜''|146|[[★×3>難易度表/かんたん/ジョジョ 〜その血の運命〜]]|[[★×5>難易度表/ふつう/ジョジョ 〜その血の運命〜]]|[[★×5>難易度表/むずかしい/ジョジョ 〜その血の運命〜]]|[[★×7>難易度表/おに/ジョジョ 〜その血の運命〜]]|-|
 |★|''自力本願レボリューション''&br;　　SIZE(11){「暗殺教室」より}|180|[[★×4>難易度表/かんたん/自力本願レボリューション]]|[[★×6>難易度表/ふつう/自力本願レボリューション]]|[[★×6>難易度表/むずかしい/自力本願レボリューション]]|[[★×7>難易度表/おに/自力本願レボリューション]]|-|
 |BGCOLOR(beige):|BGCOLOR(beige):''Switch On!''|BGCOLOR(beige):190|BGCOLOR(beige):[[★×1>難易度表/かんたん/Switch On!]]|BGCOLOR(beige):[[★×1>難易度表/ふつう/Switch On!]]|BGCOLOR(beige):[[★×3>難易度表/むずかしい/Switch On!]]|BGCOLOR(beige):[[★×3>難易度表/おに/Switch On!]]|BGCOLOR(beige):[[★×9>難易度表/おに/Switch On!(裏譜面)]]|
 |★|''スタートライン！''&br;　　SIZE(11){「アイカツスターズ！」より}|158|[[★×2>難易度表/かんたん/スタートライン！]]|[[★×2>難易度表/ふつう/スタートライン！]]|[[★×3>難易度表/むずかしい/スタートライン！]]|[[★×6>難易度表/おに/スタートライン！]]|-|

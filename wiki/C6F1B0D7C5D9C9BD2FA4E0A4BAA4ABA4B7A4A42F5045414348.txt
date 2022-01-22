@@ -2,7 +2,7 @@
 -フジテレビ系ドラマ「''花ざかりの君たちへ〜イケメン♂パラダイス〜''」のED曲。
 ***詳細・攻略 [#o5f687b4]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC11''&br;AC11亜|CENTER:iOS|CENTER:★×4|CENTER:COLOR(#909){''196}&br;COLOR(#069){180}&br;COLOR(#666){155''}|CENTER:''696500点''|CENTER:+連打|CENTER:1020点|CENTER:280点|
+|CENTER:''AC11''&br;AC11亜|CENTER:iOS&br;AR|CENTER:★×4|CENTER:COLOR(#909){''196}&br;COLOR(#069){180}&br;COLOR(#666){155''}|CENTER:''696500点''|CENTER:+連打|CENTER:1020点|CENTER:280点|
 ||CENTER:DS2|~|~|CENTER:''596000点''|~|CENTER:870点|CENTER:240点|
 -BPMは147。
 -連打秒数目安・・・0.782秒−0.578秒：合計約1.361秒

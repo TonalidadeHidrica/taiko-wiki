@@ -68,7 +68,7 @@
 --[[太鼓の達人 オリジナルサウンドトラック ベビーカステラ>http://city-connection.co.jp/taiko/vol07.html]]
 --[[太鼓の達人 オリジナルサウンドトラック かたぬき>http://city-connection.co.jp/taiko/vol08.html]]
 --[[太鼓の達人 ナムコオリジナルサウンドトラック 「神曲コレクション」>https://nex-tone.link/A00092884]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「最強×乱舞コレクション」>https://video-game-music.net/albums/abm17e73b0f99763]]
+--[[太鼓の達人 ナムコオリジナルサウンドトラック 「最強×乱舞コレクション」>https://nex-tone.link/A00094226]]
 
 **楽曲公募関連 [#contest]
 -[[太鼓の達人 楽曲募集だドン！]]

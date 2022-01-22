@@ -1,12 +1,15 @@
-*Highschool&#9825;love [#title]
-***詳細・攻略 [#more]
+*Highschool&#9825;love((「&#9825;」は機種依存文字のため、リンクは「・」で表している。)) [#title]
 -フジテレビ系列ドラマ「''GTO''(第2期)」主題歌。
 --第1期の主題歌は[[こちら>難易度表/ふつう/24karats TRIBE OF GOLD]]。
--詳細は以下の通り：
-|>|CENTER:バージョン|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC15.5.6''|CENTER:3DS2DL|CENTER:★×4|CENTER:''150''|CENTER:''548290点''|CENTER:＋連打|CENTER:910点|CENTER:348点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){5320点}|CENTER:-|
-||CENTER:iOS|~|~|CENTER:''?????0点''|~|CENTER:870点|CENTER:260点|
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.5.6''|3DS2DL|BGCOLOR(cyan):''J-POP''|★×3|''150''|''548290点''|＋連打|910点|348点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){5320点}|-|
+||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''545360点''|~|870点|260点|
+
+***譜面構成・攻略 [#capture]
 -BPMは128。
 -連打秒数目安・・・SIZE(16){約1.133秒}
 -全体的に付点配置が多く、リズムが取りづらい。
@@ -18,13 +21,10 @@
 --この7連打は大音符なので、1個でも特良を逃すと痛い失点になる可能性もある。
 
 ***その他 [#other]
--アーティストは、''E-girls''。
---作詞は、michico。作曲・編曲は、T.Kura・michico・Albi Albertsson。
--譜面作成は、''しか@に〜さん''。
--当Wiki内では曲名に「・」があるが、実際はハートマークになっている(ハートマークは機種依存文字のため)。
--ゲームミュージックの[[Highschool love!>難易度表/ふつう/Highschool love!]]とは別の曲であるので注意。
+-楽曲情報は[[おに譜面>難易度表/おに/Highschool・love]]を参照。
 -[[ホワイトVer.段位道場>過去の段位道場#white]]の九級3曲目課題曲、[[レッドVer.段位道場>段位道場#red]]の九級2曲目課題曲となった。
 
+----
 -[[かんたん>難易度表/かんたん/Highschool・love]]
 -[[むずかしい>難易度表/むずかしい/Highschool・love]]
 -[[おに>難易度表/おに/Highschool・love]]
