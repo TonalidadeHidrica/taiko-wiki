@@ -6,7 +6,7 @@
 |''RT''|''音頭''|★×1|''48''|''464880点''|+連打|3120点|6240点|
 
 ***譜面構成・攻略 [#capture]
--BPMは約122。
+-BPMは123.01。
 
 ***その他 [#other]
 -楽曲情報は[[ふつう譜面>難易度表/ふつう/春夏秋冬ドンドコドン]]を参照。
@@ -19,4 +19,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(hnafe.png,nolink);
+&attachref(hnafe_2.png,nolink);

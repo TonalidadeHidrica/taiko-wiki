@@ -24,5 +24,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~BPMは大体です。
-&ref(hnafn.png,nolink);
+&ref(hnafn_2.png,nolink);

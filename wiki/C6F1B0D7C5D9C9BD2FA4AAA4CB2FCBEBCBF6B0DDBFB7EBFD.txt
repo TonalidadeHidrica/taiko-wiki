@@ -75,7 +75,7 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(ËëËö°İ¿·ëı_3.png,nolink);
+~&attachref(ËëËö°İ¿·ëı_4.png,nolink);
 
 ~¸«¤¿ÌÜ½Å»ë
-~&attachref(ËëËö°İ¿·ëı_¸«¤¿ÌÜ.png,nolink);
+~&attachref(ËëËö°İ¿·ëı_¸«¤¿ÌÜ2.png,nolink);
