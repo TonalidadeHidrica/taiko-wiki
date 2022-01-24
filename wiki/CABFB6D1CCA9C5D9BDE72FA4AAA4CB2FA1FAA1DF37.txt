@@ -57,7 +57,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(orangered):|[[via lactea>難易度表/おに/via lactea]]|''5.058''|172|592|117.03秒||
 |>|>|BGCOLOR(cyan):|[[シル・ヴ・プレジデント>難易度表/おに/シル・ヴ・プレジデント]]|''5.053''|176|435|86.08秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[自分REST@RT>難易度表/おに/自分REST@RT]]|''5.041''|170.99※|566|112.29秒||
-|>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[アローラ!!>難易度表/おに/アローラ!!]]|''5.012''|153|399|79.61秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''5.000未満''|
 |>|>|BGCOLOR(orangered):|[[PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]|''4.990''|170|553|110.82秒||
 |>|>|BGCOLOR(cyan):|[[ピースサイン>難易度表/おに/ピースサイン]]|''4.986''|200|442|88.65秒||
@@ -278,6 +277,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(hotpink):|[[トゥッティ！>難易度表/おに/トゥッティ！]]|''5.081''|194|429|84.43秒||
 |>|>|BGCOLOR(orangered):|[[ダイエットファイター>難易度表/おに/ダイエットファイター]]|''5.070''|195|585|115.38秒||
 |BGCOLOR(orange):|BGCOLOR(hotpink):|BGCOLOR(cyan):|[[1・2・3>難易度表/おに/1・2・3]]|''5.046''|182|465|86.21秒||
+|>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[アローラ!!>難易度表/おに/アローラ!!]]|''5.012''|153|399|79.61秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''5.000未満''|
 |>|>|BGCOLOR(orange):|[[JUST LIVE MORE>難易度表/おに/JUST LIVE MORE]]|''4.994''|190|276|55.26秒|3DS2|
 |>|>|BGCOLOR(hotpink):|[[database feat.TAKUMA(10-FEET)>難易度表/おに/database feat.TAKUMA(10-FEET)]]|''4.992''|177|418|83.73秒||

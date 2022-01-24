@@ -1171,7 +1171,7 @@
 |1063|[[明け星>難易度表/おに/明け星]]|BGCOLOR(hotpink):アニメ|?||
 |1064|[[Fun!Fun!Fun! 〜夢∞〜>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|BGCOLOR(yellow):キッズ|?||
 |1065|[[liveDevil>難易度表/おに/liveDevil]]|BGCOLOR(yellow):キッズ|?||
-|1066|[[たいこの2000>難易度表/おに/たいこの2000]]|BGCOLOR(orangered): ナムオリ|?||
+|1066|[[たいこの2000>難易度表/おに/たいこの2000]]|BGCOLOR(orangered): ナムオリ|20tbc||
 |1067|[[Agent Hustle & Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|BGCOLOR(orangered): ナムオリ|?||
 |1068|[[Spectral Rider>難易度表/おに/Spectral Rider]]|BGCOLOR(orangered): ナムオリ|?||
 |1069|[[Solitude Star>難易度表/おに/Solitude Star]]|BGCOLOR(orangered): ナムオリ|solstr||

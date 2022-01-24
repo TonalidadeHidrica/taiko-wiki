@@ -21,6 +21,7 @@
 -譜面作成は、[[''ちはら''>譜面作成者一覧/ちはら]]。
 -「waitin'」は''waiting''の短縮形。[[UFO Swingin'>難易度表/おに/UFO Swingin']]の曲名にも使われている。((「I am」を「I'm」と略すことと同義))
 -この譜面をフルコンボすると、''称号''「''待ち焦がれドンだー''」を獲得できる。
+-曲IDは、''wait4u''。
 
 ----
 -[[かんたん>難易度表/かんたん/waitin' for u]]
@@ -33,5 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~HSは暫定
-~&attachref(Uを待つ_3.png,nolink);
+~&attachref(wait4u_m.png,nolink);
