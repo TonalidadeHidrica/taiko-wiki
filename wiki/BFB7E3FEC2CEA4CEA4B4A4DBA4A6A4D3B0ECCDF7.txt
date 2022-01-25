@@ -38,10 +38,10 @@
 ---[[魑魅魍魎>難易度表/おに/魑魅魍魎]]
 ---[[憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]
 --''COLOR(red){どんメダル}''ショップ[''2021COLOR(#4169e1){冬}'']にて追加。(2021.12.23)
----[[''どんちゃん世界旅行''>難易度表/おに/どんちゃん 世界旅行]]
----[[''Solitude Star''>難易度表/おに/Solitude Star]]
----[[''Agent Hustle & Dr. Hassle''>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]
----[[''Spectral Rider''>難易度表/おに/Spectral Rider]]
+---[[どんちゃん世界旅行>難易度表/おに/どんちゃん 世界旅行]]
+---[[Solitude Star>難易度表/おに/Solitude Star]]
+---[[Agent Hustle & Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]
+---[[Spectral Rider>難易度表/おに/Spectral Rider]]
 
 -''COLOR(darkgreen){AIバトル演奏}''にて勝利数を重ねる(2020.9.16~)
 --[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]

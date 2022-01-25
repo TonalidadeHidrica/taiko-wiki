@@ -4,18 +4,17 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.11.6''&br;AC15.11.6((アジア版))||BGCOLOR(cyan):''J-POP''|★×1|''63''|''368000点''|＋連打|1740点|1555点|
+|''AC15.11.6''&br;AC15.11.6((アジア版))||BGCOLOR(cyan):''J-POP''|★×1|''63''|''368000点''|+連打|1740点|1555点|
 ||NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
-|COLOR(#f30){真打}|||~|~|COLOR(#f30){''973440点''}|~|COLOR(#f30){13520点}|-|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''973440点''}|~|COLOR(#ff3300){13520点}|-|
 |AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''987210点''|~|15670点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは128。
+-大音符が多く、''9個''(全体の1/7)ある。
 
 ***その他 [#other]
--アーティストは、''[[三代目 J SOUL BROTHERS>アーティスト別収録曲#jsb3]] from [[EXILE>アーティスト別収録曲#exile]] TRIBE''。
--作詞は、RYUJI IMAICHI・HIROOMI TOSAKA・YVES&ADAMS・JAY'ED。作曲は、MATS LIE SKARE・CHRIS HOPE・RICO GREENE。
-
+-楽曲情報は[[おに譜面>難易度表/おに/Yes we are]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/Yes we are]]
 -[[むずかしい>難易度表/むずかしい/Yes we are]]
@@ -28,4 +27,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(ywan.png,nolink);
+~&attachref(ywan.png,nolink);
