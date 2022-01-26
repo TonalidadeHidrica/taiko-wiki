@@ -28,4 +28,5 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
+HS¤Ï»ÃÄê
 ~&attachref(tokmek_z.png,nolink);

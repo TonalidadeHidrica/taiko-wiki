@@ -17,7 +17,7 @@
 --開幕から偶数・裏拍が入り混じり、精度が取りづらい。
 -16小節からの10連打(COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●})は、逆手入りすると叩きやすくなるかもしれない。
 --ただし、音符の入りが裏拍であることに注意。
--21小節からはBPMが倍取りされ、[[電車で電車で OPA!OPA!OPA! -GMT mashup->../電車で電車で OPA!OPA!OPA! -GMT mashup-]]の第1ゴーゴーのような配置になる。
+-21小節からはBPMが倍取りされ、[[電車で電車で OPA!OPA!OPA! - GMT mashup ->../電車で電車で OPA!OPA!OPA! -GMT mashup-]]の第1ゴーゴーのような配置になる。
 --21〜24小節…(COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●●}COLOR(blue){○}COLOR(blue){○})×2→(COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○○})
 ---道中の縁は全て入り手で叩ける。
 --25〜28小節…(COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●})×2→(COLOR(red){●●●●}COLOR(blue){○○○○○})
