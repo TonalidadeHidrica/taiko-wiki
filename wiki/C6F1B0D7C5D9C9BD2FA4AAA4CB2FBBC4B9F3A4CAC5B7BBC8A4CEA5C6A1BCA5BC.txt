@@ -15,6 +15,7 @@
 ||PS Vita1亜|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''999600点''}|~|COLOR(#ff3300){2800点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''&aname(anime);|~|~|''997050点''|~|2890点|-|
+||Xbox1|BGCOLOR(orange):''アニメ''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約80-129。

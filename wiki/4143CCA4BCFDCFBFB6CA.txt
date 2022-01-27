@@ -661,8 +661,8 @@
 --[[トリッチトラッチポルカ>難易度表/おに/トリッチトラッチポルカ]]
 -ゲームミュージック
 --[[とびだせ どうぶつの森 メドレー>難易度表/おに/とびだせ どうぶつの森 メドレー]]▲
---[[Baladium's drive>難易度表/おに/Baladium's drive]]▲
---[[Baladium's drive(裏譜面)>難易度表/おに/Baladium's drive(裏譜面)]]▲
+--[[Baladium's drive>難易度表/おに/Baladium's drive]]
+--[[Baladium's drive(裏譜面)>難易度表/おに/Baladium's drive(裏譜面)]]
 --[[妖怪道中記音頭(裏譜面)>難易度表/おに/妖怪道中記音頭(裏譜面)]]▲
 --[[ラブリーX(裏譜面)>難易度表/おに/ラブリーX(裏譜面)]]
 -ナムコオリジナル
@@ -827,15 +827,15 @@
 --[[レクイエム　怒りの日より>難易度表/おに/レクイエム 怒りの日より]]
 -ゲームミュージック
 --[[バベルの塔>難易度表/おに/バベルの塔]]
---[[Theme of Ryu>難易度表/おに/Theme of Ryu]]▲
+--[[Theme of Ryu>難易度表/おに/Theme of Ryu]]
 --[[テイルズ オブ ベルセリア メドレー>難易度表/おに/テイルズ オブ ベルセリア メドレー]]▲
 --[[Urban Striker>難易度表/おに/Urban Striker]]▲
 --[[Next Life>難易度表/おに/Next Life]]
 --[[OLGA BREEZE ［太陽シーン］>難易度表/おに/OLGA BREEZE ［太陽シーン］]]
---[[Roca Roja>難易度表/おに/Roca Roja]]▲
+--[[Roca Roja>難易度表/おに/Roca Roja]]
 --[[Rising>難易度表/おに/Rising]]
 --[[心の痛み>難易度表/おに/心の痛み]]
---[[Undying Legend>難易度表/おに/Undying Legend]]▲
+--[[Undying Legend>難易度表/おに/Undying Legend]]
 -ナムコオリジナル
 --[[そつおめしき・ふる>難易度表/おに/そつおめしき・ふる]]▲
 --[[オリジナルミライ>難易度表/おに/オリジナルミライ]]▲
@@ -861,13 +861,13 @@
 ***太鼓の達人 Nintendo Switchば〜じょん！ [#ns1]
 -ポップス
 --[[Winding Road>難易度表/おに/Winding Road]]
---[[LAST CHRISTMAS>難易度表/おに/LAST CHRISTMAS]]▲
+--[[LAST CHRISTMAS>難易度表/おに/LAST CHRISTMAS]]
 --[[感電>難易度表/おに/感電]]▲
 --[[星影のエール>難易度表/おに/星影のエール]]▲
 --[[春を告げる>難易度表/おに/春を告げる]]▲
 --[[怪物>難易度表/おに/怪物]]▲
 --[[サラバ、愛しき悲しみたちよ -ZZ ver.->難易度表/おに/サラバ、愛しき悲しみたちよ -ZZ ver.-]]
---[[I Want You Back>難易度表/おに/I Want You Back]]▲
+--[[I Want You Back>難易度表/おに/I Want You Back]]
 --[[YES or YES>難易度表/おに/YES or YES]]▲
 --[[Dejavina (Japanese ver.)>難易度表/おに/Dejavina (Japanese ver.)]]▲
 --[[ドライフラワー>難易度表/おに/ドライフラワー]]▲
@@ -997,6 +997,29 @@
 --[[魔導幻想曲>難易度表/おに/魔導幻想曲]]
 --[[クレイジービューティー>難易度表/おに/クレイジービューティー]]
 --[[龍脈の王>難易度表/おに/龍脈の王]]
+
+**Xbox [#xbox]
+***太鼓の達人 The Drum Master! [#xbox1]
+-ポップス
+--[[LAST CHRISTMAS>難易度表/おに/LAST CHRISTMAS]]
+--[[I Want You Back>難易度表/おに/I Want You Back]]
+-アニメ
+--[[インフェルノ>難易度表/おに/インフェルノ]]
+--[[お願いマッスル>難易度表/おに/お願いマッスル]]
+-クラシック
+--[[木星>難易度表/おに/木星]]
+-ゲームミュージック
+--[[テイルズ オブ アライズ 戦闘曲メドレー>難易度表/おに/テイルズ オブ アライズ 戦闘曲メドレー]]▲
+--[[相容れぬ念い>難易度表/おに/相容れぬ念い]]▲
+--[[魔界村(平地BGM)>難易度表/おに/魔界村(平地BGM)]]
+--[[塊オンザロック〜メインテーマ>難易度表/おに/塊オンザロック]]
+--[[Theme of Ryu>難易度表/おに/Theme of Ryu]]
+--[[Roca Roja>難易度表/おに/Roca Roja]]
+--[[Undying Legend>難易度表/おに/Undying Legend]]
+--[[Baladium's drive>難易度表/おに/Baladium's drive]]
+--[[Baladium's drive(裏譜面)>難易度表/おに/Baladium's drive(裏譜面)]]
+-ナムコオリジナル
+--[[太鼓侍(裏譜面)>難易度表/おに/太鼓侍(裏譜面)]]
 
 
 **ACに収録されたことがあるが、ACに収録されていないおに譜面がある曲 [#csonlyoni]
@@ -1548,7 +1571,7 @@
 --[[JUST LIVE MORE>難易度表/おに/JUST LIVE MORE]](Wii U1、3DS2、iOS、NS RPG)
 --[[ラヴァーズ>難易度表/おに/ラヴァーズ]](PSPDX、Wii4、iOS)
 --[[桃源郷エイリアン>難易度表/おに/桃源郷エイリアン]](PSPDX、Wii4、iOS)
---[[コネクト>難易度表/おに/コネクト]](PS Vita1、iOS、PS4 1、AR、NS1)
+--[[コネクト>難易度表/おに/コネクト]](PS Vita1、iOS、PS4 1、AR、NS1、Xbox1)
 --[[ライオン>難易度表/おに/ライオン]](PSPDX)
 --[[Feed A>難易度表/おに/Feed A]](PS Vita1、iOS、AR)
 --[[Wake up!>難易度表/おに/Wake up!]](3DS2、iOS、Wii U2、AR、NS RPG)
@@ -1602,7 +1625,7 @@
 --[[アローラ!!>難易度表/おに/アローラ!!]](NS1)
 --[[ADAMAS>難易度表/おに/ADAMAS]](iOS、AR)
 -ボーカロイド&#8482;曲
---[[Tell Your World>難易度表/おに/Tell Your World]](3DS1、iOS、AR、NS1)
+--[[Tell Your World>難易度表/おに/Tell Your World]](3DS1、iOS、AR、NS1、Xbox1)
 --[[マトリョシカ>難易度表/おに/マトリョシカ]](Wii5、PSPDX、iOS、Wii U1、3DS2、NS RPG)
 --[[マトリョシカ(裏譜面)>難易度表/おに/マトリョシカ(裏譜面)]](Wii5、iOS、Wii U1、3DS2、NS RPG)
 --[[人生リセットボタン>難易度表/おに/人生リセットボタン]](PSPDX、Wii U1、iOS)
@@ -1613,7 +1636,7 @@
 --[[夜咄ディセイブ>難易度表/おに/夜咄ディセイブ]](Wii U2、PS Vita1)
 --[[放課後ストライド>難易度表/おに/放課後ストライド]](iOS、Wii U3)
 --[[エキセントリックw>難易度表/おに/エキセントリックw]](3DS2、NS RPG)
---[[みくみくにしてあげる♪【してやんよ】>難易度表/おに/みくみくにしてあげる♪【してやんよ】]](Wii U1、iOS、PS4 1)
+--[[みくみくにしてあげる♪【してやんよ】>難易度表/おに/みくみくにしてあげる♪【してやんよ】]](Wii U1、iOS、PS4 1、Xbox1)
 -バラエティ
 --[[MISTER>難易度表/おに/MISTER]](PSPDX、Wii4)
 --[[マル・マル・モリ・モリ！>難易度表/おに/マル・マル・モリ・モリ!]](iOS、PSPDX、Wii4、3DS1、AR)

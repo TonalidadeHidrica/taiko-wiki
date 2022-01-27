@@ -24,6 +24,6 @@
 
 ***譜面 [#d93670cc]
 ~一人用譜面
-&attachref(モビリオふつう.png,nolink);
+&attachref(モビリオふつう_2.png,nolink);
 ~二人用譜面
 &attachref(モビリオふつう２.png,nolink);

@@ -983,6 +983,15 @@
 |>|BGCOLOR(magenta):''おに''|
 |[[音符のうた>難易度表/おに/音符のうた]]|COLOR(red){★×4→★×5}|
 
+***Xbox1 [#xbox1]
+||CENTER:|c
+|CENTER:曲名|変更|h
+|>|BGCOLOR(cyan):''むずかしい''|
+|[[ブルーバード>難易度表/むずかしい/ブルーバード]]|COLOR(blue){★×6→★×5}|
+|[[GO!!!>難易度表/むずかしい/GO!!!]]|COLOR(red){★×4→★×5}|
+|>|BGCOLOR(magenta):''おに''|
+|[[CAPTAIN NEO>難易度表/おに/CAPTAIN NEO]]|COLOR(blue){★×9→★×8}|
+
 
 ***コメント [#comment]
 #pcomment(,noname)

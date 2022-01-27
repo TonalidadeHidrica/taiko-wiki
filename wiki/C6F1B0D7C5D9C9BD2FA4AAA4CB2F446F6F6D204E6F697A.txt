@@ -11,7 +11,7 @@
 |AC15.1.0|Wii5SP&br;PS4 1DL|~|~|~|''1211200点''|370点|85点|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1003980点''}|COLOR(#ff3300){990点}|-|~|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1000640点''|1040点|-|~|
-|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0|Xbox1SP|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約160。

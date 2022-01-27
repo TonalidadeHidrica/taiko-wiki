@@ -1,8 +1,10 @@
 *&ruby(バラディウムズ){Baladium's}; &ruby(ドライブ){drive}; [#title]
 -ナムコ「''風のクロノア door to phantomile''」の対バラディウム戦のBGM。
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii U3SP''|CENTER:★×5|CENTER:''173''|CENTER:''582710点''|CENTER:＋連打|CENTER:1050点|CENTER:330点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii U3SP''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|''173''|''582710点''|＋連打|1050点|330点|
+|Xbox1SP|~|~|~|''?????0点''|~|??0点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは120。

@@ -4,6 +4,7 @@
 -詳細は、以下の通り：
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC6''|CENTER:CS4|CENTER:★×4|CENTER:''143''|CENTER:''442420点''|CENTER:＋連打|CENTER:1040点|CENTER:330点|
+||CENTER:Xbox1|~|~|CENTER:''?????0点''|~|CENTER:??0点|-|
 -BPMは134。
 -連打秒数目安・・・約1,082秒
 -全体的に付点配置が多く、リズムが取りづらい。

@@ -1,6 +1,5 @@
 *MEGALOVANIA [#title]
 -Microsoft Windows・OS X / PS4 / PS Vita / Nintendo Switch用ソフト「[[''Undertale''>ゲーム別収録曲#undertale]]」の特定のボス戦で使用されるBGM。
---曲名は、スクウェア「ライブ・ア・ライブ」の戦闘曲である「MEGALOMANIA」と、ルーマニアの地名「Transylvania」を掛け合わせたもの。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -8,7 +7,7 @@
 |AC15.11.6((アジア版))|''NS1DL''&br;PS4 1DL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×7|''390''|''817720点''|+連打|620点|143点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''975070点''}|~|COLOR(#ff3300){2110点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''984800点''|~|2510点|-|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}||~|~|~|~|~|
+|AC16.2.0|Xbox1|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}||~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは240。
@@ -23,7 +22,7 @@
 --この速度低下も、当該ボス戦をイメージした演出と思われる。
 
 ***その他 [#other]
--アーティストは、''Toby Fox''。
+-楽曲情報は[[おに譜面>難易度表/おに/MEGALOVANIA]]を参照。
 -[[ニジイロVer.段位道場2020>過去の段位道場#niziiro2020]]の一級1曲目課題曲となった。
 ----
 -[[かんたん>難易度表/かんたん/MEGALOVANIA]]

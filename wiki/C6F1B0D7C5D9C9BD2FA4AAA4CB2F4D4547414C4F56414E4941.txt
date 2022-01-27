@@ -1,6 +1,5 @@
 *&ruby(メガロヴァニア){MEGALOVANIA}; [#title]
 -Microsoft Windows・OS X / PS4 / PS Vita / Nintendo Switch用ソフト「[[''UNDERTALE''>ゲーム別収録曲#undertale]]」のCOLOR(#ffffff){SANS}戦((ネタバレ防止のため反転している。反転部分をドラッグ＆ドロップで選択したり、メモ帳等にコピー＆ペーストしたりすると見えるようになる。))で使用されるBGM。
---曲名は、スクウェア「ライブ・ア・ライブ」の戦闘曲である「MEGALOMANIA」と、ルーマニアの地名「Transylvania」を掛け合わせたもの。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -8,7 +7,7 @@
 |AC15.11.6((アジア版))|''NS1DL''&br;PS4 1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×9|''664''|''1084350点''|＋連打|490点|88点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''989780点''}|~|COLOR(#ff3300){1180点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|''984080点''|~|1470点|-|
-|AC16.2.0||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+|AC16.2.0|Xbox1|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは240。
@@ -30,6 +29,7 @@
 
 ***その他 [#other]
 -作曲は、''Toby Fox''。
+--曲名は、スクウェア「ライブ・ア・ライブ」の戦闘曲である「MEGALOMANIA」と、ルーマニアの地名「Transylvania」を掛け合わせたもの。
 -曲IDは、''udtmgl''。
 
 ----
