@@ -12,15 +12,17 @@
 ***譜面構成・攻略 [#capture]
 -BPMは約150。
 -連打秒数目安・・・約0.367秒
--BPMは少し遅いが、偶数連打が多く、手元を狂わされやすい。
--所々に長複合があり、フルコンボを目指す上での難所となっている。
---51、75小節目の複合はCOLOR(blue){○○}COLOR(red){●}COLOR(blue){○}|COLOR(red){●●}COLOR(blue){○}COLOR(red){●}|COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}|COLOR(red){●●}COLOR(blue){○}と認識すれば叩きやすい。
---57〜59小節にある2本の複合は
----1本目:COLOR(blue){○○}|COLOR(red){●●●●}|COLOR(blue){○○○}COLOR(red){●●●}|COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}|COLOR(red){●●●}COLOR(blue){○○○}|COLOR(red){●●●}COLOR(blue){○○}
----2本目:COLOR(red){●●}COLOR(blue){○○}|COLOR(red){●●●}COLOR(blue){○○○}|COLOR(red){●●●}COLOR(blue){○○○}|COLOR(red){●●}&br;と認識すれば叩きやすいかもしれない。
+-BPMは中程度であるが、偶数連打が多く技術的要素が問われる。24分音符は16分音符と隣接しない4連打のみであるのが救い。
+--譜面傾向としては[[ヌムジカac.10>難易度表/おに/ヌムジカac.10]]や[[Ridge Racer(裏譜面)>難易度表/おに/Ridge Racer(裏譜面)]]などに近い。リズム難要素はこれらと比較するとやや控えめであるため、これらに挑む前の練習とするのも良いであろう。
+-36小節までは目立った難所はなく、偶数連打もほとんど2連打である。クリア狙いならここでしっかりゲージを稼ごう。
+-2回あるゴーゴータイムでは4連打がかなり多く、6連打や8連打も登場する。
+--逆手の動きを必要とする複合も多いので難しく感じるかもしれないが、その一方で配置はほとんど一定であるため、慣れてしまえば一気に体感難易度は下がるであろう。
+--51、75小節の複合はCOLOR(blue){○○}COLOR(red){●}COLOR(blue){○}|COLOR(red){●●}COLOR(blue){○}COLOR(red){●}|COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}|COLOR(red){●●}COLOR(blue){○}と認識すれば叩きやすい。
+-間奏に長複合が2本あり、フルコンボ狙いの場合はここが最大の難所となり得るので注意。
+--1本目:COLOR(blue){○○}|COLOR(red){●●●●}|COLOR(blue){○○○}COLOR(red){●●●}|COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}|COLOR(red){●●●}COLOR(blue){○○○}|COLOR(red){●●●}COLOR(blue){○○}
+--2本目:COLOR(red){●●}COLOR(blue){○○}|COLOR(red){●●●}COLOR(blue){○○○}|COLOR(red){●●●}COLOR(blue){○○○}|COLOR(red){●●}&br;と認識すれば叩きやすいかもしれない。
 -ゴーゴー直前およびゴーゴー中の大音符でリズムを崩さないように注意。
---連打が短いこともあって、Wii U1では、天井基準の目安である110万点到達は難しめ。
--平均密度は、''約6.19打/秒''。
+-1曲を通しての平均密度は、''約6.19打/秒''である。
 
 ***その他 [#other]
 -楽曲情報は[[表譜面>難易度表/おに/零の夜想曲]]を参照。

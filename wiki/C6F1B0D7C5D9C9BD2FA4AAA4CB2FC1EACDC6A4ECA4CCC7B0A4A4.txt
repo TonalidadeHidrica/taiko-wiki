@@ -1,24 +1,26 @@
 *&ruby(あいい){相容};れぬ&ruby(おも){念};い [#title]
--PS4・PS5・Xbox One・Xbox Series X|S・PC用アクションRPG「''SCARLET NEXUS''」より。
+-PS4・PS5・Xbox One・Xbox Series X|S・PC用ソフト「''SCARLET NEXUS''」より。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
 |''Xbox1''|BGCOLOR(darkorchid):COLOR(white):''ゲーム&br;ミュージック''|★×8|''630''|''992100点''|＋連打|1570点|
 
 ***譜面構成・攻略 [#capture]
--BPMは170。
+-BPMは169.7-170。
 
 ***その他 [#other]
 -アーティストは、''竹田隼大''。
+-曲IDは、''snx''。
 
 ----
 -[[かんたん>難易度表/かんたん/相容れぬ念い]]
 -[[ふつう>難易度表/ふつう/相容れぬ念い]]
 -[[むずかしい>難易度表/むずかしい/相容れぬ念い]]
--[[オート動画>https://youtu.be/Zh58rOSPZ6Y]]
+-[[オート動画(Xbox1)>https://youtu.be/ItC6by_p2n4]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(相容れぬ念い.png,nolink);
+&attachref(snx_m_2.png,nolink);

@@ -4,23 +4,22 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
-|''Xbox1''|BGCOLOR(darkorchid):COLOR(white):''ゲームミュージック''|★×6|''486''|''992380点''|＋連打|2030点|
+|''Xbox1''|BGCOLOR(darkorchid):COLOR(white):''ゲームミュージック''|★×5|''368''|''?????0点''|＋連打|???0点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは144-196。
--速度変化が多く、精度が取りづらい。
 
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/テイルズ オブ アライズ 戦闘曲メドレー]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/テイルズ オブ アライズ 戦闘曲メドレー]]
--[[ふつう>難易度表/ふつう/テイルズ オブ アライズ 戦闘曲メドレー]]
+-[[むずかしい>難易度表/むずかしい/テイルズ オブ アライズ 戦闘曲メドレー]]
 -[[おに>難易度表/おに/テイルズ オブ アライズ 戦闘曲メドレー]]
--[[オート動画>https://www.youtube.com/watch?v=f3DFYc0lelY]]
+-[[オート動画>https://www.youtube.com/watch?v=bwH9AAW_ezI]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(arise_h.png,nolink);
+&attachref(arise_n.png,nolink);

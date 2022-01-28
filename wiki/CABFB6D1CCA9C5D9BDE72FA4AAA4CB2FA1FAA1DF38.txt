@@ -498,6 +498,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(darkorchid):|[[Theme of Ryu>難易度表/おに/Theme of Ryu]]|''5.033''|137.00※|626|124.38秒||
 |>|>|BGCOLOR(darkorchid):|[[Thinking 〜Must Mix〜>難易度表/おに/Thinking 〜Must Mix〜]]|''5.020''|190.57※|554|110.35秒||
 |>|BGCOLOR(cyan):|BGCOLOR(hotpink):|[[熱情のスペクトラム>難易度表/おに/熱情のスペクトラム]]|''5.011''|160|436|87.00秒||
+|>|>|BGCOLOR(darkorchid):|[[相容れぬ念い>難易度表/おに/相容れぬ念い]]|''5.005''|169.98※|629|125.66秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''5.000未満''|
 //|BGCOLOR(lime):|[[ライコタイコディスコ>難易度表/おに/ライコタイコディスコ]]|''4.980''|144|664|133.33秒|例大祭|
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[relations>難易度表/おに/relations]]|''4.972''|142|604|121.48秒||
