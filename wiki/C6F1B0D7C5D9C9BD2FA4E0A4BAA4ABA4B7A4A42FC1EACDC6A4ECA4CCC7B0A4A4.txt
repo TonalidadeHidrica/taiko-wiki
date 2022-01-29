@@ -7,7 +7,7 @@
 |''Xbox1''|BGCOLOR(darkorchid):COLOR(white):''ゲームミュージック''|★×6|''389''|''989770点''|＋連打|2530点|
 
 ***譜面構成・攻略 [#capture]
--BPMは170。
+-BPMは169.7-170。
 
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/相容れぬ念い]]を参照。
@@ -16,9 +16,10 @@
 -[[かんたん>難易度表/かんたん/相容れぬ念い]]
 -[[ふつう>難易度表/ふつう/相容れぬ念い]]
 -[[おに>難易度表/おに/相容れぬ念い]]
-//-[[プレイ動画]]
+-[[オート動画>https://www.youtube.com/watch?v=ve644xpVGZs]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
+&attachref(nexus_h.png,nolink);

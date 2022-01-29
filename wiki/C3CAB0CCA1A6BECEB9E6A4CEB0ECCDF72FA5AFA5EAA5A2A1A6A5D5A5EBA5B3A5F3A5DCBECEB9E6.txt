@@ -2,12 +2,12 @@
 
 #contents
 
-**新筐体(ニジイロVer.21.10現在) [#newac]
+**新筐体(ニジイロVer.22.11現在) [#newac]
 -&size(22){ドンだーひろばの[[ごほうび一覧(称号)>http://donderhiroba.jp/reward_title.php]]に出現している称号のみ掲載してください。};
 
 -特に指定されていない場合、きせかえ表裏2人用譜面オプションは問わず、''どの難易度でも可能''。
 -「1クレ内全て【[[称号対象曲>段位・称号の一覧/称号対象曲]]】のみをプレイ/クリア/フルコンボ」は全て重複選択あり、対象曲の全種類選択は必要なし。
--Ver.21.10現在、新規達成不可能な称号は''非掲載''とした。
+-Ver.22.11現在、新規達成不可能な称号は''非掲載''とした。
 -その他、称号そのものに関する注意は[[''段位・称号の一覧''>段位・称号の一覧]]参照。
 -段位道場、段位道場外伝をクリアすることで獲得できる称号は[[''段位道場''>段位道場]]参照。
 
@@ -176,8 +176,8 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]|おに|||
-|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue): The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|おに|太鼓の未来を識りし者||
+|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]|おに|道化師は終焉にて嗤う||
+|~|[[COLOR(blue): The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|おに|太鼓の未来を識りし者||
 |~|[[COLOR(blue): The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|裏譜面|Traveler from 2765||
 |~|[[COLOR(blue):ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|おに|猛寅級トラッパー||
 |~|[[COLOR(blue):どんちゃん 世界旅行>難易度表/おに/どんちゃん 世界旅行]]|おに|世界旅行ドンだー||
@@ -554,6 +554,7 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
+|~|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]|おに|道化師は終焉にて嗤う||
 |~|[[COLOR(blue): The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|おに|太鼓の未来を識りし者||
 |~|[[COLOR(blue): The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|裏譜面|Traveler from 2765||
 |~|[[COLOR(blue):ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|おに|猛寅級トラッパー||

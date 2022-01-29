@@ -28,11 +28,11 @@
 -[[段位道場]]
 
 
-***ニジイロVer.21.10 [#newac]
+***ニジイロVer.22.11 [#newac]
 -称号はドンだーひろばのごほうび一覧の順に載せており、順番が確定しているものには「〇」を付けています。「〇」が付いていないものはまだ順番があやふやなので、確認でき次第編集をお願いします。
 
--表の背景が灰色(COLOR(grey){■})の称号は存在はしているが、Ver.21.10現在''獲得不可能''な条件の称号であることを表す。
--表の背景がグレー(COLOR(silver){■})の称号は存在はしているが、Ver.21.10現在''一時獲得不可能''な条件の称号であることを表す。
+-表の背景が灰色(COLOR(grey){■})の称号は存在はしているが、Ver.22.11現在''獲得不可能''な条件の称号であることを表す。
+-表の背景がグレー(COLOR(silver){■})の称号は存在はしているが、Ver.22.11現在''一時獲得不可能''な条件の称号であることを表す。
 
 |CENTER:||160||||c
 |CENTER:順番|CENTER:色|CENTER:称号|CENTER:獲得条件|CENTER:備考＆ご褒美|h
@@ -594,11 +594,11 @@
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|太鼓の未来を識りし者|[[COLOR(blue):The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|Traveler from 2765|[[COLOR(blue):The Future of the 太鼓ドラム(裏)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|道化師は終焉にて嗤う|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|パラレルリズム|[[COLOR(blue):パラレルロリポップ>難易度表/おに/パラレルロリポップ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|二重螺旋の真実に至りし者|[[COLOR(blue):Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|卵には醤油派|[[COLOR(blue):しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
