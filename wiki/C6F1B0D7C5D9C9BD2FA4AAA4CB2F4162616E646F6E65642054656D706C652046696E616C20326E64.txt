@@ -11,7 +11,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは''276''。
---32分譜面であるため本来の倍のBPMに低速HSがかかっており、実際の見た目は138〜220.8。HSは0.5〜0.8。
+--32分譜面であるため本来の倍のBPMに低速HSが掛かっており、実際の見た目は138〜220.8。HSは0.5〜0.8。
 -[[Phantom Rider(裏譜面)>難易度表/おに/Phantom Rider(裏譜面)]]を連想させる譜面傾向。あちらほど過激なソフランは無いものの、かなり癖のある譜面である。 
 --また、複合のパターンは[[Got more raves?(裏譜面)>難易度表/おに/Got more raves?(裏譜面)]]に通ずるものがある。
 -32分は3連打までしか無く、数も決して多い訳ではない。しかし、その大半が16分音符と隣接しており、容易ではないだろう。
@@ -27,11 +27,13 @@
 -譜面作成は、[[''まりも研究所''>譜面作成者一覧/まりも研究所]]。
 -[[イエローVer.段位道場>段位道場#normal]]の九段1曲目課題曲となった。
 -曲IDは、''tek7fr''。
+
 ----
 -[[かんたん>難易度表/かんたん/Abandoned Temple Final 2nd]]
 -[[ふつう>難易度表/ふつう/Abandoned Temple Final 2nd]]
 -[[むずかしい>難易度表/むずかしい/Abandoned Temple Final 2nd]]
 -[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?v=ElFiupREcTs&feature=youtu.be&t=13s]]
+-[[オート動画(Xbox1)>https://youtu.be/j8fL4amYs4Y]]
 
 ***コメント [#comment]
 #pcomment(,noname)
