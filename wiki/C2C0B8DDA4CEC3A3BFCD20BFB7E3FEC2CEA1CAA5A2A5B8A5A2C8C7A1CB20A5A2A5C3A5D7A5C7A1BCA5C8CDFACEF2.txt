@@ -369,6 +369,10 @@
 --''バナパスなどを使用''して、''段位道場以外のモード''をプレイしている時のみ出現する。
 --「1回の選曲中に1度しか使えない」仕様は今まで通りである。
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''1/29配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Hello, Mr.JOKER''>難易度表/おに/Hello, Mr.JOKER]]|打打だいず|
+
 //|CENTER:100|CENTER:50||250|c
 //|>|>|>|CENTER:''後日配信予定曲''|h
 //|BGCOLOR(darkorchid):''ゲームミュージック''|COLOR(red):''新''|[[''なんどでも笑おう''>難易度表/おに/なんどでも笑おう]]|THE IDOLM@STER FIVE STARS!!!!!|

@@ -22,3 +22,6 @@
 ----
 ***コメント [#comment]
 #pcomment(,noname)
+
+~BPMは暫定
+~&attachref(joker_e.png,nolink);

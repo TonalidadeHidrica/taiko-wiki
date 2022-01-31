@@ -21,3 +21,7 @@
 ----
 ***コメント [#comment]
 #pcomment(,noname)
+
+***譜面 [#score]
+~BPMは暫定
+~&attachref(joker_h.png,nolink);
