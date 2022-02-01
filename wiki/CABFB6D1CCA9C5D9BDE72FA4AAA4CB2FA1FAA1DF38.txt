@@ -320,6 +320,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(cyan):|[[踊>難易度表/おに/踊]]|''4.326''|128|438|101.25秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[THE IDOLM@STERCOLOR(#5f5f5f):(普通譜面)>難易度表/おに/THE IDOLM@STER]]|''4.315''|165|488|113.09秒||
 |>|>|BGCOLOR(darkgray):|[[太陽系デスコ >難易度表/おに/太陽系デスコ]]|''4.299''|150|632|147.00秒||
+|>|>|BGCOLOR(orangered):|[[Donder Time>難易度表/おに/Donder Time]]|''4.276''|120|457|106.88秒||
 |>|BGCOLOR(lime):|BGCOLOR(orangered):|[[Ladystar Wandering>難易度表/おに/Ladystar Wandering]]|''4.268''|130|520|121.85秒||
 |>|BGCOLOR(goldenrod):|BGCOLOR(orangered):|[[夜想曲Op.9-2>難易度表/おに/夜想曲Op.9-2]]|''4.251''|192|499|117.40秒||
 |>|>|BGCOLOR(orangered):|[[こ・き・く・くる・くる・くれ・こ！>難易度表/おに/こ・き・く・くる・くる・くれ・こ！]]|''4.247''|200|530|124.80秒||
@@ -589,7 +590,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(goldenrod):|BGCOLOR(orangered):|[[聖者の行進COLOR(#5f5f5f):(普通譜面)>難易度表/おに/聖者の行進]]|''4.319''|194|411|95.15秒||
 |>|>|BGCOLOR(orangered):|[[常闇の森>難易度表/おに/常闇の森 序章「邪神復活の夜」]]|''4.302''|125.11※|522|121.33秒||
 |>|>|BGCOLOR(darkgray):|[[Future Melody - 心から未来へ ->難易度表/おに/Future Melody - 心から未来へ -]]|''4.279''|154|546|127.60秒||
-|>|>|BGCOLOR(orangered):|[[Donder Time>難易度表/おに/Donder Time]]|''4.276''|120|457|106.88秒||
 |>|BGCOLOR(darkgray):|BGCOLOR(cyan):|[[千本桜 ver.小林幸子>難易度表/おに/千本桜 ver.小林幸子]]|''4.273''|133.87※|655|153.28秒||
 |>|>|BGCOLOR(orangered):|[[イヌノノリモノ>難易度表/おに/イヌノノリモノ]]|''4.259''|180|362|85.00秒||
 |>|BGCOLOR(goldenrod):|BGCOLOR(orangered):|[[まおぅ>難易度表/おに/まおぅ]]|''4.258''|140|472|110.86秒|正確には''4.2577''|
