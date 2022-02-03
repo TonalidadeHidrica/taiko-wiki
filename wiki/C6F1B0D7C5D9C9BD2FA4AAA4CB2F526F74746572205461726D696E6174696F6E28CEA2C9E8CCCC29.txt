@@ -35,8 +35,8 @@
 &br;90: COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●●●}COLOR(blue){○} / COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●●●}COLOR(blue){○}|&br;91: COLOR(red){●}COLOR(blue){○○○} / COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●}COLOR(blue){○○○} / COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}|&br;92: COLOR(red){●}COLOR(blue){○○○} / COLOR(blue){○○○○} / COLOR(blue){○○○○} / COLOR(blue){○○○○}|
 //---入手:COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){○}COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}・・・
 //---逆手:COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){○}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}|COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}|COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}・・・
--ラストの風船は''766打''で入力時間は''4.650秒''((風船の時間を15.5拍としたときの秒数。Wii U2のオートの風船連打は30打/秒であり、風船部分で140打叩いているので4.625秒（12分音符1つ分短くしたときの秒数）ではないと思われる。))と短く、''割るのは不可能''である。
---割るのに必要な連打速度は、理論上''約165打/秒''。理論値である60打/秒で叩いた場合でも、最大約279連打しか入れることができないと思われる。
+-ラストの風船は''766打''で入力時間は''4.675秒''と短く、''割るのは不可能''である。
+--割るのに必要な連打速度は、理論上''約164打/秒''。理論値である60打/秒で叩いた場合でも、最大約281連打しか入れることができないと思われる。
 --なお、この風船の打数が765打でなく766打になっている理由については、風船音符は1打叩くと残り打数の表示が始まるため、最初に表示される残り打数表示を765打にするために、それより1打多い766打になっているものと考えられる。
 --割れない風船＝連打のことかつ、風船1打の得点＝新基準の黄色連打3打分の得点となるため、結果かなりの連打曲である。
 ---旧筐体では、127万を超える事も可能でスコアルートの定番曲である。
