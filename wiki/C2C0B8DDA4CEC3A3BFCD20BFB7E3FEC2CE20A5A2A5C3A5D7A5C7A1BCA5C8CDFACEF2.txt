@@ -464,6 +464,10 @@
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Hello, Mr.JOKER''>難易度表/おに/Hello, Mr.JOKER]]|打打だいず|
 
 |CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''2/5配信曲''|h
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''アンリミテッドゲームズ''>難易度表/おに/アンリミテッドゲームズ]]|Ponchi♪ feat. はぁち|
+
+|CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''2/16配信曲''(V??.??)|h
 |BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''ストロベリー☆プラネット！''>難易度表/おに/ストロベリー☆プラネット！]]|すとぷり / ナユタン星人|
 
