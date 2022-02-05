@@ -1,4 +1,4 @@
-*&ruby(リメンバー){Re:member}; [#title]
+*Re:member [#title]
 -アニメ「[[''NARUTO -ナルト-''>アニメ別収録曲#naruto]]」のOP8。
 
 ***詳細 [#more]
@@ -11,7 +11,7 @@
 -''完全精度曲''のひとつ。
 -39小節の複合以降、音符密度が急上昇し、長複合が増える。複合は偶数で切れるものか単色しかないので、体力が全てを左右する。
 --最大のコンボカッターは恐らく39〜40小節。
--[[コイクル>難易度表/おに/コイクル]]や[[TONIGHT,TONIGHT,TONIGHT>難易度表/おに/TONIGHT,TONIGHT,TONIGHT]]や[[Your World>難易度表/おに/Your World]]と並ぶAC9のアニメ高難易度曲だった。
+-[[コイ&#9829;クル>難易度表/おに/コイクル]]や[[TONIGHT,TONIGHT,TONIGHT>難易度表/おに/TONIGHT,TONIGHT,TONIGHT]]、[[Your World>難易度表/おに/Your World]]と並ぶAC9のアニメ高難易度曲だった。
 --いずれも★×8としてはかなり強い部類であった。
 -1曲を通しての平均密度は、''約6.20打/秒''である。
 

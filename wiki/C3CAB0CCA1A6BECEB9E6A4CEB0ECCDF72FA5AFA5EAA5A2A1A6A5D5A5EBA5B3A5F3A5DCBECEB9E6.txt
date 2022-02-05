@@ -176,8 +176,8 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]|おに|||
-|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]|おに|道化師は終焉にて嗤う||
+|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]|おに|限りなき挑戦、己との約束。||
+|~|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]|おに|道化師は終焉にて嗤う||
 |~|[[COLOR(blue): The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|おに|太鼓の未来を識りし者||
 |~|[[COLOR(blue): The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|裏譜面|Traveler from 2765||
 |~|[[COLOR(blue):ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|おに|猛寅級トラッパー||
@@ -555,7 +555,7 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|~|COLOR(blue):アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]|おに|||
+|~|[[COLOR(blue):アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]|おに|限りなき挑戦、己との約束。||
 |~|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]|おに|道化師は終焉にて嗤う||
 |~|[[COLOR(blue):The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|おに|太鼓の未来を識りし者||
 |~|[[COLOR(blue):The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|裏譜面|Traveler from 2765||
