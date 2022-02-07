@@ -1179,6 +1179,13 @@
 |1071|[[ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|BGCOLOR(orangered): ナムオリ|?||
 |1072|[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|BGCOLOR(orangered): ナムオリ|?||
 |1073|[[スキスキ星人>難易度表/おに/スキスキ星人]]|BGCOLOR(cyan): ポップス|?||
+|1074|非公開|BGCOLOR(#333): ？？？|?||
+|1075|非公開|BGCOLOR(#333): ？？？|?||
+|1076|非公開|BGCOLOR(#333): ？？？|?||
+|1077|非公開|BGCOLOR(darkgray): ボカロ|?||
+|1078|非公開|BGCOLOR(cyan): ポップス|?||
+|1079|非公開|BGCOLOR(orangered): ナムオリ|?||
+|1080|非公開|BGCOLOR(darkorchid): ゲーミュ|?||
 
 **未確認 [#lostn]
 |>|>|>|CENTER:||c

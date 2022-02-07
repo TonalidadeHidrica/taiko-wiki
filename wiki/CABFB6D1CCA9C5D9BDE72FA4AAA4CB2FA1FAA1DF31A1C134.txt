@@ -170,7 +170,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(cyan):|[[Choo Choo TRAIN>難易度表/おに/Choo Choo TRAIN]]|''3.069''|115|293|95.48秒|新譜面|
 |>|BGCOLOR(goldenrod):|BGCOLOR(orange):|[[ウィリアム・テル序曲>難易度表/おに/ウィリアム・テル序曲]]|''3.002''|152.01※|330|109.93秒|2人用譜面(2P)|
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.000未満''|
-|BGCOLOR(cyan):|BGCOLOR(hotpink):|BGCOLOR(orange):|[[ココロのちず>難易度表/おに/ココロのちず]]|''2.997''|131|304|101.45秒|旧譜面|
+|>|BGCOLOR(hotpink):|BGCOLOR(orange):|[[ココロのちず>難易度表/おに/ココロのちず]]|''2.997''|131|304|101.45秒|旧譜面|
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[Rock the Dragon - Dragon Z Theme>難易度表/おに/Rock the Dragon]]|''2.993''|150.26※|153|51.11秒|2人用譜面(2P)|
 |>|BGCOLOR(goldenrod):|BGCOLOR(orange):|[[ウィリアム・テル序曲>難易度表/おに/ウィリアム・テル序曲]]|''2.977''|152.01※|329|110.52秒|2人用譜面(1P)|
 |>|>|BGCOLOR(cyan):|[[島唄>難易度表/おに/島唄]]COLOR(#890089):(達人譜面)|''2.976''|72|305|102.50秒||

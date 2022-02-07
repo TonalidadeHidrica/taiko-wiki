@@ -34,8 +34,8 @@
 -[[むずかしい>難易度表/むずかしい/青空のラプソディ]]
 -[[おに>難易度表/おに/青空のラプソディ]]/裏譜面
 -[[オート動画(iOS)>https://www.youtube.com/watch?v=VrDBqq6-z9c&feature=youtu.be&t=10s]]
--[[オート動画(NS1)>https://youtu.be/ufh1IKGl6Ac]]
 -[[オート動画(NS1)>https://www.youtube.com/watch?v=Zw0NA8RghQU]]
+-[[オート動画(NS1)>https://youtu.be/ufh1IKGl6Ac]]
 
 ***コメント [#comment]
 #pcomment(,noname)
