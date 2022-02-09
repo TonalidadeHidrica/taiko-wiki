@@ -24,4 +24,5 @@
 
 ***譜面 [#score]
 ~BPMは暫定
+~33~34小節の連打は画像より0.5拍短い
 ~&attachref(joker_h.png,nolink);

@@ -31,6 +31,7 @@
 |AC7||~|~|~|''?????0点''|~|510点|130点|
 |AC8-10&br;AC12-12増||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''?????0点''|~|460点|~|
 |AC12亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|
+||Xbox1|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|~|''999560点''|~|2870点|-|
 
 -1人用よりもコンボ数が多い珍しい譜面である。
 -3〜16小節と80〜85小節あたりで変化する。
@@ -51,4 +52,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(daddy_normal.png,nolink);
+~1人用
+~&attachref(taito_n.png,nolink);
+~2人用
+~&attachref(taito_n_dp.png,nolink);

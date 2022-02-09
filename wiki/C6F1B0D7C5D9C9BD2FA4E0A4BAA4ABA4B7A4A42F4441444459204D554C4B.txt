@@ -38,6 +38,7 @@
 |AC8-9||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''?????0点''|＋連打|490点|80点|
 |AC10&br;AC12-12増||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|~|''?????0点''|~|360点|100点|
 |AC12亜||BGCOLOR(darkorchid):&color(white){''遊戲音樂''};|~|~|~|~|~|~|
+||Xbox1|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|~|''1004400点''|~|1550点|-|
 
 -AC7までは''完全精度曲''だったが、AC8で開幕連打が追加された。
 -開幕後〜17小節目あたりで変化する。
@@ -57,4 +58,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(daddy_hard.png,nolink);
+~1人用
+~&attachref(taito_h.png,nolink);
+~2人用
+~&attachref(taito_h_dp.png,nolink);
