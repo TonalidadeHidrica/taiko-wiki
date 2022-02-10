@@ -60,4 +60,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(behemo_m.png,nolink);
+~&attachref(behemo_m(2).png,nolink);

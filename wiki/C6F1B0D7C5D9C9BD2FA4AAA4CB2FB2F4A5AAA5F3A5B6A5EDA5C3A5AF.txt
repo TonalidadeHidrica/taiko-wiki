@@ -39,11 +39,13 @@
 --米TDM収録のナムオリのうち、日本版TDMに移植されなかった唯一の曲。
 -ちなみに、PSP1のパッケージ裏の曲一覧で「''魂''オンザロック」という誤字がある。
 -曲IDは、''kata''，''kat''(米TDM)。
+
 ----
 -[[かんたん>難易度表/かんたん/塊オンザロック]]
 -[[ふつう>難易度表/ふつう/塊オンザロック]]
 -[[むずかしい>難易度表/むずかしい/塊オンザロック]]
 -[[プレイ動画(CS4)>https://www.youtube.com/watch?v=bwXw3AjiFMA]]
+-[[オート動画(NS1)>https://youtu.be/s6RWqDTmxq0]]
 -[[オート動画(米TDM、2人用譜面)>http://www.youtube.com/watch?v=7BlsaTzBDI8]]
 
 ***コメント [#comment]
