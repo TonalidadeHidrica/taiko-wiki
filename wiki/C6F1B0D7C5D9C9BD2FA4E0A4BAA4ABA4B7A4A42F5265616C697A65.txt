@@ -28,5 +28,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~72小節の連打はくすだま
-~&attachref(リゼロ2むずかしい_2.png,nolink);
+~&attachref(リゼロむずかしい_3.png,nolink);

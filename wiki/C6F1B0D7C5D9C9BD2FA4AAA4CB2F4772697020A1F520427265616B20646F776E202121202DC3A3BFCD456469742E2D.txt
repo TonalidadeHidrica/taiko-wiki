@@ -26,8 +26,8 @@
 -「達人Edit.」とあるように、[[他の音楽>http://www18.atwiki.jp/sdvx/pages/240.html]][[ゲーム>http://maimai.wiki.fc2.com/wiki/Grip%20%EF%BC%86%20Break%20down%20%21%21]]に収録されている同曲とは異なった編集がされている。
 --この譜面では53〜54小節の間の約13秒の間奏部分が省かれている。
 -キミドリVer.アップデートより東方Projectのキャラクターが踊り子として登場するようになった。
--曲IDは、''thgrip''。
 -[[グリーンVer.段位道場>過去の段位道場#green]]の初段一曲目課題曲となった。
+-曲IDは、''thgrip''。
 
 ----
 -[[かんたん>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]
