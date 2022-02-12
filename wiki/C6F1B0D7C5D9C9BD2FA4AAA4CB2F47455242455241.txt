@@ -36,11 +36,12 @@
 -平均密度は''約7.98打/秒''。平均密度が8打/秒未満の譜面の中では1番高い。
 
 ***その他 [#other]
+-初出はSOUND VOLTEX IV HEAVENLY HAVEN。
 -アーティストは、''BEMANI Sound Team "TAG"''。
 --「''BEMANI Sound Team''」(コナミ所属アーティストが関与する楽曲)名義が採用された最初の曲である。
 --配信初期には「BEMANI Sound Team」のみの名義だったが、後にBEMANI Sound Team曲の表記形式が「BEMANI Sound Team+アーティスト名」に統一された為、この曲の名義も変更された。
 --''TAG''(''田口康裕'')はコナミ所属のコンポーザー。
---現在は[[コナミを退社しフリーの作曲家になっている。>https://twitter.com/tag_underground/status/1434713288584024067?s=19]]
+--現在は2021/09/06にコナミを退社しフリーの作曲家になっている。([[TAG告知>https://twitter.com/tag_underground/status/1434713288584024067?s=19]])
 -この譜面をフルコンボすると、''称号''「''花車の記憶を手繰りし者''」を獲得できる。
 
 -過去のBEMANIシリーズ移植曲から譜面の引用と思われる部分がある。
