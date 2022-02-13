@@ -53,5 +53,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~連打の長さは暫定です。
-~&attachref(脳漿炸裂ガール(裏）.png,nolink);
+~&attachref(noshou_x.png,nolink);

@@ -33,7 +33,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(エマ_3.png,nolink);
+~&attachref(エマ_4.png,nolink);
 
 ~見た目重視
-~&attachref(Emma_見た目_2.png,nolink);
+~&attachref(Emma_見た目_3.png,nolink);
