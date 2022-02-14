@@ -148,9 +148,9 @@
 
 |CENTER:|||>|>|>|CENTER:70|c
 |''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
-|BGCOLOR(lime):CENTER:''バラエティ''|''賽は投げられた''&br;　　SIZE(11){東方Projectアレンジ IOSYS}|175|★×4|★×6|★×6|★×7|
+|BGCOLOR(lime):CENTER:''バラエティ''|''賽は投げられた''&br;　　SIZE(11){東方Projectアレンジ IOSYS}|175|★×4|★×6|★×6|[[★×7>難易度表/おに/賽は投げられた]]|
 |~|''thousand words''&br;　　SIZE(11){東方Projectアレンジ ユウノウミ}|105|★×2|★×4|★×4|★×5|
-|~|''サイケデリック鬼桜同盟''&br;　　SIZE(11){東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi}|160|★×3|★×5|★×7|★×9|
+|~|''サイケデリック鬼桜同盟''&br;　　SIZE(11){東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi}|160|★×3|★×5|★×7|[[★×9>難易度表/おに/サイケデリック鬼桜同盟]]|
 |~|''Unprivileged Access''&br;　　SIZE(11){東方Projectアレンジ 凋叶棕}|139|★×3|★×5|★×6|★×8|
 
 **博麗神社 秋季例大祭 (2014) [#rtssp1]
@@ -198,7 +198,7 @@
 
 |CENTER:|||>|>|>|CENTER:70|c
 |''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
-|BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! -Cranky remix-''&br;　　SIZE(11){東方Projectアレンジ ビートまりお×Cranky}|180|★×4|★×5|★×7|★×9|
+|BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! -Cranky remix-''&br;　　SIZE(11){東方Projectアレンジ ビートまりお×Cranky}|180|★×4|★×5|[[★×7>難易度表/むずかしい/Help me, ERINNNNNN!! -Cranky remix-]]|[[★×9>難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]|
 
 **ジャパン アミューズメント エキスポ 2017x 闘会議2017 [#a39fa6c6]
 -2017/2/10~2017/2/12にかけて開催されたジャパン アミューズメント エキスポ 2017x 闘会議2017用の特別バージョン。

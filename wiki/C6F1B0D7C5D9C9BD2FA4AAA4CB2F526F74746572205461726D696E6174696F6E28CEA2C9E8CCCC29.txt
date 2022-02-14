@@ -20,7 +20,7 @@
 ***譜面構成・攻略 [#capture]
 -BPMは200。
 --後発の[[ドドンガド〜ン>../ドドンガド〜ン]]と同じBPMであり、[[裏譜面>../ドドンガド〜ン(裏譜面)]]ではHSで一旦減速して後に加速していくという譜面傾向が引き継がれている。
--連打秒数目安・・・''1.025秒''(黄色)＋''4.75秒''(風船)
+-連打秒数目安・・・''1.025秒''(黄色)＋''4.675秒''(風船)
 //風船の受付時間は画像を見る限りでは【15.5拍＋12分音符1つ分】4.65秒(15.5拍)＋0.099〜秒(BPM200の12分音符1つ)＝4.7499(4.75)秒の可能性有り。
 -2連打のシャッフルや中盤の符点リズム、連続して逆手を動かされる配置など叩きにくい配置がBPM200という速さで襲いかかってくるため、[[X-DAY2000>../X-DAY2000]]以上の地力が求められる。
 --また、ほとんど休憩地帯がなく慣れていないと終盤で疲れて腕が追いつかなくなってしまうため、相当な体力も必要。
@@ -35,15 +35,15 @@
 &br;90: COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●●●}COLOR(blue){○} / COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●●●}COLOR(blue){○}|&br;91: COLOR(red){●}COLOR(blue){○○○} / COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●}COLOR(blue){○○○} / COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}|&br;92: COLOR(red){●}COLOR(blue){○○○} / COLOR(blue){○○○○} / COLOR(blue){○○○○} / COLOR(blue){○○○○}|
 //---入手:COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){○}COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}・・・
 //---逆手:COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){○}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}|COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}|COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(blue){●}・・・
--ラストの風船は''766打''で入力時間は''4.75秒''と短く、''割るのは不可能''である。
---割るのに必要な連打速度は、理論上''約162打/秒''。理論値である60打/秒で叩いた場合でも、最大約285連打しか入れることができないと思われる。
+-ラストの風船は''766打''で入力時間は''4.675秒''と短く、''割るのは不可能''である。
+--割るのに必要な連打速度は、理論上''約164打/秒''。理論値である60打/秒で叩いた場合でも、最大約281連打しか入れることができないと思われる。
 --なお、この風船の打数が765打でなく766打になっている理由については、風船音符は1打叩くと残り打数の表示が始まるため、最初に表示される残り打数表示を765打にするために、それより1打多い766打になっているものと考えられる。
 --割れない風船＝連打のことかつ、風船1打の得点＝新基準の黄色連打3打分の得点となるため、結果かなりの連打曲である。
 ---旧筐体では、127万を超える事も可能でスコアルートの定番曲である。
 ---WiiとPSPDXでは、連打が速ければ''130万を超える事も可能''。Wii U2では、天井スコアが下がるものの127万を超える事は可能。風船なのでタイプAが有利だが、タイプAでは譜面の縁24分音符ラッシュを叩くことがかなり難しく、PSPDXで130万を超えることは至難の業。((WiiではタイプAのクラコンとタイプB固定のリモコンを併用することが可能。Wii U2ではGame&#80;adのタッチを利用可能。))
 -1曲を通しての平均密度は、COLOR(red){''約8.93打/秒''}。
---''旧基準最高密度''を誇り、AC12の初出以来[[幽玄ノ乱>../幽玄ノ乱]]が登場するまで''5年6か月''、日数にして''2011日''もの間首位を貫いていた。今もなおトップクラスの高密度譜面として知られる。
---ちなみに、歴代最高密度の''2011日''という記録は''依然としてトップである。''
+--''旧基準最高密度''を誇り、AC12の初出から[[幽玄ノ乱>../幽玄ノ乱]]が登場するまで''5年6か月''、日数にして''2011日''もの間首位を貫いていた。今もなおトップクラスの高密度譜面として知られる。
+--平均密度1位の記録を保持していた期間は現在でも''歴代最長''である(([[Infinite Rebellion>../Infinite Rebellion]]が2023年2月19日まで平均密度1位をキープした場合、更新される見込みとなる))。
 
 ***その他 [#other]
 -[[''全コース''>太鼓ギネス/その他#highestdifficulty]][[''最高難易度曲''>全コース最高難易度曲一覧]]である。

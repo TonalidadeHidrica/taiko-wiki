@@ -43,11 +43,11 @@
 --Xbox1でも風船割りを前提とした配点になっており、100万点到達は不可能。
 -作曲・編曲・トラックダウンは、[[Ridge Racer>../Ridge Racer]]や[[ROTTERDAM NATION(FOO MIX)>../ROTTERDAM NATION(FOO MIX)]]、[[dance storm>../dance storm]]と同じ[[''細江慎治''>参加アーティスト一覧/細江慎治]](Sampling Masters MEGA)。
 -譜面作成は、[[''タカハシ''>譜面作成者一覧/タカハシ]]。
--曲IDは、''sweep1''(恐らくSampling masters MEGAが所属しているSuper&#83;weepから来ているものと思われる)。
 -Wii1では、金王冠を100個取ることで解禁される。
 -[[裏譜面>../Rotter Tarmination(裏譜面)]]とはゴーゴータイムが異なっている。
 --こちらは84小節からはゴーゴータイムではないが、裏譜面は84小節から最後までゴーゴータイムである。
 -[[ブルーVer.段位道場>過去の段位道場#blue]]の四段3曲目課題曲となった。
+-曲IDは、''sweep1''(恐らくSampling masters MEGAが所属しているSuper&#83;weepから来ているものと思われる)。
 
 ----
 -[[かんたん>難易度表/かんたん/Rotter Tarmination]]/[[裏譜面>難易度表/かんたん/Rotter Tarmination(裏譜面)]]

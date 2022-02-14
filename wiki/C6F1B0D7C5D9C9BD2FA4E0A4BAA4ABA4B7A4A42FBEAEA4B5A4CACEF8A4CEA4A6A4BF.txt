@@ -47,4 +47,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(小さな恋のうた(むずかしい).png,nolink);
+&attachref(小さな恋のうた(むずかしい)_2.png,nolink);

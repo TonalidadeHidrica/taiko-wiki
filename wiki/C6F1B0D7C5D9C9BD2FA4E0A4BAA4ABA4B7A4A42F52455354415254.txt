@@ -22,6 +22,6 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(RESTART_h.png,nolink);
+~&attachref(umrest_h.png,nolink);
 ~BPM¸ÇÄêÈÇ
 ~&attachref(RESTART_hh.png,nolink);

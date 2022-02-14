@@ -74,7 +74,7 @@
 |''隠''|''URBAN FRAGMENTS''&br;　　SIZE(11){「R4 -RIDGE RACER TYPE4-」より}|144※|[[★×4>難易度表/かんたん/URBAN FRAGMENTS]]|[[★×4>難易度表/ふつう/URBAN FRAGMENTS]]|[[★×6>難易度表/むずかしい/URBAN FRAGMENTS]]|[[★×8>難易度表/おに/URBAN FRAGMENTS]]&br;SIZE(10){譜面分岐}|-|
 |''隠''|''Baladium's drive''&br;　　SIZE(11){「風のクロノア」より}|120|[[★×3>難易度表/かんたん/Baladium's drive]]|[[★×5>難易度表/ふつう/Baladium's drive]]|[[★×6>難易度表/むずかしい/Baladium's drive]]|[[★×7>難易度表/おに/Baladium's drive]]|[[★×9>難易度表/おに/Baladium's drive(裏譜面)]]|
 ||''DADDY MULK''&br;　　SIZE(11){「ニンジャウォーリアーズ」より}|151.97-154.52|[[★×4>難易度表/かんたん/DADDY MULK]]|[[★×6>難易度表/ふつう/DADDY MULK]]|[[★×7>難易度表/むずかしい/DADDY MULK]]|[[★×8>難易度表/おに/DADDY MULK]]&br;SIZE(10){譜面分岐}|-|
-||''CAPTAIN NEO''&br;　　SIZE(11){「ダライアス」より}|147-230|[[★×5>難易度表/かんたん/CAPTAIN NEO]]|[[★×6>難易度表/ふつう/CAPTAIN NEO]]|[[★×7>難易度表/むずかしい/CAPTAIN NEO]]|[[★×8>難易度表/おに/CAPTAIN NEO]]|-|
+||''CAPTAIN NEO''&br;　　SIZE(11){「ダライアス」より}|147-230※|[[★×5>難易度表/かんたん/CAPTAIN NEO]]|[[★×6>難易度表/ふつう/CAPTAIN NEO]]|[[★×7>難易度表/むずかしい/CAPTAIN NEO]]|[[★×8>難易度表/おに/CAPTAIN NEO]]|-|
 ||''MAGICAL SOUND SHOWER''&br;　　SIZE(11){「アウトラン」より}|125|[[★×4>難易度表/かんたん/MAGICAL SOUND SHOWER]]|[[★×6>難易度表/ふつう/MAGICAL SOUND SHOWER]]|[[★×7>難易度表/むずかしい/MAGICAL SOUND SHOWER]]|[[★×9>難易度表/おに/MAGICAL SOUND SHOWER]]&br;SIZE(10){譜面分岐}|-|
 |''隠''|''シンフォニック ドルアーガ''|87-171※|[[★×4>難易度表/かんたん/シンフォニック　ドルアーガ]]|[[★×6>難易度表/ふつう/シンフォニック　ドルアーガ]]|[[★×7>難易度表/むずかしい/シンフォニック　ドルアーガ]]|[[★×7>難易度表/おに/シンフォニック　ドルアーガ]]|-|
 |''隠''|''ナムコットメドレー''|95-154※|[[★×3>難易度表/かんたん/ナムコットメドレー]]|[[★×4>難易度表/ふつう/ナムコットメドレー]]|[[★×6>難易度表/むずかしい/ナムコットメドレー]]|[[★×8>難易度表/おに/ナムコットメドレー]]|-|
