@@ -1374,6 +1374,7 @@
 |~|~|~|[[怒槌>難易度表/おに/怒槌]]|~|~|~|3打||
 |~|~|~|[[Coquette>難易度表/おに/Coquette]]|~|~|~|~||
 |10位|37.59|26.60|[[Taiko Drum Monster(裏譜面)>難易度表/おに/Taiko Drum Monster(裏譜面)]]|266|24分|399|4打||
+|~|~|~|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|~|~|~|3打||
 #endregion
 
 ***★の数ごとの曲別最短音符間隔(おに) [#shortestnotespaceleveloni]

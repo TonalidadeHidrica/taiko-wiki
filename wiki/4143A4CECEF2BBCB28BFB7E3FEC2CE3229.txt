@@ -20,7 +20,7 @@
 --また、演奏画面の太鼓マーク・スコアの背景色、それらの棚の背景色がSwitch作品に似たようなものになり、また演奏中のスコアの数字がAC7以降長らく半角であったが全角に変更された((厳密には、HGP江戸文字勘亭流の半角文字から全角文字に変わったことを指す。通常、半角文字にはHG江戸文字勘亭流が使われるため例外的。この2つのフォントの比較は[[こちら>https://designpocket.jp/dl_font_category/detail.aspx?bid=19981]]から。))。
 
 -CS4・AC7以来、実に''15年ぶり''にゲームに使用される勘亭流フォントが変更。
---従来の勘亭流フォントからフォントワークス社の「''[[大江戸勘亭流>https://fontworks.co.jp/fontsearch/oedktrstd-e/]]''((全ての文字が[[プロポーショナル化>https://www.nisfont.co.jp/blog/2016_03_02/]](文字詰め)されている。そのためアーケードでは、[[毒LoＣＡＮdy&#9825;>https://www.wikihouse.com/taiko/index.php?%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%C6%C7LOCANdy]]の全角／半角が見分けられなくなった。))」に変更された。
+--従来の勘亭流フォントからフォントワークス社の「''[[大江戸勘亭流>https://fontworks.co.jp/fontsearch/oedktrstd-e/]]''((全ての文字が[[プロポーショナル化>https://www.nisfont.co.jp/blog/2016_03_02/]](文字詰め)されている。そのためアーケードでは、[[毒LOＣＡＮdy&#9825;>https://www.wikihouse.com/taiko/index.php?%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%C6%C7LOCANdy]]の全角／半角が見分けられなくなった。))」に変更された。
 ---''COLOR(#007bbb){【補足】}''従来の勘亭流フォントは、''漢字((縦書きの場合は捨てがなも))は[[DFP勘亭流>https://www.dynacw.co.jp/netshop/netshop_download_detail.aspx?sid=3442]]''((DFP勘亭流については漢字はDF勘亭流、DFG勘亭流共に等幅であるので、3つのうちどれで表しても構わない（[[参考>https://www.dynacw.co.jp/netshop/netshop_download_detail.aspx?sid=3442]]）。))、''それ以外の全角文字は[[HGP江戸文字勘亭流>https://designpocket.jp/dl_font_category/detail.aspx?bid=19981]]''、''半角文字は[[HG江戸文字勘亭流>https://designpocket.jp/dl_font_category/detail.aspx?bid=19981]]''である。また、英数字は太めに表示されていた。この従来の勘亭流フォントはニジイロVer.でも時々使われている((演奏中のスコア、成績画面に表示されるほぼ全ての数字、十段・達人初合格時のメッセージなど))。
 ---''COLOR(#007bbb){【比較画像】}''
 &attachref(20210817_0808_23102.png);
