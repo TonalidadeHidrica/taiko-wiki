@@ -377,6 +377,8 @@
 |>|>|>|CENTER:''2/5配信曲''|h
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''アンリミテッドゲームズ''>難易度表/おに/アンリミテッドゲームズ]]|Ponchi♪ feat. はぁち|
 
+**第60回アップデート GAME VERSION:12.03(2022/2/17実施) [#v1203]
+
 //|CENTER:100|CENTER:50||250|c
 //|>|>|>|CENTER:''後日配信予定曲''|h
 //|BGCOLOR(darkorchid):''ゲームミュージック''|COLOR(red):''新''|[[''なんどでも笑おう''>難易度表/おに/なんどでも笑おう]]|THE IDOLM@STER FIVE STARS!!!!!|

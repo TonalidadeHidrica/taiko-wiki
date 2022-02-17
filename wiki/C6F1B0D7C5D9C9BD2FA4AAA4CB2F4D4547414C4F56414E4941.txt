@@ -29,7 +29,7 @@
 
 ***その他 [#other]
 -作曲は、''Toby Fox''。
---曲名は、スクウェア「ライブ・ア・ライブ」の戦闘曲である「MEGALOMANIA」と、ルーマニアの地名「Transylvania」を掛け合わせたもの。
+--曲名は、スクウェアのRPG「ライブ・ア・ライブ」のボス戦BGM「MEGALOMANIA」と、ルーマニアの地名「Transylvania」を掛け合わせたもの。
 -曲IDは、''udtmgl''。
 
 ----

@@ -47,9 +47,9 @@
 -[[かんたん>難易度表/かんたん/天体観測]]
 -[[ふつう>難易度表/ふつう/天体観測]]
 -[[むずかしい>難易度表/むずかしい/天体観測]]
--[[プレイ動画(新譜面、AC15)>https://www.youtube.com/watch?v=Oem2v0aJbag]]
--[[オート動画(新譜面、WiiU2)>https://www.youtube.com/watch?v=p2ajyzoZtOw]]
--[[プレイ動画(旧譜面、CS4)>https://www.youtube.com/watch?v=x9qaJBDgxik]]
+-[[プレイ動画(新譜面・AC15)>https://www.youtube.com/watch?v=Oem2v0aJbag]]
+-[[オート動画(新譜面・WiiU2)>https://www.youtube.com/watch?v=p2ajyzoZtOw]]
+-[[プレイ動画(旧譜面・CS4)>https://www.youtube.com/watch?v=x9qaJBDgxik]]
 
 ***コメント [#comment]
 #pcomment(,noname)
