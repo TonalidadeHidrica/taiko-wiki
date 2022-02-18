@@ -788,6 +788,22 @@
 --9位：[[響け！>難易度表/おに/響け！太鼓の達人]][[太鼓の達人>難易度表/おに/響け！太鼓の達人(裏譜面)]] ''水木一郎・堀江美都子・影山ヒロノブ 「太鼓の達人 とびっきり！アニメスペシャル」TS'' ：40文字
 --9位：[[大冒険タツドン>難易度表/おに/大冒険タツドン]] ''太鼓 de タイムトラベル60's / 田島勝朗 feat. シックスティーズ・クワイヤーズ'' ：40文字
 
+***★の数別サブタイトルの字数が長い曲(おに)(記号含む、空白は含まない) [#subtitlelongstar]
+-表譜面に限る。
+
+|CENTER:40|||CENTER:50|c
+|★の数|曲名|サブタイトル|文字数|h
+|★×10|[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|太鼓 de タイムトラベル00's / cosMo＠暴走P feat.初音ミク|34文字|
+|★×9|[[My Muscle Heart>難易度表/おに/My Muscle Heart]]|〜テレビ高天原系アニメ「筋肉魔法少女タケミナカタ」主題歌〜 コバヤシユウヤ(IOSYS) feat.山本椛(monotone)|61文字|
+|★×8|[[レトロマニア狂想曲>難易度表/おに/レトロマニア狂想曲]]|&#80;olyphonicBranch feat.鏡音リン・鏡音レン「戦闘摂理解析システム#コンパス」より|49文字|
+|★×7|[[Grip & Break down !! -達人Edit.->難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]|東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi|41文字|
+|★×6|[[Marine Mirage>難易度表/おに/Marine Mirage]]|ANCHOR(ZiNG) アイマリン(CV:内田彩)、アイウリン(CV:三森すずこ)、アイワリン(CV:竹達彩奈) 「アイマリンプロジェクト」より|71文字|
+|★×5|[[WE WILL ROCK YOU>難易度表/おに/We Will Rock You]]|Written by Brian May &#169; Queen Music Ltd|31文字|
+|★×4|[[Together>難易度表/おに/Together]]|TVアニメ「ポケットモンスター ダイヤモンド・パール」より|28文字|
+|★×3|[[My Little Pony Theme Song>難易度表/おに/My Little Pony Theme Song]]|「My Little Pony Friendship is Magic」より|33文字|
+|★×2|[[明日も>難易度表/おに/明日も]]|NTTドコモ「ドコモの学割」CMソング|19文字|
+|★×1|[[あなたとトゥラッタッタ♪>難易度表/おに/あなたとトゥラッタッタ♪]]|DREAMS COME TRUE ／ 「まんぷく」より|23文字|
+
 ***ジャンル別のサブタイトルの字数が最も長い曲(記号含む、空白は含まない)[#subtitlelonggenre]
 |CENTER:80|||CENTER:50|c
 |ジャンル|曲名|サブタイトル|文字数|h

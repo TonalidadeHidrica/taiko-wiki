@@ -6,7 +6,7 @@
 -[[公式サイト>https://poptapbeat.taiko-ch.net/]]
 -[[AppStore>https://apps.apple.com/jp/app/taiko-no-tatsujin-pop-tap-beat/id1463360242]]
 --Apple Arcade(iOS/Mac/AppleTV)
--[[システム詳細>CSの歴史#PTB]]
+-[[システム詳細>CSの歴史#ptb]]
 -[[コメント>#comment]]
 ----
 |>|>|>|>|>|>|CENTER:74|c

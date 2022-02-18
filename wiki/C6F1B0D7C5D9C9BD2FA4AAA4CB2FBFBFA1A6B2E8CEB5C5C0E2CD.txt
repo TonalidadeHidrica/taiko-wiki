@@ -127,7 +127,7 @@
 
 ~Wii U3以降。35、36小節はHS1
 ~裏譜面(旧2人用譜面)
-~&ref(u.png,nolink);
+~&ref(u_2.png,nolink);
 
 ~表譜面・普通譜面
 ~&ref(真1普.png,nolink);
@@ -142,7 +142,7 @@
 ~&ref(真2普.png,nolink);
 
 ~裏譜面・玄人譜面
-~&ref(真2玄.png,nolink);
+~&ref(真2玄_2.png,nolink);
 
 ~裏譜面・達人譜面
 ~&ref(真2達.png,nolink);

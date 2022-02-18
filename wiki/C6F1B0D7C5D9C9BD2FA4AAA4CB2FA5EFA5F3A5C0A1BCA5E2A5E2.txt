@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(momo_fix2.png,nolink);
+&attachref(momo_fix3.png,nolink);

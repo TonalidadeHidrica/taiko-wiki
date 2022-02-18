@@ -13,7 +13,7 @@
 ***譜面構成・攻略 [#capture]
 -BPMは1.97-''350''。
 --ただし、[[FLOWER>../FLOWER]]や[[Honey Heartbeat 〜10 Stars Mix〜>../Honey Heartbeat 〜10 Stars Mix〜]]と同様に、HS0.5処理をして見た目BPMを175にしている。
---上記の[[FLOWER>../FLOWER]](BPM346)を上回って''おに★×9歴代最高基本BPM''となった。また、[[INSPION>../INSPION]](BPM284)を上回って''バラエティ最高基本BPM''も更新した。
+--上記の[[FLOWER>../FLOWER]](BPM346)を上回って''おに★×9歴代最高基本BPM''となった。また、[[INSPION>../INSPION]](BPM296)を上回って''バラエティ最高基本BPM''も更新した。
 -平均密度は、''約6.23打/秒''。
 -一番最後の疑似停止部分は、''BPM1.97''であり''歴代最低BPM''である。
 

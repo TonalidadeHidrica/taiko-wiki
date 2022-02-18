@@ -146,8 +146,11 @@
 ***テイルズ オブ シリーズ [#talesof]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
+|''カルマ''&br;　　SIZE(11){テイルズ オブ ジ アビス}|194|[[★×4>難易度表/かんたん/カルマ]]|[[★×5>難易度表/ふつう/カルマ]]|[[★×5>難易度表/むずかしい/カルマ]]|[[★×7>難易度表/おに/カルマ]]|-|
 |''The arrow was shot''&br;　　SIZE(11){テイルズ オブ ジ アビス}|130-180※|[[★×5>難易度表/かんたん/テイルズ オブ ジ アビス]]|[[★×6>難易度表/ふつう/テイルズ オブ ジ アビス]]|[[★×7>難易度表/むずかしい/テイルズ オブ ジ アビス]]|[[★×8>難易度表/おに/テイルズ オブ ジ アビス]]|-|
+|''Be your wings''&br;　　SIZE(11){テイルズ オブ バーサス}|138|BGCOLOR(silver):[[★×3>難易度表/かんたん/Be your wings]]|BGCOLOR(silver):[[★×5>難易度表/ふつう/Be your wings]]|BGCOLOR(silver):[[★×6>難易度表/むずかしい/Be your wings]]|BGCOLOR(silver):[[★×7>難易度表/おに/Be your wings]]|BGCOLOR(silver):-|
 |''テイルズ オブ エクシリア メドレー''|129-247※|[[★×3>難易度表/かんたん/テイルズ オブ エクシリア メドレー]]|[[★×5>難易度表/ふつう/テイルズ オブ エクシリア メドレー]]|[[★×7>難易度表/むずかしい/テイルズ オブ エクシリア メドレー]]|[[★×8>難易度表/おに/テイルズ オブ エクシリア メドレー]]|-|
+|''believe in you''&br;　　SIZE(11){テイルズ オブ アスタリア}|127|[[★×4>難易度表/かんたん/believe in you]]|[[★×5>難易度表/ふつう/believe in you]]|[[★×6>難易度表/むずかしい/believe in you]]|[[★×7>難易度表/おに/believe in you]]|-|
 |''光る闇''&br;　　SIZE(11){テイルズ オブ ザ ワールド レーヴ ユナイティア}|160|[[★×3>難易度表/かんたん/光る闇]]|[[★×5>難易度表/ふつう/光る闇]]|[[★×5>難易度表/むずかしい/光る闇]]|[[★×8>難易度表/おに/光る闇]]|-|
 |''テイルズ オブ ゼスティリア メドレー''|134-158※|[[★×2>難易度表/かんたん/テイルズ オブ ゼスティリア メドレー]]|[[★×4>難易度表/ふつう/テイルズ オブ ゼスティリア メドレー]]|[[★×6>難易度表/むずかしい/テイルズ オブ ゼスティリア メドレー]]|[[★×8>難易度表/おに/テイルズ オブ ゼスティリア メドレー]]|-|
 |''テイルズ オブ ベルセリア メドレー''|116-236|[[★×4>難易度表/かんたん/テイルズ オブ ベルセリア メドレー]]|[[★×6>難易度表/ふつう/テイルズ オブ ベルセリア メドレー]]|[[★×6>難易度表/むずかしい/テイルズ オブ ベルセリア メドレー]]|[[★×8>難易度表/おに/テイルズ オブ ベルセリア メドレー]]|-|
@@ -329,7 +332,7 @@
 |''「ポケットモンスター サン・ムーン」メドレー''|135-182|[[★×2>難易度表/かんたん/「ポケットモンスター サン・ムーン」メドレー]]|[[★×4>難易度表/ふつう/「ポケットモンスター サン・ムーン」メドレー]]|[[★×6>難易度表/むずかしい/「ポケットモンスター サン・ムーン」メドレー]]|[[★×8>難易度表/おに/「ポケットモンスター サン・ムーン」メドレー]]|-|
 |''ポケットモンスター&br;Let's Go! ピカチュウ・Let's Go! イーブイ''|124-174※|[[★×2>難易度表/かんたん/ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]]|[[★×2>難易度表/ふつう/ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]]|[[★×5>難易度表/むずかしい/ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]]|[[★×7>難易度表/おに/ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]]|-|
 
-**ソニー・コンピュータエンタテインメント ((現ソニー・インタラクティブエンタテインメント)) [#sony]
+**ソニー・コンピュータエンタテインメント (現・ソニー・インタラクティブエンタテインメント) [#sony]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
 |''やっぱりサルゲッチュ''&br;　　SIZE(11){サルゲッチュ2}|152|BGCOLOR(silver):[[★×3>難易度表/かんたん/やっぱりサルゲッチュ]]|BGCOLOR(silver):[[★×3>難易度表/ふつう/やっぱりサルゲッチュ]]|BGCOLOR(silver):[[★×3>難易度表/むずかしい/やっぱりサルゲッチュ]]|BGCOLOR(silver):[[★×6>難易度表/おに/やっぱりサルゲッチュ]]|BGCOLOR(silver):-|
@@ -459,6 +462,10 @@
 |''決戦!!''|154|[[★×3>難易度表/かんたん/決戦!!]]|[[★×5>難易度表/ふつう/決戦!!]]|[[★×6>難易度表/むずかしい/決戦!!]]|[[★×8>難易度表/おに/決戦!!]]|-|
 
 **コナミ [#konami]
+||LEFT:60|>|>|>|>|CENTER:42|c
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
+|''本日ハ晴天ナリ''&br;　　SIZE(11){Jリーグ ウイニングイレブン タクティクス}|186※|[[★×4>難易度表/かんたん/本日ハ晴天ナリ]]|[[★×4>難易度表/ふつう/本日ハ晴天ナリ]]|[[★×5>難易度表/むずかしい/本日ハ晴天ナリ]]|[[★×7>難易度表/おに/本日ハ晴天ナリ]]|-|
+
 ***jubeat [#jubeat]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
@@ -548,9 +555,6 @@
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
 |[[''たまごっち！シリーズ''>アニメ別収録曲#tamago]]|-|-|-|-|-|-|
 |''行け、メカドン！''&br;　　SIZE(11){太鼓の達人(クレイアニメ版)}|105-148|BGCOLOR(silver):[[★×3>難易度表/かんたん/行け、メカドン！]]|BGCOLOR(silver):[[★×4>難易度表/ふつう/行け、メカドン！]]|BGCOLOR(silver):[[★×5>難易度表/むずかしい/行け、メカドン！]]|BGCOLOR(silver):[[★×8>難易度表/おに/行け、メカドン！]]|BGCOLOR(silver):-|
-|''カルマ''&br;　　SIZE(11){テイルズ オブ ジ アビス}|194|[[★×4>難易度表/かんたん/カルマ]]|[[★×5>難易度表/ふつう/カルマ]]|[[★×5>難易度表/むずかしい/カルマ]]|[[★×7>難易度表/おに/カルマ]]|-|
-|''Be your wings''&br;　　SIZE(11){テイルズ オブ バーサス}|138|BGCOLOR(silver):[[★×3>難易度表/かんたん/Be your wings]]|BGCOLOR(silver):[[★×5>難易度表/ふつう/Be your wings]]|BGCOLOR(silver):[[★×6>難易度表/むずかしい/Be your wings]]|BGCOLOR(silver):[[★×7>難易度表/おに/Be your wings]]|BGCOLOR(silver):-|
-|''believe in you''&br;　　SIZE(11){テイルズ オブ アスタリア}|127|[[★×4>難易度表/かんたん/believe in you]]|[[★×5>難易度表/ふつう/believe in you]]|[[★×6>難易度表/むずかしい/believe in you]]|[[★×7>難易度表/おに/believe in you]]|-|
 |[[''アイカツ！シリーズ''>アニメ別収録曲#aikatsu]]|-|-|-|-|-|-|
 |''Butter-Fly''&br;　　SIZE(11){デジモンアドベンチャー}|165|[[★×4>難易度表/かんたん/Butter-Fly]]|[[★×5>難易度表/ふつう/Butter-Fly]]|[[★×5>難易度表/むずかしい/Butter-Fly]]|[[★×7>難易度表/おに/Butter-Fly]]|-|
 |''Feed A''&br;　　SIZE(11){GOD EATER(TVアニメ版)}|262|[[★×4>難易度表/かんたん/Feed A]]|[[★×6>難易度表/ふつう/Feed A]]|[[★×7>難易度表/むずかしい/Feed A]]|[[★×9>難易度表/おに/Feed A]]|-|
@@ -566,11 +570,6 @@
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
 |''Be Somewhere''&br;　　SIZE(11){ロックマンエグゼStream}|153|BGCOLOR(silver):[[★×3>難易度表/かんたん/Be Somewhere]]|BGCOLOR(silver):[[★×6>難易度表/ふつう/Be Somewhere]]|BGCOLOR(silver):[[★×7>難易度表/むずかしい/Be Somewhere]]|BGCOLOR(silver):[[★×9>難易度表/おに/Be Somewhere]]|BGCOLOR(silver):-|
 
-***5pb.（現・MAGES.） [#ex5pb]
-||LEFT:60|>|>|>|>|CENTER:42|c
-|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
-|''Hacking to the Gate''&br;　　SIZE(11){シュタインズ・ゲート}|161|[[★×2>難易度表/かんたん/Hacking to the Gate]]|[[★×2>難易度表/ふつう/Hacking to the Gate]]|[[★×3>難易度表/むずかしい/Hacking to the Gate]]|[[★×6>難易度表/おに/Hacking to the Gate]]|-|
-
 ***レベルファイブ [#exlv5]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
@@ -579,13 +578,17 @@
 |[[''妖怪ウォッチシリーズ''>アニメ別収録曲#youkai]]|-|-|-|-|-|-|
 |''MOIL''&br;　　SIZE(11){二ノ国}|100|[[★×2>難易度表/かんたん/MOIL]]|[[★×2>難易度表/ふつう/MOIL]]|[[★×3>難易度表/むずかしい/MOIL]]|[[★×7>難易度表/おに/MOIL]]|-|
 
-***コナミ [#exkonami]
+***5pb. (現・MAGES.) [#ex5pb]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
-|''快晴・上昇・ハレルーヤ''&br;　　SIZE(11){遊☆戯☆王デュエルモンスターズGX}|230|[[★×5>難易度表/かんたん/快晴・上昇・ハレルーヤ]]|[[★×7>難易度表/ふつう/快晴・上昇・ハレルーヤ]]|[[★×7>難易度表/むずかしい/快晴・上昇・ハレルーヤ]]|[[★×9>難易度表/おに/快晴・上昇・ハレルーヤ]]|-|
-|''本日ハ晴天ナリ''&br;　　SIZE(11){Jリーグウイニングイレブンタクティクス}|186※|[[★×4>難易度表/かんたん/本日ハ晴天ナリ]]|[[★×4>難易度表/ふつう/本日ハ晴天ナリ]]|[[★×5>難易度表/むずかしい/本日ハ晴天ナリ]]|[[★×7>難易度表/おに/本日ハ晴天ナリ]]|-|
+|''Hacking to the Gate''&br;　　SIZE(11){シュタインズ・ゲート}|161|[[★×2>難易度表/かんたん/Hacking to the Gate]]|[[★×2>難易度表/ふつう/Hacking to the Gate]]|[[★×3>難易度表/むずかしい/Hacking to the Gate]]|[[★×6>難易度表/おに/Hacking to the Gate]]|-|
 
-***タカラトミーアーツ・シンソフィア [#exttss]
+***TYPE-MOON [#exmoon]
+||LEFT:60|>|>|>|>|CENTER:42|c
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
+|''ideal white''&br;　　SIZE(11){Fate/stay night [Unlimited Blade Works]}|180|[[★×4>難易度表/かんたん/ideal white]]|[[★×5>難易度表/ふつう/ideal white]]|[[★×6>難易度表/むずかしい/ideal white]]|[[★×7>難易度表/おに/ideal white]]|-|
+
+***タカラトミーアーツ [#exttarts]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
 |[[''プリパラシリーズ''>アニメ別収録曲#pretty]]|-|-|-|-|-|-|
@@ -593,7 +596,17 @@
 ***サクセス [#exsuccess]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
-|''なめこのうた''&br;　　SIZE(11){おさわり探偵 小沢里奈}|174|[[★×2>難易度表/かんたん/なめこのうた]]|[[★×4>難易度表/ふつう/なめこのうた]]|[[★×4>難易度表/むずかしい/なめこのうた]]|[[★×5>難易度表/おに/なめこのうた]]|[[★×9>難易度表/おに/なめこのうた(裏譜面)]]|
+|''なめこのうた''&br;　　SIZE(11){おさわり探偵 なめこ栽培キット}|174|[[★×2>難易度表/かんたん/なめこのうた]]|[[★×4>難易度表/ふつう/なめこのうた]]|[[★×4>難易度表/むずかしい/なめこのうた]]|[[★×5>難易度表/おに/なめこのうた]]|[[★×9>難易度表/おに/なめこのうた(裏譜面)]]|
+
+***EXNOA (現・DMM GAMES) [#excapcom]
+||LEFT:60|>|>|>|>|CENTER:42|c
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
+|''花丸◎日和！''&br;　　SIZE(11){刀剣乱舞-花丸-}|184※|[[★×3>難易度表/かんたん/花丸◎日和！]]|[[★×5>難易度表/ふつう/花丸◎日和！]]|[[★×7>難易度表/むずかしい/花丸◎日和！]]|[[★×8>難易度表/おに/花丸◎日和！]]|-|
+
+***ネクソン [#exnexon]
+||LEFT:60|>|>|>|>|CENTER:42|c
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
+|''ようこそジャパリパークへ''&br;　　SIZE(11){けものフレンズ}|170※|[[★×2>難易度表/かんたん/ようこそジャパリパークへ]]|[[★×2>難易度表/ふつう/ようこそジャパリパークへ]]|[[★×4>難易度表/むずかしい/ようこそジャパリパークへ]]|[[★×7>難易度表/おに/ようこそジャパリパークへ]]|-|
 
 ***Cygames [#excyge]
 ||LEFT:60|>|>|>|>|CENTER:42|c
@@ -601,7 +614,7 @@
 |''GO''&br;　　SIZE(11){グランブルーファンタジー ジ・アニメーション}|130|[[★×2>難易度表/かんたん/GO]]|[[★×4>難易度表/ふつう/GO]]|[[★×5>難易度表/むずかしい/GO]]|[[★×7>難易度表/おに/GO]]|-|
 |''Make debut!''&br;　　SIZE(11){ウマ娘 プリティーダービー}|90-180|[[★×3>難易度表/かんたん/Make debut!]]|[[★×5>難易度表/ふつう/Make debut!]]|[[★×4>難易度表/むずかしい/Make debut!]]|[[★×7>難易度表/おに/Make debut!]]|-|
 
-***f4samurai [#exsamurai]
+***アニプレックス [#exaniplex]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#5a3edb):COLOR(white):''おに&br;(裏)''|h
 |''ごまかし''&br;　　SIZE(11){マギアレコード 魔法少女まどか☆マギカ外伝}|94.5-189|[[★×3>難易度表/かんたん/ごまかし]]|[[★×6>難易度表/ふつう/ごまかし]]|[[★×5>難易度表/むずかしい/ごまかし]]|[[★×8>難易度表/おに/ごまかし]]|-|
