@@ -21,7 +21,7 @@
 ---また、任天堂以外のゲームハードに移植されたポケットモンスター関連の楽曲は、''現在に至るまでこの曲のみ''である。
 -アーティストは、''GARDEN''。
 --作詞は、GARDEN。作曲・編曲は、たなかひろかず。ホーンアレンジは、佐野聡。
--アニメ祭りでの登場以来、永らく[[WE ARE THE CHAMP〜THE NAME OF THE GAME〜>../WE ARE THE CHAMP]]とともに太鼓の達人史上''[[最も曲名が長い曲>太鼓ギネス/その他#titlelongs]]''であったが(31文字)、NS1に配信された[[ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ>../ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]](35文字)にその座を奪われた。
+-アニメ祭りでの登場以来、永らく[[WE ARE THE CHAMP〜THE NAME OF THE GAME〜>../WE ARE THE CHAMP]]とともに太鼓の達人史上''[[最も曲名が長い曲>太鼓ギネス/その他#titlelongs]]''であった((北米版TDM限定の[[Bowling For Soup - Jimmy Neutron Theme>難易度表/おに/Bowling For Soup]](32文字)を除く))が(31文字)、NS1に配信された[[ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ>../ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]](35文字)にその座を奪われた。
 --奇しくも、同じポケットモンスター関連の曲に塗り替えられる形になった。
 -曲IDは、''pkmn''。
 
