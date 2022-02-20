@@ -21,10 +21,10 @@
 --作詞・作曲は、Jorge Vasconcelo・Juha Myllyla。
 --サブタイトルにある「''「Caramelldansen」''」は本来の原題。
 --本作で使われている音源は、原曲のピッチを弄って速度を1.2倍ほど変更された「Speedycake Remix」として使われているもの。
--曲IDは、''umauma''。
--10周年記念「[[思い出の曲アンケート(リンク切れ)>http://form-taiko.namco-ch.net/]]」[[(アーカイブ)>https://web.archive.org/web/20160408040332/http://form-taiko.namco-ch.net/]] では、バラエティ部門で4位を獲得した。
+-10周年記念「[[思い出の曲アンケート(アーカイブ)>https://web.archive.org/web/20160408040332/http://form-taiko.namco-ch.net/]]」では、バラエティ部門で4位を獲得した。
 -''2014年11月5日(水)7:00をもって、新筐体の全てのバージョンからサヨナラとなった。''
 --どのCSにも収録されていないため、現在はAC12〜14でのみ遊べる。
+-曲IDは、''umauma''。
 
 ----
 -[[かんたん>難易度表/かんたん/ウッーウッーウマウマ]]

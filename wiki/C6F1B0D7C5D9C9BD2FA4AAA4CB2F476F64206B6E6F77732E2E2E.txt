@@ -33,7 +33,7 @@
 -[[ふつう>難易度表/ふつう/God knows...]]
 -[[むずかしい>難易度表/むずかしい/God knows...]]
 -おに/[[裏譜面>../God knows...(裏譜面)]]
--[[オート動画(NS1)>https://www.youtube.com/watch?v=6qeyllMLVEQ]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=L4PzFXLgpyk]]
 -[[プレイ動画(もばいる・ニコニコ動画)>https://www.nicovideo.jp/watch/sm3877802]]
 
 ***コメント [#comment]
@@ -43,5 +43,5 @@
 
 ***譜面 [#score]
 ~BPM変化
- 1小節:156.61 → 147.92
+~1小節:156.61 → 147.92
 ~&attachref(godkno_m.png,nolink);
