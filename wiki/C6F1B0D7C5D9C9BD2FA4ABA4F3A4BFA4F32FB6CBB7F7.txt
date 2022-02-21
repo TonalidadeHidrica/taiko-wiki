@@ -7,7 +7,7 @@
 |''AC15.9.7''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|''222''|''372410点''|＋連打|440点|95点|
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''?????0点''}|~|COLOR(#f30){3400点}|-|
 |AC16.1.0|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''997840点''|~|4470点|-|
-|AC16.2.12|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+|AC16.2.0|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは207。

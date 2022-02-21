@@ -8,7 +8,7 @@
 |AC15.8.1|''3DS3''&br;NS RPG|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×3|''83''|''312880点''|＋連打|1180点|655点|
 |COLOR(#f30){真打}||~|~|~|COLOR(#f30){''978250点''}|~|COLOR(#f30){11070点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''989810点''|~|11870点|-|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約106-160。

@@ -8,7 +8,7 @@
 |''AC15.7.6SP''&br;AC15.8.0|3DS3DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×3|''130''|''321860点''|＋連打|700点|263点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''983880点''}|~|COLOR(#ff3300){6170点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''995300点''|~|7630点|-|
-|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは124-224。

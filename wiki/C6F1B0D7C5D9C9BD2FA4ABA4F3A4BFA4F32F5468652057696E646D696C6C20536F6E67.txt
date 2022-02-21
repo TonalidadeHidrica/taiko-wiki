@@ -8,7 +8,7 @@
 |''AC15.4.0''|Wii U2|BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|★×4|''151''|''361710点''|720点|280点|
 |COLOR(#f30):真打||~|~|~|COLOR(#f30):''1000110点''|COLOR(#f30):6370点|-|
 |AC16.1.0||BGCOLOR(darkorchid):&COLOR(white){''ゲーム&&br;バラエティ''};|~|~|''1000400点''|6600点|-|
-|AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは125。

@@ -297,6 +297,7 @@
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):淑女ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(年頃の女性ファンが多いアニメ、ボーカロイドの曲)を選んでクリア|~|
 |〇|BGCOLOR(peru):|たいこのたしゅじん|[[COLOR(blue):Roseシリーズ>シリーズ曲一覧#rose]]、[[COLOR(blue):舞シリーズ>シリーズ曲一覧#mai]]、[[COLOR(blue):ノ乱シリーズ>シリーズ曲一覧#noran]]の各全曲、[[COLOR(blue):Xa>難易度表/おに/Xa]]をクリア|条件を満たしたプレイ後取得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
 |〇|BGCOLOR(gold):|必殺旋風剣|[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]を難易度おにで連打数530打以上でクリア||
+|〇|BGCOLOR(peru):|よき旅を|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]をクリア||
 |〇|BGCOLOR(gold):|きたさいたまの達人|[[COLOR(blue):きたさいたま2000>難易度表/おに/きたさいたま2000]]を難易度おにでフルコンボ||
 |〇|BGCOLOR(gold):|〆ドレーの達人|[[COLOR(blue):〆ドレー2000>難易度表/おに/〆ドレー2000]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|またさいたまの達人|[[COLOR(blue):またさいたま2000>難易度表/おに/またさいたま2000]]を難易度おにでフルコンボ|~|
@@ -597,11 +598,11 @@
 |〇|BGCOLOR(gold):|道化師は終焉にて嗤う|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|正体不明の明日|[[COLOR(blue):晨星ト鵺>難易度表/おに/晨星ト鵺]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|限りなき挑戦、己との約束。|[[COLOR(blue):アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|時代を踏破せし者|[[COLOR(blue):GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|パラレルリズム|[[COLOR(blue):パラレルロリポップ>難易度表/おに/パラレルロリポップ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|二重螺旋の真実に至りし者|[[COLOR(blue):Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|卵には醤油派|[[COLOR(blue):しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|

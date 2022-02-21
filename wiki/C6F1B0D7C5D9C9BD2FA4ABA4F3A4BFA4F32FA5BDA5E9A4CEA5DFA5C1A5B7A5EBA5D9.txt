@@ -7,7 +7,7 @@
 |''AC15 グラブル&br;生放送Ver.''&br;AC15.7.8|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×4|''123''|''340150点''|+連打|790点|318点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''988680点''}|~|COLOR(#ff3300){6800点}|-|
 |AC16.1.0|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''993750点''|~|8050点|-|
-|AC16.2.12|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約160。
