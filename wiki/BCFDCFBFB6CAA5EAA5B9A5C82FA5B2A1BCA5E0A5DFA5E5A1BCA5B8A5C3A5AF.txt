@@ -289,8 +289,8 @@
 |''I Want''|178ⅷ|[[→∵3>岂白刨山/かんたん/I Want]]|[[→∵5>岂白刨山/ふつう/I Want]]|[[→∵6>岂白刨山/むずかしい/I Want]]|[[→∵8>岂白刨山/おに/I Want]]|
 |''JOIN THE PAC -吕篙の茫客 Ver.-''|???|[[→∵3>岂白刨山/かんたん/JOIN THE PAC -吕篙の茫客 Ver.-]]|[[→∵3>岂白刨山/ふつう/JOIN THE PAC -吕篙の茫客 Ver.-]]|[[→∵6>岂白刨山/むずかしい/JOIN THE PAC -吕篙の茫客 Ver.-]]|[[→∵9>岂白刨山/おに/JOIN THE PAC -吕篙の茫客 Ver.-]]|
 |''Jump Up, Super Star! Short Version''|204ⅷ|[[→∵3>岂白刨山/かんたん/Jump Up, Super Star! Short Version]]|[[→∵4>岂白刨山/ふつう/Jump Up, Super Star! Short Version]]|[[→∵5>岂白刨山/むずかしい/Jump Up, Super Star! Short Version]]|[[→∵8>岂白刨山/おに/Jump Up, Super Star! Short Version]]|
-|''KAGEKIYO 富士皮蒜帕メドレ〖''|130ⅷ|[[→∵4>岂白刨山/かんたん/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵5>岂白刨山/ふつう/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵7>岂白刨山/むずかしい/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵8>岂白刨山/おに/KAGEKIYO 富士皮蒜帕メドレ〖]]|
-|''KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)''|~|BGCOLOR(#ccc):[[→∵4>岂白刨山/かんたん/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|BGCOLOR(#ccc):[[→∵5>岂白刨山/ふつう/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|BGCOLOR(#ccc):[[→∵7>岂白刨山/むずかしい/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|[[→∵10>岂白刨山/おに/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|
+|''KAGEKIYO''|130ⅷ|[[→∵4>岂白刨山/かんたん/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵5>岂白刨山/ふつう/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵7>岂白刨山/むずかしい/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵8>岂白刨山/おに/KAGEKIYO 富士皮蒜帕メドレ〖]]|
+|''KAGEKIYO(微设烫)''|~|BGCOLOR(#ccc):[[→∵4>岂白刨山/かんたん/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|BGCOLOR(#ccc):[[→∵5>岂白刨山/ふつう/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|BGCOLOR(#ccc):[[→∵7>岂白刨山/むずかしい/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|[[→∵10>岂白刨山/おに/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|
 |''KAGYUKIYO''|65-130|BGCOLOR(#ccc):[[→∵5>岂白刨山/かんたん/KAGYUKIYO]]|BGCOLOR(#ccc):[[→∵6>岂白刨山/ふつう/KAGYUKIYO]]|BGCOLOR(#ccc):[[→∵8>岂白刨山/むずかしい/KAGYUKIYO]]|BGCOLOR(#ccc):[[→∵8>岂白刨山/おに/KAGYUKIYO]]|
 |''Kamikaze Remix''|158ⅷ|[[→∵3>岂白刨山/かんたん/Kamikaze Remix]]|[[→∵6>岂白刨山/ふつう/Kamikaze Remix]]|[[→∵8>岂白刨山/むずかしい/Kamikaze Remix]]|[[→∵10>岂白刨山/おに/Kamikaze Remix]]|
 |''KARMA(Tatsujin Mix)''|145ⅷ|[[→∵4>岂白刨山/かんたん/KARMA(Tatsujin Mix)]]|[[→∵6>岂白刨山/ふつう/KARMA(Tatsujin Mix)]]|[[→∵7>岂白刨山/むずかしい/KARMA(Tatsujin Mix)]]|[[→∵9>岂白刨山/おに/KARMA(Tatsujin Mix)]]|

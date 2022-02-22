@@ -1764,7 +1764,7 @@
 |rrvdig|[[DIGITAL HORIZON>難易度表/おに/DIGITAL HORIZON]]||
 |rrvusa|[[Ridge racer (RIDGE RACER USA MIX)>難易度表/おに/Ridge racer (RIDGE RACER USA MIX)]]||
 |rt2wit|[[Where is the Target？>難易度表/おに/Where is the Target？]]|ローリングサンダー2|
-|rudolf|[[黒い猫の歌>難易度表/おに/黒い猫の歌]]||
+|rudolf|[[黒い猫の歌>難易度表/おに/黒い猫の歌]]|ルドルフとイッパイアッテナ|
 |rwrite|[[リライト>難易度表/おに/リライト]]||
 |ryogen|[[燎原ノ舞>難易度表/おに/燎原ノ舞]]||
 |ryouma|[[龍馬伝>難易度表/おに/龍馬伝]]||

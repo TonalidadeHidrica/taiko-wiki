@@ -1,4 +1,5 @@
 *twinkle night (feat. somunia) [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|h
@@ -7,6 +8,8 @@
 ***譜面構成・攻略 [#capture]
 -BPMは174。
 -''精度曲''のひとつ。
+-大音符がやや多く、''12個''(約9.83%)ある。
+--大音符の配置は[[ふつう>難易度表/ふつう/twinkle night (feat. somunia)]]・[[むずかしい>難易度表/むずかしい/twinkle night (feat. somunia)]]と同じ。
 
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/twinkle night (feat. somunia)]]を参照。
@@ -18,6 +21,8 @@
 -[[プレイ動画>https://www.youtube.com/watch?v=7hlKdTO4fik]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
