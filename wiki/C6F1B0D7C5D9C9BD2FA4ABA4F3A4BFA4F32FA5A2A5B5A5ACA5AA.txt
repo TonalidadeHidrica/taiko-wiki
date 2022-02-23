@@ -35,5 +35,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船、くすだまの長さは暫定
-&attachref(asagao_e.png,nolink);
+&attachref(asagao_easy.png,nolink);

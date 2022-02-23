@@ -46,5 +46,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船の長さは暫定
-&ref(freezer_e.png,nolink);
+&ref(freezer_easy.png,nolink);

@@ -53,4 +53,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~最後に3本非表示の小節線がある
 &attachref(xifddv_m2.png,nolink);

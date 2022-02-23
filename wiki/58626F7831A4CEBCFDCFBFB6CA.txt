@@ -6,6 +6,19 @@
 -[[公式サイト>https://taikotdmx.taiko-ch.net]]
 -[[システム詳細>CSの歴史#xbox1]]
 -[[コメント>#comment]]
+
+|CENTER:90|||c
+|>|>|CENTER:''配信楽曲''|h
+|>|>|CENTER:BGCOLOR(pink):2/24配信|
+|BGCOLOR(orange):''スタジオジブリ&br;パック''|[[''となりのトトロ''>難易度表/おに/となりのトトロ]]||
+|~|[[''海の見える街''>難易度表/おに/海の見える街]]|「魔女の宅急便」より|
+|~|[[''人生のメリーゴーランド''>難易度表/おに/人生のメリーゴーランド]]|「ハウルの動く城」より|
+|BGCOLOR(darkorchid):''ゲームミュージック&br;パック''|[[''Heat Haze Shadow 2''>難易度表/おに/Heat Haze Shadow 2]]|「鉄拳7」より|
+|~|[[''No Way Back''>難易度表/おに/No Way Back]]／[[''(裏)''>難易度表/おに/No Way Back(裏譜面)]]|「GOD EATER」より|
+|~|[[''IN THE ZONE''>難易度表/おに/IN THE ZONE]]|「ACE COMBAT X2 JOINT ASSAULT」より|
+|~|[[''EAT'EM UP!''>難易度表/おに/EAT'EM UP!]]|「R4 -RIDGE RACER TYPE4-」より|
+|~|[[''Brave Sword, Braver Soul''>難易度表/おに/ソウルキャリバーII]]|「ソウルキャリバーII」より|
+
 ----
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h

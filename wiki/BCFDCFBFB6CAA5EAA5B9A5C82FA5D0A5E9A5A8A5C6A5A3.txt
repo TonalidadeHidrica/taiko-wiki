@@ -288,8 +288,8 @@
 |''&#25745;腰''|134?|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/？腰]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/？腰]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/？腰]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/？腰]]|
 |''&#29022;科(眉&#39134;色舞)''|?|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/？科]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/？科]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/？科]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/？科]]|
 
-**ブラジル・ケニア版限定曲 [#brazilkenya]
+**ブラジル版限定曲 [#brazil]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
-|''Escatumbararib&#234;''|???|[[★×2>難易度表/かんたん/Escatumbararibe]]|[[★×3>難易度表/ふつう/Escatumbararibe]]|[[★×3>難易度表/むずかしい/Escatumbararibe]]|[[★×4>難易度表/おに/Escatumbararibe]]|
+|''Escatumbararib&#234;''|132.472|[[★×2>難易度表/かんたん/Escatumbararibe]]|[[★×3>難易度表/ふつう/Escatumbararibe]]|[[★×3>難易度表/むずかしい/Escatumbararibe]]|[[★×4>難易度表/おに/Escatumbararibe]]|
 |''Hoje &#233; Domingo''|130|[[★×2>難易度表/かんたん/Hoje e Domingo]]|[[★×3>難易度表/ふつう/Hoje e Domingo]]|[[★×3>難易度表/むずかしい/Hoje e Domingo]]|[[★×4>難易度表/おに/Hoje e Domingo]]|

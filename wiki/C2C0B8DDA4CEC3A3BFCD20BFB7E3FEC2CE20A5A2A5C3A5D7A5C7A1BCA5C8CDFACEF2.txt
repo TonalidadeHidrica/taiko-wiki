@@ -485,7 +485,7 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''2/21配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''GO ON 〜未来へ〜''>難易度表/おに/GO ON 〜未来へ〜]]|steμ respecting タイムトラベラーズ|
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''GO ON 〜未来へ〜''>難易度表/おに/GO ON 〜未来へ〜]]|太鼓 de タイムトラベル2022 / steμ respecting タイムトラベラーズ|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''3/16配信曲''(V??.??)|h
