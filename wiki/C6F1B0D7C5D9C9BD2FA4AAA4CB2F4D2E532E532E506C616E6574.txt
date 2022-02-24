@@ -44,4 +44,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~最初は、2/4→4/4(非表示)→4/4→4/4→2/4
 ~&attachref(MSSP_2.png,nolink);

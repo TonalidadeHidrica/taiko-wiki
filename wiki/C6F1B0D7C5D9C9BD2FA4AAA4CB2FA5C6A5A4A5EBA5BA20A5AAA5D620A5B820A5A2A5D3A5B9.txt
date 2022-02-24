@@ -1,4 +1,4 @@
-*テイルズ オブ ジ アビス&br;The arrow was shot((NS1での表記、1〜87小節の曲名)) [#title]
+*テイルズ オブ ジ アビス SIZE(16){&ruby(ジ){The}; &ruby(アロー){arrow}; &ruby(ワズ){was}; &ruby(ショット){shot};}&br;The arrow was shot((NS1での表記、1〜87小節の曲名)) [#title]
 -PS2用ソフト「[[''テイルズ オブ ジ アビス''>ゲーム別収録曲#talesof]]」の序盤の通常戦闘曲。 闘技場での1,2回戦目でも流れる。
 --''BUMP OF CHICKEN''の[[''カルマ''>難易度表/おに/カルマ]]がメインテーマ曲として使用されており、AC8やPSP2、iOSに収録されていた。
 

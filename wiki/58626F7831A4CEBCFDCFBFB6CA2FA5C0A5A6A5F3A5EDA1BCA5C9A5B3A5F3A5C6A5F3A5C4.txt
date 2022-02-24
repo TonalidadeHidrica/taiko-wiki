@@ -1,0 +1,29 @@
+*「太鼓の達人 The Drum Master!」のダウンロードコンテンツ [#title]
+-[[Xbox1の収録曲]]
+-配信期間：2022年2月24日 〜 配信中
+
+***配信楽曲 [#song]
+-有料 ''8'' 曲 （購入総額 935円）
+
+|>|>|>|>|>|>|CENTER:74|c
+|>|>|>|>|>|>|''ジャンルごとの曲数''|h
+|BGCOLOR(cyan):''ポップス''|BGCOLOR(orange):''アニメ''|BGCOLOR(silver):''ボーカロイド&#8482;曲''|BGCOLOR(lime):''バラエティ''|BGCOLOR(gold):''クラシック''|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|
+|''0'' 曲&br;(0%)|''3'' 曲&br;(37.5%)|''0'' 曲&br;(0%)|''0'' 曲&br;(0%)|''0'' 曲&br;(0%)|''5'' 曲&br;(62.5%)|''0'' 曲&br;(0%)|
+
+***配信パック [#pack]
+|CENTER:120||CENTER:1|CENTER:50||c
+|パック名|CENTER:パック内容|配信日|税込価格|CENTER:備考|h
+|BGCOLOR(orangered):''Taiko Beat Pass Vol. 1''|スタジオジブリパック|2022/2/24|2420円||
+|~|ゲームミュージックパック|~|~||
+|~|DLC第3弾|~|~|2022年3月配信予定|
+|~|DLC第4弾|~|~|~|
+|~|DLC第5弾|~|~|2022年4月配信予定|
+|~|DLC第6弾|~|~|~|
+|BGCOLOR(orange):''スタジオジブリパック''|[[''となりのトトロ''>難易度表/おに/となりのトトロ]]|2022/2/24|440円||
+|~|[[''海の見える街''>難易度表/おに/海の見える街]]&br;　　SIZE(11){「魔女の宅急便」より}|~|~||
+|~|[[''人生のメリーゴーランド''>難易度表/おに/人生のメリーゴーランド]]&br;　　SIZE(11){「ハウルの動く城」より}|~|~||
+|BGCOLOR(darkorchid):''ゲームミュージックパック''|[[''Heat Haze Shadow 2''>難易度表/おに/Heat Haze Shadow 2]]&br;　　SIZE(11){「鉄拳7」より}|2022/2/24|495円||
+|~|[[''No Way Back''>難易度表/おに/No Way Back]]／[[''(裏)''>難易度表/おに/No Way Back(裏譜面)]]&br;　　SIZE(11){「GOD EATER」より}|~|~||
+|~|[[''IN THE ZONE''>難易度表/おに/IN THE ZONE]]&br;　　SIZE(11){「ACE COMBAT X2 JOINT ASSAULT」より}|~|~||
+|~|[[''EAT'EM UP!''>難易度表/おに/EAT'EM UP!]]&br;　　SIZE(11){「R4 -RIDGE RACER TYPE4-」より}|~|~||
+|~|[[''Brave Sword, Braver Soul''>難易度表/おに/ソウルキャリバーII]]／[[''(裏)''>難易度表/おに/ソウルキャリバーII#another]]&br;　　SIZE(11){「ソウルキャリバーII」より}|~|~||

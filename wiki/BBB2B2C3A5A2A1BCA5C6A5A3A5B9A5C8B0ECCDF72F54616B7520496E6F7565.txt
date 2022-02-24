@@ -20,7 +20,7 @@
 -ゲームミュージック
 --[[夜明けまであと3秒>難易度表/おに/夜明けまであと3秒]]
 --[[Synchronicity>難易度表/おに/Synchronicity]]
---[[PAC TOY-BOX>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]
+--[[PAC-MAN CHAMPIONSHIP EDITION 2(PAC TOY-BOX)>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]
 --[[シンクロニカ・エアライン>難易度表/おに/シンクロニカ・エアライン]]
 --[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]] (作詞)
 -ナムコオリジナル

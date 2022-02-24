@@ -35,4 +35,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~最後に3本非表示の小節線あり
 ~&attachref(Hyper Bass_.png,nolink);

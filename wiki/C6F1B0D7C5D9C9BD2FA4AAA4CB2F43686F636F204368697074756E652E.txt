@@ -34,6 +34,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~小節線はすべて4/4(非表示含む)
 &ref(登場がちょこっと遅かった.png,nolink);
 ~見た目重視
 &ref(Choco Chiptune_f.png,nolink);

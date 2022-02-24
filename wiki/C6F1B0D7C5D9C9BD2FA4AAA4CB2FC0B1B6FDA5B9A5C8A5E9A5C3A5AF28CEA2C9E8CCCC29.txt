@@ -53,4 +53,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~113小節目の後に3本非表示の小節線があります
 ~&attachref(★星屑ストラック★(裏).png,nolink);

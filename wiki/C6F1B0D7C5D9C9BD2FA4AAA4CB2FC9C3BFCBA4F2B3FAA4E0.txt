@@ -32,4 +32,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~最初に3本、最後に1本非表示の小節線あり
 &attachref(秒針を噛む.png,nolink);
