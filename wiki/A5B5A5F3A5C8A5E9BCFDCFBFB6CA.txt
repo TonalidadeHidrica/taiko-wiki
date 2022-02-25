@@ -7,11 +7,11 @@
 ~｜[[アルファベット、数字>#alphabet]]｜
 -[[サントラ未収録曲]]
 
-**リスト 全488曲 [#list]
+**リスト 全490曲 [#list]
 |>|>|>|>|>|>|>|CENTER:99|c
 |>|>|>|>|>|>|>|''ジャンルごとの曲数''|h
 |BGCOLOR(cyan):''J-POP''|BGCOLOR(orange):''アニメ''|BGCOLOR(silver):''ボーカロイド曲''|BGCOLOR(magenta):''どうよう''|BGCOLOR(lime):''バラエティ''|BGCOLOR(gold):''クラシック''|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|
-|''1'' 曲|''0'' 曲|''14'' 曲|''2'' 曲|''9'' 曲|''33'' 曲|''37'' 曲|''392'' 曲|
+|''1'' 曲|''0'' 曲|''14'' 曲|''2'' 曲|''9'' 曲|''33'' 曲|''37'' 曲|''394'' 曲|
 
 #region(凡例)
 |50|250|50|250|c
@@ -27,11 +27,13 @@
 |かきごお|[[太鼓の達人&br;オリジナルサウンドトラック&br;かきごおり>http://city-connection.co.jp/taiko/vol05.html]]|わたがし|[[太鼓の達人&br;オリジナルサウンドトラック&br;わたがし>http://city-connection.co.jp/taiko/vol06.html]]|
 |カステラ|[[太鼓の達人&br;オリジナルサウンドトラック&br;ベビーカステラ>http://city-connection.co.jp/taiko/vol07.html]]|かたぬき|[[太鼓の達人&br;オリジナルサウンドトラック&br;かたぬき>http://city-connection.co.jp/taiko/vol08.html]]|
 |神曲|[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「神曲コレクション」>https://nex-tone.link/A00092884]]|最強乱舞|[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「最強×乱舞コレクション」>https://nex-tone.link/A00094226]]|
+|EDM|[[太鼓の達人 ナムコオリジナルサウンドトラック 「EDMコレクション」>https://music.apple.com/jp/album/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA-%E3%83%8A%E3%83%A0%E3%82%B3%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-edm%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/1609192530]]|>|BGCOLOR(#ccc):|
 #endregion
 
 |1||||55||c
 ||曲名|歌唱／グループ名|作曲／グループ名(編曲)|収録タイトル|備考|h
 |>|>|>|>|>|BGCOLOR(#ccc):CENTER:''あ行''&aname(agyo);|
+|BGCOLOR(orangered):|[[哀 want U>難易度表/おに/哀 want U]]|-|かねこちはる|EDM||
 |BGCOLOR(orangered):|[[愛想笑い>難易度表/おに/愛想笑い]]|紫崎雪|かねこちはる|わたがし||
 |BGCOLOR(orangered):|[[愛と浄罪の森>難易度表/おに/愛と浄罪の森]]|翡翠、森川あさひ、塚田明日加、taka-c、小手川拓也、叶弥生、諸岡大貴|翡翠|かたぬき||
 |BGCOLOR(orangered):|[[蒼の旋律>難易度表/おに/蒼の旋律]]|サリヤ人|AILE|ドンダ||
@@ -71,7 +73,7 @@
 |BGCOLOR(magenta):|[[おおブレネリ>難易度表/おに/おおブレネリ]]|西順子|スイス民謡(大上昌子)|フルコン||
 |BGCOLOR(orangered):|[[オール・イン・マイハート>難易度表/おに/オール・イン・マイハート]]|高木美佑／Wake Up, Girls!|ソメイヨシノ|ラムネ||
 |BGCOLOR(orangered):|[[オールナイトdeインデナイ>難易度表/おに/オールナイトdeインデナイ]]|ヨッシー|矢野義人|ドンダ&br;アケオメ||
-|BGCOLOR(orangered):|[[音虫をつかまえろ！>難易度表/おに/音虫をつかまえろ！]]|&#75;iWi|&#75;iWi|カステラ||
+|BGCOLOR(orangered):|[[音虫をつかまえろ！>難易度表/おに/音虫をつかまえろ！]]|&#75;iWi|&#75;iWi|カステラ&br;EDM||
 |BGCOLOR(silver):|[[おにぎりはどこかしら♪>難易度表/おに/おにぎりはどこかしら♪]]|初音ミク|よみぃ|たこやき||
 |BGCOLOR(darkorchid):|[[オパ！オパ！RACER -GMT mashup->難易度表/おに/オパ！オパ！RACER -GMT mashup-]]|-|COSIO／ZUNTATA|もろこし||
 |BGCOLOR(orangered):|[[おばけのお仕事>難易度表/おに/おばけのお仕事]]|森実真紀|カスヤキョウ|りんご||
@@ -321,6 +323,7 @@
 |BGCOLOR(orangered):|[[バブリィ☆クイーン>難易度表/おに/バブリィ☆クイーン]]|-|柴野浩美|フルコン||
 |BGCOLOR(darkorchid):|[[バベルの塔>難易度表/おに/バベルの塔]]|-|中潟憲雄(高田龍一)|2008||
 |BGCOLOR(orangered):|[[隼>難易度表/おに/隼]]|-|佐藤たかふみ|フルコン||
+|BGCOLOR(orangered):|[[パラレルロリポップ>難易度表/おに/パラレルロリポップ]]|-|Sho Okada|EDM||
 |BGCOLOR(orangered):|[[春竜 〜Haryu〜>難易度表/おに/春竜 〜Haryu〜]]|-|あず♪／MUSiCな気分|ソライロ&br;もろこし|出典:「さくらさくら」、「四季」より協奏曲第1番「春」|
 |BGCOLOR(orangered):|[[ハロー！どんちゃん>難易度表/おに/ハロー！どんちゃん]]|みすみゆり|みすみゆり|レッド||
 |BGCOLOR(orangered):|[[ハロー！ハロウィン>難易度表/おに/ハロー！ハロウィン]]|おおがみまさこ、akane、nobop、山本由貴子、中村彰吾|大上昌子|ドンダ||
@@ -449,7 +452,7 @@
 |BGCOLOR(orangered):|[[Choco Chiptune.>難易度表/おに/Choco Chiptune.]]|-|Ancraft|かきごお||
 |BGCOLOR(orangered):|[[dance storm>難易度表/おに/dance storm]]|-|Sampling Masters MEGA|ドンダ||
 |BGCOLOR(orangered):|[[Day by Day!>難易度表/おに/Day by Day!]]|MANA|TONES Project|カステラ||
-|BGCOLOR(orangered):|[[DEBSTEP!>難易度表/おに/DEBSTEP!]]|-|やじゅ|かきごお|うた素材:やじゅ|
+|BGCOLOR(orangered):|[[DEBSTEP!>難易度表/おに/DEBSTEP!]]|-|やじゅ|かきごお&br;EDM|うた素材:やじゅ|
 |BGCOLOR(orangered):|[[DIMENSIONS>難易度表/おに/DIMENSIONS]]|-|DUNKEL|かたぬき||
 |BGCOLOR(darkorchid):|[[Diver>難易度表/おに/Diver]]|黒瀬佳子|Kawagen Kollagen|カステラ||
 |BGCOLOR(orangered):|[[DON'T CUT>難易度表/おに/DON'T CUT]]|中川奈美|岡部啓一|ドンダ||
@@ -467,7 +470,7 @@
 |BGCOLOR(orangered):|[[Growing Up>難易度表/おに/Growing Up]]|TERRA／Mint&#74;am|a2c／Mint&#74;am|フルコン||
 |BGCOLOR(orangered):|[[G意識過剰>難易度表/おに/G意識過剰]]|紫崎雪|かねこちはる|わたがし||
 |BGCOLOR(orangered):|[[Happy & Peace>難易度表/おに/Happy ＆ Peace]]|谷本貴義|西込加久見|アニスペ||
-|BGCOLOR(orangered):|[[HARDCOREノ心得>難易度表/おに/HARDCOREノ心得]]|-|DJ Myosuke|かきごお||
+|BGCOLOR(orangered):|[[HARDCOREノ心得>難易度表/おに/HARDCOREノ心得]]|-|DJ Myosuke|かきごお&br;EDM||
 |BGCOLOR(orangered):|[[Heaven's Rider>難易度表/おに/Heaven's Rider]]|-|濱本理央|かきごお||
 |BGCOLOR(darkorchid):|[[Hole in the wall>難易度表/おに/Hole in the wall]]|蟹プリンス|遠山明孝|ドンダ||
 |BGCOLOR(orangered):|[[Hurtling Boys>難易度表/おに/Hurtling Boys]]|-|さだきち イシカダス|かきごお||
@@ -475,11 +478,11 @@
 |BGCOLOR(orangered):|[[Infinite Rebellion>難易度表/おに/Infinite Rebellion]]|-|世阿弥(黒沢ダイスケ)|ラムネ|原曲：幽玄ノ乱|
 |BGCOLOR(orangered):|[[junction>難易度表/おに/junction]]|-|中鶴潤一|かきごお||
 |BGCOLOR(darkorchid):|[[KAGEKIYO 源平討魔伝メドレー>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|-|(増渕裕二)|2008||
-|BGCOLOR(orangered):|[[KUSANAGI>難易度表/おに/KUSANAGI]]|-|aran|かきごお||
+|BGCOLOR(orangered):|[[KUSANAGI>難易度表/おに/KUSANAGI]]|-|aran|かきごお&br;EDM||
 |BGCOLOR(lime):|[[Ladystar Wandering>難易度表/おに/Ladystar Wandering]]|-|ZUN／上海アリス幻樂団(中鶴潤一)|かきごお||
 |BGCOLOR(darkorchid):|[[L・O・V・E>難易度表/おに/L・O・V・E]]|宍戸留美|戸室仁人(大久保博)|アニスペ||
 |BGCOLOR(orangered):|[[LOVE戦!!>難易度表/おに/LOVE戦!!]]|みゆ|LV.4|ドンダ||
-|BGCOLOR(orangered):|[[MATSURI D/A>難易度表/おに/MATSURI D／A]]|-|Vincent|フルコン||
+|BGCOLOR(orangered):|[[MATSURI D/A>難易度表/おに/MATSURI D／A]]|-|Vincent|フルコン&br;EDM||
 |BGCOLOR(orangered):|[[MEKADON 〜宇宙に消えたメカ太鼓〜>難易度表/おに/MEKADON]]|みすみゆり|椎名豪|2008||
 |BGCOLOR(orangered):|[[mint tears>難易度表/おに/mint tears]]|ribbon room|ribbon room|フルコン&br;神曲||
 |BGCOLOR(orangered):|[[Mulberry>難易度表/おに/Mulberry]]|茶太|みらゐ|フルコン||
@@ -497,10 +500,10 @@
 |BGCOLOR(orangered):|[[Red Rose Evangel>難易度表/おに/Red Rose Evangel]]|彩音|世阿弥|フルコン||
 |BGCOLOR(orangered):|[[R.I.>難易度表/おに/R.I.]]|-|大和、黒沢ダイスケ|かたぬき||
 |BGCOLOR(darkorchid):|[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]]|-|Sampling Masters MEGA(増渕裕二)|もろこし|ロングver.|
-|BGCOLOR(orangered):|[[Rotter Tarmination>難易度表/おに/Rotter Tarmination]]|-|Sampling Masters MEGA|フルコン||
+|BGCOLOR(orangered):|[[Rotter Tarmination>難易度表/おに/Rotter Tarmination]]|-|Sampling Masters MEGA|フルコン&br;EDM||
 |BGCOLOR(orangered):|[[SAKURA EXHAUST>難易度表/おに/SAKURA EXHAUST]]|-|濱本理央|かきごお||
 |BGCOLOR(orangered):|[[Shiny Kung-fu Revival>難易度表/おに/Shiny Kung-fu Revival]]|-|t+pazolite|ラムネ||
-|BGCOLOR(darkorchid):|[[SHOGYO MUJO 源平討魔伝リミックス>難易度表/おに/SHOGYO MUJO]]|-|中潟憲雄|もろこし||
+|BGCOLOR(darkorchid):|[[SHOGYO MUJO 源平討魔伝リミックス>難易度表/おに/SHOGYO MUJO]]|-|中潟憲雄|もろこし&br;EDM||
 |BGCOLOR(orangered):|[[SORA-&#8544; アースライズ>難易度表/おに/SORA-I アースライズ]]|-|石川敏|フルコン||
 |BGCOLOR(orangered):|[[SORA-&#8545; グリーゼ581>難易度表/おに/SORA-II グリーゼ581]]|-|高田龍一|フルコン||
 |BGCOLOR(orangered):|[[SORA-&#8546; ヘリオポーズ>難易度表/おに/SORA-III ヘリオポーズ]]|-|石川敏|フルコン||
@@ -516,7 +519,7 @@
 |BGCOLOR(orangered):|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|siroa|steμ|かきごお||
 |BGCOLOR(orangered):|[[Taiko Session 〜Live Version〜>難易度表/おに/Taiko Session〜Live Version〜]]|-|自営山|ブルー||
 |BGCOLOR(darkorchid):|[[TE-20>難易度表/おに/TE-20]]|-|相原隆行|フルコン||
-|BGCOLOR(orangered):|[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]|-|遠山明孝|2008||
+|BGCOLOR(orangered):|[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]|-|遠山明孝|2008&br;EDM||
 |BGCOLOR(orangered):|[[The Magician's Dream>難易度表/おに/The Magician's Dream]]|-|川井遠瑠|フルコン||
 |BGCOLOR(orangered):|[[Time to dine>難易度表/おに/Time to dine]]|-|トリ音|たこやき||
 |BGCOLOR(orangered):|[[Time to dine II>難易度表/その他/Time to dine II(ボス戦 辛口)]]|-|トリ音|たこやき||

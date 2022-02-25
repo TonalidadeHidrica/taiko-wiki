@@ -1,4 +1,5 @@
 *収録曲リスト/ナムコオリジナル [#title]
+
 #contents
 背景が灰色の譜面は難易度が新基準でないもの。
 **あ〜わ [#awa]
@@ -620,6 +621,7 @@
 |''Purple Rose Fusion''|185-250|[[★×5>難易度表/かんたん/Purple Rose Fusion]]|[[★×7>難易度表/ふつう/Purple Rose Fusion]]|[[★×8>難易度表/むずかしい/Purple Rose Fusion]]|[[★×10>難易度表/おに/Purple Rose Fusion]]|
 |''Red Rose Evangel''|178|[[★×5>難易度表/かんたん/Red Rose Evangel]]|[[★×7>難易度表/ふつう/Red Rose Evangel]]|[[★×7>難易度表/むずかしい/Red Rose Evangel]]|[[★×9>難易度表/おに/Red Rose Evangel]]|
 |''R.I.''|190|[[★×5>難易度表/かんたん/R.I.]]|[[★×7>難易度表/ふつう/R.I.]]|[[★×8>難易度表/むずかしい/R.I.]]|[[★×10>難易度表/おに/R.I.]]|
+|''ROTTERDAM NATION(FOO MIX)''|185-221|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(#ccc):[[★×10>難易度表/おに/ROTTERDAM NATION(FOO MIX)]]|
 |''Rotter Tarmination''|200|[[★×4>難易度表/かんたん/Rotter Tarmination]]|[[★×6>難易度表/ふつう/Rotter Tarmination]]|[[★×7>難易度表/むずかしい/Rotter Tarmination]]|[[★×8>難易度表/おに/Rotter Tarmination]]|
 |''Rotter Tarmination(裏譜面)''|~|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/Rotter Tarmination(裏譜面)]]|BGCOLOR(#ccc):[[★×7>難易度表/ふつう/Rotter Tarmination(裏譜面)]]|BGCOLOR(#ccc):[[★×8>難易度表/むずかしい/Rotter Tarmination(裏譜面)]]|[[★×10>難易度表/おに/Rotter Tarmination(裏譜面)]]|
 |''SAKURA EXHAUST''|178|[[★×3>難易度表/かんたん/SAKURA EXHAUST]]|[[★×6>難易度表/ふつう/SAKURA EXHAUST]]|[[★×7>難易度表/むずかしい/SAKURA EXHAUST]]|[[★×9>難易度表/おに/SAKURA EXHAUST]]|

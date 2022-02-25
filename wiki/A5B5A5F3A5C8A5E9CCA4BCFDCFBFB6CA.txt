@@ -9,7 +9,6 @@
 |1||||c
 ||曲名(50音順)|歌唱|作曲(編曲)|h
 |BGCOLOR(orangered):|[[Argent Memories>難易度表/おに/Argent Memories]]|YuusA|K Masera|
-|BGCOLOR(orangered):|[[哀 want U>難易度表/おに/哀 want U]]|-|かねこちはる|
 |BGCOLOR(orangered):|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|Taku Inoue|Taku Inoue|
 |BGCOLOR(orangered):|[[赤と白薔薇の魔女>難易度表/おに/赤と白薔薇の魔女]]|羽鳥玲|Dokuwaki|
 |BGCOLOR(orangered):|[[あの日出会えたキセキ>難易度表/おに/あの日出会えたキセキ]]|大瀬良あい、miko|溝口ゆうま|
@@ -73,7 +72,6 @@
 |BGCOLOR(orangered):|[[ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|DAIKI|高濱祐輔|
 |BGCOLOR(orangered):|[[ニジイロバトン>難易度表/おに/ニジイロバトン]]|はぁち|Ponchi♪|
 |BGCOLOR(orangered):|[[儚姫は原初に舞う>難易度表/おに/儚姫は原初に舞う]]|-|Se-U-Ra|
-|BGCOLOR(orangered):|[[パラレルロリポップ>難易度表/おに/パラレルロリポップ]]|-|Sho Okada|
 |BGCOLOR(orangered):|[[Hello, Worldooon!!>難易度表/おに/Hello, Worldooon!!]]|Kuroa*|Capchii|
 |BGCOLOR(orangered):|[[パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]|miko、山本椛|コバヤシユウヤ|
 |BGCOLOR(orangered):|[[ひよこ鑑定士さん>難易度表/おに/ひよこ鑑定士さん]]|ちょこ|立秋|
