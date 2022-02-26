@@ -6,9 +6,10 @@
 |''AC16.2.6SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''961''|''1004340点''|+連打|1040点|
 
 ***譜面構成・攻略 [#capture]
--BPMは約9-''300''。
--全体的に譜面が忙しく且つ見辛いため捌きにくい。
+-BPMは5?-''300''。
+-全体的に譜面が忙しくかつ見づらいため捌きにくい。
 --特に、27小節は見た目が急に遅くなるため見極めづらい。&br;COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}&br;と面が全て利き手になるので動きを覚えてリズムを合わせたり&br;COLOR(red){●}(COLOR(red){●})COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}&br;とカッコ枠のように32分間隔で面を加えて32分を利き手で叩けるようにアレンジすると良い。
+---ちなみに、ドンの間隔はBPM160の4分、カッの間隔はBPM160の14分である。(見た目もそのようになっている)
 --前半から中盤にかけてとにかく24分の○○ ○という配置が多く見切りにくい。16分間隔で○○○と逆餡蜜で譜面を覚えてからリズムを合わせると良い。
 ---逆餡蜜気味なら良で通せるので多少曖昧でもいい。
 -72〜83小節で、BPMが260で[[重金属フューギティブ>難易度表/おに/重金属フューギティブ]]と同等の速さになり、交互スキルはほぼ必須。
@@ -41,5 +42,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~BPM・HSは暫定
-~&attachref(Bachi Muchi Musclekingdom_3.png,nolink);
+~暫定譜面
+~&attachref(Bachi Muchi Musclekingdom_4.png,nolink);

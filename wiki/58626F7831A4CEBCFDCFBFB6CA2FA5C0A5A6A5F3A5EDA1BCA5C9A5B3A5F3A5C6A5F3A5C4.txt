@@ -13,7 +13,7 @@
 ***配信パック [#pack]
 |CENTER:120||CENTER:1|CENTER:50||c
 |パック名|CENTER:パック内容|配信日|税込価格|CENTER:備考|h
-|BGCOLOR(orangered):''Taiko Beat Pass Vol. 1''|スタジオジブリパック|2022/2/24|2420円||
+|BGCOLOR(orangered):''ビートパス1''|スタジオジブリパック|2022/2/24|2420円||
 |~|ゲームミュージックパック|~|~||
 |~|DLC第3弾|~|~|2022年3月配信予定|
 |~|DLC第4弾|~|~|~|
