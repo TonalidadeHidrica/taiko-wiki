@@ -56,8 +56,9 @@
 |CENTER:曲名|CENTER:変更|h
 |>|BGCOLOR(orangered):CENTER:''かんたん''|
 |[[夏祭り>難易度表/かんたん/夏祭り]]|CENTER:COLOR(blue){★×4→★×3}※|
+|[[TRAIN-TRAIN>難易度表/かんたん/TRAIN-TRAIN]]|CENTER:COLOR(blue){★×4→★×3}|
 |[[サザエさん一家>難易度表/かんたん/サザエさん一家]]|CENTER:COLOR(blue){★×2→★×4}|
-|[[タッチ>難易度表/かんたん/タッチ]]|CENTER:COLOR(red){★×2→★×4}|
+|[[タッチ>難易度表/かんたん/タッチ]]|CENTER:COLOR(red){★×2→★×3}|
 |>|BGCOLOR(lime):CENTER:''ふつう''|
 |[[夏祭り>難易度表/ふつう/夏祭り]]|CENTER:COLOR(blue){★×6→★×3}※|
 |[[大切なもの>難易度表/かんたん/大切なもの]]|CENTER:COLOR(red){★×3→★×5}|
@@ -83,6 +84,7 @@
 |CENTER:曲名|CENTER:変更|h
 |>|BGCOLOR(orangered):CENTER:''かんたん''|
 |[[サザエさん>難易度表/かんたん/サザエさん]]|CENTER:COLOR(red){★×2→★×3}|
+|[[タッチ>難易度表/かんたん/タッチ]]|CENTER:COLOR(red){★×3→★×4}|
 |[[ルパン三世のテーマ '78>難易度表/かんたん/ルパン三世のテーマ '78]]|CENTER:COLOR(red){★×4→★×5}|
 |>|BGCOLOR(lime):CENTER:''ふつう''|
 |[[いぬのおまわりさん>難易度表/ふつう/いぬのおまわりさん]]|CENTER:COLOR(blue){★×2→★×1}|
@@ -118,6 +120,7 @@
 |[[ルパン三世のテーマ '78>難易度表/かんたん/ルパン三世のテーマ '78]]|CENTER:COLOR(blue){★×5→★×4}※|
 |[[ラムのラブソング>難易度表/かんたん/ラムのラブソング]]|CENTER:COLOR(blue){★×5→★×4}|
 |[[キャンディ キャンディ>難易度表/かんたん/キャンディ キャンディ]]|CENTER:COLOR(blue){★×5→★×3}※|
+|[[TRAIN-TRAIN>難易度表/かんたん/TRAIN-TRAIN]]|CENTER:COLOR(red){★×3→★×4}|
 |[[LOVEマシーン>難易度表/かんたん/LOVEマシーン]]|CENTER:COLOR(red){★×3→★×4}※|
 |[[Toxic>難易度表/かんたん/Toxic]]|CENTER:COLOR(red){★×2→★×3}※|
 |[[ウィリアム・テル序曲>難易度表/かんたん/ウィリアム・テル序曲]]|CENTER:COLOR(red){★×3→★×4}※|

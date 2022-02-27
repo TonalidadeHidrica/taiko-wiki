@@ -46,4 +46,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~最後にもう1本小節線あり
 ~&attachref(mikumiku.png,nolink);

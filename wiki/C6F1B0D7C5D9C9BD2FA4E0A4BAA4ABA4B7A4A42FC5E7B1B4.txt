@@ -21,4 +21,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ[#score]
-&attachref(shimauta_hard.png,nolink);
+&attachref(shimauta2_hard.png,nolink);

@@ -221,7 +221,7 @@
 |''AIAIAI (feat. 中田ヤスタカ)''|128|[[★×3>難易度表/かんたん/AIAIAI (feat.中田ヤスタカ)]]|[[★×3>難易度表/ふつう/AIAIAI (feat.中田ヤスタカ)]]|[[★×4>難易度表/むずかしい/AIAIAI (feat.中田ヤスタカ)]]|[[★×7>難易度表/おに/AIAIAI (feat.中田ヤスタカ)]]|
 |''ANTI-HERO''|105※|[[★×3>難易度表/かんたん/ANTI-HERO]]|[[★×4>難易度表/ふつう/ANTI-HERO]]|[[★×5>難易度表/むずかしい/ANTI-HERO]]|[[★×8>難易度表/おに/ANTI-HERO]]|
 |''ANTI-HERO(裏譜面)''|~|-|-|-|[[★×9>難易度表/おに/ANTI-HERO(裏譜面)]]|
-|''Armor Break''|???|[[★×3>難易度表/かんたん/Armor Break]]|[[★×4>難易度表/ふつう/Armor Break]]|[[★×4>難易度表/むずかしい/Armor Break]]|[[★×7>難易度表/おに/Armor Break]]|
+|''Armor Break''|136?|[[★×3>難易度表/かんたん/Armor Break]]|[[★×4>難易度表/ふつう/Armor Break]]|[[★×4>難易度表/むずかしい/Armor Break]]|[[★×7>難易度表/おに/Armor Break]]|
 |''bad guy''|120-135|[[★×3>難易度表/かんたん/bad guy]]|[[★×5>難易度表/ふつう/bad guy]]|[[★×6>難易度表/むずかしい/bad guy]]|[[★×7>難易度表/おに/bad guy]]|
 |''believe in you''|127|[[★×4>難易度表/かんたん/believe in you]]|[[★×5>難易度表/ふつう/believe in you]]|[[★×6>難易度表/むずかしい/believe in you]]|[[★×7>難易度表/おに/believe in you]]|
 |''Butterfly(木村カエラ)''|111※|[[★×2>難易度表/かんたん/Butterfly(木村カエラ)]]|[[★×3>難易度表/ふつう/Butterfly(木村カエラ)]]|[[★×4>難易度表/むずかしい/Butterfly(木村カエラ)]]|[[★×6>難易度表/おに/Butterfly(木村カエラ)]]|
@@ -233,7 +233,7 @@
 |''Desire''|122※|[[★×3>難易度表/かんたん/Desire]]|[[★×3>難易度表/ふつう/Desire]]|[[★×7>難易度表/むずかしい/Desire]]|[[★×8>難易度表/おに/Desire]]|
 |''Dragon Night''|124※|[[★×3>難易度表/かんたん/Dragon Night]]|[[★×4>難易度表/ふつう/Dragon Night]]|[[★×5>難易度表/むずかしい/Dragon Night]]|[[★×8>難易度表/おに/Dragon Night]]|
 |''DREAMERS' PARADISE''|126|[[★×3>難易度表/かんたん/DREAMERS' PARADISE]]|[[★×4>難易度表/ふつう/DREAMERS' PARADISE]]|[[★×6>難易度表/むずかしい/DREAMERS' PARADISE]]|[[★×7>難易度表/おに/DREAMERS' PARADISE]]|
-|''Dreamin' World''|???|[[★×2>難易度表/かんたん/Dreamin' World]]|[[★×3>難易度表/ふつう/Dreamin' World]]|[[★×5>難易度表/むずかしい/Dreamin' World]]|[[★×6>難易度表/おに/Dreamin' World]]|
+|''Dreamin' World''|118|[[★×2>難易度表/かんたん/Dreamin' World]]|[[★×3>難易度表/ふつう/Dreamin' World]]|[[★×5>難易度表/むずかしい/Dreamin' World]]|[[★×6>難易度表/おに/Dreamin' World]]|
 |''Everyday、カチューシャ''|172.04|[[★×3>難易度表/かんたん/Everyday、カチューシャ]]|[[★×2>難易度表/ふつう/Everyday、カチューシャ]]|[[★×4>難易度表/むずかしい/Everyday、カチューシャ]]|[[★×6>難易度表/おに/Everyday、カチューシャ]]|
 |''EZ DO DANCE''|140|[[★×3>難易度表/かんたん/EZ DO DANCE]]|[[★×4>難易度表/ふつう/EZ DO DANCE]]|[[★×6>難易度表/むずかしい/EZ DO DANCE]]|[[★×8>難易度表/おに/EZ DO DANCE]]|
 |''EXCITE''|151|[[★×2>難易度表/かんたん/EXCITE]]|[[★×3>難易度表/ふつう/EXCITE]]|[[★×5>難易度表/むずかしい/EXCITE]]|[[★×7>難易度表/おに/EXCITE]]|
@@ -243,11 +243,11 @@
 |''Hello, Morning(裏譜面)''|~|-|-|-|[[★×8>難易度表/おに/Hello, Morning(裏譜面)]]|
 |''Hero''|98-125|[[★×2>難易度表/かんたん/Hero]]|[[★×3>難易度表/ふつう/Hero]]|[[★×3>難易度表/むずかしい/Hero]]|[[★×7>難易度表/おに/Hero]]|
 |''Highschool&#9825;love''|128|[[★×3>難易度表/かんたん/Highschool・love]]|[[★×4>難易度表/ふつう/Highschool・love]]|[[★×5>難易度表/むずかしい/Highschool・love]]|[[★×6>難易度表/おに/Highschool・love]]|
-|''HIMAWARI HAPPY''|120?-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|
+|''HIMAWARI HAPPY''|114-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|
 |''HOT LIMIT''|138|[[★×3>難易度表/かんたん/HOT LIMIT]]|[[★×4>難易度表/ふつう/HOT LIMIT]]|[[★×6>難易度表/むずかしい/HOT LIMIT]]|[[★×7>難易度表/おに/HOT LIMIT]]|
 |''HOWEVER''|80-87※|[[★×2>難易度表/かんたん/HOWEVER]]|[[★×3>難易度表/ふつう/HOWEVER]]|[[★×3>難易度表/むずかしい/HOWEVER]]|[[★×6>難易度表/おに/HOWEVER]]|
 |''I my moko''|140|[[★×3>難易度表/かんたん/I my moko]]|[[★×5>難易度表/ふつう/I my moko]]|[[★×6>難易度表/むずかしい/I my moko]]|[[★×8>難易度表/おに/I my moko]]|
-|''I Want You Back''|???|[[★×3>難易度表/かんたん/I Want You Back]]|[[★×3>難易度表/ふつう/I Want You Back]]|[[★×5>難易度表/むずかしい/I Want You Back]]|[[★×8>難易度表/おに/I Want You Back]]|
+|''I Want You Back''|98|[[★×3>難易度表/かんたん/I Want You Back]]|[[★×3>難易度表/ふつう/I Want You Back]]|[[★×5>難易度表/むずかしい/I Want You Back]]|[[★×8>難易度表/おに/I Want You Back]]|
 |''I Wish For You''|119|[[★×2>難易度表/かんたん/I Wish For You]]|[[★×2>難易度表/ふつう/I Wish For You]]|[[★×5>難易度表/むずかしい/I Wish For You]]|[[★×5>難易度表/おに/I Wish For You]]|
 |''JOINT''|170※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/JOINT]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/JOINT]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/JOINT]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/JOINT]]|
 |''JOIN US''|132※|[[★×2>難易度表/かんたん/JOIN US]]|[[★×3>難易度表/ふつう/JOIN US]]|[[★×3>難易度表/むずかしい/JOIN US]]|[[★×7>難易度表/おに/JOIN US]]|
@@ -264,7 +264,7 @@
 |''Make it!''||[[★×2>難易度表/かんたん/Make it!]]|[[★×4>難易度表/ふつう/Make it!]]|[[★×6>難易度表/むずかしい/Make it!]]|[[★×7>難易度表/おに/Make it!]]|
 |''MOIL''|100|[[★×2>難易度表/かんたん/MOIL]]|[[★×2>難易度表/ふつう/MOIL]]|[[★×3>難易度表/むずかしい/MOIL]]|[[★×7>難易度表/おに/MOIL]]|
 |''maximum the hormone''|108-201※|[[★×5>難易度表/かんたん/maximum the hormone]]|[[★×6>難易度表/ふつう/maximum the hormone]]|[[★×7>難易度表/むずかしい/maximum the hormone]]|[[★×8>難易度表/おに/maximum the hormone]]|
-|''Original Color Girls!!!!''|???|[[★×3>難易度表/かんたん/Original Color Girls!!!!]]|[[★×4>難易度表/ふつう/Original Color Girls!!!!]]|[[★×6>難易度表/むずかしい/Original Color Girls!!!!]]|[[★×8>難易度表/おに/Original Color Girls!!!!]]|
+|''Original Color Girls!!!!''|130?|[[★×3>難易度表/かんたん/Original Color Girls!!!!]]|[[★×4>難易度表/ふつう/Original Color Girls!!!!]]|[[★×6>難易度表/むずかしい/Original Color Girls!!!!]]|[[★×8>難易度表/おに/Original Color Girls!!!!]]|
 |''PEACH''|147|[[★×3>難易度表/かんたん/PEACH]]|[[★×3>難易度表/ふつう/PEACH]]|[[★×4>難易度表/むずかしい/PEACH]]|[[★×6>難易度表/おに/PEACH]]|
 |''PON PON PON''|128|[[★×3>難易度表/かんたん/PON PON PON]]|[[★×4>難易度表/ふつう/PON PON PON]]|[[★×4>難易度表/むずかしい/PON PON PON]]|[[★×6>難易度表/おに/PON PON PON]]|
 |''POP STAR''|140|[[★×3>難易度表/かんたん/POP STAR]]|[[★×3>難易度表/ふつう/POP STAR]]|[[★×4>難易度表/むずかしい/POP STAR]]|[[★×7>難易度表/おに/POP STAR]]|

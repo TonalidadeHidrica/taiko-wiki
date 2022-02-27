@@ -18,4 +18,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ[#score]
-&attachref(shimauta_easy.png,nolink);
+&attachref(shimauta2_easy.png,nolink);

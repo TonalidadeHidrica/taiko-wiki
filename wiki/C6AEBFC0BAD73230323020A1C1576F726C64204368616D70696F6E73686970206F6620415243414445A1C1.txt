@@ -46,4 +46,4 @@
 --[[''Shiny Kung-fu Revival''>難易度表/おに/Shiny Kung-fu Revival]]
 
 *決勝大会 [#efff0a5b]
-COLOR(red){''開催中止''}
+-COLOR(red){''開催中止''}

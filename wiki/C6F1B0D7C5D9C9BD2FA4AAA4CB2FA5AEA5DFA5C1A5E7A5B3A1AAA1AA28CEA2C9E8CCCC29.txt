@@ -64,4 +64,5 @@
 #pcomment(,noname)
 
 ***设烫 [#score]
+//设烫は澄年
 &attachref(ギミチョコ——(微设烫).png,nolink);

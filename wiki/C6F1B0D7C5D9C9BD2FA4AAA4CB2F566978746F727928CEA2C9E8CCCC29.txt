@@ -44,4 +44,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(VXÎ¢_3.png,nolink);
+~&attachref(vixtor_x.png,nolink);

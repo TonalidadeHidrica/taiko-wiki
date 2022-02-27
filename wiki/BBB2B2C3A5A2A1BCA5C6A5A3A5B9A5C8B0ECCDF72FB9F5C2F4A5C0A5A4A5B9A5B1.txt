@@ -19,7 +19,7 @@
 ---[[Infinite Rebellion>難易度表/おに/Infinite Rebellion]]
 ---[[濃紅>難易度表/おに/濃紅]]
 ---[[R.I.>難易度表/おに/R.I.]](大和との合作)
----[[第六天魔王>難易度表/おに/第六天魔王]](Masahiro "Godspeed" Aokiとの合作)
+---[[第六天魔王>難易度表/おに/第六天魔王]]([[Masahiro "Godspeed" Aoki>参加アーティスト一覧/青木征洋]]との合作)
 ---[[天下統一録>難易度表/おに/天下統一録]](Masahiro "Godspeed" Aokiとの合作)
 ---[[幕末維新譚>難易度表/おに/幕末維新譚]](Masahiro "Godspeed" Aokiとの合作)
 ---[[Central Dogma>難易度表/おに/Central Dogma Pt.1]] [[Pt.1>難易度表/おに/Central Dogma Pt.1(裏譜面)]]／[[Pt.2>難易度表/おに/Central Dogma Pt.2]]
@@ -38,6 +38,7 @@
 ---曼珠沙華
 ---キルト
 ---Predator's Crypto Pt.1／Pt.2
+---Phantom Razor
 
 **コメント[#comment]
 #pcomment(,noname)
