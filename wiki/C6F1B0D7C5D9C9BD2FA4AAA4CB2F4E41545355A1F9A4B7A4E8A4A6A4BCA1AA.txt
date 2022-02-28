@@ -27,7 +27,7 @@
 -''ニジイロVer.では移行初日である2020年3月24日(火)午前7:00〜4月1日(火)午前7:00の間、一時的にプレイ不可''となっていた((旧Ver.は今まで通り選曲可能だった))。
 --そして、''2021年11月22日(月)午前7:00を以て新筐体の全てのバージョンよりサヨナラ''となった。
 ---現在はこの曲を遊ぶ方法は無い。
----特にアジア版では、2021年3月24日(水)に[[Heavenly>../Heavenly Visitor]] [[Visitor>../Heavenly Visitor(裏譜面)]]と[[NO DOUBT>../NO DOUBT]]が削除されたうえ、[[DiSCOVER THE FUTURE>../DiSCOVER THE FUTURE]]が収録されていないため、アイドリッシュセブン関連の楽曲が筐体から姿を消した。
+---特にアジア版では、2021年3月24日(水)に[[Heavenly Visitor>../Heavenly Visitor]]と[[NO DOUBT>../NO DOUBT]]が削除されたうえ、[[DiSCOVER THE FUTURE>../DiSCOVER THE FUTURE]]が収録されていないため、アイドリッシュセブン関連の楽曲が筐体から姿を消した。
 -曲IDは、''i7natu''。
 
 ----
@@ -42,4 +42,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~最後に非表示の小節線が1本ある
 ~&attachref(夏しようぜ.png,nolink);

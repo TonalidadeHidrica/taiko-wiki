@@ -38,4 +38,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~3、43、59小節は7/8→1/8(非表示、ゴーゴー)
+~最後に2本非表示の小節線がある
 ~&attachref(adamas_m.png,nolink);

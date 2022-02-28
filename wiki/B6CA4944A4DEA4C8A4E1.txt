@@ -643,7 +643,8 @@
 |espera|[[願いはエスペラント>難易度表/おに/願いはエスペラント]]||
 |etbond|[[Eternal bond>難易度表/おに/Eternal bond]]||
 |etring|[[EterNal Ring>難易度表/おに/EterNal Ring]]||
-|eva|[[残酷な天使のテーゼ>難易度表/おに/残酷な天使のテーゼ]]||
+|eva|[[残酷な天使のテーゼ>難易度表/おに/残酷な天使のテーゼ]]|''エヴァ''ンゲリオン|
+//|evam20|[[Bataille Decisive>難易度表/おに/Bataille Decisive]]|~|
 |evedrm|[[ドラマツルギー>難易度表/おに/ドラマツルギー]]|Eve|
 |evekai|[[廻廻奇譚>難易度表/おに/廻廻奇譚]]|~|
 |evensb|[[ナンセンス文学>難易度表/おに/ナンセンス文学]]|~|
