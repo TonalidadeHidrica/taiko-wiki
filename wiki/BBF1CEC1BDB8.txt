@@ -58,7 +58,7 @@
 --[[太鼓の達人Wii 超ごうか版 BGM集>https://itunes.apple.com/jp/album/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BAwii-%E8%B6%85%E3%81%94%E3%81%86%E3%81%8B%E7%89%88-bgm%E9%9B%86/584619782]]
 --[[太鼓の達人 ちびドラゴンと不思議なオーブ BGM集>https://itunes.apple.com/jp/album/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA-%E3%81%A1%E3%81%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%81%A8%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%82%AA%E3%83%BC%E3%83%96-bgm%E9%9B%86/605664630]]
 --[[「そつおめしき」「時空庁時空1課」「東京特許キョ許可局局長!!」 太鼓の達人OST>http://claricedisc.shop-pro.jp/?pid=71408596]]／[[特設ページ>http://claricedisc.com/sotsuome]]
---[[太鼓の達人オリジナルサウンドトラック「ガールズポップマニア」>http://claricedisc.shop-pro.jp/?pid=76720121]]
+--[[太鼓の達人オリジナルサウンドトラック「ガールズポップマニア」>https://clariceshop.com/products/m_taiko_girls]]
 --[[太鼓の達人 オリジナルサウンドトラック りんごあめ>http://city-connection.co.jp/taiko/index.html]]
 --[[太鼓の達人 オリジナルサウンドトラック やきとうもろこし>http://city-connection.co.jp/taiko/vol02.html]]
 --[[太鼓の達人 オリジナルサウンドトラック たこやき>http://city-connection.co.jp/taiko/vol03.html]]
@@ -69,7 +69,7 @@
 --[[太鼓の達人 オリジナルサウンドトラック かたぬき>http://city-connection.co.jp/taiko/vol08.html]]
 --[[太鼓の達人 ナムコオリジナルサウンドトラック 「神曲コレクション」>https://nex-tone.link/A00092884]]
 --[[太鼓の達人 ナムコオリジナルサウンドトラック 「最強×乱舞コレクション」>https://nex-tone.link/A00094226]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「EDMコレクション」>https://music.apple.com/jp/album/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA-%E3%83%8A%E3%83%A0%E3%82%B3%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF-edm%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/1609192530]]
+--[[太鼓の達人 ナムコオリジナルサウンドトラック 「EDMコレクション」>https://nex-tone.link/A00095925]]
 
 **楽曲公募関連 [#contest]
 -[[太鼓の達人 楽曲募集だドン！]]

@@ -710,6 +710,7 @@
 -[[コメント/難易度表/おに/Bad Apple!! feat.nomico]] コメント/ナンイドオモテ/オニ/Bad Apple!! feat.nomico
 -[[コメント/難易度表/おに/Baladium's drive]] コメント/ナンイドオモテ/オニ/Baladium's drive
 -[[コメント/難易度表/おに/Baladium's drive(裏譜面)]] コメント/ナンイドオモテ/オニ/Baladium's drive(ウラフメン)
+-[[コメント/難易度表/おに/Battaille Decisive]] コメント/ナンイドオモテ/オニ/Battaille Decisive
 -[[コメント/難易度表/おに/Be Somewhere]] コメント/ナンイドオモテ/オニ/Be Somewhere
 -[[コメント/難易度表/おに/Be The One]] コメント/ナンイドオモテ/オニ/Be The One
 -[[コメント/難易度表/おに/Be your wings]] コメント/ナンイドオモテ/オニ/Be your wings
@@ -9028,8 +9029,8 @@
 -[[段位道場/ニジイロ2021/十段]] ダンイドウジョウ/ニジイロ2021/ジュウダン
 -[[段位道場/ニジイロ2021/達人]] ダンイドウジョウ/ニジイロ2021/タツジン
 -[[段位道場/ニジイロ2021/超人]] ダンイドウジョウ/ニジイロ2021/チョウジン
--[[段位道場/ニジイロ2021/二級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/ニ級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
+-[[段位道場/ニジイロ2021/二級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/二段]] ダンイドウジョウ/ニジイロ2021/ニダン
 -[[段位道場/ニジイロ2021/八段]] ダンイドウジョウ/ニジイロ2021/ハチダン
 -[[段位道場/ニジイロ2021/名人]] ダンイドウジョウ/ニジイロ2021/メイジン
@@ -9207,6 +9208,7 @@
 -[[難易度表/おに/Bad Apple!! feat.nomico]] ナンイドオモテ/オニ/Bad Apple!! feat.nomico
 -[[難易度表/おに/Baladium's drive]] ナンイドオモテ/オニ/Baladium's drive
 -[[難易度表/おに/Baladium's drive(裏譜面)]] ナンイドオモテ/オニ/Baladium's drive(ウラフメン)
+-[[難易度表/おに/Battaille Decisive]] ナンイドオモテ/オニ/Battaille Decisive
 -[[難易度表/おに/Be Somewhere]] ナンイドオモテ/オニ/Be Somewhere
 -[[難易度表/おに/Be The One]] ナンイドオモテ/オニ/Be The One
 -[[難易度表/おに/Be your wings]] ナンイドオモテ/オニ/Be your wings
@@ -11629,6 +11631,7 @@
 -[[難易度表/かんたん/Baby Shark（ベイビー・シャーク）]] ナンイドオモテ/カンタン/Baby Shark（ベイビー・シャーク）
 -[[難易度表/かんたん/Bad Apple!! feat.nomico]] ナンイドオモテ/カンタン/Bad Apple!! feat.nomico
 -[[難易度表/かんたん/Baladium's drive]] ナンイドオモテ/カンタン/Baladium's drive
+-[[難易度表/かんたん/Battaille Decisive]] ナンイドオモテ/カンタン/Battaille Decisive
 -[[難易度表/かんたん/Be Somewhere]] ナンイドオモテ/カンタン/Be Somewhere
 -[[難易度表/かんたん/Be The One]] ナンイドオモテ/カンタン/Be The One
 -[[難易度表/かんたん/Be your wings]] ナンイドオモテ/カンタン/Be your wings
@@ -14196,6 +14199,7 @@
 -[[難易度表/ふつう/Baby Shark（ベイビー・シャーク）]] ナンイドオモテ/フツウ/Baby Shark（ベイビー・シャーク）
 -[[難易度表/ふつう/Bad Apple!! feat.nomico]] ナンイドオモテ/フツウ/Bad Apple!! feat.nomico
 -[[難易度表/ふつう/Baladium's drive]] ナンイドオモテ/フツウ/Baladium's drive
+-[[難易度表/ふつう/Battaille Decisive]] ナンイドオモテ/フツウ/Battaille Decisive
 -[[難易度表/ふつう/Be Somewhere]] ナンイドオモテ/フツウ/Be Somewhere
 -[[難易度表/ふつう/Be The One]] ナンイドオモテ/フツウ/Be The One
 -[[難易度表/ふつう/Be your wings]] ナンイドオモテ/フツウ/Be your wings
@@ -16446,6 +16450,7 @@
 -[[難易度表/むずかしい/Baby Shark（ベイビー・シャーク）]] ナンイドオモテ/ムズカシイ/Baby Shark（ベイビー・シャーク）
 -[[難易度表/むずかしい/Bad Apple!! feat.nomico]] ナンイドオモテ/ムズカシイ/Bad Apple!! feat.nomico
 -[[難易度表/むずかしい/Baladium's drive]] ナンイドオモテ/ムズカシイ/Baladium's drive
+-[[難易度表/むずかしい/Battaille Decisive]] ナンイドオモテ/ムズカシイ/Battaille Decisive
 -[[難易度表/むずかしい/Battle For Justice]] ナンイドオモテ/ムズカシイ/Battle For Justice
 -[[難易度表/むずかしい/Be Somewhere]] ナンイドオモテ/ムズカシイ/Be Somewhere
 -[[難易度表/むずかしい/Be The One]] ナンイドオモテ/ムズカシイ/Be The One

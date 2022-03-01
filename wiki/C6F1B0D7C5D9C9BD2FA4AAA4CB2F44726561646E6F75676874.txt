@@ -42,5 +42,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
--中盤の長い黄色連打の小節線HSは1。
+~中盤の長い黄色連打の小節線HSは1。
 ~&attachref(表弩_4.png,nolink);

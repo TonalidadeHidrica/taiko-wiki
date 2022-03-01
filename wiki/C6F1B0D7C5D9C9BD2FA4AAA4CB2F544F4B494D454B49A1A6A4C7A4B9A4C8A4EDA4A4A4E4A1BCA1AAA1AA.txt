@@ -16,8 +16,8 @@
 -平均密度は、''約6.61打/秒''。
 
 ***その他 [#other]
--作曲は、''Ayatsugu_Otowa''。
--この譜面をフルコンボすると、''称号''「''TOKIMEKIに立ち向かいし者''」を獲得できる。 
+-作曲は、''[[Ayatsugu_Otowa>https://twitter.com/Ayatsugu_Otowa?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor]]''。
+-新筐体でこの譜面をフルコンボすると、''称号''「''TOKIMEKIに立ち向かいし者''」を獲得できる。 
 -曲IDは、''tkmdst''。
 
 ----
@@ -31,5 +31,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~HSは暫定
+~1小節目以外は全て4/4拍子(非表示を含む)
+~最後に非表示の小節線が2本ある
 ~&attachref(tokmek_z.png,nolink);

@@ -441,6 +441,7 @@
 --[[Bravely You>難易度表/おに/Bravely You]]
 --[[お願いマッスル>難易度表/おに/お願いマッスル]]
 --[[コミカルに追いかけっこ>難易度表/おに/コミカルに追いかけっこ]]▲
+--[[Battaille D&#233;cisive>難易度表/おに/Battaille Decisive]]▲
 -ボーカロイド&#8482;曲
 --[[有頂天ビバーチェ>難易度表/おに/有頂天ビバーチェ]]
 --[[からくりピエロ>難易度表/おに/からくりピエロ]]
@@ -1635,7 +1636,8 @@
 --[[マトリョシカ(裏譜面)>難易度表/おに/マトリョシカ(裏譜面)]](Wii5、iOS、Wii U1、3DS2、NS RPG)
 --[[人生リセットボタン>難易度表/おに/人生リセットボタン]](PSPDX、Wii U1、iOS)
 --[[チルドレンレコード>難易度表/おに/チルドレンレコード]](3DS3、NS RPG)
---[[IMITATION BLACK>難易度表/おに/IMITATION BLACK]](Wii U3)
+--[[IMITATION BLACK>難易度表/おに/IMITATION BLACK]](Wii U3、iOS、AR)
+--[[IMITATION BLACK(裏譜面)>難易度表/おに/IMITATION BLACK(裏譜面)]](Wii U3、iOS、AR)
 --[[十面相 colorful ver.>難易度表/おに/十面相 colorful ver.]](iOS、Wii U3、NS1)
 --[[十面相 colorful ver.(裏譜面)>難易度表/おに/十面相 colorful ver.(裏譜面)]](iOS、Wii U3、NS1)
 --[[夜咄ディセイブ>難易度表/おに/夜咄ディセイブ]](Wii U2、PS Vita1)

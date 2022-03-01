@@ -1,0 +1,24 @@
+*Battaille D&#233;cisive((「&#233;」は機種依存文字であるため、ページ名は通常の「e」を使用している)) [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''iOS&br;AR''|BGCOLOR(orange):''アニメ''|★×5|''243''|''?????0点''|＋連打|??0点|???点|
+
+***譜面構成・攻略 [#capture]
+-BPMは150?。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/Battaille Decisive]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Battaille Decisive]]
+-[[ふつう>難易度表/ふつう/Battaille Decisive]]
+-[[おに>難易度表/おに/Battaille Decisive]]
+-[[オート動画>https://www.youtube.com/watch?v=BGCbBczOZqE]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(ヱヴァ序_h.png,nolink);
