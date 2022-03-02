@@ -161,7 +161,7 @@
 |>|>|>|CENTER:''バージョンアップ配信曲''(V15.11)|h
 |BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''裸の心''>難易度表/おに/裸の心]]|TBS系 火曜ドラマ「私の家政夫ナギサさん」主題歌|
 |BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''KING''>難易度表/おに/KING]]|Kanaria feat.GUMI|
-|BGCOLOR(gold):''キッズ''|COLOR(red):''新''|[[''Viva! Spark!トロピカル〜ジュ！プリキュア''>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア]]／[[''(裏譜面)''>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア(裏譜面)]]||
+|BGCOLOR(yellow):''キッズ''|COLOR(red):''新''|[[''Viva! Spark!トロピカル〜ジュ！プリキュア''>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア]]／[[''(裏譜面)''>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア(裏譜面)]]||
 |~|COLOR(red):''新''|[[''全力全開！ゼンカイジャー''>難易度表/おに/全力全開！ゼンカイジャー]]|「機界戦隊ゼンカイジャー」より|
 
 -''アップデート翌日''に、どんメダルショップのラインナップ変更(追加) と、[[段位道場2021>段位道場]]実装 が行われた。
@@ -345,7 +345,7 @@
 -楽曲配信105。
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V20.07)|h
-|BGCOLOR(gold):''キッズ''|COLOR(red):''新''|[[''Baby Shark（ベイビー・シャーク）''>難易度表/おに/Baby Shark（ベイビー・シャーク）]]||
+|BGCOLOR(yellow):''キッズ''|COLOR(red):''新''|[[''Baby Shark（ベイビー・シャーク）''>難易度表/おに/Baby Shark（ベイビー・シャーク）]]||
 |BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''グッバイ宣言''>難易度表/おに/グッバイ宣言]]|Chinozo feat. flower|
 |BGCOLOR(lime):''バラエティ&br;(裏譜面追加)''|COLOR(red):''新''|[[''マツヨイナイトバグ(裏譜面)''>難易度表/おに/マツヨイナイトバグ(裏譜面)]]|COOL&CREATE feat.ビートまりおとまろん 「東方ダンマクカグラ」より|
 
@@ -377,7 +377,7 @@
 -2021/11/22 7:00をもって、以下の2曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V20.07)|h
-|BGCOLOR(gold):''キッズ''|[[''Over “Quartzer”''>難易度表/おに/Over “Quartzer”]]|「仮面ライダージオウ」より|
+|BGCOLOR(yellow):''キッズ''|[[''Over “Quartzer”''>難易度表/おに/Over “Quartzer”]]|「仮面ライダージオウ」より|
 |BGCOLOR(hotpink):''アニメ''|[[''NATSU☆しようぜ！''>難易度表/おに/NATSU☆しようぜ！]]|IDOLiSH7 feat.TRIGGER 「アイドリッシュセブン」より|
 
 **第131回アップデート GAME VERSION:21.10(2021/12/15実施) [#update131]
@@ -390,7 +390,7 @@
 |~|COLOR(blue):''初''|[[''シル・ヴ・プレジデント''>難易度表/おに/シル・ヴ・プレジデント]]|P丸様。|
 |BGCOLOR(hotpink):''アニメ''|COLOR(red):''新''|[[''僕の戦争''>難易度表/おに/僕の戦争]]|「進撃の巨人 Final&#83;eason」より|
 |~|COLOR(red):''新''|[[''明け星''>難易度表/おに/明け星]]||
-|BGCOLOR(gold):''キッズ''|COLOR(red):''新''|[[''Fun!Fun!Fun! 〜夢∞〜''>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|「ビッ友×戦士 キラメキパワーズ！」より|
+|BGCOLOR(yellow):''キッズ''|COLOR(red):''新''|[[''Fun!Fun!Fun! 〜夢∞〜''>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|「ビッ友×戦士 キラメキパワーズ！」より|
 |~|COLOR(red):''新''|[[''liveDevil''>難易度表/おに/liveDevil]]|「仮面ライダーリバイス」より|
 -[[Phantom Rider>難易度表/おに/Phantom Rider]]と[[Heaven’s Rider>難易度表/おに/Heaven's Rider]]にサブタイトルが追加された(非告知)。
 -一部楽曲のメインジャンルが変更された(非告知)。
@@ -488,6 +488,10 @@
 |BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''GO ON 〜未来へ〜''>難易度表/おに/GO ON 〜未来へ〜]]|太鼓 de タイムトラベル2022 / steμ respecting タイムトラベラーズ|
 
 |CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''3/3配信曲''|h
+|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''業 -善なる神とこの世の悪について-''>難易度表/おに/業 -善なる神とこの世の悪について-]]|光吉猛修 VS 穴山大輔 「CHUNITHM」より|
+
+|CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''3/16配信曲''(V??.??)|h
 |BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''Streamer''>難易度表/おに/Streamer]]|すとぷり / ツイキャス&br;「ふるふるふるーつキャンペーン」キャンペーンソング|
 
@@ -495,7 +499,7 @@
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V??.??)|h
 |BGCOLOR(cyan):''ポップス''|[[''アンビバレント''>難易度表/おに/アンビバレント]]||
-|BGCOLOR(gold):''キッズ''|[[''ヒーリングっど&#9829;プリキュア Touch!!''>難易度表/おに/ヒーリングっど・プリキュア Touch!!]]||
+|BGCOLOR(yellow):''キッズ''|[[''ヒーリングっど&#9829;プリキュア Touch!!''>難易度表/おに/ヒーリングっど・プリキュア Touch!!]]||
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''?/??配信曲((2022年ゴールデンウィーク前頃実施予定「ごほうびザクザクキャンペーン」にて獲得可能))''(V??.??)|h
@@ -505,11 +509,12 @@
 
 //ジャンルについて↓
 //BGCOLOR(cyan):''ポップス''
-//BGCOLOR(silver):''ボーカロイド&#8482;曲''
+//BGCOLOR(yellow):''キッズ''
 //BGCOLOR(hotpink):''アニメ''
-//BGCOLOR(gold):''キッズ''
-//BGCOLOR(lime):''バラエティ''
+//BGCOLOR(silver):''ボーカロイド&#8482;曲''
 //BGCOLOR(darkorchid):''ゲーム&br;ミュージック''
+//BGCOLOR(lime):''バラエティ''
+//BGCOLOR(gold):''クラシック''
 //BGCOLOR(orangered):''ナムコ&br;オリジナル''
 //COLOR(red):''新''
 //COLOR(blue):''初''
