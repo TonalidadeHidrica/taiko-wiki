@@ -1125,68 +1125,67 @@
 |1017|[[Make debut!>難易度表/おに/Make debut!]]|BGCOLOR(hotpink):アニメ|?||
 |1018|[[ベノム(feat.flower)>難易度表/おに/ベノム(feat.flower)]]|BGCOLOR(darkgray):ボカロ|vfveno||
 |1019|[[駆け抜けてゆく>難易度表/おに/駆け抜けてゆく]]|BGCOLOR(darkorchid):ゲーミュ|?||
-|1020|[[乱数調整のリバースシンデレラ>難易度表/おに/乱数調整のリバースシンデレラ]]|BGCOLOR(cyan): ポップス|ssnrns||
+|1020|[[乱数調整のリバースシンデレラ>難易度表/おに/乱数調整のリバースシンデレラ]]|BGCOLOR(cyan):ポップス|ssnrns||
 |1021|[[Donder Time>難易度表/おに/Donder Time]]|BGCOLOR(orangered):ナムオリ|20tcty||
 |1022|[[ウィーアー！>難易度表/おに/ウィーアー！(初代)]]|BGCOLOR(hotpink):アニメ|weare0||
 |1023|[[DDU-DU DDU-DU>難易度表/おに/DDU-DU DDU-DU]]|BGCOLOR(cyan):ポップス|?||
 |1024|[[bad guy>難易度表/おに/bad guy]]|BGCOLOR(cyan):ポップス|?||
 |1025|非公開|BGCOLOR(#333):？？？|?||
-|1026|[[睡蓮花>難易度表/おに/睡蓮花]]|BGCOLOR(cyan): ポップス|?||
-|1027|[[夏祭り / ジッタリン・ジン >難易度表/おに/夏祭り ／ ジッタリン・ジン]]|BGCOLOR(cyan): ポップス|natsuj||
-|1028|[[群青>難易度表/おに/群青]]|BGCOLOR(cyan): ポップス|gunjou||
-|1029|[[カラフル・パーティ>難易度表/おに/カラフル・パーティ]]|BGCOLOR(yellow): キッズ|?||
-|1030|[[ヴァンパイア>難易度表/おに/ヴァンパイア]]|BGCOLOR(darkgray): ボカロ|mikvam||
-|1031|[[Hello, Worldooon!!>難易度表/おに/Hello, Worldooon!!]]|BGCOLOR(orangered): ナムオリ|?||
-|1032|[[Emma>難易度表/おに/Emma]]|BGCOLOR(orangered): ナムオリ|?||
-|1033|[[Aloft in the wind>難易度表/おに/Aloft in the wind]]|BGCOLOR(orangered): ナムオリ|?||
-|1034|[[幻想に咲いた花>難易度表/おに/幻想に咲いた花]]|BGCOLOR(lime): バラエティ|?||
-|1035|[[マツヨイナイトバグ>難易度表/おに/マツヨイナイトバグ]]|BGCOLOR(lime): バラエティ|?||
-|1036|[[恋はドント・ダウト>難易度表/おに/恋はドント・ダウト]]|BGCOLOR(orangered): ナムオリ|20tidl||
-|1037|[[BATTLE NO.1>難易度表/おに/BATTLE NO.1]]|BGCOLOR(lime): バラエティ|?||
-|1038|[[Walking with you>難易度表/おに/Walking with you]]|BGCOLOR(cyan): ポップス|nbwalk||
-|1039|[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]|BGCOLOR(orangered): ナムオリ|?||
-|1040|[[魑魅魍魎>難易度表/おに/魑魅魍魎]]|BGCOLOR(orangered): ナムオリ|?||
-|1041|[[†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|BGCOLOR(orangered): ナムオリ|?||
-|1042|[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]|BGCOLOR(orangered): ナムオリ|?||
-|1043|[[憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]|BGCOLOR(orangered): ナムオリ|?||
-|1044|[[大冒険タツドン>難易度表/おに/大冒険タツドン]]|BGCOLOR(orangered): ナムオリ|20tanm||
-|1045|[[一世風靡>難易度表/おに/一世風靡]]|BGCOLOR(orangered): ナムオリ|20tbtu||
-|1046|[[怪獣少女は火を吹かない>難易度表/おに/怪獣少女は火を吹かない]]|BGCOLOR(darkgray): ボカロ|ssnkjs||
-|1047|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]|BGCOLOR(orangered): ナムオリ|?||
+|1026|[[睡蓮花>難易度表/おに/睡蓮花]]|BGCOLOR(cyan):ポップス|?||
+|1027|[[夏祭り / ジッタリン・ジン >難易度表/おに/夏祭り ／ ジッタリン・ジン]]|BGCOLOR(cyan):ポップス|natsuj||
+|1028|[[群青>難易度表/おに/群青]]|BGCOLOR(cyan):ポップス|gunjou||
+|1029|[[カラフル・パーティ>難易度表/おに/カラフル・パーティ]]|BGCOLOR(yellow):キッズ|?||
+|1030|[[ヴァンパイア>難易度表/おに/ヴァンパイア]]|BGCOLOR(darkgray):ボカロ|mikvam||
+|1031|[[Hello, Worldooon!!>難易度表/おに/Hello, Worldooon!!]]|BGCOLOR(orangered):ナムオリ|?||
+|1032|[[Emma>難易度表/おに/Emma]]|BGCOLOR(orangered):ナムオリ|?||
+|1033|[[Aloft in the wind>難易度表/おに/Aloft in the wind]]|BGCOLOR(orangered):ナムオリ|?||
+|1034|[[幻想に咲いた花>難易度表/おに/幻想に咲いた花]]|BGCOLOR(lime):バラエティ|?||
+|1035|[[マツヨイナイトバグ>難易度表/おに/マツヨイナイトバグ]]|BGCOLOR(lime):バラエティ|?||
+|1036|[[恋はドント・ダウト>難易度表/おに/恋はドント・ダウト]]|BGCOLOR(orangered):ナムオリ|20tidl||
+|1037|[[BATTLE NO.1>難易度表/おに/BATTLE NO.1]]|BGCOLOR(lime):バラエティ|?||
+|1038|[[Walking with you>難易度表/おに/Walking with you]]|BGCOLOR(cyan):ポップス|nbwalk||
+|1039|[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]|BGCOLOR(orangered):ナムオリ|?||
+|1040|[[魑魅魍魎>難易度表/おに/魑魅魍魎]]|BGCOLOR(orangered):ナムオリ|?||
+|1041|[[†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|BGCOLOR(orangered):ナムオリ|?||
+|1042|[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]|BGCOLOR(orangered):ナムオリ|?||
+|1043|[[憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]|BGCOLOR(orangered):ナムオリ|?||
+|1044|[[大冒険タツドン>難易度表/おに/大冒険タツドン]]|BGCOLOR(orangered):ナムオリ|20tanm||
+|1045|[[一世風靡>難易度表/おに/一世風靡]]|BGCOLOR(orangered):ナムオリ|20tbtu||
+|1046|[[怪獣少女は火を吹かない>難易度表/おに/怪獣少女は火を吹かない]]|BGCOLOR(darkgray):ボカロ|ssnkjs||
+|1047|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]|BGCOLOR(orangered):ナムオリ|?||
 |1048|[[アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]|BGCOLOR(orangered):ナムオリ|?||
 |1049|[[晨星ト鵺>難易度表/おに/晨星ト鵺]]|BGCOLOR(orangered):ナムオリ|?||
 |1050|[[Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]|BGCOLOR(orangered):ナムオリ|?||
-|1051|[[punk bastards>難易度表/おに/punk bastards]]|BGCOLOR(orangered): ナムオリ|?||
-|1052|[[仮想現実のテレスコープ>難易度表/おに/仮想現実のテレスコープ]]|BGCOLOR(orangered): ナムオリ|?||
-|1053|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|BGCOLOR(orangered): ナムオリ|20thei||
-|1054|[[第六感>難易度表/おに/第六感]]|BGCOLOR(cyan): ポップス|?||
+|1051|[[punk bastards>難易度表/おに/punk bastards]]|BGCOLOR(orangered):ナムオリ|?||
+|1052|[[仮想現実のテレスコープ>難易度表/おに/仮想現実のテレスコープ]]|BGCOLOR(orangered):ナムオリ|?||
+|1053|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|BGCOLOR(orangered):ナムオリ|20thei||
+|1054|[[第六感>難易度表/おに/第六感]]|BGCOLOR(cyan):ポップス|?||
 |1055|[[Baby Shark（ベイビー・シャーク）>難易度表/おに/Baby Shark（ベイビー・シャーク）]]|BGCOLOR(yellow):キッズ|?||
 |1056|[[グッバイ宣言>難易度表/おに/グッバイ宣言]]|BGCOLOR(darkgray):ボカロ|vfgbs||
 |1057|[[ウサテイ>難易度表/おに/ウサテイ]]|BGCOLOR(lime):バラエティ|?||
-|1058|[[大好きな太鼓の音>難易度表/おに/大好きな太鼓の音]]|BGCOLOR(orangered): ナムオリ|ssn3rd||
-|1059|[[踊>難易度表/おに/踊]]|BGCOLOR(cyan): ポップス|adodo||
-|1060|[[YONA YONA DANCE>難易度表/おに/YONA YONA DANCE]]|BGCOLOR(cyan): ポップス|?||
-|1061|[[シル・ヴ・プレジデント>難易度表/おに/シル・ヴ・プレジデント]]|BGCOLOR(cyan): ポップス|siruvu||
+|1058|[[大好きな太鼓の音>難易度表/おに/大好きな太鼓の音]]|BGCOLOR(orangered):ナムオリ|ssn3rd||
+|1059|[[踊>難易度表/おに/踊]]|BGCOLOR(cyan):ポップス|adodo||
+|1060|[[YONA YONA DANCE>難易度表/おに/YONA YONA DANCE]]|BGCOLOR(cyan):ポップス|?||
+|1061|[[シル・ヴ・プレジデント>難易度表/おに/シル・ヴ・プレジデント]]|BGCOLOR(cyan):ポップス|siruvu||
 |1062|[[僕の戦争>難易度表/おに/僕の戦争]]|BGCOLOR(hotpink):アニメ|?||
 |1063|[[明け星>難易度表/おに/明け星]]|BGCOLOR(hotpink):アニメ|?||
 |1064|[[Fun!Fun!Fun! 〜夢∞〜>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|BGCOLOR(yellow):キッズ|?||
 |1065|[[liveDevil>難易度表/おに/liveDevil]]|BGCOLOR(yellow):キッズ|?||
-|1066|[[たいこの2000>難易度表/おに/たいこの2000]]|BGCOLOR(orangered): ナムオリ|20tbc||
-|1067|[[Agent Hustle & Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|BGCOLOR(orangered): ナムオリ|?||
-|1068|[[Spectral Rider>難易度表/おに/Spectral Rider]]|BGCOLOR(orangered): ナムオリ|?||
-|1069|[[Solitude Star>難易度表/おに/Solitude Star]]|BGCOLOR(orangered): ナムオリ|solstr||
-|1070|[[どんちゃん世界旅行>難易度表/おに/どんちゃん 世界旅行]]|BGCOLOR(orangered): ナムオリ|bko1||
-|1071|[[ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|BGCOLOR(orangered): ナムオリ|?||
-|1072|[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|BGCOLOR(orangered): ナムオリ|20t765||
-|1073|[[スキスキ星人>難易度表/おに/スキスキ星人]]|BGCOLOR(cyan): ポップス|?||
-|1074|非公開|BGCOLOR(#333): ？？？|?||
-|1075|非公開|BGCOLOR(#333): ？？？|?||
-|1076|非公開|BGCOLOR(#333): ？？？|?||
-|1077|[[シンデレラ>難易度表/おに/シンデレラ]]|BGCOLOR(darkgray): ボカロ|?||
-|1078|[[ストロベリー☆プラネット！>難易度表/おに/ストロベリー☆プラネット！]]|BGCOLOR(cyan): ポップス|?||
-|1079|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|BGCOLOR(orangered): ナムオリ|?||
-|1080|非公開|BGCOLOR(darkorchid): ゲーミュ|?||
-//|1080|[[業 -善なる神とこの世の悪について->難易度表/おに/業 -善なる神とこの世の悪について-]]|BGCOLOR(darkorchid): ゲーミュ|?||
+|1066|[[たいこの2000>難易度表/おに/たいこの2000]]|BGCOLOR(orangered):ナムオリ|20tbc||
+|1067|[[Agent Hustle & Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|BGCOLOR(orangered):ナムオリ|?||
+|1068|[[Spectral Rider>難易度表/おに/Spectral Rider]]|BGCOLOR(orangered):ナムオリ|?||
+|1069|[[Solitude Star>難易度表/おに/Solitude Star]]|BGCOLOR(orangered):ナムオリ|solstr||
+|1070|[[どんちゃん世界旅行>難易度表/おに/どんちゃん 世界旅行]]|BGCOLOR(orangered):ナムオリ|bko1||
+|1071|[[ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|BGCOLOR(orangered):ナムオリ|?||
+|1072|[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|BGCOLOR(orangered):ナムオリ|20t765||
+|1073|[[スキスキ星人>難易度表/おに/スキスキ星人]]|BGCOLOR(cyan):ポップス|?||
+|1074|非公開|BGCOLOR(#333):？？？|?||
+|1075|非公開|BGCOLOR(#333):？？？|?||
+|1076|非公開|BGCOLOR(#333):？？？|?||
+|1077|[[シンデレラ>難易度表/おに/シンデレラ]]|BGCOLOR(darkgray):ボカロ|?||
+|1078|[[ストロベリー☆プラネット！>難易度表/おに/ストロベリー☆プラネット！]]|BGCOLOR(cyan):ポップス|?||
+|1079|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|BGCOLOR(orangered):ナムオリ|?||
+|1080|[[業 -善なる神とこの世の悪について->難易度表/おに/業 -善なる神とこの世の悪について-]]|BGCOLOR(darkorchid):ゲーミュ|?||
 
 **未確認 [#lostn]
 |>|>|>|CENTER:||c

@@ -6,8 +6,8 @@
 --ただし、自社のシンクロニカへの移植時のみ、太鼓チームではなくシンクロニカ側で独自にジャケットが制作される。
 
 **ナムコオリジナル [#namco]
-|>|CENTER:|CENTER:|CENTER:|CENTER:|c
-|SIZE(30):|CENTER:収録曲|CENTER:アーティスト|CENTER:初出機種とVer.|CENTER:備考|h
+|>|>|>|>|CENTER:|c
+|SIZE(30):|収録曲|アーティスト|初出機種とVer.|備考|h
 |&attachref(saitama.png);|[[''さいたま2000''>難易度表/おに/さいたま2000]]|[[LindaAI-CUE>参加アーティスト一覧/LindaAI-CUE]]|「''ミュージックガンガン！2''」&br;「''シンクロニカ''」|「シンクロニカ」ではカードで1回遊んで解禁する必要あり。|
 |&attachref(kita.png);|[[''きたさいたま2000''>難易度表/おに/きたさいたま2000]]|LindaAI-CUE|「''jubeat saucer fulfill''」&br;「''maimai ORANGE''」&br;「''GROOVE COASTER EX''」&br;「''SOUND VOLTEX III GRAVITY WARS''」&br;「''シンクロニカ''」|SOUND VOLTEX/シンクロニカ：[[「''第二回天下一音ゲ祭''」>第二回天下一音ゲ祭]]課題曲による移植。&br;それ以外：[[「''天下一音ゲ祭 全国一斉認定大会''」>天下一音ゲ祭 全国一斉認定大会]]課題曲による移植。|
 |&attachref(ignis.png);|[[''Ignis Danse''>難易度表/おに/Ignis Danse]]|[[Yuji Masubuchi>参加アーティスト一覧/増渕裕二]]|「''jubeat saucer fulfill''」&br;「''maimai ORANGE''」&br;「''GROOVE COASTER EX''」|「''天下一音ゲ祭 全国一斉認定大会''」による書き下ろし曲。|
@@ -20,19 +20,19 @@
 |&attachref(toryu.png);|[[''冬竜''>難易度表/おに/冬竜 〜Toryu〜]] [[''〜Toryu〜''>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]|[[あず♪>参加アーティスト一覧/あず♪]]|「''シンクロニカ''」&br;「''DEEMO -Reborn-''」||
 |&attachref(so2ome.png);|[[''そつおめしき''>難易度表/おに/そつおめしき]]|[[unmo>参加アーティスト一覧/unmo]]|「''シンクロニカ''」||
 |&attachref(muneqn.png);|[[''ドキドキ胸きゅん おまつりタイム''>難易度表/おに/ドキドキ胸きゅん おまつりタイム]]|[[MOES>参加アーティスト一覧/MOES]]|~||
-||[[''友情ぽっぷ''>難易度表/おに/友情ぽっぷ]]|[[みらゐ>参加アーティスト一覧/みらゐ]]×在藤銀 feat.[[茶太>参加アーティスト一覧/茶太]]|~||
-||[[''Choco Chiptune.''>難易度表/おに/Choco Chiptune.]]|Ancraft|~||
+|&attachref(ujopop.JPG);|[[''友情ぽっぷ''>難易度表/おに/友情ぽっぷ]]|[[みらゐ>参加アーティスト一覧/みらゐ]]×在藤銀 feat.[[茶太>参加アーティスト一覧/茶太]]|~||
+|&attachref(cchipt.JPG);|[[''Choco Chiptune.''>難易度表/おに/Choco Chiptune.]]|Ancraft|~||
 |&attachref(sakura.png);|[[''SAKURA EXHAUST''>難易度表/おに/SAKURA EXHAUST]]|[[Rio Hamamoto>参加アーティスト一覧/濱本理央]]|「''crossbeats REV. SUNRISE''」|コラボによる相互移植で、[[Over Clock 〜開放〜>難易度表/おに/Over Clock 〜開放〜]]との交換。ただし初出はあちらが先。|
 |&attachref(butou5.png);|[[''百花繚乱''>難易度表/おに/百花繚乱]]|[[西込加久見>参加アーティスト一覧/西込加久見]]|「''DEEMO''」((スマートフォンアプリ))|コラボによる相互移植で、[[Saika>難易度表/おに/Saika]]との交換。|
-||[[''3piece-JazzParty!''>難易度表/おに/3piece-JazzParty!]]|ミハイル|「''DEEMO -Reborn-''」((スマートフォンアプリ))|コラボによる相互移植で、[[Leviathan>難易度表/おに/Leviathan]]、[[Wish upon a shooting star>難易度表/おに/Wish upon a shooting star]]、[[MagiCatz>難易度表/おに/MagiCatz]]、[[ANiMA>難易度表/おに/ANiMA]]の4曲との交換。|
-||[[''凛''>難易度表/おに/凛]]|a_hisa|~|~|
-||[[''No Gravity''>難易度表/おに/No Gravity]]|Lyo|~|~|
-||[[''懐中庭園を持つ少女''>難易度表/おに/懐中庭園を持つ少女]]|[[はるなば>参加アーティスト一覧/はるなば]] feat.[[石黒千尋>参加アーティスト一覧/石黒千尋]]|~|~|
-||[[''8OROCHI''>難易度表/おに/8OROCHI]]|[[REDALiCE>参加アーティスト一覧/REDALiCE]]|「''オンゲキbright MEMORY''」|CHUNITHMの[[業 -善なる神とこの世の悪について->難易度表/おに/業 -善なる神とこの世の悪について-]]との交換。「''CHUNITHM NEW''」にも収録予定。|
+|&attachref(3pcjaz.jpg);|[[''3piece-JazzParty!''>難易度表/おに/3piece-JazzParty!]]|ミハイル|「''DEEMO -Reborn-''」((スマートフォンアプリ))|コラボによる相互移植で、[[Leviathan>難易度表/おに/Leviathan]]、[[Wish upon a shooting star>難易度表/おに/Wish upon a shooting star]]、[[MagiCatz>難易度表/おに/MagiCatz]]、[[ANiMA>難易度表/おに/ANiMA]]の4曲との交換。|
+|&attachref(rinhis.PNG);|[[''凛''>難易度表/おに/凛]]|a_hisa|~|~|
+|&attachref(nograv.jpg);|[[''No Gravity''>難易度表/おに/No Gravity]]|Lyo|~|~|
+|&attachref(kteien.PNG);|[[''懐中庭園を持つ少女''>難易度表/おに/懐中庭園を持つ少女]]|[[はるなば>参加アーティスト一覧/はるなば]] feat.[[石黒千尋>参加アーティスト一覧/石黒千尋]]|~|~|
+|&attachref(orochi.PNG);|[[''8OROCHI''>難易度表/おに/8OROCHI]]|[[REDALiCE>参加アーティスト一覧/REDALiCE]]|「''オンゲキbright MEMORY''」|CHUNITHMの[[業 -善なる神とこの世の悪について->難易度表/おに/業 -善なる神とこの世の悪について-]]との交換。「''CHUNITHM NEW''」にも収録予定。|
 
 **ゲームミュージック [#game]
-|>|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|CENTER:収録曲|CENTER:アーティスト|CENTER:初出機種とVer.|CENTER:備考|h
+|>|>|>|>|CENTER:|c
+|>|収録曲|アーティスト|初出機種とVer.|備考|h
 |&attachref(drasp.png);|[[''ドラゴンスピリットメドレー''>難易度表/おに/ドラゴンスピリットメドレー]]|バンダイナムコエンターテインメント|「''GROOVE COASTER 3''」|一部曲がカットされている。|
 |&attachref(bf.png);|[[''バーニングフォースメドレー''>難易度表/おに/バーニングフォースメドレー]]|バンダイナムコエンターテインメント|「''GROOVE COASTER 3EX DREAM PARTY''」||
 |&attachref(namcot.png);|[[''ナムコットメドレー''>難易度表/おに/ナムコットメドレー]]|バンダイナムコエンターテインメント|「''GROOVE COASTER 4 STARLIGHT ROAD''」||
@@ -40,8 +40,8 @@
 -これとは別に、グルーヴコースターにはF/Aより「RAVE WAR」が収録されているが、この曲は太鼓の達人への収録実績がない（太鼓に収録されたF/Aの曲は「[[DESERT STORM>難易度表/おに/DESERT STORM]]」）。
 
 **一覧 [#list]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|CENTER:曲名|CENTER:ジャンル|CENTER:jubeat|CENTER:maimai|CENTER:グルコス|CENTER:SDVX|CENTER:シンクロ|CENTER:チュウニ|CENTER:ＤＥＥＭＯ|CENTER:その他|h
+|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:|c
+|曲名|ジャンル|jubeat|maimai|グルコス|SDVX|シンクロ|チュウニ|DEEMO|その他|h
 |[[さいたま2000>難易度表/おに/さいたま2000]]|ナムコオリジナル|×|×|×|×|○|×|×|○((ミュージックガンガン！))|
 |[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|ナムコオリジナル|○|○|○|○|○|×|×|×|
 |[[Ignis Danse>難易度表/おに/Ignis Danse]]|ナムコオリジナル|○|○|○|×|×|×|×|×|
@@ -54,7 +54,7 @@
 |[[ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]|ゲームミュージック|×|×|○|×|×|×|×|×|
 |[[SAKURA EXHAUST>難易度表/おに/SAKURA EXHAUST]]|ナムコオリジナル|×|×|×|×|×|×|×|○((crossbeats))|
 |[[セイクリッド>難易度表/おに/セイクリッド ルイン]] [[ルイン>難易度表/おに/セイクリッド ルイン(裏譜面)]]|ナムコオリジナル|×|○|○|○|○|○|×|×|
-|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|ナムコオリジナル|×|×|○|○|○|○|×|×|
+|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|ナムコオリジナル|×|×|○|○|×|○|×|×|
 |[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|ナムコオリジナル|×|×|×|×|○|×|×|×|
 |[[バーニングフォースメドレー>難易度表/おに/バーニングフォースメドレー]]|ゲームミュージック|×|×|○|×|×|×|×|×|
 |[[百花繚乱>難易度表/おに/百花繚乱]]|ナムコオリジナル|×|×|×|×|×|×|○|×|
