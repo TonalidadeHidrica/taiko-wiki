@@ -1,6 +1,7 @@
 *&ruby(ベルメイ){bermei};.&ruby(イナザワ){inazawa};｜Koichi Murakami[#title]
 -フリーの作曲家。
 -[[studioCampanella>http://www.studio-campanella.com/]]
+-[[Twitter>https://twitter.com/bermei_inazawa]]
 -作品一覧
 --ナムコオリジナル
 ---[[クルクルクロックル>難易度表/おに/クルクルクロックル]]

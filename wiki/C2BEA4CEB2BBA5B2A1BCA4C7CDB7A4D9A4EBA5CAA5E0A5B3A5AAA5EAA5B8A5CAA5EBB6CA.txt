@@ -8,7 +8,7 @@
 **ナムコオリジナル [#namco]
 |>|>|>|>|CENTER:|c
 |SIZE(30):|収録曲|アーティスト|初出機種とVer.|備考|h
-|&attachref(saitama.png);|[[''さいたま2000''>難易度表/おに/さいたま2000]]|[[LindaAI-CUE>参加アーティスト一覧/LindaAI-CUE]]|「''ミュージックガンガン！2''」&br;「''シンクロニカ''」|「シンクロニカ」ではカードで1回遊んで解禁する必要あり。|
+|&attachref(saitama.png);|[[''さいたま2000''>難易度表/おに/さいたま2000]]|[[LindaAI-CUE>参加アーティスト一覧/LindaAI-CUE]]|「''ミュージックガンガン！2''」&br;「''シンクロニカ''」|「シンクロニカ」では%%カードで1回遊んで解禁する必要あり%%ネットワークサービス終了に伴い、2019/10/1から解禁不要になった。|
 |&attachref(kita.png);|[[''きたさいたま2000''>難易度表/おに/きたさいたま2000]]|LindaAI-CUE|「''jubeat saucer fulfill''」&br;「''maimai ORANGE''」&br;「''GROOVE COASTER EX''」&br;「''SOUND VOLTEX III GRAVITY WARS''」&br;「''シンクロニカ''」|SOUND VOLTEX/シンクロニカ：[[「''第二回天下一音ゲ祭''」>第二回天下一音ゲ祭]]課題曲による移植。&br;それ以外：[[「''天下一音ゲ祭 全国一斉認定大会''」>天下一音ゲ祭 全国一斉認定大会]]課題曲による移植。|
 |&attachref(ignis.png);|[[''Ignis Danse''>難易度表/おに/Ignis Danse]]|[[Yuji Masubuchi>参加アーティスト一覧/増渕裕二]]|「''jubeat saucer fulfill''」&br;「''maimai ORANGE''」&br;「''GROOVE COASTER EX''」|「''天下一音ゲ祭 全国一斉認定大会''」による書き下ろし曲。|
 |&attachref(sruin1.jpg);((シンクロニカのみ、ジャケでは「太鼓の達人」ロゴと権利者表記は無い。))|[[''セイクリッド ルイン''>難易度表/おに/セイクリッド ルイン]]|[[Drop>参加アーティスト一覧/Drop]]&[[祇羽>参加アーティスト一覧/祇羽]] feat.[[葉月ゆら>参加アーティスト一覧/葉月ゆら]]|「''シンクロニカ''」&br;「''SOUND VOLTEX IV HEAVENLY HAVEN''」&br;「''CHUNITHM STAR''」&br;「''GROOVE COASTER 3EX DREAM PARTY''」&br;「''maimai FiNALE''」|シンクロニカ：通常移植&br;maimai：[[「''第五回天下一音ゲ祭''」>第五回天下一音ゲ祭]]課題曲による移植&br;それ以外：[[「''第四回天下一音ゲ祭''」>第四回天下一音ゲ祭]]課題曲による移植。|

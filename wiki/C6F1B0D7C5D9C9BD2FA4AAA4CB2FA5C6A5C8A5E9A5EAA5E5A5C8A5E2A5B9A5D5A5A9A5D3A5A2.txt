@@ -40,5 +40,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-譜面は暫定
-~&attachref(テトラリュトモスフォビア_2.png,nolink);
+//~実際は内部小節線が多くある
+~&attachref(tetra_m.png,nolink);
