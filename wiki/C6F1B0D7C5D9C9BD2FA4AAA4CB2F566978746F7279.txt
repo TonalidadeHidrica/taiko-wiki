@@ -39,4 +39,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~実際の小節線は[[裏譜面>難易度表/おに/Vixtory(裏譜面)]]と同じ。
 ~&attachref(VX表_2.png,nolink);

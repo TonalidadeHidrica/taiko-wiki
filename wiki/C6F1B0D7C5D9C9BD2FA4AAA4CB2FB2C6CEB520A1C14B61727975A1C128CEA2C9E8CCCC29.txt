@@ -55,8 +55,9 @@ COLOR(red){●●}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLO
 #pcomment(,noname)
 
 ***譜面 [#score]
-~風船の長さは暫定
+~風船音符は譜面画像の長さより1/16拍子分短い
 ~64小節目の最初の音符はゴーゴータイム内の得点
+~最後に1本非表示の小節線がある
 &attachref(ex_karyu小節線修正.png,nolink);
 
 ~見た目

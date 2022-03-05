@@ -41,6 +41,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~内部小節線は除外。
 ~&attachref(螺旋裏.png,nolink);
 
 ~半速Ver.
