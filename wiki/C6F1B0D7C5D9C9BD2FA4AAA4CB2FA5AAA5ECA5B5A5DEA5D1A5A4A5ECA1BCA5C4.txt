@@ -45,5 +45,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~黄色連打・ふうせんの長さ・HSは暫定です。
-~&attachref(オレサマパイレーツ.png,nolink);
+~&attachref(w3at22_m.png,nolink);

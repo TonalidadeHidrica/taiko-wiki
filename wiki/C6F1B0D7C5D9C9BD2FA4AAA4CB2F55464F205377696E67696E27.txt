@@ -43,8 +43,8 @@
 
 ***その他 [#other]
 -[[''全コース''>太鼓ギネス/その他#highestdifficulty]][[''最高難易度曲''>全コース最高難易度曲一覧]]である。
--作詞・作曲・編曲は、''シバガキ''。
--歌唱は、''A.Dokuga''。
+-作詞・作曲・編曲は、[[''シバガキ''>https://twitter.com/dogeza_to_you]]。
+-歌唱は、[[''A.Dokuga''>https://twitter.com/ADokuga]]。
 --最後の「unidentified flying object U.F.O.」はシバガキが歌唱している。
 -「Swingin'」は''Swinging''の短縮形で「(体をゆすって)前後に揺れる、軽快な・陽気な」という意味。[[waitin' for u>難易度表/おに/waitin' for u]]の曲名にも使われている。((「I am」を「I'm」と略すことと同義))
 -新筐体でこの譜面をフルコンボすると、''称号''「''UFO召喚！''」を獲得できる。

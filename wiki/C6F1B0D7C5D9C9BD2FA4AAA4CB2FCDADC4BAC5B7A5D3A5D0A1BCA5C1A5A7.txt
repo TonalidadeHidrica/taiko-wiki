@@ -30,6 +30,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+//~最後に非表示の小節線が2本ある
 ~&attachref(gumivv_m.png,nolink);
 
 ~BPM266地帯半速表記

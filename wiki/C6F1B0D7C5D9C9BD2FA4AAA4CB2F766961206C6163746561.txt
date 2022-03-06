@@ -4,14 +4,14 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 ||''PS4 1DL''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''593''|''1001410点''|＋連打|460点|125点|
-||COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1001000点''}|~|COLOR(#ff3300){1540点}|-|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1001000点''}|~|COLOR(#ff3300){1540点}|-|
 |AC16.1.0SP||~|~|~|''1002170点''|~|1690点|-|
 
 ***譜面構成・攻略 [#more]
 -BPMは172。
 -連打秒数目安・・・約0.669秒。
 -全体的に8分が多めだが、局所的に16分が密集しており、適正者にとって難所となるだろう。
---特に、62小節から始まる長複合に注意。配色は単純だがBPMがやや速く、29打もある。
+--特に、62小節から始まる長複合に注意。配色は単純だが、29打もある。
 -ラストの付点リズムにも注意。
 -大音符が多く、57個で全体の一割弱を占めている。そのため、CSでは全て特良を取るのは難しいかもしれない。
 -平均密度は''約5.06打/秒''。
@@ -19,11 +19,11 @@
 ***その他 [#other]
 -曲名はラテン語で「天の川」という意味である。
 -ナムコオリジナルとしては珍しく、歌詞はほとんど中国語で構成されている。(残りは英語)
---歌詞中に中国語が含まれるナムコオリジナル曲は他にも[[EkiBEN2000>難易度表/おに/EkiBEN2000]]がある。
--歌唱は、[[''薛南''>https://twitter.com/setsunann_vocal]](Harmonic Reflection)。
---作詞は、''Uniparity''。作曲・編曲は、''E&#65;jRock''。
+--歌詞中に中国語が含まれるナムコオリジナル曲は他にも[[EkiBEN2000>../EkiBEN2000]]がある。
+-歌唱は、[[''薛南''>https://twitter.com/setsunann_vocal]]([[Harmonic Reflection>https://twitter.com/harmonicreflect]])。
+--作詞は、[[''Uniparity''>https://twitter.com/uniparity]]。作曲・編曲は、[[''E&#65;jRock''>https://twitter.com/eajrock]]。
 --ギター・レコーディングは、''Shan-Wei, Chen''(Ultraviolet Studio)。
---MIXは、''Shi Kuang Lee''。
+--MIXは、[[''Shi Kuang Lee''>https://twitter.com/shikuanglee]]。
 -歌唱者のSound&#67;loudではVia Lacteaと表記されている。
 -曲IDは、''lactea''。
 

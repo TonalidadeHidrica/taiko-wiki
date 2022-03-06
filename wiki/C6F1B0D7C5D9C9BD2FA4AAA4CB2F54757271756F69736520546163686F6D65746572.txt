@@ -13,15 +13,15 @@
 -連打秒数目安・・・''約0.884秒''×2−約0.701秒:合計約2.469秒
 -偶数連打が多く、長い複合も交じるテクニカルな譜面。
 --休憩地帯がほぼないため、体力も必須。複合は極めて複雑な訳ではないので、上級者ほど体感難易度は下がりやすい。
---9・54小節には裏拍から入る長複合もある。逆手から入って、もしくは音符間隔に音を嵌める（9・17小節目には面、54小節目には縁）なら取りやすいか。
----9・17小節に面を嵌めるとCOLOR(red){●●}COLOR(blue){○○}|COLOR(red){●●}COLOR(blue){○○}|COLOR(red){(●)}COLOR(blue){○○○}|COLOR(red){●●}COLOR(blue){○○}、54小節目に縁を嵌めるとCOLOR(red){● ●}COLOR(blue){○(○)}COLOR(red){●}COLOR(blue){○○}|COLOR(red){●}COLOR(blue){○}COLOR(red){●●}|COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}になれる。
+--9・54小節には裏拍から入る長複合もある。逆手から入って、もしくは音符間隔に音を嵌める（9・17小節には面、54小節には縁）なら取りやすいか。
+---9・17小節に面を嵌めるとCOLOR(red){●●}COLOR(blue){○○}|COLOR(red){●●}COLOR(blue){○○}|COLOR(red){(●)}COLOR(blue){○○○}|COLOR(red){●●}COLOR(blue){○○}、54小節に縁を嵌めるとCOLOR(red){● ●}COLOR(blue){○(○)}COLOR(red){●}COLOR(blue){○○}|COLOR(red){●}COLOR(blue){○}COLOR(red){●●}|COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}になれる。
 -序盤と終盤に譜面が加速→減速するソフランがある。
 --特に序盤は追い越しで譜面が見づらいため注意が必要。
 -幸い24分音符は少なく、58・59小節のみにしか配置されていない。これが最大の救いだろう。
 -平均密度は''約7.66打/秒''と、★×9では高め。
 
 ***その他 [#other]
--略称は、''蛸蛸''など。
+-略称は、''&ruby(タコタコ){蛸蛸};''など。
 -作曲・編曲・トラックダウンは、[[''AJURIKA''>参加アーティスト一覧/遠山明孝]]。 
 -歌唱は、''Julie''。
 -この譜面と、[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]](おに)または[[Evidence of evil>難易度表/おに/Evidence of evil]](おに)を1ゲーム内でフルコンボすると、''称号''「''Seafood Seeker''」を獲得できる。

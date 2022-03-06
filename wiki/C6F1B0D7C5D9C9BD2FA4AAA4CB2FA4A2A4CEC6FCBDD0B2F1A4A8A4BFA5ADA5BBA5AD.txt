@@ -20,10 +20,12 @@
 
 ***その他 [#other]
 -作詞・作曲・編曲は、[[''&ruby(みぞのくち){溝口};ゆうま''>参加アーティスト一覧/溝口ゆうま]]。
+--彼が音楽制作を始めるきっかけになった、[[''増渕裕二''>参加アーティスト一覧/増渕裕二]]への感謝を込めた曲となっている([[ソース>https://mizohole.psne.jp/]])。
 -歌唱は、[[''大瀬良あい''>参加アーティスト一覧/大瀬良あい]]、[[''miko''>参加アーティスト一覧/miko]]。
---掛け声は、''りこ。''、''Tracy''、''築山さえ''、''ORI姫''、''Ri9''。
+--掛け声は、[[''りこ。''>https://twitter.com/riricoco]]、[[''Tracy''>https://twitter.com/tracy_amateras]]、[[''築山さえ''>https://twitter.com/tsukiyamasae]]、[[''ＯＲＩ姫''>https://twitter.com/orihime_pime]]、[[''Ri9''>https://twitter.com/reri9]]。
 -譜面作成は、[[''増渕裕二''>譜面作成者一覧/増渕裕二]]。
 -新筐体でこの譜面をフルコンボすると、''称号''「''あの日出会えたキセキ''」を獲得できる。
+--作曲者へのドッキリの企画書によると、「[[''ありがとうマスブチさん''>https://twitter.com/tpazolite/status/1116233413084626944]]」などのフルコンボ称号にしようとしていたらしい。
 -現在は解禁が不要となり、誰でもいつでも遊べるようになっている。
 -曲IDは、''anohid''。
 
@@ -34,7 +36,7 @@
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=0zAMZC1T9U0&t=12s]]
 //動画非公開のため-[[オート動画(iOS)>https://youtu.be/UgBeyWLJolg]]
 -[[オート動画(iOS)>https://www.youtube.com/watch?v=Et-IbefhTFU&feature=youtu.be&t=5s]]
--[[制作エピソード>https://taiko-ch.net/blog/?p=3269]]
+-[[制作エピソードのまとめ>https://twitter.com/i/events/1116303024547221504]]
 
 ***コメント [#comment]
 #pcomment(,noname)
