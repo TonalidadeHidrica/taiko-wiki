@@ -1186,6 +1186,14 @@
 |1078|[[ストロベリー☆プラネット！>難易度表/おに/ストロベリー☆プラネット！]]|BGCOLOR(cyan):ポップス|?||
 |1079|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|BGCOLOR(orangered):ナムオリ|?||
 |1080|[[業 -善なる神とこの世の悪について->難易度表/おに/業 -善なる神とこの世の悪について-]]|BGCOLOR(darkorchid):ゲーミュ|?||
+|1081|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1082|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1083|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1084|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1085|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1086|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1087|非公開|BGCOLOR(cyan):ポップス|?||
+|1088|非公開|BGCOLOR(cyan):ポップス|?||
 
 **未確認 [#lostn]
 |>|>|>|CENTER:||c
