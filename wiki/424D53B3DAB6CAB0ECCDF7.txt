@@ -61,19 +61,20 @@
 **½é½Ð¥¤¥Ù¥ó¥ÈÊÌ [#event]
 ***BMS OF FIGHTERS¥·¥ê¡¼¥º [#bof]
 &color(red){''ÀÖ»ú''};¤Ï1¤Ä°Ê¾å¤ÎÉôÌç(¸Ä¿ÍÀï)¤ÇÍ¥¾¡¤·¤¿¶Ê
-|CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:|c
-|''¶ÊÌ¾''|BPM|BGCOLOR(#f30):COLOR(#111):''¤«¤ó&br;¤¿¤ó''|BGCOLOR(#8c2):COLOR(#111):''¤Õ¤Ä¤¦''|BGCOLOR(#3ab):COLOR(#111):''¤à¤º¤«&br;¤·¤¤''|BGCOLOR(#f2c):COLOR(#000):''¤ª¤Ë''|BGCOLOR(#63e):COLOR(#fff):''¤ª¤Ë&br;(Î¢)''|Í¥¾¡ÉôÌç|h
-|>|>|>|>|>|>|>|BGCOLOR(skyblue):''THE BMS OF FIGHTERS 2011 - Intersection of conflict -''&aname(bof2011);|
-|&color(red){''conflict''};&br;SIZE(11){siromaru + cranky}|160|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/conflict]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/conflict]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/conflict]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/conflict]]|-|¥¹¥³¥¢ÉôÌç&br;Ãæ±ûÃÍÉôÌç|
-|''Parousia''&br;SIZE(11){xi}|79-158|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Parousia]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Parousia]]|-||
-|>|>|>|>|>|>|>|BGCOLOR(brown):COLOR(white):''konzertsaal - THE BMS OF FIGHTERS 2013 -''&aname(bof2013);|
-|&color(red){''B.B.K.K.B.K.K.''};&br;SIZE(11){nora2r}|170|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/B.B.K.K.B.K.K.]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/B.B.K.K.B.K.K.]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/B.B.K.K.B.K.K.]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/B.B.K.K.B.K.K.]]|-|¥¹¥³¥¢ÉôÌç|
-|>|>|>|>|>|>|>|BGCOLOR(orangered):''G2R2014 "GO BACK 2 YOUR ROOTS" - THE BMS OF FIGHTERS 2004 RELOADED -''&aname(g2r2014);|
-|&color(red){''Altale''};&br;SIZE(11){ºï½ü}|83-180¢¨|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Altale]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Altale]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Altale]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale(Î¢ÉèÌÌ)]]|¥¹¥³¥¢ÉôÌç|
-|>|>|>|>|>|>|>|BGCOLOR(black):COLOR(red):''Âç·ìÀï -THE BMS OF FIGHTERS ULTIMATE-''&aname(bofu2015);|
-|''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Dreadnought]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought(Î¢ÉèÌÌ)]]||
-|>|>|>|>|>|>|>|BGCOLOR(goldenrod):''BOFU2017 -LEGENDA EST A MYTH-''&aname(bofu2017);|
-|''¤â¤Ú¤â¤Ú''&br;SIZE(11){LeaF}|6.25-200|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/¤â¤Ú¤â¤Ú]]|-||
+|CENTER:|CENTER:78|>|>|>|>|CENTER:42|>|CENTER:30|c
+|''¶ÊÌ¾''|BPM|BGCOLOR(#f30):COLOR(#111):''¤«¤ó&br;¤¿¤ó''|BGCOLOR(#8c2):COLOR(#111):''¤Õ¤Ä¤¦''|BGCOLOR(#3ab):COLOR(#111):''¤à¤º¤«&br;¤·¤¤''|BGCOLOR(#f2c):COLOR(#000):''¤ª¤Ë''|BGCOLOR(#63e):COLOR(#fff):''¤ª¤Ë&br;(Î¢)''|>|½ç°Ì(¸Ä¿ÍÀï)|h
+|~|~|~|~|~|~|~|¥¹¥³¥¢|Ãæ±ûÃÍ|h
+|>|>|>|>|>|>|>|>|BGCOLOR(skyblue):''THE BMS OF FIGHTERS 2011 - Intersection of conflict -''&aname(bof2011);|
+|&color(red){''conflict''};&br;SIZE(11){siromaru + cranky}|160|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/conflict]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/conflict]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/conflict]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/conflict]]|-|&color(red){''1°Ì''};|&color(red){''1°Ì''};|
+|''Parousia''&br;SIZE(11){xi}|79-158|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Parousia]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Parousia]]|-|''3°Ì''|9°Ì|
+|>|>|>|>|>|>|>|>|BGCOLOR(brown):COLOR(white):''konzertsaal - THE BMS OF FIGHTERS 2013 -''&aname(bof2013);|
+|&color(red){''B.B.K.K.B.K.K.''};&br;SIZE(11){nora2r}|170|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/B.B.K.K.B.K.K.]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/B.B.K.K.B.K.K.]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/B.B.K.K.B.K.K.]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/B.B.K.K.B.K.K.]]|-|&color(red){''1°Ì''};|''3°Ì''|
+|>|>|>|>|>|>|>|>|BGCOLOR(orangered):''G2R2014 "GO BACK 2 YOUR ROOTS" - THE BMS OF FIGHTERS 2004 RELOADED -''&aname(g2r2014);|
+|&color(red){''Altale''};&br;SIZE(11){ºï½ü}|83-180¢¨|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Altale]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Altale]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Altale]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale(Î¢ÉèÌÌ)]]|&color(red){''1°Ì''};|''2°Ì''|
+|>|>|>|>|>|>|>|>|BGCOLOR(black):COLOR(red):''Âç·ìÀï -THE BMS OF FIGHTERS ULTIMATE-''&aname(bofu2015);|
+|''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Dreadnought]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought(Î¢ÉèÌÌ)]]|''5°Ì''|''4°Ì''|
+|>|>|>|>|>|>|>|>|BGCOLOR(goldenrod):''BOFU2017 -LEGENDA EST A MYTH-''&aname(bofu2017);|
+|''¤â¤Ú¤â¤Ú''&br;SIZE(11){LeaF}|6.25-200|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/¤â¤Ú¤â¤Ú]]|-|''3°Ì''|421°Ì|
 
 ***¤½¤ÎÂ¾¤Î¥¤¥Ù¥ó¥È [#others]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|c
