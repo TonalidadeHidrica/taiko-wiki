@@ -2,8 +2,8 @@
 -アニメ[[「''ワンピース''」>アニメ別収録曲#onepiece]]のOP13。
 ***詳細 [#more]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-||CENTER:''Wii3''&br;iOS&br;AR|CENTER:★×6|CENTER:''337''|CENTER:''916940点''|CENTER:＋連打|CENTER:780点|CENTER:190点|CENTER:''ゴーゴーバグあり''|
-||CENTER:PSPDX|~|~|CENTER:''916410点''|~|~|~||
+||CENTER:''Wii3''|CENTER:★×6|CENTER:''337''|CENTER:''916940点''|CENTER:＋連打|CENTER:780点|CENTER:190点|CENTER:''ゴーゴーバグあり''|
+||CENTER:PSPDX&br;iOS&br;AR|~|~|CENTER:''916410点''|~|~|~||
 |CENTER:AC15.1.0||~|~|CENTER:''933620点''|~|CENTER:840点|CENTER:233点||
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''987060点''}|~|CENTER:COLOR(#ff3300){2840点}|CENTER:-||
 

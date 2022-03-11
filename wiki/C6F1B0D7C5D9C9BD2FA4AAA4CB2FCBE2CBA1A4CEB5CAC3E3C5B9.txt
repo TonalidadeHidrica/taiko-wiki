@@ -36,4 +36,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(mhcafe_3.png,nolink);
+最後に非表示の小節線が1本ある&attachref(mhcafe_3.png,nolink);
