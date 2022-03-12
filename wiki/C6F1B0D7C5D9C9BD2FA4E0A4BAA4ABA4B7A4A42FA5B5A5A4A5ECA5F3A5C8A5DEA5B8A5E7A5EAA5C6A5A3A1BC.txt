@@ -28,7 +28,8 @@
 -[[かんたん>難易度表/かんたん/サイレントマジョリティー]]
 -[[ふつう>難易度表/ふつう/サイレントマジョリティー]]
 -[[おに>難易度表/おに/サイレントマジョリティー]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=u5j8VIoRxOk]]
+-[[オート動画(iOS)>http://www.youtube.com/watch?v=u5j8VIoRxOk]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/9UDtO-f0x18]]
 
 ***コメント [#comment]
 #pcomment(,noname)

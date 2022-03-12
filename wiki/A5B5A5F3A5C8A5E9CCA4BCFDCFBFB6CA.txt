@@ -1,5 +1,5 @@
 *サウンドトラック未収録曲 [#title]
--太鼓の達人用に書き下ろされたオリジナル曲と太鼓の達人用にアレンジされた童謡、クラシック、ゲームミュージックをまとめました。
+-ナムコオリジナル、BNSI((BANDAI NAMCO Studios Inc.))がアレンジしたクラシックやゲームミュージックなどの中で、サウンドトラックに収録されていないものをまとめました。
 --版権曲は含みません。
 
 #contents
@@ -96,7 +96,7 @@
 |BGCOLOR(orangered):|[[わら得る2000>難易度表/おに/わら得る2000]]|LindaAI-CUE|LindaAI-CUE|
 |BGCOLOR(orangered):|[[Welcome to the Taiko Stadium!>難易度表/おに/Welcome to the Taiko Stadium!]]|相良心、大原大輝|平井克明|
 |BGCOLOR(orangered):|[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]|?|工藤祐介|
-|BGCOLOR(purple):|[[World of GENPEI TOMADEN>難易度表/おに/World of GENPEI TOMADEN]]|?|?|
+|BGCOLOR(darkorchid):|[[World of GENPEI TOMADEN>難易度表/おに/World of GENPEI TOMADEN]]|?|?|
 |BGCOLOR(orangered):|[[1・2・さんしのでドンドカッカッ！>難易度表/おに/1・2・さんしのでドンドカッカッ！]]|AIきりたん|ユーキヒロセ|
 
 ***独自レーベルでの収録・You&#84;ubeで公式音源がアップロードされているもの [#original]

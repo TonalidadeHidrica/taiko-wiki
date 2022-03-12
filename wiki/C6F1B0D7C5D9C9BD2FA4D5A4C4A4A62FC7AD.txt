@@ -17,7 +17,8 @@
 -[[かんたん>難易度表/かんたん/猫]]
 -[[むずかしい>難易度表/むずかしい/猫]]
 -[[おに>難易度表/おに/猫]]
--[[オート動画>https://www.youtube.com/watch?v=32iFuVV0OjI]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=32iFuVV0OjI]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/280-2u8s0jU]]
 
 ***コメント [#comment]
 #pcomment(,noname)

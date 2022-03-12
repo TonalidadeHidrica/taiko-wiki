@@ -20,7 +20,8 @@
 -[[かんたん>難易度表/かんたん/YES or YES]]
 -[[ふつう>難易度表/ふつう/YES or YES]]
 -[[むずかしい>難易度表/むずかしい/YES or YES]]
--[[オート動画>https://www.youtube.com/watch?v=orH7PPy1-tw]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=orH7PPy1-tw]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/8VOGAWGbFJ4]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -26,7 +26,8 @@
 -[[かんたん>難易度表/かんたん/雑草]]
 -[[ふつう>難易度表/ふつう/雑草]]
 -[[むずかしい>難易度表/むずかしい/雑草]]
--[[オート動画>https://www.youtube.com/watch?v=ctr7SIFlKuo]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=ctr7SIFlKuo]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/ACq2nX9KlfQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)

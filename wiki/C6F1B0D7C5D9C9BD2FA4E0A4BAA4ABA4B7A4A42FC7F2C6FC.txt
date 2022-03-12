@@ -25,7 +25,8 @@
 -[[かんたん>難易度表/かんたん/白日]]
 -[[ふつう>難易度表/ふつう/白日]]
 -[[おに>難易度表/おに/白日]]
--[[オート動画>https://www.youtube.com/watch?v=iIguEXcDPYc]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=iIguEXcDPYc]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/nOr57CtOi1U]]
 
 ***コメント [#comment]
 #pcomment(,noname)

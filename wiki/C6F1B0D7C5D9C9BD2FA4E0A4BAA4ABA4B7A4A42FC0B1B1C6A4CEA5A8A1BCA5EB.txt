@@ -20,7 +20,8 @@
 -[[かんたん>難易度表/かんたん/星影のエール]]
 -[[ふつう>難易度表/ふつう/星影のエール]]
 -[[おに>難易度表/おに/星影のエール]]
--[[オート動画>https://www.youtube.com/watch?v=kFRKoSTCHJs]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=kFRKoSTCHJs]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/inQj-XEycyo]]
 
 ***コメント [#comment]
 #pcomment(,noname)

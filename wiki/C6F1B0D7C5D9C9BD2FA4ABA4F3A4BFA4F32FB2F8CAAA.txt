@@ -17,7 +17,8 @@
 -[[ふつう>難易度表/ふつう/怪物]]
 -[[むずかしい>難易度表/むずかしい/怪物]]
 -[[おに>難易度表/おに/怪物]]
--[[オート動画>https://www.youtube.com/watch?v=lNBoj5y_0rU]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=lNBoj5y_0rU]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/gm9eYJeEunU]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -39,8 +39,9 @@
 -[[ふつう>難易度表/ふつう/めざせポケモンマスター -20th Anniversary-]]
 -[[むずかしい>難易度表/むずかしい/めざせポケモンマスター -20th Anniversary-]]
 -おに/[[裏譜面>../めざせポケモンマスター -20th Anniversary-(裏譜面)]]
--[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=Y3V9jHBsgSc&t=6s]]
+-[[プレイ動画>https://m.youtube.com/watch?feature=youtu.be&v=Y3V9jHBsgSc&t=6s]]
 -[[オート動画(NS1)>https://youtu.be/qhMHDGQSxts]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/LVW_rSa9Cj0]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

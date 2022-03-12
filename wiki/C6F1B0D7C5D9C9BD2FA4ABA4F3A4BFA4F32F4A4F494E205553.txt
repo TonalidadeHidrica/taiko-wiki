@@ -20,8 +20,9 @@
 -[[ふつう>難易度表/ふつう/JOIN US]]
 -[[むずかしい>難易度表/むずかしい/JOIN US]]
 -[[おに>難易度表/おに/JOIN US]]
--[[プレイ動画>https://www.youtube.com/watch?v=IuTGEEkcbYY]]
 -[[オート動画(NS1)>https://www.youtube.com/watch?v=mb1wwCfGhAw]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/nCxoUEgON88]]
+-[[プレイ動画>https://www.youtube.com/watch?v=IuTGEEkcbYY]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

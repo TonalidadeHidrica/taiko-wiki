@@ -21,7 +21,8 @@
 -[[かんたん>難易度表/かんたん/月色Chainon]]
 -[[ふつう>難易度表/ふつう/月色Chainon]]
 -[[おに>難易度表/おに/月色Chainon]]
--[[オート動画>https://www.youtube.com/watch?v=_Ns_3ndsyXE]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=_Ns_3ndsyXE]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/0fBpPOrOsGQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -1,19 +1,24 @@
-*Follow Me [#title]
+*&ruby(フォロー){Follow}; &ruby(ミー){Me}; [#title]
+-サマンサタバサ「サマンサミューズALL STARS」CMソング。
+-テレビ朝日系列「お願い!ランキング」2012年10月度エンディングテーマ。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.6.0''|PS Vita1&br;PS Vita1亜&br;Wii U3DL|BGCOLOR(cyan):''J-POP''|★×6|''241''|''795880点''|＋連打|940点|300点|
-|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''997160点''}|~|COLOR(#ff3300){3880点}|-|
+|''AC15.6.0''|PS Vita1&br;Wii U3DL|BGCOLOR(cyan):''J-POP''|★×6|''241''|''795880点''|+連打|940点|300点|
+||PS Vita1亜|BGCOLOR(cyan):''日本&br;流行音樂''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''997160点''}|~|COLOR(#ff3300){3880点}|-|
 ||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''787930点''|~|950点|230点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは143。
 -黄色連打は2本しかないが、1本あたりの長さは長い。
+--連打秒数・・・''約1.643秒''×2:合計約3.287秒
+-大音符の配置は[[おに>難易度表/おに/Follow Me]]の1人用譜面と同じ。
 -8分が主体の譜面で、たまに16分も出てくる。
 --16分は単色の3連打しかないが、連続して出てくる箇所もある。
 --ただし、8分の複合は数がそんなに多くない。
--序盤で1回だけ出てくる8分の複合7連打（●●○○○○●）に注意。
+-序盤で1回だけ出てくる8分の複合7連打(COLOR(red){●●}COLOR(blue){○○○○}COLOR(red){●})に注意。
 
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/Follow Me]]を参照。
@@ -23,9 +28,12 @@
 -[[ふつう>難易度表/ふつう/Follow Me]]
 -[[おに>難易度表/おに/Follow Me]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=SeJHiYTEM7g]]
+-[[オート動画(Wii U3)>https://www.youtube.com/watch?v=RVtcgZIg5WY]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(flmh.png,nolink);
+~&attachref(flmh.png,nolink);

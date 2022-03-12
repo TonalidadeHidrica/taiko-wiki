@@ -31,6 +31,8 @@
 -[[ふつう>難易度表/ふつう/馬と鹿]]
 -[[むずかしい>難易度表/むずかしい/馬と鹿]]
 -[[プレイ動画>https://www.youtube.com/watch?v=6Awo5tMHkIo]]
+-[[オート動画(niconico、全難度同時再生)>https://www.nicovideo.jp/watch/sm36073899?from=259]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/KMhSOj8Qf7M]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

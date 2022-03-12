@@ -28,7 +28,8 @@
 -[[かんたん>難易度表/かんたん/LAST CHRISTMAS]]
 -[[ふつう>難易度表/ふつう/LAST CHRISTMAS]]
 -[[おに>難易度表/おに/LAST CHRISTMAS]]
--[[オート動画>https://www.youtube.com/watch?v=Dms598qRb3A]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=Dms598qRb3A]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/F95NYP7k8Q8]]
 
 ***コメント [#comment]
 #pcomment(,noname)

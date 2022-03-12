@@ -1,11 +1,11 @@
 //このページは、アジア版にある収録曲の曲名を、英語、中国語と韓国語に翻訳された曲名のリストです。
 //This page is the list of songs collected in Asia version of Taiko no Tatsujin, with the song names translated into English, Chinese and Korean Language.
 *太鼓の達人（アジア版）の収録曲/太鼓之達人（亞洲版）之收&#24405;歌曲 [#i003edb5]
--バージョン/版本： SIZE(20){''COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}/虹色（11.05）''}
+-バージョン/版本： SIZE(20){''COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}/虹色（12.03）''}
 -シーズン/季&#33410;： COLOR(#4169e1){冬}
 -稼働日/開始運營當天： 2021 年 4 月 6 日/二零二一年四月六号
 --台湾、香港、マカオ/澳&#38376;、シンガポール/新加坡、マレーシア/&#39532;来西&#20122;、タイ/泰国、インドネシア/印度尼西&#20122;、韓国の一部店舗で稼働中/運營中((他の稼働国・地域については要調査))。
--旧曲/舊歌曲 ''768'' ＋ 新曲/新歌曲 ''70'' ＋ 隠し曲/被藏歌曲 ''45'' ー サヨナラ曲/被刪除的歌曲 ''20''&br; ＝ 現在/&#29616;在 SIZE(20){''863''}曲/首歌曲 ＋ 双打曲/雙打歌曲 ''4''
+-旧曲/舊歌曲 ''798'' ＋ 新曲/新歌曲 ''40'' ＋ 隠し曲/被藏歌曲 ''45'' ー サヨナラ曲/被刪除的歌曲 ''20''&br; ＝ 現在/&#29616;在 SIZE(20){''863''}曲/首歌曲 ＋ 双打曲/雙打歌曲 ''4''
 --ただし、特定国や地域でのみプレイできない楽曲/無法遊戯歌曲があります。((韓国版の[[千本桜/千本櫻>難易度表/おに/千本桜]]と一部国・地域稼働版の一部アイマス楽曲/THE IDOLM@STER的相關樂曲的一部分など))
 //アイマスコラボ特設ページより（台湾、香港、シンガポール、マレーシア、タイ、インドネシア、韓国以外の稼働国・地域があった模様）
 -''※楽曲/歌曲の頭に【双打/雙打】【限定】がついたものは、スコア/成&#32489;の記録は行われますが、王冠数にCOLOR(red){カウントされません/不是積&#25890;}''。
@@ -723,7 +723,7 @@
 |''隠''|SIZE(9){''NEW''}|''4+1のそれぞれの未来/4＋1的各自的未來''&br;　　SIZE(11){太鼓 de タイムトラベル00's / cosMo＠暴走P feat.初音ミク}|255|[[★×5>難易度表/かんたん/4+1のそれぞれの未来]]|[[★×7>難易度表/ふつう/4+1のそれぞれの未来]]|[[★×8>難易度表/むずかしい/4+1のそれぞれの未来]]|[[★×10>難易度表/おに/4+1のそれぞれの未来]]|-|
 ||SIZE(9){''NEW''}|''しょうゆ de Show you!/SHOUYU de shou you!''&br;　　SIZE(11){BNSI（矢野義人） feat.steμ&フナディ/BNSI(Yoshihito Yano) feat.steμ&Funa-D}|144|[[★×3>難易度表/かんたん/しょうゆ de Show you!]]|[[★×5>難易度表/ふつう/しょうゆ de Show you!]]|[[★×7>難易度表/むずかしい/しょうゆ de Show you!]]|[[★×9>難易度表/おに/しょうゆ de Show you!]]|-|
 ||SIZE(9){''NEW''}|''Central Dogma Pt.2''&br;　　SIZE(11){黒沢ダイスケ/Daisuke Kurosawa}|189-284|[[★×5>難易度表/かんたん/Central Dogma Pt.2]]|[[★×6>難易度表/ふつう/Central Dogma Pt.2]]|[[★×8>難易度表/むずかしい/Central Dogma Pt.2]]|[[★×10>難易度表/おに/Central Dogma Pt.2]]|-|
-||SIZE(9){''NEW''}|''パラレルロリポップ/Parallel Lollipop''&br;　　SIZE(11){太鼓 de タイムトラベル10's / Sho Okada/Taiko de TimeTravel 10's / Sho Okada}|160|[[★×4>難易度表/かんたん/パラレルロリポップ]]|[[★×6>難易度表/ふつう/パラレルロリポップ]]|[[★×7>難易度表/むずかしい/パラレルロリポップ]]|[[★×9>難易度表/おに/パラレルロリポップ]]|-|
+||SIZE(9){''NEW''}|''パラレルロリポップ/Parallel Lollipop''&br;　　SIZE(11){太鼓 de タイムトラベル10's / Sho Okada/Taiko de Time&#84;ravel 10's / Sho Okada}|160|[[★×4>難易度表/かんたん/パラレルロリポップ]]|[[★×6>難易度表/ふつう/パラレルロリポップ]]|[[★×7>難易度表/むずかしい/パラレルロリポップ]]|[[★×9>難易度表/おに/パラレルロリポップ]]|-|
 ||SIZE(9){''NEW''}|''テルミービート/TELL ME BEAT''&br;　　SIZE(11){キノシタ feat. 鏡音リン/kinoshita feat. KAGAMINE RIN}|197|[[★×3>難易度表/かんたん/テルミービート]]|[[★×5>難易度表/ふつう/テルミービート]]|[[★×6>難易度表/むずかしい/テルミービート]]|[[★×8>難易度表/おに/テルミービート]]|-|
 |''隠''|SIZE(9){''NEW''}|''彁''&br;　　SIZE(11){LeaF}|62.5-437.5|[[★×5>難易度表/かんたん/彁]]|[[★×7>難易度表/ふつう/彁]]|[[★×8>難易度表/むずかしい/彁]]|[[★×10>難易度表/おに/彁]]|-|
 |''隠''|SIZE(9){''NEW''}|''傾奇者、罷り通る！/Kabukimono, Keep it up!''&br;　　SIZE(11){かぼちゃ/kabotya}|145|[[★×2>難易度表/かんたん/傾奇者、罷り通る！]]|[[★×4>難易度表/ふつう/傾奇者、罷り通る！]]|[[★×6>難易度表/むずかしい/傾奇者、罷り通る！]]|[[★×8>難易度表/おに/傾奇者、罷り通る！]]|-|
@@ -1144,117 +1144,91 @@
 
 ----
 ***亞洲版未收入歌曲 [#unavailable]
-#region(Songs that are unavailable in one or more countries/regions in Asia other than Japan（as of 2022.3.7）(You can click or tap to display on the screen.))
+#region(You can click or tap to display on the screen.)
 //Please update the list if any errors are spotted.
-In additional of the list above,  some Songs that were added in Japanese version before 2022.3.7 are currently unavailable in Asia version.
-Songs that were added between 2021.4.6 and 2022.3.7 in only Japanese version are indicated in brackets with date after the song name. ※Latest update date:2022.3.7
 
--流行音樂
---それが大事
---ファッションモンスター
---PON PON PON
---嘘
---レイン
---恋するフォーチュンクッキー
---フライングゲット
---ヘビーローテーション
---ポニーテールとシュシュ
---Everyday、カチューシャ
---よく遊びよく学べ
---群青(2021.7.28)
---カラフル・パーティ(2021.7.28)
---夏祭り / ジッタリン・ジン(2021.7.28)
---睡蓮花(2021.7.28)
---Walking with you(2021.9.1)
---第六感(2021.10.20)
---怪獣少女は火を吹かない(2021.10.20)
---グッバイ宣言(2021.11.17)
---シル・ヴ・プレジデント(2021.12.15)
---YONA YONA DANCE(2021.12.15)
---踊(2021.12.15)
---明け星(2021.12.15)
---スキスキ星人(2022.1.26)
---ストロベリー☆プラネット！(2022.2.16)
+※1.Offical announcent had been made that the Songs will be added in later dates.&br();
+※2.Available in the old video game cabinet,not the current version.&br();
+※3.Removed from Asia version.&br();
+※4.Only available in Taiwan, Singapore, Malaysia, Thailand, Indonesia, Korea version.&br();
+※5.Not available in Korea version.&br();
+※Last modification date:2022.3.16
 
--兒童音樂
---もりのくまさん
---いぬのおまわりさん
---ウルトラマンギンガの歌
---くまもとサプライズ！
---ココロ転がせっ！
---みらくる☆トラベル
---Baby Shark（ベイビー・シャーク）(2021.11.17)
---Fun!Fun!Fun! 〜夢∞〜(2021.12.15)
---liveDevil(2021.12.15)
-
--&#21345;通動晝音樂
---Make debut! (2021.6.30)
---Circle of Seasons
---DiSCOVER THE FUTURE
---Act! Addict! Actors!
---NO DOUBT
---Heavenly Visitor
---オリオンをなぞる
---My Soul,Your Beats!
---SHINY
---ウィーアー！(2021.9.3)
---僕の戦争(2021.12.15)
-
--VOCALOID&#8482; Music
---千本桜 ※1
---愛×愛ホイッスル(カレーメシ公式曲)
---ゲラゲラと笑うな
---ヴァンパイア(2021.7.28)
---シンデレラ(2022.2.16)
-
--遊戯音樂
---なんどでも笑おう (2021.4.28) ※2
---スーパーマリオブラザーズ
---Jump Up, Super Star! Short Version
---スプラトゥーン2 メドレー
---シオカラ節
---妖怪ウォッチ2 元祖／本家／真打
---MANKAI☆開花宣言
---モンスターハンター4 メドレー
---ファミコンメドレー
---ゼルダの伝説 ブレス オブ ザ ワイルド メドレー
---スーパードラゴンボールヒーローズ テーマソング
---ドラゴンボールヒーローズ ゴッドミッションシリーズ テーマソング
---ドラゴンボールヒーローズ 邪悪龍ミッションシリーズ テーマソング
---ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング
---キミとボクのミライ
---ソラのミチシルベ
---Spread the Wings!!
---お願い！シンデレラ
---READY!!
---エンジェル ドリーム ※3
---Tulip ※3
---あんずのうた ※3
---S(mile)ING! ※3
---Never say never ※3
---華蕾夢ミル狂詩曲〜魂ノ導〜 ※3
---TOKIMEKIエスカレート ※3
---ミツボシ☆☆★ ※3
---Brand New Theater! ※3
---DRIVE A LIVE ※3
-
--&#32508;合音樂
---テーマ・オブ・半沢直樹 〜Main Title〜
---WE WILL ROCK YOU
---Dive to Blue
---Marine Mirage
-
--NAMCO
-原創音樂
---東京ソーダ 8Bit Edit
---ソードバトラーズ
---渚のアンドロメダ
---ダンバ・ダンバ・ディン・ダン
---太鼓ラブ！
---大好きな太鼓の音(2021.11.18)
-
-※1.Not available in Korea version.&br();
-※2.Offical announcent had been made that the song will be added in later dates.&br();
-※3.Only available in Taiwan, Singapore, Malaysia, Thailand, Indonesia, Korea version.
+|>|>|>|>|>|>|>|CENTER:74|c
+|>|>|Genre|Songs name|The day Songs were added to Japanese Ver.|Remarks|
+|BGCOLOR(#42c0d3):|||プロミスザスター|2022.03.16|※1|
+|BGCOLOR(#42c0d3):|||Streamer|2022.03.16|※1|
+|BGCOLOR(#42c0d3):|||ストロベリー☆プラネット！|2022.02.16|※1|
+|BGCOLOR(#42c0d3):|||スキスキ星人|2022.01.26|※1|
+|BGCOLOR(#42c0d3):|||踊|2021.12.15|※1|
+|BGCOLOR(#42c0d3):|||シル・ヴ・プレジデント|2021.12.15|※1|
+|BGCOLOR(#42c0d3):|||ファッションモンスター|||
+|BGCOLOR(#42c0d3):|||PON PON PON|||
+|BGCOLOR(#42c0d3):|||恋するフォーチュンクッキー|||
+|BGCOLOR(#42c0d3):|||フライングゲット|||
+|BGCOLOR(#42c0d3):|||ヘビーローテーション|||
+|BGCOLOR(#42c0d3):|||ポニーテールとシュシュ||※2|
+|BGCOLOR(#42c0d3):|||Everyday、カチューシャ|||
+|BGCOLOR(#42c0d3):|||よく遊びよく学べ|||
+|BGCOLOR(#42c0d3):|BGCOLOR(#fe90d2):||嘘||※2|
+|BGCOLOR(#42c0d3):|BGCOLOR(#fe90d2):||レイン||※2|
+|BGCOLOR(#42c0d3):|BGCOLOR(#fe90d2):|BGCOLOR(#fdc000):|明け星|2021.12.15|※1|
+|BGCOLOR(#fdc000):|||Fun!Fun!Fun! 〜夢∞〜|2021.12.15|※1|
+|BGCOLOR(#fdc000):|||liveDevil|2021.12.15|※1|
+|BGCOLOR(#fdc000):|||もりのくまさん||※2|
+|BGCOLOR(#fdc000):|||いぬのおまわりさん||※2|
+|BGCOLOR(#fdc000):|||ウルトラマンギンガの歌|||
+|BGCOLOR(#fdc000):|||みらくる☆トラベル|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||スーパーマリオブラザーズ||※2|
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||Jump Up, Super Star! Short Version|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||スプラトゥーン2 メドレー|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||シオカラ節|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||妖怪ウォッチ2 元祖／本家／真打|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||スーパードラゴンボールヒーローズ テーマソング|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||ドラゴンボールヒーローズ ゴッドミッションシリーズ テーマソング|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||ドラゴンボールヒーローズ 邪悪龍ミッションシリーズ テーマソング|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング|||
+|BGCOLOR(#fdc000):|BGCOLOR(#1bc739):||くまもとサプライズ！|||
+|BGCOLOR(#fdc000):|BGCOLOR(#1bc739):||ココロ転がせっ！|||
+|BGCOLOR(#fe90d2):|||僕の戦争|2021.12.15|※1|
+|BGCOLOR(#fe90d2):|||オリオンをなぞる|||
+|BGCOLOR(#fe90d2):|||My Soul,Your Beats!||※2|
+|BGCOLOR(#fe90d2):|||SHINY|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Make debut!|2021.06.30||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Circle of Seasons|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Act! Addict! Actors!|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||お願い！シンデレラ|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||READY!!|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||NO DOUBT||※3|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Heavenly Visitor||※3|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||エンジェル ドリーム||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||あんずのうた||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||S(mile)ING!||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Never say never||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||華蕾夢ミル狂詩曲〜魂ノ導〜||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||TOKIMEKIエスカレート||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||ミツボシ☆☆★||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Brand New Theater!||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||DRIVE A LIVE||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#1bc739):||Dive to Blue|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#1bc739):||Marine Mirage|||
+|BGCOLOR(#cbcfde):|||シンデレラ|2022.02.16|※1|
+|BGCOLOR(#cbcfde):|||千本桜||※5|
+|BGCOLOR(#cbcfde):|||愛×愛ホイッスル(カレーメシ公式曲)|||
+|BGCOLOR(#cbcfde):|||ゲラゲラと笑うな|||
+|BGCOLOR(#cc8aeb):|||MANKAI☆開花宣言|||
+|BGCOLOR(#cc8aeb):|||モンスターハンター4 メドレー|||
+|BGCOLOR(#cc8aeb):|||ファミコンメドレー|||
+|BGCOLOR(#cc8aeb):|||ゼルダの伝説 ブレス オブ ザ ワイルド メドレー|||
+|BGCOLOR(#cc8aeb):|||キミとボクのミライ|||
+|BGCOLOR(#cc8aeb):|||ソラのミチシルベ|||
+|BGCOLOR(#cc8aeb):|||なんどでも笑おう|2021.04.28|※1|
+|BGCOLOR(#cc8aeb):|||Spread the Wings!!||※3|
+|BGCOLOR(#1bc739):|||WE WILL ROCK YOU|||
+|BGCOLOR(#ff7028):|||東京ソーダ 8Bit Edit|||
+|BGCOLOR(#ff7028):|||ソードバトラーズ|||
+|BGCOLOR(#ff7028):|||渚のアンドロメダ|||
+|BGCOLOR(#ff7028):|||ダンバ・ダンバ・ディン・ダン|||
+|BGCOLOR(#ff7028):|||太鼓ラブ！|||
 
 #endregion

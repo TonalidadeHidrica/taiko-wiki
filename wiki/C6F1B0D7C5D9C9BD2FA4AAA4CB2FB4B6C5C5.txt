@@ -21,7 +21,8 @@
 -[[かんたん>難易度表/かんたん/感電]]
 -[[ふつう>難易度表/ふつう/感電]]
 -[[むずかしい>難易度表/むずかしい/感電]]
--[[オート動画>https://www.youtube.com/watch?v=IHeNlveZ51c]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=IHeNlveZ51c]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/AEr2JL6pseM]]
 
 ***コメント [#comment]
 #pcomment(,noname)
