@@ -1369,6 +1369,7 @@
 --[[Don't Stop the Game>難易度表/おに/Don't Stop the Game]]
 --[[BLUE SAPPHIRE(裏譜面)>難易度表/おに/BLUE SAPPHIRE(裏譜面)]]
 --[[Calamity Fortune(裏譜面)>難易度表/おに/Calamity Fortune(裏譜面)]]
+--[[天泣の律>難易度表/おに/天泣の律]]
 --[[Caribbean Knight>難易度表/おに/Caribbean Knight]]
 --[[愛にできることはまだあるかい(裏譜面)>難易度表/おに/愛にできることはまだあるかい(裏譜面)]]
 --[[愛なんだぜ>難易度表/おに/愛なんだぜ]]

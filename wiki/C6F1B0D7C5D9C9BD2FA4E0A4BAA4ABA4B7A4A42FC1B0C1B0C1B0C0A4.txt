@@ -28,7 +28,8 @@
 -[[かんたん>難易度表/かんたん/前前前世]]
 -[[ふつう>難易度表/ふつう/前前前世]]
 -[[おに>難易度表/おに/前前前世]]
--[[オート動画>http://www.youtube.com/watch?v=szYr-jUibco]]
+-[[オート動画(iOS)>http://www.youtube.com/watch?v=szYr-jUibco]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/pmB9yOF_DcA]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

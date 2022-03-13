@@ -25,6 +25,7 @@
 --逆に言うと、少し集中力が切れただけでノルマ落ちしてしまうこともある。
 -平均密度は、''約5.81打/秒''。
 -[[オート動画(CS7)>https://www.youtube.com/watch?v=GiFan9ipiis]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/QWApxBQQhpk]]
 
 **裏譜面 [#another]
 -1人プレイは表譜面と同じ。
@@ -57,6 +58,7 @@
 -平均密度は、''約3.68打/秒(1P)''、''約3.20打/秒(2P)''。
 -[[CS7では、2Pをかんぺきにして1ノーツ目を叩かないと1Pのたたけた率が647%となってフルコン扱いになる、というバグがある。>https://www.youtube.com/watch?v=CMq1M9s30lE]]((太鼓の通信簿上での表示上は''2147483647%''である))
 -[[プレイ動画(AC14)>https://www.youtube.com/watch?v=M6nyYOtf7as]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/Hb537zDy-5s]]
 
 ----
 ***その他 [#other]

@@ -60,11 +60,11 @@
 -ふつう/[[原曲>難易度表/ふつう/夏祭り ／ ジッタリン・ジン]]
 -[[むずかしい>難易度表/むずかしい/夏祭り]]/[[原曲>難易度表/むずかしい/夏祭り ／ ジッタリン・ジン]]
 -[[おに>難易度表/おに/夏祭り]]/[[原曲>難易度表/おに/夏祭り ／ ジッタリン・ジン]]/[[原曲の裏譜面>難易度表/おに/夏祭り ／ ジッタリン・ジン(裏譜面)]]
--[[オート動画(現行譜面)>https://www.youtube.com/watch?v=LtMod23FegI]]
+-[[オート動画(NS1・現行譜面・真打・歌詞付き)>https://youtu.be/a5A049WpJ3Y]]
+-[[オート動画(NS1・双打・真打・歌詞付き)>https://youtu.be/4_Zw_CEgcMA]]
 -[[オート動画(Wii1)>https://www.youtube.com/watch?v=Ym82siUyE94]]
--[[プレイ動画(DS1、直撮り)>https://www.youtube.com/watch?v=qCUFw04-myA]]
--[[プレイ動画(旧譜面)>https://www.youtube.com/watch?v=aePB2sg2u7Y]]
--[[オート動画(二人用譜面)>https://www.youtube.com/watch?v=SQo2qbfeZ-c]]
+//-[[オート動画(DS1)>]]
+-[[プレイ動画(AC2・旧譜面)>https://www.youtube.com/watch?v=aePB2sg2u7Y]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

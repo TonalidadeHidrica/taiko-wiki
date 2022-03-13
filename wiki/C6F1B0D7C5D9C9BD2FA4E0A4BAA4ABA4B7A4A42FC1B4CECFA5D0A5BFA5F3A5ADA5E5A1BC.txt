@@ -24,7 +24,8 @@
 -[[かんたん>難易度表/かんたん/全力バタンキュー]]
 -[[ふつう>難易度表/ふつう/全力バタンキュー]]
 -[[おに>難易度表/おに/全力バタンキュー]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=eoF7MoXTSMo]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=eoF7MoXTSMo]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/U6Mn43e97vM]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

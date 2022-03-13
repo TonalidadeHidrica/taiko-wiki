@@ -21,7 +21,8 @@
 -[[かんたん>難易度表/かんたん/TT -Japanese ver.-]]
 -[[むずかしい>難易度表/むずかしい/TT -Japanese ver.-]]
 -[[おに>難易度表/おに/TT -Japanese ver.-]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=8OPobUQ5G_g]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=8OPobUQ5G_g]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/yK45jMWt8uE]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

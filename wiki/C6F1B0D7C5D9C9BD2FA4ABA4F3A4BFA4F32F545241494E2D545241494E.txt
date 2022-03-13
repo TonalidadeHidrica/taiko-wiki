@@ -43,7 +43,8 @@
 -[[ふつう>難易度表/ふつう/TRAIN-TRAIN]]
 -[[むずかしい>難易度表/むずかしい/TRAIN-TRAIN]]
 -[[おに>難易度表/おに/TRAIN-TRAIN]]
--[[オート動画(Wii1, キャプチャ)>https://www.youtube.com/watch?v=DkGZhvgMQrU]]
+-[[オート動画(Wii1)>https://www.youtube.com/watch?v=DkGZhvgMQrU]]
+-[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/Xpb21Ri3y-g]]
 
 ***コメント [#comment]
 #pcomment(,noname)

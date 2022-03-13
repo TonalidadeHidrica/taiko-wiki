@@ -7,8 +7,8 @@
 -Season: COLOR(#4169e1){Winter}
 -Launch Date: 06 April 2021
 --Launched in Taiwan, Hong Kong, Macau, Singapore, Malaysia, Thailand, Indonesia, Korea, Australia
--Old ''798'' ＋ New ''40'' ＋ Hidden ''45'' ー Removal ''20'' = Total SIZE(20){''863''} Songs ＋ DP ''4''
---However, some Songs are not playable in some countries/regions
+-Old ''798'' ＋ New ''40'' ＋ Hidden ''45'' ー Removal ''20'' = Total SIZE(20){''863''} songs ＋ DP ''4''
+--However, some songs are not playable in some countries/regions
 &br;
 
 
@@ -16,7 +16,7 @@
 
 -[[Official Site>http://taiko.namco-ch.net/taiko/]]
 -[[Asia Ver. Official Facebook Account>https://www.facebook.com/taikoac.asia]]
--[[Official Youtube (For NAMCO Original Songs Announcements and Previews)>https://www.youtube.com/playlist?list=PL7nAGNInREBn5drqKyyX4-Z8spIEZpWFo]]
+-[[Official Youtube (For NAMCO Original songs Announcements and Previews)>https://www.youtube.com/playlist?list=PL7nAGNInREBn5drqKyyX4-Z8spIEZpWFo]]
 -[[Official Blog (Japanese)>http://taiko-ch.net/blog/]]
 -[[Donder Hiroba>https://donderhiroba.jp/]]
 -[[System Information>ACの歴史(新筐体2)#niziiro]]
@@ -28,19 +28,19 @@
 --[[AI Soshina Battle>https://taiko.namco-ch.net/taiko/special/ai_soshina]]((Event duration: 12/16/2021 (Thurs) - 6/20/2022 (Mon) (JST) ))
 -[[Rewards>新筐体のごほうび一覧]]
 -[[Dan-i and Titles list>段位・称号の一覧]]
---[[Target Songs for Titles>段位・称号の一覧/称号対象曲]]
---[[Titles for Success or Full Combo Songs>段位・称号の一覧/クリア・フルコンボ称号]]
+--[[Target songs for Titles>段位・称号の一覧/称号対象曲]]
+--[[Titles for Success or Full Combo songs>段位・称号の一覧/クリア・フルコンボ称号]]
 -[[List of Options>演奏オプション一覧]]
 -[[List of Tones>音色の一覧]]
 -[[Score for Kiwami rank>難易度表/おに/新筐体/極スコア]]
--[[Japanese version of Songs>太鼓の達人 新筐体の収録曲]]
+-[[Japanese version of songs>太鼓の達人 新筐体の収録曲]]
 //-[[ブラジル版の収録曲>太鼓の達人 新筐体（ブラジル版）の収録曲]]
--Previously recorded Songs：[[モモイロ>太鼓の達人 新筐体（アジア版）の収録曲/モモイロ]]／[[キミドリ>太鼓の達人 新筐体（アジア版）の収録曲/キミドリ]]／[[ムラサキ>太鼓の達人 新筐体（アジア版）の収録曲/ムラサキ]]／[[ホワイト>太鼓の達人 新筐体（アジア版）の収録曲/ホワイト]]／[[レッド>太鼓の達人 新筐体（アジア版）の収録曲/レッド]]／[[イエロー>太鼓の達人 新筐体（アジア版）の収録曲/イエロー]]／[[ブルー>太鼓の達人 新筐体（アジア版）の収録曲/ブルー]]／[[グリーン>太鼓の達人 新筐体（アジア版）の収録曲/グリーン]]
+-Previously recorded songs：[[モモイロ>太鼓の達人 新筐体（アジア版）の収録曲/モモイロ]]／[[キミドリ>太鼓の達人 新筐体（アジア版）の収録曲/キミドリ]]／[[ムラサキ>太鼓の達人 新筐体（アジア版）の収録曲/ムラサキ]]／[[ホワイト>太鼓の達人 新筐体（アジア版）の収録曲/ホワイト]]／[[レッド>太鼓の達人 新筐体（アジア版）の収録曲/レッド]]／[[イエロー>太鼓の達人 新筐体（アジア版）の収録曲/イエロー]]／[[ブルー>太鼓の達人 新筐体（アジア版）の収録曲/ブルー]]／[[グリーン>太鼓の達人 新筐体（アジア版）の収録曲/グリーン]]
 -[[Songs that are unavailable in Asia Ver.>#unavailable]]
 
 ----
 
-**Number of Songs[#list]
+**Number of songs[#list]
 ----
 --COLOR(#d52700){''Easy''}・COLOR(#769e11){''Normal''}・COLOR(#297ba3){''Hard''}・COLOR(#af1e7f){''Extreme''}…''SIZE(20){863 charts each}''
 --''COLOR(#af1e7f){Extreme}＋COLOR(#6042dd){Extreme (Ura)}''…''SIZE(20){1017 charts}''
@@ -64,16 +64,16 @@
 **Songs list [#list]
 ----
 -Explanatory notes~
-''NEW''・・・New Songs~
-''HID''・・・Hidden Songs~
-''Songs with Grey background（COLOR(#ccc){■}）''・・・''Currently not playable Songs''~
-''Songs with Beige background（COLOR(beige){■}）''・・・''Currently not unprocurable Songs''((If you have already acquired it, you can play it.))~
-''Songs with Pink Background（COLOR(pink){■}）''・・・''Songs for Double Play''((When selecting Songs, it is necessary to change the settings in advance at Donder Hiroba.))~
+''NEW''・・・New songs~
+''HID''・・・Hidden songs~
+''Songs with Grey background（COLOR(#ccc){■}）''・・・''Currently not playable songs''~
+''Songs with Beige background（COLOR(beige){■}）''・・・''Currently not unprocurable songs''((If you have already acquired it, you can play it.))~
+''Songs with Pink Background（COLOR(pink){■}）''・・・''Songs for Double Play''((When selecting songs, it is necessary to change the settings in advance at Donder Hiroba.))~
 
 ----
 
 |CENTER:1|CENTER:1||LEFT:60|>|>|>|>|CENTER:42|c
-|>||''Music/Songs name''|BPM((Those with * have slight BPM changes.))|BGCOLOR(#d52700):COLOR(#fff):''Easy''|BGCOLOR(#769e11):COLOR(#fff):''Normal''|BGCOLOR(#297ba3):COLOR(#fff):''Hard''|BGCOLOR(#af1e7f):COLOR(#fff):''Extreme''|BGCOLOR(#6042dd):COLOR(#fff):''Extreme (Ura)''|h
+|>||''Song''|BPM((Those with * have slight BPM changes.))|BGCOLOR(#d52700):COLOR(#fff):''Easy''|BGCOLOR(#769e11):COLOR(#fff):''Normal''|BGCOLOR(#297ba3):COLOR(#fff):''Hard''|BGCOLOR(#af1e7f):COLOR(#fff):''Extreme''|BGCOLOR(#6042dd):COLOR(#fff):''Extreme (Ura)''|h
 |>|>|>|>|>|>|>|>|BGCOLOR(#42c0d3):''POP''&aname(pops);|
 ||SIZE(9){''NEW''}|''DDU-DU DDU-DU''|140|[[★×2>難易度表/かんたん/DDU-DU DDU-DU]]|[[★×2>難易度表/ふつう/DDU-DU DDU-DU]]|[[★×4>難易度表/むずかしい/DDU-DU DDU-DU]]|[[★×7>難易度表/おに/DDU-DU DDU-DU]]|-|
 ||SIZE(9){''NEW''}|''bad guy''|120-135|[[★×3>難易度表/かんたん/bad guy]]|[[★×5>難易度表/ふつう/bad guy]]|[[★×6>難易度表/むずかしい/bad guy]]|[[★×7>難易度表/おに/bad guy]]|-|
@@ -1152,7 +1152,7 @@
 #region(You can click or tap to display on the screen.)
 //Please update the list if any errors are spotted.
 
-※1.Offical announcent had been made that the Songs will be added in later dates.&br();
+※1.Offical announcent had been made that the songs will be added in later dates.&br();
 ※2.Available in the old video game cabinet,not the current version.&br();
 ※3.Removed from Asia version.&br();
 ※4.Only available in Taiwan, Singapore, Malaysia, Thailand, Indonesia, Korea version.&br();
@@ -1160,80 +1160,80 @@
 ※Last modification date:2022.3.16
 
 |>|>|>|>|>|>|>|CENTER:74|c
-|>|>|Genre|Songs name|The day Songs were added to Japanese Ver.|Remarks|
+|>|>|Genre|Song|The date songs were added to Japanese Ver.|Remarks|
 |BGCOLOR(#42c0d3):|||プロミスザスター|2022.03.16|※1|
 |BGCOLOR(#42c0d3):|||Streamer|2022.03.16|※1|
-|BGCOLOR(#42c0d3):|||ストロベリー☆プラネット！|2022.02.16|※1|
-|BGCOLOR(#42c0d3):|||スキスキ星人|2022.01.26|※1|
-|BGCOLOR(#42c0d3):|||踊|2021.12.15|※1|
-|BGCOLOR(#42c0d3):|||シル・ヴ・プレジデント|2021.12.15|※1|
-|BGCOLOR(#42c0d3):|||ファッションモンスター|||
-|BGCOLOR(#42c0d3):|||PON PON PON|||
-|BGCOLOR(#42c0d3):|||恋するフォーチュンクッキー|||
-|BGCOLOR(#42c0d3):|||フライングゲット|||
-|BGCOLOR(#42c0d3):|||ヘビーローテーション|||
-|BGCOLOR(#42c0d3):|||ポニーテールとシュシュ||※2|
-|BGCOLOR(#42c0d3):|||Everyday、カチューシャ|||
-|BGCOLOR(#42c0d3):|||よく遊びよく学べ|||
-|BGCOLOR(#42c0d3):|BGCOLOR(#fe90d2):||嘘||※2|
-|BGCOLOR(#42c0d3):|BGCOLOR(#fe90d2):||レイン||※2|
-|BGCOLOR(#42c0d3):|BGCOLOR(#fe90d2):|BGCOLOR(#fdc000):|明け星|2021.12.15|※1|
-|BGCOLOR(#fdc000):|||Fun!Fun!Fun! 〜夢∞〜|2021.12.15|※1|
-|BGCOLOR(#fdc000):|||liveDevil|2021.12.15|※1|
-|BGCOLOR(#fdc000):|||もりのくまさん||※2|
-|BGCOLOR(#fdc000):|||いぬのおまわりさん||※2|
-|BGCOLOR(#fdc000):|||ウルトラマンギンガの歌|||
-|BGCOLOR(#fdc000):|||みらくる☆トラベル|||
-|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||スーパーマリオブラザーズ||※2|
-|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||Jump Up, Super Star! Short Version|||
-|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||スプラトゥーン2 メドレー|||
-|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||シオカラ節|||
-|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||妖怪ウォッチ2 元祖／本家／真打|||
-|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||スーパードラゴンボールヒーローズ テーマソング|||
-|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||ドラゴンボールヒーローズ ゴッドミッションシリーズ テーマソング|||
-|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||ドラゴンボールヒーローズ 邪悪龍ミッションシリーズ テーマソング|||
-|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング|||
-|BGCOLOR(#fdc000):|BGCOLOR(#1bc739):||くまもとサプライズ！|||
-|BGCOLOR(#fdc000):|BGCOLOR(#1bc739):||ココロ転がせっ！|||
-|BGCOLOR(#fe90d2):|||僕の戦争|2021.12.15|※1|
-|BGCOLOR(#fe90d2):|||オリオンをなぞる|||
-|BGCOLOR(#fe90d2):|||My Soul,Your Beats!||※2|
-|BGCOLOR(#fe90d2):|||SHINY|||
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Make debut!|2021.06.30||
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Circle of Seasons|||
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Act! Addict! Actors!|||
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||お願い！シンデレラ|||
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||READY!!|||
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||NO DOUBT||※3|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Heavenly Visitor||※3|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||エンジェル ドリーム||※4|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||あんずのうた||※4|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||S(mile)ING!||※4|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Never say never||※4|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||華蕾夢ミル狂詩曲〜魂ノ導〜||※4|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||TOKIMEKIエスカレート||※4|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||ミツボシ☆☆★||※4|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||Brand New Theater!||※4|
-|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||DRIVE A LIVE||※4|
-|BGCOLOR(#fe90d2):|BGCOLOR(#1bc739):||Dive to Blue|||
-|BGCOLOR(#fe90d2):|BGCOLOR(#1bc739):||Marine Mirage|||
-|BGCOLOR(#cbcfde):|||シンデレラ|2022.02.16|※1|
-|BGCOLOR(#cbcfde):|||千本桜||※5|
-|BGCOLOR(#cbcfde):|||愛×愛ホイッスル(カレーメシ公式曲)|||
-|BGCOLOR(#cbcfde):|||ゲラゲラと笑うな|||
-|BGCOLOR(#cc8aeb):|||MANKAI☆開花宣言|||
-|BGCOLOR(#cc8aeb):|||モンスターハンター4 メドレー|||
-|BGCOLOR(#cc8aeb):|||ファミコンメドレー|||
-|BGCOLOR(#cc8aeb):|||ゼルダの伝説 ブレス オブ ザ ワイルド メドレー|||
-|BGCOLOR(#cc8aeb):|||キミとボクのミライ|||
-|BGCOLOR(#cc8aeb):|||ソラのミチシルベ|||
-|BGCOLOR(#cc8aeb):|||なんどでも笑おう|2021.04.28|※1|
-|BGCOLOR(#cc8aeb):|||Spread the Wings!!||※3|
-|BGCOLOR(#1bc739):|||WE WILL ROCK YOU|||
-|BGCOLOR(#ff7028):|||東京ソーダ 8Bit Edit|||
-|BGCOLOR(#ff7028):|||ソードバトラーズ|||
-|BGCOLOR(#ff7028):|||渚のアンドロメダ|||
-|BGCOLOR(#ff7028):|||ダンバ・ダンバ・ディン・ダン|||
-|BGCOLOR(#ff7028):|||太鼓ラブ！|||
+|BGCOLOR(#42c0d3):|||[[ストロベリー☆プラネット！>難易度表/おに/ストロベリー☆プラネット！]]|2022.02.16|※1|
+|BGCOLOR(#42c0d3):|||[[スキスキ星人>難易度表/おに/スキスキ星人]]|2022.01.26|※1|
+|BGCOLOR(#42c0d3):|||[[踊>難易度表/おに/踊]]|2021.12.15|※1|
+|BGCOLOR(#42c0d3):|||[[シル・ヴ・プレジデント>難易度表/おに/シル・ヴ・プレジデント]]|2021.12.15|※1|
+|BGCOLOR(#42c0d3):|||[[ファッションモンスター>難易度表/おに/ファッションモンスター]]|||
+|BGCOLOR(#42c0d3):|||[[PON PON PON>難易度表/おに/PON PON PON]]|||
+|BGCOLOR(#42c0d3):|||[[恋するフォーチュンクッキー>難易度表/おに/恋するフォーチュンクッキー]]|||
+|BGCOLOR(#42c0d3):|||[[フライングゲット>難易度表/おに/フライングゲット]]|||
+|BGCOLOR(#42c0d3):|||[[ヘビーローテーション>難易度表/おに/ヘビーローテーション]]|||
+|BGCOLOR(#42c0d3):|||[[ポニーテールとシュシュ>難易度表/おに/ポニーテールとシュシュ]]||※2|
+|BGCOLOR(#42c0d3):|||[[Everyday、カチューシャ>難易度表/おに/Everyday、カチューシャ]]|||
+|BGCOLOR(#42c0d3):|||[[よく遊びよく学べ>難易度表/おに/よく遊びよく学べ]]|||
+|BGCOLOR(#42c0d3):|BGCOLOR(#fe90d2):||[[嘘>難易度表/おに/嘘]]||※2|
+|BGCOLOR(#42c0d3):|BGCOLOR(#fe90d2):||[[レイン>難易度表/おに/レイン]]||※2|
+|BGCOLOR(#42c0d3):|BGCOLOR(#fe90d2):|BGCOLOR(#fdc000):|[[明け星>難易度表/おに/明け星]]|2021.12.15|※1|
+|BGCOLOR(#fdc000):|||[[Fun!Fun!Fun! 〜夢∞〜>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|2021.12.15|※1|
+|BGCOLOR(#fdc000):|||[[liveDevil>難易度表/おに/liveDevil]]|2021.12.15|※1|
+|BGCOLOR(#fdc000):|||[[もりのくまさん>難易度表/おに/もりのくまさん]]||※2|
+|BGCOLOR(#fdc000):|||[[いぬのおまわりさん>難易度表/おに/いぬのおまわりさん]]||※2|
+|BGCOLOR(#fdc000):|||[[ウルトラマンギンガの歌>難易度表/おに/ウルトラマンギンガの歌]]|||
+|BGCOLOR(#fdc000):|||[[みらくる☆トラベル>難易度表/おに/みらくる☆トラベル]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||[[スーパーマリオブラザーズ>難易度表/おに/スーパーマリオブラザーズ]]||※2|
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||[[Jump Up, Super Star! Short Version>難易度表/おに/Jump Up, Super Star! Short Version]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||[[スプラトゥーン2 メドレー>難易度表/おに/スプラトゥーン2 メドレー]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||[[シオカラ節>難易度表/おに/シオカラ節]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||[[妖怪ウォッチ2 元祖／本家／真打>難易度表/おに/妖怪ウォッチ2 元祖／本家／真打]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||[[スーパードラゴンボールヒーローズ テーマソング>難易度表/おに/スーパードラゴンボールヒーローズ テーマソング]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||[[ドラゴンボールヒーローズ ゴッドミッションシリーズ テーマソング>難易度表/おに/ドラゴンボールヒーローズ ゴッドミッションシリーズ テーマソング]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||[[ドラゴンボールヒーローズ 邪悪龍ミッションシリーズ テーマソング>難易度表/おに/ドラゴンボールヒーローズ 邪悪龍ミッションシリーズ テーマソング]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#cc8aeb):||[[ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング>難易度表/おに/ドラゴンボールヒーローズ ギャラクシーミッションシリーズ テーマソング]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#1bc739):||[[くまもとサプライズ！>難易度表/おに/くまもとサプライズ！]]|||
+|BGCOLOR(#fdc000):|BGCOLOR(#1bc739):||[[ココロ転がせっ！>難易度表/おに/ココロ転がせっ！]]|||
+|BGCOLOR(#fe90d2):|||[[僕の戦争>難易度表/おに/僕の戦争]]|2021.12.15|※1|
+|BGCOLOR(#fe90d2):|||[[オリオンをなぞる>難易度表/おに/オリオンをなぞる]]|||
+|BGCOLOR(#fe90d2):|||[[My Soul,Your Beats!>難易度表/おに/My Soul,Your Beats!]]||※2|
+|BGCOLOR(#fe90d2):|||[[SHINY>難易度表/おに/SHINY]]|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[Make debut!>難易度表/おに/Make debut!]]|2021.06.30||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[Circle of Seasons>難易度表/おに/Circle of Seasons]]|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[Act! Addict! Actors!>難易度表/おに/Act! Addict! Actors!]]|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[お願い！シンデレラ>難易度表/おに/お願い！シンデレラ]]|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[READY!!>難易度表/おに/READY!!]]|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[NO DOUBT>難易度表/おに/NO DOUBT]]||※3|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[Heavenly Visitor>難易度表/おに/Heavenly Visitor]]||※3|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[エンジェル ドリーム(デレマス)>難易度表/おに/エンジェル ドリーム(デレマス)]]||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[あんずのうた / Anzu no Uta>難易度表/おに/あんずのうた]]||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[S(mile)ING!>難易度表/おに/S(mile)ING!]]||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[Never say never>難易度表/おに/Never say never]]||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[華蕾夢ミル狂詩曲〜魂ノ導〜>難易度表/おに/華蕾夢ミル狂詩曲〜魂ノ導〜]]||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[TOKIMEKIエスカレート>難易度表/おに/TOKIMEKIエスカレート]]||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[ミツボシ☆☆★>難易度表/おに/ミツボシ☆☆★]]||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[Brand New Theater!>難易度表/おに/Brand New Theater!]]||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[DRIVE A LIVE>難易度表/おに/DRIVE A LIVE]]||※4|
+|BGCOLOR(#fe90d2):|BGCOLOR(#1bc739):||[[Dive to Blue>難易度表/おに/Dive to Blue]]|||
+|BGCOLOR(#fe90d2):|BGCOLOR(#1bc739):||[[Marine Mirage>難易度表/おに/Marine Mirage]]|||
+|BGCOLOR(#cbcfde):|||[[シンデレラ>難易度表/おに/シンデレラ]]|2022.02.16|※1|
+|BGCOLOR(#cbcfde):|||[[千本桜 / Senbonzakura>難易度表/おに/千本桜]]||※5|
+|BGCOLOR(#cbcfde):|||[[愛×愛ホイッスル（カレーメシ公式曲）>難易度表/おに/愛×愛ホイッスル（カレーメシ公式曲）]]|||
+|BGCOLOR(#cbcfde):|||[[ゲラゲラと笑うな>難易度表/おに/ゲラゲラと笑うな]]|||
+|BGCOLOR(#cc8aeb):|||[[MANKAI☆開花宣言>難易度表/おに/MANKAI☆開花宣言]]|||
+|BGCOLOR(#cc8aeb):|||[[モンスターハンター4 メドレー>難易度表/おに/モンスターハンター4 メドレー]]|||
+|BGCOLOR(#cc8aeb):|||[[ファミコンメドレー>難易度表/おに/ファミコンメドレー]]|||
+|BGCOLOR(#cc8aeb):|||[[ゼルダの伝説 ブレス オブ ザ ワイルド メドレー>難易度表/おに/ゼルダの伝説 ブレス オブ ザ ワイルド メドレー]]|||
+|BGCOLOR(#cc8aeb):|||[[キミとボクのミライ>難易度表/おに/キミとボクのミライ]]|||
+|BGCOLOR(#cc8aeb):|||[[ソラのミチシルベ>難易度表/おに/ソラのミチシルベ]]|||
+|BGCOLOR(#cc8aeb):|||[[なんどでも笑おう>難易度表/おに/なんどでも笑おう]]|2021.04.28|※1|
+|BGCOLOR(#cc8aeb):|||[[Spread the Wings!!>難易度表/おに/Spread the Wings!!]]||※3|
+|BGCOLOR(#1bc739):|||[[We Will Rock You>難易度表/おに/We Will Rock You]]|||
+|BGCOLOR(#ff7028):|||[[東京ソーダ 8Bit Edit>難易度表/おに/東京ソーダ 8Bit Edit]]|||
+|BGCOLOR(#ff7028):|||[[ソードバトラーズ>難易度表/おに/ソードバトラーズ]]|||
+|BGCOLOR(#ff7028):|||[[渚のアンドロメダ>難易度表/おに/渚のアンドロメダ]]|||
+|BGCOLOR(#ff7028):|||[[ダンバ・ダンバ・ディン・ダン>難易度表/おに/ダンバ・ダンバ・ディン・ダン]]|||
+|BGCOLOR(#ff7028):|||[[太鼓ラブ！>難易度表/おに/太鼓ラブ！]]|||
 
 #endregion
