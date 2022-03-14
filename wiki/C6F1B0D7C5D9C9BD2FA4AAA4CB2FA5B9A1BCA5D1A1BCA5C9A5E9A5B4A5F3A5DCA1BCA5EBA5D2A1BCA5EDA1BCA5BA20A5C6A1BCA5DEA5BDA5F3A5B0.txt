@@ -9,7 +9,7 @@
 |AC16.1.0|BGCOLOR(yellow):''キッズ''|~|~|''983380点''|~|2860点|-|
 |~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|~|~|~|~|~|
 |AC16.2.0|BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
-|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''&br;(メイン)}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約84-178。

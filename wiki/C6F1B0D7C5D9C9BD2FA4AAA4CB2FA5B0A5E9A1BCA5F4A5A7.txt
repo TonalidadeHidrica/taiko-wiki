@@ -8,7 +8,7 @@
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''996880点''}|~|COLOR(#ff3300){1460点}|-|
 |AC16.1.0|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''1004200点''|~|1540点|-|
 |~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|~|~|~|~|
-|AC16.2.0|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|~|~|~|~|
+|AC16.2.0|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''&br;(メイン)|~|~|~|~|~|~|
 |~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

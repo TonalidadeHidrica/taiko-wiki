@@ -34,4 +34,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+最後に2本非表示の小節線がある
 &attachref(sw1op_x2.png,nolink);

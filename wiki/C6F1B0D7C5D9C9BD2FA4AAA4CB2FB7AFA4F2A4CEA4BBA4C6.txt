@@ -9,7 +9,7 @@
 ||iOS&br;PSPDXDL&br;AR|BGCOLOR(orange):''アニメ''|~|~|''935140点''|~|750点|190点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''990360点''}|~|COLOR(#ff3300){2620点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''995280点''|~|2640点|-|
-|~|~|BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(yellow):''キッズ''&br;(メイン)|~|~|~|~|~|~|
 ||Xbox1|BGCOLOR(orange):''アニメ''|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

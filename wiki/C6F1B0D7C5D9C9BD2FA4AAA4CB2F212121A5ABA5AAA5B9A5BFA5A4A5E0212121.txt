@@ -55,7 +55,7 @@
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=qbahlfTpF7E&feature=youtu.be&t=10s]]
 -[[オート動画(iOS)>https://www.youtube.com/watch?v=fAJ_R9gJ_Cg]]
 -[[オート動画(PS4 1)>https://m.youtube.com/watch?v=a2IRAyHo4o0&feature=youtu.be&t=4s]]
--[[公式MV>https://www.youtube.com/watch?v=ogZ23qZKs2w]]
+-[[公式MV(Uncut Ed!t!on)>https://www.youtube.com/watch?v=ogZ23qZKs2w]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -78,7 +78,7 @@
 //~&attachref(カオス解読_修正.png,nolink);
 
 ~低速地帯をBPM160固定とした場合の譜面画像~
-実際に叩くのはこの速さになります。黒線の部分がHS0.75、その他はHS1
+実際に叩くのはこの速さとなる。黒線の部分がHS0.75、その他はHS1。
 &ref(ChaosTime33-41.png,nolink);
 
 //~見える小節線のみ&aname(one);

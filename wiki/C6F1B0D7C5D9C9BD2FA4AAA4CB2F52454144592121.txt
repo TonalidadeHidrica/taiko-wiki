@@ -12,7 +12,7 @@
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''999600点''|~|2550点|-|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|~|~|~|~|~|
 |AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
-|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''&br;(メイン)}|~|~|~|~|~|~|
 ||COLOR(blue):PS Vita MS|BGCOLOR(#00cc66):''TVアニメ''|~|''420''|''949280点''|~|650点|180点|
 |COLOR(#f30):真打||~|~|~|COLOR(#f30):''1001180点''|~|COLOR(#f30):2260点|-|
 

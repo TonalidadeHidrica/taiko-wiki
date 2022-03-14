@@ -10,7 +10,7 @@
 |AC16.1.0|BGCOLOR(hotpink):''アニメ''|~|~|''999360点''|~|1440点|-|
 |~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
 |AC16.2.0|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
-|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''&br;(メイン)};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは180。

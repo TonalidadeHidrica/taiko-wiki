@@ -9,7 +9,7 @@
 ||COLOR(blue){PS Vita MS}|BGCOLOR(#6699ff):''ONE FOR ALL''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''971730点''}|~|COLOR(#ff3300){1830点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''978870点''|~|2010点|-|
-|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''&br;(メイン)}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは182。

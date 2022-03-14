@@ -15,7 +15,7 @@
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''1002880点''|~|1760点|-|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|~|~|~|~|
 |AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
-|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''&br;(メイン)}|~|~|~|~|~|~|
 
 -BPMは約180。最初の4小節に細かなBPM変化がある。
 -連打秒数目安・・・約0.472秒−SIZE(16){''約0.472秒''}：合計約0.944秒

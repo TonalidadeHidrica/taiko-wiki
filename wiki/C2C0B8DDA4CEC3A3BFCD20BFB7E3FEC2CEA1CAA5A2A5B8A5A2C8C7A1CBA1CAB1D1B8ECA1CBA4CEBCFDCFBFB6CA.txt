@@ -15,10 +15,10 @@
 ----
 
 -[[Official Site>http://taiko.namco-ch.net/taiko/]]
--[[Asia Ver. Official Facebook Account>https://www.facebook.com/taikoac.asia]]
--[[Official Youtube (For NAMCO Original songs Announcements and Previews)>https://www.youtube.com/playlist?list=PL7nAGNInREBn5drqKyyX4-Z8spIEZpWFo]]
+--[[Donder Hiroba>https://donderhiroba.jp/]]
 -[[Official Blog (Japanese)>http://taiko-ch.net/blog/]]
--[[Donder Hiroba>https://donderhiroba.jp/]]
+--[[Asia Ver. Official Facebook Account>https://www.facebook.com/taikoac.asia]]
+-[[Official Youtube (For NAMCO Original songs Announcements and Previews)>https://www.youtube.com/playlist?list=PL7nAGNInREBn5drqKyyX4-Z8spIEZpWFo]]
 -[[System Information>ACの歴史(新筐体2)#niziiro]]
 -[[Update Log>太鼓の達人 新筐体（アジア版） アップデート履歴]]
 -[[Donder Hiroba Official Tournament>ドンだーひろば 公式大会]]

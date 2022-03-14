@@ -11,7 +11,7 @@
 |~|~|BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|~|~|~|~|
 |AC16.2.0||BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
-|~|~|BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(lime):''バラエティ''&br;(メイン)|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは165。

@@ -11,7 +11,7 @@
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|COLOR(#909):''達人''|COLOR(#909):''526''|''982660点''|~|1860点|-|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|COLOR(#069):玄人|COLOR(#069):''484''|''904540点''|~|~|~|
 |AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|COLOR(#909):''達人''|COLOR(#909):''526''|''982660点''|~|1860点|-|
-|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|COLOR(#069):玄人|COLOR(#069):''484''|''904540点''|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''&br;(メイン)}|~|COLOR(#069):玄人|COLOR(#069):''484''|''904540点''|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約195。
