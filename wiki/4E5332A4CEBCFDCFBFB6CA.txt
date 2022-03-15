@@ -42,4 +42,6 @@
 //|>|>|>|>|>|>|>|BGCOLOR(orangered):''ナムコオリジナル''&aname(namco);|
 
 *コメント [#comment]
+-COLOR(#33f){''収録曲や追加機能等の予想や希望に関する話題はお控えください。''}
+
 #pcomment(,20,noname,reply)

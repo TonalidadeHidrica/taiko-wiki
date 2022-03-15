@@ -180,12 +180,17 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
+//|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|おに|||
+//|~|[[COLOR(blue):ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]|おに|||
+//|~|[[COLOR(blue):ラブユー☆どんちゃん(裏譜面)>難易度表/おに/ラブユー☆どんちゃん(裏譜面)]]|裏譜面|||
+//|~|[[COLOR(blue):トンガチン>難易度表/おに/トンガチン]]|おに|||
+//|~|[[COLOR(blue):喫茶レイン>難易度表/おに/喫茶レイン]]|おに|||
 |BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|おに|時代を踏破せし者||
 |~|[[COLOR(blue):晨星ト鵺>難易度表/おに/晨星ト鵺]]|おに|正体不明の明日||
 |~|[[COLOR(blue):アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]|おに|限りなき挑戦、己との約束。||
 |~|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]|おに|道化師は終焉にて嗤う||
-|~|[[COLOR(blue): The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|おに|太鼓の未来を識りし者||
-|~|[[COLOR(blue): The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|裏譜面|Traveler from 2765||
+|~|[[COLOR(blue):The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]|おに|太鼓の未来を識りし者||
+|~|[[COLOR(blue):The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|裏譜面|Traveler from 2765||
 |~|[[COLOR(blue):ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]|おに|猛寅級トラッパー||
 |~|[[COLOR(blue):どんちゃん 世界旅行>難易度表/おに/どんちゃん 世界旅行]]|おに|世界旅行ドンだー||
 |~|[[COLOR(blue):Solitude Star>難易度表/おに/Solitude Star]]|おに|闇を裂く新星||
@@ -430,6 +435,7 @@
 |CENTER:難易度|CENTER:曲名|CENTER:難易度|CENTER:称号|CENTER:備考|h
 |~★x1|BGCOLOR(silver):[[COLOR(blue):黄ダルマ2000>難易度表/おに/黄ダルマ2000]]|BGCOLOR(silver):おに|BGCOLOR(silver):リンリンズのファン|BGCOLOR(silver):毎年4/1のみ選択可能|
 |~★x4|[[COLOR(blue):Let It Go〜ありのままで〜>難易度表/おに/Let It Go〜ありのままで〜]]|-|こおりの女王||
+//|~★x6|[[COLOR(blue):喫茶レイン>難易度表/おに/喫茶レイン]]|おに|||
 |~★x7|[[COLOR(blue):僕らの世界にダンスを>難易度表/おに/僕らの世界にダンスを]]|-|教授のきもち|サカモト教授作曲・編曲の曲をどれか一つフルコンボで獲得|
 |~|[[COLOR(blue):どんちゃん 世界旅行>難易度表/おに/どんちゃん 世界旅行]]|おに|世界旅行ドンだー||
 |~|[[COLOR(blue):平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|おに|いとかしこし太鼓の遊び||
@@ -441,6 +447,8 @@
 |~|[[COLOR(blue):Fly again!>難易度表/おに/Fly again!]]|おに|僕らはもっと翔べる||
 |~|[[COLOR(blue):さいたま2000>難易度表/おに/さいたま2000]]|おに|さいたまの達人||
 |~|[[COLOR(blue):White Rose Insanity>難易度表/おに/White Rose Insanity]]|おに|白薔薇の狂気||
+//|~★x8|[[COLOR(blue):ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]|おに|||
+//|~|[[COLOR(blue):ラブユー☆どんちゃん(裏譜面)>難易度表/おに/ラブユー☆どんちゃん(裏譜面)]]|裏譜面|||
 |~★x8|[[COLOR(blue):テルミービート>難易度表/おに/テルミービート]]|おに|恋のビートも攻略中||
 |~|[[COLOR(blue):Eternal bond>難易度表/おに/Eternal bond]]|おに|永遠の絆||
 |~|[[COLOR(blue):駆け抜けてゆく>難易度表/おに/駆け抜けてゆく]]|おに|駆け抜けるドンだー||
@@ -486,6 +494,8 @@
 |~|[[COLOR(blue):Pixel Galaxy>難易度表/おに/Pixel Galaxy]]|おに|Pixel Galaxy Voyager||
 |~|[[COLOR(blue):Asteroid>難易度表/おに/Asteroid]]|おに|Asteroid Trackers||
 |~|[[COLOR(blue):サクラ・シークレット>難易度表/おに/サクラ・シークレット]]|おに|悠然なる管理者||
+//|~|[[COLOR(blue):めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|おに|||
+//|~|[[COLOR(blue):トンガチン>難易度表/おに/トンガチン]]|おに|||
 |~|[[COLOR(blue):Solitude Star>難易度表/おに/Solitude Star]]|おに|闇を裂く新星||
 |~|[[COLOR(blue):Agent Hustle ＆ Dr. Hassle(裏譜面)>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|裏譜面|EX Mission Complete!||
 |~|[[COLOR(blue):仮想現実のテレスコープ>難易度表/おに/仮想現実のテレスコープ]]|おに|夢幻彼方のランドスケープ||

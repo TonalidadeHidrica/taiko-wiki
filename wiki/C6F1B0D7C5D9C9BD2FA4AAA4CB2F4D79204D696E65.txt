@@ -17,12 +17,12 @@
 -1曲を通しての平均密度は、''約4.88打/秒''である。
 
 ***その他 [#other]
--作曲・編曲は、元[[MintJam>http://www.mintjam.net/mj/index.html]]の''[[setzer>https://twitter.com/setzer_ep]]''。
+-作曲・編曲は、元[[MintJam>参加アーティスト一覧/MintJam]]の''[[setzer>https://twitter.com/setzer_ep]]''。
 -歌唱は、''[[月乃紫音>https://twitter.com/tsukino_shion]]''。
 --ちなみに、同氏はニコニコ動画「歌ってみた」の投稿者である。
 -作詞は、''アリヤ''。
 --ギター・トラックダウンは、''setzer''。
---ギターソロは、''[[しょご>https://twitter.com/sho5ts]]''。
+--ギターソロは、''[[しょご>https://twitter.com/sho5ts]]''(''[[しょご/野村渉悟>参加アーティスト一覧/しょご／野村渉悟]]ではない'')。
 -曲IDは、''mymine''。
 -略称は''マイマイ''など。
 -ACでは、第1回アップデートまで曲名が「My ''m''ine」となっていた。

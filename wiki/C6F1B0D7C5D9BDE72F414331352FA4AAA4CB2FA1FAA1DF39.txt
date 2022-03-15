@@ -30,8 +30,9 @@ COLOR(red){''¤³¤Î¥Ú¡¼¥¸¤ÏAC15½ªÎ»»þÅÀ¤Î¤â¤Î¤Ç¤¢¤ê¡¢¸½ºß¤Ï¹¹¿·¤µ¤ì¤Æ¤¤¤Þ¤»¤ó¡£É½Æ
 
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|''Æñ°×ÅÙ¤´¤È¤Î¶Ê¿ô''(Æñ°×ÅÙ¤òÁªÂò¤¹¤ë¤È°ÜÆ°¤·¤Þ¤¹)|h
-|COLOR(#FF3300):CENTER:BGCOLOR(yellow):[[º¾¾Î+>#danger]]|COLOR(#FF3300):CENTER:BGCOLOR(silver):[[º¾¾Î>#false]]|CENTER:BGCOLOR(#FFCCCC):[[¶¯>#difficult]]|CENTER:BGCOLOR(#CCFFCC):[[Ãæ>#normal]]|CENTER:BGCOLOR(#CCCCFF):[[¼å>#easy]]|CENTER:BGCOLOR(#CCFFFF):[[µÕº¾¾Î>#untifalse]]|COLOR(White):CENTER:BGCOLOR(Black):[[ÂÐ¾Ý³°>#extra]]|¹ç·×|
-|0|15|49|82|47|26|2|221|
+|COLOR(#FF3300):CENTER:BGCOLOR(olive):[[º¾¾Î+>#danger]]|COLOR(#FF3300):CENTER:BGCOLOR(silver):[[º¾¾Î>#false]]|CENTER:BGCOLOR(#FFCCCC):[[¶¯>#difficult]]|CENTER:BGCOLOR(#CCFFCC):[[Ãæ>#normal]]|CENTER:BGCOLOR(#CCCCFF):[[¼å>#easy]]|CENTER:BGCOLOR(#CCFFFF):[[µÕº¾¾Î>#untifalse]]|COLOR(White):CENTER:BGCOLOR(Black):[[ÂÐ¾Ý³°>#extra]]|¹ç·×|
+|CENTER:BGCOLOR(gray):0|15|49|82|47|26|2|221|
+¢¨¸½ºß¤³¤ÎÆñ°×ÅÙ½ç¤Ë¤Ï¡ú¡ß9º¾¾Î+¤¬Â¸ºß¤·¤Þ¤»¤ó¡£
 
 //¶Ê¤ò°ÜÆ°¤¹¤ë¤È¤­¤Ë¢¬¤â¹¹¿·¤·¤Æ¤¯¤À¤µ¤¤¡£µÄÏÀÃæ¤Î¶Ê¤Ï¿ô¤Ë´Þ¤á¤Æ¤¤¤Þ¤»¤ó¡£
 
