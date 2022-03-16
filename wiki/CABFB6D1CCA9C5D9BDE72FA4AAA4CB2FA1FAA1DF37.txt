@@ -98,6 +98,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(darkorchid):|[[ファンタジーゾーン OPA-OPA！ ‐ GMT remix ‐>難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]|''4.630''|142|536|115.77秒||
 |>|>|BGCOLOR(orangered):|[[シャイニング65>難易度表/おに/シャイニング65]]|''4.601''|202.00※|494|107.38秒||
 |>|>|BGCOLOR(darkorchid):|[[Walking Through The Towers>難易度表/おに/Walking Through The Towers]]|''4.589''|150|480|104.60秒||
+|>|>|BGCOLOR(cyan):|[[Streamer>難易度表/おに/Streamer]]|''4.583''|126|431|94.05秒||
 |>|>|BGCOLOR(hotpink):|[[Realize>難易度表/おに/Realize]]|''4.558''|206|379|83.16秒||
 |>|>|BGCOLOR(cyan):|[[ポニーテールとシュシュ>難易度表/おに/ポニーテールとシュシュ]]|''4.553''|150.65※|466|102.36秒||
 |>|>|BGCOLOR(cyan):|[[睡蓮花>難易度表/おに/睡蓮花]]|''4.549''|156|643|141.35秒||

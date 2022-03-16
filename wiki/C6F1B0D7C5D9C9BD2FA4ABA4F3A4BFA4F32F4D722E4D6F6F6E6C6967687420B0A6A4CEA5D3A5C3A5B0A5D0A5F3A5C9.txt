@@ -1,4 +1,6 @@
 *Mr.Moonlight 愛のビッグバンド [#title]
+-タカラ「''e-kara''」CMソング。
+
 ***詳細・攻略 [#more]
 -詳細は以下の通り；
 |>|CENTER:バージョン((太字は初出))|難易度|最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h

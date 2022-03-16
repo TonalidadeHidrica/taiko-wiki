@@ -8,7 +8,7 @@
 -Launch Date: 06 April 2021
 --Launched in Taiwan, Hong Kong, Macau, Singapore, Malaysia, Thailand, Indonesia, Korea, Australia
 -Old ''798'' ＋ New ''40'' ＋ Hidden ''45'' ー Removal ''20'' = Total SIZE(20){''863''} songs ＋ DP ''4''
---However, some songs are not playable in some countries/regions
+--However, some songs are not playable in some countries/regions.((For more information, please refer to '[[Songs that are unavailable in Asia Ver.>#unavailable]]'.))
 &br;
 
 
@@ -35,7 +35,7 @@
 -[[Score for Kiwami rank>難易度表/おに/新筐体/極スコア]]
 -[[Japanese version of songs>太鼓の達人 新筐体の収録曲]]
 //-[[ブラジル版の収録曲>太鼓の達人 新筐体（ブラジル版）の収録曲]]
--Previously recorded songs：[[モモイロ>太鼓の達人 新筐体（アジア版）の収録曲/モモイロ]]／[[キミドリ>太鼓の達人 新筐体（アジア版）の収録曲/キミドリ]]／[[ムラサキ>太鼓の達人 新筐体（アジア版）の収録曲/ムラサキ]]／[[ホワイト>太鼓の達人 新筐体（アジア版）の収録曲/ホワイト]]／[[レッド>太鼓の達人 新筐体（アジア版）の収録曲/レッド]]／[[イエロー>太鼓の達人 新筐体（アジア版）の収録曲/イエロー]]／[[ブルー>太鼓の達人 新筐体（アジア版）の収録曲/ブルー]]／[[グリーン>太鼓の達人 新筐体（アジア版）の収録曲/グリーン]]
+-Previously recorded songs((Japanese Niji-iro Ver. was launched in 2020. On the other hand, Asian Niji-iro Ver. was done in 2021. If you want to know about 'Niji-iro 2020 Ver.', please refer to [[Niji-iro 2020 Ver. in Japan>太鼓の達人 新筐体の収録曲/ニジイロ2020]].))：[[Pink>太鼓の達人 新筐体（アジア版）の収録曲/モモイロ]]／[[Yellow green>太鼓の達人 新筐体（アジア版）の収録曲/キミドリ]]／[[Purple>太鼓の達人 新筐体（アジア版）の収録曲/ムラサキ]]／[[White>太鼓の達人 新筐体（アジア版）の収録曲/ホワイト]]／[[Red>太鼓の達人 新筐体（アジア版）の収録曲/レッド]]／[[Yellow>太鼓の達人 新筐体（アジア版）の収録曲/イエロー]]／[[Blue>太鼓の達人 新筐体（アジア版）の収録曲/ブルー]]／[[Green>太鼓の達人 新筐体（アジア版）の収録曲/グリーン]]
 -[[Songs that are unavailable in Asia Ver.>#unavailable]]
 
 ----
@@ -52,7 +52,7 @@
 ----
 
 |RIGHT:1|>|>|>|>|>|>|>|>|>|>|CENTER:15|c
-|★×|''1''|''2''|''3''|''4''|''5''|''6''|''7''|''8''|''9''|''10''|''合計''|h
+|★×|''1''|''2''|''3''|''4''|''5''|''6''|''7''|''8''|''9''|''10''|''Total''|h
 |BGCOLOR(#d52700):|40|97|259|301|166|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|''863''|
 |BGCOLOR(#769e11):|20|52|63|157|217|211|143|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|~|
 |BGCOLOR(#297ba3):|8|9|40|67|120|208|246|165|BGCOLOR(#000):|BGCOLOR(#000):|~|
@@ -1161,8 +1161,8 @@
 
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|Genre|Song|The date songs were added to Japanese Ver.|Remarks|
-|BGCOLOR(#42c0d3):|||プロミスザスター|2022.03.16|※1|
-|BGCOLOR(#42c0d3):|||Streamer|2022.03.16|※1|
+|BGCOLOR(#42c0d3):|||[[プロミスザスター>難易度表/おに/プロミスザスター]]|2022.03.16|※1|
+|BGCOLOR(#42c0d3):|||[[Streamer>難易度表/おに/Streamer]]|2022.03.16|※1|
 |BGCOLOR(#42c0d3):|||[[ストロベリー☆プラネット！>難易度表/おに/ストロベリー☆プラネット！]]|2022.02.16|※1|
 |BGCOLOR(#42c0d3):|||[[スキスキ星人>難易度表/おに/スキスキ星人]]|2022.01.26|※1|
 |BGCOLOR(#42c0d3):|||[[踊>難易度表/おに/踊]]|2021.12.15|※1|

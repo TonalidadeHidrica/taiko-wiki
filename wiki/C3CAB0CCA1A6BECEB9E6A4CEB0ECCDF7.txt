@@ -28,11 +28,11 @@
 -[[段位道場]]
 
 
-***ニジイロVer.23.04 [#newac]
+***ニジイロVer.24.08 [#newac]
 -称号はドンだーひろばのごほうび一覧の順に載せており、順番が確定しているものには「〇」を付けています。「〇」が付いていないものはまだ順番があやふやなので、確認でき次第編集をお願いします。
 
--表の背景が灰色(COLOR(grey){■})の称号は存在はしているが、Ver.23.04現在''獲得不可能''な条件の称号であることを表す。
--表の背景がグレー(COLOR(silver){■})の称号は存在はしているが、Ver.23.04現在''一時獲得不可能''な条件の称号であることを表す。
+-表の背景が灰色(COLOR(grey){■})の称号は存在はしているが、Ver.24.08現在''獲得不可能''な条件の称号であることを表す。
+-表の背景がグレー(COLOR(silver){■})の称号は存在はしているが、Ver.24.08現在''一時獲得不可能''な条件の称号であることを表す。
 
 |CENTER:||160||||c
 |CENTER:順番|CENTER:色|CENTER:称号|CENTER:獲得条件|CENTER:備考＆ご褒美|h
@@ -738,9 +738,9 @@
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):平成仮面ライダー２０作記念|BGCOLOR(grey):[[COLOR(blue):Over “Quartzer”>難易度表/おに/Over “Quartzer”]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダージオウ＆ゲイツ}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):世界最強の社長|BGCOLOR(grey):[[COLOR(blue):REAL×EYEZ>難易度表/おに/REAL×EYEZ]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーゼロワン}」を獲得|
 |〇|BGCOLOR(pink):|文豪にして剣豪|[[COLOR(blue):ALMIGHTY〜仮面の約束 feat.川上洋平>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]をプレイ|きせかえ「COLOR(red){仮面ライダーセイバー}」を獲得|
-//|〇|BGCOLOR(pink):||[[COLOR(blue):liveDevil>難易度表/おに/liveDevil]]をプレイ|きせかえ「COLOR(red){仮面ライダーリバイス}」を獲得|
+|〇|BGCOLOR(pink):|ヒーローと悪魔が相棒|[[COLOR(blue):liveDevil>難易度表/おに/liveDevil]]をプレイ|きせかえ「COLOR(red){仮面ライダーリバイス}」を獲得|
 |BGCOLOR(grey):〇||BGCOLOR(grey):麦わらの一味|BGCOLOR(grey):2021/10/20〜11/30にワンピースバトル演奏でカイドウに30勝する|BGCOLOR(grey):|
-||BGCOLOR(gold):|ドンだー！世界一決定戦2021外伝参加|2022/1/17〜2022/2/19に太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンラインの課題曲をプレイ||
+|BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝参加|BGCOLOR(grey):2022/1/17〜2022/2/19に太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンラインの課題曲をプレイ|BGCOLOR(grey):|
 ||BGCOLOR(pink):|だめだっていったのに|[[COLOR(blue):彁>難易度表/おに/彁]]をプレイ||
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ＧＡＭＥ ＭＵＳＩＣ ＴＲＩＡＮＧＬＥＲ|BGCOLOR(grey):2014/4/17〜4/30の間に[[電車で電車でGO!GO!GO!GC! -GMT remix->難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]と[[ファンタジーゾーン OPA-OPA! -GMT remix->難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]と[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]]を全てプレイ(1プレイ内でなくても可)|BGCOLOR(grey):|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):GMT MASTER|BGCOLOR(grey):2014/5/8〜5/21の間に[[電車で電車で OPA!OPA!OPA! -GMT mashup->難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]と[[オパ！オパ！RACER -GMT mashup->難易度表/おに/オパ！オパ！RACER -GMT mashup-]]と[[リッジでリッジで GO!GO!GO! -GMT mashup->難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]を全てプレイ(1プレイ内でなくても可)|~|

@@ -1,4 +1,5 @@
 *independent [#s9e5ca6f]
+-日本テレビ放送網「''THE BASEBALL 2002''」イメージソング。
 ***詳細･攻略 [#t6c50ebb]
 -詳細は以下の通り:
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h

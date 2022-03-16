@@ -1192,8 +1192,8 @@
 |1084|非公開|BGCOLOR(orangered):ナムオリ|?||
 |1085|非公開|BGCOLOR(orangered):ナムオリ|?||
 |1086|非公開|BGCOLOR(orangered):ナムオリ|?||
-|1087|非公開|BGCOLOR(cyan):ポップス|?||
-|1088|非公開|BGCOLOR(cyan):ポップス|?||
+|1087|[[Streamer>難易度表/おに/Streamer]]|BGCOLOR(cyan):ポップス|?||
+|1088|[[プロミスザスター>難易度表/おに/プロミスザスター]]|BGCOLOR(cyan):ポップス|?||
 
 **未確認 [#lostn]
 |>|>|>|CENTER:||c
