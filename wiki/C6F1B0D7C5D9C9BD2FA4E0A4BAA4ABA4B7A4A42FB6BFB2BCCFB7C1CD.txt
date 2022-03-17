@@ -1,0 +1,13 @@
+
+
+* 郷下老鼠[#i3a58237]
+***詳細・攻略[#more]
+|CENTER:バージョン|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC12亜''|CENTER:★×3|CENTER:''115''|CENTER:''??????点''|CENTER:＋連打|CENTER:1570点|CENTER:？点|
+-BPMは79-101。
+
+-[[かんたん>難易度表/かんたん/郷下老鼠]]
+-[[ふつう>難易度表/ふつう/郷下老鼠]]
+-[[おに>難易度表/おに/郷下老鼠]]
+***コメント[#comment]
+#pcomment(,noname)

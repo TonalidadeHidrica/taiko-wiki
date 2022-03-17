@@ -575,11 +575,11 @@ HS変化の回数が特定不可能な譜面の登場により一時格納
 |~|[[わら得る2000>難易度表/おに/わら得る2000]]|~|
 |4位|[[青天の黎明>難易度表/おに/青天の黎明]]|286|
 |5位|[[ダンガンノーツ>難易度表/おに/ダンガンノーツ]]／[[裏譜面>難易度表/おに/ダンガンノーツ(裏譜面)]]|283|
-|6位|[[Calamity Fortune>難易度表/おに/Calamity Fortune]]／[[裏譜面>難易度表/おに/Calamity Fortune(裏譜面)]]|256|
-|7位|[[BLUE SAPPHIRE>難易度表/おに/BLUE SAPPHIRE]]／[[裏譜面>難易度表/おに/BLUE SAPPHIRE(裏譜面)]]|255|
-|8位|[[ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]／[[裏譜面>難易度表/おに/ON SAY GO SAY(裏譜面)]]|243|
-|9位|[[もぺもぺ>難易度表/おに/もぺもぺ]]|235|
-|10位|[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]／[[裏譜面>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|228((暫定。見える小節線のみでの数))|
+|6位|[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]／[[裏譜面>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|260|
+|7位|[[Calamity Fortune>難易度表/おに/Calamity Fortune]]／[[裏譜面>難易度表/おに/Calamity Fortune(裏譜面)]]|256|
+|8位|[[BLUE SAPPHIRE>難易度表/おに/BLUE SAPPHIRE]]／[[裏譜面>難易度表/おに/BLUE SAPPHIRE(裏譜面)]]|255|
+|9位|[[ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]／[[裏譜面>難易度表/おに/ON SAY GO SAY(裏譜面)]]|243|
+|10位|[[もぺもぺ>難易度表/おに/もぺもぺ]]|235|
 //|11位|[[Toon Town's Toys' Tune>難易度表/おに/Toon Town's Toys' Tune]]|223|
 #endregion
 

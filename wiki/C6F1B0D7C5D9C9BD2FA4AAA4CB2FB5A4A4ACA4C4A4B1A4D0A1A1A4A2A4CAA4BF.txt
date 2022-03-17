@@ -1,5 +1,5 @@
 *気がつけば あなた [#title]
--KIRIN''「午後の紅茶」''のCMソング。
+-KIRIN「''午後の紅茶''」のCMソング。
 ***詳細・攻略 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h

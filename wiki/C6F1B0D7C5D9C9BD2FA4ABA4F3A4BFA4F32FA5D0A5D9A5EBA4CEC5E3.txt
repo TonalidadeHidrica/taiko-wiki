@@ -1,6 +1,6 @@
 *バベルの塔 [#title]
 ***詳細・攻略 [#more]
--ナムコのファミコンソフト「[[''バベルの塔''>http://ja.wikipedia.org/wiki/%E3%83%90%E3%83%99%E3%83%AB%E3%81%AE%E5%A1%94_(%E3%82%B2%E3%83%BC%E3%83%A0)]]」のBGMのシンフォニックアレンジ。
+-ナムコのファミコン向けソフト「[[''バベルの塔''>https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%99%E3%83%AB%E3%81%AE%E5%A1%94_(%E3%82%B2%E3%83%BC%E3%83%A0)]]」のBGMのシンフォニックアレンジメドレー。
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
 |CENTER:''CS4''|CENTER:★×4|CENTER:''150''|CENTER:''507970点''|CENTER:＋連打|CENTER:1000点|CENTER:310点||

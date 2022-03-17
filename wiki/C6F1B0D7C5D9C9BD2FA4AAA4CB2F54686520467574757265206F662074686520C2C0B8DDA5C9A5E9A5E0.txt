@@ -69,5 +69,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~暫定譜面
-~&attachref(The Future of the 太鼓ドラム_3.png,nolink);
+~HSは[[裏譜面>../The Future of the 太鼓ドラム(裏譜面)#score]]を参照
+~&attachref(20t765_m.png,nolink);

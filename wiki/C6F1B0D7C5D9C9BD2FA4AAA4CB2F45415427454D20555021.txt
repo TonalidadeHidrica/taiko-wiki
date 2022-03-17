@@ -8,7 +8,7 @@
 |AC15.7.0SP|''Wii U3SP''&br;PS4 1|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×8|''602''|''1048580点''|+連打|540点|140点|
 |COLOR(#f30){真打}||~|~|~|COLOR(#f30){''1000850点''}|~|COLOR(#f30){1610点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''995300点''|~|1650点|-|
-|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0|Xbox1DL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは152。

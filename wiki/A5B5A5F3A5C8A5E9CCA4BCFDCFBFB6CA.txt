@@ -71,7 +71,6 @@
 |BGCOLOR(orangered):|[[ニジイロバトン>難易度表/おに/ニジイロバトン]]|はぁち|Ponchi♪|
 |BGCOLOR(orangered):|[[儚姫は原初に舞う>難易度表/おに/儚姫は原初に舞う]]|-|Se-U-Ra|
 |BGCOLOR(orangered):|[[Hello, Worldooon!!>難易度表/おに/Hello, Worldooon!!]]|Kuroa*|Capchii|
-|BGCOLOR(orangered):|[[パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]|miko、山本椛|コバヤシユウヤ|
 |BGCOLOR(orangered):|[[ひよこ鑑定士さん>難易度表/おに/ひよこ鑑定士さん]]|ちょこ|立秋|
 |BGCOLOR(orangered):|[[Fly again!>難易度表/おに/Fly again!]]|谷本貴義|矢野義人|
 |BGCOLOR(orangered):|[[ぺた・PETA！？パンプキン>難易度表/おに/ぺた・PETA！？パンプキン]]|ゆと|変拍子兄さん(REONOAH)|
@@ -103,6 +102,7 @@
 |1|||||c
 ||曲名(50音順)|歌唱|作曲(編曲)|収録作品|備考|h
 |BGCOLOR(orangered):|[[春夏秋冬ドンドコドン>難易度表/ふつう/春夏秋冬ドンドコドン]]|宮川博之|宮川博之|[[公式MV(YouTube)>https://youtu.be/2uGlkPA7ius]]|ゲームver.|
+|BGCOLOR(lime):|[[パパマママック限定バージョン>難易度表/おに/パパマママック限定バージョン]]|牧野桃子、太郎、桜子|山本由貴子|[[公式MV(YouTube)>https://youtu.be/aAZMir4_gbo]]|ゲームver.|
 |BGCOLOR(orangered):|[[ダンガンノーツ>難易度表/おに/ダンガンノーツ]]|-|cosMo＠暴走P|cosMo＠暴走Pインストコレクション vol.2|ロングver.|
 |~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/d3WHyvyPe3E]]|~|
 |BGCOLOR(orangered):|[[人のお金で焼肉を食したい！>難易度表/おに/人のお金で焼肉を食したい！]]|桑村拓朗、おかか|土屋裕一|[[公式MV(YouTube)>https://www.youtube.com/watch?v=vtiU18VTi4I]]|ゲームver.|
@@ -119,6 +119,8 @@
 |~|~|~|~|~|ロングver.|
 |BGCOLOR(orangered):|[[第六天魔王>難易度表/おに/第六天魔王]]|-|黒沢ダイスケ × Masahiro "Godspeed" Aoki|BLACK ALBUM 3|ゲームsize|
 |~|~|~|~|[[公式MV(YouTube)>https://www.youtube.com/watch?v=dHmkoeUw7RA]]|~|
+|BGCOLOR(orangered):|[[パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]|miko、山本椛|コバヤシユウヤ|シングル|ゲームsize|
+|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/7-BDlolwvo0]]|~|
 |BGCOLOR(orangered):|[[Clotho クロートー>難易度表/おに/Clotho クロートー]]|小田ユウ|Tatsh|GEMINI|ロングver.|
 |BGCOLOR(orangered):|[[ARMAGEΔDON>難易度表/おに/ARMAGEΔDON]]|-|BlackY|GABRiELLA|ゲームsize・ロングver.|
 |~|~|~|~|[[自動生成音源(YouTube)>https://www.youtube.com/watch?v=Wcf2ZxQDeSo]]|ゲームsize|
@@ -162,9 +164,11 @@
 |~|~|~|~|∀rkadia Яesurrection|ロングver.|
 |BGCOLOR(orangered):|[[令・和太鼓>難易度表/おに/令・和太鼓]]|-|翡翠|C-VALKYLUNA2|ゲームsize|
 |BGCOLOR(orangered):|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|-|黒沢ダイスケ|BLACK ALBUM 4|ゲームsize|
+|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/N1Ne3BZZ_m4]]|~|
 |BGCOLOR(orangered):|[[彁>難易度表/おに/彁]]|-|LeaF|[[公式MV(YouTube)>https://youtu.be/EsOU0V2kpUI]]COLOR(red){【''閲覧注意''】}|ゲームsize|
 |~|~|~|~|[[公式音源(SoundCloud)>https://soundcloud.com/leaf-7/dgzjay4fbuid]]|~|
 |BGCOLOR(orangered):|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|-|黒沢ダイスケ|BLACK ALBUM 4|ゲームsize|
+|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/T_yYS58h5Nk]]|~|
 |BGCOLOR(orangered):|[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]|-|山本真央樹|[[公式音源(YouTube)>https://youtu.be/MPSFYRniqlU]]|ゲームsize|
 |BGCOLOR(orangered):|[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]|-|あず♪|[[公式音源(YouTube)>https://youtu.be/tCx-yzsR4os]]|ゲームsize|
 |BGCOLOR(orangered):|[[†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|大瀬良あい、まるもこ|溝口ゆうま|[[公式音源(YouTube)>https://youtu.be/DX5MHgtM3eI]]|ゲームsize|
@@ -185,6 +189,7 @@
 |BGCOLOR(orangered):|[[アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]|はぁち|Ponchi♪|[[公式音源(YouTube)>https://www.youtube.com/watch?v=7HAhoBFU8XI]]|ゲームsize|
 |BGCOLOR(orangered):|[[晨星ト鵺>難易度表/おに/晨星ト鵺]]|-|Silentroom|[[公式音源(YouTube)>https://www.youtube.com/watch?v=DGAE0rTLxVU]]|ゲームsize|
 |BGCOLOR(orangered):|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|-|steμ|[[公式音源(YouTube)>https://www.youtube.com/watch?v=1NjMikod7fk]]|ゲームsize|
+|BGCOLOR(orangered):|[[めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|本木咲黒|kyo(BNSI)|[[公式音源(YouTube)>https://www.youtube.com/watch?v=MBF4wd4VtK0]]|ゲームsize|
 
 **収録されない可能性が高いもの [#possibility]
 |1|||||c
