@@ -1186,10 +1186,10 @@
 |1078|[[ストロベリー☆プラネット！>難易度表/おに/ストロベリー☆プラネット！]]|BGCOLOR(cyan):ポップス|?||
 |1079|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|BGCOLOR(orangered):ナムオリ|?||
 |1080|[[業 -善なる神とこの世の悪について->難易度表/おに/業 -善なる神とこの世の悪について-]]|BGCOLOR(darkorchid):ゲーミュ|?||
-|1081|非公開|BGCOLOR(orangered):ナムオリ|?||
-|1082|非公開|BGCOLOR(orangered):ナムオリ|?||
-|1083|非公開|BGCOLOR(orangered):ナムオリ|?||
-|1084|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1081|[[めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|BGCOLOR(orangered):ナムオリ|?||
+|1082|[[ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]|BGCOLOR(orangered):ナムオリ|?||
+|1083|[[トンガチン>難易度表/おに/トンガチン]]|BGCOLOR(orangered):ナムオリ|?||
+|1084|[[喫茶レイン>難易度表/おに/喫茶レイン]]|BGCOLOR(orangered):ナムオリ|?||
 |1085|非公開|BGCOLOR(orangered):ナムオリ|?||
 |1086|非公開|BGCOLOR(orangered):ナムオリ|?||
 |1087|[[Streamer>難易度表/おに/Streamer]]|BGCOLOR(cyan):ポップス|?||

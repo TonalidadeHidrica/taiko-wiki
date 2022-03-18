@@ -1,0 +1,27 @@
+*You've Got a Friend in Me [#title]
+-ディズニー映画「[[''トイ・ストーリー''>アニメ別収録曲#disney]]」のOP。
+--日本語吹替版では、ダイアモンド&#10017;&#65038;ユカイがこの曲をカバーした「''君はともだち''」が使われた。
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PTB''|BGCOLOR(orange):''アニメ''|★×7|''371''|''995820点''|＋連打|850点|220点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''997500点''}|~|COLOR(#ff3300){2450点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約97-118。
+
+***その他 [#other]
+-アーティストは、''Randy Newman''(''ランディ・ニューマン'')。
+-曲IDは、''toystr''。
+
+----
+-[[かんたん>難易度表/かんたん/You've Got a Friend in Me]]
+-[[ふつう>難易度表/ふつう/You've Got a Friend in Me]]
+-[[むずかしい>難易度表/むずかしい/You've Got a Friend in Me]]
+-[[オート動画>https://www.youtube.com/watch?v=cygJM7XbFwo]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(toystr_m_改行.png,nolink);

@@ -1,0 +1,29 @@
+*SHINY SIZE(16){「モアナと伝説の海」より} [#title]
+-ディズニー映画「[[''モアナと伝説の海''>アニメ別収録曲#disney]]」挿入歌。
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PTB''|BGCOLOR(orange):''アニメ''|★×5|''325''|''897350点''|＋連打|830点|223点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''997650点''}|~|COLOR(#ff3300){2850点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約146。
+
+***その他 [#other]
+-アーティストは、''Jemaine Clement''(''ジェマイン・クレメント'')。
+--作詞は、Lin-Manuel Miranda。作曲は、Lin-Manuel Miranda・Mark Mancina。
+--映画では巨大なカニの怪物・''タマトア''を演じている。
+-[[「境界のRINNE」のOP>難易度表/おに/SHINY]]との混同に注意。
+-曲IDは、''moana2''。
+
+----
+-[[かんたん>難易度表/かんたん/SHINY(モアナ)]]
+-[[ふつう>難易度表/ふつう/SHINY(モアナ)]]
+-[[むずかしい>難易度表/むずかしい/SHINY(モアナ)]]
+-[[オート動画>https://youtube.com/watch?v=vKcNAWhUjhY]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(moana2_m.png,nolink);

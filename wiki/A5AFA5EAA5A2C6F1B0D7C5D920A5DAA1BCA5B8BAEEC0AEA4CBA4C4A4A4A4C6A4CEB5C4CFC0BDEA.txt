@@ -123,19 +123,23 @@
 
 -参考:他音ゲーwikiの難易度表一覧
 --[[beatmaniaIIDX(DP)>http://zasa.sakura.ne.jp/dp/]]
---[[ポップンミュージック>http://hellwork.jp/popn/wiki/1907.html]] 1(逆詐称、弱、中、強、詐称(、別格)に分類)
---[[ポップンミュージック>http://hellwork.jp/popn/wiki/?%E8%B3%87%E6%96%99%E9%A4%A8%2FLv%E9%96%93%E7%9B%AE%E5%AE%89%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8%2F%E2%97%8B%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8]] 2(譜面属性の表)
---[[jubeat>http://www26.atwiki.jp/jubeat/sp/pages/613.html?guid=on]] 1(C、B、A、Sなどに分類((現行の太鼓の譜面評価wikiはこの方式。ただし難易度順にはなっていない。)))
+--[[ポップンミュージック>https://popn.hyrorre.com/%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8/lv50]] 1(入門、弱、中、強、別格)に分類)
+--[[ポップンミュージック>https://popn.hyrorre.com/%E3%81%9D%E3%81%AE%E4%BB%96/s%E4%B9%B1%E3%82%AF%E3%83%AA%E3%82%A2%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8]] 2(譜面属性の表)
+--[[jubeat>http://www26.atwiki.jp/jubeat/sp/pages/613.html?guid=on]] 1(C、B、A、S、SS、SSSに分類((現行の太鼓の譜面評価wikiはこの方式。ただし難易度順にはなっていない。)))
 --[[jubeat>http://www26.atwiki.jp/jubeat/pages/1503.html]] 2
---[[REFLEC BEAT>http://www44.atwiki.jp/reflec_beat/pages/703.html]]
+--[[REFLEC BEAT>https://w.atwiki.jp/reflec_beat/pages/1307.html]]
 --[[SOUND>http://www18.atwiki.jp/sdvx/pages/3006.html]] [[VOLTEX>http://www18.atwiki.jp/sdvx/pages/220.html]]
---[[Project DIVA>http://www31.atwiki.jp/projectdiva_ac/pages/1547.html]]
---[[maimai>http://maimai.wiki.fc2.com/m/wiki/%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8%2FMASTER%28%E2%98%8610%29]](逆詐称、詐称、残りを小数で細分化)
+--[[Project DIVA>https://w.atwiki.jp/projectdiva_ac/pages/1532.html]]
+--[[maimai>https://maimai.wiki.fc2.com/wiki/RANK%20S%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8%2FMASTER%28%E2%98%8613%2C13%EF%BC%8B%2C14%29]](逆詐称、詐称、残りを小数で細分化)
 --[[チュウニズム>http://chunithm.gamerch.com/%E4%BD%93%E6%84%9F%E9%9B%A3%E6%98%93%E5%BA%A6%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0%EF%BC%8813%EF%BD%9E11%EF%BC%89]]
 --[[GROOVE COASTER>http://www.wikihouse.com/groove/index.php?Groove%20Coaster%A1%CAAC%C8%C7%A1%CB%2F%BC%FD%CF%BF%B6%CA%A5%EA%A5%B9%A5%C8%2F%C6%F1%B0%D7%C5%D9%C9%BD]]
---[[Cytus>http://wikiwiki.jp/cytus/?%B9%E2%A5%EC%A5%D9%A5%EB%C8%F3%B8%F8%BC%B0%C6%F1%B0%D7%C5%D9]]
+--[[CytusII>https://wikiwiki.jp/cytus-2/%E9%AB%98%E3%83%AC%E3%83%99%E3%83%AB%E9%9D%9E%E5%85%AC%E5%BC%8F%E9%9B%A3%E6%98%93%E5%BA%A6]]
 --[[Deemo>http://wikiwiki.jp/deemo/?%B9%E2%A5%EC%A5%D9%A5%EB%C8%F3%B8%F8%BC%B0%C6%F1%B0%D7%C5%D9]]
---[[シンクロニカ>http://wikiwiki.jp/synchronica/?%C2%CE%B4%B6%C6%F1%B0%D7%C5%D9%C9%BD%2FLv15%A1%C119]]
+--[[シンクロニカ>https://wikiwiki.jp/synchronica/%E4%BD%93%E6%84%9F%E9%9B%A3%E6%98%93%E5%BA%A6%E8%A1%A8/Lv16%E4%BB%A5%E4%B8%8A]]
+--[[OverRapid>https://seesaawiki.jp/overrapid/d/%C8%F3%B8%F8%BC%B0%C6%F1%B0%D7%C5%D9%C9%BD]]
+--[[Dynamix>https://dynamix.playing.wiki/d/Dynamix%20FullCombo%C8%F3%B8%F8%BC%B0%C6%F1%B0%D7%C5%D9]]
+--[[Arcaea>https://wikiwiki.jp/arcaea/%E9%AB%98%E3%83%AC%E3%83%99%E3%83%AB%E9%9D%9E%E5%85%AC%E5%BC%8F%E9%9B%A3%E6%98%93%E5%BA%A6%28TRACK%20COMPLETE%E5%9F%BA%E6%BA%96%29]]
+--[[プロジェクトセカイ>https://pjsekai.com/?7d7bc70995]]
 
 ----
 

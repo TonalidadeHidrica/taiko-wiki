@@ -1,0 +1,26 @@
+*You've Got a Friend in Me [#title]
+-ディズニー映画「[[''トイ・ストーリー''>アニメ別収録曲#disney]]」のOP。
+--日本語吹替版では、ダイアモンド&#10017;&#65038;ユカイがこの曲をカバーした「''君はともだち''」が使われた。
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PTB''|BGCOLOR(orange):''アニメ''|★×3|''136''|''?????0点''|＋連打|1100点|425点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){6390点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約97-118。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/You've Got a Friend in Me]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/You've Got a Friend in Me]]
+-[[むずかしい>難易度表/むずかしい/You've Got a Friend in Me]]
+-[[おに>難易度表/おに/You've Got a Friend in Me]]
+-[[オート動画>https://www.youtube.com/watch?v=UC5LjtD9f-4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(toystr_n.png,nolink);

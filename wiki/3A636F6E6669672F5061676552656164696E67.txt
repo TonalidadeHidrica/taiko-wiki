@@ -709,6 +709,7 @@
 -[[コメント/難易度表/おに/BORDERLESS]] コメント/ナンイドオモテ/オニ/BORDERLESS
 -[[コメント/難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]] コメント/ナンイドオモテ/オニ/BORN ON DREAM! 〜HANABI☆NIGHT〜
 -[[コメント/難易度表/おに/BRAND NEW WORLD]] コメント/ナンイドオモテ/オニ/BRAND NEW WORLD
+-[[コメント/難易度表/おに/Baby Shark]] コメント/ナンイドオモテ/オニ/Baby Shark
 -[[コメント/難易度表/おに/Baby Shark（ベイビー・シャーク）]] コメント/ナンイドオモテ/オニ/Baby Shark（ベイビー・シャーク）
 -[[コメント/難易度表/おに/Bad Apple!! feat.nomico]] コメント/ナンイドオモテ/オニ/Bad Apple!! feat.nomico
 -[[コメント/難易度表/おに/Baladium's drive]] コメント/ナンイドオモテ/オニ/Baladium's drive
@@ -1153,6 +1154,7 @@
 -[[コメント/難易度表/おに/SHINE!! キラキラ☆プリキュアアラモード]] コメント/ナンイドオモテ/オニ/SHINE!! キラキラ☆プリキュアアラモード
 -[[コメント/難易度表/おに/SHINING LINE*]] コメント/ナンイドオモテ/オニ/SHINING LINE*
 -[[コメント/難易度表/おに/SHINY]] コメント/ナンイドオモテ/オニ/SHINY
+-[[コメント/難易度表/おに/SHINY(モアナ)]] コメント/ナンイドオモテ/オニ/SHINY(モアナ)
 -[[コメント/難易度表/おに/SHOGYO MUJO]] コメント/ナンイドオモテ/オニ/SHOGYO MUJO
 -[[コメント/難易度表/おに/SMILY]] コメント/ナンイドオモテ/オニ/SMILY
 -[[コメント/難易度表/おに/SMOKY THRILL]] コメント/ナンイドオモテ/オニ/SMOKY THRILL
@@ -1333,6 +1335,7 @@
 -[[コメント/難易度表/おに/Yeah!めっちゃホリディ]] コメント/ナンイドオモテ/オニ/Yeah!メッチャホリディ
 -[[コメント/難易度表/おに/Yes we are]] コメント/ナンイドオモテ/オニ/Yes we are
 -[[コメント/難易度表/おに/You Can't Hurry Love]] コメント/ナンイドオモテ/オニ/You Can't Hurry Love
+-[[コメント/難易度表/おに/You've Got a Friend in Me]] コメント/ナンイドオモテ/オニ/You've Got a Friend in Me
 -[[コメント/難易度表/おに/YouTubeテーマソング]] コメント/ナンイドオモテ/オニ/YouTubeテーマソング
 -[[コメント/難易度表/おに/Your World]] コメント/ナンイドオモテ/オニ/Your World
 -[[コメント/難易度表/おに/arcadia]] コメント/ナンイドオモテ/オニ/arcadia
@@ -9048,8 +9051,8 @@
 -[[段位道場/ニジイロ2021/十段]] ダンイドウジョウ/ニジイロ2021/ジュウダン
 -[[段位道場/ニジイロ2021/達人]] ダンイドウジョウ/ニジイロ2021/タツジン
 -[[段位道場/ニジイロ2021/超人]] ダンイドウジョウ/ニジイロ2021/チョウジン
--[[段位道場/ニジイロ2021/ニ級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/二級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
+-[[段位道場/ニジイロ2021/ニ級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/二段]] ダンイドウジョウ/ニジイロ2021/ニダン
 -[[段位道場/ニジイロ2021/八段]] ダンイドウジョウ/ニジイロ2021/ハチダン
 -[[段位道場/ニジイロ2021/名人]] ダンイドウジョウ/ニジイロ2021/メイジン
@@ -9223,6 +9226,7 @@
 -[[難易度表/おに/BORDERLESS]] ナンイドオモテ/オニ/BORDERLESS
 -[[難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]] ナンイドオモテ/オニ/BORN ON DREAM! 〜HANABI☆NIGHT〜
 -[[難易度表/おに/BRAND NEW WORLD]] ナンイドオモテ/オニ/BRAND NEW WORLD
+-[[難易度表/おに/Baby Shark]] ナンイドオモテ/オニ/Baby Shark
 -[[難易度表/おに/Baby Shark（ベイビー・シャーク）]] ナンイドオモテ/オニ/Baby Shark（ベイビー・シャーク）
 -[[難易度表/おに/Bad Apple!! feat.nomico]] ナンイドオモテ/オニ/Bad Apple!! feat.nomico
 -[[難易度表/おに/Baladium's drive]] ナンイドオモテ/オニ/Baladium's drive
@@ -9668,6 +9672,7 @@
 -[[難易度表/おに/SHINE!! キラキラ☆プリキュアアラモード]] ナンイドオモテ/オニ/SHINE!! キラキラ☆プリキュアアラモード
 -[[難易度表/おに/SHINING LINE*]] ナンイドオモテ/オニ/SHINING LINE*
 -[[難易度表/おに/SHINY]] ナンイドオモテ/オニ/SHINY
+-[[難易度表/おに/SHINY(モアナ)]] ナンイドオモテ/オニ/SHINY(モアナ)
 -[[難易度表/おに/SHOGYO MUJO]] ナンイドオモテ/オニ/SHOGYO MUJO
 -[[難易度表/おに/SMILY]] ナンイドオモテ/オニ/SMILY
 -[[難易度表/おに/SMOKY THRILL]] ナンイドオモテ/オニ/SMOKY THRILL
@@ -9848,6 +9853,7 @@
 -[[難易度表/おに/Yeah!めっちゃホリディ]] ナンイドオモテ/オニ/Yeah!メッチャホリディ
 -[[難易度表/おに/Yes we are]] ナンイドオモテ/オニ/Yes we are
 -[[難易度表/おに/You Can't Hurry Love]] ナンイドオモテ/オニ/You Can't Hurry Love
+-[[難易度表/おに/You've Got a Friend in Me]] ナンイドオモテ/オニ/You've Got a Friend in Me
 -[[難易度表/おに/YouTubeテーマソング]] ナンイドオモテ/オニ/YouTubeテーマソング
 -[[難易度表/おに/Your World]] ナンイドオモテ/オニ/Your World
 -[[難易度表/おに/arcadia]] ナンイドオモテ/オニ/arcadia
@@ -11654,6 +11660,7 @@
 -[[難易度表/かんたん/BORDERLESS]] ナンイドオモテ/カンタン/BORDERLESS
 -[[難易度表/かんたん/BORN ON DREAM! 〜HANABI☆NIGHT〜]] ナンイドオモテ/カンタン/BORN ON DREAM! 〜HANABI☆NIGHT〜
 -[[難易度表/かんたん/BRAND NEW WORLD]] ナンイドオモテ/カンタン/BRAND NEW WORLD
+-[[難易度表/かんたん/Baby Shark]] ナンイドオモテ/カンタン/Baby Shark
 -[[難易度表/かんたん/Baby Shark（ベイビー・シャーク）]] ナンイドオモテ/カンタン/Baby Shark（ベイビー・シャーク）
 -[[難易度表/かんたん/Bad Apple!! feat.nomico]] ナンイドオモテ/カンタン/Bad Apple!! feat.nomico
 -[[難易度表/かんたん/Baladium's drive]] ナンイドオモテ/カンタン/Baladium's drive
@@ -12070,6 +12077,7 @@
 -[[難易度表/かんたん/SHINE!! キラキラ☆プリキュアアラモード]] ナンイドオモテ/カンタン/SHINE!! キラキラ☆プリキュアアラモード
 -[[難易度表/かんたん/SHINING LINE*]] ナンイドオモテ/カンタン/SHINING LINE*
 -[[難易度表/かんたん/SHINY]] ナンイドオモテ/カンタン/SHINY
+-[[難易度表/かんたん/SHINY(モアナ)]] ナンイドオモテ/カンタン/SHINY(モアナ)
 -[[難易度表/かんたん/SHOGYO MUJO]] ナンイドオモテ/カンタン/SHOGYO MUJO
 -[[難易度表/かんたん/SMILY]] ナンイドオモテ/カンタン/SMILY
 -[[難易度表/かんたん/SMOKY THRILL]] ナンイドオモテ/カンタン/SMOKY THRILL
@@ -12232,6 +12240,7 @@
 -[[難易度表/かんたん/Yeah!めっちゃホリディ]] ナンイドオモテ/カンタン/Yeah!メッチャホリディ
 -[[難易度表/かんたん/Yes we are]] ナンイドオモテ/カンタン/Yes we are
 -[[難易度表/かんたん/You Can't Hurry Love]] ナンイドオモテ/カンタン/You Can't Hurry Love
+-[[難易度表/かんたん/You've Got a Friend in Me]] ナンイドオモテ/カンタン/You've Got a Friend in Me
 -[[難易度表/かんたん/YouTubeテーマソング]] ナンイドオモテ/カンタン/YouTubeテーマソング
 -[[難易度表/かんたん/Your World]] ナンイドオモテ/カンタン/Your World
 -[[難易度表/かんたん/arcadia]] ナンイドオモテ/カンタン/arcadia
@@ -14227,6 +14236,7 @@
 -[[難易度表/ふつう/BORDERLESS]] ナンイドオモテ/フツウ/BORDERLESS
 -[[難易度表/ふつう/BORN ON DREAM! 〜HANABI☆NIGHT〜]] ナンイドオモテ/フツウ/BORN ON DREAM! 〜HANABI☆NIGHT〜
 -[[難易度表/ふつう/BRAND NEW WORLD]] ナンイドオモテ/フツウ/BRAND NEW WORLD
+-[[難易度表/ふつう/Baby Shark]] ナンイドオモテ/フツウ/Baby Shark
 -[[難易度表/ふつう/Baby Shark（ベイビー・シャーク）]] ナンイドオモテ/フツウ/Baby Shark（ベイビー・シャーク）
 -[[難易度表/ふつう/Bad Apple!! feat.nomico]] ナンイドオモテ/フツウ/Bad Apple!! feat.nomico
 -[[難易度表/ふつう/Baladium's drive]] ナンイドオモテ/フツウ/Baladium's drive
@@ -14645,6 +14655,7 @@
 -[[難易度表/ふつう/SHINE!! キラキラ☆プリキュアアラモード]] ナンイドオモテ/フツウ/SHINE!! キラキラ☆プリキュアアラモード
 -[[難易度表/ふつう/SHINING LINE*]] ナンイドオモテ/フツウ/SHINING LINE*
 -[[難易度表/ふつう/SHINY]] ナンイドオモテ/フツウ/SHINY
+-[[難易度表/ふつう/SHINY(モアナ)]] ナンイドオモテ/フツウ/SHINY(モアナ)
 -[[難易度表/ふつう/SHOGYO MUJO]] ナンイドオモテ/フツウ/SHOGYO MUJO
 -[[難易度表/ふつう/SMILY]] ナンイドオモテ/フツウ/SMILY
 -[[難易度表/ふつう/SMOKY THRILL]] ナンイドオモテ/フツウ/SMOKY THRILL
@@ -14808,6 +14819,7 @@
 -[[難易度表/ふつう/Yeah!めっちゃホリディ]] ナンイドオモテ/フツウ/Yeah!メッチャホリディ
 -[[難易度表/ふつう/Yes we are]] ナンイドオモテ/フツウ/Yes we are
 -[[難易度表/ふつう/You Can't Hurry Love]] ナンイドオモテ/フツウ/You Can't Hurry Love
+-[[難易度表/ふつう/You've Got a Friend in Me]] ナンイドオモテ/フツウ/You've Got a Friend in Me
 -[[難易度表/ふつう/YouTubeテーマソング]] ナンイドオモテ/フツウ/YouTubeテーマソング
 -[[難易度表/ふつう/Your World]] ナンイドオモテ/フツウ/Your World
 -[[難易度表/ふつう/arcadia]] ナンイドオモテ/フツウ/arcadia
@@ -16483,6 +16495,7 @@
 -[[難易度表/むずかしい/BORDERLESS]] ナンイドオモテ/ムズカシイ/BORDERLESS
 -[[難易度表/むずかしい/BORN ON DREAM! 〜HANABI☆NIGHT〜]] ナンイドオモテ/ムズカシイ/BORN ON DREAM! 〜HANABI☆NIGHT〜
 -[[難易度表/むずかしい/BRAND NEW WORLD]] ナンイドオモテ/ムズカシイ/BRAND NEW WORLD
+-[[難易度表/むずかしい/Baby Shark]] ナンイドオモテ/ムズカシイ/Baby Shark
 -[[難易度表/むずかしい/Baby Shark（ベイビー・シャーク）]] ナンイドオモテ/ムズカシイ/Baby Shark（ベイビー・シャーク）
 -[[難易度表/むずかしい/Bad Apple!! feat.nomico]] ナンイドオモテ/ムズカシイ/Bad Apple!! feat.nomico
 -[[難易度表/むずかしい/Baladium's drive]] ナンイドオモテ/ムズカシイ/Baladium's drive
@@ -16897,6 +16910,7 @@
 -[[難易度表/むずかしい/SHINE!! キラキラ☆プリキュアアラモード]] ナンイドオモテ/ムズカシイ/SHINE!! キラキラ☆プリキュアアラモード
 -[[難易度表/むずかしい/SHINING LINE*]] ナンイドオモテ/ムズカシイ/SHINING LINE*
 -[[難易度表/むずかしい/SHINY]] ナンイドオモテ/ムズカシイ/SHINY
+-[[難易度表/むずかしい/SHINY(モアナ)]] ナンイドオモテ/ムズカシイ/SHINY(モアナ)
 -[[難易度表/むずかしい/SHOGYO MUJO]] ナンイドオモテ/ムズカシイ/SHOGYO MUJO
 -[[難易度表/むずかしい/SMILY]] ナンイドオモテ/ムズカシイ/SMILY
 -[[難易度表/むずかしい/SMOKY THRILL]] ナンイドオモテ/ムズカシイ/SMOKY THRILL
@@ -17059,6 +17073,7 @@
 -[[難易度表/むずかしい/Yeah!めっちゃホリディ]] ナンイドオモテ/ムズカシイ/Yeah!メッチャホリディ
 -[[難易度表/むずかしい/Yes we are]] ナンイドオモテ/ムズカシイ/Yes we are
 -[[難易度表/むずかしい/You Can't Hurry Love]] ナンイドオモテ/ムズカシイ/You Can't Hurry Love
+-[[難易度表/むずかしい/You've Got a Friend in Me]] ナンイドオモテ/ムズカシイ/You've Got a Friend in Me
 -[[難易度表/むずかしい/YouTubeテーマソング]] ナンイドオモテ/ムズカシイ/YouTubeテーマソング
 -[[難易度表/むずかしい/Your World]] ナンイドオモテ/ムズカシイ/Your World
 -[[難易度表/むずかしい/arcadia]] ナンイドオモテ/ムズカシイ/arcadia
