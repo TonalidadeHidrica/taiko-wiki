@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(dokdok_e.png,nolink);
+&attachref(gumidk_e.png,nolink);

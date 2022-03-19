@@ -31,4 +31,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#fumen]
-&attachref(dokdok_h.png,nolink);
+&attachref(gumidk_h.png,nolink);

@@ -1,12 +1,13 @@
-*&ruby(ミントジャム){Mint&#74;am};[#Title]
+*&ruby(ミントジャム){Mint&#74;am}; [#title]
 -ゲームBGMなどの製作を主な活動としている同人音楽集団。
--メンバーはsetzer、a2c、TERRAの3人。
+-現メンバーは''&ruby(アツシ){a2c};''、''&ruby(テラ){TERRA};''の2人。
 -[[ホームページ>http://www.mintjam.net/mj/index.html]]
 -[[Twitter>https://twitter.com/mintjam_info]]
 
--作品一覧
+**作品一覧 [#work]
 --ナムコオリジナル
----[[My Mine>難易度表/おに/My Mine]]
+---[[My Mine>難易度表/おに/My Mine]]((元メンバーの''&ruby(セッツァー){setzer};''が作編曲を担当))
 ---[[Growing Up>難易度表/おに/Growing Up]]
-***コメント[#Comment]
+
+***コメント [#comment]
 #pcomment(,noname)

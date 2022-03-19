@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(dokdok_n.png,nolink);
+&attachref(gumidk_n.png,nolink);

@@ -71,6 +71,6 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~HS¤Ï[[Î¢ÉèÌÌ>../The Future of the ÂÀ¸Ý¥É¥é¥à(Î¢ÉèÌÌ)#score]]¤ò»²¾È
+~HS¤Ï[[Î¢ÉèÌÌ>../The Future of the ÂÀ¸Ý¥É¥é¥à(Î¢ÉèÌÌ)#HS]]¤ò»²¾È
 ~ÆâÉô¾®Àá¤ò´Þ¤àÉèÌÌ²èÁü¤Ï[[¤³¤Á¤é>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=20t765_m0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2FThe%20Future%20of%20the%20%C2%C0%B8%DD%A5%C9%A5%E9%A5%E0]]
 ~&attachref(20t765_m.png,nolink);

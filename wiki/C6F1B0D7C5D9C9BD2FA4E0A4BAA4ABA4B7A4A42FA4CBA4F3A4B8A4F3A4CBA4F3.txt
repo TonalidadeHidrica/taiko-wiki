@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(ninjin_h.png,nolink);
+&attachref(gumi22_h.png,nolink);

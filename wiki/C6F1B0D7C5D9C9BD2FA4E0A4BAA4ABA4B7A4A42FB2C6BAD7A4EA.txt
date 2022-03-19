@@ -59,4 +59,5 @@
 
 ***譜面 [#score]
 ~BPMは140.2-143。
+~2人用譜面は19-33小節と46-60小節が入れ替わっている。
 ~&attachref(natsumatsuri_hard_fixed1.png,nolink);

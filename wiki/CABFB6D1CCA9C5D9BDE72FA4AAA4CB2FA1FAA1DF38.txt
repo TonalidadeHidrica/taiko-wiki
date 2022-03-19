@@ -540,7 +540,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[GO MY WAY!!>難易度表/おに/GO MY WAY!!]]|''4.722''|180.00|554|117.33秒|CS:3DS2以降|
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[オーバーマスター>難易度表/おに/オーバーマスター]]|''4.716''|178|558|118.31秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[ALRIGHT*>難易度表/おに/ALRIGHT*]]|''4.715''|184|535|113.48秒||
-|>|>|BGCOLOR(cyan):|[[Summer Dude>難易度表/おに/Summer Dude]]|''4.710''|132.63※|554|117.62秒|動画から計算|
+|>|>|BGCOLOR(cyan):|[[Summer Dude>難易度表/おに/Summer Dude]]|''4.710''|132.63※|554|117.62秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[目が逢う瞬間>難易度表/おに/目が逢う瞬間]]|''4.709''|145|569|120.83秒||
 |>|>|BGCOLOR(orangered):|[[もりもり☆特盛リズム♪>難易度表/おに/もりもり☆特盛リズム♪]]|''4.706''|132|599|127.27秒||
 |>|BGCOLOR(cyan):|BGCOLOR(hotpink):|[[ドラマチックCOLOR(#890089):(達人譜面)>難易度表/おに/ドラマチック]]|''4.696''|164|390|83.05秒||

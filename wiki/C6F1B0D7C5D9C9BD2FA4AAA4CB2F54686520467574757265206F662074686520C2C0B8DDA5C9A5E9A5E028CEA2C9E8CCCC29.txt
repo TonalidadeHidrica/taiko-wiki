@@ -47,7 +47,7 @@
 ***譜面 [#score]
 ~内部小節を含む譜面画像は[[こちら>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=20t765_x0_2.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2FThe%20Future%20of%20the%20%C2%C0%B8%DD%A5%C9%A5%E9%A5%E0%28%CE%A2%C9%E8%CC%CC%29]]
 ~&attachref(20t765_x.png,nolink);
-~74小節以降の拡大図
+~74小節以降の拡大図&aname(HS);
 ~&attachref(74小節から.png,nolink);
 ~213小節以降の拡大図
 ~&attachref(213小節から.png,nolink);
