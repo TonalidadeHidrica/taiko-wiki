@@ -12,12 +12,13 @@
 #br
 -「楽曲取り放題コース」は7日250円、1ヶ月500円、3ヶ月1400円、6ヶ月2600円。
 
+-[[公式サイト>http://app.taiko-ch.net/]]
+-[[公式Twitter>https://twitter.com/taikosp]]
+-[[アップデート履歴>iOSの収録曲/アップデート履歴]]
+-[[システム詳細>CSの歴史#ios]]
+-[[AppStore>https://itunes.apple.com/jp/app/id366956158]]
 -[[配信パック>iOSの収録曲/配信パック]]
 -[[お楽しみ>iOSの収録曲/お楽しみ]]
--[[システム詳細>CSの歴史#ios]]
--[[アップデート履歴>iOSの収録曲/アップデート履歴]]
--[[公式サイト>http://app.taiko-ch.net/]]
--[[AppStore>https://itunes.apple.com/jp/app/id366956158]]
 -[[コメント>#comment]]
 ----
 |>|LEFT:1||c
@@ -910,5 +911,5 @@
 **コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず%%%[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]%%%に目を通してからコメントをするようにしてください。''}
 -COLOR(#33f){''各曲についての話はその曲のページでするようお願いします。''}
--COLOR(red){''曲の収録や機能などの要望はここではなく%%%[[COLOR(red){''公式Twitter''}>http://twitter.com/taiko_team]]%%%にてお願いします。''}
+-COLOR(red){''曲の収録や機能などの要望はここではなく%%%[[COLOR(red){''公式Twitter''}>https://twitter.com/taikosp]]%%%にてお願いします。''}
 #pcomment(,noname)

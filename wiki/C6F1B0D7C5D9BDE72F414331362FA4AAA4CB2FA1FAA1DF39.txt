@@ -27,9 +27,8 @@
 
 |>|>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|>|''難易度ごとの曲数''(難易度を選択すると移動します)|h
-|COLOR(#FF3300):CENTER:BGCOLOR(olive):[[詐称+>#danger]]|COLOR(#FF3300):CENTER:BGCOLOR(silver):[[詐称>#false]]|CENTER:BGCOLOR(#FFCCCC):[[強>#difficult]]|CENTER:BGCOLOR(#CCFFCC):[[中>#normal]]|CENTER:BGCOLOR(#CCCCFF):[[弱>#easy]]|CENTER:BGCOLOR(#CCFFFF):[[逆詐称>#untifalse]]|CENTER:BGCOLOR(lime):[[逆詐称−>#safety]]|COLOR(White):CENTER:BGCOLOR(Black):[[対象外>#extra]]|合計|
-|CENTER:BGCOLOR(gray):0|13|53|95|55|31|17|1|264|
-※現在この難易度順には★×9詐称+が存在しません。
+|COLOR(#FF3300):CENTER:BGCOLOR(yellow):[[詐称+>#danger]]|COLOR(#FF3300):CENTER:BGCOLOR(silver):[[詐称>#false]]|CENTER:BGCOLOR(#FFCCCC):[[強>#difficult]]|CENTER:BGCOLOR(#CCFFCC):[[中>#normal]]|CENTER:BGCOLOR(#CCCCFF):[[弱>#easy]]|CENTER:BGCOLOR(#CCFFFF):[[逆詐称>#untifalse]]|CENTER:BGCOLOR(lime):[[逆詐称−>#safety]]|COLOR(White):CENTER:BGCOLOR(Black):[[対象外>#extra]]|合計|
+|0|13|53|95|55|31|17|1|264|
 
 //曲を移動するときに↑も更新してください。議論中の曲は数に含めていません。
 
@@ -37,7 +36,7 @@
 
 |CENTER:1||LEFT:1|LEFT:78||LEFT:1|c
 |BGCOLOR(#0099FF):|CENTER:BGCOLOR(#0099FF):曲名|CENTER:BGCOLOR(#0099FF):BPM((括弧内表記は見た目速度))|CENTER:BGCOLOR(#0099FF):属性|CENTER:BGCOLOR(#0099FF):譜面の特徴|CENTER:BGCOLOR(#0099FF):最大コンボ数|
-//|>|>|>|>|>|COLOR(#FF3300):CENTER:BGCOLOR(yellow):詐称+&aname(danger);|
+|>|>|>|>|>|COLOR(#FF3300):CENTER:BGCOLOR(yellow):詐称+&aname(danger);|
 |>|>|>|>|>|COLOR(#FF3300):CENTER:BGCOLOR(silver):詐称&aname(false);|
 |BGCOLOR(darkgray):COLOR(black){}|[[脳漿炸裂ガール(裏譜面)>難易度表/おに/脳漿炸裂ガール(裏譜面)]]|155|総合&br;個人差|BPMは決して高くないが、序盤から様々な偶数連打や裏拍入りの複合、長複合が流れてくる。また、休憩地帯がほとんどなく密度も高いため体力も必須である。主な難所は20〜25小節の長複合と33〜38小節のシャッフル地帯。長複合のラストには24分16連打複合があり、★×10適正者でも繋ぐのは難しい。シャッフル地帯は、いっそのこと精度を捨てて逆餡蜜処理をするのも一つの手。ゴーゴーの複合は面の数が見切りにくいため、あらかじめ動画などで確認しておくと良い。★×9の中ではかなり高い地力が要求され、''人によっては詐称+並みの難易度に感じられることも多い''が、速度が遅い分発狂以外は稼ぎになることから''強レベルに感じる人もいる''ため、''個人差が出やすい譜面''となっている。&br;平均密度:約7.07打/秒|''710''|
 |~|[[珈琲の味と>難易度表/おに/珈琲の味と]]|185|体力&br;ノンストップ|24分音符は存在しないが、開幕から様々な複合が次々と流れてくる休憩地帯の少ない体力譜面。中盤以降はやや長い複合も存在する。他の★×9詐称のた体力譜面と違い偶数連打も多く存在し、かつBPMが速めであるために複合処理能力も要求されるため、総合力譜面と言われることもある。序盤の複合は比較的叩きやすい配置になっているため、クリア狙いの人はこの辺りでゲージをできるだけ稼いでおきたい。終盤へ向かうに連れて密度が上昇し、体力的にも厳しいため19〜21小節や63〜66小節の比較的密度の低い休憩地帯を利用して体力を温存しておきたい。★×9の中でも体力面でトップクラスであるため、この曲が安定してクリアできるようになれば、★×10へ挑むための体力は十分にあると判断してもいいだろう。&br;平均密度:約7.59打/秒|''926''|
