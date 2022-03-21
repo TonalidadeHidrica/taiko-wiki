@@ -34,4 +34,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#fumen]
-~&attachref(karamari_h.png,nolink);
+~&attachref(karamr_h.png,nolink);

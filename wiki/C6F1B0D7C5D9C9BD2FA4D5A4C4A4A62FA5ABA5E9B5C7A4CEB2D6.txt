@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(karamari_n.png,nolink);
+~&attachref(karamr_n.png,nolink);

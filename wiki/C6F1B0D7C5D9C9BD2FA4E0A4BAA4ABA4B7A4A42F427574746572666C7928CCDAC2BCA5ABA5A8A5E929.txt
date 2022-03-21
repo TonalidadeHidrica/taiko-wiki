@@ -1,13 +1,23 @@
-*Butterfly(木村カエラ) [#m4ce907d]
-***詳細・攻略 [#fccec0e3]
--詳細は以下の通り。
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|CENTER:''AC14''|CENTER:Wii3&br;iOS|CENTER:★×4|CENTER:''273''|CENTER:''692630点''|CENTER:＋連打|CENTER:670点|CENTER:180点|
-|CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''697700点''}|~|CENTER:COLOR(#ff3300){2250点}|CENTER:-|
-|CENTER:AC15.1.0〜15.4.6||~|~|CENTER:''?????0点''|~|CENTER:730点|CENTER:220点|
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){3220点}|CENTER:-|
--アーティストは、[[リルラリルハ>難易度表/むずかしい/リルラリルハ]]、[[Ring a Ding Dong>難易度表/むずかしい/Ring a Ding Dong]]と同じく''木村カエラ''。
--[[倖田來未>難易度表/むずかしい/Butterfly]]ではない。
+*Butterfly(木村カエラ) [#title]
+-リクルート「''ゼクシィ''」CMソング。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC14''|Wii3|BGCOLOR(cyan):''J-POP''|★×4|''273''|''692630点''|＋連打|670点|180点|
+||iOS|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打モード}||BGCOLOR(cyan):''J-POP''|~|~|COLOR(#ff3300){''697700点''}|~|COLOR(#ff3300){2250点}|-|
+|AC15.1.0-15.4.6||~|~|~|''?????0点''|~|730点|220点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){3220点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約111。
+--少し遅いので、「ばいそく」を付けた方がやりやすいかもしれない。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Butterfly(木村カエラ)]]を参照。
+
+----
 -[[かんたん>難易度表/かんたん/Butterfly(木村カエラ)]]
 -[[ふつう>難易度表/ふつう/Butterfly(木村カエラ)]]
 -[[おに>難易度表/おに/Butterfly(木村カエラ)]]

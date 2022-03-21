@@ -372,8 +372,8 @@
 |292|BGCOLOR(#ccc):[[もったいないとらんど>難易度表/おに/もったいないとらんど]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):mottai|BGCOLOR(#ccc):〜19/3/14　サヨナラ曲|
 |293|[[ヘイ，ミスタープロフェッサー>難易度表/おに/ヘイ,ミスタープロフェッサー]]|BGCOLOR(orangered):ナムオリ|mrprof||
 |294|[[PaPaPa Love>難易度表/おに/PaPaPa Love]]|BGCOLOR(darkorchid):ゲーミュ|mscl1||
-|295|||||
-//|295|[[負け犬返上>難易度表/おに/負け犬返上]]|BGCOLOR(darkorchid):ゲーミュ|mscl3||
+|295|非公開|BGCOLOR(darkorchid):ゲーミュ|?||
+//|295|[[負け犬返上>難易度表/おに/負け犬返上]]|BGCOLOR(darkorchid):ゲーミュ|mscl3|未公開曲ではあるが、公式サイトに一時記載されていた|
 |296|[[筋肉のような僕ら 〜マッスル愛のテーマ〜>難易度表/おに/筋肉のような僕ら]]|BGCOLOR(darkorchid):ゲーミュ|mscl5||
 |297|[[M.S.S.Planet>難易度表/おに/M.S.S.Planet]]|BGCOLOR(darkgray):ボカロ|msspln||
 |298|[[夢幻の蒼空>難易度表/おに/夢幻の蒼空]]|BGCOLOR(orangered):ナムオリ|mugens||
@@ -418,7 +418,7 @@
 |~|BGCOLOR(#ccc):[[ポリリズム>難易度表/おに/ポリリズム]]|BGCOLOR(cyan):J-POP|BGCOLOR(#ccc):poly|BGCOLOR(#ccc):〜17/3/15　サヨナラ曲|
 |332|[[PON PON PON>難易度表/おに/PON PON PON]]|BGCOLOR(cyan):J-POP|ponpon||
 |333|[[崖の上のポニョ>難易度表/おに/崖の上のポニョ]]|BGCOLOR(orange):アニメ|ponyo||
-|334|||||
+|334|非公開|BGCOLOR(#333):？？？|?||
 //|334|BGCOLOR(beige):[[エレクトリック・ポストマン>難易度表/おに/エレクトリック・ポストマン]]|BGCOLOR(orangered):ナムオリ|BGCOLOR(beige):postm|BGCOLOR(beige):未公開曲、ニジイロにおけるジャンルは不明|
 |335|[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|BGCOLOR(orangered):ナムオリ|pprose||
 |336|[[Infinite Rebellion>難易度表/おに/Infinite Rebellion]]|BGCOLOR(orangered):ナムオリ|ygnarr|17/8/17〜|
@@ -630,6 +630,7 @@
 |526|[[Heaven's Rider>難易度表/おに/Heaven's Rider]]|BGCOLOR(orangered):ナムオリ|hvride||
 |527|[[マリオネットピュア>難易度表/おに/マリオネットピュア]]|BGCOLOR(orangered):ナムオリ|mnpure||
 |528|BGCOLOR(#ccc):[[スカッとばあちゃんの歌>難易度表/おに/スカッとばあちゃんの歌]]|BGCOLOR(lime):バラエティ|BGCOLOR(#ccc):sukatb|BGCOLOR(#ccc):〜20/6/23　サヨナラ曲|
+|529|非公開|BGCOLOR(#333):？？？|?||
 //|529|非公開|BGCOLOR(#333):COLOR(white):非公開|非公開|推測：[[スカッとじゃんけん>難易度表/おに/スカッとじゃんけん]] (?)|
 |530|[[I my moko>難易度表/おに/I my moko]]|BGCOLOR(cyan):J-POP|imymok||
 |531|BGCOLOR(#ccc):[[人生ドラマチック>難易度表/おに/人生ドラマチック]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):ywjdrm|BGCOLOR(#ccc):〜20/7/23　サヨナラ曲|
@@ -1187,9 +1188,9 @@
 |1079|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|BGCOLOR(orangered):ナムオリ|?||
 |1080|[[業 -善なる神とこの世の悪について->難易度表/おに/業 -善なる神とこの世の悪について-]]|BGCOLOR(darkorchid):ゲーミュ|?||
 |1081|[[めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|BGCOLOR(orangered):ナムオリ|?||
-|1082|[[ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]|BGCOLOR(orangered):ナムオリ|?||
-|1083|[[トンガチン>難易度表/おに/トンガチン]]|BGCOLOR(orangered):ナムオリ|?||
-|1084|[[喫茶レイン>難易度表/おに/喫茶レイン]]|BGCOLOR(orangered):ナムオリ|?||
+|1082|[[ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]|BGCOLOR(orangered):ナムオリ|bkov2||
+|1083|[[トンガチン>難易度表/おに/トンガチン]]|BGCOLOR(orangered):ナムオリ|tongat||
+|1084|[[喫茶レイン>難易度表/おに/喫茶レイン]]|BGCOLOR(orangered):ナムオリ|ksrain||
 |1085|非公開|BGCOLOR(orangered):ナムオリ|?||
 |1086|非公開|BGCOLOR(orangered):ナムオリ|?||
 |1087|[[Streamer>難易度表/おに/Streamer]]|BGCOLOR(cyan):ポップス|?||
@@ -1198,7 +1199,9 @@
 **未確認 [#lostn]
 |>|>|>|CENTER:||c
 |song_no|曲|ジャンル|曲ID|CENTER:備考|
-|529|[[スカッとじゃんけん>難易度表/おに/スカッとじゃんけん]]|BGCOLOR(lime):バラエティ|sukatj||
+|295|[[負け犬返上>難易度表/おに/負け犬返上]]|BGCOLOR(darkorchid):ゲーミュ|mscl3|一時公式サイトでの記載あり|
+|334|[[エレクトリック・ポストマン>難易度表/おに/エレクトリック・ポストマン]]|BGCOLOR(orangered):ナムオリ|postm||
+|529|[[スカッとじゃんけん>難易度表/おに/スカッとじゃんけん]]|BGCOLOR(lime):バラエティ|sukatj|期間限定曲|
 
 **コメント [#comment]
 #pcomment(,noname)
