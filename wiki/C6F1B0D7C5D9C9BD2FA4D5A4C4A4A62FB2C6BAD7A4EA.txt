@@ -74,6 +74,7 @@
 
 ***譜面 [#score]
 ~現行譜面
+~2人用譜面は19-33小節と46-60小節が入れ替わっている。
 ~&attachref(natsumatsuri_normal.png,nolink);
 
 ~旧譜面

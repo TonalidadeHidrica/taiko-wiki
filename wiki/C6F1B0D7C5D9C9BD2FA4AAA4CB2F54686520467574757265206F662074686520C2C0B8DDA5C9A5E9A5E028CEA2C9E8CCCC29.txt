@@ -45,9 +45,8 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~ÆâÉô¾®Àá¤ò´Ş¤àÉèÌÌ²èÁü¤Ï[[¤³¤Á¤é>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=20t765_x0_2.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2FThe%20Future%20of%20the%20%C2%C0%B8%DD%A5%C9%A5%E9%A5%E0%28%CE%A2%C9%E8%CC%CC%29]]
-~&attachref(20t765_x.png,nolink);
-~74¾®Àá°Ê¹ß¤Î³ÈÂç¿Ş&aname(HS);
-~&attachref(74¾®Àá¤«¤é.png,nolink);
-~213¾®Àá°Ê¹ß¤Î³ÈÂç¿Ş
-~&attachref(213¾®Àá¤«¤é.png,nolink);
+~&attachref(20t765_x0_2.png,nolink);
+~74¡Á134¾®Àá¤Î³ÈÂç¿Ş&aname(HS);
+~&attachref(20t765_x_74-134.png,nolink);
+~241¡Á256¾®Àá¤Î³ÈÂç¿Ş
+~&attachref(20t765_x_241-256.png,nolink);
