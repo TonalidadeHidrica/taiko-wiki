@@ -21,4 +21,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(Mi_n.png,nolink);
+~&attachref(irmake_n.png,nolink);

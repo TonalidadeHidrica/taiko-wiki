@@ -6,7 +6,7 @@
 |AC15.5.0|''3DS2''&br;Wii U2&br;PS Vita1&br;PS4 1&br;NS1DL&br;NS RPG&br;PTB|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|★×7|''503''|''843640点''|＋連打|450点|118点|
 ||PS Vita1亜|BGCOLOR(silver):''VOCALOID&br;樂曲''|~|~|~|~|~|~|
 ||3DS2韓|BGCOLOR(silver):''&#48372;&#52972;&#47196;&#51060;&#46300;''|~|~|~|~|~|~|
-||iOS&br;AR|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''?????0点''|~|~|100点|
+||iOS&br;AR|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''841600点''|~|~|100点|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''996080点''}|~|COLOR(#ff3300){1790点}|-|
 |AC16.1.0||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''997040点''|~|1980点|-|
 
@@ -36,5 +36,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-黄色連打は下の画像より48分音符1つ分短い
-~&attachref(ia6t1_h.png,nolink);
+~&attachref(ia6t1_hard.png,nolink);

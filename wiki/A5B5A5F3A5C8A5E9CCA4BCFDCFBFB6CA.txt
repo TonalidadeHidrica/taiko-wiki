@@ -81,7 +81,6 @@
 |BGCOLOR(#ff7028):|[[魔法式逃走奇譚☆ミ>難易度表/おに/魔法式逃走奇譚☆ミ]]|海保えりか|MOES|
 |BGCOLOR(#ff7028):|[[Mr.ランナー>難易度表/おに/Mr.ランナー]]|singman|MOES|
 |BGCOLOR(#ff7028):|[[memoria ficta>難易度表/おに/memoria ficta]]|-|Versus|
-|BGCOLOR(#ff7028):|[[もしもし神様>難易度表/おに/もしもし神様]]|鏡音リン、鏡音レン|テヅカ|
 |BGCOLOR(#ff7028):|[[ユースフルコースター>難易度表/おに/ユースフルコースター]]|かずらなつ|U-ske|
 |BGCOLOR(#ff7028):|[[UFO Swingin'>難易度表/おに/UFO Swingin']]|A.Dokuga|シバガキ|
 |BGCOLOR(#ff7028):|[[YOAKE>難易度表/おに/YOAKE]]|Uzumaki|Capchii|
@@ -168,7 +167,6 @@
 |~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/N1Ne3BZZ_m4]]|~|
 |BGCOLOR(#ff7028):|[[彁>難易度表/おに/彁]]|-|LeaF|[[公式MV(YouTube)>https://youtu.be/EsOU0V2kpUI]]&br;COLOR(red){【''閲覧注意''】}|ゲームSize|
 |~|~|~|~|[[公式音源(SoundCloud)>https://soundcloud.com/leaf-7/dgzjay4fbuid]]|~|
-|BGCOLOR(#cbcfde):|[[テルミービート>難易度表/おに/テルミービート]]|鏡音リン|キノシタ|[[公式MV(YouTube)>https://youtu.be/WeyzqHLhLAk]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|-|黒沢ダイスケ|BLACK ALBUM 4|ゲームSize|
 |~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/T_yYS58h5Nk]]|~|
 |BGCOLOR(#ff7028):|[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]|-|山本真央樹|[[公式音源(YouTube)>https://youtu.be/MPSFYRniqlU]]|ゲームSize|

@@ -21,4 +21,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(DW_e.png,nolink);
+~&attachref(engdre_e.png,nolink);

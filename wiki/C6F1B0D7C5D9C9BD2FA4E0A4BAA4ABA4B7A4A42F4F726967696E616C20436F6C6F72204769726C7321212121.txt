@@ -22,4 +22,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(OCG_h.png,nolink);
+~&attachref(engori_h.png,nolink);
