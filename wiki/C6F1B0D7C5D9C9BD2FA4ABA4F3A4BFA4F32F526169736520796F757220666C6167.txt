@@ -1,11 +1,12 @@
 *&ruby(レイズ){Raise}; &ruby(ユア){your}; &ruby(フラッグ){flag}; [#title]
--アニメ「[[''機動戦士ガンダム 鉄血のオルフェンズ''>アニメ別収録曲#gundam]]」のOP1。
+-アニメ「[[''機動戦士ガンダム 鉄血のオルフェンズ''(''第1期'')>アニメ別収録曲#gundam]]」のOP1。
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1DL''|CENTER:★×2|CENTER:''53''|CENTER:''307600点''|CENTER:＋連打|CENTER:1180点|CENTER:1145点|
-|CENTER:iOS&br;AR|~|~|CENTER:''?????0点''|~|~|CENTER:690点|
-|CENTER:COLOR(#f30){真打}|~|~|CENTER:COLOR(#f30){''988440点''}|~|CENTER:COLOR(#f30){11740点}|CENTER:-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1DL''|BGCOLOR(orange):''アニメ''|★×2|''53''|''307600点''|+連打|1180点|1145点|
+|iOS&br;AR|~|~|~|''?????0点''|~|~|690点|
+|COLOR(#f30){真打}|~|~|~|COLOR(#f30){''988440点''}|~|COLOR(#f30){11740点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは145。

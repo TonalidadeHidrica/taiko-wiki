@@ -1,5 +1,5 @@
 *&ruby(レイズ){Raise}; &ruby(ユア){your}; &ruby(フラッグ){flag}; [#title]
--アニメ「[[''機動戦士ガンダム 鉄血のオルフェンズ''>アニメ別収録曲#gundam]]」のOP1。
+-アニメ「[[''機動戦士ガンダム 鉄血のオルフェンズ''(''第1期'')>アニメ別収録曲#gundam]]」のOP1。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -31,5 +31,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~HS1.25→HS1.4
-~&ref(RYF.png,nolink);
+~&ref(gdmorp_m.png,nolink);
