@@ -296,7 +296,7 @@
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):紳士ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲([[愛原圭織>参加アーティスト一覧/愛原圭織]]歌唱曲)を選んでクリア|~|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):淑女ドンだー|BGCOLOR(grey):1プレイ内全て特定の曲(年頃の女性ファンが多いアニメ、ボーカロイドの曲)を選んでクリア|~|
 |〇|BGCOLOR(peru):|たいこのたしゅじん|[[COLOR(blue):Roseシリーズ>シリーズ曲一覧#rose]]、[[COLOR(blue):舞シリーズ>シリーズ曲一覧#mai]]、[[COLOR(blue):ノ乱シリーズ>シリーズ曲一覧#noran]]の各全曲、[[COLOR(blue):Xa>難易度表/おに/Xa]]をクリア|条件を満たしたプレイ後取得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
-|〇|BGCOLOR(gold):|必殺旋風剣|[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]を難易度おにで連打数530打以上でクリア||
+|〇|BGCOLOR(gold):|必殺旋風剣|[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]を難易度おにで連打数530打以上|当初は難易度おにでクリアだったが、AC16から難易度おにでプレイに緩和された|
 |〇|BGCOLOR(peru):|よき旅を|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]をクリア||
 |〇|BGCOLOR(gold):|きたさいたまの達人|[[COLOR(blue):きたさいたま2000>難易度表/おに/きたさいたま2000]]を難易度おにでフルコンボ||
 |〇|BGCOLOR(gold):|〆ドレーの達人|[[COLOR(blue):〆ドレー2000>難易度表/おに/〆ドレー2000]]を難易度おにでフルコンボ|~|
@@ -708,7 +708,7 @@
 |〇|BGCOLOR(pink):|アイドルマスター|アイドルマスターの曲をクリア|きせかえ「COLOR(red){アイドルマスター}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
 |〇|BGCOLOR(pink):|普通の魔法使い|東方Projectアレンジ楽曲をクリア|きせかえ「COLOR(red){霧雨魔理沙}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):マッハ２０のバチさばき|BGCOLOR(grey):[[COLOR(blue):青春サツバツ論>難易度表/おに/青春サツバツ論]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){殺せんせー}」を獲得|
-|〇|BGCOLOR(pink):|ラスボス降臨|[[COLOR(blue):さちさちにしてあげる♪>難易度表/おに/さちさちにしてあげる♪]]をクリア|きせかえ「COLOR(red){さちさち}」を獲得|
+|〇|BGCOLOR(pink):|ラスボス降臨|[[COLOR(blue):さちさちにしてあげる♪>難易度表/おに/さちさちにしてあげる♪]]をプレイ|きせかえ「COLOR(red){さちさち}」を獲得|
 |〇|BGCOLOR(gold):|教授のきもち|サカモト教授作曲・編曲の曲をフルコンボ|きせかえ「COLOR(red){きょうじゅ}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
 |〇|BGCOLOR(gold):|こおりの女王|[[COLOR(blue):Let It Go〜ありのままで〜>難易度表/おに/Let It Go〜ありのままで〜]]をフルコンボ|きせかえ「COLOR(red){こおりのドレス}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):体力には自信あり|BGCOLOR(grey):どれか1曲で叩けた総数(良+可+連打数)が1000以上|BGCOLOR(grey):きせかえ「COLOR(red){パワーアーム}」を獲得|

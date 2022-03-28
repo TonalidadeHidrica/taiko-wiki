@@ -35,7 +35,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |1|210|CENTER:52|58|CENTER:54|RIGHT:58||c
 ||曲名|平均密度|平均BPM|音符数-1|CENTER:演奏時間|備考|h
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''8.500未満''|
-|BGCOLOR(orangered):|[[Infinite Rebellion>難易度表/むずかしい/Infinite Rebellion]]|''8.323''|???※|919|110.42秒|''1位(★×8)'' ・ ''ジャンル1位(★×8):COLOR(orangered):ナムコオリジナル''|
+|BGCOLOR(orangered):|[[Infinite Rebellion>難易度表/むずかしい/Infinite Rebellion]]|''8.323''|???※|919|110.43秒|''1位(★×8)'' ・ ''ジャンル1位(★×8):COLOR(orangered):ナムコオリジナル''|
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''8.000未満''|
 |>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''7.500未満''|
 |BGCOLOR(orangered):|[[幽玄ノ乱>難易度表/むずかしい/幽玄ノ乱]]|''7.350''||882|120.00秒|''2位(★×8)''|

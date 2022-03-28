@@ -46,5 +46,5 @@
 ***ÉèÌÌ [#score]
 ~&attachref(Kokuryu_5.png,nolink);
 
-~111¡Á147¾®ÀáÌÜ¤Î³ÈÂç¿Ş(4ÇÜ)
+~111¡Á147¾®ÀáÌÜ¤Î³ÈÂç¿Ş(8ÇÜ)
 ~&attachref(³ÈÂç¿Ş.png,nolink);
