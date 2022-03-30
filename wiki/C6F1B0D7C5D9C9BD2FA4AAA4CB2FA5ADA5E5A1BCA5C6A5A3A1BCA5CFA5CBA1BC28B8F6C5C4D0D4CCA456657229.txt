@@ -40,6 +40,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(cutie.png,nolink);
+~分岐条件
+~Wii2：精度50%/80%
+~&attachref(cutie.png,nolink);
 ~2人用譜面
 ~&attachref(キュアハニー.png,nolink);

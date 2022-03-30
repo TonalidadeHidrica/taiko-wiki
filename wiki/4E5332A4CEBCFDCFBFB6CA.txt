@@ -13,7 +13,6 @@
 |BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(silver):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
 |''?'' 曲&br;(約?%)|''?'' 曲&br;(約?%)|''?'' 曲&br;(?%)|''?'' 曲&br;(?%)|''?'' 曲&br;(?%)|''?'' 曲&br;(約?%)|''?'' 曲&br;(約?%)|
 ----
--凡例&br;''隠''・・・隠し曲
 //-凡例&br;''隠''・・・隠し曲&br;''DL''・・・ダウンロード曲
 
 |CENTER:1||LEFT:65|>|>|>|>|CENTER:44|c

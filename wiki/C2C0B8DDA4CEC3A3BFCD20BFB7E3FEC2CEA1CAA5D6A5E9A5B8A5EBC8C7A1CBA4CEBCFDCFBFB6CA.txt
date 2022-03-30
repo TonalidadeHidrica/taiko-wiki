@@ -17,7 +17,7 @@
 |''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#f30):COLOR(#111):''F&#225;cil''|BGCOLOR(#8c2):COLOR(#111):''Normal''|BGCOLOR(#3ab):COLOR(#111):''Dif&#237;cil''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|h
 |>|>|>|>|>|>|BGCOLOR(cyan):''M&#250;sicas Brasileiras''&aname(bpop);|
 |''Escatumbararib&#234;''|132※|[[★×2>難易度表/かんたん/Escatumbararibe]]|[[★×3>難易度表/ふつう/Escatumbararibe]]|[[★×3>難易度表/むずかしい/Escatumbararibe]]|[[★×4>難易度表/おに/Escatumbararibe]]|-|
-|''Hoje &#233; Domingo''|130|[[★×2>難易度表/かんたん/Hoje e Domingo]]|[[★×3>難易度表/ふつう/Hoje e Domingo]]|[[★×3>難易度表/むずかしい/Hoje e Domingo]]|[[★×4>難易度表/おに/Hoje e Domingo]]|-|
+|''Hoje &#233; Domingo''|130※|[[★×2>難易度表/かんたん/Hoje e Domingo]]|[[★×3>難易度表/ふつう/Hoje e Domingo]]|[[★×3>難易度表/むずかしい/Hoje e Domingo]]|[[★×4>難易度表/おに/Hoje e Domingo]]|-|
 |''Samba Alegria''|138|[[★×4>難易度表/かんたん/サンバ アレグリーア]]|[[★×6>難易度表/ふつう/サンバ アレグリーア]]|[[★×6>難易度表/むずかしい/サンバ アレグリーア]]|[[★×7>難易度表/おに/サンバ アレグリーア]]|[[★×9>難易度表/おに/サンバ アレグリーア(裏譜面)]]|
 |>|>|>|>|>|>|BGCOLOR(silver):''ボーカロイド曲''&aname(vocalo);|
 |''珈琲の味と''&br;　　SIZE(11){はるなば}|185|[[★×4>難易度表/かんたん/珈琲の味と]]|[[★×5>難易度表/ふつう/珈琲の味と]]|[[★×6>難易度表/むずかしい/珈琲の味と]]|[[★×9>難易度表/おに/珈琲の味と]]|-|

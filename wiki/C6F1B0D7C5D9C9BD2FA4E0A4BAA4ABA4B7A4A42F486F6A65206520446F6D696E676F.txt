@@ -3,13 +3,11 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''WM''|BGCOLOR(cyan):''M&#250;sicas&br;Brasileiras''|★×4|''210''|''839400点''|＋連打|1060点|348点|
+|''WM''|BGCOLOR(cyan):''M&#250;sicas&br;Brasileiras''|★×3|''132''|''???点''|＋連打|????点|???点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは130.48。
--連打秒数目安…1.346秒−''1.346秒−1.115秒×3''：合計約6.038秒
 -曲がかなり短い(最初の音符から最後の音符まで約66秒)。
---平均密度は、''約3.17打/秒''。
 
 ***その他 [#other]
 -曲名は、ポルトガル語で「今日は日曜日」という意味。
@@ -18,14 +16,10 @@
 ----
 -[[かんたん>難易度表/かんたん/Hoje e Domingo]]
 -[[ふつう>難易度表/ふつう/Hoje e Domingo]]
--[[むずかしい>難易度表/むずかしい/Hoje e Domingo]]
--[[プレイ動画1>http://www.youtube.com/watch?v=IwkgidNO6ss]]
--[[プレイ動画2(フルコンボ, 高画質)>https://www.youtube.com/watch?v=M9PswbeIAIA]]
-
+-[[おに>難易度表/おに/Hoje e Domingo]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
--譜面画像のBPMは間違っており、本来はテンポ BPM130.48である。
-&attachref(Domingo.png,nolink);
+&attachref(kaiseki.png,nolink);

@@ -1090,7 +1090,7 @@
 |iswaze|[[意識のワーゼ>難易度表/おに/意識のワーゼ]]||
 |itadak|[[頂>難易度表/おに/頂]]||
 |itoshi|[[愛しい人へ>難易度表/おに/愛しい人へ]]||
-|iwant|[[I Want>難易度表/おに/I Want]]|旧音源、旧譜面(新譜面はimsiwt)|
+|iwant|[[I Want>難易度表/おに/I Want]]|旧音源、旧譜面(新譜面は''imsiwt'')|
 |iwantu|[[哀 want U>難易度表/おに/哀 want U]]||
 |iwback|[[I Want You Back>難易度表/おに/I Want You Back]]||
 |iwish|[[I Wish For You>難易度表/おに/I Wish For You]]||
@@ -1182,7 +1182,7 @@
 |kin29m|[[キン肉マン Go Fight!>難易度表/おに/キン肉マン Go Fight!]]||
 |kinmo|[[さらば>難易度表/おに/さらば]]|キンモクセイ|
 |kiraki|[[キラキラ Every day>難易度表/おに/キラキラ Every day]]||
-|kirame|[[キラメキラリ>難易度表/おに/キラメキラリ]]|旧譜面(新譜面はimskrm)|
+|kirame|[[キラメキラリ>難易度表/おに/キラメキラリ]]|旧譜面(新譜面は''imskrm'')|
 |kiramj|[[魔進戦隊キラメイジャー>難易度表/おに/魔進戦隊キラメイジャー]]||
 |kirapw|[[KIRA☆Power>難易度表/おに/KIRA☆Power]]||
 |kirari|[[きらり>難易度表/おに/きらり]]||
@@ -1747,7 +1747,7 @@
 |roma|[[ロマンスの神様>難易度表/おに/ロマンスの神様]]||
 |roman|[[Romanticが止まらない>難易度表/おに/Romanticが止まらない]]||
 |romanc|[[ロマンス>難易度表/おに/ロマンス]]||
-|rot|[[さいたま2000>難易度表/おに/さいたま2000]]|ロッテルダムテクノ（曲ジャンル）&br;"rot2"は[[きたさいたま2000>難易度表/おに/きたさいたま2000]](psplsb)の分飛ばしたと思われる|
+|rot|[[さいたま2000>難易度表/おに/さいたま2000]]|ロッテルダムテクノ（曲ジャンル）&br;"rot2"は[[きたさいたま2000>難易度表/おに/きたさいたま2000]](''psplsb'')の分飛ばしたと思われる|
 |rot3|[[またさいたま2000>難易度表/おに/またさいたま2000]]|~|
 |rot4|[[まださいたま2000>難易度表/おに/まださいたま2000]]|~|
 |rot42|~|達人譜面固定（段位道場限定）|
@@ -1851,7 +1851,7 @@
 |skrnb|[[さくらんぼ>難易度表/おに/さくらんぼ]]||
 |slance|[[Scarlet Lance>難易度表/おに/Scarlet Lance]]||
 |slash|[[恋文2000>難易度表/おに/恋文2000]]|スラッシュメタル（曲ジャンル）。しかし正しい綴りは「Thrash metal」である|
-|smagic|[[Sweet Sweet Magic>難易度表/おに/Sweet Sweet Magic]]|Sweet Sweet Magic|
+|smagic|[[Sweet Sweet Magic>難易度表/おに/Sweet Sweet Magic]]||
 |smap|[[SHAKE>難易度表/おに/SHAKE]]|SMAP|
 |smily|[[SMILY>難易度表/おに/SMILY]]||
 |smokyt|[[SMOKY THRILL>難易度表/おに/SMOKY THRILL]]||
@@ -1887,8 +1887,8 @@
 |speed|[[スピード>難易度表/おに/スピード]]||
 |sphang|[[Outride a Crisis>難易度表/おに/Outride a Crisis]]|SUPER HANG-ON|
 |spitz|[[ロビンソン>難易度表/おに/ロビンソン]]|スピッツ|
-|spl2md|[[スプラトゥーン2 メドレー>難易度表/おに/スプラトゥーン2 メドレー]]|スプラトゥーン|
-|splsio|[[シオカラ節>難易度表/おに/シオカラ節]]|~|
+|spl2md|[[スプラトゥーン2 メドレー>難易度表/おに/スプラトゥーン2 メドレー]]|スプラトゥーン2|
+|splsio|[[シオカラ節>難易度表/おに/シオカラ節]]|スプラトゥーン|
 |splend|[[SPLENDOR>難易度表/おに/SPLENDOR]]||
 |splnkr|[[スペランカー>難易度表/おに/スペランカー]]||
 |spurt|[[スパート！>難易度表/おに/スパート！]]||

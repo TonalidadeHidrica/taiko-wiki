@@ -354,6 +354,7 @@
 -[[コメント/NS1の収録曲/ごほうび一覧]] コメント/NS1ノシュウロクキョク/ゴホウビイチラン
 -[[コメント/NS2の収録曲]] コメント/NS2ノシュウロクキョク
 -[[コメント/PS Vita1の収録曲]] コメント/PS Vita1ノシュウロクキョク
+-[[コメント/PS Vita1の収録曲/ストーリーモード]] コメント/PS Vita1ノシュウロクキョク/ストーリーモード
 -[[コメント/PTBの収録曲]] コメント/PTBノシュウロクキョク
 -[[コメント/THE IDOLM@STER関連楽曲一覧]] コメント/THE IDOLM@STERカンレンガッキョクイチラン
 -[[コメント/Xbox1の収録曲]] コメント/Xbox1ノシュウロクキョク
@@ -11867,6 +11868,7 @@
 -[[難易度表/かんたん/Hero's Come Back!!]] ナンイドオモテ/カンタン/Hero's Come Back!!
 -[[難易度表/かんたん/Highschool love!]] ナンイドオモテ/カンタン/Highschool love!
 -[[難易度表/かんたん/Highschool・love]] ナンイドオモテ/カンタン/Highschool・love
+-[[難易度表/かんたん/Hoje e Domingo]] ナンイドオモテ/カンタン/Hoje e Domingo
 -[[難易度表/かんたん/Hold me tight]] ナンイドオモテ/カンタン/Hold me tight
 -[[難易度表/かんたん/Holding Hands]] ナンイドオモテ/カンタン/Holding Hands
 -[[難易度表/かんたん/Hole in The Wall]] ナンイドオモテ/カンタン/Hole in The Wall
@@ -14447,6 +14449,7 @@
 -[[難易度表/ふつう/Hero's Come Back!!]] ナンイドオモテ/フツウ/Hero's Come Back!!
 -[[難易度表/ふつう/Highschool love!]] ナンイドオモテ/フツウ/Highschool love!
 -[[難易度表/ふつう/Highschool・love]] ナンイドオモテ/フツウ/Highschool・love
+-[[難易度表/ふつう/Hoje e Domingo]] ナンイドオモテ/フツウ/Hoje e Domingo
 -[[難易度表/ふつう/Hold me tight]] ナンイドオモテ/フツウ/Hold me tight
 -[[難易度表/ふつう/Holding Hands]] ナンイドオモテ/フツウ/Holding Hands
 -[[難易度表/ふつう/Hole in the wall]] ナンイドオモテ/フツウ/Hole in the wall
@@ -16710,6 +16713,7 @@
 -[[難易度表/むずかしい/Hero's Come Back!!]] ナンイドオモテ/ムズカシイ/Hero's Come Back!!
 -[[難易度表/むずかしい/Highschool love!]] ナンイドオモテ/ムズカシイ/Highschool love!
 -[[難易度表/むずかしい/Highschool・love]] ナンイドオモテ/ムズカシイ/Highschool・love
+-[[難易度表/むずかしい/Hoje e Domingo]] ナンイドオモテ/ムズカシイ/Hoje e Domingo
 -[[難易度表/むずかしい/Hold me tight]] ナンイドオモテ/ムズカシイ/Hold me tight
 -[[難易度表/むずかしい/Holding Hands]] ナンイドオモテ/ムズカシイ/Holding Hands
 -[[難易度表/むずかしい/Hole in the wall]] ナンイドオモテ/ムズカシイ/Hole in the wall
