@@ -585,7 +585,7 @@
 |doyo|[[ABCの歌>難易度表/おに/ABCの歌]]|童謡|
 |dp|[[Together>難易度表/おに/Together]]|ポケットモンスターDP|
 |dparad|[[DREAMERS' PARADISE>難易度表/おに/DREAMERS' PARADISE]]||
-|dptfct|[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]||
+|dptfct|[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]|なぜ？|
 |dq10|[[序曲 ドラゴンクエストXより>難易度表/おに/序曲 ドラゴンクエストXより]]|''ド''ラゴン''ク''エスト|
 |dq10b|[[序曲X ドラゴンクエストXより>難易度表/おに/序曲 ドラゴンクエストXより]]|WiiU1表記|
 |dq9|[[序曲IX>難易度表/おに/序曲IX]]|''ド''ラゴン''ク''エスト|
@@ -900,6 +900,8 @@
 |hkyell|[[星影のエール>難易度表/おに/星影のエール]]||
 |hoku|[[愛をとりもどせ!!>難易度表/おに/愛をとりもどせ！！]]|北斗|
 |hold|[[今夜はホーミー>難易度表/おに/今夜はホーミー]]|ホーミー→Hold me→hold|
+|holprs|[[Prism Melody>難易度表/おに/Prism Melody]]|ホロライブ|
+|holtmp|[[TEMPLATE>難易度表/おに/TEMPLATE]]|~|
 |honey|[[上海ハニー>難易度表/おに/上海ハニー]]||
 |honnou|[[本能寺の変>難易度表/おに/本能寺の変]]||
 |hormon|[[maximum the hormone>難易度表/おに/maximum the hormone]]||

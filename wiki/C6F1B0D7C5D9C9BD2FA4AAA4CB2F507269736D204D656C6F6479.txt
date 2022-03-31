@@ -1,0 +1,26 @@
+*Prism Melody [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''iOS''&br;''AR''|BGCOLOR(cyan):''ポップス''|★×7|''385''|''987270点''|＋連打|690点|160点|
+
+***譜面構成・攻略 [#capture]
+-BPMは182。
+-フルコンボ・全良狙いの際はラストの16分複合4打に注意。
+-平均密度は''約3.61打/秒(暫定)''。
+***その他 [#other]
+-アーティスト名は、''hololive IDOL PROJECT''。
+-曲IDは、''holprs''。
+
+----
+-[[かんたん>難易度表/かんたん/Prism Melody]]
+-[[ふつう>難易度表/ふつう/Prism Melody]]
+-[[むずかしい>難易度表/むずかしい/Prism Melody]]
+-[[オート動画>https://www.youtube.com/watch?v=5coRgkhlr0A&t=7s]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(holprs_m_2.png,nolink);

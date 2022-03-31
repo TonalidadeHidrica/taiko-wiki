@@ -25,4 +25,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(乙女解剖ふつう.png,nolink);
+~&attachref(乙女解剖ふつう_2.png,nolink);

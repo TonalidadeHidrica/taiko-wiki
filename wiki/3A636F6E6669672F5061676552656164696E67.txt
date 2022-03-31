@@ -1106,6 +1106,7 @@
 -[[コメント/難易度表/おに/Preserved Roses]] コメント/ナンイドオモテ/オニ/Preserved Roses
 -[[コメント/難易度表/おに/Pretender]] コメント/ナンイドオモテ/オニ/Pretender
 -[[コメント/難易度表/おに/Princess of Donder]] コメント/ナンイドオモテ/オニ/Princess of Donder
+-[[コメント/難易度表/おに/Prism Melody]] コメント/ナンイドオモテ/オニ/Prism Melody
 -[[コメント/難易度表/おに/Prisoner Of Love]] コメント/ナンイドオモテ/オニ/Prisoner Of Love
 -[[コメント/難易度表/おに/Promise]] コメント/ナンイドオモテ/オニ/Promise
 -[[コメント/難易度表/おに/Punishment]] コメント/ナンイドオモテ/オニ/Punishment
@@ -1225,6 +1226,7 @@
 -[[コメント/難易度表/おに/TAKIO'S SOHRAN 2]] コメント/ナンイドオモテ/オニ/TAKIO'S SOHRAN 2
 -[[コメント/難易度表/おに/TD -28619029byte remix-]] コメント/ナンイドオモテ/オニ/TD -28619029byte remix-
 -[[コメント/難易度表/おに/TE-20]] コメント/ナンイドオモテ/オニ/TE-20
+-[[コメント/難易度表/おに/TEMPLATE]] コメント/ナンイドオモテ/オニ/TEMPLATE
 -[[コメント/難易度表/おに/THE DAY]] コメント/ナンイドオモテ/オニ/THE DAY
 -[[コメント/難易度表/おに/THE IDOLM@STER]] コメント/ナンイドオモテ/オニ/THE IDOLM@STER
 -[[コメント/難易度表/おに/THE IDOLM@STER 2nd-mix]] コメント/ナンイドオモテ/オニ/THE IDOLM@STER 2nd-mix
@@ -1375,6 +1377,7 @@
 -[[コメント/難易度表/おに/super star shooter]] コメント/ナンイドオモテ/オニ/super star shooter
 -[[コメント/難易度表/おに/talking]] コメント/ナンイドオモテ/オニ/talking
 -[[コメント/難易度表/おに/tear]] コメント/ナンイドオモテ/オニ/tear
+-[[コメント/難易度表/おに/tmap4]] コメント/ナンイドオモテ/オニ/tmap4
 -[[コメント/難易度表/おに/traveling]] コメント/ナンイドオモテ/オニ/traveling
 -[[コメント/難易度表/おに/true blue]] コメント/ナンイドオモテ/オニ/true blue
 -[[コメント/難易度表/おに/twinkle night (feat. somunia)]] コメント/ナンイドオモテ/オニ/twinkle night (feat. somunia)
@@ -9633,6 +9636,7 @@
 -[[難易度表/おに/Preserved Roses]] ナンイドオモテ/オニ/Preserved Roses
 -[[難易度表/おに/Pretender]] ナンイドオモテ/オニ/Pretender
 -[[難易度表/おに/Princess of Donder]] ナンイドオモテ/オニ/Princess of Donder
+-[[難易度表/おに/Prism Melody]] ナンイドオモテ/オニ/Prism Melody
 -[[難易度表/おに/Prisoner Of Love]] ナンイドオモテ/オニ/Prisoner Of Love
 -[[難易度表/おに/Promise]] ナンイドオモテ/オニ/Promise
 -[[難易度表/おに/Punishment]] ナンイドオモテ/オニ/Punishment
@@ -9752,6 +9756,7 @@
 -[[難易度表/おに/TAKIO'S SOHRAN 2]] ナンイドオモテ/オニ/TAKIO'S SOHRAN 2
 -[[難易度表/おに/TD -28619029byte remix-]] ナンイドオモテ/オニ/TD -28619029byte remix-
 -[[難易度表/おに/TE-20]] ナンイドオモテ/オニ/TE-20
+-[[難易度表/おに/TEMPLATE]] ナンイドオモテ/オニ/TEMPLATE
 -[[難易度表/おに/THE DAY]] ナンイドオモテ/オニ/THE DAY
 -[[難易度表/おに/THE IDOLM@STER]] ナンイドオモテ/オニ/THE IDOLM@STER
 -[[難易度表/おに/THE IDOLM@STER 2nd-mix]] ナンイドオモテ/オニ/THE IDOLM@STER 2nd-mix
@@ -9902,6 +9907,7 @@
 -[[難易度表/おに/super star shooter]] ナンイドオモテ/オニ/super star shooter
 -[[難易度表/おに/talking]] ナンイドオモテ/オニ/talking
 -[[難易度表/おに/tear]] ナンイドオモテ/オニ/tear
+-[[難易度表/おに/tmap4]] ナンイドオモテ/オニ/tmap4
 -[[難易度表/おに/traveling]] ナンイドオモテ/オニ/traveling
 -[[難易度表/おに/true blue]] ナンイドオモテ/オニ/true blue
 -[[難易度表/おに/twinkle night (feat. somunia)]] ナンイドオモテ/オニ/twinkle night (feat. somunia)
@@ -12041,6 +12047,7 @@
 -[[難易度表/かんたん/Preserved Roses]] ナンイドオモテ/カンタン/Preserved Roses
 -[[難易度表/かんたん/Pretender]] ナンイドオモテ/カンタン/Pretender
 -[[難易度表/かんたん/Princess of Donder]] ナンイドオモテ/カンタン/Princess of Donder
+-[[難易度表/かんたん/Prism Melody]] ナンイドオモテ/カンタン/Prism Melody
 -[[難易度表/かんたん/Prisoner Of Love]] ナンイドオモテ/カンタン/Prisoner Of Love
 -[[難易度表/かんたん/Promise]] ナンイドオモテ/カンタン/Promise
 -[[難易度表/かんたん/Punishment]] ナンイドオモテ/カンタン/Punishment
@@ -12153,6 +12160,7 @@
 -[[難易度表/かんたん/TAKIO'S SOHRAN 2]] ナンイドオモテ/カンタン/TAKIO'S SOHRAN 2
 -[[難易度表/かんたん/TD -28619029byte remix-]] ナンイドオモテ/カンタン/TD -28619029byte remix-
 -[[難易度表/かんたん/TE-20]] ナンイドオモテ/カンタン/TE-20
+-[[難易度表/かんたん/TEMPLATE]] ナンイドオモテ/カンタン/TEMPLATE
 -[[難易度表/かんたん/THE DAY]] ナンイドオモテ/カンタン/THE DAY
 -[[難易度表/かんたん/THE IDOLM@STER]] ナンイドオモテ/カンタン/THE IDOLM@STER
 -[[難易度表/かんたん/THE IDOLM@STER 2nd-mix]] ナンイドオモテ/カンタン/THE IDOLM@STER 2nd-mix
@@ -14622,6 +14630,7 @@
 -[[難易度表/ふつう/Preserved Roses]] ナンイドオモテ/フツウ/Preserved Roses
 -[[難易度表/ふつう/Pretender]] ナンイドオモテ/フツウ/Pretender
 -[[難易度表/ふつう/Princess of Donder]] ナンイドオモテ/フツウ/Princess of Donder
+-[[難易度表/ふつう/Prism Melody]] ナンイドオモテ/フツウ/Prism Melody
 -[[難易度表/ふつう/Prisoner Of Love]] ナンイドオモテ/フツウ/Prisoner Of Love
 -[[難易度表/ふつう/Promise]] ナンイドオモテ/フツウ/Promise
 -[[難易度表/ふつう/Punishment]] ナンイドオモテ/フツウ/Punishment
@@ -14735,6 +14744,7 @@
 -[[難易度表/ふつう/TAKIO'S SOHRAN 2]] ナンイドオモテ/フツウ/TAKIO'S SOHRAN 2
 -[[難易度表/ふつう/TD -28619029byte remix-]] ナンイドオモテ/フツウ/TD -28619029byte remix-
 -[[難易度表/ふつう/TE-20]] ナンイドオモテ/フツウ/TE-20
+-[[難易度表/ふつう/TEMPLATE]] ナンイドオモテ/フツウ/TEMPLATE
 -[[難易度表/ふつう/THE DAY]] ナンイドオモテ/フツウ/THE DAY
 -[[難易度表/ふつう/THE IDOLM@STER]] ナンイドオモテ/フツウ/THE IDOLM@STER
 -[[難易度表/ふつう/THE IDOLM@STER 2nd-mix]] ナンイドオモテ/フツウ/THE IDOLM@STER 2nd-mix
@@ -16882,6 +16892,7 @@
 -[[難易度表/むずかしい/Preserved Roses]] ナンイドオモテ/ムズカシイ/Preserved Roses
 -[[難易度表/むずかしい/Pretender]] ナンイドオモテ/ムズカシイ/Pretender
 -[[難易度表/むずかしい/Princess of Donder]] ナンイドオモテ/ムズカシイ/Princess of Donder
+-[[難易度表/むずかしい/Prism Melody]] ナンイドオモテ/ムズカシイ/Prism Melody
 -[[難易度表/むずかしい/Prisoner Of Love]] ナンイドオモテ/ムズカシイ/Prisoner Of Love
 -[[難易度表/むずかしい/Promise]] ナンイドオモテ/ムズカシイ/Promise
 -[[難易度表/むずかしい/Punishment]] ナンイドオモテ/ムズカシイ/Punishment
@@ -16994,6 +17005,7 @@
 -[[難易度表/むずかしい/TAKIO'S SOHRAN 2]] ナンイドオモテ/ムズカシイ/TAKIO'S SOHRAN 2
 -[[難易度表/むずかしい/TD -28619029byte remix-]] ナンイドオモテ/ムズカシイ/TD -28619029byte remix-
 -[[難易度表/むずかしい/TE-20]] ナンイドオモテ/ムズカシイ/TE-20
+-[[難易度表/むずかしい/TEMPLATE]] ナンイドオモテ/ムズカシイ/TEMPLATE
 -[[難易度表/むずかしい/THE DAY]] ナンイドオモテ/ムズカシイ/THE DAY
 -[[難易度表/むずかしい/THE IDOLM@STER]] ナンイドオモテ/ムズカシイ/THE IDOLM@STER
 -[[難易度表/むずかしい/THE IDOLM@STER 2nd-mix]] ナンイドオモテ/ムズカシイ/THE IDOLM@STER 2nd-mix

@@ -242,6 +242,12 @@
 ***BiSH [#bish]
 -[[プロミスザスター>難易度表/おに/プロミスザスター]]
 
+***星街すいせい [#suisei]
+-[[TEMPLATE>難易度表/おに/TEMPLATE]]
+
+***hololive IDOL PROJECT [#hololive]
+-[[Prism Melody>難易度表/おに/Prism Melody]]
+
 **COLOR(hotpink){アニメ} [#animation]
 ***水木一郎 [#ichiro]
 -[[マジンガーZ>難易度表/おに/マジンガーZ]]((アニスペのみ))
