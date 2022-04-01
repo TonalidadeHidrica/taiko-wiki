@@ -607,6 +607,7 @@
 |〇|BGCOLOR(gold):|トンガチンの達人|[[COLOR(blue):トンガチン>難易度表/おに/トンガチン]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|喫茶レインの常連さん|[[COLOR(blue):喫茶レイン>難易度表/おに/喫茶レイン]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|喫茶レインのマスター|[[COLOR(blue):喫茶レイン(裏)>難易度表/おに/喫茶レイン(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|たのしかったね|[[彁(裏)>難易度表/おに/彁(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|パラレルリズム|[[COLOR(blue):パラレルロリポップ>難易度表/おに/パラレルロリポップ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|二重螺旋の真実に至りし者|[[COLOR(blue):Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
@@ -614,7 +615,6 @@
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Challengers>難易度表/おに/Challengers]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):弧>難易度表/おに/弧]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Player's High>難易度表/おに/Player's High]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
@@ -742,7 +742,8 @@
 |〇|BGCOLOR(pink):|ヒーローと悪魔が相棒|[[COLOR(blue):liveDevil>難易度表/おに/liveDevil]]をプレイ|きせかえ「COLOR(red){仮面ライダーリバイス}」を獲得|
 |BGCOLOR(grey):〇||BGCOLOR(grey):麦わらの一味|BGCOLOR(grey):2021/10/20〜11/30にワンピースバトル演奏でカイドウに30勝する|BGCOLOR(grey):|
 |BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝参加|BGCOLOR(grey):2022/1/17〜2022/2/19に太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンラインの課題曲をプレイ|BGCOLOR(grey):|
-||BGCOLOR(pink):|だめだっていったのに|[[COLOR(blue):彁>難易度表/おに/彁]]をプレイ||
+||BGCOLOR(pink):|だめだっていったのに|[[このQRコード>https://mobile.twitter.com/taiko_team/status/1509697054313881600]]を読み込み後、そのゲーム内の曲をプレイ|リンク先のQRコードを読み込まない場合はもらえない|
+||BGCOLOR(pink):|うらへのしょうたい|~|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ＧＡＭＥ ＭＵＳＩＣ ＴＲＩＡＮＧＬＥＲ|BGCOLOR(grey):2014/4/17〜4/30の間に[[電車で電車でGO!GO!GO!GC! -GMT remix->難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]と[[ファンタジーゾーン OPA-OPA! -GMT remix->難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]と[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]]を全てプレイ(1プレイ内でなくても可)|BGCOLOR(grey):|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):GMT MASTER|BGCOLOR(grey):2014/5/8〜5/21の間に[[電車で電車で OPA!OPA!OPA! -GMT mashup->難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]と[[オパ！オパ！RACER -GMT mashup->難易度表/おに/オパ！オパ！RACER -GMT mashup-]]と[[リッジでリッジで GO!GO!GO! -GMT mashup->難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]を全てプレイ(1プレイ内でなくても可)|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):いいじゃないの〜|BGCOLOR(grey):2015/4/28〜8/31の間に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){細貝さん}」、音色「COLOR(pink){細貝さん}」を獲得|

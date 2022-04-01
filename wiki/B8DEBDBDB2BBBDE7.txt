@@ -6,8 +6,6 @@
 
 //曲を追加した際に、各項目の曲数も変更してください。
 
-//ただ今、収録タイトルの表記を削除中。
-
 #contents
 **あ行 [#ag]
 ***あ (全 85 曲 ＋ 裏譜面 10 種類) [#aa]
@@ -2132,200 +2130,200 @@
 -[[Over the Future>難易度表/おに/Over the Future]]
 -[[OVER THE TOP>難易度表/おに/OVER THE TOP]]
 ***P (全 31 曲 ＋ 裏譜面 1 種類) [#PPP]
--[[PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]] NS1
--[[PaPaPa Love>難易度表/おに/PaPaPa Love]] AC11,15 PSPDX Wii2
--[[Paradisus-Paradoxum>難易度表/おに/Paradisus-Paradoxum]] AC15 3DS3 iOS AR
--[[Parousia>難易度表/おに/Parousia]] AC16
--[[Pastel Sealane>難易度表/おに/Pastel Sealane]] AC15 WiiU1
--[[PEACH>難易度表/おに/PEACH]] AC11 DS2 iOS AR
--[[PECORI&#9829;NIGHT>難易度表/おに/PECORI NIGHT]] AC8 CS6
--[[PENETRATION>難易度表/おに/PENETRATION]] AC13
--[[PERFECT HUMAN>難易度表/おに/PERFECT HUMAN]] AC15 3DS3 iOS AR
--[[Phantom Rider>難易度表/おに/Phantom Rider]] AC15 Wii5
--[[Phantom Rider(裏譜面)>難易度表/おに/Phantom Rider(裏譜面)]] AC15 Wii5
--[[Phoenix>難易度表/おに/Phoenix]] AC15 WiiU1
--[[PHOENIX>難易度表/おに/PHOENIX]] NS1
--[[PIECES OF A DREAM>難易度表/おに/PIECES OF A DREAM]] AC3 CS1
--[[Pixel Galaxy>難易度表/おに/Pixel Galaxy]] AC15 PS4-1
--[[PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]] AC16
--[[PON PON PON>難易度表/おに/PON PON PON]] AC15 3DS1 iOS
--[[POP STAR>難易度表/おに/POP STAR]] AC8 PSP2 iOS
--[[POP TEAM EPIC>難易度表/おに/POP TEAM EPIC]] AC15 NS1
--[[poxei&#9830;DOON>難易度表/おに/poxei◆DOON]] AC15
--[[Precious>難易度表/おに/Precious]] AC9
--[[Preserved Roses>難易度表/おに/Preserved Roses]] AC15
--[[Pretender>難易度表/おに/Pretender]] AC16 NSRPG
--[[Princess of Donder>難易度表/おに/Princess of Donder]] AC15 3DS3
--[[Prisoner Of Love>難易度表/おに/Prisoner Of Love]] AC12
--[[Promise>難易度表/おに/Promise]] CS6
--[[Punishment>難易度表/おに/Punishment]] AC12増〜15 PSPDX
--[[punk bastards>難易度表/おに/punk bastards]] AC16
--[[Pure>難易度表/おに/Pure]] AC12
--[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]] AC15 WiiU1 PSVita1 iOS
+-[[PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]
+-[[PaPaPa Love>難易度表/おに/PaPaPa Love]]
+-[[Paradisus-Paradoxum>難易度表/おに/Paradisus-Paradoxum]]
+-[[Parousia>難易度表/おに/Parousia]]
+-[[Pastel Sealane>難易度表/おに/Pastel Sealane]]
+-[[PEACH>難易度表/おに/PEACH]]
+-[[PECORI&#9829;NIGHT>難易度表/おに/PECORI NIGHT]]
+-[[PENETRATION>難易度表/おに/PENETRATION]]
+-[[PERFECT HUMAN>難易度表/おに/PERFECT HUMAN]]
+-[[Phantom Rider>難易度表/おに/Phantom Rider]]
+-[[Phantom Rider(裏譜面)>難易度表/おに/Phantom Rider(裏譜面)]]
+-[[Phoenix>難易度表/おに/Phoenix]]
+-[[PHOENIX>難易度表/おに/PHOENIX]]
+-[[PIECES OF A DREAM>難易度表/おに/PIECES OF A DREAM]]
+-[[Pixel Galaxy>難易度表/おに/Pixel Galaxy]]
+-[[PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]
+-[[PON PON PON>難易度表/おに/PON PON PON]]
+-[[POP STAR>難易度表/おに/POP STAR]]
+-[[POP TEAM EPIC>難易度表/おに/POP TEAM EPIC]]
+-[[poxei&#9830;DOON>難易度表/おに/poxei◆DOON]]
+-[[Precious>難易度表/おに/Precious]]
+-[[Preserved Roses>難易度表/おに/Preserved Roses]]
+-[[Pretender>難易度表/おに/Pretender]]
+-[[Princess of Donder>難易度表/おに/Princess of Donder]]
+-[[Prisoner Of Love>難易度表/おに/Prisoner Of Love]]
+-[[Promise>難易度表/おに/Promise]]
+-[[Punishment>難易度表/おに/Punishment]]
+-[[punk bastards>難易度表/おに/punk bastards]]
+-[[Pure>難易度表/おに/Pure]]
+-[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]
 ***Q (全 1 曲) [#QQQ]
--[[QUESTION>難易度表/おに/QUESTION]] AC15 3DS3 iOS AR
+-[[QUESTION>難易度表/おに/QUESTION]]
 ***R (全 31 曲 ＋ 裏譜面 2 種類) [#RRR]
--[[Racing the Storm>難易度表/おに/Racing the Storm]] NS1
--[[RAGE v. self>難易度表/おに/RAGE v. self]] AC15 PSPDX WiiU3
--[[RAINMAKER>難易度表/おに/RAINMAKER]] AC15 WiiU3 PSVita1
--[[Raise your flag>難易度表/おに/Raise your flag]] PSVita1 iOS AR
--[[RARE HERO>難易度表/おに/Rare Hero]] AC8 CS4 PSP1,2 3DS3
--[[READY!!>難易度表/おに/READY!!]] AC15 PSPDX PSVitaMS青
--[[REAL×EYEZ>難易度表/おに/REAL×EYEZ]] AC15
--[[Realize>難易度表/おに/Realize]] AC16
--[[Real voice>難易度表/おに/Real voice]] AC9 CS7
--[[Reason!!>難易度表/おに/Reason!!]] AC15
--[[Red Rose Evangel>難易度表/おに/Red Rose Evangel]] AC15 Wii5 PS4-1 iOS AR
--[[relations>難易度表/おに/relations]] AC14 DS3 Wii5 PSVitaMS赤 iOS
--[[Re:member>難易度表/おに/Re：member]] AC9 CS7
--[[RESTART>難易度表/おに/RESTART]] AC16
--[[RHYTHM AND POLICE>難易度表/おに/Rhythm and Police]] AC5,6,14 CS3 PSPDX DS3
--[[R.I.>難易度表/おに/R.I.]] AC15
--[[Ridge Racer>難易度表/おに/Ridge Racer]] AC6,7,14以降 CS4 TDM PSP1 DS2 Wii4 WiiU2 PSVita1
--[[Ridge Racer(裏譜面)>難易度表/おに/Ridge Racer(裏譜面)]] AC14以降 Wii4 WiiU2 PSVita1
--[[Ridge racer (RIDGE RACER USA MIX)>難易度表/おに/Ridge racer (RIDGE RACER USA MIX)]] PSVita1
--[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]] AC15 PSVita1
--[[Ring a Ding Dong>難易度表/おに/Ring a Ding Dong]] AC14,15 PSPDX Wii3
--[[RISE>難易度表/おに/RISE]] AC12
--[[Rising>難易度表/おに/Rising]] 3DS3
--[[Rising Hope>難易度表/おに/Rising Hope]] PSVita1 3DS3
--[[Rising Sun>難易度表/おに/Rising Sun]] AC15
--[[RIVER>難易度表/おに/RIVER]] DS3
--[[Roca Roja>難易度表/おに/Roca Roja]] PS4-1
--[[ROCKET DIVE>難易度表/おに/ROCKET DIVE]] AC11 PSVita1 iOS AR
--[[Romanticが止まらない>難易度表/おに/Romanticが止まらない]] PSP2 iOS AR
--[[ROTTERDAM NATION (FOO MIX)>難易度表/おに/ROTTERDAM NATION(FOO MIX)]] AC7 CS5
--[[Rotter Tarmination>難易度表/おに/Rotter Tarmination]] AC12以降 PSPDX Wii1,2,4 WiiU2 iOS
--[[Rotter Tarmination(裏譜面)>難易度表/おに/Rotter Tarmination(裏譜面)]] AC12以降 PSPDX Wii2,4 WiiU2 iOS
--[[RPG>難易度表/おに/RPG]] AC15 NS1 WiiU3 3DS2 PS4-1 PSVita1 iOS AR
--[[R.Y.U.S.E.I.>難易度表/おに/R.Y.U.S.E.I.]] AC15 NS1 WiiU3 3DS3 PSVita1 iOS AR
+-[[Racing the Storm>難易度表/おに/Racing the Storm]]
+-[[RAGE v. self>難易度表/おに/RAGE v. self]]
+-[[RAINMAKER>難易度表/おに/RAINMAKER]]
+-[[Raise your flag>難易度表/おに/Raise your flag]]
+-[[RARE HERO>難易度表/おに/Rare Hero]]
+-[[READY!!>難易度表/おに/READY!!]]
+-[[REAL×EYEZ>難易度表/おに/REAL×EYEZ]]
+-[[Realize>難易度表/おに/Realize]]
+-[[Real voice>難易度表/おに/Real voice]]
+-[[Reason!!>難易度表/おに/Reason!!]]
+-[[Red Rose Evangel>難易度表/おに/Red Rose Evangel]]
+-[[relations>難易度表/おに/relations]]
+-[[Re:member>難易度表/おに/Re：member]]
+-[[RESTART>難易度表/おに/RESTART]]
+-[[RHYTHM AND POLICE>難易度表/おに/Rhythm and Police]]
+-[[R.I.>難易度表/おに/R.I.]]
+-[[Ridge Racer>難易度表/おに/Ridge Racer]]
+-[[Ridge Racer(裏譜面)>難易度表/おに/Ridge Racer(裏譜面)]]
+-[[Ridge racer (RIDGE RACER USA MIX)>難易度表/おに/Ridge racer (RIDGE RACER USA MIX)]]
+-[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]]
+-[[Ring a Ding Dong>難易度表/おに/Ring a Ding Dong]]
+-[[RISE>難易度表/おに/RISE]]
+-[[Rising>難易度表/おに/Rising]]
+-[[Rising Hope>難易度表/おに/Rising Hope]]
+-[[Rising Sun>難易度表/おに/Rising Sun]]
+-[[RIVER>難易度表/おに/RIVER]]
+-[[Roca Roja>難易度表/おに/Roca Roja]]
+-[[ROCKET DIVE>難易度表/おに/ROCKET DIVE]]
+-[[Romanticが止まらない>難易度表/おに/Romanticが止まらない]]
+-[[ROTTERDAM NATION (FOO MIX)>難易度表/おに/ROTTERDAM NATION(FOO MIX)]]
+-[[Rotter Tarmination>難易度表/おに/Rotter Tarmination]]
+-[[Rotter Tarmination(裏譜面)>難易度表/おに/Rotter Tarmination(裏譜面)]]
+-[[RPG>難易度表/おに/RPG]]
+-[[R.Y.U.S.E.I.>難易度表/おに/R.Y.U.S.E.I.]]
 ***S (全 68 曲 ＋ 裏譜面 8 種類) [#SSS]
--[[S>難易度表/おに/S]] AC15 Wii5
--[[Saika>難易度表/おに/Saika]] AC15 PS4-1
--[[sakura>難易度表/おに/sakura]] PSP2 WiiU3
--[[SAKURA EXHAUST>難易度表/おに/SAKURA EXHAUST]] AC15
--[[SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]] AC12,13,15 Wii2 3DS2
--[[SAMURAI ROCKET(裏譜面)>難易度表/おに/SAMURAI ROCKET(裏譜面)]] AC12,13,15 Wii2 3DS2
--[[Scarlet Lance>難易度表/おに/Scarlet Lance]] AC15
--[[Scars of FAUNA>難易度表/おに/Scars of FAUNA]] AC15
--[[School Days>難易度表/おに/School Days]] AC13
--[[Scream out! -達人Edit.->難易度表/おに/Scream out! -達人Edit.-]] AC15 iOS AR
--[[Scream out! -達人Edit.-(裏譜面)>難易度表/おに/Scream out! -達人Edit.-(裏譜面)]] AC15 iOS AR
--[[Seize the day>難易度表/おに/Seize the day]] PSVita1
--[[SEVENTH HEAVEN>難易度表/おに/SEVENTH HEAVEN]] AC10
--[[SHAKE>難易度表/おに/SHAKE]] AC6 CS4
--[[Sha la la -アヤカシNIGHT->難易度表/おに/Sha la la -アヤカシNIGHT-]] AC10
--[[Shine>難易度表/おに/Shine]] AC15 PSPDX iOS AR
--[[Shine!!>難易度表/おに/Shine!!]] AC15
--[[Shine!!(裏譜面)>難易度表/おに/Shine!!(裏譜面)]] AC15
--[[SHINE!! キラキラ☆プリキュアアラモード>難易度表/おに/SHINE!! キラキラ☆プリキュアアラモード]] AC15
--[[Shining Lights (feat. PSYQUI)>難易度表/おに/Shining Lights (feat. PSYQUI)]] AC16
--[[SHINING LINE*>難易度表/おに/SHINING LINE*]] AC15 3DS2 iOS
+-[[S>難易度表/おに/S]]
+-[[Saika>難易度表/おに/Saika]]
+-[[sakura>難易度表/おに/sakura]]
+-[[SAKURA EXHAUST>難易度表/おに/SAKURA EXHAUST]]
+-[[SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]]
+-[[SAMURAI ROCKET(裏譜面)>難易度表/おに/SAMURAI ROCKET(裏譜面)]]
+-[[Scarlet Lance>難易度表/おに/Scarlet Lance]]
+-[[Scars of FAUNA>難易度表/おに/Scars of FAUNA]]
+-[[School Days>難易度表/おに/School Days]]
+-[[Scream out! -達人Edit.->難易度表/おに/Scream out! -達人Edit.-]]
+-[[Scream out! -達人Edit.-(裏譜面)>難易度表/おに/Scream out! -達人Edit.-(裏譜面)]]
+-[[Seize the day>難易度表/おに/Seize the day]]
+-[[SEVENTH HEAVEN>難易度表/おに/SEVENTH HEAVEN]]
+-[[SHAKE>難易度表/おに/SHAKE]]
+-[[Sha la la -アヤカシNIGHT->難易度表/おに/Sha la la -アヤカシNIGHT-]]
+-[[Shine>難易度表/おに/Shine]]
+-[[Shine!!>難易度表/おに/Shine!!]]
+-[[Shine!!(裏譜面)>難易度表/おに/Shine!!(裏譜面)]]
+-[[SHINE!! キラキラ☆プリキュアアラモード>難易度表/おに/SHINE!! キラキラ☆プリキュアアラモード]]
+-[[Shining Lights (feat. PSYQUI)>難易度表/おに/Shining Lights (feat. PSYQUI)]]
+-[[SHINING LINE*>難易度表/おに/SHINING LINE*]]
 -[[SHINY>難易度表/おに/SHINY]](境界のRINNEより)
 -[[SHINY>難易度表/おに/SHINY(モアナ)]](モアナと伝説の海より)
--[[Shiny Kung-fu Revival>難易度表/おに/Shiny Kung-fu Revival]] AC15 WiiU2
--[[shiny smile>難易度表/おに/shiny smile]] AC11,15 DS2 PSVitaMS赤
--[[shiny smile(裏譜面)>難易度表/おに/shiny smile(裏譜面)]] AC15 PSVitaMS赤
--[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]] AC15
--[[Shooting Star>難易度表/おに/Shooting Star]] AC12
--[[Sign>難易度表/おに/Sign]] DS3
--[[Silent Jealousy>難易度表/おに/Silent Jealousy]] AC15 NS1 3DS3 PSVita1
--[[Silent Jealousy(裏譜面)>難易度表/おに/Silent Jealousy(裏譜面)]] AC15 NS1 3DS3 PSVita1
--[[S(mile)ING!>難易度表/おに/S(mile)ING!]] AC15
--[[Smile! Smile! Smile!>難易度表/おに/Smile! Smile! Smile!]] AC16
--[[Smile! Smile! Smile!(裏譜面)>難易度表/おに/Smile! Smile! Smile!(裏譜面)]] AC16
--[[SMILY>難易度表/おに/SMILY]] CS6
--[[SMOKY THRILL>難易度表/おに/SMOKY THRILL]] AC15 PSPDX Wii4 PSVitaMS青
--[[Snow halation>難易度表/おに/Snow halation]] AC15
--[[Solitude Star>難易度表/おに/Solitude Star]] PS4-1
--[[SORA-&#8544; アースライズ>難易度表/おに/SORA-I アースライズ]] AC13,15 Wii2,5 iOS
--[[SORA-&#8545; グリーゼ581>難易度表/おに/SORA-II グリーゼ581]] AC13,15 Wii2,5
--[[SORA-&#8546; ヘリオポーズ>難易度表/おに/SORA-III ヘリオポーズ]] AC14 Wii3,5 3DS3
--[[SORA-&#8547; ブンパソング>難易度表/おに/SORA-IV ブンパソング]] AC14 Wii5
--[[SORA-&#8548; コズミックバード>難易度表/おに/SORA-V コズミックバード]] PSPDX Wii5
--[[SORA-&#8549; 火ノ鳥>難易度表/おに/SORA-VI 火ノ鳥]] AC15 3DS3 WiiU1
--[[SORA-&#8550; シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]] AC15
--[[Soup>難易度表/おに/Soup]] AC15
--[[SPARKING>難易度表/おに/SPARKING 鉄拳5]] AC8 CS6
--[[Spectral Rider>難易度表/おに/Spectral Rider]] AC16
--[[SPEED KING>難易度表/おに/SPEED KING]] iOS
--[[SPLENDOR>難易度表/おに/SPLENDOR]] AC11
--[[Spread the Wings!!>難易度表/おに/Spread the Wings!!]] AC15
--[[SstTAarR*>難易度表/おに/SstTAarR*]] AC15 3DS3 iOS AR
--[[STAGE 0.ac11>難易度表/おに/STAGE 0.ac11]] AC11,15 PSPDX Wii1,5 
--[[Stairway Generation>難易度表/おに/Stairway Generation]] AC13
--[[Star!!>難易度表/おに/Star!!]] AC15 PSVita1
--[[Star!!(裏譜面)>難易度表/おに/Star!!(裏譜面)]] AC15 PSVita1
--[[START!!>難易度表/おに/START!!]] PSVitaMS青
--[[START DASH SENSATION>難易度表/おに/START DASH SENSATION]] WiiU3
--[[Star Wars: Main Title>難易度表/おに/Star Wars： Main Title]] NS1
--[[STAY TUNE>難易度表/おに/STAY TUNE]] AC15
--[[STEPPING WIND>難易度表/おに/STEPPING WIND]] AC4 CS1
--[[Stick Trick ShowTime!!>難易度表/おに/Stick Trick ShowTime!!]] AC16
+-[[Shiny Kung-fu Revival>難易度表/おに/Shiny Kung-fu Revival]]
+-[[shiny smile>難易度表/おに/shiny smile]]
+-[[shiny smile(裏譜面)>難易度表/おに/shiny smile(裏譜面)]]
+-[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]
+-[[Shooting Star>難易度表/おに/Shooting Star]]
+-[[Sign>難易度表/おに/Sign]]
+-[[Silent Jealousy>難易度表/おに/Silent Jealousy]]
+-[[Silent Jealousy(裏譜面)>難易度表/おに/Silent Jealousy(裏譜面)]]
+-[[S(mile)ING!>難易度表/おに/S(mile)ING!]]
+-[[Smile! Smile! Smile!>難易度表/おに/Smile! Smile! Smile!]]
+-[[Smile! Smile! Smile!(裏譜面)>難易度表/おに/Smile! Smile! Smile!(裏譜面)]]
+-[[SMILY>難易度表/おに/SMILY]]
+-[[SMOKY THRILL>難易度表/おに/SMOKY THRILL]]
+-[[Snow halation>難易度表/おに/Snow halation]]
+-[[Solitude Star>難易度表/おに/Solitude Star]]
+-[[SORA-&#8544; アースライズ>難易度表/おに/SORA-I アースライズ]]
+-[[SORA-&#8545; グリーゼ581>難易度表/おに/SORA-II グリーゼ581]]
+-[[SORA-&#8546; ヘリオポーズ>難易度表/おに/SORA-III ヘリオポーズ]]
+-[[SORA-&#8547; ブンパソング>難易度表/おに/SORA-IV ブンパソング]]
+-[[SORA-&#8548; コズミックバード>難易度表/おに/SORA-V コズミックバード]]
+-[[SORA-&#8549; 火ノ鳥>難易度表/おに/SORA-VI 火ノ鳥]]
+-[[SORA-&#8550; シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]
+-[[Soup>難易度表/おに/Soup]]
+-[[SPARKING>難易度表/おに/SPARKING 鉄拳5]]
+-[[Spectral Rider>難易度表/おに/Spectral Rider]]
+-[[SPEED KING>難易度表/おに/SPEED KING]]
+-[[SPLENDOR>難易度表/おに/SPLENDOR]]
+-[[Spread the Wings!!>難易度表/おに/Spread the Wings!!]]
+-[[SstTAarR*>難易度表/おに/SstTAarR*]]
+-[[STAGE 0.ac11>難易度表/おに/STAGE 0.ac11]]
+-[[Stairway Generation>難易度表/おに/Stairway Generation]]
+-[[Star!!>難易度表/おに/Star!!]]
+-[[Star!!(裏譜面)>難易度表/おに/Star!!(裏譜面)]]
+-[[START!!>難易度表/おに/START!!]]
+-[[START DASH SENSATION>難易度表/おに/START DASH SENSATION]]
+-[[Star Wars: Main Title>難易度表/おに/Star Wars： Main Title]]
+-[[STAY TUNE>難易度表/おに/STAY TUNE]]
+-[[STEPPING WIND>難易度表/おに/STEPPING WIND]]
+-[[Stick Trick ShowTime!!>難易度表/おに/Stick Trick ShowTime!!]]
 -[[Streamer>難易度表/おに/Streamer]]
 -[[Sugar>難易度表/おに/Sugar]]
--[[Summer Dude>難易度表/おに/Summer Dude]] iOS
--[[Sunny Day Sunday>難易度表/おに/Sunny Day Sunday]] AC6
--[[Sunset Runaway>難易度表/おに/Sunset Runaway]] AC15 WiiU2
--[[super star shooter>難易度表/おに/super star shooter]] AC15 3DS2 iOS
--[[Surf Zapping>難易度表/おに/Surf Zapping]] 3DS3
--[[SURPRISE‐DRIVE>難易度表/おに/SURPRISE‐DRIVE]] AC15 WiiU2 3DS2
--[[Swan>難易度表/おに/Swan]] AC15
--[[Sweet Lay>難易度表/おに/Sweet Lay]] AC14 DS3 iOS
--[[Sweet Sweet Magic>難易度表/おに/Sweet Sweet Magic]] 3DS1
--[[Switch On!>難易度表/おに/Switch On!]] AC15 PSPDX 3DS1,2 iOS
--[[Switch On!(裏譜面)>難易度表/おに/Switch On!(裏譜面)]] AC15 3DS2 iOS
--[[Synchronicity>難易度表/おに/Synchronicity]] AC15 PSVita1
+-[[Summer Dude>難易度表/おに/Summer Dude]]
+-[[Sunny Day Sunday>難易度表/おに/Sunny Day Sunday]]
+-[[Sunset Runaway>難易度表/おに/Sunset Runaway]]
+-[[super star shooter>難易度表/おに/super star shooter]]
+-[[Surf Zapping>難易度表/おに/Surf Zapping]]
+-[[SURPRISE‐DRIVE>難易度表/おに/SURPRISE‐DRIVE]]
+-[[Swan>難易度表/おに/Swan]]
+-[[Sweet Lay>難易度表/おに/Sweet Lay]]
+-[[Sweet Sweet Magic>難易度表/おに/Sweet Sweet Magic]]
+-[[Switch On!>難易度表/おに/Switch On!]]
+-[[Switch On!(裏譜面)>難易度表/おに/Switch On!(裏譜面)]]
+-[[Synchronicity>難易度表/おに/Synchronicity]]
 ***T (全 42 曲 ＋ 裏譜面 9 種類) [#TTT]
--[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]] AC15
--[[Taiko Drum Monster(裏譜面)>難易度表/おに/Taiko Drum Monster(裏譜面)]] AC16
--[[Taiko Session〜Live Version〜>難易度表/おに/Taiko Session〜Live Version〜]] CS2
+-[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]
+-[[Taiko Drum Monster(裏譜面)>難易度表/おに/Taiko Drum Monster(裏譜面)]]
+-[[Taiko Session〜Live Version〜>難易度表/おに/Taiko Session〜Live Version〜]]
 -TAKIO'S SOHRAN 2 → [[南中ソーラン>難易度表/おに/TAKIO'S SOHRAN 2]]
--[[talking>難易度表/おに/talking]] AC15 PSVita1
--[[Tank!>難易度表/おに/Tank!]] AC12増〜14 PSPDX 3DS2 iOS
--[[Tank!(裏譜面)>難易度表/おに/Tank!(裏譜面)]] AC13,14 PSPDX 3DS2 iOS
--[[TD -28619029byte remix->難易度表/おに/TD -28619029byte remix-]] NS1
--[[TE-20>難易度表/おに/TE-20]] AC12増
--[[tear>難易度表/おに/tear]] PSVitaMS青
--[[Telecastic fake show>難易度表/おに/Telecastic fake show]] AC15
--[[Tell Your World>難易度表/おに/Tell Your World]] AC15 3DS1 iOS AR
--[[Thank You!>難易度表/おに/Thank You!]] AC15 iOS AR
--[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]] AC10〜13,15 PSPDX Wii1,4 3DS2 iOS
--[[THE DAY>難易度表/おに/THE DAY]] 3DS3
--[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]] AC16
--[[The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]] AC16
--[[THE IDOLM@STER>難易度表/おに/THE IDOLM@STER]] AC7〜9,15 アニスペ PSP2 PSVita1 PSVitaMS赤
--[[THE IDOLM@STER(裏譜面)>難易度表/おに/THE IDOLM@STER(裏譜面)]] AC15 PSVita1 PSVitaMS赤
--[[THE IDOLM@STER 2nd-mix>難易度表/おに/THE IDOLM@STER 2nd-mix]] PSVitaMS青
--[[The Magician's Dream>難易度表/おに/The Magician's Dream]] AC15 3DS1 WiiU2
--[[Theme of Ryu>難易度表/おに/Theme of Ryu]] PS4-1
--[[The Orb Festival>難易度表/おに/The Orb Festival]] iOS AR
--[[The Other self>難易度表/おに/The Other self]] AC15 WiiU1
--[[The Windmill Song>難易度表/おに/The Windmill Song]] AC15 WiiU2
--[[The world is all one !!>難易度表/おに/The world is all one !!]] AC15 PSPDX PSVitaMS青
--[[The world is all one !!(裏譜面)>難易度表/おに/The world is all one !!(裏譜面)]] PSVitaMS青
--[[Thinking 〜Must Mix〜>難易度表/おに/Thinking 〜Must Mix〜]] PSVitaMS青
--[[Thinking 〜Must Mix〜(裏譜面)>難易度表/おに/Thinking 〜Must Mix〜(裏譜面)]] PSVitaMS青
--[[Time to dine>難易度表/おに/Time to dine]] 3DS2
--[[Together>難易度表/おに/Together]] AC10〜13 DS1 Wii1
--[[TOKIMEKIエスカレート>難易度表/おに/TOKIMEKIエスカレート]] AC15
--[[TOKIMEKIエスカレート(裏譜面)>難易度表/おに/TOKIMEKIエスカレート(裏譜面)]] AC15
--[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/おに/TOKIMEKI・ですとろいやー！！]] AC16
--[[TO MAKE THE END OF BATTLE>難易度表/おに/TO MAKE THE END OF BATTLE]] AC15 PSVita1 iOS AR
--[[TONIGHT,TONIGHT,TONIGHT>難易度表/おに/TONIGHT,TONIGHT,TONIGHT]] AC9
--[[Toon Town's Toys' Tune>難易度表/おに/Toon Town's Toys' Tune]] AC15
--[[Touch off>難易度表/おに/Touch off]] PS4-1
--[[Town 〜Must Mix〜>難易度表/おに/Town 〜Must Mix〜]] PSVitaMS赤
--[[Toxic>難易度表/おに/Toxic]] AC7 TDM
--[[TRAIN-TRAIN>難易度表/おに/TRAIN-TRAIN]] AC4〜15 NS1 Wii1 PSP1,DX CS2 iOS AR
--[[traveling>難易度表/おに/traveling]] AC3 CS1
--[[TRIAL DANCE>難易度表/おに/TRIAL DANCE]] PSVitaMS青
--[[true blue>難易度表/おに/true blue]] AC5 CS3
--[[TRUTH>難易度表/おに/TRUTH]] AC7 CS5 PSP1 3DS2
--[[TT -Japanese ver.->難易度表/おに/TT -Japanese ver.-]] AC15 NS1
--[[Tulip>難易度表/おに/Tulip]] AC15
--[[Tulip(裏譜面)>難易度表/おに/Tulip(裏譜面)]] AC15
--[[Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]] AC15
+-[[talking>難易度表/おに/talking]]
+-[[Tank!>難易度表/おに/Tank!]]
+-[[Tank!(裏譜面)>難易度表/おに/Tank!(裏譜面)]]
+-[[TD -28619029byte remix->難易度表/おに/TD -28619029byte remix-]]
+-[[TE-20>難易度表/おに/TE-20]]
+-[[tear>難易度表/おに/tear]]
+-[[Telecastic fake show>難易度表/おに/Telecastic fake show]]
+-[[Tell Your World>難易度表/おに/Tell Your World]]
+-[[Thank You!>難易度表/おに/Thank You!]]
+-[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]
+-[[THE DAY>難易度表/おに/THE DAY]]
+-[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]
+-[[The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]
+-[[THE IDOLM@STER>難易度表/おに/THE IDOLM@STER]]
+-[[THE IDOLM@STER(裏譜面)>難易度表/おに/THE IDOLM@STER(裏譜面)]]
+-[[THE IDOLM@STER 2nd-mix>難易度表/おに/THE IDOLM@STER 2nd-mix]]
+-[[The Magician's Dream>難易度表/おに/The Magician's Dream]]
+-[[Theme of Ryu>難易度表/おに/Theme of Ryu]]
+-[[The Orb Festival>難易度表/おに/The Orb Festival]]
+-[[The Other self>難易度表/おに/The Other self]]
+-[[The Windmill Song>難易度表/おに/The Windmill Song]]
+-[[The world is all one !!>難易度表/おに/The world is all one !!]]
+-[[The world is all one !!(裏譜面)>難易度表/おに/The world is all one !!(裏譜面)]]
+-[[Thinking 〜Must Mix〜>難易度表/おに/Thinking 〜Must Mix〜]]
+-[[Thinking 〜Must Mix〜(裏譜面)>難易度表/おに/Thinking 〜Must Mix〜(裏譜面)]]
+-[[Time to dine>難易度表/おに/Time to dine]]
+-[[Together>難易度表/おに/Together]]
+-[[TOKIMEKIエスカレート>難易度表/おに/TOKIMEKIエスカレート]]
+-[[TOKIMEKIエスカレート(裏譜面)>難易度表/おに/TOKIMEKIエスカレート(裏譜面)]]
+-[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/おに/TOKIMEKI・ですとろいやー！！]]
+-[[TO MAKE THE END OF BATTLE>難易度表/おに/TO MAKE THE END OF BATTLE]]
+-[[TONIGHT,TONIGHT,TONIGHT>難易度表/おに/TONIGHT,TONIGHT,TONIGHT]]
+-[[Toon Town's Toys' Tune>難易度表/おに/Toon Town's Toys' Tune]]
+-[[Touch off>難易度表/おに/Touch off]]
+-[[Town 〜Must Mix〜>難易度表/おに/Town 〜Must Mix〜]]
+-[[Toxic>難易度表/おに/Toxic]]
+-[[TRAIN-TRAIN>難易度表/おに/TRAIN-TRAIN]]
+-[[traveling>難易度表/おに/traveling]]
+-[[TRIAL DANCE>難易度表/おに/TRIAL DANCE]]
+-[[true blue>難易度表/おに/true blue]]
+-[[TRUTH>難易度表/おに/TRUTH]]
+-[[TT -Japanese ver.->難易度表/おに/TT -Japanese ver.-]]
+-[[Tulip>難易度表/おに/Tulip]]
+-[[Tulip(裏譜面)>難易度表/おに/Tulip(裏譜面)]]
+-[[Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]
 -[[twinkle night (feat. somunia)>難易度表/おに/twinkle night (feat. somunia)]]
 ***U (全 12 曲) [#UUU]
 -[[UFO>難易度表/おに/UFO]]

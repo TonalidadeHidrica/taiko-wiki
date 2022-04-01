@@ -27,3 +27,5 @@
 -6段に来そう --  &new{2021-11-14 (日) 16:50:30};
 -これ解析されたんですか？ --  &new{2022-01-19 (水) 00:11:12};
 -↑曲IDまとめに[[これ>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=ac16_8.18_2.txt&refer=%B6%CAID%A4%DE%A4%C8%A4%E1]]が昨日付けで貼付されていました。 --  &new{2022-01-19 (水) 01:32:27};
+-サブタイトル部分に作曲者表記が追加された(時期不明)：Taku Inoue (BNSI) --  &new{2022-04-02 (土) 01:16:49};
+-↑ Source: https://youtu.be/p3FzzMRF9vE --  &new{2022-04-02 (土) 01:23:20};

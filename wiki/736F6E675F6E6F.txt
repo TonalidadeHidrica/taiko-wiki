@@ -1077,7 +1077,7 @@
 |968|[[Hyper Bass (feat. Yunomi)>難易度表/おに/Hyper Bass (feat. Yunomi)]]|BGCOLOR(darkorchid):G & V|dobhbs||
 |969|[[いただきバベル (Prod. ケンモチヒデフミ)>難易度表/おに/いただきバベル (Prod. ケンモチヒデフミ)]]|BGCOLOR(darkorchid):G & V|dobbbl||
 |970|[[Shining Lights (feat. PSYQUI)>難易度表/おに/Shining Lights (feat. PSYQUI)]]|BGCOLOR(darkorchid):G & V|dobslt||
-|971|[[星河一天>難易度表/おに/星河一天]]|BGCOLOR(orangered):ナムオリ|?||
+|971|[[星河一天>難易度表/おに/星河一天]]|BGCOLOR(orangered):ナムオリ|seiga1||
 |972|[[ラパスの虹>難易度表/おに/ラパスの虹]]|BGCOLOR(orangered):ナムオリ|?||
 |973| [[PONPOKO RHYTHM >難易度表/おに/PONPOKO RHYTHM]] |BGCOLOR(orangered):ナムオリ|?||
 |974|[[炎>難易度表/おに/炎]]|BGCOLOR(hotpink):アニメ|kimhom||
@@ -1101,7 +1101,7 @@
 |992|[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]|BGCOLOR(orangered):ナムオリ|?||
 |993|[[彁>難易度表/おに/彁]]|BGCOLOR(orangered):ナムオリ|?||
 |994|[[パラレルロリポップ>難易度表/おに/パラレルロリポップ]]|BGCOLOR(orangered):ナムオリ|20tftb||
-|995|[[テルミービート>難易度表/おに/テルミービート]]|BGCOLOR(darkgray):ボカロ|?||
+|995|[[テルミービート>難易度表/おに/テルミービート]]|BGCOLOR(darkgray):ボカロ|tmbeat||
 |996|[[テーマ・オブ・半沢直樹 〜Main Title〜 >難易度表/おに/テーマ・オブ・半沢直樹 〜Main Title〜]]|BGCOLOR(lime):バラエティ|?||
 |997|[[twinkle night (feat. somunia)>難易度表/おに/twinkle night (feat. somunia)]]|BGCOLOR(lime):バラエティ|?||
 |998|[[Connected World>難易度表/おに/Connected World]]|BGCOLOR(lime):バラエティ|?||

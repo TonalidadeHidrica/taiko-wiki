@@ -452,6 +452,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(cyan):|BGCOLOR(hotpink):|[[バクチ・ダンサー>難易度表/おに/バクチ・ダンサー]]|''5.491''|151|576|104.90秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[私はアイドル&#9829;>難易度表/おに/私はアイドル]]|''5.466''|168|653|119.46秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[We Have A Dream>難易度表/おに/We Have A Dream]]|''5.451''|175|599|109.89秒||
+|>|>|BGCOLOR(cyan):|[[TEMPLATE>難易度表/おに/TEMPLATE]]|''5.426''|156.08※|534|98.41秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[MUSIC♪(裏譜面)>難易度表/おに/MUSIC♪(裏譜面)]]|''5.420''|138|648|119.57秒||
 |>|>|BGCOLOR(darkorchid):|[[心の痛み>難易度表/おに/心の痛み]]|''5.419''|239|570|105.19秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[迷走Mind>難易度表/おに/迷走Mind]]|''5.389''|152|586|108.75秒||
