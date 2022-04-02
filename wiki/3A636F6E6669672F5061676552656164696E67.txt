@@ -1378,7 +1378,6 @@
 -[[コメント/難易度表/おに/super star shooter]] コメント/ナンイドオモテ/オニ/super star shooter
 -[[コメント/難易度表/おに/talking]] コメント/ナンイドオモテ/オニ/talking
 -[[コメント/難易度表/おに/tear]] コメント/ナンイドオモテ/オニ/tear
--[[コメント/難易度表/おに/tmap4]] コメント/ナンイドオモテ/オニ/tmap4
 -[[コメント/難易度表/おに/traveling]] コメント/ナンイドオモテ/オニ/traveling
 -[[コメント/難易度表/おに/true blue]] コメント/ナンイドオモテ/オニ/true blue
 -[[コメント/難易度表/おに/twinkle night (feat. somunia)]] コメント/ナンイドオモテ/オニ/twinkle night (feat. somunia)
@@ -9911,7 +9910,6 @@
 -[[難易度表/おに/super star shooter]] ナンイドオモテ/オニ/super star shooter
 -[[難易度表/おに/talking]] ナンイドオモテ/オニ/talking
 -[[難易度表/おに/tear]] ナンイドオモテ/オニ/tear
--[[難易度表/おに/tmap4]] ナンイドオモテ/オニ/tmap4
 -[[難易度表/おに/traveling]] ナンイドオモテ/オニ/traveling
 -[[難易度表/おに/true blue]] ナンイドオモテ/オニ/true blue
 -[[難易度表/おに/twinkle night (feat. somunia)]] ナンイドオモテ/オニ/twinkle night (feat. somunia)
