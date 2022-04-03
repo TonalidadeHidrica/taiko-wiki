@@ -6,7 +6,7 @@
 |''iOS''&br;''AR''|BGCOLOR(cyan):''ポップス''|★×8|''535''|''1029270点''|＋連打|560点|130点|
 
 ***譜面構成・攻略 [#capture]
--BPMは99.21-202.39。
+-BPMは約99-202。基本BPMは200。
 
 ***その他 [#other]
 -アーティストは、''星街すいせい''。
@@ -18,7 +18,7 @@
 -[[かんたん>難易度表/かんたん/TEMPLATE]]
 -[[ふつう>難易度表/ふつう/TEMPLATE]]
 -[[むずかしい>難易度表/むずかしい/TEMPLATE]]
--[[オート動画>https://www.youtube.com/watch?v=nwA8m-AYcQw&t=7s]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=nwA8m-AYcQw&t=7s]]
 
 ***コメント [#comment]
 #pcomment(,noname)

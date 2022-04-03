@@ -6,7 +6,7 @@
 |''WM''|BGCOLOR(cyan):''M&#250;sicas&br;Brasileiras''|★×3|''132''|''???点''|＋連打|????点|???点|
 
 ***譜面構成・攻略 [#capture]
--BPMは130.48。
+-BPMは130.479。
 -曲がかなり短い(最初の音符から最後の音符まで約66秒)。
 
 ***その他 [#other]
@@ -22,4 +22,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+-譜面画像のBPMは間違っており、本来はテンポ BPM130.479である。
 &attachref(kaiseki.png,nolink);
