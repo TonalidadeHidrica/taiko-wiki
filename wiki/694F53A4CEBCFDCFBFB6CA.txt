@@ -122,7 +122,7 @@
 |◎|''さくらんぼ''|170|[[★×4>難易度表/かんたん/さくらんぼ]]|[[★×4>難易度表/ふつう/さくらんぼ]]|[[★×3>難易度表/むずかしい/さくらんぼ]]|[[★×8>難易度表/おに/さくらんぼ]]|-|
 |BGCOLOR(beige):◎|BGCOLOR(beige):''さちさちにしてあげる♪''&br;　　SIZE(11){小林幸子}|BGCOLOR(beige):160|BGCOLOR(beige):[[★×3>難易度表/かんたん/さちさちにしてあげる♪]]|BGCOLOR(beige):[[★×6>難易度表/ふつう/さちさちにしてあげる♪]]|BGCOLOR(beige):[[★×7>難易度表/むずかしい/さちさちにしてあげる♪]]|BGCOLOR(beige):[[★×7>難易度表/おに/さちさちにしてあげる♪]]|BGCOLOR(beige):[[★×10>難易度表/おに/さちさちにしてあげる♪(裏譜面)]]|
 |★|''雑草''&br;　　SIZE(11){HIKAKIN & SEIKIN}|128|[[★×3>難易度表/かんたん/雑草]]|[[★×3>難易度表/ふつう/雑草]]|[[★×5>難易度表/むずかしい/雑草]]|[[★×6>難易度表/おに/雑草]]|-|
-||''Summer Dude''&br;　　SIZE(11){i☆Ris}|133|[[★×3>難易度表/かんたん/Summer Dude]]|[[★×5>難易度表/ふつう/Summer Dude]]|[[★×6>難易度表/むずかしい/Summer Dude]]|[[★×8>難易度表/おに/Summer Dude]]|-|
+||''Summer Dude''&br;　　SIZE(11){i☆Ris}|133※|[[★×3>難易度表/かんたん/Summer Dude]]|[[★×5>難易度表/ふつう/Summer Dude]]|[[★×6>難易度表/むずかしい/Summer Dude]]|[[★×8>難易度表/おに/Summer Dude]]|-|
 |★|''さよならエレジー''|155|[[★×3>難易度表/かんたん/さよならエレジー]]|[[★×4>難易度表/ふつう/さよならエレジー]]|[[★×5>難易度表/むずかしい/さよならエレジー]]|[[★×8>難易度表/おに/さよならエレジー]]|-|
 |BGCOLOR(beige):|BGCOLOR(beige):''さよならクロール''|BGCOLOR(beige):145|BGCOLOR(beige):[[★×3>難易度表/かんたん/さよならクロール]]|BGCOLOR(beige):[[★×4>難易度表/ふつう/さよならクロール]]|BGCOLOR(beige):[[★×5>難易度表/むずかしい/さよならクロール]]|BGCOLOR(beige):[[★×6>難易度表/おに/さよならクロール]]|BGCOLOR(beige):-|
 |BGCOLOR(beige):|BGCOLOR(beige):''サラバ、愛しき悲しみたちよ''&br;　　SIZE(11){ももいろクローバーZ}|BGCOLOR(beige):168|BGCOLOR(beige):[[★×4>難易度表/かんたん/サラバ、愛しき悲しみたちよ]]|BGCOLOR(beige):[[★×4>難易度表/ふつう/サラバ、愛しき悲しみたちよ]]|BGCOLOR(beige):[[★×4>難易度表/むずかしい/サラバ、愛しき悲しみたちよ]]|BGCOLOR(beige):[[★×7>難易度表/おに/サラバ、愛しき悲しみたちよ]]|BGCOLOR(beige):-|
@@ -160,14 +160,14 @@
 |◎|''月と太陽''|108|[[★×3>難易度表/かんたん/月と太陽]]|[[★×4>難易度表/ふつう/月と太陽]]|[[★×5>難易度表/むずかしい/月と太陽]]|[[★×8>難易度表/おに/月と太陽]]|-|
 |★|''月色Chainon''&br;　　SIZE(11){ももいろクローバーZ 劇場版「美少女戦士セーラームーンEternal」より}|128|[[★×3>難易度表/かんたん/月色Chainon]]|[[★×4>難易度表/ふつう/月色Chainon]]|[[★×6>難易度表/むずかしい/月色Chainon]]|[[★×7>難易度表/おに/月色Chainon]]|-|
 |BGCOLOR(beige):|BGCOLOR(beige):''つけまつける''&br;　　SIZE(11){きゃりーぱみゅぱみゅ}|BGCOLOR(beige):145|BGCOLOR(beige):[[★×3>難易度表/かんたん/つけまつける]]|BGCOLOR(beige):[[★×4>難易度表/ふつう/つけまつける]]|BGCOLOR(beige):[[★×3>難易度表/むずかしい/つけまつける]]|BGCOLOR(beige):[[★×6>難易度表/おに/つけまつける]]|BGCOLOR(beige):-|
-|◎|''蕾''|76|[[★×3>難易度表/かんたん/蕾]]|[[★×3>難易度表/ふつう/蕾]]|[[★×3>難易度表/むずかしい/蕾]]|[[★×4>難易度表/おに/蕾]]|-|
+|◎|''蕾''|76※|[[★×3>難易度表/かんたん/蕾]]|[[★×3>難易度表/ふつう/蕾]]|[[★×3>難易度表/むずかしい/蕾]]|[[★×4>難易度表/おに/蕾]]|-|
 |★|''TT -Japanese ver.-''|130|[[★×3>難易度表/かんたん/TT -Japanese ver.-]]|[[★×5>難易度表/ふつう/TT -Japanese ver.-]]|[[★×5>難易度表/むずかしい/TT -Japanese ver.-]]|[[★×7>難易度表/おに/TT -Japanese ver.-]]|-|
 |BGCOLOR(#ccc):|BGCOLOR(#ccc):''ディープ・クレンジング&br;SU(from RIP SLYME)''|BGCOLOR(#ccc):128|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/ディープ・クレンジング]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/ディープ・クレンジング]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/ディープ・クレンジング]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/ディープ・クレンジング]]|BGCOLOR(#ccc):-|
 |BGCOLOR(beige):|BGCOLOR(beige):''Desire''&br;　　SIZE(11){Do As Infinity}|BGCOLOR(beige):122※|BGCOLOR(beige):[[★×3>難易度表/かんたん/Desire]]|BGCOLOR(beige):[[★×3>難易度表/ふつう/Desire]]|BGCOLOR(beige):[[★×7>難易度表/むずかしい/Desire]]|BGCOLOR(beige):[[★×8>難易度表/おに/Desire]]|BGCOLOR(beige):-|
 |◎|''デジタルモグラ''|140|[[★×2>難易度表/かんたん/デジタルモグラ]]|[[★×3>難易度表/ふつう/デジタルモグラ]]|[[★×4>難易度表/むずかしい/デジタルモグラ]]|[[★×7>難易度表/おに/デジタルモグラ]]|-|
 |★|''Telecastic fake show''&br;　　SIZE(11){凛として時雨}|144-215※|[[★×4>難易度表/かんたん/Telecastic fake show]]|[[★×6>難易度表/ふつう/Telecastic fake show]]|[[★×7>難易度表/むずかしい/Telecastic fake show]]|[[★×10>難易度表/おに/Telecastic fake show]]|-|
 |BGCOLOR(beige):|BGCOLOR(beige):''天体観測''|BGCOLOR(beige):163|BGCOLOR(beige):[[★×4>難易度表/かんたん/天体観測]]|BGCOLOR(beige):[[★×5>難易度表/ふつう/天体観測]]|BGCOLOR(beige):[[★×5>難易度表/むずかしい/天体観測]]|BGCOLOR(beige):[[★×6>難易度表/おに/天体観測]]|BGCOLOR(beige):-|
-||''TEMPLATE''&br;　　SIZE(11){星街すいせい}|100-200※|[[★×3>難易度表/かんたん/TEMPLATE]]|[[★×5>難易度表/ふつう/TEMPLATE]]|[[★×6>難易度表/むずかしい/TEMPLATE]]|[[★×8>難易度表/おに/TEMPLATE]]|-|
+||''TEMPLATE''&br;　　SIZE(11){星街すいせい}|99-202※|[[★×3>難易度表/かんたん/TEMPLATE]]|[[★×5>難易度表/ふつう/TEMPLATE]]|[[★×6>難易度表/むずかしい/TEMPLATE]]|[[★×8>難易度表/おに/TEMPLATE]]|-|
 |◎|''24 karats TRIBE OF GOLD''|103|[[★×3>難易度表/かんたん/24karats TRIBE OF GOLD]]|[[★×4>難易度表/ふつう/24karats TRIBE OF GOLD]]|[[★×4>難易度表/むずかしい/24karats TRIBE OF GOLD]]|[[★×7>難易度表/おに/24karats TRIBE OF GOLD]]|-|
 |BGCOLOR(beige):|BGCOLOR(beige):''遠くまで''&br;　　SIZE(11){Do As Infinity}|BGCOLOR(beige):141※|BGCOLOR(beige):[[★×3>難易度表/かんたん/遠くまで]]|BGCOLOR(beige):[[★×4>難易度表/ふつう/遠くまで]]|BGCOLOR(beige):[[★×4>難易度表/むずかしい/遠くまで]]|BGCOLOR(beige):[[★×6>難易度表/おに/遠くまで]]|BGCOLOR(beige):-|
 |★|''ともに''&br;　　SIZE(11){WANIMA}|127-254※|[[★×3>難易度表/かんたん/ともに]]|[[★×4>難易度表/ふつう/ともに]]|[[★×5>難易度表/むずかしい/ともに]]|[[★×7>難易度表/おに/ともに]]|-|
