@@ -27,5 +27,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
--譜面画像のBPMは、正しくはBPM130.479である。
+-譜面画像のBPMは間違っており、本来はテンポ BPM130.479である。
 &attachref(Domingo.png,nolink);

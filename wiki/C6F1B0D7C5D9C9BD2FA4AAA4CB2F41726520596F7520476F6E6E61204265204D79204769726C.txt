@@ -11,7 +11,7 @@
 -12分音符主体の譜面。単色が多いが、2回出現するCOLOR(blue){●}COLOR(red){●●}COLOR(blue){●}COLOR(red){●●●}には注意。
 
 ***その他 [#other] 
--アーティストは''JET''。
+-アーティストは、''JET''。
 ----
 -[[かんたん>難易度表/かんたん/Are You Gonna Be My Girl]]
 -[[ふつう>難易度表/ふつう/Are You Gonna Be My Girl]]

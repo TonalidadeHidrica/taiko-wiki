@@ -35,5 +35,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-4小節目のみBPM152.28(HS0.98)
+~4小節目のみBPMは152.28(HS0.98)。
 &attachref(mkdsc_m3.png,nolink);
