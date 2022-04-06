@@ -198,7 +198,7 @@
 
 |CENTER:|||>|>|>|CENTER:70|c
 |''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
-|BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! -Cranky remix-''&br;　　SIZE(11){東方Projectアレンジ ビートまりお×Cranky}|180|★×4|★×5|[[★×7>難易度表/むずかしい/Help me, ERINNNNNN!! -Cranky remix-]]|[[★×9>難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]|
+|BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! -Cranky remix-''&br;　　SIZE(11){東方Projectアレンジ ビートまりお×Cranky}|180|[[★×4>難易度表/かんたん/Help me, ERINNNNNN!! -Cranky remix-]]|[[★×5>難易度表/ふつう/Help me, ERINNNNNN!! -Cranky remix-]]|[[★×7>難易度表/むずかしい/Help me, ERINNNNNN!! -Cranky remix-]]|[[★×9>難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]|
 
 **ジャパン アミューズメント エキスポ 2017x 闘会議2017 [#a39fa6c6]
 -2017/2/10~2017/2/12にかけて開催されたジャパン アミューズメント エキスポ 2017x 闘会議2017用の特別バージョン。

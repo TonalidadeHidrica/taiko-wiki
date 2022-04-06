@@ -49,7 +49,7 @@
 --76〜77.97〜102小節がやはり最大の難所か、当然予め運手を決めて挑まなければコテンパンにされてしまうので決めておこう。
 ---上の一例に沿って叩くと77小節の24分縁3打や、100小節のCOLOR(red){●}COLOR(blue){○}COLOR(blue){○} COLOR(red){●} COLOR(blue){○} COLOR(blue){○}COLOR(blue){○}COLOR(blue){○}のみ正攻法になる。交互が苦手、またはシングルが追いつかない場合は逆アレンジが要求されるがここだけ全てロール処理をするのもありだろう。
 --70〜71.87〜88小節も同じく予めロール処理をするか正攻法にするかを決めておこう。
----ロール処理をする場合は関係ないが正攻法にする場合24分が来る度に入り手が逆になることを意識しよう。例えば70〜71小節ならCOLOR(red){●} COLOR(red){●} / COLOR(blue){○}COLOR(blue){○}COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(red){●} / COLOR(blue){○}COLOR(blue){○}COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(red){●} / COLOR(blue){○}COLOR(blue){○}COLOR(red){●} COLOR(red){●} COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○} と / で区切った部分で交互になる。ただし、87〜88小節は複合の手前に1打だけ縁が増えてるので注意するように。
+---ロール処理をする場合は関係ないが正攻法にする場合24分が来る度に入り手が逆になることを意識しよう。例えば70〜71小節ならCOLOR(red){●} COLOR(red){●} / COLOR(blue){○}COLOR(blue){○}COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(red){●} / COLOR(blue){○}COLOR(blue){○}COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(red){●} / COLOR(blue){○}COLOR(blue){○}COLOR(red){●} COLOR(red){●} COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}  / と区切った部分で交互になる。ただし、87〜88小節は複合の手前に1打だけ縁が増えてるので注意するように。
 
 ***対策 [#p2c4dc3e]
 -この段位では、★×10難関レベルの譜面を精度良くかつ叩き間違いをしない実力が求められる。

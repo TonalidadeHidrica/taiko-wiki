@@ -2,7 +2,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15超会議2016Ver.''&br;AC15例大祭13Ver.&br;AC15秋季例大祭('16)Ver.|BGCOLOR(lime):''バラエティ''|★×7|''481''|''845410点''|＋連打|480点|125点|
+|''AC15超会議2016Ver.''&br;AC15例大祭13Ver.&br;AC15秋季例大祭('16)Ver.|BGCOLOR(lime):''バラエティ''|★×5|''281''|''586800点''|＋連打|550点|163点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは180。
@@ -12,14 +12,12 @@
 
 ----
 -[[かんたん>難易度表/かんたん/Help me, ERINNNNNN!! -Cranky remix-]]/[[アレンジ元>難易度表/かんたん/Help me, ERINNNNNN!!]]
--[[ふつう>難易度表/ふつう/Help me, ERINNNNNN!! -Cranky remix-]]/[[アレンジ元>難易度表/ふつう/Help me, ERINNNNNN!!]]
--むずかしい/[[アレンジ元>難易度表/むずかしい/Help me, ERINNNNNN!!]]
+-ふつう/[[アレンジ元>難易度表/ふつう/Help me, ERINNNNNN!!]]
+-[[むずかしい>難易度表/むずかしい/Help me, ERINNNNNN!! -Cranky remix-]]/[[アレンジ元>難易度表/むずかしい/Help me, ERINNNNNN!!]]
 -[[おに>難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]/[[アレンジ元>難易度表/おに/Help me, ERINNNNNN!!]]
-
-//-[[オート動画>https://www.youtube.com/watch?v=KhS7CGJVTqQ]]((非公式ツールを用いた再現))
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(zzernc_h_2.png,nolink);
+~&attachref(zzernc_n.png,nolink);

@@ -47,11 +47,11 @@
 -[[ふつう>難易度表/ふつう/彁]]
 -[[むずかしい>難易度表/むずかしい/彁]]
 -[[おに>../彁]]/裏譜面
+-[[プレイ動画(キャプチャ)>https://youtu.be/we1ZTxFp8Cc?t=15]]
 -[[QRコード(公式Twitter) >https://twitter.com/taiko_team/status/1509697054313881600]]
 
 ----
 -[[楽曲MV(公式)>https://www.youtube.com/watch?v=EsOU0V2kpUI]]COLOR(red){【''閲覧注意''】}
--[[譜面確認>https://www.youtube.com/watch?v=EIu0H-ni6cw&ab_channel=%E3%83%8B%E3%83%A9%E3%82%B9%E3%82%AF%EF%BC%8Fnirasuku0813]]((2P(AIどん)のみフルコンボ))
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
