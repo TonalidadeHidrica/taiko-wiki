@@ -9,7 +9,7 @@
 |AC16.1.0||~|~|~|''997660点''|~|2270点|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは150。
+-BPMは約150。
 -連打秒数:約1.167秒-約1.167秒-''約1.167秒''=約3.501秒
 
 ***その他 [#other]
@@ -25,4 +25,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(むずかしい.png,nolink);
+&attachref(mikutd_h.png,nolink);

@@ -8,7 +8,7 @@
 |AC16.1.0||~|~|~|''998620点''|~|4790点|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは150。
+-BPMは約150。
 
 ***その他 [#other]
 -アーティストは、''ナユタン星人''。
@@ -25,4 +25,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(かんたんf.png,nolink);
+&attachref(mikutd_e.png,nolink);

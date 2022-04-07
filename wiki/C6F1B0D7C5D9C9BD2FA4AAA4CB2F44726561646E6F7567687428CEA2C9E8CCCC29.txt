@@ -244,9 +244,8 @@
 
 -風船の打数は全て2打。
 
-//~内部小節あり
+//~最後に非表示の小節線が2本あります。
 &attachref(dreadn_x.png,nolink);
-//&attachref(Dreadnought裏.png,nolink);
 
 ~加速部分の拡大版(2倍)
 &attachref(加速部分.png,nolink);
