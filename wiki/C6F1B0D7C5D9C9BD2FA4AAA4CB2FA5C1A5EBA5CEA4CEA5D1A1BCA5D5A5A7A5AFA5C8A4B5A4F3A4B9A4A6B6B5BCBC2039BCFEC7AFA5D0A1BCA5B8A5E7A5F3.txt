@@ -15,7 +15,7 @@
 --¤¿¤À¤·¡¢[[FLOWER>../FLOWER]]¤ä[[Honey Heartbeat ¡Á10 Stars Mix¡Á>../Honey Heartbeat ¡Á10 Stars Mix¡Á]]¤ÈÆ±ÍÍ¤Ë¡¢HS0.5½èÍý¤ò¤·¤Æ¸«¤¿ÌÜBPM¤ò175¤Ë¤·¤Æ¤¤¤ë¡£
 --¾åµ­¤Î[[FLOWER>../FLOWER]](BPM346)¤ò¾å²ó¤Ã¤Æ''¤ª¤Ë¡ú¡ß9ÎòÂåºÇ¹â´ðËÜBPM''¤È¤Ê¤Ã¤¿¡£¤Þ¤¿¡¢[[INSPION>../INSPION]](BPM296)¤ò¾å²ó¤Ã¤Æ''¥Ð¥é¥¨¥Æ¥£ºÇ¹â´ðËÜBPM''¤â¹¹¿·¤·¤¿¡£
 -Ê¿¶ÑÌ©ÅÙ¤Ï¡¢''Ìó6.23ÂÇ/ÉÃ''¡£
--°ìÈÖºÇ¸å¤Îµ¿»÷Ää»ßÉôÊ¬¤Ï¡¢''BPM1.97''¤Ç¤¢¤ê''[[ÎòÂåºÇÄãBPM>ÂÀ¸Ý¥®¥Í¥¹/ÉèÌÌ¤Ë¤Ä¤¤¤Æ#minimumbpmslow]]''¤Ç¤¢¤ë¡£
+-°ìÈÖºÇ¸å¤Îµ¿»÷Ää»ßÉôÊ¬¤Ï¡¢''BPMÌó1.967''¤Ç¤¢¤ê''[[ÎòÂåºÇÄãBPM>ÂÀ¸Ý¥®¥Í¥¹/ÉèÌÌ¤Ë¤Ä¤¤¤Æ#minimumbpmslow]]''¤Ç¤¢¤ë¡£
 
 ***¤½¤ÎÂ¾ [#other]
 -­©¤È¤¤¤¦µ­¹æ¤ÏÅìÊý³¦·¨¤Ç¤Ï¥Á¥ë¥Î¤ò°ÕÌ£¤¹¤ë¥¹¥é¥ó¥°¤È¤·¤ÆÄêÃå¤·¤Æ¤¤¤ë((¡ÖÅìÊý²Ö±ÇÄÍ¡×¤ÎÀâÌÀ½ñ¤Ç¡¢¥²¡¼¥à²èÁü¤Î¥Á¥ë¥Î¤Î²£¤Ë­©¤¬¿¶¤é¤ì¡¢²èÁü¤Î²¼¤Ë''9:¥Ð¥«''¤È¤¤¤¦ÀâÌÀ¤¬Åº¤¨¤é¤ì¤Æ¤¤¤¿¤³¤È¤¬Í³Íè))¡£
@@ -43,7 +43,7 @@
 
 ***ÉèÌÌ [#score]
 ~89¾®Àá¤ÎÇï»Ò¤Ï¶á»÷ÃÍ(¼ÂºÝ¤Ï4.657931/48Çï»Ò)
-&attachref(thchi2_m.png,nolink);
+~&attachref(thchi2_m.png,nolink);
 
 ~BPM175¸ÇÄê¤È¸«¤ë¾ì¹ç
-&attachref(cirno9_m.png,nolink);
+~&attachref(cirno9_m.png,nolink);
