@@ -29,5 +29,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~ふうせん・くすだまの長さは暫定
-~&attachref(222ふ.png,nolink);
+~&attachref(222_ふ.png,nolink);

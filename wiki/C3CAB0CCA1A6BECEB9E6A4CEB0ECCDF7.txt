@@ -67,7 +67,7 @@
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):私、太鼓の達人だあいすき|BGCOLOR(grey):2014年11月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){黒ゴス}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):もふもふ de ぬくぬく|BGCOLOR(grey):2014年12月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){アルパカ}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):一年の計は元旦にあるドン|BGCOLOR(grey):2015年1月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){芸者}」を獲得|
-|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):この想い、音速で届け！|BGCOLOR(grey):2015年2月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ?((当時のツイートより推測。当時のブログ記事などが残っていないため確認不可能)))「COLOR(red){ジェットパイロット}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):この想い、音速で届け！|BGCOLOR(grey):2015年2月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ジェットパイロット}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):寝坊ドンだー|BGCOLOR(grey):2015年4月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){パジャマ}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):史上最大級の肉食|BGCOLOR(grey):2015年5月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){ティラノサウルス}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ひやっとしますね|BGCOLOR(grey):2015年6月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){アイス}」を獲得|
@@ -608,12 +608,12 @@
 |〇|BGCOLOR(gold):|喫茶レインの常連さん|[[COLOR(blue):喫茶レイン>難易度表/おに/喫茶レイン]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|喫茶レインのマスター|[[COLOR(blue):喫茶レイン(裏)>難易度表/おに/喫茶レイン(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|たのしかったね|[[彁(裏)>難易度表/おに/彁(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|繋|[[COLOR(blue):弧>難易度表/おに/弧]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|パラレルリズム|[[COLOR(blue):パラレルロリポップ>難易度表/おに/パラレルロリポップ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|二重螺旋の真実に至りし者|[[COLOR(blue):Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|卵には醤油派|[[COLOR(blue):しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Challengers>難易度表/おに/Challengers]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):弧>難易度表/おに/弧]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Player's High>難易度表/おに/Player's High]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|

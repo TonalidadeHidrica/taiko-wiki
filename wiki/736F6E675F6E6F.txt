@@ -1131,7 +1131,7 @@
 |1022|[[ウィーアー！>難易度表/おに/ウィーアー！(初代)]]|BGCOLOR(hotpink):アニメ|weare0||
 |1023|[[DDU-DU DDU-DU>難易度表/おに/DDU-DU DDU-DU]]|BGCOLOR(cyan):ポップス|?||
 |1024|[[bad guy>難易度表/おに/bad guy]]|BGCOLOR(cyan):ポップス|?||
-|1025|非公開|BGCOLOR(#333):？？？|?||
+|1025|非公開|BGCOLOR(#333):|?||
 |1026|[[睡蓮花>難易度表/おに/睡蓮花]]|BGCOLOR(cyan):ポップス|?||
 |1027|[[夏祭り / ジッタリン・ジン >難易度表/おに/夏祭り ／ ジッタリン・ジン]]|BGCOLOR(cyan):ポップス|natsuj||
 |1028|[[群青>難易度表/おに/群青]]|BGCOLOR(cyan):ポップス|gunjou||
@@ -1182,7 +1182,7 @@
 |1073|[[スキスキ星人>難易度表/おに/スキスキ星人]]|BGCOLOR(cyan):ポップス|?||
 |1074|[[以後別做朋友 The Distance of Love>難易度表/おに/以後別做朋友 The Distance of Love]]|BGCOLOR(cyan):ポップス|?||
 |1075|[[Sugar>難易度表/おに/Sugar]]|BGCOLOR(cyan):ポップス|?||
-|1076|非公開|BGCOLOR(#333):？？？|?||
+|1076|非公開|BGCOLOR(cyan):ポップス|?||
 |1077|[[シンデレラ>難易度表/おに/シンデレラ]]|BGCOLOR(darkgray):ボカロ|?||
 |1078|[[ストロベリー☆プラネット！>難易度表/おに/ストロベリー☆プラネット！]]|BGCOLOR(cyan):ポップス|?||
 |1079|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|BGCOLOR(orangered):ナムオリ|20tftr||
@@ -1191,10 +1191,22 @@
 |1082|[[ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]|BGCOLOR(orangered):ナムオリ|bkov2||
 |1083|[[トンガチン>難易度表/おに/トンガチン]]|BGCOLOR(orangered):ナムオリ|tongat||
 |1084|[[喫茶レイン>難易度表/おに/喫茶レイン]]|BGCOLOR(orangered):ナムオリ|ksrain||
-|1085|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1085|[[弧>難易度表/おに/弧]]|BGCOLOR(orangered):ナムオリ|?||
 |1086|非公開|BGCOLOR(orangered):ナムオリ|?||
 |1087|[[Streamer>難易度表/おに/Streamer]]|BGCOLOR(cyan):ポップス|?||
 |1088|[[プロミスザスター>難易度表/おに/プロミスザスター]]|BGCOLOR(cyan):ポップス|?||
+|1089|非公開|BGCOLOR(cyan):ポップス|?||
+|1090|非公開|BGCOLOR(cyan):ポップス|?||
+|1091|非公開|BGCOLOR(#333):|?||
+|1092|非公開|BGCOLOR(darkgray):ボカロ|?||
+|1093|非公開|BGCOLOR(darkorchid):ゲーミュ|?||
+|1094|非公開|BGCOLOR(darkorchid):ゲーミュ|?||
+|1095|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1096|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1097|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1098|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1099|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1100|非公開|BGCOLOR(lime):バラエティ|?||
 
 **未確認 [#lostn]
 |>|>|>|CENTER:||c
