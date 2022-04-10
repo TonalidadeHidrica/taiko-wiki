@@ -5,8 +5,7 @@
 |CENTER:''AC10''|CENTER:★×4|CENTER:''235''|CENTER:''839060点''|CENTER:＋連打|CENTER:1090点|CENTER:280点|
 -BPMは70。
 --BPMが非常に遅いため、HSオプションを激しく推奨。
--大音符はないが大連打はある珍しい譜面。
---因みにこのような譜面は他に[[ドリルファイターゴーゴーDigDug>難易度表/おに/ドリルファイター ゴーゴーDigDug]]や[[Shooting Star>難易度表/おに/Shooting Star]]がある。
+-[[大音符は一つもない>太鼓ギネス/音符について#nobignoteoni]]が、大連打はある珍しい譜面。
 -アーティストは、[[''EXILE''>アーティスト別収録曲#exile]]。
 -曲IDは、''michi''
 
