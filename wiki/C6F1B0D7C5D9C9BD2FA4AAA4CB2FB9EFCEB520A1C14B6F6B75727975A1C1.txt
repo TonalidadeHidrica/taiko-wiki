@@ -44,6 +44,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~HS、小節線は暫定。
 ~&attachref(Kokuryu_5.png,nolink);
 
 ~111〜147小節目の拡大図(8倍)

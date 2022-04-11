@@ -30,7 +30,7 @@
 --見た目48分音符は、面だけである上にかなり詰まっているので非常に精度が取りにくい。
 ---太鼓の達人での見た目48分音符配置は''この譜面が史上初である''。
 --なお、亜州版ではスクロール速度は変化しない。
--ラス殺しが初見だとまず反応不可能なレベルなので、慣れるには下記の方法が有効である(90小節以降)。人によっては逆手始動が良い場合もある。
+-ラス殺しが初見だとまず反応不可能なレベルなので、慣れるには下記の通りに区切って認識する事が有効である(90小節以降)。人によっては逆手始動が良い場合もある。
 --譜面4つ区切り&br;89: COLOR(red){●●●●} / COLOR(blue){○○○○} / COLOR(red){●●●●} / COLOR(blue){○○○○}|
 &br;90: COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●●●}COLOR(blue){○} / COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●●●}COLOR(blue){○}|&br;91: COLOR(red){●}COLOR(blue){○○○} / COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○} / COLOR(red){●}COLOR(blue){○○○} / COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}|&br;92: COLOR(red){●}COLOR(blue){○○○} / COLOR(blue){○○○○} / COLOR(blue){○○○○} / COLOR(blue){○○○○}|
 //---入手:COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){○}COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}COLOR(red){●}COLOR(#fff){●}|COLOR(red){●}COLOR(#fff){●}COLOR(blue){●}COLOR(#fff){●}・・・
@@ -41,6 +41,7 @@
 --割れない風船＝連打のことかつ、風船1打の得点＝新基準の黄色連打3打分の得点となるため、結果かなりの連打曲である。
 ---旧筐体では、127万を超える事も可能でスコアルートの定番曲である。
 ---WiiとPSPDXでは、連打が速ければ''130万を超える事も可能''。Wii U2では、天井スコアが下がるものの127万を超える事は可能。風船なのでタイプAが有利だが、タイプAでは譜面の縁24分音符ラッシュを叩くことがかなり難しく、PSPDXで130万を超えることは至難の業。((WiiではタイプAのクラコンとタイプB固定のリモコンを併用することが可能。Wii U2ではGame&#80;adのタッチを利用可能。))
+---ニジイロ配点では風船1打の得点が黄色連打と同じ100点になったため、以前の作品より連打で得点を稼ぐ事が難しくなった。
 -1曲を通しての平均密度は、COLOR(red){''約8.93打/秒''}。
 --''旧基準最高密度''を誇り、AC12の初出から[[幽玄ノ乱>../幽玄ノ乱]]が登場するまで''5年6か月''、日数にして''2011日''もの間首位を貫いていた。今もなおトップクラスの高密度譜面として知られる。
 --平均密度1位の記録を保持していた期間は現在でも''歴代最長''である(([[Infinite Rebellion>../Infinite Rebellion]]が2023年2月19日まで平均密度1位をキープした場合、更新される見込みとなる))。
