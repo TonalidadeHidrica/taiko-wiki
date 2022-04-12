@@ -504,7 +504,7 @@
 --[[インディ・ジョーンズのテーマ>難易度表/おに/インディ・ジョーンズのテーマ]]
 --[[He's a Pirate>難易度表/おに/He's a Pirate]]
 --[[Star Wars: Main Title>難易度表/おに/Star Wars： Main Title]]
---[[Baby Shark(ののちゃん)>難易度表/おに/Baby Shark]]▲
+--[[Baby Shark>難易度表/おに/Baby Shark]]▲
 -クラシック
 --[[トルコ行進曲(ベートーヴェン)>難易度表/おに/トルコ行進曲]]
 -ゲームミュージック
