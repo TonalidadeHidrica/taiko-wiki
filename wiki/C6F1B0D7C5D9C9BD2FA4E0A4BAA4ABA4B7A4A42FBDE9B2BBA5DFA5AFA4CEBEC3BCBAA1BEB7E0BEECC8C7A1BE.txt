@@ -9,7 +9,7 @@
 |AC15.3.0|Wii U1DL&br;PS Vita1DL&br;PS4 1DL&br;NS1DL|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|~|~|~|~|
 ||PS Vita1亜DL|BGCOLOR(silver):''VOCALOID&br;樂曲''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1000300点''}|~|COLOR(#ff3300){1750点}|-|
-||iOS&br;AR|BGCOLOR(silver):''ボーカロ&br;イド&8482;曲''|~|~|''?????0点''|~|??0点|???点|
+||iOS&br;AR|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''?????0点''|~|420点|110点|
 |AC16.1.0||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''1001360点''|~|1860点|-|
 |~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|
 
