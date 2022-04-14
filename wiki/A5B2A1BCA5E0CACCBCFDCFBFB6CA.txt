@@ -9,7 +9,7 @@
 -凡例~
 ''背景がグレー(COLOR(silver){■})''・・・旧基準難易度の譜面~
 ''※''・・・細かなBPM変化がある~
-**バンダイナムコエンタテインメント（旧・ナムコ作品関連） [#bnei]
+**バンダイナムコエンターテインメント（旧・ナムコ作品関連） [#bnei]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
 |''相容れぬ念い''&br;　　SIZE(11){SCARLET NEXUS}|170|[[★×4>難易度表/かんたん/相容れぬ念い]]|[[★×5>難易度表/ふつう/相容れぬ念い]]|[[★×6>難易度表/むずかしい/相容れぬ念い]]|[[★×8>難易度表/おに/相容れぬ念い]]|-|
@@ -471,9 +471,10 @@
 |''スペランカー''((アイレム))|150.25|BGCOLOR(silver):[[★×4>難易度表/かんたん/スペランカー]]|BGCOLOR(silver):[[★×5>難易度表/ふつう/スペランカー]]|BGCOLOR(silver):[[★×7>難易度表/むずかしい/スペランカー]]|BGCOLOR(silver):[[★×8>難易度表/おに/スペランカー]]|BGCOLOR(silver):-|
 |''本日ハ晴天ナリ''&br;　　SIZE(11){Jリーグ ウイニングイレブン タクティクス}((コナミデジタルエンタテインメント))|186※|[[★×4>難易度表/かんたん/本日ハ晴天ナリ]]|[[★×4>難易度表/ふつう/本日ハ晴天ナリ]]|[[★×5>難易度表/むずかしい/本日ハ晴天ナリ]]|[[★×7>難易度表/おに/本日ハ晴天ナリ]]|-|
 |''妖怪ウォッチ2 元祖／本家／真打 BGMメドレー''((レベルファイブ))|97-140|[[★×2>難易度表/かんたん/妖怪ウォッチ2 元祖／本家／真打]]|[[★×3>難易度表/ふつう/妖怪ウォッチ2 元祖／本家／真打]]|[[★×6>難易度表/むずかしい/妖怪ウォッチ2 元祖／本家／真打]]|[[★×9>難易度表/おに/妖怪ウォッチ2 元祖／本家／真打]]|-|
+|''MANKAI☆開花宣言''&br;　　SIZE(11){A3！}((リベル・エンタテインメント))|172※|[[★×2>難易度表/かんたん/MANKAI☆開花宣言]]|[[★×4>難易度表/ふつう/MANKAI☆開花宣言]]|[[★×4>難易度表/むずかしい/MANKAI☆開花宣言]]|[[★×5>難易度表/おに/MANKAI☆開花宣言]]|-|
 
 **参考：アニメ作品に関連する曲 [#ex]
-***バンダイナムコエンタテインメント [#exnbgi]
+***バンダイナムコエンターテインメント [#exnbgi]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
 |[[''たまごっち！シリーズ''>アニメ別収録曲#tamago]]|-|-|-|-|-|-|
@@ -498,6 +499,11 @@
 |''1 ドリーム''&br;　　SIZE(11){ダンボール戦機}|131.5|[[★×2>難易度表/かんたん/1 ドリーム]]|[[★×3>難易度表/ふつう/1 ドリーム]]|[[★×3>難易度表/むずかしい/1 ドリーム]]|[[★×5>難易度表/おに/1 ドリーム]]|-|
 |[[''妖怪ウォッチシリーズ''>アニメ別収録曲#youkai]]|-|-|-|-|-|-|
 |''MOIL''&br;　　SIZE(11){二ノ国}|100|[[★×2>難易度表/かんたん/MOIL]]|[[★×2>難易度表/ふつう/MOIL]]|[[★×3>難易度表/むずかしい/MOIL]]|[[★×7>難易度表/おに/MOIL]]|-|
+
+***ブロッコリー [#exbrocco]
+||LEFT:60|>|>|>|>|CENTER:42|c
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
+|[[''うたの☆プリンスさまっ♪シリーズ''>アニメ別収録曲#utapri]]|-|-|-|-|-|-|
 
 ***5pb. (現・MAGES.) [#ex5pb]
 ||LEFT:60|>|>|>|>|CENTER:42|c
@@ -525,6 +531,11 @@
 |''GO''&br;　　SIZE(11){グランブルーファンタジー ジ・アニメーション}|130|[[★×2>難易度表/かんたん/GO]]|[[★×4>難易度表/ふつう/GO]]|[[★×5>難易度表/むずかしい/GO]]|[[★×7>難易度表/おに/GO]]|-|
 |''Make debut!''&br;　　SIZE(11){ウマ娘 プリティーダービー}|90-180|[[★×3>難易度表/かんたん/Make debut!]]|[[★×5>難易度表/ふつう/Make debut!]]|[[★×4>難易度表/むずかしい/Make debut!]]|[[★×7>難易度表/おに/Make debut!]]|-|
 
+***リベル・エンタテインメント [#exliber]
+||LEFT:60|>|>|>|>|CENTER:42|c
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
+|[[''A3！シリーズ''>アニメ別収録曲#utapri]]|-|-|-|-|-|-|
+
 ***アニプレックス [#exaniplex]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
@@ -538,15 +549,15 @@
 |''ラ・モレーナ・クモナイ''&br;　　SIZE(11){塊魂}|200※|[[★×4>難易度表/かんたん/ラ・モレーナ・クモナイ]]|[[★×5>難易度表/ふつう/ラ・モレーナ・クモナイ]]|[[★×7>難易度表/むずかしい/ラ・モレーナ・クモナイ]]|[[★×8>難易度表/おに/ラ・モレーナ・クモナイ]]|[[★×10>難易度表/おに/ラ・モレーナ・クモナイ(裏譜面)]]|
 |''わっふ〜音頭''&br;　　SIZE(11){風のクロノア}|150|BGCOLOR(silver):-|BGCOLOR(silver):[[★×3>難易度表/ふつう/わっふ〜音頭]]|BGCOLOR(silver):[[★×3>難易度表/むずかしい/わっふ〜音頭]]|BGCOLOR(silver):[[★×7>難易度表/おに/わっふ〜音頭]]|BGCOLOR(silver):-|
 
-**参考：GMTコラボで収録された曲 [#gmt]
-||LEFT:60|>|>|>|>|CENTER:42|c
+//**参考：GMTコラボで収録された曲 [#gmt]
+//||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
-|''電車で電車でGO!GO!GO!GC! - GMT remix -''&br;　　SIZE(11){電車でGO!}|134|[[★×4>難易度表/かんたん/電車で電車でGO!GO!GO!GC! -GMT remix-]]|[[★×5>難易度表/ふつう/電車で電車でGO!GO!GO!GC! -GMT remix-]]|[[★×6>難易度表/むずかしい/電車で電車でGO!GO!GO!GC! -GMT remix-]]|[[★×8>難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]|-|
-|''ファンタジーゾーン OPA-OPA! - GMT remix -''&br;　　SIZE(11){ファンタジーゾーン}|142|[[★×4>難易度表/かんたん/ファンタジーゾーン OPA-OPA! -GMT remix-]]|[[★×6>難易度表/ふつう/ファンタジーゾーン OPA-OPA! -GMT remix-]]|[[★×7>難易度表/むずかしい/ファンタジーゾーン OPA-OPA! -GMT remix-]]|[[★×7>難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]|-|
-|''RIDGE RACER STEPS - GMT remix -''&br;　　SIZE(11){RIDGE RACER}|240|[[★×4>難易度表/かんたん/RIDGE RACER STEPS -GMT remix-]]|[[★×6>難易度表/ふつう/RIDGE RACER STEPS -GMT remix-]]|[[★×7>難易度表/むずかしい/RIDGE RACER STEPS -GMT remix-]]|[[★×9>難易度表/おに/RIDGE RACER STEPS -GMT remix-]]|-|
-|''リッジでリッジでGO!GO!GO! - GMT mashup -''&br;　　SIZE(11){RIDGE RACER × 電車でGO!}|146|[[★×4>難易度表/かんたん/リッジでリッジで GO!GO!GO! -GMT mashup-]]|[[★×6>難易度表/ふつう/リッジでリッジで GO!GO!GO! -GMT mashup-]]|[[★×7>難易度表/むずかしい/リッジでリッジで GO!GO!GO! -GMT mashup-]]|[[★×9>難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]|-|
-|''電車で電車でOPA!OPA!OPA! - GMT mashup -''&br;　　SIZE(11){電車でGO! × ファンタジーゾーン}|134-268|[[★×4>難易度表/かんたん/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|[[★×6>難易度表/ふつう/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|[[★×7>難易度表/むずかしい/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|[[★×8>難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|-|
-|''オパ！オパ！RACER - GMT mashup -''&br;　　SIZE(11){ファンタジーゾーン × RIDGE RACER}|172|[[★×5>難易度表/かんたん/オパ！オパ！RACER -GMT mashup-]]|[[★×6>難易度表/ふつう/オパ！オパ！RACER -GMT mashup-]]|[[★×8>難易度表/むずかしい/オパ！オパ！RACER -GMT mashup-]]|[[★×9>難易度表/おに/オパ！オパ！RACER -GMT mashup-]]|-|
+//|''電車で電車でGO!GO!GO!GC! - GMT remix -''&br;　　SIZE(11){電車でGO!}|134|[[★×4>難易度表/かんたん/電車で電車でGO!GO!GO!GC! -GMT remix-]]|[[★×5>難易度表/ふつう/電車で電車でGO!GO!GO!GC! -GMT remix-]]|[[★×6>難易度表/むずかしい/電車で電車でGO!GO!GO!GC! -GMT remix-]]|[[★×8>難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]|-|
+//|''ファンタジーゾーン OPA-OPA! - GMT remix -''&br;　　SIZE(11){ファンタジーゾーン}|142|[[★×4>難易度表/かんたん/ファンタジーゾーン OPA-OPA! -GMT remix-]]|[[★×6>難易度表/ふつう/ファンタジーゾーン OPA-OPA! -GMT remix-]]|[[★×7>難易度表/むずかしい/ファンタジーゾーン OPA-OPA! -GMT remix-]]|[[★×7>難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]|-|
+//|''RIDGE RACER STEPS - GMT remix -''&br;　　SIZE(11){RIDGE RACER}|240|[[★×4>難易度表/かんたん/RIDGE RACER STEPS -GMT remix-]]|[[★×6>難易度表/ふつう/RIDGE RACER STEPS -GMT remix-]]|[[★×7>難易度表/むずかしい/RIDGE RACER STEPS -GMT remix-]]|[[★×9>難易度表/おに/RIDGE RACER STEPS -GMT remix-]]|-|
+//|''リッジでリッジでGO!GO!GO! - GMT mashup -''&br;　　SIZE(11){RIDGE RACER × 電車でGO!}|146|[[★×4>難易度表/かんたん/リッジでリッジで GO!GO!GO! -GMT mashup-]]|[[★×6>難易度表/ふつう/リッジでリッジで GO!GO!GO! -GMT mashup-]]|[[★×7>難易度表/むずかしい/リッジでリッジで GO!GO!GO! -GMT mashup-]]|[[★×9>難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]|-|
+//|''電車で電車でOPA!OPA!OPA! - GMT mashup -''&br;　　SIZE(11){電車でGO! × ファンタジーゾーン}|134-268|[[★×4>難易度表/かんたん/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|[[★×6>難易度表/ふつう/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|[[★×7>難易度表/むずかしい/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|[[★×8>難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]|-|
+//|''オパ！オパ！RACER - GMT mashup -''&br;　　SIZE(11){ファンタジーゾーン × RIDGE RACER}|172|[[★×5>難易度表/かんたん/オパ！オパ！RACER -GMT mashup-]]|[[★×6>難易度表/ふつう/オパ！オパ！RACER -GMT mashup-]]|[[★×8>難易度表/むずかしい/オパ！オパ！RACER -GMT mashup-]]|[[★×9>難易度表/おに/オパ！オパ！RACER -GMT mashup-]]|-|
 
 *コメント [#comment]
 #pcomment(,15,noname)

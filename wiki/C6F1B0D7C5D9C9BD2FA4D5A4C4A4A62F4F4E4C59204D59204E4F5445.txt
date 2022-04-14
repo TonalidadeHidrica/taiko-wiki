@@ -9,6 +9,8 @@
 |COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''958360点''}|~|COLOR(#ff3300){4040点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''982260点''|~|4980点|-|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 ||COLOR(blue){PS Vita MS}|BGCOLOR(#6699ff):''ONE FOR ALL''|★×5|''181''|''568410点''|~|780点|258点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''974690点''}|~|COLOR(#ff3300){4130点}|-|
 

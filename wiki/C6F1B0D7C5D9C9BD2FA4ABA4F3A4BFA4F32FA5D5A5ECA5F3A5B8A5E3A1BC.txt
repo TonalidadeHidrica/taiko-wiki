@@ -1,4 +1,5 @@
-*フレンジャー [#f4ea7eae]
+*フレンジャー [#title]
+-東芝「''MUSIC-HDD W41T''」CMソング。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -20,7 +21,7 @@
 -[[おに>難易度表/おに/フレンジャー]]
 -[[オート動画>https://www.youtube.com/watch?v=h84pVq_rxH8]]
 
-***コメント [#hf0781d1]
+***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
