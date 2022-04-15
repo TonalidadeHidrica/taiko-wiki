@@ -29,7 +29,6 @@
 |BGCOLOR(#ff7028):|[[うちゅうひこうし冒険譚>難易度表/おに/うちゅうひこうし冒険譚]]|-|しょご/野村渉悟|
 |BGCOLOR(#ff7028):|[[Emma>難易度表/おに/Emma]]|Risa Yuzuki|BlackY|
 |BGCOLOR(#ff7028):|[[オレサマパイレーツ>難易度表/おに/オレサマパイレーツ]]|-|大上昌子(増渕裕二)|
-|BGCOLOR(#ff7028):|[[ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]|ショウ君|AZUpubschool|
 |BGCOLOR(#ff7028):|[[和蘭撫子>難易度表/おに/和蘭撫子]]|飛鳥男&#8482;|飛鳥男&#8482;(野見★隆明)|
 |BGCOLOR(#ff7028):|[[傾奇者、罷り通る！>難易度表/おに/傾奇者、罷り通る！]]|かぼちゃ|かぼちゃ|
 |BGCOLOR(#ff7028):|[[絡繰廻廊>難易度表/おに/絡繰廻廊]]|-|はるなば|
@@ -191,6 +190,7 @@
 |BGCOLOR(#ff7028):|[[晨星ト鵺>難易度表/おに/晨星ト鵺]]|-|Silentroom|[[公式音源(YouTube)>https://www.youtube.com/watch?v=DGAE0rTLxVU]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|-|steμ|[[公式音源(YouTube)>https://www.youtube.com/watch?v=1NjMikod7fk]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|本木咲黒|kyo|[[公式音源(YouTube)>https://www.youtube.com/watch?v=MBF4wd4VtK0]]|ゲームSize|
+|BGCOLOR(#ff7028):|[[ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]|ショウ君|AZUpubschool|[[公式音源(YouTube)>https://www.youtube.com/watch?v=1-ngO8LpyrQ]]|ゲームSize|
 
 **収録されない可能性が高いもの [#possibility]
 |1|||||c

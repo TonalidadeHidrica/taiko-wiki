@@ -1,4 +1,5 @@
 *SEVENTH HEAVEN [#title]
+-日本テレビ系「''スポーツうるぐす''」2007年4・5月度テーマソング。
 ***詳細・攻略 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -14,7 +15,7 @@
 ***その他 [#other]
 -アーティストは[[DAYBREAK'S BELL>難易度表/おに/DAYBREAK'S BELL]]と同じ''L'Arc〜en〜Ciel''。
 --作詞・作曲は''hyde''、編曲は''L'Arc〜en〜Ciel''。
--曲IDは''sevent''。
+-曲IDは、''sevent''。
 ----
 -[[かんたん>難易度表/かんたん/SEVENTH HEAVEN]]
 -[[ふつう>難易度表/ふつう/SEVENTH HEAVEN]]

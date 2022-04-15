@@ -1,5 +1,5 @@
 *HOT LIMIT [#title]
--アサヒ飲料「"三ツ矢サイダー"」CMソング
+-アサヒ飲料「''三ツ矢サイダー''」CMソング。
 ***詳細 [#detail]
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC10''|CENTER:iOS|CENTER:★×6|CENTER:''216''|CENTER:''786670点''|CENTER:＋連打|CENTER:980点|CENTER:270点|

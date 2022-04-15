@@ -1,0 +1,24 @@
+*Cheerful Flyer [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC15&br;秋季例大祭('14)Ver.''|BGCOLOR(lime):''バラエティ''|★×8|''524''|''1054270点''|600点|160点|
+
+***譜面構成・攻略 [#capture]
+-BPMは250。
+
+***その他 [#other]
+-''博麗神社 秋季例大祭 (2014)''でプレイできた。((現在はプレイ不可))
+-曲IDは、''thcher''。
+
+----
+-[[かんたん>難易度表/かんたん/Cheerful Flyer]]
+-[[ふつう>難易度表/ふつう/Cheerful Flyer]]
+-[[むずかしい>難易度表/むずかしい/Cheerful Flyer]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(thcher_m.png,nolink);

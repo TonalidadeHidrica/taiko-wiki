@@ -1,6 +1,6 @@
 *SEVENTH HEAVEN [#title]
 ***詳細・攻略 [#more]
--日テレ系番組「''スポーツうるぐす''」テーマソング。
+--日本テレビ系「''スポーツうるぐす''」2007年4・5月度テーマソング。
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC10''|CENTER:★×5|CENTER:''317''|CENTER:''?????0点''|CENTER:＋連打|CENTER:650点|CENTER:170点|

@@ -25,6 +25,7 @@
 -作曲・編曲は、''[[AZUpubschool>https://twitter.com/azupubschool?lang=ja]]''(作曲家ユニットの[[KiWi>https://twitter.com/KiWi___official]]のうちの一人)。
 -企画・トラックダウン・音声作成編集・譜面作成は、[[''カワーゲン・コラーゲン''>譜面作成者一覧/カワーゲン・コラーゲン]]([[裏譜面>../ON SAY GO SAY(裏譜面)]]も担当)。
 -曲IDは、''onsayg''。
+-2022年4月20日のアップデートにて追加される「ごほうびザクザクキャンペーン」にてAC収録が決定した。
 
 ----
 -[[かんたん>難易度表/かんたん/ON SAY GO SAY]]
@@ -33,6 +34,7 @@
 -おに/[[裏譜面>../ON SAY GO SAY(裏譜面)]]
 -[[オート動画>https://www.youtube.com/watch?v=FElETxiRX_Q]]
 -[[公式歌詞(Twitter)>https://twitter.com/the_puh_/status/1147087421500264448?s=21]]
+-[[公式音源動画>https://youtu.be/1-ngO8LpyrQ]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
