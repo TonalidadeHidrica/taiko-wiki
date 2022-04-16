@@ -1,0 +1,24 @@
+*Help me, ERINNNNNN!! 小林幸子ver. [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15&br;秋季例大祭('15)Ver.''|BGCOLOR(lime):''バラエティ''|★×4|''171''|''539210点''|+連打|840点|275点|
+
+***譜面構成・攻略 [#capture]
+-BPMは約170。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Help me, ERINNNNNN!! 小林幸子ver.]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Help me, ERINNNNNN!! 小林幸子ver.]]/[[ビートまりおVer.>難易度表/かんたん/Help me, ERINNNNNN!!]]/[[CrankyVer.>難易度表/かんたん/Help me, ERINNNNNN!! -Cranky remix-]]
+-ふつう/[[ビートまりおVer.>難易度表/ふつう/Help me, ERINNNNNN!!]]/[[CrankyVer.>難易度表/ふつう/Help me, ERINNNNNN!! -Cranky remix-]]
+-[[むずかしい>難易度表/むずかしい/Help me, ERINNNNNN!! 小林幸子ver.]]/[[ビートまりおVer.>難易度表/むずかしい/Help me, ERINNNNNN!!]]/[[CrankyVer.>難易度表/むずかしい/Help me, ERINNNNNN!! -Cranky remix-]]
+-[[おに>難易度表/おに/Help me, ERINNNNNN!! 小林幸子ver.]]/[[ビートまりおVer.>難易度表/おに/Help me, ERINNNNNN!!]]/[[CrankyVer.>難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(zzoern_n.png,nolink);

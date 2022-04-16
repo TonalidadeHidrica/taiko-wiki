@@ -1192,7 +1192,7 @@
 |1083|[[トンガチン>難易度表/おに/トンガチン]]|BGCOLOR(orangered):ナムオリ|tongat||
 |1084|[[喫茶レイン>難易度表/おに/喫茶レイン]]|BGCOLOR(orangered):ナムオリ|ksrain||
 |1085|[[弧>難易度表/おに/弧]]|BGCOLOR(orangered):ナムオリ|?||
-|1086|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1086|[[Player's High>難易度表/おに/Player's High]]|BGCOLOR(orangered):ナムオリ|?||
 |1087|[[Streamer>難易度表/おに/Streamer]]|BGCOLOR(cyan):ポップス|?||
 |1088|[[プロミスザスター>難易度表/おに/プロミスザスター]]|BGCOLOR(cyan):ポップス|?||
 |1089|非公開|BGCOLOR(cyan):ポップス|?||

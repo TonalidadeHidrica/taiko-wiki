@@ -161,9 +161,9 @@
 
 |CENTER:|||>|>|>|CENTER:70|c
 |''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
-|BGCOLOR(lime):CENTER:''バラエティ''|''ムーンダスト''&br;　　SIZE(11){東方Projectアレンジ GET IN THE RING}|137|★×3|★×5|★×5|★×5|
-|~|''花月夜''&br;　　SIZE(11){東方Projectアレンジ Yonder Voice}|145|★×3|★×4|★×4|★×5|
-|~|''Cheerful Flyer''&br;　　SIZE(11){東方Projectアレンジ 十六神数}|250|★×4|★×6|★×6|★×8|
+|BGCOLOR(lime):CENTER:''バラエティ''|''ムーンダスト''&br;　　SIZE(11){東方Projectアレンジ GET IN THE RING}|137|[[★×3>難易度表/かんたん/ムーンダスト]]|[[★×5>難易度表/ふつう/ムーンダスト]]|[[★×5>難易度表/むずかしい/ムーンダスト]]|[[★×5>難易度表/おに/ムーンダスト]]|
+|~|''花月夜''&br;　　SIZE(11){東方Projectアレンジ Yonder Voice}|145|[[★×3>難易度表/かんたん/花月夜]]|[[★×4>難易度表/ふつう/花月夜]]|[[★×4>難易度表/むずかしい/花月夜]]|[[★×5>難易度表/おに/花月夜]]|
+|~|''Cheerful Flyer''&br;　　SIZE(11){東方Projectアレンジ 十六神数}|250|[[★×4>難易度表/かんたん/Cheerful Flyer]]|[[★×6>難易度表/ふつう/Cheerful Flyer]]|[[★×6>難易度表/むずかしい/Cheerful Flyer]]|[[★×8>難易度表/おに/Cheerful Flyer]]|
 
 **大晦日ファイナルクエスト！ 〜自宅を警備するのは君だ〜 [#finalquest]
 -2014/12/31 〜 2015/1/1にかけて放送された際に登場した特別バージョン。
@@ -184,7 +184,7 @@
 
 |CENTER:|||>|>|>|CENTER:70|c
 |''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
-|BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! 小林幸子ver.''&br;　　SIZE(11){東方Projectアレンジ ビートまりお}|170|★×3|★×4|★×5|★×6|
+|BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! 小林幸子ver.''&br;　　SIZE(11){東方Projectアレンジ ビートまりお}|170※|[[★×3>難易度表/かんたん/Help me, ERINNNNNN!! 小林幸子ver.]]|[[★×4>難易度表/ふつう/Help me, ERINNNNNN!! 小林幸子ver.]]|[[★×5>難易度表/むずかしい/Help me, ERINNNNNN!! 小林幸子ver.]]|[[★×6>難易度表/おに/Help me, ERINNNNNN!! 小林幸子ver.]]|
 
 **ぐらぶるちゃんねるっ！生放送 よろず屋シェロ 〜ルリアさんには見せられない大人のクリスマス〜編 [#grbl]
 -2015/12/25に放送された際に登場した特別バージョン。

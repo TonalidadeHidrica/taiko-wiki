@@ -11,10 +11,10 @@
 -楽曲情報は[[おに譜面>難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]を参照。
 
 ----
--かんたん/[[アレンジ元>難易度表/かんたん/Help me, ERINNNNNN!!]]
--[[ふつう>難易度表/ふつう/Help me, ERINNNNNN!! -Cranky remix-]]/[[アレンジ元>難易度表/ふつう/Help me, ERINNNNNN!!]]
--[[むずかしい>難易度表/むずかしい/Help me, ERINNNNNN!! -Cranky remix-]]/[[アレンジ元>難易度表/むずかしい/Help me, ERINNNNNN!!]]
--[[おに>難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]/[[アレンジ元>難易度表/おに/Help me, ERINNNNNN!!]]
+-かんたん/[[ビートまりおVer.>難易度表/かんたん/Help me, ERINNNNNN!!]]/[[小林幸子Ver.>難易度表/かんたん/Help me, ERINNNNNN!! 小林幸子ver.]]
+-[[ふつう>難易度表/ふつう/Help me, ERINNNNNN!! -Cranky remix-]]/[[ビートまりおVer.>難易度表/ふつう/Help me, ERINNNNNN!!]]/[[小林幸子Ver.>難易度表/ふつう/Help me, ERINNNNNN!! 小林幸子ver.]]
+-[[むずかしい>難易度表/むずかしい/Help me, ERINNNNNN!! -Cranky remix-]]/[[ビートまりおVer.>難易度表/むずかしい/Help me, ERINNNNNN!!]]/[[小林幸子Ver.>難易度表/むずかしい/Help me, ERINNNNNN!! 小林幸子ver.]]
+-[[おに>難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]/[[ビートまりおVer.>難易度表/おに/Help me, ERINNNNNN!!]]/[[小林幸子Ver.>難易度表/おに/Help me, ERINNNNNN!! 小林幸子ver.]]
 
 ***コメント [#comment]
 #pcomment(,noname)

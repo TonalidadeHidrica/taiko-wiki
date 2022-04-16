@@ -1485,6 +1485,14 @@
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''|
 |''ハグしちゃお''|136|[[★×2>難易度表/かんたん/ハグしちゃお]]|[[★×2>難易度表/ふつう/ハグしちゃお]]|[[★×4>難易度表/むずかしい/ハグしちゃお]]|[[★×7>難易度表/おに/ハグしちゃお]]|
 
+***Nana Takahashi (2曲) [#sh]
+||68|>|>|>|CENTER:64|c
+|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|>|>|>|>|>|BGCOLOR(lime):''バラエティ''|
+|''Grip & Break down !! -達人Edit.-''|160※|[[★×4>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]|[[★×5>難易度表/ふつう/Grip ＆ Break down !! -達人Edit.-]]|[[★×5>難易度表/むずかしい/Grip ＆ Break down !! -達人Edit.-]]|[[★×7>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]|
+|~|~|-|-|-|[[★×9>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]|
+|''サイケデリック鬼桜同盟''((例大祭11限定収録曲))|160|★×3|★×5|★×7|★×9|
+
 ***南條愛乃 (5曲) [#nanjo]
 ||68|>|>|>|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h

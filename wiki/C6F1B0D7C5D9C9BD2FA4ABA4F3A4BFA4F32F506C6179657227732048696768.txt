@@ -1,0 +1,24 @@
+*Player's High [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.0''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''131''|''?????70点''|＋連打|???0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは255。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/Player's High]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/Player's High]]
+-[[むずかしい>難易度表/むずかしい/Player's High]]
+-[[おに>難易度表/おに/Player's High]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(PH_e.png,nolink);
