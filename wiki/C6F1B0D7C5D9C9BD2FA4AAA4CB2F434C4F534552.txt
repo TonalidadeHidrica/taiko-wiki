@@ -13,13 +13,14 @@
 
 ***その他 [#other]
 -アーティストは、''井上ジョー''。
+-曲IDは、''closer''。
 
 ----
 -[[かんたん>難易度表/かんたん/CLOSER]]
 -[[ふつう>難易度表/ふつう/CLOSER]]
 -[[むずかしい>難易度表/むずかしい/CLOSER]]
--[[プレイ動画>https://www.nicovideo.jp/watch/sm8441935]](ニコニコ)
--[[プレイ動画>https://www.youtube.com/watch?v=YTsicUVRAqg]](Youtube)
+-[[プレイ動画(ニコニコ)>https://www.nicovideo.jp/watch/sm8441935]]
+-[[プレイ動画(Youtube)>https://www.youtube.com/watch?v=YTsicUVRAqg]]
 
 ***コメント [#comment]
 #pcomment(,noname)

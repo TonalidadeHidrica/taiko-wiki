@@ -41,7 +41,7 @@
 -[[むずかしい>難易度表/むずかしい/ANTI-HERO]]
 -[[おに>../ANTI-HERO]]/裏譜面
 -[[オート動画(Wii U3)>https://youtu.be/Pe6pFWvweKE]]((ミュート対策のためピッチが上げられている))
--[[オート動画(niconico)>http://sp.nicovideo.jp/watch/sm33971683?from=578]]((ピッチ弄り無し))
+-[[オート動画(niconico)>https://nico.ms/sm33971683]]((ピッチ弄り無し))
 
 ***コメント [#comment]
 #pcomment(,noname)

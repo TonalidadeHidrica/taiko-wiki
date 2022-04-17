@@ -24,7 +24,7 @@
 -[[かんたん>難易度表/かんたん/ないものねだり]]
 -[[ふつう>難易度表/ふつう/ないものねだり]]
 -[[むずかしい>難易度表/むずかしい/ないものねだり]]
--[[オート動画(niconico)>http://sp.nicovideo.jp/watch/sm37890344?from=477]]
+-[[オート動画(niconico)>https://nico.ms/sm37890344]]
 
 ***コメント [#comment]
 #pcomment(,noname)

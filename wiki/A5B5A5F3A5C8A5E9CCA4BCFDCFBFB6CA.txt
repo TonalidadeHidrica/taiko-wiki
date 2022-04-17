@@ -1,5 +1,5 @@
 *サウンドトラック未収録曲 [#title]
--ナムコオリジナル、BNSI((BANDAI NAMCO Studios Inc.))がアレンジしたクラシックやゲームミュージックなどの中で、サウンドトラックに収録されていないものをまとめました。
+-ナムコオリジナル、BNSI((BANDAI NAMCO Studios Inc.))が関わったクラシックやゲームミュージックなどの中で、サウンドトラックに収録されていないものをまとめました。
 --版権曲は含みません。
 
 #contents
@@ -137,6 +137,7 @@
 |~|~|~|~|[[公式音源(YouTube)>https://www.youtube.com/watch?v=nhoFQS8N3_s]]|~|
 |BGCOLOR(#ff7028):|[[カラフルボイス>難易度表/おに/カラフルボイス]]|初音ミク、GUMI|cosMo＠暴走P|ゴシップの海|ゲームSize|
 |~|~|~|~|[[公式MV(YouTube)>https://www.youtube.com/watch?v=Pn8xZq-CJjQ]]|~|
+|BGCOLOR(#ff7028):|[[ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]|ショウ君|AZUpubschool|[[公式音源(YouTube)>https://www.youtube.com/watch?v=1-ngO8LpyrQ]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[142トキノワタリドリ>難易度表/おに/142トキノワタリドリ]]|isao、すずきあすか|翡翠|C-VALKYLUNA2|ゲームSize|
 |BGCOLOR(#ff7028):|[[コネクトカラーズ>難易度表/おに/コネクトカラーズ]]|はぁち|Ponchi♪|シングル|ゲームSize|
 |~|~|~|~|[[公式MV(YouTube)>https://www.youtube.com/watch?v=nCHbhptQpCI]]|~|
@@ -190,7 +191,8 @@
 |BGCOLOR(#ff7028):|[[晨星ト鵺>難易度表/おに/晨星ト鵺]]|-|Silentroom|[[公式音源(YouTube)>https://www.youtube.com/watch?v=DGAE0rTLxVU]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|-|steμ|[[公式音源(YouTube)>https://www.youtube.com/watch?v=1NjMikod7fk]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|本木咲黒|kyo|[[公式音源(YouTube)>https://www.youtube.com/watch?v=MBF4wd4VtK0]]|ゲームSize|
-|BGCOLOR(#ff7028):|[[ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]|ショウ君|AZUpubschool|[[公式音源(YouTube)>https://www.youtube.com/watch?v=1-ngO8LpyrQ]]|ゲームSize|
+|BGCOLOR(#ff7028):|[[弧>難易度表/おに/弧]]|-|概念|[[公式音源(YouTube)>https://www.youtube.com/watch?v=QdeLIgKO46A]]|ゲームSize|
+|BGCOLOR(#ff7028):|[[Player's High>難易度表/おに/Player's High]]|-|K.Key|[[公式音源(YouTube)>https://www.youtube.com/watch?v=11D6EMN7u98]]|ゲームSize|
 
 **収録されない可能性が高いもの [#possibility]
 |1|||||c

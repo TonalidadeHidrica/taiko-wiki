@@ -1,5 +1,6 @@
 *Rising Sun [#title]
 ***詳細・攻略 [#more]
+-東日本大震災 復興支援チャリティーソング。
 -詳細は以下の通り：
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC15.1.2''〜AC15.8.7|CENTER:★×3|CENTER:''121''|CENTER:''328990点''|CENTER:＋連打|CENTER:740点|CENTER:338点|
