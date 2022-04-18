@@ -79,7 +79,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(幕末維新譚_4.png,nolink);
+~&attachref(ba9ma2_m.png,nolink);
 
 ~見た目重視
 ~&attachref(幕末維新譚_見た目2.png,nolink);
