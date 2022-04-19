@@ -46,7 +46,7 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(20t765_x0_2.png,nolink);
+~&attachref(20t765_x0_2f.png,nolink);
 ~74¡Á134¾®Àá¤Î³ÈÂç¿Ş&aname(HS);
 ~&attachref(20t765_x_74-134.png,nolink);
 ~241¡Á256¾®Àá¤Î³ÈÂç¿Ş

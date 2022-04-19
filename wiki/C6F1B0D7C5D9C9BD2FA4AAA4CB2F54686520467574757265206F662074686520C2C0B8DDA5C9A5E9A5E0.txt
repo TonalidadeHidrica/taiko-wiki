@@ -74,4 +74,4 @@
 
 ***ÉèÌÌ [#score]
 ~HS¤Ï[[Î¢ÉèÌÌ>../The Future of the ÂÀ¸İ¥É¥é¥à(Î¢ÉèÌÌ)#HS]]¤ò»²¾È
-~&attachref(20t765_m0.png,nolink);
+~&attachref(20t765_m0_f.png,nolink);

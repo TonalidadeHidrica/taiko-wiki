@@ -24,6 +24,8 @@
 ***その他 [#other]
 -アーティストは、[[''ナカマオト''>https://twitter.com/mntkmntk]]。
 -[[夜桜謝肉祭>../夜桜謝肉祭]]や[[Garakuta Doll Play>../Garakuta Doll Play]]のような裏譜面の方が★が多いかつノーツが少ない曲である。
+-表譜面と[[裏譜面>../チキンレース(裏譜面)]]で内部的な小節数が異なる珍しい譜面である。
+--表譜面の小節数は''290''(([[こちらの譜面画像>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=chrace_m0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A5%C1%A5%AD%A5%F3%A5%EC%A1%BC%A5%B9]]を参照))、裏譜面の小節数は''298''(([[こちらの譜面画像>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=chrace_xm0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A5%C1%A5%AD%A5%F3%A5%EC%A1%BC%A5%B9%28%CE%A2%C9%E8%CC%CC%29]]を参照))となっている。
 -曲IDは、''chrace''。
 
 ----

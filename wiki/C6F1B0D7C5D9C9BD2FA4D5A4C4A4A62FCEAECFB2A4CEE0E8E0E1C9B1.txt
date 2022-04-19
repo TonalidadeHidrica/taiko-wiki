@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(流浪の琥珀姫（ふつう）.png,nolink);
+~&attachref(589him_n.png,nolink);

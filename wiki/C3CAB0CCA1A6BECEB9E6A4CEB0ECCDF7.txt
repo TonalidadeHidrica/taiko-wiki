@@ -615,6 +615,13 @@
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|卵には醤油派|[[COLOR(blue):しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Challengers>難易度表/おに/Challengers]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):まおぅ>難易度表/おに/まおぅ]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):ねこくじら>難易度表/おに/ねこくじら]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):ねこくじら(裏)>難易度表/おに/ねこくじら(裏譜面)]]をフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):ON SAY GO SAY(裏)>難易度表/おに/ON SAY GO SAY(裏譜面)]]をフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
