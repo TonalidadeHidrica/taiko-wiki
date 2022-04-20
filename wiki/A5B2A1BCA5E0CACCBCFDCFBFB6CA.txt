@@ -457,7 +457,7 @@
 |''キレキャリオン''|170|[[★×2>難易度表/かんたん/キレキャリオン]]|[[★×3>難易度表/ふつう/キレキャリオン]]|[[★×4>難易度表/むずかしい/キレキャリオン]]|[[★×8>難易度表/おに/キレキャリオン]]|-|
 
 **Toby Fox((インディーズ)) [#tobyfox]
-***UNDERTALE [#undertale]
+***UNDERTALE((日本語版販売はハチノヨン)) [#undertale]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
 |''MEGALOVANIA''|240|[[★×4>難易度表/かんたん/MEGALOVANIA]]|[[★×5>難易度表/ふつう/MEGALOVANIA]]|[[★×7>難易度表/むずかしい/MEGALOVANIA]]|[[★×9>難易度表/おに/MEGALOVANIA]]|-|
@@ -472,6 +472,7 @@
 |''本日ハ晴天ナリ''&br;　　SIZE(11){Jリーグ ウイニングイレブン タクティクス}((コナミデジタルエンタテインメント))|186※|[[★×4>難易度表/かんたん/本日ハ晴天ナリ]]|[[★×4>難易度表/ふつう/本日ハ晴天ナリ]]|[[★×5>難易度表/むずかしい/本日ハ晴天ナリ]]|[[★×7>難易度表/おに/本日ハ晴天ナリ]]|-|
 |''妖怪ウォッチ2 元祖／本家／真打 BGMメドレー''((レベルファイブ))|97-140|[[★×2>難易度表/かんたん/妖怪ウォッチ2 元祖／本家／真打]]|[[★×3>難易度表/ふつう/妖怪ウォッチ2 元祖／本家／真打]]|[[★×6>難易度表/むずかしい/妖怪ウォッチ2 元祖／本家／真打]]|[[★×9>難易度表/おに/妖怪ウォッチ2 元祖／本家／真打]]|-|
 |''MANKAI☆開花宣言''&br;　　SIZE(11){A3！}((リベル・エンタテインメント))|172※|[[★×2>難易度表/かんたん/MANKAI☆開花宣言]]|[[★×4>難易度表/ふつう/MANKAI☆開花宣言]]|[[★×4>難易度表/むずかしい/MANKAI☆開花宣言]]|[[★×5>難易度表/おに/MANKAI☆開花宣言]]|-|
+|''Lunar Maria''&br;　　SIZE(11){神々の悪戯}((ブロッコリー))|136|[[★×3>難易度表/かんたん/Lunar Maria]]|[[★×4>難易度表/ふつう/Lunar Maria]]|[[★×5>難易度表/むずかしい/Lunar Maria]]|[[★×6>難易度表/おに/Lunar Maria]]|[[★×8>難易度表/おに/Lunar Maria(裏譜面)]]|
 
 **参考：アニメ作品に関連する曲 [#ex]
 ***バンダイナムコエンターテインメント [#exnbgi]
@@ -500,15 +501,15 @@
 |[[''妖怪ウォッチシリーズ''>アニメ別収録曲#youkai]]|-|-|-|-|-|-|
 |''MOIL''&br;　　SIZE(11){二ノ国}|100|[[★×2>難易度表/かんたん/MOIL]]|[[★×2>難易度表/ふつう/MOIL]]|[[★×3>難易度表/むずかしい/MOIL]]|[[★×7>難易度表/おに/MOIL]]|-|
 
-***ブロッコリー [#exbrocco]
-||LEFT:60|>|>|>|>|CENTER:42|c
-|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
-|[[''うたの☆プリンスさまっ♪シリーズ''>アニメ別収録曲#utapri]]|-|-|-|-|-|-|
-
 ***5pb. (現・MAGES.) [#ex5pb]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
 |''Hacking to the Gate''&br;　　SIZE(11){シュタインズ・ゲート}|161|[[★×2>難易度表/かんたん/Hacking to the Gate]]|[[★×2>難易度表/ふつう/Hacking to the Gate]]|[[★×3>難易度表/むずかしい/Hacking to the Gate]]|[[★×6>難易度表/おに/Hacking to the Gate]]|-|
+
+***ブロッコリー [#exbrocco]
+||LEFT:60|>|>|>|>|CENTER:42|c
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
+|[[''うたの☆プリンスさまっ♪シリーズ''>アニメ別収録曲#utapri]]|-|-|-|-|-|-|
 
 ***TYPE-MOON [#exmoon]
 ||LEFT:60|>|>|>|>|CENTER:42|c
@@ -551,7 +552,7 @@
 
 //**参考：GMTコラボで収録された曲 [#gmt]
 //||LEFT:60|>|>|>|>|CENTER:42|c
-|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
+//|''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
 //|''電車で電車でGO!GO!GO!GC! - GMT remix -''&br;　　SIZE(11){電車でGO!}|134|[[★×4>難易度表/かんたん/電車で電車でGO!GO!GO!GC! -GMT remix-]]|[[★×5>難易度表/ふつう/電車で電車でGO!GO!GO!GC! -GMT remix-]]|[[★×6>難易度表/むずかしい/電車で電車でGO!GO!GO!GC! -GMT remix-]]|[[★×8>難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]|-|
 //|''ファンタジーゾーン OPA-OPA! - GMT remix -''&br;　　SIZE(11){ファンタジーゾーン}|142|[[★×4>難易度表/かんたん/ファンタジーゾーン OPA-OPA! -GMT remix-]]|[[★×6>難易度表/ふつう/ファンタジーゾーン OPA-OPA! -GMT remix-]]|[[★×7>難易度表/むずかしい/ファンタジーゾーン OPA-OPA! -GMT remix-]]|[[★×7>難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]|-|
 //|''RIDGE RACER STEPS - GMT remix -''&br;　　SIZE(11){RIDGE RACER}|240|[[★×4>難易度表/かんたん/RIDGE RACER STEPS -GMT remix-]]|[[★×6>難易度表/ふつう/RIDGE RACER STEPS -GMT remix-]]|[[★×7>難易度表/むずかしい/RIDGE RACER STEPS -GMT remix-]]|[[★×9>難易度表/おに/RIDGE RACER STEPS -GMT remix-]]|-|

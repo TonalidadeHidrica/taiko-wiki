@@ -123,6 +123,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.000未満''|
 |>|BGCOLOR(goldenrod):|BGCOLOR(orangered):|[[亡き王女のためのパヴァーヌ>難易度表/おに/亡き王女のためのパヴァーヌ]]|''2.965''|135.99※|382|128.83秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[GOIN’!!!>難易度表/おに/GOIN’!!!]]|''2.958''|178|345|116.63秒||
+|>|>|BGCOLOR(darkorchid):|[[Lunar Maria>難易度表/おに/Lunar Maria]]|''2.842''|136|289|101.69秒||
 |BGCOLOR(orange):|BGCOLOR(hotpink): |BGCOLOR(cyan):|[[ハルウタ>難易度表/おに/ハルウタ]]|''2.712''|138.17※|272|100.31秒||
 |>|>|BGCOLOR(darkorchid):|[[キミとボクのミライ>難易度表/おに/キミとボクのミライ]]|''2.656''|178.01※|291|109.54秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''2.500未満''|

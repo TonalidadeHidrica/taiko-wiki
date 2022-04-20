@@ -1195,16 +1195,16 @@
 |1086|[[Player's High>難易度表/おに/Player's High]]|BGCOLOR(orangered):ナムオリ|?||
 |1087|[[Streamer>難易度表/おに/Streamer]]|BGCOLOR(cyan):ポップス|?||
 |1088|[[プロミスザスター>難易度表/おに/プロミスザスター]]|BGCOLOR(cyan):ポップス|?||
-|1089|非公開|BGCOLOR(cyan):ポップス|?||
-|1090|非公開|BGCOLOR(cyan):ポップス|?||
+|1089|[[阿修羅ちゃん>難易度表/おに/阿修羅ちゃん]]|BGCOLOR(cyan):ポップス|?||
+|1090|[[ドライフラワー>難易度表/おに/ドライフラワー]]|BGCOLOR(cyan):ポップス|dryflw||
 |1091|非公開|BGCOLOR(#333):|?||
-|1092|非公開|BGCOLOR(darkgray):ボカロ|?||
-|1093|非公開|BGCOLOR(darkorchid):ゲーミュ|?||
-|1094|非公開|BGCOLOR(darkorchid):ゲーミュ|?||
-|1095|非公開|BGCOLOR(orangered):ナムオリ|?||
-|1096|非公開|BGCOLOR(orangered):ナムオリ|?||
-|1097|非公開|BGCOLOR(orangered):ナムオリ|?||
-|1098|非公開|BGCOLOR(orangered):ナムオリ|?||
+|1092|[[アニマル>難易度表/おに/アニマル]]|BGCOLOR(darkgray):ボカロ|?||
+|1093|[[Lunar Maria>難易度表/おに/Lunar Maria]]|BGCOLOR(darkorchid):ゲーミュ|?||
+|1094|[[Racing the Storm>難易度表/おに/Racing the Storm]]|BGCOLOR(darkorchid):ゲーミュ|crtrcs||
+|1095|[[まおぅ>難易度表/おに/まおぅ]]|BGCOLOR(orangered):ナムオリ|clsmao||
+|1096|[[ねこくじら>難易度表/おに/ねこくじら]]|BGCOLOR(orangered):ナムオリ|neko||
+|1097|[[ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]|BGCOLOR(orangered):ナムオリ|onsayg||
+|1098|[[SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]|BGCOLOR(orangered):ナムオリ|cosmb||
 |1099|非公開|BGCOLOR(orangered):ナムオリ|?||
 |1100|非公開|BGCOLOR(lime):バラエティ|?||
 

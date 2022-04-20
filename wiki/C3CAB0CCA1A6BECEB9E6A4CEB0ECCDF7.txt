@@ -28,11 +28,11 @@
 -[[段位道場]]
 
 
-***ニジイロVer.24.08 [#newac]
+***ニジイロVer.25.13 [#newac]
 -称号はドンだーひろばのごほうび一覧の順に載せており、順番が確定しているものには「〇」を付けています。「〇」が付いていないものはまだ順番があやふやなので、確認でき次第編集をお願いします。
 
--表の背景が灰色(COLOR(grey){■})の称号は存在はしているが、Ver.24.08現在''獲得不可能''な条件の称号であることを表す。
--表の背景がグレー(COLOR(silver){■})の称号は存在はしているが、Ver.24.08現在''一時獲得不可能''な条件の称号であることを表す。
+-表の背景が灰色(COLOR(grey){■})の称号は存在はしているが、Ver.25.13現在''獲得不可能''な条件の称号であることを表す。
+-表の背景がグレー(COLOR(silver){■})の称号は存在はしているが、Ver.25.13現在''一時獲得不可能''な条件の称号であることを表す。
 
 |CENTER:||160||||c
 |CENTER:順番|CENTER:色|CENTER:称号|CENTER:獲得条件|CENTER:備考＆ご褒美|h
@@ -610,17 +610,13 @@
 |〇|BGCOLOR(gold):|たのしかったね|[[彁(裏)>難易度表/おに/彁(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|繋|[[COLOR(blue):弧>難易度表/おに/弧]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|極致を目指す者|[[COLOR(blue):Player's High>難易度表/おに/Player's High]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|さて帰宅しよ。|[[COLOR(blue):ねこくじら(裏)>難易度表/おに/ねこくじら(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|息継ぎなしで叩けマース！|[[COLOR(blue):ON SAY GO SAY(裏)>難易度表/おに/ON SAY GO SAY(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|パラレルリズム|[[COLOR(blue):パラレルロリポップ>難易度表/おに/パラレルロリポップ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|二重螺旋の真実に至りし者|[[COLOR(blue):Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|卵には醤油派|[[COLOR(blue):しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Challengers>難易度表/おに/Challengers]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):まおぅ>難易度表/おに/まおぅ]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):ねこくじら>難易度表/おに/ねこくじら]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):ねこくじら(裏)>難易度表/おに/ねこくじら(裏譜面)]]をフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):ON SAY GO SAY(裏)>難易度表/おに/ON SAY GO SAY(裏譜面)]]をフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
