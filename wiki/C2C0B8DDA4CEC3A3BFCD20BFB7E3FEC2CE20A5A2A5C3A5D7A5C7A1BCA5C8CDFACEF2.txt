@@ -34,7 +34,7 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V24.08)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''プロミスザスター''>難易度表/おに/プロミスザスター]]／[[''(裏譜面)''>難易度表/おに/プロミスザスター(裏譜面)]]|BiSH|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''プロミスザスター''>難易度表/おに/プロミスザスター]]／[[''(裏譜面)''>難易度表/おに/プロミスザスター(裏譜面)]]|BiSH|
 |~|COLOR(red):''新''|[[''Streamer''>難易度表/おに/Streamer]]|すとぷり / ツイキャス&br;「ふるふるふるーつキャンペーン」キャンペーンソング|
 
 -[[liveDevil>難易度表/おに/liveDevil]]に称号ときせかえが追加された。
@@ -42,7 +42,7 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''3/17配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''めためた☆ゆにば〜すっ！''>難易度表/おに/めためた☆ゆにば〜すっ！]]|kyo(BNSI)×Mitsu(TRYTONELABO) feat. 本木咲黒|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''めためた☆ゆにば〜すっ！''>難易度表/おに/めためた☆ゆにば〜すっ！]]|kyo(BNSI)×Mitsu(TRYTONELABO) feat. 本木咲黒|
 |~|COLOR(orange):''再''|[[''ラブユー☆どんちゃん''>難易度表/おに/ラブユー☆どんちゃん]]||
 |~|COLOR(blue):''初''|[[''ラブユー☆どんちゃん(裏譜面)''>難易度表/おに/ラブユー☆どんちゃん(裏譜面)]]|~|
 |~|COLOR(blue):''初''|[[''トンガチン''>難易度表/おに/トンガチン]]|Kimitaka Matsumae|
@@ -53,45 +53,45 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''3/26配信曲''|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''Sugar''>難易度表/おに/Sugar]]||
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''Sugar''>難易度表/おに/Sugar]]||
 |~|COLOR(red):''新''|[[''以後別做朋友 The Distance of Love''>難易度表/おに/以後別做朋友 The Distance of Love]]||
 
 |CENTER:100|CENTER:50||c
 |>|>|CENTER:''4/1~4/30限定配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(orange):''再''|[[''【限定】 Nesin Amatias''>難易度表/おに/Nesin Amatias]]|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(orange):''再''|[[''【限定】 Nesin Amatias''>難易度表/おに/Nesin Amatias]]|
 |~|COLOR(orange):''再''|[[''【限定】 よくでる15300''>難易度表/おに/よくでる15300]]|
 |~|COLOR(orange):''再''|[[''【限定】 黄ダルマ2000''>難易度表/おに/黄ダルマ2000]]|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/1配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''彁(裏譜面)''>難易度表/おに/彁(裏譜面)]]|LeaF|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''彁(裏譜面)''>難易度表/おに/彁(裏譜面)]]|LeaF|
 
 -2022年4月1日に[[公開されたQRコード>https://twitter.com/taiko_team/status/1509697054313881600]]をコードリーダーで読み込むことで、この楽曲の入ったフォルダ「''２たーでつぼ''」が登場する。
 --エイプリルフールネタだが、現時点((2022年4月1日時点))でQRコードは無期限で使用可能とされている。なお、一度本曲を遊ぶと常駐解禁となり、QRコードは不要になる。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/9配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''弧''>難易度表/おに/弧]]|概念|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''弧''>難易度表/おに/弧]]|概念|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/16配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Player's High''>難易度表/おに/Player's High]]|K.key|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Player's High''>難易度表/おに/Player's High]]|K.key|
 
 -2022/3/24 7:00をもって、以下の2曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V24.08)|h
-|BGCOLOR(cyan):''ポップス''|[[''アンビバレント''>難易度表/おに/アンビバレント]]||
-|BGCOLOR(yellow):''キッズ''|[[''ヒーリングっど&#9829;プリキュア Touch!!''>難易度表/おに/ヒーリングっど・プリキュア Touch!!]]||
+|BGCOLOR(#49d5eb):''ポップス''|[[''アンビバレント''>難易度表/おに/アンビバレント]]||
+|BGCOLOR(#fdc000):''キッズ''|[[''ヒーリングっど&#9829;プリキュア Touch!!''>難易度表/おに/ヒーリングっど・プリキュア Touch!!]]||
 
 **第135回アップデート GAME VERSION:25.13(2022/4/20実施) [#update135]
 -楽曲配信110。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V25.13)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''阿修羅ちゃん''>難易度表/おに/阿修羅ちゃん]]|Ado|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''阿修羅ちゃん''>難易度表/おに/阿修羅ちゃん]]|Ado|
 |~|COLOR(blue):''初''|[[''ドライフラワー''>難易度表/おに/ドライフラワー]]||
-|BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''アニマル''>難易度表/おに/アニマル]]|DECO*27 feat. 初音ミク|
-|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''Lunar Maria''>難易度表/おに/Lunar Maria]]／[[''(裏譜面)''>難易度表/おに/Lunar Maria(裏譜面)]]|「神々の悪戯」より|
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''アニマル''>難易度表/おに/アニマル]]|DECO*27 feat. 初音ミク|
+|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''Lunar Maria''>難易度表/おに/Lunar Maria]]／[[''(裏譜面)''>難易度表/おに/Lunar Maria(裏譜面)]]|「神々の悪戯」より|
 -[[踊>難易度表/おに/踊]]、[[うっせぇわ>難易度表/おに/うっせぇわ]]、[[乙女解剖>難易度表/おに/乙女解剖]]、[[ヒバナ>難易度表/おに/ヒバナ]]、[[ゴーストルール>難易度表/おに/ゴーストルール]]の選曲位置が変更された(非告知)。
 -「''ごほうびザクザクキャンペーン''」が開始された。開催期間は2022年4月20日〜7月31日。
 --バンダイナムコパスポートを使用すると、''1プレイにつき1つ「必ず」''ごほうびがゲットできる。
@@ -100,12 +100,12 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''ごほうびザクザクキャンペーン対象曲''|h
-|BGCOLOR(darkorchid):''ゲーム&br;ミュージック&br;(キャンペーン)''|COLOR(blue):''初''|[[''Racing the Storm''>難易度表/おに/Racing the Storm]]|「クリティカルベロシティ」より|
+|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック&br;(キャンペーン)''|COLOR(blue):''初''|[[''Racing the Storm''>難易度表/おに/Racing the Storm]]|「クリティカルベロシティ」より|
 |~|COLOR(orange):''再''|[[''ドルアーガの塔メドレー''>難易度表/おに/ドルアーガの塔メドレー]]||
 |~|COLOR(orange):''再''|[[''名乗り(天上)''>難易度表/おに/名乗り（天上）]]|「未来忍者」より|
-|BGCOLOR(gold):''クラシック&br;(キャンペーン)''|COLOR(orange):''再''|[[''火星''>難易度表/おに/火星]]|ホルスト|
+|BGCOLOR(#ded523):''クラシック&br;(キャンペーン)''|COLOR(orange):''再''|[[''火星''>難易度表/おに/火星]]|ホルスト|
 |~|COLOR(orange):''再''|[[''パリのアメリカ人''>難易度表/おに/パリのアメリカ人]]|ガーシュウィン|
-|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(キャンペーン)''|COLOR(blue):''初''|[[''まおぅ''>難易度表/おに/まおぅ]]|feat. 結羽（プラムソニック）|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル&br;(キャンペーン)''|COLOR(blue):''初''|[[''まおぅ''>難易度表/おに/まおぅ]]|feat. 結羽（プラムソニック）|
 |~|COLOR(orange):''再''|[[''ねこくじら''>難易度表/おに/ねこくじら]]||
 |~|COLOR(blue):''初''|[[''ねこくじら(裏譜面)''>難易度表/おに/ねこくじら(裏譜面)]]|~|
 |~|COLOR(blue):''初''|[[''ON SAY GO SAY''>難易度表/おに/ON SAY GO SAY]]／[[''(裏譜面)''>難易度表/おに/ON SAY GO SAY(裏譜面)]]|ショウ君|
@@ -118,22 +118,28 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/21配信曲''|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''AWAY''>難易度表/おに/AWAY]]||
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''AWAY''>難易度表/おに/AWAY]]||
 
 -4月21日、ニジイロVer.へのアップデートにより一時的に遊べなくなっていた''[[段位道場 外伝]]''が再登場した。
 --プレイ方法が変更となった。
 ---1. モード選択画面にて、挑戦したいお題に対応するQRコードを読み込ませる。
 &br;2. 段位道場モードを選択し、一番右側にある「外伝」看板を選ぶ。
 
+-2022/5/21 7:00をもって、以下の2曲(うち1曲双打譜面)がサヨナラとなる。
+|CENTER:100|||c
+|>|>|CENTER:''サヨナラ曲''(V??.??)|h
+|BGCOLOR(#49d5eb):''ポップス''|[[''WE WILL ROCK YOU''>難易度表/おに/We Will Rock You]]|Written by Brian May &#169; Queen Music Ltd|
+|~|[[''【双打】 WE WILL ROCK YOU''>難易度表/おに/We Will Rock You#another]]|~|
+
 //ジャンルについて↓
-//BGCOLOR(cyan):''ポップス''
-//BGCOLOR(yellow):''キッズ''
-//BGCOLOR(hotpink):''アニメ''
-//BGCOLOR(silver):''ボーカロイド&#8482;曲''
-//BGCOLOR(darkorchid):''ゲーム&br;ミュージック''
-//BGCOLOR(lime):''バラエティ''
-//BGCOLOR(gold):''クラシック''
-//BGCOLOR(orangered):''ナムコ&br;オリジナル''
+//BGCOLOR(#49d5eb):''ポップス''
+//BGCOLOR(#fdc000):''キッズ''
+//BGCOLOR(#fe90d2):''アニメ''
+//BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''
+//BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''
+//BGCOLOR(#0acc2a):''バラエティ''
+//BGCOLOR(#ded523):''クラシック''
+//BGCOLOR(#ff7028):''ナムコ&br;オリジナル''
 //COLOR(red):''新''
 //COLOR(blue):''初''
 //COLOR(orange):''再''

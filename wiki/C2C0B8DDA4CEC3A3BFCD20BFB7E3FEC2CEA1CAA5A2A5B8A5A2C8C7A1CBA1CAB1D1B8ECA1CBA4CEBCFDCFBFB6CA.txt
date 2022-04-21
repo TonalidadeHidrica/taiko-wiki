@@ -14,7 +14,9 @@
 --However, some songs are not playable in some countries/regions.((For more information, please refer to '[[Songs that are unavailable in Asia Ver.>#unavailable]]'.))
 &br;
 ----
-
+-SIZE(20){COLOR(red){''「ごほうびザクザクキャンペーン」が開催中！''}}
+--開催期間： 2022 年 4 月 21 日（木）〜 7 月 31 日（日）
+----
 -[[Official Site>http://taiko.namco-ch.net/taiko/]]
 --[[Donder Hiroba>https://donderhiroba.jp/]]
 -[[Official Blog (Japanese)>http://taiko-ch.net/blog/]]
@@ -25,6 +27,7 @@
 -[[Donder Hiroba Official Tournament>ドンだーひろば 公式大会]]
 -[[''COLOR(red){Don Medal}'' Shop>ごほうびショップ]]
 -[[Dan-i Dojo(Ranking Dojo)>段位道場]]
+--[[Dan-i Dojo Gaiden>段位道場 外伝]]
 -[[AI Battle +>AIバトル演奏]]
 --[[AI Soshina Battle>https://taiko.namco-ch.net/taiko/special/ai_soshina]]((Event duration: 12/16/2021 (Thurs) - 6/20/2022 (Mon) (JST) ))
 -[[Rewards>新筐体のごほうび一覧]]
@@ -74,12 +77,13 @@
 |CENTER:1|CENTER:1||LEFT:60|>|>|>|>|CENTER:42|c
 |>||''Song''|BPM((Those with * have slight BPM changes.))|BGCOLOR(#d52700):COLOR(#fff):''Easy''|BGCOLOR(#769e11):COLOR(#fff):''Normal''|BGCOLOR(#297ba3):COLOR(#fff):''Hard''|BGCOLOR(#af1e7f):COLOR(#fff):''Extreme''|BGCOLOR(#6042dd):COLOR(#fff):''Extreme (Ura)''|h
 |>|>|>|>|>|>|>|>|BGCOLOR(#42c0d3):''POP''&aname(pops);|
+|||''うっせぇわ''&br;　　SIZE(11){Ado}|178|[[★×2>難易度表/かんたん/うっせぇわ]]|[[★×2>難易度表/ふつう/うっせぇわ]]|[[★×3>難易度表/むずかしい/うっせぇわ]]|[[★×8>難易度表/おに/うっせぇわ]]|-|
+||SIZE(9){''NEW''}|''AWAY''|136|[[★×2>難易度表/かんたん/AWAY]]|[[★×4>難易度表/ふつう/AWAY]]|[[★×4>難易度表/むずかしい/AWAY]]|[[★×6>難易度表/おに/AWAY]]|-|
 ||SIZE(9){''NEW''}|''Sugar''|120|[[★×1>難易度表/かんたん/Sugar]]|[[★×3>難易度表/ふつう/Sugar]]|[[★×4>難易度表/むずかしい/Sugar]]|[[★×7>難易度表/おに/Sugar]]|-|
 ||SIZE(9){''NEW''}|''以後別做朋友 The Distance of Love''|94?-132|[[★×2>難易度表/かんたん/以後別做朋友 The Distance of Love]]|[[★×2>難易度表/ふつう/以後別做朋友 The Distance of Love]]|[[★×4>難易度表/むずかしい/以後別做朋友 The Distance of Love]]|[[★×6>難易度表/おに/以後別做朋友 The Distance of Love]]|-|
 |||''炎 / HOMURA''|76|[[★×1>難易度表/かんたん/炎]]|[[★×2>難易度表/ふつう/炎]]|[[★×1>難易度表/むずかしい/炎]]|[[★×4>難易度表/おに/炎]]|-|
 |||''紅蓮華 / Gurenge''&br;　　SIZE(11){「鬼滅の刃」より / From " DEMON SLAYER : KIMETSU NO YAIBA "}|135|[[★×2>難易度表/かんたん/紅蓮華]]|[[★×2>難易度表/ふつう/紅蓮華]]|[[★×3>難易度表/むずかしい/紅蓮華]] &br; &color(#000000,#FFDEAD){''[[FOURTH KYU>段位道場/ニジイロ2021/四級]]''};|[[★×6>難易度表/おに/紅蓮華]]|[[★×8>難易度表/おに/紅蓮華(裏譜面)]]|
 |||''廻廻奇譚''&br;　　SIZE(11){Eve TVアニメ『呪術廻戦』第1クールオープニングテーマ}|185|[[★×4>難易度表/かんたん/廻廻奇譚]]|[[★×5>難易度表/ふつう/廻廻奇譚]]|[[★×6>難易度表/むずかしい/廻廻奇譚]]|[[★×8>難易度表/おに/廻廻奇譚]]|-|
-|||''うっせぇわ''&br;　　SIZE(11){Ado}|178|[[★×2>難易度表/かんたん/うっせぇわ]]|[[★×2>難易度表/ふつう/うっせぇわ]]|[[★×3>難易度表/むずかしい/うっせぇわ]]|[[★×8>難易度表/おに/うっせぇわ]]|-|
 ||SIZE(9){''NEW''}|''グッバイ宣言''&br;　　SIZE(11){Chinozo feat. flower}|170|[[★×3>難易度表/かんたん/グッバイ宣言]]|[[★×5>難易度表/ふつう/グッバイ宣言]]|[[★×6>難易度表/むずかしい/グッバイ宣言]]|[[★×8>難易度表/おに/グッバイ宣言]]|-|
 ||SIZE(9){''NEW''}|''怪獣少女は火を吹かない''&br;　　SIZE(11){粗品 feat. 初音ミク}|50-200|[[★×3>難易度表/かんたん/怪獣少女は火を吹かない]]|[[★×5>難易度表/ふつう/怪獣少女は火を吹かない]]|[[★×6>難易度表/むずかしい/怪獣少女は火を吹かない]]|[[★×8>難易度表/おに/怪獣少女は火を吹かない]]|[[★×9>難易度表/おに/怪獣少女は火を吹かない(裏譜面)]]|
 ||SIZE(9){''NEW''}|''第六感''&br;　　SIZE(11){Reol}|134|[[★×3>難易度表/かんたん/第六感]]|[[★×5>難易度表/ふつう/第六感]]|[[★×5>難易度表/むずかしい/第六感]]|[[★×7>難易度表/おに/第六感]]|-|
@@ -426,6 +430,7 @@
 |''隠''||''4+1のそれぞれの未来 / 4+1 Myriad Future''&br;　　SIZE(11){太鼓 de タイムトラベル00's / cosMo＠暴走P feat.初音ミク / Taiko de Time Travel 00's / cosMo@Bousou-P feat.HATSUNE MIKU}|255|[[★×5>難易度表/かんたん/4+1のそれぞれの未来]]|[[★×7>難易度表/ふつう/4+1のそれぞれの未来]]|[[★×8>難易度表/むずかしい/4+1のそれぞれの未来]]|[[★×10>難易度表/おに/4+1のそれぞれの未来]] &br; &color(#000000,#FF9BF1){''[[TENTH DAN>段位道場/ニジイロ2021/十段]]''};|-|
 |||''テルミービート / TELL ME BEAT''&br;　　SIZE(11){キノシタ feat. 鏡音リン / kinoshita feat. KAGAMINE RIN}|197|[[★×3>難易度表/かんたん/テルミービート]]|[[★×5>難易度表/ふつう/テルミービート]]|[[★×6>難易度表/むずかしい/テルミービート]]|[[★×8>難易度表/おに/テルミービート]]|-|
 |>|>|>|>|>|>|>|>|BGCOLOR(#cc8aeb):''Game Music''&aname(gamemusic);|
+|''隠''|SIZE(9){''NEW''}|''Racing the Storm''&br;　　SIZE(11){「クリティカルベロシティ」より}|148|[[★×4>難易度表/かんたん/Racing the Storm]]|[[★×5>難易度表/ふつう/Racing the Storm]]|[[★×7>難易度表/むずかしい/Racing the Storm]]|[[★×8>難易度表/おに/Racing the Storm]]|-|
 ||SIZE(9){''NEW''}|''業 -善なる神とこの世の悪について-/Misdeed -la bont&#233; de Dieu et l'origine du mal-''&br;　　SIZE(11){光吉猛修 VS 穴山大輔 「CHUNITHM」より}|63.33-380|[[★×5>難易度表/かんたん/業 -善なる神とこの世の悪について-]]|[[★×6>難易度表/ふつう/業 -善なる神とこの世の悪について-]]|[[★×7>難易度表/むずかしい/業 -善なる神とこの世の悪について-]]|[[★×9>難易度表/おに/業 -善なる神とこの世の悪について-]]|[[★×10>難易度表/おに/業 -善なる神とこの世の悪について-(裏譜面)]]|
 |||''MEGALOVANIA''&br;　　SIZE(11){「UNDERTALE」より / From " UNDERTALE "}|240|[[★×4>難易度表/かんたん/MEGALOVANIA]]|[[★×5>難易度表/ふつう/MEGALOVANIA]]|[[★×7>難易度表/むずかしい/MEGALOVANIA]]|[[★×9>難易度表/おに/MEGALOVANIA]]|-|
 |||''夢と希望 / Hopes and Dreams''&br;　　SIZE(11){「UNDERTALE」より / From " UNDERTALE "}|170.68※|[[★×3>難易度表/かんたん/夢と希望]]&br;SIZE(10){Diverge Notes}|[[★×5>難易度表/ふつう/夢と希望]]&br;SIZE(10){Diverge Notes}|[[★×6>難易度表/むずかしい/夢と希望]]&br;SIZE(10){Diverge Notes}|[[★×8>難易度表/おに/夢と希望]]&br;SIZE(10){Diverge Notes}|-|
@@ -650,6 +655,7 @@
 |||''最終鬼畜妹フランドール・S / Saisyuu Kichiku Imouto Frandre・S''&br;　　SIZE(11){東方Projectアレンジ ビートまりお / Touhou Project Arrange / beatMARIO}|200※|[[★×4>難易度表/かんたん/最終鬼畜妹フランドール・S]]|[[★×6>難易度表/ふつう/最終鬼畜妹フランドール・S]]|[[★×7>難易度表/むずかしい/最終鬼畜妹フランドール・S]]|[[★×10>難易度表/おに/最終鬼畜妹フランドール・S]]|-|
 |||''ナイト・オブ・ナイツ / Night of Knights / Knight of Nights''&br;　　SIZE(11){東方Projectアレンジ ビートまりお / Touhou Project Arrange / beatMARIO}|180|[[★×4>難易度表/かんたん/ナイト・オブ・ナイツ]]&br;SIZE(10){Diverge Notes}|[[★×6>難易度表/ふつう/ナイト・オブ・ナイツ]]&br;SIZE(10){Diverge Notes}|[[★×7>難易度表/むずかしい/ナイト・オブ・ナイツ]]&br;SIZE(10){Diverge Notes}|[[★×9>難易度表/おに/ナイト・オブ・ナイツ]]&br;SIZE(10){Diverge Notes}|-|
 |>|>|>|>|>|>|>|>|BGCOLOR(#cac001):''Classical''&aname(classic);|
+|''隠''|SIZE(9){''NEW''}|''まおぅ / MAO-u''&br;　　SIZE(11){feat. 結羽(プラムソニック) / feat. Yuu.(pLumsonic!)}|140|[[★×3>難易度表/かんたん/まおぅ]]|[[★×5>難易度表/ふつう/まおぅ]]|[[★×7>難易度表/むずかしい/まおぅ]]|[[★×8>難易度表/おに/まおぅ]]|-|
 |''隠''||''クラポルポルスカ / KURAPORUPORUSUKA''|50-150|[[★×4>難易度表/かんたん/クラポルポルスカ]]|[[★×5>難易度表/ふつう/クラポルポルスカ]]|[[★×7>難易度表/むずかしい/クラポルポルスカ]]|[[★×10>難易度表/おに/クラポルポルスカ]]|-|
 |BGCOLOR(beige):''隠''|BGCOLOR(beige):|BGCOLOR(beige):''パリのアメリカ人''&br;　　SIZE(11){ガーシュウィン}|BGCOLOR(beige): 63-112※|BGCOLOR(beige):[[★×3>難易度表/かんたん/パリのアメリカ人]]|BGCOLOR(beige):[[★×4>難易度表/ふつう/パリのアメリカ人]]|BGCOLOR(beige):[[★×6>難易度表/むずかしい/パリのアメリカ人]]|BGCOLOR(beige):[[★×8>難易度表/おに/パリのアメリカ人]]|BGCOLOR(beige):-|
 |BGCOLOR(beige):''隠''|BGCOLOR(beige):|BGCOLOR(beige):''火星''&br;　　SIZE(11){ホルスト}|BGCOLOR(beige): 60-160※|BGCOLOR(beige):[[★×4>難易度表/かんたん/火星]]|BGCOLOR(beige):[[★×5>難易度表/ふつう/火星]]|BGCOLOR(beige):[[★×6>難易度表/むずかしい/火星]]|BGCOLOR(beige):[[★×7>難易度表/おに/火星]]|BGCOLOR(beige):-|
@@ -682,6 +688,10 @@
 |||''ロシア民謡メドレー / Russian folk songs medley''|100-146|[[★×4>難易度表/かんたん/ロシア民謡メドレー]]|[[★×4>難易度表/ふつう/ロシア民謡メドレー]]|[[★×7>難易度表/むずかしい/ロシア民謡メドレー]]|[[★×7>難易度表/おに/ロシア民謡メドレー]]|-|
 |||''おおブレネリ / O Vreneli''|118-130※|[[★×3>難易度表/かんたん/おおブレネリ]]|[[★×3>難易度表/ふつう/おおブレネリ]]|[[★×5>難易度表/むずかしい/おおブレネリ]]|[[★×6>難易度表/おに/おおブレネリ]]|-|
 |>|>|>|>|>|>|>|>|BGCOLOR(#ff7028):''NAMCO Original''&aname(namco);|
+|''隠''|SIZE(9){''NEW''}|''SORA-�� コズミックバード / SORA-V Cosmic Bird''|135※|[[★×3>難易度表/かんたん/SORA-V コズミックバード]]|[[★×4>難易度表/ふつう/SORA-V コズミックバード]]|[[★×6>難易度表/むずかしい/SORA-V コズミックバード]]|[[★×8>難易度表/おに/SORA-V コズミックバード]]|-|
+|''隠''|SIZE(9){''NEW''}|''ON SAY GO SAY''&br;　　SIZE(11){ショウ君 / SHOW}|130|[[★×4>難易度表/かんたん/ON SAY GO SAY]]|[[★×6>難易度表/ふつう/ON SAY GO SAY]]|[[★×7>難易度表/むずかしい/ON SAY GO SAY]]|[[★×8>難易度表/おに/ON SAY GO SAY]]|[[★×10>難易度表/おに/ON SAY GO SAY(裏譜面)]]|
+|''隠''|SIZE(9){''NEW''}|''まおぅ / MAO-u''&br;　　SIZE(11){feat. 結羽(プラムソニック) / feat. Yuu.(pLumsonic!)}|140|[[★×3>難易度表/かんたん/まおぅ]]|[[★×5>難易度表/ふつう/まおぅ]]|[[★×7>難易度表/むずかしい/まおぅ]]|[[★×8>難易度表/おに/まおぅ]]|-|
+|''隠''|SIZE(9){''NEW''}|''ねこくじら / NEKOKUJIRA''|140※|[[★×4>難易度表/かんたん/ねこくじら]]|[[★×6>難易度表/ふつう/ねこくじら]]|[[★×7>難易度表/むずかしい/ねこくじら]]|[[★×8>難易度表/おに/ねこくじら]]|[[★×9>難易度表/おに/ねこくじら(裏譜面)]]|
 ||SIZE(9){''NEW''}|''Player's High''&br;　　SIZE(11){K.key}|255|[[★×5>難易度表/かんたん/Player's High]]|[[★×7>難易度表/ふつう/Player's High]]|[[★×8>難易度表/むずかしい/Player's High]]|[[★×10>難易度表/おに/Player's High]]|-|
 ||SIZE(9){''NEW''}|''弧 / Arc''&br;　　SIZE(11){概念 / Gainen}|190|[[★×5>難易度表/かんたん/弧]]|[[★×7>難易度表/ふつう/弧]]|[[★×8>難易度表/むずかしい/弧]]|[[★×10>難易度表/おに/弧]]|-|
 |''隠''|SIZE(9){''NEW''}|''めためた☆ゆにば〜すっ！ / METAMETA☆Universe!''&br;　　SIZE(11){kyo(BNSI)×Mitsu(TRYTONELABO) feat. 本木咲黒 / kyo(BNSI)×Mitsu(TRYTONELABO) feat. Zakuro Motoki}|180-240|[[★×4>難易度表/かんたん/めためた☆ゆにば〜すっ！]]|[[★×5>難易度表/ふつう/めためた☆ゆにば〜すっ！]]|[[★×6>難易度表/むずかしい/めためた☆ゆにば〜すっ！]]|[[★×8>難易度表/おに/めためた☆ゆにば〜すっ！]]&br;SIZE(10){譜面分岐}|-|
@@ -1152,10 +1162,12 @@
 ※3.Removed from Asia version.&br();
 ※4.Only available in Taiwan, Singapore, Malaysia, Thailand, Indonesia, Korea version.&br();
 ※5.Not available in Korea version.&br();
-※Last modification date:2022.3.16
+※Last modification date:2022.4.21
 
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|Genre|Song|The date songs were added to Japanese Ver.|Remarks|
+|BGCOLOR(#42c0d3):|||[[阿修羅ちゃん>難易度表/おに/阿修羅ちゃん]]|2022.04.20|※1|
+|BGCOLOR(#42c0d3):|||[[ドライフラワー>難易度表/おに/ドライフラワー]]|2022.04.20|※1|
 |BGCOLOR(#42c0d3):|||[[プロミスザスター>難易度表/おに/プロミスザスター]]|2022.03.16|※1|
 |BGCOLOR(#42c0d3):|||[[Streamer>難易度表/おに/Streamer]]|2022.03.16|※1|
 |BGCOLOR(#42c0d3):|||[[ストロベリー☆プラネット！>難易度表/おに/ストロベリー☆プラネット！]]|2022.02.16|※1|
@@ -1212,10 +1224,12 @@
 |BGCOLOR(#fe90d2):|BGCOLOR(#cc8aeb):||[[DRIVE A LIVE>難易度表/おに/DRIVE A LIVE]]||※4|
 |BGCOLOR(#fe90d2):|BGCOLOR(#1bc739):||[[Dive to Blue>難易度表/おに/Dive to Blue]]|||
 |BGCOLOR(#fe90d2):|BGCOLOR(#1bc739):||[[Marine Mirage>難易度表/おに/Marine Mirage]]|||
+|BGCOLOR(#cbcfde):|||[[アニマル>難易度表/おに/アニマル]]|2022.04.20|※1|
 |BGCOLOR(#cbcfde):|||[[シンデレラ>難易度表/おに/シンデレラ]]|2022.02.16|※1|
 |BGCOLOR(#cbcfde):|||[[千本桜 / Senbonzakura>難易度表/おに/千本桜]]||※5|
 |BGCOLOR(#cbcfde):|||[[愛×愛ホイッスル（カレーメシ公式曲）>難易度表/おに/愛×愛ホイッスル（カレーメシ公式曲）]]|||
 |BGCOLOR(#cbcfde):|||[[ゲラゲラと笑うな>難易度表/おに/ゲラゲラと笑うな]]|||
+|BGCOLOR(#cc8aeb):|||[[Lunar Maria>難易度表/おに/Lunar Maria]]|2022.04.20||
 |BGCOLOR(#cc8aeb):|||[[MANKAI☆開花宣言>難易度表/おに/MANKAI☆開花宣言]]|||
 |BGCOLOR(#cc8aeb):|||[[モンスターハンター4 メドレー>難易度表/おに/モンスターハンター4 メドレー]]|||
 |BGCOLOR(#cc8aeb):|||[[ファミコンメドレー>難易度表/おに/ファミコンメドレー]]|||
