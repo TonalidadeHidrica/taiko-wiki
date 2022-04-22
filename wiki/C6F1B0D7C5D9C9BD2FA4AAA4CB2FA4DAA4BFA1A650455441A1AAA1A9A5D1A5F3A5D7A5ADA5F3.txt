@@ -9,7 +9,7 @@
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''990620点''}|~|COLOR(#ff3300){1720点}|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは112-140?。基本BPMは112。見た目BPMも112固定。
+-BPMは112-140。基本BPMは112。見た目BPMも112固定。
 -一見すると縁の方が多いように見えるが、COLOR(red){面}:270、COLOR(blue){縁}:254と面の方が多い。
 -低速ハネリズム譜面ではあるものの、至る所に''見た目20分音符''が配置されており、非常に精度が取りづらい。
 --また、[[ケチャドン2000(達人譜面)>../ケチャドン2000]]ほどではないが、★×9のハネリズム譜面にしてはノーツが少なめ。1ミスが痛い。
@@ -22,20 +22,20 @@
 ***その他 [#other]
 -アーティストは、''[[ゆ〜くれ>https://twitter.com/yutopia_qremia]]''。
 --作詞・作曲・編曲・演奏((ディジュリドゥ、口琴、パンデイロ、ウドゥ、スレイベル、三線、ウクレレ、バンジョーウクレレ、オカリナ、ドゥンベック、ギロ、カズー、ビブラスラップ、フレクサトーン→[[(参考)>https://twitter.com/stereonoah/status/1273851104195833856]]))は、''[[変拍子兄さん>https://twitter.com/orangethekeyqa]]''(現:[[''変拍子ちゃん''>https://twitter.com/orangethekeyqa]])。
----氏の初めての音楽ゲーム公募曲でもある。→[[ソース>https://twitter.com/OrangeTheKeyqa/status/1275945506917609473]]
---歌唱は、''[[ゆと>https://twitter.com/Yutoyuto_Qremia]]''(''[[変拍子兄さん>https://twitter.com/orangethekeyqa]]''の実の姉)。→[[ソース>https://twitter.com/OrangeTheKeyqa/status/1137302595293274113]]
---サウンドデザイン・ディレクション(([[ディレクションの一例>https://twitter.com/stereonoah/status/1355318193716228096]]))・ミックス・一部編曲・一部の声[[(→ソース)>https://twitter.com/stereonoah/status/1355428750431723522]]は、''[[REONOAH>https://twitter.com/stereonoah]]''([[''腕毛の人''>https://twitter.com/stereonoah]])(→[[ソース>https://twitter.com/stereonoah/status/1355116137936113665]])。
----氏はドンだーでもある。→[[ソース>https://twitter.com/stereonoah/status/1433000529630691332]] また、この曲のおに譜面をフルコンボするほどの実力がある。→[[ソース>https://twitter.com/stereonoah/status/1355339523413008387]](→[[初見>https://twitter.com/stereonoah/status/1355336583474372610]])
--略称は「ぺたパン」。→[[ソース>https://twitter.com/stereonoah/status/1355527619148611588]]
--歌詞には、「シャリパセリシュクメルリイーシャンテン((48小節))(→[[ソース>https://twitter.com/stereonoah/status/1356154030146220038]])」や「首里うにスマッシュ((これは、作曲者が沖縄出身だからでもあるのかもしれない。→[[ソース>https://twitter.com/OrangeTheKeyqa/status/1307708937261645829]]))」などがある。
---前者は、「[[シャリ>https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AA]]」＋「[[パセリ>https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BB%E3%83%AA]]」＋「[[シュクメルリ>https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%A1%E3%83%AB%E3%83%AA]]」＋「[[イーシャンテン>https://ja.wikipedia.org/wiki/%E4%B8%80%E5%90%91%E8%81%B4]]」と分解することも可能。
--リファレンスは[[東京特許キョ許可局局長!!>難易度表/おに/東京特許キョ許可局局長!!]]である。(''[[腕毛の人>https://twitter.com/stereonoah]]''によるもの →[[ソース>https://twitter.com/OrangeTheKeyqa/status/1275945520414879744]]) →[[ソース>https://twitter.com/OrangeTheKeyqa/status/1275692587949666304]]
--タイトルにある「ぺた」と「PETA」は、10の15乗を意味する「[[ペタ>https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%BF]]」の意味も含んでいる可能性がある。→[[ソース>https://twitter.com/OrangeTheKeyqa/status/1420419558876139526]]
--仮タイトルは「パンプキンパニックパレード((「パンプキンパーティーパニック」ではない。))」だったらしい。→[[ソース>https://twitter.com/OrangeTheKeyqa/status/1322328624406487040]]
+---氏の初めての音楽ゲーム公募曲でもある(([[ソース>https://twitter.com/OrangeTheKeyqa/status/1275945506917609473]]))。
+--歌唱は、''[[ゆと>https://twitter.com/Yutoyuto_Qremia]]''(''[[変拍子兄さん>https://twitter.com/orangethekeyqa]]''の実の姉)(([[ソース>https://twitter.com/OrangeTheKeyqa/status/1137302595293274113]]))。
+--サウンドデザイン・ディレクション(([[ディレクションの一例>https://twitter.com/stereonoah/status/1355318193716228096]]))・ミックス・一部編曲・一部の声(([[ソース>https://twitter.com/stereonoah/status/1355428750431723522]]))は、''[[REONOAH>https://twitter.com/stereonoah]]''([[''腕毛の人''>https://twitter.com/stereonoah]])(([[ソース>https://twitter.com/stereonoah/status/1355116137936113665]]))。
+---氏はこの曲のおに譜面をフルコンボするほどの実力がある(([[ソース>https://twitter.com/stereonoah/status/1355339523413008387]]))。
+-略称は「ぺたパン」(([[ソース>https://twitter.com/stereonoah/status/1355527619148611588]]))。
+-歌詞には、「シャリパセリシュクメルリイーシャンテン((48小節、[[ソース>https://twitter.com/stereonoah/status/1356154030146220038]]))」や「首里うにスマッシュ((ちなみに、作曲者は沖縄出身である([[ソース>https://twitter.com/OrangeTheKeyqa/status/1307708937261645829]]) ))」などがある。
+//--前者は、「[[シャリ>https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AA]]」＋「[[パセリ>https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BB%E3%83%AA]]」＋「[[シュクメルリ>https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%A1%E3%83%AB%E3%83%AA]]」＋「[[イーシャンテン>https://ja.wikipedia.org/wiki/%E4%B8%80%E5%90%91%E8%81%B4]]」と分解することも可能。
+-リファレンスは[[東京特許キョ許可局局長!!>難易度表/おに/東京特許キョ許可局局長!!]]である(''[[腕毛の人>https://twitter.com/stereonoah]]''によるもの)(([[ソース>https://twitter.com/OrangeTheKeyqa/status/1275945520414879744]]))(([[ソース>https://twitter.com/OrangeTheKeyqa/status/1275692587949666304]]))。
+//-タイトルにある「ぺた」と「PETA」は、10の15乗を意味する「[[ペタ>https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%BF]]」の意味も含んでいる可能性がある。(([[ソース>https://twitter.com/OrangeTheKeyqa/status/1420419558876139526]]))
+-仮タイトルは「パンプキンパニックパレード」だったらしい(([[ソース>https://twitter.com/OrangeTheKeyqa/status/1322328624406487040]]))。
 -この譜面をフルコンボすると、''称号''「''ペルソナレタス''」を獲得できる。
---この称号は、作曲者が提案したものである。→[[ソース>https://twitter.com/OrangeTheKeyqa/status/1376179889376649221]]
--曲中では微分音が多用されており、53平均律が使用されている。→[[ソース>https://twitter.com/stereonoah/status/1314912681715929090]]
---音楽ゲームに収録された楽曲の中で、楽曲中に微分音が使用されているものは、この曲が初である可能性がある。→[[ソース>https://twitter.com/stereonoah/status/1275677821004853248]]
+--この称号は、作曲者が提案したものである(([[ソース>https://twitter.com/OrangeTheKeyqa/status/1376179889376649221]]))。
+-曲中では微分音が多用されており、53平均律が使用されている(([[ソース>https://twitter.com/stereonoah/status/1314912681715929090]]))。
+//--音楽ゲームに収録された楽曲の中で、楽曲中に微分音が使用されているものは、この曲が初である可能性がある(([[ソース>https://twitter.com/stereonoah/status/1275677821004853248]]))。
 
 ----
 -[[かんたん>難易度表/かんたん/ぺた・PETA！？パンプキン]]
@@ -49,7 +49,7 @@
 
 ***譜面 [#score]
 //~風船の打数は9,9,9,5,8,9。
-~譜面は暫定。
-~&attachref(peta2101311112.png,nolink);
+~暫定譜面
+~&attachref(ぺたパン_暫定.png,nolink);
 ~見た目重視
 ~&attachref(南瓜_2.png,nolink);

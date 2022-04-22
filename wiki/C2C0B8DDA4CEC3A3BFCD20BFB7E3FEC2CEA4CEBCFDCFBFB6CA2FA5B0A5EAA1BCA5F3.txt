@@ -296,7 +296,7 @@
 |''19/8/20''|''¿·''||''Dreadnought''&br;¡¡¡¡SIZE(11){Mastermind(xi+nora2r)}|192|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Dreadnought]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought(Î¢ÉèÌÌ)]]|
 |''19/8/6''|''¿·''||''¤â¤Ú¤â¤Ú''&br;¡¡¡¡SIZE(11){LeaF}|100-200|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/¤â¤Ú¤â¤Ú]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/¤â¤Ú¤â¤Ú]]|-|
 |''19/8/1''|''¿·''||''B.B.K.K.B.K.K.''&br;¡¡¡¡SIZE(11){nora2r}|170|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/B.B.K.K.B.K.K.]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/B.B.K.K.B.K.K.]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/B.B.K.K.B.K.K.]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/B.B.K.K.B.K.K.]]|-|
-|''19/5/30''|''¿·''|''­¢''|''WE WILL ROCK YOU''&br;¡¡¡¡SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163¢¨|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/We Will Rock You]]|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/We Will Rock You]]|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/We Will Rock You]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤ª¤Ë/We Will Rock You]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤ª¤Ë/We Will Rock You]]|
+|''19/5/30&br;~&br;22/5/20''|''¿·''|''­¢''|''WE WILL ROCK YOU''&br;¡¡¡¡SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163¢¨|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/We Will Rock You]]|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/We Will Rock You]]|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/We Will Rock You]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤ª¤Ë/We Will Rock You]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤ª¤Ë/We Will Rock You]]|
 |''19/4/20''|''¿·''||''Altale''&br;¡¡¡¡SIZE(11){ºï½ü}|83-180|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Altale]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Altale]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Altale]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale(Î¢ÉèÌÌ)]]|
 |''19/4/13''|''¿·''||''Pixel Galaxy''&br;¡¡¡¡SIZE(11){Snail¡Çs House}|300|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Pixel Galaxy]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Pixel Galaxy]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Pixel Galaxy]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Pixel Galaxy]]|-|
 |''19/4/6''|''¿·''||''FREEDOM DiVE¢­''&br;¡¡¡¡SIZE(11){xi}|222.22|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/FREEDOM DiVE¢­]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/FREEDOM DiVE¢­]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/FREEDOM DiVE¢­]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/FREEDOM DiVE¢­]]|-|
