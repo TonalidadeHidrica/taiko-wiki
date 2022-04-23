@@ -58,8 +58,8 @@
 
 -[[ゲーム>収録曲リスト/ゲームミュージック]]
 --[[ゲーム別収録曲]]
----[[THE IDOLM@STER>THE IDOLM@STER関連楽曲一覧]]
----[[音楽ゲーム>音楽ゲーム楽曲一覧]]
+--[[THE IDOLM@STER>THE IDOLM@STER関連楽曲一覧]]
+--[[音楽ゲーム>音楽ゲーム楽曲一覧]]
 
 -[[バラエティ>収録曲リスト/バラエティ]]
 --[[東方Projectアレンジ>東方Projectアレンジ楽曲一覧]]
@@ -106,6 +106,7 @@
 -[[難易度変更一覧(AC)]]
 -[[限定公式収録曲一覧>限定公式譜面一覧]]
 -[[極スコア>難易度表/おに/新筐体/極スコア]]
+-[[太鼓の達人 設置店情報Wiki(当Wikiとは別のWiki)>http://www29.atwiki.jp/taiko13/pages/1.html]]
 -[[ドンだーひろば 公式大会]]
 
 **[[段位道場]] [#dani]
@@ -162,9 +163,10 @@
 -[[全国大会一覧]]
 -[[踊り子一覧]]
 -[[特殊連打]]
+-[[Wikipedia(太鼓の達人)>http://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA]]
+-[[太鼓の達人 歴代全一wiki>https://www65.atwiki.jp/taikoranking/]]
 -[[疑問解決所(過去の質問)>疑問解決所]]
 -[[難易度等議論Wiki(当Wikiとは別のWiki)>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]
-//-[[高難易度攻略Wiki(当Wikiとは別のWiki)>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]
 
 **人物関連 [#person]
 
@@ -176,7 +178,16 @@
 -[[サウンドトラック収録曲>サントラ収録曲]]
 -[[サウンドトラック未収録曲>サントラ未収録曲]]
 
-外部リンクはこちら↓
+以下は外部リンク
+
+-サブスクリプション
+
+--[[太鼓の達人 ナムコオリジナルサウンドトラック 「神曲コレクション」>https://nex-tone.link/A00092884]]
+--[[太鼓の達人 ナムコオリジナルサウンドトラック 「最強×乱舞コレクション」>https://nex-tone.link/A00094226]]
+--[[太鼓の達人 ナムコオリジナルサウンドトラック 「EDMコレクション」>https://nex-tone.link/A00095925]]
+--[[太鼓の達人 ナムコオリジナルサウンドトラック 「エレクトロニックエモーションコレクション」>https://nex-tone.link/A00097319]]
+
+-CD
 
 #region(クリックorタップで表示)
 
@@ -198,29 +209,15 @@
 --[[太鼓の達人 オリジナルサウンドトラック わたがし>http://city-connection.co.jp/taiko/vol06.html]]
 --[[太鼓の達人 オリジナルサウンドトラック ベビーカステラ>http://city-connection.co.jp/taiko/vol07.html]]
 --[[太鼓の達人 オリジナルサウンドトラック かたぬき>http://city-connection.co.jp/taiko/vol08.html]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「神曲コレクション」>https://nex-tone.link/A00092884]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「最強×乱舞コレクション」>https://nex-tone.link/A00094226]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「EDMコレクション」>https://nex-tone.link/A00095925]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「エレクトロニックエモーションコレクション」>https://nex-tone.link/A00097319]]
 
 #endregion
 
 **楽曲公募 [#contest]
 
+-[[太鼓の達人　楽曲募集だドン！2020]]
 -[[太鼓の達人 ドンだー！世界一決定戦2021 課題曲募集だドン！]]
 
-過去の公募はこちら↓(公募採用曲が全て収録済みのもの)
-
-#region(クリックorタップで表示)
-
--[[太鼓の達人 楽曲募集だドン！]]
--[[GUMI楽曲コンテスト]]
--[[太鼓の人達 DOKODON FIGHTERS]]
--[[太鼓の達人 全国大会2013 課題曲募集だドン！]]
--[[太鼓の達人 ドンだー！世界一決定戦2016 課題曲募集だドン！]]
--[[太鼓の達人　楽曲募集だドン！2020]]
-
-#endregion
+その他の公募は[[こちら>#koubopast]]
 
 **演奏オプション関連 [#option]
 
@@ -235,13 +232,26 @@
 -[[ナムコオリジナル曲の調性]]
 -[[カラオケに入っているナムコオリジナルの楽曲]]
 
+**ポリシー [#policy]
+
+-[[ファンメイドコンテンツポリシー>https://taiko-ch.net/ip_policy/]]
+-[[ゲーム実況ポリシー>https://www.bandainamcoent.co.jp/info/videopolicy/]]
+--[[ゲームセンター版「太鼓の達人」ゲーム実況ポリシー>https://taiko.namco-ch.net/taiko/gameplay_policy/]]
+
 **Wiki関連 [#wikicon]
 
 -[[バージョン表記一覧]]
 -[[公式生放送での雑談コメント>コメント/雑談所/公式生放送用]]
+-[[プラグインマニュアル>PukiWiki/1.4/Manual/Plugin]]
 -[[ヘルプ>Help]]
 -[[リンク]]
 -[[PukiWikiについて>PukiWiki]]
+-[[高難易度攻略Wiki(当Wikiとは別のWiki)>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]
+
+**海外のサイト [#foreign] 
+-[[Taiko Time>http://taikotime.blogspot.jp/]]（英語） 
+-[[太鼓之達人維基>http://zh.taiko.wikia.com/wiki/%E9%A6%96%E9%A0%81]]（中国語） 
+-[[太鼓&#36798;人&#21543;_百度&#36148;&#21543;>http://tieba.baidu.com/f?kw=%E5%A4%AA%E9%BC%93%E8%BE%BE%E4%BA%BA]]（中国語）
 
 *Wiki関連 [#wiki]
 
@@ -271,7 +281,7 @@
 
 -[[開発日記>https://web.archive.org/web/20170707175213/http://taikoblog.namco-ch.net/]](旧公式ブログ・アーカイブ)
 -[[称号ガシャパーツ一覧]]
--[[【グリーンVer.】配点未補完リスト>配点#title]]
+-[[【グリーンVer.】配点未補完リスト>配点#greenmihokan]]
 -[[演奏バトル]]
 -[[譜面未補完リスト(AC9,CS7以前)]]
 -[[歌詞紹介(一部の曲のみ)>https://web.archive.org/web/20170906233336/http://taikoblog.namco-ch.net:80/lyrics.html]](アーカイブ)
@@ -281,6 +291,16 @@
 -[[J-POP>収録曲リスト/J-POP]]
 -[[どうよう>収録曲リスト/どうよう]]
 -[[ゲーム&バラエティ>収録曲リスト/ゲーム＆バラエティ]]
+
+**楽曲公募 [#koubopast]
+
+//#region(クリックorタップで表示)
+-[[太鼓の達人 楽曲募集だドン！]]
+-[[GUMI楽曲コンテスト]]
+-[[太鼓の人達 DOKODON FIGHTERS]]
+-[[太鼓の達人 全国大会2013 課題曲募集だドン！]]
+-[[太鼓の達人 ドンだー！世界一決定戦2016 課題曲募集だドン！]]
+//#endregion
 
 **[[隠し曲解禁方法]] [#hidden]
 

@@ -1,0 +1,25 @@
+*Challengers [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.1''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''415''|''?????0点''|＋連打|???0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは125-343.75。基本BPMは250。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/Challengers]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Challengers]]
+-[[ふつう>難易度表/ふつう/Challengers]]
+-[[おに>難易度表/おに/Challengers]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~見た目重視
+~&attachref(Challengers_h.png,nolink);

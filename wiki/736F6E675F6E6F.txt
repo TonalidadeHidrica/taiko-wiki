@@ -1205,7 +1205,7 @@
 |1096|[[ねこくじら>難易度表/おに/ねこくじら]]|BGCOLOR(#ff7028):ナムオリ|neko||
 |1097|[[ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]|BGCOLOR(#ff7028):ナムオリ|onsayg||
 |1098|[[SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]|BGCOLOR(#ff7028):ナムオリ|cosmb||
-|1099|非公開|BGCOLOR(#ff7028):ナムオリ|?||
+|1099|[[Challengers>難易度表/おに/Challengers]]|BGCOLOR(#ff7028):ナムオリ|?||
 |1100|非公開|BGCOLOR(#0acc2a):バラエティ|?||
 
 **未確認 [#lostn]

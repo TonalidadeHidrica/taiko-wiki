@@ -26,4 +26,4 @@
 
 ***譜面 [#score]
 ~風船は適当
-&attachref(宝剣かんたん.png,nolink);
+&attachref(宝剣かんたん_2.png,nolink);

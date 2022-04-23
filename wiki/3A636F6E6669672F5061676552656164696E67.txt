@@ -758,6 +758,7 @@
 -[[コメント/難易度表/おに/Central Dogma Pt.1]] コメント/ナンイドオモテ/オニ/Central Dogma Pt.1
 -[[コメント/難易度表/おに/Central Dogma Pt.1(裏譜面)]] コメント/ナンイドオモテ/オニ/Central Dogma Pt.1(ウラフメン)
 -[[コメント/難易度表/おに/Central Dogma Pt.2]] コメント/ナンイドオモテ/オニ/Central Dogma Pt.2
+-[[コメント/難易度表/おに/Challengers]] コメント/ナンイドオモテ/オニ/Challengers
 -[[コメント/難易度表/おに/Checkmate!?]] コメント/ナンイドオモテ/オニ/Checkmate!?
 -[[コメント/難易度表/おに/Choco Chiptune.]] コメント/ナンイドオモテ/オニ/Choco Chiptune.
 -[[コメント/難易度表/おに/Choo Choo TRAIN]] コメント/ナンイドオモテ/オニ/Choo Choo TRAIN
@@ -3329,6 +3330,7 @@
 -[[コメント/難易度表/かんたん/Love Forever]] コメント/ナンイドオモテ/カンタン/Love Forever
 -[[コメント/難易度表/かんたん/Love so sweet]] コメント/ナンイドオモテ/カンタン/Love so sweet
 -[[コメント/難易度表/かんたん/Lovin' Life]] コメント/ナンイドオモテ/カンタン/Lovin' Life
+-[[コメント/難易度表/かんたん/Lunar Maria]] コメント/ナンイドオモテ/カンタン/Lunar Maria
 -[[コメント/難易度表/かんたん/L・O・B・M]] コメント/ナンイドオモテ/カンタン/L・O・B・M
 -[[コメント/難易度表/かんたん/L・O・V・E]] コメント/ナンイドオモテ/カンタン/L・O・V・E
 -[[コメント/難易度表/かんたん/M.S.S.Planet]] コメント/ナンイドオモテ/カンタン/M.S.S.Planet
@@ -3570,6 +3572,7 @@
 -[[コメント/難易度表/かんたん/traveling]] コメント/ナンイドオモテ/カンタン/traveling
 -[[コメント/難易度表/かんたん/true blue]] コメント/ナンイドオモテ/カンタン/true blue
 -[[コメント/難易度表/かんたん/ultra soul]] コメント/ナンイドオモテ/カンタン/ultra soul
+-[[コメント/難易度表/かんたん/via lactea]] コメント/ナンイドオモテ/カンタン/via lactea
 -[[コメント/難易度表/かんたん/void setup]] コメント/ナンイドオモテ/カンタン/void setup
 -[[コメント/難易度表/かんたん/waitin' for u]] コメント/ナンイドオモテ/カンタン/waitin' for u
 -[[コメント/難易度表/かんたん/？人]] コメント/ナンイドオモテ/カンタン/？ニン
@@ -5114,6 +5117,7 @@
 -[[コメント/難易度表/ふつう/Little Match Girl]] コメント/ナンイドオモテ/フツウ/Little Match Girl
 -[[コメント/難易度表/ふつう/Love Forever]] コメント/ナンイドオモテ/フツウ/Love Forever
 -[[コメント/難易度表/ふつう/Lovin' Life]] コメント/ナンイドオモテ/フツウ/Lovin' Life
+-[[コメント/難易度表/ふつう/Lunar Maria]] コメント/ナンイドオモテ/フツウ/Lunar Maria
 -[[コメント/難易度表/ふつう/L・O・B・M]] コメント/ナンイドオモテ/フツウ/L・O・B・M
 -[[コメント/難易度表/ふつう/L・O・V・E]] コメント/ナンイドオモテ/フツウ/L・O・V・E
 -[[コメント/難易度表/ふつう/M.S.S.Planet]] コメント/ナンイドオモテ/フツウ/M.S.S.Planet
@@ -6737,6 +6741,7 @@
 -[[コメント/難易度表/むずかしい/Caribbean Knight]] コメント/ナンイドオモテ/ムズカシイ/Caribbean Knight
 -[[コメント/難易度表/むずかしい/Central Dogma Pt.1]] コメント/ナンイドオモテ/ムズカシイ/Central Dogma Pt.1
 -[[コメント/難易度表/むずかしい/Central Dogma Pt.2]] コメント/ナンイドオモテ/ムズカシイ/Central Dogma Pt.2
+-[[コメント/難易度表/むずかしい/Challengers]] コメント/ナンイドオモテ/ムズカシイ/Challengers
 -[[コメント/難易度表/むずかしい/Checkmate!?]] コメント/ナンイドオモテ/ムズカシイ/Checkmate!?
 -[[コメント/難易度表/むずかしい/Choco Chiptune.]] コメント/ナンイドオモテ/ムズカシイ/Choco Chiptune.
 -[[コメント/難易度表/むずかしい/Choo Choo TRAIN]] コメント/ナンイドオモテ/ムズカシイ/Choo Choo TRAIN
@@ -6936,6 +6941,7 @@
 -[[コメント/難易度表/むずかしい/Love Forever]] コメント/ナンイドオモテ/ムズカシイ/Love Forever
 -[[コメント/難易度表/むずかしい/Love so sweet]] コメント/ナンイドオモテ/ムズカシイ/Love so sweet
 -[[コメント/難易度表/むずかしい/Lovin' Life]] コメント/ナンイドオモテ/ムズカシイ/Lovin' Life
+-[[コメント/難易度表/むずかしい/Lunar Maria]] コメント/ナンイドオモテ/ムズカシイ/Lunar Maria
 -[[コメント/難易度表/むずかしい/L・O・B・M]] コメント/ナンイドオモテ/ムズカシイ/L・O・B・M
 -[[コメント/難易度表/むずかしい/L・O・V・E]] コメント/ナンイドオモテ/ムズカシイ/L・O・V・E
 -[[コメント/難易度表/むずかしい/M.S.S.Planet]] コメント/ナンイドオモテ/ムズカシイ/M.S.S.Planet
@@ -7193,6 +7199,7 @@
 -[[コメント/難易度表/むずかしい/Xa]] コメント/ナンイドオモテ/ムズカシイ/Xa
 -[[コメント/難易度表/むずかしい/Xevel]] コメント/ナンイドオモテ/ムズカシイ/Xevel
 -[[コメント/難易度表/むずかしい/YOAKE]] コメント/ナンイドオモテ/ムズカシイ/YOAKE
+-[[コメント/難易度表/むずかしい/YONA YONA DANCE]] コメント/ナンイドオモテ/ムズカシイ/YONA YONA DANCE
 -[[コメント/難易度表/むずかしい/Yeah!めっちゃホリディ]] コメント/ナンイドオモテ/ムズカシイ/Yeah!メッチャホリディ
 -[[コメント/難易度表/むずかしい/Yes we are]] コメント/ナンイドオモテ/ムズカシイ/Yes we are
 -[[コメント/難易度表/むずかしい/YouTubeテーマソング]] コメント/ナンイドオモテ/ムズカシイ/YouTubeテーマソング
@@ -7285,6 +7292,7 @@
 -[[コメント/難易度表/むずかしい/明日への闘志]] コメント/ナンイドオモテ/ムズカシイ/アシタヘノトウシ
 -[[コメント/難易度表/むずかしい/明日への扉]] コメント/ナンイドオモテ/ムズカシイ/アシタヘノトビラ
 -[[コメント/難易度表/むずかしい/明日も]] コメント/ナンイドオモテ/ムズカシイ/アシタモ
+-[[コメント/難易度表/むずかしい/阿修羅ちゃん]] コメント/ナンイドオモテ/ムズカシイ/アシュラチャン
 -[[コメント/難易度表/むずかしい/アジアの純真]] コメント/ナンイドオモテ/ムズカシイ/アジアノジュンシン
 -[[コメント/難易度表/むずかしい/アスノヨゾラ哨戒班]] コメント/ナンイドオモテ/ムズカシイ/アスノヨゾラショウカイハン
 -[[コメント/難易度表/むずかしい/あたしイカサマ恋はイカサマ]] コメント/ナンイドオモテ/ムズカシイ/アタシイカサマコハイカサマ
@@ -9313,6 +9321,7 @@
 -[[難易度表/おに/Central Dogma Pt.1]] ナンイドオモテ/オニ/Central Dogma Pt.1
 -[[難易度表/おに/Central Dogma Pt.1(裏譜面)]] ナンイドオモテ/オニ/Central Dogma Pt.1(ウラフメン)
 -[[難易度表/おに/Central Dogma Pt.2]] ナンイドオモテ/オニ/Central Dogma Pt.2
+-[[難易度表/おに/Challengers]] ナンイドオモテ/オニ/Challengers
 -[[難易度表/おに/Checkmate!?]] ナンイドオモテ/オニ/Checkmate!?
 -[[難易度表/おに/Cheerful Flyer]] ナンイドオモテ/オニ/Cheerful Flyer
 -[[難易度表/おに/Choco Chiptune.]] ナンイドオモテ/オニ/Choco Chiptune.
@@ -11760,6 +11769,7 @@
 -[[難易度表/かんたん/Caribbean Knight]] ナンイドオモテ/カンタン/Caribbean Knight
 -[[難易度表/かんたん/Central Dogma Pt.1]] ナンイドオモテ/カンタン/Central Dogma Pt.1
 -[[難易度表/かんたん/Central Dogma Pt.2]] ナンイドオモテ/カンタン/Central Dogma Pt.2
+-[[難易度表/かんたん/Challengers]] ナンイドオモテ/カンタン/Challengers
 -[[難易度表/かんたん/Checkmate!?]] ナンイドオモテ/カンタン/Checkmate!?
 -[[難易度表/かんたん/Cheerful Flyer]] ナンイドオモテ/カンタン/Cheerful Flyer
 -[[難易度表/かんたん/Choco Chiptune.]] ナンイドオモテ/カンタン/Choco Chiptune.
@@ -14352,6 +14362,7 @@
 -[[難易度表/ふつう/Caribbean Knight]] ナンイドオモテ/フツウ/Caribbean Knight
 -[[難易度表/ふつう/Central Dogma Pt.1]] ナンイドオモテ/フツウ/Central Dogma Pt.1
 -[[難易度表/ふつう/Central Dogma Pt.2]] ナンイドオモテ/フツウ/Central Dogma Pt.2
+-[[難易度表/ふつう/Challengers]] ナンイドオモテ/フツウ/Challengers
 -[[難易度表/ふつう/Checkmate!?]] ナンイドオモテ/フツウ/Checkmate!?
 -[[難易度表/ふつう/Cheerful Flyer]] ナンイドオモテ/フツウ/Cheerful Flyer
 -[[難易度表/ふつう/Choco Chiptune.]] ナンイドオモテ/フツウ/Choco Chiptune.
@@ -16629,6 +16640,7 @@
 -[[難易度表/むずかしい/Caribbean Knight]] ナンイドオモテ/ムズカシイ/Caribbean Knight
 -[[難易度表/むずかしい/Central Dogma Pt.1]] ナンイドオモテ/ムズカシイ/Central Dogma Pt.1
 -[[難易度表/むずかしい/Central Dogma Pt.2]] ナンイドオモテ/ムズカシイ/Central Dogma Pt.2
+-[[難易度表/むずかしい/Challengers]] ナンイドオモテ/ムズカシイ/Challengers
 -[[難易度表/むずかしい/Checkmate!?]] ナンイドオモテ/ムズカシイ/Checkmate!?
 -[[難易度表/むずかしい/Cheerful Flyer]] ナンイドオモテ/ムズカシイ/Cheerful Flyer
 -[[難易度表/むずかしい/Choco Chiptune.]] ナンイドオモテ/ムズカシイ/Choco Chiptune.

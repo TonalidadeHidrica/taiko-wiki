@@ -592,7 +592,6 @@
 |〇|BGCOLOR(gold):|EX Mission Complete!|[[COLOR(blue):Agent Hustle ＆ Dr. Hassle(裏)>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|幻ドンだー|[[COLOR(blue):Spectral Rider>難易度表/おに/Spectral Rider]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|猛寅級トラッパー|[[COLOR(blue):ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|太鼓の未来を識りし者|[[COLOR(blue):The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|Traveler from 2765|[[COLOR(blue):The Future of the 太鼓ドラム(裏)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|道化師は終焉にて嗤う|[[COLOR(blue):Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]を難易度おにでフルコンボ|~|
@@ -612,11 +611,11 @@
 |〇|BGCOLOR(gold):|極致を目指す者|[[COLOR(blue):Player's High>難易度表/おに/Player's High]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|さて帰宅しよ。|[[COLOR(blue):ねこくじら(裏)>難易度表/おに/ねこくじら(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|息継ぎなしで叩けマース！|[[COLOR(blue):ON SAY GO SAY(裏)>難易度表/おに/ON SAY GO SAY(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|響瀾を越えし挑戦者|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|パラレルリズム|[[COLOR(blue):パラレルロリポップ>難易度表/おに/パラレルロリポップ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|二重螺旋の真実に至りし者|[[COLOR(blue):Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|卵には醤油派|[[COLOR(blue):しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):Challengers>難易度表/おに/Challengers]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|

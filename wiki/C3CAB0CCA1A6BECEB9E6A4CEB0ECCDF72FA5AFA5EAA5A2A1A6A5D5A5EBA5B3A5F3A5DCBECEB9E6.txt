@@ -183,9 +183,9 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]|おに|||
-|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):ねこくじら(裏譜面)>難易度表/おに/ねこくじら(裏譜面)]]|裏譜面|さて帰宅しよ。||
+|BGCOLOR(orangered):~ナムオリ|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]|おに|響瀾を越えし挑戦者||
 |~|[[COLOR(blue):ON SAY GO SAY(裏譜面)>難易度表/おに/ON SAY GO SAY(裏譜面)]]|裏譜面|息継ぎなしで叩けマース！||
+|~|[[COLOR(blue):ねこくじら(裏譜面)>難易度表/おに/ねこくじら(裏譜面)]]|裏譜面|さて帰宅しよ。||
 |~|[[COLOR(blue):Player's High>難易度表/おに/Player's High]]|おに|極致を目指す者||
 |~|[[COLOR(blue):弧>難易度表/おに/弧]]|おに|繋||
 |~|[[COLOR(blue):めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|おに|ゆにば〜す学園の生徒||
@@ -586,7 +586,7 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|~|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]|おに|||
+|~|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]|おに|響瀾を越えし挑戦者||
 |~|[[COLOR(blue):ON SAY GO SAY(裏譜面)>難易度表/おに/ON SAY GO SAY(裏譜面)]]|裏譜面|息継ぎなしで叩けマース！||
 |~|[[COLOR(blue):Player's High>難易度表/おに/Player's High]]|おに|極致を目指す者||
 |~|[[COLOR(blue):弧>難易度表/おに/弧]]|おに|繋||
