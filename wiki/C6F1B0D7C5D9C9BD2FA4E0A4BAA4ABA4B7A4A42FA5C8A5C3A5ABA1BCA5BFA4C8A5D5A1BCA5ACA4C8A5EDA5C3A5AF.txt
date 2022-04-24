@@ -46,5 +46,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#fumen]
-~BPM143
-~&attachref(clstoc.png,nolink);
+~&attachref(clstoc_h.png,nolink);

@@ -58,5 +58,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~3DS1以降は★★★★★★★★★☆
-~&attachref(トフロBPMしか修正されてなかったお.png,nolink);
+~旧基準では★×10
+~&attachref(clstoc_m.png,nolink);
