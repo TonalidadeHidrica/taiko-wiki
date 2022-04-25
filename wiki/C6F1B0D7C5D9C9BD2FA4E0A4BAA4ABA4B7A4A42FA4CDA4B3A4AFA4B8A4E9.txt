@@ -36,4 +36,4 @@
 
 ***譜面 [#score]
 ~BPMは[[おに>難易度表/おに/ねこくじら#score]]を参照
-~&ref(neko2_h.png,nolink);
+~&ref(neko_h3.png,nolink);
