@@ -26,8 +26,8 @@
 --[[わっふ〜音頭>難易度表/おに/わっふ〜音頭]]の歌唱もしている。
 --歌詞の内容は、クロノア作中で使われている架空言語「ファントマイル語」である。
 -作曲は、''[[柿埜嘉奈子>参加アーティスト一覧/柿埜嘉奈子]]''。編曲は、''草間敬''。
--AC8稼働前のナムコオリジナル人気投票では、この曲は18位だった。
---[[投票結果(Web Archive)>https://web.archive.org/web/20060406001914/http://www.bandainamcogames.co.jp:80/aa/am/vg/taikono-tatsujin7/special/request/]]
+-AC8稼働前のナムコオリジナル人気投票では、この曲は18位だった。[[投票結果(Web Archive)>https://web.archive.org/web/20060406001914/http://www.bandainamcogames.co.jp:80/aa/am/vg/taikono-tatsujin7/special/request/]]
+--20位以内にランクインした曲の中では唯一新基準の作品に収録されていない。
 -新筐体モモイロVer.では、[[''The Windmill Song''>難易度表/おに/The Windmill Song]]が収録された。
 --[[風のクロノアシリーズ>ゲーム別収録曲#klonoa]]の曲が収録されるのはこの曲以来であり、''約11年2ヶ月振り''のことである。
 -曲IDは、''klono''。

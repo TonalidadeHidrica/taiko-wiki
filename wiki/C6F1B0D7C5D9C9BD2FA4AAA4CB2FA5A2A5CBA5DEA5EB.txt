@@ -28,4 +28,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(アニマル_2.png,nolink);
+~&attachref(アニマル_3.png,nolink);

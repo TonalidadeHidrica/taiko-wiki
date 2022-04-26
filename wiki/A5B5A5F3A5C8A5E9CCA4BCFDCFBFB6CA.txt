@@ -51,7 +51,6 @@
 |BGCOLOR(#ff7028):|[[星河一天>難易度表/おに/星河一天]]|-|打打だいず|
 |BGCOLOR(#ff7028):|[[青天の黎明>難易度表/おに/青天の黎明]]|siroa|steμ|
 |BGCOLOR(#ff7028):|[[零の交響曲>難易度表/おに/零の交響曲]]|サリヤ人|kyo|
-|BGCOLOR(#ff7028):|[[閃光ヴァルキュリア>難易度表/おに/閃光ヴァルキュリア]]|葉月ゆら|Drop|
 |BGCOLOR(#ff7028):|[[続・〆ドレー2000>難易度表/おに/続・〆ドレー2000]]|-|LindaAI-CUE(増渕裕二)|
 |BGCOLOR(#ded523):|[[其方、激昂>難易度表/おに/其方、激昂]]|-|ベートーヴェン(田島勝朗)|
 |BGCOLOR(#ff7028):|[[Diving Drive>難易度表/おに/Diving Drive]]|Mu&#77;enkyo.|Tanchiky|
@@ -163,6 +162,7 @@
 |~|~|~|~|[[公式音源(SoundCloud)>https://soundcloud.com/sakuzyo/shinra]]|~|
 |~|~|~|~|∀rkadia Яesurrection|ロングVer.|
 |BGCOLOR(#ff7028):|[[令・和太鼓>難易度表/おに/令・和太鼓]]|-|翡翠|C-VALKYLUNA2|ゲームSize|
+|BGCOLOR(#ff7028):|[[閃光ヴァルキュリア>難易度表/おに/閃光ヴァルキュリア]]|葉月ゆら|Drop|夜想陽炎|ロングVer.|
 |BGCOLOR(#ff7028):|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|-|黒沢ダイスケ|BLACK ALBUM 4|ゲームSize|
 |~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/N1Ne3BZZ_m4]]|~|
 |BGCOLOR(#ff7028):|[[彁>難易度表/おに/彁]]|-|LeaF|[[公式MV(YouTube)>https://youtu.be/EsOU0V2kpUI]]&br;COLOR(red){【''閲覧注意''】}|ゲームSize|
@@ -193,6 +193,7 @@
 |BGCOLOR(#ff7028):|[[めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|本木咲黒|kyo|[[公式音源(YouTube)>https://www.youtube.com/watch?v=MBF4wd4VtK0]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[弧>難易度表/おに/弧]]|-|概念|[[公式音源(YouTube)>https://www.youtube.com/watch?v=QdeLIgKO46A]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[Player's High>難易度表/おに/Player's High]]|-|K.Key|[[公式音源(YouTube)>https://www.youtube.com/watch?v=11D6EMN7u98]]|ゲームSize|
+|BGCOLOR(#ff7028):|[[Challengers>難易度表/おに/Challengers]]|-|まるろん|[[公式音源(YouTube)>https://www.youtube.com/watch?v=IsoYizhw-Dc]]|ゲームSize|
 
 **収録されない可能性が高いもの [#possibility]
 |1|||||c
