@@ -742,7 +742,7 @@
 ***ジャンル別の曲名が長い曲(サブタイトルと空白除く、記号含む)[#titlelongsgenre]
 |CENTER:80||CENTER:50|c
 |ジャンル|曲名|文字数|h
-|BGCOLOR(cyan):J-POP|[[アイノカタチ feat.HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|24文字|
+|BGCOLOR(cyan):ポップス|[[アイノカタチ feat.HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|24文字|
 |BGCOLOR(orange):アニメ|[[Bowling For Soup - Jimmy Neutron Theme>難易度表/おに/Bowling For Soup]]|32文字|
 |BGCOLOR(silver):ボーカロイド&#8482;曲|[[Future Melody - 心から未来へ ->難易度表/おに/Future Melody - 心から未来へ -]]|20文字|
 |BGCOLOR(magenta):どうよう|[[クラリネットをこわしちゃった>難易度表/おに/クラリネットをこわしちゃった]]|14文字|
@@ -890,7 +890,7 @@
 ***ジャンル別のサブタイトルの字数が短い曲(記号含む、空白は含まない)[#subtitleshortgenre]
 |CENTER:80|||CENTER:40|c
 |ジャンル|曲名|サブタイトル|文字数|h
-|BGCOLOR(cyan):J-POP|[[ドラマツルギー>難易度表/おに/ドラマツルギー]]／[[裏譜面>難易度表/おに/ドラマツルギー(裏譜面)]]|Eve|3文字|
+|BGCOLOR(cyan):ポップス|[[ドラマツルギー>難易度表/おに/ドラマツルギー]]／[[裏譜面>難易度表/おに/ドラマツルギー(裏譜面)]]|Eve|3文字|
 |~|[[ナンセンス文学>難易度表/おに/ナンセンス文学]]|Eve|~|
 |~|[[ポケットからきゅんです！>難易度表/おに/ポケットからきゅんです！]]|ひらめ|~|
 |~|[[うっせぇわ>難易度表/おに/うっせぇわ]]|Ado|~|
