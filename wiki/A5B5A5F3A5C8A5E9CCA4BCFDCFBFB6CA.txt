@@ -9,7 +9,6 @@
 |1||||c
 ||曲名(50音順)|歌唱|作曲(編曲)|h
 |BGCOLOR(#ff7028):|[[Argent Memories>難易度表/おに/Argent Memories]]|YuusA|K Masera|
-|BGCOLOR(#ff7028):|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|Taku Inoue|Taku Inoue|
 |BGCOLOR(#ff7028):|[[赤と白薔薇の魔女>難易度表/おに/赤と白薔薇の魔女]]|羽鳥玲|Dokuwaki|
 |BGCOLOR(#ff7028):|[[あの日出会えたキセキ>難易度表/おに/あの日出会えたキセキ]]|大瀬良あい、miko|溝口ゆうま|
 |BGCOLOR(#ff7028):|[[あまてらすJK>難易度表/おに/あまてらすJK]]|さちこ|Takahiro Akuta|
@@ -190,7 +189,6 @@
 |BGCOLOR(#ff7028):|[[アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]|はぁち|Ponchi♪|[[公式音源(YouTube)>https://www.youtube.com/watch?v=7HAhoBFU8XI]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[晨星ト鵺>難易度表/おに/晨星ト鵺]]|-|Silentroom|[[公式音源(YouTube)>https://www.youtube.com/watch?v=DGAE0rTLxVU]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|-|steμ|[[公式音源(YouTube)>https://www.youtube.com/watch?v=1NjMikod7fk]]|ゲームSize|
-|BGCOLOR(#ff7028):|[[めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|本木咲黒|kyo|[[公式音源(YouTube)>https://www.youtube.com/watch?v=MBF4wd4VtK0]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[弧>難易度表/おに/弧]]|-|概念|[[公式音源(YouTube)>https://www.youtube.com/watch?v=QdeLIgKO46A]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[Player's High>難易度表/おに/Player's High]]|-|K.Key|[[公式音源(YouTube)>https://www.youtube.com/watch?v=11D6EMN7u98]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[Challengers>難易度表/おに/Challengers]]|-|まるろん|[[公式音源(YouTube)>https://www.youtube.com/watch?v=IsoYizhw-Dc]]|ゲームSize|

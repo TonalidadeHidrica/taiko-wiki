@@ -27,5 +27,5 @@
 ***リンク [#link]
 -[[太鼓の達人 ドンだー！世界一決定戦2021 課題曲募集だドン！>https://columbia-makes.jp/taikonotatsujin2021/]]
 
-***コメント [#comment]
-#pcomment(,noname)
+//***コメント [#comment]
+//#pcomment(,noname)

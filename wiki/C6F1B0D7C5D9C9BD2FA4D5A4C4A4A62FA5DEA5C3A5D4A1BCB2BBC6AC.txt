@@ -9,6 +9,7 @@
 ||CS1|★×5|''188''|''619940点''|＋連打|1060点|290点||
 ||PSP1|★×6|''182''|''613370点''|~|1000点|290点|''ゴーゴーバグあり''|
 ||龍が如く|~|~|''559660点''|~|1030点|368点||
+||iOS&br;AR|★×3|''136''|''480950点''|~|1080点|300点||
 
 ***譜面構成・攻略 [#capture]
 -BPMは126。
@@ -28,20 +29,24 @@
 -[[かんたん>難易度表/かんたん/マッピー音頭]]
 -[[むずかしい>難易度表/むずかしい/マッピー音頭]]
 -[[おに>難易度表/おに/マッピー音頭]]
--[[オート動画(PSP1,現行譜面)>https://m.youtube.com/watch?v=ij9O-hbbC7s]]
+-[[オート動画(iOS,現行譜面)>https://www.youtube.com/watch?v=P1gWwOsjjFA]]
+-[[オート動画(PSP1,旧譜面)>https://m.youtube.com/watch?v=ij9O-hbbC7s]]
 -[[プレイ動画(龍が如く,直撮り,フルコンボ)>https://www.youtube.com/watch?v=CDtLi-Yi_k0&t=45]]
--[[オート動画(CS1,旧譜面)>https://www.youtube.com/watch?v=aGBt0lJGI34]]
--[[プレイ動画(AC1,旧々譜面)>https://www.youtube.com/watch?v=9zkYbxe2wsI]]
+-[[オート動画(CS1,旧々譜面)>https://www.youtube.com/watch?v=aGBt0lJGI34]]
+-[[プレイ動画(AC1,旧々々譜面)>https://www.youtube.com/watch?v=9zkYbxe2wsI]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
+~iOS/ARの譜面
+~&attachref(mappy1_n.png,nolink);
+
 ~PSP1譜面
-&attachref(mappy_n.png,nolink);
+~&attachref(mappy_n.png,nolink);
 
 ~CS1の譜面
-&attachref(マッピー_cs1_n.png,nolink);
+~&attachref(マッピー_cs1_n.png,nolink);
 
 ~AC1、2の譜面。AC2では★×5
-&attachref(マッピー_ac1_n.png,nolink);
+~&attachref(マッピー_ac1_n.png,nolink);

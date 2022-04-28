@@ -1,9 +1,12 @@
 *絶望へのトッカータ [#title]
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1SP''&br;''PS Vita1亜SP''|CENTER:★×7|CENTER:''581''|CENTER:''834100点''|CENTER:＋連打|CENTER:400点|CENTER:100点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''??????0点''}|~|CENTER:COLOR(#ff3300){???0点}|CENTER:-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''581''|''834100点''|＋連打|400点|100点|
+|''PS Vita1亜SP''|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''??????0点''}|~|COLOR(#ff3300){???0点}|-|
+|iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''?????0点''|~|??0点|???点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは140。

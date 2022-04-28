@@ -2,8 +2,9 @@
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|>|初項|公差|h
-|''AC10''|BGCOLOR(cyan):''J-POP''|★×3|''112''|''?????0点''|＋連打|1120点|400点|
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC10''||BGCOLOR(cyan):''J-POP''|★×3|''112''|''500840点''|1120点|400点|
+||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは''286''。
@@ -37,7 +38,7 @@
 #pcomment(,noname)
 
 ***譜面 [#Fumen]
-実際の処理
-&ref(mikan_n.png,nolink);
-見た目重視
-&ref(mikan_n_view.png,nolink);
+~実際の処理
+~&ref(mikan_n.png,nolink);
+~見た目重視
+~&ref(mikan_n_view.png,nolink);

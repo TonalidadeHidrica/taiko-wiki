@@ -157,7 +157,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(orange):|[[線路は続くよどこまでも>難易度表/おに/線路は続くよどこまでも]]|''4.233''|120|455|107.50秒||
 |>|>|BGCOLOR(orange):|[[ウルトラマンマックスCOLOR(#890089):(達人譜面)>難易度表/おに/ウルトラマンマックス]]|''4.227''|170|276|65.29秒||
 |>|>|BGCOLOR(orange):|[[ハム太郎とっとこうた>難易度表/おに/ハム太郎とっとこうた]]|''4.183''|140|337|80.57秒|AC4,5|
-|>|BGCOLOR(cyan):|BGCOLOR(lime):|[[Walking On Sunshine>難易度表/おに/Walking On Sunshine]]|''4.175''|210|303|72.57秒|''ジャンル1位:COLOR(lime):バラエティ'' ・ 米TDM|
+|>|BGCOLOR(cyan):|BGCOLOR(lime):|[[Walking on Sunshine>難易度表/おに/Walking On Sunshine]]|''4.175''|210|303|72.57秒|''ジャンル1位:COLOR(lime):バラエティ'' ・ 米TDM|
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[サイコー・エブリデイ！>難易度表/おに/サイコー・エブリデイ！]]|''4.147''|152|338|81.51秒||
 |>|>|BGCOLOR(lime):|[[パンパカパンツ>難易度表/おに/パンパカパンツ]]|''4.088''|145|203|49.66秒||
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[DANZEN! ふたりはプリキュア(Ver.Max Heart)>難易度表/おに/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]|''4.071''|167|313|76.89秒||

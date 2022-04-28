@@ -42,6 +42,9 @@
 -Previously recorded songs：[[Momoiro(Pink)>太鼓の達人 新筐体（アジア版）の収録曲/モモイロ]]／[[Kimidori(Yellow green)>太鼓の達人 新筐体（アジア版）の収録曲/キミドリ]]／[[Murasaki(Purple)>太鼓の達人 新筐体（アジア版）の収録曲/ムラサキ]]／[[White>太鼓の達人 新筐体（アジア版）の収録曲/ホワイト]]／[[Red>太鼓の達人 新筐体（アジア版）の収録曲/レッド]]／[[Yellow>太鼓の達人 新筐体（アジア版）の収録曲/イエロー]]／[[Blue>太鼓の達人 新筐体（アジア版）の収録曲/ブルー]]／[[Green>太鼓の達人 新筐体（アジア版）の収録曲/グリーン]]
 ~　　　　　　　 　 　　　 　　 [[Niji-iro2021>太鼓の達人 新筐体（アジア版）の収録曲/ニジイロ2021]]　　　　　
 -[[Songs that are unavailable in Asia Ver.>#unavailable]]
+
+----
+
 -[[Taiko Time(Another Wiki)>http://taikotime.blogspot.jp/]]
 
 ----
@@ -70,7 +73,7 @@
 ''NEW''・・・New songs~
 ''隠''・・・Hidden songs~
 ''Songs with Grey background（COLOR(#ccc){■}）''・・・''Currently not playable songs''~
-''Songs with Beige background（COLOR(beige){■}）''・・・''Currently not unprocurable songs''((If you have already acquired it, you can play it.))~
+//''Songs with Beige background（COLOR(beige){■}）''・・・''Currently not unprocurable songs''((If you have already acquired it, you can play it.))~
 ''Songs with Pink Background（COLOR(pink){■}）''・・・''Songs for Double Play''((When selecting songs, it is necessary to change the settings in advance at Donder Hiroba.))~
 
 ----

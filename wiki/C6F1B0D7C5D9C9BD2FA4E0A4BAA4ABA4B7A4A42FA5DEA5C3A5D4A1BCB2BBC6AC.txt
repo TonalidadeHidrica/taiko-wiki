@@ -6,11 +6,7 @@
 |''AC1''-3||>|>|>|>|>|>|''むずかしいコースはなかった''|
 ||CS1|★×4|COLOR(#909):''259&br;COLOR(#069):261&br;COLOR(#666):229''|''718420点''|＋連打|900点|220点||
 ||PSP1|★×5|COLOR(#909):''254&br;COLOR(#069):255&br;COLOR(#666):229''|''764410点''|~|870点|240点|''ゴーゴーバグあり''|
-
-***アーティスト情報 [#artist]
--歌唱は、''渡邊良子''。
--[[原曲>難易度表/むずかしい/マッピーメドレー]]の作曲は、''大野木宣幸''。
--編曲は、''[[みすみゆり>参加アーティスト一覧/みすみゆり]]''。作詞は、''中館賢''。
+||iOS&br;AR|~|''187''|''729940点''|~|1190点|280点||
 
 ***譜面構成・攻略 [#capture]
 -BPMは126。
@@ -19,12 +15,13 @@
 -またCS1では分岐判定は甘いものの、ほとんどの12分と24分が16分になっており曲に合っておらず非常に精度がとりにくい。
 
 ***その他 [#other]
--譜面作成は、[[''ササオカ''>譜面作成者一覧/ササオカ]]。
--曲IDは、''mappy''。
+-楽曲情報は[[おに>難易度表/おに/マッピー音頭]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/マッピー音頭]]
 -[[ふつう>難易度表/ふつう/マッピー音頭]]
 -[[おに>難易度表/おに/マッピー音頭]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=dvwdYkMOZhM]]
 -動画(PSP1)
 --[[COLOR(#909){達人譜面}>https://www.youtube.com/watch?v=c4cfI5wIgLc]]/[[COLOR(#069){玄人譜面}>https://www.youtube.com/watch?v=c4cfI5wIgLc&t=111s]]/[[COLOR(#666){普通譜面}>https://www.youtube.com/watch?v=c4cfI5wIgLc&t=208s]]/[[全譜面同時再生>https://www.youtube.com/watch?v=c4cfI5wIgLc&t=305s]]
 -[[オート動画(CS1)>https://www.youtube.com/watch?v=Gti19PJr1-o]]
@@ -34,8 +31,11 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~iOS/ARの譜面
+~&attachref(mappy1_h.png,nolink);
+
 ~PSP1譜面
-&ref(mappy_h.png,nolink);
+~&attachref(mappy_h.png,nolink);
 
 ~CS1譜面
-&attachref(マッピー_cs1_h.png,nolink);
+~&attachref(マッピー_cs1_h.png,nolink);
