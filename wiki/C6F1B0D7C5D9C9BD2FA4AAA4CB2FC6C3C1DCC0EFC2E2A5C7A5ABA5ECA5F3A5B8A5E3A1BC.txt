@@ -1,5 +1,5 @@
 *特捜戦隊デカレンジャー [#title]
--「''特捜戦隊デカレンジャー''」のOP曲。
+-「''[[特捜戦隊デカレンジャー>アニメ別収録曲#sentai]]''」のOP曲。
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|h
@@ -27,4 +27,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(deka.png,nolink);
+&attachref(deka_2.png,nolink);

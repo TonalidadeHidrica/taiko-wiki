@@ -18,7 +18,7 @@
 -[[モールス信号]]
 -[[限定公式収録曲一覧>限定公式譜面一覧]]
 -[[全コース最高難易度曲一覧]]
--[[太鼓の達人 歴代全一wiki>https://www65.atwiki.jp/taikoranking/]]
+-[[太鼓の達人 歴代全一Wiki(当Wikiとは別のWiki)>https://www65.atwiki.jp/taikoranking/]]
 
 **収録曲の並び順 [#row]
 
@@ -120,8 +120,9 @@
 -[[複数回被使用曲一覧>段位道場/複数回被使用曲一覧]]
 -[[最大コンボ数順>段位道場/最大コンボ数順]]
 
-**[[難易度順]] [#level]
+**難易度順 [#level]
 
+-[[難易度順について>難易度順]]
 -[[太鼓の達人 クリア難易度 議論補助Wiki(当Wikiとは別のWiki)>https://wikiwiki.jp/taiko-giron/]]
 -[[作成議論所>クリア難易度 ページ作成についての議論所]]
 -[[難易度別譜面数(AC16)>難易度順/AC16/おに/難易度別譜面数]]
@@ -162,7 +163,6 @@
 
 *その他のお役立ち資料 [#convenient]
 
--[[公式YouTube(バンダイナムコスタジオ サウンドチーム)>https://www.youtube.com/channel/UCHGjU46mrWFXCvot1YQ3Y_Q/videos]]
 -[[全国大会一覧]]
 -[[踊り子一覧]]
 -[[特殊連打]]
@@ -183,11 +183,13 @@
 
 -サブスクリプション
 
+--[[YouTube(自動生成音源)>https://www.youtube.com/channel/UCQ3SkB01uFTsuSCvLqADbpg]]
+
 --[[太鼓の達人 ナムコオリジナルサウンドトラック 「神曲コレクション」>https://nex-tone.link/A00092884]]
 --[[太鼓の達人 ナムコオリジナルサウンドトラック 「最強×乱舞コレクション」>https://nex-tone.link/A00094226]]
 --[[太鼓の達人 ナムコオリジナルサウンドトラック 「EDMコレクション」>https://nex-tone.link/A00095925]]
 --[[太鼓の達人 ナムコオリジナルサウンドトラック 「エレクトロニックエモーションコレクション」>https://nex-tone.link/A00097319]]
-//--[[太鼓の達人 ナムコオリジナルサウンドトラック 「青春コレクション」>]]
+--[[太鼓の達人 ナムコオリジナルサウンドトラック 「青春コレクション」>https://nex-tone.link/A00098645]]
 
 -CD
 
@@ -240,9 +242,19 @@
 -[[ゲーム実況ポリシー>https://www.bandainamcoent.co.jp/info/videopolicy/]]
 --[[ゲームセンター版「太鼓の達人」ゲーム実況ポリシー>https://taiko.namco-ch.net/taiko/gameplay_policy/]]
 
+**公式チャンネル [#youtube]
+
+-[[バンダイナムコスタジオ サウンドチーム>https://www.youtube.com/channel/UCHGjU46mrWFXCvot1YQ3Y_Q/videos]]
+-[[876TV>https://www.youtube.com/playlist?list=PL0DnZpV_rwVvZ0g7g-Hc9YqUlwuCnhH_j]]
+
+**他のサイト [#site]
+
+-[[Wikipedia(「太鼓の達人」の記事)>http://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA]]
+-[[Wikipedia(「太鼓の達人の登場人物一覧」の記事)>https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7]]
+-[[ニコニコ大百科(「太鼓の達人」の記事)>https://dic.nicovideo.jp/a/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA]]
+
 **Wiki関連 [#wikicon]
 
--[[Wikipedia(太鼓の達人)>http://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA]]
 -[[バージョン表記一覧]]
 -[[公式生放送での雑談コメント>コメント/雑談所/公式生放送用]]
 -[[ヘルプ>Help]]

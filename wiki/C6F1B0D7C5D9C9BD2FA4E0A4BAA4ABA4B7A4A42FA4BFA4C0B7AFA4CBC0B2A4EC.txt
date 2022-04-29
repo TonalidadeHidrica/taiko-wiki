@@ -11,7 +11,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは約140。
--連打秒数・・・約1.036秒−SIZE(16){''約0.607秒''}:合計1.643秒
+-連打秒数・・・約1.036秒−SIZE(16){''約0.607秒''}:合計約1.643秒
 -COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}や、COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}と言った複合が特徴的。また、★×3にしては珍しく、そこそこな頻度で8分の複合7連が登場する。
 -大音符のほとんどは通常音符に8分間隔で隣接しているので注意。
 -曲は短めだが、8分は5連、7連の複合が多い為、適正者は体力切れに注意。
@@ -23,7 +23,6 @@
 -[[ふつう>難易度表/ふつう/ただ君に晴れ]]
 -[[おに>難易度表/おに/ただ君に晴れ]]
 -[[オート動画(NS1)>https://www.youtube.com/watch?v=jV3x93XDWCI]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/mVg-a_6Ur9I]]
 -[[プレイ動画>https://www.youtube.com/watch?v=iMNIJRav7gI]]
 
 ***コメント [#comment]

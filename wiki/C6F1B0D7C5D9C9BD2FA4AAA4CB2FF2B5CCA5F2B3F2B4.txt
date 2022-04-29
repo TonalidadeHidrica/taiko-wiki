@@ -47,6 +47,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~擬似32分は除外。
 ~&attachref(Chimi Moryo_4.png,nolink);
 
 ~見た目重視((61小節目の連打のみ再現できず))

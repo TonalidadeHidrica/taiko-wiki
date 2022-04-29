@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&ref(nanori-hard.png,nolink);
+&ref(nanori_h.png,nolink);
