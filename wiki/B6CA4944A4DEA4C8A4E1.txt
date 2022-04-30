@@ -8,7 +8,15 @@
 --PS4 1、NS1、PTB、新筐体ブルーVer. 2.06以降?の裏譜面ファイルは○○○○○○_xで表記される。
 -AC16で双打がある曲の曲IDは○○○○○○xx。
 
+----
+~｜[[数字>#number]]｜
+~｜[[A>#a]]｜[[B>#b]]｜[[C>#c]]｜[[D>#d]]｜[[E>#e]]｜[[F>#f]]｜[[G>#g]]｜[[H>#h]]｜[[I>#i]]｜
+~｜[[J>#j]]｜[[K>#k]]｜[[L>#l]]｜[[M>#m]]｜[[N>#n]]｜[[O>#o]]｜[[P>#p]]｜[[Q>#q]]｜[[R>#r]]｜
+~｜[[S>#s]]｜[[T>#t]]｜[[U>#u]]｜[[V>#v]]｜[[W>#w]]｜[[X>#x]]｜[[Y>#y]]｜[[Z>#z]]｜
+----
+
 |曲ID|曲名|備考|h
+|>|>|BGCOLOR(#ccc):CENTER:''数字''&aname(number);|
 |10binz|[[てんびん座急行 夜を行く>難易度表/おに/てんびん座急行 夜を行く]]||
 |10jiku|[[てんぢく2000>難易度表/おに/てんぢく2000]]||
 |10nen|[[君は天然色>難易度表/おに/君は天然色]]||
@@ -91,6 +99,7 @@
 |8ka7ki|[[儚姫は原初に舞う>難易度表/おに/儚姫は原初に舞う]]|儚姫=はかなき|
 |965op2|[[The Other self>難易度表/おに/The Other self]]|''黒子''のバスケ|
 |9renja|[[LUCKYSTAR>難易度表/おに/LUCKYSTAR]]||
+|>|>|BGCOLOR(#ccc):CENTER:''A''&aname(a);|
 |a12c01|[[搖滾怎麼了!!>難易度表/おに/搖滾怎麼了!!]]||
 |a12c04|[[無樂不作>難易度表/おに/無樂不作]]||
 |a12c05|[[&#22114;買&#23596;>難易度表/おに/？買？]]||
@@ -256,6 +265,7 @@
 |aya10|[[サンバ アレグリーア>難易度表/おに/サンバ アレグリーア]]|Sampling Masters AYA/10周年|
 |aya2|[[GOOD BYE 夏男>難易度表/おに/GOOD BYE 夏男]]|松浦亜弥|
 |ayumi|[[歩み>難易度表/おに/歩み]]||
+|>|>|BGCOLOR(#ccc):CENTER:''B''&aname(b);|
 |ba9ma2|[[幕末維新譚>難易度表/おに/幕末維新譚]]||
 |babel|[[バベルの塔>難易度表/おに/バベルの塔]]||
 |babstp|[[Believe in yourself>難易度表/おに/Believe in yourself]]|ベイビーステップ|
@@ -326,6 +336,7 @@
 |bymy|[[バイマイメロディー>難易度表/おに/バイマイメロディー]]||
 |bymysi|[[バイマイサイド>難易度表/おに/バイマイサイド]]||
 |byosin|[[秒針を噛む>難易度表/おに/秒針を噛む]]||
+|>|>|BGCOLOR(#ccc):CENTER:''C''&aname(c);|
 |c25|[[交響曲第25番ト短調より 第一楽章>難易度表/おに/交響曲第25番ト短調第一楽章]]|TDMのみ|
 |cal|[[ソウルキャリバーII>難易度表/おに/ソウルキャリバーII]]|TDMのみ|
 |calc|[[Calculator>難易度表/おに/Calculator]]||
@@ -481,6 +492,7 @@
 |curl2|[[カールのうた秋 池のほとり篇>難易度表/おに/カールのうた秋 池のほとり篇]]||
 |cutie|[[キューティーハニー>難易度表/おに/キューティーハニー]]||
 |cw|[[ウィリアム・テル序曲>難易度表/おに/ウィリアム・テル序曲]]|TDMのみ|
+|>|>|BGCOLOR(#ccc):CENTER:''D''&aname(d);|
 |d3tou080|妖怪乱舞 八十の巻|BPM|
 |d3tou120|妖怪乱舞 百二十の巻|~|
 |d3tou140|妖怪乱舞 夢幻一獲の巻|~|
@@ -623,6 +635,7 @@
 |dumbop|[[お願いマッスル>難易度表/おに/お願いマッスル]]||
 |duduwa|[[Du-Du-Wa DO IT!!>難易度表/おに/Du-Du-Wa DO IT!!]]||
 |duet|[[3年目の浮気>難易度表/おに/3年目の浮気]]||
+|>|>|BGCOLOR(#ccc):CENTER:''E''&aname(e);|
 |earth|[[September>難易度表/おに/September]]|Earth, Wind & Fire|
 |eatem|[[EAT'EM UP!>難易度表/おに/EAT'EM UP!]]||
 |ebika2|[[エビカニクス>難易度表/おに/エビカニクス]]||
@@ -693,6 +706,7 @@
 |exypp|[[太陽もヤッパッパー(裏)>難易度表/おに/太陽もヤッパッパー(裏譜面)]]||
 |exyuka|[[ハレ晴レユカイ(裏)>難易度表/おに/ハレ晴レユカイ]]|DP|
 |ezdo|[[EZ DO DANCE>難易度表/おに/EZ DO DANCE]]|仕分け∞版は''kjezdo''|
+|>|>|BGCOLOR(#ccc):CENTER:''F''&aname(f);|
 |f2naru|[[talking>難易度表/おに/talking]]|すべてが''Fになる''|
 |fa|[[DESERT STORM>難易度表/おに/DESERT STORM]]|F/A|
 |fa3res|[[ファミレスウォーズ>難易度表/おに/ファミレスウォーズ]]||
@@ -743,6 +757,7 @@
 |furisd|[[ふりそでーしょん>難易度表/おに/ふりそでーしょん]]||
 |furyu|[[冬竜 〜Toryu〜>難易度表/おに/冬竜 〜Toryu〜]]|冬(''fu''yu)+竜(''ryu'')=furyu|
 |fzone|[[ファンタジーゾーン OPA-OPA! -GMT remix->難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]||
+|>|>|BGCOLOR(#ccc):CENTER:''G''&aname(g);|
 |g14ki|[[G意識過剰>難易度表/おに/G意識過剰]]||
 |ga9sen|[[Brand-new World>難易度表/おに/Brand-new World]]||
 |gacha|[[ガッチャマンの歌>難易度表/むずかしい/ガッチャマンの歌]]||
@@ -850,6 +865,7 @@
 |gyak31|[[逆転裁判123メドレー>難易度表/おに/逆転裁判123メドレー]]||
 |gyoza1|[[福袋餃子自慢商店街の歌>難易度表/おに/福袋餃子自慢商店街の歌]]||
 |gyoza2|[[餃子ブギウギ>難易度表/おに/餃子ブギウギ]]||
+|>|>|BGCOLOR(#ccc):CENTER:''H''&aname(h);|
 |hadaka|[[裸の心>難易度表/おに/裸の心]]||
 |haiky2|[[ヒカリアレ>難易度表/おに/ヒカリアレ]]|ハイキュー!!|
 |haiky3|[[PHOENIX>難易度表/おに/PHOENIX]]|~|
@@ -922,6 +938,7 @@
 |hurtlb|[[Hurtling Boys>難易度表/おに/Hurtling Boys]]||
 |hvride|[[Heaven's Rider>難易度表/おに/Heaven's Rider]]||
 |hypmic|[[ヒプノシスマイク -Division Battle Anthem->難易度表/おに/ヒプノシスマイク -Division Battle Anthem-]]|''ヒプ''ノシス''マイク''|
+|>|>|BGCOLOR(#ccc):CENTER:''I''&aname(i);|
 |i2ki2k|[[いつかいつか>難易度表/おに/いつかいつか]]||
 |i4u|[[I'm A Slave 4 U>難易度表/おに/I'm A Slave 4 U]]||
 |i7wish|[[WiSH VOYAGE>難易度表/おに/WiSH VOYAGE]]|アイドリッシュセブン|
@@ -1097,6 +1114,7 @@
 |iwback|[[I Want You Back>難易度表/おに/I Want You Back]]||
 |iwish|[[I Wish For You>難易度表/おに/I Wish For You]]||
 |izanam|[[黄泉のイザナミ>難易度表/おに/黄泉のイザナミ]]||
+|>|>|BGCOLOR(#ccc):CENTER:''J''&aname(j);|
 |j99|[[ねがいごと☆ぱずる>難易度表/おに/ねがいごと☆ぱずる]]|作曲者|
 |jack|[[Here I Am>難易度表/おに/Here I Am]]|ブラック・ジャック|
 |japan|[[ホウキ雲>難易度表/おに/ホウキ雲]]|焼きたて!!ジャぱん|
@@ -1127,6 +1145,7 @@
 |jupt|[[木星>難易度表/おに/木星]]|Jupiter|
 |jysuki|[[好きな人がいること>難易度表/おに/好きな人がいること]]|JY|
 |jyuoja|[[動物戦隊ジュウオウジャー>難易度表/おに/動物戦隊ジュウオウジャー]]||
+|>|>|BGCOLOR(#ccc):CENTER:''K''&aname(k);|
 |k2mei|[[さくら(ケツメイシ)>難易度表/おに/さくら(ケツメイシ)]]||
 |k2mtom|[[友よ 〜この先もずっと…>難易度表/おに/友よ 〜この先もずっと…]]||
 |ka2kam|[[サクリファイス>難易度表/おに/サクリファイス]]|''かつ''て''神''だった獣たちへ|
@@ -1267,6 +1286,7 @@
 |kznhel|[[Hello, Morning>難易度表/おに/Hello, Morning]]||
 |kzniii|[[AIAIAI (feat.中田ヤスタカ)>難易度表/おに/AIAIAI (feat.中田ヤスタカ)]]||
 |kznina|[[風になりたい>難易度表/おに/風になりたい]]|仕分け∞版は''kjkaze''|
+|>|>|BGCOLOR(#ccc):CENTER:''L''&aname(l);|
 |lactea|[[via lactea>難易度表/おに/via lactea]]||
 |lad|[[Lady Marmalade>難易度表/おに/Lady Marmalade]]||
 |lam|[[ラムのラブソング>難易度表/おに/ラムのラブソング]]||
@@ -1318,6 +1338,7 @@
 |lupin3|[[ルパン三世>難易度表/おに/ルパン三世]]||
 |lvsoup|[[Soup>難易度表/おに/Soup]]|''ラヴ''ソング|
 |lvx|[[ラブリーX>難易度表/おに/ラブリーX]]||
+|>|>|BGCOLOR(#ccc):CENTER:''M''&aname(m);|
 |m96ikz|[[行くぜっ！怪盗少女 ‐Z ver.‐>難易度表/おに/行くぜっ！怪盗少女 ‐Z ver.‐]]|ももいろクローバーZ|
 |m96slm|[[月色Chainon>難易度表/おに/月色Chainon]]|~|
 |m96sr2|[[サラバ、愛しき悲しみたちよ -ZZ ver.->難易度表/おに/サラバ、愛しき悲しみたちよ -ZZ ver.-]]|~|
@@ -1494,6 +1515,7 @@
 |mymine|[[My mine>難易度表/おに/My Mine]]||
 |mys|[[My Sharona>難易度表/おに/My Sharona]]||
 |mznemo|[[キューティー☆デモニック☆魔人エモ!!>難易度表/おに/キューティー☆デモニック☆魔人エモ!!]]||
+|>|>|BGCOLOR(#ccc):CENTER:''N''&aname(n);|
 |nada|[[涙そうそう>難易度表/おに/涙そうそう]]||
 |nakana|[[泣かないで>難易度表/おに/泣かないで]]||
 |namco|[[たのしい太鼓道場>難易度表/おに/たのしい太鼓道場]]|ナムコのゲームミュージックのアレンジ|
@@ -1553,6 +1575,7 @@
 |numu14|[[アルムジカac14.0V>難易度表/おに/アルムジカac14.0V]]||
 |nya3|[[にゃーにゃーにゃー>難易度表/おに/にゃーにゃーにゃー]]||
 |nycyok|[[よく遊びよく学べ>難易度表/おに/よく遊びよく学べ]]|NYC|
+|>|>|BGCOLOR(#ccc):CENTER:''O''&aname(o);|
 |o2rang|[[O2>難易度表/おに/O2]]||
 |obakes|[[おばけのお仕事>難易度表/おに/おばけのお仕事]]||
 |odorik|[[夜の踊り子>難易度表/おに/夜の踊り子]]||
@@ -1599,6 +1622,7 @@
 |overm|[[オーバーマスター>難易度表/おに/オーバーマスター]]||
 |overtf|[[Over the Future>難易度表/おに/Over the Future]]||
 |oyasik|[[ミーナのおやしき>難易度表/おに/ミーナのおやしき]]||
+|>|>|BGCOLOR(#ccc):CENTER:''P''&aname(p);|
 |pacm|[[L・O・V・E>難易度表/おに/L・O・V・E]]|パックマニア|
 |pacm40|[[JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|パックマン40周年|
 |pacmce|[[PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]||
@@ -1691,9 +1715,11 @@
 |puzdra|[[Walking Through The Towers>難易度表/おに/Walking Through The Towers]]|~|
 |puzdrz|[[さかさま世界>難易度表/おに/さかさま世界]]|~|
 |puzdx1|[[バトル‐電光石火‐>難易度表/おに/バトル‐電光石火‐]]|~|
+|>|>|BGCOLOR(#ccc):CENTER:''Q''&aname(q);|
 |qp3min|[[おもちゃの兵隊の行進>難易度表/おに/おもちゃの兵隊の行進]]|キューピー3分クッキング|
 |quant|[[想いを手に願いを込めて>難易度表/おに/想いを手に願いを込めて]]|量子|
 |que|[[Killer Queen>難易度表/おに/Killer Queen]]||
+|>|>|BGCOLOR(#ccc):CENTER:''R''&aname(r);|
 |r4nak|[[Naked Glow>難易度表/おに/Naked Glow]]|R4 -RIDGE RACER TYPE 4-|
 |r4op|[[URBAN FRAGMENTS>難易度表/おに/URBAN FRAGMENTS]]|~|
 |radio|[[ラジオ体操第一>難易度表/おに/ラジオ体操第一]]||
@@ -1781,6 +1807,7 @@
 |ryukis|[[風の国の龍と騎士>難易度表/おに/風の国の龍と騎士]]||
 |ryusei|[[R.Y.U.S.E.I.>難易度表/おに/R.Y.U.S.E.I.]]||
 |ryusoj|[[騎士竜戦隊リュウソウジャー>難易度表/おに/騎士竜戦隊リュウソウジャー]]||
+|>|>|BGCOLOR(#ccc):CENTER:''S''&aname(s);|
 |saga|[[佐賀県>難易度表/おに/佐賀県]]||
 |saibou|[[ミッション！ 健・康・第・イチ>難易度表/おに/ミッション！ 健・康・第・イチ]]|はたらく細胞|
 |saikoe|[[サイコー・エブリデイ！>難易度表/おに/サイコー・エブリデイ！]]||
@@ -1944,6 +1971,7 @@
 |syyoak|[[夜明けまであと3秒>難易度表/おに/夜明けまであと3秒]]|~|
 |sze|[[サザエさん一家>難易度表/おに/サザエさん一家]]|サザエさん|
 |sze3|[[サザエさん>難易度表/おに/サザエさん]]|~|
+|>|>|BGCOLOR(#ccc):CENTER:''T''&aname(t);|
 |ta5ta5|[[Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]||
 |taberu|[[タベルナ2000>難易度表/おに/タベルナ2000]]||
 |tabetm|[[タベテモタベテモ>難易度表/おに/タベテモタベテモ]]||
@@ -2089,6 +2117,7 @@
 |twccp|[[Candy Pop>難易度表/おに/Candy Pop]]|Twice|
 |twctt|[[TT -Japanese ver.->難易度表/おに/TT -Japanese ver.-]]|~|
 |twcyes|[[YES or YES>難易度表/おに/YES or YES]]|~|
+|>|>|BGCOLOR(#ccc):CENTER:''U''&aname(u);|
 |u3gino|[[うさぎのしっぽ>難易度表/おに/うさぎのしっぽ]]||
 |uchubk|[[うちゅうひこうし冒険譚>難易度表/おに/うちゅうひこうし冒険譚]]||
 |udtkkr|[[心の痛み>難易度表/おに/心の痛み]]|UNDERTALE|
@@ -2139,6 +2168,7 @@
 |usa|[[U.S.A.>難易度表/おに/U.S.A.]]||
 |usavi|[[ウサビッチ・メドレー 〜太鼓の時間〜>難易度表/おに/ウサビッチ・メドレー 〜太鼓の時間〜]]||
 |usouso|[[うそうそ時>難易度表/おに/うそうそ時]]||
+|>|>|BGCOLOR(#ccc):CENTER:''V''&aname(v);|
 |v6|[[Darling>難易度表/おに/Darling]]|V6|
 |valk|[[ワルキューレの騎行>難易度表/おに/ワルキューレの騎行]]||
 |valvra|[[Preserved Roses>難易度表/おに/Preserved Roses]]||
@@ -2161,6 +2191,7 @@
 |vt1b2f|[[≠MM>難易度表/おに/≠MM]]|ボス戦|
 |vt1b2x|~|PS Vita1ボス2|
 |vt1op|[[希望へのメロディー>難易度表/おに/希望へのメロディー]]||
+|>|>|BGCOLOR(#ccc):CENTER:''W''&aname(w);|
 |w2bs1x|[[ワルルーさまの歌を聴けぇ！>難易度表/おに/ワルルーさまの歌を聴けぇ！]]|Wii2ボス1|
 |w2bs2f|[[ヒカリノカナタヘ(ボス戦)>難易度表/その他/ヒカリノカナタヘ(ボス戦 激辛)]]|Wii2のアルミ戦|
 |w2bs2x|[[ヒカリノカナタヘ>難易度表/おに/ヒカリノカナタヘ]]|Wii2ボス2|
@@ -2206,6 +2237,7 @@
 |wondo|[[わっふ〜音頭>難易度表/おに/わっふ〜音頭]]||
 |worldi|[[ワールドイズマイン>難易度表/おに/ワールドイズマイン]]||
 |worldt|[[アシタノヒカリ>難易度表/おに/アシタノヒカリ]]|ワールドトリガー|
+|>|>|BGCOLOR(#ccc):CENTER:''X''&aname(x);|
 |xan|[[Xa>難易度表/おに/Xa]]||
 |xanadu|[[Seize the day>難易度表/おに/Seize the day]]|東亰''ザナドゥ''|
 |xday2k|[[X-DAY2000>難易度表/おに/X-DAY2000]]||
@@ -2214,6 +2246,7 @@
 |xevi2|[[XEVIOUS （細野晴臣 監修）>難易度表/おに/XEVIOUS]]||
 |xjapa2|[[Silent Jealousy>難易度表/おに/Silent Jealousy]]|X JAPAN|
 |xjapan|[[紅>難易度表/おに/紅]]|~|
+|>|>|BGCOLOR(#ccc):CENTER:''Y''&aname(y);|
 |yaiko|[[My Sweet Darlin'>難易度表/おに/My Sweet Darlin']]|ヤイコ（矢井田瞳）|
 |yama|[[宇宙戦艦ヤマト>難易度表/おに/宇宙戦艦ヤマト]]|アニメ祭以降、AC1では''ymt''|
 |yamata|[[ヤマタイ★ナイトパーティー>難易度表/おに/ヤマタイ★ナイトパーティー]]||
@@ -2270,6 +2303,7 @@
 |ywtoki|[[時を待とう>難易度表/おに/時を待とう]]|~|
 |ywyugr|[[ゆーがらお友達>難易度表/おに/ゆーがらお友達]]|~|
 |yzmsct|[[マスカット>難易度表/おに/マスカット]]|ゆず|
+|>|>|BGCOLOR(#ccc):CENTER:''Z''&aname(z);|
 |zaba|[[未来への鍵>難易度表/おに/未来への鍵]]|なぜ？|
 |zard|[[負けないで>難易度表/おに/負けないで]]|ZARD|
 |zdoko|[[きよしのズンドコ節>難易度表/おに/きよしのズンドコ節]]||
@@ -2295,7 +2329,7 @@
 |zzgbfk|[[キミとボクのミライ>難易度表/おに/キミとボクのミライ]]|~|
 |zzgfop|[[楽しきトキメキ>難易度表/むずかしい/楽しきトキメキ]]((ニコ生限定))|''ガ''ール''フ''レンド(仮)''OP''|
 |zzmnst|[[ヒッパレ！モンスターストライク>難易度表/むずかしい/ヒッパレ！モンスターストライク]]((ニコ生限定))|''モン''スター''スト''ライク|
-|zzoroc|[[8OROCHI>難易度表/おに/8OROCHI]]|第三回天下一音ゲー祭決勝大会譜面|
+|zzoroc|[[8OROCHI>難易度表/おに/8OROCHI]]|第三回天下一音ゲ祭決勝大会譜面|
 |zzoern|[[Help me, ERINNNNNN!! 小林幸子ver.>難易度表/おに/Help me, ERINNNNNN!! 小林幸子ver.]]((秋季例大祭'15限定))||
 |zzsnkn|[[黒猫＆白猫メドレー>難易度表/むずかしい/黒猫＆白猫メドレー]]((ニコ生限定))||
 |zzthas|[[仙酌絶唱のファンタジア>難易度表/おに/仙酌絶唱のファンタジア]]|超会議2016、例大祭13Ver.|

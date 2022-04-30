@@ -10,8 +10,8 @@
 
 |>|>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンルを選択すると新筐体のそのジャンルに移動します)|
-|BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(hotpink):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(silver):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲームミュージック%%%};>#GAME]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|BGCOLOR(yellow):~[[&color(black){%%%キッズ%%%};>#kidsfalk]]|''合計''|
-|   ''7''曲&br;''7''譜面   |   ''16''曲&br;''16''譜面   |   ''24''曲&br;''25''譜面   |   ''57''曲&br;''57''譜面   |    ''24''曲&br;''24''譜面   |    ''8''曲&br;''8''譜面   |   ''128''曲&br;''131''譜面   |    ''8''曲&br;''9''譜面   |    ''236''曲&br;''241''譜面   |
+|BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(hotpink):~[[&color(black){%%%アニメ%%%};>#anime]] |BGCOLOR(yellow):~[[&color(black){%%%キッズ%%%};>#kidsfalk]]|BGCOLOR(silver):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲームミュージック%%%};>#GAME]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|''合計''|
+|   ''7''曲&br;''7''譜面   |   ''16''曲&br;''16''譜面   |   ''8''曲&br;''9''譜面   |   ''24''曲&br;''25''譜面   |    ''57''曲&br;''57''譜面   |    ''24''曲&br;''24''譜面   |   ''8''曲&br;''8''譜面   |    ''128''曲&br;''131''譜面   |    ''236''曲&br;''241''譜面   |
 
 |||LEFT:140|c
 |曲名(五十音順)|BPM((※があるものは細かなBPM変化がある))|最大コンボ数|h
