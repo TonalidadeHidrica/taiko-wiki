@@ -43,6 +43,7 @@
 -[[プレイ動画(旧音源)>https://www.youtube.com/watch?v=Rea5KTNycQA&t=16s]]
 -[[オート動画(NS1・新音源・真打・歌詞付き)>https://youtu.be/jmzIbwYYCdA]]
 -[[音源変更について>https://dreamscometrue.com/news/2019/10/29/22359]]
+-[[作曲者とのスペシャル対談>https://www.youtube.com/watch?v=94dOe4mQZNo]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -50,7 +51,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
--最後に非表示の小節線が1本ある
+~最後に非表示の小節線が1本ある
 ~&attachref((卍^o^)卍.png,nolink);
 
 ~「ばいそく」見た目

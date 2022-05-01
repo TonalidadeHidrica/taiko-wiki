@@ -38,4 +38,4 @@
 
 ***譜面 [#score]
 くすだまは適当
-&attachref(さるのかんたん.png,nolink);
+&attachref(さるのかんたん2.png,nolink);

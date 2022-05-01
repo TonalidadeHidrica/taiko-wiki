@@ -2,10 +2,11 @@
 -アニメ「[[''暗殺教室''>アニメ別収録曲#ansatsu]]」のOP2。
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii U3''&br;PS Vita1DL&br;3DS3DL|CENTER:★×4|CENTER:''101''|CENTER:''333720点''|CENTER:＋連打|CENTER:780点|CENTER:440点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''978840点''}|~|CENTER:COLOR(#ff3300){7210点}|CENTER:-|
-|CENTER:iOS&br;AR|~|~|CENTER:''??????点''|~|CENTER:780点|CENTER:???点|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii U3''&br;PS Vita1DL&br;3DS3DL|BGCOLOR(orange):''アニメ''|★×4|''101''|''333720点''|+連打|780点|440点|
+|iOS&br;AR|~|~|~|''304040点''|~|~|230点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''978840点''}|~|COLOR(#ff3300){7210点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは180。

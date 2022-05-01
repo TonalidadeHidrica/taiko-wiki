@@ -5,7 +5,8 @@
 |>|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大&br;コンボ数|>|天井スコア|初項|公差||h
 ||''PSP2DL''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×6|''188''|''583100点''|＋連打|930点|190点|''ゴーゴー&br;バグあり''|
-|AC14||~|★×7|~|''599860点''|~|~|~||
+||iOS&br;AR|~|~|~|''599500点''|~|~|~||
+|AC14||~|★×7|~|''599860点''|~|~|~|~|
 ||Wii3|~|~|~|''653970点''|~|1010点|210点|''ゴーゴー&br;バグあり''|
 ||PSPDXDL|~|~|~|''650430点''|~|1000点|~||
 |COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''631300点''}|~|COLOR(#ff3300){2640点}|-|~|
@@ -14,9 +15,8 @@
 |WM||BGCOLOR(darkorchid):COLOR(white){''M&#250;sicas de&br;Jogos Eletr&#244;nicos''}|~|~|~|~|~|~|~|
 ||PS Vita1亜DL|BGCOLOR(darkorchid):COLOR(white){''遊戯音樂''}|~|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''980800点''}|~|COLOR(#ff3300){4230点}|-|~|
-||iOS&br;AR|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|''?????0点''|~|??0点|???点|~|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''990260点''|~|5220点|-|~|
-|AC16.2.12|Xbox1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
+|AC16.2.0|Xbox1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約158。

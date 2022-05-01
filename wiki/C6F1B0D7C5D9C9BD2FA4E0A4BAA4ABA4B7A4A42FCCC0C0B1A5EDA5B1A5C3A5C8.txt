@@ -34,7 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~仮譜面
-~基本BPMは約168
-~詳しいBPMは[[おに>難易度表/おに/明星ロケット#score]]を参照
-~&attachref(akeboshi_h.png,nolink);
+~&attachref(thakeb_h.png,nolink);
