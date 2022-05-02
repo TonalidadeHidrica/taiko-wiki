@@ -34,5 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~正しいBPM・HSは[[おに>難易度表/おに/Help me, ERINNNNNN!!#score]]参照
-~&attachref(erin_normal.png,nolink);
+~&attachref(therin_n.png,nolink);
