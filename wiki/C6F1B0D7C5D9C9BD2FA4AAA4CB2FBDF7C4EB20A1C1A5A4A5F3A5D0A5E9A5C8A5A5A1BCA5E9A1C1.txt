@@ -44,7 +44,7 @@
 ~HSの重なった部分は拡大画像参照
 ~&attachref(invara_m_1.png,nolink);
 
-~95~98小節拡大(2倍)
+~95~98小節拡大(2倍)&aname(HS);
 ~&attachref(invara_m_95-98.png,nolink);
 
 ~半速

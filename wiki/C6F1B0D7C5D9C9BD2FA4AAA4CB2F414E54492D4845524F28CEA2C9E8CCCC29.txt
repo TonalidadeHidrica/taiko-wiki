@@ -54,4 +54,4 @@ BPM¡¦HSÊÑ²½
 &attachref(ex_skoant.png,nolink);
 
 ~37~39¾®Àá³ÈÂç(4ÇÜ)
-~&attachref(ex_skoant_exp.png,nolink);
+~&attachref(ex_skoant_37-39.png,nolink);

@@ -121,28 +121,41 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~Wii U3以降。35、36小節はHS1
+~Wii U3以降の譜面
+#region(CS6， AC8-9，PSP2まで)
+CS6， AC8-9，PSP2の譜面
+-1,2小節はBPM135
+-34, 35小節は、BPM133.04，50.6116 / 48拍子の1小節として処理
+-36小節
+--CS6， AC8-9：HS 1.1
+--PSP2：HS 1.08
+-37小節：HS 1.05
+-38小節：HS 1.02 (PSP2のみ)
+-51小節：BPM105.27
+-59小節：BPM134.12
+#endregion
 ~表譜面(旧1人用譜面)
-~&ref(b.png,nolink);
+~&ref(butou2_m.png,nolink);
 
-~Wii U3以降。35、36小節はHS1
+~Wii U3以降の譜面
+~CS6， AC8-9，PSP2の譜面との相違点は表譜面と同一
 ~裏譜面(旧2人用譜面)
-~&ref(u_2.png,nolink);
+~&ref(ex_butou2.png,nolink);
 
 ~表譜面・普通譜面
-~&ref(真1普.png,nolink);
+~&ref(butou2_m_nor.png,nolink);
 
 ~表譜面・玄人譜面
-~&ref(真1玄.png,nolink);
+~&ref(butou2_m_exp.png,nolink);
 
 ~表譜面・達人譜面
-~&ref(真1達.png,nolink);
+~&ref(butou2_m_mas.png,nolink);
 
 ~裏譜面・普通譜面
-~&ref(真2普.png,nolink);
+~&ref(ex_butou2_nor.png,nolink);
 
 ~裏譜面・玄人譜面
-~&ref(真2玄_2.png,nolink);
+~&ref(ex_butou2_exp.png,nolink);
 
 ~裏譜面・達人譜面
-~&ref(真2達.png,nolink);
+~&ref(ex_butou2_mas.png,nolink);
