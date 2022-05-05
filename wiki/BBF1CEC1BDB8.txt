@@ -253,17 +253,9 @@
 -[[Wikipedia(「太鼓の達人の登場人物一覧」の記事)>https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7]]
 -[[ニコニコ大百科(「太鼓の達人」の記事)>https://dic.nicovideo.jp/a/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA]]
 
-**Wiki関連 [#wikicon]
-
--[[バージョン表記一覧]]
--[[公式生放送での雑談コメント>コメント/雑談所/公式生放送用]]
--[[ヘルプ>Help]]
--[[リンク]]
--[[PukiWikiについて>PukiWiki]]
--[[プラグインマニュアル>PukiWiki/1.4/Manual/Plugin]]
--[[高難易度攻略Wiki(当Wikiとは別のWiki)>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]
-
+//**Wiki関連 [#wikicon]
 **海外関連 [#foreign] 
+
 -[[太鼓の達人 新筐体（アジア版）（英語）の収録曲]]
 -[[太鼓の達人 新筐体（アジア版）（中国語）の収録曲]]
 -[[Taiko Time>http://taikotime.blogspot.jp/]]（英語） 
@@ -272,6 +264,8 @@
 
 *Wiki関連 [#wiki]
 
+-[[バージョン表記一覧]]
+-[[公式生放送での雑談コメント>コメント/雑談所/公式生放送用]]
 -[[RecentDeleted]]
 -[[動画未補完リスト]]
 
@@ -288,14 +282,21 @@
 -[[譜面リクエスト'''etc'''>譜面リクエストetc]]
 -[[譜面未補完リスト]]
 
+**PukiWiki [#pukiwiki]
+-[[PukiWikiヘルプ>Help]]
+
 **その他 [#otherwiki]
 
--[[メニュー>MenuBar]]
--[[FrontPage]]
+-[[リンク]]
 -[[お砂場(練習ページ)>SandBox]]
+-[[プラグインマニュアル>PukiWiki/1.4/Manual/Plugin]]
+-[[高難易度攻略Wiki(当Wikiとは別のWiki)>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]
 
+//-[[メニュー>MenuBar]]
+//-[[FrontPage]]
 *過去 [#past]
 
+-[[隠し曲解禁方法(AC14まで)>隠し曲解禁方法]]
 -[[開発日記>https://web.archive.org/web/20170707175213/http://taikoblog.namco-ch.net/]](旧公式ブログ・アーカイブ)
 
 **楽曲公募 [#koubopast]
@@ -325,12 +326,10 @@
 --[[AIバトル演奏/コンボ数(グリーンVer.)>AIバトル演奏/コンボ数(グリーン)]](各難易度の中間に属する譜面を含む)
 -[[演奏バトル]]
 --[[演奏バトル/コンボ数]](各難易度の中間に属する譜面を含む)
+//**[[隠し曲解禁方法(AC14まで)>隠し曲解禁方法]] [#hidden]
+//-[[未解禁隠し曲出現条件]]
 
-**[[隠し曲解禁方法]] [#hidden]
-
--[[未解禁隠し曲出現条件]]
-
-**[[ドンチャレのお題]] [#doncha]
+**[[ドンチャレ>ドンチャレのお題]] [#doncha]
 
 -[[過去のドンチャレのお題]]
 

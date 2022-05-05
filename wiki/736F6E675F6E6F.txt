@@ -918,7 +918,7 @@
 |809|[[アルカリレットウセイ>難易度表/おに/アルカリレットウセイ]]|BGCOLOR(#cbcfde):ボカロ|mikuar||
 |BGCOLOR(#333):COLOR(white):810|BGCOLOR(beige):[[Nesin Amatias>難易度表/おに/Nesin Amatias]]|BGCOLOR(#ff7028):ナムオリ|BGCOLOR(beige):tor|BGCOLOR(beige):期間限定曲|
 |811|[[あなたとトゥラッタッタ♪>難易度表/おに/あなたとトゥラッタッタ♪]]|BGCOLOR(#49d5eb):J-POP|manpu2||
-|812|[[アンビバレント>難易度表/おに/アンビバレント]]|BGCOLOR(#49d5eb):J-POP|kykamb||
+|812|BGCOLOR(#ccc):[[アンビバレント>難易度表/おに/アンビバレント]]|BGCOLOR(#49d5eb):J-POP|BGCOLOR(#ccc):kykamb|BGCOLOR(#ccc):〜22/3/24　サヨナラ曲|
 |813|[[ウキウキオトッペ>難易度表/おに/ウキウキオトッペ]]|BGCOLOR(orange):アニメ|otoppe||
 |814|[[或ル不和>難易度表/おに/或ル不和]]|BGCOLOR(#ff7028):ナムオリ|arufw||
 |815|[[ラヴ&#9825;スパイス&#9825;ライクユー!!!>難易度表/おに/ラヴ・スパイス・ライクユー!!!]]|BGCOLOR(#ff7028):ナムオリ|lovspc||
@@ -931,7 +931,7 @@
 |822|[[Heat Haze Shadow 2>難易度表/おに/Heat Haze Shadow 2]]|BGCOLOR(#cc8aeb):ゲーミュ|tek7he||
 |823|[[もしもし神様>難易度表/おに/もしもし神様]]|BGCOLOR(#ff7028):ナムオリ|mmkami||
 |824|[[ドラマツルギー>難易度表/おに/ドラマツルギー]]|BGCOLOR(#49d5eb):J-POP|evedrm||
-|825|[[WE WILL ROCK YOU>難易度表/おに/We Will Rock You]]|BGCOLOR(#0acc2a):バラエティ|rock||
+|825|[[WE WILL ROCK YOU>難易度表/おに/We Will Rock You]]|BGCOLOR(#0acc2a):バラエティ|rock|〜22/5/21　サヨナラ曲|
 |826|[[アムピト&#9826;リーテー>難易度表/おに/アムピト◇リーテー]]|BGCOLOR(#ff7028):ナムオリ|amphit||
 |827|BGCOLOR(#ccc):[[キラリ☆彡スター☆トゥインクルプリキュア>難易度表/おに/キラリ☆彡スター☆トゥインクルプリキュア]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):pr9str|BGCOLOR(#ccc):〜21/3/24　サヨナラ曲|
 |828|[[ロキ>難易度表/おに/ロキ]]|BGCOLOR(#49d5eb):J-POP|roki||
@@ -1007,7 +1007,7 @@
 |898|[[God knows...>難易度表/おに/God knows...]]|BGCOLOR(#fe90d2):アニメ|godkno||
 |899|[[【双打】 恋>難易度表/おに/【双打】 恋]]|BGCOLOR(#49d5eb):ポップス|2ge8jixx||
 |900|[[【双打】 双竜ノ乱>難易度表/おに/双竜ノ乱(裏譜面)]]|BGCOLOR(#ff7028):ナムオリ|souryuxx||
-|901|[[【双打】 WE WILL ROCK YOU>難易度表/おに/We Will Rock You#twop]]|BGCOLOR(#49d5eb):ポップス|rockxx||
+|901|[[【双打】 WE WILL ROCK YOU>難易度表/おに/We Will Rock You#twop]]|BGCOLOR(#49d5eb):ポップス|rockxx|〜22/5/21　サヨナラ曲|
 |902|[[【双打】 もりのくまさん>難易度表/おに/【双打】 もりのくまさん]]|BGCOLOR(#fdc000):キッズ|kumaxx||
 |903|[[【双打】 ミュージック・リボルバー>難易度表/おに/【双打】 ミュージック・リボルバー]]|BGCOLOR(#cc8aeb):G & V|mggrevxx||
 |904|[[【双打】 Extreme MGG★★★>難易度表/おに/【双打】 Extreme MGG★★★]]|BGCOLOR(#cc8aeb):G & V|mggextxx||
@@ -1018,7 +1018,7 @@
 |909|[[キレキャリオン>難易度表/おに/キレキャリオン]]|BGCOLOR(#cbcfde):ボカロ|mikukr||
 |910|[[猫サンキュー>難易度表/おに/猫サンキュー]]|BGCOLOR(#49d5eb):ポップス|umneko||
 |911|[[神様の言うとおりに>難易度表/おに/神様の言うとおりに]]|BGCOLOR(#49d5eb):ポップス|umkami||
-|912|[[ヒーリングっど&#9829;プリキュア Touch!! >難易度表/おに/ヒーリングっど・プリキュア Touch!!]]|BGCOLOR(#fdc000):キッズ|pr9hlg||
+|912|BGCOLOR(#ccc):[[ヒーリングっど&#9829;プリキュア Touch!! >難易度表/おに/ヒーリングっど・プリキュア Touch!!]]|BGCOLOR(#fdc000):キッズ|BGCOLOR(#ccc):pr9hlg|BGCOLOR(#ccc):〜22/3/24　サヨナラ曲|
 |913|[[ギンギラ銀河>難易度表/おに/ギンギラ銀河]]|BGCOLOR(#fdc000):キッズ|ywging||
 |914|[[シンクロニカ・エアライン>難易度表/おに/シンクロニカ・エアライン]]|BGCOLOR(#cc8aeb):G & V|syairl||
 |915|[[白日>難易度表/おに/白日]]|BGCOLOR(#49d5eb):ポップス|kgnhak||

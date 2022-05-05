@@ -8,6 +8,8 @@
 |COLOR(#f30):真打||~|~|~|COLOR(#f30):''969570点''|~|COLOR(#f30):1890点|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''982550点''|~|2150点|-|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
+|~|~|BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 ||COLOR(blue):PS Vita MS|BGCOLOR(#ff99cc):''THE IDOL&br;M@STER2''|~|''462''|''815810点''|~|480点|125点|
 |COLOR(#f30):真打||~|~|~|COLOR(#f30):''???????点''|~|COLOR(#f30):???点|-|
 

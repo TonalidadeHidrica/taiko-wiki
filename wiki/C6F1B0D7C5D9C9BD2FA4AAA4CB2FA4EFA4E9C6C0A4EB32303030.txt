@@ -41,6 +41,8 @@
 ---なお、どのコースもその難易度帯ではかなり骨のある譜面である。適正者は選ばない方が無難。
 -186〜188小節を縦に並べ、面だけに注目すると目のような模様が浮かび上がる。&br;186：&color(red){●●●●●●};&color(#ccccff){○○○○};&color(red){●●●●●●};&br;187：&color(red){●};&color(#ccccff){○};&color(red){●};&color(#ccccff){○○○};&color(red){●};&color(#ccccff){○○};&color(red){●};&color(#ccccff){○};&color(red){●};&color(#ccccff){○○○};&color(red){●};&br;188：&color(#ccccff){○};&color(red){●●●●●●};&color(#ccccff){○○};&color(red){●●●●●●};&color(#ccccff){○};
 --譜面制作者が同じ[[Thinking 〜Must Mix〜(裏譜面)>../Thinking 〜Must Mix〜(裏譜面)]]にも似た演出がある。
+-割れない風船の打数938は、「草生える」というスラングに因んでいると思われる。
+--主にネット上で使われる、笑いを示す「w」を草と見立て、笑えるということを表している。
 -冒頭のギミックの影響で小節線がかなり多く、''218本''もある。
 --かつては[[チキンレース>../チキンレース]]と並んで最も小節線の多い譜面だったが、[[The Future of the 太鼓ドラム>../The Future of the 太鼓ドラム]]に更新された。
 --なお、開幕のギミックに使われている小節線は''98本''(全体の約45％)。

@@ -29,7 +29,7 @@
 
 -公式生放送(生配信)用の雑談所は''[[コメント/雑談所/公式生放送用]]''を参照してください。
 
--''クリア難易度順に関するコメントは[[COLOR(blue):%%%クリア難易度 議論補助wiki(別のwiki)%%%>https://wikiwiki.jp/taiko-giron/]]にてお願いします。''
+-''クリア難易度順に関するコメントは[[COLOR(blue):%%%クリア難易度 議論補助Wiki(別のWiki)%%%>https://wikiwiki.jp/taiko-giron/]]にてお願いします。''
 
 -''製品に対する意見・要望((要望・願望は、どちらも実現を願って望むことを指します。ここへコメントするのではなく、公式に伝えるようにすることをおすすめします。))は、ここよりも下の方法で公式に伝えるのが効果的です。''
 --''太鼓の達人公式Twitter [[COLOR(blue):%%%総合%%%>https://twitter.com/taiko_All]]、[[COLOR(blue):%%%AC%%%>https://twitter.com/taiko_team]]、[[COLOR(blue):%%%CS%%%>https://twitter.com/taiko_kateiyou]]、[[COLOR(blue):%%%SP(iOS)%%%>https://twitter.com/taikosp]]''

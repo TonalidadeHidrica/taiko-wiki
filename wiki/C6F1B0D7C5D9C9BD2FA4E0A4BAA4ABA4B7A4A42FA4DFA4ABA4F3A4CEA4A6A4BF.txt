@@ -13,8 +13,7 @@
 -平均密度は、''約4.57打/秒''。
 
 ***その他 [#other]
--アーティストは、''SEX MACHINEGUNS''。
---愛媛県のみかんについて歌った曲であるが、これはSEX MACHINEGUNSのメンバーの一人が愛媛出身であることに起因する。
+-楽曲情報は[[おに譜面>難易度表/おに/みかんのうた]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/みかんのうた]]
@@ -22,10 +21,10 @@
 -[[おに>難易度表/おに/みかんのうた]]
 -[[プレイ動画>https://www.youtube.com/watch?v=dzLBQIMtd_k]]
 
-***コメント [#g1e3cbcb]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#i2c79075]
-&ref(mikannouta-hard.png,nolink);
+***譜面 [#score]
+&ref(mikan_h.png,nolink);
 ~半速表記
 &ref(mikan_h_hs0.5.png,nolink);
