@@ -31,6 +31,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~ふうせんの長さは適当
-~BPMの揺れは暫定
-~&attachref(スイッチゼルダふ.png,nolink);
+~&attachref(zeldsw_n.png,nolink);

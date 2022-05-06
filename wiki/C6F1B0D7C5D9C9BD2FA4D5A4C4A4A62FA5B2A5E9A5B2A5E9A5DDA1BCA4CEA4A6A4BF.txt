@@ -1,5 +1,4 @@
 *ゲラゲラポーのうた [#title]
--アニメ「''妖怪ウォッチ''」のOP1。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -35,4 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(grgrp-nut.png,nolink);
+~&attachref(gerapo_n.png,nolink);
