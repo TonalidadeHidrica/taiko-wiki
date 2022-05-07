@@ -126,6 +126,7 @@
 -[[難易度順について>難易度順]]
 -[[太鼓の達人 クリア難易度 議論補助Wiki(当Wikiとは別のWiki)>https://wikiwiki.jp/taiko-giron/]]
 -[[難易度等議論Wiki(当Wikiとは別のWiki)>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]
+--松(難易度:むずかしい)以下の難易度は[[こちら>https://w.atwiki.jp/kjdr2bo/pages/1.html]]を参照
 -[[作成議論所>クリア難易度 ページ作成についての議論所]]
 -[[難易度別譜面数(AC16)>難易度順/AC16/おに/難易度別譜面数]]
 
@@ -245,7 +246,7 @@
 **公式チャンネル [#youtube]
 
 -[[バンダイナムコスタジオ サウンドチーム>https://www.youtube.com/channel/UCHGjU46mrWFXCvot1YQ3Y_Q/videos]]
--[[876TV>https://www.youtube.com/playlist?list=PL0DnZpV_rwVvZ0g7g-Hc9YqUlwuCnhH_j]]
+-[[Bandai Namco Entertainment>https://www.youtube.com/playlist?list=PL0DnZpV_rwVvZ0g7g-Hc9YqUlwuCnhH_j]]
 
 **他のサイト [#site]
 
