@@ -1,10 +1,15 @@
 *WINDING ROAD [#title]
 -「''日産キューブ''」CMソング。
 
-***詳細 [#more]
+***1人用譜面 [#single]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC10''|BGCOLOR(cyan):''J-POP''|★×3|''87''|''?????0点''|＋連打|1600点|660点|
+
+***2人用譜面 [#double]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC10''|BGCOLOR(cyan):''J-POP''|★×3|''86''|''?????0点''|＋連打|???0点|??0点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは88。
@@ -30,10 +35,14 @@
 -[[かんたん>難易度表/かんたん/WINDING ROAD]]
 -[[むずかしい>難易度表/むずかしい/WINDING ROAD]]
 -[[おに>難易度表/おに/WINDING ROAD]]
--[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=GcDRm36UozE]]
+-[[プレイ動画(キャプチャ,1人用)>http://www.youtube.com/watch?v=GcDRm36UozE]]
+-[[プレイ動画(キャプチャ,2人用)>https://www.youtube.com/watch?v=p166ACd7cTQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#fumen]
 &attachref(windn2.png,nolink);
+
+~2人用譜面
+&attachref(windn2d.png,nolink);
