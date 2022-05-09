@@ -125,8 +125,8 @@
 |BGCOLOR(grey):バカンスサングラス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年6月1日〜30日まで|
 |BGCOLOR(grey):ちょうちょ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年3月1日〜31日まで|
 |BGCOLOR(grey):アイス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年6月1日〜30日まで|
-|BGCOLOR(grey):ジェットパイロット|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年2月1日〜28日まで|
-|BGCOLOR(grey):芸者|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年1月1日〜31日まで|
+|ジェットパイロット|---|''COLOR(#db2510){レッドVer.}''|2015年2月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に4回プレイ''|
+|BGCOLOR(grey):芸者|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}''|BGCOLOR(grey):＜期間限定＞&br;2015年1月1日〜31日まで|
 |BGCOLOR(grey):アルパカ|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年12月1日〜31日まで|
 |BGCOLOR(grey):絵描き|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年10月1日〜31日まで|
 |BGCOLOR(grey):テニス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年9月1日〜30日まで|
@@ -136,7 +136,7 @@
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |きせかえ名|必要なメダル数|追加日|備考|h
 |さくらもち|---|''COLOR(#db2510){レッドVer.}以前''|2014年4月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に2回プレイ''or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に51回プレイ''|
-|BGCOLOR(grey):かせき|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月2日〜15日にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に60回プレイ''|
+|BGCOLOR(grey):かせき|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):2014年8月2日〜15日にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に60回プレイ''|
 |BGCOLOR(grey):サンタクロース|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年12月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に77回プレイ''|
 |BGCOLOR(grey):金棒|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年2月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に88回プレイ''|
 |BGCOLOR(grey):かぶきはかま|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に89回プレイ''|

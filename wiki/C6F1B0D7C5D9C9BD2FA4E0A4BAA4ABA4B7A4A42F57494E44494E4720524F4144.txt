@@ -1,10 +1,15 @@
 *WINDING ROAD [#title]
 -「''日産キューブ''」CMソング。
 
-***詳細 [#more]
+***1人用譜面 [#single]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC10''|BGCOLOR(cyan):''J-POP''|★×4|''135''|''?????0点''|＋連打|1420点|420点|
+
+***2人用譜面 [#double]
+|CENTER:バージョン|CENTER:ジャンル|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
+|CENTER:''AC10''|CENTER:BGCOLOR(cyan):''J-POP''|CENTER:★×4|CENTER:1P|CENTER:''139''|CENTER:''?????0点''|CENTER:＋連打|CENTER:???0点|CENTER:???点|
+|~|~|~|CENTER:2P|CENTER:''136''|CENTER:''?????0点''|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは88。
@@ -16,6 +21,7 @@
 -リズムが取りづらくなっている21〜26小節に注意。
 --21〜22小節と25〜26小節は配置が少し異なっているので、全良狙いの人は特に注意したいところ。
 -フルコン難易度は少し高めだが、[[おに>難易度表/おに/WINDING ROAD]]と違い24分は全て単色しかない。
+-2人用譜面が存在する。1人用譜面以上にリズム難となっているので注意。
 
 ***その他 [#other]
 -曲名の読み方は、''ワインディング ロード''。
@@ -29,10 +35,14 @@
 -[[かんたん>難易度表/かんたん/WINDING ROAD]]
 -[[ふつう>難易度表/ふつう/WINDING ROAD]]
 -[[おに>難易度表/おに/WINDING ROAD]]
--[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=NOrDWp3F5IQ]]
+-[[プレイ動画(キャプチャ,1人用)>http://www.youtube.com/watch?v=NOrDWp3F5IQ]]
+-[[プレイ動画(キャプチャ,2人用)>https://www.youtube.com/watch?v=vE98PAEkd98]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#fumen]
 &ref(windin_h.png,nolink);
+
+~2人用譜面
+&ref(windin_hd.png,nolink);

@@ -23,6 +23,9 @@
 #pcomment(,noname)
 
 **譜面 [#score]
+***新筐体(イエローVer.0.17〜ニジイロVer.12.22)[#nacy]
+&attachref(イエローHard.png,nolink);
+
 ***AC11[#ac11]
 &attachref(十露盤2000(11玄人).png,nolink);
 
