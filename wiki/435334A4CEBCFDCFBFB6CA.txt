@@ -2,7 +2,7 @@
 -発売日： 2004 年 7 月 22 日
 -デフォルト ''35'' 曲 ＋ 隠し ''5'' 曲 ＝ ''40'' 曲
 
--[[公式サイト>http://www.bandainamcogames.co.jp/cs/list/taiko_yondaime/index.php]]
+-[[公式サイト>http://www.bandainamcoent.co.jp/cs/list/taiko_yondaime/index.php]]
 -[[システム詳細>CSの歴史#cs4]]
 -[[演奏オプション一覧]]
 -[[音色の一覧]]

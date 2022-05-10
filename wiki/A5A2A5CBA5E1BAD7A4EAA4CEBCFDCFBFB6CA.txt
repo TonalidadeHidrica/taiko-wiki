@@ -2,7 +2,7 @@
 -発売日： 2003 年 12 月 18 日
 -デフォルト ''18'' 曲 ＋ 隠し ''1'' 曲 ＝ ''19'' 曲
 
--[[公式サイト>http://www.bandainamcogames.co.jp/cs/list/taiko_anime/index.php]]
+-[[公式サイト>http://www.bandainamcoent.co.jp/cs/list/taiko_anime/index.php]]
 -[[システム詳細>CSの歴史#animatsu]]
 -[[演奏オプション一覧]]
 -[[音色の一覧]]

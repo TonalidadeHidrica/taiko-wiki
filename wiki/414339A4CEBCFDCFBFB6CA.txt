@@ -2,7 +2,7 @@
 -稼働期間： 2006 年 12 月 20 日 〜 2007 年 7 月 25 日
 -旧曲 ''51'' ＋ 新曲 ''49'' ＝ 全 SIZE(20){''100''} 曲
 
--[[公式サイト>http://www.bandainamcogames.co.jp/am/vg/taikono-tatsujin9/]]
+-[[公式サイト>http://www.bandainamco-am.co.jp/am/vg/taikono-tatsujin9/]]
 -[[システム詳細>ACの歴史(AC14まで)#ac9]]
 -[[太鼓道場>太鼓道場#AC9]]
 -[[演奏オプション一覧]]

@@ -4,7 +4,7 @@
 -2018/1/31をもって全てのダウンロードコンテンツは配信終了しました。 
 
 -[[公式サイト>http://taiko.namco-ch.net/taiko_portable2/]]
-//-[[ダウンロード案内ページ>http://namco-ch.net/taiko_portable2/download/index.php]]
+-[[ダウンロード案内ページ(アーカイブ)>https://web.archive.org/web/20161110123842/http://namco-ch.net/taiko_portable2/download/index.php]]
 -[[ダウンロードコンテンツ>PSP2の収録曲/ダウンロードコンテンツ]]
 -[[システム詳細>CSの歴史#psp2]]
 -[[演奏オプション一覧]]

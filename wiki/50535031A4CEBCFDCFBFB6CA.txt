@@ -3,8 +3,8 @@
 -デフォルト ''34'' 曲 ＋ 隠し ''4'' 曲 ＋ DL ''22'' 曲 ＝ ''60'' 曲
 -2018/1/31をもって全てのダウンロードコンテンツは配信終了しました。 
 
--[[公式サイト>http://www.bandainamcogames.co.jp/cs/list/taiko_portable/]]
--[[ダウンロード案内ページ>https://web.archive.org/web/20171028105748/http://namco-ch.net/taiko_portable/download/index.php]]
+-[[公式サイト>http://www.bandainamcoent.co.jp/cs/list/taiko_portable/]]
+-[[ダウンロード案内ページ(アーカイブ)>https://web.archive.org/web/20171028105748/http://namco-ch.net/taiko_portable/download/index.php]]
 -[[ダウンロード曲>PSP1の収録曲/ダウンロード曲]]
 -[[システム詳細>CSの歴史#psp1]]
 -[[演奏オプション一覧]]

@@ -2,7 +2,7 @@
 -稼働期間： 2005 年 7 月 15 日 〜 2006 年 3 月 22 日
 -旧曲 ''29'' ＋ 新曲 ''51'' ＝ 全 SIZE(20){''80''} 曲
 
--[[公式サイト(アーカイブ)>https://web.archive.org/web/20140401230159/http://www.bandainamcogames.co.jp/am/vg/taikono-tatsujin7/]] / [[スペシャルページ(アーカイブ)>https://web.archive.org/web/20060422041723/http://www.bandainamcogames.co.jp/aa/am/vg/taikono-tatsujin7/special/]]
+-[[公式サイト>http://www.bandainamco-am.co.jp/am/vg/taikono-tatsujin7/]] / [[スペシャルページ(アーカイブ)>https://web.archive.org/web/20060422041723/http://www.bandainamcogames.co.jp/aa/am/vg/taikono-tatsujin7/special/]]
 -[[システム詳細>ACの歴史(AC14まで)#ac7]]
 //-[[太鼓道場>太鼓道場#AC7]]
 -[[演奏オプション一覧]]

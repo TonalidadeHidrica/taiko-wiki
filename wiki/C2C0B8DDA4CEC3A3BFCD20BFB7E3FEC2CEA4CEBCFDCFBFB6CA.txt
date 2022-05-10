@@ -1,6 +1,6 @@
 //曲追加編集をする際は、バージョンナンバー、総曲数、総王冠数、ジャンルごとの曲数、適切な位置への曲・難易度追加(位置は筐体・ドンだーひろばで確認)のすべてを編集してください。
 *太鼓の達人 ニジイロVer.2022((正式名称：2020年3月Ver.))の収録曲SIZE(16){（V24.08）}[#title]
-//5/7時点
+//5/11時点
 -旧曲((2022.3.15までにAC版へ収録経験がある曲。隠し曲であるものはノーカウント)) ''894'' ＋ 新曲((2022.3.16以降追加された曲。隠し曲はノーカウント。)) ''12'' ＋ 隠し曲((どんメダルと交換 or 特定条件を達成して解放する必要のある曲)) ''54'' ＋ 双打曲((ドンだーひろばにて設定をすることで選択可能。)) ''6'' ＋ 期間限定曲 ''0'' − サヨナラ曲((2022.3.16 午前7時以降にサヨナラとなった曲)) ''5'' ＝ 現在 SIZE(20){''964''} 曲
 
 -サヨナラ曲の王冠は、該当の曲がサヨナラになったタイミングで削除されます。（ニジイロVer.以降）
@@ -224,7 +224,7 @@
 |||''刀剣乱舞''&br;　　SIZE(11){刀剣男士 team三条 with加州清光}|144※|[[★×1>難易度表/かんたん/刀剣乱舞]]|[[★×2>難易度表/ふつう/刀剣乱舞]]|[[★×3>難易度表/むずかしい/刀剣乱舞]]|[[★×5>難易度表/おに/刀剣乱舞]]|-|
 |||''恋音と雨空''|129※|[[★×3>難易度表/かんたん/恋音と雨空]]|[[★×4>難易度表/ふつう/恋音と雨空]]|[[★×5>難易度表/むずかしい/恋音と雨空]]|[[★×7>難易度表/おに/恋音と雨空]]|-|
 |''22/5/21&br;サ''||''WE WILL ROCK YOU''&br;　　SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163|[[★×2>難易度表/かんたん/We Will Rock You]]|[[★×2>難易度表/ふつう/We Will Rock You]]|[[★×3>難易度表/むずかしい/We Will Rock You]]|[[★×5>難易度表/おに/We Will Rock You]]|-|
-|''22/5/21&br;サ''||''【双打】 WE WILL ROCK YOU''&br;　　SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163|[[★×2>難易度表/かんたん/【双打】 WE WILL ROCK YOU]]|[[★×3>難易度表/ふつう/We Will Rock You#two]]|[[★×4>難易度表/むずかしい/We Will Rock You#two]]|[[★×6>難易度表/おに/We Will Rock You#twop]]|-|
+|''22/5/21&br;サ''||''【双打】 WE WILL ROCK YOU''&br;　　SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163|[[★×2>難易度表/かんたん/【双打】 WE WILL ROCK YOU]]|[[★×3>難易度表/ふつう/We Will Rock You#two]]|[[★×4>難易度表/むずかしい/We Will Rock You#two]]|[[★×6>難易度表/おに/We Will Rock You#two]]|-|
 |||''EXCITE''&br;　SIZE(11){「仮面ライダーエグゼイド」より}|151|[[★×2>難易度表/かんたん/EXCITE]]&br;SIZE(10){(S)}|[[★×3>難易度表/ふつう/EXCITE]]|[[★×5>難易度表/むずかしい/EXCITE]]|[[★×7>難易度表/おに/EXCITE]]|-|
 |||''女々しくて''&br;　SIZE(11){ゴールデンボンバー}|143|[[★×3>難易度表/かんたん/女々しくて]]|[[★×4>難易度表/ふつう/女々しくて]]|[[★×5>難易度表/むずかしい/女々しくて]]|[[★×8>難易度表/おに/女々しくて]]|-|
 |||''Yes we are''|128|[[★×1>難易度表/かんたん/Yes we are]]|[[★×1>難易度表/ふつう/Yes we are]]|[[★×3>難易度表/むずかしい/Yes we are]]|[[★×7>難易度表/おに/Yes we are]]|-|
@@ -732,7 +732,7 @@
 |||''やわらか戦車''|150※|[[★×3>難易度表/かんたん/やわらか戦車]]|[[★×5>難易度表/ふつう/やわらか戦車]]|[[★×6>難易度表/むずかしい/やわらか戦車]]|[[★×6>難易度表/おに/やわらか戦車]]|[[★×9>難易度表/おに/やわらか戦車(裏譜面)]]|
 |||''もぺもぺ''&br;　　SIZE(11){LeaF}|6.25-300|[[★×4>難易度表/かんたん/もぺもぺ]]|[[★×5>難易度表/ふつう/もぺもぺ]]|[[★×7>難易度表/むずかしい/もぺもぺ]]|[[★×10>難易度表/おに/もぺもぺ]]|-|
 |''22/5/21&br;サ''||''WE WILL ROCK YOU''&br;　　SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163|[[★×2>難易度表/かんたん/We Will Rock You]]|[[★×2>難易度表/ふつう/We Will Rock You]]|[[★×3>難易度表/むずかしい/We Will Rock You]]|[[★×5>難易度表/おに/We Will Rock You]]|-|
-|''22/5/21&br;サ''||''【双打】 WE WILL ROCK YOU''&br;　　SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163|[[★×2>難易度表/かんたん/【双打】 WE WILL ROCK YOU]]|[[★×3>難易度表/ふつう/We Will Rock You#two]]|[[★×4>難易度表/むずかしい/We Will Rock You#two]]|[[★×6>難易度表/おに/We Will Rock You#twop]]|-|
+|''22/5/21&br;サ''||''【双打】 WE WILL ROCK YOU''&br;　　SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163|[[★×2>難易度表/かんたん/【双打】 WE WILL ROCK YOU]]|[[★×3>難易度表/ふつう/We Will Rock You#two]]|[[★×4>難易度表/むずかしい/We Will Rock You#two]]|[[★×6>難易度表/おに/We Will Rock You#two]]|-|
 |||''Hand Over (Prod. TEMPLIME)''&br;　　SIZE(11){外神田文芸高校電音部 「電音部」より}|140|[[★×3>難易度表/かんたん/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/ふつう/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/むずかしい/Hand Over (Prod. TEMPLIME)]]|[[★×9>難易度表/おに/Hand Over (Prod. TEMPLIME)]]|-|
 |||''Hyper Bass (feat. Yunomi)''&br;　　SIZE(11){神宮前参道學園電音部 「電音部」より}|180|[[★×2>難易度表/かんたん/Hyper Bass (feat. Yunomi)]]|[[★×2>難易度表/ふつう/Hyper Bass (feat. Yunomi)]]|[[★×5>難易度表/むずかしい/Hyper Bass (feat. Yunomi)]]|[[★×9>難易度表/おに/Hyper Bass (feat. Yunomi)]]|-|
 |||''いただきバベル (Prod. ケンモチヒデフミ)''&br;　　SIZE(11){黒鉄たま(CV:秋奈) 「電音部」より}|142|[[★×2>難易度表/かんたん/いただきバベル (Prod. ケンモチヒデフミ)]]|[[★×3>難易度表/ふつう/いただきバベル (Prod. ケンモチヒデフミ)]]|[[★×5>難易度表/むずかしい/いただきバベル (Prod. ケンモチヒデフミ)]]|[[★×8>難易度表/おに/いただきバベル (Prod. ケンモチヒデフミ)]]|-|
@@ -1658,7 +1658,7 @@
 |>|>|>|>|>|>|>|BGCOLOR(#1bc739):''バラエティ''&aname(variety_sayonara);|
 |''20/6/23''|''スカッとばあちゃんの歌''((サヨナラ当時は「ゲーム＆バラエティ」所属だった。AC15時点でのジャンル分けを参照。))&br;　　SIZE(11){「痛快TVスカッとジャパン」より}|150|[[★×3>難易度表/かんたん/スカッとばあちゃんの歌]]&br;SIZE(10){(S)}|[[★×4>難易度表/ふつう/スカッとばあちゃんの歌]]|[[★×4>難易度表/むずかしい/スカッとばあちゃんの歌]]|[[★×8>難易度表/おに/スカッとばあちゃんの歌]]|-|
 |''22/5/21''|''WE WILL ROCK YOU''&br;　　SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163|[[★×2>難易度表/かんたん/We Will Rock You]]|[[★×2>難易度表/ふつう/We Will Rock You]]|[[★×3>難易度表/むずかしい/We Will Rock You]]|[[★×5>難易度表/おに/We Will Rock You]]|-|
-|~|''【双打】 WE WILL ROCK YOU''&br;　　SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163|[[★×2>難易度表/かんたん/【双打】 WE WILL ROCK YOU]]|[[★×3>難易度表/ふつう/We Will Rock You#two]]|[[★×4>難易度表/むずかしい/We Will Rock You#two]]|[[★×6>難易度表/おに/We Will Rock You#twop]]|-|
+|~|''【双打】 WE WILL ROCK YOU''&br;　　SIZE(11){Written by Brian May &copy; Queen Music Ltd}|163|[[★×2>難易度表/かんたん/【双打】 WE WILL ROCK YOU]]|[[★×3>難易度表/ふつう/We Will Rock You#two]]|[[★×4>難易度表/むずかしい/We Will Rock You#two]]|[[★×6>難易度表/おに/We Will Rock You#two]]|-|
 
 
 
