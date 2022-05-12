@@ -16,6 +16,8 @@
 
 ***その他 [#other]
 -アーティストは、''BONNIE PINK''。
+--作詞・作曲は、BONNIE PINK。編曲は、Burning Chicken。
+-曲IDは、''bonny''。
 
 ----
 -[[かんたん>難易度表/かんたん/A Perfect Sky]]

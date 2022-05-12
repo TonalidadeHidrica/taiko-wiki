@@ -9,6 +9,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは約130。
+-連打秒数・・・約1.115秒−約0.423秒−SIZE(16){''約0.885秒''}:合計約2.423秒
 -大音符が多く、''26個''(約10.23%)ある。
 -★×6だが16分の複合が何回も出てくる(COLOR(red){●●}COLOR(blue){○}が9回・COLOR(blue){○○}COLOR(red){●}が3回)。
 --特に、12〜15小節にかけては、COLOR(red){●●}COLOR(blue){○} COLOR(red){●}→COLOR(blue){○○}COLOR(red){●} COLOR(blue){○}→COLOR(red){●●}COLOR(blue){○} COLOR(red){●}→COLOR(blue){○○}COLOR(red){●} COLOR(blue){○}→COLOR(red){●●}COLOR(blue){○} COLOR(red){●}→COLOR(blue){○○}COLOR(red){●} COLOR(blue){○}と繰り返して出るため、フルコンボ狙いの人は注意。
@@ -19,7 +20,7 @@
 -[[かんたん>難易度表/かんたん/CANDY CANDY]]
 -[[ふつう>難易度表/ふつう/CANDY CANDY]]
 -[[おに>難易度表/おに/CANDY CANDY]]
--[[オート動画>http://www.nicovideo.jp/watch/sm33922841?from=210]]
+-[[オート動画(niconico)>http://www.nicovideo.jp/watch/sm33922841?from=210]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

@@ -2,7 +2,7 @@
 -映画「''ごくせん THE MOVIE''」主題歌。
 ***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC13''、14|CENTER:★×7|CENTER:''413''|CENTER:''982890点''|CENTER:＋連打|CENTER:740点|CENTER:160点|
+|CENTER:''AC13''-14|CENTER:★×7|CENTER:''413''|CENTER:''982890点''|CENTER:＋連打|CENTER:740点|CENTER:160点|
 |CENTER:COLOR(#ff3300){真打モード}|~|~|CENTER:COLOR(#ff3300){''998600点''}|~|CENTER:COLOR(#ff3300){2260点}|CENTER:-|
 
 ***譜面構成・攻略 [#capture]
@@ -14,6 +14,7 @@
 
 ***その他 [#other]
 -アーティストは、[[''Aqua Timez''>アーティスト別収録曲#aqua]]。
+--作詞・作曲は、太志。
 -曲IDは、''pulmer''。
 ----
 -[[かんたん>難易度表/かんたん/プルメリア〜花唄〜]]
