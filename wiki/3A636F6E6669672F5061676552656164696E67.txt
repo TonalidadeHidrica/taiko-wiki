@@ -427,6 +427,7 @@
 -[[コメント/参加アーティスト一覧/Mitsu]] コメント/サンカアーティストイチラン/Mitsu
 -[[コメント/参加アーティスト一覧/Ponchi♪]] コメント/サンカアーティストイチラン/Ponchi♪
 -[[コメント/参加アーティスト一覧/REDALiCE]] コメント/サンカアーティストイチラン/REDALiCE
+-[[コメント/参加アーティスト一覧/Shoko]] コメント/サンカアーティストイチラン/Shoko
 -[[コメント/参加アーティスト一覧/Silver Forest]] コメント/サンカアーティストイチラン/Silver Forest
 -[[コメント/参加アーティスト一覧/Taiji]] コメント/サンカアーティストイチラン/Taiji
 -[[コメント/参加アーティスト一覧/Taku Inoue]] コメント/サンカアーティストイチラン/Taku Inoue
@@ -1049,6 +1050,7 @@
 -[[コメント/難易度表/おに/My Little Pony Theme Song]] コメント/ナンイドオモテ/オニ/My Little Pony Theme Song
 -[[コメント/難易度表/おに/My Mine]] コメント/ナンイドオモテ/オニ/My Mine
 -[[コメント/難易度表/おに/My Muscle Heart]] コメント/ナンイドオモテ/オニ/My Muscle Heart
+-[[コメント/難易度表/おに/My Revolution]] コメント/ナンイドオモテ/オニ/My Revolution
 -[[コメント/難易度表/おに/My Sharona]] コメント/ナンイドオモテ/オニ/My Sharona
 -[[コメント/難易度表/おに/My Soul,Your Beats!]] コメント/ナンイドオモテ/オニ/My Soul,Your Beats!
 -[[コメント/難易度表/おに/My Sweet Darlin']] コメント/ナンイドオモテ/オニ/My Sweet Darlin'
@@ -8710,6 +8712,7 @@
 -[[参加アーティスト一覧/REDALiCE]] サンカアーティストイチラン/REDALiCE
 -[[参加アーティスト一覧/Risa Yuzuki]] サンカアーティストイチラン/Risa Yuzuki
 -[[参加アーティスト一覧/SaChi]] サンカアーティストイチラン/SaChi
+-[[参加アーティスト一覧/Shoko]] サンカアーティストイチラン/Shoko
 -[[参加アーティスト一覧/Silver Forest]] サンカアーティストイチラン/Silver Forest
 -[[参加アーティスト一覧/Taiji]] サンカアーティストイチラン/Taiji
 -[[参加アーティスト一覧/Taku Inoue]] サンカアーティストイチラン/Taku Inoue
