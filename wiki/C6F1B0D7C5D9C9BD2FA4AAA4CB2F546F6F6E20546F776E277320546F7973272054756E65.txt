@@ -45,8 +45,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~拍数変化
-~219小節:MEASURE 1/8
 ~&ref(tttt.png,nolink);
 
 ~見た目？(いろいろと暫定)

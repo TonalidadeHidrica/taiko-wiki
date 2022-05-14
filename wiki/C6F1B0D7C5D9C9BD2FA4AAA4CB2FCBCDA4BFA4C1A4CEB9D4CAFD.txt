@@ -1,6 +1,5 @@
 * 僕たちの行方 [#title]
--「[[''機動戦士ガンダムSEED DESTINY''>アニメ別収録曲#gundam]]」のOP3。
---ちなみに、OP1は[[ignited -イグナイテッド->../ignited-イグナイテッド-]]。
+-アニメ「[[''機動戦士ガンダムSEED DESTINY''>アニメ別収録曲#gundam]]」のOP3。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -18,8 +17,7 @@
 
 ***その他 [#other]
 -アーティストは、''高橋瞳''。
---本人音源ではない。
---作詞は、Yuta Nakano・shungo.。作･編曲は、Yuta Nakano。
+--作詞は、Yuta Nakano・shungo.。作曲・編曲は、Yuta Nakano。
 -曲IDは、''gdm2''。
 
 ----

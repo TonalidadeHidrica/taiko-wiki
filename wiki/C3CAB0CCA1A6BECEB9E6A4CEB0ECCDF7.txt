@@ -740,7 +740,7 @@
 |〇|BGCOLOR(pink):|イカしたボーイ|[[COLOR(blue):スプラトゥーン2 メドレー>難易度表/おに/スプラトゥーン2 メドレー]]をプレイ|きせかえ「COLOR(red){スプラトゥーン ボーイ}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):平成仮面ライダー２０作記念|BGCOLOR(grey):[[COLOR(blue):Over “Quartzer”>難易度表/おに/Over “Quartzer”]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダージオウ＆ゲイツ}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):世界最強の社長|BGCOLOR(grey):[[COLOR(blue):REAL×EYEZ>難易度表/おに/REAL×EYEZ]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーゼロワン}」を獲得|
-|〇|BGCOLOR(pink):|文豪にして剣豪|[[COLOR(blue):ALMIGHTY〜仮面の約束 feat.川上洋平>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]をプレイ|きせかえ「COLOR(red){仮面ライダーセイバー}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):文豪にして剣豪|BGCOLOR(grey):[[COLOR(blue):ALMIGHTY〜仮面の約束 feat.川上洋平>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーセイバー}」を獲得|
 |〇|BGCOLOR(pink):|ヒーローと悪魔が相棒|[[COLOR(blue):liveDevil>難易度表/おに/liveDevil]]をプレイ|きせかえ「COLOR(red){仮面ライダーリバイス}」を獲得|
 |BGCOLOR(grey):〇||BGCOLOR(grey):麦わらの一味|BGCOLOR(grey):2021/10/20〜11/30にワンピースバトル演奏でカイドウに30勝する|BGCOLOR(grey):|
 |BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝参加|BGCOLOR(grey):2022/1/17〜2022/2/19に太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンラインの課題曲をプレイ|BGCOLOR(grey):|
@@ -778,14 +778,20 @@
 |BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):第四回天下一音ゲ祭 チャンピオン|BGCOLOR(grey):第四回天下一音ゲ祭優勝者に配布|~|
 |BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):第五回天下一音ゲ祭 ファイナリスト|BGCOLOR(grey):第五回天下一音ゲ祭全国頂上決戦出場者11名に配布|~|
 |BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):第五回天下一音ゲ祭 チャンピオン|BGCOLOR(grey):第五回天下一音ゲ祭優勝者に配布|~|
-|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):初代 最強小学生ドンだー|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]小学生以下部門優勝者に配布|~|
-|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 ファイナリスト|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]決勝大会出場者|BGCOLOR(grey):欠場者への配布の有無は不明|
-|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 第4位|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]第4位に配布|BGCOLOR(grey):|
-|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 第3位|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]第3位に配布|~|
-|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 準優勝|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]準優勝者に配布|~|
-|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 優勝|BGCOLOR(grey):[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]優勝者に配布|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):初代 最強小学生ドンだー|BGCOLOR(grey):[[太鼓の達人 ドンだー！世界一決定戦2016]]小学生以下部門優勝者に配布|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 ファイナリスト|BGCOLOR(grey):[[太鼓の達人 ドンだー！世界一決定戦2016]]決勝大会出場者|BGCOLOR(grey):欠場者への配布の有無は不明|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 第4位|BGCOLOR(grey):[[太鼓の達人 ドンだー！世界一決定戦2016]]第4位に配布|BGCOLOR(grey):|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 第3位|BGCOLOR(grey):[[太鼓の達人 ドンだー！世界一決定戦2016]]第3位に配布|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 準優勝|BGCOLOR(grey):[[太鼓の達人 ドンだー！世界一決定戦2016]]準優勝者に配布|~|
+|BGCOLOR(grey):〇|BGCOLOR(purple):|BGCOLOR(grey):世界一決定戦2016 優勝|BGCOLOR(grey):[[太鼓の達人 ドンだー！世界一決定戦2016]]優勝者に配布|~|
 |BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):闘神祭2020小学生以下ファイナリスト|BGCOLOR(grey):[[闘神祭2020>闘神祭2020 〜World Championship of ARCADE〜]] FINAL ROUND(小学生以下部門)出場権獲得者に配布|BGCOLOR(grey):大会FINAL ROUNDの開催中止のため称号のみの配布を行う|
 |BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):闘神祭2020中学生以上ファイナリスト|BGCOLOR(grey):[[闘神祭2020>闘神祭2020 〜World Championship of ARCADE〜]] FINAL ROUND(中学生以上部門)出場権獲得者に配布|~|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝優勝|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン優勝者に配布|BGCOLOR(grey):不正代行の疑いがあるため順位は1つずつ繰り上げ|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝２位|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン準優勝者に配布|~|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝３位|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン第3位に配布|~|
+|BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝４位|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン第4位に配布|~|
+|BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝(５〜１６)位|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン5位〜16位に配布|~|
+|BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝入賞|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン第17〜100位に配布|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):765PRO ALLSTERS|BGCOLOR(grey):2015/4/28〜6/30の間に「アイドルマスター」のコラボショップで購入|BGCOLOR(grey):|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):765プロ、ファイトー！|~|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):MILLIONSSTARS|~|~|
