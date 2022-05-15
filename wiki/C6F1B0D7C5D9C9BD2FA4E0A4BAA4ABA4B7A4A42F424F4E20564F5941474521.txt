@@ -1,5 +1,4 @@
 *&ruby(ボン){BON}; &ruby(ヴォヤージュ){VOYAGE};! [#title]
-
 ***詳細・攻略 [#more]
 -アニメ「''ONE PIECE''」のOP4。
 -詳細は以下の通り：
@@ -21,7 +20,7 @@
 -[[かんたん>難易度表/かんたん/BON VOYAGE!]]
 -[[ふつう>難易度表/ふつう/BON VOYAGE!]]
 -[[おに>難易度表/おに/BON VOYAGE!]]
--[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=TpGTYgvHTl4]]
+-[[プレイ動画>http://www.youtube.com/watch?v=TpGTYgvHTl4]]
 
 ***コメント [#comment]
 #pcomment(,noname)

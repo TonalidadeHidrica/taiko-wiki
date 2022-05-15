@@ -28,7 +28,7 @@
 
 |>|>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|>|''難易度ごとの曲数''(難易度を選択すると移動します)|h
-|COLOR(#FF3300):CENTER:BGCOLOR(yellow):[[詐称+>#danger]]|COLOR(#FF3300):CENTER:BGCOLOR(silver):[[詐称>#false]]|CENTER:BGCOLOR(#FFCCCC):[[強>#difficult]]|CENTER:BGCOLOR(#CCFFCC):[[中>#normal]]|CENTER:BGCOLOR(#CCCCFF):[[弱>#easy]]|CENTER:BGCOLOR(#CCFFFF):[[逆詐称>#untifalse]]|CENTER:BGCOLOR(#lime):[[逆詐称−>#safety]]|CENTER:BGCOLOR(Black):[[COLOR(white):%%%対象外%%%>#extra]]|合計|
+|COLOR(#FF3300):CENTER:BGCOLOR(yellow):[[詐称+>#danger]]|COLOR(#FF3300):CENTER:BGCOLOR(silver):[[詐称>#false]]|CENTER:BGCOLOR(#FFCCCC):[[強>#difficult]]|CENTER:BGCOLOR(#CCFFCC):[[中>#normal]]|CENTER:BGCOLOR(#CCCCFF):[[弱>#easy]]|CENTER:BGCOLOR(#CCFFFF):[[逆詐称>#untifalse]]|CENTER:BGCOLOR(lime):[[逆詐称−>#safety]]|CENTER:BGCOLOR(Black):[[COLOR(white):%%%対象外%%%>#extra]]|合計|
 |1|20|71|115|72|21|14|1|311|
 
 //曲を移動するときに↑も更新してください。議論中の曲は数に含めていません。

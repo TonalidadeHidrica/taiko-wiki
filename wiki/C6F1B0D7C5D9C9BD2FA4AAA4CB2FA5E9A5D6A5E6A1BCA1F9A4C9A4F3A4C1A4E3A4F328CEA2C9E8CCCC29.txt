@@ -11,7 +11,7 @@
 -BPMは130。
 -連打秒数目安・・・1.808秒×2：合計約3.615秒
 -表譜面とは譜面傾向が大きく異なり、[[SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]のような8分複合に24分のシャッフルを加えた譜面である。精度はあちらより取りづらいだろう。
---このタイプの譜面が苦手な人は、COLOR(red){●} COLOR(blue){◯}COLOR(red){●} COLOR(blue){◯}COLOR(red){●}をCOLOR(red){●}COLOR(blue){◯}COLOR(red){●}COLOR(blue){◯}COLOR(red){●}のように逆餡蜜処理をして叩くのも一つの手。
+--このタイプの譜面が苦手な人は、COLOR(red){●} COLOR(blue){○}COLOR(red){●} COLOR(blue){○}COLOR(red){●}をCOLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}のように逆餡蜜処理をして叩くのも一つの手。
 --曲はやや遅めなので、人によってはばいそくも有効。
 -16分隣接はひとつもない。さらに、24分も最大で2連打までしかない。
 -平均密度は、''約4.05打/秒''。
