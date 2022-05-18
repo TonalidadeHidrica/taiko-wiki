@@ -547,6 +547,7 @@
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
 |''拝啓、学校にて・・・''&br;　　SIZE(11){鉄拳}|132※|BGCOLOR(silver):[[★×2>難易度表/かんたん/拝啓、学校にて…]]|BGCOLOR(silver):[[★×3>難易度表/ふつう/拝啓、学校にて…]]|BGCOLOR(silver):[[★×4>難易度表/むずかしい/拝啓、学校にて…]]|BGCOLOR(silver):[[★×7>難易度表/おに/拝啓、学校にて…]]|BGCOLOR(silver):-|
 |~|~|BGCOLOR(silver):[[★×3>難易度表/かんたん/拝啓、学校にて…(裏譜面)]]|BGCOLOR(silver):[[★×5>難易度表/ふつう/拝啓、学校にて…(裏譜面)]]|BGCOLOR(silver):[[★×6>難易度表/むずかしい/拝啓、学校にて…(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/おに/拝啓、学校にて…(裏譜面)]]|BGCOLOR(silver):-|
+|''BE THE ACE''&br;　　SIZE(11){ACE COMBAT}|133|[[★×4>難易度表/かんたん/BE THE ACE]]|[[★×5>難易度表/ふつう/BE THE ACE]]|[[★×6>難易度表/むずかしい/BE THE ACE]]|[[★×6>難易度表/おに/BE THE ACE]]|[[★×9>難易度表/おに/BE THE ACE(裏譜面)]]|
 |''ラ・モレーナ・クモナイ''&br;　　SIZE(11){塊魂}|200※|[[★×4>難易度表/かんたん/ラ・モレーナ・クモナイ]]|[[★×5>難易度表/ふつう/ラ・モレーナ・クモナイ]]|[[★×7>難易度表/むずかしい/ラ・モレーナ・クモナイ]]|[[★×8>難易度表/おに/ラ・モレーナ・クモナイ]]|[[★×10>難易度表/おに/ラ・モレーナ・クモナイ(裏譜面)]]|
 |''わっふ〜音頭''&br;　　SIZE(11){風のクロノア}|150|BGCOLOR(silver):-|BGCOLOR(silver):[[★×3>難易度表/ふつう/わっふ〜音頭]]|BGCOLOR(silver):[[★×3>難易度表/むずかしい/わっふ〜音頭]]|BGCOLOR(silver):[[★×7>難易度表/おに/わっふ〜音頭]]|BGCOLOR(silver):-|
 

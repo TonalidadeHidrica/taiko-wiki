@@ -111,6 +111,9 @@
 - a3f4defa8d4e185a8cdcf84fb7642487
 - 5a026a7e8e4496abfb04f51281c0c7f5
 
+//5/18 空更新連続(oita.ocn.co.jp)
+- 220.105.117.246
+
 //5/15 (hyg2.eonet.jo)
 - 051c930d7c5f21a57272eb58cb8adc12
 - 4a86a36d378c7ff7d739b7d0bd989d9b

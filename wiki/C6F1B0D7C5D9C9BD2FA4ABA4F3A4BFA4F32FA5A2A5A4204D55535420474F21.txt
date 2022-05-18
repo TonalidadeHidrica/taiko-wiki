@@ -38,5 +38,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~くす玉の長さは暫定
-&ref(アイは行かなければなりません！_e.png,nolink);
+&ref(imsmt5_e.png,nolink);

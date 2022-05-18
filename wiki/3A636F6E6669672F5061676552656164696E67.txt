@@ -5137,6 +5137,7 @@
 -[[コメント/難易度表/ふつう/MAGICAL SOUND SHOWER]] コメント/ナンイドオモテ/フツウ/MAGICAL SOUND SHOWER
 -[[コメント/難易度表/ふつう/MANKAI☆開花宣言]] コメント/ナンイドオモテ/フツウ/MANKAI☆カイカセンゲン
 -[[コメント/難易度表/ふつう/MATSURI D／A]] コメント/ナンイドオモテ/フツウ/MATSURI D／A
+-[[コメント/難易度表/ふつう/MEGALOVANIA]] コメント/ナンイドオモテ/フツウ/MEGALOVANIA
 -[[コメント/難易度表/ふつう/MEGARE!]] コメント/ナンイドオモテ/フツウ/MEGARE!
 -[[コメント/難易度表/ふつう/MEKADON]] コメント/ナンイドオモテ/フツウ/MEKADON
 -[[コメント/難易度表/ふつう/MISTER]] コメント/ナンイドオモテ/フツウ/MISTER

@@ -127,11 +127,17 @@
 |>|>|>|CENTER:''4/23配信曲''|h
 |BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Challengers''>難易度表/おに/Challengers]]|まるろん|
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''5/21配信曲''|h
+|BGCOLOR(#0acc2a):''バラエティ''|COLOR(red):''新''|[[''Kill My Fortune''>難易度表/おに/Kill My Fortune]]|アリスシャッハと魔法の楽団|
+
+
 -2022/5/21 7:00をもって、以下の2曲(うち1曲双打譜面)がサヨナラとなる。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V??.??)|h
 |BGCOLOR(#49d5eb):''ポップス''|[[''WE WILL ROCK YOU''>難易度表/おに/We Will Rock You]]|Written by Brian May &#169; Queen Music Ltd|
 |~|[[''【双打】 WE WILL ROCK YOU''>難易度表/おに/We Will Rock You#two]]|~|
+
 
 //ジャンルについて↓
 //BGCOLOR(#49d5eb):''ポップス''
