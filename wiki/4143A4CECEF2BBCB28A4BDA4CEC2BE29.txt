@@ -312,9 +312,9 @@
 |~|[[Help me, ERINNNNNN!!>難易度表/おに/Help me, ERINNNNNN!!]]|東方Projectアレンジ ビートまりお|
 
 |>|>|CENTER:''限定楽曲''|h
-|BGCOLOR(lime):CENTER:''バラエティ''|''ムーンダスト''|東方Projectアレンジ GET IN THE RING|
-|~|''花月夜''|東方Projectアレンジ Yonder Voice|
-|~|''Cheerful Flyer''|東方Projectアレンジ 十六神数|
+|BGCOLOR(lime):CENTER:''バラエティ''|[[ムーンダスト>難易度表/おに/ムーンダスト]]|東方Projectアレンジ GET IN THE RING|
+|~|[[花月夜>難易度表/おに/花月夜]]|東方Projectアレンジ Yonder Voice|
+|~|[[Cheerful Flyer>難易度表/おに/Cheerful Flyer]]|東方Projectアレンジ 十六神数|
 
 -上記以外の曲の並びは以下の通り。
 --【バラエティ】
@@ -366,7 +366,7 @@
 |~|[[明星ロケット>難易度表/おに/明星ロケット]]|東方Projectアレンジ 岸田教団 & THE明星ロケッツ|
 
 |>|>|CENTER:''限定楽曲''|h
-|BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! 小林幸子ver.''|東方Projectアレンジ ビートまりお|
+|BGCOLOR(lime):CENTER:''バラエティ''|[[Help me, ERINNNNNN!! 小林幸子ver.>難易度表/おに/Help me, ERINNNNNN!! 小林幸子ver.]]|東方Projectアレンジ ビートまりお|
 
 -上記以外の曲の並びは以下の通り。
 --【バラエティ】
@@ -403,7 +403,7 @@
 |BGCOLOR(lime):CENTER:''バラエティ''|[[''仙酌絶唱のファンタジア''>難易度表/おに/仙酌絶唱のファンタジア]]((限定筐体内では「博麗神社例大祭コラボユニット曲(仮称)」と表記))|東方Projectアレンジ 博麗神社例大祭コラボユニット|
 
 |>|>|CENTER:''限定楽曲''|h
-|BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! -Cranky remix-''|東方Projectアレンジ ビートまりお×Cranky|
+|BGCOLOR(lime):CENTER:''バラエティ''|[[Help me, ERINNNNNN!! -Cranky remix->難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]|東方Projectアレンジ ビートまりお×Cranky|
 
 -上記以外の曲の並びは以下の通り。
 --【バラエティ】
@@ -436,7 +436,7 @@
 --プレイするときせかえ「博麗霊夢」、「霧雨魔理沙」が最初から入ったバナパスポートカードを受け取る事ができた。
 
 |>|>|CENTER:''限定楽曲''|h
-|BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! -Cranky remix-''|東方Projectアレンジ ビートまりお×Cranky|
+|BGCOLOR(lime):CENTER:''バラエティ''|[[Help me, ERINNNNNN!! -Cranky remix->難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]|東方Projectアレンジ ビートまりお×Cranky|
 
 -上記以外の曲の並びは以下の通り。
 --【バラエティ】
@@ -478,7 +478,7 @@
 |~|[[''さよならワーリャ''>難易度表/おに/さよならワーリャ]]|未来古代楽団 feat.霜月はるか|
 
 |>|CENTER:''限定楽曲''|h
-|BGCOLOR(orangered):CENTER:''ナムコ&br;オリジナル''|'' 忙しい人のための「新曲」メドレー''|
+|BGCOLOR(orangered):CENTER:''ナムコ&br;オリジナル''|[[忙しい人のための「新曲」メドレー>難易度表/おに/忙しい人のための「新曲」メドレー]]|
 
 **ハウステンボス [#huis10bosch]
 -長崎県佐世保市にあるオランダの街並みを再現したテーマパーク。
@@ -740,6 +740,14 @@
 
 |>|>|CENTER:''先行楽曲''|h
 |BGCOLOR(#0acc2a):CENTER:''バラエティ''|[[''ウサテイ''>難易度表/おに/ウサテイ]]|東方Projectアレンジ あまね＋ビートまりお (COOL&CREATE)|
+
+**ガンダムパーク福岡 [#gundam]
+-2022年4月25日(月)に稼働を開始した特別バージョン。
+--三井ショッピングパーク ららぽーと福岡4階 ガンダムパーク福岡のnamcoに設置されている。
+-基本的に太鼓の達人 ニジイロVer.(2021?)準拠。
+--ただし、筐体はオフラインになっていて、バンダイナムコカードを使用することが出来ない。
+-主な変更点は、音色がビームサーベルの斬撃音になっている、備え付けのバチがビームサーベル風になっている、装飾が特別仕様になっているの3点。
+-その他の情報は[[こちら>https://taiko-ch.net/blog/?m=20220517]]を参照。
 
 *コメント [#comment]
 #pcomment(,noname)

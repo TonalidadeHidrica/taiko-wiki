@@ -25,6 +25,7 @@
 -アーティストは、''Cory Tarrow''。氏はサックス奏者である(([[ソース>https://twitter.com/yoshihito_yano/status/1514946250273345548]]))。
 -''表譜面の★の数・最大コンボ数がどちらも[[裏譜面>../Agent Hustle ＆ Dr. Hassle(裏譜面)]]より多い''、珍しい曲である。ニジイロVer.では初。
 -この譜面をフルコンボすると、''称号''「''Mission Complete!''」を獲得できる。
+//-曲IDは、''''。
 
 ----
 -[[かんたん>難易度表/かんたん/Agent Hustle ＆ Dr. Hassle]]

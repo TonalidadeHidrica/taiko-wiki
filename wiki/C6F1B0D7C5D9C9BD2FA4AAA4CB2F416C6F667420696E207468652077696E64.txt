@@ -17,6 +17,7 @@
 ***その他 [#other]
 -作曲・編曲は、''[[Qutabire>https://twitter.com/Qutabire]]''。
 -この譜面をフルコンボすると、''称号''「''一陣の風''」を獲得できる。
+//-曲IDは、''''。
 
 ----
 -[[かんたん>難易度表/かんたん/Aloft in the wind]]
