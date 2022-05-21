@@ -980,6 +980,7 @@
 -[[コメント/難易度表/おに/KISS KISS BANG BANG]] コメント/ナンイドオモテ/オニ/KISS KISS BANG BANG
 -[[コメント/難易度表/おに/KUSANAGI]] コメント/ナンイドオモテ/オニ/KUSANAGI
 -[[コメント/難易度表/おに/Kamikaze Remix]] コメント/ナンイドオモテ/オニ/Kamikaze Remix
+-[[コメント/難易度表/おに/Kill My Fortune]] コメント/ナンイドオモテ/オニ/Kill My Fortune
 -[[コメント/難易度表/おに/Killer Queen]] コメント/ナンイドオモテ/オニ/Killer Queen
 -[[コメント/難易度表/おに/Kosmos, Cosmos]] コメント/ナンイドオモテ/オニ/Kosmos, Cosmos
 -[[コメント/難易度表/おに/LAST CHRISTMAS]] コメント/ナンイドオモテ/オニ/LAST CHRISTMAS
@@ -6552,6 +6553,7 @@
 -[[コメント/難易度表/ふつう/雪だるまつくろう]] コメント/ナンイドオモテ/フツウ/ユキダルマツクロウ
 -[[コメント/難易度表/ふつう/指先からはじまる物語]] コメント/ナンイドオモテ/フツウ/ユビサキカラハジマルモノガタリ
 -[[コメント/難易度表/ふつう/夢色コースター]] コメント/ナンイドオモテ/フツウ/ユメイロコースター
+-[[コメント/難易度表/ふつう/夢と希望]] コメント/ナンイドオモテ/フツウ/ユメトキボウ
 -[[コメント/難易度表/ふつう/夢と現実の境界線]] コメント/ナンイドオモテ/フツウ/ユメトゲンジツノキョウカイセン
 -[[コメント/難易度表/ふつう/夢をかなえてドラえもん]] コメント/ナンイドオモテ/フツウ/ユメヲカナエテドラエモン
 -[[コメント/難易度表/ふつう/ユルユルでDE-O!]] コメント/ナンイドオモテ/フツウ/ユルユルデDE-O!
@@ -9123,8 +9125,8 @@
 -[[段位道場/ニジイロ2021/十段]] ダンイドウジョウ/ニジイロ2021/ジュウダン
 -[[段位道場/ニジイロ2021/達人]] ダンイドウジョウ/ニジイロ2021/タツジン
 -[[段位道場/ニジイロ2021/超人]] ダンイドウジョウ/ニジイロ2021/チョウジン
--[[段位道場/ニジイロ2021/二級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/ニ級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
+-[[段位道場/ニジイロ2021/二級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/二段]] ダンイドウジョウ/ニジイロ2021/ニダン
 -[[段位道場/ニジイロ2021/八段]] ダンイドウジョウ/ニジイロ2021/ハチダン
 -[[段位道場/ニジイロ2021/名人]] ダンイドウジョウ/ニジイロ2021/メイジン
@@ -9563,6 +9565,7 @@
 -[[難易度表/おに/KISS KISS BANG BANG]] ナンイドオモテ/オニ/KISS KISS BANG BANG
 -[[難易度表/おに/KUSANAGI]] ナンイドオモテ/オニ/KUSANAGI
 -[[難易度表/おに/Kamikaze Remix]] ナンイドオモテ/オニ/Kamikaze Remix
+-[[難易度表/おに/Kill My Fortune]] ナンイドオモテ/オニ/Kill My Fortune
 -[[難易度表/おに/Killer Queen]] ナンイドオモテ/オニ/Killer Queen
 -[[難易度表/おに/Kosmos, Cosmos]] ナンイドオモテ/オニ/Kosmos, Cosmos
 -[[難易度表/おに/LAST CHRISTMAS]] ナンイドオモテ/オニ/LAST CHRISTMAS
@@ -11995,6 +11998,7 @@
 -[[難易度表/かんたん/KISS KISS BANG BANG]] ナンイドオモテ/カンタン/KISS KISS BANG BANG
 -[[難易度表/かんたん/KUSANAGI]] ナンイドオモテ/カンタン/KUSANAGI
 -[[難易度表/かんたん/Kamikaze Remix]] ナンイドオモテ/カンタン/Kamikaze Remix
+-[[難易度表/かんたん/Kill My Fortune]] ナンイドオモテ/カンタン/Kill My Fortune
 -[[難易度表/かんたん/Killer Queen]] ナンイドオモテ/カンタン/Killer Queen
 -[[難易度表/かんたん/Kosmos, Cosmos]] ナンイドオモテ/カンタン/Kosmos, Cosmos
 -[[難易度表/かんたん/LAST CHRISTMAS]] ナンイドオモテ/カンタン/LAST CHRISTMAS
@@ -14590,6 +14594,7 @@
 -[[難易度表/ふつう/KISS KISS BANG BANG]] ナンイドオモテ/フツウ/KISS KISS BANG BANG
 -[[難易度表/ふつう/KUSANAGI]] ナンイドオモテ/フツウ/KUSANAGI
 -[[難易度表/ふつう/Kamikaze Remix]] ナンイドオモテ/フツウ/Kamikaze Remix
+-[[難易度表/ふつう/Kill My Fortune]] ナンイドオモテ/フツウ/Kill My Fortune
 -[[難易度表/ふつう/Killer Queen]] ナンイドオモテ/フツウ/Killer Queen
 -[[難易度表/ふつう/Kosmos, Cosmos]] ナンイドオモテ/フツウ/Kosmos, Cosmos
 -[[難易度表/ふつう/LAST CHRISTMAS]] ナンイドオモテ/フツウ/LAST CHRISTMAS
@@ -16867,6 +16872,7 @@
 -[[難易度表/むずかしい/KISS KISS BANG BANG]] ナンイドオモテ/ムズカシイ/KISS KISS BANG BANG
 -[[難易度表/むずかしい/KUSANAGI]] ナンイドオモテ/ムズカシイ/KUSANAGI
 -[[難易度表/むずかしい/Kamikaze Remix]] ナンイドオモテ/ムズカシイ/Kamikaze Remix
+-[[難易度表/むずかしい/Kill My Fortune]] ナンイドオモテ/ムズカシイ/Kill My Fortune
 -[[難易度表/むずかしい/Killer Queen]] ナンイドオモテ/ムズカシイ/Killer Queen
 -[[難易度表/むずかしい/Kosmos, Cosmos]] ナンイドオモテ/ムズカシイ/Kosmos, Cosmos
 -[[難易度表/むずかしい/LAST CHRISTMAS]] ナンイドオモテ/ムズカシイ/LAST CHRISTMAS

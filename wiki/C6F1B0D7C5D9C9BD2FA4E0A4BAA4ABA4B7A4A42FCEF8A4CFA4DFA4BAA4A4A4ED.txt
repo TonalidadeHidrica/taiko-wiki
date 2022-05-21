@@ -37,4 +37,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(mblood.png,nolink);
+&attachref(mblood_h.png,nolink);

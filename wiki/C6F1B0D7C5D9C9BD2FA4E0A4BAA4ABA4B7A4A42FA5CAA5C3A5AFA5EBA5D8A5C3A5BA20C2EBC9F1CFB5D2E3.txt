@@ -40,12 +40,8 @@
 #pcomment(,noname)
 
 ***设烫 [#score]
--AC设烫
+~AC设烫
+~&attachref(oubu_h.png,nolink);
 
-65井泪は≈3003000000000000,∽~
-69井泪の慎隶は2.5秋~
-&attachref(码神系毅2.png,nolink);
-
--DS3设烫
-
-&attachref(oubuds3.png,nolink);
+~DS3设烫
+~&attachref(oubuds3.png,nolink);

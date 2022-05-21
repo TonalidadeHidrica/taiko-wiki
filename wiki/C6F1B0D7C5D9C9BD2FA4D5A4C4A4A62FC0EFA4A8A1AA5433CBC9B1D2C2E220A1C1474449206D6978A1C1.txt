@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#fumen]
-&attachref(Æ¨¤²¤í¡ª³§Æ¨¤²¤í¡Á¡ª.png,nolink);
+&attachref(tttank_n.png,nolink);

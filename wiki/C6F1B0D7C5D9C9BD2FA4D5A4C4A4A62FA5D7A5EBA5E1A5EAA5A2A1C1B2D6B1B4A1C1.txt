@@ -2,9 +2,10 @@
 -映画「''ごくせん THE MOVIE''」主題歌。
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア((赤字は真打モード))|CENTER:初項|CENTER:公差|h
-|CENTER:''AC13''-14|CENTER:★×4|CENTER:''167''|CENTER:''521910点''|CENTER:＋連打|CENTER:840点|CENTER:220点|
-|CENTER:COLOR(#ff3300){真打モード}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){2530点}|CENTER:-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC13''-14|BGCOLOR(cyan):''J-POP''|★×4|''167''|''521910点''|＋連打|840点|220点|
+|COLOR(#ff3300){真打モード}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){2530点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは114。

@@ -22,7 +22,8 @@
 
 ***その他 [#other]
 -AC12亜では''吃面子MIRACLE''と表記されている。
--開発日記の[[極秘潜入ミッション２！>https://web.archive.org/web/20170715113334/http://taikoblog.namco-ch.net/blog/2008/11/post_65.html]]のコード進行の画像はこの曲だと思われる。
+-開発日記の[[極秘潜入ミッション２！>https://web.archive.org/web/20170715113334/http://taikoblog.namco-ch.net/blog/2008/11/post_65.html]]((リンク先はアーカイブ))のコード進行の画像はこの曲だと思われる。
+-制作時のコードネームは[[''ねこくじら２''>https://web.archive.org/web/20150901134425/http://taikoblog.namco-ch.net/blog/2012/05/post_296.html#more]]((リンク先はアーカイブ))だった。
 -作曲・編曲・ギター・ベースは、[[''増渕裕二''>参加アーティスト一覧/増渕裕二]]。
 -歌唱は、''[[佐藤美香>参加アーティスト一覧/佐藤美香]]''。
 -作詞は、[[''みすみゆり''>参加アーティスト一覧/みすみゆり]]。
@@ -33,6 +34,7 @@
 -[[ふつう>難易度表/ふつう/メンクイミラクル]]
 -[[むずかしい>難易度表/むずかしい/メンクイミラクル]]
 -[[オート動画(Wii5)>http://www.youtube.com/watch?v=6oD2VxOLB-E]]
+-[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20150901134425/http://taikoblog.namco-ch.net/blog/2012/05/post_296.html#more]]
 
 ***コメント [#comment]
 #pcomment(,noname)

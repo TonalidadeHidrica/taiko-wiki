@@ -1,5 +1,5 @@
 *U.S.A. [#title]
--1992年にリリースされたJoe Yellowによる同名の楽曲((2007年に発売されたアルバム「''SUPER EUROBEAT VOL.177''」に収録))のカバー。
+- TBS系「王様のブランチ」2018年6月期エンディングテーマ。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -25,10 +25,11 @@
 ***その他 [#other]
 -アーティストは、''DA PUMP''。
 --本人音源ではない。
--作詞は、CIRELLI DONATELLA・LOMBARDONI SEVERINO・shungo((日本語詞))。
--作曲は、ACCATINO CLAUDIO・CIRELLI DONATELLA・GIOCOANNA MARIA。
+--作詞は、CIRELLI DONATELLA・LOMBARDONI SEVERINO・shungo((日本語詞))。
+--作曲は、ACCATINO CLAUDIO・CIRELLI DONATELLA・GIOCOANNA MARIA。編曲は､KAZ。
 -譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
 --2018年10月1日(月)に放送されたテレビ朝日系列「激レアさんを連れてきた。」内にて紹介された際に判明した。
+-太鼓の達人に収録されているのは、1992年にリリースされたJoe Yellowによる同名の楽曲((2007年に発売されたアルバム「''SUPER EUROBEAT VOL.177''」に収録))を2018年にDA PUMPがカバーしたもの。
 -''2021年8月24日(火)午前7:00を以て新筐体の全てのバージョンよりサヨナラ''となった。
 --現在はこの曲が収録されている家庭用作品でDLすることでのみ遊べる。
 -曲IDは、''usa''。
@@ -38,7 +39,6 @@
 -[[むずかしい>難易度表/むずかしい/U.S.A.]]
 -[[プレイ動画>https://www.youtube.com/watch?v=pgxsDSFzN5s]]
 -[[オート動画(NS1)>https://youtu.be/iYhZcrATNGE]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/K_HIbydEnPE]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

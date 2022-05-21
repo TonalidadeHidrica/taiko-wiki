@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-&attachref(戦況はどうなっている.png,nolink);
+&attachref(tttank_e.png,nolink);

@@ -796,8 +796,10 @@
 |687|[[黒神クロニクル>難易度表/おに/黒神クロニクル]]|BGCOLOR(#ff7028):ナムオリ|59shin||
 |688|[[星屑とリニアと僕>難易度表/おに/星屑とリニアと僕]]|BGCOLOR(#ff7028):ナムオリ|hoslin||
 |689|[[ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|BGCOLOR(#ff7028):ナムオリ|ska||
-|BGCOLOR(#333):COLOR(white):690|BGCOLOR(beige):[[UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|BGCOLOR(#ff7028):ナムオリ|BGCOLOR(beige):uhear2|BGCOLOR(beige):段位道場用、達人譜面固定|
-|BGCOLOR(#333):COLOR(white):691|BGCOLOR(beige):[[まださいたま2000>難易度表/おに/まださいたま2000]]|BGCOLOR(#ff7028):ナムオリ|BGCOLOR(beige):rot42|BGCOLOR(beige):段位道場用、達人譜面固定|
+|690|非公開|BGCOLOR(#ff7028):ナムオリ|?||
+|~|BGCOLOR(#ccc):[[UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|BGCOLOR(#ff7028):ナムオリ|BGCOLOR(#ccc):uhear2|BGCOLOR(#ccc):段位道場用、達人譜面固定|
+|691|非公開|BGCOLOR(#ff7028):ナムオリ|?||
+|~|BGCOLOR(#ccc):[[まださいたま2000>難易度表/おに/まださいたま2000]]|BGCOLOR(#ff7028):ナムオリ|BGCOLOR(#ccc):rot42|BGCOLOR(#ccc):段位道場用、達人譜面固定|
 |692|BGCOLOR(#ccc):[[美女と野獣>難易度表/おに/美女と野獣]]|BGCOLOR(#49d5eb):J-POP|BGCOLOR(#ccc):bijoto|BGCOLOR(#ccc):〜20/9/23　サヨナラ曲|
 |693|[[誘惑>難易度表/おに/誘惑]]|BGCOLOR(#49d5eb):J-POP|glyywk||
 |694|[[HOWEVER>難易度表/おに/HOWEVER]]|BGCOLOR(#49d5eb):J-POP|glyhow||
@@ -1197,7 +1199,7 @@
 |1088|[[プロミスザスター>難易度表/おに/プロミスザスター]]|BGCOLOR(#49d5eb):ポップス|?||
 |1089|[[阿修羅ちゃん>難易度表/おに/阿修羅ちゃん]]|BGCOLOR(#49d5eb):ポップス|?||
 |1090|[[ドライフラワー>難易度表/おに/ドライフラワー]]|BGCOLOR(#49d5eb):ポップス|dryflw||
-|1091|非公開|BGCOLOR(#333):|?||
+|1091|非公開|BGCOLOR(#fe90d2):アニメ|?||
 |1092|[[アニマル>難易度表/おに/アニマル]]|BGCOLOR(#cbcfde):ボカロ|?||
 |1093|[[Lunar Maria>難易度表/おに/Lunar Maria]]|BGCOLOR(#cc8aeb):ゲーミュ|?||
 |1094|[[Racing the Storm>難易度表/おに/Racing the Storm]]|BGCOLOR(#cc8aeb):ゲーミュ|crtrcs||
@@ -1206,7 +1208,17 @@
 |1097|[[ON SAY GO SAY>難易度表/おに/ON SAY GO SAY]]|BGCOLOR(#ff7028):ナムオリ|onsayg||
 |1098|[[SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]|BGCOLOR(#ff7028):ナムオリ|cosmb||
 |1099|[[Challengers>難易度表/おに/Challengers]]|BGCOLOR(#ff7028):ナムオリ|?||
-|1100|非公開|BGCOLOR(#0acc2a):バラエティ|?||
+|1100|[[Kill My Fortune>難易度表/おに/Kill My Fortune]]|BGCOLOR(#0acc2a):バラエティ|?||
+|1101|非公開|BGCOLOR(#49d5eb):ポップス|?||
+|1102|非公開|BGCOLOR(#fdc000):キッズ|?||
+|1103|非公開|BGCOLOR(#cbcfde):ボカロ|?||
+|1104|非公開|BGCOLOR(#0acc2a):バラエティ|?||
+|1105|非公開|BGCOLOR(#cc8aeb):ゲーミュ|?||
+|1106|非公開|BGCOLOR(#cc8aeb):ゲーミュ|?||
+|1107|非公開|BGCOLOR(#cbcfde):ボカロ|?||
+|1108|非公開|BGCOLOR(#ff7028):ナムオリ|?||
+|1109|非公開|BGCOLOR(#ff7028):ナムオリ|?||
+|1110|非公開|BGCOLOR(#ff7028):ナムオリ|?||
 
 **未確認 [#lostn]
 |>|>|>|CENTER:||c

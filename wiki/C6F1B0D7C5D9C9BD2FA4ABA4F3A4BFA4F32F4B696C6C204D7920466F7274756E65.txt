@@ -1,0 +1,24 @@
+*Kill My Fortune [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.1''|BGCOLOR(lime):''バラエティ''|★×4|''174''|''?????0点''|+連打|???0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは180。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/Kill My Fortune]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/Kill My Fortune]]
+-[[むずかしい>難易度表/むずかしい/Kill My Fortune]]
+-[[おに>難易度表/おに/Kill My Fortune]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(KMF_e.png,nolink);

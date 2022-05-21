@@ -21,7 +21,7 @@
 
 ***その他 [#other]
 -アーティストは、[[''TWICE''>アーティスト別収録曲#twice]]。
--作詞は、Sam Lewis・Shoko Fujibayashi。作曲は、Black Eyed Pilseung。
+--作詞は、Sam Lewis・Shoko Fujibayashi。作曲は、Black Eyed Pilseung。
 -AC15では踊り子がどん子に固定されていたが、AC16では通常の踊り子になった。
 -''2020年11月8日(日)午前7:00をもって新筐体の全てのバージョンよりサヨナラ''となった。
 --現在はこの曲が収録されている家庭用作品でのみ遊べる。((iOS/ARはDLが必要))
@@ -33,7 +33,6 @@
 -[[むずかしい>難易度表/むずかしい/TT -Japanese ver.-]]
 -[[プレイ動画>https://www.youtube.com/watch?v=Biu0--BZ6Yw]]
 -[[オート動画(NS1)>https://youtu.be/bmmBmv79Mio]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/wxDm5c-N1mA]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

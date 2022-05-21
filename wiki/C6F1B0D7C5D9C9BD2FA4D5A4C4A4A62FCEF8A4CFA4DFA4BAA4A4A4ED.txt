@@ -38,4 +38,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(恋は流れ星のように.png,nolink);
+&attachref(mblood_n.png,nolink);

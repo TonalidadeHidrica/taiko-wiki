@@ -34,5 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~DSで調べたので30でんでんを30芋で代用しています。
-~&attachref(mizu.png,nolink);
+~&attachref(mblood_e.png,nolink);
