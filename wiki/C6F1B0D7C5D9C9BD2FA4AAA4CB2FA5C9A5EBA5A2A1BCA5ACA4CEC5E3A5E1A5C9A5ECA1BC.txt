@@ -10,7 +10,7 @@
 ||Wii U2&br;PS4 1DL&br;PTB|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|~|''1048930点''|~|470点|123点||
 ||iOS&br;AR|~|~|~|''1052370点''|~|430点|110点|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''999570点''}|~|COLOR(#ff3300){1430点}|-||
-|AC16.1.0SP||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1002450点''|~|1470点|-||
+|AC16.1.0SP||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1002540点''|~|1470点|-||
 |AC16.2.0SP||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

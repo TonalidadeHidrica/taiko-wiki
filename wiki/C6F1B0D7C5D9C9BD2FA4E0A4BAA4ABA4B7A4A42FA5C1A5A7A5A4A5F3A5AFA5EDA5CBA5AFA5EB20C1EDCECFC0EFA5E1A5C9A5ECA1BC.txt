@@ -35,5 +35,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-黄色連打は下の画像より48分音符1つ分短い
-&attachref(chn96t_h.png,nolink);
+~AC譜面
+~&attachref(chn96t_h_2.png,nolink);
+
+~iOS/AR譜面
+~&attachref(chn96t_h_ios.png,nolink);

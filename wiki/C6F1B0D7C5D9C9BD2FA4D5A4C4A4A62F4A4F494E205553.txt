@@ -11,7 +11,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは約132。
--連打秒数・・・約1.3257秒−SIZE(16){''約1.3257秒''}×2:合計約3.9771秒
+-連打秒数・・・約1.326秒−SIZE(16){''約1.326秒''}×2:合計約3.978秒
 -大音符が多く、''53個''(約41.40%)ある。
 
 ***その他 [#other]
@@ -21,7 +21,6 @@
 -[[むずかしい>難易度表/むずかしい/JOIN US]]
 -[[おに>難易度表/おに/JOIN US]]
 -[[オート動画(NS1)>https://www.youtube.com/watch?v=4yumIHZkcgM]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/T9m6PeL4LKk]]
 -[[プレイ動画>https://www.youtube.com/watch?v=aQtaUAI3fkY]]
 
 ***コメント [#comment]

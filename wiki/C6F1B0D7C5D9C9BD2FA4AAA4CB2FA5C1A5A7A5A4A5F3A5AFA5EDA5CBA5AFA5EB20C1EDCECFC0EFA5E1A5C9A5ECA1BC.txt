@@ -35,6 +35,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~69小節目は5/4拍、風船は画像より4分音符1つ分長い
-~19小節目「32270000,」→「30070000,」
-~&attachref(chainm3.png,nolink);
+~&attachref(chn96t_m.png,nolink);

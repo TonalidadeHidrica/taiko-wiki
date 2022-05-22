@@ -15,11 +15,11 @@
 -平均密度は、''約5.98打/秒''。
 
 ***その他 [#other]
+-作詞は、''[[Masaki MATSUMOTO>https://twitter.com/masaki_w_crown]]''。
 -作曲・編曲は、''Jack C''。
 -歌唱は、''[[Saoring>https://twitter.com/Saoring0109]]''。
--作詞は、''[[Masaki MATSUMOTO>https://twitter.com/masaki_w_crown]]''。
--曲IDは、''integr''。
 -「∫」は、数学では積分を表す演算子である。
+-曲IDは、''integr''。
 
 ----
 -[[かんたん>難易度表/かんたん/∫-integral-]]
