@@ -131,9 +131,9 @@
 |>|>|>|CENTER:''5/21配信曲''|h
 |BGCOLOR(#0acc2a):''バラエティ''|COLOR(red):''新''|[[''Kill My Fortune''>難易度表/おに/Kill My Fortune]]|アリスシャッハと魔法の楽団|
 
--2022/5/21 7:00をもって、以下の2曲(うち1曲双打譜面)がサヨナラとなる。
+-2022/5/21 7:00をもって、以下の2曲(うち1曲双打譜面)がサヨナラとなった。
 |CENTER:100|||c
-|>|>|CENTER:''サヨナラ曲''(V??.??)|h
+|>|>|CENTER:''サヨナラ曲''(V25.13)|h
 |BGCOLOR(#49d5eb):''ポップス''|[[''WE WILL ROCK YOU''>難易度表/おに/We Will Rock You]]|Written by Brian May &#169; Queen Music Ltd|
 |~|[[''【双打】 WE WILL ROCK YOU''>難易度表/おに/We Will Rock You#two]]|~|
 

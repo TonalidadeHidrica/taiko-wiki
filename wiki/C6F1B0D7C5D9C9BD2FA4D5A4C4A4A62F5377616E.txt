@@ -34,5 +34,5 @@
 
 ***譜面 [#score]
 ~ふうせんは適当
-~正しいBPMは[[おに譜面>難易度表/おに/Swan]]を参照
+~正しいBPMは[[おに譜面>難易度表/おに/Swan#score]]を参照
 ~&attachref(白鳥ふつう.png,nolink);

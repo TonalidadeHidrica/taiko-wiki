@@ -1,6 +1,4 @@
 *CANDY CANDY [#title]
--江崎グリコ「BREO」CMソング。
--関西テレビ・フジテレビ系『キャサリン』エンディングテーマ曲。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -15,7 +13,7 @@
 --特に、12〜15小節にかけては、COLOR(red){●●}COLOR(blue){○} COLOR(red){●}→COLOR(blue){○○}COLOR(red){●} COLOR(blue){○}→COLOR(red){●●}COLOR(blue){○} COLOR(red){●}→COLOR(blue){○○}COLOR(red){●} COLOR(blue){○}→COLOR(red){●●}COLOR(blue){○} COLOR(red){●}→COLOR(blue){○○}COLOR(red){●} COLOR(blue){○}と繰り返して出るため、フルコンボ狙いの人は注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/CANDY CANDY]]を参照。
+-タイアップ・楽曲情報は[[おに譜面>難易度表/おに/CANDY CANDY]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/CANDY CANDY]]
 -[[ふつう>難易度表/ふつう/CANDY CANDY]]

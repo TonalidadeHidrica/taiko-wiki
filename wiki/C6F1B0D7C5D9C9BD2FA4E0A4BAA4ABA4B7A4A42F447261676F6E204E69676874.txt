@@ -1,5 +1,4 @@
-*Dragon Night [#title]
--東宝配給映画「TOKYO FANTASY SEKAI NO OWARI」エンディングテーマ。 
+*Dragon Night [#title] 
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|>|CENTER:|c
@@ -19,8 +18,7 @@
 --ただし、8分の複合はほとんどが面と縁の交互連打である。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Dragon Night]]を参照。
-
+-タイアップ・楽曲情報は[[おに譜面>難易度表/おに/Dragon Night]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/Dragon Night]]
 -[[ふつう>難易度表/ふつう/Dragon Night]]
