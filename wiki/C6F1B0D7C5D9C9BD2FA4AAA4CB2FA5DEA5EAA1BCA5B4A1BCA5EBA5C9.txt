@@ -41,4 +41,5 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
+~1¾®Àá¤Ï1/8Çï»Ò
 ~&attachref(imynmg_m.png,nolink);

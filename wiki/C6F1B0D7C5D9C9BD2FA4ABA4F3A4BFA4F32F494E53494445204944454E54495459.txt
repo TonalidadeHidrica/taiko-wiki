@@ -18,7 +18,7 @@
 -序盤で1回だけ出てくる4分の複合5連打に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/INSIDE IDENTITY]]を参照。
+-タイアップ・楽曲情報は[[おに譜面>難易度表/おに/INSIDE IDENTITY]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/INSIDE IDENTITY]]
@@ -30,4 +30,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+正しいBPMは[[おに譜面>難易度表/おに/INSIDE IDENTITY#score]]を参照
 &attachref(INSIDE IDENTITY簡.png,nolink);

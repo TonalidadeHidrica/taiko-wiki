@@ -33,7 +33,7 @@
 -[[むずかしい>難易度表/むずかしい/INSIDE IDENTITY]]
 -[[プレイ動画>https://www.youtube.com/watch?v=iF7dVCwOJgM]]
 
-***コメント [#score]
+***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]

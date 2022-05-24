@@ -18,7 +18,7 @@
 -ゴーゴーで4回出てくる8分の複合3連打（●●○）に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/INSIDE IDENTITY]]を参照。
+-タイアップ・楽曲情報は[[おに譜面>難易度表/おに/INSIDE IDENTITY]]を参照。
 -[[キミドリVer.段位道場>過去の段位道場#kimidori]]の九級3曲目課題曲となった。
 
 ----
@@ -32,4 +32,5 @@
 
 ***譜面 [#score]
 いもは8打(実際はくすだま)、連打の長さは適当です。
+正しいBPMは[[おに譜面>難易度表/おに/INSIDE IDENTITY#score]]を参照
 &attachref(INSIDE IDENTITY.png,nolink);
