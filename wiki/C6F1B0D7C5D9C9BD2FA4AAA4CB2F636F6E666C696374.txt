@@ -25,13 +25,13 @@
 -アーティストは、''siromaru + [[cranky>参加アーティスト一覧/Cranky]]''。
 --siromaru氏はBMS楽曲「Absurd Gaff」などシュランツを多く手がける作曲家。ネット上では「●▼●」の顔文字で有名。
 -歌唱は、''Pico''。
+-譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
 -この曲は、フリー音楽ゲームフォーマットのイベント「''THE BMS OF  FIGHTERS 2011 Intersection of conflict''」の優勝曲で、太鼓の達人に[[''BMS初出楽曲''>BMS楽曲一覧]]が収録されるのは''この曲が初の事例となる''。
 --なお、BMS版音源より8小節分短い。
 --また、この曲は太鼓の達人の他にも様々な音楽ゲームに収録されており、2020年現在に''アーケードゲーム史上初の12機種''((Tone Sphere・Cytus・CHUNITHM・SOUND VOLTEX・グルーヴコースター・太鼓の達人・シンクロニカ・maimai・DEEMO・オンゲキ・Pump It Up・WACCA（それぞれの後継機種除く）。なお、そのうちTone SphereとDEEMOは公式アレンジ版のみ収録され、CHUNITHMは原曲＆公式アレンジが同時に収録されている))、家庭用ゲーム機・アプリ((SUPERBEAT XONiC・Tsuma&#77;ia!・Rhythmsia・Arcaea・Dance&#82;ailRefresh・TAPSONIC TOP・Muse Dash・セブンスコード))を含む20作収録を達成した。
 ---上述の曲尺は、このうちグルーヴコースターと同一のものとなっている。
 -イエローVer.では、[[東方Project>難易度表/おに/Bad Apple!! feat.nomico]][[アレンジ曲>難易度表/おに/最終鬼畜妹フランドール・S]]((ホワイトVer.まで[[Bad Apple!! feat.nomico>難易度表/おに/Bad Apple!! feat.nomico]]、レッドVer.のみ[[最終鬼畜妹フランドール・S>難易度表/おに/最終鬼畜妹フランドール・S]]))に代わり、この曲がジャンル「バラエティ」の曲選択画面で一番右となった。
 --ただし、ブルーVer.では[[INSPION>難易度表/おに/INSPION]]がこの曲に代わり、ジャンルの一番右に入っていた。
--譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
 -[[グリーンVer.段位道場 外伝>過去の段位道場#green-gaiden]]の「挑戦！334万点！！」の1曲目課題曲となった。
 -曲IDは、''confli''。
 
