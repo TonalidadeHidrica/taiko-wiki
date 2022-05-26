@@ -51,7 +51,6 @@
 |BGCOLOR(#ff7028):|[[青天の黎明>難易度表/おに/青天の黎明]]|siroa|steμ|
 |BGCOLOR(#ff7028):|[[零の交響曲>難易度表/おに/零の交響曲]]|サリヤ人|kyo|
 |BGCOLOR(#ff7028):|[[続・〆ドレー2000>難易度表/おに/続・〆ドレー2000]]|-|LindaAI-CUE(増渕裕二)|
-|BGCOLOR(#ded523):|[[其方、激昂>難易度表/おに/其方、激昂]]|-|ベートーヴェン(田島勝朗)|
 |BGCOLOR(#ff7028):|[[Diving Drive>難易度表/おに/Diving Drive]]|Mu&#77;enkyo.|Tanchiky|
 |BGCOLOR(#ff7028):|[[タイコロール>難易度表/おに/タイコロール]]|siroa|steμ|
 |BGCOLOR(#ff7028):|[[大冒険タツドン>難易度表/おに/大冒険タツドン]]|小田原 ODY 友洋、高尾直樹、今山慎一郎|田島勝朗|
@@ -89,7 +88,6 @@
 |BGCOLOR(#ff7028):|[[What's in the box?>難易度表/おに/What's in the box?]]|-|Ujico*|
 |BGCOLOR(#ff7028):|[[わら得る2000>難易度表/おに/わら得る2000]]|LindaAI-CUE|LindaAI-CUE|
 |BGCOLOR(#ff7028):|[[Welcome to the Taiko Stadium!>難易度表/おに/Welcome to the Taiko Stadium!]]|相良心、大原大輝|平井克明|
-|BGCOLOR(#ff7028):|[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]|?|工藤祐介|
 |BGCOLOR(#ff7028):BGCOLOR(darkorchid):|[[World of GENPEI TOMADEN>難易度表/おに/World of GENPEI TOMADEN]]|?|?|
 |BGCOLOR(#ff7028):|[[1・2・さんしのでドンドカッカッ！>難易度表/おに/1・2・さんしのでドンドカッカッ！]]|AIきりたん|ユーキヒロセ|
 
@@ -151,9 +149,10 @@
 |~|~|~|~|~|ロングVer.|
 |BGCOLOR(#0acc2a):|[[サクラ・シークレット>難易度表/おに/サクラ・シークレット]]|-|Taku Inoue|シンクロニカ オリジナルサウンドトラック|ゲームSize|
 |~|~|~|~|[[公式音源(YouTube)>https://www.youtube.com/watch?v=kBxpmcxDRg0]]|~|
+|BGCOLOR(#ded523):|[[其方、激昂>難易度表/おに/其方、激昂]]|-|ベートーヴェン(田島勝朗)|[[公式音源(YouTube)>https://www.youtube.com/watch?v=DgGQ2Jtb8EE]]|ゲームSize|
+|BGCOLOR(#ff7028):|[[Solitude Star>難易度表/おに/Solitude Star]]|春先 x beet|佐藤希久生|[[公式音源(YouTube)>https://youtu.be/a_fqKpTmjrs]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]|-|あず♪|[[公式MV(YouTube)>https://www.youtube.com/watch?v=KDMGXowxekI]]|ゲームSize|
 |~|~|~|~|[[公式音源(SoundCloud)>https://soundcloud.com/azupiano/kooryu]]|~|
-|BGCOLOR(#ff7028):|[[Solitude Star>難易度表/おに/Solitude Star]]|春先 x beet|佐藤希久生|[[公式音源(YouTube)>https://youtu.be/a_fqKpTmjrs]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[1/2 〜inside me>難易度表/おに/1／2 〜inside me]]|愛原圭織|篠原瑞希|C-VALKYLUNA2|ゲームSize|
 |BGCOLOR(#ff7028):|[[モノクロボイス>難易度表/おに/モノクロボイス]]|初音ミク、GUMI|cosMo＠暴走P|ゴシップの海|ゲームSize|
 |~|~|~|~|[[公式MV(YouTube)>https://www.youtube.com/watch?v=3nSO6Ad_Na4]]|~|
@@ -217,8 +216,8 @@
 |BGCOLOR(#ff7028):|[[フューチャー・ラボ>難易度表/おに/フューチャー・ラボ]]|山本由貴子|山本由貴子||
 |BGCOLOR(#cc8aeb):|[[マジで…！？>難易度表/おに/マジで…！？]]|765PRO ALLSTARS|佐藤貴文||
 |BGCOLOR(#ff7028):|[[未来への鍵>難易度表/おに/未来への鍵]]|土屋実紀|佐々木宏人||
-|BGCOLOR(#ff7028):|[[女神な世界&#8544;>難易度表/おに/女神な世界I]]|寺井沙織|翡翠|&#8544;と&#8545;をつなげた「女神な世界」が収録済み|
-|BGCOLOR(#ff7028):|[[女神な世界&#8545;>難易度表/おに/女神な世界II]]|葉月ゆら|翡翠|~|
+|BGCOLOR(#ff7028):|[[女神な世界&#8544;>難易度表/おに/女神な世界I]]|寺井沙織|翡翠|&#8544;と&#8545;をつなげた「女神な世界」が収録済み。なお、[[女神な世界&#8545;>難易度表/おに/女神な世界II]]のみ[[You&#84;ube>https://www.youtube.com/watch?v=AzMTi8jJ8HA]]で公式音源がアップロードされている。|
+|BGCOLOR(#ff7028):|[[女神な世界&#8545;>難易度表/おに/女神な世界II]]|葉月ゆら|~|~|
 |BGCOLOR(#ff7028):|[[リブルとラブルのマジカルファンタジー>難易度表/おに/リブルとラブルのマジカルファンタジー]]|堀江美都子|大野木宜幸(大上昌子)||
 |BGCOLOR(#cc8aeb):|[[ワンダーモモーイ>難易度表/おに/ワンダーモモーイ]]|桃井はるこ|弓達公雄(manzo)||
 |BGCOLOR(#0acc2a):|[[Asteroid>難易度表/おに/Asteroid]]|-|増渕裕二||
