@@ -7,7 +7,7 @@
 |''AC15.9.9''||BGCOLOR(orange):''アニメ''|★×6|''405''|''951490点''|＋連打|690点|185点|
 |AC15.11.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 |COLOR(#f30){真打}|||~|~|COLOR(#f30){''998730点''}|~|COLOR(#f30){2330点}|-|
-||iOS|BGCOLOR(orange):''アニメ''|~|~|''9????0点''|~|??0点|???点|
+||iOS&br;AR|BGCOLOR(orange):''アニメ''|~|~|''949200点''|~|620点|160点|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''999100点''|~|2460点|-|
 |~|~|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
 |AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''&br;(メイン)}|~|~|~|~|~|~|
