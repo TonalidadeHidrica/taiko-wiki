@@ -39,5 +39,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~正しい曲名はグレート！アニマルカイザー!!
-~&attachref(animal_n.png,nolink);
+~&attachref(animal_n_2.png,nolink);

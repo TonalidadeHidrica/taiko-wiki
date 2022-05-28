@@ -136,11 +136,11 @@
 |BGCOLOR(#49d5eb):''ポップス''|[[''WE WILL ROCK YOU''>難易度表/おに/We Will Rock You]]|Written by Brian May &#169; Queen Music Ltd|
 |~|[[''【双打】 WE WILL ROCK YOU''>難易度表/おに/We Will Rock You#two]]|~|
 
-**第136回アップデート GAME VERSION:??.??(2022/6/1実施) [#update136]
+**第136回アップデート GAME VERSION:26.11(2022/6/1実施) [#update136]
 -楽曲配信111。
 
 |CENTER:100|CENTER:50||250|c
-|>|>|>|CENTER:''バージョンアップ配信曲''(V??.??)|h
+|>|>|>|CENTER:''バージョンアップ配信曲''(V26.11)|h
 |BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''一途''>難易度表/おに/一途]]|King Gnu|
 |BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''神っぽいな''>難易度表/おに/神っぽいな]]|ピノキオピー feat. 初音ミク|
 |BGCOLOR(#fdc000):''キッズ''|COLOR(red):''新''|[[''俺こそオンリーワン''>難易度表/おに/俺こそオンリーワン]]|「暴太郎戦隊ドンブラザーズ」より|

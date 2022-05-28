@@ -58,5 +58,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~PSP1の39小節目は非ゴーゴータイム
+~AC7，PSP1の39小節目は非ゴーゴータイム
 ~&attachref(タッチ.png,nolink);

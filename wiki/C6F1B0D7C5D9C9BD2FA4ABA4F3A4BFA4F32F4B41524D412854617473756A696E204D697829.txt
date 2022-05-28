@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ[#score]
-&attachref(teken6.png,nolink);
+&attachref(teken6_e.png,nolink);

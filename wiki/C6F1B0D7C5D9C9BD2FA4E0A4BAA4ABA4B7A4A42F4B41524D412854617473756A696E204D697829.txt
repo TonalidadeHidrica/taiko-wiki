@@ -48,4 +48,4 @@
 --可:玄人譜面
 --不可:普通譜面
 
-&ref(karma-HARD-Wii5a.png,nolink);
+&ref(karma-HARD-Wii5a_2.png,nolink);

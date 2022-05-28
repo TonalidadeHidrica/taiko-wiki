@@ -4909,6 +4909,7 @@
 -[[コメント/難易度表/ふつう/BLAZING VORTEX]] コメント/ナンイドオモテ/フツウ/BLAZING VORTEX
 -[[コメント/難易度表/ふつう/BLUE TOPAZ]] コメント/ナンイドオモテ/フツウ/BLUE TOPAZ
 -[[コメント/難易度表/ふつう/BORDERLESS]] コメント/ナンイドオモテ/フツウ/BORDERLESS
+-[[コメント/難易度表/ふつう/Baby Shark（ベイビー・シャーク）]] コメント/ナンイドオモテ/フツウ/Baby Shark（ベイビー・シャーク）
 -[[コメント/難易度表/ふつう/Bad Apple!! feat.nomico]] コメント/ナンイドオモテ/フツウ/Bad Apple!! feat.nomico
 -[[コメント/難易度表/ふつう/Baladium's drive]] コメント/ナンイドオモテ/フツウ/Baladium's drive
 -[[コメント/難易度表/ふつう/Be Somewhere]] コメント/ナンイドオモテ/フツウ/Be Somewhere
@@ -9888,6 +9889,7 @@
 -[[難易度表/おに/UZA]] ナンイドオモテ/オニ/UZA
 -[[難易度表/おに/Undying Legend]] ナンイドオモテ/オニ/Undying Legend
 -[[難易度表/おに/Unite The Force]] ナンイドオモテ/オニ/Unite The Force
+-[[難易度表/おに/Unprivileged Access]] ナンイドオモテ/オニ/Unprivileged Access
 -[[難易度表/おに/Urban Striker]] ナンイドオモテ/オニ/Urban Striker
 -[[難易度表/おに/V.I.P]] ナンイドオモテ/オニ/V.I.P
 -[[難易度表/おに/VALENTI]] ナンイドオモテ/オニ/VALENTI

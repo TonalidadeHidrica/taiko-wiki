@@ -1,0 +1,28 @@
+*&ruby(アンプリヴィレッジ){Unprivileged}; &ruby(アクセス){Access}; [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15&br;例大祭11Ver.''|BGCOLOR(lime):''バラエティ''|★×8|''509''|''?????0点''|+連打|??0点|???点|
+
+***譜面構成・攻略 [#capture]
+-BPMは約139。
+
+***その他 [#other]
+-原曲は、「[[東方地霊殿 〜 Subterranean Animism.>東方Projectアレンジ楽曲一覧#th11]]」の4面ボス、古明地さとりのテーマである「''少女さとり 〜 3rd eye''」。
+-アーティストは、''&ruby(ティアオイエツォン){凋叶棕};''。
+--作詞・編曲(アレンジ)は、RD-Sounds。歌唱は、[[めらみぽっぷ>アーティスト別収録曲#mrmpop]]。
+-曲IDは、''thunpr''。
+
+----
+-[[かんたん>難易度表/かんたん/Unprivileged Access]]
+-[[ふつう>難易度表/ふつう/Unprivileged Access]]
+-[[むずかしい>難易度表/むずかしい/Unprivileged Access]]
+//-[[オート動画>https://www.youtube.com/watch?v=pFekz3GhzCQ]]((非公式ツールを用いた再現))
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+BPMは暫定
+~&attachref(Unprivileged Access2.png,nolink);

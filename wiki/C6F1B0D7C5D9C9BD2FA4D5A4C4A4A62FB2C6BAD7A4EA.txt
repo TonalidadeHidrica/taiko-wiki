@@ -79,3 +79,7 @@
 
 ~DS譜面
 ~&attachref(ざわめきが少し遠く聞こえた.png,nolink);
+
+~Wii1譜面
+~譜面分岐は巨大音符
+~&attachref(夏祭りii.png,nolink);)

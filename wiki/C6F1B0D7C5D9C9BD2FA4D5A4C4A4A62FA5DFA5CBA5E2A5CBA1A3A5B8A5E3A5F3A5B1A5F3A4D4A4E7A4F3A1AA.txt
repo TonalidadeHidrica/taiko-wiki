@@ -24,8 +24,12 @@
 #pcomment(,noname)
 
 ***设烫 [#score]
+
 ~CS2设烫
-&attachref(m.png,nolink);
+~&attachref(m.png,nolink);
 
 ~AC2设烫
-&attachref(mnjan_ac2_n.png,nolink);
+~&attachref(mnjan_ac2_n.png,nolink);
+
+~AC2设烫(2客脱)
+~&attachref(zyankendon.png,nolink);

@@ -24,8 +24,8 @@
 ***その他 [#other]
 -サウンドトラックはゲームの発売から長らく販売されていなかったが、現在では[[''NAMCO SOUNDS''>https://itunes.apple.com/jp/album/crtitcal-velocity-original-sound-track/527538112]]からiTunesで配信中。
 -アーティストは、[[''高田龍一''>参加アーティスト一覧/高田龍一]]。
--曲IDは、''crtsun''。
 -[[ムラサキVer.段位道場>過去の段位道場#murasaki]]の七段3曲目課題曲、[[グリーンVer.段位道場>過去の段位道場#green]]の八段2曲目課題曲となった。
+-曲IDは、''crtsun''。
 
 ----
 -[[かんたん>難易度表/かんたん/Sunset Runaway]]

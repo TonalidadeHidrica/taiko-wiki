@@ -37,5 +37,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~くすだまの長さは適当
-~&attachref(Comona_h.png,nolink);
+~&attachref(comona_h.png,nolink);

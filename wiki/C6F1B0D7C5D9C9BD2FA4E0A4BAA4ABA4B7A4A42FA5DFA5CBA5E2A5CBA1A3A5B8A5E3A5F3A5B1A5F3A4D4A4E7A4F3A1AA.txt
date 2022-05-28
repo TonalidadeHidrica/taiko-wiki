@@ -28,3 +28,6 @@
 
 ~AC2譜面
 ~&attachref(miniAC2_h.png,nolink);
+
+~AC2譜面(2人用)
+~&attachref(みにもにもみもみ.png,nolink);

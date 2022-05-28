@@ -33,6 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~風船、くすだまの長さは暫定
-~1小節めはHS2.58
-~&ref(crtsun_h.png,nolink);
+~&ref(crtsun_h_2.png,nolink);
