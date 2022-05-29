@@ -13,6 +13,15 @@
 -大音符が多く、''45個''(約19.23%)。
 -COLOR(red){●●}COLOR(blue){○}、COLOR(red){●●●●}COLOR(blue){○}といった16分音符の複合が多い。
 -1曲を通しての平均密度は、''約3.12打/秒''である。
+-[[プレイ動画>http://www.youtube.com/watch?v=SBlPnGNN1iE]]
+
+''2人用譜面''
+|>|>|>|>|>|>|CENTER:|c
+|コース|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+||~||>|1P|2P|~|h
+|おに|★×5|''219''|''?????0点''|''?????0点''|-|-|
+|むずかしい|~|~|''?????0点''|''?????0点''|??0点|??0点|
+-[[プレイ動画(Oni,1P)>https://www.youtube.com/watch?v=auANzKG_V2Y]]/[[(2P)>https://www.youtube.com/watch?v=v-cMYkNGWPw]]
 
 ***その他 [#other]
 - 「アメトーーク！」のテーマ曲や「真剣10代しゃべり場」のOP曲としても有名であり、聴き覚えのある人は多いだろう。しかし、日本版TDMでは削除された。
@@ -21,10 +30,12 @@
 ----
 -[[かんたん>難易度表/かんたん/My Sharona]]
 -[[ふつう>難易度表/ふつう/My Sharona]]
--[[プレイ動画>http://www.youtube.com/watch?v=SBlPnGNN1iE]]
 
 *** コメント [#comment]
 #pcomment(,noname)
 
 ***譜面[#score]
 &attachref(My Sharona小節線修正.png,nolink);
+
+~2人用譜面
+&attachref(アメトーーク_ho2.png,nolink);

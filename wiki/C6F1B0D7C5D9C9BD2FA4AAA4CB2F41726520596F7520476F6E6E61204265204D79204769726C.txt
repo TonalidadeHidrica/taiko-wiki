@@ -9,16 +9,27 @@
 -BPMは210。
 -連打秒数目安・・・約0.976秒−約0.2619秒−約0.333秒−約0.5476秒：合計約2.1185秒
 -12分音符主体の譜面。単色が多いが、2回出現するCOLOR(blue){●}COLOR(red){●●}COLOR(blue){●}COLOR(red){●●●}には注意。
+-[[プレイ動画>https://www.youtube.com/watch?v=tY1za8AVhYU]]
+
+''2人用譜面''
+|>|>|>|>|>|>|>|>|>|CENTER:|c
+|コース|難易度|>|最大コンボ数|>|>|>|天井スコア|初項|公差|h
+||~|1P|2P|>|1P|>|2P|~|~|h
+|おに|★×5|''270''|''262''|''?????0点''|+連打|''?????0点''|+連打|-|-|
+|むずかしい|~|~|~|''?????0点''|~|''?????0点''|~|??0点|??0点|
+-12分が16分に見える部分が多い、中盤の7連打が1P側のみ6連打になっている、小節線が1本多いなど、1人用譜面と異なる箇所が多々ある。
+-[[プレイ動画(Oni,1P)>https://www.youtube.com/watch?v=ukGD2xdvYfk]]/[[(2P)>https://www.youtube.com/watch?v=r98mpNpuQ4w]]
 
 ***その他 [#other] 
 -アーティストは、''JET''。
 ----
 -[[かんたん>難易度表/かんたん/Are You Gonna Be My Girl]]
 -[[ふつう>難易度表/ふつう/Are You Gonna Be My Girl]]
--[[プレイ動画>https://www.youtube.com/watch?v=tY1za8AVhYU]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
 &attachref(Are You Gonna Be My Girl.png,nolink);
+
+&attachref(JET_ho2.png,nolink);

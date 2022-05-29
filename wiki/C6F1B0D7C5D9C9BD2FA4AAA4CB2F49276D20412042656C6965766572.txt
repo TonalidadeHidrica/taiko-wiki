@@ -18,6 +18,8 @@
 ||~|1P|2P|>|1P|>|2P|~|~|h
 |おに|★×3|''384''|''381''|''578000点''|+連打|''575000点''|+連打|-|-|
 |むずかしい|~|~|~|''?????0点''|~|''?????0点''|~|??0点|??0点|
+-最後に1回ずつ現れる8分の20連打に注意。
+-[[プレイ動画(Oni,1P)>https://www.youtube.com/watch?v=HliVed3Jjuo]]/[[(2P)>https://www.youtube.com/watch?v=NurIYrFeWuw]]
 ----
 ***その他 [#other]
 -アーティストは、''Smash Mouth(スマッシュ･マウス)''。
@@ -32,3 +34,6 @@
 
 ***譜面 [#score]
 &attachref(i.png,nolink);
+
+~2人用譜面
+&attachref(シュレック_ho2.png,nolink);

@@ -5,7 +5,7 @@
 ***新筐体収録曲 [#new1]
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|CENTER:''ジャンルごとの曲数''(ジャンルを選択すると新筐体のそのジャンルに移動します)|h
-|BGCOLOR(#49d5eb):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(#fdc000):~[[&color(black){%%%キッズ%%%};>#kidsfalk]]|BGCOLOR(#fe90d2):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(#cbcfde):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(#cc8aeb):~[[&color(black){%%%ゲームミュージック%%%};>#GAME]]|BGCOLOR(#0acc2a):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(#ded523):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(#ff7028):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
+|BGCOLOR(#49d5eb):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(#fdc000):~[[&color(black){%%%キッズ%%%};>#kidsfalk]]|BGCOLOR(#fe90d2):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(#cbcfde):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(#cc8aeb):~[[&color(black){%%%ゲームミュージック%%%};>#gm]]|BGCOLOR(#0acc2a):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(#ded523):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(#ff7028):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
 |''43''譜面|''11''譜面|''30''譜面|''35''譜面|''68''譜面|''21''譜面|''8''譜面|''111''譜面|
 
 |305|68||c
