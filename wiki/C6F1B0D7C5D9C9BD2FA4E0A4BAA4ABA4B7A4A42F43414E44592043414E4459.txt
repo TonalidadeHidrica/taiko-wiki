@@ -13,7 +13,7 @@
 --特に、12〜15小節にかけては、COLOR(red){●●}COLOR(blue){○} COLOR(red){●}→COLOR(blue){○○}COLOR(red){●} COLOR(blue){○}→COLOR(red){●●}COLOR(blue){○} COLOR(red){●}→COLOR(blue){○○}COLOR(red){●} COLOR(blue){○}→COLOR(red){●●}COLOR(blue){○} COLOR(red){●}→COLOR(blue){○○}COLOR(red){●} COLOR(blue){○}と繰り返して出るため、フルコンボ狙いの人は注意。
 
 ***その他 [#other]
--タイアップ・楽曲情報は[[おに譜面>難易度表/おに/CANDY CANDY]]を参照。
+-タイアップ・楽曲情報は[[おに>難易度表/おに/CANDY CANDY#title]][[譜面>難易度表/おに/CANDY CANDY#other]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/CANDY CANDY]]
 -[[ふつう>難易度表/ふつう/CANDY CANDY]]

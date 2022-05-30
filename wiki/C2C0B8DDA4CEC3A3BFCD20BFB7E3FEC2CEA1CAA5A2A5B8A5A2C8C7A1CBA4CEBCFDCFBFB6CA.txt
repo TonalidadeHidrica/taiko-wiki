@@ -1159,7 +1159,7 @@
 ※3.アジア版では削除済み&br();
 ※4.韓国、台湾、香港、シンガポール、マレーシア、タイ、インドネシア以外プレイ不可&br();
 ※5.韓国のみプレイ不可&br();
-※最終更新： 2022 年 4 月 21 日
+※最終更新： 2022 年 5 月 31 日
 
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|ジャンル|曲名|日本版での収録日|備考|
@@ -1235,7 +1235,7 @@
 |BGCOLOR(#cc8aeb):|||[[ソラのミチシルベ>難易度表/おに/ソラのミチシルベ]]|||
 |BGCOLOR(#cc8aeb):|||[[なんどでも笑おう>難易度表/おに/なんどでも笑おう]]|2021.04.28|※1|
 |BGCOLOR(#cc8aeb):|||[[Spread the Wings!!>難易度表/おに/Spread the Wings!!]]||※3|
-|BGCOLOR(#1bc739):|||[[We Will Rock You>難易度表/おに/We Will Rock You]]|||
+|BGCOLOR(#ccc):BGCOLOR(#1bc739):|BGCOLOR(#ccc):|BGCOLOR(#ccc):|BGCOLOR(#ccc):[[We Will Rock You>難易度表/おに/We Will Rock You]]|BGCOLOR(#ccc):|BGCOLOR(#ccc):|
 |BGCOLOR(#ff7028):|||[[東京ソーダ 8Bit Edit>難易度表/おに/東京ソーダ 8Bit Edit]]|||
 |BGCOLOR(#ff7028):|||[[ソードバトラーズ>難易度表/おに/ソードバトラーズ]]|||
 |BGCOLOR(#ff7028):|||[[渚のアンドロメダ>難易度表/おに/渚のアンドロメダ]]|||

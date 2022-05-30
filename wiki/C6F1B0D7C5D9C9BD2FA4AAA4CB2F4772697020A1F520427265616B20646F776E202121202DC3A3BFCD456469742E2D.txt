@@ -22,8 +22,8 @@
 -コンボ数の''495''は、同キャラクターの使用するスペルカード『QED「''495''年の波紋」』にちなんでいる(([[ソース(公式Twitter)>https://twitter.com/taiko_team/status/436413518879809536]]))。
 -アーティストは、''SOUND HOLIC''。
 --作詞は、Blue E。編曲(アレンジ)は、SHU×GUCCI。歌唱は、Nana Takahashi(高橋菜々)。
---余談だが、本楽曲のPVは[[鉄拳シリーズ>ゲーム別収録曲#tekken]]のパロディになっている([[比較動画>https://www.nicovideo.jp/watch/sm19691272]])((プロデューサーである原田P公認（セガの音楽ゲーム「maimai」で再生されるPVの最後にクレジットが入っていた）だが、「でらっくす」稼働後からは何故かカットされた))。
--「達人Edit.」とあるように、[[他の音楽>http://www18.atwiki.jp/sdvx/pages/240.html]][[ゲーム>http://maimai.wiki.fc2.com/wiki/Grip%20%EF%BC%86%20Break%20down%20%21%21]]に収録されている同曲とは異なった編集がされている。
+--余談だが、本楽曲のPVは[[鉄拳シリーズ>ゲーム別収録曲#tekken]]のパロディになっている([[比較動画>https://www.nicovideo.jp/watch/sm19691272]])((プロデューサーの原田勝弘公認（セガの音楽ゲーム「maimai」で再生されるPVの最後にクレジットが入っていた）だが、「でらっくす」稼働後からは何故かカットされた))。
+-「達人Edit.」とあるように、[[他の音楽ゲーム>http://www18.atwiki.jp/sdvx/pages/240.html]]に収録されている同曲とは異なった編集がされている。
 --この譜面では53〜54小節の間の約13秒の間奏部分が省かれている。
 -キミドリVer.アップデートより東方Projectのキャラクターが踊り子として登場するようになった。
 -[[グリーンVer.段位道場>過去の段位道場#green]]の初段一曲目課題曲となった。
@@ -33,7 +33,7 @@
 -[[かんたん>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]
 -[[ふつう>難易度表/ふつう/Grip ＆ Break down !! -達人Edit.-]]
 -[[むずかしい>難易度表/むずかしい/Grip ＆ Break down !! -達人Edit.-]]
--おに/[[裏譜面>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]
+-おに/[[裏譜面>../Grip ＆ Break down !! -達人Edit.-(裏譜面)]]
 -[[楽曲PV(SOUND HOLIC公式)>https://www.youtube.com/watch?v=5K3Zz_PQGzo]]
 -[[プレイ動画(AC15)>https://www.youtube.com/watch?v=7JL5NwDXE2M]]
 -[[オート動画(NS1)>https://youtu.be/PAEfAPj7XSY]]

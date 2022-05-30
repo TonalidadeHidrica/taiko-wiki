@@ -22,7 +22,7 @@
 -4分と8分が何度も出てくる49〜52小節に注意。
 
 ***その他 [#other]
--タイアップ・楽曲情報は[[おに譜面>難易度表/おに/PON PON PON]]を参照。
+-タイアップ・楽曲情報は[[おに>難易度表/おに/PON PON PON#title]][[譜面>難易度表/おに/PON PON PON#other]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/PON PON PON]]
 -[[むずかしい>難易度表/むずかしい/PON PON PON]]
@@ -35,4 +35,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~正しいBPMは[[おに譜面>難易度表/おに/PON PON PON#score]]を参照
 ~&attachref(ポン３_普通.png,nolink);
