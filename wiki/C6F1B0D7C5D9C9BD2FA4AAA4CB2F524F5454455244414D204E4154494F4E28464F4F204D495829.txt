@@ -46,4 +46,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~37、45小節目は8/4ではなく4/4→4/4(非表示)
 &attachref(r.png,nolink);
