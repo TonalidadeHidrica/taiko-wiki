@@ -1168,7 +1168,7 @@
 |1057|[[ウサテイ>難易度表/おに/ウサテイ]]|BGCOLOR(#0acc2a):バラエティ|?||
 |1058|[[大好きな太鼓の音>難易度表/おに/大好きな太鼓の音]]|BGCOLOR(#ff7028):ナムオリ|ssn3rd||
 |1059|[[踊>難易度表/おに/踊]]|BGCOLOR(#49d5eb):ポップス|adodo||
-|1060|[[YONA YONA DANCE>難易度表/おに/YONA YONA DANCE]]|BGCOLOR(#49d5eb):ポップス|?||
+|1060|[[YONA YONA DANCE>難易度表/おに/YONA YONA DANCE]]|BGCOLOR(#49d5eb):ポップス|yo7yo7||
 |1061|[[シル・ヴ・プレジデント>難易度表/おに/シル・ヴ・プレジデント]]|BGCOLOR(#49d5eb):ポップス|siruvu||
 |1062|[[僕の戦争>難易度表/おに/僕の戦争]]|BGCOLOR(#fe90d2):アニメ|?||
 |1063|[[明け星>難易度表/おに/明け星]]|BGCOLOR(#fe90d2):アニメ|?||
@@ -1199,7 +1199,7 @@
 |1088|[[プロミスザスター>難易度表/おに/プロミスザスター]]|BGCOLOR(#49d5eb):ポップス|?||
 |1089|[[阿修羅ちゃん>難易度表/おに/阿修羅ちゃん]]|BGCOLOR(#49d5eb):ポップス|?||
 |1090|[[ドライフラワー>難易度表/おに/ドライフラワー]]|BGCOLOR(#49d5eb):ポップス|dryflw||
-|1091|非公開|BGCOLOR(#fe90d2):アニメ|?||
+|1091|[[Cheers！デリシャスパーティ&#9825;プリキュア>難易度表/おに/Cheers!デリシャスパーティ・プリキュア]]|BGCOLOR(#fdc000):キッズ|?||
 |1092|[[アニマル>難易度表/おに/アニマル]]|BGCOLOR(#cbcfde):ボカロ|?||
 |1093|[[Lunar Maria>難易度表/おに/Lunar Maria]]|BGCOLOR(#cc8aeb):ゲーミュ|?||
 |1094|[[Racing the Storm>難易度表/おに/Racing the Storm]]|BGCOLOR(#cc8aeb):ゲーミュ|crtrcs||
@@ -1209,9 +1209,9 @@
 |1098|[[SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]|BGCOLOR(#ff7028):ナムオリ|cosmb||
 |1099|[[Challengers>難易度表/おに/Challengers]]|BGCOLOR(#ff7028):ナムオリ|?||
 |1100|[[Kill My Fortune>難易度表/おに/Kill My Fortune]]|BGCOLOR(#0acc2a):バラエティ|?||
-|1101|非公開|BGCOLOR(#49d5eb):ポップス|?||
-|1102|非公開|BGCOLOR(#fdc000):キッズ|?||
-|1103|非公開|BGCOLOR(#cbcfde):ボカロ|?||
+|1101|[[一途>難易度表/おに/一途]]|BGCOLOR(#49d5eb):ポップス|?||
+|1102|[[俺こそオンリーワン>難易度表/おに/俺こそオンリーワン]]|BGCOLOR(#fdc000):キッズ|?||
+|1103|[[神っぽいな>難易度表/おに/神っぽいな]]|BGCOLOR(#cbcfde):ボカロ|?||
 |1104|非公開|BGCOLOR(#0acc2a):バラエティ|?||
 |1105|非公開|BGCOLOR(#cc8aeb):ゲーミュ|?||
 |1106|非公開|BGCOLOR(#cc8aeb):ゲーミュ|?||

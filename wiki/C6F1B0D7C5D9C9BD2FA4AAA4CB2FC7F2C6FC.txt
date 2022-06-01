@@ -19,7 +19,7 @@
 -平均密度は、''約3.36打/秒''(暫定)。
 
 ***その他 [#other]
--アーティストは、''King Gnu''。
+-アーティストは、[[''King Gnu''>アーティスト別収録曲#kngn]]。
 --作詞・作曲は、常田大希。
 -曲IDは、''kgnhak''。
 
@@ -28,7 +28,6 @@
 -[[ふつう>難易度表/ふつう/白日]]
 -[[むずかしい>難易度表/むずかしい/白日]]
 -[[オート動画(NS1)>https://www.youtube.com/watch?v=561gnNrEVfE]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/tL3qme5OziA]]
 
 ***コメント [#comment]
 #pcomment(,noname)

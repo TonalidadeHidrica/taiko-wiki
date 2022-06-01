@@ -249,6 +249,9 @@
 ***hololive IDOL PROJECT [#hololive]
 -[[Prism Melody>難易度表/おに/Prism Melody]]
 
+***King Gnu [#kingnuJPOP]
+-[[一途>難易度表/おに/一途]]
+
 **COLOR(hotpink){アニメ} [#animation]
 ***水木一郎 [#ichiro]
 -[[マジンガーZ>難易度表/おに/マジンガーZ]]((アニスペのみ))
@@ -433,6 +436,9 @@
 ***スピカ [#umamusume]
 -[[Make debut!>難易度表/おに/Make debut!]]
 
+***King Gnu [#kingnuANIME]
+-[[一途>難易度表/おに/一途]]
+
 **COLOR(yellow){キッズ} [#kids]
 ***HIMAWARIちゃんねる [#himawariKIDS]
 -[[HIMAWARI HAPPY>難易度表/おに/HIMAWARI HAPPY]]
@@ -445,6 +451,7 @@
 
 *** Machico [#primaki]
 -[[Viva! Spark!トロピカル〜ジュ！プリキュア>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア]]
+-[[Cheers！デリシャスパーティ&#9825;プリキュア>難易度表/おに/Cheers!デリシャスパーティ・プリキュア]]
 
 ***伊勢大貴 [#isedaiKIDS]
 -[[ププッとフムッとかいけつダンス>難易度表/おに/ププッとフムッとかいけつダンス]]

@@ -9,7 +9,7 @@
 ***譜面構成・攻略 [#capture]
 -BPMは136.5。
 -★×7の譜面としては遅い割に複雑なフレーズがない。
---フルコン狙いの場合はCOLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}にだけは注意を払いたい。
+--フルコンボ狙いの場合はCOLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}にだけは注意を払いたい。
 
 ***その他 [#other]
 -アーティストは、''SCANDAL''。

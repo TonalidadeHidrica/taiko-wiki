@@ -8,7 +8,7 @@
 - [[愛情36計>難易度表/おに/愛情36計]]と★の数、コンボ数が同じである。
 - 連打も風船もない完全精度曲。
 - C-POPのおにコース★×7でも最難関候補。下手な★×8より難しいので注意。
---複合連打はCOLOR(blue){●●●●}COLOR(red){●}COLOR(blue){●}、COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}、COLOR(blue){●●●}COLOR(red){●}COLOR(blue){●}など難所が多く、フルコンは難しい。人によっては★×9クラスに感じることも。
+--複合連打はCOLOR(blue){●●●●}COLOR(red){●}COLOR(blue){●}、COLOR(red){●}COLOR(blue){●●}COLOR(red){●}COLOR(blue){●}、COLOR(blue){●●●}COLOR(red){●}COLOR(blue){●}など難所が多く、フルコンボは難しい。人によっては★×9クラスに感じることも。
 -平均密度は、''約5.42打/秒''。
 
 ***その他 [#other]

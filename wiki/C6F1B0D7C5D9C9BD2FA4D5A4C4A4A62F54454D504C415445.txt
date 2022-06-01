@@ -20,4 +20,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(holtmp_n.png,nolink);
+~&attachref(holtmp_n2.png,nolink);
