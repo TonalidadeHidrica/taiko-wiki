@@ -1,15 +1,19 @@
 *太鼓のマーチ [#title]
+
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差||h
-||CENTER:''CS2''|CENTER:★×6|CENTER:''390''|CENTER:''?????0点''|CENTER:＋連打|CENTER:510点|CENTER:110点||
-|CENTER:AC5||~|~|CENTER:''?????0点''|~|CENTER:??0点|CENTER:??0点||
-||CENTER:米TDM&br;TDM|CENTER:★×5|~|CENTER:''?????0点''|~|CENTER:510点|CENTER:110点||
-||CENTER:PSP1|~|~|CENTER:''?????0点''|~|CENTER:500点|CENTER:100点|CENTER:''ゴーゴーバグあり''|
-||CENTER:Wii1|CENTER:★×6|CENTER:''342''|CENTER:''637620点''|~|CENTER:410点|CENTER:140点||
-||CENTER:iOS&br;AR|~|~|CENTER:''638810点''|~|CENTER:490点|CENTER:130点||
-|CENTER:AC15.8.4|CENTER:Wii U2&br;PS4 1DL|~|~|CENTER:''?????0点''|~|CENTER:540点|CENTER:153点||
-|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''??????点''}|~|CENTER:COLOR(#ff3300){2710点}|CENTER:-||
+|>|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差||h
+||''CS2''|''マーチ''|★×6|''390''|''?????0点''|＋連打|510点|110点||
+|AC5||''マーチ''|~|~|''?????0点''|~|??0点|??0点|~|
+|~|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|~|~|
+||米TDMSP&br;TDMSP|BGCOLOR(orangered):''Namco&br;Original''|★×5|~|''?????0点''|~|510点|110点|~|
+||PSP1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''?????0点''|~|500点|100点|''ゴーゴーバグあり''|
+||Wii1SP|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×6|''342''|''637620点''|~|410点|140点||
+|AC15.8.4|Wii U2&br;PS4 1DL|~|~|~|''642970点''|~|540点|153点|~|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){2710点}|-|~|
+||iOS&br;AR|~|~|~|''638810点''|~|490点|130点|~|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1000240点''|~|2920点|-|~|
+|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|~|
 -BPMは約145。
 -ゴーゴーは5回。旧譜面では位置が異なっていた。 
 
@@ -36,16 +40,17 @@
 
 ***2人用譜面 [#dp]
 -詳細は以下の通り：
-|CENTER:バージョン|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''米TDM''&br;TDM|CENTER:★×5|CENTER:1P|CENTER:''273''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1060点|CENTER:???点|
-|~|~|CENTER:2P|CENTER:''275''|CENTER:''?????0点''|~|~|~|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン|難易度||最大コンボ数|>|天井スコア|初項|公差|h
+|''米TDM''&br;TDM|★×5|1P|''273''|''?????0点''|＋連打|1060点|???点|
+|~|~|2P|''275''|''?????0点''|~|~|~|
 -米TDM・TDMにのみ２人用譜面が存在する。
 -[[オート動画>http://www.youtube.com/watch?v=0i2tSr24YyQ]]
 
 ***その他 [#other]
--曲順はスカイキッド（ステージ開始曲→メインBGM）→ドルアーガの塔（ラウンドスタート曲→メインBGM）→ワルキューレの伝説（メインテーマ）の順。
--編曲は、''増渕裕二''。
--曲IDは、''march''
+-楽曲情報は[[おに譜面>難易度表/おに/太鼓のマーチ]]を参照。
+
+----
 -[[かんたん>難易度表/かんたん/太鼓のマーチ]]
 -[[むずかしい>難易度表/むずかしい/太鼓のマーチ]]
 -[[おに>難易度表/おに/太鼓のマーチ]]

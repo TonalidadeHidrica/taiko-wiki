@@ -23,7 +23,7 @@
 --そのうち2回は大音符なので、1個でも特良を逃すと痛い失点になる可能性もある。
 
 ***その他 [#other]
--タイアップ・楽曲情報は[[おに譜面>難易度表/おに/Highschool・love]]を参照。
+-タイアップ・楽曲情報は[[おに>難易度表/おに/Highschool・love#title]][[譜面>難易度表/おに/Highschool・love#other]]を参照。
 ----
 -[[ふつう>難易度表/ふつう/Highschool・love]]
 -[[むずかしい>難易度表/むずかしい/Highschool・love]]

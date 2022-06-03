@@ -19,7 +19,7 @@
 -2回出てくる8分の複合6連打に注意。
 
 ***その他 [#other]
--タイアップ・楽曲情報は[[おに譜面>難易度表/おに/Highschool・love]]を参照。
+-タイアップ・楽曲情報は[[おに>難易度表/おに/Highschool・love#title]][[譜面>難易度表/おに/Highschool・love#other]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/Highschool・love]]
 -[[ふつう>難易度表/ふつう/Highschool・love]]

@@ -19,6 +19,7 @@
 --特に間奏地帯のものはかなり複雑。COLOR(blue){○○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}(24分)/COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○} などと分けるとよい。24分も合わせると27連打である。
 -ゴーゴーは[[Synchronicity>難易度表/おに/Synchronicity]]のラスゴーのような短い24分16分が入り混じった譜面が続く。ちなみにゴーゴーは2回あるが、2回ともほとんど同じ譜面(第2ゴーゴーには第1ゴーゴーにはなかったCOLOR(blue){○}COLOR(red){●●}が2ヶ所ある)。
 -ラストの[[マリオネットピュア>難易度表/おに/マリオネットピュア]]のような減速に要注意。COLOR(blue){○○}COLOR(red){●}の繰り返しだが、段々遅くなっているため、非常に叩きづらい。
+-''★×8の中では強めなので注意。''
 
 ***その他 [#other]
 -作詞は、[[''葉月ゆら''>参加アーティスト一覧/葉月ゆら]]。作曲･編曲は、[[''Drop''>参加アーティスト一覧/Drop]]。
