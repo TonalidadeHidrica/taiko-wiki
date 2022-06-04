@@ -12,6 +12,7 @@
 ---[[FREEDOM DiVE↓>難易度表/おに/FREEDOM DiVE↓]]
 ---[[Dread>難易度表/おに/Dreadnought]][[nought>難易度表/おに/Dreadnought(裏譜面)]](nora2rとの合作)
 ---[[Parousia>難易度表/おに/Parousia]]
+---[[Aragami>難易度表/おに/Aragami]]
 --ゲームミュージック
 ---[[ANiMA>難易度表/おに/ANiMA]]
 --ナムコオリジナル
@@ -23,6 +24,6 @@
 ---Glorious Crown
 ---Solar Storm
 ---Grand Chariot
----Aragami
+---Titania
 **コメント[#comment]
 #pcomment(,noname)

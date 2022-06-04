@@ -158,8 +158,8 @@
 |~|[[COLOR(blue):グレート！アニマルカイザー!!>難易度表/おに/グレート!アニマルカイザー!!]]|-|百獣王者どんちゃん||
 |~|[[COLOR(blue):チェインクロニクル 最終決戦メドレー>難易度表/おに/チェインクロニクル 最終決戦メドレー]]|-|クロニクルの使い手||
 |~|[[COLOR(blue):PAC-MAN CHAMPIONSHIP EDITION 2>https://www.wikihouse.com/taiko/index.php?%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2FPAC%A1%BEMAN%20CHAMPIONSHIP%20EDITION%202]]|おに|ドットイートの達人||
-//|BGCOLOR(#0acc2a):~バラエティ|[[COLOR(blue):Aragami>難易度表/おに/Aragami]]|おに|||
-|BGCOLOR(#0acc2a):~バラエティ|[[COLOR(blue):BATTLE NO.1>難易度表/おに/BATTLE NO.1]]|おに|俺たちのBATTLEはこれからだ！||
+|BGCOLOR(#0acc2a):~バラエティ|[[COLOR(blue):Aragami>難易度表/おに/Aragami]]|おに|荒ぶる神を鎮めし者||
+|~|[[COLOR(blue):BATTLE NO.1>難易度表/おに/BATTLE NO.1]]|おに|俺たちのBATTLEはこれからだ！||
 |~|[[COLOR(blue):やわらか戦車(裏譜面)>難易度表/おに/やわらか戦車(裏譜面)]]|裏譜面|戦車の達人||
 |~|[[COLOR(blue):もぺもぺ>難易度表/おに/もぺもぺ]]|おに|繧ゅ⊆繧ゅ⊆の達人||
 |~|[[COLOR(blue):Parousia>難易度表/おに/Parousia]]|おに|最後の審判を下せし者||
@@ -178,14 +178,12 @@
 |~|[[COLOR(blue):Calamity Fortune>難易度表/おに/Calamity Fortune]]|おに|奇跡を起こす程度のドンだー||
 |~|[[COLOR(blue):Calamity Fortune(裏譜面)>難易度表/おに/Calamity Fortune(裏譜面)]]|裏譜面|常識に囚われないドンだー||
 |~|[[COLOR(blue):サクラ・シークレット>難易度表/おに/サクラ・シークレット]]|おに|悠然なる管理者||
-//|BGCOLOR(#ded523):~クラシック|[[COLOR(blue):其方、激昂>難易度表/おに/其方、激昂]]|おに|||
-|BGCOLOR(#ded523):~クラシック|[[COLOR(blue):クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|おに|クラポルの達人||
+|BGCOLOR(#ded523):~クラシック|[[COLOR(blue):其方、激昂>難易度表/おに/其方、激昂]]|おに|激昂を宥めし者||
+|~|[[COLOR(blue):クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|おに|クラポルの達人||
 |~|[[COLOR(blue):チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]|おに|全力疾走の達人||
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|BGCOLOR(#ff7028):~ナムオリ|[[COLOR(blue):女神な世界II>難易度表/おに/女神な世界II]]|おに|||
-//|~|[[COLOR(blue):きょうはたいこ曜日>難易度表/おに/きょうはたいこ曜日]]|おに|||
 |BGCOLOR(#ff7028):~ナムオリ|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]|おに|響瀾を越えし挑戦者||
 |~|[[COLOR(blue):ON SAY GO SAY(裏譜面)>難易度表/おに/ON SAY GO SAY(裏譜面)]]|裏譜面|息継ぎなしで叩けマース！||
 |~|[[COLOR(blue):ねこくじら(裏譜面)>難易度表/おに/ねこくじら(裏譜面)]]|裏譜面|さて帰宅しよ。||
@@ -448,7 +446,6 @@
 |CENTER:難易度|CENTER:曲名|CENTER:難易度|CENTER:称号|CENTER:備考|h
 |~★x1|BGCOLOR(silver):[[COLOR(blue):黄ダルマ2000>難易度表/おに/黄ダルマ2000]]|BGCOLOR(silver):おに|BGCOLOR(silver):リンリンズのファン|BGCOLOR(silver):毎年4/1のみ選択可能|
 |~★x4|[[COLOR(blue):Let It Go〜ありのままで〜>難易度表/おに/Let It Go〜ありのままで〜]]|-|こおりの女王||
-//|~★x5|[[COLOR(blue):きょうはたいこ曜日>難易度表/おに/きょうはたいこ曜日]]|おに|||
 |~★x6|[[COLOR(blue):喫茶レイン>難易度表/おに/喫茶レイン]]|おに|喫茶レインの常連さん||
 |~★x7|[[COLOR(blue):僕らの世界にダンスを>難易度表/おに/僕らの世界にダンスを]]|-|教授のきもち|サカモト教授作曲・編曲の曲をどれか一つフルコンボで獲得|
 |~|[[COLOR(blue):どんちゃん 世界旅行>難易度表/おに/どんちゃん 世界旅行]]|おに|世界旅行ドンだー||
@@ -461,7 +458,6 @@
 |~|[[COLOR(blue):Fly again!>難易度表/おに/Fly again!]]|おに|僕らはもっと翔べる||
 |~|[[COLOR(blue):さいたま2000>難易度表/おに/さいたま2000]]|おに|さいたまの達人||
 |~|[[COLOR(blue):White Rose Insanity>難易度表/おに/White Rose Insanity]]|おに|白薔薇の狂気||
-//|~★x8|[[COLOR(blue):女神な世界II>難易度表/おに/女神な世界II]]|おに|||
 |~★x8|[[COLOR(blue):めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|おに|ゆにば〜す学園の生徒||
 |~|[[COLOR(blue):ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]|おに|アイラブどんちゃん||
 |~|[[COLOR(blue):ラブユー☆どんちゃん(裏譜面)>難易度表/おに/ラブユー☆どんちゃん(裏譜面)]]|裏譜面|アイラブかっちゃん||
@@ -573,6 +569,7 @@
 |~|[[COLOR(blue):Angel Halo>難易度表/おに/Angel Halo]]|おに|天使の光輪||
 |~|[[COLOR(blue):Comona>難易度表/おに/Comona]]|おに|とある空域の撃墜王||
 |~|[[COLOR(blue):Doom Noiz>難易度表/おに/Doom Noiz]]|おに|超・破壊エクスタシー||
+|~|[[COLOR(blue):Aragami>難易度表/おに/Aragami]]|おに|荒ぶる神を鎮めし者||
 |~|[[COLOR(blue):BATTLE NO.1>難易度表/おに/BATTLE NO.1]]|おに|俺たちのBATTLEはこれからだ！||
 |~|[[COLOR(blue):もぺもぺ>難易度表/おに/もぺもぺ]]|おに|繧ゅ⊆繧ゅ⊆の達人||
 |~|[[COLOR(blue):Parousia>難易度表/おに/Parousia]]|おに|最後の審判を下せし者||
@@ -586,13 +583,12 @@
 |~|[[COLOR(blue):INSPION>難易度表/おに/INSPION]]|おに|INSPIratiON||
 |~|[[COLOR(blue):Calamity Fortune>難易度表/おに/Calamity Fortune]]|おに|奇跡を起こす程度のドンだー||
 |~|[[COLOR(blue):Calamity Fortune(裏譜面)>難易度表/おに/Calamity Fortune(裏譜面)]]|裏譜面|常識に囚われないドンだー||
-//|~|[[COLOR(blue):Aragami>難易度表/おに/Aragami]]|おに|||
+|~|[[COLOR(blue):其方、激昂>難易度表/おに/其方、激昂]]|おに|激昂を宥めし者||
 |~|[[COLOR(blue):クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|おに|クラポルの達人||
 |~|[[COLOR(blue):チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]|おに|全力疾走の達人||
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|~|[[COLOR(blue):其方、激昂>難易度表/おに/其方、激昂]]|おに|||
 |~|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]|おに|響瀾を越えし挑戦者||
 |~|[[COLOR(blue):ON SAY GO SAY(裏譜面)>難易度表/おに/ON SAY GO SAY(裏譜面)]]|裏譜面|息継ぎなしで叩けマース！||
 |~|[[COLOR(blue):Player's High>難易度表/おに/Player's High]]|おに|極致を目指す者||

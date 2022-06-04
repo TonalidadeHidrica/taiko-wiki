@@ -156,72 +156,72 @@
 ----
 
 ***COLOR(#d0284d){ニ}COLOR(#ffaf25){ジ}COLOR(#74e621){イ}COLOR(#4dacff){ロ}COLOR(#8060fe){Ver.} 段位道場2022 本編 [#normal]
--2022年6月4日より全世界同時((日本版・アジア版同時))にスタートし十段まで先行登場予定。玄人以上のお題は後日のアップデートにて追加。
+-2022年6月4日より全世界同時((日本版・アジア版同時))にスタートし十段まで先行登場。玄人以上のお題は後日のアップデートにて追加。
 
 |CENTER:10|CENTER:150|CENTER:100|CENTER:75|>|>|>|CENTER:60|c
 |>|>|>|''課題曲情報''|>|>|>|''お題''|h
 ||''楽曲名''|''むずかしさ''|''ノーツ数''|>|>|>|''&color(black){ 合格条件&br;上段：};&color(#f23b08){赤合格　};&color(black){下段：};&color(#b77900){金合格 };''|h
 |~|~|~|~|''条件1''|''条件2''|''条件3''|''条件4''|h
-|BGCOLOR(#ffcf75):SIZE(16){''五級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/五級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''???''} |BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):|BGCOLOR(#ffcf75):|
-|1st|[[月に叢雲華に風>難易度表/ふつう/月に叢雲華に風]]|ふつう★×5|160コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|||
+|BGCOLOR(#ffcf75):SIZE(16){''五級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/五級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''637''} |BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):|BGCOLOR(#ffcf75):|
+|1st|[[月に叢雲華に風>難易度表/ふつう/月に叢雲華に風]]|ふつう★×5|160コンボ|COLOR(#f23b08){92%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){884以上}&br;COLOR(#e8d03e){''937以上''}|||
 |2nd|[[MEGALOVANIA>難易度表/ふつう/MEGALOVANIA]]|ふつう★×5|225コンボ|~|~|~|~|
-|3rd|[[--->難易度表/ふつう/---]]|ふつう★×-|---コンボ|~|~|~|~|
-|BGCOLOR(#ffcf75):SIZE(16){''四級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/四級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''---''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
-|1st|[[ロキ>難易度表/むずかしい/ロキ]]|むずかしい★×4|258コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}||
+|3rd|[[テルミービート>難易度表/ふつう/テルミービート]]|ふつう★×5|252コンボ|~|~|~|~|
+|BGCOLOR(#ffcf75):SIZE(16){''四級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/四級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''923''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
+|1st|[[ロキ>難易度表/むずかしい/ロキ]]|むずかしい★×4|258コンボ|COLOR(#f23b08){94%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1171以上}&br;COLOR(#e8d03e){''1235以上''}|COLOR(#f23b08){92未満}&br;COLOR(#e8d03e){''??未満''}||
 |2nd|[[乙女解剖>難易度表/むずかしい/乙女解剖]]|むずかしい★×4|278コンボ|~|~|~|~|
-|3rd|[[--->難易度表/むずかしい/---]]|むずかしい★×-|---コンボ|~|~|~|~|
-|BGCOLOR(#ffcf75):SIZE(16){''三級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/三級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''---''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
-|1st|[[女々しくて>難易度表/むずかしい/女々しくて]]|むずかしい★×5|244コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}||
+|3rd|[[カゲロウデイズ>難易度表/むずかしい/カゲロウデイズ]]|むずかしい★×5|387コンボ|~|~|~|~|
+|BGCOLOR(#ffcf75):SIZE(16){''三級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/三級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''1178''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
+|1st|[[女々しくて>難易度表/むずかしい/女々しくて]]|むずかしい★×5|244コンボ|COLOR(#f23b08){95%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1521以上}&br;COLOR(#e8d03e){''1586以上''}|COLOR(#f23b08){70未満}&br;COLOR(#e8d03e){''??未満''}||
 |2nd|[[マツヨイナイトバグ>難易度表/むずかしい/マツヨイナイトバグ]]|むずかしい★×5|444コンボ|~|~|~|~|
-|3rd|[[--->難易度表/むずかしい/---]]|むずかしい★×-|---コンボ|~|~|~|~|
-|BGCOLOR(#ffcf75):SIZE(16){''二級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/二級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''---''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
-|1st|[[カルメン 組曲一番終曲>難易度表/むずかしい/カルメン組曲一番終曲]]|むずかしい★×5|388コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''%以上''}|COLOR(#f23b08){1526以上}&br;COLOR(#e8d03e){''1575以上''}|COLOR(#f23b08){50未満}&br;COLOR(#e8d03e){''25未満''}||
+|3rd|[[GO ON 〜未来へ〜>難易度表/むずかしい/GO ON 〜未来へ〜]]|むずかしい★×5|490コンボ|~|~|~|~|
+|BGCOLOR(#ffcf75):SIZE(16){''二級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/二級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''1191''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
+|1st|[[カルメン 組曲一番終曲>難易度表/むずかしい/カルメン組曲一番終曲]]|むずかしい★×5|388コンボ|COLOR(#f23b08){96%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1287以上}&br;COLOR(#e8d03e){''1328以上''}|COLOR(#f23b08){47未満}&br;COLOR(#e8d03e){''??未満''}||
 |2nd|[[やわらか戦車>難易度表/むずかしい/やわらか戦車]]|むずかしい★×6|344コンボ|~|~|~|~|
-|3rd|[[--->難易度表/むずかしい/--]]|むずかしい★×-|---コンボ|~|~|~|~|
-|BGCOLOR(#ffcf75):SIZE(16){''一級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/一級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''---''} |BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
-|1st|[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/むずかしい/TOKIMEKI・ですとろいやー！！]]|むずかしい★×7|482コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}||
-|2nd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|~|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|~|
-|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''初段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/初段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''---''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''コンボ数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
-|1st|[[--->難易度表/おに/---]]|おに★×-|---コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[季曲>難易度表/おに/季曲 〜Seasons of Asia〜]]|おに★×7|536コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[Kill My Fortune>難易度表/おに/Kill My Fortune]]|おに★×7|627コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''二段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/二段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''---''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''コンボ数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
-|1st|[[--->難易度表/おに/---]]|おに★×-|---コンボ|COLOR(#f23b08){--%以上}&br;COLOR(#e8d03e){''--%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[ねぇ教えて>難易度表/おに/ねぇ教えて]]|おに★×7|404コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''三段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/三段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''---''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''コンボ数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
-|1st|[[--->難易度表/おに/---]]|おに★×-|---コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[RAGE v.self>難易度表/おに/RAGE v. self]]|おに★×8|545コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''四段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/四段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''---''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''コンボ数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
-|1st|[[--->難易度表/おに/---]]|おに★×-|---コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[月影SASURAI>難易度表/おに/月影SASURAI]]|おに★×8|580コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''五段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/五段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''---''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''コンボ数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
-|1st|[[--->難易度表/おに/---]]|おに★×-|---コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[Mani Mani(Prod. TAKU INOUE)>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]|おに★×8|463コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|BGCOLOR(#f55336):COLOR(white):SIZE(16){''六段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/六段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''---''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
-|1st|[[--->難易度表/おに/---]]|おに★×-|---コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|おに★×8|687コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|BGCOLOR(#f55336):COLOR(white):SIZE(16){''七段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/七段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''---''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
-|1st|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|おに★×9|624コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){18未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|BGCOLOR(#f55336):COLOR(white):SIZE(16){''八段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/八段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''---''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
-|1st|[[--->難易度表/おに/-]]|おに★×-|---コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[Got more raves?>難易度表/おに/Got more raves?]]|おに★×9|702コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|BGCOLOR(#f55336):COLOR(white):SIZE(16){''九段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/九段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''---''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
-|1st|[[--->難易度表/おに/---]]|おに★×-|---コンボ|COLOR(#f23b08){---%以上}&br;COLOR(#e8d03e){''---%以上''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[DIMENSIONS>難易度表/おに/DIMENSIONS]]|おに★×9|535コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|~|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|BGCOLOR(#f55336):COLOR(white):SIZE(16){''十段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/十段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''---''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''可の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
-|1st|[[女帝 〜インバラトゥーラ〜>難易度表/おに/女帝 〜インバラトゥーラ〜]]|おに★×9|648コンボ|COLOR(#f23b08){100%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|2nd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
-|3rd|[[--->難易度表/おに/---]]|おに★×-|---コンボ|~|COLOR(#f23b08){---未満}&br;COLOR(#e8d03e){''---未満''}|~|COLOR(#f23b08){---以上}&br;COLOR(#e8d03e){''---以上''}|
+|3rd|[[ヒバナ>難易度表/むずかしい/ヒバナ]]|むずかしい★×6|459コンボ|~|~|~|~|
+|BGCOLOR(#ffcf75):SIZE(16){''一級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/一級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''1244''} |BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
+|1st|[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/むずかしい/TOKIMEKI・ですとろいやー！！]]|むずかしい★×7|482コンボ|COLOR(#f23b08){96%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1365以上}&br;COLOR(#e8d03e){''1408以上''}|COLOR(#f23b08){37未満}&br;COLOR(#e8d03e){''??未満''}||
+|2nd|[[愛にできることはまだあるかい>難易度表/おに/愛にできることはまだあるかい]]|おに★×5|296コンボ|~|~|~|~|
+|3rd|[[キミと響くハーモニー>難易度表/おに/キミと響くハーモニー]]|おに★×6|466コンボ|~|~|~|~|
+|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''初段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/初段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''1508''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''良の数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
+|1st|[[RPG >難易度表/おに/RPG]]|おに★×6|345コンボ|COLOR(#f23b08){97%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){934以上}&br;COLOR(#e8d03e){''980以上''}|COLOR(#f23b08){30未満}&br;COLOR(#e8d03e){''??未満''}|COLOR(#f23b08){58以上}&br;COLOR(#e8d03e){''65以上''}|
+|2nd|[[季曲>難易度表/おに/季曲 〜Seasons of Asia〜]]|おに★×7|536コンボ|~|~|~|COLOR(#f23b08){75以上}&br;COLOR(#e8d03e){''84以上''}|
+|3rd|[[Kill My Fortune>難易度表/おに/Kill My Fortune]]|おに★×7|627コンボ|~|~|~|COLOR(#f23b08){29以上}&br;COLOR(#e8d03e){''33以上''}|
+|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''二段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/二段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''1480''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''良の数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
+|1st|[[うさぎのしっぽ>難易度表/おに/うさぎのしっぽ]]|おに★×7|521コンボ|COLOR(#f23b08){98%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){976以上}&br;COLOR(#e8d03e){''1021以上''}|COLOR(#f23b08){26未満}&br;COLOR(#e8d03e){''??未満''}|COLOR(#f23b08){63以上}&br;COLOR(#e8d03e){''71以上''}|
+|2nd|[[ねぇ教えて>難易度表/おに/ねぇ教えて]]|おに★×7|404コンボ|~|~|~|COLOR(#f23b08){80以上}&br;COLOR(#e8d03e){''90以上''}|
+|3rd|[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|おに★×7|555コンボ|~|~|~|COLOR(#f23b08){139以上}&br;COLOR(#e8d03e){''157以上''}|
+|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''三段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/三段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''1792''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''良の数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
+|1st|[[PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]|おに★×7|554コンボ|COLOR(#f23b08){99%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1254以上}&br;COLOR(#e8d03e){''1308以上''}|COLOR(#f23b08){28未満}&br;COLOR(#e8d03e){''??未満''}|COLOR(#f23b08){29以上}&br;COLOR(#e8d03e){''33以上''}|
+|2nd|[[RAGE v.self>難易度表/おに/RAGE v. self]]|おに★×8|545コンボ|~|~|~|COLOR(#f23b08){26以上}&br;COLOR(#e8d03e){''30以上''}|
+|3rd|[[テイルズ オブ ジ アビス>難易度表/おに/テイルズ オブ ジ アビス]]|おに★×8|693コンボ|~|~|~|COLOR(#f23b08){132以上}&br;COLOR(#e8d03e){''148以上''}|
+|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''四段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/四段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''1854''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''良の数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
+|1st|[[ねがいごと☆ぱずる>難易度表/おに/ねがいごと☆ぱずる]]|おに★×8|551コンボ|COLOR(#f23b08){99%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1371以上}&br;COLOR(#e8d03e){''1427以上''}|COLOR(#f23b08){25未満}&br;COLOR(#e8d03e){''??未満''}|COLOR(#f23b08){0以上}&br;COLOR(#e8d03e){''0以上''}|
+|2nd|[[月影SASURAI>難易度表/おに/月影SASURAI]]|おに★×8|580コンボ|~|~|~|COLOR(#f23b08){11以上}&br;COLOR(#e8d03e){''13以上''}|
+|3rd|[[ファミレスウォーズ>難易度表/おに/ファミレスウォーズ]]|おに★×8|723コンボ|~|~|~|COLOR(#f23b08){106以上}&br;COLOR(#e8d03e){''119以上''}|
+|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''五段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/五段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''1636''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''良の数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
+|1st|[[タベテモタベテモ>難易度表/おに/タベテモタベテモ]]|おに★×8|496コンボ|COLOR(#f23b08){99%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1276以上}&br;COLOR(#e8d03e){''1325以上''}|COLOR(#f23b08){19未満}&br;COLOR(#e8d03e){''??未満''}|COLOR(#f23b08){126以上}&br;COLOR(#e8d03e){''141以上''}|
+|2nd|[[Mani Mani(Prod. TAKU INOUE)>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]|おに★×8|463コンボ|~|~|~|COLOR(#f23b08){199以上}&br;COLOR(#e8d03e){''222以上''}|
+|3rd|[[化物月夜>難易度表/おに/化物月夜]]|おに★×8|677コンボ|~|~|~|COLOR(#f23b08){28以上}&br;COLOR(#e8d03e){''32以上''}|
+|BGCOLOR(#f55336):COLOR(white):SIZE(16){''六段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/六段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''2129''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
+|1st|[[イイコ進化論(feat. O-LuHA)>難易度表/おに/イイコ進化論(feat. O-LuHA)]]|おに★×9|677コンボ|COLOR(#f23b08){100%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){1745以上}&br;COLOR(#e8d03e){''1809以上''}|COLOR(#f23b08){21未満}&br;COLOR(#e8d03e){''??未満''}|COLOR(#f23b08){154以上}&br;COLOR(#e8d03e){''165以上''}|
+|2nd|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|おに★×8|687コンボ|~|~|~|COLOR(#f23b08){28以上}&br;COLOR(#e8d03e){''30以上''}|
+|3rd|[[めたるぽりす''(裏)''>難易度表/おに/めたるぽりす(裏譜面)]]|おに★×9|765コンボ|~|~|~|COLOR(#f23b08){0以上}&br;COLOR(#e8d03e){''0以上''}|
+|BGCOLOR(#f55336):COLOR(white):SIZE(16){''七段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/七段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''2052''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
+|1st|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|おに★×9|624コンボ|COLOR(#f23b08){100%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){1764以上}&br;COLOR(#e8d03e){''1826以上''}|COLOR(#f23b08){16未満}&br;COLOR(#e8d03e){''??未満''}|COLOR(#f23b08){135以上}&br;COLOR(#e8d03e){''148以上''}|
+|2nd|[[オレサマパイレーツ>難易度表/おに/オレサマパイレーツ]]|おに★×8|663コンボ|~|~|~|COLOR(#f23b08){68以上}&br;COLOR(#e8d03e){''74以上''}|
+|3rd|[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]|おに★×9|765コンボ|~|~|~|COLOR(#f23b08){288以上}&br;COLOR(#e8d03e){''317以上''}|
+|BGCOLOR(#f55336):COLOR(white):SIZE(16){''八段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/八段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''2126''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
+|1st|[[FooFooカセット>難易度表/おに/FooFooカセット]]|おに★×9|810コンボ|COLOR(#f23b08){100%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){1892以上}&br;COLOR(#e8d03e){''1955以上''}|COLOR(#f23b08){12未満}&br;COLOR(#e8d03e){''??未満''}|COLOR(#f23b08){85以上}&br;COLOR(#e8d03e){''92以上''}|
+|2nd|[[Got more raves?>難易度表/おに/Got more raves?]]|おに★×9|702コンボ|~|~|~|COLOR(#f23b08){72以上}&br;COLOR(#e8d03e){''76以上''}|
+|3rd|[[ゆらめ>難易度表/おに/ゆらめ]]|おに★×9|614コンボ|~|~|~|COLOR(#f23b08){115以上}&br;COLOR(#e8d03e){''123以上''}|
+|BGCOLOR(#f55336):COLOR(white):SIZE(16){''九段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/九段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''2199''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
+|1st|[[私立高天原学園高校・校歌>難易度表/おに/私立高天原学園高校・校歌]]|おに★×9|829コンボ|COLOR(#f23b08){100%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){2045以上}&br;COLOR(#e8d03e){''2100以上''}|COLOR(#f23b08){10未満}&br;COLOR(#e8d03e){''5未満''}|COLOR(#f23b08){107以上}&br;COLOR(#e8d03e){''114以上''}|
+|2nd|[[DIMENSIONS>難易度表/おに/DIMENSIONS]]|おに★×9|535コンボ|~|~|~|COLOR(#f23b08){74以上}&br;COLOR(#e8d03e){''79以上''}|
+|3rd|[[Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]|おに★×9|835コンボ|~|~|~|COLOR(#f23b08){54以上}&br;COLOR(#e8d03e){''59以上''}|
+|BGCOLOR(#f55336):COLOR(white):SIZE(16){''十段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/十段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''2385''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''可の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
+|1st|[[女帝 〜インバラトゥーラ〜>難易度表/おに/女帝 〜インバラトゥーラ〜]]|おに★×9|648コンボ|COLOR(#f23b08){100%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){20未満}&br;COLOR(#e8d03e){''11未満''}|COLOR(#f23b08){7未満}&br;COLOR(#e8d03e){''3未満''}|COLOR(#f23b08){127以上}&br;COLOR(#e8d03e){''137以上''}|
+|2nd|[[Angel Halo>難易度表/おに/Angel Halo]]|おに★×10|898コンボ|~|COLOR(#f23b08){25未満}&br;COLOR(#e8d03e){''13未満''}|~|COLOR(#f23b08){16以上}&br;COLOR(#e8d03e){''17以上''}|
+|3rd|[[Aragami>難易度表/おに/Aragami]]|おに★×10|839コンボ|~|COLOR(#f23b08){30未満}&br;COLOR(#e8d03e){''16未満''}|~|COLOR(#f23b08){45以上}&br;COLOR(#e8d03e){''49以上''}|
 
 ----
 ***[[段位道場 外伝]] [#gaiden]
@@ -234,27 +234,27 @@
 ||>|>|>|''課題曲情報''|>|>|>|''お題''|h
 |''解放期間''|>|''楽曲名''|''むずかしさ''|''コンボ数''|>|>|>|''&color(black){ 合格条件&br;上段：};&color(#f23b08){赤合格　};&color(black){下段：};&color(#b77900){金合格 };''|h
 |''22/4/21〜''|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！カツドン大将''>過去の段位道場#katsu-don]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=5aWzy1ynpmg]]　[[攻略>段位道場/KATSU-DON/大将]]|BGCOLOR(#f7e5b7):SIZE(16){''2500''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[タイコタイム''(裏)''>難易度表/おに/タイコタイム(裏譜面)]]|おに★×10|876コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){100未満}&br;COLOR(#cccc33){''30未満''}|COLOR(red){30未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[タイコタイム''(裏)''>難易度表/おに/タイコタイム(裏譜面)]]|おに★×10|876コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){100未満}&br;COLOR(#cccc33){''30未満''}|COLOR(red){30未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[燎原ノ舞>難易度表/おに/燎原ノ舞]]|おに★×10|822コンボ|~|~|~|~|
 |~|3rd|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|おに★×10|802コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！ソライロ十段''>過去の段位道場#sorairo]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://youtu.be/UuSLg2s1S6w]]　[[攻略>段位道場/ソライロ/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2782''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[Doom Noiz>難易度表/おに/Doom Noiz]]|おに★×10|961コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''10未満''}|COLOR(red){10未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[Doom Noiz>難易度表/おに/Doom Noiz]]|おに★×10|961コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''10未満''}|COLOR(red){10未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[燎原ノ舞>難易度表/おに/燎原ノ舞]]|おに★×10|822コンボ|~|~|~|~|
 |~|3rd|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|おに★×10|999コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！モモイロ十段''>過去の段位道場#momoiro]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>http://www.youtube.com/watch?v=5x4V1wviTeM]]　[[攻略>段位道場/モモイロ/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2773''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[ナイトメア・サバイバー''(裏)''>難易度表/おに/ナイトメア・サバイバー(裏譜面)]]|おに★×10|876コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''10未満''}|COLOR(red){10未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[ナイトメア・サバイバー''(裏)''>難易度表/おに/ナイトメア・サバイバー(裏譜面)]]|おに★×10|876コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''10未満''}|COLOR(red){10未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[Angel Halo>難易度表/おに/Angel Halo]]|おに★×10|898コンボ|~|~|~|~|
 |~|3rd|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|おに★×10|999コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！モモイロ達人''>過去の段位道場#momoiro]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://youtu.be/rw9rq-vf2hY]]|BGCOLOR(#f7e5b7):SIZE(16){''3316''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[初音ミクの消失‐劇場版‐''(裏)''>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]|おに★×10|999コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){10未満}&br;COLOR(#cccc33){''0''}|COLOR(red){3未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[初音ミクの消失‐劇場版‐''(裏)''>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]|おに★×10|999コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){10未満}&br;COLOR(#cccc33){''1未満''}|COLOR(red){3未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[Hurtling Boys>難易度表/おに/Hurtling Boys]] |おに★×10|903コンボ|~|~|~|~|
 |~|3rd|[[〆ドレー2000>難易度表/おに/〆ドレー2000]]|おに★×10|1414コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！キミドリ十段''>過去の段位道場#kimidori]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>http://www.youtube.com/watch?v=z6M7W5FWKng]]　[[攻略>段位道場/キミドリ/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2586''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|おに★×10|876コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''10未満''}|COLOR(red){10未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|おに★×10|876コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''10未満''}|COLOR(red){10未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[DEBSTEP!>難易度表/おに/DEBSTEP!]]|おに★×10|888コンボ|~|~|~|~|
 |~|3rd|[[燎原ノ舞>難易度表/おに/燎原ノ舞]]|おに★×10|822コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！キミドリ達人''>過去の段位道場#kimidori]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>http://www.youtube.com/watch?v=yaPsxYS0rH4]]|BGCOLOR(#f7e5b7):SIZE(16){''3231''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''良の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|おに★×10|999コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){3180以上}&br;COLOR(#cccc33){''3230以上''}|COLOR(red){5未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|おに★×10|999コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){3180以上}&br;COLOR(#cccc33){''3230以上''}|COLOR(red){5未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[双竜ノ乱>難易度表/おに/双竜ノ乱]]|おに★×10|970コンボ|~|~|~|~|
 |~|3rd|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]|おに★×10|1262コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！ムラサキ十段''>過去の段位道場#murasaki]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=hyKBnqjJYvw]]　[[攻略>段位道場/ムラサキ/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2581''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
@@ -262,7 +262,7 @@
 |~|2nd|[[蒼の旋律''(裏)''>難易度表/おに/蒼の旋律(裏譜面)]]|おに★×10|976コンボ|~|~|~|~|
 |~|3rd|[[てんぢく2000>難易度表/おに/てんぢく2000]]|おに★×10|831コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！ムラサキ達人''>過去の段位道場#murasaki]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=ZK7JzIyqhWA]]|BGCOLOR(#f7e5b7):SIZE(16){''3136''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[Xa''(裏)''>難易度表/おに/Xa(裏譜面)]] |おに★×10|904コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){10未満}&br;COLOR(#cccc33){''0''}|COLOR(red){3未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[Xa''(裏)''>難易度表/おに/Xa(裏譜面)]] |おに★×10|904コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){10未満}&br;COLOR(#cccc33){''1未満''}|COLOR(red){3未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[双竜ノ乱>難易度表/おに/双竜ノ乱]] |おに★×10|970コンボ|~|~|~|~|
 |~|3rd|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]] |おに★×10|1262コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！ホワイト十段''>過去の段位道場#white]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=I_UEjk-HT8E]]　[[攻略>段位道場/ホワイト/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2278''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
@@ -270,7 +270,7 @@
 |~|2nd|[[カグツチ>難易度表/おに/カグツチ]]|おに★×9|716コンボ|~|~|~|~|
 |~|3rd|[[そつおめしき>難易度表/おに/そつおめしき]]|おに★×10|797コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！ホワイト達人''>過去の段位道場#white]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=gQAkArBvj4M]]　[[攻略>段位道場/ホワイト/達人]]|BGCOLOR(#f7e5b7):SIZE(16){''3522''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[双竜ノ乱>難易度表/おに/双竜ノ乱]]|おに★×10|970コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){10未満}&br;COLOR(#cccc33){''0''}|COLOR(red){3未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[双竜ノ乱>難易度表/おに/双竜ノ乱]]|おに★×10|970コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){10未満}&br;COLOR(#cccc33){''1未満''}|COLOR(red){3未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[≠MM>難易度表/おに/≠MM]]|おに★×10|1290コンボ|~|~|~|~|
 |~|3rd|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]] |おに★×10|1262コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！レッド十段''>過去の段位道場#red]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=YJ_Sth8x6qo]]　[[攻略>段位道場/レッド/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2517''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
@@ -278,7 +278,7 @@
 |~|2nd|[[Ignis Danse>難易度表/おに/Ignis Danse]]|おに★×10|818コンボ|~|~|~|~|
 |~|3rd|[[そつおめしき>難易度表/おに/そつおめしき]]|おに★×10|797コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！レッド達人''>過去の段位道場#red]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=gQAkArBvj4M]]　[[攻略>段位道場/レッド/達人]]|BGCOLOR(#f7e5b7):SIZE(16){''3522''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[双竜ノ乱>難易度表/おに/双竜ノ乱]]|おに★×10|970コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''0''}|COLOR(red){3未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[双竜ノ乱>難易度表/おに/双竜ノ乱]]|おに★×10|970コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''1未満''}|COLOR(red){3未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[≠MM>難易度表/おに/≠MM]]|おに★×10|1290コンボ|~|~|~|~|
 |~|3rd|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]] |おに★×10|1262コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！イエロー十段''>過去の段位道場#yellow]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=oq0jHUDx0kY]]　[[攻略>段位道場/イエロー/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2338''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
@@ -286,7 +286,7 @@
 |~|2nd|[[No Gravity>難易度表/おに/No Gravity]]|おに★×10|674コンボ|~|~|~|~|
 |~|3rd|[[そつおめしき2ばん>難易度表/おに/そつおめしき2ばん]]|おに★×10|792コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！イエロー達人''>過去の段位道場#yellow]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=2RIh5zprZ68&feature=youtu.be&a]]((直撮り))　[[動画>https://www.youtube.com/watch?v=dfTUQNPu8Ek]]((キャプチャ))　[[攻略>段位道場/イエロー/達人]]|BGCOLOR(#f7e5b7):SIZE(16){''3593''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[まださいたま2000>難易度表/おに/まださいたま2000]]|おに★×10|999コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''0''}|COLOR(red){3未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[まださいたま2000>難易度表/おに/まださいたま2000]]|おに★×10|999コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''1未満''}|COLOR(red){3未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[≠MM>難易度表/おに/≠MM]]|おに★×10|1290コンボ|~|~|~|~|
 |~|3rd|[[Infinite Rebellion>難易度表/おに/Infinite Rebellion]]|おに★×10|1304コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！ブルー十段''>過去の段位道場#blue]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=FM6pqsVFH6c]]　[[攻略>段位道場/ブルー/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2643''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
@@ -294,7 +294,7 @@
 |~|2nd|[[Pastel Sealane>難易度表/おに/Pastel Sealane]]|おに★×9|850コンボ|~|~|~|~|
 |~|3rd|[[トイマチック☆パレード!!>難易度表/おに/トイマチック☆パレード!!]]|おに★×10|851コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！ブルー達人''>過去の段位道場#blue]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=nNibwTPILx8]]　[[攻略>段位道場/ブルー/達人]]|BGCOLOR(#f7e5b7):SIZE(16){''3253''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]|おに★×10|858コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''0''}|COLOR(red){3未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]|おに★×10|858コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''1未満''}|COLOR(red){3未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[まださいたま2000>難易度表/おに/まださいたま2000]]|おに★×10|999コンボ|~|~|~|~|
 |~|3rd|[[第六天魔王>難易度表/おに/第六天魔王]]|おに★×10|1396コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！グリーン十段''>過去の段位道場#green]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=PlpXh7rTYm0]]　[[攻略>段位道場/グリーン/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2797''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
@@ -302,7 +302,7 @@
 |~|2nd|[[千鼓千鼓>難易度表/おに/千鼓千鼓]]|おに★×9|776コンボ|~|~|~|~|
 |~|3rd|[[デッド・オア・ダイ>難易度表/おに/デッド・オア・ダイ]]|おに★×10|1096コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){[[''復活！グリーン達人''>過去の段位道場#green]]}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[攻略>段位道場/グリーン/達人]]|BGCOLOR(#f7e5b7):SIZE(16){''3263''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):-|
-|~|1st|[[疾風怒濤''(裏)''>難易度表/おに/疾風怒濤(裏譜面)]]|おに★×10|1083コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''0''}|COLOR(red){3未満}&br;COLOR(#cccc33){''0''}|-|
+|~|1st|[[疾風怒濤''(裏)''>難易度表/おに/疾風怒濤(裏譜面)]]|おに★×10|1083コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''1未満''}|COLOR(red){3未満}&br;COLOR(#cccc33){''1未満''}|-|
 |~|2nd|[[双竜ノ乱>難易度表/おに/双竜ノ乱]]|おに★×10|970コンボ|~|~|~|~|
 |~|3rd|[[poxei&#9830;DOON>難易度表/おに/poxei◆DOON]]|おに★×10|1210コンボ|~|~|~|~|
 |~|>|BGCOLOR(#f7e5b7):SIZE(16){''[[復活！ニジイロ2020十段>過去の段位道場#niziiro2020]]''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>https://www.youtube.com/watch?v=8RhfTiXlpUM]]　　[[攻略・解説>段位道場/ニジイロ2020/十段]]|BGCOLOR(#f7e5b7):SIZE(16){''2426''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|
@@ -310,7 +310,7 @@
 |~|2nd|[[SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|おに★×10|839コンボ|~|COLOR(red){30未満}&br;COLOR(#cccc33){''13未満''}|~|COLOR(red){59以上}&br;COLOR(#cccc33){''70以上''}|
 |~|3rd|[[memoria ficta>難易度表/おに/memoria ficta]]|おに★×10|747コンボ|~|COLOR(red){28未満}&br;COLOR(#cccc33){''12未満''}|~|COLOR(red){53以上}&br;COLOR(#cccc33){''61以上''}|
 |~|>|BGCOLOR(#f7e5b7):SIZE(16){''[[復活！ニジイロ2020達人>過去の段位道場#niziiro2020]]''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[攻略・解説>段位道場/ニジイロ2020/達人]]|BGCOLOR(#f7e5b7):SIZE(16){''3501''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|
-|~|1st|[[まださいたま2000>難易度表/おに/まださいたま2000]]|おに★×10|COLOR(#909):''999コンボ&br;COLOR(#666):981コンボ''|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''0''}|COLOR(red){3未満}&br;COLOR(#cccc33){''0''}|COLOR(red){13以上}&br;COLOR(#cccc33){''14以上''}|
+|~|1st|[[まださいたま2000>難易度表/おに/まださいたま2000]]|おに★×10|COLOR(#909):''999コンボ&br;COLOR(#666):981コンボ''|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){8未満}&br;COLOR(#cccc33){''1未満''}|COLOR(red){3未満}&br;COLOR(#cccc33){''1未満''}|COLOR(red){13以上}&br;COLOR(#cccc33){''14以上''}|
 |~|2nd|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]|おに★×10|1262コンボ|~|~|~|COLOR(red){25以上}&br;COLOR(#cccc33){''27以上''}|
 |~|3rd|[[Vixtory''(裏)''>難易度表/おに/Vixtory(裏譜面)]]|おに★×10|1240コンボ|~|~|~|COLOR(red){124以上}&br;COLOR(#cccc33){''131以上''}|
 

@@ -9,12 +9,12 @@
 
 |>|>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンルを選択すると新筐体のそのジャンルに移動します)|
-|BGCOLOR(cyan):[[COLOR(black){%%%''J-POP''%%%}>#jpop]]|BGCOLOR(orange):[[COLOR(black){%%%''アニメ''%%%}>#anime]]|BGCOLOR(darkgray):[[COLOR(black){%%%''ボーカロイド&#8482;曲''%%%}>#vocalo]]|BGCOLOR(magenta):[[COLOR(black){%%%''どうよう''%%%}>#kidsfalk]]|BGCOLOR(lime):[[COLOR(black){%%%''バラエティ''%%%}>#variety]]|BGCOLOR(gold):[[COLOR(black){%%%''クラシック''%%%}>#classic]]|BGCOLOR(darkorchid):[[COLOR(black){%%%''ゲーム&br;ミュージック''%%%}>#gm]]|BGCOLOR(orangered):[[COLOR(black){%%%''ナムコ&br;オリジナル''%%%}>#namco]]|''合計''|
+|BGCOLOR(cyan):[[COLOR(black){%%%''ポップス''%%%}>#pop]]|BGCOLOR(hotpink):[[COLOR(black){%%%''アニメ''%%%}>#anime]]|BGCOLOR(darkgray):[[COLOR(black){%%%''ボーカロイド&#8482;曲''%%%}>#vocalo]]|BGCOLOR(magenta):[[COLOR(black){%%%''キッズ''%%%}>#kids]]|BGCOLOR(lime):[[COLOR(black){%%%''バラエティ''%%%}>#variety]]|BGCOLOR(gold):[[COLOR(black){%%%''クラシック''%%%}>#classic]]|BGCOLOR(darkorchid):[[COLOR(black){%%%''ゲーム&br;ミュージック''%%%}>#gm]]|BGCOLOR(orangered):[[COLOR(black){%%%''ナムコ&br;オリジナル''%%%}>#namco]]|''合計''|
 |   ''50''曲   |   ''33''曲   |   ''21''曲   |   ''1''曲   |   ''23''曲   |   ''9''曲   |   ''59''曲   |   ''59''曲   |   ''255''曲   |
 
 |||LEFT:140|c
 |曲名|BPM((※があるものは細かなBPM変化がある))|最大コンボ数|h
-|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop);|
+|>|>|BGCOLOR(cyan):''ポップス''&aname(pops);|
 |[[RPG>難易度表/かんたん/RPG]]|135|''89''|
 |[[AIAIAI (feat.中田ヤスタカ)>難易度表/かんたん/AIAIAI (feat.中田ヤスタカ)]]|128|''96''|
 |[[I my moko>難易度表/かんたん/I my moko]]|140|''151''|
@@ -37,8 +37,6 @@
 |[[シン・ゾンビ>難易度表/かんたん/シン・ゾンビ]]|180-360※|''79''|
 |[[世界はあなたに笑いかけている>難易度表/かんたん/世界はあなたに笑いかけている]]|121|''64''|
 |[[前前前世>難易度表/かんたん/前前前世]]|190|''90''|
-|[[ダンシング・ヒーロー(Eat You Up)>難易度表/かんたん/ダンシング・ヒーロー(Eat You Up)]]|132|''81''|
-|[[TT -Japanese ver.->難易度表/かんたん/TT -Japanese ver.-]]|130|''91''|
 |[[天体観測>難易度表/かんたん/天体観測]]|163|''127''|
 |[[ともに>難易度表/かんたん/ともに]]|127-254※|''134''|
 |[[Dragon Night>難易度表/かんたん/Dragon Night]]|124※|''116''|
@@ -288,7 +286,7 @@
 
 ***新筐体サヨナラ曲 [#sayonara]
 |曲名(五十音順)|BPM|最大コンボ数|h
-|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop);|
+|>|>|BGCOLOR(cyan):''ポップス''&aname(pop);|
 |[[会いたかった>難易度表/かんたん/会いたかった]]|192|''95''|
 |[[あなたに恋をしてみました>難易度表/かんたん/あなたに恋をしてみました]]|137|''103''|
 |[[ANTI-HERO>難易度表/かんたん/ANTI-HERO]]|105※|''112''|
@@ -308,7 +306,9 @@
 |[[好きな人がいること>難易度表/かんたん/好きな人がいること]]|108|''83''|
 |[[Swan>難易度表/かんたん/Swan]]|141※|''92''|
 |[[前略、道の上より>難易度表/かんたん/前略、道の上より]]|151|''174''|
+|[[ダンシング・ヒーロー(Eat You Up)>難易度表/かんたん/ダンシング・ヒーロー(Eat You Up)]]|132|''81''|
 |[[チョコレイト・ディスコ>難易度表/かんたん/チョコレイト・ディスコ]]|128|''119''|
+|[[TT -Japanese ver.->難易度表/かんたん/TT -Japanese ver.-]]|130|''91''|
 |[[24karats TRIBE OF GOLD>難易度表/かんたん/24karats TRIBE OF GOLD]]|103|''75''|
 |[[虹>難易度表/かんたん/虹]]|128※|''87''|
 |[[虹色の戦争>難易度表/かんたん/虹色の戦争]]|170|''150''|
