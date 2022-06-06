@@ -21,11 +21,11 @@
 ***その他 [#other]
 |CENTER:|CENTER:|CENTER:|c
 |>|>|曲順|h
-|1~12小節|attract demo|デモ画面BGM|
-|13~38小節|select|ゲーム選択画面BGM|
-|39~54小節|steering technique|"手技"ゲームBGM|
-|55~78小節|footwork technique|"足技"ゲームBGM|
-|79~99小節|practical technique|"実技"ゲームBGM|
+|1〜12小節|attract demo|デモ画面BGM|
+|13〜38小節|select|ゲーム選択画面BGM|
+|39〜54小節|steering technique|"手技"ゲームBGM|
+|55〜78小節|footwork technique|"足技"ゲームBGM|
+|79〜99小節|practical technique|"実技"ゲームBGM|
 
 -原曲の作曲は、[[''中川浩二''>参加アーティスト一覧/中川浩二]]。リミックスは、[[''増渕裕二''>参加アーティスト一覧/増渕裕二]]((http://ymab.sakura.ne.jp/profile_works.html))。
 --リミックスとあるが、正確には原曲を繋ぎ合わせたメドレーである。

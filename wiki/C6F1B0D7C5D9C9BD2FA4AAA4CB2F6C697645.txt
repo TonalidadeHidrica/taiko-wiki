@@ -1,4 +1,4 @@
-*livE [#title]
+*&ruby(ライブ){livE}; [#title]
 
 ***詳細・攻略 [#more]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c

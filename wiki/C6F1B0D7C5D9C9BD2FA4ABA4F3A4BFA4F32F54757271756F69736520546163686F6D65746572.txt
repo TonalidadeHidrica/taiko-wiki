@@ -36,5 +36,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~風船とくすだまの長さ、HSは適当
-&ref(凧かんたん.png,nolink);
+&ref(ta5ta5_e.png,nolink);

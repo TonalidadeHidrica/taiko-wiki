@@ -1,7 +1,9 @@
 *¥Ë¥¸¥¤¥í2022ÃÊ°ÌÆ»¾ì ½½ÃÊ [#title]
-|LEFT:999|CENTER:999|c
-|¢«prev||h
-|[[¶åÃÊ>ÃÊ°ÌÆ»¾ì/¥Ë¥¸¥¤¥í2022/¶åÃÊ]]|''½½ÃÊ TENTH DAN''|
+
+|LEFT:999|CENTER:999|RIGHT:999|c
+|¢«prev||next¢ª|h
+|[[¶åÃÊ>../¶åÃÊ]]|''½½ÃÊ TENTH DAN''|¸¼¿Í(Ì¤¼ÂÁõ)|
+
 ***¾ÜºÙ [#more]
 -³Ú¶Ê¾ðÊó
 |>|>|>|>|CENTER:|c
@@ -30,12 +32,33 @@
 
 ***¹¶Î¬ [#capture]
 -1¶ÊÌÜ¤Ï[[½÷Äë ¡Á¥¤¥ó¥Ð¥é¥È¥¥¡¼¥é¡Á>Æñ°×ÅÙÉ½/¤ª¤Ë/½÷Äë ¡Á¥¤¥ó¥Ð¥é¥È¥¥¡¼¥é¡Á]]¡£º£²óÍ£°ì¤Î¡ú¡ß9¤Ç¤¢¤ê¡¢½½ÃÊ¡ú¡ß9¹±Îã¤Îµ»½ÑÏÈ¡£
+--´ðËÜBPM244¤ÇÂ¿¾¯¤Î²Ã¸ºÂ®¤Ï¤¢¤ë¤â¤Î¤ÎÁ°ºî½½ÃÊ¤Î²ÝÂê¶Ê¤Ç¤¢¤ë[[»°À¥ÀîÍðÉñ(Î¢ÉèÌÌ)>Æñ°×ÅÙÉ½/¤ª¤Ë/»°À¥ÀîÍðÉñ(Î¢ÉèÌÌ)]]¤È¤µ¤Û¤ÉÊÑ¤ï¤é¤Ê¤¤¡£
+---BPM¤Î´¶³Ð¤¬ÄÏ¤á¤Ê¤¤»þ¤Ï¶á¤¤BPM¤Î[[¥«¥é¥Õ¥ë¥Ü¥¤¥¹>Æñ°×ÅÙÉ½/¤ª¤Ë/¥«¥é¥Õ¥ë¥Ü¥¤¥¹]]¤ò¥¤¥á¡¼¥¸¤¹¤ë¤È¤ï¤«¤ê¤ä¤¹¤¤¤À¤í¤¦¡£
+--ºÇ¸å¤Î²ÃÂ®ÃÏÂÓ¤Ï&br;COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û}&br;¤È¶èÀÚ¤ë¤ÈÃ¡¤­¤ä¤¹¤¤¡¢BPM¼«ÂÎ¤âÀª¤¤¤è¤¯Â®¤¯¤Ê¤ëÌõ¤Ç¤Ï¤Ê¤¤¤Î¤ÇÍî¤ÁÃå¤¤¤ÆÃ¡¤³¤¦¡£
+--²Ä¤Î¾ò·ï¤¬¤È¤Æ¤â¸·¤·¤¯°ìÅÙ¿¶¤êÍî¤È¤µ¤ì¤ë¤ÈÎ©¤ÆÄ¾¤¹Á°¤ËÉÔ¹ç³Ê¤Ë¤Ê¤ê¤«¤Í¤Ê¤¤¤Î¤Ç¡¢¤¢¤é¤«¤¸¤á±¿¼ê¤äÊ£¹ç¤ò°Åµ­¤·¤Æ¤ª¤¯»ö¤¬É¬¿Ü¤Ç¤¢¤ë¡£
 
 -2¶ÊÌÜ¤Ï[[Angel Halo>Æñ°×ÅÙÉ½/¤ª¤Ë/Angel Halo]]¡£224¤È¤¤¤¦BPM¤Ë¤â¹´¤é¤ºÄ¹¤¤16Ê¬¤¬Â¿¤¤ÂÎÎÏÉèÌÌ¡£
---Á°È¾¤Ï¥ê¥º¥àÆñÉèÌÌ¤È¤Ï¤Þ¤¿°ã¤Ã¤¿°ÕÌ£¤Ç¤ÎÃ¡¤­¤Ë¤¯¤µ¤¬ÌÜÎ©¤Ä¡£
---56¡¦92¾®Àá¤Î5Ï¢ÂÇ¡Ü7Ï¢ÂÇ¤ÏÇÛ¿§¤¬ÇÛ¿§¤À¤±¤¢¤Ã¤Æ16Ê¬¤òÎ¾ÊýÍø¤­¼êÆþ¤ê¤·¤è¤¦¤Ë¤â°ìÊý¤òµÕ¼êÆþ¤ê¤·¤è¤¦¤Ë¤âÌñ²ð¤È¤Ê¤ë¡£
+--³Ú¶Ê¤Î±éÁÕ»þ´Ö¤¬Ä¹¤¤¤Î¤ÇÂÎÎÏ¤Ë¤«¤Ê¤êµ¤¤òÇÛ¤é¤Ê¤±¤ì¤Ð¤Ê¤é¤Ê¤¤¡¢¤½¤Î¤¿¤á½ÐÍè¤ë¤À¤±ÂÎÎÏ¤ò¾ÃÈñ¤·¤Ê¤¤¤è¤¦¤Ë¸ò¸ßÂÇ¤Á¤ò½¬ÆÀ¤¹¤ë¤È¿´¶¯¤¤¡£
+--Á´ÂÎÅª¤Ë¥ê¥º¥àÆñÉèÌÌ¤È¤Ï¤Þ¤¿°ã¤Ã¤¿°ÕÌ£¤Ç¤ÎÃ¡¤­¤Ë¤¯¤µ¤¬ÌÜÎ©¤Ä¡£
+---56¡¦92¾®Àá¤Î5Ï¢ÂÇ¡Ü7Ï¢ÂÇ¤ÏÇÛ¿§¤¬ÇÛ¿§¤À¤±¤¢¤Ã¤Æ16Ê¬¤òÎ¾ÊýÍø¤­¼êÆþ¤ê¤·¤è¤¦¤Ë¤â°ìÊý¤òµÕ¼êÆþ¤ê¤·¤è¤¦¤Ë¤âÌñ²ð¤È¤Ê¤ë¡£
+--ÎãÇ¯¤Î½½ÃÊÆó¶ÊÌÜ¤ËÈæ¤Ù¤ÆÆñ°×ÅÙ¤¬¹â¤¯²Ä¤Î¾ò·ï¤â¹­¤¤¤ï¤±¤Ç¤Ï¤Ê¤¤¤¿¤á¥·¥ó¥×¥ë¤ÊÉèÌÌ¤ÈÉî¤ë¤ÈÄË¤¤ÌÜ¤ËÁø¤¦¤À¤í¤¦¡£
 
 -3¶ÊÌÜ¤Ï[[Aragami>Æñ°×ÅÙÉ½/¤ª¤Ë/Aragami]]¡£200¤Ë¶á¤¤BPM¤ÇÍÆ¼Ï¤Ê¤¯Ä¹Ê£¹ç¤¬½±¤¤³Ý¤«¤ëÉèÌÌ¤Ç¤¢¤ë¡£
+--ÅöÁ³Ê£¹ç¤ÎÃ¡¤±¤Ê¤±¤ì¤ÐºÇ°­¤Î¾ì¹çÂ¨ÉÔ¹ç³Ê¤Ë¤Ê¤êÆÀ¤Ê¤¤¤¿¤á°Åµ­¤ÏÉ¬¿Ü¤À¤í¤¦¡£
+---Âè°ì¥´¡¼¥´¡¼
+&br;COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û}/COLOR(red){¡ü}
+&br;COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü}COLOR(blue){¡û}/COLOR(red){¡ü¡ü}COLOR(blue){¡û}COLOR(red){¡ü}/COLOR(red){¡ü}COLOR(blue){¡û}COLOR(red){¡ü}COLOR(blue){¡û}/COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü}
+&br;COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü¡ü}/COLOR(blue){¡û¡û}COLOR(red){¡ü¡ü}/COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü¡ü}/COLOR(blue){¡û¡û}COLOR(red){¡ü}COLOR(blue){¡û}/COLOR(red){¡ü}
+&br;COLOR(blue){¡û¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü¡ü}/COLOR(blue){¡û¡û}COLOR(red){¡ü}COLOR(blue){¡û}/COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}/COLOR(red){¡ü¡ü¡ü}
+---ÂèÆó¥´¡¼¥´¡¼Á°È¾(1.3ËÜÌÜ¤ÎÇÛÃÖ¤¬Âè°ì¥´¡¼¥´¡¼¤È°ìÃ×¤·¤Æ¤¤¤ë)
+&br;COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û}/COLOR(red){¡ü}
+&br;COLOR(red){¡ü¡ü¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü}COLOR(blue){¡û}/COLOR(red){¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü}COLOR(blue){¡û}COLOR(red){¡ü}COLOR(blue){¡û}/COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü}
+&br;COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü¡ü}/COLOR(blue){¡û¡û}COLOR(red){¡ü¡ü}/COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü¡ü}/COLOR(blue){¡û¡û}COLOR(red){¡ü}COLOR(blue){¡û}/COLOR(red){¡ü}
+&br;COLOR(blue){¡û¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü¡ü¡ü¡ü}/COLOR(blue){¡û¡û}COLOR(red){¡ü}COLOR(blue){¡û}/COLOR(blue){¡û}COLOR(red){¡ü¡ü}COLOR(blue){¡û}/COLOR(red){¡ü}COLOR(blue){¡û¡û¡û}COLOR(red){¡ü}
+--ÂèÆó¥´¡¼¥´¡¼¸åÈ¾
+&br;COLOR(blue){¡û¡û}/
+&br;COLOR(red){¡ü}COLOR(blue){¡û¡û¡û}/COLOR(red){¡ü}COLOR(blue){¡û¡û}COLOR(red){¡ü}/COLOR(blue){¡û¡û}COLOR(red){¡ü¡ü}/COLOR(blue){¡û¡û}COLOR(red){¡ü}COLOR(blue){¡û}/COLOR(blue){¡û}COLOR(red){¡ü}COLOR(blue){¡û}COLOR(red){¡ü}/COLOR(blue){¡û}COLOR(red){¡ü¡ü¡ü}/
+&br;COLOR(red){¡ü¡ü}COLOR(blue){¡û¡û}/COLOR(red){¡ü}COLOR(blue){¡û}COLOR(red){¡ü¡ü¡ü}
 
 ***ÂÐºö [#ka8c4287]
 
