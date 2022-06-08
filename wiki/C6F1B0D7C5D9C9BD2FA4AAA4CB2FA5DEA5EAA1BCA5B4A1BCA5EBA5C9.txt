@@ -41,5 +41,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~1小節は1/8拍子
+~1小節目はMEASURE1/8
 ~&attachref(imynmg_m.png,nolink);

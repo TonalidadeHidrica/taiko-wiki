@@ -16,8 +16,8 @@
 ***その他 [#other]
 -歌唱・編曲は、[[''GARNiDELiA''>アーティスト別収録曲#garnidelia]]。
 --作詞は、メイリア。作曲は、toku。
--曲IDは、''gdmrec''。
 -同じくPS Vita1に収録された[[BLAZING VORTEX>難易度表/おに/BLAZING VORTEX]]との混同に注意。
+-曲IDは、''gdmrec''。
 
 ----
 -[[かんたん>難易度表/かんたん/BLAZING]]

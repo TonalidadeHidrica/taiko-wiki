@@ -2,7 +2,7 @@
 -[[ハマユウシリーズ>シリーズ曲一覧#hama_yuu]]第2弾。
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |AC15.9.6SP|''3DS3''&br;NS RPG|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''707''|''1047620点''|＋連打|460点|113点|
 |COLOR(#f30){真打}||~|~|~|COLOR(#f30){''1001890点''}|~|COLOR(#f30){1390点}|-|

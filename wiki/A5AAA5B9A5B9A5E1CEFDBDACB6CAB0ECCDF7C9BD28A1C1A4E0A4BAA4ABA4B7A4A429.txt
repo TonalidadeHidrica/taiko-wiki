@@ -4,6 +4,10 @@
 ----
 -オススメ練習曲(〜むずかしい)をまとめたページです。
 --目標を''おにコースでプレイできるようになり、最終的にはおにコース全譜面のクリア安定''とする。
+--[[参考動画(公式)【むずかしい編】>https://www.youtube.com/watch?v=G4Wtx36v0DA]]
+--[[参考動画(公式)【ふつう編】>https://www.youtube.com/watch?v=aLbewBtY1lM]]
+--[[参考動画(公式)【かんたん編】>https://www.youtube.com/watch?v=6nojB6UJn24]]
+--[[参考動画(公式)【初心者向け】>https://www.youtube.com/watch?v=ahg9DUBMNrw]]
 
 //-以前からの変更予定
 //--譜面タイプ別に分けるものとします。
