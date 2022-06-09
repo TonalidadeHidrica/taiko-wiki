@@ -7,8 +7,8 @@
 |AC15.3.0|Wii U1&br;Wii U2&br;3DS2&br;3DS3DL&br;PS Vita1&br;PS4 1DL&br;NS1DL|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|~|~|~|~|
 ||PS Vita1亜|BGCOLOR(silver):''VOCALOID&br;樂曲''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1001000点''}|~|COLOR(#ff3300){1120点}|-|
-|AC16.1.0||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''999200点''|~|1200点|-|
 ||iOS&br;AR|~|~|~|''997760点''|~|310点|80点|
+|AC16.1.0||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''999200点''|~|1200点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは154。

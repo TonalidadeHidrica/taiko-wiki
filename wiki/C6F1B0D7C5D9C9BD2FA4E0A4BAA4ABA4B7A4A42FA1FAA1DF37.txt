@@ -6,7 +6,7 @@
 
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|''ジャンルごとの譜面数''(ジャンル名を選択するとそのジャンルに移動します)|h
-|BGCOLOR(cyan):~[[&color(black){%%%J-POP%%%};>#jpop]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#ANIMEold2]]|BGCOLOR(silver):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(magenta):~[[&color(black){%%%どうよう%%%};>#doyo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲームミュージック%%%};>#GAME]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコオリジナル%%%};>#namco]]|
+|BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#jpop]]|BGCOLOR(hotpink):~[[&color(black){%%%アニメ%%%};>#ANIMEold2]]|BGCOLOR(silver):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(yellow):~[[&color(black){%%%キッズ%%%};>#kids]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲームミュージック%%%};>#GAME]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコオリジナル%%%};>#namco]]|
 |''13'' 譜面&br;(約5.3%)|''15'' 譜面&br;(約5.3%)|''10''譜面&br;(約4%)|''1'' 譜面&br;(約0.8%)|''16'' 譜面&br;(約6%)|''18'' 譜面&br;(約7.3%)|''59'' 譜面&br;(約23.9%)|''117'' 譜面&br;(約47.8%)|
 ----
 -凡例&br;色付き数字・・・''譜面分岐あり''&br;紫色(COLOR(#909){''■''}) 　 ・・・''達人譜面''&br;青色(COLOR(#069){''■''}) 　 ・・・''玄人譜面''&br;灰色(COLOR(#666){''■''}) 　 ・・・''普通譜面''&br;括弧内　 　・・・(''1P・2P'')
@@ -15,13 +15,13 @@
 ***新筐体収録曲 [#new1]
 |280|81||c
 |曲名(五十音順)|BPM((※があるものは細かなBPM変化がある))|最大コンボ数|h
-|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop);|
+|>|>|BGCOLOR(cyan):''ポップス''&aname(jpop);|
 |[[紅>難易度表/むずかしい/紅]]|156.3|COLOR(purple){''727''}|
 |[[Silent Jealousy>難易度表/むずかしい/Silent Jealousy]]|183|''748''|
 |[[さちさちにしてあげる♪>難易度表/むずかしい/さちさちにしてあげる♪]]|160|''296''|
 |[[華振舞>難易度表/むずかしい/華振舞]]|162※|''604''|
 |[[R.Y.U.S.E.I.>難易度表/むずかしい/R.Y.U.S.E.I.]]|128|''295''|
-|>|>|BGCOLOR(orange):''アニメ''&aname(anime);|
+|>|>|BGCOLOR(hotpink):''アニメ''&aname(anime);|
 |[[My Soul, Your Beats!>難易度表/むずかしい/My Soul,Your Beats!]]|145※|''237''|
 |>|>|BGCOLOR(silver):''ボーカロイド&#8482;曲''&aname(vocalo);|
 |[[アスノヨゾラ哨戒班>難易度表/むずかしい/アスノヨゾラ哨戒班]]|185|''445''|

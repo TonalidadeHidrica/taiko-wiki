@@ -15,6 +15,7 @@
 -第2ゴーゴーより前は奇数複合主体で厄介な箇所は40小節のCOLOR(red){●●●}COLOR(blue){○○○}COLOR(red){●}と2回現れる24分ぐらいだが、第2ゴーゴーからは叩きにくい複合が増える。
 --57小節にはあまり見かけないCOLOR(red){●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○○○}COLOR(red){●●}という叩きにくい複合があるので注意。
 --65小節から始まるCOLOR(red){●}COLOR(blue){○○○○}COLOR(red){●●●}という複合も厄介。逆手から入るのがオススメ。余裕があれば直前の4連打と繋げてCOLOR(blue){○○}COLOR(red){●●}(COLOR(blue){○})COLOR(red){●}COLOR(blue){○○○○}COLOR(red){●●●}と叩くのもアリ。
+-''全良狙いの場合は最後に注意。''
 -一曲を通しての平均密度は、''約5.33打/秒''である。
 
 ***その他 [#other]

@@ -1,5 +1,5 @@
 *Jump Up, Super Star! Short Version [#title]
--Nintendo Switch用ソフト「[[''スーパーマリオ オデッセイ''>ゲーム別収録曲#mario]]」の主題歌。
+-Nintendo Switch用ソフト「[[''スーパーマリオ オデッセイ''>ゲーム別収録曲#mario]]」主題歌。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -30,19 +30,19 @@
 
 ***その他 [#other]
 -アーティストは、''ケイト・デイヴィス''。
+--作詞は、鈴木伸嘉。作曲は、久保直人。編曲は、村田陽一。
 --[[''本人音源''>本人音源曲]]である。
--作詞は、鈴木伸嘉。作曲は、久保直人。
 -ゲームに登場する''ポリーン''のキャラクターソング。
 --ゲーム内では「都市の国」を進めていくと聴くことができる。
--曲IDは、''mario4''。
 -[[日本版ブルーVer.段位道場>過去の段位道場#blue]]の五段1曲目課題曲((当時のアジア版では未収録だったため、代わりに[[カノン (シンクロニカ Remix)>難易度表/おに/カノン (シンクロニカ Remix)]]が課題曲となった))となった。
+-曲IDは、''mario4''。
 
 ----
 -[[かんたん>難易度表/かんたん/Jump Up, Super Star! Short Version]]
 -[[ふつう>難易度表/ふつう/Jump Up, Super Star! Short Version]]
 -[[むずかしい>難易度表/むずかしい/Jump Up, Super Star! Short Version]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=SSy7Y89W3pk&t=12s]]
--[[オート動画(NS1)>https://youtu.be/w-W1anvVtQI]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=w-W1anvVtQI]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
