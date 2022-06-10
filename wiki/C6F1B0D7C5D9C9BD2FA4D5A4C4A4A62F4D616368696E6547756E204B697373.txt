@@ -1,5 +1,4 @@
 *Machine&#71;un Kiss [#title]
--PS3用ソフト「[[''龍が如く OF THE END''>http://ryu-ga-gotoku.com/theend/]]」より。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -7,7 +6,7 @@
 |''PSPDX''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×4|''174''|''559100点''|+連打|900点|240点|
 
 ***譜面構成・攻略 [#capture]
--BPMは約178。
+-BPMは178。
 -連打秒数目安・・・約1.320秒−''約1.320秒''−''約1.826秒''×2：合計約6.292秒
 
 ***その他 [#other]

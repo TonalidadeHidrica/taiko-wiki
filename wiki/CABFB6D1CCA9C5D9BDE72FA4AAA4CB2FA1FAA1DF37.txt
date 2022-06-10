@@ -550,7 +550,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(cyan):|[[independent>難易度表/おに/independent]]|''4.679''|150|452|96.60秒||
 |>|>|BGCOLOR(orangered):|[[Happy & Peace>難易度表/おに/Happy ＆ Peace]]|''4.627''|169|400|86.45秒|正確には''4.6270''|
 |>|>|BGCOLOR(orangered):|[[タ・コ・タ・イ・コCOLOR(#890089):(達人譜面)>難易度表/おに/タ・コ・タ・イ・コ]]|''4.627''|150|496|107.20秒|1人用譜面 ・ 正確には''4.6269''|
-|>|>|BGCOLOR(cyan):|[[O2>難易度表/おに/O2]]|''4.610''|170|423|91.76秒||
+|>|BGCOLOR(cyan):|BGCOLOR(hotpink):|[[O2>難易度表/おに/O2]]|''4.610''|170|423|91.76秒||
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[しゅごしゅご！COLOR(#5f5f5f):(普通譜面)>難易度表/おに/しゅごしゅご！]]|''4.600''|162|391|85.00秒||
 |>|>|BGCOLOR(orangered):|[[ハッピーでリッパ！>難易度表/おに/ハッピーでリッパ！]]|''4.587''|134|381|83.06秒||
 |>|BGCOLOR(cyan):|BGCOLOR(lime):|[[The Impression That I Get>難易度表/おに/The Impression That I Get]]|''4.582''|180|501|109.33秒|TDM|
