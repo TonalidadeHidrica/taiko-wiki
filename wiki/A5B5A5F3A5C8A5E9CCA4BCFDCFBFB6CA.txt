@@ -179,7 +179,7 @@
 |BGCOLOR(#ff7028):|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]|-|庭師|[[公式音源(YouTube)>https://youtu.be/mkD_GoWHef0]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[punk bastards>難易度表/おに/punk bastards]]|-|Sobrem|[[公式音源(YouTube)>https://youtu.be/t_go-kRZQZk]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[仮想現実のテレスコープ>難易度表/おに/仮想現実のテレスコープ]]|-|deli.|[[公式音源(YouTube)>https://youtu.be/fqmLytgDsPQ]]|ゲームSize|
-|~|~|~|~|アルカトラズヘイヴン(CD版のみ)|~|
+|~|~|~|~|アルカトラズヘイヴン&br;(CD版のみ)|~|
 |BGCOLOR(#ff7028):|[[たいこの2000>難易度表/おに/たいこの2000]]|LindaAI-CUE|LindaAI-CUE|[[公式音源(YouTube)>https://youtu.be/3jZQVBc2I_A]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[Spectral Rider>難易度表/おに/Spectral Rider]]|-|濱本理央|[[公式音源(YouTube)>https://youtu.be/RxHj2RhiLJw]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[Agent Hustle ＆ Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|-|Cory Tarrow|[[公式音源(YouTube)>https://youtu.be/t4IHWBIH3pE]]|ゲームSize|
@@ -188,6 +188,7 @@
 |BGCOLOR(#ff7028):|[[Hello, Mr.JOKER>難易度表/おに/Hello, Mr.JOKER]]|-|打打だいず|[[公式音源(YouTube)>https://www.youtube.com/watch?v=EIfx-WxMVHQ]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[アンリミテッドゲームズ>難易度表/おに/アンリミテッドゲームズ]]|はぁち|Ponchi♪|[[公式音源(YouTube)>https://www.youtube.com/watch?v=7HAhoBFU8XI]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[晨星ト鵺>難易度表/おに/晨星ト鵺]]|-|Silentroom|[[公式音源(YouTube)>https://www.youtube.com/watch?v=DGAE0rTLxVU]]|ゲームSize|
+|~|~|~|~|In My Heart&br;(CD版のみ)|ロングVer.|
 |BGCOLOR(#ff7028):|[[GO ON 〜未来へ〜>難易度表/おに/GO ON 〜未来へ〜]]|-|steμ|[[公式音源(YouTube)>https://www.youtube.com/watch?v=1NjMikod7fk]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[弧>難易度表/おに/弧]]|-|概念|[[公式音源(YouTube)>https://www.youtube.com/watch?v=QdeLIgKO46A]]|ゲームSize|
 |BGCOLOR(#ff7028):|[[Player's High>難易度表/おに/Player's High]]|-|K.Key|[[公式音源(YouTube)>https://www.youtube.com/watch?v=11D6EMN7u98]]|ゲームSize|
@@ -199,7 +200,7 @@
 |BGCOLOR(#0acc2a):|[[パパマママック>難易度表/おに/パパマママック]]|牧野桃子、太郎、桜子|山本由貴子||
 |BGCOLOR(#ff7028):|[[福袋餃子自慢商店街の歌>難易度表/おに/福袋餃子自慢商店街の歌]]|?|?|ナンジャタウンで流れているものと、太鼓収録版とでカットが異なる。|
 |BGCOLOR(#ff7028):|[[餃子ブギウギ>難易度表/おに/餃子ブギウギ]]|?|?|~|
-|BGCOLOR(#ff7028):|[[Many wow bang!>難易度表/おに/Many wow bang!]]|ばしょん|みすみゆり|2013/6/6の公式ツイッターより、&br;「この曲は太鼓の達人オリジナル楽曲ではないため、&br;太鼓の達人オリジナルサウンドトラックには収録できません」とのこと。|
+|BGCOLOR(#ff7028):|[[Many wow bang!>難易度表/おに/Many wow bang!]]|ばしょん|みすみゆり|2013/6/6の公式ツイッターより、&br;「この曲は太鼓の達人オリジナル楽曲ではないため、&br;太鼓の達人オリジナルサウンドトラックには収録できません」とのこと。&br;ちなみに、[[公式MV(You&#84;ube)>https://www.youtube.com/watch?v=3rVDc0Jr1l0]](ゲームSize)はアップロードされている。|
 
 ***ロングVer.やフルVer.が収録済みでゲームSizeが未収録もの [#short]
 |1|||||c

@@ -30,8 +30,8 @@
 -編曲・ギターは、''[[濱本理央>参加アーティスト一覧/濱本理央]]''。
 --トラックダウンは、''[[村上正信>参加アーティスト一覧/村上正信]]''。
 -譜面作成は、''[[キジキジ>譜面作成者一覧/キジキジ]]''。
--曲IDは、''thun''。
 -PSP2では、2018年1月31日をもって新規DLができなくなった。
+-曲IDは、''thun''。
 
 ----
 -[[かんたん>難易度表/かんたん/サンダーセプターメドレー]]
@@ -41,7 +41,6 @@
 -[[オート動画(PSP2・2人用譜面)>https://www.youtube.com/watch?v=otqXZELWKcA]]
 -[[プレイ動画(CS4・1人用譜面)>https://www.youtube.com/watch?v=eZUFPBpgHng]]
 -[[オート動画(CS4・2人用譜面)>https://www.youtube.com/watch?v=ydtIaPmWRns]]
-
 
 ***コメント [#comment]
 #pcomment(,noname)

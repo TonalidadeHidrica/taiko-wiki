@@ -50,7 +50,7 @@
 -[[QRコード(公式Twitter) >https://twitter.com/taiko_team/status/1509697054313881600]]
 
 ----
--[[楽曲MV(公式)>https://www.youtube.com/watch?v=EsOU0V2kpUI]]COLOR(red){【''閲覧注意''】}
+-[[楽曲MV(公式)>https://www.youtube.com/watch?v=EsOU0V2kpUI]] COLOR(red){【''閲覧注意''】}
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

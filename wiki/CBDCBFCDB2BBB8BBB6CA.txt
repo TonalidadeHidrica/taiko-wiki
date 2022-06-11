@@ -566,6 +566,10 @@
 -[[ヒプノシスマイク -Division Battle Anthem->難易度表/おに/ヒプノシスマイク -Division Battle Anthem-]]
 
 **COLOR(purple){ゲームミュージック} [#game_music]
+
+***桐生一馬(黒田崇矢) [#kiryuchan]
+-[[Machine&#71;un Kiss>難易度表/おに/MachineGun Kiss]]
+
 ***中川翔子 [#syokotan]
 -[[さかさま世界>難易度表/おに/さかさま世界]]
 

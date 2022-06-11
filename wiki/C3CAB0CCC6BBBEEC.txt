@@ -167,7 +167,7 @@
 |2nd|[[MEGALOVANIA>難易度表/ふつう/MEGALOVANIA]]|ふつう★×5|225コンボ|~|~|~|~|
 |3rd|[[テルミービート>難易度表/ふつう/テルミービート]]|ふつう★×5|252コンボ|~|~|~|~|
 |BGCOLOR(#ffcf75):SIZE(16){''四級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/四級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''923''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
-|1st|[[ロキ>難易度表/むずかしい/ロキ]]|むずかしい★×4|258コンボ|COLOR(#f23b08){94%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1171以上}&br;COLOR(#e8d03e){''1235以上''}|COLOR(#f23b08){92未満}&br;COLOR(#e8d03e){''80〜71未満''}||
+|1st|[[ロキ>難易度表/むずかしい/ロキ]]|むずかしい★×4|258コンボ|COLOR(#f23b08){94%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1171以上}&br;COLOR(#e8d03e){''1235以上''}|COLOR(#f23b08){92未満}&br;COLOR(#e8d03e){''80〜76未満''}||
 |2nd|[[乙女解剖>難易度表/むずかしい/乙女解剖]]|むずかしい★×4|278コンボ|~|~|~|~|
 |3rd|[[カゲロウデイズ>難易度表/むずかしい/カゲロウデイズ]]|むずかしい★×5|387コンボ|~|~|~|~|
 |BGCOLOR(#ffcf75):SIZE(16){''三級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/三級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''1178''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
@@ -203,7 +203,7 @@
 |2nd|[[Mani Mani(Prod. TAKU INOUE)>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]|おに★×8|463コンボ|~|~|~|COLOR(#f23b08){199以上}&br;COLOR(#e8d03e){''222以上''}|
 |3rd|[[化物月夜>難易度表/おに/化物月夜]]|おに★×8|677コンボ|~|~|~|COLOR(#f23b08){28以上}&br;COLOR(#e8d03e){''32以上''}|
 |BGCOLOR(#f55336):COLOR(white):SIZE(16){''六段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/六段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''2129''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
-|1st|[[イイコ進化論(feat. O-LuHA)>難易度表/おに/イイコ進化論(feat. O-LuHA)]]|おに★×9|677コンボ|COLOR(#f23b08){100%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){1745以上}&br;COLOR(#e8d03e){''1809以上''}|COLOR(#f23b08){21未満}&br;COLOR(#e8d03e){''11or10未満''}|COLOR(#f23b08){154以上}&br;COLOR(#e8d03e){''165以上''}|
+|1st|[[イイコ進化論(feat. O-LuHA)>難易度表/おに/イイコ進化論(feat. O-LuHA)]]|おに★×9|677コンボ|COLOR(#f23b08){100%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){1745以上}&br;COLOR(#e8d03e){''1809以上''}|COLOR(#f23b08){21未満}&br;COLOR(#e8d03e){''10未満''}|COLOR(#f23b08){154以上}&br;COLOR(#e8d03e){''165以上''}|
 |2nd|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|おに★×8|687コンボ|~|~|~|COLOR(#f23b08){28以上}&br;COLOR(#e8d03e){''30以上''}|
 |3rd|[[めたるぽりす''(裏)''>難易度表/おに/めたるぽりす(裏譜面)]]|おに★×9|765コンボ|~|~|~|COLOR(#f23b08){0以上}&br;COLOR(#e8d03e){''0以上''}|
 |BGCOLOR(#f55336):COLOR(white):SIZE(16){''七段''}|>|BGCOLOR(#f55336):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/七段]]　　SIZE(16){''総音符数''}|BGCOLOR(#f55336):COLOR(white):SIZE(16){''2052''}|BGCOLOR(#f55336):COLOR(white):''魂ゲージ''|BGCOLOR(#f55336):COLOR(white):''良の数''|BGCOLOR(#f55336):COLOR(white):''不可の数''|BGCOLOR(#f55336):COLOR(white):''連打数''|
