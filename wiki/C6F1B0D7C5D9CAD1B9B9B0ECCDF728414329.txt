@@ -562,7 +562,6 @@
 |CENTER:妒叹|CENTER:恃构|h
 |>|BGCOLOR(orangered):CENTER:''かんたん''|
 |[[利慎ノ神≮孟≯>岂白刨山/かんたん/利慎ノ神≮孟≯]]|CENTER:COLOR(blue){→∵5ⅹ→∵4}|
-|[[ハロ〖—ハロウィン>岂白刨山/かんたん/ハロ〖—ハロウィン]]|CENTER:COLOR(blue){→∵4ⅹ→∵3}|
 |[[浇溪茸2000>岂白刨山/かんたん/浇溪茸2000]]|CENTER:COLOR(blue){→∵5ⅹ→∵4}|
 |>|BGCOLOR(lime):CENTER:''ふつう''|
 |[[利慎ノ神≮欧≯>岂白刨山/ふつう/利慎ノ神≮欧≯]]|CENTER:COLOR(blue){→∵6ⅹ→∵5}|
