@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(アイドルふつう.png,nolink);
+~&attachref(アイドル_ふつう.png,nolink);

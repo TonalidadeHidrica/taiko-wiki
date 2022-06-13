@@ -111,11 +111,14 @@
 - a3f4defa8d4e185a8cdcf84fb7642487
 - 5a026a7e8e4496abfb04f51281c0c7f5
 
+//6/13 超連投
+//- dc8fa46ec8bec0d4c69ce2757ddcfe44
+
 //6/9 自演連投(city.iwamizawa.hokkaido.jp) +1
 - 202.122.139.97
 
 //6/6 コメントページ削除
-- aa936b80ce0223b22d0c38ef7d9e0a8d
+//- aa936b80ce0223b22d0c38ef7d9e0a8d
 
 //6/5 アンケート自演
 //- 59504946cc6816628e29d9851531657a

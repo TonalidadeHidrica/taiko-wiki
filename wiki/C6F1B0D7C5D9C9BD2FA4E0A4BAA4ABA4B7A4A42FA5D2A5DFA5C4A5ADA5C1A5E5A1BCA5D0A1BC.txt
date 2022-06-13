@@ -9,7 +9,7 @@
 ||iOS&br;AR|~|~|~|''794350点''|~|910点|220点|
 |AC16.1.2||BGCOLOR(yellow):''キッズ''|~|~|''998600点''|~|3830点|-|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|~|~|~|~|
-|AC16.2.12||BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
+|AC16.2.0||BGCOLOR(yellow):''キッズ''|~|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
