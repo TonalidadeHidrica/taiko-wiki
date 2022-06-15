@@ -111,6 +111,9 @@
 - a3f4defa8d4e185a8cdcf84fb7642487
 - 5a026a7e8e4496abfb04f51281c0c7f5
 
+//6/15 曲名書き換え
+- 08c88e9275d77a759c4d3abd48e58f59
+
 //6/13 超連投
 //- dc8fa46ec8bec0d4c69ce2757ddcfe44
 
