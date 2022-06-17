@@ -19,9 +19,10 @@
 -アーティストは、''西込乗二''。
 -サウンドトラックは長らく販売されていなかったが、現在では[[''NAMCO SOUNDS''>https://itunes.apple.com/jp/album/crtitcal-velocity-original/id527538112]]からiTunesで配信中。
 -略称は、''アーバンS''など。
---ちなみに[[アーバンT>難易度表/おに/URBAN TRAIL]]、[[アーバンF>難易度表/おに/URBAN FRAGMENTS]]も存在する。
--曲IDは、''crturb''。
+--ちなみに[[アーバンT>難易度表/おに/URBAN TRAIL]]、[[アーバンF>難易度表/おに/URBAN FRAGMENTS]]も存在する。 
+-太鼓の達人に収録されているクリティカルベロシティの曲のうち、唯一AC収録経験がない。
 -この曲のミッションビンゴをコンプリートすると、''称号''「''ドライブ行こうぜ！''」を獲得できる。
+-曲IDは、''crturb''。
 
 ----
 -[[かんたん>難易度表/かんたん/Urban Striker]]

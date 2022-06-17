@@ -162,6 +162,14 @@
 -段位道場2021の段位表示や着せ替えが残っていた不具合が修正された(非告知)。
 -段位道場2022が実装され、外伝もプレイ可能となった。
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''6/18配信曲''|h
+|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''せかいのおと - sekai note -''>難易度表/おに/せかいのおと - sekai note -]]|FILTER SYSTEM 「シンクロニカ」より|
+
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''?/??配信曲''|h
+|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''Libera Ray''>難易度表/おに/Libera Ray]]|steμ feat. siroa 「シンクロニカ」より|
+
 -2022/6/20をもって、[[AI粗品バトル演奏>https://taiko.namco-ch.net/taiko/special/ai_soshina]]が開催終了となる。
 
 -2022/6/21 7:00をもって、以下の7曲(裏譜面2種類)がサヨナラとなる。

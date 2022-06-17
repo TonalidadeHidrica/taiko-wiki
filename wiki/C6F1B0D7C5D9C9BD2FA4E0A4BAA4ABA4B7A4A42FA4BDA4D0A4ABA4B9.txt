@@ -12,7 +12,7 @@
 |CENTER:COLOR(#ff3300){真打モード}||~|~|CENTER:COLOR(#ff3300){''740960点''}|~|CENTER:COLOR(#ff3300){3030点}|CENTER:-|
 |CENTER:AC15.1.0-15.5.4||CENTER:★×4|~|CENTER:''689410点''|~|CENTER:900点|CENTER:285点|
 |CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){4070点}|CENTER:-|
-||iOS&br;AR((楽曲取り放題))|~|~|''?????0点''|~|880点|220点|
+||iOS&br;AR((楽曲取り放題))|~|~|''677100点''|~|880点|220点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは171。
