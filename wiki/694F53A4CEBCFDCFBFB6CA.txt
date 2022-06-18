@@ -10,7 +10,7 @@
 
 -裏譜面 ''121'' 譜面
 #br
--「楽曲取り放題コース」は7日250円、1ヶ月500円((初回限定1週間無料))、3ヶ月1400円、6ヶ月2600円。
+-「楽曲取り放題コース」は7日250円、1ヶ月500円(([[初回限定1週間無料>https://twitter.com/taikosp/status/1537591221878566912]]))、3ヶ月1400円、6ヶ月2600円。
 
 -[[公式サイト>http://app.taiko-ch.net/]]
 -[[公式Twitter>https://twitter.com/taikosp]]
@@ -934,5 +934,5 @@
 **コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず%%%[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]%%%に目を通してからコメントをするようにしてください。''}
 -COLOR(#33f){''各曲についての話はその曲のページでするようお願いします。''}
--COLOR(red){''曲の収録や機能などの要望はここではなく%%%[[COLOR(red){''公式Twitter(スマートフォン)''}>https://twitter.com/taikosp]]%%%にてお願いします。要望をしっかり聞いてくれているという意見が多いです。''}
+-COLOR(red){''[[%%%COLOR(red){曲の収録や機能などの要望}%%%>https://twitter.com/search?q=%23%E5%A4%AA%E9%BC%93SP%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88from%3Ataikosp&src=typed_query&f=live]]はここではなく%%%[[COLOR(red){''公式Twitter(スマートフォン)''}>https://twitter.com/taikosp]]%%%にてお願いします。要望をしっかり聞いてくれているという意見が多いです。''}
 #pcomment(,noname)

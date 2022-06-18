@@ -1187,7 +1187,7 @@
 |keroro|[[君にジュースを買ってあげる&#9829;>難易度表/おに/君にジュースを買ってあげる]]|ケロロ軍曹|
 |kerott|[[ケロッ！とマーチ>難易度表/おに/ケロッ！とマーチ]]|~|
 |ketui|[[決意の朝に>難易度表/おに/決意の朝に]]||
-|kgnhak|[[白日>難易度表/おに/白日]]||
+|kgnhak|[[白日>難易度表/おに/白日]]|''K''in''g'' G''n''u|
 |kiba|[[Break the Chain>難易度表/おに/Break the Chain]]|仮面ライダーキバ|
 |kienbj|[[気焔万丈神楽>難易度表/おに/気焔万丈神楽]]||
 |kim100|[[キミに100パーセント>難易度表/おに/キミに100パーセント]]||
@@ -1284,8 +1284,8 @@
 |kyorja|[[VAMOLA!キョウリュウジャー>難易度表/おに/VAMOLA!キョウリュウジャー]]||
 |kyunds|[[ポケットからきゅんです！>難易度表/おに/ポケットからきゅんです！]]|ポケットから''きゅんです''|
 |kyunva|[[きゅんっ！ヴァンパイアガール>難易度表/おに/きゅんっ！ヴァンパイアガール]]||
-|kznhel|[[Hello, Morning>難易度表/おに/Hello, Morning]]||
-|kzniii|[[AIAIAI (feat.中田ヤスタカ)>難易度表/おに/AIAIAI (feat.中田ヤスタカ)]]||
+|kznhel|[[Hello, Morning>難易度表/おに/Hello, Morning]]|Kizuna AI|
+|kzniii|[[AIAIAI (feat.中田ヤスタカ)>難易度表/おに/AIAIAI (feat.中田ヤスタカ)]]|~|
 |kznina|[[風になりたい>難易度表/おに/風になりたい]]|仕分け∞版は''kjkaze''|
 |>|>|BGCOLOR(#ccc):CENTER:''L''&aname(l);|
 |lactea|[[via lactea>難易度表/おに/via lactea]]||

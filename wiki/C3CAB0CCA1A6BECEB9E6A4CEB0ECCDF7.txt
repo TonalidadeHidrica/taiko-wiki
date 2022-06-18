@@ -614,11 +614,11 @@
 |〇|BGCOLOR(gold):|響瀾を越えし挑戦者|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|荒ぶる神を鎮めし者|[[COLOR(blue):Aragami>難易度表/おに/Aragami]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|激昂を宥めし者|[[COLOR(blue):其方、激昂>難易度表/おに/其方、激昂]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|追想する演奏者|[[COLOR(blue):せかいのおと - sekai note ->難易度表/おに/せかいのおと - sekai note -]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|パラレルリズム|[[COLOR(blue):パラレルロリポップ>難易度表/おに/パラレルロリポップ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|二重螺旋の真実に至りし者|[[COLOR(blue):Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|卵には醤油派|[[COLOR(blue):しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|

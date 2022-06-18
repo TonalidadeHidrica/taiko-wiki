@@ -195,7 +195,7 @@
 |2nd|[[RAGE v.self>難易度表/おに/RAGE v. self]]|おに★×8|545コンボ|~|~|~|COLOR(#f23b08){26以上}&br;COLOR(#e8d03e){''30以上''}|
 |3rd|[[テイルズ オブ ジ アビス>難易度表/おに/テイルズ オブ ジ アビス]]|おに★×8|693コンボ|~|~|~|COLOR(#f23b08){132以上}&br;COLOR(#e8d03e){''148以上''}|
 |BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''四段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/四段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''1854''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''良の数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
-|1st|[[ねがいごと☆ぱずる>難易度表/おに/ねがいごと☆ぱずる]]|おに★×8|551コンボ|COLOR(#f23b08){99%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){1371以上}&br;COLOR(#e8d03e){''1427以上''}|COLOR(#f23b08){25未満}&br;COLOR(#e8d03e){''12or11未満''}|COLOR(#f23b08){0以上}&br;COLOR(#e8d03e){''0以上''}|
+|1st|[[ねがいごと☆ぱずる>難易度表/おに/ねがいごと☆ぱずる]]|おに★×8|551コンボ|COLOR(#f23b08){99%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){1371以上}&br;COLOR(#e8d03e){''1427以上''}|COLOR(#f23b08){25未満}&br;COLOR(#e8d03e){''12未満''}|COLOR(#f23b08){0以上}&br;COLOR(#e8d03e){''0以上''}|
 |2nd|[[月影SASURAI>難易度表/おに/月影SASURAI]]|おに★×8|580コンボ|~|~|~|COLOR(#f23b08){11以上}&br;COLOR(#e8d03e){''13以上''}|
 |3rd|[[ファミレスウォーズ>難易度表/おに/ファミレスウォーズ]]|おに★×8|723コンボ|~|~|~|COLOR(#f23b08){106以上}&br;COLOR(#e8d03e){''119以上''}|
 |BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''五段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/五段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''1636''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''良の数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|
