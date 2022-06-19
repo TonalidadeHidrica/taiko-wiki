@@ -14,8 +14,8 @@
 
 ***その他 [#other]
 -アーティストは、[[''EXILE''>アーティスト別収録曲#exile]]。
--曲IDは、''victry''。
 -ナムコオリジナルの[[Vixtory>難易度表/おに/Vixtory]]や、[[VICTORIA>../VICTORIA]]との混同に注意。
+-曲IDは、''victry''。
 
 ----
 -[[かんたん>難易度表/かんたん/VICTORY]]

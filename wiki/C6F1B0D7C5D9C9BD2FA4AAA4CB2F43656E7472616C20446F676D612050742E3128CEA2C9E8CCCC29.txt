@@ -35,4 +35,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(Central Dogma Pt.1_EX4.png,nolink);
+~12小節目の短連打のHSは暫定。
+&attachref(Central Dogma Pt.1_EX4.png,nolink);
