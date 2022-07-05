@@ -615,11 +615,11 @@
 |〇|BGCOLOR(gold):|荒ぶる神を鎮めし者|[[COLOR(blue):Aragami>難易度表/おに/Aragami]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|激昂を宥めし者|[[COLOR(blue):其方、激昂>難易度表/おに/其方、激昂]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|追想する演奏者|[[COLOR(blue):せかいのおと - sekai note ->難易度表/おに/せかいのおと - sekai note -]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|暗憺を斥けし解放の光芒|[[COLOR(blue):Libera Ray>難易度表/おに/Libera Ray]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|パラレルリズム|[[COLOR(blue):パラレルロリポップ>難易度表/おに/パラレルロリポップ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|二重螺旋の真実に至りし者|[[COLOR(blue):Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Central Dogma Pt.2(裏)>難易度表/おに/Central Dogma Pt.2(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|卵には醤油派|[[COLOR(blue):しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
@@ -790,11 +790,15 @@
 |BGCOLOR(grey):|BGCOLOR(purple):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝４位|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン第4位に配布|~|
 |BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝(５〜１６)位|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン5位〜16位に配布|~|
 |BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝入賞|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン第17〜100位に配布|~|
+|BGCOLOR(grey):|BGCOLOR(pink):|BGCOLOR(grey):ドンだー！WCS2021外伝ナムコ賞|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン第765位に配布|BGCOLOR(grey):不正代行の疑いがあるため順位は1つずつ繰り上げ、繰り上げ前と繰り上げ後の両方の該当者に配布|
+|BGCOLOR(grey):|BGCOLOR(pink):|BGCOLOR(grey):ドンだー！WCS2021外伝バンナム賞|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン第876位に配布|~|
+|BGCOLOR(grey):|BGCOLOR(pink):|BGCOLOR(grey):ドンだー！WCS2021外伝2021年賞|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン第2021位に配布|~|
+|BGCOLOR(grey):|BGCOLOR(pink):|BGCOLOR(grey):ドンだー！WCS2021外伝ラッキー賞|BGCOLOR(grey):太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンライン第2390位、第2650位、第2905位、第4514位に配布|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):765PRO ALLSTERS|BGCOLOR(grey):2015/4/28〜6/30の間に「アイドルマスター」のコラボショップで購入|BGCOLOR(grey):|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):765プロ、ファイトー！|~|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):MILLIONSSTARS|~|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):SR|~|~|
-|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):穴堀って埋まってますぅ|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):穴掘って埋まってますぅ|~|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):片翼の太鼓エンジェル|~|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):永遠の１７歳|~|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):シンデレラガールズ|BGCOLOR(grey):2015/1/29〜3/8の間に「アイドルマスターシンデレラガールズ」のコラボショップまたは、2015/4/28〜6/30の間に「アイドルマスター」のコラボショップで購入|BGCOLOR(grey):|

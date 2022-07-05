@@ -34,5 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~最後に1本非表示の小節線がある
-~&attachref(王.png,nolink);
+~&attachref(KING.png,nolink);

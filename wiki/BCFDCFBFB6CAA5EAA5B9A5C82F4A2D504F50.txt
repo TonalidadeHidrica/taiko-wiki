@@ -25,7 +25,6 @@
 |''笑顔にカンパイ！''|218|[[★×3>難易度表/かんたん/笑顔にカンパイ！]]|[[★×4>難易度表/ふつう/笑顔にカンパイ！]]|[[★×6>難易度表/むずかしい/笑顔にカンパイ！]]|[[★×6>難易度表/おに/笑顔にカンパイ！]]|
 |''お願い！セニョリータ''|160-185※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/お願い！セニョリータ]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/お願い！セニョリータ]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/お願い！セニョリータ]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/お願い！セニョリータ]]|
 |''お祭り忍者''|130|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/お祭り忍者]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/お祭り忍者]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/お祭り忍者]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/お祭り忍者]]|
-|''俺ら東京さ行ぐだ''|118.5|[[★×3>難易度表/かんたん/俺ら東京さ行ぐだ]]|[[★×4>難易度表/ふつう/俺ら東京さ行ぐだ]]|[[★×6>難易度表/むずかしい/俺ら東京さ行ぐだ]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/俺ら東京さ行ぐだ]]|
 |''学園天国''|176|BGCOLOR(#ccc):-|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/学園天国]]|BGCOLOR(#ccc):[[★×3>難易度表/おに/学園天国]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/学園天国]]|
 |''風になりたい''|113|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/風になりたい]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/風になりたい]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/風になりたい]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/風になりたい]]|
 |''風は吹いている''|110|[[★×2>難易度表/かんたん/風は吹いている]]|[[★×3>難易度表/ふつう/風は吹いている]]|[[★×4>難易度表/むずかしい/風は吹いている]]|[[★×5>難易度表/おに/風は吹いている]]|
@@ -156,7 +155,6 @@
 |''My Sweet Darlin'''|157|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/My Sweet Darlin']]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/My Sweet Darlin']]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/My Sweet Darlin']]|BGCOLOR(#ccc):[[★×6>難易度表/おに/My Sweet Darlin']]|
 |''My Way''|100|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/My Way]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/My Way]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/My Way]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/My Way]]|
 |''NO MORE CRY''|138|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/NO MORE CRY]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/NO MORE CRY]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/NO MORE CRY]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/NO MORE CRY]]|
-|''O2''|170|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/O2]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/O2]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/O2]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/O2]]|
 |''PIECES OF A DREAM''|105|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/PIECES OF A DREAM]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/PIECES OF A DREAM]]|BGCOLOR(#ccc):[[★×2>難易度表/むずかしい/PIECES OF A DREAM]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/PIECES OF A DREAM]]|
 |''Precious''|75|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Precious]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Precious]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Precious]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Precious]]|
 |''Prisoner Of Love''|97|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Prisoner Of Love]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Prisoner Of Love]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Prisoner Of Love]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Prisoner Of Love]]|

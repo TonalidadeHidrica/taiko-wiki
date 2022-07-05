@@ -1,0 +1,27 @@
+*Libera Ray [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.3''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×5|''234''|''?????0点''|＋連打|???0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは116-232。基本BPMは232。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/Libera Ray]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Libera Ray]]
+-[[むずかしい>難易度表/むずかしい/Libera Ray]]
+-[[おに>難易度表/おに/Libera Ray]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=N1tOImjJ5UQ]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~122小節は小節線非表示
+~ラストのHSは[[おに譜面>../../おに/Libera Ray#HS]]を参照
+~最後の風船の長さは146小節の頭まで
+~&attachref(LR_n.png,nolink);

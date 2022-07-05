@@ -1,5 +1,4 @@
-[[FrontPage]]
-*称号バーツ [#titleparts]
+*称号パーツ [#titleparts]
 #contents
 
 **新筐体2 [#newac2]
@@ -50,10 +49,10 @@
 |~|BGCOLOR(purple):|BGCOLOR(silver):ブルー達人|~|
 |BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):グリーン(段位)|BGCOLOR(silver):グリーンVer.の段位道場で得た最高段位が(段位)に表示される&br;最高段位を金合格していた場合は、(段位)の前に「金」がつく|
 |~|BGCOLOR(purple):|BGCOLOR(silver):グリーン達人|~|
-|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):2020(枠)(段位)|BGCOLOR(silver):ニジイロVer.((正式名称は2020年3月Ver.))の段位道場2020で得た最高段位が(段位)に表示される&br;最高段位を不可1個以上でクリアしていた場合は(段位)の前に「銀」、フルコンボしていた場合は(段位)の前に「金」、ドンダフルコンボしていた場合は(段位)の前に「虹」がつく&br;最高段位を赤合格していた場合は(枠)に「赤」、金合格していた場合は(枠)に「金」がつく |
-|~|BGCOLOR(purple):|BGCOLOR(silver):2020(枠)達人|~|
-//|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):2021(枠)(段位)|BGCOLOR(silver):ニジイロVer.の段位道場2020で得た最高段位が(段位)に表示される&br;最高段位を不可1個以上でクリアしていた場合は(段位)の前に「銀」、フルコンボしていた場合は(段位)の前に「金」、ドンダフルコンボしていた場合は(段位)の前に「虹」がつく&br;最高段位を赤合格していた場合は(枠)に「赤」、金合格していた場合は(枠)に「金」がつく |
-//|~|BGCOLOR(purple):|BGCOLOR(silver):2021(枠)達人|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):2020(枠)(冠)(段位)|BGCOLOR(silver):ニジイロVer.((正式名称は2020年3月Ver.))の段位道場2020で得た最高段位が(段位)に表示される&br;最高段位を赤合格していた場合は(枠)に「赤」、金合格していた場合は(枠)に「金」が入る&br;最高段位を不可1個以上でクリアしていた場合は(冠)に「銀」、フルコンボしていた場合は(冠)に「金」、ドンダフルコンボしていた場合は(冠)に「虹」が入る|
+|~|BGCOLOR(purple):|BGCOLOR(silver):2020(枠)(冠)達人|~|
+|BGCOLOR(silver):〇|BGCOLOR(gold):|BGCOLOR(silver):2021(枠)(冠)(段位)|BGCOLOR(silver):ニジイロVer.の段位道場2021で得た最高段位が(段位)に表示される&br;最高段位を赤合格していた場合は(枠)に「赤」、金合格していた場合は(枠)に「金」が入る&br;最高段位を不可1個以上でクリアしていた場合は(冠)に「銀」、フルコンボしていた場合は(冠)に「金」、ドンダフルコンボしていた場合は(冠)に「虹」が入る|
+|~|BGCOLOR(purple):|BGCOLOR(silver):2021(枠)(冠)達人|~|
 |〇|BGCOLOR(peru):|かんたん|モモイロVer.称号ガシャ(2014/1/15~)|
 |〇|BGCOLOR(peru):|ふつう|~|
 |〇|BGCOLOR(peru):|むずかしい|~|

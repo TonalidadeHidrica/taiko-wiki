@@ -16,6 +16,9 @@
 ***その他 [#other]
 -この曲は''むずかしいコースしか存在しない''。
 -作曲は、[[名探偵コナン メイン・テーマ>難易度表/おに/名探偵コナン メイン・テーマ]]と同じく''大野克夫''。
+-曲IDは、''sun''。
+--TDMに収録されていた[[Walking On Sunshine>難易度表/おに/Walking On Sunshine]]と同一ID。
+----
 -プレイ動画
 --[[COLOR(#666):普通譜面>https://www.youtube.com/watch?v=_1mJEEqZrI8]]/[[COLOR(#069):玄人譜面>https://www.youtube.com/watch?v=Zn0ncubzl84]]/[[COLOR(#909):達人譜面>https://www.youtube.com/watch?v=sz-4qRR1T8k]]
 ----

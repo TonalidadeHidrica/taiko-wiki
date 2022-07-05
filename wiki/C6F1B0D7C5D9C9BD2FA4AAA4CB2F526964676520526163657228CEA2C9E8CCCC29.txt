@@ -25,7 +25,7 @@
 --しかし、900以上のノーツ数とリズム難という2つの要素を持つおかげで、旧★×10下〜中位で妥当という意見が多い。だが、技術譜面が苦手な人にとっては★×10上位に匹敵するという意見もあり、個人差のある譜面。
 --休憩地帯がほとんどなく嫌らしい複合も多い。[[SAMURAI ROCKET(裏譜面)>../SAMURAI ROCKET(裏譜面)]]の強化版と言えよう。
 --実際にやってみるとその難しさが分かる譜面の典型的な例と言えるため、複合を目押しで叩く技術もある程度求められる。
--中盤に長複合があるが、 COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●●}/COLOR(red){●}COLOR(blue){○}と4つずつに区切れば見切りやすいであろう。
+-中盤に長複合があるが、 COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●●}/COLOR(red){●}COLOR(blue){○}と4つずつに区切れば見切りやすいだろう。
 --COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●●●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●●●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●●●}COLOR(blue){○}と最初の面を逆手から入っても良い。
 -新基準では★×9に降格。★×10に必要な複合が多々あるため、★×10に挑む前に是非ともクリアしておきたい曲のひとつである。
 -1曲を通しての平均密度は、''約6.53打/秒''である。

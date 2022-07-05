@@ -246,6 +246,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(goldenrod):|BGCOLOR(orangered):|[[チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]|''6.695''|154.67※|857|128.02秒||
 |>|>|BGCOLOR(orangered):|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|''6.685''|265.65※|849|126.99秒||
 |>|>|BGCOLOR(orangered):|[[No Gravity>難易度表/おに/No Gravity]]|''6.678''|160.75※|673|100.77秒||
+|>|>|BGCOLOR(darkorchid):|[[Libera Ray>難易度表/おに/Libera Ray]]|''6.646''|221.79※|859|129.25秒||
 |>|>|BGCOLOR(orangered):|[[承認欲Q>難易度表/おに/承認欲Q]]|''6.645''|226.00※|898|135.13秒||
 |>|>|BGCOLOR(lime):|[[BATTLE NO.1COLOR(#006191):(玄人譜面)>難易度表/おに/BATTLE NO.1]]|''6.627''|200|833|125.70秒||
 |>|>|BGCOLOR(orangered):|[[旋風ノ舞【天】>難易度表/おに/旋風ノ舞【天】]]|''6.613''|160|615|93.00秒||

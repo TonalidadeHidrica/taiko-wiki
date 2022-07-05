@@ -28,5 +28,5 @@
 
 ***譜面 [#score]
 &attachref(clsmil.png,nolink);
-~最後の間をよんばいにしてみた&br;
+~43小節拡大&br;
 &attachref(そんなBPM変化でいいですか.png,nolink);

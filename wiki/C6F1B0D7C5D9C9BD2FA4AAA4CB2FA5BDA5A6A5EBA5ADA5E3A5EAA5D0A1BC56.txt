@@ -1,4 +1,4 @@
-*ソウルキャリバーV SIZE(16){&ruby(ジ){The}; &ruby(インヴィンシブル){Invincible}; &ruby(ブレイド){Blade};} [#title]
+*ソウルキャリバーV SIZE(16){&ruby(ジ){The}; &ruby(インヴィンシブル){Invincible}; &ruby(ブレイド){Blade};}&br;The Invincible Blade((Xbox1での表記、実際の曲名)) [#title]
 -バンダイナムコゲームスのPS3・Xbox 360用ソフト「''[[ソウルキャリバーV>ゲーム別収録曲#sc]]''」の楽曲。
 
 ***詳細 [#more]
@@ -6,6 +6,7 @@
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''3DS1''&br;PS Vita1DL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×7|''438''|''989630点''|＋連打|640点|163点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''991000点''}|~|COLOR(#ff3300){2040点}|-|
+|Xbox1DL|~|~|~|''991800点''|~|2250点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約140。

@@ -1,25 +1,26 @@
-*Urban Striker [#b1feb399]
--PS2専用ゲーム「[[''クリティカルベロシティ''>http://www.bandainamcogames.co.jp/cs/list/criticalvelocity/]]」より。
-***詳細 [#pf8d6515]
-|>|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''PS4 1''|★×6|''427''|''783470点''|＋連打|570点|143点|
-|COLOR(#ff3300){真打}|~|~|COLOR(#ff3300){''985450点''}|~|COLOR(#ff3300){2210点}|-|
+*Urban Striker [#title]
+-PS2専用ゲーム「[[''クリティカルベロシティ''>ゲーム別収録曲#crivelo]]」より。(→[[公式サイト>http://www.bandainamcogames.co.jp/cs/list/criticalvelocity/]])
 
-***譜面構成・攻略 [#ld952070]
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS4 1''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×6|''427''|''783470点''|＋連打|570点|143点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''985450点''}|~|COLOR(#ff3300){2210点}|-|
+
+***譜面構成・攻略 [#capture]
 -BPMは147。
 
-***その他 [#q3b03085]
--アーティストは、''西込乗二''。
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/Urban Striker#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Urban Striker]]
 -[[ふつう>難易度表/ふつう/Urban Striker]]
 -[[おに>難易度表/おに/Urban Striker]]
 
-***コメント [#ea0050b4]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#d3e9f949]
+***譜面 [#score]
 ~風船の長さは適当。
 &attachref(UrbanS_h.png,nolink);

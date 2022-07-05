@@ -13,7 +13,7 @@
 |AC16.2.0|Xbox1SP|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは142-147。
+-BPMは約144。
 -連打秒数目安・・・約1.007秒−約1.4236秒×2：合計約3.854秒
 --開幕と中盤で細かく変化している。
 -4分の複合が主体の譜面で、たまに8分も出てくる。
@@ -23,7 +23,7 @@
 -★×4にしては簡単な方。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/URBAN FRAGMENTS]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/URBAN FRAGMENTS#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/URBAN FRAGMENTS]]
@@ -34,5 +34,5 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &attachref(r4op.png,nolink);

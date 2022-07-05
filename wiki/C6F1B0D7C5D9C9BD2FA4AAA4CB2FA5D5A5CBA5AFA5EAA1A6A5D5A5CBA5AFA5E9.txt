@@ -27,15 +27,18 @@
 --ギターは、''石井拓''。
 --トラックダウンは、[[''村上正信''>参加アーティスト一覧/村上正信]]。
 -3DS2・NS RPG（時空大冒険）のストーリーモードでは、[[序章のボス「ピエトロ」の戦闘曲>難易度表/その他/フニクリ・フニクラ(ボス戦 辛口)]]として使われた。
+-2022年7月3日にtwichにて放送された『ANIME EXPO』の[[NS2のプレイ動画>https://www.twitch.tv/videos/1520571393]]より、裏譜面が追加されることが判明した。
+//-2022年9月22日に[[裏譜面>../フニクリ・フニクラ(裏譜面)]]が追加された。
 -曲IDは、''clsff''。
 
 ----
 -[[かんたん>難易度表/かんたん/フニクリ・フニクラ]]
 -[[ふつう>難易度表/ふつう/フニクリ・フニクラ]]
 -[[むずかしい>難易度表/むずかしい/フニクリ・フニクラ]]
--[[オート動画(Wii4)>https://www.youtube.com/watch?v=vRmW6NWDFYM]]
--[[オート動画(Wii4)>http://youtube.com/watch?v=Uop0vuEBMnU]]
--[[プレイ動画(AC7)>https://youtube.com/watch?v=kh_zepLRBng]]
+//-おに/[[裏譜面>../フニクリ・フニクラ(裏譜面)]]
+-[[オート動画(Wii4)>https://youtu.be/vRmW6NWDFYM]]
+-[[オート動画(Wii4)>https://youtu.be/Uop0vuEBMnU]]
+-[[プレイ動画(AC7)>https://youtu.be/kh_zepLRBng]]
 ***コメント [#comment]
 #pcomment(,noname)
 

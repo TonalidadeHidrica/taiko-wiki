@@ -1,4 +1,4 @@
-*SAMURAI ROCKET(裏譜面) [#title]
+*&ruby(サムライ){SAMURAI}; &ruby(ロケット){ROCKET};(裏譜面) [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -33,7 +33,7 @@
 -ゲームミュージックとしては[[KAGEKIYO>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]、[[ソウルキャリバーII>難易度表/おに/ソウルキャリバーII]]に続く裏譜面である。
 --1人プレイでも譜面が変わる裏譜面としては初。
 -この譜面のラスト部分が[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]](普通譜面)の第2ゴーゴーに引用された。
--曲IDは、''exrrsa''。
+-曲IDは、''exrrsa''(Wii2)。
 
 ----
 -[[かんたん>難易度表/かんたん/SAMURAI ROCKET]]/[[裏譜面>難易度表/かんたん/SAMURAI ROCKET(裏譜面)]]

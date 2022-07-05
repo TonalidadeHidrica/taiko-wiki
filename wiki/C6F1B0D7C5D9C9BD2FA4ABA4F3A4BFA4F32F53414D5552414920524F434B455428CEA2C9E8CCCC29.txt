@@ -1,5 +1,4 @@
-*SAMURAI ROCKET(裏譜面) [#title]
--ナムコ「''[[RIDGE RACER V>ゲーム別収録曲#rr]]''」より。
+*&ruby(サムライ){SAMURAI}; &ruby(ロケット){ROCKET};(裏譜面) [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
@@ -22,8 +21,7 @@
 -音符密度は''約2.06打/秒''(1コンボ目から313コンボ目まで、達人譜面)。
 
 ***その他 [#other]
--楽曲情報は[[表譜面>難易度表/おに/SAMURAI ROCKET]]を参照。
--曲IDは''exrrsa''。SAMURAI ROCKET(表)(曲ID:rrsam)の裏譜面(ex)より来ていると思われる。
+-楽曲情報は[[おに(裏)譜面>難易度表/おに/SAMURAI ROCKET(裏譜面)#other]]を参照。
 
 ----
 -[[表譜面>難易度表/かんたん/SAMURAI ROCKET]]/かんたん
@@ -32,8 +30,8 @@
 -[[表譜面>難易度表/おに/SAMURAI ROCKET]]/[[おに>難易度表/おに/SAMURAI ROCKET(裏譜面)]]
 -[[オート動画>https://www.youtube.com/watch?v=kfCClJ-EqCM]]
 
-***コメント [#h2174050]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#qf4a3e01]
+***譜面 [#score]
 &attachref(smrkeex.png,nolink);

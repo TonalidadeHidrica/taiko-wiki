@@ -1,5 +1,4 @@
-*Winding Road [#title]
--アニメ「''ゴールデンカムイ''(第1期)」のOP。
+*&ruby(ワインディング){Winding}; &ruby(ロード){Road}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -19,12 +18,8 @@
 -4分の複合3連打が6連続で出てくる42〜47小節に注意。
 
 ***その他 [#other]
--曲名の読み方は、''ワインディング ロード''。
---「曲がりくねった道」という意味である。
--アーティストは、[[''MAN WITH A MISSION''>アーティスト別収録曲#mwam]]。
---作詞は、Kamikaze Boy・Jean-Ken Johnny。作曲は、Kamikaze Boy。編曲は、MAN WITH A MISSION・大島こうすけ。
--J-POPの[[WINDING ROAD>難易度表/かんたん/WINDING ROAD]]との混同に注意。
--曲IDは、''gldnkm''。
+-タイアップ・楽曲情報は[[おに譜面>難易度表/おに/Winding Road]]を参照。
+
 ----
 -[[ふつう>難易度表/ふつう/Winding Road]]
 -[[むずかしい>難易度表/むずかしい/Winding Road]]

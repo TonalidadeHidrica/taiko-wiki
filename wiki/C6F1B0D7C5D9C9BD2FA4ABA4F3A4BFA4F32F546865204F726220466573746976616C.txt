@@ -1,5 +1,4 @@
 * &ruby(ジ){The}; &ruby(オーブ){Orb}; &ruby(フェスティバル){Festival}; [#title]
--「''[[パズル＆ドラゴンズ>ゲーム別収録曲#puzdra]]''」のテクニカル・降臨・参上ダンジョンのボスバトルBGM。
 
 *** 詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -30,5 +29,5 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &attachref(puzdr3.png,nolink);

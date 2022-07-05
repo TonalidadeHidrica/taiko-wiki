@@ -28,8 +28,8 @@
 -[[''COLOR(red){Don Medal}'' Shop>ごほうびショップ]]
 -[[Dan-i Dojo(Main Dojo)>段位道場]]
 --[[Dan-i Dojo Gaiden(Dan-i Bonus Dojo)>段位道場 外伝]]
--[[AI Battle +>AIバトル演奏]]
---[[AI Soshina Battle>https://taiko.namco-ch.net/taiko/special/ai_soshina]]((Event duration: 12/16/2021 (Thurs) - 6/20/2022 (Mon) (JST) ))
+-[[AI Battle>AIバトル演奏]]
+//--[[AI Soshina Battle>https://taiko.namco-ch.net/taiko/special/ai_soshina]]((Event duration: 12/16/2021 (Thurs) - 6/20/2022 (Mon) (JST) ))
 -[[Rewards>新筐体のごほうび一覧]]
 -[[Dan-i and Titles list>段位・称号の一覧]]
 --[[Target songs for Titles>段位・称号の一覧/称号対象曲]]

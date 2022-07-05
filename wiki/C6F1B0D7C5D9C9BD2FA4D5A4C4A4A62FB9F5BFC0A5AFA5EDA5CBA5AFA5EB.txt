@@ -20,7 +20,7 @@
 -ゴーゴーで1回だけ出てくる付点8分+8分(COLOR(red){●} COLOR(red){●} COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○})に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/黒神クロニクル]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/黒神クロニクル#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/黒神クロニクル]]
@@ -32,4 +32,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(chron.png,nolink);
+~くす玉音符の打数は35
+~65小節はHS0.66
+~最後にもう1本小節線が存在する
+~&attachref(chron.png,nolink);

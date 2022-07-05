@@ -23,7 +23,8 @@
 -一応コンボ数は[[むずかしい>難易度表/むずかしい/The Carnivorous Carnival]]の半分を超えているが、難易度は雲泥の差がある。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/The Carnivorous Carnival]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/The Carnivorous Carnival#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/The Carnivorous Carnival]]
 -[[むずかしい>難易度表/むずかしい/The Carnivorous Carnival]]

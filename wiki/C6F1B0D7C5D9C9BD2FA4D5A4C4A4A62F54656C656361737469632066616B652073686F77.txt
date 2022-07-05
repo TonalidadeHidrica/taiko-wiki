@@ -5,7 +5,7 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.2.0''||BGCOLOR(cyan):''J-POP''|★×6|''275''|''636320点''|＋連打|570点|173点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''990720点''}|~|COLOR(#ff3300){2880点}|-|
-||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''?????0点''|~|??0点|??0点|
+||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''620400点''|~|520点|140点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約144-215。
@@ -37,5 +37,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-正確なBPMは[[おに譜面>難易度表/おに/Telecastic fake show#score]]を参照。
-&attachref(Telecastic fake show_N.png,nolink);
+~正しいBPMは[[おに>難易度表/おに/Telecastic fake show#score]]を参照
+~&attachref(Telecastic fake show_N.png,nolink);

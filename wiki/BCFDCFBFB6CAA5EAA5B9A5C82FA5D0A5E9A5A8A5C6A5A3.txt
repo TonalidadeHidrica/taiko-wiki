@@ -139,6 +139,7 @@
 |''Altale''|83-180|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|
 |''Altale(裏譜面)''|~|-|-|-|[[★×10>難易度表/おに/Altale(裏譜面)]]|
 |''ALiVE''|170|[[★×3>難易度表/かんたん/ALiVE]]|[[★×4>難易度表/ふつう/ALiVE]]|[[★×6>難易度表/むずかしい/ALiVE]]|[[★×9>難易度表/おに/ALiVE]]|
+|''Aragami''|196|[[★×4>難易度表/かんたん/Aragami]]|[[★×7>難易度表/ふつう/Aragami]]|[[★×8>難易度表/むずかしい/Aragami]]|[[★×10>難易度表/おに/Aragami]]|
 |''Asteroid''|144-288|[[★×5>難易度表/かんたん/Asteroid]]|[[★×7>難易度表/ふつう/Asteroid]]|[[★×8>難易度表/むずかしい/Asteroid]]|[[★×9>難易度表/おに/Asteroid]]|
 |''Baby Shark''|111-139|[[★×1>難易度表/かんたん/Baby Shark]]|[[★×1>難易度表/ふつう/Baby Shark]]|[[★×3>難易度表/むずかしい/Baby Shark]]|[[★×4>難易度表/おに/Baby Shark]]|
 |''Bad Apple!! feat.nomico''|138※|[[★×3>難易度表/かんたん/Bad Apple!! feat.nomico]]|[[★×5>難易度表/ふつう/Bad Apple!! feat.nomico]]|[[★×6>難易度表/むずかしい/Bad Apple!! feat.nomico]]|[[★×8>難易度表/おに/Bad Apple!! feat.nomico]]|
@@ -170,6 +171,7 @@
 |''Inscrutable Battle''|141|[[★×4>難易度表/かんたん/Inscrutable Battle]]|[[★×5>難易度表/ふつう/Inscrutable Battle]]|[[★×7>難易度表/むずかしい/Inscrutable Battle]]|[[★×9>難易度表/おに/Inscrutable Battle]]|
 |''INSPION''|296|[[★×5>難易度表/かんたん/INSPION]]|[[★×6>難易度表/ふつう/INSPION]]|[[★×8>難易度表/むずかしい/INSPION]]|[[★×10>難易度表/おに/INSPION]]|
 |''I Was Born To Love You''|139.3|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/I Was Born To Love You]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/I Was Born To Love You]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/I Was Born To Love You]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/I Was Born To Love You]]|
+|''Kill My Fortune''|180|[[★×4>難易度表/かんたん/Kill My Fortune]]|[[★×5>難易度表/ふつう/Kill My Fortune]]|[[★×5>難易度表/むずかしい/Kill My Fortune]]|[[★×7>難易度表/おに/Kill My Fortune]]|
 |''Ladystar Wandering''|130|[[★×4>難易度表/かんたん/Ladystar Wandering]]|[[★×6>難易度表/ふつう/Ladystar Wandering]]|[[★×7>難易度表/むずかしい/Ladystar Wandering]]|[[★×8>難易度表/おに/Ladystar Wandering]]|
 |''LOVE&ENERGY''|180|[[★×2>難易度表/かんたん/LOVE＆ENERGY]]|[[★×2>難易度表/ふつう/LOVE＆ENERGY]]|[[★×5>難易度表/むずかしい/LOVE＆ENERGY]]|[[★×7>難易度表/おに/LOVE＆ENERGY]]|
 |''Mani Mani(Prod. TAKU INOUE)''|134|[[★×2>難易度表/かんたん/Mani Mani(Prod. TAKU INOUE)]]|[[★×4>難易度表/ふつう/Mani Mani(Prod. TAKU INOUE)]]|[[★×6>難易度表/むずかしい/Mani Mani(Prod. TAKU INOUE)]]|[[★×8>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]|

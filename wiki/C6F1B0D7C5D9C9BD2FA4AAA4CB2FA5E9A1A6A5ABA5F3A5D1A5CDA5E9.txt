@@ -23,23 +23,26 @@
 ***その他 [#other]
 -作曲は、''[[フランツ・リスト>作曲家別収録曲#liszt]]''。
 --リストのパガニーニ大練習曲第3番嬰ト短調。作曲者のフランツ・リストは自身の技術を披露するため、難しい(超絶技巧)ピアノ曲を多く作曲した。この曲もそのうちの一つ。
---''世界一難しいピアノ曲の方ではない''。
+//--''世界一難しいピアノ曲の方ではない''。
+-2022年7月3日にtwichにて放送された『ANIME EXPO』の[[NS2のプレイ動画>https://www.twitch.tv/videos/1520571393]]より、裏譜面が追加されることが判明した。
+//-2022年9月22日に[[裏譜面>../ラ・カンパネラ(裏譜面)]]が追加された。
 -曲IDは、''clscam''。
 
 ----
 -[[かんたん>難易度表/かんたん/ラ・カンパネラ]]
 -[[ふつう>難易度表/ふつう/ラ・カンパネラ]]
 -[[むずかしい>難易度表/むずかしい/ラ・カンパネラ]]
--[[プレイ動画(AC13)>https://www.youtube.com/watch?v=sIlPzp3EePM]]
--[[オート動画(PSP2)>https://www.youtube.com/watch?v=m903WJf7HLE]]
--[[オート動画(NS1)>https://www.youtube.com/watch?v=BCKEzkrx-9A]]
+//-おに/[[裏譜面>../ラ・カンパネラ(裏譜面)]]
+-[[プレイ動画(AC13)>https://youtu.be/sIlPzp3EePM]]
+-[[オート動画(PSP2)>https://youtu.be/m903WJf7HLE]]
+-[[オート動画(NS1)>https://youtu.be/BCKEzkrx-9A]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~現行譜面
-&attachref(clscam.png,nolink);
+~&attachref(clscam.png,nolink);
 
 ~PSP2譜面&br;譜面は同じだが、HSが現行と異なる
-&attachref(clscam_psp2.png,nolink);
+~&attachref(clscam_psp2.png,nolink);

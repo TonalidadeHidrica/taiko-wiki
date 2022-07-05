@@ -34,5 +34,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~最初に2本、最後に1本非表示の小節線が存在する
+~最初に2本非表示の小節線が存在する
 ~&attachref(mirali_m.png,nolink);

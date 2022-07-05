@@ -14,10 +14,12 @@
 -平均密度は、''約3.81打/秒''。
 
 ***その他 [#other]
+-曲名は、「曲がりくねった道」という意味である。
 -アーティストは、[[''MAN WITH A MISSION''>アーティスト別収録曲#mwam]]。
 --作詞は、Kamikaze Boy・Jean-Ken Johnny。作曲は、Kamikaze Boy。編曲は、MAN WITH A MISSION・大島こうすけ。
 -[[絢香>アーティスト別収録曲#ayaka]]×[[コブクロ>アーティスト別収録曲#kobuk]]の[[WINDING ROAD>難易度表/おに/WINDING ROAD]]との混同に注意。
 -曲IDは、''gldnkm''。
+
 ----
 -[[かんたん>難易度表/かんたん/Winding Road]]
 -[[ふつう>難易度表/ふつう/Winding Road]]

@@ -34,7 +34,7 @@
 ***その他 [#other]
 -アーティストは、[[''TANO*C Sound Team''>参加アーティスト一覧/HARDCORE TANO*C]]。
 --元々コナミの楽曲公募イベント「SOUND VOLTEX The 8th KAC楽曲コンテスト」に応募され、落選した楽曲であった。
---音ゲーへの初収録は、HARDCORE TANO*Cが制作に関わっているWACCAであり、それを皮切りにArcaea、maimai、Muse Dash、オンゲキ、CHUNITHM、そして本機種へと収録された。
+--音ゲーへの初収録は、HARDCORE TANO*Cが制作に関わっている「''WACCA''」であり、それを皮切りに「Arcaea」「maimai」「Muse Dash」「オンゲキ」「CHUNITHM」そして本機種へと収録された。
 -担当パートは以下の通り。KAC楽曲コンテスト応募当時、時間制限の都合((SOUND VOLTEXの楽曲公募においては「楽曲の長さが2分以内」という制限が存在する))でMassive New Krewのパートはカットされていた。
 --Noizenecioパートのコンボ数は、いずれも2小節の大音符3打を含む。
 |>|CENTER:|COLOR(#666):CENTER:|COLOR(#069):CENTER:|COLOR(#909):CENTER:|c

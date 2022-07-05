@@ -34,13 +34,13 @@
 
 |CENTER:100|CENTER:50|||c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V2.03)|h
-|BGCOLOR(cyan):CENTER:''J-POP''|CENTER:COLOR(red):''新''|[[''Rising Sun''>難易度表/おに/Rising Sun]]||
-|BGCOLOR(orange):CENTER:''アニメ''|CENTER:COLOR(red):''新''|[[''ウィーゴー！''>難易度表/おに/ウィーゴー！]]|「ワンピース」より|
-|~|CENTER:COLOR(red):''新''|[[''Switch On!''>難易度表/おに/Switch On!]]|「仮面ライダーフォーゼ」より|
-|~|CENTER:COLOR(red):''新''|[[''ライオン(裏譜面)''>難易度表/おに/ライオン(裏譜面)]]|「マクロスFrontier」より|
-|BGCOLOR(orangered):CENTER:''ナムコ&br;オリジナル''|CENTER:COLOR(red):''新''|[[''冬竜 〜Toryu〜''>難易度表/おに/冬竜 〜Toryu〜]]||
-|~|CENTER:COLOR(blue):''初''|[[''Blue Rose Ruin''>難易度表/おに/Blue Rose Ruin]]||
-|~|CENTER:COLOR(red):''新''|[[''蒼の旋律(裏譜面)''>難易度表/おに/蒼の旋律(裏譜面)]]||
+|BGCOLOR(cyan):''J-POP''|COLOR(red):''新''|[[''Rising Sun''>難易度表/おに/Rising Sun]]||
+|BGCOLOR(orange):''アニメ''|COLOR(red):''新''|[[''ウィーゴー！''>難易度表/おに/ウィーゴー！]]|「ワンピース」より|
+|~|COLOR(red):''新''|[[''Switch On!''>難易度表/おに/Switch On!]]|「仮面ライダーフォーゼ」より|
+|~|COLOR(red):''新''|[[''ライオン(裏譜面)''>難易度表/おに/ライオン(裏譜面)]]|「マクロスFrontier」より|
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''冬竜 〜Toryu〜''>難易度表/おに/冬竜 〜Toryu〜]]||
+|~|COLOR(blue):''初''|[[''Blue Rose Ruin''>難易度表/おに/Blue Rose Ruin]]||
+|~|COLOR(red):''新''|[[''蒼の旋律(裏譜面)''>難易度表/おに/蒼の旋律(裏譜面)]]||
 -なお、システム面においての変更などはなかった。
 
 
@@ -49,16 +49,16 @@
 
 |CENTER:100|CENTER:50|||c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V3.13)|h
-|BGCOLOR(cyan):CENTER:''J-POP''|CENTER:COLOR(red):''新''|[[''365日のラブストーリー。''>難易度表/おに/365日のラブストーリー。]]||
-|BGCOLOR(orange):CENTER:''アニメ''|CENTER:COLOR(red):''新''|[[''バスターズ レディーゴー！''>難易度表/おに/バスターズ レディーゴー！]]|「特命戦隊ゴーバスターズ」より|
-|~|CENTER:COLOR(red):''新''|[[''Let's go! スマイルプリキュア！''>難易度表/おに/Let's go! スマイルプリキュア！]]||
-|BGCOLOR(darkorchid):CENTER:''ゲーム&br;ミュージック''|CENTER:COLOR(red):''新''|[[''Extreme MGG★★★''>難易度表/おに/Extreme MGG★★★]]|「ミュージックガンガン！2」より|
-|~|CENTER:COLOR(red):''新''|[[''Extreme MGG★★★(裏譜面)''>難易度表/おに/Extreme MGG★★★(裏譜面)]]|~|
-|~|CENTER:COLOR(red):''新''|[[''ミュージック・リボルバー''>難易度表/おに/ミュージック・リボルバー]]|「ミュージックガンガン！2」より|
-|~|CENTER:COLOR(red):''新''|[[''ミュージック・リボルバー(裏譜面)''>難易度表/おに/ミュージック・リボルバー(裏譜面)]]|~|
-|BGCOLOR(orangered):CENTER:''ナムコ&br;オリジナル&br;(隠し曲)''|CENTER:COLOR(orange):''再''|[[''The Carnivorous Carnival''>難易度表/おに/The Carnivorous Carnival]]||
-|~|CENTER:COLOR(orange):''再''|[[''はやさいたま2000''>難易度表/おに/はやさいたま2000]]||
-|~|CENTER:COLOR(orange):''再''|[[''きたさいたま200''>難易度表/おに/きたさいたま200]]||
+|BGCOLOR(cyan):''J-POP''|COLOR(red):''新''|[[''365日のラブストーリー。''>難易度表/おに/365日のラブストーリー。]]||
+|BGCOLOR(orange):''アニメ''|COLOR(red):''新''|[[''バスターズ レディーゴー！''>難易度表/おに/バスターズ レディーゴー！]]|「特命戦隊ゴーバスターズ」より|
+|~|COLOR(red):''新''|[[''Let's go! スマイルプリキュア！''>難易度表/おに/Let's go! スマイルプリキュア！]]||
+|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''Extreme MGG★★★''>難易度表/おに/Extreme MGG★★★]]|「ミュージックガンガン！2」より|
+|~|COLOR(red):''新''|[[''Extreme MGG★★★(裏譜面)''>難易度表/おに/Extreme MGG★★★(裏譜面)]]|~|
+|~|COLOR(red):''新''|[[''ミュージック・リボルバー''>難易度表/おに/ミュージック・リボルバー]]|「ミュージックガンガン！2」より|
+|~|COLOR(red):''新''|[[''ミュージック・リボルバー(裏譜面)''>難易度表/おに/ミュージック・リボルバー(裏譜面)]]|~|
+|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(隠し曲)''|COLOR(orange):''再''|[[''The Carnivorous Carnival''>難易度表/おに/The Carnivorous Carnival]]||
+|~|COLOR(orange):''再''|[[''はやさいたま2000''>難易度表/おに/はやさいたま2000]]||
+|~|COLOR(orange):''再''|[[''きたさいたま200''>難易度表/おに/きたさいたま200]]||
 
 -新システム「[[''称号''>段位・称号の一覧]]」が実装された。
 --「称号」は上手に演奏したり、特定の組み合わせの曲をプレイしたりクリアすることによってもらえる。
@@ -81,10 +81,10 @@
 
 |CENTER:100|CENTER:50|||c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V4.03)|h
-|BGCOLOR(gold):CENTER:''クラシック''|CENTER:COLOR(orange):''再''|[[''白鳥の湖''>難易度表/おに/白鳥の湖〜still a duckling〜]]|〜still a duckling〜|
-|~|CENTER:COLOR(blue):''初''|[[''白鳥の湖(裏譜面)''>難易度表/おに/白鳥の湖〜still a duckling〜(裏譜面)]]|~|
-|BGCOLOR(orangered):CENTER:''ナムコ&br;オリジナル''|CENTER:COLOR(red):''新''|[[''迅風丸''>難易度表/おに/迅風丸]]||
-|~|CENTER:COLOR(red):''新''|[[''初音ミクの消失‐劇場版‐(裏譜面)''>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]||
+|BGCOLOR(gold):''クラシック''|COLOR(orange):''再''|[[''白鳥の湖''>難易度表/おに/白鳥の湖〜still a duckling〜]]|〜still a duckling〜|
+|~|COLOR(blue):''初''|[[''白鳥の湖(裏譜面)''>難易度表/おに/白鳥の湖〜still a duckling〜(裏譜面)]]|~|
+|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''迅風丸''>難易度表/おに/迅風丸]]||
+|~|COLOR(red):''新''|[[''初音ミクの消失‐劇場版‐(裏譜面)''>難易度表/おに/初音ミクの消失‐劇場版‐(裏譜面)]]||
 -なお、[[RISING SUN>難易度表/おに/Rising Sun]]の曲名表記が''Rising Sun''に、[[SWITCH ON!>難易度表/おに/Switch On!]]は''Switch On!''にそれぞれ変更された。
 -「ドンだーの最終定理」または「ドンドコ数学章」の称号で取得NGとなっていた[[百花繚乱>難易度表/おに/百花繚乱]]が、称号対象曲になった(非告知)。
 
@@ -98,21 +98,21 @@
 
 |CENTER:100|CENTER:50|||c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V6.01)|h
-|BGCOLOR(cyan):CENTER:''J-POP''|CENTER:COLOR(red):''新''|[[''真夏のSounds good!''>難易度表/おに/真夏のSounds good!]]||
-|~|CENTER:COLOR(red):''新''|[[''風が吹いている''>難易度表/おに/風が吹いている]]|NHKロンドンオリンピック放送テーマソング|
-|~|CENTER:COLOR(red):''新''|[[''Shine''>難易度表/おに/Shine]]||
-|~|CENTER:COLOR(red):''新''|[[''イエス''>難易度表/おに/イエス]]||
-|BGCOLOR(orange):CENTER:''アニメ''|CENTER:COLOR(red):''新''|[[''ずっとずっとトモダチ''>難易度表/おに/ずっとずっとトモダチ]]|「ジュエルペット　きら☆デコッ！」主題歌|
-|~|CENTER:COLOR(red):''新''|[[''ハルウタ''>難易度表/おに/ハルウタ]]|「名探偵コナン 11人目のストライカー」より|
+|BGCOLOR(cyan):''J-POP''|COLOR(red):''新''|[[''真夏のSounds good!''>難易度表/おに/真夏のSounds good!]]||
+|~|COLOR(red):''新''|[[''風が吹いている''>難易度表/おに/風が吹いている]]|NHKロンドンオリンピック放送テーマソング|
+|~|COLOR(red):''新''|[[''Shine''>難易度表/おに/Shine]]||
+|~|COLOR(red):''新''|[[''イエス''>難易度表/おに/イエス]]||
+|BGCOLOR(orange):''アニメ''|COLOR(red):''新''|[[''ずっとずっとトモダチ''>難易度表/おに/ずっとずっとトモダチ]]|「ジュエルペット　きら☆デコッ！」主題歌|
+|~|COLOR(red):''新''|[[''ハルウタ''>難易度表/おに/ハルウタ]]|「名探偵コナン 11人目のストライカー」より|
 
 ***アップデート GAME VERSION:7.03(2013/2/27実施) [#update004-3]
 -''無印バージョンの筐体''で仕様変更及び第10回、第11回アップデートのJ-POPとアニメの一部の以下3曲が配信された。
 
 |CENTER:100|CENTER:50|||c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V7.03)|h
-|BGCOLOR(cyan):CENTER:''J-POP''|CENTER:COLOR(red):''新''|[[''S''>難易度表/おに/S]]||
-|BGCOLOR(orange):CENTER:''アニメ''|CENTER:COLOR(red):''新''|[[''突撃ロック''>難易度表/おに/突撃ロック]]|「NARUTO-ナルト-疾風伝」より|
-|~|CENTER:COLOR(red):''新''|[[''Life is SHOW TIME''>難易度表/おに/Life is SHOW TIME]]|「仮面ライダーウィザード」より|
+|BGCOLOR(cyan):''J-POP''|COLOR(red):''新''|[[''S''>難易度表/おに/S]]||
+|BGCOLOR(orange):''アニメ''|COLOR(red):''新''|[[''突撃ロック''>難易度表/おに/突撃ロック]]|「NARUTO-ナルト-疾風伝」より|
+|~|COLOR(red):''新''|[[''Life is SHOW TIME''>難易度表/おに/Life is SHOW TIME]]|「仮面ライダーウィザード」より|
 -デモ画面時、下部にこの筐体でバナパスポートやおサイフケータイを使っても記録が保存されないことを知らせる旨のテロップが追加された。
 -カードを使ってプレイした時に使える着せ替えが増えた。
 --かぶとむし、いちご、うちゅうひこうしの3種類。

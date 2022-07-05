@@ -36,7 +36,7 @@
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=kFxKSZOSiB4&t=11s]]
 
 ***コメント [#comment]
--COLOR(red){''ここのコメントページでは、曲に関する話題のみで書き込みをお願いします。''}
+//-COLOR(red){''ここのコメントページでは、曲に関する話題のみで書き込みをお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

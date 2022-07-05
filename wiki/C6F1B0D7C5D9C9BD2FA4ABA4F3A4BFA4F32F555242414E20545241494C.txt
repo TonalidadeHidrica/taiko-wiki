@@ -16,7 +16,7 @@
 --ただし付点配置が多いので、全良難易度は高めである。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/URBAN TRAIL]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/URBAN TRAIL#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/URBAN TRAIL]]
@@ -27,5 +27,5 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &ref(urbant.png,nolink);

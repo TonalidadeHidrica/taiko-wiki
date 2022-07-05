@@ -6,7 +6,7 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |AC15.11.10SP|''NS1''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×7|''410''|''?????0点''|+連打|430点|98点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''987110点''}|~|COLOR(#ff3300){1890点}|-|
-|AC16.1.0SP||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''995700点''|~|2420点|-|
+|AC16.1.0SP||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''995900点''|~|2420点|-|
 |AC16.2.12||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]

@@ -36,5 +36,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-正しくは★×6。ふうせんは15打。
-&attachref(tokyo_h.png,nolink);
+~正しくは★×6
+~ふうせんは15打
+~HSは1.12、BPMは150
+~&attachref(tokyo_h.png,nolink);

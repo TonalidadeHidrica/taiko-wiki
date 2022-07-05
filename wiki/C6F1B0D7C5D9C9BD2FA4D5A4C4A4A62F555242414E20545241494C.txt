@@ -17,7 +17,7 @@
 -序盤で1回だけ出てくる12分の単色4連打に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/URBAN TRAIL]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/URBAN TRAIL#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/URBAN TRAIL]]
@@ -28,5 +28,5 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &ref(URBAN TRAIL.png,nolink);

@@ -1,16 +1,16 @@
-*Cry Baby [#vd8c7ac6]
+*Cry Baby [#title]
 -アニメ「''東京リベンジャーズ''」のOP。
 
-***詳細 [#h887ae17]
+***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''NS1DL''|BGCOLOR(orange):''アニメ''|★×3|''116''|''482980点''|＋連打|1140点|495点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''987400点''}|~|COLOR(#ff3300){7390点}|-|
 
-***譜面構成・攻略 [#nb223291]
+***譜面構成・攻略 [#capture]
 -BPMは100。
 
-***その他 [#a887a0df]
+***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/Cry Baby]]を参照。
 
 ----
@@ -20,8 +20,8 @@
 -[[オート動画(NS1)>https://www.youtube.com/watch?v=DSvrn7gmJTM]]
 -[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/UPer8wBNlQE]]
 
-***コメント [#f20714d7]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#je35c156]
+***譜面 [#score]
 ~&attachref(ohdcry_n(2).png,nolink);

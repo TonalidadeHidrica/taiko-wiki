@@ -1,5 +1,4 @@
 *&ruby(むじひ){無慈悲};な王 [#title]
--PSP用ソフト「[[''GOD EATER BURST''>ゲーム別収録曲#eater]]」よりハンニバル戦のBGM。→([[公式サイト>http://www.godeater.jp/geb/index.html]])
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -31,6 +30,6 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 ~最初のBPMは149.97
 ~&attachref(m.png,nolink);
