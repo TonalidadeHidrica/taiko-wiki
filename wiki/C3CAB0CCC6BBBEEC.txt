@@ -167,7 +167,7 @@
 |2nd|[[MEGALOVANIA>難易度表/ふつう/MEGALOVANIA]]|ふつう★×5|225コンボ|~|~|~|~|
 |3rd|[[テルミービート>難易度表/ふつう/テルミービート]]|ふつう★×5|252コンボ|~|~|~|~|
 |BGCOLOR(#ffcf75):SIZE(16){''四級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/四級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''923''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
-|1st|[[ロキ>難易度表/むずかしい/ロキ]]|むずかしい★×4|258コンボ|COLOR(#f23b08){94%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1171以上}&br;COLOR(#e8d03e){''1235以上''}|COLOR(#f23b08){92未満}&br;COLOR(#e8d03e){''80〜76未満''}||
+|1st|[[ロキ>難易度表/むずかしい/ロキ]]|むずかしい★×4|258コンボ|COLOR(#f23b08){94%以上}&br;COLOR(#e8d03e){''??%以上''}|COLOR(#f23b08){1171以上}&br;COLOR(#e8d03e){''1235以上''}|COLOR(#f23b08){92未満}&br;COLOR(#e8d03e){''80〜78未満''}||
 |2nd|[[乙女解剖>難易度表/むずかしい/乙女解剖]]|むずかしい★×4|278コンボ|~|~|~|~|
 |3rd|[[カゲロウデイズ>難易度表/むずかしい/カゲロウデイズ]]|むずかしい★×5|387コンボ|~|~|~|~|
 |BGCOLOR(#ffcf75):SIZE(16){''三級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/三級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''1178''}|BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
@@ -179,7 +179,7 @@
 |2nd|[[やわらか戦車>難易度表/むずかしい/やわらか戦車]]|むずかしい★×6|344コンボ|~|~|~|~|
 |3rd|[[ヒバナ>難易度表/むずかしい/ヒバナ]]|むずかしい★×6|459コンボ|~|~|~|~|
 |BGCOLOR(#ffcf75):SIZE(16){''一級''}|>|BGCOLOR(#ffcf75):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/一級]]　　SIZE(16){''総音符数''}|BGCOLOR(#ffcf75):SIZE(16){''1244''} |BGCOLOR(#ffcf75):''魂ゲージ''|BGCOLOR(#ffcf75):''叩けた数''|BGCOLOR(#ffcf75):''不可の数''|BGCOLOR(#ffcf75):|
-|1st|[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/むずかしい/TOKIMEKI・ですとろいやー！！]]|むずかしい★×7|482コンボ|COLOR(#f23b08){96%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){1365以上}&br;COLOR(#e8d03e){''1408以上''}|COLOR(#f23b08){37未満}&br;COLOR(#e8d03e){''34〜31未満''}||
+|1st|[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/むずかしい/TOKIMEKI・ですとろいやー！！]]|むずかしい★×7|482コンボ|COLOR(#f23b08){96%以上}&br;COLOR(#e8d03e){''100%以上''}|COLOR(#f23b08){1365以上}&br;COLOR(#e8d03e){''1408以上''}|COLOR(#f23b08){37未満}&br;COLOR(#e8d03e){''32or31未満''}||
 |2nd|[[愛にできることはまだあるかい>難易度表/おに/愛にできることはまだあるかい]]|おに★×5|296コンボ|~|~|~|~|
 |3rd|[[キミと響くハーモニー>難易度表/おに/キミと響くハーモニー]]|おに★×6|466コンボ|~|~|~|~|
 |BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''初段''}|>|BGCOLOR(#4aaaba):COLOR(white):RIGHT:[[動画>]]　　[[攻略・解説>段位道場/ニジイロ2022/初段]]　　SIZE(16){''総音符数''}|BGCOLOR(#4aaaba):COLOR(white):SIZE(16){''1508''}|BGCOLOR(#4aaaba):COLOR(white):''魂ゲージ''|BGCOLOR(#4aaaba):COLOR(white):''良の数''|BGCOLOR(#4aaaba):COLOR(white):''不可の数''|BGCOLOR(#4aaaba):COLOR(white):''連打数''|

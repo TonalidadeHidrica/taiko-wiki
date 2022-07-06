@@ -6,7 +6,7 @@
 |''AC15.5.2''|PS Vita1SP&br;Wii U3DL&br;3DS3DL&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''222''|''367130点''|+連打|460点|150点|
 ||PS Vita1亜SP|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''990360点''}|~|COLOR(#ff3300){3930点}|-|
-||iOS|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''357440点''|~|440点|120点|
+||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''357440点''|~|440点|120点|
 |AC16.1.0||~|~|~|''996780点''|~|4490点|-|
 
 ***譜面構成・攻略 [#capture]
