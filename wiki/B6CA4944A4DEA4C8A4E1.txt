@@ -575,7 +575,7 @@
 |dodai|[[Do-Dai>難易度表/おに/Do-Dai]]||
 |dogbit|[[Dogbite>難易度表/おに/Dogbite]]||
 |dogma1|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|セントラル''ドグマ''|
-|dogma2|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|~|
+//|dogma2|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|~|
 |doit|[[Do it! Now>難易度表/おに/Do it! Now]]||
 |dojo|[[音符のうた>難易度表/おに/音符のうた]]|初心者道場|
 |dojoae|[[音符のうた -English Version->難易度表/おに/音符のうた -English Version-]]|初心者道場(Apple English)|

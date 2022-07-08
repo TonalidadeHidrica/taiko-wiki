@@ -190,6 +190,10 @@
 |BGCOLOR(#fe90d2):''アニメ''|[[''SHINY''>難易度表/おに/SHINY]]|「境界のRINNE」より|
 |~|[[''君の知らない物語''>難易度表/おに/君の知らない物語]]|「化物語」より|
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''7/16配信曲''|h
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''Irodoru&#9825;Future''>難易度表/おに/Irodoru・Future]]|小林伸嘉(BNSI) feat. ミライ小町|
+
 **第138回アップデート GAME VERSION:29.03(2022/7/??実施) [#update138]
 -(詳細未発表)
 

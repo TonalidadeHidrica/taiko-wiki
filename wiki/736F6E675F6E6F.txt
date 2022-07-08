@@ -1107,7 +1107,7 @@
 |996|[[テーマ・オブ・半沢直樹 〜Main Title〜 >難易度表/おに/テーマ・オブ・半沢直樹 〜Main Title〜]]|BGCOLOR(#0acc2a):バラエティ|?||
 |997|[[twinkle night (feat. somunia)>難易度表/おに/twinkle night (feat. somunia)]]|BGCOLOR(#0acc2a):バラエティ|?||
 |998|[[Connected World>難易度表/おに/Connected World]]|BGCOLOR(#0acc2a):バラエティ|?||
-|999|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|BGCOLOR(#ff7028):ナムオリ|dogma2||
+|999|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|BGCOLOR(#ff7028):ナムオリ|?||
 |1000|[[しょうゆ de Show you! >難易度表/おに/しょうゆ de Show you!]]|BGCOLOR(#ff7028):ナムオリ|?||
 |1001|[[なんどでも笑おう>難易度表/おに/なんどでも笑おう]]|BGCOLOR(#cc8aeb):ゲーミュ|?||
 |1002|[[うっせぇわ>難易度表/おに/うっせぇわ]]|BGCOLOR(#49d5eb):ポップス|adusse||

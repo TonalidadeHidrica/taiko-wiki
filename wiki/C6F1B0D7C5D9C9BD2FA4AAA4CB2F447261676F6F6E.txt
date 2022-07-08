@@ -30,6 +30,7 @@
 
 ***その他 [#other]
 -アーティストは、[[''Massive New Krew''>参加アーティスト一覧/Massive New Krew]]（[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]）。
+-譜面作成は、[[''steμ''>譜面作成者一覧/steμ]]。
 -余談だが、元号が【令和】に変わって最初に太鼓の達人に収録された楽曲である（改元日と同日収録）。
 -新筐体でこの譜面をフルコンボすると、称号「''Dragoon Commander''」を獲得できる。 
 -曲IDは、''dragoo''。

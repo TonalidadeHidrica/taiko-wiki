@@ -43,6 +43,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~5, 6小節目の小節線は非表示
+~5・6小節目の小節線は非表示
 ~AC7の譜面のゴーゴータイムは41〜49、58〜74小節目
 &attachref(clsff_m.png,nolink);

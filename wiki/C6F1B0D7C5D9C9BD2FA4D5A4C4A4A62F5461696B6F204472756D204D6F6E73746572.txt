@@ -15,7 +15,8 @@
 --HS0.75により、連打以外の見た目BPMは199.5。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Taiko Drum Monster]]を参照。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/Taiko Drum Monster#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/Taiko Drum Monster]]
 -[[むずかしい>難易度表/むずかしい/Taiko Drum Monster]]
