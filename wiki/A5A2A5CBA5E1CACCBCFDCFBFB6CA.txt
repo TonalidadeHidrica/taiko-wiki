@@ -153,7 +153,7 @@
 --[[Switch On!>難易度表/おに/Switch On!]] / [[裏譜面>難易度表/おに/Switch On!(裏譜面)]] (OP)
 -「仮面ライダーウィザード」
 --[[Life is SHOW TIME>難易度表/おに/Life is SHOW TIME]] (OP)
--「仮面ライダー鎧武／ガイム」
+-「仮面ライダー鎧武/ガイム」
 --[[JUST LIVE MORE>難易度表/おに/JUST LIVE MORE]] (OP)
 -「仮面ライダードライブ」
 --[[SURPRISE‐DRIVE>難易度表/おに/SURPRISE‐DRIVE]] (OP)

@@ -128,11 +128,12 @@
 - 5a026a7e8e4496abfb04f51281c0c7f5
 
 //7/11 段位コメント中途半端に削除
-- 6ddd6040277a5a380a281693bb32db13
+//- 6ddd6040277a5a380a281693bb32db13
 
-//7/8Undertaleのデマ、執拗なコメント及び編集 +1
+//Undertaleのデマ、執拗なコメント及び編集(panda-world) +2
 - bbecaaf6cc4b7782c6fbdd1160592915
 - 3b61376ce29105b0d0c2a196dabb92e2
+- 8712eeaefcdaf96ae3599a9ca8fb6353
 
 // 7/1 ページ大量削除(bbtec.net) 下に同じ
 - fa7454ea8636032966de1f4089420766
