@@ -14,7 +14,7 @@
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの曲数''|h
 |BGCOLOR(orangered):''NAMCO&br;原創音樂''|BGCOLOR(darkorchid):''遊戲音樂''|BGCOLOR(cyan):''日本流行音樂''|BGCOLOR(lime):''華語流行音樂''|BGCOLOR(orange):''&#21345;通動畫音樂''|BGCOLOR(magenta):''童謡・民謡''|BGCOLOR(gold):''古典音樂''|
-|''26'' 曲|''13'' 曲|''19'' 首|''25'' 首|''20'' 首|''4'' 首|''8'' 首|
+|''26'' 曲|''12'' 曲|''19'' 首|''25'' 首|''20'' 首|''4'' 首|''8'' 首|
 ----
 |CENTER:1||LEFT:65|>|>|>|CENTER:70|c
 ||''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#f30):COLOR(#111):''簡單''|BGCOLOR(#8c2):COLOR(#111):''普通''|BGCOLOR(#3ab):COLOR(#111):''困難''|BGCOLOR(#f2c):COLOR(#000):''魔王''|h

@@ -68,12 +68,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~現行譜面
-~いつからかは不明
+~CS6からの譜面
 ~&attachref(yokud_m.png,nolink);
-
-~CS6以降の譜面
-~&attachref(ロ.png,nolink);
 
 ~PSP1の譜面
 ~譜面自体は一緒だが、BPMが大幅に異なっている。
