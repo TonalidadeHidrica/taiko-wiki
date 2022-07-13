@@ -43,5 +43,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~グリーンVer.のデータより
 ~&attachref(bbkkbk_m_1.png,nolink);

@@ -9,7 +9,7 @@
 ||Wii3|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|''1096400点''|~|~|~|''ゴーゴー&br;バグあり''|
 |AC15.4.2SP|NS1DL|~|★×8|~|''1049760点''|~|820点|233点||
 |COLOR(#f30):真打||~|~|~|COLOR(#f30):''998400点''|~|COLOR(#f30):2600点|-|~|
-|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1003250点''|~|2670点|-|~|
+|AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1001250点''|~|2670点|-|~|
 |AC16.2.0|Xbox1SP|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
