@@ -130,6 +130,7 @@
 |''Future Melody - 心から未来へ -''|154|[[★×3>難易度表/かんたん/Future Melody - 心から未来へ -]]|[[★×6>難易度表/ふつう/Future Melody - 心から未来へ -]]|[[★×7>難易度表/むずかしい/Future Melody - 心から未来へ -]]|[[★×8>難易度表/おに/Future Melody - 心から未来へ -]]|
 |''IMITATION BLACK''|230※|[[★×3>難易度表/かんたん/IMITATION BLACK]]|[[★×5>難易度表/ふつう/IMITATION BLACK]]|[[★×5>難易度表/むずかしい/IMITATION BLACK]]|[[★×7>難易度表/おに/IMITATION BLACK]]|
 |''IMITATION BLACK(裏譜面)''|~|-|-|-|[[★×9>難易度表/おに/IMITATION BLACK(裏譜面)]]|
+|''Irodoru&#9825;Future''|194|[[★×3>難易度表/かんたん/Irodoru・Future]]|[[★×4>難易度表/ふつう/Irodoru・Future]]|[[★×4>難易度表/むずかしい/Irodoru・Future]]|[[★×8>難易度表/おに/Irodoru・Future]]|
 |''KING''|166|[[★×2>難易度表/かんたん/KING]]|[[★×5>難易度表/ふつう/KING]]|[[★×6>難易度表/むずかしい/KING]]|[[★×8>難易度表/おに/KING]]|
 |''M.S.S.Planet''|145|[[★×3>難易度表/かんたん/M.S.S.Planet]]|[[★×5>難易度表/ふつう/M.S.S.Planet]]|[[★×7>難易度表/むずかしい/M.S.S.Planet]]|[[★×8>難易度表/おに/M.S.S.Planet]]|
 |''SstTAarR*''|200|[[★×5>難易度表/かんたん/SstTAarR*]]|[[★×7>難易度表/ふつう/SstTAarR*]]|[[★×8>難易度表/むずかしい/SstTAarR*]]|[[★×10>難易度表/おに/SstTAarR*]]|

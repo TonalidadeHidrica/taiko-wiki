@@ -1215,10 +1215,22 @@
 |1104|[[Aragami>難易度表/おに/Aragami]]|BGCOLOR(#0acc2a):バラエティ|?||
 |1105|[[せかいのおと - sekai note ->難易度表/おに/せかいのおと - sekai note -]]|BGCOLOR(#cc8aeb):ゲーミュ|?||
 |1106|[[Libera Ray>難易度表/おに/Libera Ray]]|BGCOLOR(#cc8aeb):ゲーミュ|?||
-|1107|非公開|BGCOLOR(#cbcfde):ボカロ|?||
+|1107|[[Irodoru&#9825;Future>難易度表/おに/Irodoru・Future]]|BGCOLOR(#cbcfde):ボカロ|?||
 |1108|[[其方、激昂>難易度表/おに/其方、激昂]]|BGCOLOR(#ded523):クラシック|clslu7||
 |1109|[[女神な世界 II>難易度表/おに/女神な世界II]]|BGCOLOR(#ff7028):ナムオリ|megm2x||
 |1110|[[きょうはたいこ曜日>難易度表/おに/きょうはたいこ曜日]]|BGCOLOR(#ff7028):ナムオリ|cs3op||
+|1111|非公開|BGCOLOR(#49d5eb):ポップス|?||
+|1112|非公開|BGCOLOR(#49d5eb):ポップス|?||
+|1113|非公開|BGCOLOR(#49d5eb):ポップス|?||
+|1114|非公開|BGCOLOR(#49d5eb):ポップス|?||
+|1115|非公開|BGCOLOR(#49d5eb):ポップス|?||
+|1116|非公開|BGCOLOR(#49d5eb):ポップス|?||
+|1117|非公開|BGCOLOR(#fdc000):キッズ|?||
+|1118|非公開|BGCOLOR(#fdc000):キッズ|?||
+|1119|非公開|BGCOLOR(#cc8aeb):ゲーミュ|?||
+|1120|非公開|BGCOLOR(#ff7028):ナムオリ|?||
+|1121|非公開|BGCOLOR(#333):|?||
+|1122|非公開|BGCOLOR(#ff7028):ナムオリ|?||
 
 **未確認 [#lostn]
 |>|>|>|CENTER:||c

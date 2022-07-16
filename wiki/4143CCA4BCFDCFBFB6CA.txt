@@ -1628,8 +1628,8 @@
 --[[アローラ!!>難易度表/おに/アローラ!!]](NS1)
 --[[ADAMAS>難易度表/おに/ADAMAS]](iOS、AR)
 --[[騎士竜戦隊リュウソウジャー>難易度表/おに/騎士竜戦隊リュウソウジャー]](NS1、iOS、AR)
-//--[[SHINY>難易度表/おに/SHINY]](iOS、AR)
-//--[[君の知らない物語>難易度表/おに/君の知らない物語]](iOS、PS Vita1、Wii U3、3DS3、AR、PS4 1、NS1、Xbox1)
+--[[SHINY>難易度表/おに/SHINY]](iOS、AR)
+--[[君の知らない物語>難易度表/おに/君の知らない物語]](iOS、PS Vita1、Wii U3、3DS3、AR、PS4 1、NS1、Xbox1)
 -ボーカロイド&#8482;曲
 --[[Tell Your World>難易度表/おに/Tell Your World]](3DS1、iOS、AR、NS1、Xbox1)
 --[[マトリョシカ>難易度表/おに/マトリョシカ]](Wii5、PSPDX、iOS、Wii U1、3DS2、NS RPG)
