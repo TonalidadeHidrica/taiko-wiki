@@ -1,6 +1,8 @@
 *WADAIKO MASTERの収録曲 [#title]
 ----
--COLOR(red){''「WADAIKO MASTERの制作元はバンダイナムコである」という証拠が確認できていないため、このページを参照する場合は注意してください。}''
+-「WADAIKO MASTERの制作元はバンダイナムコである」という証拠が確認できていないため、このページを参照する場合は注意してください。
+-COLOR(red){''追記　取扱説明書の存在が判明し、バンダイナムコのロゴ等が載っていることから公式が開発したものと確認されました。}''
+https://www.adibra.com.br/Content/upload/downloads/634/manual-wadaiko.pdf
 ----
 -バージョン： SIZE(20){''モモイロ（1.03）''}
 -全 SIZE(20){''32''} 曲
