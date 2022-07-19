@@ -12103,6 +12103,7 @@
 -[[難易度表/かんたん/Infinite Rebellion]] ナンイドオモテ/カンタン/Infinite Rebellion
 -[[難易度表/かんたん/Inscrutable Battle]] ナンイドオモテ/カンタン/Inscrutable Battle
 -[[難易度表/かんたん/Into the Unknown]] ナンイドオモテ/カンタン/Into the Unknown
+-[[難易度表/かんたん/Irodoru・Future]] ナンイドオモテ/カンタン/Irodoru・Future
 -[[難易度表/かんたん/I★my★me★mine]] ナンイドオモテ/カンタン/I★my★me★mine
 -[[難易度表/かんたん/JOIN THE PAC -太鼓の達人 Ver.-]] ナンイドオモテ/カンタン/JOIN THE PAC -タイコノタツジン Ver.-
 -[[難易度表/かんたん/JOIN US]] ナンイドオモテ/カンタン/JOIN US
@@ -14708,6 +14709,7 @@
 -[[難易度表/ふつう/Infinite Rebellion]] ナンイドオモテ/フツウ/Infinite Rebellion
 -[[難易度表/ふつう/Inscrutable Battle]] ナンイドオモテ/フツウ/Inscrutable Battle
 -[[難易度表/ふつう/Into the Unknown]] ナンイドオモテ/フツウ/Into the Unknown
+-[[難易度表/ふつう/Irodoru・Future]] ナンイドオモテ/フツウ/Irodoru・Future
 -[[難易度表/ふつう/I★my★me★mine]] ナンイドオモテ/フツウ/I★my★me★mine
 -[[難易度表/ふつう/JOIN THE PAC -太鼓の達人 Ver.-]] ナンイドオモテ/フツウ/JOIN THE PAC -タイコノタツジン Ver.-
 -[[難易度表/ふつう/JOIN US]] ナンイドオモテ/フツウ/JOIN US
@@ -16995,6 +16997,7 @@
 -[[難易度表/むずかしい/Infinite Rebellion]] ナンイドオモテ/ムズカシイ/Infinite Rebellion
 -[[難易度表/むずかしい/Inscrutable Battle]] ナンイドオモテ/ムズカシイ/Inscrutable Battle
 -[[難易度表/むずかしい/Into the Unknown]] ナンイドオモテ/ムズカシイ/Into the Unknown
+-[[難易度表/むずかしい/Irodoru・Future]] ナンイドオモテ/ムズカシイ/Irodoru・Future
 -[[難易度表/むずかしい/I★my★me★mine]] ナンイドオモテ/ムズカシイ/I★my★me★mine
 -[[難易度表/むずかしい/JOIN THE PAC -太鼓の達人 Ver.-]] ナンイドオモテ/ムズカシイ/JOIN THE PAC -タイコノタツジン Ver.-
 -[[難易度表/むずかしい/JOIN US]] ナンイドオモテ/ムズカシイ/JOIN US
