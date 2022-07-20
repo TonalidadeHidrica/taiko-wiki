@@ -9,7 +9,7 @@
 -BPMは194。
 
 ***その他 [#other]
--楽曲情報は[[おに>難易度表/おに/Irodoru・Future]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Irodoru・Future]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Irodoru・Future]]

@@ -57,6 +57,7 @@
 --他4コースとは違い、59小節の黄色連打以降も変わらず複合が押し寄せる。65小節の長複合は裏拍入りかつ奇数打である。
 --その後の70小節からの長複合がこの譜面最大の難所。BPMが低いとはいえ配色が複雑であり、一度崩れると危険。
 ---区切り方の一例として、COLOR(blue){○○}/COLOR(red){●●●}COLOR(blue){○○○}/COLOR(red){●●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●●}/COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}/COLOR(blue){○○}COLOR(red){●●}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●●●●}(24分) など。
+---どうしても捌けない場合は一部を捨てる選択肢も出てくるが、その分他の箇所で可や不可を減らさなければならない上に、そもそも可や不可の許容範囲が狭い事から、あくまでも最終手段と考えるべし。
 --ラスゴーにも厄介な複合が2本あるので注意。
 ---82小節からのものは、COLOR(blue){○}COLOR(red){●}/COLOR(blue){○}COLOR(red){●●●}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●●●}
 ---84小節からのものは、COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}
