@@ -30,7 +30,7 @@
 --[[投票結果(Web Archive)>https://web.archive.org/web/20060406001914/http://www.bandainamcogames.co.jp:80/aa/am/vg/taikono-tatsujin7/special/request/]]
 -PSP2から長らく収録はされていなかったが、3DS3での配信パック「''ヒーローパック''」にて''約10年ぶりに収録が決定した''。
 --2016/8/19の生放送や公式サイト、および3DS3では「RARE HERO」と全て大文字で表記されている。
---3DS3では、2023年3月下旬をもって新規DLができなくなる。
+--3DS3では、2023年3月28日をもって新規DLができなくなる。
 -曲IDは、''rr2''(旧音源)、''rr22''(新音源)。
 
 ----

@@ -1,4 +1,5 @@
 *いとしのミルさま [#title]
+
 ***詳細 [#more]
 |>|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -20,7 +21,7 @@
 -作詞・歌唱は、[[''青木春子''>http://www.aoharu.net/]](作詞は''はるり''名義)。
 --他のゲームの活動で主に有名。音ゲーではポップンのmoffing(モフロック)も歌っている。
 --トラックダウンは、[[''quad''(luvtrax)>https://twitter.com/quad_luvtrax]]。
--3DS3では、2023年3月下旬をもって新規DLができなくなる。
+-3DS3では、2023年3月28日をもって新規DLができなくなる。
 -曲IDは、''milsam''。
 
 ----
