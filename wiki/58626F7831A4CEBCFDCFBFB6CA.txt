@@ -1,7 +1,7 @@
 *「太鼓の達人 The Drum Master!」の収録曲 [#title]
 -配信日： 2022 年 1 月 27 日 (木)
--デフォルト ''55'' 曲 ＋ 隠し ''20'' 曲 ＋ DL ''24'' 曲 ＝ ''99'' 曲
---裏譜面 ''15'' ＋ DL ''3'' 曲 ＝ ''18'' 曲
+-デフォルト ''55'' 曲 ＋ 隠し ''20'' 曲 ＋ DL ''40'' 曲 ＝ ''115'' 曲
+--裏譜面 ''15'' ＋ DL ''6'' 曲 ＝ ''21'' 曲
 
 -[[公式サイト>https://taikotdmx.taiko-ch.net]]
 -[[追加コンテンツ>Xbox1の収録曲/ダウンロードコンテンツ]]
@@ -23,7 +23,7 @@
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
 |BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(silver):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
-|''5'' 曲&br;(約4.4%)|''22'' 曲&br;(約19.1%)|''10'' 曲&br;(約8.7%)|''9'' 曲&br;(約7.8%)|''16'' 曲&br;(約13.9%)|''29'' 曲&br;(約25.2%)|''24'' 曲&br;(約20.9%)|
+|''5'' 曲&br;(約4.3%)|''22'' 曲&br;(約19.1%)|''10'' 曲&br;(約8.7%)|''9'' 曲&br;(約7.8%)|''16'' 曲&br;(約13.9%)|''29'' 曲&br;(約25.2%)|''24'' 曲&br;(約20.9%)|
 ----
 -凡例&br;''隠''・・・隠し曲
 //-凡例&br;''隠''・・・隠し曲&br;''DL''・・・ダウンロード曲
@@ -72,7 +72,7 @@
 ||''花オト裏拍子''&br;　　SIZE(11){はるなば}|115-145|[[★×3>難易度表/かんたん/花オト裏拍子]]|[[★×5>難易度表/ふつう/花オト裏拍子]]|[[★×6>難易度表/むずかしい/花オト裏拍子]]|[[★×9>難易度表/おに/花オト裏拍子]]|-|
 |>|>|>|>|>|>|>|BGCOLOR(lime):''バラエティ''&aname(variety);|
 |''DL''|''ネクロファンタジア 〜 Arr.Demetori''&br;　　SIZE(11){東方Projectアレンジ Demetori}|180|[[★×5>難易度表/かんたん/ネクロファンタジア 〜 Arr.Demetori]]|[[★×7>難易度表/ふつう/ネクロファンタジア 〜 Arr.Demetori]]|[[★×8>難易度表/むずかしい/ネクロファンタジア 〜 Arr.Demetori]]|[[★×10>難易度表/おに/ネクロファンタジア 〜 Arr.Demetori]]|-|
-|''DL''|''Grip & Break down !! -達人Edit.-''&br;　　SIZE(11){東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi}|160※|[[★×4>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]|[[★×5>難易度表/ふつう/Grip ＆ Break down !! -達人Edit.-]]|[[★×6>難易度表/むずかしい/Grip ＆ Break down !! -達人Edit.-]]|[[★×7>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]|[[★×9>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]|
+|''DL''|''Grip & Break down !! -達人Edit.-''&br;　　SIZE(11){東方Projectアレンジ SOUND HOLIC feat. Nana Takahashi}|160※|[[★×4>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]|[[★×5>難易度表/ふつう/Grip ＆ Break down !! -達人Edit.-]]|[[★×6>難易度表/むずかしい/Grip ＆ Break down !! -達人Edit.-]]|[[★×7>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]|[[★×9>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]|
 |''DL''|''明星ロケット''&br;　　SIZE(11){東方Projectアレンジ 岸田教団&THE明星ロケッツ}|168※|[[★×3>難易度表/かんたん/明星ロケット]]|[[★×5>難易度表/ふつう/明星ロケット]]|[[★×6>難易度表/むずかしい/明星ロケット]]|[[★×8>難易度表/おに/明星ロケット]]|-|
 |''DL''|''魔理沙は大変なものを盗んでいきました''&br;　　SIZE(11){東方Projectアレンジ ARM+夕野ヨシミ(IOSYS) feat. 藤咲かりん}|170|[[★×4>難易度表/かんたん/魔理沙は大変なものを盗んでいきました]]|[[★×5>難易度表/ふつう/魔理沙は大変なものを盗んでいきました]]|[[★×6>難易度表/むずかしい/魔理沙は大変なものを盗んでいきました]]|[[★×9>難易度表/おに/魔理沙は大変なものを盗んでいきました]]|-|
 |''DL''|''WARNING×WARNING×WARNING''&br;　　SIZE(11){東方Projectアレンジ 暁Records}|172|[[★×2>難易度表/かんたん/WARNING×WARNING×WARNING]]|[[★×4>難易度表/ふつう/WARNING×WARNING×WARNING]]|[[★×5>難易度表/むずかしい/WARNING×WARNING×WARNING]]|[[★×9>難易度表/おに/WARNING×WARNING×WARNING]]|-|
@@ -100,7 +100,7 @@
 |>|>|>|>|>|>|>|BGCOLOR(darkorchid):''ゲームミュージック''&aname(game);|
 |''DL''|''テイルズ オブ ベルセリア メドレー''|117-236※|[[★×4>難易度表/かんたん/テイルズ オブ ベルセリア メドレー]]|[[★×6>難易度表/ふつう/テイルズ オブ ベルセリア メドレー]]|[[★×6>難易度表/むずかしい/テイルズ オブ ベルセリア メドレー]]|[[★×8>難易度表/おに/テイルズ オブ ベルセリア メドレー]]|-|
 |''DL''|''KARMA(Tatsujin Mix)''&br;　　SIZE(11){「鉄拳6 BLOODLINE REBELLION」より}|145※|[[★×4>難易度表/かんたん/KARMA(Tatsujin Mix)]]|[[★×6>難易度表/ふつう/KARMA(Tatsujin Mix)]]|[[★×7>難易度表/むずかしい/KARMA(Tatsujin Mix)]]|[[★×9>難易度表/おに/KARMA(Tatsujin Mix)]]|-|
-|''DL''|''Wings of Tomorrow (Tatsujin Mix)''&br;　　SIZE(11){「GOD EATER 2」より}|160※|[[★×4>難易度表/かんたん/Wings of Tomorrow (Tatsujin Mix)]]|[[★×6>難易度表/ふつう/Wings of Tomorrow (Tatsujin Mix)]]|[[★×6>難易度表/むずかしい/Wings of Tomorrow (Tatsujin Mix)]]|[[★×9>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]|-|
+|''DL''|''Wings of Tomorrow(Tatsujin Mix)''&br;　　SIZE(11){「GOD EATER 2」より}|160※|[[★×4>難易度表/かんたん/Wings of Tomorrow (Tatsujin Mix)]]|[[★×6>難易度表/ふつう/Wings of Tomorrow (Tatsujin Mix)]]|[[★×6>難易度表/むずかしい/Wings of Tomorrow (Tatsujin Mix)]]|[[★×9>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]|-|
 |''DL''|''Comona''&br;　　SIZE(11){「ACE COMBAT 04」より}|138|[[★×3>難易度表/かんたん/Comona]]|[[★×5>難易度表/ふつう/Comona]]|[[★×7>難易度表/むずかしい/Comona]]|[[★×9>難易度表/おに/Comona]]|-|
 |''DL''|''The Invincible Blade''&br;　　SIZE(11){「ソウルキャリバーV」より}|140※|[[★×3>難易度表/かんたん/ソウルキャリバーV]]|[[★×4>難易度表/ふつう/ソウルキャリバーV]]|[[★×5>難易度表/むずかしい/ソウルキャリバーV]]|[[★×7>難易度表/おに/ソウルキャリバーV]]|-|
 |''DL''|''Heat Haze Shadow 2''&br;　　SIZE(11){「鉄拳7」より}|174|[[★×4>難易度表/かんたん/Heat Haze Shadow 2]]|[[★×6>難易度表/ふつう/Heat Haze Shadow 2]]|[[★×7>難易度表/むずかしい/Heat Haze Shadow 2]]|[[★×9>難易度表/おに/Heat Haze Shadow 2]]|-|

@@ -1862,7 +1862,7 @@
 |shohos|[[恋の処方箋>難易度表/おに/恋の処方箋]]||
 |shoto9|[[聖徳たいこの「日いずるまで飛鳥」>難易度表/おに/聖徳たいこの「日いずるまで飛鳥」]]||
 |shoujo|[[少女S>難易度表/おに/少女S]]||
-|shtage|[[Hacking to the Gate>難易度表/おに/Hacking to the Gate]]||
+|shtage|[[Hacking to the Gate>難易度表/おに/Hacking to the Gate]]|STEINS;GATE(シュタゲ)|
 |shuchi|[[羞恥心>難易度表/おに/羞恥心]]||
 |shugei|[[ニッティング・ハイ>難易度表/おに/ニッティング・ハイ]]|手芸|
 |shugkt|[[シューガク トラベラーズ>難易度表/おに/シューガク トラベラーズ]]||
@@ -1906,12 +1906,12 @@
 |solstr|[[Solitude Star>難易度表/おに/Solitude Star]]||
 |sonata|[[最初から今まで>難易度表/おに/最初から今まで]]|冬のソナタ|
 |sonic4|[[ソニック4 エピソードI メドレー>難易度表/おに/ソニック4 エピソードI メドレー]]||
-|sora1x|[[SORA-I アースライズ>難易度表/おに/SORA-I アースライズ]]||
-|sora2x|[[SORA-II グリーゼ581>難易度表/おに/SORA-II グリーゼ581]]||
-|sora3x|[[SORA-III ヘリオポーズ>難易度表/おに/SORA-III ヘリオポーズ]]||
-|sora4x|[[SORA-IV ブンパソング>難易度表/おに/SORA-IV ブンパソング]]||
-|sora6x|[[SORA-VI 火ノ鳥>難易度表/おに/SORA-VI 火ノ鳥]]||
-|sora7x|[[SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]||
+|sora1x|[[SORA-I アースライズ>難易度表/おに/SORA-I アースライズ]]|SORAシリーズ(ただし�垢里�''cosmb''である)|
+|sora2x|[[SORA-II グリーゼ581>難易度表/おに/SORA-II グリーゼ581]]|~|
+|sora3x|[[SORA-III ヘリオポーズ>難易度表/おに/SORA-III ヘリオポーズ]]|~|
+|sora4x|[[SORA-IV ブンパソング>難易度表/おに/SORA-IV ブンパソング]]|~|
+|sora6x|[[SORA-VI 火ノ鳥>難易度表/おに/SORA-VI 火ノ鳥]]|~|
+|sora7x|[[SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|~|
 |soran|[[ソーラン節>難易度表/おに/ソーラン節]]||
 |soroba|[[十露盤2000>難易度表/おに/十露盤2000]]||
 |souda|[[そうだ！We're ALIVE>難易度表/おに/そうだ！We're ALIVE]]||
