@@ -5,7 +5,7 @@
 
 ~｜[[あ行>#agyo]]｜[[か行>#kagyo]]｜[[さ行>#sagyo]]｜[[た行>#tagyo]]｜[[な行>#nagyo]]｜
 ~｜[[は行>#hagyo]]｜[[ま行>#magyo]]｜[[や行>#yagyo]]｜[[ら行>#ragyo]]｜[[わ行>#wagyo]]｜
-~｜[[アルファベット、数字>#alphabet]]｜
+~｜[[アルファベット(A~F)>#alphabetaf]]｜[[アルファベット(G~P)>#alphabetgp]]｜[[アルファベット(Q~Z)>#alphabetqz]]｜[[数字>#number]]｜
 
 **あ行〜わ行 [#awa]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
@@ -469,7 +469,7 @@
 **アルファベット、数字 [#az09]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(アルファベット順)|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット、数字''&aname(alphabet);|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(A~F)''&aname(alphabetaf);|
 |''Agent Hustle & Dr. Hassle''|240|[[★×4>難易度表/かんたん/Agent Hustle ＆ Dr. Hassle]]|[[★×5>難易度表/ふつう/Agent Hustle ＆ Dr. Hassle]]|[[★×6>難易度表/むずかしい/Agent Hustle ＆ Dr. Hassle]]|[[★×10>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|[[★×9>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|
 |''Amanda''|123|[[★×3>難易度表/かんたん/Amanda]]|[[★×4>難易度表/ふつう/Amanda]]|[[★×5>難易度表/むずかしい/Amanda]]|[[★×8>難易度表/おに/Amanda]]|-|
 |''Aloft in the wind''|201|[[★×3>難易度表/かんたん/Aloft in the wind]]|[[★×5>難易度表/ふつう/Aloft in the wind]]|[[★×6>難易度表/むずかしい/Aloft in the wind]]|[[★×7>難易度表/おに/Aloft in the wind]]|-|
@@ -513,6 +513,7 @@
 |''Fly away''|200|[[★×4>難易度表/かんたん/Fly away]]|[[★×5>難易度表/ふつう/Fly away]]|[[★×5>難易度表/むずかしい/Fly away]]|[[★×7>難易度表/おに/Fly away]]|-|
 |''&#x0046;ooFooカセット''|175|[[★×4>難易度表/かんたん/FooFooカセット]]|[[★×6>難易度表/ふつう/FooFooカセット]]|[[★×6>難易度表/むずかしい/FooFooカセット]]|[[★×9>難易度表/おに/FooFooカセット]]|-|
 |''Freeway3234''|145※|[[★×4>難易度表/かんたん/Freeway3234]]|[[★×6>難易度表/ふつう/Freeway3234]]|[[★×7>難易度表/むずかしい/Freeway3234]]|[[★×8>難易度表/おに/Freeway3234]]|-|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(G~P)''&aname(alphabetgp);|
 |''G意識過剰''|200|[[★×5>難易度表/かんたん/G意識過剰]]|[[★×6>難易度表/ふつう/G意識過剰]]|[[★×7>難易度表/むずかしい/G意識過剰]]|[[★×9>難易度表/おに/G意識過剰]]|-|
 |''Galaga'88''|140|-|BGCOLOR(#ccc):BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Galaga'88]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Galaga'88]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Galaga'88]]|-|
 |''GERMINATION''|160-192※|[[★×5>難易度表/かんたん/GERMINATION]]|[[★×6>難易度表/ふつう/GERMINATION]]|[[★×7>難易度表/むずかしい/GERMINATION]]|[[★×7>難易度表/おに/GERMINATION]]|-|
@@ -559,6 +560,7 @@
 |''Princess of Donder''|200-210|[[★×4>難易度表/かんたん/Princess of Donder]]|[[★×5>難易度表/ふつう/Princess of Donder]]|[[★×5>難易度表/むずかしい/Princess of Donder]]|[[★×9>難易度表/おに/Princess of Donder]]|-|
 |''punk bastards''|225|[[★×5>難易度表/かんたん/punk bastards]]|[[★×6>難易度表/ふつう/punk bastards]]|[[★×7>難易度表/むずかしい/punk bastards]]|[[★×9>難易度表/おに/punk bastards]]|-|
 |''Purple Rose Fusion''|185-250|[[★×5>難易度表/かんたん/Purple Rose Fusion]]|[[★×7>難易度表/ふつう/Purple Rose Fusion]]|[[★×8>難易度表/むずかしい/Purple Rose Fusion]]|[[★×10>難易度表/おに/Purple Rose Fusion]]|-|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(Q~Z)''&aname(alphabetqz);|
 |''Red Rose Evangel''|178|[[★×5>難易度表/かんたん/Red Rose Evangel]]|[[★×7>難易度表/ふつう/Red Rose Evangel]]|[[★×7>難易度表/むずかしい/Red Rose Evangel]]|[[★×9>難易度表/おに/Red Rose Evangel]]|-|
 |''R.I.''|190|[[★×5>難易度表/かんたん/R.I.]]|[[★×7>難易度表/ふつう/R.I.]]|[[★×8>難易度表/むずかしい/R.I.]]|[[★×10>難易度表/おに/R.I.]]|-|
 |''ROTTERDAM NATION(FOO MIX)''|185-221|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(#ccc):[[★×10>難易度表/おに/ROTTERDAM NATION(FOO MIX)]]|-|
@@ -604,6 +606,7 @@
 |''Xa''|290|[[★×5>難易度表/かんたん/Xa]]|[[★×6>難易度表/ふつう/Xa]]|[[★×7>難易度表/むずかしい/Xa]]|[[★×9>難易度表/おに/Xa]]|[[★×10>難易度表/おに/Xa(裏譜面)]]|
 |''X-DAY2000''|190|[[★×5>難易度表/かんたん/X-DAY2000]]|[[★×7>難易度表/ふつう/X-DAY2000]]|[[★×8>難易度表/むずかしい/X-DAY2000]]|[[★×10>難易度表/おに/X-DAY2000]]|-|
 |''YOAKE''|202|[[★×4>難易度表/かんたん/YOAKE]]|[[★×7>難易度表/ふつう/YOAKE]]|[[★×8>難易度表/むずかしい/YOAKE]]|[[★×10>難易度表/おに/YOAKE]]|-|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''数字''&aname(number);|
 |''1/2 〜inside me''|184-217|[[★×4>難易度表/かんたん/1／2 〜inside me]]|[[★×6>難易度表/ふつう/1／2 〜inside me]]|[[★×7>難易度表/むずかしい/1／2 〜inside me]]|[[★×9>難易度表/おに/1／2 〜inside me]]|-|
 |''1・2・さんしのでドンドカッカッ！''|142|[[★×1>難易度表/かんたん/1・2・さんしのでドンドカッカッ！]]|[[★×1>難易度表/ふつう/1・2・さんしのでドンドカッカッ！]]|[[★×4>難易度表/むずかしい/1・2・さんしのでドンドカッカッ！]]|[[★×7>難易度表/おに/1・2・さんしのでドンドカッカッ！]]|[[★×9>難易度表/おに/1・2・さんしのでドンドカッカッ！(裏譜面)]]|
 |''142トキノワタリドリ''|9.64-212.67|[[★×5>難易度表/かんたん/142トキノワタリドリ]]|[[★×6>難易度表/ふつう/142トキノワタリドリ]]|[[★×7>難易度表/むずかしい/142トキノワタリドリ]]|[[★×8>難易度表/おに/142トキノワタリドリ]]|-|
