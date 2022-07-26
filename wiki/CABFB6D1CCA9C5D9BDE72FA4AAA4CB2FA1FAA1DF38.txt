@@ -761,7 +761,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.500未満''|
 |>|BGCOLOR(orange):|BGCOLOR(orangered):|[[行け、メカドン！>難易度表/おに/行け、メカドン！]]|''3.402''|141.27※|302|88.77秒||
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[スピードCOLOR(#5f5f5f):(普通譜面)>難易度表/おに/スピード]]|''3.398''|206|285|83.88秒||
-|>|BGCOLOR(lime):|BGCOLOR(cyan):|[[Rhythm and Police>難易度表/おに/Rhythm and Police]]|''3.333''|140.9|352|105.61秒|旧譜面|
+|>|BGCOLOR(lime):|BGCOLOR(cyan):|[[Rhythm and Police>難易度表/おに/Rhythm and Police]]|''3.336''|141|352|105.53秒|旧譜面|
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[サザエさん一家>難易度表/おに/サザエさん一家]]|''3.222''|183.97|248|76.97秒|旧譜面|
 |>|>|BGCOLOR(hotpink):|[[ルパン三世のテーマ'78COLOR(#5f5f5f):(普通譜面)>難易度表/おに/ルパン三世のテーマ '78]]|''3.185''|137|234|73.47秒|AC2,3|
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.000未満''|

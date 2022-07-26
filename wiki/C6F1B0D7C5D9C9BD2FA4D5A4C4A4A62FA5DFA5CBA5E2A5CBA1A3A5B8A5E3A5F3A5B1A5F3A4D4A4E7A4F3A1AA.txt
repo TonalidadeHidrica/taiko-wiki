@@ -32,4 +32,4 @@
 ~&attachref(mnjan_ac2_n.png,nolink);
 
 ~AC2譜面(2人用)
-~&attachref(zyankendon.png,nolink);
+~&attachref(ファイル名考えるのめんどい.png,nolink);

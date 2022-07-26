@@ -16,11 +16,11 @@
 -メドレー順は以下の通り。
 |>|CENTER:|c
 |>|メドレー順((''太字''はゴーゴータイム))|h
-|1〜23小節|Splash Hill Zone Act 1|
-|24〜41小節|''&#67;asino Street Zone Act 1''|
-|42〜57小節|Lost Labyrinth Zone Act 1|
-|58〜78小節|''Mad Gear Zone Act 1''|
-|79〜86小節|Boss : Dr. Eggman|
+|1-23小節|Splash Hill Zone Act 1|
+|24-41小節|''&#67;asino Street Zone Act 1''|
+|42-57小節|Lost Labyrinth Zone Act 1|
+|58-78小節|''Mad Gear Zone Act 1''|
+|79-86小節|Boss : Dr. Eggman|
 |87小節以降|''Act Clear''|
 
 -この曲を選ぶと、踊り子がソニックに登場するキャラクターや敵モンスターになる。

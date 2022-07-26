@@ -1,0 +1,25 @@
+*The Power Of Love [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PTB''|BGCOLOR(cyan):''ポップス''|★×2|''61''|''310920点''|＋連打|1230点|1215点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){11880点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは約119。
+
+***その他 [#other]
+-タイアップ、楽曲情報は[[おに譜面>難易度表/おに/The Power Of Love]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/The Power Of Love]]
+-[[むずかしい>難易度表/むずかしい/The Power Of Love]]
+-[[おに>難易度表/おに/The Power Of Love]]
+-[[オート動画>https://www.youtube.com/watch?v=3ax_lCmX0v4]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(powlov_e.png,nolink);
