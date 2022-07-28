@@ -362,8 +362,6 @@
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
 |''MAGICAL SOUND SHOWER''&br;　　SIZE(11){アウトラン}|125|[[★×4>難易度表/かんたん/MAGICAL SOUND SHOWER]]|[[★×6>難易度表/ふつう/MAGICAL SOUND SHOWER]]|[[★×7>難易度表/むずかしい/MAGICAL SOUND SHOWER]]|[[★×9>難易度表/おに/MAGICAL SOUND SHOWER]]|-|
 |''&#77;achineGun Kiss''&br;　　SIZE(11){龍が如く4 伝説を継ぐもの}|178|BGCOLOR(silver):[[★×4>難易度表/かんたん/MachineGun Kiss]]|BGCOLOR(silver):[[★×4>難易度表/ふつう/MachineGun Kiss]]|BGCOLOR(silver):[[★×3>難易度表/むずかしい/MachineGun Kiss]]|BGCOLOR(silver):[[★×6>難易度表/おに/MachineGun Kiss]]|BGCOLOR(silver):-|
-|''初音ミクの激唱''&br;　　SIZE(11){初音ミク‐Project DIVA‐2nd}|200※|[[★×5>難易度表/かんたん/初音ミクの激唱]]|[[★×6>難易度表/ふつう/初音ミクの激唱]]|[[★×6>難易度表/むずかしい/初音ミクの激唱]]|[[★×10>難易度表/おに/初音ミクの激唱]]|-|
-|~|~|BGCOLOR(silver):[[★×5>難易度表/かんたん/初音ミクの激唱(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/初音ミクの激唱(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/初音ミクの激唱(裏譜面)]]|-|[[★×10>難易度表/おに/初音ミクの激唱(裏譜面)]]|
 |''Ridge racer(RIDGE RACER USA MIX)''&br;　　SIZE(11){デイトナUSA}|232|[[★×4>難易度表/かんたん/Ridge racer (RIDGE RACER USA MIX)]]|[[★×6>難易度表/ふつう/Ridge racer (RIDGE RACER USA MIX)]]|[[★×7>難易度表/むずかしい/Ridge racer (RIDGE RACER USA MIX)]]|[[★×9>難易度表/おに/Ridge racer (RIDGE RACER USA MIX)]]|-|
 |''Outride a Crisis''&br;　　SIZE(11){SUPER HANG-ON}|170|[[★×4>難易度表/かんたん/Outride a Crisis]]|[[★×6>難易度表/ふつう/Outride a Crisis]]|[[★×7>難易度表/むずかしい/Outride a Crisis]]|[[★×9>難易度表/おに/Outride a Crisis]]|-|
 |''檄！帝国華撃団''&br;　　SIZE(11){サクラ大戦}|143|[[★×2>難易度表/かんたん/檄！帝国華撃団]]|[[★×3>難易度表/ふつう/檄！帝国華撃団]]|[[★×5>難易度表/むずかしい/檄！帝国華撃団]]|[[★×7>難易度表/おに/檄！帝国華撃団]]|-|
