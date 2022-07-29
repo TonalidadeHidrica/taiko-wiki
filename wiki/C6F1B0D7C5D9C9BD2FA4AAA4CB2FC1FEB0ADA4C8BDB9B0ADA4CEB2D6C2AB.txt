@@ -33,7 +33,7 @@
 -[[ふつう>難易度表/ふつう/憎悪と醜悪の花束]]
 -[[むずかしい>難易度表/むずかしい/憎悪と醜悪の花束]]
 -おに/[[裏譜面>../憎悪と醜悪の花束(裏譜面)]]
--[[プレイ動画>https://www.youtube.com/watch?v=cEgIbzYudWs]]
+-[[プレイ動画>https://youtu.be/cEgIbzYudWs?t=11]]
 -[[公式音源動画>https://youtu.be/ZvEpbVG99gw]]
 
 ***コメント [#comment]
@@ -41,5 +41,5 @@
 
 ***譜面 [#score]
 ~BPM・HS等は暫定です。
-~42〜44小節目は、そのまま入力すると風船の表示がおかしくなるため、[[裏譜面>../憎悪と醜悪の花束(裏譜面)]]とは異なるBPM・拍子にしてあります。
-~&attachref(Bouquet with Hatred & Ugliness_6.png,nolink);
+~41~43小節はそのまま入力すると風船の表示がおかしくなるため、[[裏譜面>../憎悪と醜悪の花束(裏譜面)]]とは異なるBPM・拍子になっています。
+~&attachref(Bouquet with Hatred & Ugliness_7.png,nolink);

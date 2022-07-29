@@ -261,15 +261,15 @@
 |~|1st|[[アレキサンダーのテーマ>難易度表/おに/アレキサンダーのテーマ]]|おに★×8|''644コンボ''|COLOR(red){98%以上}&br;COLOR(#cccc33){''???%以上''}|COLOR(red){70未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){26未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){70打以上}&br;COLOR(#cccc33){''??以上''}|
 |~|2nd|[[Agent Hustle & Dr. Hassle&br;''(裏)''>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|おに★×9|''518コンボ''|~|~|~|COLOR(red){20打以上}&br;COLOR(#cccc33){''??以上''}|
 |~|3rd|[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]|おに★×9|''777コンボ''|~|~|~|COLOR(red){60打以上}&br;COLOR(#cccc33){''??以上''}|
-|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''Vバージョンからの挑戦状#1【粋】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/Vバージョンからの挑戦状＃1【粋】]]|BGCOLOR(#f7e5b7):SIZE(16){''2036''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''コンボ数''|BGCOLOR(#f7e5b7):-|BGCOLOR(#f7e5b7):-|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''Vバージョンからの挑戦状#1【粋】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/Vバージョンからの挑戦状＃1]]|BGCOLOR(#f7e5b7):SIZE(16){''2036''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''コンボ数''|BGCOLOR(#f7e5b7):-|BGCOLOR(#f7e5b7):-|
 |~|1st|[[黒神クロニクル>難易度表/おに/黒神クロニクル]]|おに★×7|''567コンボ''|COLOR(red){98%以上}&br;COLOR(#cccc33){''???%以上''}|COLOR(red){170コンボ以上}&br;COLOR(#cccc33){''??以上''}|-|-|
 |~|2nd|[[BLAZING VORTEX>難易度表/おに/BLAZING VORTEX]]|おに★×7|''797コンボ''|~|COLOR(red){239コンボ以上}&br;COLOR(#cccc33){''??以上''}|~|~|
 |~|3rd|[[希望へのメロディー>難易度表/おに/希望へのメロディー]]|おに★×7|''672コンボ''|~|COLOR(red){201コンボ以上}&br;COLOR(#cccc33){''??以上''}|~|~|
-|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''Vバージョンからの挑戦状#1【雅】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/Vバージョンからの挑戦状＃1【雅】]]|BGCOLOR(#f7e5b7):SIZE(16){''2036''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''スコア''|BGCOLOR(#f7e5b7):-|BGCOLOR(#f7e5b7):-|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''Vバージョンからの挑戦状#1【雅】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/Vバージョンからの挑戦状＃1]]|BGCOLOR(#f7e5b7):SIZE(16){''2036''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''スコア''|BGCOLOR(#f7e5b7):-|BGCOLOR(#f7e5b7):-|
 |~|1st|[[黒神クロニクル>難易度表/おに/黒神クロニクル]]|おに★×7|''567コンボ''|COLOR(red){99%以上}&br;COLOR(#cccc33){''???%以上''}|COLOR(red){2820000点以上}&br;COLOR(#cccc33){''??点以上''}|-|-|
 |~|2nd|[[BLAZING VORTEX>難易度表/おに/BLAZING VORTEX]]|おに★×7|''797コンボ''|~|~|~|~|
 |~|3rd|[[希望へのメロディー>難易度表/おに/希望へのメロディー]]|おに★×7|''672コンボ''|~|~|~|~|
-|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''Vバージョンからの挑戦状#1【極】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/Vバージョンからの挑戦状＃1【極】]]|BGCOLOR(#f7e5b7):SIZE(16){''2295''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''スコア''|BGCOLOR(#f7e5b7):-|BGCOLOR(#f7e5b7):-|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''Vバージョンからの挑戦状#1【極】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/Vバージョンからの挑戦状＃1]]|BGCOLOR(#f7e5b7):SIZE(16){''2295''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''スコア''|BGCOLOR(#f7e5b7):-|BGCOLOR(#f7e5b7):-|
 |~|1st|[[黒神クロニクル>難易度表/おに/黒神クロニクル]]|おに★×7|''567コンボ''|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){990000点以上}&br;COLOR(#cccc33){''??点以上''}|-|-|
 |~|2nd|[[BLAZING VORTEX>難易度表/おに/BLAZING VORTEX]]|おに★×7|''797コンボ''|~|COLOR(red){995000点以上}&br;COLOR(#cccc33){''??点以上''}|~|~|
 |~|3rd|[[希望へのメロディー&br;''(裏)''>難易度表/おに/希望へのメロディー(裏譜面)]]|おに★×9|''931コンボ''|~|COLOR(red){975000点以上}&br;COLOR(#cccc33){''??点以上''}|~|~|

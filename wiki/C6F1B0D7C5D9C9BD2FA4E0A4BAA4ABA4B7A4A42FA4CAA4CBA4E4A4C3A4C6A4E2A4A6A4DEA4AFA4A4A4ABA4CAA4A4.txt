@@ -22,4 +22,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(なにやってもうまくいかない_h.png,nolink);
+~&attachref(なにやってもうまくいかない_h2.png,nolink);

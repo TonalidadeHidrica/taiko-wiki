@@ -402,7 +402,7 @@
 ***1000〜 [#n6f0a816]
 |CENTER:曲名|CENTER:バージョン|CENTER:BPM|CENTER:HS|CENTER:見た目BPM|備考|h
 ||LEFT:1|BGCOLOR(gray):LEFT:1|BGCOLOR(gray):LEFT:1|LEFT:1||c
-|[[憎悪と醜悪の花束(裏譜面)>難易度表/おに/憎悪と醜悪の花束(裏譜面)]]|AC16.2.6SP|295|13|3835|歴代一位|
+|[[憎悪と醜悪の花束(裏譜面)>難易度表/おに/憎悪と醜悪の花束(裏譜面)]]|AC16.2.6SP|300|13|3900|歴代一位|
 |[[怪獣少女は火を吹かない(裏譜面)>難易度表/おに/怪獣少女は火を吹かない(裏譜面)]]|AC16.2.7|200|17|3400||
 |[[White Rose Insanity(裏譜面)>難易度表/おに/White Rose Insanity(裏譜面)]]|PSPDXSP|276|5.73|1581.48|(138×2)×''5.73''（Tatsh）&br;PSPDX以外では138×11.46＝1581.48|
 |[[dance storm>難易度表/おに/dance storm]]|Wii4SP|190|8|1520||
