@@ -46,5 +46,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~ふうせんの長さは暫定
-~&attachref(pripar.png,nolink);
+~&attachref(pripar_e.png,nolink);

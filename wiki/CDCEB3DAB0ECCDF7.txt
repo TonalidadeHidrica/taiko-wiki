@@ -11,8 +11,8 @@
 |''MOSKAU''|131.5|[[★×3>難易度表/かんたん/MOSKAU]]|[[★×5>難易度表/ふつう/MOSKAU]]|[[★×6>難易度表/むずかしい/MOSKAU]]|[[★×7>難易度表/おに/MOSKAU]]|
 |''ABC''|189|[[★×2>難易度表/かんたん/ABC]]|[[★×2>難易度表/ふつう/ABC]]|[[★×2>難易度表/おに/ABC]]|[[★×2>難易度表/おに/ABC]]|
 |''I Want You Back''|98|[[★×3>難易度表/かんたん/I Want You Back]]|[[★×3>難易度表/ふつう/I Want You Back]]|[[★×5>難易度表/むずかしい/I Want You Back]]|[[★×8>難易度表/おに/I Want You Back]]|
-|''スリラー''|109|[[★×3>難易度表/かんたん/スリラー]]|[[★×4>難易度表/ふつう/スリラー]]|[[★×6>難易度表/むずかしい/スリラー]]|[[★×8>難易度表/おに/スリラー]]|
-|''Killer Queen''|118.5|[[★×2>難易度表/かんたん/Killer Queen]]|[[★×3>難易度表/ふつう/Killer Queen]]|[[★×4>難易度表/むずかしい/Killer Queen]]|[[★×5>難易度表/おに/Killer Queen]]|
+|''スリラー''|118.5|[[★×3>難易度表/かんたん/スリラー]]|[[★×4>難易度表/ふつう/スリラー]]|[[★×6>難易度表/むずかしい/スリラー]]|[[★×8>難易度表/おに/スリラー]]|
+|''Killer Queen''|109|[[★×2>難易度表/かんたん/Killer Queen]]|[[★×3>難易度表/ふつう/Killer Queen]]|[[★×4>難易度表/むずかしい/Killer Queen]]|[[★×5>難易度表/おに/Killer Queen]]|
 |''I Was Born To Love You''|139.3|[[★×4>難易度表/かんたん/I Was Born To Love You]]|[[★×6>難易度表/ふつう/I Was Born To Love You]]|[[★×7>難易度表/むずかしい/I Was Born To Love You]]|[[★×7>難易度表/おに/I Was Born To Love You]]|
 |''WE WILL ROCK YOU''|162|[[★×2>難易度表/かんたん/We Will Rock You]]|[[★×2>難易度表/ふつう/We Will Rock You]]|[[★×3>難易度表/むずかしい/We Will Rock You]]|[[★×5>難易度表/おに/We Will Rock You]]|
 |''The Loco-Motion''|129|[[★×4>難易度表/かんたん/The Loco-Motion]]|[[★×3>難易度表/ふつう/The Loco-Motion]]|[[★×5>難易度表/むずかしい/The Loco-Motion]]|[[★×7>難易度表/おに/The Loco-Motion]]|

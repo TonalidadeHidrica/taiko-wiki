@@ -18,7 +18,7 @@
 -序盤で1回だけ出てくる8分の複合7連打(COLOR(red){●●}COLOR(blue){○○○○}COLOR(red){●})に注意。
 
 ***その他 [#other]
--タイアップ・楽曲情報は[[おに>難易度表/おに/Follow Me#title]][[譜面>難易度表/おに/Follow Me#other]]を参照。
+-楽曲情報は[[おに>難易度表/おに/Follow Me#other]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/Follow Me]]
 -[[ふつう>難易度表/ふつう/Follow Me]]

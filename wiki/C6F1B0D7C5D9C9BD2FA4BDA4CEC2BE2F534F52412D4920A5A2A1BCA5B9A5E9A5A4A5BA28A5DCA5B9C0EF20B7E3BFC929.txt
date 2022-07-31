@@ -4,7 +4,7 @@
 ***詳細 [#s3f315d8]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
 |バージョン|最大コンボ数|爆弾音符|ゲキトツ音符||h
-|''Wii2''|''411''|COLOR(#11a):''24''|COLOR(#da2):''1''|＋連打|
+|''Wii2''|''410''|COLOR(#11a):''24''|COLOR(#da2):''1''|＋連打|
 ***譜面構成・攻略 [#b3c89aae]
 -BPMは134。
 -[[演奏モードのおに>難易度表/おに/SORA-I アースライズ]]の譜面をベースにしているが、56〜58小節は激突連打になっており、以降62小節まで音符がない。
@@ -13,7 +13,7 @@
 ----
 -[[甘口>難易度表/その他/SORA-I アースライズ(ボス戦 甘口)]]
 -[[辛口>難易度表/その他/SORA-I アースライズ(ボス戦 辛口)]]
--[[プレイ動画(6:07~)>https://www.youtube.com/watch?v=frSl3XKruss]]
+-[[プレイ動画>https://www.youtube.com/watch?v=XbU6b7G8B8I]]
 
 ***コメント [#c8f0d2df]
 #pcomment(,noname)

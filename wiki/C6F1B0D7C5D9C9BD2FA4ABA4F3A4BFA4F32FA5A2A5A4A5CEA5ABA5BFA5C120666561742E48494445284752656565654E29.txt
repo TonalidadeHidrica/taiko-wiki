@@ -18,7 +18,7 @@
 -1曲を通しての平均密度は、''約0.77打/秒''である。
 
 ***その他 [#other]
--タイアップ・楽曲情報は[[おに>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)#title]][[譜面>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)#other]]を参照。
+-楽曲情報は[[おに>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)#other]]を参照。
 ----
 -[[ふつう>難易度表/ふつう/アイノカタチ feat.HIDE(GReeeeN)]]
 -[[むずかしい>難易度表/むずかしい/アイノカタチ feat.HIDE(GReeeeN)]]

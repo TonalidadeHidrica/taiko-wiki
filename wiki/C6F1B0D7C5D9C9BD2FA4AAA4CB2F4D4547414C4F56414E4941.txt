@@ -30,8 +30,8 @@
 ***その他 [#other]
 -作曲は、''Toby Fox''。
 --曲名は、スクウェアのRPG「ライブ・ア・ライブ」のボス戦BGM「MEGALOMANIA」と、ルーマニアの地名「Transylvania」を掛け合わせたもの。
--2022年7月3日に[[『ANIME EXPO』>https://www.twitch.tv/videos/1520571393]]((リンク先はTwitchの配信アーカイブ。16分55秒頃を参照))で行われた発表内の映像から、NS2で裏譜面が追加されることが判明した。
-//-2022年7月3日に[[『ANIME EXPO』>https://www.twitch.tv/videos/1520571393]]((リンク先はTwitchの配信アーカイブ。16分55秒頃を参照))で行われた発表内の映像から、NS2で[[裏譜面>../MEGALOVANIA(裏譜面)]]が追加されることが判明した。
+-2022年7月3日に『[[ANIME EXPO>https://www.twitch.tv/videos/1520571393]]』((リンク先はTwitchの配信アーカイブ。16分55秒頃を参照))で行われた発表内の映像から、NS2で裏譜面が追加されることが判明した。
+//-2022年7月3日に『[[ANIME EXPO>https://www.twitch.tv/videos/1520571393]]』((リンク先はTwitchの配信アーカイブ。16分55秒頃を参照))で行われた発表内の映像から、NS2で[[裏譜面>../MEGALOVANIA(裏譜面)]]が追加されることが判明した。
 -曲IDは、''udtmgl''。
 
 ----

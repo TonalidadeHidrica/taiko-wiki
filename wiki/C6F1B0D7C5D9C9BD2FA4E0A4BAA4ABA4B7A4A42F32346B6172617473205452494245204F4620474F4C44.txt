@@ -15,7 +15,7 @@
 --うち28個がゴーゴータイム内にあり、特に24小節と38小節以降に集中しているため、特良逃しに注意。
 
 ***その他 [#other]
--タイアップ・楽曲情報は[[おに>難易度表/おに/24karats TRIBE OF GOLD#title]][[譜面>難易度表/おに/24karats TRIBE OF GOLD#other]]を参照。
+-楽曲情報は[[おに>難易度表/おに/24karats TRIBE OF GOLD#other]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/24karats TRIBE OF GOLD]]
 -[[ふつう>難易度表/ふつう/24karats TRIBE OF GOLD]]
