@@ -1,6 +1,5 @@
 *ミニモニ。ジャンケンぴょん！ [#title]
 -テレビ東京系「''おはスタ''」挿入歌。
-
 ***詳細 [#more]
 |>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|h
@@ -25,12 +24,11 @@
 --作詞・作曲は、つんく。編曲は、小西貴雄。
 --ミニモニ。のシングルでは最大の売上を記録した。
 -曲IDは、''mini''。
-
 ----
 -[[かんたん>難易度表/かんたん/ミニモニ。ジャンケンぴょん！]]
 -[[ふつう>難易度表/ふつう/ミニモニ。ジャンケンぴょん！]]
 -[[むずかしい>難易度表/むずかしい/ミニモニ。ジャンケンぴょん！]]
--[[プレイ動画(CS2)>https://www.youtube.com/watch?v=j-Pe9iAu7R0]]
+-[[プレイ動画(CS2)>https://www.youtube.com/watch?v=i4S37byMeJg]]
 -プレイ動画(AC2)
 --[[COLOR(#666):普通譜面>https://www.youtube.com/watch?v=iV_tJNwhiJM]]/[[COLOR(#069):玄人譜面>https://www.youtube.com/watch?v=FPIV_ngYWWQ]]/[[COLOR(#909):達人譜面>https://www.youtube.com/watch?v=4KO_uEyavNc]]
 

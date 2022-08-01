@@ -502,6 +502,7 @@
 |d96can|[[毒LOCANdy&#9825;>難易度表/おに/毒LOCANdy]]||
 |dagasi|[[Checkmate!?>難易度表/おに/Checkmate!?]]|だがしかし|
 |daig|[[それが大事>難易度表/おに/それが大事]]||
+|daig2|~|新音源・新譜面|
 |daiku|[[第九交響曲>難易度表/おに/第九交響曲]]|clsxxxではない|
 |daja|[[ダジャレdeオシャレ>難易度表/おに/ダジャレdeオシャレ]]||
 |dancec|[[Shooting Star>難易度表/おに/Shooting Star]]|ハッピーダンスコレクション|
@@ -825,7 +826,7 @@
 |gnkcrt|[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]||
 |gntkag|[[カゲロウ>難易度表/おに/カゲロウ]]|銀魂.|
 |go|[[GO!!!>難易度表/おに/GO!!!]]||
-|go2|~|新譜面|
+|go2|~|新音源|
 |go9ra9|[[極楽浄土>難易度表/おに/極楽浄土]]||
 |godea2|[[Wings of Tomorrow (Tatsujin Mix)>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]|GOD EATER|
 |godea3|[[Blood Rage>難易度表/おに/Blood Rage]]|~|

@@ -128,8 +128,8 @@
 - 5a026a7e8e4496abfb04f51281c0c7f5
 
 //7/28 ミックスナッツSageコメント連投
-- 80aa1a2bdacc7381e5b403dd6f5dfa87
-- 0db15f22bfbc35514bae61d364e35fe2
+//- 80aa1a2bdacc7381e5b403dd6f5dfa87
+//- 0db15f22bfbc35514bae61d364e35fe2
 //- 2e8bb45b1939a36c0f8e6783c5b092ee
 //- 267babcd28189c059559e71f2250fd72
 
@@ -145,9 +145,9 @@
 
 //7/16 +1
 //- 210.168.136.254
-- 35e178f4ccc0aa9b5fcbf309ed9c75f3
+//- 35e178f4ccc0aa9b5fcbf309ed9c75f3
 //- 60.95.40.168
-- 8239ee1b3b7acc12cf89428f4f5a68c6
+//- 8239ee1b3b7acc12cf89428f4f5a68c6
 
 //7/15 コメント改変および削除
 //- 9f69814491dde88919c71d19fd91f6b0
@@ -164,9 +164,9 @@
 //- 6ddd6040277a5a380a281693bb32db13
 
 //Undertaleのデマ、執拗なコメント及び編集(panda-world) +2
-- bbecaaf6cc4b7782c6fbdd1160592915
-- 3b61376ce29105b0d0c2a196dabb92e2
-- 8712eeaefcdaf96ae3599a9ca8fb6353
+//- bbecaaf6cc4b7782c6fbdd1160592915
+//- 3b61376ce29105b0d0c2a196dabb92e2
+//- 8712eeaefcdaf96ae3599a9ca8fb6353
 
 // 7/1 ページ大量削除(bbtec.net) 下に同じ
 - fa7454ea8636032966de1f4089420766

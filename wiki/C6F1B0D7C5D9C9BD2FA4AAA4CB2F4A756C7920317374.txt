@@ -1,6 +1,5 @@
 *July 1st [#title]
 -コーセー「''ヴィセ''」CMソング。
-
 ***詳細 [#more]
 |>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|h
@@ -21,7 +20,7 @@
 -[[かんたん>難易度表/かんたん/July 1st]]
 -[[ふつう>難易度表/ふつう/July 1st]]
 -[[むずかしい>難易度表/むずかしい/July 1st]]
--[[プレイ動画>https://www.youtube.com/watch?v=DSrqG6PAZOI]]
+-[[プレイ動画>https://www.youtube.com/watch?v=WizIWN3VnCY]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -45,16 +45,15 @@
 --その後NS1にも収録され、iOS/ARにも配信されたが、表譜面のみであり、何故か[[裏譜面>../おどるポンポコリン(裏譜面)]]は収録されなかった。また、今のところACにも収録されていない。
 --3DS3では、2023年3月28日をもって新規DLができなくなる。
 -曲IDは、''odoru''。
-
 ----
 -[[かんたん>難易度表/かんたん/おどるポンポコリン]]
 -[[ふつう>難易度表/ふつう/おどるポンポコリン]]
 -[[むずかしい>難易度表/むずかしい/おどるポンポコリン]]
 -おに/[[裏譜面>../おどるポンポコリン(裏譜面)]]
 -[[プレイ動画(AC15)>https://www.youtube.com/watch?v=yEXzG7bL_rA]]
--[[オート動画(Wii1)>http://www.youtube.com/watch?v=kq8tGlutjWo]]
--[[プレイ動画(CS2)>https://www.youtube.com/watch?v=8aE6OgdXv_4]]/[[2人用譜面(オート)>https://www.youtube.com/watch?v=khZ2ask7laM]]
--[[プレイ動画(AC2)>http://www.youtube.com/watch?v=5vklnazyW5c]]
+-[[オート動画(Wii1)>https://www.youtube.com/watch?v=kq8tGlutjWo]]
+-[[プレイ動画(CS2)>https://www.youtube.com/watch?v=yKInhEQW8eE]]/[[2人用譜面(オート)>https://www.youtube.com/watch?v=khZ2ask7laM]]
+-[[プレイ動画(AC2)>https://www.youtube.com/watch?v=5vklnazyW5c]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

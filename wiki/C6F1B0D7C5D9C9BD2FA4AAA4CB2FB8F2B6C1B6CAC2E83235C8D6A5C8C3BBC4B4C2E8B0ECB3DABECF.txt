@@ -1,5 +1,4 @@
 *交響曲第25番ト短調第一楽章 [#title]
-
 **1人用譜面 [#single]
 ***詳細・攻略 [#capture1]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -14,7 +13,7 @@
 -連打秒数目安(現行譜面)・・・合計2.813秒
 -平均密度は、''約4.16打/秒''。
 -[[オート動画(現行譜面・Wii U3)>https://www.youtube.com/watch?v=plqbjFqUELo]]
--[[オート動画(現行譜面・CS4)>https://www.youtube.com/watch?v=B5Gc2fsGtbM]]
+-[[プレイ動画(現行譜面・CS4)>https://www.youtube.com/watch?v=B5Gc2fsGtbM]]
 -[[オート動画(TDM)>https://www.youtube.com/watch?v=rlk6Fdo46JM]]
 
 **2人用譜面 [#double]
@@ -33,7 +32,6 @@
 -TDMでは「''Symphony No.25 In G Minor''」と表記されている。
 -作曲は、''モーツァルト''。
 -曲IDは、''cls25''。
-
 ----
 -[[かんたん>難易度表/かんたん/交響曲第25番ト短調第一楽章]]
 -[[ふつう>難易度表/ふつう/交響曲第25番ト短調第一楽章]]

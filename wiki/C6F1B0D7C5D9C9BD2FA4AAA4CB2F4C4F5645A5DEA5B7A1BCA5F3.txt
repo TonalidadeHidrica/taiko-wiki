@@ -1,5 +1,4 @@
 *LOVEマシーン [#title]
-
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -35,13 +34,12 @@
 -譜面作成は、[[''こはらー''>譜面作成者一覧/こはらー]]。
 -3DS2では、2023年3月28日をもって新規DLができなくなる。
 -曲IDは、''lovem''。
-
 ----
 -[[かんたん>難易度表/かんたん/LOVEマシーン]]
 -[[ふつう>難易度表/ふつう/LOVEマシーン]]
 -[[むずかしい>難易度表/むずかしい/LOVEマシーン]]
 -[[オート動画(iOS、COLOR(#909){達人譜面})>http://www.youtube.com/watch?v=H18dcxdyzDI]]
--[[プレイ動画(CS1)>https://www.youtube.com/watch?v=sFaqJhwSTjo]]
+-[[プレイ動画(CS1)>https://www.youtube.com/watch?v=UM2UgncpuHw]]
 -[[プレイ動画(AC2、COLOR(#069){玄人譜面}・COLOR(#666){普通譜面})(1P 開幕玄人 2P 普通譜面)>https://www.youtube.com/watch?v=LF3xrv8uQGg]]
 
 ***コメント [#comment]

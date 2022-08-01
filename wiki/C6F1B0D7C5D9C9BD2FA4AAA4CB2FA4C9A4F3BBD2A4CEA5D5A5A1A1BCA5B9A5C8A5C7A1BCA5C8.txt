@@ -1,5 +1,4 @@
 *どん子のファーストデート [#title]
-
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度||最大コンボ数|天井スコア|初項|公差|h
@@ -37,7 +36,6 @@
 --トラックダウンは、[[''村上正信''>参加アーティスト一覧/村上正信]]。
 --[[うなぎのたましいロック>難易度表/おに/うなぎのたましいロック]]や、[[DON'T CUT>難易度表/おに/DON'T CUT]]と同じ組み合わせである。
 -曲IDは、''bko2''、''bko22''(新譜面)。
-
 ----
 -[[かんたん>難易度表/かんたん/どん子のファーストデート]]
 -[[ふつう>難易度表/ふつう/どん子のファーストデート]]
@@ -45,7 +43,7 @@
 -おに/[[裏譜面>難易度表/おに/どん子のファーストデート(裏譜面)]]
 -[[オート動画(Wii1)>https://www.youtube.com/watch?v=DWIJreAUbHc]]
 -[[オート動画(Wii1)>http://www.youtube.com/watch?v=qHw-lddN3fk]]
--[[オート動画(Wii1・2人用譜面・Wii1)>https://www.youtube.com/watch?v=W2jer0dlPKc]]
+-[[オート動画(Wii1・2人用譜面)>https://www.youtube.com/watch?v=W2jer0dlPKc]]
 -[[2P側プレイ動画(CS4・2人用譜面)>http://www.youtube.com/watch?v=31p4CqleO3Q]]
 
 ***コメント [#comment]
