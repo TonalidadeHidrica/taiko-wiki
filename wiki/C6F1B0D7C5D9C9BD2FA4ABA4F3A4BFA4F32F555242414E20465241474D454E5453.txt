@@ -1,6 +1,5 @@
 *&ruby(アーバン){URBAN}; &ruby(フラグメンツ){FRAGMENTS}; [#title]
 -「''[[R4 -RIDGE RACER TYPE 4->ゲーム別収録曲#rr]]''」のオープニング曲。
-
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -24,7 +23,6 @@
 
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/URBAN FRAGMENTS#other]]を参照。
-
 ----
 -[[ふつう>難易度表/ふつう/URBAN FRAGMENTS]]
 -[[むずかしい>難易度表/むずかしい/URBAN FRAGMENTS]]
