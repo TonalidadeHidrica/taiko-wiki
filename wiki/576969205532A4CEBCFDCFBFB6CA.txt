@@ -5,7 +5,7 @@
 -2023年3月28日をもって全てのダウンロードコンテンツは配信終了します。
 
 -[[開発日記>https://web.archive.org/web/20170919160747/http://taikoblog.namco-ch.net/blog/wii_u/]]
--[[公式サイト>http://wiiu2.taiko-ch.net/]]
+-[[公式サイト>https://web.archive.org/web/20200710212109/http://wiiu2.taiko-ch.net/]]（アーカイブ）
 -[[追加コンテンツ>Wii U2の収録曲/ダウンロードコンテンツ]]
 -[[システム詳細>CSの歴史#wiiu2]]
 -[[演奏オプション一覧]]

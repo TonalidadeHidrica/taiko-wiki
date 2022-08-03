@@ -3,7 +3,8 @@
 -デフォルト ''46'' 曲 ＋ 隠し曲 ''9'' 曲 ＝ ''55'' 曲
 --裏譜面 ''5'' 曲
 
--[[公式サイト>http://taiko3ds.namco-ch.net/]]
+-[[公式サイト>https://web.archive.org/web/20170420225634/http://taiko3ds.namco-ch.net/]]（アーカイブ）
+--[[あんごう>https://web.archive.org/web/20211128102810/https://taiko3ds.namco-ch.net/howto/howto5.html]]（アーカイブ）
 -[[開発日記>https://web.archive.org/web/20161110125329/http://taikoblog.namco-ch.net/blog/cat30]]
 -[[システム詳細>CSの歴史#n3ds1]]
 -[[ストーリーモード>3DS1の収録曲/ちびドラゴンと不思議なオーブ]]

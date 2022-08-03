@@ -3,7 +3,7 @@
 背景が灰色の譜面は難易度が新基準でないもの。
 **あ〜わ [#awa]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
-|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |''愛にできることはまだあるかい''|71|[[★×2>難易度表/かんたん/愛にできることはまだあるかい]]|[[★×2>難易度表/ふつう/愛にできることはまだあるかい]]|[[★×4>難易度表/むずかしい/愛にできることはまだあるかい]]|[[★×5>難易度表/おに/愛にできることはまだあるかい]]|
 |''愛にできることはまだあるかい(裏譜面)''|~|-|-|-|[[★×8>難易度表/おに/愛にできることはまだあるかい(裏譜面)]]|
 |''アイ MUST GO!''|107|[[★×3>難易度表/かんたん/アイ MUST GO!]]|[[★×3>難易度表/ふつう/アイ MUST GO!]]|[[★×3>難易度表/むずかしい/アイ MUST GO!]]|[[★×8>難易度表/おに/アイ MUST GO!]]|
@@ -322,7 +322,7 @@
 
 **A〜Z 0〜9 [#az09]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
-|''曲名''(アルファベット順)|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''(アルファベット順)|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |''Act! Addict! Actors!''|86-172|[[★×2>難易度表/かんたん/Act! Addict! Actors!]]|[[★×3>難易度表/ふつう/Act! Addict! Actors!]]|[[★×4>難易度表/むずかしい/Act! Addict! Actors!]]|[[★×5>難易度表/おに/Act! Addict! Actors!]]|
 |''Act! Addict! Actors!(裏譜面)''|~|-|-|-|[[★×8>難易度表/おに/Act! Addict! Actors!(裏譜面)]]|
 |''ADAMAS''|191|[[★×4>難易度表/かんたん/ADAMAS]]|[[★×4>難易度表/ふつう/ADAMAS]]|[[★×4>難易度表/むずかしい/ADAMAS]]|[[★×8>難易度表/おに/ADAMAS]]|

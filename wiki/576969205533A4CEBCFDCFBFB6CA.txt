@@ -4,8 +4,8 @@
 --裏譜面 ''14'' 曲 ＋ DL ''10'' 曲 ＝ ''24'' 曲
 -2023年3月28日をもって全てのダウンロードコンテンツは配信終了します。
 
--[[開発日記>https://web.archive.org/web/20170919160747/http://taikoblog.namco-ch.net/blog/wii_u/]]
--[[公式サイト>http://wiiu3.taiko-ch.net/]]
+-[[開発日記>https://web.archive.org/web/20170919160747/http://taikoblog.namco-ch.net/blog/wii_u/]]（アーカイブ）
+-[[公式サイト>https://web.archive.org/web/20210122184857/https://wiiu3.taiko-ch.net/]]（アーカイブ）
 -[[追加コンテンツ>Wii U3の収録曲/ダウンロードコンテンツ]]
 -[[システム詳細>CSの歴史#wiiu3]]
 -[[演奏オプション一覧]]

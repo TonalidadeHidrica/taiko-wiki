@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&ref(ryusei_n.png,nolink);
+&ref(ryusei_n.png,nolink);

@@ -4,7 +4,7 @@
 
 **あ〜わ [#awa]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
-|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(red):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |''アイドル狂戦士(feat.佐藤貴文)''|195|[[★×3>難易度表/かんたん/アイドル狂戦士(feat.佐藤貴文)]]|[[★×4>難易度表/ふつう/アイドル狂戦士(feat.佐藤貴文)]]|[[★×5>難易度表/むずかしい/アイドル狂戦士(feat.佐藤貴文)]]|[[★×7>難易度表/おに/アイドル狂戦士(feat.佐藤貴文)]]|
 |''アイドル狂戦士(feat.佐藤貴文)(裏譜面)''|~|-|-|-|[[★×9>難易度表/おに/アイドル狂戦士(feat.佐藤貴文)(裏譜面)]]|
 |''愛のうた 〜ピクミンのテーマ''|76|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/愛のうた 〜ピクミンのテーマ]]|BGCOLOR(#ccc):[[★×1>難易度表/おに/愛のうた〜ピクミンのテーマ]]|BGCOLOR(#ccc):-|BGCOLOR(#ccc):[[★×3>難易度表/おに/愛のうた〜ピクミンのテーマ]]|
@@ -134,7 +134,7 @@
 
 **A〜Z [#az]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
-|''曲名''(アルファベット順)|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''(アルファベット順)|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |''ABCの歌''|129|[[★×2>難易度表/かんたん/ABCの歌]]|[[★×2>難易度表/ふつう/ABCの歌]]|[[★×2>難易度表/むずかしい/ABCの歌]]|[[★×7>難易度表/おに/ABCの歌]]|
 |''Altale''|83-180|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|
 |''Altale(裏譜面)''|~|-|-|-|[[★×10>難易度表/おに/Altale(裏譜面)]]|
@@ -204,7 +204,7 @@
 
 **TDM限定曲 [#tdm]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
-|''曲名''(アルファベット順)|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''(アルファベット順)|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |''ABC''|189|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/ABC]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/ABC]]|BGCOLOR(#ccc):[[★×2>難易度表/おに/ABC]]|BGCOLOR(#ccc):[[★×2>難易度表/おに/ABC]]|
 |''American Girls''|105|BGCOLOR(#ccc):[[★×1>難易度表/かんたん/American Girls]]|BGCOLOR(#ccc):[[★×1>難易度表/ふつう/American Girls]]|BGCOLOR(#ccc):[[★×2>難易度表/むずかしい/American Girls]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/American Girls]]|
 |''Are You Gonna Be My Girl''|210|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Are You Gonna Be My Girl]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Are You Gonna Be My Girl]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Are You Gonna Be My Girl]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Are You Gonna Be My Girl]]|
@@ -226,7 +226,7 @@
 
 **亜洲・中文版限定曲 [#asia]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |''C大調''|116|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/C大調]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/C大調]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/C大調]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/C大調]]|
 |''NANANA''|124|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/NANANA]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/NANANA]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/NANANA]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/NANANA]]|
 |''Sugar Lady''|120|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Sugar Lady]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Sugar Lady]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Sugar Lady]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Sugar Lady]]|
@@ -294,6 +294,6 @@
 
 **ブラジル版限定曲 [#brazil]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |''Escatumbararib&#234;''|132.472|[[★×2>難易度表/かんたん/Escatumbararibe]]|[[★×3>難易度表/ふつう/Escatumbararibe]]|[[★×3>難易度表/むずかしい/Escatumbararibe]]|[[★×4>難易度表/おに/Escatumbararibe]]|
 |''Hoje &#233; Domingo''|130|[[★×2>難易度表/かんたん/Hoje e Domingo]]|[[★×3>難易度表/ふつう/Hoje e Domingo]]|[[★×3>難易度表/むずかしい/Hoje e Domingo]]|[[★×4>難易度表/おに/Hoje e Domingo]]|

@@ -59,18 +59,18 @@
 ***あたま [#head]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |きせかえ名|必要なメダル数|追加日|備考|
-|イケメンヘアー（銀）|---|''COLOR(#029a43){グリーンVer.}以前''|''COLOR(#029a43){グリーンVer.}''までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に59回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に66回プレイ''|
+|BGCOLOR(grey):イケメンヘアー（銀）|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}''までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に59回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に66回プレイ''|
 |BGCOLOR(grey):にんじゃ|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):2014年7月19日〜8月1日までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に6回プレイ''|
-|レースカー|---|''COLOR(#db2510){レッドVer.}以前''|2014年5月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に11回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に58回プレイ''|
-|BGCOLOR(grey):かたつむり|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):2014年6月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に14回プレイ''|
+|BGCOLOR(grey):レースカー|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年5月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に11回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に58回プレイ''|
+|BGCOLOR(grey):かたつむり|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年6月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に14回プレイ''|
 |BGCOLOR(grey):げっけいじゅ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年7月26日〜8月8日までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に18回プレイ''|
 |BGCOLOR(grey):はながさ|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年8月までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に45回プレイ''|
 |BGCOLOR(grey):ミイラ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月9日〜22日までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に49回プレイ''|
 |BGCOLOR(grey):プロペラ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月23日〜9月5日にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に57回プレイ''|
 |BGCOLOR(grey):ガーディアン|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月30日〜9月12日にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に64回プレイ''|
 |BGCOLOR(grey):ヒーロー|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年8月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に76回プレイ''|
-|門松|---|''COLOR(#db2510){レッドVer.}以前''|2014年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に83回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に87回プレイ''|
-|おひなさま|---|~|2014年3月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に98回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に93回プレイ''|
+|BGCOLOR(grey):門松|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に83回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に87回プレイ''|
+|BGCOLOR(grey):おひなさま|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年3月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に98回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に93回プレイ''|
 |BGCOLOR(silver):ひまわり|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):らいおん|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):てんぐ|BGCOLOR(silver):500かつメダル|~|~|
@@ -123,24 +123,24 @@
 |BGCOLOR(silver):コンパス|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(grey):コックさん|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2016年10月1日〜11月1日まで|
 |BGCOLOR(grey):バカンスサングラス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年6月1日〜30日まで|
-|ちょうちょ|---|''COLOR(#db2510){レッドVer.}以前''|2016年3月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に41回プレイ''|
-|アイス|---|~|2015年6月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に43回プレイ''|
-|ジェットパイロット|---|~|2015年2月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に4回プレイ''|
-|芸者|---|~|2015年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に11回プレイ''|
-|アルパカ|---|~|2014年12月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に22回プレイ''|
-|絵描き|---|~|2014年10月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に24回プレイ''|
-|BGCOLOR(grey):テニス|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2014年9月1日〜30日まで|
+|BGCOLOR(grey):ちょうちょ|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年3月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に41回プレイ''|
+|BGCOLOR(grey):アイス|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年6月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に43回プレイ''|
+|BGCOLOR(grey):ジェットパイロット|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年2月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に4回プレイ''|
+|BGCOLOR(grey):芸者|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に11回プレイ''|
+|BGCOLOR(grey):アルパカ|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年12月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に22回プレイ''|
+|BGCOLOR(grey):絵描き|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年10月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に24回プレイ''|
+|BGCOLOR(grey):テニス|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年9月1日〜30日まで|
 
 
 ***からだ [#body]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |きせかえ名|必要なメダル数|追加日|備考|h
-|さくらもち|---|''COLOR(#db2510){レッドVer.}以前''|2014年4月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に2回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に51回プレイ''|
-|かせき|---|~|2014年8月2日〜15日にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に60回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に77回プレイ''|
-|サンタクロース|---|~|2016年12月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に77回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に84回プレイ''|
-|BGCOLOR(grey):金棒|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):2014年2月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に88回プレイ''|
-|かぶきはかま|---|''COLOR(#db2510){レッドVer.}以前''|2016年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に89回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に90回プレイ''|
-|BGCOLOR(grey):自転車|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):2015年10月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に97回プレイ''|
+|BGCOLOR(grey):さくらもち|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):2014年4月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に2回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に51回プレイ''|
+|BGCOLOR(grey):かせき|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年8月2日〜15日にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に60回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に77回プレイ''|
+|BGCOLOR(grey):サンタクロース|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年12月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に77回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に84回プレイ''|
+|BGCOLOR(grey):金棒|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年2月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に88回プレイ''|
+|BGCOLOR(grey):かぶきはかま|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に89回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に90回プレイ''|
+|BGCOLOR(grey):自転車|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年10月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に97回プレイ''|
 |BGCOLOR(silver):もりのなかま|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):てんぐ|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):ロケット|BGCOLOR(silver):500かつメダル|~|~|
@@ -199,16 +199,16 @@
 |BGCOLOR(silver):クレープやたい|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):女子高校生に大人気|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(grey):せんごくぶしょう|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2016年11月1日〜30日まで|
-|ねこのしっぽ|---|''COLOR(#db2510){レッドVer.}以前''|2016年9月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に37回プレイ''|
-|BGCOLOR(grey):ジャングル|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2016年5月1日〜31日まで|
+|BGCOLOR(grey):ねこのしっぽ|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年9月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に37回プレイ''|
+|BGCOLOR(grey):ジャングル|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年5月1日〜31日まで|
 |BGCOLOR(grey):そんごくう|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2016年4月1日〜30日まで|
-|ブロック|---|''COLOR(#db2510){レッドVer.}以前''|2016年2月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に17回プレイ''|
-|お医者さん|---|~|2015年11月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に33回プレイ''|
-|BGCOLOR(grey):かぐや姫|BGCOLOR(grey):2500ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2015年9月1日〜30日まで|
-|ティラノサウルス|---|''COLOR(#db2510){レッドVer.}以前''|2015年5月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に30回プレイ''|
-|クマのぬいぐるみ|---|~|2015年4月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に28回プレイ''|
-|黒ゴス|---|~|2014年11月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に15回プレイ''|
-|BGCOLOR(grey):たこ|BGCOLOR(grey):3000ポイント|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2014年8月16日〜29日まで|
+|BGCOLOR(grey):ブロック|BGCOLOR(grey):---|~|BGCOLOR(grey):2016年2月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に17回プレイ''|
+|BGCOLOR(grey):お医者さん|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年11月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に33回プレイ''|
+|BGCOLOR(grey):かぐや姫|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2015年9月1日〜30日まで|
+|BGCOLOR(grey):ティラノサウルス|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年5月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に30回プレイ''|
+|BGCOLOR(grey):クマのぬいぐるみ|BGCOLOR(grey):---|~|BGCOLOR(grey):2015年4月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に28回プレイ''|
+|BGCOLOR(grey):黒ゴス|BGCOLOR(grey):---|~|BGCOLOR(grey):2014年11月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に15回プレイ''|
+|BGCOLOR(grey):たこ|BGCOLOR(grey):3000ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年8月16日〜29日まで|
 |BGCOLOR(grey):夏休み|BGCOLOR(grey):2500ポイント|~|BGCOLOR(grey):＜期間限定＞&br;2014年8月1日〜31日まで|
 
 
@@ -216,12 +216,12 @@
 ***メイク [#meiku]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |きせかえ名|必要なメダル数|追加日|備考|h
-|イケイケサングラス|---|''COLOR(#029a43){グリーンVer.}以前''|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に6回プレイ''|
-|男気まゆげ|---|~|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に19回プレイ''|
-|三本ひげ|---|~|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に32回プレイ''|
-|もえる目|---|~|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に26回プレイ''|
-|ぐるぐるほっぺ|---|~|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に38回プレイ''|
-|眼帯|---|~|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に44回プレイ''|
+|BGCOLOR(grey):イケイケサングラス|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に6回プレイ''|
+|BGCOLOR(grey):男気まゆげ|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に19回プレイ''|
+|BGCOLOR(grey):三本ひげ|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に32回プレイ''|
+|BGCOLOR(grey):もえる目|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に26回プレイ''|
+|BGCOLOR(grey):ぐるぐるほっぺ|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に38回プレイ''|
+|BGCOLOR(grey):眼帯|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に44回プレイ''|
 |BGCOLOR(silver):ヘビメタ|BGCOLOR(silver):500かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):りきし|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):パンダ顔|BGCOLOR(silver):500かつメダル|~|~|
@@ -237,7 +237,7 @@
 |BGCOLOR(silver):キラ目|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):ふくめん|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):キバ|BGCOLOR(silver):500かつメダル|~|~|
-|芸者|---|''COLOR(#db2510){レッドVer.}以前''|2015年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に12回プレイ''|
+|BGCOLOR(grey):芸者|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):2015年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に12回プレイ''|
 
 **楽曲 [#song]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
@@ -374,11 +374,11 @@
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
 |音色名|必要なメダル数|追加日|備考|h
 |BGCOLOR(grey):手拍子|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に4回プレイ''|
-|コンガ|---|''COLOR(#029a43){グリーンVer.}以前''|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に21回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に60回プレイ''|
-|８ビット太鼓|---|~|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に32回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に76回プレイ''|
-|和田どん|---|~|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に42回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に97回プレイ''|
-|ソイヤ|---|~|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に5回プレイ''|
-|メカドン|---|~|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に35回プレイ''|
+|BGCOLOR(grey):コンガ|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に21回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に60回プレイ''|
+|BGCOLOR(grey):８ビット太鼓|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に32回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に76回プレイ''|
+|BGCOLOR(grey):和田どん|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「スタートダッシュ2020」キャンペーン｜2020年3月24日~2020年9月15日))に42回プレイ''&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に97回プレイ''|
+|BGCOLOR(grey):ソイヤ|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に5回プレイ''|
+|BGCOLOR(grey):メカドン|BGCOLOR(grey):---|~|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に35回プレイ''|
 |BGCOLOR(grey):ふなっしー|BGCOLOR(grey):1000かつメダル|BGCOLOR(grey):''COLOR(#ffd707){イエローVer.}以前''|BGCOLOR(grey):＜期間限定＞&br;2014年8月6日〜2017年6月27日まで|
 |BGCOLOR(grey):ラップ|BGCOLOR(grey):1000かつメダル|BGCOLOR(grey):''COLOR(green){グリーンVer.}以前''|BGCOLOR(grey):''COLOR(blue){かつメダル}''廃止と同時に一般解禁|
 |BGCOLOR(grey):シンセドラム|BGCOLOR(grey):1000かつメダル|~|~|
@@ -388,7 +388,7 @@
 |ぷちキャラ名|必要なメダル数|追加日|備考|h
 |BGCOLOR(silver):太虎|BGCOLOR(silver):2500かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):龍神|BGCOLOR(silver):2500かつメダル|~|~|
-|ヨガドン|---|''COLOR(#029a43){グリーンVer.}以前''|COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に50回プレイ''|
+|BGCOLOR(grey):ヨガドン|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}までにごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に50回プレイ''|
 |BGCOLOR(silver):アラシ|BGCOLOR(silver):5000かつメダル|BGCOLOR(silver):''COLOR(#029a43){グリーンVer.}以前''|BGCOLOR(silver):''COLOR(blue){かつメダル}''廃止により一時的に獲得不可&br;別の入手方法が用意される予定|
 |BGCOLOR(silver):フウガ|BGCOLOR(silver):5000かつメダル|~|~|
 |BGCOLOR(silver):ミライ|BGCOLOR(silver):5000かつメダル|~|~|

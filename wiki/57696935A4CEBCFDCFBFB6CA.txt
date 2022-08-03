@@ -3,8 +3,8 @@
 -デフォルト ''60'' 曲 ＋ 隠し曲 ''45'' 曲 ＝ ''105'' 曲
 --裏譜面 ''15'' 曲
 
--[[公式サイト>http://wii5.taiko-ch.net/]]
--[[開発日記>https://web.archive.org/web/20170913182316/http://taikoblog.namco-ch.net/blog/wii_5/]]
+-[[公式サイト>https://web.archive.org/web/20171223210449/http://wii5.taiko-ch.net/]]（アーカイブ）
+-[[開発日記>https://web.archive.org/web/20170913182316/http://taikoblog.namco-ch.net/blog/wii_5/]]（アーカイブ）
 -[[システム詳細>CSの歴史#wii5]]
 -[[瞬間爽快！どんちゃん騒ぎ>ミニゲーム一覧#wii5]]
 -[[フウガとミライの太鼓教室>難易度表/その他/フウガとミライの太鼓教室(Wii5)]]

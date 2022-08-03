@@ -1,6 +1,6 @@
 *GUMI楽曲コンテスト [#title]
 ***概要 [#more]
--2012/5/26〜6/26までの間、音楽コンテストコミュニティ「[[''クレオフーガ''>http://creofuga.net/top]]」上で楽曲公募が行われた。
+-2012/5/26〜6/26までの間、音楽コンテストコミュニティ「[[''クレオフーガ''>https://web.archive.org/web/20160403195938/https://creofuga.net/]]」((現在はサービス終了。リンク先はアーカイブページとなっている。))上で楽曲公募が行われた。
 -「VOCALOID Megpoid(メグッポイド)」を使用した楽曲を対象としたコンテストで、全部で195曲が投稿された。
 ***合格曲 [#song]
 -以下の4曲。いずれも2013/6/26のアップデートで、太鼓の達人ソライロVer.に収録された(収録時に曲名表記が変更されている場合がある)。
@@ -10,7 +10,7 @@
 |CENTER:50|[[''重金属フューギティブ''>難易度表/おに/重金属フューギティブ]]|リューイッティ|
 |CENTER:162|[[''珈琲の味と''>難易度表/おに/珈琲の味と]]|はるなば|
 |CENTER:171|[[''グミグミグミ''>難易度表/おに/ドキドキ恋の予感！？]]|Noriyuki|
-***リンク [#link]
--[[GUMI楽曲コンテスト>http://creofuga.net/contests/49]]
--[[太鼓の達人×GUMI　楽曲コンテスト結果発表！(開発日記)>http://taikoblog.namco-ch.net/blog/2012/08/post_319.html]]
--[[楽曲紹介「GUMI楽曲コンテスト採用曲」(開発日記)>http://taikoblog.namco-ch.net/blog/2013/06/gumi.html]]
+***リンク（すべてアーカイブ） [#link]
+-[[GUMI楽曲コンテスト>https://web.archive.org/web/20160418204136/https://creofuga.net/contests/49]]
+-[[太鼓の達人×GUMI　楽曲コンテスト結果発表！(開発日記)>https://web.archive.org/web/20150822175554/http://taikoblog.namco-ch.net/blog/2012/08/post_319.html]]
+-[[楽曲紹介「GUMI楽曲コンテスト採用曲」(開発日記)>https://web.archive.org/web/20170715122543/http://taikoblog.namco-ch.net/blog/2013/06/gumi.html]]
