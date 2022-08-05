@@ -127,6 +127,9 @@
 - a3f4defa8d4e185a8cdcf84fb7642487
 - 5a026a7e8e4496abfb04f51281c0c7f5
 
+//8/5 難易度表ページ削除
+- 2e647217705ce695e105b37196b450b4
+
 //7/28 ミックスナッツSageコメント連投
 //- 80aa1a2bdacc7381e5b403dd6f5dfa87
 //- 0db15f22bfbc35514bae61d364e35fe2

@@ -13,9 +13,9 @@
 -Old ''778'' ＋ New ''54'' ＋ Hidden ''49'' ー Removal ''2'' = Total SIZE(20){''879''} songs ＋ DP ''4''
 --However, some songs are not playable in some countries/regions.((For more information, please refer to '[[Songs that are unavailable in Asia Ver.>#unavailable]]'.))
 &br;
-----
--SIZE(20){COLOR(red){''「ごほうびザクザクキャンペーン」が開催中！''}}
---開催期間： 2022 年 4 月 21 日（木）〜 7 月 31 日（日）
+//----
+//-SIZE(20){COLOR(red){''「ごほうびザクザクキャンペーン」が開催中！''}}
+//--開催期間： 2022 年 4 月 21 日（木）〜 7 月 31 日（日）
 ----
 -[[Official Site>http://taiko.namco-ch.net/taiko/]]
 --[[Donder Hiroba>https://donderhiroba.jp/]]

@@ -61,12 +61,12 @@
 -[[かんたん>難易度表/かんたん/もぺもぺ]]
 -[[ふつう>難易度表/ふつう/もぺもぺ]]
 -[[むずかしい>難易度表/むずかしい/もぺもぺ]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=67kNjnrjPRI&t=9s]]
--[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?v=muUAp--OCSQ&feature=youtu.be&t=16s]]
+-[[プレイ動画(キャプチャ)>https://youtu.be/67kNjnrjPRI?t=9]]
+-[[プレイ動画(キャプチャ)>https://youtu.be/muUAp--OCSQ?t=16]]
 -[[オート動画(iOS)>https://youtu.be/3RB2aDSzSI8]]
 -[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116]]
 ----
--[[楽曲MV(公式)>https://www.youtube.com/watch?v=nC-bVtpIMd4]]COLOR(red){【''閲覧注意''】}
+-[[楽曲MV(公式)>https://youtu.be/nC-bVtpIMd4]]COLOR(red){【''閲覧注意''】}
 
 ***コメント [#comment]
 -COLOR(#33f){''必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -369,7 +369,7 @@
 ~225〜234小節詳細(拡大率 400%)
 ~&attachref(mope_m_225-233_4x.png,nolink);
 
-~BPMを100と見た場合の譜面（仮）~
-&attachref(うんゅ部分集合 (2).png,nolink);
+~BPM100固定画像(HSは未記載)
+~&attachref(mope- 3B.png,nolink);
 
 ~&attachref(うんゅ部分集合（ばいそく）.png,nolink);

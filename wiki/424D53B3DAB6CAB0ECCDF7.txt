@@ -26,12 +26,12 @@
 
 ***[[Cranky>参加アーティスト一覧/Cranky]] (1曲) [#cranky]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
-|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|作品記事|h
 |''conflict''&br;SIZE(11){siromaru + cranky}|160|[[★×4>難易度表/かんたん/conflict]]|[[★×5>難易度表/ふつう/conflict]]|[[★×7>難易度表/むずかしい/conflict]]|[[★×9>難易度表/おに/conflict]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=74]]|
 
 ***[[xi>参加アーティスト一覧/xi]] (4曲) [#xi]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
-|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|作品記事|h
 |''FREEDOM DiVE↓''&br;SIZE(11){xi}|222.22|[[★×4>難易度表/かんたん/FREEDOM DiVE↓]]|[[★×6>難易度表/ふつう/FREEDOM DiVE↓]]|[[★×7>難易度表/むずかしい/FREEDOM DiVE↓]]|[[★×10>難易度表/おに/FREEDOM DiVE↓]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50]]|
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]|
 |''Parousia''&br;SIZE(11){xi}|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=74]]|
@@ -39,23 +39,23 @@
 
 ***[[削除>参加アーティスト一覧/削除]] (1曲) [#sakuzyo]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
-|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|作品記事|h
 |''Altale''&br;SIZE(11){削除}|83-180※|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|[[★×10>難易度表/おに/Altale(裏譜面)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=150&event=96]]|
 
 ***siromaru (1曲) [#siromaru]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
-|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|作品記事|h
 |''conflict''&br;SIZE(11){siromaru + cranky}|160|[[★×4>難易度表/かんたん/conflict]]|[[★×5>難易度表/ふつう/conflict]]|[[★×7>難易度表/むずかしい/conflict]]|[[★×9>難易度表/おに/conflict]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=57&event=74]]|
 
 ***nora2r (2曲) [#nora2r]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
-|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|作品記事|h
 |''B.B.K.K.B.K.K.''&br;SIZE(11){nora2r}|170|[[★×4>難易度表/かんたん/B.B.K.K.B.K.K.]]|[[★×6>難易度表/ふつう/B.B.K.K.B.K.K.]]|[[★×7>難易度表/むずかしい/B.B.K.K.B.K.K.]]|[[★×9>難易度表/おに/B.B.K.K.B.K.K.]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88]]|
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]|
 
 ***[[LeaF>参加アーティスト一覧/LeaF]] (2曲) [#leaf]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
-|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|作品記事|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|作品記事|h
 |''もぺもぺ''&br;SIZE(11){LeaF}|6.25-200|[[★×4>難易度表/かんたん/もぺもぺ]]|[[★×5>難易度表/ふつう/もぺもぺ]]|[[★×7>難易度表/むずかしい/もぺもぺ]]|[[★×10>難易度表/おに/もぺもぺ]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116]]|
 |''Calamity Fortune''&br;SIZE(11){LeaF}|200|[[★×4>難易度表/かんたん/Calamity Fortune]]|[[★×6>難易度表/ふつう/Calamity Fortune]]|[[★×7>難易度表/むずかしい/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune(裏譜面)]]|[[BMS>http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45]]|
 
@@ -63,7 +63,7 @@
 ***BMS OF FIGHTERSシリーズ [#bof]
 &color(red){''赤字''};は1つ以上の部門(個人戦)で優勝した曲
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|>|CENTER:30|c
-|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|>|順位(個人戦)|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|>|順位(個人戦)|h
 |~|~|~|~|~|~|~|スコア|中央値|h
 |>|>|>|>|>|>|>|>|BGCOLOR(skyblue):''THE BMS OF FIGHTERS 2011 - Intersection of conflict -''&aname(bof2011);|
 |&color(red){''conflict''};&br;SIZE(11){siromaru + cranky}|160|[[★×4>難易度表/かんたん/conflict]]|[[★×5>難易度表/ふつう/conflict]]|[[★×7>難易度表/むずかしい/conflict]]|[[★×9>難易度表/おに/conflict]]|-|&color(red){''1位''};|&color(red){''1位''};|
@@ -80,7 +80,7 @@
 
 ***その他のイベント [#others]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|c
-|''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|h
 |>|>|>|>|>|>|BGCOLOR(black):COLOR(white):''MAXBEAT''&aname(maxbeat);|
 |''FREEDOM DiVE↓''&br;SIZE(11){xi}|222.22|[[★×4>難易度表/かんたん/FREEDOM DiVE↓]]|[[★×6>難易度表/ふつう/FREEDOM DiVE↓]]|[[★×7>難易度表/むずかしい/FREEDOM DiVE↓]]|[[★×10>難易度表/おに/FREEDOM DiVE↓]]|-|
 |>|>|>|>|>|>|BGCOLOR(orchid):''東方音弾遊戯5''&aname(thoy5);|

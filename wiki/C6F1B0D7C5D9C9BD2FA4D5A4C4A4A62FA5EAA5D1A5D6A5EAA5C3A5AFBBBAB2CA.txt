@@ -33,5 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~65小節は風船ではなく黄色連打でゴーゴー終了まで。
-&attachref(山手線.png,nolink);
+&attachref(clsyod_n.png,nolink);

@@ -220,7 +220,7 @@
 |>|>|CENTER:|>|>|>|>|>|CENTER:64|c
 ||''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|>|初出|h
 |第1弾|''季曲''&br;SIZE(11){〜Seasons of Asia〜}|150|[[★×3>難易度表/かんたん/季曲 〜Seasons of Asia〜]]|[[★×5>難易度表/ふつう/季曲 〜Seasons of Asia〜]]|[[★×5>難易度表/むずかしい/季曲 〜Seasons of Asia〜]]|[[★×7>難易度表/おに/季曲 〜Seasons of Asia〜]]|''AC11&br;(2008/3/18)''|Wii1&br;(2008/12/11)|
-|~|~|~|BGCOLOR(silver):[[★×5>難易度表/かんたん/季曲 〜Seasons of Asia〜(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/季曲 〜Seasons of Asia〜(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/季曲 〜Seasons of Asia〜(裏譜面)]]|[[★×8>難易度表/おに/季曲 〜Seasons of Asia〜(裏譜面)]]|''AC11&br;1次解禁(一時)&br;(2008/3/24)''|Wii2&br;(2009/11/19)|
+|~|~|~|BGCOLOR(silver):[[★×5>難易度表/かんたん/季曲 〜Seasons of Asia〜(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/季曲 〜Seasons of Asia〜(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/季曲 〜Seasons of Asia〜(裏譜面)]]|[[★×8>難易度表/おに/季曲 〜Seasons of Asia〜(裏譜面)]]|''AC11&br;3次解禁&br;(2008/5/15)''|Wii2&br;(2009/11/19)|
 |第2弾|''蓄勢''&br;SIZE(11){〜GEAR UP〜}|146|[[★×3>難易度表/かんたん/蓄勢 〜GEAR UP〜]]|[[★×5>難易度表/ふつう/蓄勢 〜GEAR UP〜]]|[[★×6>難易度表/むずかしい/蓄勢 〜GEAR UP〜]]|[[★×7>難易度表/おに/蓄勢 〜GEAR UP〜]]|''AC12&br;(2008/12/11)''|Wii2&br;(2009/11/19)|
 |~|~|~|BGCOLOR(silver):[[★×5>難易度表/かんたん/蓄勢 〜GEAR UP〜(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/蓄勢 〜GEAR UP〜(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/蓄勢 〜GEAR UP〜(裏譜面)]]|[[★×8>難易度表/おに/蓄勢 〜GEAR UP〜(裏譜面)]]|~|~|
 |第3弾|''蛻変''&br;SIZE(11){〜transformation〜}|120|[[★×3>難易度表/かんたん/蛻変 〜transformation〜]]|[[★×5>難易度表/ふつう/蛻変 〜transformation〜]]|[[★×6>難易度表/むずかしい/蛻変 〜transformation〜]]|[[★×7>難易度表/おに/蛻変 〜transformation〜]]|''AC13&br;2次解禁&br;(2010/3/11)''|Wii3&br;(2010/12/2)|

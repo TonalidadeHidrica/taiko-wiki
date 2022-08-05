@@ -37,7 +37,7 @@
 ----
 **THE IDOLM@STER [#idms]
 ||LEFT:1|>|>|>|CENTER:61|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |>|>|>|>|>|BGCOLOR(#ff99cc):''MASTERPIECE''&aname(imac);|
 |''THE IDOLM@STER''|165|[[★×3>難易度表/かんたん/THE IDOLM@STER]]|[[★×4>難易度表/ふつう/THE IDOLM@STER]]|[[★×4>難易度表/むずかしい/THE IDOLM@STER]]|[[★×8>難易度表/おに/THE IDOLM@STER]]|
 |~|~|-|-|-|[[★×8>難易度表/おに/THE IDOLM@STER(裏譜面)]]|
@@ -148,7 +148,7 @@
 
 **THE IDOLM@STER CINDERELLA GIRLS [#idcg]
 ||LEFT:75|>|>|>|CENTER:61|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |>|>|>|>|>|BGCOLOR(#ff69b4):''CINDERELLA MASTER''&aname(cm);|
 |''お願い！シンデレラ''|175|[[★×3>難易度表/かんたん/お願い！シンデレラ]]|[[★×4>難易度表/ふつう/お願い！シンデレラ]]|[[★×4>難易度表/むずかしい/お願い！シンデレラ]]|[[★×7>難易度表/おに/お願い！シンデレラ]]|
 |''Take me☆Take you''|180|[[★×3>難易度表/かんたん/Take me☆Take you]]|[[★×3>難易度表/ふつう/Take me☆Take you]]|[[★×5>難易度表/むずかしい/Take me☆Take you]]|-|
@@ -176,7 +176,7 @@
 
 **THE IDOLM@STER MILLION LIVE! [#idml]
 ||LEFT:75|>|>|>|CENTER:61|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |>|>|>|>|>|BGCOLOR(#6699ff):''LIVE THE@TER PERFORMANCE''&aname(ml1);|
 |''Thank You!''|177|[[★×3>難易度表/かんたん/Thank You!]]|[[★×4>難易度表/ふつう/Thank You!]]|[[★×5>難易度表/むずかしい/Thank You!]]|[[★×8>難易度表/おに/Thank You!]]|
 |>|>|>|>|>|BGCOLOR(#9933ff):COLOR(#ffffff):''MILLION THE@TER GENERATION&br;SIZE(11){「THE IDOLM@STER MILLION LIVE! THEATER DAYS」}''&aname(ml2);|
@@ -185,7 +185,7 @@
 
 **THE IDOLM@STER SideM [#idsm]
 ||LEFT:75|>|>|>|CENTER:61|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |>|>|>|>|>|BGCOLOR(#3cb371):''「THE IDOLM@STER 2」''&aname(sm1);|
 |''Alice or Guilty''|178|[[★×4>難易度表/かんたん/Alice or Guilty]]|[[★×5>難易度表/ふつう/Alice or Guilty]]|[[★×5>難易度表/むずかしい/Alice or Guilty]]|[[★×8>難易度表/おに/Alice or Guilty]]|
 |>|>|>|>|>|BGCOLOR(#cd5c5c):''ST@RTING LINE''&aname(sm2);|
@@ -196,14 +196,14 @@
 
 **THE IDOLM@STER SHINY COLORS [#idsc]
 ||LEFT:75|>|>|>|CENTER:61|c
-|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |>|>|>|>|>|BGCOLOR(#87ceeb):''BRILLI@NT WING''&aname(bw);|
 |''Spread the Wings!!''|170|[[★×3>難易度表/かんたん/Spread the Wings!!]]|[[★×4>難易度表/ふつう/Spread the Wings!!]]|[[★×4>難易度表/むずかしい/Spread the Wings!!]]|[[★×6>難易度表/おに/Spread the Wings!!]]|
 |''ヒカリのdestination''|170|[[★×3>難易度表/かんたん/ヒカリのdestination]]|[[★×4>難易度表/ふつう/ヒカリのdestination]]|[[★×5>難易度表/むずかしい/ヒカリのdestination]]|[[★×7>難易度表/おに/ヒカリのdestination]]|
 
 **持ち歌別((ソロ曲のみ、ユニット曲を除く)) [#solo]
 |CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|''キャラクター名''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''キャラクター名''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |>|>|>|>|>|>|BGCOLOR(#ffd700):COLOR(#000000):''765PRO ALLSTARS''|
 |BGCOLOR(#ff0000):COLOR(#ffffff):''天海春香''|''I Want''|178※|[[★×3>難易度表/かんたん/I Want]]|[[★×5>難易度表/ふつう/I Want]]|[[★×6>難易度表/むずかしい/I Want]]|[[★×8>難易度表/おに/I Want]]|
 |~|''乙女よ大志を抱け！！''|148|[[★×3>難易度表/かんたん/乙女よ大志を抱け！！]]|[[★×4>難易度表/ふつう/乙女よ大志を抱け！！]]|[[★×5>難易度表/むずかしい/乙女よ大志を抱け！！]]|[[★×7>難易度表/おに/乙女よ大志を抱け！！]]|
