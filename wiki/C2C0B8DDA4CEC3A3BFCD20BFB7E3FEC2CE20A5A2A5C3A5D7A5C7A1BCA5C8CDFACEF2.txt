@@ -234,7 +234,7 @@
 |>|>|>|CENTER:''8/6配信曲''|h
 |BGCOLOR(#fe90d2):''アニメ''|COLOR(red):''新''|[[''新時代''>難易度表/おに/新時代]]|ウタ(Ado) 「ONE PIECE FILM RED」より|
 |~|COLOR(red):''新''|[[''ウィーアー！(裏譜面)''>難易度表/おに/ウィーアー！(初代)(裏譜面)]]|「ワンピース」より|
-|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''GOING TO LUNATEA''>難易度表/おに/GOING TO LUNATEA]]|「風のクロノア2 〜世界が望んだ忘れもの〜」より|
+|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''GOING TO LUNATEA''>難易度表/おに/GOING TO LUNATEA]]|「風のクロノア2」より|
 
 -2022/8/14 7:00をもって、以下の2曲がサヨナラとなる。
 |CENTER:100|||c

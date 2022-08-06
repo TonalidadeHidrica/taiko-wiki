@@ -7,7 +7,7 @@
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|CENTER:''ジャンルごとの曲数''(ジャンルを選択すると新筐体のそのジャンルに移動します)|h
 |BGCOLOR(#49d5eb):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(#fdc000):~[[&color(black){%%%キッズ%%%};>#kidsfalk]]|BGCOLOR(#fe90d2):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(#cbcfde):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(#cc8aeb):~[[&color(black){%%%ゲームミュージック%%%};>#gm]]|BGCOLOR(#0acc2a):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(#ded523):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(#ff7028):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
-|''43''譜面|''11''譜面|''30''譜面|''36''譜面|''69''譜面|''27''譜面|''8''譜面|''111''譜面|
+|''43''譜面|''11''譜面|''30''譜面|''36''譜面|''70''譜面|''27''譜面|''8''譜面|''111''譜面|
 
 |305|68||c
 |曲名(五十音順)|BPM((※があるものは細かなBPM変化がある))|最大コンボ数|h
@@ -160,6 +160,7 @@
 |[[決戦!!>難易度表/おに/決戦!!]]|154|''538''|
 |[[Thank You!>難易度表/おに/Thank You!]]|177|''500''|
 |[[GOIN’!!!(裏譜面)>難易度表/おに/GOIN’!!!(裏譜面)]]|178|''513''|
+|[[GOING TO LUNATEA>難易度表/おに/GOING TO LUNATEA]]|248|''562''|
 |[[Saika>難易度表/おに/Saika]]|128|''593''|
 |[[SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]]|136|''765''|
 |[[The Windmill Song>難易度表/おに/The Windmill Song]]|125|''572''|

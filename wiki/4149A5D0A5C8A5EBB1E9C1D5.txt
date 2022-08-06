@@ -1,5 +1,5 @@
 *AIバトル演奏/ニジイロ [#title]
-[[遊び方についての説明(公式サイト)>https://taiko.namco-ch.net/taiko/howto/ai.php]]~
+[[遊び方についての説明(公式サイト)>https://taiko.namco-ch.net/taiko/howto/ai.php#ai_battle]]~
 [[公式ブログ>https://taiko-ch.net/blog/?p=4812]]~
 [[参考動画(公式)>https://www.youtube.com/watch?v=fMPH-wbAPko]]~
 [[グリーンVer.の情報はこちら>./グリーン]]
