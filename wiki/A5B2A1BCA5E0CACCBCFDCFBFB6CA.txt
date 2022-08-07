@@ -61,6 +61,7 @@
 |''The Windmill Song''&br;¡¡¡¡SIZE(11){É÷¤Î¥¯¥í¥Î¥¢}|125|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/The Windmill Song]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/The Windmill Song]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/The Windmill Song]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/The Windmill Song]]|-|
 |''Baladium's drive''&br;¡¡¡¡SIZE(11){É÷¤Î¥¯¥í¥Î¥¢}|120|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Baladium's drive]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Baladium's drive]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Baladium's drive]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/Baladium's drive]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Baladium's drive(Î¢ÉèÌÌ)]]|
 |''STEPPING WIND''&br;¡¡¡¡SIZE(11){É÷¤Î¥¯¥í¥Î¥¢2}|164|BGCOLOR(silver):-|BGCOLOR(silver):[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/STEPPING WIND]]|BGCOLOR(silver):[[¡ú¡ß1>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/STEPPING WIND]]|BGCOLOR(silver):[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤ª¤Ë/STEPPING WIND]]|BGCOLOR(silver):-|
+|''GOING TO LUNATEA''&br;¡¡¡¡SIZE(11){É÷¤Î¥¯¥í¥Î¥¢2}|248|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/GOING TO LUNATEA]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/GOING TO LUNATEA]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/GOING TO LUNATEA]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/GOING TO LUNATEA]]|-|
 
 ***²ôº² [#kata]
 ||LEFT:60|>|>|>|>|CENTER:42|c

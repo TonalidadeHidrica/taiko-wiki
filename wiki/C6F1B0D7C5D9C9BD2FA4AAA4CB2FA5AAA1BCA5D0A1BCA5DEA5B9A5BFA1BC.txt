@@ -61,5 +61,5 @@
 ***譜面 [#score]
 ~PSPDXのみ★×7
 ~COLOR(red){PS Vita MS}は92小節目までしかありません。
-~&attachref(overm_2.png,nolink);
+~&attachref(overm_m.png,nolink);
 --

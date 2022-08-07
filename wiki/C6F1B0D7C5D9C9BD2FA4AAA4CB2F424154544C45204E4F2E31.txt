@@ -40,19 +40,19 @@
 |>|CENTER:|COLOR(#666):CENTER:|COLOR(#069):CENTER:|COLOR(#909):CENTER:|c
 |小節|作曲者|>|>|COLOR(#000):各譜面のコンボ数|h
 |~|~|普通|玄人|達人|h
-|1-10|Noizenecio|46|50|67|
-|11-18|DJ Noriken|45|59|67|
+|1-10|[[Noizenecio>https://twitter.com/noizenecio]]|46|50|67|
+|11-18|[[DJ Noriken>https://twitter.com/noriken]]|45|59|67|
 |19-26|[[REDALiCE>参加アーティスト一覧/REDALiCE]]|66|74|81|
-|27-34|Getty|53|57|73|
-|35-42|Srav3R|62|69|75|
+|27-34|[[Getty>https://twitter.com/getty8getty]]|53|57|73|
+|35-42|[[Srav3R>https://twitter.com/Srav3R]]|62|69|75|
 |43-50|[[t+pazolite>参加アーティスト一覧/t+pazolite]]|61|73|80|
 |51-58|[[Laur>参加アーティスト一覧/Laur]]|51|53|66|
 |59-66|[[DJ Myosuke>参加アーティスト一覧/DJ Myosuke]]|47|50|83|
-|67-74|USAO|57|62|75|
+|67-74|[[USAO>https://twitter.com/USAO926]]|57|62|75|
 |75-82|[[DJ Genki>参加アーティスト一覧/DJ Genki]]|58|88|97|
-|83-90|Kobaryo|61|68|77|
+|83-90|[[Kobaryo>https://twitter.com/Kobaryo_2b1c]]|61|68|77|
 |91-98|[[Massive New Krew>参加アーティスト一覧/Massive New Krew]]|49|59|64|
-|99-108|P*Light|50|72|80|
+|99-108|[[P*Light>https://twitter.com/P_Light]]|50|72|80|
 -この譜面をフルコンボすると、''称号''「''俺たちのBATTLEはこれからだ！''」を獲得できる。 
 -譜面分岐を利用してコンボ数を調整し765(876)コンボでフルコンボした場合、それぞれ''称号「765の達人」「876の達人」((1プレイ内全てで765(876)コンボの曲を選んでフルコンボ))の対象曲と見做される''。
 --コンボ数の調整例を以下に示すが、もともと非常に多くの分岐パターンがあるため、下記以外にも条件を満たすパターンが多数存在する。~
@@ -64,9 +64,9 @@
 -[[かんたん>難易度表/かんたん/BATTLE NO.1]]
 -[[ふつう>難易度表/ふつう/BATTLE NO.1]]
 -[[むずかしい>難易度表/むずかしい/BATTLE NO.1]]
--[[プレイ動画(キャプチャ・普通譜面)>https://m.youtube.com/watch?v=BhNwo4n8EXk&feature=youtu.be&t=18s]]
--[[プレイ動画(キャプチャ・玄人譜面)>https://m.youtube.com/watch?v=4ppir6LZdC0&feature=youtu.be&t=21s]]
--[[プレイ動画(キャプチャ・達人譜面)>https://m.youtube.com/watch?v=9_j5nVNd04c&feature=youtu.be&t=17s]]
+-[[プレイ動画(キャプチャ・普通譜面)>https://youtu.be/BhNwo4n8EXk?t=18]]
+-[[プレイ動画(キャプチャ・玄人譜面)>https://youtu.be/4ppir6LZdC0?t=21]]
+-[[プレイ動画(キャプチャ・達人譜面)>https://youtu.be/9_j5nVNd04c?t=17]]
 
 -[[全分岐リスト(有志作成Excelファイル)>https://ux.getuploader.com/zatta_960/download/1]]
 
