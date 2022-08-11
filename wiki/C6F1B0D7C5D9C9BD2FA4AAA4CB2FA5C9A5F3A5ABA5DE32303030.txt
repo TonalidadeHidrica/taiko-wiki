@@ -87,9 +87,9 @@
 -[[かんたん>難易度表/かんたん/ドンカマ2000]]
 -[[ふつう>難易度表/ふつう/ドンカマ2000]]
 -[[むずかしい>難易度表/むずかしい/ドンカマ2000]]
--[[プレイ動画(キミドリ V2.06以前)>https://www.youtube.com/watch?v=k1qLmrkS94M&t=11s]]
--[[プレイ動画(キミドリ V0.12仕様)>https://www.youtube.com/watch?v=bJOd3fiwgHQ&t=6s]]
--[[オート動画(Wii U2)>https://www.youtube.com/watch?v=cPVyIqgEtxs]]
+-[[プレイ動画(キミドリ V2.06以前)>https://youtu.be/k1qLmrkS94M?t=11]]
+-[[プレイ動画(キミドリ V0.12仕様)>https://youtu.be/bJOd3fiwgHQ?t=6]]
+-[[オート動画(Wii U2)>https://youtu.be/cPVyIqgEtxs]]
 -[[歌詞紹介>https://s.awa.fm/track/14e9b851e30448b71703]]
 
 ***コメント [#comment]
@@ -99,9 +99,8 @@
 
 ***譜面 [#score]
 ~KIMIDORI V0.12のみ、11〜15小節と61〜66小節の高速音符はHS3。
-//~内部小節を含んだ譜面画像は[[こちら>]]
-&attachref(doncam_3ds2_m.png,nolink);
+~内部小節を含んだ譜面画像は[[こちら>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=doncam_m0.png&refer=%A5%B3%A5%E1%A5%F3%A5%C8%2F%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A5%C9%A5%F3%A5%AB%A5%DE2000]]
+~&attachref(doncam_3ds2_m.png,nolink);
 
 ~速度分け画像。普通譜面は元の譜面、玄人譜面は速度が遅い方、達人譜面は速度が速い方。
-~修正前の画像であるため相違点については上記画像を参照。
-&attachref(どんかｍ.png,nolink);
+~&attachref(ドンカマ2000_速度分け.png,nolink);

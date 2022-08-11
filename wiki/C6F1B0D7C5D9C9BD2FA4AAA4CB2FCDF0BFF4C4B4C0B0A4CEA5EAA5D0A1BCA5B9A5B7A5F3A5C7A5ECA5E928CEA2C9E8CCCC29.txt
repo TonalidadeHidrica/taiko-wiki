@@ -53,11 +53,11 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~内部小節線を含めた画像は[[こちら>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=ssnrns_x.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%CD%F0%BF%F4%C4%B4%C0%B0%A4%CE%A5%EA%A5%D0%A1%BC%A5%B9%A5%B7%A5%F3%A5%C7%A5%EC%A5%E9%28%CE%A2%C9%E8%CC%CC%29]]
 ~&attachref(粗品裏解_2.png,nolink);
 
 ***最後見やすくver [#o4c8b96d]
-~BPMは170、HSは0.25
-~&attachref(シンデレラスト.png,nolink);
+~&attachref(ssnrns_x_last.png,nolink);
 
 ***見た目重視ver [#mitame]
 ~&attachref(his shoes_2.png,nolink);
