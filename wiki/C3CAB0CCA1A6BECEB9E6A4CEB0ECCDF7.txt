@@ -80,7 +80,7 @@
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ピクセルドンだー|BGCOLOR(grey):2016年2月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){ブロック}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):バタフライドンだー|BGCOLOR(grey):2016年3月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ちょうちょのはね}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):斉天大聖ドン悟空|BGCOLOR(grey):2016年4月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){そんごくう}」を獲得|
-|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):密林に忍びし者|BGCOLOR(grey):2016年5月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(???((当時のブログ記事などが残存していないため確認不可能)))「COLOR(red){ジャングル}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):密林に忍びし者|BGCOLOR(grey):2016年5月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){ジャングル}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):太鼓界のバカンスマスター|BGCOLOR(grey):2016年6月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){バカンスパラソル}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ヒーローは遅れてやってくる|BGCOLOR(grey):2016年8月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ヒーロー}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):猫の手も借りたい|BGCOLOR(grey):2016年9月に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ(あたま)「COLOR(red){ネコミミ}」を獲得|
