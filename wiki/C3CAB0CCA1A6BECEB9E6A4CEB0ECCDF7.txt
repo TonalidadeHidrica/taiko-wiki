@@ -520,7 +520,7 @@
 |〇|BGCOLOR(gold):|太鼓は生き甲斐|[[COLOR(blue):ALiVE>難易度表/おに/ALiVE]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|JOIN THE PAC|[[COLOR(blue):JOIN THE PAC -太鼓の達人 Ver.->難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|究極の零|[[COLOR(blue):零の交響曲(裏)>難易度表/おに/零の交響曲(裏譜面)]]をフルコンボ|~|
-|〇|BGCOLOR(gold):|ずっとこのままで|[[COLOR(blue):いっそこのままで>難易度表/おに/いっそこのままで]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ずっとそのままで|[[COLOR(blue):いっそこのままで>難易度表/おに/いっそこのままで]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|while(1) ROUTINE();|[[COLOR(blue):wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|僕らはもっと翔べる|[[COLOR(blue):Fly again!>難易度表/おに/Fly again!]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|クリエイタードンだー|[[COLOR(blue):限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]を難易度おにでフルコンボ|~|

@@ -253,11 +253,11 @@
 |~|1st|[[アレキサンダーのテーマ>難易度表/おに/アレキサンダーのテーマ]]|おに★×8|''644コンボ''|COLOR(red){76%以上}&br;COLOR(#cccc33){''???%以上''}|COLOR(red){1976726点以上}&br;COLOR(#cccc33){''??点以上''}|-|-|
 |~|2nd|[[Agent Hustle & Dr. Hassle&br;''(裏)''>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|おに★×9|''518コンボ''|~|~|~|~|
 |~|3rd|[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]|おに★×9|''777コンボ''|~|~|~|~|
-|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''マスブ・チュジー生誕記念#2022【雅】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/マスブ・チュジー生誕記念＃2022【雅】]]|BGCOLOR(#f7e5b7):SIZE(16){''1939''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''叩けた数''|BGCOLOR(#f7e5b7):-|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''マスブ・チュジー生誕記念#2022【雅】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/マスブ・チュジー生誕記念＃2022]]|BGCOLOR(#f7e5b7):SIZE(16){''1939''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''叩けた数''|BGCOLOR(#f7e5b7):-|
 |~|1st|[[アレキサンダーのテーマ>難易度表/おに/アレキサンダーのテーマ]]|おに★×8|''644コンボ''|COLOR(red){98%以上}&br;COLOR(#cccc33){''???%以上''}|COLOR(red){726未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){1976打以上}&br;COLOR(#cccc33){''??打以上''}|-|
 |~|2nd|[[Agent Hustle & Dr. Hassle&br;''(裏)''>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|おに★×9|''518コンボ''|~|~|~|~|
 |~|3rd|[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]|おに★×9|''777コンボ''|~|~|~|~|
-|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''マスブ・チュジー生誕記念#2022【極】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/マスブ・チュジー生誕記念＃2022【極】]]|BGCOLOR(#f7e5b7):SIZE(16){''1939''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''マスブ・チュジー生誕記念#2022【極】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/マスブ・チュジー生誕記念＃2022]]|BGCOLOR(#f7e5b7):SIZE(16){''1939''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|
 |~|1st|[[アレキサンダーのテーマ>難易度表/おに/アレキサンダーのテーマ]]|おに★×8|''644コンボ''|COLOR(red){98%以上}&br;COLOR(#cccc33){''???%以上''}|COLOR(red){70未満}&br;COLOR(#cccc33){''26未満''}|COLOR(red){26未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){70打以上}&br;COLOR(#cccc33){''??以上''}|
 |~|2nd|[[Agent Hustle & Dr. Hassle&br;''(裏)''>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|おに★×9|''518コンボ''|~|~|~|COLOR(red){20打以上}&br;COLOR(#cccc33){''??以上''}|
 |~|3rd|[[亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]|おに★×9|''777コンボ''|~|~|~|COLOR(red){60打以上}&br;COLOR(#cccc33){''??以上''}|

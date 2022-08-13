@@ -48,6 +48,7 @@
 
 ***譜面 [#score]
 ~84〜113小節の風船は次の小節の48分手前。受付時間は0.05秒。
+~115小節の風船はBPM50のHS0.5
 ~&attachref(ssnkjs_x.png,nolink);
 &br;
 #region(114〜116小節のTJA表記)
