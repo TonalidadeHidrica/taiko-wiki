@@ -48,8 +48,8 @@
 -[[ふつう>難易度表/ふつう/たいこの2000]]
 -[[むずかしい>難易度表/むずかしい/たいこの2000]]
 -[[楽曲紹介>https://taiko-ch.net/blog/?p=6750]]
--[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?v=wcSzwRKIfkY&t=12s]]
--[[オート動画(iOS)>https://m.youtube.com/watch?v=4pejR1Ntpcc&t=5s]]
+-[[プレイ動画(キャプチャ)>https://youtu.be/wcSzwRKIfkY?t=12]]
+-[[オート動画(iOS)>https://youtu.be/4pejR1Ntpcc?t=5]]
 -[[公式音源動画>https://youtu.be/3jZQVBc2I_A]]
 
 ***コメント [#comment]
@@ -62,5 +62,5 @@
  29小節:1.05 → 1.1 → 1.15 → 1.2 → 1.26 → 1.32 → 1.38 → 1.45 → 1.52 → 1.59 → 1.66 → 1.74 → 1.82 → 1.91 → 2
  116小節:1.21 → 1.07 → 0.94 → 0.83 → 0.73 → 0.64 → 0.57 → 0.5 → 1
 ~疑似32分等の内部小節は省略
-//~内部小節を含んだ譜面画像は[[こちら>]]
+//~内部小節を含んだ譜面画像は[[こちら>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=20tbc_m0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A4%BF%A4%A4%A4%B3%A4%CE2000]]
 ~&attachref(20tbc_m.png,nolink);
