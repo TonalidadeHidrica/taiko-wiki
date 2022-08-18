@@ -1,5 +1,6 @@
 *&ruby(ブルー){BLUE}; &ruby(サファイア){SAPPHIRE}; [#title]
 -映画「[[''名探偵コナン 紺青の拳''>アニメ別収録曲#konan]]」主題歌。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -17,9 +18,8 @@
 --また、その直前には[[FooFooカセット>難易度表/かんたん/FooFooカセット]]などを彷彿とさせる小節線ギミックがある。
 
 ***その他 [#other]
--アーティストは、''HIROOMI TOSAKA''([[''三代目 J SOUL BROTHERS''>アーティスト別収録曲#jsb3]])。
---作詞は、YVES&ADAMS・STAND ALONE。作曲は、STAND ALONE・Carlos Okabe・Yo-Sea。
--曲IDは、''bluesa''。
+-楽曲情報は[[おに譜面>難易度表/おに/BLUE SAPPHIRE#other]]を参照。
+
 ----
 -[[ふつう>難易度表/ふつう/BLUE SAPPHIRE]]
 -[[むずかしい>難易度表/むずかしい/BLUE SAPPHIRE]]

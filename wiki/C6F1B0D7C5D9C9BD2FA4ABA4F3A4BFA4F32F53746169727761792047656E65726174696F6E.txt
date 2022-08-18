@@ -1,4 +1,4 @@
-*Stairway Generation [#title]
+*&ruby(ステアウェイ){Stairway}; &ruby(ジェネレーション){Generation}; [#title]
 -アニメ「[[''銀魂''>アニメ別収録曲#gintama]]」のOP7。
 
 ***詳細 [#more]
@@ -16,10 +16,7 @@
 -4分の複合が何度も出てくる22〜29小節に注意。
 
 ***その他 [#other]
--曲名の読み方は、''ステアウェイ ジェネレーション''。
--アーティストは、''Base Ball Bear''。
---作詞・作曲は、小出祐介。編曲は、玉井健二。
--曲IDは、''stairw''。
+-楽曲情報は[[おに譜面>難易度表/おに/Stairway Generation#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/Stairway Generation]]

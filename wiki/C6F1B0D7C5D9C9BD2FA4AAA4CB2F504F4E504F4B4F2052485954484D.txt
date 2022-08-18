@@ -22,7 +22,7 @@
 -この曲は公募の段階では「''[[PONPOKO RYTHM>https://faithcreation.jp/taikonotatsujin/result/index.html]]''」という表記であったが、本収録時にスペルミスが修正された。
 -この譜面をフルコンボすると、''称号''「''狸囃子の達人''」を獲得できる。
 -[[ニジイロVer.段位道場2022>段位道場#normal]]の[[三段>段位道場/ニジイロ2022/三段]]1曲目課題曲となった。
-//-曲IDは、''''。
+-曲IDは、''ponpok''。
 
 ----
 -[[かんたん>難易度表/かんたん/PONPOKO RHYTHM]]
