@@ -2,9 +2,10 @@
 -アニメ「[[''銀魂°''>アニメ別収録曲#gintama]]」のOP1。
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii U3''&br;3DS3DL|CENTER:★×5|CENTER:''153''|CENTER:''577490点''|CENTER:＋連打|CENTER:1080点|CENTER:383点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''981780点''}|~|CENTER:COLOR(#ff3300){5670点}|CENTER:-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii U3''&br;3DS3DL|BGCOLOR(orange):''アニメ''|★×5|''153''|''577490点''|＋連打|1080点|383点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''981780点''}|~|COLOR(#ff3300){5670点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは193。
@@ -18,6 +19,7 @@
 ***その他 [#other]
 -ナムコオリジナルの[[Day by Day!>難易度表/ふつう/Day by Day!]]と間違えないように。
 -楽曲情報は[[おに譜面>難易度表/おに/DAY×DAY]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/DAY×DAY]]
 -[[むずかしい>難易度表/むずかしい/DAY×DAY]]

@@ -1,10 +1,11 @@
-*BLAZING [#title]
--アニメ「''ガンダム Gのレコンギスタ''」のOP1。
+*&ruby(ブレイジング){BLAZING}; [#title]
+-アニメ「[[''ガンダム Gのレコンギスタ''>アニメ別収録曲#gundam]]」のOP1。
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×6|CENTER:''298''|CENTER:''784040点''|CENTER:＋連打|CENTER:760点|CENTER:230点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''988000点''}|~|CENTER:COLOR(#ff3300){3040点}|CENTER:-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1''&br;''PS Vita1亜''|BGCOLOR(orange):''アニメ''|★×6|''298''|''784040点''|＋連打|760点|230点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''990470点''}|~|COLOR(#ff3300){2470点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは151-190。
@@ -17,10 +18,7 @@
 --また、黄色連打と8分の大音符が隣接しているラストにも注意したいところ。
 
 ***その他 [#other]
--歌唱・編曲は、[[''GARNiDELiA''>アーティスト別収録曲#garnidelia]]。
---作詞は、メイリア。作曲は、toku。
--曲IDは、''gdmrec''。
--同じくPS Vita1に収録された[[BLAZING VORTEX>難易度表/おに/BLAZING VORTEX]]との混同に注意。
+-楽曲情報は[[おに譜面>難易度表/おに/BLAZING#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/BLAZING]]
@@ -34,4 +32,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(blazh.png,nolink);
+~1〜3小節目はBPM151、4小節目はBPM152
+~&attachref(blazh.png,nolink);

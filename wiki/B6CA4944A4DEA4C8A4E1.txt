@@ -585,7 +585,7 @@
 |dodai|[[Do-Dai>難易度表/おに/Do-Dai]]||
 |dogbit|[[Dogbite>難易度表/おに/Dogbite]]||
 |dogma1|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|セントラル''ドグマ''|
-|dogma2|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|~|
+//|dogma2|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|~|
 |doit|[[Do it! Now>難易度表/おに/Do it! Now]]||
 |dojo|[[音符のうた>難易度表/おに/音符のうた]]|初心者道場|
 |dojoae|[[音符のうた -English Version->難易度表/おに/音符のうた -English Version-]]|初心者道場(Apple English)|
@@ -673,8 +673,9 @@
 |eva|[[残酷な天使のテーゼ>難易度表/おに/残酷な天使のテーゼ]]|エヴァンゲリオン|
 |evam20|[[Battaille D&#233;cisive>難易度表/おに/Battaille Decisive]]|~|
 |evedrm|[[ドラマツルギー>難易度表/おに/ドラマツルギー]]|Eve|
-|eveka2|[[廻廻奇譚>難易度表/おに/廻廻奇譚]]|Eve カバー版|
-|evekai|~|Eve 本人音源|
+//|eveka2|[[廻廻奇譚>難易度表/おに/廻廻奇譚]]|Eve カバー版|
+//|evekai|~|Eve 本人音源|
+|evekai|[[廻廻奇譚>難易度表/おに/廻廻奇譚]]|-|
 |evensb|[[ナンセンス文学>難易度表/おに/ナンセンス文学]]|Eve|
 |evievi|[[Evidence of evil>難易度表/おに/Evidence of evil]]||
 |exbbop|[[Tank!(裏)>難易度表/おに/Tank!(裏譜面)]]||
@@ -722,7 +723,7 @@
 |>|>|BGCOLOR(#ccc):CENTER:''F''&aname(f);|
 |f2naru|[[talking>難易度表/おに/talking]]|すべてが''Fになる''|
 |fa|[[DESERT STORM>難易度表/おに/DESERT STORM]]|F/A|
-|fads|~|~|
+//|fads|~|~|
 |fa3res|[[ファミレスウォーズ>難易度表/おに/ファミレスウォーズ]]||
 |faith|[[FAITH>難易度表/おに/FAITH]]||
 |fantbb|[[FANTASTIC BABY>難易度表/おに/FANTASTIC BABY]]||
@@ -1269,7 +1270,7 @@
 |klwind|[[The Windmill Song>難易度表/おに/The Windmill Song]]|~|
 |kmbaby|[[キルミーのベイベー！>難易度表/おに/キルミーのベイベー！]]||
 //|ko9ryu|[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]||
-|kobenm|[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]||
+//|kobenm|[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]||
 |koda|[[Butterfly>難易度表/おに/Butterfly]]|倖田來未|
 |koi907|[[濃紅>難易度表/おに/濃紅]]||
 |koiama|[[恋音と雨空>難易度表/おに/恋音と雨空]]||
@@ -1321,14 +1322,14 @@
 |lactea|[[via lactea>難易度表/おに/via lactea]]||
 |lad|[[Lady Marmalade>難易度表/おに/Lady Marmalade]]||
 |lam|[[ラムのラブソング>難易度表/おに/ラムのラブソング]]||
-|lapaz|[[ラパスの虹>難易度表/おに/ラパスの虹]]||
+//|lapaz|[[ラパスの虹>難易度表/おに/ラパスの虹]]||
 |lapis|[[ラピスラズリ>難易度表/おに/ラピスラズリ]]||
 |laputa|[[君をのせて>難易度表/おに/君をのせて]]||
 |lassen|[[ラッスンゴレライ>難易度表/おに/ラッスンゴレライ]]||
 |last2k|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|last=最後、2k=2000 作曲当時、この曲で2000シリーズを終わらせようとしていた|
 |lastcr|[[last cross>難易度表/おに/last cross]]||
 |latino|[[オブセッション・ラティーノ>難易度表/おに/オブセッション・ラティーノ]]||
-|leciel|[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]||
+//|leciel|[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]||
 |lesson|[[恋のPecori&#9825;Lesson>難易度表/おに/恋のPecori Lesson]]||
 |lets5o|[[LET'S GO OUT>難易度表/おに/LET'S GO OUT]]||
 |lgmsek|[[世界はあなたに笑いかけている>難易度表/おに/世界はあなたに笑いかけている]]|Little Glee Monster|
@@ -1512,7 +1513,7 @@
 |mnpure|[[マリオネットピュア>難易度表/おに/マリオネットピュア]]||
 |moana|[[どこまでも〜How Far I’ll Go〜>難易度表/おに/どこまでも〜How Far I'll Go〜]]|モアナと伝説の海|
 |moana2|[[SHINY>難易度表/おに/SHINY(モアナ)]]|~|
-|moeyos|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]||
+//|moeyos|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]||
 |moji|[[もじぴったんメドレー>難易度表/おに/もじぴったんメドレー]]||
 |momoi|[[ワンダーモモーイ>難易度表/おに/ワンダーモモーイ]]||
 |monh4g|[[モンスターハンター4G メドレー>難易度表/おに/モンスターハンター4G メドレー]]|モンスターハンター|
@@ -1590,7 +1591,7 @@
 |ngzsnc|[[シンクロニシティ>難易度表/おに/シンクロニシティ]]|乃木坂46|
 |night|[[URBAN TRAIL>難易度表/おに/URBAN TRAIL]]|NIGHT STRIKER|
 |nightf|[[NIGHT OF FIRE>難易度表/おに/NIGHT OF FIRE]]||
-|nijbtn|[[ニジイロバトン>難易度表/おに/ニジイロバトン]]||
+//|nijbtn|[[ニジイロバトン>難易度表/おに/ニジイロバトン]]||
 |niji|[[虹>難易度表/おに/虹]]||
 |niku|[[デザート de 焼肉(サハラ編)>難易度表/おに/デザート de 焼肉(サハラ編)]]||
 |niku2|[[ザストゥールの魔導書>難易度表/おに/ザストゥールの魔導書]]|デザート de 焼肉の続編|
@@ -1705,7 +1706,7 @@
 |poad|[[PIECES OF A DREAM>難易度表/おに/PIECES OF A DREAM]]||
 |pocky|[[DANCE2 feat.ソイソース>難易度表/おに/DANCE2 feat.ソイソース]]|CM|
 |poly|[[ポリリズム>難易度表/おに/ポリリズム]]||
-|ponpok|[[PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]||
+//|ponpok|[[PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]||
 |ponpon|[[PON PON PON>難易度表/おに/PON PON PON]]||
 |ponyo|[[崖の上のポニョ>難易度表/おに/崖の上のポニョ]]||
 |pop|[[POP STAR>難易度表/おに/POP STAR]]||
@@ -1741,7 +1742,7 @@
 |psp3op|[[ドコDON★まつリズム>難易度表/おに/ドコDON☆まつリズム]]|~|
 |psplsb|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|PSPのラスボス曲|
 |pspopn|[[くもまでとどけ！>難易度表/おに/くもまでとどけ！]]||
-|ptptpk|[[ぺた・PETA！？パンプキン>難易度表/おに/ぺた・PETA！？パンプキン]]||
+//|ptptpk|[[ぺた・PETA！？パンプキン>難易度表/おに/ぺた・PETA！？パンプキン]]||
 |puffy|[[アジアの純真>難易度表/おに/アジアの純真]]|PUFFY|
 |pulmer|[[プルメリア〜花唄〜>難易度表/おに/プルメリア〜花唄〜]]||
 |punish|[[Punishment>難易度表/おに/Punishment]]||
@@ -1933,7 +1934,7 @@
 |smily|[[SMILY>難易度表/おに/SMILY]]||
 |smokyt|[[SMOKY THRILL>難易度表/おに/SMOKY THRILL]]||
 |smoon|[[ムーンライト伝説>難易度表/おに/ムーンライト伝説]]|sailor moon|
-|smoon2|~|新譜面|
+//|smoon2|~|新譜面|
 |smpri9|[[Let's go! スマイルプリキュア！>難易度表/おに/Let's go! スマイルプリキュア！]]||
 |snx|[[相容れぬ念い>難易度表/おに/相容れぬ念い]]|''S''CARLET ''N''E''X''US|
 |snyq|[[承認欲Q>難易度表/おに/承認欲Q]]||
@@ -2099,7 +2100,7 @@
 |thseek|[[Endless Seeker>難易度表/おに/Endless Seeker]]||
 |thun|[[サンダーセプターメドレー>難易度表/おに/サンダーセプターメドレー]]|thunder|
 |thunpr|[[Unprivileged Access>難易度表/おに/Unprivileged Access]]((例大祭11限定))|''Unpr''ivileged Access|
-|thusat|[[ウサテイ>難易度表/おに/ウサテイ]]|''ウサテ''イ|
+//|thusat|[[ウサテイ>難易度表/おに/ウサテイ]]|''ウサテ''イ|
 |thwarn|[[WARNING×WARNING×WARNING>難易度表/おに/WARNING×WARNING×WARNING]]||
 |thzesh|[[仙酌絶唱のファンタジア>難易度表/おに/仙酌絶唱のファンタジア]]|仙酌''絶唱''|
 |tiger|[[六甲おろし>難易度表/おに/六甲おろし]]|阪神タイガース|
@@ -2336,12 +2337,14 @@
 |yokud|[[よくでる2000>難易度表/おに/よくでる2000]]||
 |yokud2|[[よくでる15300>難易度表/おに/よくでる15300]]||
 |young|[[ヤングマン (Y.M.C.A)>難易度表/おに/ヤングマン（Y.M.C.A）]]|AC4のみ、CS6以降では''ymca''|
-|yoruk2|[[夜に駆ける>難易度表/おに/夜に駆ける]]|カバー版|
-|yorukk|~|本人音源|
+//|yoruk2|[[夜に駆ける>難易度表/おに/夜に駆ける]]|カバー版|
+//|yorukk|~|本人音源|
+|yorukk|[[夜に駆ける>難易度表/おに/夜に駆ける]]||
 |your|[[Your World>難易度表/おに/Your World]]||
 |ypp|[[太陽もヤッパッパー>難易度表/おに/太陽もヤッパッパー]]||
-|yrsda2|[[だから僕は音楽を辞めた>難易度表/おに/だから僕は音楽を辞めた]]|ヨルシカ カバー版|
-|yrsdak|~|ヨルシカ 本人音源|
+//|yrsda2|[[だから僕は音楽を辞めた>難易度表/おに/だから僕は音楽を辞めた]]|ヨルシカ カバー版|
+//|yrsdak|~|ヨルシカ 本人音源|
+|yrsdak|[[だから僕は音楽を辞めた>難易度表/おに/だから僕は音楽を辞めた]]|ヨルシカ|
 |ys2op|[[TO MAKE THE END OF BATTLE>難易度表/おに/TO MAKE THE END OF BATTLE]]|イースII|
 |yugao2|[[散りゆく蘭の綴る詩>難易度表/おに/散りゆく蘭の綴る詩]]|[[ユウガオノキミ>難易度表/おに/ユウガオノキミ]]の続編|
 |yugen|[[幽玄ノ乱>難易度表/おに/幽玄ノ乱]]||
