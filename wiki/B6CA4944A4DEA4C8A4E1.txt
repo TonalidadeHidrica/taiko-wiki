@@ -859,7 +859,6 @@
 |grip|[[Grip!>難易度表/おに/Grip!]]||
 |grumin|[[悲しき蒼穹を翔ける>難易度表/おに/悲しき蒼穹を翔ける]]|ぐるみん|
 |gstmsk|[[ゴーストマスク>難易度表/おに/ゴーストマスク]]||
-//|gumdp2|[[拝啓ドッペルゲンガー>難易度表/おに/拝啓ドッペルゲンガー]]|GUMI 拝啓''ド''ッ''ペ''ルゲンガー|
 |gumi10|[[十面相 colorful ver.>難易度表/おに/十面相 colorful ver.]]|GUMI ''十''面相|
 |gumi22|[[にんじんにん>難易度表/おに/にんじんにん]]|GUMI ''に''んじん''に''ん|
 |gumiam|[[天ノ弱>難易度表/おに/天ノ弱]]|GUMI ''天''ノ弱|
@@ -900,8 +899,6 @@
 |hapsyn|[[ハッピーシンセサイザ>難易度表/おに/ハッピーシンセサイザ]]||
 |hareru|[[晴れる道 〜宇宙人に合わせる顔がねぇ！〜>難易度表/おに/晴れる道]]||
 |hari|[[ハリケンジャー参上！>難易度表/おに/ハリケンジャー参上!]]||
-//|haruj2|[[ハルジオン>難易度表/おに/ハルジオン]]|カバー版|
-//|haruji|~|本人音源|
 |haruji|[[ハルジオン>難易度表/おに/ハルジオン]]||
 |haruka|[[遥か>難易度表/おに/遥か]]||
 |haruut|[[ハルウタ>難易度表/おに/ハルウタ]]||
@@ -917,13 +914,12 @@
 |hello|[[ハロー！どんちゃん>難易度表/おに/ハロー！どんちゃん]]||
 |hello2|~|新譜面|
 |hellod|[[ハローダーウィン！〜好奇心オンデマンド〜>難易度表/おに/ハローダーウィン！〜好奇心オンデマンド〜]]||
-|helmas|[["HELLO!!">難易度表/おに/“HELLO!!”]]||
+|helmas|[["HELLO!!">難易度表/おに/“HELLO!!”]]|旧譜面(新譜面は''imehel'')|
 |hero|[[合体！ドンレンジャーロボ>難易度表/おに/合体！ドンレンジャーロボ]]|ヒーローもの(曲ジャンル)|
 |heroac|[[THE DAY>難易度表/おに/THE DAY]]|僕の''ヒーローアカ''デミア|
 |heromt|[[「HERO」-Main Title->難易度表/おに/「HERO」 -Main Title-]]|''M''ain ''T''itle|
 |heros|[[Hero's Come Back!!>難易度表/おに/Hero's Come Back!!]]||
 |hi4kko|[[ひよっこファンタジー>難易度表/おに/ひよっこファンタジー]]||
-//|hi4kok|[[ひよこ鑑定士さん>難易度表/おに/ひよこ鑑定士さん]]||
 |hibiki|[[輝>難易度表/おに/輝]]|響鬼|
 |hide4s|[[天下統一録>難易度表/おに/天下統一録]]|豊臣''秀吉''|
 |higgs|[[少女の神の粒子>難易度表/おに/少女の神の粒子]]|ヒッグス粒子|
@@ -980,7 +976,7 @@
 |idol|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]||
 |idol2|[[スクロール・ミカ>難易度表/おに/スクロール・ミカ]]|エリンギのエクボ2|
 |idolm|[[THE IDOLM@STER>難易度表/おに/THE IDOLM@STER]]|旧音源・旧譜面 ／ 新音源・新譜面は''imsims''|
-|idolm2|[[ポジティブ！>難易度表/おに/ポジティブ！]]||
+|idolm2|[[ポジティブ！>難易度表/おに/ポジティブ！]]|旧音源・旧譜面 ／ 新音源・新譜面は''imspos''|
 |ignis|[[Ignis Danse>難易度表/おに/Ignis Danse]]||
 |iina|[[にんげんっていいな>難易度表/おに/にんげんっていいな]]||
 |iiyu|[[いい湯だな>難易度表/おに/いい湯だな]]||
@@ -993,113 +989,113 @@
 |ikzo|[[俺ら東京さ行ぐだ>難易度表/おに/俺ら東京さ行ぐだ]]||
 |iland|[[スキップ ステップ アイランド>難易度表/おに/スキップ　ステップ　アイランド]]||
 |im|[[I'm A Believer>難易度表/おに/I'm A Believer]]||
-|im4spr|[[Spread the Wings!!>難易度表/おに/Spread the Wings!!]]||
-|im4dst|[[ヒカリのdestination>難易度表/おに/ヒカリのdestination]]||
-|imas2t|[[The world is all one!!>難易度表/おに/The world is all one !!]]|IM@S2 theme|
-|imasop|[[READY!!>難易度表/おに/READY!!]]|旧譜面(新譜面は''imsrdy'')|
-|imc2bm|[[華蕾夢ミル狂詩曲〜魂ノ導〜>難易度表/おに/華蕾夢ミル狂詩曲〜魂ノ導〜]]|シンデレラガールズ|
+|im4spr|[[Spread the Wings!!>難易度表/おに/Spread the Wings!!]]|''4''→シャイニーカラーズ|
+|im4dst|[[ヒカリのdestination>難易度表/おに/ヒカリのdestination]]|~|
+|imas2t|[[The world is all one!!>難易度表/おに/The world is all one !!]]|THE ''I''DOL''M@S''TER ''2'' テーマ(''t''heme)|
+|imasop|[[READY!!>難易度表/おに/READY!!]]|旧譜面,AC(新譜面は''imsrdy'')|
+|imc2bm|[[華蕾夢ミル狂詩曲〜魂ノ導〜>難易度表/おに/華蕾夢ミル狂詩曲〜魂ノ導〜]]|''c''→シンデレラガールズ|
 |imc32b|[[ミツボシ☆☆★>難易度表/おに/ミツボシ☆☆★]]|~|
 |imc5in|[[GOIN’!!!>難易度表/おに/GOIN’!!!]]|~|
 |imcagd|[[エンジェル ドリーム(デレマス)>難易度表/おに/エンジェル ドリーム(デレマス)]]|~|
 |imcanz|[[あんずのうた>難易度表/おに/あんずのうた]]|~|
 |imclip|[[Tulip>難易度表/おに/Tulip]]|~|
-|imcnev|[[Never say never>難易度表/おに/Never say never]]||
+|imcnev|[[Never say never>難易度表/おに/Never say never]]|~|
 |imconc|[[お願い！シンデレラ>難易度表/おに/お願い！シンデレラ]]|~|
 |imcshn|[[Shine!!>難易度表/おに/Shine!!]]|~|
 |imcsml|[[S(mile)ING!>難易度表/おに/S(mile)ING!]]|~|
 |imcstr|[[Star!!>難易度表/おに/Star!!]]|~|
 |imctok|[[TOKIMEKIエスカレート>難易度表/おに/TOKIMEKIエスカレート]]|~|
-|imeacc|[[アクセルレーション>難易度表/おに/アクセルレーション]]||
-|imeali|[[Alice or Guilty>難易度表/おに/Alice or Guilty]]||
-|imedrv|[[DRIVE A LIVE>難易度表/おに/DRIVE A LIVE]]||
-|imeglo|[[GLORIOUS RO@D>難易度表/おに/GLORIOUS RO@D]]||
-|imehel|[[“HELLO!!”>難易度表/おに/“HELLO!!”]]||
-|imersn|[[Reason!!>難易度表/おに/Reason!!]]||
+|imeacc|[[アクセルレーション>難易度表/おに/アクセルレーション]]|その他(''e''tosetora)? DеarlyStars,SideM,961プロの楽曲が該当|
+|imeali|[[Alice or Guilty>難易度表/おに/Alice or Guilty]]|~|
+|imedrv|[[DRIVE A LIVE>難易度表/おに/DRIVE A LIVE]]|~|
+|imeglo|[[GLORIOUS RO@D>難易度表/おに/GLORIOUS RO@D]]|~|
+|imehel|[[“HELLO!!”>難易度表/おに/“HELLO!!”]]|その他(''e''tosetora)? DеarlyStars,SideM,961プロの楽曲が該当 ／ 新譜面(旧譜面は''helmas'')|
+|imersn|[[Reason!!>難易度表/おに/Reason!!]]|その他(''e''tosetora)? DеarlyStars,SideM,961プロの楽曲が該当|
 |imibla|[[IMITATION BLACK>難易度表/おに/IMITATION BLACK]]||
-|imm39|[[Thank You!>難易度表/おに/Thank You!]]||
-|immbon|[[BORN ON DREAM! 〜HANABI☆NIGHT〜>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]||
-|immbra|[[Brand New Theater!>難易度表/おに/Brand New Theater!]]||
+|imm39|[[Thank You!>難易度表/おに/Thank You!]]|''m''→ミリオンライブ！(シアターデイズも)|
+|immbon|[[BORN ON DREAM! 〜HANABI☆NIGHT〜>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|~|
+|immbra|[[Brand New Theater!>難易度表/おに/Brand New Theater!]]|~|
 |imrdiv|[[Dive to Blue>難易度表/おに/Dive to Blue]]|アイマリン|
 |imrmm|[[Marine Mirage>難易度表/おに/Marine Mirage]]|~|
-|ims2ji|[[虹色ミラクル>難易度表/おに/虹色ミラクル]]||
-|ims2t|[[The world is all one!!>難易度表/おに/The world is all one !!]]||
-|ims5hn|[[おはよう！！朝ご飯>難易度表/おに/おはよう！！朝ご飯]]||
-|ims73d|[[tear>難易度表/おに/tear]]|なみだ|
-|ims7ir|[[七彩ボタン>難易度表/おに/七彩ボタン]]||
-|ims7nd|[[何度も言えるよ>難易度表/おに/何度も言えるよ]]||
-|ims89s|[[約束>難易度表/おに/約束]]||
-|imsalr|[[ALRIGHT*>難易度表/おに/ALRIGHT*]]||
-|imsarc|[[arcadia>難易度表/おに/arcadia]]||
-|imsbdl|[[Vault That Borderline!>難易度表/おに/Vault That Borderline!]]||
-|imschg|[[CHANGE!!!!>難易度表/おに/CHANGE!!!!]]||
-|imscol|[[Colorful Days(12 Colors)>難易度表/おに/Colorful Days(12 Colors)]]||
-|imsday|[[Day of the future>難易度表/おに/Day of the future]]||
-|imsdia|[[DIAMOND>難易度表/おに/DIAMOND]]||
-|imsdod|[[Do-Dai>難易度表/おに/Do-Dai]]||
-|imsedn|[[edeN>難易度表/おに/edeN]]||
-|imsflw|[[フラワーガール>難易度表/おに/フラワーガール]]||
-|imsfrf|[[ふるふるフューチャー☆>難易度表/おに/ふるふるフューチャー☆]]||
-|imsftr|[[フタリの記憶>難易度表/おに/フタリの記憶]]||
-|imsgem|[[ジェミー>難易度表/おに/ジェミー]]||
-|imsgmw|[[GO MY WAY!!>難易度表/おに/GO MY WAY!!]]|新音源、新譜面(旧譜面は''miki'')|
-|imsgtp|[[ゲンキトリッパー>難易度表/おに/ゲンキトリッパー]]||
-|imshhb|[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]||
-|imsidl|[[私はアイドル&#9825;>難易度表/おに/私はアイドル]]||
-|imsim2|[[THE IDOLM@STER 2nd-mix>難易度表/おに/THE IDOLM@STER 2nd-mix]]||
-|imsiml|[[THE IDOLM@STER>難易度表/おに/THE IDOLM@STER]]|ライブフェスティバルモード|
-|imsims|[[THE IDOLM@STER>難易度表/おに/THE IDOLM@STER]]|新音源・新譜面 ／ 旧音源・旧譜面は''idolm''|
-|imsipi|[[いっぱいいっぱい>難易度表/おに/いっぱいいっぱい]]||
-|imsiwt|[[I Want>難易度表/おに/I Want]]|新音源・新譜面 ／ 旧音源・旧譜面は''iwant''|
-|imsjbr|[[自分REST@RT>難易度表/おに/自分REST@RT]]||
-|imsjit|[[自転車>難易度表/おに/自転車]]||
-|imsk87|[[風花>難易度表/おに/風花]]||
-|imskam|[[神さまのBirthday>難易度表/おに/神さまのBirthday]]||
-|imskos|[[Kosmos, Cosmos>難易度表/おに/Kosmos, Cosmos]]||
-|imskrm|[[キラメキラリ>難易度表/おに/キラメキラリ]]|新譜面(旧譜面は''kirame'')|
-|imskyu|[[きゅんっ！ヴァンパイアガール>難易度表/おに/きゅんっ！ヴァンパイアガール]]||
-|imsliv|[[livE>難易度表/おに/livE]]||
-|imslob|[[L・O・B・M>難易度表/おに/L・O・B・M]]||
-|imslvl|[[ラ&#9829;ブ&#9829;リ&#9829;>難易度表/おに/ラ・ブ・リ]]||
-|imsmah|[[魔法をかけて！>難易度表/おに/魔法をかけて！]]|新音源、新譜面(旧譜面は''mahou'')|
-|imsmat|[[Little Match Girl>難易度表/おに/Little Match Girl]]||
-|imsmeg|[[目が逢う瞬間>難易度表/おに/目が逢う瞬間]]||
-|imsmgr|[[MEGARE!>難易度表/おに/MEGARE!]]||
-|imsmjd|[[マジで…！？>難易度表/おに/マジで…！？]]||
-|imsmpr|[[待ち受けプリンス>難易度表/おに/待ち受けプリンス]]||
-|imsmsm|[[迷走Mind>難易度表/おに/迷走Mind]]||
-|imsmt5|[[アイ MUST GO!>難易度表/おに/アイ MUST GO!]]||
-|imsmtp|[[M@STERPIECE>難易度表/おに/M@STERPIECE]]||
-|imsmus|[[MUSIC♪>難易度表/おに/MUSIC♪]]||
-|imsmys|[[my song>難易度表/おに/my song]]||
-|imsmyt|[[Mythmaker>難易度表/おに/Mythmaker]]||
-|imsnex|[[Next Life>難易度表/おに/Next Life]]||
-|imsnmr|[[眠り姫>難易度表/おに/眠り姫]]||
-|imsodm|[[LOVEオーダーメイド>難易度表/おに/LOVEオーダーメイド]]||
-|imsom2|[[ONLY MY NOTE>難易度表/おに/ONLY MY NOTE]]||
-|imsomn|~||
-|imsotm|[[乙女よ大志を抱け！！>難易度表/おに/乙女よ大志を抱け！！]]||
-|imsovm|[[オーバーマスター>難易度表/おに/オーバーマスター]]||
-|imspos|[[ポジティブ！>難易度表/おに/ポジティブ！]]||
-|imsrbw|[[IDOL POWER RAINBOW>難易度表/おに/IDOL POWER RAINBOW]]||
-|imsrdy|[[READY!!>難易度表/おに/READY!!]]|新譜面(旧譜面は''imasop'')|
-|imsrei|[[黎明スターライン>難易度表/おに/黎明スターライン]]||
-|imsrel|[[relations>難易度表/おに/relations]]||
-|imsriz|[[リゾラ>難易度表/おに/リゾラ]]||
-|imsshk|[[ショッキングな彼>難易度表/おに/ショッキングな彼]]||
-|imsshn|[[shiny smile>難易度表/おに/shiny smile]]|新音源、新譜面(旧譜面は''shiny'')|
-|imssky|[[空>難易度表/おに/空]]||
-|imssmo|[[SMOKY THRILL>難易度表/おに/SMOKY THRILL]]||
-|imssmt|[[スマイル体操>難易度表/おに/スマイル体操]]||
-|imssts|[[スタ→トスタ→>難易度表/おに/スタ→トスタ→]]||
-|imsstt|[[START!!>難易度表/おに/START!!]]||
-|imsthn|[[Thinking 〜Must Mix〜>難易度表/おに/Thinking 〜Must Mix〜]]||
-|imstnr|[[隣に･･･>難易度表/おに/隣に･･･]]||
-|imstok|[[エージェント夜を往く>難易度表/おに/エージェント夜を往く]]|とかちつくちて|
-|imstri|[[TRIAL DANCE>難易度表/おに/TRIAL DANCE]]||
-|imsttt|[[Town 〜Must Mix〜>難易度表/おに/Town 〜Must Mix〜]]|てってってー|
-|imsuom|[[YOU往MY進！>難易度表/おに/YOU往MY進！]]||
-|imsvis|[[ビジョナリー>難易度表/おに/ビジョナリー]]||
-|imsweh|[[We Have A Dream>難易度表/おに/We Have A Dream]]||
+|ims2ji|[[虹色ミラクル>難易度表/おに/虹色ミラクル]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|ims2t|[[The world is all one!!>難易度表/おに/The world is all one !!]]|~|
+|ims5hn|[[おはよう！！朝ご飯>難易度表/おに/おはよう！！朝ご飯]]|~|
+|ims73d|[[tear>難易度表/おに/tear]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ なみだ|
+|ims7ir|[[七彩ボタン>難易度表/おに/七彩ボタン]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|ims7nd|[[何度も言えるよ>難易度表/おに/何度も言えるよ]]|~|
+|ims89s|[[約束>難易度表/おに/約束]]|~|
+|imsalr|[[ALRIGHT*>難易度表/おに/ALRIGHT*]]|~|
+|imsarc|[[arcadia>難易度表/おに/arcadia]]|~|
+|imsbdl|[[Vault That Borderline!>難易度表/おに/Vault That Borderline!]]|~|
+|imschg|[[CHANGE!!!!>難易度表/おに/CHANGE!!!!]]|~|
+|imscol|[[Colorful Days(12 Colors)>難易度表/おに/Colorful Days(12 Colors)]]|~|
+|imsday|[[Day of the future>難易度表/おに/Day of the future]]|~|
+|imsdia|[[DIAMOND>難易度表/おに/DIAMOND]]|~|
+|imsdod|[[Do-Dai>難易度表/おに/Do-Dai]]|~|
+|imsedn|[[edeN>難易度表/おに/edeN]]|~|
+|imsflw|[[フラワーガール>難易度表/おに/フラワーガール]]|~|
+|imsfrf|[[ふるふるフューチャー☆>難易度表/おに/ふるふるフューチャー☆]]|~|
+|imsftr|[[フタリの記憶>難易度表/おに/フタリの記憶]]|~|
+|imsgem|[[ジェミー>難易度表/おに/ジェミー]]|~|
+|imsgmw|[[GO MY WAY!!>難易度表/おに/GO MY WAY!!]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ 新音源、新譜面(旧譜面,ACは''miki'')|
+|imsgtp|[[ゲンキトリッパー>難易度表/おに/ゲンキトリッパー]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imshhb|[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]|~|
+|imsidl|[[私はアイドル&#9825;>難易度表/おに/私はアイドル]]|~|
+|imsim2|[[THE IDOLM@STER 2nd-mix>難易度表/おに/THE IDOLM@STER 2nd-mix]]|~|
+|imsiml|[[THE IDOLM@STER>難易度表/おに/THE IDOLM@STER]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ ライブフェスティバルモード|
+|imsims|[[THE IDOLM@STER>難易度表/おに/THE IDOLM@STER]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ 新音源・新譜面 ／ 旧音源・旧譜面は''idolm''|
+|imsipi|[[いっぱいいっぱい>難易度表/おに/いっぱいいっぱい]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imsiwt|[[I Want>難易度表/おに/I Want]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ 新音源・新譜面 ／ 旧音源・旧譜面は''iwant''|
+|imsjbr|[[自分REST@RT>難易度表/おに/自分REST@RT]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imsjit|[[自転車>難易度表/おに/自転車]]|~|
+|imsk87|[[風花>難易度表/おに/風花]]|~|
+|imskam|[[神さまのBirthday>難易度表/おに/神さまのBirthday]]|~|
+|imskos|[[Kosmos, Cosmos>難易度表/おに/Kosmos, Cosmos]]|~|
+|imskrm|[[キラメキラリ>難易度表/おに/キラメキラリ]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ 新譜面(旧譜面,ACは''kirame'')|
+|imskyu|[[きゅんっ！ヴァンパイアガール>難易度表/おに/きゅんっ！ヴァンパイアガール]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imsliv|[[livE>難易度表/おに/livE]]|~|
+|imslob|[[L・O・B・M>難易度表/おに/L・O・B・M]]|~|
+|imslvl|[[ラ&#9829;ブ&#9829;リ&#9829;>難易度表/おに/ラ・ブ・リ]]|~|
+|imsmah|[[魔法をかけて！>難易度表/おに/魔法をかけて！]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ 新音源、新譜面(旧譜面は''mahou'')|
+|imsmat|[[Little Match Girl>難易度表/おに/Little Match Girl]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imsmeg|[[目が逢う瞬間>難易度表/おに/目が逢う瞬間]]|~|
+|imsmgr|[[MEGARE!>難易度表/おに/MEGARE!]]|~|
+|imsmjd|[[マジで…！？>難易度表/おに/マジで…！？]]|~|
+|imsmpr|[[待ち受けプリンス>難易度表/おに/待ち受けプリンス]]|~|
+|imsmsm|[[迷走Mind>難易度表/おに/迷走Mind]]|~|
+|imsmt5|[[アイ MUST GO!>難易度表/おに/アイ MUST GO!]]|~|
+|imsmtp|[[M@STERPIECE>難易度表/おに/M@STERPIECE]]|~|
+|imsmus|[[MUSIC♪>難易度表/おに/MUSIC♪]]|~|
+|imsmys|[[my song>難易度表/おに/my song]]|~|
+|imsmyt|[[Mythmaker>難易度表/おに/Mythmaker]]|~|
+|imsnex|[[Next Life>難易度表/おに/Next Life]]|~|
+|imsnmr|[[眠り姫>難易度表/おに/眠り姫]]|~|
+|imsodm|[[LOVEオーダーメイド>難易度表/おに/LOVEオーダーメイド]]|~|
+|imsom2|[[ONLY MY NOTE>難易度表/おに/ONLY MY NOTE]]|~|
+|imsomn|~|~|
+|imsotm|[[乙女よ大志を抱け！！>難易度表/おに/乙女よ大志を抱け！！]]|~|
+|imsovm|[[オーバーマスター>難易度表/おに/オーバーマスター]]|~|
+|imspos|[[ポジティブ！>難易度表/おに/ポジティブ！]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ 新音源・新譜面 ／ 旧音源・旧譜面は''idolm2''|
+|imsrbw|[[IDOL POWER RAINBOW>難易度表/おに/IDOL POWER RAINBOW]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imsrdy|[[READY!!>難易度表/おに/READY!!]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ 新譜面(旧譜面,ACは''imasop'')|
+|imsrei|[[黎明スターライン>難易度表/おに/黎明スターライン]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imsrel|[[relations>難易度表/おに/relations]]|~|
+|imsriz|[[リゾラ>難易度表/おに/リゾラ]]|~|
+|imsshk|[[ショッキングな彼>難易度表/おに/ショッキングな彼]]|~|
+|imsshn|[[shiny smile>難易度表/おに/shiny smile]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ 新音源、新譜面(旧譜面は''shiny'')|
+|imssky|[[空>難易度表/おに/空]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imssmo|[[SMOKY THRILL>難易度表/おに/SMOKY THRILL]]|~|
+|imssmt|[[スマイル体操>難易度表/おに/スマイル体操]]|~|
+|imssts|[[スタ→トスタ→>難易度表/おに/スタ→トスタ→]]|~|
+|imsstt|[[START!!>難易度表/おに/START!!]]|~|
+|imsthn|[[Thinking 〜Must Mix〜>難易度表/おに/Thinking 〜Must Mix〜]]|~|
+|imstnr|[[隣に･･･>難易度表/おに/隣に･･･]]|~|
+|imstok|[[エージェント夜を往く>難易度表/おに/エージェント夜を往く]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ とかちつくちて|
+|imstri|[[TRIAL DANCE>難易度表/おに/TRIAL DANCE]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imsttt|[[Town 〜Must Mix〜>難易度表/おに/Town 〜Must Mix〜]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む) ／ てってってー|
+|imsuom|[[YOU往MY進！>難易度表/おに/YOU往MY進！]]|''ims''→765AS(一部メンバーのみ歌唱、ソロも含む)|
+|imsvis|[[ビジョナリー>難易度表/おに/ビジョナリー]]|~|
+|imsweh|[[We Have A Dream>難易度表/おに/We Have A Dream]]|~|
 |imyme|[[I★my★me★mine>難易度表/おに/I★my★me★mine]]||
 |imymok|[[I my moko>難易度表/おに/I my moko]]||
 |ina|[[大ちゃん数え唄>難易度表/おに/大ちゃん数え唄]]|いなかっぺ大将|
@@ -1126,7 +1122,7 @@
 |irpunk|[[大空と太鼓の踊り>難易度表/おに/大空と太鼓の踊り]]|''Ir''ish ''Punk''|
 |irmake|[[Make it!>難易度表/おに/Make it!]]|i☆Ris|
 |irsumm|[[Summer Dude>難易度表/おに/Summer Dude]]|~|
-|isan|[[和有るど経りて維持・序>難易度表/おに/和有るど経りて維持・序]]|経りて維持=遺産|
+|isan|[[和有るど経りて維持・序>難易度表/おに/和有るど経りて維持・序]]|経りて維持(Heritage)=遺産|
 |ishoul|[[I SHOULD BE SO LUCKY>難易度表/おに/I SHOULD BE SO LUCKY]]||
 |issokm|[[いっそこのままで>難易度表/おに/いっそこのままで]]||
 |iswaze|[[意識のワーゼ>難易度表/おに/意識のワーゼ]]||
@@ -1461,7 +1457,6 @@
 |michi|[[道>難易度表/おに/道]]||
 |mikan|[[みかんのうた>難易度表/おに/みかんのうた]]||
 |mikatu|[[三日月>難易度表/おに/三日月]]||
-//|mikdp|[[拝啓ドッペルゲンガー>難易度表/おに/拝啓ドッペルゲンガー]]|初音ミク 拝啓''ド''ッ''ペ''ルゲンガー|
 |miki|[[GO MY WAY!!>難易度表/おに/GO MY WAY!!]]|星井美希(新譜面は''imsgmw'')|
 |miku39|[[みくみくにしてあげる♪【してやんよ】>難易度表/おに/みくみくにしてあげる♪【してやんよ】]]|初音ミク ''みく''みくにしてあげる♪【してやんよ】|
 |mikuaa|[[エイリアンエイリアン>難易度表/おに/エイリアンエイリアン]]|初音ミク ''エ''イリアン''エ''イリアン|
