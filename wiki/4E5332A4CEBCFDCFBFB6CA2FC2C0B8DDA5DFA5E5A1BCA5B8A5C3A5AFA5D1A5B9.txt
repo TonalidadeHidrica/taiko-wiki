@@ -11,6 +11,7 @@
 //-''数が膨大なので、少しずつ編集しています。''
 ----
 **楽曲リスト [#kyoku]
+-背景が灰色の譜面は難易度が新基準でないもの。
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
 |BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(darkgray):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|

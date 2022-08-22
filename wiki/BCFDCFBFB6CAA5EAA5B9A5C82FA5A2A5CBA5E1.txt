@@ -1,6 +1,7 @@
 *収録曲リスト/アニメ [#title]
 #contents
 背景が灰色の譜面は難易度が新基準でないもの。
+キッズの曲を含む。
 **あ〜わ [#awa]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h

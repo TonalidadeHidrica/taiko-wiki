@@ -48,6 +48,7 @@
 
 ***譜面 [#score]
 ~AC7までとWii1以降ではBPM変化の処理が大きく異なり、HSもついていない&br;この譜面はNS1のもの
+~AC7では72〜74小節は非ゴーゴー
 ~&attachref(clsh_m.png,nolink);
 
 ~2人用譜面

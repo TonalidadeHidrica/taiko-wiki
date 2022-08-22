@@ -970,7 +970,7 @@
 |859|[[天泣の律>難易度表/おに/天泣の律]]|BGCOLOR(#ff7028):ナムオリ|ten9nr||
 |860|[[にゃーにゃーにゃー>難易度表/おに/にゃーにゃーにゃー]]|BGCOLOR(#ff7028):ナムオリ|nya3||
 |861|[[ナンセンス文学>難易度表/おに/ナンセンス文学]]|BGCOLOR(#49d5eb):J-POP|evensb||
-|862|[[君はロックを聴かない>難易度表/おに/君はロックを聴かない]]|BGCOLOR(#49d5eb):J-POP|kim69||
+|862|[[君はロックを聴かない>難易度表/おに/君はロックを聴かない]]|BGCOLOR(#49d5eb):J-POP|kim69|〜22/9/22　サヨナラ曲|
 |863|BGCOLOR(#ccc):[[NATSU☆しようぜ！>難易度表/おに/NATSU☆しようぜ！]]|BGCOLOR(orange):アニメ|BGCOLOR(#ccc):i7natu|BGCOLOR(#ccc):〜21/11/22　サヨナラ曲|
 |864|[[TD - 28619029byte remix ->難易度表/おに/TD -28619029byte remix-]]|BGCOLOR(#cc8aeb):ゲーミュ|tecdrv||
 |865|[[流浪の琥珀姫>難易度表/おに/流浪の琥珀姫]]|BGCOLOR(#ff7028):ナムオリ|589him||
@@ -1061,7 +1061,7 @@
 |950|[[Mani Mani(Prod. TAKU INOUE)>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]|BGCOLOR(#cc8aeb):G & V|dobma2||
 |951|[[アイドル狂戦士(feat.佐藤貴文)>難易度表/おに/アイドル狂戦士(feat.佐藤貴文)]]|BGCOLOR(#cc8aeb):G & V|dobbsk||
 |952|[[テトラリュトモスフォビア>難易度表/おに/テトラリュトモスフォビア]]|BGCOLOR(#ff7028):ナムオリ|tetra||
-|953|[[DiSCOVER THE FUTURE>難易度表/おに/DiSCOVER THE FUTURE]]|BGCOLOR(#fe90d2):アニメ|i7dscv||
+|953|[[DiSCOVER THE FUTURE>難易度表/おに/DiSCOVER THE FUTURE]]|BGCOLOR(#fe90d2):アニメ|i7dscv|〜22/9/22　サヨナラ曲|
 |954|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|BGCOLOR(#ff7028):ナムオリ|dogma1||
 |955|[[絡繰廻廊>難易度表/おに/絡繰廻廊]]|BGCOLOR(#ff7028):ナムオリ|kkairo||
 |956|[[だから僕は音楽を辞めた>難易度表/おに/だから僕は音楽を辞めた]]|BGCOLOR(#49d5eb):ポップス|yrsdak||
