@@ -203,7 +203,7 @@
 -北米版「TAIKO: DRUM MASTER」を日本向けに変更を加えたもの。
 -200コンボ超え時の音符の揺れが「TAIKO: DRUM MASTER」と同様に存在する。
 ***曲[#jtdmm]
--[[You Can't Hurry Love>難易度表/おに/You Can't Hurry Love]]、[[I Was Born To Love You>難易度表/おに/I Was Born To Love You]]、[[We Will Rock You>難易度表/おに/We Will Rock You]]、[[Girls & Boys(?)>難易度表/おに/Girls ＆ Boys]]、[[Alphabet Song>難易度表/おに/ABCの歌]](ABCの歌)、[[Saitama 2000>難易度表/おに/さいたま2000]](さいたま2000)は日本版のみ収録。
+-[[You Can't Hurry Love>難易度表/おに/You Can't Hurry Love]]、[[I Was Born To Love You>難易度表/おに/I Was Born To Love You]]、[[We Will Rock You>難易度表/おに/We Will Rock You]]、[[Alphabet Song>難易度表/おに/ABCの歌]](ABCの歌)、[[Saitama 2000>難易度表/おに/さいたま2000]](さいたま2000)は日本版のみ収録。
 -最難関曲は「[[Saitama 2000>難易度表/おに/さいたま2000]]」(同曲が譜面分岐付きで家庭用に収録されたのはこの作品が初である)。ただし、難易度は★×9であり★×10は「[[KAGEKIYO>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]」のみだった。
 -[[TDMの収録曲]]
 

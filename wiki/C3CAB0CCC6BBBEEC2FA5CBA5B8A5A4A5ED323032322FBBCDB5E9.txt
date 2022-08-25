@@ -1,5 +1,4 @@
-[[段位道場]]
-*ニジイロVer. 段位道場2022 四級 [#title]
+*ニジイロ段位道場2022 四級 [#title]
 |LEFT:999|CENTER:999|RIGHT:999|c
 |←prev||next→|h
 |[[五級>../五級]]|''四級 FOURTH KYU''|[[三級>../三級]]|
@@ -38,4 +37,6 @@
 -今作の四級はすべてボーカロイド&#8482;曲である。
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)

@@ -52,7 +52,7 @@
 --70〜71.87〜88小節も同じく予めロール処理をするか正攻法にするかを決めておこう。
 ---ロール処理をする場合は関係ないが正攻法にする場合24分が来る度に入り手が逆になることを意識しよう。例えば70〜71小節ならCOLOR(red){●} COLOR(red){●} / COLOR(blue){○}COLOR(blue){○}COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(red){●} / COLOR(blue){○}COLOR(blue){○}COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(red){●} / COLOR(blue){○}COLOR(blue){○}COLOR(red){●} COLOR(red){●} COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}  / と区切った部分で交互になる。ただし、87〜88小節は複合の手前に1打だけ縁が増えてるので注意するように。
 
-***対策 [#measure]
+***対策 [#step]
 -この段位では、★×10難関レベルの譜面を精度良くかつ叩き間違いをしない実力が求められる。
 -今回の超人は、前回・前々回と違い全体的に難易度が分散しているので自分の得意分野に応じて精度の目安を決めておくといいだろう。
 --特に、カラフルは曲が短く局所難なので確実に抑えるべきだろう。

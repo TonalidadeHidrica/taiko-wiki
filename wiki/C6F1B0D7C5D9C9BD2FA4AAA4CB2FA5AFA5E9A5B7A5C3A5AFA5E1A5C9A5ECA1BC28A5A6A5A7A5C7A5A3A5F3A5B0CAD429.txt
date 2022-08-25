@@ -6,6 +6,7 @@
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''DS1''|BGCOLOR(blue):COLOR(white){''クラシック''}|★×7|''402''|''879400点''|＋連打|610点|150点|
 |NS1DL|BGCOLOR(gold):''クラシック''|~|~|''997140点''|~|740点|200点|
+|Xbox1DL|~|~|~|''993440点''|~|2470点|-|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''992570点''}|~|COLOR(#ff3300){2310点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -44,7 +45,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-NS1譜面のBPM
+NS1以降の譜面のBPM
 ~&ref(clamar_m_0.png,nolink);
 ~DS1譜面のBPM
 ~&ref(clsmar.png,nolink);

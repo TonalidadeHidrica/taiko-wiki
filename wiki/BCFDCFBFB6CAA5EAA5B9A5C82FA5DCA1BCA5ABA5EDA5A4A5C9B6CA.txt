@@ -110,7 +110,7 @@
 
 **アルファベット、数字 [#az]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
-|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
+|''曲名''(アルファベット順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
 |''BORDERLESS''|184|[[★×4>難易度表/かんたん/BORDERLESS]]|[[★×6>難易度表/ふつう/BORDERLESS]]|[[★×5>難易度表/むずかしい/BORDERLESS]]|[[★×8>難易度表/おに/BORDERLESS]]|-|
 |''EDY ‐エレクトリカルダンシングヨガ‐''|133|[[★×4>難易度表/かんたん/EDY -エレクトリカルダンシングヨガ-]]|[[★×6>難易度表/ふつう/EDY -エレクトリカルダンシングヨガ-]]|[[★×7>難易度表/むずかしい/EDY -エレクトリカルダンシングヨガ-]]|[[★×9>難易度表/おに/EDY -エレクトリカルダンシングヨガ-]]|-|
 |''Eternal bond''|170|[[★×5>難易度表/かんたん/Eternal bond]]|[[★×6>難易度表/ふつう/Eternal bond]]|[[★×8>難易度表/むずかしい/Eternal bond]]|[[★×8>難易度表/おに/Eternal bond]]|-|

@@ -151,7 +151,7 @@
 
 -[[''COLOR(red){どんメダル}''ショップ>ごほうびショップ]]
 
-**[[アップデート履歴>太鼓の達人 新筐体 アップデート履歴]] [#update]
+**[[アップデート情報>太鼓の達人 新筐体 アップデート履歴]] [#update]
 
 -[[アジア版>太鼓の達人 新筐体（アジア版） アップデート履歴]]
 
@@ -194,18 +194,20 @@
 
 -サブスクリプション
 
---[[YouTube(自動生成音源)>https://www.youtube.com/channel/UCQ3SkB01uFTsuSCvLqADbpg]]
+--太鼓の達人 ナムコオリジナルサウンドトラック
+---1.[[神曲コレクション>https://nex-tone.link/A00092884]]
+---2.[[最強×乱舞コレクション>https://nex-tone.link/A00094226]]
+---3.[[EDMコレクション>https://nex-tone.link/A00095925]]
+---4.[[エレクトロニックエモーションコレクション>https://nex-tone.link/A00097319]]
+---5.[[青春コレクション>https://nex-tone.link/A00098645]]
+---6.[[キテレツコレクション>https://nex-tone.link/A00099789]]
+---7.[[高速コアコレクション>https://nex-tone.link/mk4Tx7KU3]]
 
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「神曲コレクション」>https://nex-tone.link/A00092884]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「最強×乱舞コレクション」>https://nex-tone.link/A00094226]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「EDMコレクション」>https://nex-tone.link/A00095925]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「エレクトロニックエモーションコレクション」>https://nex-tone.link/A00097319]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「青春コレクション」>https://nex-tone.link/A00098645]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「キテレツコレクション」>https://nex-tone.link/A00099789]]
---[[太鼓の達人 ナムコオリジナルサウンドトラック 「高速コアコレクション」>https://nex-tone.link/mk4Tx7KU3]]
+---[[YouTube(自動生成音源)>https://www.youtube.com/channel/UCQ3SkB01uFTsuSCvLqADbpg]]
 
---[[太鼓の達人Wii 超ごうか版 BGM集>https://music.apple.com/jp/album/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BAwii-%E8%B6%85%E3%81%94%E3%81%86%E3%81%8B%E7%89%88-bgm%E9%9B%86/584619782]]
---[[太鼓の達人 ちびドラゴンと不思議なオーブ BGM集>https://music.apple.com/jp/album/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA-%E3%81%A1%E3%81%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%81%A8%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%82%AA%E3%83%BC%E3%83%96-bgm%E9%9B%86/605664630]]
+--BGM集
+---[[太鼓の達人Wii 超ごうか版 BGM集>https://music.apple.com/jp/album/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BAwii-%E8%B6%85%E3%81%94%E3%81%86%E3%81%8B%E7%89%88-bgm%E9%9B%86/584619782]]
+---[[太鼓の達人 ちびドラゴンと不思議なオーブ BGM集>https://music.apple.com/jp/album/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA-%E3%81%A1%E3%81%B3%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%81%A8%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E3%82%AA%E3%83%BC%E3%83%96-bgm%E9%9B%86/605664630]]
 
 -CD
 

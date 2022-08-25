@@ -472,6 +472,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(darkorchid):|[[World of GENPEI TOMADEN>難易度表/おに/World of GENPEI TOMADEN]]|''5.374''|160|661|123.00秒||
 |>|>|BGCOLOR(orangered):|[[void setup>難易度表/おに/void setup]]|''5.382''|140|884|164.25秒||
 |>|>|BGCOLOR(darkgray):|[[有頂天ビバーチェ>難易度表/おに/有頂天ビバーチェ]]|''5.358''|254.52※|672|125.41秒||
+|>|BGCOLOR(cyan):|BGCOLOR(hotpink):|[[アフターダーク>難易度表/おに/アフターダーク]]|''5.355''|191|466|87.02秒||
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[V (ボルト)>難易度表/おに/V（ボルト）]]|''5.345''|200|449|84.00秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[TRIAL DANCE>難易度表/おに/TRIAL DANCE]]|''5.335''|130|677|126.91秒||
 |>|>|BGCOLOR(darkorchid):|[[Undying Legend>難易度表/おに/Undying Legend]]|''5.331''|157.88※|705|132.25秒||
@@ -573,6 +574,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(cyan):|[[Original Color Girls!!!!>難易度表/おに/Original Color Girls!!!!]]|''4.623''|130|468|101.23秒||
 |>|>|BGCOLOR(darkgray):|[[十面相 colorful ver.(裏譜面)>難易度表/おに/十面相 colorful ver.(裏譜面)]]|''4.621''|157.78※|998|215.99秒||
 |>|>|BGCOLOR(cyan):|[[One Night Carnival>難易度表/おに/One Night Carnival]]|''4.617''|136|552|119.56秒|新譜面|
+|>|>|BGCOLOR(hotpink):|[[D-tecnoLife>難易度表/おに/D-tecnoLife]]|''4.613''|168|355|76.96秒||
 |>|>|BGCOLOR(darkgray):|[[延命治療>難易度表/おに/延命治療]]|''4.597''|154.65※|602|130.94秒||
 //|>|>|BGCOLOR(cyan):|[[LOVE PHANTOM>難易度表/おに/LOVE PHANTOM]]|''4.586''|133|512|111.65秒||
 |>|>|BGCOLOR(orangered):|[[七色ハーモニー>難易度表/おに/七色ハーモニー]]|''4.582''|145|492|107.38秒||
@@ -684,7 +686,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[ハローダーウィン！ 〜好奇心オンデマンド〜>難易度表/おに/ハローダーウィン！〜好奇心オンデマンド〜]]|''5.400''|162.00※|462|85.56秒||
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[プリンセスはあきらめない>難易度表/おに/プリンセスはあきらめない]]|''5.393''|160|451|83.63秒||
 |>|>|BGCOLOR(darkorchid):|[[TE-20>難易度表/おに/TE-20]]|''5.361''|168|627|116.96秒||
-|>|BGCOLOR(cyan):|BGCOLOR(hotpink):|[[アフターダーク>難易度表/おに/アフターダーク]]|''5.355''|191|466|87.02秒||
 |>|>|BGCOLOR(hotpink):|[[一輪の花>難易度表/おに/一輪の花]]|''5.337''|195|445|83.38秒||
 |>|>|BGCOLOR(darkorchid):|[[SPLENDOR>難易度表/おに/SPLENDOR]]|''5.232''|155|558|106.65秒||
 |>|>|BGCOLOR(lime):|[[PECORI&#9829;NIGHT>難易度表/おに/PECORI NIGHT]]|''5.198''|159|406|78.11秒||
@@ -715,7 +716,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(hotpink):|BGCOLOR(orange):|[[スピードCOLOR(#890089):(達人譜面)>難易度表/おに/スピード]]|''4.649''|206|390|83.88秒||
 |>|>|BGCOLOR(darkorchid):|[[SPARKING　鉄拳5>難易度表/おに/SPARKING 鉄拳5]]|''4.630''|114.99※|482|104.10秒||
 |>|BGCOLOR(cyan):|BGCOLOR(hotpink):|[[Get Wild>難易度表/おに/Get Wild]]|''4.628''|133|380|82.11秒||
-|>|>|BGCOLOR(hotpink):|[[D-tecnoLife>難易度表/おに/D-tecnoLife]]|''4.613''|168|355|76.96秒||
 |>|>|BGCOLOR(lime):|[[エレクトリカルパレードのテーマ>難易度表/おに/エレクトリカルパレード]]|''4.554''|119.68※|516|113.30秒|旧譜面|
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''4.500未満''|
 |>|BGCOLOR(hotpink):|BGCOLOR(orange):|[[BON VOYAGE!>難易度表/おに/BON VOYAGE!]]|''4.448''|135|339|76.22秒||

@@ -645,7 +645,7 @@
 
 ***アルファベット、数字 [#az09under]
 |||CENTER:64|CENTER:64|CENTER:64|c
-|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん(裏)''|BGCOLOR(#769e11):COLOR(#fff):''ふつう(裏)''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい(裏)''|h
+|''曲名''(アルファベット順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん(裏)''|BGCOLOR(#769e11):COLOR(#fff):''ふつう(裏)''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい(裏)''|h
 |''Black Rose Apostle''|102-204|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/Black Rose Apostle(裏譜面)]]|BGCOLOR(#ccc):[[★×7>難易度表/ふつう/Black Rose Apostle(裏譜面)]]|BGCOLOR(#ccc):[[★×8>難易度表/むずかしい/Black Rose Apostle(裏譜面)]]|
 |''dance storm''|190|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/dance storm(裏譜面)]]|BGCOLOR(#ccc):[[★×7>難易度表/ふつう/dance storm(裏譜面)]]|BGCOLOR(#ccc):[[★×8>難易度表/むずかしい/dance storm(裏譜面)]]|
 |''DON'T CUT''|170|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/DON'T CUT(裏譜面)]]|BGCOLOR(#ccc):[[★×7>難易度表/ふつう/DON'T CUT(裏譜面)]]|BGCOLOR(#ccc):[[★×8>難易度表/むずかしい/DON'T CUT(裏譜面)]]|

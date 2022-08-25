@@ -35,7 +35,7 @@
 |''FREEDOM DiVE¢­''&br;SIZE(11){xi}|222.22|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/FREEDOM DiVE¢­]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/FREEDOM DiVE¢­]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/FREEDOM DiVE¢­]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/FREEDOM DiVE¢­]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=15&event=50]]|
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Dreadnought]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought(Î¢ÉèÌÌ)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]|
 |''Parousia''&br;SIZE(11){xi}|79-158|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Parousia]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Parousia]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Parousia]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=281&event=74]]|
-|''Aragami''&br;SIZE(11){xi}|?-196|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Aragami]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Aragami]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Aragami]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Aragami]]|-|[[BMS>https://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=96]]|
+|''Aragami''&br;SIZE(11){xi}|65?-196|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Aragami]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Aragami]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Aragami]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Aragami]]|-|[[BMS>https://manbow.nothing.sh/event/event.cgi?action=More_def&num=211&event=96]]|
 
 ***[[ºï½ü>»²²Ã¥¢¡¼¥Æ¥£¥¹¥È°ìÍ÷/ºï½ü]] (1¶Ê) [#sakuzyo]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
@@ -72,7 +72,7 @@
 |&color(red){''B.B.K.K.B.K.K.''};&br;SIZE(11){nora2r}|170|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/B.B.K.K.B.K.K.]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/B.B.K.K.B.K.K.]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/B.B.K.K.B.K.K.]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/B.B.K.K.B.K.K.]]|-|&color(red){''1°Ì''};|''3°Ì''|
 |>|>|>|>|>|>|>|>|BGCOLOR(orangered):''G2R2014 "GO BACK 2 YOUR ROOTS" - THE BMS OF FIGHTERS 2004 RELOADED -''&aname(g2r2014);|
 |&color(red){''Altale''};&br;SIZE(11){ºï½ü}|83-180¢¨|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Altale]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Altale]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Altale]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Altale(Î¢ÉèÌÌ)]]|&color(red){''1°Ì''};|''2°Ì''|
-|''Aragami''&br;SIZE(11){xi}|?-196|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Aragami]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Aragami]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Aragami]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Aragami]]|-|''2°Ì''|''4°Ì''|
+|''Aragami''&br;SIZE(11){xi}|65?-196|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Aragami]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Aragami]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Aragami]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Aragami]]|-|''2°Ì''|''4°Ì''|
 |>|>|>|>|>|>|>|>|BGCOLOR(black):COLOR(red):''Âç·ìÀï -THE BMS OF FIGHTERS ULTIMATE-''&aname(bofu2015);|
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Dreadnought]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Dreadnought]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Dreadnought(Î¢ÉèÌÌ)]]|''5°Ì''|''4°Ì''|
 |>|>|>|>|>|>|>|>|BGCOLOR(goldenrod):''BOFU2017 -LEGENDA EST A MYTH-''&aname(bofu2017);|
