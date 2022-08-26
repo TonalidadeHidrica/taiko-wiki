@@ -322,6 +322,7 @@
 //|>|>|BGCOLOR(#ded523):''クラシック''&aname(classic);|
 |>|>|BGCOLOR(#cc8aeb):''ゲームミュージック''&aname(GAME);|
 |[[アクセルレーション(裏譜面)>難易度表/おに/アクセルレーション(裏譜面)]]|191|''961''|
+//|[[ESCAPE FROM CRISIS(裏譜面)>難易度表/おに/ESCAPE FROM CRISIS(裏譜面)]]|180|''1167''|
 |[[Thinking 〜Must Mix〜(裏譜面)>難易度表/おに/Thinking 〜Must Mix〜(裏譜面)]]|171-342|''876''|
 |[[Next Life>難易度表/おに/Next Life]]|147|''876''|
 //|[[MEGALOVANIA(裏譜面)>難易度表/おに/MEGALOVANIA(裏譜面)]]|240|''1072''|

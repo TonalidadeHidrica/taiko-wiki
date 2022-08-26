@@ -621,11 +621,26 @@
 |〇|BGCOLOR(gold):|追想する演奏者|[[COLOR(blue):せかいのおと - sekai note ->難易度表/おに/せかいのおと - sekai note -]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|暗憺を斥けし解放の光芒|[[COLOR(blue):Libera Ray>難易度表/おに/Libera Ray]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|君と彩るミライの音|[[COLOR(blue):Irodoru&#9825;Future>難易度表/おに/Irodoru・Future]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):狂瀾怒濤>難易度表/おに/狂瀾怒濤]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):狂瀾怒濤(裏)>難易度表/おに/狂瀾怒濤(裏譜面)]]をフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):そして勇者は眠りにつく>難易度表/おに/そして勇者は眠りにつく]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):そして勇者は眠りにつく(裏)>難易度表/おに/そして勇者は眠りにつく(裏譜面)]]をフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):SUPERNOVA>難易度表/おに/SUPERNOVA]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):SUPERNOVA(裏)>難易度表/おに/SUPERNOVA(裏譜面)]]をフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):(裏)>難易度表/おに/(裏譜面)]]をフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):ヒカリノカナタへ>難易度表/おに/ヒカリノカナタへ]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):RAINBOW SKY>難易度表/おに/RAINBOW SKY]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):共奏鼓祭>難易度表/おに/共奏鼓祭]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):アンチェイン・ガール！>難易度表/おに/アンチェイン・ガール！]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):Space-Time Emergency>難易度表/おに/Space-Time Emergency]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):Destination 2F29>難易度表/おに/Destination 2F29]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):Illusion Flare>難易度表/おに/Illusion Flare]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):白日夢、霧雨に溶けて>難易度表/おに/白日夢、霧雨に溶けて]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):スリケンランナー>難易度表/おに/スリケンランナー]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):どんちゃんしたい！>難易度表/おに/どんちゃんしたい！]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):LΔchesis>難易度表/おに/LΔchesis]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):ヘイラ>難易度表/おに/ヘイラ]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
