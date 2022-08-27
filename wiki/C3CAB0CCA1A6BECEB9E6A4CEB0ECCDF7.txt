@@ -621,7 +621,7 @@
 |〇|BGCOLOR(gold):|追想する演奏者|[[COLOR(blue):せかいのおと - sekai note ->難易度表/おに/せかいのおと - sekai note -]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|暗憺を斥けし解放の光芒|[[COLOR(blue):Libera Ray>難易度表/おに/Libera Ray]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|君と彩るミライの音|[[COLOR(blue):Irodoru&#9825;Future>難易度表/おに/Irodoru・Future]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):狂瀾怒濤>難易度表/おに/狂瀾怒濤]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|バチよ荒れ狂え|[[COLOR(blue):狂瀾怒濤>難易度表/おに/狂瀾怒濤]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):狂瀾怒濤(裏)>難易度表/おに/狂瀾怒濤(裏譜面)]]をフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):そして勇者は眠りにつく>難易度表/おに/そして勇者は眠りにつく]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):そして勇者は眠りにつく(裏)>難易度表/おに/そして勇者は眠りにつく(裏譜面)]]をフルコンボ|~|

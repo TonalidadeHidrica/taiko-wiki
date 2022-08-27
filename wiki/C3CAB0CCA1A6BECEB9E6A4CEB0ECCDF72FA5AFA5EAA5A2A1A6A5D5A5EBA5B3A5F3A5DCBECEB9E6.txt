@@ -187,8 +187,8 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|BGCOLOR(#ff7028):~ナムオリ|[[COLOR(blue):狂瀾怒濤>難易度表/おに/狂瀾怒濤]]|おに|||
-|BGCOLOR(#ff7028):~ナムオリ|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]|おに|響瀾を越えし挑戦者||
+|BGCOLOR(#ff7028):~ナムオリ|[[COLOR(blue):狂瀾怒濤>難易度表/おに/狂瀾怒濤]]|おに|バチよ荒れ狂え||
+|~|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]|おに|響瀾を越えし挑戦者||
 |~|[[COLOR(blue):ON SAY GO SAY(裏譜面)>難易度表/おに/ON SAY GO SAY(裏譜面)]]|裏譜面|息継ぎなしで叩けマース！||
 |~|[[COLOR(blue):ねこくじら(裏譜面)>難易度表/おに/ねこくじら(裏譜面)]]|裏譜面|さて帰宅しよ。||
 |~|[[COLOR(blue):Player's High>難易度表/おに/Player's High]]|おに|極致を目指す者||
@@ -513,6 +513,7 @@
 |~|[[COLOR(blue):Pixel Galaxy>難易度表/おに/Pixel Galaxy]]|おに|Pixel Galaxy Voyager||
 |~|[[COLOR(blue):Asteroid>難易度表/おに/Asteroid]]|おに|Asteroid Trackers||
 |~|[[COLOR(blue):サクラ・シークレット>難易度表/おに/サクラ・シークレット]]|おに|悠然なる管理者||
+|~|[[COLOR(blue):狂瀾怒濤>難易度表/おに/狂瀾怒濤]]|おに|バチよ荒れ狂え||
 |~|[[COLOR(blue):ねこくじら(裏譜面)>難易度表/おに/ねこくじら(裏譜面)]]|裏譜面|さて帰宅しよ。||
 |~|[[COLOR(blue):トンガチン>難易度表/おに/トンガチン]]|おに|トンガチンの達人||
 |~|[[COLOR(blue):Solitude Star>難易度表/おに/Solitude Star]]|おに|闇を裂く新星||
@@ -596,7 +597,6 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|~|[[COLOR(blue):狂瀾怒濤>難易度表/おに/狂瀾怒濤]]|おに|||
 |~|[[COLOR(blue):Challengers>難易度表/おに/Challengers]]|おに|響瀾を越えし挑戦者||
 |~|[[COLOR(blue):ON SAY GO SAY(裏譜面)>難易度表/おに/ON SAY GO SAY(裏譜面)]]|裏譜面|息継ぎなしで叩けマース！||
 |~|[[COLOR(blue):Player's High>難易度表/おに/Player's High]]|おに|極致を目指す者||
