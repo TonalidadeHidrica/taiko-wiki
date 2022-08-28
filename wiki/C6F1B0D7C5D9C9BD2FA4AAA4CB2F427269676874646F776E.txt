@@ -1,11 +1,12 @@
 *Brightdown [#title]
 -アニメ「[[''D.Gray-man''>アニメ別収録曲#dgray]]」のOP2。
+
 ***詳細 [#more]
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''AC10''|CENTER:★×8|CENTER:''426''|CENTER:''1051920点''|CENTER:+連打|CENTER:700点|CENTER:170点|
 
 ***譜面構成・攻略 [#capture]
--BPMは194~197。ゴーゴーは最後の風船を除いて197で、それ以外は194。
+-BPMは194〜197。ゴーゴーは最後の風船を除いて197で、それ以外は194。
 -連打秒数目安・・・約0.902秒
 --曲の最後の黄色連打部分で検閲のような音が鳴る。
 -前半は8分音符主体だが、ゴーゴータイムからは16分音符が増えCOLOR(red){●●}COLOR(blue){○}も4回出る。

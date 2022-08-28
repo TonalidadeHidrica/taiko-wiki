@@ -36,13 +36,11 @@
 -[[ふつう>難易度表/ふつう/Lemon]]
 -[[むずかしい>難易度表/むずかしい/Lemon]]
 -[[プレイ動画(等速)>https://youtu.be/cymTOcmD76s]]
-//-[[プレイ動画(等速)>https://youtu.be/Dc1TXwKFsiE]]
 -[[プレイ動画(ばいそく、直撮り)>https://youtu.be/2tNSl-lep9M]]
 -[[プレイ動画(等速、ニコニコ)>http://www.nicovideo.jp/watch/sm33812769]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
--COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]

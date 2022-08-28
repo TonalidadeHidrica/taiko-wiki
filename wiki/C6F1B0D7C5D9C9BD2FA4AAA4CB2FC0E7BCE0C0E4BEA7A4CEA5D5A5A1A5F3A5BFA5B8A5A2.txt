@@ -14,7 +14,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは約82-160。
--連打秒数目安・・・1.094秒−0.906秒−1.281秒−0.531秒−(0.344秒−SIZE(16){0.344秒})×5−SIZE(16){0.906秒}−SIZE(16){0.167秒}−0.906秒：合計約9.219秒
+-連打秒数目安・・・1.094秒−0.906秒−1.281秒−0.531秒−(0.344秒−SIZE(16){0.344秒})×5−SIZE(16){0.906秒}−SIZE(16){0.156秒}−0.906秒：合計約9.219秒
 --黄色連打が''17本''と多く、最後の風船も打数が''131打''とかなり多いため''かなりの連打曲''である。
 -開幕を除く道中はエンドリ譜面に近いが、ゴーゴーで複合の難易度と密度が急上昇する。
 -フルコンボ・全良狙いの場合は、41〜43小節に注意。
@@ -35,14 +35,14 @@
 |>|>|CENTER:|c
 |>|>|メドレー順|h
 |BGCOLOR(silver):|BGCOLOR(silver):''原曲''、及び作品|BGCOLOR(silver):''アレンジ(編曲)''、及びボーカル|h
-|1~9小節|''少女綺想曲 〜 Dream Battle((「東方幻想郷 〜 Lotus Land Story.」の4面ボス曲「少女綺想曲 〜 Capriccio」のセルフアレンジ))''&br;SIZE(11){「東方永夜抄 〜 Imperishable Night.」}|''岸田教団 & THE明星ロケッツ''|
-|10~17小節|''U.N.オーエンは彼女なのか？''&br;SIZE(11){「東方紅魔郷 〜 the Embodiment of Scarlet Devil.」}|''岸田教団 & THE明星ロケッツ''&br;SIZE(11){ichigo}|
-|18~25小節|''ネクロファンタジア''&br;SIZE(11){「東方妖々夢 〜 Perfect Cherry Blossom.」}|''豚乙女''&br;SIZE(11){ランコ}|
-|26~33小節|''月まで届け、不死の煙''&br;SIZE(11){「東方永夜抄 〜 Imperishable Night.」}|''幽閉サテライト''&br;SIZE(11){senya}|
-|34~41小節|''六十年目の東方裁判 〜 Fate of Sixty Years''&br;SIZE(11){「東方花映塚 〜 Phantasmagoria of Flower View.」}|''Alstroemeria Records''&br;SIZE(11){綾倉盟}|
-|42~59小節|''恋色マジック''&br;SIZE(11){「東方封魔録 〜 the Story of Eastern Wonderland.」}|''COOL&CREATE''&br;SIZE(11){ビートまりお}|
-|60~67小節|''ネイティブフェイス''&br;SIZE(11){「東方風神録 〜 Mountain of Faith.」}|''A-One''&br;SIZE(11){越田Rute隆人×あき}|
-|68~83小節|''赤より紅い夢''&br;SIZE(11){「東方紅魔郷 〜 the Embodiment of Scarlet Devil.」}|(全員)((博麗神社例大祭13のアフターイベントにて公開録音されたものを使用))|
+|1〜9小節|''少女綺想曲 〜 Dream Battle((「東方幻想郷 〜 Lotus Land Story.」の4面ボス曲「少女綺想曲 〜 Capriccio」のセルフアレンジ))''&br;SIZE(11){「東方永夜抄 〜 Imperishable Night.」}|''岸田教団 & THE明星ロケッツ''|
+|10〜17小節|''U.N.オーエンは彼女なのか？''&br;SIZE(11){「東方紅魔郷 〜 the Embodiment of Scarlet Devil.」}|''岸田教団 & THE明星ロケッツ''&br;SIZE(11){ichigo}|
+|18〜25小節|''ネクロファンタジア''&br;SIZE(11){「東方妖々夢 〜 Perfect Cherry Blossom.」}|''豚乙女''&br;SIZE(11){ランコ}|
+|26〜33小節|''月まで届け、不死の煙''&br;SIZE(11){「東方永夜抄 〜 Imperishable Night.」}|''幽閉サテライト''&br;SIZE(11){senya}|
+|34〜41小節|''六十年目の東方裁判 〜 Fate of Sixty Years''&br;SIZE(11){「東方花映塚 〜 Phantasmagoria of Flower View.」}|''Alstroemeria Records''&br;SIZE(11){綾倉盟}|
+|42〜59小節|''恋色マジック''&br;SIZE(11){「東方封魔録 〜 the Story of Eastern Wonderland.」}|''COOL&CREATE''&br;SIZE(11){ビートまりお}|
+|60〜67小節|''ネイティブフェイス''&br;SIZE(11){「東方風神録 〜 Mountain of Faith.」}|''A-One''&br;SIZE(11){越田Rute隆人×あき}|
+|68〜83小節|''赤より紅い夢''&br;SIZE(11){「東方紅魔郷 〜 the Embodiment of Scarlet Devil.」}|(全員)((博麗神社例大祭13のアフターイベントにて公開録音されたものを使用))|
 -曲名の考案及び、ラスト部分における「せーの！」の掛け声は東方Project原作者である''ZUN''。
 -マスタリングは、''Shibayan Records''の代表・Shibayan。
 -譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。

@@ -11,7 +11,7 @@
 |AC16.2.3SP||~|~|~|''1002240点''|2120点|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは120.15。
+-BPMは120。
 
 ~【''新譜面''】
 -全コース通して''精度曲''((かんたん、ふつうは完全精度曲))。
@@ -52,7 +52,9 @@
 
 ***譜面 [#score]
 ~新譜面
-~&attachref(dondo_new2.png,nolink);
+~&attachref(dondoo_m.png,nolink);
 
 ~旧譜面
+~BPMは120
+~12分音符は実際には全て8分音符
 ~&attachref(dondo.png,nolink);
