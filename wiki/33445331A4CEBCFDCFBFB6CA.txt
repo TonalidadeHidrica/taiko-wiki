@@ -5,9 +5,10 @@
 
 -[[公式サイト>https://web.archive.org/web/20170420225634/http://taiko3ds.namco-ch.net/]]（アーカイブ）
 --[[あんごう>https://web.archive.org/web/20211128102810/https://taiko3ds.namco-ch.net/howto/howto5.html]]（アーカイブ）
--[[開発日記>https://web.archive.org/web/20161110125329/http://taikoblog.namco-ch.net/blog/cat30]]
+-[[開発日記>https://web.archive.org/web/20161110125329/http://taikoblog.namco-ch.net/blog/cat30]]（アーカイブ）
 -[[システム詳細>CSの歴史#n3ds1]]
 -[[ストーリーモード>3DS1の収録曲/ちびドラゴンと不思議なオーブ]]
+-[[きせかえ一覧>3DS1の収録曲/きせかえ一覧]]
 -[[演奏オプション一覧]]
 -[[音色の一覧]]
 -[[隠し要素解禁条件>3DS1の収録曲/隠し要素解禁条件]]

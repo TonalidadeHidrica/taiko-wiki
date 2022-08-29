@@ -264,6 +264,10 @@
 |BGCOLOR(#49d5eb):''ポップス''|[[''君はロックを聴かない''>難易度表/おに/君はロックを聴かない]]||
 |BGCOLOR(#fe90d2):''アニメ''|[[''DiSCOVER THE FUTURE''>難易度表/おに/DiSCOVER THE FUTURE]]|TVアニメ「アイドリッシュセブン Second BEAT！」より|
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''時期未定''|h
+|(ジャンル不明)|COLOR(red):''新''|[[''河内音頭''>難易度表/おに/河内音頭]]||
+
 //ジャンルについて↓
 //BGCOLOR(#49d5eb):''ポップス''
 //BGCOLOR(#fdc000):''キッズ''

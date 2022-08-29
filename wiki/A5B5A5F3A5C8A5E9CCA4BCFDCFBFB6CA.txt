@@ -85,7 +85,7 @@
 |BGCOLOR(#ff7028):||[[1・2・さんしのでドンドカッカッ！>難易度表/おに/1・2・さんしのでドンドカッカッ！]]|AIきりたん|ユーキヒロセ|
 
 ***独自レーベルでの収録・You&#84;ubeで公式音源がアップロードされているもの [#original]
-|>|>|>|>|>|CENTER:74|c
+|1|1|>|>|>|>|>|c
 |>|CENTER:BGCOLOR(#0099FF):ジャンル|CENTER:BGCOLOR(#0099FF):曲名(50音順)|CENTER:BGCOLOR(#0099FF):歌唱|CENTER:BGCOLOR(#0099FF):作曲(編曲)|CENTER:BGCOLOR(#0099FF):収録作品|CENTER:BGCOLOR(#0099FF):備考|h
 |BGCOLOR(#ff7028):||[[春夏秋冬ドンドコドン>難易度表/ふつう/春夏秋冬ドンドコドン]]|宮川博之|宮川博之|[[公式MV(YouTube)>https://youtu.be/2uGlkPA7ius]]|ゲームSize|
 |BGCOLOR(#0acc2a):||[[パパマママック限定バージョン>難易度表/おに/パパマママック限定バージョン]]|牧野桃子、太郎、桜子|山本由貴子|[[公式MV(YouTube)>https://youtu.be/aAZMir4_gbo]]|ゲームSize|
