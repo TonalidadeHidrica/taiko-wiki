@@ -6,6 +6,7 @@
 -[[公式サイト>http://app.taiko-ch.net/]]
 -[[Google Play>https://play.google.com/store/apps/details?id=com.bandainamcoent.taikogp&hl=ja]]
 -[[システム詳細>CSの歴史#android]]
+-[[その他>Android(その他)の収録曲]]
 -[[コメント>#comment]]
 -V1.0.4以前、推奨機種以外の機種では難易度おにで遊ぶ事ができないので注意。
 --推奨機種は[[こちら>http://bnfaq.channel.or.jp/faq/faqDetail/3155/1/182]]。
