@@ -2,7 +2,7 @@
 
 #contents
 ~背景が灰色の譜面は難易度が新基準でないもの。
-~キッズの曲を含む。
+~ジャンル『キッズ』の楽曲を含む。
 
 **あ〜わ [#awa]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c

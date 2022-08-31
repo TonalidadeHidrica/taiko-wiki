@@ -21,14 +21,14 @@
 |BGCOLOR(darkorchid):3|BGCOLOR(#ccc):[[''モンスターハンター4G メドレー''>難易度表/おに/モンスターハンター4G メドレー]]|BGCOLOR(#ccc):2014/11/20|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''ブレイブネコシリーズ''」と、&br;フレーム「''モンスターハンター4G''」付き&br;2015/11/18まで配信|
 |BGCOLOR(silver):4|BGCOLOR(#ccc):[[''愛×愛ホイッスル（カレーメシ公式曲）''>難易度表/おに/愛×愛ホイッスル（カレーメシ公式曲）]]&br;　　SIZE(11){&#80;olyphonicBranch feat.初音ミク・鏡音リン}|BGCOLOR(#ccc):2014/12/18|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):2015/11/18まで配信|
 |BGCOLOR(darkorchid):5|BGCOLOR(#ccc):[[''「ポケットモンスター オメガルビー・アルファサファイア」''>難易度表/おに/「ポケットモンスター オメガルビー・アルファサファイア」]]&br;　　SIZE(11){チャンピオンメドレー}|~|BGCOLOR(#ccc):無料|~|
-|BGCOLOR(darkorchid):~|BGCOLOR(#ccc):[[''「ポケットモンスター オメガルビー・アルファサファイア」　(裏)''>難易度表/おに/「ポケットモンスター オメガルビー・アルファサファイア」(裏譜面)]]&br;　　SIZE(11){チャンピオンメドレー}|~|~|~|
+|BGCOLOR(darkorchid):~|BGCOLOR(#ccc):[[''「ポケットモンスター オメガルビー・アルファサファイア」(裏)''>難易度表/おに/「ポケットモンスター オメガルビー・アルファサファイア」(裏譜面)]]&br;　　SIZE(11){チャンピオンメドレー}|~|~|~|
 |BGCOLOR(cyan):6|[[''ひまわりの約束''>難易度表/おに/ひまわりの約束]]&br;　　SIZE(11){映画「STAND BY ME ドラえもん」より}|2015/03/19|162円||
 |BGCOLOR(orange):7|[[''セルリアン''>難易度表/おに/セルリアン]]&br;　　SIZE(11){「ガンダム ビルドファイターズ トライ」より}|~|162円||
 |BGCOLOR(orange):8|[[''SURPRISE‐DRIVE''>難易度表/おに/SURPRISE‐DRIVE]]&br;　　SIZE(11){「仮面ライダードライブ」より}|~|162円||
 |BGCOLOR(lime):9|[[''ドクターXのテーマ''>難易度表/おに/ドクターXのテーマ]]&br;　　SIZE(11){ドラマ「ドクターX 〜外科医・大門未知子〜」より}|~|162円||
 |BGCOLOR(orangered):10|[[''Shiny Kung-fu Revival''>難易度表/おに/Shiny Kung-fu Revival]]&br;　　SIZE(11){t+pazolite}|~|162円||
 |BGCOLOR(cyan):11|BGCOLOR(#ccc):[[''さちさちにしてあげる♪''>難易度表/おに/さちさちにしてあげる♪]]&br;　　SIZE(11){小林幸子}|BGCOLOR(#ccc):2015/04/27|BGCOLOR(#ccc):無料|BGCOLOR(#ccc):きせかえ「''さちさち''」付き&br;2015/11/18まで配信|
-|BGCOLOR(cyan):~|BGCOLOR(#ccc):[[''さちさちにしてあげる♪　(裏)''>難易度表/おに/さちさちにしてあげる♪(裏譜面)]]&br;　　SIZE(11){小林幸子}|~|~|~|
+|BGCOLOR(cyan):~|BGCOLOR(#ccc):[[''さちさちにしてあげる♪(裏)''>難易度表/おに/さちさちにしてあげる♪(裏譜面)]]&br;　　SIZE(11){小林幸子}|~|~|~|
 |BGCOLOR(lime):12|[[''ケラケラじゃんけん''>難易度表/おに/ケラケラじゃんけん]]|2015/04/27|162円||
 |BGCOLOR(cyan):13|[[''Butterfly''>難易度表/おに/Butterfly(木村カエラ)]]|2015/06/25|162円||
 |BGCOLOR(orange):14|[[''LET'S GO OUT''>難易度表/おに/LET'S GO OUT]]&br;　　SIZE(11){「銀魂」より}|~|162円||

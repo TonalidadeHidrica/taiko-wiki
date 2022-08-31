@@ -1942,7 +1942,7 @@
 -[[GOING TO LUNATEA>難易度表/おに/GOING TO LUNATEA]]
 -[[Gold Armor>難易度表/おに/Gold Armor]]
 -[[Goldfish City>難易度表/おに/Goldfish City]]
--[[GOLDGINGERS'99>難易度表/ふつう/GOLDFINGER'99]]
+-[[GOLDFINGER'99>難易度表/ふつう/GOLDFINGER'99]]
 -[[GO MY WAY!!>難易度表/おに/GO MY WAY!!]]
 -[[GO MY WAY!!(裏譜面)>難易度表/おに/GO MY WAY!!(裏譜面)]]
 -[[GOOD BYE 夏男>難易度表/おに/GOOD BYE 夏男]]
