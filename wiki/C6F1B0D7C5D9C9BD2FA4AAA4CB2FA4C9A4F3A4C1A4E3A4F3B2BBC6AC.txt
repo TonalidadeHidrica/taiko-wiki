@@ -52,9 +52,7 @@
 
 ***譜面 [#score]
 ~新譜面
-~&attachref(dondoo_m.png,nolink);
+~&attachref(dondo_m.png,nolink);
 
 ~旧譜面
-~BPMは120
-~12分音符は実際には全て8分音符
-~&attachref(dondo.png,nolink);
+~&attachref(dondo_old.png,nolink);

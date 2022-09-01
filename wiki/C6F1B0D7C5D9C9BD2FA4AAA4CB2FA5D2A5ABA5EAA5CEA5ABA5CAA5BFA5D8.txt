@@ -16,7 +16,7 @@
 -COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○}の繰り返しと68小節の16分から12分への移り変わりに注意。ラストも16分のラッシュがあるので注意。
 --しかし、COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}・・・といった1-2型の長複合が叩ける人にとっては全く難所が存在しないので、[[mint tears>難易度表/おに/mint tears]]や[[DON'T CUT(裏譜面)>難易度表/おに/DON'T CUT(裏譜面)]]同様、上級者ほど相対的に難易度が低く感じる譜面のひとつ。
 -大音符は51小節の面1個のみ。
---iOS/ARは大音符特良抜けすると''110万点ジャスト''になる
+--iOS/ARは大音符特良抜けすると''110万点ジャスト''になる。
 -平均密度は、''約6.27打/秒''。
 
 ***その他 [#other]

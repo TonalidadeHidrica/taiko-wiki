@@ -20,8 +20,9 @@
 ----
 //-[[参考動画(次郎)>https://www.youtube.com/watch?v=CliT4llPWJI]]
 
-***過去のコメント [#pastcomment]
--[[過去のコメント>過去のコメント/難易度表/むずかしい/サバイバル]]''※書き込みはできません''
+***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+#pcomment(,noname)
 
 ***譜面 [#score]
 ~&attachref(Survival.png,nolink);

@@ -335,7 +335,7 @@
 |''Cheers！デリシャスパーティ&#9825;プリキュア''|182|[[★×1>難易度表/かんたん/Cheers!デリシャスパーティ・プリキュア]]|[[★×2>難易度表/ふつう/Cheers!デリシャスパーティ・プリキュア]]|[[★×2>難易度表/むずかしい/Cheers!デリシャスパーティ・プリキュア]]|[[★×3>難易度表/おに/Cheers!デリシャスパーティ・プリキュア]]|-|
 |''CHU-BURA''|180|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/CHU-BURA]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/CHU-BURA]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/CHU-BURA]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/CHU-BURA]]|-|
 |''Circle of Seasons''|168|[[★×2>難易度表/かんたん/Circle of Seasons]]|[[★×4>難易度表/ふつう/Circle of Seasons]]|[[★×4>難易度表/むずかしい/Circle of Seasons]]|[[★×6>難易度表/おに/Circle of Seasons]]|-|
-|''Climax Jump''|170|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Climax Jump]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/Climax Jump]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Climax Jump]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Climax Jump]]|-|
+|''Climax Jump''|170|[[★×2>難易度表/かんたん/Climax Jump]]|[[★×2>難易度表/ふつう/Climax Jump]]|[[★×5>難易度表/むずかしい/Climax Jump]]|[[★×8>難易度表/おに/Climax Jump]]|-|
 |''CLOSER''|166※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/CLOSER]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/CLOSER]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/CLOSER]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/CLOSER]]|-|
 |''crossing field''|179|[[★×2>難易度表/かんたん/crossing field]]|[[★×4>難易度表/ふつう/crossing field]]|[[★×4>難易度表/むずかしい/crossing field]]|[[★×6>難易度表/おに/crossing field]]|-|
 |''Cry Baby''|100|[[★×2>難易度表/かんたん/Cry Baby]]|[[★×3>難易度表/ふつう/Cry Baby]]|[[★×5>難易度表/むずかしい/Cry Baby]]|[[★×8>難易度表/おに/Cry Baby]]|-|
@@ -391,7 +391,7 @@
 |''I★my★me★mine''|182|[[★×2>難易度表/かんたん/I★my★me★mine]]|[[★×3>難易度表/ふつう/I★my★me★mine]]|[[★×5>難易度表/むずかしい/I★my★me★mine]]|[[★×6>難易度表/おに/I★my★me★mine]]|-|
 |''INSIDE IDENTITY''|186※|[[★×4>難易度表/かんたん/INSIDE IDENTITY]]|[[★×4>難易度表/ふつう/INSIDE IDENTITY]]|[[★×5>難易度表/むずかしい/INSIDE IDENTITY]]|[[★×8>難易度表/おに/INSIDE IDENTITY]]|-|
 |''Into the Unknown''|117|[[★×1>難易度表/かんたん/Into the Unknown]]|[[★×2>難易度表/ふつう/Into the Unknown]]|[[★×5>難易度表/むずかしい/Into the Unknown]]|[[★×7>難易度表/おに/Into the Unknown]]|-|
-|''Journey through the Decade''|170|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Journey through the Decade]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Journey through the Decade]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Journey through the Decade]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Journey through the Decade]]|-|
+|''Journey through the Decade''|170|[[★×2>難易度表/かんたん/Journey through the Decade]]|[[★×3>難易度表/ふつう/Journey through the Decade]]|[[★×5>難易度表/むずかしい/Journey through the Decade]]|[[★×6>難易度表/おに/Journey through the Decade]]|-|
 |''Jungle P''|145|[[★×2>難易度表/かんたん/Jungle P]]|[[★×2>難易度表/ふつう/Jungle P]]|[[★×5>難易度表/むずかしい/Jungle P]]|[[★×7>難易度表/おに/Jungle P]]|-|
 |''JUST LIVE MORE''|190|[[★×2>難易度表/かんたん/JUST LIVE MORE]]|[[★×3>難易度表/ふつう/JUST LIVE MORE]]|[[★×5>難易度表/むずかしい/JUST LIVE MORE]]|[[★×7>難易度表/おに/JUST LIVE MORE]]|-|
 |''KIRA☆Power''|139|[[★×3>難易度表/かんたん/KIRA☆Power]]|[[★×4>難易度表/ふつう/KIRA☆Power]]|[[★×6>難易度表/むずかしい/KIRA☆Power]]|[[★×6>難易度表/おに/KIRA☆Power]]|-|
@@ -483,4 +483,4 @@
 |''1 ドリーム''|132|[[★×2>難易度表/かんたん/1 ドリーム]]|[[★×3>難易度表/ふつう/1 ドリーム]]|[[★×3>難易度表/むずかしい/1 ドリーム]]|[[★×5>難易度表/おに/1 ドリーム]]|-|
 |''1・2・3''|182|[[★×2>難易度表/かんたん/1・2・3]]|[[★×4>難易度表/ふつう/1・2・3]]|[[★×5>難易度表/むずかしい/1・2・3]]|[[★×7>難易度表/おに/1・2・3]]|-|
 |''1・2・3''(サトシ＆ゴウ)|182|[[★×1>難易度表/かんたん/1・2・3(サトシ＆ゴウ)]]|[[★×1>難易度表/ふつう/1・2・3(サトシ＆ゴウ)]]|[[★×4>難易度表/むずかしい/1・2・3(サトシ＆ゴウ)]]|[[★×6>難易度表/おに/1・2・3(サトシ＆ゴウ)]]|-|
-|''88''|175|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/88]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/88]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/88]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/88]]|-|
+|''88''|175|[[★×3>難易度表/かんたん/88]]|[[★×4>難易度表/ふつう/88]]|[[★×4>難易度表/むずかしい/88]]|[[★×8>難易度表/おに/88]]|-|
