@@ -253,11 +253,11 @@
 |>|>|>|CENTER:''9/3配信曲''|h
 |BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''そして勇者は眠りにつく''>難易度表/おに/そして勇者は眠りにつく]]|打打だいず|
 
-**第141回アップデート GAME VERSION:??.??(2022/9/7実施予定) [#update141]
+**第141回アップデート GAME VERSION:32.09(2022/9/7実施予定) [#update141]
 -楽曲配信113。
 
 |CENTER:100|CENTER:50||250|c
-|>|>|>|CENTER:''バージョンアップ配信曲''(V??.??)|h
+|>|>|>|CENTER:''バージョンアップ配信曲''(V32.09)|h
 |BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''くらべられっ子''>難易度表/おに/くらべられっ子]]|ツユ|
 |~|COLOR(red):''新''|[[''Just Awake''>難易度表/おに/Just Awake]]|Fear, and Loathing in Las Vegas 「HUNTER×HUNTER」より|
 |BGCOLOR(#fe90d2):''アニメ''|COLOR(red):''新''|[[''THE POLiCY''>難易度表/おに/THE POLiCY]]|TVアニメ『アイドリッシュセブン Third BEAT!』より|

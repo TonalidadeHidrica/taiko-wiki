@@ -23,7 +23,7 @@
 -序盤と中盤で1回ずつ出てくる4分の複合13連打に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/DREAMERS' PARADISE#other]]を参照。
+-楽曲情報は[[おに>難易度表/おに/DREAMERS' PARADISE#other]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/DREAMERS' PARADISE]]
 -[[むずかしい>難易度表/むずかしい/DREAMERS' PARADISE]]
@@ -32,10 +32,9 @@
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
--COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~黄色連打は下の画像より48分音符1つ分短い
-~正しいBPMは[[おに譜面>難易度表/おに/DREAMERS' PARADISE#score]]を参照
+~正しいBPMは[[おに>難易度表/おに/DREAMERS' PARADISE#score]]を参照
 ~&attachref(dparad_n.png,nolink);
