@@ -1,4 +1,4 @@
-*DIVE TO WORLD [#title]
+*&ruby(ダイブ){DIVE}; &ruby(トゥ){TO}; &ruby(ワールド){WORLD}; [#title]
 -「[[''家庭教師ヒットマンREBORN!''>アニメ別収録曲#reborn]]」のOP3。
 
 ***詳細 [#more]
@@ -15,7 +15,8 @@
 --ただし、8分の複合は1回も出て来ない。
 
 ***その他 [#other]
--楽曲情報は[[おに>難易度表/おに/DIVE TO WORLD]]参照。
+-楽曲情報は[[おに譜面>難易度表/おに/DIVE TO WORLD#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/DIVE TO WORLD]]
 -[[ふつう>難易度表/ふつう/DIVE TO WORLD]]

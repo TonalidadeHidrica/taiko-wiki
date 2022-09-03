@@ -1,4 +1,4 @@
-*My Soul,Your Beats! [#title]
+*&ruby(マイ){My}; &ruby(ソウル){Soul};,&ruby(ユア){Your}; &ruby(ビーツ){Beats};! [#title]
 -アニメ「''Angel Beats!''」のOP。
 
 ***詳細 [#more]
@@ -24,7 +24,7 @@
 -一応コンボ数は[[むずかしい>難易度表/むずかしい/My Soul,Your Beats!]]の半分を超えているが、難易度は雲泥の差がある。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/My Soul,Your Beats!]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/My Soul,Your Beats!#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/My Soul,Your Beats!]]

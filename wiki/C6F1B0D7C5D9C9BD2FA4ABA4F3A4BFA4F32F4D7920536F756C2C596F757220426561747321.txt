@@ -1,4 +1,4 @@
-*My Soul,Your Beats! [#title]
+*&ruby(マイ){My}; &ruby(ソウル){Soul};,&ruby(ユア){Your}; &ruby(ビーツ){Beats};! [#title]
 -アニメ「''Angel Beats!''」のOP。
 
 ***詳細 [#more]
@@ -21,7 +21,7 @@
 --そのことが反映されたのか、AC15で★×3に降格した。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/My Soul,Your Beats!]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/My Soul,Your Beats!#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/My Soul,Your Beats!]]

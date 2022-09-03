@@ -623,7 +623,7 @@
 |〇|BGCOLOR(gold):|君と彩るミライの音|[[COLOR(blue):Irodoru&#9825;Future>難易度表/おに/Irodoru・Future]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|バチよ荒れ狂え|[[COLOR(blue):狂瀾怒濤>難易度表/おに/狂瀾怒濤]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):狂瀾怒濤(裏)>難易度表/おに/狂瀾怒濤(裏譜面)]]をフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):そして勇者は眠りにつく>難易度表/おに/そして勇者は眠りにつく]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|別れのノイズと旅立ちの旋律|[[COLOR(blue):そして勇者は眠りにつく>難易度表/おに/そして勇者は眠りにつく]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):そして勇者は眠りにつく(裏)>難易度表/おに/そして勇者は眠りにつく(裏譜面)]]をフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):SUPERNOVA>難易度表/おに/SUPERNOVA]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):SUPERNOVA(裏)>難易度表/おに/SUPERNOVA(裏譜面)]]をフルコンボ|~|

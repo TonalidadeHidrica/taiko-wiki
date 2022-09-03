@@ -1,4 +1,4 @@
-*&ruby(なんちゅう){南中};ソーラン SIZE(16){TAKIO'S SOHRAN2}&br;TAKIO'S SOHRAN 2((AC9の表記)) [#title]
+*南中ソーラン SIZE(16){TAKIO'S SOHRAN2}&br;TAKIO'S SOHRAN 2((AC9の表記)) [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -24,6 +24,7 @@
 -アーティストは、''伊藤多喜雄''。
 -譜面作成は、''[[キジキジ>譜面作成者一覧/キジキジ]]''。
 -曲IDは、''takio''。
+
 ----
 -[[かんたん>難易度表/かんたん/TAKIO'S SOHRAN 2]]
 -[[ふつう>難易度表/ふつう/TAKIO'S SOHRAN 2]]

@@ -1,4 +1,4 @@
-*Phantom Rider [#title]
+*&ruby(ファントム){Phantom}; &ruby(ライダー){Rider}; [#title]
 -[[Riderシリーズ>シリーズ曲一覧#rider]]第1弾。
 
 ***詳細 [#more]
@@ -39,7 +39,7 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#score]
+***譜面 [#score]
 &attachref(phride.png,nolink);
 
 ~半速表記

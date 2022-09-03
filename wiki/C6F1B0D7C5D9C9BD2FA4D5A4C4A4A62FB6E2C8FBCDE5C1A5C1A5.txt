@@ -7,15 +7,17 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは108。
+-連打秒数・・・約4.61秒
 
-***その他[#other]
+***その他 [#other]
 -現在''[[ふつう★×2で一番コンボ数が少ない曲>コンボ数順/ふつう#stmin]]''である。
 ----
 -[[かんたん>難易度表/かんたん/金毘羅船船]]
 -[[プレイ動画>https://www.youtube.com/watch?v=yl0AImfcc-I]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(knprn.png,nolink);
+~&attachref(knprn.png,nolink);

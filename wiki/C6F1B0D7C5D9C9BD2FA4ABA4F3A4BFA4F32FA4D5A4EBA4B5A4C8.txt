@@ -7,15 +7,17 @@
 
 ***譜面構成・攻略 [#capture]
 -BPM80。
+-連打秒数・・・3.6875秒
 
-***その他 [#other]
+//***その他 [#other]
 
 ----
 -[[ふつう>難易度表/ふつう/ふるさと]]
 -[[プレイ動画>https://www.youtube.com/watch?v=QS40hF3Sbl8]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(frste.png,nolink);
+~&attachref(frste.png,nolink);

@@ -24,6 +24,7 @@
 
 ***その他 [#other]
 -楽曲情報は[[おに(表)譜面>難易度表/おに/Phantom Rider]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/Phantom Rider]]
 -[[むずかしい>難易度表/むずかしい/Phantom Rider]]
@@ -33,7 +34,7 @@
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 ~&attachref(PR h.png,nolink);
 
 ~半速表記

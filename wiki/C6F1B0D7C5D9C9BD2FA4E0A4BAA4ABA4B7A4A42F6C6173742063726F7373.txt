@@ -1,5 +1,6 @@
-*last cross [#v07f1062]
+*&ruby(ラスト){last}; &ruby(クロス){cross}; [#title]
 -[[「''家庭教師ヒットマンREBORN!''」>アニメ別収録曲#reborn]]のOP5。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -11,16 +12,15 @@
 - 達人譜面の最後の「●●●●●」に注意。
 
 ***その他 [#other]
--読み方は、''ラストクロス''。
--アーティストは''光岡昌美''。
--曲IDは、''lastcr''。
+-楽曲情報は[[おに譜面>難易度表/おに/last cross#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/last cross]]
 -[[ふつう>難易度表/ふつう/last cross]]
 -[[おに>難易度表/おに/last cross]]
 
-***コメント [#kacb4d9f]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#bba57183]
+***譜面 [#score]
 &ref(last_cross-h.png,nolink);

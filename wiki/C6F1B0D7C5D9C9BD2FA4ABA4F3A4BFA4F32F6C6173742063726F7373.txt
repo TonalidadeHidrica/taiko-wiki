@@ -1,4 +1,4 @@
-*last cross [#title]
+*&ruby(ラスト){last}; &ruby(クロス){cross}; [#title]
 -「[[''家庭教師ヒットマンREBORN!''>アニメ別収録曲#reborn]]」のOP5。
 
 ***詳細 [#more]
@@ -10,17 +10,17 @@
 -BPMは146。
 
 ***その他 [#other]
--アーティストは、''光岡昌美''。
+-楽曲情報は[[おに譜面>難易度表/おに/last cross#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/last cross]]
 -[[むずかしい>難易度表/むずかしい/last cross]]
 -[[おに>難易度表/おに/last cross]]
---[[プレイ動画>http://www.youtube.com/watch?v=xsUCceVWhrI]]
+-[[プレイ動画>http://www.youtube.com/watch?v=xsUCceVWhrI]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
-誰か 風船連打数を 求めてください ;_;
-&ref(lastkantan.png,nolink);
+***譜面 [#score]
+~風船連打は10打
+~&ref(lastkantan.png,nolink);

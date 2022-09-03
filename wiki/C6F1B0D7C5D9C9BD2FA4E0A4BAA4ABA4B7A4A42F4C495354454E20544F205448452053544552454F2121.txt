@@ -1,4 +1,4 @@
-*&ruby(リスン){LISTEN}; &ruby(トゥー){TO}; &ruby(ザ){THE}; &ruby(ステレオ){STEREO};!! [#title]
+*&ruby(リッスン){LISTEN}; &ruby(トゥ){TO}; &ruby(ザ){THE}; &ruby(ステレオ){STEREO};!! [#title]
 -「[[''家庭教師ヒットマンREBORN!''>アニメ別収録曲#reborn]]」のOP8。
 
 ***詳細 [#more]
@@ -19,9 +19,7 @@
 --にもかかわらず、AC15でも残留した。クリアだけなら逆詐称だろう。
 
 ***その他 [#other]
--アーティストは、''GOING UNDER GROUND''。
---作詞は、松本素生。作曲は、松本素生・河野丈洋。編曲は、GOING UNDER GROUND・ヒダカトオル。
--曲IDは、''listen''。
+-楽曲情報は[[おに譜面>難易度表/おに/LISTEN TO THE STEREO!!]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/LISTEN TO THE STEREO!!]]
@@ -29,8 +27,8 @@
 -[[おに>難易度表/おに/LISTEN TO THE STEREO!!]]
 -[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=KsbBsKP5avk]]
 
-***コメント [#udf4fefc]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#f9260929]
+***譜面 [#score]
 &attachref(LISTEN.png,nolink);
