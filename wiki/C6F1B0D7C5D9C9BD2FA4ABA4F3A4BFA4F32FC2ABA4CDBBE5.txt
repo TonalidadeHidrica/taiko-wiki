@@ -1,4 +1,4 @@
-*束ね糸 [#title]
+*&ruby(たば){束};ね&ruby(いと){糸}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -24,7 +24,7 @@
 -平均密度は、''約2.41打/秒''。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/束ね糸]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/束ね糸#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/束ね糸]]
@@ -36,6 +36,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&ref(tabaneito_e.png,nolink);
+~&ref(tabaneito_e.png,nolink);
+
 ~半速
-&ref(tabaneito_eh.png,nolink);
+~&ref(tabaneito_eh.png,nolink);

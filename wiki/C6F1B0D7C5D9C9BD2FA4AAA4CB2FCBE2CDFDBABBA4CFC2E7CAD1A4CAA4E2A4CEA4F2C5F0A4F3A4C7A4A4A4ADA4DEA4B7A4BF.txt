@@ -46,5 +46,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~最後に5本非表示の小節線がある
-~&attachref(anaananaanan.png,nolink);
+~&attachref(anaananaanan_2.png,nolink);

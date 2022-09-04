@@ -1,7 +1,8 @@
-*Preserved Roses [#title]
+*&ruby(プリザーブド){Preserved}; &ruby(ローゼズ){Roses}; [#title]
 -アニメ「''革命機ヴァルヴレイヴ''」のOP1。
-***詳細 [#details]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.3.5''|BGCOLOR(orange):''アニメ''|★×7|''410''|''981290点''|＋連打|700点|193点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''983430点''}|~|COLOR(#ff3300){2230点}|-|
@@ -23,6 +24,7 @@
 -''2016年3月29日午前7:00をもってサヨナラ''となった。 
 --現時点でどのCSにも収録されていないため、現在この曲を遊べる作品は存在しない。
 -曲IDは、''valvra''。
+
 ----
 -[[かんたん>難易度表/かんたん/Preserved Roses]]
 -[[ふつう>難易度表/ふつう/Preserved Roses]]

@@ -1,4 +1,4 @@
-*STAY TUNE [#title]
+*&ruby(ステイ){STAY}; &ruby(チューン){TUNE}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -16,7 +16,8 @@
 --ただし、2分の複合は5連打が1回しか出て来ない。
 
 ***その他 [#other]
--楽曲情報は[[おに>難易度表/おに/STAY TUNE#title]][[譜面>難易度表/おに/STAY TUNE#other]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/STAY TUNE#other]]を参照。
+
 ----
 -[[ふつう>難易度表/ふつう/STAY TUNE]]
 -[[むずかしい>難易度表/むずかしい/STAY TUNE]]

@@ -1,4 +1,4 @@
-*only my railgun [#title]
+*&ruby(オンリー){only}; &ruby(マイ){my}; &ruby(レールガン){railgun}; [#title]
 -アニメ「[[''とある科学の&ruby(レールガン){超電磁砲};''>アニメ別収録曲#toaru]]」のOP1。
 
 ***詳細 [#more]
@@ -21,7 +21,8 @@
 --この3連打は大音符なので、1個でも特良を逃すと痛い失点になる可能性がある。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/only my railgun]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/only my railgun#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/only my railgun]]
 -[[むずかしい>難易度表/むずかしい/only my railgun]]
@@ -34,4 +35,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(only my railgun_normal.png,nolink);
+&attachref(only my railgun_normal.png,nolink);

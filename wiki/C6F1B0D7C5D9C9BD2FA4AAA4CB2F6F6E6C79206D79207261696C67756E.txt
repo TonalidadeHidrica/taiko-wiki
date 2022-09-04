@@ -1,4 +1,4 @@
-*only my railgun [#title]
+*&ruby(オンリー){only}; &ruby(マイ){my}; &ruby(レールガン){railgun}; [#title]
 -アニメ「[[''とある科学の&ruby(レールガン){超電磁砲};''>アニメ別収録曲#toaru]]」のOP1。
 
 ***詳細 [#more]
@@ -43,4 +43,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(only my rialgun_2.png,nolink);
+&attachref(only my rialgun_2.png,nolink);

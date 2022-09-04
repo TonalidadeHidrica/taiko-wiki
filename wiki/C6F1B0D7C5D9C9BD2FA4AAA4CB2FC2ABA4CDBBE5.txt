@@ -1,4 +1,4 @@
-*束ね糸 [#title]
+*&ruby(たば){束};ね&ruby(いと){糸}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -59,4 +59,5 @@
 ***譜面 [#score]
 ~&ref(tabaneito_o.png,nolink);
 
+~半速表記
 ~&attachref(32ぶ.png,nolink);

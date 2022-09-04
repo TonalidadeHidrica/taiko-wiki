@@ -1,4 +1,7 @@
-*Snow halation [#title]
+*&ruby(スノー){Snow}; &ruby(ハレーション){halation}; [#title]
+-[[''μ's''>アーティスト別収録曲#muse]]の2ndシングル「Snow halation」の収録曲。
+--TVアニメ版「[[ラブライブ！>アニメ別収録曲#lovelive]]」2期9話では劇中歌として使用されている。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -14,7 +17,7 @@
 -中盤で1回だけ出てくる8分の複合6連打（COLOR(blue){○○}COLOR(red){●}COLOR(blue){○○}COLOR(red){●}）に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Snow halation]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Snow halation#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Snow halation]]

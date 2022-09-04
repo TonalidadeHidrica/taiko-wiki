@@ -1,4 +1,4 @@
-*STAY TUNE [#title]
+*&ruby(ステイ){STAY}; &ruby(チューン){TUNE}; [#title]
 -ホンダ「''VEZEL 「世界ヴェゼル」篇''」CMソング。
 
 ***詳細 [#more]
@@ -40,4 +40,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(staytn_m.png,nolink);
+&attachref(staytn_m.png,nolink);

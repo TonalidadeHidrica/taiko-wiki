@@ -1,4 +1,4 @@
-*&ruby(シューティング){Shooting}; &ruby(スター){Star};[#Title]
+*&ruby(シューティング){Shooting}; &ruby(スター){Star};[#title]
 -バンナムのWiiソフト「''ハッピーダンスコレクション''」より。
 
 ***詳細 [#more]
@@ -18,15 +18,17 @@
 ***その他 [#other]
 -アーティストは、''[[水樹奈々>アーティスト別収録曲#nana]]''。
 --''[[本人音源>本人音源曲]]''である。
--曲IDは、''dancec''。
 -[[Wish upon a shooting star>難易度表/おに/Wish upon a shooting star]]との混同に注意。
+-曲IDは、''dancec''。
 
 ----
 -[[かんたん>難易度表/かんたん/Shooting Star]]
 -[[ふつう>難易度表/ふつう/Shooting Star]]
 -[[むずかしい>難易度表/むずかしい/Shooting Star]]
 -[[プレイ動画>http://www.youtube.com/watch?v=0OAuwJv7UDw]]
-***コメント[#Comment]
+
+***コメント [#comment]
 #pcomment(,noname)
-***譜面[#score]
+
+***譜面 [#score]
 &attachref(shoot_2.png,nolink);
