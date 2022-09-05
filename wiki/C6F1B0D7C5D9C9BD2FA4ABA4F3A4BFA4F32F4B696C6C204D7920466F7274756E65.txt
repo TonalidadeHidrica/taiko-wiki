@@ -1,4 +1,4 @@
-*Kill My Fortune [#title]
+*&ruby(キル){Kill}; &ruby(マイ){My}; &ruby(フォーチュン){Fortune}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
@@ -9,7 +9,7 @@
 -BPMは180。
 
 ***その他 [#other]
--楽曲情報は[[おに>難易度表/おに/Kill My Fortune]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Kill My Fortune#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/Kill My Fortune]]
@@ -21,4 +21,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(KMF_e.png,nolink);
+&attachref(KMF_e.png,nolink);

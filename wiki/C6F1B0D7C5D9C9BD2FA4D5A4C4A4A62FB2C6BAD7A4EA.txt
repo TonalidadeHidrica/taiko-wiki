@@ -16,7 +16,7 @@
 |COLOR(#ff3300){真打モード}||BGCOLOR(cyan):''J-POP''|~|~||COLOR(#ff3300){''443790点''}|~|COLOR(#ff3300){2410点}|-||
 |AC15.1.0|3DS1&br;3DS2DL&br;3DS3DL&br;Wii U1&br;PS Vita1|~|~|~||''442440点''|~|800点|290点|~|
 ||PS Vita1亜|BGCOLOR(cyan):''日本&br;流行音樂''|~|~||~|~|~|~|~|
-||PS4 1&br;NS1&br;PTB&br;NS2|BGCOLOR(cyan):''ポップス''|~|~||~|~|~|~|~|
+||PS4 1&br;NS1&br;PTB|BGCOLOR(cyan):''ポップス''|~|~||~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~||COLOR(#ff3300){''993320点''}|~|COLOR(#ff3300){5480点}|-|~|
 |AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~||''996880点''|~|5790点|-|~|
 ||DS1|BGCOLOR(cyan):''J-POP''|~|''174''||''341550点''|~|630点|150点|~|

@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(女神I_h.png,nolink);
+&attachref(女神I_h.png,nolink);

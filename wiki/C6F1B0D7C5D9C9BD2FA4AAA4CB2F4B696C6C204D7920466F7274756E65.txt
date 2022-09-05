@@ -1,4 +1,4 @@
-*Kill My Fortune [#title]
+*&ruby(キル){Kill}; &ruby(マイ){My}; &ruby(フォーチュン){Fortune}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
@@ -27,4 +27,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(Kill My Fortune_2.png,nolink);
+&attachref(Kill My Fortune_2.png,nolink);

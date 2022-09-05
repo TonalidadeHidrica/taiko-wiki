@@ -1,4 +1,4 @@
-*夜桜繚乱感謝祭 (ボス戦 辛口) [#title]
+*&ruby(よざくらりょうらんかんしゃさい){夜桜繚乱感謝祭}; (ボス戦 辛口) [#title]
 
 ***詳細 [#more]
 |>|>|>|CENTER:|c
@@ -20,10 +20,11 @@
 
 ----
 -[[甘口>難易度表/その他/夜桜繚乱感謝祭(ボス戦 甘口)]] / [[中辛>難易度表/その他/夜桜繚乱感謝祭(ボス戦 中辛)]] / ''辛口''
--[[譜面確認用動画>https://youtube.com/watch?v=R2hQAEW3Pxs]]
+-[[譜面確認用動画(直撮り)>https://youtube.com/watch?v=R2hQAEW3Pxs]]
+-[[フルコンボ動画(非全良、非クリア、キャプチャ)>https://www.youtube.com/watch?v=Dn43g4eKwic]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(btu5a2_h3.png,nolink);
+&attachref(btu5a2_h3.png,nolink);

@@ -4,7 +4,7 @@
 ***詳細 [#details]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.4.0''|Wii U2&br;PTB&br;NS2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|''572''|''1051750点''|560点|148点|
+|''AC15.4.0''|Wii U2&br;PTB|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|''572''|''1051750点''|560点|148点|
 |COLOR(#f30):真打||~|~|~|COLOR(#f30):''1002750点''|COLOR(#f30):1750点|-|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1001000点''|~|~|
 |AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|

@@ -1,8 +1,8 @@
-*前前前世 [#title]
+*&ruby(ぜんぜんぜんせ){前前前世}; [#title]
 -映画「[[''君の名は。''>アニメ別収録曲#shinkai]]」主題歌。
 
 ***詳細 [#more]
-|>|>|CENTER:|>|>|>|>|>|CENTER:|c
+|>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 ||''iOS''&br;AR|BGCOLOR(cyan):''ポップス''|★×8|''466''|''1040700点''|+連打|610点|160点|
 |AC15.9.0|3DS3DL|BGCOLOR(cyan):''J-POP''|~|~|''1048820点''|~|690点|185点|
@@ -48,4 +48,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(zense_m.png,nolink);
+&attachref(zense_m.png,nolink);

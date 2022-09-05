@@ -27,6 +27,7 @@
 |BGCOLOR(#ff7028):||[[うちゅうひこうし冒険譚>難易度表/おに/うちゅうひこうし冒険譚]]|-|しょご/野村渉悟|
 |BGCOLOR(#ff7028):||[[Emma>難易度表/おに/Emma]]|Risa Yuzuki|BlackY|
 |BGCOLOR(#ff7028):||[[オレサマパイレーツ>難易度表/おに/オレサマパイレーツ]]|-|大上昌子(増渕裕二)|
+|BGCOLOR(#ff7028):||[[音符のうた -English Version->難易度表/おに/音符のうた -English Version-]]|Rumiko Varnes、Eric Kelso(([[このページ>コメント/難易度表/おに/音符のうた -English Version-]]を参考にしたが、ソースは現時点では確認されていないと思われる。))|みすみゆり|
 |BGCOLOR(#ff7028):||[[和蘭撫子>難易度表/おに/和蘭撫子]]|飛鳥男&#8482;|飛鳥男&#8482;(野見★隆明)|
 |BGCOLOR(#ff7028):||[[傾奇者、罷り通る！>難易度表/おに/傾奇者、罷り通る！]]|かぼちゃ|かぼちゃ|
 |BGCOLOR(#ff7028):||[[絡繰廻廊>難易度表/おに/絡繰廻廊]]|-|はるなば|
@@ -68,6 +69,7 @@
 |BGCOLOR(#ff7028):||[[Hold me tight>難易度表/おに/Hold me tight]]|musica、パークマンサー|Tatsh|
 |BGCOLOR(#ff7028):||[[ボクらのまえに道はある>難易度表/おに/ボクらのまえに道はある]]|HONOKA|岡田徹(ショック太郎)|
 |BGCOLOR(#ff7028):||[[PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]|まめこ|オッカ|
+|BGCOLOR(#ff7028):||[[まいにちがドンダフル>難易度表/おに/まいにちがドンダフル]]|?|?|
 |BGCOLOR(#ff7028):||[[魔法式逃走奇譚☆ミ>難易度表/おに/魔法式逃走奇譚☆ミ]]|海保えりか|MOES|
 |BGCOLOR(#ff7028):||[[Mr.ランナー>難易度表/おに/Mr.ランナー]]|singman|MOES|
 |BGCOLOR(#ff7028):||[[memoria ficta>難易度表/おに/memoria ficta]]|-|Versus|
@@ -188,12 +190,12 @@
 |BGCOLOR(#ff7028):||[[そして勇者は眠りにつく>難易度表/おに/そして勇者は眠りにつく]]|-|打打だいず|[[公式音源(YouTube)>https://youtu.be/Dyy0bD2cqSU]]|ゲームSize|
 
 **収録されない可能性が高いもの [#possibility]
-|1|1|>|>|>|>|c
-|>|CENTER:BGCOLOR(#0099FF):ジャンル|CENTER:BGCOLOR(#0099FF):曲名(50音順)|CENTER:BGCOLOR(#0099FF):歌唱|CENTER:BGCOLOR(#0099FF):作曲(編曲)|CENTER:BGCOLOR(#0099FF):備考|h
-|BGCOLOR(#0acc2a):||[[パパマママック>難易度表/おに/パパマママック]]|牧野桃子、太郎、桜子|山本由貴子||
-|BGCOLOR(#ff7028):||[[福袋餃子自慢商店街の歌>難易度表/おに/福袋餃子自慢商店街の歌]]|?|?|ナンジャタウンで流れているものと、太鼓収録版とでカットが異なる。|
-|BGCOLOR(#ff7028):||[[餃子ブギウギ>難易度表/おに/餃子ブギウギ]]|?|?|~|
-|BGCOLOR(#ff7028):||[[Many wow bang!>難易度表/おに/Many wow bang!]]|ばしょん|みすみゆり|2013/6/6の公式ツイッターより、&br;「この曲は太鼓の達人オリジナル楽曲ではないため、&br;太鼓の達人オリジナルサウンドトラックには収録できません」とのこと。&br;ちなみに、[[公式MV(You&#84;ube)>https://www.youtube.com/watch?v=3rVDc0Jr1l0]](ゲームSize)はアップロードされている。|
+|1|>|>|>|>|c
+|CENTER:BGCOLOR(#0099FF):ジャンル|CENTER:BGCOLOR(#0099FF):曲名(50音順)|CENTER:BGCOLOR(#0099FF):歌唱|CENTER:BGCOLOR(#0099FF):作曲(編曲)|CENTER:BGCOLOR(#0099FF):備考|h
+|BGCOLOR(#0acc2a):|[[パパマママック>難易度表/おに/パパマママック]]|牧野桃子、太郎、桜子|山本由貴子||
+|BGCOLOR(#ff7028):|[[福袋餃子自慢商店街の歌>難易度表/おに/福袋餃子自慢商店街の歌]]|?|?|ナンジャタウンで流れているものと、太鼓収録版とでカットが異なる。|
+|BGCOLOR(#ff7028):|[[餃子ブギウギ>難易度表/おに/餃子ブギウギ]]|?|?|~|
+|BGCOLOR(#ff7028):|[[Many wow bang!>難易度表/おに/Many wow bang!]]|ばしょん|みすみゆり|2013/6/6の公式ツイッターより、&br;「この曲は太鼓の達人オリジナル楽曲ではないため、&br;太鼓の達人オリジナルサウンドトラックには収録できません」とのこと。&br;ちなみに、[[公式MV(You&#84;ube)>https://www.youtube.com/watch?v=3rVDc0Jr1l0]](ゲームSize)はアップロードされている。|
 
 ***ロングVer.やフルVer.が収録済みでゲームSizeが未収録もの [#short]
 |1|1|>|>|>|>|c
@@ -220,13 +222,13 @@
 |BGCOLOR(#ff7028):||[[Sweet Lay>難易度表/おに/Sweet Lay]]|Kyah|佐々木宏人||
 
 ***再生速度や音程を変えたもの [#speedandpitch]
-|1|1|>|>|>|>|c
-|>|CENTER:BGCOLOR(#0099FF):ジャンル|CENTER:BGCOLOR(#0099FF):曲名(50音順)|CENTER:BGCOLOR(#0099FF):歌唱|CENTER:BGCOLOR(#0099FF):作曲(編曲)|CENTER:BGCOLOR(#0099FF):原曲|h
-|BGCOLOR(#cc8aeb):||[[KAGYUKIYO>難易度表/おに/KAGYUKIYO]]|-|(増渕裕二)|[[KAGEKIYO 源平討魔伝メドレー>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|
-|BGCOLOR(#ff7028):||[[きたさいたま200>難易度表/おに/きたさいたま200]]|-|LindaAI-CUE(?)|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|
-|BGCOLOR(#ff7028):||[[Nesin Amatias>難易度表/おに/Nesin Amatias]]|-|LindaAI-CUE(?)|[[さいたま2000>難易度表/おに/さいたま2000]]|
-|BGCOLOR(#ff7028):||[[はやさいたま2000>難易度表/おに/はやさいたま2000]]|-|LindaAI-CUE(増渕裕二)|[[さいたま2000>難易度表/おに/さいたま2000]]|
-|BGCOLOR(#ff7028):||[[よくでる15300>難易度表/おに/よくでる15300]]|-|LindaAI-CUE(?)|[[よくでる2000>難易度表/おに/よくでる2000]]|
+|1|>|>|>|>|c
+|CENTER:BGCOLOR(#0099FF):ジャンル|CENTER:BGCOLOR(#0099FF):曲名(50音順)|CENTER:BGCOLOR(#0099FF):歌唱|CENTER:BGCOLOR(#0099FF):作曲(編曲)|CENTER:BGCOLOR(#0099FF):原曲|h
+|BGCOLOR(#cc8aeb):|[[KAGYUKIYO>難易度表/おに/KAGYUKIYO]]|-|(増渕裕二)|[[KAGEKIYO 源平討魔伝メドレー>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|
+|BGCOLOR(#ff7028):|[[きたさいたま200>難易度表/おに/きたさいたま200]]|-|LindaAI-CUE(?)|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|
+|BGCOLOR(#ff7028):|[[Nesin Amatias>難易度表/おに/Nesin Amatias]]|-|LindaAI-CUE(?)|[[さいたま2000>難易度表/おに/さいたま2000]]|
+|BGCOLOR(#ff7028):|[[はやさいたま2000>難易度表/おに/はやさいたま2000]]|-|LindaAI-CUE(増渕裕二)|[[さいたま2000>難易度表/おに/さいたま2000]]|
+|BGCOLOR(#ff7028):|[[よくでる15300>難易度表/おに/よくでる15300]]|-|LindaAI-CUE(?)|[[よくでる2000>難易度表/おに/よくでる2000]]|
 
 **コメント [#comment]
 #pcomment(,20,noname)
