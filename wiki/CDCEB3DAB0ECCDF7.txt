@@ -3,6 +3,7 @@
 -[[ÍÎ³Ú°ìÍ÷>#title]]
 --[[À¾ÍÎ²»³Ú>#west]]
 --[[ÅìÍÎ²»³Ú>#east]]
+--[[¥³¥á¥ó¥È>#comment]]
 
 **À¾ÍÎ²»³Ú [#west]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
@@ -132,5 +133,5 @@
 |''°Ê¸åÊÌÐöÊþÍ§ The Distance of Love''|94?-132|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/°Ê¸åÊÌÐöÊþÍ§ The Distance of Love]]|[[¡ú¡ß2>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/°Ê¸åÊÌÐöÊþÍ§ The Distance of Love]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/°Ê¸åÊÌÐöÊþÍ§ The Distance of Love]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤ª¤Ë/°Ê¸åÊÌÐöÊþÍ§ The Distance of Love]]|
 
 **¥³¥á¥ó¥È [#comment]
--&color(#33f){''¶Ê¤Î¼ýÏ¿¤Ê¤É¤ÎÍ×Ë¾¤Ï¤³¤³¤Ç¤Ï¤Ê¤¯[[¸ø¼°Twitter>http://twitter.com/taiko_team]]¤Ë¤Æ¤ª´ê¤¤¤·¤Þ¤¹¡£''};
+-COLOR(#33f){''¶Ê¤Î¼ýÏ¿¤Ê¤É¤ÎÍ×Ë¾¤Ï¤³¤³¤Ç¤Ï¤Ê¤¯[[¸ø¼°Twitter>http://twitter.com/taiko_team]]¤Ë¤Æ¤ª´ê¤¤¤·¤Þ¤¹¡£''}
 #pcomment(,10,noname)

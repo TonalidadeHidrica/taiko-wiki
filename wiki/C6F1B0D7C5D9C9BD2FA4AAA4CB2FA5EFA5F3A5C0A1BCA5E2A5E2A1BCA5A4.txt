@@ -29,7 +29,7 @@
 
 ***その他 [#other]
 -作詞・歌唱は、[[''桃井はるこ''>アーティスト別収録曲#momoi]]。
--作曲は、''弓達公雄''、[[''桃井はるこ''>アーティスト別収録曲#momoi]]。
+-作曲は、[[''弓達公雄''>参加アーティスト一覧/弓達公雄]]、[[''桃井はるこ''>アーティスト別収録曲#momoi]]。
 -編曲・ギター・ベースは、[[日本ブレイク工業社歌>../日本ブレイク工業社歌]]で有名な[[''manzo(萬Z（量産型）)''>参加アーティスト一覧/萬Z（量産型）]]。
 --トラックダウンは、''[[村上正信>参加アーティスト一覧/村上正信]]''。
 -AC7当時に行われた次回作ナムオリ収録曲アンケートでは、[[アイマ>../THE IDOLM@STER]][[ス曲>../ポジティブ！]]とともに絶大な人気を誇っていた曲だった。
@@ -44,7 +44,7 @@
 -[[アレンジ元>難易度表/むずかしい/ワンダーモモ]]/[[むずかしい>難易度表/むずかしい/ワンダーモモーイ]]
 -[[アレンジ元>../ワンダーモモ]]/おに
 -オート動画(現行譜面):
---[[COLOR(#666){普通譜面}(PSP2)>https://www.youtube.com/watch?v=yxFb4hmABEs]]/[[COLOR(#069){玄人譜面}(PSP2)>https://www.youtube.com/watch?v=yxFb4hmABEs&t=146s]][[COLOR(#909){達人譜面}(Wii U3)>https://www.youtube.com/watch?v=kwviSiXYk7U]]
+--[[COLOR(#666){普通譜面}(PSP2)>https://www.youtube.com/watch?v=yxFb4hmABEs]]/[[COLOR(#069){玄人譜面}(PSP2)>https://www.youtube.com/watch?v=yxFb4hmABEs&t=146s]]/[[COLOR(#909){達人譜面}(Wii U3)>https://www.youtube.com/watch?v=kwviSiXYk7U]]
 --[[全譜面同時鑑賞動画(PSP2・音量注意)>https://www.youtube.com/watch?v=yxFb4hmABEs&t=428s]]
 -[[プレイ動画(旧譜面・アニスペ)>https://www.youtube.com/watch?v=1JdUUOEsjUk]]
 
