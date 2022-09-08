@@ -1,0 +1,26 @@
+*Just Awake [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.6''|BGCOLOR(cyan):''ポップス''&br;(メイン)|★×4|''150''|''?????0点''|+連打|???0点|
+|~|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
+-BPMは191。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/Just Awake]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Just Awake]]
+-[[むずかしい>難易度表/むずかしい/Just Awake]]
+-[[おに>難易度表/おに/Just Awake]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=LTlvDa6bvjs]]
+
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(Just Awake_n.png,nolink);

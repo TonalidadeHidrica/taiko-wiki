@@ -585,7 +585,7 @@
 |dodai|[[Do-Dai>難易度表/おに/Do-Dai]]||
 |dogbit|[[Dogbite>難易度表/おに/Dogbite]]||
 |dogma1|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|セントラル''ドグマ''|
-//|dogma2|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|~|
+|dogma2|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|~|
 |doit|[[Do it! Now>難易度表/おに/Do it! Now]]||
 |dojo|[[音符のうた>難易度表/おに/音符のうた]]|初心者道場|
 |dojoae|[[音符のうた -English Version->難易度表/おに/音符のうた -English Version-]]|初心者道場(Apple English)|
@@ -723,7 +723,7 @@
 |>|>|BGCOLOR(#ccc):CENTER:''F''&aname(f);|
 |f2naru|[[talking>難易度表/おに/talking]]|すべてが''Fになる''|
 |fa|[[DESERT STORM>難易度表/おに/DESERT STORM]]|F/A|
-//|fads|~|~|
+|fads|~|~|
 |fa3res|[[ファミレスウォーズ>難易度表/おに/ファミレスウォーズ]]||
 |faith|[[FAITH>難易度表/おに/FAITH]]||
 |fantbb|[[FANTASTIC BABY>難易度表/おに/FANTASTIC BABY]]||
@@ -1269,7 +1269,7 @@
 |klwind|[[The Windmill Song>難易度表/おに/The Windmill Song]]|~|
 |kmbaby|[[キルミーのベイベー！>難易度表/おに/キルミーのベイベー！]]||
 //|ko9ryu|[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]||
-//|kobenm|[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]||
+|kobenm|[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]||
 |koda|[[Butterfly>難易度表/おに/Butterfly]]|倖田來未|
 |koi907|[[濃紅>難易度表/おに/濃紅]]||
 |koiama|[[恋音と雨空>難易度表/おに/恋音と雨空]]||
@@ -1321,14 +1321,14 @@
 |lactea|[[via lactea>難易度表/おに/via lactea]]||
 |lad|[[Lady Marmalade>難易度表/おに/Lady Marmalade]]||
 |lam|[[ラムのラブソング>難易度表/おに/ラムのラブソング]]||
-//|lapaz|[[ラパスの虹>難易度表/おに/ラパスの虹]]||
+|lapaz|[[ラパスの虹>難易度表/おに/ラパスの虹]]||
 |lapis|[[ラピスラズリ>難易度表/おに/ラピスラズリ]]||
 |laputa|[[君をのせて>難易度表/おに/君をのせて]]||
 |lassen|[[ラッスンゴレライ>難易度表/おに/ラッスンゴレライ]]||
 |last2k|[[万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|last=最後、2k=2000 作曲当時、この曲で2000シリーズを終わらせようとしていた|
 |lastcr|[[last cross>難易度表/おに/last cross]]||
 |latino|[[オブセッション・ラティーノ>難易度表/おに/オブセッション・ラティーノ]]||
-//|leciel|[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]||
+|leciel|[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]||
 |lesson|[[恋のPecori&#9825;Lesson>難易度表/おに/恋のPecori Lesson]]||
 |lets5o|[[LET'S GO OUT>難易度表/おに/LET'S GO OUT]]||
 |lgmsek|[[世界はあなたに笑いかけている>難易度表/おに/世界はあなたに笑いかけている]]|Little Glee Monster|
@@ -1512,7 +1512,7 @@
 |mnpure|[[マリオネットピュア>難易度表/おに/マリオネットピュア]]||
 |moana|[[どこまでも〜How Far I’ll Go〜>難易度表/おに/どこまでも〜How Far I'll Go〜]]|モアナと伝説の海|
 |moana2|[[SHINY>難易度表/おに/SHINY(モアナ)]]|~|
-//|moeyos|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]||
+|moeyos|[[燃えよサファイア>難易度表/おに/燃えよサファイア]]||
 |moji|[[もじぴったんメドレー>難易度表/おに/もじぴったんメドレー]]||
 |momoi|[[ワンダーモモーイ>難易度表/おに/ワンダーモモーイ]]||
 |monh4g|[[モンスターハンター4G メドレー>難易度表/おに/モンスターハンター4G メドレー]]|モンスターハンター|
@@ -2099,7 +2099,7 @@
 |thseek|[[Endless Seeker>難易度表/おに/Endless Seeker]]||
 |thun|[[サンダーセプターメドレー>難易度表/おに/サンダーセプターメドレー]]|thunder|
 |thunpr|[[Unprivileged Access>難易度表/おに/Unprivileged Access]]((例大祭11限定))|''Unpr''ivileged Access|
-//|thusat|[[ウサテイ>難易度表/おに/ウサテイ]]|''ウサテ''イ|
+|thusat|[[ウサテイ>難易度表/おに/ウサテイ]]|''ウサテ''イ|
 |thwarn|[[WARNING×WARNING×WARNING>難易度表/おに/WARNING×WARNING×WARNING]]||
 |thzesh|[[仙酌絶唱のファンタジア>難易度表/おに/仙酌絶唱のファンタジア]]|仙酌''絶唱''|
 |tiger|[[六甲おろし>難易度表/おに/六甲おろし]]|阪神タイガース|
