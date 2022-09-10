@@ -1240,6 +1240,7 @@
 -[[コメント/難易度表/おに/START!!]] コメント/ナンイドオモテ/オニ/START!!
 -[[コメント/難易度表/おに/STAY TUNE]] コメント/ナンイドオモテ/オニ/STAY TUNE
 -[[コメント/難易度表/おに/STEPPING WIND]] コメント/ナンイドオモテ/オニ/STEPPING WIND
+-[[コメント/難易度表/おに/SUPERNOVA]] コメント/ナンイドオモテ/オニ/SUPERNOVA
 -[[コメント/難易度表/おに/SURPRISE‐DRIVE]] コメント/ナンイドオモテ/オニ/SURPRISE‐DRIVE
 -[[コメント/難易度表/おに/Saika]] コメント/ナンイドオモテ/オニ/Saika
 -[[コメント/難易度表/おに/Scarlet Lance]] コメント/ナンイドオモテ/オニ/Scarlet Lance
@@ -8879,6 +8880,7 @@
 -[[参加アーティスト一覧/Taiji]] サンカアーティストイチラン/Taiji
 -[[参加アーティスト一覧/Taku Inoue]] サンカアーティストイチラン/Taku Inoue
 -[[参加アーティスト一覧/Toaki Usami]] サンカアーティストイチラン/Toaki Usami
+-[[参加アーティスト一覧/USAO]] サンカアーティストイチラン/USAO
 -[[参加アーティスト一覧/Ujico*]] サンカアーティストイチラン/Ujico*
 -[[参加アーティスト一覧/Versus]] サンカアーティストイチラン/Versus
 -[[参加アーティスト一覧/YK‐3]] サンカアーティストイチラン/YK‐3
@@ -9967,6 +9969,7 @@
 -[[難易度表/おに/START!!]] ナンイドオモテ/オニ/START!!
 -[[難易度表/おに/STAY TUNE]] ナンイドオモテ/オニ/STAY TUNE
 -[[難易度表/おに/STEPPING WIND]] ナンイドオモテ/オニ/STEPPING WIND
+-[[難易度表/おに/SUPERNOVA]] ナンイドオモテ/オニ/SUPERNOVA
 -[[難易度表/おに/SURPRISE‐DRIVE]] ナンイドオモテ/オニ/SURPRISE‐DRIVE
 -[[難易度表/おに/Saika]] ナンイドオモテ/オニ/Saika
 -[[難易度表/おに/Scarlet Lance]] ナンイドオモテ/オニ/Scarlet Lance

@@ -150,7 +150,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(darkorchid):|[[ANiMA>難易度表/おに/ANiMA]]|''7.628''|183.5|838|109.86秒||
 |>|>|BGCOLOR(orangered):|[[キューティー☆デモニック☆魔人エモ!!>難易度表/おに/キューティー☆デモニック☆魔人エモ!!]]|''7.626''|190|1074|140.84秒||
 |>|>|BGCOLOR(orangered):|[[ナイトメア・サバイバー(裏譜面)>難易度表/おに/ナイトメア・サバイバー(裏譜面)]]|''7.617''|153.68※|875|114.88秒||
-|>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[ウィーアー！(裏譜面)>難易度表/おに/ウィーアー！(裏譜面)]]|''7.610''|168|829|108.93秒|''ジャンル1位:COLOR(orange):キッズ'' ・ ''新筐体ジャンル1位:COLOR(hotpink):アニメ''|
+|>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[ウィーアー！(きただにひろし)(裏譜面)>難易度表/おに/ウィーアー！(初代)(裏譜面)]]|''7.610''|168|829|108.93秒|''ジャンル1位:COLOR(orange):キッズ'' ・ ''新筐体ジャンル1位:COLOR(hotpink):アニメ''|
 |>|>|BGCOLOR(orangered):|[[Goldfish City>難易度表/おに/Goldfish City]]|''7.581''|200|875|115.43秒||
 |>|>|BGCOLOR(orangered):|[[EterNal Ring>難易度表/おに/EterNal Ring]]|''7.559''|224|901|119.20秒||
 |>|>|BGCOLOR(orangered):|[[続・〆ドレー2000>難易度表/おに/続・〆ドレー2000]]|''7.558''|???※|939|124.24秒||
@@ -233,6 +233,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(darkorchid):|[[KAGEKIYO(裏譜面)COLOR(#5f5f5f):(普通譜面)>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|''6.835''|130.00※|996|145.73秒|1人用譜面|
 |>|>|BGCOLOR(orangered):|[[超絶技巧系少女>難易度表/おに/超絶技巧系少女]]|''6.811''|200|802|117.75秒||
 |>|>|BGCOLOR(orangered):|[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]|''6.807''|160.26※|776|114.00秒|暫定BPM|
+|>|>|BGCOLOR(orangered):|[[SUPERNOVA>難易度表/おに/SUPERNOVA]]|''6.798''|212|936|137.69秒||
 |>|>|BGCOLOR(orangered):|[[Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|''6.791''|188|867|127.66秒||
 |>|>|BGCOLOR(orangered):|[[コネクトカラーズ>難易度表/おに/コネクトカラーズ]]|''6.787''|266.47※|871|128.34秒||
 |>|>|BGCOLOR(darkorchid):|[[Doom Noiz>難易度表/おに/Doom Noiz]]|''6.773''|160.00※|960|141.75秒||

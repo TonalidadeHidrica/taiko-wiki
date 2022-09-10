@@ -608,7 +608,7 @@
 |dori|[[ドリフ音頭>難易度表/ふつう/ドリフ音頭]]||
 |doyo|[[ABCの歌>難易度表/おに/ABCの歌]]|童謡|
 |dp|[[Together>難易度表/おに/Together]]|ポケットモンスターDP|
-//|dppkm|~|~|
+|dppkm|~|~|
 |dparad|[[DREAMERS' PARADISE>難易度表/おに/DREAMERS' PARADISE]]||
 |dptfct|[[wonderful ROUTINE>難易度表/おに/wonderful ROUTINE]]|なぜ？|
 |dq10|[[序曲 ドラゴンクエストXより>難易度表/おに/序曲 ドラゴンクエストXより]]|''ド''ラゴン''ク''エスト|

@@ -72,10 +72,10 @@
 --&color(#dcd9da){''粋(白色)''}; > &color(#b55932){''粋(銅色)''}; > &color(#7278a2){''粋(銀色)''}; > &color(#cc9c1a){''雅(金色)''}; > &color(#c6688e){''雅(桜色)''}; > &color(#7a56bb){''雅(紫色)''}; > ''&color(#ef64f0){極};&color(#d9c12a){(};&color(#90e640){虹};&color(#4ddadb){色};&color(#8f97c9){)};''の全7段階。
 ~&attachref(niziiro_scorerank.png);
 --こちらはニジイロVer.になってから新たに獲得する必要がある。
---獲得条件の基準は、各譜面の天井スコアの
-|BGCOLOR(white):&size(14){&color(#dcd9da){''50%''};→&color(#b55932){''60%''};→&color(#7278a2){''70%''};→&color(#cc9c1a){''80%''};→&color(#c6688e){''90%''};→&color(#7a56bb){''95%''};→''COLOR(#e568e7){1}COLOR(#df76e0){0}COLOR(#e07cae){0}COLOR(#f2856c){%}COLOR(#db9a34){(}COLOR(#ebaf16){精}COLOR(#debe2e){度}COLOR(#e6e33d){曲}COLOR(#cdea7a){・}COLOR(#b3e937){完}COLOR(#86e55b){全}COLOR(#53debe){精}COLOR(#62c1da){度}COLOR(#71aadc){曲}COLOR(#8f97c9){)} or COLOR(#e568e7){1}COLOR(#e07cae){0}COLOR(#f2856c){0}COLOR(#db9a34){%}COLOR(#ebaf16){以}COLOR(#e6e33d){上}COLOR(#cdea7a){(}COLOR(#b3e937){連}COLOR(#86e55b){打}COLOR(#53debe){曲}COLOR(#62c1da){)}COLOR(#71aadc){到}COLOR(#8f97c9){達}''};|
+--獲得条件の基準は、各譜面の''&color(#ef64f0){極};&color(#d9c12a){(};&color(#90e640){虹};&color(#4ddadb){色};&color(#8f97c9){)};''スコアの
+|BGCOLOR(white):&size(14){&color(#dcd9da){''50%''};→&color(#b55932){''60%''};→&color(#7278a2){''70%''};→&color(#cc9c1a){''80%''};→&color(#c6688e){''90%''};→&color(#7a56bb){''95%''};→''COLOR(#e568e7){(}COLOR(#f2856c){1}COLOR(#debe2e){0}COLOR(#cdea7a){0}COLOR(#53debe){%}COLOR(#8f97c9){)}''};|
 となっている。
----そのため、完全精度曲の場合は''全良''、精度曲の場合は''風船を全て割った上での全良''(理論上割れない風船が含まれている譜面は連打曲扱い)でしか、''&color(#ef64f0){極};&color(#d9c12a){(};&color(#90e640){虹};&color(#4ddadb){色};&color(#8f97c9){)};''を獲得することができない仕様となっている。それに対し、連打曲の場合は打数による得点の変動があり、天井スコア＋αとなるため連打で得点を十分に稼いでいる場合は全良でなくても''&color(#ef64f0){極};&color(#d9c12a){(};&color(#90e640){虹};&color(#4ddadb){色};&color(#8f97c9){)};''を獲得できるが、全良でも連打で得点を十分に稼げなかった場合は&color(#7a56bb){''雅(紫色)''};になるケースもある。
+---完全精度曲の場合は''全良''、精度曲の場合は''風船を全て割った上での全良''(理論上割れない風船が含まれている譜面は連打曲扱い)でしか、''&color(#ef64f0){極};&color(#d9c12a){(};&color(#90e640){虹};&color(#4ddadb){色};&color(#8f97c9){)};''を獲得することができない仕様となっている。それに対し、連打曲の場合は打数による得点の変動があり、天井スコア＋αとなるため連打で得点を十分に稼いでいる場合は全良でなくても''&color(#ef64f0){極};&color(#d9c12a){(};&color(#90e640){虹};&color(#4ddadb){色};&color(#8f97c9){)};''を獲得できるが、全良でも連打で得点を十分に稼げなかった場合は&color(#7a56bb){''雅(紫色)''};になるケースもある。
 ---連打曲で必要な最低限の打数(得点)は&br;
 |BGCOLOR(white):&size(14){天井スコア(風船・くす玉を含む)＋連打の合計秒数に対して''秒速約16〜17打程度''となる打数};|
 を入れた得点に到達した場合、''&color(#ef64f0){極};&color(#d9c12a){(};&color(#90e640){虹};&color(#4ddadb){色};&color(#8f97c9){)};''を獲得できる(各譜面の正確な打数は現在も不明)。

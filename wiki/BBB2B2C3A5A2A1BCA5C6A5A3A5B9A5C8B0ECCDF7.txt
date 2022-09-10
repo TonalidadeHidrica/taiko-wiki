@@ -180,6 +180,7 @@
 -[[Versus>./Versus]]
 -[[HARDCORE TANO*C>./HARDCORE TANO*C]]
 --[[aran>./aran]]
+--[[USAO>./USAO]]
 --[[DJ Genki>./DJ Genki]]
 --[[DJ Myosuke>./DJ Myosuke]]
 --[[t+pazolite>./t+pazolite]]

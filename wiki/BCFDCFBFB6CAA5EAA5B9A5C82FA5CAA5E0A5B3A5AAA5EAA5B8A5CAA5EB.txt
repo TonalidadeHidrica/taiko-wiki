@@ -583,6 +583,7 @@
 |''SstTAarR*''|200|[[★×5>難易度表/かんたん/SstTAarR*]]|[[★×7>難易度表/ふつう/SstTAarR*]]|[[★×8>難易度表/むずかしい/SstTAarR*]]|[[★×10>難易度表/おに/SstTAarR*]]|-|
 |''STAGE 0.ac11''|138|[[★×5>難易度表/かんたん/STAGE 0.ac11]]|[[★×7>難易度表/ふつう/STAGE 0.ac11]]|[[★×8>難易度表/むずかしい/STAGE 0.ac11]]|[[★×9>難易度表/おに/STAGE 0.ac11]]|-|
 |''Stick Trick Show&#84;ime!!''|173|[[★×5>難易度表/かんたん/Stick Trick ShowTime!!]]|[[★×6>難易度表/ふつう/Stick Trick ShowTime!!]]|[[★×8>難易度表/むずかしい/Stick Trick ShowTime!!]]|[[★×10>難易度表/おに/Stick Trick ShowTime!!]]|-|
+|''SUPERNOVA''|212|[[★×5>難易度表/かんたん/SUPERNOVA]]|[[★×7>難易度表/ふつう/SUPERNOVA]]|[[★×8>難易度表/むずかしい/SUPERNOVA]]|[[★×10>難易度表/おに/SUPERNOVA]]|-|
 |''super star shooter''|170|[[★×4>難易度表/かんたん/super star shooter]]|[[★×6>難易度表/ふつう/super star shooter]]|[[★×7>難易度表/むずかしい/super star shooter]]|[[★×8>難易度表/おに/super star shooter]]|-|
 |''Sweet Lay''|140|[[★×4>難易度表/かんたん/Sweet Lay]]|[[★×5>難易度表/ふつう/Sweet Lay]]|[[★×6>難易度表/むずかしい/Sweet Lay]]|[[★×8>難易度表/おに/Sweet Lay]]|-|
 |''Sweet Sweet Magic''|179|[[★×4>難易度表/かんたん/Sweet Sweet Magic]]|[[★×5>難易度表/ふつう/Sweet Sweet Magic]]|[[★×5>難易度表/むずかしい/Sweet Sweet Magic]]|[[★×7>難易度表/おに/Sweet Sweet Magic]]|-|

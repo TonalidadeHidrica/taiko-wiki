@@ -13,7 +13,7 @@
 
 **新筐体収録曲 [#ac16]
 
-***&color(#000,#42c0d3){ポップス}; [#pops]
+***&color(black,#42c0d3){ポップス}; [#pops]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -28,7 +28,7 @@
 |[[恋するフォーチュンクッキー>難易度表/おに/恋するフォーチュンクッキー]]|恋チュン|''恋''するフォー''チュン''クッキー|
 |[[フライングゲット>難易度表/おに/フライングゲット]]|フラゲ|''フラ''イング''ゲ''ット|
 
-***&color(#fff,#fdc000){キッズ}; [#kids]
+***&color(white,#fdc000){キッズ}; [#kids]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -43,7 +43,7 @@
 |[[いぬのおまわりさん>難易度表/おに/いぬのおまわりさん]]|いぬおま|''いぬ''の''おま''わりさん|
 |~|犬ポリ|お巡りさんの英訳''ポリ''スと犬から|
 
-***&color(#000,#fe90d2){アニメ}; [#anime]
+***&color(black,#fe90d2){アニメ}; [#anime]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -55,7 +55,7 @@
 |[[My Soul,Your Beats!>難易度表/おに/My Soul,Your Beats!]]|AB|この曲が主題歌として使われている「''A''ngel ''B''eats」」の略称から|
 |~|埋葬|My Souの日本語読み|
 
-***&color(#fff,#cbcfde){ボーカロイド&#8482;曲}; [#vocaloid]
+***&color(white,#cbcfde){ボーカロイド&#8482;曲}; [#vocaloid]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -64,7 +64,7 @@
 |[[Eternal bond>難易度表/おに/Eternal bond]]|エタボン|''エタ''ーナル''ボン''ド|
 |[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|4+1|''4+1''のそれぞれの未来|
 
-***&color(#fff,#cc8aeb){ゲームミュージック}; [#game]
+***&color(white,#cc8aeb){ゲームミュージック}; [#game]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -136,7 +136,7 @@
 |[[ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]|ドラスピ|''ドラ''ゴン''スピ''リットメドレー|
 |[[ソウルキャリバーII>難易度表/おに/ソウルキャリバーII]]|ソルキャリII|''ソ''ウ''ルキャリ''バー''II''|
 
-***&color(#000,#1bc739){バラエティ}; [#variety]
+***&color(black,#1bc739){バラエティ}; [#variety]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -160,7 +160,7 @@
 |[[Help me, ERINNNNNN!!>難易度表/おに/Help me, ERINNNNNN!!]]|えーりんえーりん|曲中で何度も言っている掛け声(((ﾟ∀ﾟ)o彡゜えーりん！えーりん！))に由来|
 |[[最終鬼畜妹フランドール・S>難易度表/おに/最終鬼畜妹フランドール・S]]|最始鬼畜妹|最初の24分面連打が鬼畜なため|
 
-***&color(#000,#cac001){クラシック}; [#classic]
+***&color(black,#cac001){クラシック}; [#classic]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -180,7 +180,7 @@
 |~|トカフガ|''ト''ッ''カ''ータと''フ''ー''ガ''とロック|
 |~|トッカータ|''トッカータ''とフーガとロック&br;[[絶望へのトッカータ>難易度表/おに/絶望へのトッカータ]]との混同に注意|
 
-***&color(#fff,#ff7028){ナムコオリジナル}; [#namco]
+***&color(white,#ff7028){ナムコオリジナル}; [#namco]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -389,7 +389,7 @@
 
 **その他(サヨナラ曲など)((新筐体期間限定曲・サヨナラ曲・新筐体未収録曲・プレイ不可能な曲・旧基準など)) [#other]
 
-***&color(#000,cyan){J-POP/ポップス}; [#j-popold]
+***&color(black,cyan){J-POP/ポップス}; [#j-popold]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -419,7 +419,7 @@
 |~|グラスカ|''グラ''マラス ''スカ''イ|
 |[[ROCKET DIVE>難易度表/おに/ROCKET DIVE]]|ロケダイ|''ロケ''ット ''ダイ''ブ|
 
-***&color(#000,orange){アニメ}; [#animeold]
+***&color(black,orange){アニメ}; [#animeold]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -460,7 +460,7 @@
 |[[School Days>難易度表/おに/School Days]]|スクデイ|''スク''ール ''デイ''ズ|
 |[[スキップ ステップ アイランド>難易度表/おに/スキップ　ステップ　アイランド]]|スキステ|''スキ''ップ ''ステ''ップ アイランド|
 
-***&color(#fff,darkgray){ボーカロイド&#8482;曲}; [#vocaloidold]
+***&color(white,darkgray){ボーカロイド&#8482;曲}; [#vocaloidold]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -473,7 +473,7 @@
 |[[ワールドイズマイン>難易度表/おに/ワールドイズマイン]]|イズマ|ワールド''イズマ''イン|
 |~|ワイズマン|''ワ''ールド''イズマ''イ''ン''|
 
-***&color(#fff,darkorchid){ゲームミュージック}; [#gameold]
+***&color(white,darkorchid){ゲームミュージック}; [#gameold]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -512,7 +512,7 @@
 |[[サンダーセプターメドレー>難易度表/おに/サンダーセプターメドレー]]|サンセプ|''サン''ダー''セプ''ターメドレー|
 |[[Baladium's drive(裏譜面)>難易度表/おに/Baladium's drive(裏譜面)]]|クロノア裏|「風のクロノア」関連曲の中で唯一裏譜面を有していることから|
 
-***&color(#000,lime){バラエティ}; [#varietyold]
+***&color(black,lime){バラエティ}; [#varietyold]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -527,7 +527,7 @@
 |[[恋のPecori&#9825;Lesson>難易度表/おに/恋のPecori Lesson]]|ペコレス|こいの''ペコ''リ ''レ''ッ''ス''ン|
 |[[アメイジンググレイス>難易度表/おに/アメイジンググレイス]]|アメグレ|''アメ''イジング''グレ''イス|
 
-***&color(#000,#cac001){クラシック}; [#classicold]
+***&color(black,#cac001){クラシック}; [#classicold]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
@@ -535,7 +535,7 @@
 |[[トリッチトラッチポルカ>難易度表/おに/トリッチトラッチポルカ]]|トリトラ|''トリ''ッチ''トラ''ッチポルカ|
 |[[アメリカンパトロール>難易度表/おに/アメリカンパトロール]]|アメパト|''アメ''リカン''パト''ロール|
 
-***&color(#fff,orangered){ナムコオリジナル}; [#namcoold]
+***&color(white,orangered){ナムコオリジナル}; [#namcoold]
 |>|>|>|c
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
