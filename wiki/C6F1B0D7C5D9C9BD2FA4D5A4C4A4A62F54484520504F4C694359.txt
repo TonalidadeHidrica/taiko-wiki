@@ -1,0 +1,25 @@
+*THE POLiCY [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.6''|BGCOLOR(hotpink):''アニメ''|★×4|''145''|''?????0点''|+連打|???0点|
+|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
+-BPMは126。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/THE POLiCY]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/THE POLiCY]]
+-[[むずかしい>難易度表/むずかしい/THE POLiCY]]
+-[[おに>難易度表/おに/THE POLiCY]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(アイナナ3_n.png,nolink);

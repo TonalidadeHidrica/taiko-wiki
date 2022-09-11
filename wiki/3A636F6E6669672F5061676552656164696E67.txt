@@ -5367,6 +5367,7 @@
 -[[コメント/難易度表/ふつう/START!!]] コメント/ナンイドオモテ/フツウ/START!!
 -[[コメント/難易度表/ふつう/STAY TUNE]] コメント/ナンイドオモテ/フツウ/STAY TUNE
 -[[コメント/難易度表/ふつう/STEPPING WIND]] コメント/ナンイドオモテ/フツウ/STEPPING WIND
+-[[コメント/難易度表/ふつう/SUPERNOVA]] コメント/ナンイドオモテ/フツウ/SUPERNOVA
 -[[コメント/難易度表/ふつう/SURPRISE‐DRIVE]] コメント/ナンイドオモテ/フツウ/SURPRISE‐DRIVE
 -[[コメント/難易度表/ふつう/Saika]] コメント/ナンイドオモテ/フツウ/Saika
 -[[コメント/難易度表/ふつう/Scarlet Lance]] コメント/ナンイドオモテ/フツウ/Scarlet Lance
@@ -12422,6 +12423,7 @@
 -[[難易度表/かんたん/START DASH SENSATION]] ナンイドオモテ/カンタン/START DASH SENSATION
 -[[難易度表/かんたん/START!!]] ナンイドオモテ/カンタン/START!!
 -[[難易度表/かんたん/STAY TUNE]] ナンイドオモテ/カンタン/STAY TUNE
+-[[難易度表/かんたん/SUPERNOVA]] ナンイドオモテ/カンタン/SUPERNOVA
 -[[難易度表/かんたん/SURPRISE‐DRIVE]] ナンイドオモテ/カンタン/SURPRISE‐DRIVE
 -[[難易度表/かんたん/Saika]] ナンイドオモテ/カンタン/Saika
 -[[難易度表/かんたん/Scarlet Lance]] ナンイドオモテ/カンタン/Scarlet Lance
@@ -12470,6 +12472,7 @@
 -[[難易度表/かんたん/THE DAY]] ナンイドオモテ/カンタン/THE DAY
 -[[難易度表/かんたん/THE IDOLM@STER]] ナンイドオモテ/カンタン/THE IDOLM@STER
 -[[難易度表/かんたん/THE IDOLM@STER 2nd-mix]] ナンイドオモテ/カンタン/THE IDOLM@STER 2nd-mix
+-[[難易度表/かんたん/THE POLiCY]] ナンイドオモテ/カンタン/THE POLiCY
 -[[難易度表/かんたん/TO MAKE THE END OF BATTLE]] ナンイドオモテ/カンタン/TO MAKE THE END OF BATTLE
 -[[難易度表/かんたん/TOKIMEKI・ですとろいやー！！]] ナンイドオモテ/カンタン/TOKIMEKI・デストロイヤー！！
 -[[難易度表/かんたん/TOKIMEKIエスカレート]] ナンイドオモテ/カンタン/TOKIMEKIエスカレート
@@ -15046,6 +15049,7 @@
 -[[難易度表/ふつう/START!!]] ナンイドオモテ/フツウ/START!!
 -[[難易度表/ふつう/STAY TUNE]] ナンイドオモテ/フツウ/STAY TUNE
 -[[難易度表/ふつう/STEPPING WIND]] ナンイドオモテ/フツウ/STEPPING WIND
+-[[難易度表/ふつう/SUPERNOVA]] ナンイドオモテ/フツウ/SUPERNOVA
 -[[難易度表/ふつう/SURPRISE‐DRIVE]] ナンイドオモテ/フツウ/SURPRISE‐DRIVE
 -[[難易度表/ふつう/Saika]] ナンイドオモテ/フツウ/Saika
 -[[難易度表/ふつう/Scarlet Lance]] ナンイドオモテ/フツウ/Scarlet Lance
@@ -15094,6 +15098,7 @@
 -[[難易度表/ふつう/THE DAY]] ナンイドオモテ/フツウ/THE DAY
 -[[難易度表/ふつう/THE IDOLM@STER]] ナンイドオモテ/フツウ/THE IDOLM@STER
 -[[難易度表/ふつう/THE IDOLM@STER 2nd-mix]] ナンイドオモテ/フツウ/THE IDOLM@STER 2nd-mix
+-[[難易度表/ふつう/THE POLiCY]] ナンイドオモテ/フツウ/THE POLiCY
 -[[難易度表/ふつう/TO MAKE THE END OF BATTLE]] ナンイドオモテ/フツウ/TO MAKE THE END OF BATTLE
 -[[難易度表/ふつう/TOKIMEKI・ですとろいやー！！]] ナンイドオモテ/フツウ/TOKIMEKI・デストロイヤー！！
 -[[難易度表/ふつう/TOKIMEKIエスカレート]] ナンイドオモテ/フツウ/TOKIMEKIエスカレート
@@ -17344,6 +17349,7 @@
 -[[難易度表/むずかしい/START!!]] ナンイドオモテ/ムズカシイ/START!!
 -[[難易度表/むずかしい/STAY TUNE]] ナンイドオモテ/ムズカシイ/STAY TUNE
 -[[難易度表/むずかしい/STEPPING WIND]] ナンイドオモテ/ムズカシイ/STEPPING WIND
+-[[難易度表/むずかしい/SUPERNOVA]] ナンイドオモテ/ムズカシイ/SUPERNOVA
 -[[難易度表/むずかしい/SURPRISE‐DRIVE]] ナンイドオモテ/ムズカシイ/SURPRISE‐DRIVE
 -[[難易度表/むずかしい/Saika]] ナンイドオモテ/ムズカシイ/Saika
 -[[難易度表/むずかしい/Scarlet Lance]] ナンイドオモテ/ムズカシイ/Scarlet Lance
@@ -17393,6 +17399,7 @@
 -[[難易度表/むずかしい/THE DAY]] ナンイドオモテ/ムズカシイ/THE DAY
 -[[難易度表/むずかしい/THE IDOLM@STER]] ナンイドオモテ/ムズカシイ/THE IDOLM@STER
 -[[難易度表/むずかしい/THE IDOLM@STER 2nd-mix]] ナンイドオモテ/ムズカシイ/THE IDOLM@STER 2nd-mix
+-[[難易度表/むずかしい/THE POLiCY]] ナンイドオモテ/ムズカシイ/THE POLiCY
 -[[難易度表/むずかしい/TO MAKE THE END OF BATTLE]] ナンイドオモテ/ムズカシイ/TO MAKE THE END OF BATTLE
 -[[難易度表/むずかしい/TOKIMEKI・ですとろいやー！！]] ナンイドオモテ/ムズカシイ/TOKIMEKI・デストロイヤー！！
 -[[難易度表/むずかしい/TOKIMEKIエスカレート]] ナンイドオモテ/ムズカシイ/TOKIMEKIエスカレート

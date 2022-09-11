@@ -1,0 +1,24 @@
+*SUPERNOVA [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.6''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''263''|''?????0点''|+連打|???0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは212。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/SUPERNOVA]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/SUPERNOVA]]
+-[[むずかしい>難易度表/むずかしい/SUPERNOVA]]
+-[[おに>難易度表/おに/SUPERNOVA]]
+//-おに/[[裏譜面>../SUPERNOVA(裏譜面)]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(SUPERNOVA_e.png,nolink);

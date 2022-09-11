@@ -299,6 +299,7 @@
 |500|[[食らいむ！まうんとぱふぇ>難易度表/むずかしい/食らいむ！まうんとぱふぇ]]||
 |~|[[Lightning Dance>難易度表/むずかしい/Lightning Dance]]||
 |~|[[Undying Legend>難易度表/むずかしい/Undying Legend]]||
+|~|[[SUPERNOVA>難易度表/むずかしい/SUPERNOVA]]||
 
 **作品別 最高・最低 コンボ数 [#accs]
 ***AC作品別最高コンボ数 [#acmax]
