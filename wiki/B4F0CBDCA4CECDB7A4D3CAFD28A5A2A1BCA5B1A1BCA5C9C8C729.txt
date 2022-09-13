@@ -299,5 +299,3 @@ RIGHT:&size(11){&color(#007bbb){● };画像は[[こちら:https://taiko.namco-ch.net/t
 昨日 : '''&counter(yesterday);'''&br;
 ''今日 : '''&counter(today);'''''&br;
 合計 : '''&counter;'''
-//11/4 10:50設置
-//どのくらいの人が見に来ているか確認しています。置いておいてください。

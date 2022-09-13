@@ -150,7 +150,7 @@
 |BGCOLOR(lime):CENTER:''バラエティ''|''賽は投げられた''&br;　　SIZE(11){東方Projectアレンジ IOSYS}|175|★×4|★×6|★×6|[[★×7>難易度表/おに/賽は投げられた]]|
 |~|''thousand words''&br;　　SIZE(11){東方Projectアレンジ ユウノウミ}|105|★×2|★×4|★×4|★×5|
 |~|''サイケデリック鬼桜同盟''&br;　　SIZE(11){東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi}|160|★×3|★×5|★×7|[[★×9>難易度表/おに/サイケデリック鬼桜同盟]]|
-|~|''Unprivileged Access''&br;　　SIZE(11){東方Projectアレンジ 凋叶棕}|139|★×3|★×5|★×6|★×8|
+|~|''Unprivileged Access''&br;　　SIZE(11){東方Projectアレンジ 凋叶棕}|139|★×3|★×5|★×6|[[★×8>難易度表/おに/Unprivileged Access]]|
 
 **博麗神社 秋季例大祭 (2014) [#rtssp1]
 -2014/11/24 10:30〜16:00にかけて開催された博麗神社 秋季例大祭用の特別バージョン。

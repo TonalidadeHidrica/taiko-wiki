@@ -36,6 +36,136 @@
 #contents
 ----
 
+**楽曲 [#song]
+|LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
+|楽曲名|必要なメダル数|追加日|備考|h
+|[[きょうはたいこ曜日>難易度表/おに/きょうはたいこ曜日]]|50どんメダル|2022年6月4日|''COLOR(red){どんメダル}ショップ[2022COLOR(#00b8e6){夏}]''の品|
+|[[女神な世界II>難易度表/おに/女神な世界II]]|50どんメダル|~|~|
+|[[Aragami>難易度表/おに/Aragami]]|60どんメダル|~|~|
+|[[其方、激昂>難易度表/おに/其方、激昂]]|60どんメダル|~|~|
+|[[めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|%%50%% 25どんメダル|2022年3月17日|''COLOR(red){どんメダル}ショップ[2022COLOR(#ff1493){春}]''の品&br;2022年6月4日価格改定|
+|[[ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]/[[(裏)>難易度表/おに/ラブユー☆どんちゃん(裏譜面)]]|%%50%% 25どんメダル|~|~|
+|[[トンガチン>難易度表/おに/トンガチン]]|%%60%% 30どんメダル|~|~|
+|[[喫茶レイン>難易度表/おに/喫茶レイン]]/[[(裏)>難易度表/おに/喫茶レイン(裏譜面)]]|%%60%% 30どんメダル|~|~|
+|[[どんちゃん 世界旅行>難易度表/おに/どんちゃん 世界旅行]]|%%50 25%% 20どんメダル|2021年12月23日|''COLOR(red){どんメダル}ショップ[2021COLOR(#4169e1){冬}]''の品&br;2022年3月17日価格改定&br;2022年6月4日価格改定|
+|[[Solitude Star>難易度表/おに/Solitude Star]]|%%50 25%% 20どんメダル|~|~|
+|[[Agent Hustle ＆ Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]/[[(裏)>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
+|[[Spectral Rider>難易度表/おに/Spectral Rider]]|%%60 30%% 20どんメダル|~|~|
+|[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]|%%50 25%% 20どんメダル|2021年9月8日|''COLOR(red){どんメダル}ショップ[2021COLOR(#ff9900){秋}]''の品&br;2021年12月23日価格改定&br;2022年3月17日価格改定|
+|[[†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|%%60 30%% 20どんメダル|~|~|
+|[[魑魅魍魎>難易度表/おに/魑魅魍魎]]|%%60 30%% 20どんメダル|~|~|
+|[[憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]/[[(裏)>難易度表/おに/憎悪と醜悪の花束(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
+|[[どんちゃん音頭>難易度表/おに/どんちゃん音頭]]|%%50 25%% 20どんメダル|2021年5月27日|''COLOR(red){どんメダル}ショップ[2021COLOR(#00b8e6){夏}]''の品&br;2021年9月8日価格改定&br;2021年12月23日価格改定|
+|[[ボクらのまえに道はある>難易度表/おに/ボクらのまえに道はある]]|%%50 25%% 20どんメダル|~|~|
+|[[Amber Light>難易度表/おに/Amber Light]]|%%60 30%% 20どんメダル|~|~|
+|[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|%%60 30%% 20どんメダル|~|~|
+|[[傾奇者、罷り通る！>難易度表/おに/傾奇者、罷り通る！]]|%%50 25%% 20どんメダル|2021年3月25日|''COLOR(red){どんメダル}ショップ[2021COLOR(#ff1493){春}]''の品&br;2021年5月27日価格改定&br;2021年9月8日価格改定|
+|[[あまてらすJK>難易度表/おに/あまてらすJK]]|%%50 25%% 20どんメダル|~|~|
+|[[赤と白薔薇の魔女>難易度表/おに/赤と白薔薇の魔女]]|%%60 30%% 20どんメダル|~|~|
+|[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]|%%60 30%% 20どんメダル|~|~|
+|[[Stick Trick ShowTime!!>難易度表/おに/Stick Trick ShowTime!!]]|%%50 25%% 20どんメダル|2020年11月25日|''COLOR(red){どんメダル}ショップ[2020COLOR(#4169e1){冬}]''の品&br;2021年3月25日価格改定&br;2021年5月27日価格改定|
+|[[螺旋周回軌道>難易度表/おに/螺旋周回軌道]]/[[(裏)>難易度表/おに/螺旋周回軌道(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
+|[[儚姫は原初に舞う>難易度表/おに/儚姫は原初に舞う]]/[[(裏)>難易度表/おに/儚姫は原初に舞う(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
+|[[Vixtory>難易度表/おに/Vixtory]]/[[(裏)>難易度表/おに/Vixtory(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
+|[[Fly again!>難易度表/おに/Fly again!]]|%%50 25%% 20どんメダル|2020年9月16日|''COLOR(red){どんメダル}ショップ[2020COLOR(#ff9900){秋}]''の品&br;2020年11月25日価格改定&br;2021年3月25日価格改定|
+|[[令・和太鼓>難易度表/おに/令・和太鼓]]|%%50 25%% 20どんメダル|~|~|
+|[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|%%60 30%% 20どんメダル|~|~|
+|[[クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|%%60 30%% 20どんメダル|~|~|
+|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|%%50 25%% 20どんメダル|2020年6月30日|''COLOR(red){どんメダル}ショップ[2020COLOR(#00b8e6){夏}]''の品&br;2020年9月16日価格改定&br;2020年11月25日価格改定|
+|[[Freeway3234>難易度表/おに/Freeway3234]]|%%50 25%% 20どんメダル|~|~|
+|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|%%60 30%% 20どんメダル|~|~|
+|[[memoria ficta>難易度表/おに/memoria ficta]]|%%60 30%% 20どんメダル|~|~|
+|[[クラシックメドレー(ロック編)>難易度表/おに/クラシックメドレー(ロック編)]]|%%150 30%% 20どんメダル|2020年3月24日|''COLOR(red){どんメダル}ショップ[2020COLOR(#ff1493){春}]''の品&br;2020年6月30日価格改定&br;2020年9月16日価格改定|
+|[[カッティアワールの宝剣>難易度表/おに/カッティアワールの宝剣]]|%%100 25%% 20どんメダル|~|~|
+|[[ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|%%120 30%% 20どんメダル|~|~|
+|[[via lactea>難易度表/おに/via lactea]]|%%100 25%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[カラフルボイス>難易度表/おに/カラフルボイス]]/[[(裏)>難易度表/おに/カラフルボイス(裏譜面)]]|BGCOLOR(grey):%%25%% 20どんメダル|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}''以前''|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}AIバトル演奏''にて初登場&br;獲得不可期間((2020.3.24~6.29))を経て、&br;''COLOR(red){どんメダル}ショップ[2020COLOR(#00b8e6){夏}]''にて再登場&br;2020年9月16日価格改定&br;2021年3月25日より''一般解禁''|
+|BGCOLOR(grey):[[アムピト&#9826;リーテー>難易度表/おに/アムピト◇リーテー]]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[Goldfish City>難易度表/おに/Goldfish City]]|BGCOLOR(grey):%%25%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[疾風怒濤>難易度表/おに/疾風怒濤]]/[[(裏)>難易度表/おに/疾風怒濤(裏譜面)]]|BGCOLOR(grey):%%25%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[What's in the box?>難易度表/おに/What's in the box?]]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[TD - 28619029byte remix ->難易度表/おに/TD -28619029byte remix-]]|BGCOLOR(grey):%%25%% 20どんメダル|~|BGCOLOR(grey):''COLOR(red){ごほうびショップ}COLOR(#029a43){グリーンVer.}COLOR(#4169e1){冬}''にて初登場&br;獲得不可期間((2020.3.24~6.29))を経て、&br;''COLOR(red){どんメダル}ショップ[2020COLOR(#00b8e6){夏}]''にて再登場&br;2020年9月16日価格改定&br;2021年3月25日より''一般解禁''|
+|BGCOLOR(grey):[[UFO Swingin'>難易度表/おに/UFO Swingin']]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[流浪の琥珀姫''>難易度表/おに/流浪の琥珀姫]]|BGCOLOR(grey):%%25%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]/[[(裏)>難易度表/おに/氷竜 〜Kooryu〜(裏譜面)]]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):うさぎのしっぽ>難易度表/おに/うさぎのしっぽ]]|BGCOLOR(grey):800かつメダル|~|BGCOLOR(grey):''COLOR(blue){かつメダル}''廃止と同時に一般解禁|
+|BGCOLOR(grey):[[COLOR(blue):黒神クロニクル>難易度表/おに/黒神クロニクル]]|BGCOLOR(grey):800かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):星屑とリニアと僕>難易度表/おに/星屑とリニアと僕]]|BGCOLOR(grey):800かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):恋はみずいろ>難易度表/おに/恋はみずいろ]]|BGCOLOR(grey):800かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):フューチャー・ラボ>難易度表/おに/フューチャー・ラボ]]|BGCOLOR(grey):800かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):バーニングフォースメドレー>難易度表/おに/バーニングフォースメドレー]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):白猫きゃらめる夢幻のわたあめ>難易度表/おに/白猫きゃらめる夢幻のわたあめ]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):サーフサイド・サティ>難易度表/おに/サーフサイド・サティ]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ヘ調の協奏曲　第3楽章>難易度表/おに/ヘ調の協奏曲　第3楽章]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):トッカータとフーガとロック>難易度表/おに/トッカータとフーガとロック]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):駄々っ子モンスター>難易度表/おに/駄々っ子モンスター]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):夢色コースター>難易度表/おに/夢色コースター]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):トータル・エクリプス　2035>難易度表/おに/トータル・エクリプス　2035]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):久遠の夜>難易度表/おに/久遠の夜]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):メタルホーク　BGM1>難易度表/おに/メタルホーク　BGM1]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):PaPaPa Love>難易度表/おに/PaPaPa Love]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ナックルヘッズ>難易度表/おに/ナックルヘッズ 鷹舞狼吼]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):URBAN FRAGMENTS>難易度表/おに/URBAN FRAGMENTS]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):きみのあかり>難易度表/おに/きみのあかり]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):STAGE 0.ac11>難易度表/おに/STAGE 0.ac11]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):未来への鍵>難易度表/おに/未来への鍵]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):願いはエスペラント>難易度表/おに/願いはエスペラント]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):さよならワーリャ>難易度表/おに/さよならワーリャ]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ラーメン de Yo-Men!!>難易度表/おに/ラーメン de Yo-Men!!]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):忘却のティルナノグ>難易度表/おに/忘却のティルナノグ]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):三瀬川乱舞>難易度表/おに/三瀬川乱舞]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):月下美人>難易度表/おに/月下美人]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|BGCOLOR(grey):1000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Comona>難易度表/おに/Comona]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):こ・き・く・くる・くる・くれ・こ！>難易度表/おに/こ・き・く・くる・くる・くれ・こ！]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):もしもし神様>難易度表/おに/もしもし神様]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):和有るど経りて維持・序>難易度表/おに/和有るど経りて維持・序]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):音虫をつかまえろ！>難易度表/おに/音虫をつかまえろ！]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):タベテモタベテモ>難易度表/おに/タベテモタベテモ]]|BGCOLOR(grey):1300かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):竜と黒炎の姫君>難易度表/おに/竜と黒炎の姫君]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):激運！七福ハッピークルー>難易度表/おに/激運！七福ハッピークルー]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):χ談>難易度表/おに/χ談]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Asteroid>難易度表/おに/Asteroid]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):FooFooカセット>難易度表/おに/FooFooカセット]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):HARDCOREノ心得>難易度表/おに/HARDCOREノ心得]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):R.I.>難易度表/おに/R.I.]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):OK I’m blue rat>難易度表/おに/OK I’m blue rat]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):彼は誰時の誘惑>難易度表/おに/彼は誰時の誘惑]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):よーいドン！>難易度表/おに/よーいドン！]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):秘ナルメジェドノ悲ナル憂鬱>難易度表/おに/秘ナルメジェドノ悲ナル憂鬱]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):愛と浄罪の森>難易度表/おに/愛と浄罪の森]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):マジカル・パフェ>難易度表/おに/マジカル・パフェ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):行かないでイカロス>難易度表/おに/行かないでイカロス]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Behemoth>難易度表/おに/Behemoth]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):カラフル>難易度表/おに/カラフル]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):λ7708>難易度表/おに/λ7708]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):トラストゲーム>難易度表/おに/トラストゲーム]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):あの日出会えたキセキ>難易度表/おに/あの日出会えたキセキ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Heat Haze Shadow 2>難易度表/おに/Heat Haze Shadow 2]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):デッド・オア・ダイ>難易度表/おに/デッド・オア・ダイ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):コネクトカラーズ>難易度表/おに/コネクトカラーズ]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):気焔万丈神楽>難易度表/おに/気焔万丈神楽]]|BGCOLOR(grey):1500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):EkiBEN2000>難易度表/おに/EkiBEN2000]]|BGCOLOR(grey):2000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|BGCOLOR(grey):2000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):X-DAY2000>難易度表/おに/X-DAY2000]]|BGCOLOR(grey):2000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]]|BGCOLOR(grey):2500かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):マオウのショウタイム>難易度表/おに/マオウのショウタイム]]|BGCOLOR(grey):3000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|BGCOLOR(grey):3000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):Surf Zapping>難易度表/おに/Surf Zapping]]|BGCOLOR(grey):3000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):幽玄ノ乱>難易度表/おに/幽玄ノ乱]]|BGCOLOR(grey):5000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):8OROCHI>難易度表/おに/8OROCHI]]|BGCOLOR(grey):5000かつメダル|~|~|
+|BGCOLOR(grey):[[COLOR(blue):≠MM>難易度表/おに/≠MM]]|BGCOLOR(grey):10000かつメダル|~|~|
+
 **きせかえ [#kisekae]
 
 ***きぐるみ [#kigurumi]
@@ -238,137 +368,6 @@
 |BGCOLOR(silver):ふくめん|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(silver):キバ|BGCOLOR(silver):500かつメダル|~|~|
 |BGCOLOR(grey):芸者|BGCOLOR(grey):---|BGCOLOR(grey):''COLOR(#db2510){レッドVer.}以前''|BGCOLOR(grey):2015年1月にごほうびショップで交換&br;or&br;''COLOR(#e1637f){キャ}COLOR(#ffb83e){ンペ}COLOR(#91eb4f){ーン}COLOR(#80c4ff){期間}COLOR(#9479fe){中}((「ごほうびザクザク2022」キャンペーン｜2022年4月20日~2022年7月31日))に12回プレイ''|
-
-**楽曲 [#song]
-|LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
-|楽曲名|必要なメダル数|追加日|備考|h
-|[[きょうはたいこ曜日>難易度表/おに/きょうはたいこ曜日]]|50どんメダル|2022年6月4日|''COLOR(red){どんメダル}ショップ[2022COLOR(#00b8e6){夏}]''の品|
-|[[女神な世界II>難易度表/おに/女神な世界II]]|50どんメダル|~|~|
-|[[Aragami>難易度表/おに/Aragami]]|60どんメダル|~|~|
-|[[其方、激昂>難易度表/おに/其方、激昂]]|60どんメダル|~|~|
-|[[めためた☆ゆにば〜すっ！>難易度表/おに/めためた☆ゆにば〜すっ！]]|%%50%% 25どんメダル|2022年3月17日|''COLOR(red){どんメダル}ショップ[2022COLOR(#ff1493){春}]''の品&br;2022年6月4日価格改定|
-|[[ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]/[[(裏)>難易度表/おに/ラブユー☆どんちゃん(裏譜面)]]|%%50%% 25どんメダル|~|~|
-|[[トンガチン>難易度表/おに/トンガチン]]|%%60%% 30どんメダル|~|~|
-|[[喫茶レイン>難易度表/おに/喫茶レイン]]/[[(裏)>難易度表/おに/喫茶レイン(裏譜面)]]|%%60%% 30どんメダル|~|~|
-|[[どんちゃん 世界旅行>難易度表/おに/どんちゃん 世界旅行]]|%%50 25%% 20どんメダル|2021年12月23日|''COLOR(red){どんメダル}ショップ[2021COLOR(#4169e1){冬}]''の品&br;2022年3月17日価格改定&br;2022年6月4日価格改定|
-|[[Solitude Star>難易度表/おに/Solitude Star]]|%%50 25%% 20どんメダル|~|~|
-|[[Agent Hustle ＆ Dr. Hassle>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]/[[(裏)>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
-|[[Spectral Rider>難易度表/おに/Spectral Rider]]|%%60 30%% 20どんメダル|~|~|
-|[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]|%%50 25%% 20どんメダル|2021年9月8日|''COLOR(red){どんメダル}ショップ[2021COLOR(#ff9900){秋}]''の品&br;2021年12月23日価格改定&br;2022年3月17日価格改定|
-|[[†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|%%60 30%% 20どんメダル|~|~|
-|[[魑魅魍魎>難易度表/おに/魑魅魍魎]]|%%60 30%% 20どんメダル|~|~|
-|[[憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]/[[(裏)>難易度表/おに/憎悪と醜悪の花束(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
-|[[どんちゃん音頭>難易度表/おに/どんちゃん音頭]]|%%50 25%% 20どんメダル|2021年5月27日|''COLOR(red){どんメダル}ショップ[2021COLOR(#00b8e6){夏}]''の品&br;2021年9月8日価格改定&br;2021年12月23日価格改定|
-|[[ボクらのまえに道はある>難易度表/おに/ボクらのまえに道はある]]|%%50 25%% 20どんメダル|~|~|
-|[[Amber Light>難易度表/おに/Amber Light]]|%%60 30%% 20どんメダル|~|~|
-|[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|%%60 30%% 20どんメダル|~|~|
-|[[傾奇者、罷り通る！>難易度表/おに/傾奇者、罷り通る！]]|%%50 25%% 20どんメダル|2021年3月25日|''COLOR(red){どんメダル}ショップ[2021COLOR(#ff1493){春}]''の品&br;2021年5月27日価格改定&br;2021年9月8日価格改定|
-|[[あまてらすJK>難易度表/おに/あまてらすJK]]|%%50 25%% 20どんメダル|~|~|
-|[[赤と白薔薇の魔女>難易度表/おに/赤と白薔薇の魔女]]|%%60 30%% 20どんメダル|~|~|
-|[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]|%%60 30%% 20どんメダル|~|~|
-|[[Stick Trick ShowTime!!>難易度表/おに/Stick Trick ShowTime!!]]|%%50 25%% 20どんメダル|2020年11月25日|''COLOR(red){どんメダル}ショップ[2020COLOR(#4169e1){冬}]''の品&br;2021年3月25日価格改定&br;2021年5月27日価格改定|
-|[[螺旋周回軌道>難易度表/おに/螺旋周回軌道]]/[[(裏)>難易度表/おに/螺旋周回軌道(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
-|[[儚姫は原初に舞う>難易度表/おに/儚姫は原初に舞う]]/[[(裏)>難易度表/おに/儚姫は原初に舞う(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
-|[[Vixtory>難易度表/おに/Vixtory]]/[[(裏)>難易度表/おに/Vixtory(裏譜面)]]|%%60 30%% 20どんメダル|~|~|
-|[[Fly again!>難易度表/おに/Fly again!]]|%%50 25%% 20どんメダル|2020年9月16日|''COLOR(red){どんメダル}ショップ[2020COLOR(#ff9900){秋}]''の品&br;2020年11月25日価格改定&br;2021年3月25日価格改定|
-|[[令・和太鼓>難易度表/おに/令・和太鼓]]|%%50 25%% 20どんメダル|~|~|
-|[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|%%60 30%% 20どんメダル|~|~|
-|[[クラポルポルスカ>難易度表/おに/クラポルポルスカ]]|%%60 30%% 20どんメダル|~|~|
-|[[エリンギのエクボ>難易度表/おに/エリンギのエクボ]]|%%50 25%% 20どんメダル|2020年6月30日|''COLOR(red){どんメダル}ショップ[2020COLOR(#00b8e6){夏}]''の品&br;2020年9月16日価格改定&br;2020年11月25日価格改定|
-|[[Freeway3234>難易度表/おに/Freeway3234]]|%%50 25%% 20どんメダル|~|~|
-|[[愛なんだぜ>難易度表/おに/愛なんだぜ]]|%%60 30%% 20どんメダル|~|~|
-|[[memoria ficta>難易度表/おに/memoria ficta]]|%%60 30%% 20どんメダル|~|~|
-|[[クラシックメドレー(ロック編)>難易度表/おに/クラシックメドレー(ロック編)]]|%%150 30%% 20どんメダル|2020年3月24日|''COLOR(red){どんメダル}ショップ[2020COLOR(#ff1493){春}]''の品&br;2020年6月30日価格改定&br;2020年9月16日価格改定|
-|[[カッティアワールの宝剣>難易度表/おに/カッティアワールの宝剣]]|%%100 25%% 20どんメダル|~|~|
-|[[ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|%%120 30%% 20どんメダル|~|~|
-|[[via lactea>難易度表/おに/via lactea]]|%%100 25%% 20どんメダル|~|~|
-|BGCOLOR(grey):[[カラフルボイス>難易度表/おに/カラフルボイス]]/[[(裏)>難易度表/おに/カラフルボイス(裏譜面)]]|BGCOLOR(grey):%%25%% 20どんメダル|BGCOLOR(grey):COLOR(#029a43){''グリーンVer.''}''以前''|BGCOLOR(grey):''COLOR(#029a43){グリーンVer.}AIバトル演奏''にて初登場&br;獲得不可期間((2020.3.24~6.29))を経て、&br;''COLOR(red){どんメダル}ショップ[2020COLOR(#00b8e6){夏}]''にて再登場&br;2020年9月16日価格改定&br;2021年3月25日より''一般解禁''|
-|BGCOLOR(grey):[[アムピト&#9826;リーテー>難易度表/おに/アムピト◇リーテー]]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
-|BGCOLOR(grey):[[Goldfish City>難易度表/おに/Goldfish City]]|BGCOLOR(grey):%%25%% 20どんメダル|~|~|
-|BGCOLOR(grey):[[疾風怒濤>難易度表/おに/疾風怒濤]]/[[(裏)>難易度表/おに/疾風怒濤(裏譜面)]]|BGCOLOR(grey):%%25%% 20どんメダル|~|~|
-|BGCOLOR(grey):[[What's in the box?>難易度表/おに/What's in the box?]]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
-|BGCOLOR(grey):[[TD - 28619029byte remix ->難易度表/おに/TD -28619029byte remix-]]|BGCOLOR(grey):%%25%% 20どんメダル|~|BGCOLOR(grey):''COLOR(red){ごほうびショップ}COLOR(#029a43){グリーンVer.}COLOR(#4169e1){冬}''にて初登場&br;獲得不可期間((2020.3.24~6.29))を経て、&br;''COLOR(red){どんメダル}ショップ[2020COLOR(#00b8e6){夏}]''にて再登場&br;2020年9月16日価格改定&br;2021年3月25日より''一般解禁''|
-|BGCOLOR(grey):[[UFO Swingin'>難易度表/おに/UFO Swingin']]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
-|BGCOLOR(grey):[[流浪の琥珀姫''>難易度表/おに/流浪の琥珀姫]]|BGCOLOR(grey):%%25%% 20どんメダル|~|~|
-|BGCOLOR(grey):[[氷竜 〜Kooryu〜>難易度表/おに/氷竜 〜Kooryu〜]]/[[(裏)>難易度表/おに/氷竜 〜Kooryu〜(裏譜面)]]|BGCOLOR(grey):%%30%% 20どんメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):うさぎのしっぽ>難易度表/おに/うさぎのしっぽ]]|BGCOLOR(grey):800かつメダル|~|BGCOLOR(grey):''COLOR(blue){かつメダル}''廃止と同時に一般解禁|
-|BGCOLOR(grey):[[COLOR(blue):黒神クロニクル>難易度表/おに/黒神クロニクル]]|BGCOLOR(grey):800かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):星屑とリニアと僕>難易度表/おに/星屑とリニアと僕]]|BGCOLOR(grey):800かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):恋はみずいろ>難易度表/おに/恋はみずいろ]]|BGCOLOR(grey):800かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):フューチャー・ラボ>難易度表/おに/フューチャー・ラボ]]|BGCOLOR(grey):800かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):亜空間遊泳ac12.5>難易度表/おに/亜空間遊泳ac12.5]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):バーニングフォースメドレー>難易度表/おに/バーニングフォースメドレー]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):白猫きゃらめる夢幻のわたあめ>難易度表/おに/白猫きゃらめる夢幻のわたあめ]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):サーフサイド・サティ>難易度表/おに/サーフサイド・サティ]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):ヘ調の協奏曲　第3楽章>難易度表/おに/ヘ調の協奏曲　第3楽章]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):トッカータとフーガとロック>難易度表/おに/トッカータとフーガとロック]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):駄々っ子モンスター>難易度表/おに/駄々っ子モンスター]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):夢色コースター>難易度表/おに/夢色コースター]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):トータル・エクリプス　2035>難易度表/おに/トータル・エクリプス　2035]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):久遠の夜>難易度表/おに/久遠の夜]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):メタルホーク　BGM1>難易度表/おに/メタルホーク　BGM1]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):PaPaPa Love>難易度表/おに/PaPaPa Love]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):ナックルヘッズ>難易度表/おに/ナックルヘッズ 鷹舞狼吼]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):URBAN FRAGMENTS>難易度表/おに/URBAN FRAGMENTS]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):きみのあかり>難易度表/おに/きみのあかり]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):STAGE 0.ac11>難易度表/おに/STAGE 0.ac11]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):未来への鍵>難易度表/おに/未来への鍵]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):願いはエスペラント>難易度表/おに/願いはエスペラント]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):さよならワーリャ>難易度表/おに/さよならワーリャ]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):ラーメン de Yo-Men!!>難易度表/おに/ラーメン de Yo-Men!!]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):忘却のティルナノグ>難易度表/おに/忘却のティルナノグ]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):三瀬川乱舞>難易度表/おに/三瀬川乱舞]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):月下美人>難易度表/おに/月下美人]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):ゴーゴー・キッチン>難易度表/おに/ゴーゴー・キッチン]]|BGCOLOR(grey):1000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):Comona>難易度表/おに/Comona]]|BGCOLOR(grey):1300かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):こ・き・く・くる・くる・くれ・こ！>難易度表/おに/こ・き・く・くる・くる・くれ・こ！]]|BGCOLOR(grey):1300かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):もしもし神様>難易度表/おに/もしもし神様]]|BGCOLOR(grey):1300かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):和有るど経りて維持・序>難易度表/おに/和有るど経りて維持・序]]|BGCOLOR(grey):1300かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):音虫をつかまえろ！>難易度表/おに/音虫をつかまえろ！]]|BGCOLOR(grey):1300かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):タベテモタベテモ>難易度表/おに/タベテモタベテモ]]|BGCOLOR(grey):1300かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):竜と黒炎の姫君>難易度表/おに/竜と黒炎の姫君]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):激運！七福ハッピークルー>難易度表/おに/激運！七福ハッピークルー]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):χ談>難易度表/おに/χ談]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):Asteroid>難易度表/おに/Asteroid]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):FooFooカセット>難易度表/おに/FooFooカセット]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):HARDCOREノ心得>難易度表/おに/HARDCOREノ心得]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):R.I.>難易度表/おに/R.I.]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):OK I’m blue rat>難易度表/おに/OK I’m blue rat]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):彼は誰時の誘惑>難易度表/おに/彼は誰時の誘惑]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):よーいドン！>難易度表/おに/よーいドン！]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):秘ナルメジェドノ悲ナル憂鬱>難易度表/おに/秘ナルメジェドノ悲ナル憂鬱]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):愛と浄罪の森>難易度表/おに/愛と浄罪の森]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):マジカル・パフェ>難易度表/おに/マジカル・パフェ]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):行かないでイカロス>難易度表/おに/行かないでイカロス]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):Behemoth>難易度表/おに/Behemoth]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):カラフル>難易度表/おに/カラフル]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):λ7708>難易度表/おに/λ7708]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):PAC‐MAN CHAMPIONSHIP EDITION 2>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):トラストゲーム>難易度表/おに/トラストゲーム]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):あの日出会えたキセキ>難易度表/おに/あの日出会えたキセキ]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):Heat Haze Shadow 2>難易度表/おに/Heat Haze Shadow 2]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):デッド・オア・ダイ>難易度表/おに/デッド・オア・ダイ]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):コネクトカラーズ>難易度表/おに/コネクトカラーズ]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):気焔万丈神楽>難易度表/おに/気焔万丈神楽]]|BGCOLOR(grey):1500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):EkiBEN2000>難易度表/おに/EkiBEN2000]]|BGCOLOR(grey):2000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):万戈イム−一ノ十>難易度表/おに/万戈イム−一ノ十]]|BGCOLOR(grey):2000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):X-DAY2000>難易度表/おに/X-DAY2000]]|BGCOLOR(grey):2000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):SAMURAI ROCKET>難易度表/おに/SAMURAI ROCKET]]|BGCOLOR(grey):2500かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):マオウのショウタイム>難易度表/おに/マオウのショウタイム]]|BGCOLOR(grey):3000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|BGCOLOR(grey):3000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):Surf Zapping>難易度表/おに/Surf Zapping]]|BGCOLOR(grey):3000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):幽玄ノ乱>難易度表/おに/幽玄ノ乱]]|BGCOLOR(grey):5000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):8OROCHI>難易度表/おに/8OROCHI]]|BGCOLOR(grey):5000かつメダル|~|~|
-|BGCOLOR(grey):[[COLOR(blue):≠MM>難易度表/おに/≠MM]]|BGCOLOR(grey):10000かつメダル|~|~|
-
 
 **音色 [#neiro]
 |LEFT:74|LEFT:74|CENTER:74|CENTER:74|c
