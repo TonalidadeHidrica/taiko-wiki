@@ -10,7 +10,7 @@
 ----
 -[[公式サイト>https://dondafulfestival-20th.taiko-ch.net/]]
 --[[楽曲リスト>https://dondafulfestival-20th.taiko-ch.net/music/songlist.php]]
-//-[[追加コンテンツ>NS2の収録曲/ダウンロードコンテンツ]]
+-[[追加コンテンツ>NS2の収録曲/ダウンロードコンテンツ]]
 -[[太鼓ミュージックパス>NS2の収録曲/太鼓ミュージックパス]]
 -[[システム詳細>CSの歴史#ns2]]
 -[[コメント>#comment]]

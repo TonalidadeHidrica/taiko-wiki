@@ -30,4 +30,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(8551.png,nolink);
+~DS3では5~19小節、21~61小節のHSは1.02
+~&attachref(ds3bs2_m.png,nolink);
