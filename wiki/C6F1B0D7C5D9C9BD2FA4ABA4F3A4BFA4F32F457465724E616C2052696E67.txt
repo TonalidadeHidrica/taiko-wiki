@@ -1,4 +1,4 @@
-*Eter&#78;al Ring [#title]
+*&ruby(エターナル){Eter&#78;al}; &ruby(リング){Ring}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -14,7 +14,8 @@
 -大音符が多く、''20個''(約12.98%)ある。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/EterNal Ring]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/EterNal Ring#other]]を参照。
+
 ----
 -[[ふつう>難易度表/ふつう/EterNal Ring]]
 -[[むずかしい>難易度表/むずかしい/EterNal Ring]]

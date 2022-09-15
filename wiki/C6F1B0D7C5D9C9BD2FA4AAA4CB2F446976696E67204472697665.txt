@@ -1,4 +1,4 @@
-*Diving Drive [#title]
+*&ruby(ダイビング){Diving}; &ruby(ドライブ){Drive}; [#title]
 -[[楽曲募集2020>太鼓の達人　楽曲募集だドン！2020]]の採用曲のひとつ。
 
 ***詳細 [#more]
@@ -37,4 +37,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(Diving Drive__4.png,nolink);
+&attachref(Diving Drive__4.png,nolink);

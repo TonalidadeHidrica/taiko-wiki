@@ -1,4 +1,4 @@
-*Goldfish City [#title]
+*&ruby(ゴールドフィッシュ){Goldfish}; &ruby(シティ){City}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -12,7 +12,7 @@
 -第1ゴーゴーと第2ゴーゴーで配置が異なるのはこのコースのみ。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Goldfish City]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Goldfish City#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Goldfish City]]
@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(金魚市ふつう.png,nolink);
+&attachref(金魚市ふつう.png,nolink);

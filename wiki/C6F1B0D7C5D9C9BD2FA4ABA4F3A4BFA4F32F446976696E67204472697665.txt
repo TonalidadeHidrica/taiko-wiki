@@ -1,4 +1,4 @@
-*Diving Drive [#title]
+*&ruby(ダイビング){Diving}; &ruby(ドライブ){Drive}; [#title]
 -[[2020年の楽曲公募>太鼓の達人　楽曲募集だドン！2020]]の採用曲のひとつ。
 
 ***詳細 [#more]
@@ -12,7 +12,7 @@
 -BPMは193。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Diving Drive]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Diving Drive#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/Diving Drive]]

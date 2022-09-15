@@ -18,12 +18,10 @@
 --HS0.5地帯には''見た目48分音符''が登場し、また多くが付点配置になっているため非常に精度が取りにくい。
 ---見た目48分の配色は順にCOLOR(blue){○}COLOR(red){●●●}→COLOR(blue){○}COLOR(red){●●●}→COLOR(red){●●●}COLOR(blue){○}(+COLOR(red){●})→COLOR(red){●●●●}である。音符ではなく、その下の文字を見るとわかりやすい。
 --HS2地帯は見た目のBPMが272にまで跳ね上がるうえ、16分音符の複合が長く続くため高速処理力と集中力が求められる。
----複合の配色は覚えてしまうのも手。([[見切り方>難易度表/おに/夏竜 〜Karyu〜(裏譜面)#memorise]])
+---複合の配色は覚えてしまうのも手。
 ---なお、68小節の24分音符縁8連打と69小節頭の16分の間は12分である。
--以上のことから、[[シン・ゾンビCOLOR(#909):(達人譜面)>難易度表/おに/シン・ゾンビ]]を除けば&color(red){''全良難易度は★9最難関クラス''};であり、非常に難易度が高い。
--1曲を通しての平均密度は、''約5.69打/秒''である。
 
-***高速地帯暗記用 [#memorise]
+#region(高速地帯暗記用)
 -72〜76小節
 --COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}(3回)&br;COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}(2回)&br;COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}(3回)&br;COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}(2回)&br;COLOR(red){●●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}(3回)
 &br;&br;
@@ -33,6 +31,12 @@
 COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}…&br;COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○}COLOR(blue){○○}…&br;COLOR(red){●●}COLOR(blue){○}COLOR(red){●}/COLOR(blue){○}COLOR(red){●●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}
 &br;これもあり&br;
 COLOR(red){●●}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○}…&br;COLOR(red){●●}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(blue){○○}…&br;COLOR(red){●●}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLOR(red){●}COLOR(blue){○}COLOR(red){●}COLOR(blue){○}/COLOR(red){●}COLOR(blue){○}
+
+#endregion
+
+-以上のことから、[[シン・ゾンビCOLOR(#909):(達人譜面)>難易度表/おに/シン・ゾンビ]]を除けば&color(red){''全良難易度は★9最難関クラス''};であり、非常に難易度が高い。
+-1曲を通しての平均密度は、''約5.69打/秒''である。
+
 
 ***その他 [#other]
 -楽曲情報は[[表譜面>難易度表/おに/夏竜 〜Karyu〜]]を参照。
@@ -59,7 +63,7 @@ COLOR(red){●●}/COLOR(blue){○}COLOR(red){●}COLOR(blue){○}COLOR(red){●}/COLO
 ~風船音符は譜面画像の長さより1/16拍子分短い
 ~64小節目の最初の音符はゴーゴータイム内の得点
 ~最後に1本非表示の小節線がある
-&attachref(ex_karyu小節線修正.png,nolink);
+~&attachref(ex_karyu小節線修正.png,nolink);
 
 ~見た目
-&ref(karyu_exv2.png,nolink);
+~&ref(karyu_exv2.png,nolink);
