@@ -11,15 +11,19 @@
 |BGCOLOR(cyan):''ポップス''|BGCOLOR(orange):''アニメ''|BGCOLOR(silver):''ボーカロイド&#8482;曲''|BGCOLOR(lime):''バラエティ''|BGCOLOR(gold):''クラシック''|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|
 |''0'' 曲&br;(0%)|''18'' 曲&br;(約60.0%)|''9'' 曲&br;(約30.0%)|''0'' 曲&br;(0%)|''0'' 曲&br;(0%)|''0'' 曲&br;(0%)|''3'' 曲&br;(約10.0%)|
 
-//***配信単品 [#single]
+***配信単品 [#single]
+//-凡例&br;◎・・・太鼓ミュージックパス収録曲
 
-//|CENTER:1|||CENTER:1|CENTER:40||c
-//|NO.||曲名|配信日|税込価格|備考|h
+|CENTER:1|||CENTER:1|CENTER:40||c
+|NO.||曲名|配信日|税込価格|備考|h
+|BGCOLOR(orangered):1||[[''フリフリ♪ノリノリ♪''>難易度表/おに/フリフリ♪ノリノリ♪]]／[[''(裏)''>難易度表/おに/フリフリ♪ノリノリ♪(裏譜面)]]|2022/9/22|-|前作購入特典&br;「[[太鼓の達人 Nintendo Switchば〜じょん！>NS1の収録曲]]」のセーブデータ必須|
+|BGCOLOR(orangered):2||[[''Gold Armor''>難易度表/おに/Gold Armor]]&br;　　SIZE(11){「ドンカツファイト」テーマソング}|2022/9/22|-|~|
+|BGCOLOR(orangered):3||[[''Welcome to the Taiko Stadium!''>難易度表/おに/Welcome to the Taiko Stadium!]]&br;　　SIZE(11){相良心 × 大原大輝}|2022/9/22|-|~|
 
 ***配信パック [#pack]
 -凡例&br;◎・・・太鼓ミュージックパス収録曲
 
-|CENTER:120|CENTER:1|||CENTER:1|CENTER:50||c
+|CENTER:120|CENTER:1||CENTER:1|CENTER:50||c
 |パック名||CENTER:パック内容|配信日|税込価格|CENTER:備考|h
 |BGCOLOR(orange):''アニメパックVol. 1''|◎|[[''THE DAY''>難易度表/おに/THE DAY]]&br;　　SIZE(11){「僕のヒーローアカデミア」より}|2022/9/22|550円||
 |~|◎|[[''ドラえもんのうた''>難易度表/おに/ドラえもんのうた]]|~|~|~|

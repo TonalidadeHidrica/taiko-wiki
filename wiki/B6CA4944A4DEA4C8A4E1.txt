@@ -213,7 +213,7 @@
 |amacha|[[あまちゃん>難易度表/おに/あまちゃん]]||
 |amanda|[[Amanda>難易度表/おに/Amanda]]||
 |amane|[[タイヨウのうた>難易度表/おに/タイヨウのうた]]|Kaoru Amane|
-|amatjk|[[あまてらすJK>難易度表/おに/あまてらすJK]]||
+//|amatjk|[[あまてらすJK>難易度表/おに/あまてらすJK]]||
 |amatrs|[[天照>難易度表/おに/天照]]||
 |amhero|[[Hero>難易度表/おに/Hero]]|安室奈美恵|
 |amphit|[[アムピト&#9826;リーテー>難易度表/おに/アムピト◇リーテー]]||
@@ -478,7 +478,8 @@
 |coro4|[[コロコロコミック40周年のうた>難易度表/おに/コロコロコミック40周年のうた]]|~|
 |cosmb|[[SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]|''cosm''ic''b''ird(sora5xじゃない)|
 |cowcow|[[あたりまえ体操>難易度表/おに/あたりまえ体操]]||
-|crkvic|[[VICTORIA>難易度表/おに/VICTORIA]]|Cranky|
+//|cpyoak|[[YOAKE>難易度表/おに/YOAKE]]|''C''a''p''chii ''YOAK''E|
+|crkvic|[[VICTORIA>難易度表/おに/VICTORIA]]|''Cr''an''k''y ''VIC''TORIA|
 |crosbl|[[クロス・ブルー>難易度表/おに/クロス・ブルー]]||
 //|crtesc|[[ESCAPE FROM CRISIS>難易度表/おに/ESCAPE FROM CRISIS]]|クリティカルベロシティ|
 |crtrcs|[[Racing the Storm>難易度表/おに/Racing the Storm]]|クリティカルベロシティ|
@@ -566,7 +567,7 @@
 |dis1|[[ミッキーマウス・マーチ>難易度表/おに/ミッキーマウス・マーチ]]||
 |dis2|[[エレクトリカルパレードのテーマ>難易度表/おに/エレクトリカルパレード]]||
 |distan|[[distance>難易度表/おに/distance]]||
-|divdrv|[[Diving Drive>難易度表/おに/Diving Drive]]||
+//|divdrv|[[Diving Drive>難易度表/おに/Diving Drive]]||
 |diveto|[[DIVE TO WORLD>難易度表/おに/DIVE TO WORLD]]||
 |dkpri9|[[Happy Go Lucky! ドキドキ！プリキュア>難易度表/おに/Happy Go Lucky! ドキドキ！プリキュア]]||
 |dlearn|[[241ディープラーニング>難易度表/おに/241ディープラーニング]]||
@@ -1209,7 +1210,7 @@
 |kiba|[[Break the Chain>難易度表/おに/Break the Chain]]|仮面ライダーキバ|
 |kienbj|[[気焔万丈神楽>難易度表/おに/気焔万丈神楽]]||
 |kim100|[[キミに100パーセント>難易度表/おに/キミに100パーセント]]||
-//|kim102|~||
+//|kim102|~|本人音源|
 |kim4ra|[[君の知らない物語>難易度表/おに/君の知らない物語]]||
 |kim69|[[君はロックを聴かない>難易度表/おに/君はロックを聴かない]]||
 |kim9re|[[君がくれた夏>難易度表/おに/君がくれた夏]]||
@@ -1261,6 +1262,7 @@
 |klono|[[STEPPING WIND>難易度表/おに/STEPPING WIND]]|~|
 |klwind|[[The Windmill Song>難易度表/おに/The Windmill Song]]|~|
 |kmbaby|[[キルミーのベイベー！>難易度表/おに/キルミーのベイベー！]]||
+//|ko9ryu|[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]||
 //|kobenm|[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]||
 |koda|[[Butterfly>難易度表/おに/Butterfly]]|倖田來未|
 |koi907|[[濃紅>難易度表/おに/濃紅]]||
@@ -1963,6 +1965,7 @@
 |spurt|[[スパート！>難易度表/おに/スパート！]]||
 |sqr|[[スポーツダイジェスドン>難易度表/おに/スポーツダイジェスドン]]|T-SQUARE|
 |sqr2|[[junction>難易度表/おに/junction]]|~|
+//|sqr3|[[Amber Light>難易度表/おに/Amber Light]]|~|
 |ssn3rd|[[大好きな太鼓の音>難易度表/おに/大好きな太鼓の音]]|粗品|
 |ssnkjs|[[怪獣少女は火を吹かない>難易度表/おに/怪獣少女は火を吹かない]]|~|
 |ssnrns|[[乱数調整のリバースシンデレラ>難易度表/おに/乱数調整のリバースシンデレラ]]|~|
@@ -2092,6 +2095,7 @@
 |thwarn|[[WARNING×WARNING×WARNING>難易度表/おに/WARNING×WARNING×WARNING]]||
 |thzesh|[[仙酌絶唱のファンタジア>難易度表/おに/仙酌絶唱のファンタジア]]|仙酌''絶唱''|
 |tiger|[[六甲おろし>難易度表/おに/六甲おろし]]|阪神タイガース|
+//|timimo|[[魑魅魍魎>難易度表/おに/魑魅魍魎]]||
 |timtrv|[[タイムトラベラー>難易度表/おに/タイムトラベラー]]||
 |tkmdst|[[TOKIMEKI&#9825;ですとろいやー！！>難易度表/おに/TOKIMEKI・ですとろいやー！！]]||
 |tksoda|[[東京ソーダ 8Bit Edit>難易度表/おに/東京ソーダ 8Bit Edit]]||
@@ -2223,6 +2227,7 @@
 //|vfvill|[[ヴィラン>難易度表/おに/ヴィラン]]|v flower ''ヴィラ''ン|
 |vgala|[[Galaga'88>難易度表/おに/Galaga'88]]||
 |victry|[[VICTORY>難易度表/おに/VICTORY]]||
+//|vivivi|[[VIVIVID>難易度表/おに/VIVIVID]]||
 |vixtor|[[Vixtory>難易度表/おに/Vixtory]]||
 |vmomo|[[ワンダーモモ>難易度表/おに/ワンダーモモ]]||
 |voidse|[[void setup>難易度表/おに/void setup]]||

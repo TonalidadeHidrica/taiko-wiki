@@ -3,7 +3,7 @@
 
 ~｜[[あ行>#agyo]]｜[[か行>#kagyo]]｜[[さ行>#sagyo]]｜[[た行>#tagyo]]｜[[な行>#nagyo]]｜
 ~｜[[は行>#hagyo]]｜[[ま行>#magyo]]｜[[や行>#yagyo]]｜[[ら行>#ragyo]]｜[[わ行>#wagyo]]｜
-~｜[[アルファベット(A~G)>#alphabetag]]｜[[アルファベット(H~Q)>#alphabethq]]｜[[アルファベット(R~Z)、数字>#alphabetrz]]｜
+~｜[[アルファベット(A〜G)>#alphabetag]]｜[[アルファベット(H〜Q)>#alphabethq]]｜[[アルファベット(R〜Z)、数字>#alphabetrz]]｜
 
 **あ行〜わ行 [#awa]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
@@ -111,7 +111,7 @@
 **アルファベット、数字 [#az09]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(アルファベット順)|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(A~G)''&aname(alphabetag);|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(A〜G)''&aname(alphabetag);|
 |''ALMIGHTY〜仮面の約束''|154|[[★×1>難易度表/かんたん/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×1>難易度表/ふつう/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×4>難易度表/むずかしい/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×6>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]|-|
 |''Baby Shark（ベイビー・シャーク）''|111-139|[[★×1>難易度表/かんたん/Baby Shark（ベイビー・シャーク）]]|[[★×1>難易度表/ふつう/Baby Shark（ベイビー・シャーク）]]|[[★×3>難易度表/むずかしい/Baby Shark（ベイビー・シャーク）]]|[[★×4>難易度表/おに/Baby Shark（ベイビー・シャーク）]]|-|
 |''Be The One''|136|[[★×1>難易度表/かんたん/Be The One]]|[[★×2>難易度表/ふつう/Be The One]]|[[★×4>難易度表/むずかしい/Be The One]]|[[★×5>難易度表/おに/Be The One]]|-|
@@ -120,7 +120,7 @@
 |''EXCITE''|151|[[★×2>難易度表/かんたん/EXCITE]]|[[★×3>難易度表/ふつう/EXCITE]]|[[★×5>難易度表/むずかしい/EXCITE]]|[[★×7>難易度表/おに/EXCITE]]|-|
 |''Fun!Fun!Fun! 〜夢∞〜''|165|[[★×2>難易度表/かんたん/Fun!Fun!Fun! 〜夢∞〜]]|[[★×3>難易度表/ふつう/Fun!Fun!Fun! 〜夢∞〜]]|[[★×5>難易度表/むずかしい/Fun!Fun!Fun! 〜夢∞〜]]|[[★×6>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|-|
 |''GEEDの証''|158|[[★×3>難易度表/かんたん/GEEDの証]]|[[★×3>難易度表/ふつう/GEEDの証]]|[[★×4>難易度表/むずかしい/GEEDの証]]|[[★×7>難易度表/おに/GEEDの証]]|-|
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(H~Q)''&aname(alphabethq);|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(H〜Q)''&aname(alphabethq);|
 |''HIMAWARI HAPPY''|114-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|-|
 |''Hope''|140|[[★×2>難易度表/かんたん/Hope]]|[[★×3>難易度表/ふつう/Hope]]|[[★×5>難易度表/むずかしい/Hope]]|[[★×7>難易度表/おに/Hope]]|-|
 |''liveDevil''|164|[[★×2>難易度表/かんたん/liveDevil]]|[[★×3>難易度表/ふつう/liveDevil]]|[[★×5>難易度表/むずかしい/liveDevil]]|[[★×6>難易度表/おに/liveDevil]]|-|
@@ -128,7 +128,7 @@
 |''Let It Go〜ありのままで〜''|137|[[★×2>難易度表/かんたん/Let It Go〜ありのままで〜]]|[[★×2>難易度表/ふつう/Let It Go〜ありのままで〜]]|[[★×2>難易度表/むずかしい/Let It Go〜ありのままで〜]]|[[★×4>難易度表/おに/Let It Go〜ありのままで〜]]|-|
 |''Over “Quartzer”''|133|[[★×1>難易度表/かんたん/Over “Quartzer”]]|[[★×1>難易度表/ふつう/Over “Quartzer”]]|[[★×2>難易度表/むずかしい/Over “Quartzer”]]|[[★×7>難易度表/おに/Over “Quartzer”]]|-|
 |''OVER THE TOP''|106-212|[[★×1>難易度表/かんたん/OVER THE TOP]]|[[★×2>難易度表/ふつう/OVER THE TOP]]|[[★×2>難易度表/むずかしい/OVER THE TOP]]|[[★×6>難易度表/おに/OVER THE TOP]]|-|
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(R~Z)、数字''&aname(alphabetrz);|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(R〜Z)、数字''&aname(alphabetrz);|
 |''RAINMAKER''|165|[[★×3>難易度表/かんたん/RAINMAKER]]|[[★×4>難易度表/ふつう/RAINMAKER]]|[[★×5>難易度表/むずかしい/RAINMAKER]]|[[★×8>難易度表/おに/RAINMAKER]]|-|
 |''REAL×EYEZ''|187-188|[[★×2>難易度表/かんたん/REAL×EYEZ]]|[[★×2>難易度表/ふつう/REAL×EYEZ]]|[[★×3>難易度表/むずかしい/REAL×EYEZ]]|[[★×4>難易度表/おに/REAL×EYEZ]]|-|
 |''RPG''|135|[[★×3>難易度表/かんたん/RPG]]|[[★×3>難易度表/ふつう/RPG]]|[[★×4>難易度表/むずかしい/RPG]]|[[★×6>難易度表/おに/RPG]]|-|

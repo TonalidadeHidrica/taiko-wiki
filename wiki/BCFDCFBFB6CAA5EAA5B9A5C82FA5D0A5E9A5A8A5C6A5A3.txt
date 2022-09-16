@@ -4,7 +4,7 @@
 
 ~｜[[あ行>#agyo]]｜[[か行>#kagyo]]｜[[さ行>#sagyo]]｜[[た行>#tagyo]]｜[[な行>#nagyo]]｜
 ~｜[[は行>#hagyo]]｜[[ま行>#magyo]]｜[[や行>#yagyo]]｜[[ら行>#ragyo]]｜[[わ行>#wagyo]]｜
-~｜[[アルファベット(A~F)>#alphabetaf]]｜[[アルファベット(G~M)>#alphabetgm]]｜[[アルファベット(N~Z)>#alphabetnz]]｜
+~｜[[アルファベット(A〜F)>#alphabetaf]]｜[[アルファベット(G〜M)>#alphabetgm]]｜[[アルファベット(N〜Z)>#alphabetnz]]｜
 
 **あ行〜わ行 [#awa]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
@@ -140,7 +140,7 @@
 **A~Z [#az]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(アルファベット順)|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(A~F)''&aname(alphabetaf);|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(A〜F)''&aname(alphabetaf);|
 |''ABCの歌''|129|[[★×2>難易度表/かんたん/ABCの歌]]|[[★×2>難易度表/ふつう/ABCの歌]]|[[★×2>難易度表/むずかしい/ABCの歌]]|[[★×7>難易度表/おに/ABCの歌]]|-|
 |''Altale''|83-180|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|[[★×10>難易度表/おに/Altale(裏譜面)]]|
 |''ALiVE''|170|[[★×3>難易度表/かんたん/ALiVE]]|[[★×4>難易度表/ふつう/ALiVE]]|[[★×6>難易度表/むずかしい/ALiVE]]|[[★×9>難易度表/おに/ALiVE]]|-|
@@ -161,7 +161,7 @@
 |''FANTASTIC BABY''|130|[[★×3>難易度表/かんたん/FANTASTIC BABY]]|[[★×3>難易度表/ふつう/FANTASTIC BABY]]|[[★×5>難易度表/むずかしい/FANTASTIC BABY]]|[[★×7>難易度表/おに/FANTASTIC BABY]]|-|
 |''Favorite Days''|140|[[★×2>難易度表/かんたん/Favorite Days]]|[[★×3>難易度表/ふつう/Favorite Days]]|[[★×7>難易度表/むずかしい/Favorite Days]]|[[★×8>難易度表/おに/Favorite Days]]|-|
 |''FREEDOM DiVE↓''|222.22|[[★×4>難易度表/かんたん/FREEDOM DiVE↓]]|[[★×6>難易度表/ふつう/FREEDOM DiVE↓]]|[[★×7>難易度表/むずかしい/FREEDOM DiVE↓]]|[[★×10>難易度表/おに/FREEDOM DiVE↓]]|-|
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(G~M)''&aname(alphabetgm);|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(G〜M)''&aname(alphabetgm);|
 |''GAT-TAI''|120-128|[[★×4>難易度表/かんたん/GAT-TAI]]|[[★×5>難易度表/ふつう/GAT-TAI]]|[[★×6>難易度表/むずかしい/GAT-TAI]]|[[★×7>難易度表/おに/GAT-TAI]]|-|
 |''Grip & Break down !! -達人Edit.-''|160※|[[★×4>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]|[[★×5>難易度表/ふつう/Grip ＆ Break down !! -達人Edit.-]]|[[★×6>難易度表/むずかしい/Grip ＆ Break down !! -達人Edit.-]]|[[★×7>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]|[[★×9>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]|
 |''Hand Over (Prod. TEMPLIME)''|140|[[★×3>難易度表/かんたん/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/ふつう/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/むずかしい/Hand Over (Prod. TEMPLIME)]]|[[★×9>難易度表/おに/Hand Over (Prod. TEMPLIME)]]|-|
@@ -180,7 +180,7 @@
 |''Marine Mirage''|170|[[★×1>難易度表/かんたん/Marine Mirage]]|[[★×2>難易度表/ふつう/Marine Mirage]]|[[★×3>難易度表/むずかしい/Marine Mirage]]|[[★×6>難易度表/おに/Marine Mirage]]|-|
 |''MISTER''|126|[[★×3>難易度表/かんたん/MISTER]]|[[★×4>難易度表/ふつう/MISTER]]|[[★×5>難易度表/むずかしい/MISTER]]|[[★×7>難易度表/おに/MISTER]]|-|
 |''MOSKAU''|131.5|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/MOSKAU]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/MOSKAU]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/MOSKAU]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/MOSKAU]]|-|
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(N~Z)''&aname(alphabetnz);|
+|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(N〜Z)''&aname(alphabetnz);|
 |''Ne&#x47;a/Posi*ラブ/コール''|166-169|[[★×3>難易度表/かんたん/NeGa／PoSi* ラブ／コール]]|[[★×4>難易度表/ふつう/NeGa／PoSi* ラブ／コール]]|[[★×6>難易度表/むずかしい/NeGa／PoSi* ラブ／コール]]|[[★×6>難易度表/おに/NeGa／PoSi* ラブ／コール]]|[[★×8>難易度表/おに/NeGa／PoSi* ラブ／コール(裏譜面)]]|
 |''NIGHT OF FIRE''|155|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/NIGHT OF FIRE]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/NIGHT OF FIRE]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/NIGHT OF FIRE]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/NIGHT OF FIRE]]|-|
 |''Ninja Batman''|140|[[★×4>難易度表/かんたん/Ninja Batman]]|[[★×4>難易度表/ふつう/Ninja Batman]]|[[★×5>難易度表/むずかしい/Ninja Batman]]|[[★×6>難易度表/おに/Ninja Batman]]|-|
