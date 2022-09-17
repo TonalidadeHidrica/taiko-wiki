@@ -41,4 +41,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(usfcos_m.png,nolink);
+~&attachref(usfcos_m2.png,nolink);

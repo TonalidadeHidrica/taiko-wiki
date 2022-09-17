@@ -31,6 +31,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~65小節はHS0.66
 ~最後に小節線がもう1本存在する
+~HS変化
+ 65小節：0.66
 ~&attachref(chronicle_h.png,nolink);

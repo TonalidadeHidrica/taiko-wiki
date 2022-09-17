@@ -7,18 +7,20 @@
 |''AC12亜''|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|★×5|''215''|''736250点''|＋連打|1030点|270点|
 
 ***譜面構成・攻略 [#capture]
--BPMは137。
+-BPMは約137。
+--音符が流れてくる箇所に限れば、BPMは137で固定。
 
 ***その他 [#other]
--ア一ティストは、''Aqua Timez''。
+-楽曲情報は[[おに譜面>難易度表/おに/Velonica#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Velonica]]
 -[[ふつう>難易度表/ふつう/Velonica]]
 -[[おに>難易度表/おに/Velonica]]
 
-***コメント [#bd42cca3]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#t4350b0e]
-&ref(velonica-h.png,nolink);
+***譜面 [#score]
+~正しいBPMは[[おに譜面>難易度表/おに/Velonica#score]]を参照
+~&ref(velonica-h.png,nolink);

@@ -744,7 +744,7 @@
 |flkama|[[アメイジンググレイス>難易度表/おに/アメイジンググレイス]]|flk=folk|
 |flkmio|[[オーソレ・ミオ>難易度表/おに/オーソレミオ(私の太陽)]]|~|
 |flksak|[[さくら(春)>難易度表/おに/さくら（春）]]|~|
-|fltlnd|[[KUSANAGI>難易度表/おに/KUSANAGI]]|なぜ？|
+|fltlnd|[[KUSANAGI>難易度表/おに/KUSANAGI]]|作曲者が平原(''fl''a''tl''a''nd'')をイメージして作曲したため|
 |flwsng|[[Flower Song>難易度表/おに/Flower Song]]||
 |flyagn|[[Fly again!>難易度表/おに/Fly again!]]||
 |flyawy|[[Fly away>難易度表/おに/Fly away]]||
@@ -2206,7 +2206,7 @@
 |umroad|[[チャンピオンロード>難易度表/おに/チャンピオンロード]]||
 |umtube|[[YouTubeテーマソング>難易度表/おに/YouTubeテーマソング]]||
 |umzaso|[[雑草>難易度表/おに/雑草]]||
-|uni|[[大迷惑>難易度表/おに/大迷惑]]||
+|uni|[[大迷惑>難易度表/おに/大迷惑]]|ユニコーン(''UNI''CORN)|
 |unite|[[UNITE!>難易度表/おに/UNITE!]]||
 |untaka|[[ウンタカダンス>難易度表/おに/ウンタカダンス]]||
 |urotan|[[卑怯戦隊うろたんだー>難易度表/おに/卑怯戦隊うろたんだー]]||
@@ -2216,7 +2216,7 @@
 |>|>|BGCOLOR(#ccc):CENTER:''V''&aname(v);|
 |v6|[[Darling>難易度表/おに/Darling]]|V6|
 |valk|[[ワルキューレの騎行>難易度表/おに/ワルキューレの騎行]]||
-|valvra|[[Preserved Roses>難易度表/おに/Preserved Roses]]||
+|valvra|[[Preserved Roses>難易度表/おに/Preserved Roses]]|革命機ヴァルヴレイヴ|
 |vbera|[[ベラボーマン>難易度表/おに/ベラボーマン]]||
 |veloni|[[Velonica>難易度表/おに/Velonica]]||
 |vertex|[[VERTeX>難易度表/おに/VERTeX]]|~|
@@ -2247,7 +2247,7 @@
 |w3at1x|[[テルミン狂想曲 第42楽章「悲愴」>難易度表/おに/テルミン狂想曲]]|アトラクション曲1|
 |w3at22|[[オレサマパイレーツ>難易度表/おに/オレサマパイレーツ]]||
 |w3at2x|[[イカサマパイレーツ>難易度表/おに/イカサマパイレーツ]]|アトラクション曲2|
-|w3op|[[ポップコーン★パレード>難易度表/おに/ポップコーン★パレード]]||
+|w3op|[[ポップコーン★パレード>難易度表/おに/ポップコーン★パレード]]|''wii3op''ではない|
 |wait4u|[[waitin' for u>難易度表/おに/waitin' for u]]||
 |wangan|[[Lightning Dance>難易度表/おに/Lightning Dance]]|''湾岸''ミッドナイト|
 |wara2k|[[わら得る2000>難易度表/おに/わら得る2000]]||
