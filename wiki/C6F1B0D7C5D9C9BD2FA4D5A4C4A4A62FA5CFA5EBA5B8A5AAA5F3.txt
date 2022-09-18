@@ -25,4 +25,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(haruji_n.png,nolink);
+~&attachref(haruji_n2.png,nolink);

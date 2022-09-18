@@ -5,6 +5,7 @@
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''3DS1SP''&br;Wii U2SP&br;PS Vita1DL&br;NS1SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''305''|''745690点''|+連打|680点|185点|
 |PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
+|iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''738650点''|~|670点|150点|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''996900点''}|~|COLOR(#ff3300){2800点}|-|
 
 ***譜面構成・攻略 [#capture]

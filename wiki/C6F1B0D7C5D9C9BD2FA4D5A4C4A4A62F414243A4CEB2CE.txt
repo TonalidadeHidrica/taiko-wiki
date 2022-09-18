@@ -38,6 +38,7 @@
 
 ***譜面 [#fumen]
 ~1人用譜面
+~DS2以降はHS1.01がかけられている(見かけ上のBPMは130.1)
 ~&ref(OPQRSTUVWXYZ.png,nolink);
 
 ~2人用譜面

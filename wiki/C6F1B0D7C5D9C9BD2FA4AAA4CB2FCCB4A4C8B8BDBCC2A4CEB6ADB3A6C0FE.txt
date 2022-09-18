@@ -32,4 +32,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(kyokai_m.png,nolink);
+~&attachref(kyokai_m2.png,nolink);
