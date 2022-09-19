@@ -11,7 +11,7 @@
 |>|>|>|>|>|CENTER:99|c
 |>|>|>|>|>|''ジャンルごとの曲数((メインジャンル(表における一番左にあるジャンル)のみをカウントしています。))''|h
 |BGCOLOR(#42c0d3):''ポップス''|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|BGCOLOR(#1bc739):''バラエティ''|BGCOLOR(#cac001):''クラシック''|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|
-|''1'' 曲|''15'' 曲|''38'' 曲|''9'' 曲|''35'' 曲|''407'' 曲|
+|''1'' 曲|''15'' 曲|''37'' 曲|''9'' 曲|''35'' 曲|''408'' 曲|
 //|BGCOLOR(#fe90d2):''アニメ''    |''0'' 曲
 //BGCOLOR(magenta):''どうよう''|     ''2'' 曲|
 
@@ -454,7 +454,8 @@
 |BGCOLOR(#1bc739):|BGCOLOR(#ff7028):|[[ライコタイコディスコ>難易度表/おに/ライコタイコディスコ]]|-|ZUN／上海アリス幻樂団(渡辺量)|かきごお||
 |BGCOLOR(#ff7028):||[[らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん]]|-|Sampling Masters AYA|ドンダ||
 |BGCOLOR(#ff7028):||[[ラブユー☆どんちゃん>難易度表/おに/ラブユー☆どんちゃん]]|黒澤かおり|岡部啓一|ブルー|[[公式音源(YouTube)>https://youtu.be/aRGnL2qYBbo]]|
-|BGCOLOR(#cc8aeb):||[[ラブリーX>難易度表/おに/ラブリーX]]|矢野義人|みすみゆり(矢野義人)|ブルー|[[AC7公式サイト>https://web.archive.org/web/20060422042755/http://www.bandainamcogames.co.jp/aa/am/vg/taikono-tatsujin7/special/present/]]で聴ける。|
+|BGCOLOR(#ff7028):||[[ラブリーX>難易度表/おに/ラブリーX]]|矢野義人|みすみゆり(矢野義人)|ブルー|[[公式音源(YouTube)>https://youtu.be/KxyQtTXYQyQ]]|
+|~|~|~|~|~|~|[[AC7公式サイト>https://web.archive.org/web/20060422042755/http://www.bandainamcogames.co.jp/aa/am/vg/taikono-tatsujin7/special/present/]]でも聴ける。|
 |BGCOLOR(#ff7028):||[[λ7708>難易度表/おに/λ7708]]|-|Taiji|高速コア|[[自動生成音源(YouTube)>https://youtu.be/abRQBL8P2e4]]|
 |BGCOLOR(#ff7028):||[[ラ・モレーナ・クモナイ>難易度表/おに/ラ・モレーナ・クモナイ]]|みすみゆり|みすみゆり|2008&br;キテレツ|[[自動生成音源(YouTube)>https://youtu.be/-1oW-o4aGqM]]|
 |BGCOLOR(#ff7028):||[[ららら☆ハッピネス>難易度表/おに/ららら☆ハッピネス]]|ならはしみき、上田茜|おおがみまさこ|フルコン||

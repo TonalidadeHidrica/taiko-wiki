@@ -14,6 +14,7 @@
 ||DS3SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|''509''|''996580点''|~|460点|150点|
 ||iOS&br;AR|~|~|~|''996950点''|~|550点|140点|
 ||Wii U3SP|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|''997700点''|~|600点|160点|
+|AC16.3.6SP||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''997640点''|~|1960点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは134。
@@ -49,6 +50,7 @@
 -おに/[[裏譜面>../ラブリーX(裏譜面)]]
 -[[プレイ動画(AC7, 旧譜面)>https://www.youtube.com/watch?v=I08056RNGt8]] / [[2人用譜面(オート)>https://www.youtube.com/watch?v=SaNi4ZNcOHY]]
 -[[オート動画(Wii U3, 新譜面)>https://www.youtube.com/watch?v=UzskzM1W68s]]
+-[[公式音源動画>https://youtu.be/KxyQtTXYQyQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)

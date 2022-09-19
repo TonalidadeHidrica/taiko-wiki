@@ -622,15 +622,16 @@
 |〇|BGCOLOR(gold):|暗憺を斥けし解放の光芒|[[COLOR(blue):Libera Ray>難易度表/おに/Libera Ray]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|君と彩るミライの音|[[COLOR(blue):Irodoru&#9825;Future>難易度表/おに/Irodoru・Future]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|バチよ荒れ狂え|[[COLOR(blue):狂瀾怒濤>難易度表/おに/狂瀾怒濤]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):狂瀾怒濤(裏)>難易度表/おに/狂瀾怒濤(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|狂瀾怒濤のバチ捌き|[[COLOR(blue):狂瀾怒濤(裏)>難易度表/おに/狂瀾怒濤(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|別れのノイズと旅立ちの旋律|[[COLOR(blue):そして勇者は眠りにつく>難易度表/おに/そして勇者は眠りにつく]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):そして勇者は眠りにつく(裏)>難易度表/おに/そして勇者は眠りにつく(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|勇者の力を継承せし者|[[COLOR(blue):そして勇者は眠りにつく(裏)>難易度表/おに/そして勇者は眠りにつく(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|SN 2022 taiko|[[COLOR(blue):SUPERNOVA>難易度表/おに/SUPERNOVA]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):SUPERNOVA(裏)>難易度表/おに/SUPERNOVA(裏譜面)]]をフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):(裏)>難易度表/おに/(裏譜面)]]をフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):ラブリーX(裏)>難易度表/おに/ラブリーX(裏譜面)]]をフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):ヒカリノカナタへ>難易度表/おに/ヒカリノカナタへ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|SUPERNOVA EXpert|[[COLOR(blue):SUPERNOVA(裏)>難易度表/おに/SUPERNOVA(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|ヒカリヘミチビケ|[[COLOR(blue):ヒカリノカナタヘ>難易度表/おに/ヒカリノカナタヘ]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ほんの少し 惑星欲しい|[[COLOR(blue):SORA-IV ブンパソング>難易度表/おに/SORA-IV ブンパソング]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|ゴー！ドライブしようよ|[[COLOR(blue):ラブリーX(裏)>難易度表/おに/ラブリーX(裏譜面)]]をフルコンボ|~|
+|〇|BGCOLOR(gold):|神竜を討伐せし者|[[COLOR(blue):神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|Myth Breaker|[[COLOR(blue):神竜 〜Shinryu〜(裏)>難易度表/おに/神竜 〜Shinryu〜(裏譜面)]]をフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):RAINBOW SKY>難易度表/おに/RAINBOW SKY]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):共奏鼓祭>難易度表/おに/共奏鼓祭]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):アンチェイン・ガール！>難易度表/おに/アンチェイン・ガール！]]を難易度おにでフルコンボ|~|
