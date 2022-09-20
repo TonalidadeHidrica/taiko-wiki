@@ -47,7 +47,7 @@
 
 ***譜面[#score]
 ~暫定版、キャプチャから計算
-~&attachref(hiyoko_5.png,nolink);~
+~&attachref(Chick appraiser修正5.png,nolink);~
 
 ~46〜54小節の拡大(暫定)
 ~46小節は4倍(5/8拍子)、47〜54小節は16倍(1/64拍子)
