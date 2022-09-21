@@ -1,8 +1,10 @@
 * Dang Dang [#title]
--テレビ東京アニメ''「アイシールド21」''のOP3。
+-アニメ「''アイシールド21''」のOP3。
+
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC9''|CENTER:★×7|CENTER:''403''|CENTER:''1002990点''|CENTER:790点|CENTER:160点|
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC9''|BGCOLOR(orange):''アニメ''|★×7|''403''|''1002990点''|790点|160点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは183。
@@ -11,15 +13,18 @@
 -平均密度は''約5.11打/秒''。
 
 ***その他 [#other]
--アーティストは''ZZ''。
--本人音源ではない？
+-アーティストは、''&ruby(ズィーズィー){ZZ};''。
+--作詞は、SOTARO。作曲・編曲は、ZZ。
 -曲IDは、''dang''。
+
 ----
 -[[かんたん>難易度表/かんたん/Dang Dang]] 
 -[[ふつう>難易度表/ふつう/Dang Dang]] 
 -[[むずかしい>難易度表/むずかしい/Dang Dang]] 
 -[[プレイ動画>https://www.youtube.com/watch?v=-Bf20aLD-X0]]
+
 *** コメント [#comment]
 #pcomment(,noname)
-***譜面 [#fumen]
+
+***譜面 [#score]
 &attachref(Dang Dang_2.png,nolink);

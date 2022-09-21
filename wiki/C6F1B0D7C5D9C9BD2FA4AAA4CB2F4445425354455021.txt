@@ -6,7 +6,7 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
 |''AC15.3.6''|Wii U2SP&br;PS Vita1DL&br;3DS3DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''888''|''1206590点''|400点|98点|
 ||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|
-||iOS|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1203650点''|350点|90点|
+||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1203650点''|350点|90点|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1003440点''}|COLOR(#ff3300){1130点}|-|
 |AC16.1.0||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|
 

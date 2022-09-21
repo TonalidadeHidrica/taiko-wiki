@@ -28,7 +28,6 @@
 
 ***その他 [#other]
 -作曲・編曲・トラックダウンは、[[''あず♪''>参加アーティスト一覧/あず♪]]。
--曲名が似ているためよく誤解されてしまうが、''この曲は季曲シリーズではない''。
 -2015年12月24日に同社の音楽ゲーム「シンクロニカ」にも収録された。
 -曲IDは、''furyu''。
 
@@ -44,6 +43,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(冬竜 〜Toryu〜(表).png,nolink);
+~&attachref(冬竜 〜Toryu〜(表).png,nolink);
+
 ~見かけ重視
 ~&attachref(Toryu_m.png,nolink);

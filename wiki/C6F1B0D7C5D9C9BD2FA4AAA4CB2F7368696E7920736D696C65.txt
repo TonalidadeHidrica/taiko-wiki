@@ -10,7 +10,7 @@
 |AC15.6.2||~|~|''555''|''1029310点''|~|530点|135点|
 ||COLOR(red){PS Vita MS}|BGCOLOR(#99ff66):''LIVE&br;FOR YOU!''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''983630点''}|~|COLOR(#ff3300){1670点}|-|
-|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''989100点''|~|1780点|-|
+|AC16.1.0||BGCOLOR(hotpink):''アニメ''|~|~|''987900点''|~|1780点|-|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|~|~|~|~|
 |AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''&br;(メイン)};|~|~|~|~|~|~|

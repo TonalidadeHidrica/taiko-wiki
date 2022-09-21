@@ -16,7 +16,6 @@
 ||''泣かないで''|165|[[★×3>難易度表/かんたん/泣かないで]]|[[★×4>難易度表/ふつう/泣かないで]]|[[★×5>難易度表/むずかしい/泣かないで]]|[[★×5>難易度表/おに/泣かないで]]|
 ||''LIFE''|127|[[★×3>難易度表/かんたん/LIFE]]|[[★×5>難易度表/ふつう/LIFE]]|[[★×6>難易度表/むずかしい/LIFE]]|[[★×8>難易度表/おに/LIFE]]|
 ||''Lovin' Life''|96|[[★×3>難易度表/かんたん/Lovin' Life]]|[[★×5>難易度表/ふつう/Lovin' Life]]|[[★×5>難易度表/むずかしい/Lovin' Life]]|[[★×6>難易度表/おに/Lovin' Life]]|
-||''千の夜をこえて''|67-88※|[[★×3>難易度表/かんたん/千の夜をこえて]]|[[★×4>難易度表/ふつう/千の夜をこえて]]|[[★×5>難易度表/むずかしい/千の夜をこえて]]|[[★×6>難易度表/おに/千の夜をこえて]]|
 |''増''|''歩み''|90|[[★×3>難易度表/かんたん/歩み]]|[[★×4>難易度表/ふつう/歩み]]|[[★×5>難易度表/むずかしい/歩み]]|[[★×3>難易度表/おに/歩み]]|
 |BGCOLOR(pink):CENTER:1|>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
 ||''Prisoner Of Love''|97|[[★×2>難易度表/かんたん/Prisoner Of Love]]|[[★×3>難易度表/ふつう/Prisoner Of Love]]|[[★×4>難易度表/むずかしい/Prisoner Of Love]]|[[★×6>難易度表/おに/Prisoner Of Love]]|
@@ -49,8 +48,7 @@
 |''曲名''|BPM|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''&aname(anime12dlc);|
 |''キン肉マン Go Fight!''|149|[[★×3>難易度表/かんたん/キン肉マン Go Fight!]]|[[★×4>難易度表/ふつう/キン肉マン Go Fight!]]|[[★×5>難易度表/むずかしい/キン肉マン Go Fight!]]|[[★×6>難易度表/おに/キン肉マン Go Fight!]]|
-|>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
-|''曇天''|187|[[★×3>難易度表/かんたん/曇天]]|[[★×5>難易度表/ふつう/曇天]]|[[★×6>難易度表/むずかしい/曇天]]|[[★×7>難易度表/おに/曇天]]|
+//|>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
 
 ***CSに収録されたことがあるが、現在はAC譜面がダウンロードできない曲 [#ac12scoredlc]
 |||>|>|>|CENTER:64|c
@@ -109,7 +107,6 @@
 |>|BGCOLOR(pink):|>|>|>|BGCOLOR(pink):CENTER:64|c
 |''めちゃモテ I LOVE YOU''|138|[[★×3>難易度表/かんたん/めちゃモテ I LOVE YOU]]|[[★×3>難易度表/ふつう/めちゃモテ I LOVE YOU]]|[[★×6>難易度表/むずかしい/めちゃモテ I LOVE YOU]]|[[★×7>難易度表/おに/めちゃモテ I LOVE YOU]]|
 |''School Days''|140|[[★×2>難易度表/かんたん/School Days]]|[[★×3>難易度表/ふつう/School Days]]|[[★×6>難易度表/むずかしい/School Days]]|[[★×7>難易度表/おに/School Days]]|
-|''Stairway Generation''|153|[[★×3>難易度表/かんたん/Stairway Generation]]|[[★×4>難易度表/ふつう/Stairway Generation]]|[[★×6>難易度表/むずかしい/Stairway Generation]]|[[★×7>難易度表/おに/Stairway Generation]]|
 |||>|>|>|CENTER:64|c
 |>|>|>|>|>|BGCOLOR(lime):''バラエティ''&aname(variety13);|
 |''NIGHT OF FIRE''|154.95|[[★×4>難易度表/かんたん/NIGHT OF FIRE]]|[[★×6>難易度表/ふつう/NIGHT OF FIRE]]|[[★×7>難易度表/むずかしい/NIGHT OF FIRE]]|[[★×8>難易度表/おに/NIGHT OF FIRE]]|

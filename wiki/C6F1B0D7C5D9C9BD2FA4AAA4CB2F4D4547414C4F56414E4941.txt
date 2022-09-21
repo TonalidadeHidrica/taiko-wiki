@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.11.6((アジア版))|''NS1DL''&br;PS4 1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×9|''664''|''1084350点''|＋連打|490点|88点|
+|AC15.11.6((アジア版))|''NS1DL''&br;PS4 1DL&br;NS2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×9|''664''|''1084350点''|＋連打|490点|88点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''989780点''}|~|COLOR(#ff3300){1180点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム&&br;バラエティ''};|~|~|''984080点''|~|1470点|-|
 |AC16.2.0|Xbox1|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
@@ -30,14 +30,13 @@
 ***その他 [#other]
 -作曲は、''Toby Fox''。
 --曲名は、スクウェアのRPG「ライブ・ア・ライブ」のボス戦BGM「MEGALOMANIA」と、ルーマニアの地名「Transylvania」を掛け合わせたもの。
--2022年7月3日に『[[ANIME EXPO>https://www.twitch.tv/videos/1520571393]]』((リンク先はTwitchの配信アーカイブ。16分55秒頃を参照))で行われた発表内の映像から、NS2で裏譜面が追加されることが判明した。((NS2の体験版の「製品版であそべる曲」からも裏譜面が確認できる))
 -曲IDは、''udtmgl''。
 
 ----
 -[[かんたん>難易度表/かんたん/MEGALOVANIA]]
 -[[ふつう>難易度表/ふつう/MEGALOVANIA]]
 -[[むずかしい>難易度表/むずかしい/MEGALOVANIA]]
-//-おに/[[裏譜面>../MEGALOVANIA(裏譜面)]]
+-おに/[[裏譜面>難易度表/おに/MEGALOVANIA(裏譜面)]]
 -[[オート動画(NS1)>https://youtu.be/iD-suGhKwv8]]
 
 ***コメント [#comment]
