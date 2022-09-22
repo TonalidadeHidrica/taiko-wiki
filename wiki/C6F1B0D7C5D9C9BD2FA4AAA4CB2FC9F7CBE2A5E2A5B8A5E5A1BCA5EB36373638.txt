@@ -7,9 +7,10 @@
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){???0点}|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは''212''。
+-BPMは212。
 
 ***その他 [#other]
+-作曲・編曲は、[[''翡翠''>参加アーティスト一覧/翡翠]]。((ソース→https://twitter.com/hisui_tky/status/1572771379195564033?cxt=HHwWgsDSnZHPzdMrAAAA))
 -曲IDは、''fmod''。
 
 ----
@@ -17,7 +18,7 @@
 -[[ふつう>難易度表/ふつう/風魔モジュール6768]]
 -[[むずかしい>難易度表/むずかしい/風魔モジュール6768]]
 -おに/[[裏譜面>../風魔モジュール6768(裏譜面)]]
-//-[[オート動画(NS2)>]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=quKlt6Waens]]
 
 ***コメント [#comment]
 #pcomment(,noname)

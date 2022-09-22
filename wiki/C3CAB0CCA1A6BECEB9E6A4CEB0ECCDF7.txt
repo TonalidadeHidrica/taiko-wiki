@@ -763,6 +763,8 @@
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):世界最強の社長|BGCOLOR(grey):[[COLOR(blue):REAL×EYEZ>難易度表/おに/REAL×EYEZ]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーゼロワン}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):文豪にして剣豪|BGCOLOR(grey):[[COLOR(blue):ALMIGHTY〜仮面の約束 feat.川上洋平>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーセイバー}」を獲得|
 |〇|BGCOLOR(pink):|ヒーローと悪魔が相棒|[[COLOR(blue):liveDevil>難易度表/おに/liveDevil]]をプレイ|きせかえ「COLOR(red){仮面ライダーリバイス}」を獲得|
+|〇|BGCOLOR(pink):|ドンダフルフェスティバル！|[[COLOR(blue):まいにちがドンダフル>難易度表/おに/まいにちがドンダフル]]をプレイ||
+//|〇|BGCOLOR(pink):||[[COLOR(blue):Trust・Last>難易度表/おに/Trust・Last]]をプレイ|きせかえ「COLOR(red){仮面ライダーギイツ}」を獲得|
 |BGCOLOR(grey):〇||BGCOLOR(grey):麦わらの一味|BGCOLOR(grey):2021/10/20〜11/30にワンピースバトル演奏でカイドウに30勝する|BGCOLOR(grey):|
 |BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝参加|BGCOLOR(grey):2022/1/17〜2022/2/19に太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンラインの課題曲をプレイ|BGCOLOR(grey):|
 ||BGCOLOR(pink):|だめだっていったのに|[[このQRコード>https://mobile.twitter.com/taiko_team/status/1509697054313881600]]を読み込み後、そのゲーム内の曲をプレイ|リンク先のQRコードを読み込まない場合はもらえない|

@@ -6,7 +6,7 @@
 |''AC16.2.6SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''961''|''1004340点''|+連打|1040点|
 
 ***譜面構成・攻略 [#capture]
--BPMは5?-''300''。
+-BPMは5-''300''。
 -全体的に譜面が忙しくかつ見づらいため捌きにくい。
 --特に、27小節は見た目が急に遅くなるため見極めづらい。&br;COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}&br;と面が全て利き手になるので動きを覚えてリズムを合わせたり&br;COLOR(red){●}(COLOR(red){●})COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}&br;とカッコ枠のように32分間隔で面を加えて32分を利き手で叩けるようにアレンジすると良い。
 ---ちなみに、ドンの間隔はBPM160の4分、カッの間隔はBPM160の14分である。(見た目もそのようになっている)
@@ -26,7 +26,7 @@
 -この譜面をフルコンボすると、''称号''「''愛のムチはごほうびです''」を獲得できる。
 -[[ニジイロVer.段位道場2021>過去の段位道場#niziiro2021]]の[[名人>段位道場/ニジイロ2021/名人]]3曲目の課題曲となった。
 --BPMが220台で24分を始めとするコンボカッターや精度崩しが非常に多い上に速度変化も激しいこの譜面が名人3曲目と判明した際は当時多くのドンだーが驚愕した。
-//-曲IDは、''batimt''。
+-曲IDは、''batimt''。
 
 ----
 -[[かんたん>難易度表/かんたん/†バチ!ムチ!?マッスルキングダム†]]
@@ -43,5 +43,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~暫定譜面
-~&attachref(Bachi Muchi Musclekingdom_4.png,nolink);
+~&attachref(batimt_m.png,nolink);
+~ラストの拡大図(4倍)
+~&attachref(batimt_last.png,nolink);

@@ -482,7 +482,7 @@
 |crkvic|[[VICTORIA>難易度表/おに/VICTORIA]]|''Cr''an''k''y ''VIC''TORIA|
 |crosbl|[[クロス・ブルー>難易度表/おに/クロス・ブルー]]||
 |crtesc|[[ESCAPE FROM CRISIS>難易度表/おに/ESCAPE FROM CRISIS]]|クリティカルベロシティ|
-|crtrcs|[[Racing the Storm>難易度表/おに/Racing the Storm]]|クリティカルベロシティ|
+|crtrcs|[[Racing the Storm>難易度表/おに/Racing the Storm]]|~|
 |crtsun|[[Sunset Runaway>難易度表/おに/Sunset Runaway]]|~|
 |crturb|[[Urban Striker>難易度表/おに/Urban Striker]]|~|
 |cry|[[NO MORE CRY>難易度表/おに/NO MORE CRY]]||
@@ -585,7 +585,7 @@
 |dodai|[[Do-Dai>難易度表/おに/Do-Dai]]||
 |dogbit|[[Dogbite>難易度表/おに/Dogbite]]||
 |dogma1|[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|セントラル''ドグマ''|
-//|dogma2|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|~|
+|dogma2|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|~|
 |doit|[[Do it! Now>難易度表/おに/Do it! Now]]||
 |dojo|[[音符のうた>難易度表/おに/音符のうた]]|初心者道場|
 |dojoae|[[音符のうた -English Version->難易度表/おに/音符のうた -English Version-]]|初心者道場(Apple English)|

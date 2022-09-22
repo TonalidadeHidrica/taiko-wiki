@@ -5,6 +5,9 @@
 |>|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:AC9|CENTER:''CS7''|CENTER:★×4|CENTER:''161''|CENTER:''?????0点''|CENTER:＋連打|CENTER:1270点|CENTER:390点|
 |CENTER:AC10-11|CENTER:Wii2|~|~|CENTER:''694320点''|~|CENTER:1280点|~|
+||CENTER:NS2MP|CENTER:★×3|~|CENTER:''648480点''|~|CENTER:1220点|CENTER:495点|
+|CENTER:COLOR(#ff3300){真打}||~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){??0点}|CENTER:-|
+
 -BPMは176。
 -黄色連打は1本しかないが、長さがかなり長い。(2,188秒)
 -[[おに>難易度表/おに/ユルユルでDE-O!]]とはコンボ数が2倍以上離れている。

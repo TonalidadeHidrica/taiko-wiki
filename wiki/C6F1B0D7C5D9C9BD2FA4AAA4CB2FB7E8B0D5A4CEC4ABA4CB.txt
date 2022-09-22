@@ -30,4 +30,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+新基準は★×7
 &attachref(決意の朝に_2.png,nolink);
