@@ -57,6 +57,7 @@
 |418||[[初音ミクの激唱(裏)>難易度表/ふつう/初音ミクの激唱(裏譜面)]]|
 |414|[[スクロール・ミカ>難易度表/ふつう/スクロール・ミカ]]||
 |~|[[Got more raves?>難易度表/ふつう/Got more raves?]]||
+|413|[[ESCAPE FROM CRISIS>難易度表/ふつう/ESCAPE FROM CRISIS]]||
 |412|[[KAGEKIYO 源平討魔伝メドレー>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]](〜AC9)||
 |411|[[Leviathan>難易度表/ふつう/Leviathan]]||
 |410|[[TD -28619029byte remix->難易度表/ふつう/TD -28619029byte remix-]]||
@@ -81,6 +82,7 @@
 |399|[[Rare Hero>難易度表/ふつう/Rare Hero]]||
 |397|[[ナマハゲノウタ>難易度表/ふつう/ナマハゲノウタ]]||
 |395|[[Shiny Kung-fu Revival>難易度表/ふつう/Shiny Kung-fu Revival]]||
+|393|[[風魔モジュール6768>難易度表/ふつう/風魔モジュール6768]]||
 |391|[[Evidence of evil>難易度表/ふつう/Evidence of evil]]||
 |390|[[太鼓のマーチ>難易度表/ふつう/太鼓のマーチ]](〜PSP1)|[[dance storm(裏)>難易度表/ふつう/dance storm(裏譜面)]]|
 |~|[[Central Dogma Pt.2>難易度表/ふつう/Central Dogma Pt.2]]||

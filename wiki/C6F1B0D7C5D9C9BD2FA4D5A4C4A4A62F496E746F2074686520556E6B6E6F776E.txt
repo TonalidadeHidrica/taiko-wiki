@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''NS1DL''|BGCOLOR(orange):''アニメ''|★×2|''66''|''412620点''|＋連打|2060点|1510点|
+|''NS1DL''&br;NS2|BGCOLOR(orange):''アニメ''|★×2|''66''|''412620点''|＋連打|2060点|1510点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''970220点''}|~|COLOR(#ff3300){13010点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -18,7 +18,6 @@
 -[[むずかしい>難易度表/むずかしい/Into the Unknown]]
 -[[おに>難易度表/おに/Into the Unknown]]
 -[[オート動画(NS1)>https://www.youtube.com/watch?v=h2wt2SLITJs]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/BbMzGRNgySE]]
 
 ***コメント [#comment]
 #pcomment(,noname)

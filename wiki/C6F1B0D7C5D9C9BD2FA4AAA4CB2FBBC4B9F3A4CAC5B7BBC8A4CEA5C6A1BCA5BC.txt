@@ -11,7 +11,7 @@
 |AC10-14|Wii2&br;PSPDXDL&br;iOS&br;AR|~|~|~|''995030点''|~|810点|210点|
 |AC11亜&br;AC12亜||BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||BGCOLOR(orange):''アニメ''|~|~|COLOR(#ff3300){''996030点''}|~|COLOR(#ff3300){2790点}|-|
-|AC15.1.0|Wii5&br;Wii U1DL&br;PS Vita1&br;PS4 1&br;NS1&br;PTB|~|~|~|''998980点''|~|860点|255点|
+|AC15.1.0|Wii5&br;Wii U1DL&br;PS Vita1&br;PS4 1&br;NS1&br;PTB&br;NS2|~|~|~|''998980点''|~|860点|255点|
 ||PS Vita1亜|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''999600点''}|~|COLOR(#ff3300){2800点}|-|
 |AC16.1.0||BGCOLOR(hotpink):''アニメ''&aname(anime);|~|~|''997050点''|~|2890点|-|

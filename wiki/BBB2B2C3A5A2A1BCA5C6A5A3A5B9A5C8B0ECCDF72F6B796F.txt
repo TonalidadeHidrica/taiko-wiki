@@ -1,4 +1,4 @@
-*''kyo''｜''宮倉恭子'' [#title]
+*''kyo'' [#title]
 **概要 [#more]
 -バンダイナムコスタジオ所属。
 -[[Twitter>https://twitter.com/kyo_765]]
@@ -28,4 +28,5 @@
 ---[[Genesis Ray>https://www.youtube.com/watch?v=mHMVdMz20nE]]
 
 *** コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
 #pcomment(,noname)

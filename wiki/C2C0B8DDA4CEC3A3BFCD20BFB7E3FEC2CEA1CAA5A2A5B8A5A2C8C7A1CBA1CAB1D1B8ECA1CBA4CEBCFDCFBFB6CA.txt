@@ -79,7 +79,7 @@
 ----
 
 |CENTER:1|CENTER:1||LEFT:60|>|>|>|>|CENTER:42|c
-|>||''Song''|BPM((Those with * have slight BPM changes.))|BGCOLOR(#d52700):COLOR(#fff):''Easy''|BGCOLOR(#769e11):COLOR(#fff):''Normal''|BGCOLOR(#297ba3):COLOR(#fff):''Hard''|BGCOLOR(#af1e7f):COLOR(#fff):''Extreme''|BGCOLOR(#6042dd):COLOR(#fff):''Extreme (Ura)''|h
+|>||''Song''|BPM((Those with * have slight BPM changes.))|BGCOLOR(#d52700):COLOR(#fff):''Easy''|BGCOLOR(#769e11):COLOR(#fff):''Normal''|BGCOLOR(#297ba3):COLOR(#fff):''Hard''|BGCOLOR(#af1e7f):COLOR(#fff):''Extreme''|BGCOLOR(#6042dd):COLOR(#fff):''Extreme (Extra)''|h
 |>|>|>|>|>|>|>|>|BGCOLOR(#42c0d3):''POP''&aname(pops);|
 |||''うっせぇわ / Usseewa''&br;　　SIZE(11){Ado}|178|[[★×2>難易度表/かんたん/うっせぇわ]]|[[★×2>難易度表/ふつう/うっせぇわ]]|[[★×3>難易度表/むずかしい/うっせぇわ]]|[[★×8>難易度表/おに/うっせぇわ]]|-|
 ||SIZE(9){''NEW''}|''AWAY''|136|[[★×2>難易度表/かんたん/AWAY]]|[[★×4>難易度表/ふつう/AWAY]]|[[★×4>難易度表/むずかしい/AWAY]]|[[★×6>難易度表/おに/AWAY]]|-|

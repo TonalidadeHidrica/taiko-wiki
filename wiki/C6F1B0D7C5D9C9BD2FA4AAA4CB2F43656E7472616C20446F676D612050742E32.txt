@@ -27,7 +27,7 @@
 -アーティストは、[[''黒沢ダイスケ''>参加アーティスト一覧/黒沢ダイスケ]]。
 -[[前作>../Central Dogma Pt.1]]と異なり、この曲は誰でもプレイ可能である。
 -この譜面をフルコンボすると、''称号''「''二重螺旋の真実に至りし者''」を獲得できる。
-//-曲IDは、''dogma2''。
+-曲IDは、''dogma2''。
 
 ----
 -[[かんたん>難易度表/かんたん/Central Dogma Pt.2]]/[[Pt.1>難易度表/かんたん/Central Dogma Pt.1]]
@@ -40,7 +40,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(Central Dogma Pt.2_4.png,nolink);
-
-***あべこべ [#score]
-~&attachref(dogma2abekobe.png,nolink);
+~&attachref(dogma2_m.png,nolink);
+~あべこべ
+~&attachref(dogma2_rev.png,nolink);

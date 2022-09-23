@@ -295,6 +295,12 @@
 |BGCOLOR(#49d5eb):''ポップス''|[[''君はロックを聴かない''>難易度表/おに/君はロックを聴かない]]||
 |BGCOLOR(#fe90d2):''アニメ''|[[''DiSCOVER THE FUTURE''>難易度表/おに/DiSCOVER THE FUTURE]]|TVアニメ「アイドリッシュセブン Second BEAT！」より|
 
+|CENTER:100|CENTER:50||c
+|>|>|CENTER:''9/28配信曲''|h
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''修煉愛情 Practice Love''>難易度表/おに/修煉愛情 Practice Love]]((公式ブログでは「修''錬''愛情 Practice Love」と表記されている。言語によって表記が違うとも考えられるため、誤植かどうかは現時点では不明。))|
+//↑ソース　https://www.facebook.com/taikoac.asia/
+|~|COLOR(red):''新''|[[''Savage Love''>難易度表/おに/Savage Love]]|
+
 -2022/10/23 7:00をもって、以下の1曲がサヨナラとなる。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V??.??)|h

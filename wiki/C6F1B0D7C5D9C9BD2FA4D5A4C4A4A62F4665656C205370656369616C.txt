@@ -16,7 +16,7 @@
 -[[かんたん>難易度表/かんたん/Feel Special]]
 -[[むずかしい>難易度表/むずかしい/Feel Special]]
 -[[おに>難易度表/おに/Feel Special]]
-//-[[オート動画(NS2)>]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=AMzLFJJWz_4&t=19s]]
 
 ***コメント [#comment]
 #pcomment(,noname)

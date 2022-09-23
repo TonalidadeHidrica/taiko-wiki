@@ -34,16 +34,27 @@
 
 ***攻略 [#capture]
 -1曲目は[[≠MM>難易度表/おに/≠MM]]。過去に何度も達人課題曲を経験した、[[まださいたま2000>難易度表/おに/まださいたま2000]]のようなモールス配置とBPM252から繰り出される16分ラッシュが特徴的な体力譜面。
+--先述した通りモールス配置は特徴的でかつ難易度も高いため対策は必須、達人へ挑戦する上で避けられない道なので確実に安定させるなら自分好みのアレンジを組む事をオススメする。
 
 -2曲目は[[ダンガンノーツ(裏譜面)>難易度表/おに/ダンガンノーツ(裏譜面)]]。BPM210でありながら、鋭い24分や32分が飛び交う総合譜面。特に32分に関してはシングルで繋ぐのですら至難の業なので、ロール処理の技術は必須と言える。
 
 -3曲目は[[神竜 〜Shinryu〜(裏譜面)>難易度表/おに/神竜 〜Shinryu〜(裏譜面)]]。達人3曲目ではお馴染みの基本BPM300の高速物量譜面で、変拍子と強烈なラス殺しが特徴的である。
---ラス殺しの運手参考(138小節以外逆手dk処理無し)
+#region(ラス殺しの運手参考(括弧内はロール処理))
+--''138小節以外逆手dk処理無し''
 &br;125〜126小節：16分を2-2、12分を正攻法
 &br;127〜134小節：16分を2-2、12分を1-2
 &br;135.136小節：2回来るCOLOR(red){●●}COLOR(blue){○}COLOR(red){●}  COLOR(red){●}COLOR(blue){○}を正攻法、他16分を2-2
 &br;137小節：16分全てを2-2
 &br;138小節：(COLOR(red){●●})  (COLOR(red){●}COLOR(blue){○})(COLOR(red){●●})(COLOR(red){●}COLOR(blue){○}) (COLOR(red){●} COLOR(blue){○}) (COLOR(red){●}COLOR(blue){○})(COLOR(red){●}COLOR(blue){○})(COLOR(red){●}COLOR(blue){○})(COLOR(red){●}COLOR(blue){○})COLOR(red){●}と16分、12分共に2-2
+--''133.134小節以外dk処理無し(1-2やシングル要素強め)''
+&br;125&#12316;128小節：全て正攻法
+&br;129.130小節：12分は正攻法、16分をCOLOR(red){●}(COLOR(red){●●})COLOR(blue){○}(COLOR(red){●●})COLOR(red){●}というように1-2処理をする、リズムは12分とほぼ同じ。
+&br;131.132小節：16分をCOLOR(red){●}(COLOR(red){●●})COLOR(blue){○}/(COLOR(red){●●})(COLOR(red){●●})というように1-2処理と2-2処理を使い分ける、12分は正攻法。
+&br;133.134小節：16分を全て2-2処理。
+&br;135.136小節：2回来るCOLOR(red){●●}COLOR(blue){○}COLOR(red){●}  COLOR(red){●}COLOR(blue){○}を正攻法、他16分を2-2。
+&br;137小節：16分のCOLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●●●●●}のみ2-2処理。
+&br;138小節：COLOR(red){●●}  COLOR(red){●}COLOR(blue){○}COLOR(red){●●}COLOR(red){●}COLOR(blue){○} COLOR(red){●} COLOR(blue){○} COLOR(red){●}(COLOR(blue){○}COLOR(red){●})(COLOR(blue){○}COLOR(red){●})(COLOR(blue){○}COLOR(red){●})(COLOR(blue){○}COLOR(red){●})というように2-2処理。
+#endregion
 
 ***その他 [#other]
 -細かい攻略情報はそれぞれのページを参考にしよう。

@@ -41,7 +41,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(rapasu1.png,nolink);
+~擬似32分は除外
+~&attachref(lapaz_x.png,nolink);
 
 ~見た目BPM156統一
 ~&attachref(ラパスの裏_4.png,nolink);
