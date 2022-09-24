@@ -4,6 +4,8 @@
 |CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
 |CENTER:''CS5SP''|CENTER:★×3|CENTER:''231''|CENTER:''541860点''|CENTER:＋連打|CENTER:760点|CENTER:160点|
 |CENTER:PSP2DL|~|~|CENTER:''626720点''|~|CENTER:760点|CENTER:200点|
+|CENTER:NS2|CENTER:★×5|~|CENTER:''738870点''|~|CENTER:930点|CENTER:298点|
+|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''?????0点''}|~|CENTER:COLOR(#ff3300){??0点}|CENTER:-|
 -BPMは106。
 -黄色連打がかなり多い連打曲である。
 -速度は少し遅めだが、全体的に12分がかなり多い。

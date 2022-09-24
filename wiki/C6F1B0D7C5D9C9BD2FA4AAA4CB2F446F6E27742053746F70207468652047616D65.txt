@@ -27,7 +27,7 @@
 -作曲・編曲・マスタリング・プロデュースは、[[''DJ Myosuke''>参加アーティスト一覧/DJ Myosuke]] ([[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]])。
 --曰く、[[「『''ドンゲー''』と略されるのを狙って曲名をつけた」>https://twitter.com/myosuke/status/1180320385159458816?s=21]]とのこと。
 -譜面作成は、[[''steμ''>譜面作成者一覧/steμ]]。
--この譜面をフルコンボすると、''称号''「''Don't Stop the Game''」を獲得できる。 
+-新筐体でこの譜面をフルコンボすると、''称号''「''Don't Stop the Game''」を獲得できる。 
 -曲IDは、''dsgame''。
 
 ----

@@ -961,5 +961,5 @@
 --「SPY×FAMILY」[[ミックスナッツ>難易度表/おに/ミックスナッツ]] 【ポップス】(併用)
 
 **コメント [#comment]
--&color(#33f){''曲の収録などの要望はここではなく[[公式Twitter>http://twitter.com/taiko_team]]にてお願いします。''};
+-COLOR(#33f){''曲の収録などの要望はここではなく[[公式Twitter>http://twitter.com/taiko_team]]にてお願いします。''}
 #pcomment(,10,noname)

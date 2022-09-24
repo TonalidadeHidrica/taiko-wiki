@@ -1,4 +1,4 @@
-*ソウルキャリバーII SIZE(16){&ruby(ブレイブ){Brave}; &ruby(ソード){Sword};, &ruby(ブレイバー){Braver}; &ruby(ソウル){Soul};}&br;Brave Sword, Braver Soul((NS1・NS RPG・Xbox1での表記、実際の曲名)) [#title]
+*ソウルキャリバーII SIZE(16){&ruby(ブレイブ){Brave}; &ruby(ソード){Sword};, &ruby(ブレイバー){Braver}; &ruby(ソウル){Soul};}&br;Brave Sword, Braver Soul((NS1・NS RPG・Xbox1・NS2での表記、実際の曲名)) [#title]
 -ナムコのゲーム「''[[ソウルキャリバーII>ゲーム別収録曲#sc]]''」より、タキのステージ「上ノ伊城・桜台門」のテーマソング。
 
 **表譜面 [#basic]

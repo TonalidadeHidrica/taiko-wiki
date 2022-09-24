@@ -769,7 +769,7 @@
 |>|>|>|>|>|BGCOLOR(orange):''アニメ''|
 |''Growing of my heart''|125|[[★×2>難易度表/かんたん/Growing of my heart]]|[[★×3>難易度表/ふつう/Growing of my heart]]|[[★×5>難易度表/むずかしい/Growing of my heart]]|[[★×7>難易度表/おに/Growing of my heart]]|
 
-***GReeeeN (6曲) [#green]
+***COLOR(green){GReeeeN} (6曲) [#green]
 ||68|>|>|>|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
 |>|>|>|>|>|BGCOLOR(cyan):''J-POP''/''ポップス''|
