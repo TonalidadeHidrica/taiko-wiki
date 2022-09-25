@@ -18,7 +18,7 @@
 -84〜99・105小節以降は、BPMが[[幽玄ノ乱>../幽玄ノ乱]]と同じ300にまで跳ね上がるが、84〜91小節はHS0.5で見た目BPMが150になる上に、91〜99小節は8分しかないのでそこまで苦戦はしない。
 --105小節以降は、16分が頻出するので交互かロール処理を求められる。ロール処理なら後述のようにカッコ枠をロール処理すると叩きやすい。
 ---(COLOR(red){●}COLOR(red){●})COLOR(blue){○} COLOR(blue){○} COLOR(red){●}×4&br;(COLOR(red){●}COLOR(red){●})COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}×2&br;(COLOR(red){●}COLOR(red){●}) (COLOR(red){●}COLOR(red){●})×3 COLOR(red){●}
--1曲を通しての平均密度は、''約7.71打/秒''。なお、BPM220地帯((一時減速する27小節も含む))の密度は''約9.27打/秒''にまで跳ね上がる。
+-1曲を通しての平均密度は、''約7.70打/秒''。なお、BPM220地帯((一時減速する27小節も含む))の密度は''約9.27打/秒''にまで跳ね上がる。
 
 ***その他 [#other]
 -曲名の両脇にある十字架「†」は「ダガー(短剣符)」と言い、「ダガー」と入力すれば変換できる。詳しくは[[Wikipedia>https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%AC%E3%83%BC]]を参照。
@@ -45,6 +45,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(batimt_m.png,nolink);
+~&attachref(batimt_m_2.png,nolink);
 ~ラストの拡大図(4倍)
-~&attachref(batimt_last.png,nolink);
+~&attachref(batimt_last_2.png,nolink);

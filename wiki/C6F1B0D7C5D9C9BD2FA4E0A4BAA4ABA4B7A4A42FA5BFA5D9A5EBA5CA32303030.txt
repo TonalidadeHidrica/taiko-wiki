@@ -10,14 +10,14 @@
 |AC11亜||BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|COLOR(#ff3300){''905760点''}|COLOR(#ff3300){1360点}|-|~|
 ||3DS1SP|~|~|~|''904730点''|430点|108点|~|
-|AC15.6.4|PS Vita1DL|~|~|~|''905690点''|410点|~|~|
+|AC15.6.4|PS Vita1DL&br;NS2MP|~|~|~|''905690点''|410点|~|~|
 ||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1005660点''}|COLOR(#ff3300){1510点}|-|~|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''909020点''|350点|100点|~|
 |AC16.1.0||~|~|~|''1004800点''|1570点|-|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは170。
+-BPMは約170。
 -''完全精度曲''のひとつ。
 -譜面は複合3連打が多く配置されており、2000シリーズの中では遅い方とはいえBPMは170。
 --COLOR(red){●●}COLOR(blue){●}やCOLOR(blue){●●}COLOR(red){●}などの複合を、高速でさばくのが苦手な人には厄介な譜面。
@@ -30,18 +30,19 @@
 -平均密度は、''約5.33打/秒''。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/タベルナ2000]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/タベルナ2000#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/タベルナ2000]]
 -[[ふつう>難易度表/ふつう/タベルナ2000]]
 -[[おに>難易度表/おに/タベルナ2000]]
--[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2007/11/20002000_8.html]]
--[[楽曲紹介（譜面編）>http://taikoblog.namco-ch.net/blog/2007/11/post_9.html]]
+-[[楽曲紹介(アーカイブ)>http://taikoblog.namco-ch.net/blog/2007/11/20002000_8.html]]
+-[[楽曲紹介(譜面編・アーカイブ)>http://taikoblog.namco-ch.net/blog/2007/11/post_9.html]]
 -[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=oVneK_QoOxM]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(taberuna_hard.png,nolink);
+~正確なBPMは[[おに譜面>難易度表/おに/タベルナ2000#score]]を参照
+~&attachref(taberuna_hard.png,nolink);

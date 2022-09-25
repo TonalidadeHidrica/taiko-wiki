@@ -70,7 +70,7 @@
 |''Parousia''&br;SIZE(11){xi}|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|-|''3位''|9位|
 |>|>|>|>|>|>|>|>|BGCOLOR(brown):COLOR(white):''konzertsaal - THE BMS OF FIGHTERS 2013 -''&aname(bof2013);|
 |&color(red){''B.B.K.K.B.K.K.''};&br;SIZE(11){nora2r}|170|[[★×4>難易度表/かんたん/B.B.K.K.B.K.K.]]|[[★×6>難易度表/ふつう/B.B.K.K.B.K.K.]]|[[★×7>難易度表/むずかしい/B.B.K.K.B.K.K.]]|[[★×9>難易度表/おに/B.B.K.K.B.K.K.]]|-|&color(red){''1位''};|''3位''|
-|>|>|>|>|>|>|>|>|BGCOLOR(orangered):''G2R2014 "GO BACK 2 YOUR ROOTS" - THE BMS OF FIGHTERS 2004 RELOADED -''&aname(g2r2014);|
+|>|>|>|>|>|>|>|>|BGCOLOR(#ff7028):''G2R2014 "GO BACK 2 YOUR ROOTS" - THE BMS OF FIGHTERS 2004 RELOADED -''&aname(g2r2014);|
 |&color(red){''Altale''};&br;SIZE(11){削除}|83-180※|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|[[★×10>難易度表/おに/Altale(裏譜面)]]|&color(red){''1位''};|''2位''|
 |''Aragami''&br;SIZE(11){xi}|65?-196|[[★×4>難易度表/かんたん/Aragami]]|[[★×7>難易度表/ふつう/Aragami]]|[[★×8>難易度表/むずかしい/Aragami]]|[[★×10>難易度表/おに/Aragami]]|-|''2位''|''4位''|
 |>|>|>|>|>|>|>|>|BGCOLOR(black):COLOR(red):''大血戦 -THE BMS OF FIGHTERS ULTIMATE-''&aname(bofu2015);|

@@ -45,30 +45,30 @@
 |1|>|>|>|>|>|>|>|>|>|c
 |CENTER:BGCOLOR(#0099FF):ジャンル|CENTER:BGCOLOR(#0099FF):曲名|CENTER:BGCOLOR(#0099FF):jubeat|CENTER:BGCOLOR(#0099FF):maimai|CENTER:BGCOLOR(#0099FF):グルコス|CENTER:BGCOLOR(#0099FF):SDVX|CENTER:BGCOLOR(#0099FF):シンクロ|CENTER:BGCOLOR(#0099FF):チュウニ|CENTER:BGCOLOR(#0099FF):DEEMO|CENTER:BGCOLOR(#0099FF):その他|h
 |BGCOLOR(#ff7028):|[[さいたま2000>難易度表/おに/さいたま2000]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|BGCOLOR(#FFD700):○((ミュージックガンガン！))|
-|BGCOLOR(#ff7028):|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|-|-|-|
-|BGCOLOR(#ff7028):|[[Ignis Danse>難易度表/おに/Ignis Danse]]|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|-|-|-|-|-|
-|BGCOLOR(#ff7028):|[[エンジェル>難易度表/おに/エンジェル ドリーム]] [[ドリーム>難易度表/おに/エンジェル ドリーム(裏譜面)]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
+|~|[[きたさいたま2000>難易度表/おに/きたさいたま2000]]|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|-|-|-|
+|~|[[Ignis Danse>難易度表/おに/Ignis Danse]]|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|-|-|-|-|-|
+|~|[[エンジェル>難易度表/おに/エンジェル ドリーム]] [[ドリーム>難易度表/おに/エンジェル ドリーム(裏譜面)]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
 |BGCOLOR(#cc8aeb):|[[エンジェル ドリーム>難易度表/おに/エンジェル ドリーム(デレマス)]]（デレマスカバー版）|-|-|-|-|-|-|-|BGCOLOR(#FFD700):○((アイドルマスター シンデレラガールズ スターライトステージ))|
 |BGCOLOR(#ff7028):|[[宇宙SAMURAI>難易度表/おに/宇宙SAMURAI]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
-|BGCOLOR(#ff7028):|[[朱の旋律>難易度表/おに/朱の旋律]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
-|BGCOLOR(#ff7028):|[[冬竜>難易度表/おに/冬竜 〜Toryu〜]] [[〜Toryu〜>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]|-|-|-|-|BGCOLOR(#FFD700):○|-|BGCOLOR(#FFD700):○|-|
-|BGCOLOR(#ff7028):|[[そつおめしき>難易度表/おに/そつおめしき]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
-|BGCOLOR(#ff7028):|[[ドキドキ胸きゅん おまつりタイム>難易度表/おに/ドキドキ胸きゅん おまつりタイム]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
+|~|[[朱の旋律>難易度表/おに/朱の旋律]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
+|~|[[冬竜>難易度表/おに/冬竜 〜Toryu〜]] [[〜Toryu〜>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]|-|-|-|-|BGCOLOR(#FFD700):○|-|BGCOLOR(#FFD700):○|-|
+|~|[[そつおめしき>難易度表/おに/そつおめしき]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
+|~|[[ドキドキ胸きゅん おまつりタイム>難易度表/おに/ドキドキ胸きゅん おまつりタイム]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
 |BGCOLOR(#cc8aeb):|[[ドラゴンスピリットメドレー>難易度表/おに/ドラゴンスピリットメドレー]]|-|-|BGCOLOR(#FFD700):○|-|-|-|-|-|
 |BGCOLOR(#ff7028):|[[SAKURA EXHAUST>難易度表/おに/SAKURA EXHAUST]]|-|-|-|-|-|-|-|BGCOLOR(#FFD700):○((crossbeats REV.))|
-|BGCOLOR(#ff7028):|[[セイクリッド>難易度表/おに/セイクリッド ルイン]] [[ルイン>難易度表/おに/セイクリッド ルイン(裏譜面)]]|-|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|-|-|
-|BGCOLOR(#ff7028):|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|-|-|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|-|BGCOLOR(#FFD700):○|-|-|
-|BGCOLOR(#ff7028):|[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
+|~|[[セイクリッド>難易度表/おに/セイクリッド ルイン]] [[ルイン>難易度表/おに/セイクリッド ルイン(裏譜面)]]|-|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|-|-|
+|~|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|-|-|BGCOLOR(#FFD700):○|BGCOLOR(#FFD700):○|-|BGCOLOR(#FFD700):○|-|-|
+|~|[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
 |BGCOLOR(#cc8aeb):|[[バーニングフォースメドレー>難易度表/おに/バーニングフォースメドレー]]|-|-|BGCOLOR(#FFD700):○|-|-|-|-|-|
 |BGCOLOR(#ff7028):|[[百花繚乱>難易度表/おに/百花繚乱]]|-|-|-|-|-|-|BGCOLOR(#FFD700):○|-|
 |BGCOLOR(#cc8aeb):|[[ナムコットメドレー>難易度表/おに/ナムコットメドレー]]|-|-|BGCOLOR(#FFD700):○|-|-|-|-|-|
 |BGCOLOR(#ff7028):|[[友情ぽっぷ>難易度表/おに/友情ぽっぷ]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
-|BGCOLOR(#ff7028):|[[Choco Chiptune.>難易度表/おに/Choco Chiptune.]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
-|BGCOLOR(#ff7028):|[[3piece-JazzParty!>難易度表/おに/3piece-JazzParty!]]|-|-|-|-|-|-|BGCOLOR(#FFD700):○|-|
-|BGCOLOR(#ff7028):|[[凛>難易度表/おに/凛]]|-|-|-|-|-|-|BGCOLOR(#FFD700):○|-|
-|BGCOLOR(#ff7028):|[[No Gravity>難易度表/おに/No Gravity]]|-|-|-|-|-|-|BGCOLOR(#FFD700):○|-|
-|BGCOLOR(#ff7028):|[[懐中庭園を持つ少女>難易度表/おに/懐中庭園を持つ少女]]|-|-|-|-|-|-|BGCOLOR(#FFD700):○|-|
-|BGCOLOR(#ff7028):|[[8OROCHI>難易度表/おに/8OROCHI]]|-|-|-|-|-|BGCOLOR(#FFD700):○|-|BGCOLOR(#FFD700):○((オンゲキ))|
+|~|[[Choco Chiptune.>難易度表/おに/Choco Chiptune.]]|-|-|-|-|BGCOLOR(#FFD700):○|-|-|-|
+|~|[[3piece-JazzParty!>難易度表/おに/3piece-JazzParty!]]|-|-|-|-|-|-|BGCOLOR(#FFD700):○|-|
+|~|[[凛>難易度表/おに/凛]]|-|-|-|-|-|-|BGCOLOR(#FFD700):○|-|
+|~|[[No Gravity>難易度表/おに/No Gravity]]|-|-|-|-|-|-|BGCOLOR(#FFD700):○|-|
+|~|[[懐中庭園を持つ少女>難易度表/おに/懐中庭園を持つ少女]]|-|-|-|-|-|-|BGCOLOR(#FFD700):○|-|
+|~|[[8OROCHI>難易度表/おに/8OROCHI]]|-|-|-|-|-|BGCOLOR(#FFD700):○|-|BGCOLOR(#FFD700):○((オンゲキ))|
 |BGCOLOR(#cc8aeb):|[[KAGEKIYO 源平討魔伝メドレー>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|-|-|BGCOLOR(#FFD700):○|-|-|-|-|-|
 
 

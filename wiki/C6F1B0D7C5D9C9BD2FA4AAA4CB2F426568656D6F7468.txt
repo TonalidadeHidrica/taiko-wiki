@@ -54,7 +54,7 @@
 -[[むずかしい>難易度表/むずかしい/Behemoth]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=IQynDllm4Jw&t=11s]]
 -[[オート動画(PS4 1)>https://m.youtube.com/watch?feature=youtu.be&v=ha2oFGmnStE&t=3s]]
--[[公式音源動画>https://www.youtube.com/watch?v=4C9L73Q4xj4]]((筐体に収録されている音源を編集して聞こえやすいミキシングを行っている。[[ソース1>https://twitter.com/Myosuke/status/1040161237026258945]] [[ソース2>https://twitter.com/Myosuke/status/1040152223676678144]]))
+-[[公式音源動画>https://youtu.be/4C9L73Q4xj4]]((筐体に収録されている音源を編集して聞こえやすいミキシングを行っている。[[ソース1>https://twitter.com/Myosuke/status/1040161237026258945]] [[ソース2>https://twitter.com/Myosuke/status/1040152223676678144]]))
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

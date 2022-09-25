@@ -10,7 +10,7 @@
 
 |CENTER:|>|>|LEFT:|c
 |No.|''曲名''|アーティスト|備考|h
-|>|>|>|CENTER:BGCOLOR(orangered):''採用曲''|
+|>|>|>|CENTER:BGCOLOR(#ff7028):''採用曲''|
 |101125|[[''Challengers''>難易度表/おに/Challengers]]|まるろん|2022年4月23日収録|
 |101127|[[''Aloft in the wind''>難易度表/おに/Aloft in the wind]]|Qutabire|2021年8月23日収録|
 |101221|[[''Hello, Worldooon!!''>難易度表/おに/Hello, Worldooon!!]]|Capchii feat. Kuroa*|2021年8月23日収録|

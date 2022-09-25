@@ -22,7 +22,7 @@
 
 *一覧 [#list]
 |>|>|>|>|>|>|>|>|>|>|>|>|>|CENTER:74|c
-|CENTER:BGCOLOR(#0099FF):曲名|CENTER:BGCOLOR(orange):KATSU-DON|CENTER:BGCOLOR(cyan):ソライロ|CENTER:BGCOLOR(hotpink):モモイロ|CENTER:BGCOLOR(lime):キミドリ|CENTER:BGCOLOR(darkorchid):COLOR(white):ムラサキ|CENTER:BGCOLOR(white):ホワイト|CENTER:BGCOLOR(red):レッド|CENTER:BGCOLOR(yellow):イエロー|CENTER:BGCOLOR(blue):COLOR(white):ブルー|CENTER:BGCOLOR(green):COLOR(white):グリーン|CENTER:BGCOLOR(white):COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2020|CENTER:BGCOLOR(white):COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2021|CENTER:BGCOLOR(white):COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2022|h
+|CENTER:BGCOLOR(#0099FF):曲名|CENTER:BGCOLOR(#ffa940):KATSU-DON|CENTER:BGCOLOR(#49d5eb):ソライロ|CENTER:BGCOLOR(#fe90d2):モモイロ|CENTER:BGCOLOR(#9acd32):キミドリ|CENTER:BGCOLOR(#cc8aeb):COLOR(white):ムラサキ|CENTER:BGCOLOR(white):ホワイト|CENTER:BGCOLOR(#e60033):COLOR(white):レッド|CENTER:BGCOLOR(#fdc000):イエロー|CENTER:BGCOLOR(#0067c0):COLOR(white):ブルー|CENTER:BGCOLOR(#0acc2a):COLOR(white):グリーン|CENTER:BGCOLOR(white):COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2020|CENTER:BGCOLOR(white):COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2021|CENTER:BGCOLOR(white):COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2022|h
 |1|1|1|1|1|1|1|1|1|1|1|1|1|1|c
 |リンダリンダ|先鋒&br;1曲目&br;[[(おに)>難易度表/おに/リンダリンダ]]|||||四級&br;2曲目&br;[[(むずかしい)>難易度表/むずかしい/リンダリンダ]]||||||||
 |嘘|先鋒&br;2曲目&br;[[(おに)>難易度表/おに/嘘]]||二級&br;1曲目&br;[[(むずかしい)>難易度表/むずかしい/嘘]]|||日本版七級&br;3曲目&br;[[(ふつう)>難易度表/ふつう/嘘]]||||||||

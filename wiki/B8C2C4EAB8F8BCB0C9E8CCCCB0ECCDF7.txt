@@ -23,7 +23,7 @@
 --ちなみに、GAME VERSIONは99.99である。
 
 |CENTER:|>|>|>|>|>|CENTER:70|c
-||''ジャンル''|''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+||''ジャンル''|''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |第8弾|BGCOLOR(cyan):''J-POP''|''スリル''|175|★×4|★×5|[[★×6>難易度表/むずかしい/スリル]]|★×7|
 |~|~|''EZ DO DANCE ''|140|[[★×3>難易度表/かんたん/EZ DO DANCE]]|[[★×4>難易度表/ふつう/EZ DO DANCE]]|[[★×6>難易度表/むずかしい/EZ DO DANCE]]|[[★×8>難易度表/おに/EZ DO DANCE]]|
 |第7弾|~|''ガッツだぜ！！''|125|[[★×3>難易度表/かんたん/ガッツだぜ!!]]|[[★×4>難易度表/ふつう/ガッツだぜ！！]]|[[★×5>難易度表/むずかしい/ガッツだぜ！！]]|[[★×6>難易度表/おに/ガッツだぜ！！]]|
@@ -46,7 +46,7 @@
 以下の曲は仕分け∞の放送に登場したものだが、テレビ朝日で遊べることはなく幻の曲となっている。
 
 |CENTER:|||>|>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |BGCOLOR(cyan):''J-POP''|''ラブ・ストーリーは突然に''|113|★×2|★×2|★×4|[[★×5>難易度表/おに/ラブ・ストーリーは突然に]]|
 |~|''エロティカ・セブン''|???|★×4|★×4|[[★×6>難易度表/むずかしい/エロティカ・セブン]]|★×5|
 |~|''サバイバル''|158※|★×3|★×5|[[★×7>難易度表/むずかしい/サバイバル]]|★×7|
@@ -111,7 +111,7 @@
 -バンダイから2005年12月1日に、プレイステーション2用の格闘アクションゲームとして発売。初回特典として以下の2曲が収録された。
 
 |CENTER:|||>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|h
 |BGCOLOR(orange):''アニメ''|''輝''&br;　　SIZE(11){仮面ライダー響鬼 オープニングテーマ}|104|[[★×2>難易度表/かんたん/輝]]|[[★×2>難易度表/ふつう/輝]]|[[★×4>難易度表/むずかしい/輝]]|
 |~|''少年よ''&br;　　SIZE(11){仮面ライダー響鬼 エンディングテーマ}|110|[[★×1>難易度表/かんたん/少年よ]]|[[★×2>難易度表/ふつう/少年よ]]|[[★×2>難易度表/むずかしい/少年よ]]|
 -[[動画>http://www.youtube.com/watch?v=KTfNj5haq_U]](かんたん)
@@ -124,7 +124,7 @@
 -また、難易度を表す星の表示もない。
 
 |CENTER:|||>|>|CENTER:70|c
-|番号|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|h
+|番号|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|h
 |一|''「くるみ割り人形」よりトレパーク''|???|[[★なし>難易度表/かんたん/「くるみ割り人形」よりトレパーク(のだめ)]]|[[★なし>難易度表/ふつう/「くるみ割り人形」よりトレパーク(のだめ)]]|[[★なし>難易度表/むずかしい/「くるみ割り人形」よりトレパーク(のだめ)]]|
 |二|''結婚行進曲''|???|[[★なし>難易度表/かんたん/結婚行進曲(のだめ)]]|[[★なし>難易度表/ふつう/結婚行進曲(のだめ)]]|[[★なし>難易度表/むずかしい/結婚行進曲(のだめ)]]|
 |三|''ピアノソナタ第15番ハ長調''|???|[[★なし>難易度表/かんたん/ピアノソナタ第15番ハ長調]]|[[★なし>難易度表/ふつう/ピアノソナタ第15番ハ長調]]|[[★なし>難易度表/むずかしい/ピアノソナタ第15番ハ長調]]|
@@ -135,7 +135,7 @@
 -バンダイナムコゲームスより2010年2月25日に、ニンテンドーDS用のゲームとして発売。
 
 |||>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|h
 |BGCOLOR(gold):CENTER:''クラシック''|''ボレロ''|64|[[★×2>難易度表/かんたん/ボレロ]]|[[★×4>難易度表/ふつう/ボレロ]]|[[★×6>難易度表/むずかしい/ボレロ]]|
 |BGCOLOR(orangered):CENTER:''ナムコ&br;オリジナル''|''ららら☆ハッピネス''|190|[[★×3>難易度表/かんたん/ららら☆ハッピネス]]|[[★×5>難易度表/ふつう/ららら☆ハッピネス]]|[[★×7>難易度表/むずかしい/ららら☆ハッピネス]]|
 
@@ -146,7 +146,7 @@
 -''バナパスポートカード''を使って遊ぶと、''きせかえ「博麗霊夢」''及び称号''「博麗神社の巫女」''を''先行''獲得できる。
 
 |CENTER:|||>|>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |BGCOLOR(lime):CENTER:''バラエティ''|''賽は投げられた''&br;　　SIZE(11){東方Projectアレンジ IOSYS}|175|★×4|★×6|★×6|[[★×7>難易度表/おに/賽は投げられた]]|
 |~|''thousand words''&br;　　SIZE(11){東方Projectアレンジ ユウノウミ}|105|★×2|★×4|★×4|★×5|
 |~|''サイケデリック鬼桜同盟''&br;　　SIZE(11){東方Projectアレンジ SOUND HOLIC feat.Nana Takahashi}|160|★×3|★×5|★×7|[[★×9>難易度表/おに/サイケデリック鬼桜同盟]]|
@@ -159,7 +159,7 @@
 -''バナパスポートカード''を使って遊ぶと、''きせかえ「霧雨魔理沙」''及び''称号「普通の魔法使い」''を''先行''獲得できる。((ゲームをプレイせずきせかえと称号のみを貰うことも可能。))
 
 |CENTER:|||>|>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |BGCOLOR(lime):CENTER:''バラエティ''|''ムーンダスト''&br;　　SIZE(11){東方Projectアレンジ GET IN THE RING}|137|[[★×3>難易度表/かんたん/ムーンダスト]]|[[★×5>難易度表/ふつう/ムーンダスト]]|[[★×5>難易度表/むずかしい/ムーンダスト]]|[[★×5>難易度表/おに/ムーンダスト]]|
 |~|''花月夜''&br;　　SIZE(11){東方Projectアレンジ Yonder Voice}|145|[[★×3>難易度表/かんたん/花月夜]]|[[★×4>難易度表/ふつう/花月夜]]|[[★×4>難易度表/むずかしい/花月夜]]|[[★×5>難易度表/おに/花月夜]]|
 |~|''Cheerful Flyer''&br;　　SIZE(11){東方Projectアレンジ 十六神数}|250|[[★×4>難易度表/かんたん/Cheerful Flyer]]|[[★×6>難易度表/ふつう/Cheerful Flyer]]|[[★×6>難易度表/むずかしい/Cheerful Flyer]]|[[★×8>難易度表/おに/Cheerful Flyer]]|
@@ -169,7 +169,7 @@
 -ゲームミュージック以外のジャンルも存在するが、収録曲は不明。
 
 |CENTER:|||>|>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''ジャンル''|''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |BGCOLOR(darkorchid):CENTER:''ゲーム&br;ミュージック''|''楽しきトキメキ''&br;　　SIZE(11){｢ガールフレンド(仮)｣より}|186|★×3|★×4|[[★×6>難易度表/むずかしい/楽しきトキメキ]]|-|
 |~|''黒猫＆白猫メドレー''&br;　　SIZE(11){｢魔法使いと黒猫のウィズ｣＆｢白猫プロジェクト｣より}|114※-150|★×3|★×4|[[★×6>難易度表/むずかしい/黒猫＆白猫メドレー]]|-|
 |~|''Battle For Justice''&br;　　SIZE(11){｢チェインクロニクル｣より}|136|★×3|★×4|[[★×7>難易度表/むずかしい/Battle For Justice]]|-|
@@ -182,7 +182,7 @@
 -収録曲は、今までのACに収録された東方Projectアレンジ16曲＋AC収録予定の3曲（[[最終鬼畜妹フランドール・S>難易度表/おに/最終鬼畜妹フランドール・S]]、[[Scream out! -達人Edit.->難易度表/おに/Scream out! -達人Edit.-]]、[[明星ロケット>難易度表/おに/明星ロケット]]）＋下記の''秋季例大祭(2015)限定''1曲が遊べる。
 
 |CENTER:|||>|>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! 小林幸子ver.''&br;　　SIZE(11){東方Projectアレンジ ビートまりお}|170※|[[★×3>難易度表/かんたん/Help me, ERINNNNNN!! 小林幸子ver.]]|[[★×4>難易度表/ふつう/Help me, ERINNNNNN!! 小林幸子ver.]]|[[★×5>難易度表/むずかしい/Help me, ERINNNNNN!! 小林幸子ver.]]|[[★×6>難易度表/おに/Help me, ERINNNNNN!! 小林幸子ver.]]|
 
 **ぐらぶるちゃんねるっ！生放送 よろず屋シェロ 〜ルリアさんには見せられない大人のクリスマス〜編 [#grbl]
@@ -196,7 +196,7 @@
 -収録曲は、今までのACに収録された東方Projectアレンジ19曲＋[[仙酌絶唱のファンタジア>難易度表/おに/仙酌絶唱のファンタジア]]（AC一般収録以前の超会議・例大祭13筐体では「''博麗神社例大祭コラボユニット曲(仮称)''」と表記）＋下記の''限定''1曲が遊べた。
 
 |CENTER:|||>|>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |BGCOLOR(lime):CENTER:''バラエティ''|''Help me, ERINNNNNN!! -Cranky remix-''&br;　　SIZE(11){東方Projectアレンジ ビートまりお×Cranky}|180|[[★×4>難易度表/かんたん/Help me, ERINNNNNN!! -Cranky remix-]]|[[★×5>難易度表/ふつう/Help me, ERINNNNNN!! -Cranky remix-]]|[[★×7>難易度表/むずかしい/Help me, ERINNNNNN!! -Cranky remix-]]|[[★×9>難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]|
 
 **ジャパン アミューズメント エキスポ 2017x 闘会議2017 [#a39fa6c6]
@@ -205,7 +205,7 @@
 -収録曲は、ACイエローVer.収録予定の版権曲3曲（[[前前前世>難易度表/おに/前前前世]]、[[全力バタンキュー>難易度表/おに/全力バタンキュー]]、[[シオカラ節>難易度表/おに/シオカラ節]]）＋イエローVer.より登場の新要素「ごほうびショップ」からのナムコオリジナルの曲5曲（[[願いはエスペラント>難易度表/おに/願いはエスペラント]]、[[竜と黒炎の姫君>難易度表/おに/竜と黒炎の姫君]]、[[Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]、[[UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]、[[さよならワーリャ>難易度表/おに/さよならワーリャ]]）のショート（お試し）Ver.＋その5曲を繋ぎ合わせてメドレーにした下記の''限定''1曲が遊べた。
 
 |CENTER:|||>|>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |BGCOLOR(orangered):CENTER:''ナムコ&br;オリジナル''|''忙しい人のための「新曲」メドレー''|120-306|[[★×4>難易度表/かんたん/忙しい人のための「新曲」メドレー]]|[[★×6>難易度表/ふつう/忙しい人のための「新曲」メドレー]]|[[★×7>難易度表/むずかしい/忙しい人のための「新曲」メドレー]]|[[★×9>難易度表/おに/忙しい人のための「新曲」メドレー]]|
 
 **どんどこパラダイス [#dondoko]
@@ -214,7 +214,7 @@
 -全曲を通しておに・裏譜面はなし。
 
 |CENTER:|||>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|h
 |BGCOLOR(darkorchid):CENTER:''ゲーム&br;ミュージック''|''お願い！シンデレラ''|175|[[★×3>難易度表/かんたん/お願い！シンデレラ]]|[[★×4>難易度表/ふつう/お願い！シンデレラ]]|[[★×4>難易度表/むずかしい/お願い！シンデレラ]]|
 |~|''Star!!''|178|[[★×3>難易度表/かんたん/Star!!]]|[[★×4>難易度表/ふつう/Star!!]]|[[★×5>難易度表/むずかしい/Star!!]]|
 |~|''Take me☆Take you''|180|[[★×3>難易度表/かんたん/Take me☆Take you]]|[[★×3>難易度表/ふつう/Take me☆Take you]]|[[★×5>難易度表/むずかしい/Take me☆Take you]]|
@@ -224,7 +224,7 @@
 -基本的に太鼓の達人イエローVer.準拠だが、先行で''[[スカッとばあちゃんの歌>難易度表/おに/スカッとばあちゃんの歌]]''と2017年8月5日より追加された下記の''限定''1曲が遊べた。
 
 |CENTER:|||>|>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''かんたん''|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |BGCOLOR(lime):CENTER:''バラエティ''|''スカッとじゃんけん''&br;　　SIZE(11){「痛快TVスカッとジャパン」より}|160|★×1|★×2|★×3|[[★×7>難易度表/おに/スカッとじゃんけん]]|
 
 **MANKAIカンパニー 秋の公開生稽古 [#a3]
@@ -239,7 +239,7 @@
 -バンダイナムコエンターテインメイントによる監修であり((スタッフロールにもスペシャルサンクスとして名前があるのを確認できる→[[動画>https://www.youtube.com/watch?v=vQFNOqRW9a0]]))、''非公式ではなく公認のパロディである''(([[ソース>http://granbluefantasy.jp/pages/?p=17267]]))。
 
 |CENTER:|||>|>|>|>|CENTER:70|c
-|''ジャンル''|''曲名''|BPM|BGCOLOR(orangered):''EASY''|BGCOLOR(lime):''NORMAL''|BGCOLOR(cyan):''HARD''|BGCOLOR(magenta):''EXTREME''|BGCOLOR(blue):COLOR(white):''MANIAC''|h
+|''ジャンル''|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''EASY''|BGCOLOR(#769e11):COLOR(#fff):''NORMAL''|BGCOLOR(#297ba3):COLOR(#fff):''HARD''|BGCOLOR(#af1e7f):COLOR(#fff):''EXTREME''|BGCOLOR(#6042dd):COLOR(#fff):''MANIAC''|h
 |BGCOLOR(darkorchid):CENTER:''ゲーム&br;ミュージック''|''黒ビィんの翼''|212|[[★×1>難易度表/おに/黒ビィんの翼]]|-|-|-|[[★×10>難易度表/おに/黒ビィんの翼]]|
 |~|''キミとボクのミライ''|178|-|[[★×1>難易度表/ふつう/キミとボクのミライ]]|[[★×4>難易度表/むずかしい/キミとボクのミライ]]|-|-|
 |~|''ソラのミチシルベ''|160|-|[[★×2>難易度表/ふつう/ソラのミチシルベ]]|[[★×5>難易度表/むずかしい/ソラのミチシルベ]]|-|-|
@@ -261,7 +261,7 @@
 -かんたんコースは存在しない。
 -夏祭りは本作に収録されている[[Whiteberry>難易度表/おに/夏祭り]]歌唱のカバーではなく、[[JITTERIN'JINN>難易度表/おに/夏祭り ／ ジッタリン・ジン]]による歌唱のものに変更されている。
 |CENTER:|||>|>|CENTER:70|c
-|''ジャンル''|''曲名'''|BPM|BGCOLOR(lime):''ふつう''|BGCOLOR(cyan):''むずかしい''|BGCOLOR(magenta):''おに''|h
+|''ジャンル''|''曲名'''|BPM|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |BGCOLOR(cyan):CENTER:''J-POP''|[[''夏祭り''>難易度表/おに/夏祭り]]|???|★×?|★×?|★×?|
 |BGCOLOR(darkgray):CENTER:''ボーカロイド&#8482;曲''|[[''六兆年と一夜物語''>難易度表/おに/六兆年と一夜物語]]|???|★×?|★×?|★×?|
 |BGCOLOR(lime):CENTER:''バラエティ''|[[''Marine Mirage''>難易度表/おに/Marine Mirage]]|???|★×?|★×?|★×?|
