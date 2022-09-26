@@ -13,7 +13,6 @@
 -楽曲・タイアップ情報は[[おに譜面>難易度表/おに/ESCAPE FROM CRISIS]]を参照。
 
 ----
--かんたん
 -[[ふつう>難易度表/ふつう/ESCAPE FROM CRISIS]]
 -[[むずかしい>難易度表/むずかしい/ESCAPE FROM CRISIS]]
 -[[おに>難易度表/おに/ESCAPE FROM CRISIS]]/[[裏譜面>難易度表/おに/ESCAPE FROM CRISIS(裏譜面)]]

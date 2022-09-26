@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(CD2_n.png,nolink);
+~&attachref(dogma2_n.png,nolink);

@@ -9,7 +9,7 @@
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1003860点''}|COLOR(#ff3300){1980点}|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは178。
+-BPMは約178。
 -黄色連打も風船連打もない''完全精度曲''。
 -間奏以外はかなり忙しい。特に、49小節の17連打に注意。
 -小節線に縁の音符が重なっている小節は19と、かなり多い。
@@ -31,4 +31,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(2night.png,nolink);
+&attachref(2night_m.png,nolink);

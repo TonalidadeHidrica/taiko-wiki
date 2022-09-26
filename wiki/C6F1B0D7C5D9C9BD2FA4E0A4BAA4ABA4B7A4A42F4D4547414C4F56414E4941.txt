@@ -27,7 +27,7 @@
 ----
 -[[かんたん>難易度表/かんたん/MEGALOVANIA]]
 -[[ふつう>難易度表/ふつう/MEGALOVANIA]]
--[[おに>難易度表/おに/MEGALOVANIA]]
+-[[おに>難易度表/おに/MEGALOVANIA]]/[[裏譜面>難易度表/おに/MEGALOVANIA(裏譜面)]]
 -[[オート動画>https://www.youtube.com/watch?v=c9Z2V-iWAFc]]
 
 ***コメント [#comment]

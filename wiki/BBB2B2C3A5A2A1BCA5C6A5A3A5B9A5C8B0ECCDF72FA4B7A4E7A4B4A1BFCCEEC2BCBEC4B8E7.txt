@@ -1,15 +1,19 @@
-*しょご/野村渉悟 [#title]
+*野村渉悟((旧名義は「''しょご/野村渉悟''」)) [#title]
 
 **概要 [#more]
 -作曲・編曲家。
 -1月16日生まれ。
 -2021年4月1日よりバンダイナムコスタジオ所属となったことを、[[自身のTwitter>https://twitter.com/shogopiya116/status/1422506210088022020?s=20]]にて公表した。
 -[[Twitter>https://twitter.com/shogopiya116]]
+-[[バンダイナムコの紹介>https://www.bandainamcostudios.com/works/creator/list]]
 
 **作曲・編曲一覧 [#work]
--ナムコオリジナル
+--ナムコオリジナル
 ---[[カラフル>難易度表/おに/カラフル]]
 ---[[うちゅうひこうし冒険譚>難易度表/おに/うちゅうひこうし冒険譚]]
+
+--太鼓の達人には収録されてないその他の作品
+---[[Resurrection "Samurai">https://wikiwiki.jp/deemo_ii/Resurrection%20Samurai]] (別Wiki)
 
 **コメント [#comment]
 #pcomment(,noname)

@@ -22,7 +22,7 @@
 -[[かんたん>難易度表/かんたん/DDU-DU DDU-DU]]
 -[[ふつう>難易度表/ふつう/DDU-DU DDU-DU]]
 -[[むずかしい>難易度表/むずかしい/DDU-DU DDU-DU]]
--[[オート動画>https://www.youtube.com/watch?v=GRCVNL_ewIQ]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=GRCVNL_ewIQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)

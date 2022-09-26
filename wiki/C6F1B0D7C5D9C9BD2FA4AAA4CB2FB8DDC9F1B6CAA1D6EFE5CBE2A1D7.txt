@@ -42,4 +42,4 @@
 #pcomment(noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(¡ÖIt is ''Enma''.¡×_3.png,nolink);
+~&attachref(kobenm_m.png,nolink);

@@ -514,7 +514,7 @@
 -ゲームミュージック
 --[[塊オンザロック〜メインテーマ>難易度表/おに/塊オンザロック]]
 --[[World of GENPEI TOMADEN>難易度表/おに/World of GENPEI TOMADEN]]▲
---[[ソニック・ザ・ヘッジホッグ メドレー};>難易度表/おに/ソニック・ザ・ヘッジホッグ メドレー]]▲※
+--[[ソニック・ザ・ヘッジホッグ メドレー>難易度表/おに/ソニック・ザ・ヘッジホッグ メドレー]]▲※
 -ナムコオリジナル
 --[[太鼓侍(裏譜面)>難易度表/おに/太鼓侍(裏譜面)]]
 --[[音符のうた>難易度表/おに/音符のうた]]
@@ -1753,6 +1753,9 @@
 --[[君の知らない物語>難易度表/おに/君の知らない物語]](iOS、PS Vita1、Wii U3、3DS3、AR、PS4 1、NS1、Xbox1、NS2)
 --[[マスカット>難易度表/おに/マスカット]](iOS、AR、NS2)
 --[[MOIL>難易度表/おに/MOIL]](iOS、AR、NS2)
+--[[Hacking to the Gate>難易度表/おに/Hacking to the Gate]](NS2)
+--[[V.I.P>難易度表/おに/V.I.P]](NS2)
+--[[Snow halation>難易度表/おに/Snow halation]](NS2)
 -ボーカロイド&#8482;曲
 --[[Tell Your World>難易度表/おに/Tell Your World]](3DS1、iOS、AR、NS1、Xbox1、NS2)
 --[[マトリョシカ>難易度表/おに/マトリョシカ]](Wii5、PSPDX、iOS、Wii U1、3DS2、NS RPG)

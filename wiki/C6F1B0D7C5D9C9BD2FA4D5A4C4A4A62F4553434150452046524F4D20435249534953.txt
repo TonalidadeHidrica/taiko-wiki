@@ -14,7 +14,6 @@
 
 ----
 -[[かんたん>難易度表/かんたん/ESCAPE FROM CRISIS]]
--ふつう
 -[[むずかしい>難易度表/むずかしい/ESCAPE FROM CRISIS]]
 -[[おに>難易度表/おに/ESCAPE FROM CRISIS]]/[[裏譜面>難易度表/おに/ESCAPE FROM CRISIS(裏譜面)]]
 //-[[オート動画(NS2)>]]
