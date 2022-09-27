@@ -158,6 +158,7 @@
 |''Dogbite''|195|[[★×4>難易度表/かんたん/Dogbite]]|[[★×6>難易度表/ふつう/Dogbite]]|[[★×7>難易度表/むずかしい/Dogbite]]|[[★×10>難易度表/おに/Dogbite]]|-|
 |''Dreadnought''|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|
 |''Endless Seeker''|163※|[[★×3>難易度表/かんたん/Endless Seeker]]|[[★×5>難易度表/ふつう/Endless Seeker]]|[[★×6>難易度表/むずかしい/Endless Seeker]]|[[★×8>難易度表/おに/Endless Seeker]]|-|
+|''EXCITE''|151|[[★×2>難易度表/かんたん/EXCITE]]|[[★×3>難易度表/ふつう/EXCITE]]|[[★×5>難易度表/むずかしい/EXCITE]]|[[★×7>難易度表/おに/EXCITE]]|-|
 |''FANTASTIC BABY''|130|[[★×3>難易度表/かんたん/FANTASTIC BABY]]|[[★×3>難易度表/ふつう/FANTASTIC BABY]]|[[★×5>難易度表/むずかしい/FANTASTIC BABY]]|[[★×7>難易度表/おに/FANTASTIC BABY]]|-|
 |''Favorite Days''|140|[[★×2>難易度表/かんたん/Favorite Days]]|[[★×3>難易度表/ふつう/Favorite Days]]|[[★×7>難易度表/むずかしい/Favorite Days]]|[[★×8>難易度表/おに/Favorite Days]]|-|
 |''FREEDOM DiVE↓''|222.22|[[★×4>難易度表/かんたん/FREEDOM DiVE↓]]|[[★×6>難易度表/ふつう/FREEDOM DiVE↓]]|[[★×7>難易度表/むずかしい/FREEDOM DiVE↓]]|[[★×10>難易度表/おに/FREEDOM DiVE↓]]|-|

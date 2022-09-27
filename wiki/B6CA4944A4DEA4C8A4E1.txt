@@ -319,7 +319,7 @@
 |bright|[[Brightdown>難易度表/おに/Brightdown]]||
 |brs|[[ブラック★ロックシューター>難易度表/おに/ブラック★ロックシューター]]||
 |bsdanc|[[僕らの世界にダンスを>難易度表/おに/僕らの世界にダンスを]]||
-|bshar2|[[Baby Shark>難易度表/おに/Baby Shark]]||
+|bshar2|[[Baby Shark>難易度表/おに/Baby Shark]]|ののちゃんver|
 //|bshark|[[Baby Shark(ベイビー・シャーク)>難易度表/おに/Baby Shark（ベイビー・シャーク）]]||
 |btu5a2|[[夜桜繚乱感謝祭>難易度表/その他/夜桜繚乱感謝祭(ボス戦 辛口)]]|butou5 arrange 2|
 |btu5ar|[[夜桜謝肉祭>難易度表/おに/夜桜謝肉祭]]|butou5 arrange|

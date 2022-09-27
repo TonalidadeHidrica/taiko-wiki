@@ -11,14 +11,16 @@
 |>|''合計''|-|''1939''|-|f
 
 -合格条件
-|>|>|>|CENTER:|c
-|||条件1|条件2|条件3|h
-|''【粋】''|BGCOLOR(red):COLOR(black):''合格条件''|''魂ゲージ76%以上''|''スコア1976726点以上'' ||
-|~|BGCOLOR(gold):COLOR(black):''金合格条件''|''魂ゲージ??%以上''|''スコア???????点以上''||
-|BGCOLOR(#eeeeee):''【雅】''|BGCOLOR(red):COLOR(black):''合格条件''|BGCOLOR(#eeeeee):''魂ゲージ98%以上''|BGCOLOR(#eeeeee):''可726未満''|BGCOLOR(#eeeeee):''叩けた数1976以上''|
-|~|BGCOLOR(gold):COLOR(black):''金合格条件''|BGCOLOR(#eeeeee):''魂ゲージ??%以上''|BGCOLOR(#eeeeee): ''可??未満''|BGCOLOR(#eeeeee):''叩けた数??以上''|
-|''【極】''|BGCOLOR(red):COLOR(black):''合格条件''|''魂ゲージ98%以上''|''可70未満''|''不可26未満''|
-|~|BGCOLOR(gold):COLOR(black):''金合格条件''|''魂ゲージ??%以上''|''可??未満''|''不可??未満''|
+|>|>|>|>|CENTER:|c
+|||条件1|条件2|条件3|条件4(連打数)|h
+|''【粋】''|BGCOLOR(red):COLOR(black):''合格条件''|''魂ゲージ76%以上''|''スコア1976726点以上'' |||
+|~|BGCOLOR(gold):COLOR(black):''金合格条件''|''魂ゲージ100%以上''|''スコア2230501~2230910点のどれか((はっきりした数値は未確定。ソースはプライバシーの問題もあると思われるため非表示))以上''|||
+//[[ソース1>https://youtu.be/Uht1XIxocy0?t=311]]、[[ソース2>https://youtu.be/7nyLB05xEnM?t=120]]
+|BGCOLOR(#eeeeee):''【雅】''|BGCOLOR(red):COLOR(black):''合格条件''|BGCOLOR(#eeeeee):''魂ゲージ98%以上''|BGCOLOR(#eeeeee):''可726未満''|BGCOLOR(#eeeeee):''叩けた数1976以上''||
+|~|BGCOLOR(gold):COLOR(black):''金合格条件''|BGCOLOR(#eeeeee):''魂ゲージ100%以上''|BGCOLOR(#eeeeee): ''可490~520のどれか((はっきりした数値は未確定。ソースはプライバシーの問題もあると思われるため非表示))未満''|BGCOLOR(#eeeeee):''叩けた数2000以上''||
+//[[ソース1>https://youtu.be/e6aZ60vQCmE?t=477]]、[[ソース2>https://twitter.com/tomomo43/status/1553320541242937344]]
+|''【極】''|BGCOLOR(red):COLOR(black):''合格条件''|''魂ゲージ98%以上''|''可70未満''|''不可26未満''|1st:70打以上 2nd:20打以上 3rd:60打以上|
+|~|BGCOLOR(gold):COLOR(black):''金合格条件''|''魂ゲージ100%以上''|''可26未満''|''不可7未満''|~|
 
 -補足
 |>|>|>|CENTER:|c
@@ -29,7 +31,7 @@
 |~|BGCOLOR(gold):COLOR(black):''金合格条件''|BGCOLOR(#eeeeee):''可??未満かつ不可??未満'' ＝ ''良1???以上''|BGCOLOR(#eeeeee):良は総ノーツの ''約??.??％''|
 |~|~|>|BGCOLOR(#eeeeee):''叩けた数??以上 ＝ 連打数??打以上＋不可の数だけ追加の連打''|
 |''【極】''|BGCOLOR(red):COLOR(black):''合格条件''|''可70未満かつ不可26未満'' ＝ ''良1845以上''|良は総ノーツの ''約95.12％''|
-|~|BGCOLOR(gold):COLOR(black):''金合格条件''|''可??未満かつ不可??未満'' ＝ ''良1???以上''|良は総ノーツの ''約9?.??％''|
+|~|BGCOLOR(gold):COLOR(black):''金合格条件''|''可26未満かつ不可7未満'' ＝ ''良1???以上''|良は総ノーツの ''約9?.??％''|
 
 ***説明 [#explanation]
 -難易度&br; 【粋】三段相当　【雅】五〜六段相当　【極】九〜十段相当

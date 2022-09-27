@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''3DS3DL''|BGCOLOR(orange):''アニメ''|★×6|''294''|''787230点''|＋連打|780点|215点|
+|''3DS3DL''&br;NS2MP(DL)|BGCOLOR(orange):''アニメ''|★×6|''294''|''787230点''|+連打|780点|215点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){3030点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -22,7 +22,7 @@
 -[[かんたん>難易度表/かんたん/THE DAY]]
 -[[ふつう>難易度表/ふつう/THE DAY]]
 -[[おに>難易度表/おに/THE DAY]]
--[[オート動画(直撮り)>http://www.youtube.com/watch?v=4Em8ltP87Ew]]
+-[[オート動画>https://www.youtube.com/watch?v=ZjILFGs7tm8]]
 
 ***コメント [#comment]
 #pcomment(,noname)

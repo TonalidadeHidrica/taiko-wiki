@@ -579,7 +579,7 @@
 |〇|BGCOLOR(gold):|魑魅魍魎を従えし者|[[COLOR(blue):魑魅魍魎>難易度表/おに/魑魅魍魎]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|愛のムチはごほうびです|[[COLOR(blue):†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|刻竜を討伐せし者|[[COLOR(blue):刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):刻竜 〜Kokuryu〜(裏)>難易度表/おに/刻竜 〜Kokuryu〜(裏譜面)]]をフルコンボ|~|
+//|〇|BGCOLOR(gold):| Breaker|[[COLOR(blue):刻竜 〜Kokuryu〜(裏)>難易度表/おに/刻竜 〜Kokuryu〜(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|禁忌の花に触れし者|[[COLOR(blue):憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|禁忌の試練を乗り越えし者|[[COLOR(blue):憎悪と醜悪の花束(裏)>難易度表/おに/憎悪と醜悪の花束(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|必殺！120フレーム打ち！|[[COLOR(blue):大冒険タツドン>難易度表/おに/大冒険タツドン]]を難易度おにでフルコンボ|~|
@@ -630,7 +630,7 @@
 |〇|BGCOLOR(gold):|ヒカリヘミチビケ|[[COLOR(blue):ヒカリノカナタヘ>難易度表/おに/ヒカリノカナタヘ]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|ほんの少し 惑星欲しい|[[COLOR(blue):SORA-IV ブンパソング>難易度表/おに/SORA-IV ブンパソング]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|ゴー！ドライブしようよ|[[COLOR(blue):ラブリーX(裏)>難易度表/おに/ラブリーX(裏譜面)]]をフルコンボ|~|
-|〇|BGCOLOR(gold):|神竜を討伐せし者|[[COLOR(blue):神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]を難易度おにでフルコンボ|~|
+|〇|BGCOLOR(gold):|神竜を討伐せしもの|[[COLOR(blue):神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|Myth Breaker|[[COLOR(blue):神竜 〜Shinryu〜(裏)>難易度表/おに/神竜 〜Shinryu〜(裏譜面)]]をフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):RAINBOW SKY>難易度表/おに/RAINBOW SKY]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):共奏鼓祭>難易度表/おに/共奏鼓祭]]を難易度おにでフルコンボ|~|

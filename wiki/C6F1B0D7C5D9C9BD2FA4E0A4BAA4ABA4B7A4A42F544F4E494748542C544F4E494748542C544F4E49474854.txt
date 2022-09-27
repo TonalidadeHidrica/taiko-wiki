@@ -17,7 +17,7 @@
 ---平均密度は約3.34打/秒(普通譜面)
 
 ***その他 [#other]
--アーティストは、''BEAT CRUSADERS''。
+-楽曲情報は[[おに譜面>難易度表/おに/TONIGHT,TONIGHT,TONIGHT#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/TONIGHT,TONIGHT,TONIGHT]]
@@ -26,9 +26,9 @@
 -[[プレイ動画>https://www.youtube.com/watch?v=eJycVRlqYdg]]
 -[[全分岐同時再生>https://www.youtube.com/watch?v=_py6VAsbJeU]]
 
-***コメント [#rc370c01]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#ye0a35d6]
-共通譜面は黄色分岐小節線のない普通譜面にした。
-&ref(2night.png,nolink);
+***譜面 [#score]
+~共通譜面は黄色分岐小節線のない普通譜面になっている
+~&ref(2night.png,nolink);

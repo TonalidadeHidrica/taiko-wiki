@@ -191,7 +191,7 @@
 |BGCOLOR(#ff7028):~ナムオリ|[[COLOR(blue):ヒカリノカナタヘ>難易度表/おに/ヒカリノカナタヘ]]|おに|ヒカリヘミチビケ||
 |~|[[COLOR(blue):SORA-IV ブンパソング>難易度表/おに/SORA-IV ブンパソング]]|おに|ほんの少し 惑星欲しい||
 |~|[[COLOR(blue):ラブリーX(裏譜面)>難易度表/おに/ラブリーX(裏譜面)]]|裏譜面|ゴー！ドライブしようよ||
-|~|[[COLOR(blue):神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]|おに|神竜を討伐せし者||
+|~|[[COLOR(blue):神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]|おに|神竜を討伐せしもの||
 |~|[[COLOR(blue):神竜 〜Shinryu〜(裏譜面)>難易度表/おに/神竜 〜Shinryu〜(裏譜面)]]|裏譜面|Myth Breaker||
 |~|[[COLOR(blue):SUPERNOVA>難易度表/おに/SUPERNOVA]]|おに|SN 2022 taiko||
 |~|[[COLOR(blue):SUPERNOVA(裏譜面)>難易度表/おに/SUPERNOVA(裏譜面)]]|裏譜面|SUPERNOVA EXpert||
@@ -612,7 +612,7 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-|~|[[COLOR(blue):神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]|おに|神竜を討伐せし者||
+|~|[[COLOR(blue):神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]|おに|神竜を討伐せしもの||
 |~|[[COLOR(blue):神竜 〜Shinryu〜(裏譜面)>難易度表/おに/神竜 〜Shinryu〜(裏譜面)]]|裏譜面|Myth Breaker||
 |~|[[COLOR(blue):そして勇者は眠りにつく(裏譜面)>難易度表/おに/そして勇者は眠りにつく(裏譜面)]]|裏譜面|勇者の力を継承せし者||
 |~|[[COLOR(blue):狂瀾怒濤(裏譜面)>難易度表/おに/狂瀾怒濤(裏譜面)]]|裏譜面|狂瀾怒濤のバチ捌き||
