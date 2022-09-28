@@ -10,7 +10,7 @@
 -BPMは129。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Feel Special]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Feel Special#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/Feel Special]]
@@ -22,4 +22,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(twcfsp_e.png,nolink);
+&attachref(twcfsp_e.png,nolink);

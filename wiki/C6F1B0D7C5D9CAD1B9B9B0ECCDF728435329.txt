@@ -986,8 +986,10 @@
 ||CENTER:|c
 |CENTER:妒叹|恃构|h
 |>|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|
+|[[Tank!>岂白刨山/かんたん/Tank!]]|COLOR(blue){→∵5ⅹ→∵4}|
 |[[不射のうた>岂白刨山/かんたん/不射のうた]]|COLOR(red){→∵1ⅹ→∵3}|
 |>|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|
+|[[Tank!>岂白刨山/ふつう/Tank!]]|COLOR(blue){→∵5ⅹ→∵4}|
 |[[不射のうた>岂白刨山/ふつう/不射のうた]]|COLOR(red){→∵2ⅹ→∵4}|
 |>|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|
 |[[不射のうた>岂白刨山/むずかしい/不射のうた]]|COLOR(red){→∵2ⅹ→∵4}|

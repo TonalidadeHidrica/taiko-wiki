@@ -23,7 +23,8 @@
 -[[かんたん>難易度表/かんたん/BLAZING]]
 -[[ふつう>難易度表/ふつう/BLAZING]]
 -[[むずかしい>難易度表/むずかしい/BLAZING]]
--[[オート動画>https://www.youtube.com/watch?v=JT3FvJO3N4o]]
+//広告有りのため非表示-[[オート動画>https://www.youtube.com/watch?v=JT3FvJO3N4o]]
+-[[オート動画(NS2)>https://youtu.be/2BuoKRRttRc]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

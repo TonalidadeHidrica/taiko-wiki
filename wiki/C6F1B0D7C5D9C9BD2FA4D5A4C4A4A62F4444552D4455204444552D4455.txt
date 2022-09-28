@@ -12,7 +12,7 @@
 -連打秒数目安・・・約1.25秒×3−約0.821秒−約1.6786秒：合計約6.2496秒
 
 ***その他 [#other]
--アーティストは、''BLACKPINK''。
+-楽曲情報は[[おに譜面>難易度表/おに/DDU-DU DDU-DU#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/DDU-DU DDU-DU]]
@@ -24,4 +24,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(du_n.png,nolink);
+&attachref(du_n.png,nolink);

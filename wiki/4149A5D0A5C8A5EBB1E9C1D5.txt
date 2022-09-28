@@ -32,6 +32,8 @@
 
 #region(3区間の曲一覧)
 -&color(black,#49d5eb){''ポップス''};
+--Just Awake
+--Savage Love
 --ミックスナッツ
 --CITRUS
 --シャイニングスター
@@ -66,8 +68,6 @@
 --サクリファイス
 --ピースサイン
 --馬と鹿
---MOIL
---マスカット
 --恋
 --Hope
 --Hero
@@ -108,7 +108,6 @@
 --ギンギラ銀河
 --ようかい体操第一
 --夢をかなえてドラえもん
---マスカット
 --名探偵コナン メインテーマ
 --星のカービィメドレー
 --となりのトトロ
@@ -151,6 +150,8 @@
 --ロックン・ハート！
 --みらくる☆トラベル
 -&color(white,#fe90d2){''アニメ''};
+--Just Awake
+--THE POLiCY
 --ミックスナッツ
 --怪物
 --1・2・3
@@ -177,7 +178,6 @@
 --夢をかなえてドラえもん
 --ALMIGHTY〜仮面の約束
 --Circle of Seasons
---DiSCOVER THE FUTURE
 --サクリファイス
 --Act! Addict! Actors!
 --Heavenly Visitor
@@ -194,7 +194,6 @@
 --ぐでたまぷちょへんざ
 --限界突破×サバイバー
 --ようこそジャパリパークへ
---MOIL
 --全力バタンキュー
 --レイン
 --ヒカリアレ 
@@ -222,6 +221,7 @@
 --僕らの世界にダンスを
 --さちさちにしてあげる♪
 -&color(white,#cc8aeb){''ゲームミュージック''};
+--THE POLiCY
 --Make debut!
 --星のカービィメドレー
 --シオカラ節
@@ -234,7 +234,6 @@
 --Circle of Seasons
 --Act! Addict! Actors!
 --MANKAI☆開花宣言
---DiSCOVER THE FUTURE
 --Heavenly Visitor
 --ヒミツキチューバー
 --名乗り(天上)

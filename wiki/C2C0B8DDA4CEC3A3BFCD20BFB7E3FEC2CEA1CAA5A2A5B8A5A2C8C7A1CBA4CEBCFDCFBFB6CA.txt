@@ -49,10 +49,10 @@
 ~
 |RIGHT:1|>|>|>|>|>|>|>|>|>|>|CENTER:15|c
 |★×|''1''|''2''|''3''|''4''|''5''|''6''|''7''|''8''|''9''|''10''|''合計''|h
-|BGCOLOR(#d52700):|41|113|277|317|172|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|''922''|
-|BGCOLOR(#769e11):|17|54|76|173|231|219|150|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|~|
-|BGCOLOR(#297ba3):|6|9|38|74|145|220|254|174|BGCOLOR(#000):|BGCOLOR(#000):|~|
-|BGCOLOR(#af1e7f):|3|5|4|10|21|74|161|269|192|181|~|
+|BGCOLOR(#d52700):|41|115|277|317|172|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|''922''|
+|BGCOLOR(#769e11):|17|54|78|173|231|219|150|BGCOLOR(#000):|BGCOLOR(#000):|BGCOLOR(#000):|~|
+|BGCOLOR(#297ba3):|6|9|38|75|146|220|254|174|BGCOLOR(#000):|BGCOLOR(#000):|~|
+|BGCOLOR(#af1e7f):|3|5|4|10|21|75|162|269|192|181|~|
 |BGCOLOR(#6042dd):|-|-|-|-|-|1|3|34|56|74|''168''|
 ----
 
@@ -70,8 +70,8 @@
 |CENTER:1|CENTER:1||LEFT:60|>|>|>|>|CENTER:42|c
 |>||''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|h
 |>|>|>|>|>|>|>|>|BGCOLOR(#42c0d3):''ポップス''&aname(pops);|
-//||SIZE(9){''NEW''}|''修錬愛情 Practice Love''|68※|[[★×>難易度表/かんたん/修錬愛情 Practice Love]]|[[★×>難易度表/ふつう/修錬愛情 Practice Love]]|[[★×>難易度表/むずかしい/修錬愛情 Practice Love]]|[[★×>難易度表/おに/修錬愛情 Practice Love]]|-|
-//||SIZE(9){''NEW''}|''Savage Love''|150|[[★×>難易度表/かんたん/Savage Love]]|[[★×>難易度表/ふつう/Savage Love]]|[[★×>難易度表/むずかしい/Savage Love]]|[[★×>難易度表/おに/Savage Love]]|-|
+||SIZE(9){''NEW''}|''修錬愛情 Practice Love''|67.5|[[★×2>難易度表/かんたん/修錬愛情 Practice Love]]|[[★×3>難易度表/ふつう/修錬愛情 Practice Love]]|[[★×5>難易度表/むずかしい/修錬愛情 Practice Love]]|[[★×7>難易度表/おに/修錬愛情 Practice Love]]|-|
+||SIZE(9){''NEW''}|''Savage Love''|150|[[★×2>難易度表/かんたん/Savage Love]]|[[★×3>難易度表/ふつう/Savage Love]]|[[★×4>難易度表/むずかしい/Savage Love]]|[[★×6>難易度表/おに/Savage Love]]|-|
 ||SIZE(9){''NEW''}|''新時代''&br;　　SIZE(11){ウタ(Ado) 「ONE PIECE FILM RED」より}|106-175|[[★×2>難易度表/かんたん/新時代]]|[[★×4>難易度表/ふつう/新時代]]|[[★×5>難易度表/むずかしい/新時代]]|[[★×7>難易度表/おに/新時代]]|-|
 ||SIZE(9){''NEW''}|''ミックスナッツ''&br;　　SIZE(11){Official髭男dism アニメ「SPY×FAMILY」オープニング主題歌}|150※|[[★×2>難易度表/かんたん/ミックスナッツ]]|[[★×4>難易度表/ふつう/ミックスナッツ]]|[[★×5>難易度表/むずかしい/ミックスナッツ]]|[[★×7>難易度表/おに/ミックスナッツ]]|-|
 ||SIZE(9){''NEW''}|''CITRUS''&br;　　SIZE(11){ドラマ「極主夫道」より}|82|[[★×2>難易度表/かんたん/CITRUS]]|[[★×3>難易度表/ふつう/CITRUS]]|[[★×5>難易度表/むずかしい/CITRUS]]|[[★×7>難易度表/おに/CITRUS]]|-|

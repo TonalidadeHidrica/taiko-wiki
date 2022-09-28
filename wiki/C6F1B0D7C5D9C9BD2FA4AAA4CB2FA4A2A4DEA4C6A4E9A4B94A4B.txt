@@ -37,5 +37,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~譜面は暫定
 ~&attachref(天照女子高生.png,nolink);

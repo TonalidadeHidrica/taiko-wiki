@@ -37,5 +37,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~ÉèÌÌ¤Ï»ÃÄê
 ~&attachref(misiai_m.png,nolink);

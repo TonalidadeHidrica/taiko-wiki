@@ -28,5 +28,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~譜面は暫定
 ~&attachref(傾奇者、罷り通る！.png,nolink);
