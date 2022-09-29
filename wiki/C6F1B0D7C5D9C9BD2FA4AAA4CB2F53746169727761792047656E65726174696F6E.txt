@@ -8,6 +8,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは153。
+-連打秒数目安・・・約0.556秒ー''約1.4秒''：合計約1.956秒
 -特に難しい配置は無いが偶数連打が多くリズムが掴みづらい｡
 
 ***その他 [#other]
@@ -19,7 +20,8 @@
 -[[かんたん>難易度表/かんたん/Stairway Generation]]
 -[[ふつう>難易度表/ふつう/Stairway Generation]]
 -[[むずかしい>難易度表/むずかしい/Stairway Generation]]
--[[プレイ動画>https://www.youtube.com/watch?v=oqc9UpxPnq8]]
+-[[プレイ動画(AC13)>https://www.youtube.com/watch?v=oqc9UpxPnq8]]
+-[[オート動画(NS2)>https://youtu.be/yZSMt91RUVM]]
 
 ***コメント [#comment]
 #pcomment(,noname)

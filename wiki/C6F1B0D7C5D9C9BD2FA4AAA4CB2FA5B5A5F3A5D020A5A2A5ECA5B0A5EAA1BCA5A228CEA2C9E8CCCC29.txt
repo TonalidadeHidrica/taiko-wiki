@@ -4,7 +4,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.1.0SP''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''765''|''1099140点''|+連打|420点|103点|
-|AC15.2.0|Wii5SP&br;PS Vita1DL|~|~|~|''1099100点''|~|~|~|
+|AC15.2.0|Wii5SP&br;PS Vita1DL&br;NS2MP|~|~|~|''1099100点''|~|~|~|
 |WM||BGCOLOR(cyan):''M&#250;sicas&br;Brasileiras''|~|~|~|~|~|~|
 ||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1102460点''|~|~|90点|
@@ -40,8 +40,8 @@
 -[[おに>難易度表/おに/サンバ アレグリーア]]/裏譜面
 -[[オート動画(Wii5)>http://www.youtube.com/watch?v=m_5EthAAoMY]]
 
-***コメント[#comment]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#score]
+***譜面 [#score]
 &attachref(exsanbaf2.png,nolink);

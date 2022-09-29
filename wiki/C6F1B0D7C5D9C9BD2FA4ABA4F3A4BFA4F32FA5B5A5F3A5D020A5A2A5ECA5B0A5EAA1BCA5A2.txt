@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.1.0SP''|Wii5SP&br;PS Vita1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''177''|''353730点''|+連打|490点|158点|
+|''AC15.1.0SP''|Wii5SP&br;PS Vita1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''177''|''353730点''|+連打|490点|158点|
 |WM||BGCOLOR(cyan):''M&#250;sicas&br;Brasileiras''|~|~|~|~|~|~|
 ||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''994280点''}|~|COLOR(#ff3300){4180点}|-|
@@ -20,9 +20,7 @@
 --また、4分の複合は面と縁の交互連打しかない。
 
 ***その他 [#other]
--アーティストは、''Sampling Masters AYA''。
---コーラスは、GOTANDA AMIGOS。
--曲IDは、''aya10''。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/サンバ アレグリーア#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/サンバ アレグリーア]]

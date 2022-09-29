@@ -775,10 +775,10 @@
 |fzone|[[ファンタジーゾーン OPA-OPA! -GMT remix->難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]||
 |>|>|BGCOLOR(#ccc):CENTER:''G''&aname(g);|
 |g14ki|[[G意識過剰>難易度表/おに/G意識過剰]]||
-|ga9sen|[[Brand-new World>難易度表/おに/Brand-new World]]||
+|ga9sen|[[Brand-new World>難易度表/おに/Brand-new World]]|学戦都市アスタリスク|
 |gacha|[[ガッチャマンの歌>難易度表/むずかしい/ガッチャマンの歌]]||
-|gaimu|[[JUST LIVE MORE>難易度表/おに/JUST LIVE MORE]]||
-|gaimus|~|ショート|
+|gaimu|[[JUST LIVE MORE>難易度表/おに/JUST LIVE MORE]]|仮面ライダー鎧武/ガイム|
+|gaimus|~|ショートver|
 |gaku|[[学園天国>難易度表/おに/学園天国]]||
 |garakt|[[Garakuta Doll Play>難易度表/おに/Garakuta Doll Play]]|~|
 |gash|[[カサブタ>難易度表/おに/カサブタ]]|金色のガッシュベル!!|
@@ -919,7 +919,7 @@
 |heros|[[Hero's Come Back!!>難易度表/おに/Hero's Come Back!!]]||
 |hi4kko|[[ひよっこファンタジー>難易度表/おに/ひよっこファンタジー]]||
 |hi4kok|[[ひよこ鑑定士さん>難易度表/おに/ひよこ鑑定士さん]]||
-|hibiki|[[輝>難易度表/おに/輝]]|響鬼|
+|hibiki|[[輝>難易度表/おに/輝]]|仮面ライダー響鬼|
 |hide4s|[[天下統一録>難易度表/おに/天下統一録]]|豊臣''秀吉''|
 |higgs|[[少女の神の粒子>難易度表/おに/少女の神の粒子]]|ヒッグス粒子|
 |himawa|[[ひまわり>難易度表/おに/ひまわり]]||
@@ -932,7 +932,7 @@
 |hkgmag|[[ほうかご☆マジシャン>難易度表/おに/ほうかご☆マジシャン]]||
 |hkitty|[[ハローキティ>難易度表/おに/ハローキティ]]||
 |hkyell|[[星影のエール>難易度表/おに/星影のエール]]||
-|hoku|[[愛をとりもどせ!!>難易度表/おに/愛をとりもどせ！！]]|北斗|
+|hoku|[[愛をとりもどせ!!>難易度表/おに/愛をとりもどせ！！]]|北斗の拳|
 |hold|[[今夜はホーミー>難易度表/おに/今夜はホーミー]]|ホーミー→Hold me→hold|
 |holprs|[[Prism Melody>難易度表/おに/Prism Melody]]|ホロライブ|
 |holtmp|[[TEMPLATE>難易度表/おに/TEMPLATE]]|~|

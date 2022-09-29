@@ -4,22 +4,19 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
-|''AC16.1.6''|BGCOLOR(hotpink):''アニメ''|★×4|''219''|''994680点''|＋連打|4520点|
-|~|BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|~|~|~|
-|AC16.2.12|BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|
-|~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|
+|''AC16.1.6''|BGCOLOR(hotpink):''アニメ''&br;(メイン)|★×4|''219''|''994680点''|+連打|4520点|
+|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|~|~|~|
+|AC16.2.0|BGCOLOR(hotpink):''アニメ''&br;(メイン)|~|~|~|~|~|
+|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは180。
+-連打秒数・・・約1.639秒−''約1.306秒''−約0.806秒−SIZE(16){約0.972秒}−約1.639秒:合計約6.362秒
+-大音符が多く、''54個''(約24.65%)ある。
+--大音符の配置は[[おに>難易度表/おに/DiSCOVER THE FUTURE]]と同じ。
 
 ***その他 [#other]
--アーティストは、''IDOLiSH7''。
---メンバーは、COLOR(#ff0000){''七瀬陸''}(CV:小野賢章)、COLOR(#0000ff){''和泉一織''}(CV:増田俊樹)、COLOR(#008000){''二階堂大和''}(CV:白井悠介)、~
-COLOR(#ff8c00){''和泉三月''}(CV:代永翼)、COLOR(#1e90ff){''四葉環''}(CV:KENN)、COLOR(#800080){''逢坂壮五''}(CV:阿部敦)、COLOR(#ffa500){''六弥ナギ''}(CV:江口拓也)。
---作詞は、結城アイラ。作曲・編曲は、kz。
--[[アイドリッシュセブン×太鼓の達人 コラボキャンペーン2020>https://taiko.namco-ch.net/taiko/idolish7/]]に合わせて収録された。
---これに伴い専用踊り子が復活した。
-
+-楽曲情報は[[おに>難易度表/おに/DiSCOVER THE FUTURE]]を参照。
 ----
 -[[かんたん>難易度表/かんたん/DiSCOVER THE FUTURE]]
 -[[ふつう>難易度表/ふつう/DiSCOVER THE FUTURE]]
@@ -27,6 +24,7 @@ COLOR(#ff8c00){''和泉三月''}(CV:代永翼)、COLOR(#1e90ff){''四葉環''}(CV:KENN)、CO
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=S4eoA5DsEYc]]
 
 ***コメント [#comment]
+-COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
