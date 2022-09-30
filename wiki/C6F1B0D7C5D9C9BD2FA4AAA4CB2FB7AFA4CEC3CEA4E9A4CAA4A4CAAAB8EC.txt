@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.5.1''|PS Vita1&br;Wii U3DL&br;3DS3DL&br;PS4 1DL&br;NS1DL|BGCOLOR(orange):''アニメ''|★×7|''381''|''985690点''|+連打|740点|208点|
+|''AC15.5.1''|PS Vita1&br;Wii U3DL&br;3DS3DL&br;PS4 1DL&br;NS1DL&br;NS2MP|BGCOLOR(orange):''アニメ''|★×7|''381''|''985690点''|+連打|740点|208点|
 ||PS Vita1亜|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''987700点''}|~|COLOR(#ff3300){2380点}|-|
 ||iOS&br;AR|BGCOLOR(orange):''アニメ''|~|~|''974710点''|~|690点|170点|

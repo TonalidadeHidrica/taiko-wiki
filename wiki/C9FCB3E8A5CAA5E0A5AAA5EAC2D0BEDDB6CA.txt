@@ -81,13 +81,13 @@
 |BGCOLOR(beige):''KARMA(Tatsujin Mix)''&br;SIZE(11){　　「鉄拳6 BLOODLINE REBELLION」より}|AC16|NS2|[[★×9>難易度表/おに/KARMA(Tatsujin Mix)]]|-|876|
 |BGCOLOR(beige):''恋はみずいろ''&br;SIZE(11){　　「みずいろブラッド」より}|AC16|NS RPG|[[★×7>難易度表/おに/恋はみずいろ]]|-|350|
 |BGCOLOR(beige):''Comona''&br;SIZE(11){　　「ACE COMBAT 04」より}|AC16|Xbox1|[[★×9>難易度表/おに/Comona]]|-|726|
-|BGCOLOR(beige):''SAMURAI ROCKET''&br;SIZE(11){　　「RIDGE RACER V」より}|AC16|NS RPG|[[★×8>難易度表/おに/SAMURAI ROCKET]]|[[★×9>難易度表/おに/SAMURAI ROCKET(裏譜面)]]|765／888|
+|BGCOLOR(beige):''SAMURAI ROCKET''&br;SIZE(11){　　「RIDGE RACER V」より}|AC16|Xbox1|[[★×8>難易度表/おに/SAMURAI ROCKET]]|[[★×9>難易度表/おに/SAMURAI ROCKET(裏譜面)]]|765／888|
 |''サンダーセプターメドレー''|未収録|PSP2|BGCOLOR(#bbb):[[★×9>難易度表/おに/サンダーセプターメドレー]]|-|COLOR(#909){''552}&br;COLOR(#069){514}&br;COLOR(#666){474''}|
 |''シンフォニック モトス''|AC10|iOS/AR|[[★×7>難易度表/おに/シンフォニック モトス]]|-|456|
 |''シンフォニック ワルキューレ''|未収録|Wii5|[[★×7>難易度表/おに/シンフォニック　ワルキューレ]]|-|439|
 |''The Invincible Blade''&br;SIZE(11){　　「ソウルキャリバーV」より}|未収録|Xbox1|[[★×7>難易度表/おに/ソウルキャリバーV]]|-|438|
 |''DIGITAL HORIZON''&br;SIZE(11){　　「リッジレーサー」より}|未収録|PS Vita1|[[★×9>難易度表/おに/DIGITAL HORIZON]]|-|857|
-|''DESERT STORM''&br;SIZE(11){　　「F／A」より}|AC14|NS2|[[★×8>難易度表/おに/DESERT STORM]]|-|529|
+|''DESERT STORM''&br;SIZE(11){　　「F／A」より}|AC14|Xbox1|[[★×8>難易度表/おに/DESERT STORM]]|-|529|
 |''ドラゴンセイバー 水没都市''|AC10|NS RPG|[[★×8>難易度表/おに/ドラゴンセイバー 水没都市]]|-|777|
 |''Naked Glow''&br;SIZE(11){　　「R4 -RIDGE RACER TYPE4-」より}|AC13|PS4 1|[[★×9>難易度表/おに/Naked Glow]]|-|823|
 |''Baladium's drive''&br;SIZE(11){　　「風のクロノア」より}|未収録|Xbox1|[[★×7>難易度表/おに/Baladium's drive]]|[[★×9>難易度表/おに/Baladium's drive(裏譜面)]]|541／727|

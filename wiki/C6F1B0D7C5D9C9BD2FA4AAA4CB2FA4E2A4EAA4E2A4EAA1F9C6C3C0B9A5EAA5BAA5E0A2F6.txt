@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''Wii U2''&br;NS1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''600''|''1046480点''|＋連打|500点|130点|
+|''Wii U2''&br;NS1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''600''|''1046480点''|＋連打|500点|130点|
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''992660点''}|~|COLOR(#f30){1520点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -33,4 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(もりもり.png,nolink);
+&attachref(もりもり.png,nolink);

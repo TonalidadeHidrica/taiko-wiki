@@ -1,4 +1,4 @@
-*削除｜Sakuzyo | &ruby(よしだ){吉田}; &ruby(みつき){光貴}; [#title]
+*削除｜Sakuzyo｜&ruby(よしだ){吉田}; &ruby(みつき){光貴}; [#title]
 
 **概要 [#more]
 -同人音楽制作レーベルDiverse System所属の作曲家。
@@ -7,10 +7,10 @@
 -[[ニコニコ大百科>https://dic.nicovideo.jp/a/%E5%89%8A%E9%99%A4%28bms%29]]
 
 **作品一覧 [#work]
---バラエティ
----[[Altale>難易度表/おに/Altale]] / [[裏譜面>難易度表/おに/Altale(裏譜面)]]
 --ゲームミュージック
 ---[[MagiCatz>難易度表/おに/MagiCatz]]
+--バラエティ
+---[[Altale>難易度表/おに/Altale]] / [[裏譜面>難易度表/おに/Altale(裏譜面)]]
 --ナムコオリジナル
 ---[[森羅万象>難易度表/おに/森羅万象]]
 

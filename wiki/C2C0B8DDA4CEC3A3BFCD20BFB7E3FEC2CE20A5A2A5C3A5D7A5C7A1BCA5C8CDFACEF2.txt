@@ -294,6 +294,10 @@
 |BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''修錬愛情 Practice Love''>難易度表/おに/修錬愛情 Practice Love]]|
 |~|COLOR(red):''新''|[[''Savage Love''>難易度表/おに/Savage Love]]|
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''10/1配信曲''|h
+|(ジャンル不明)|COLOR(red):''新''|[[''Doppelg&#228;ngers''>難易度表/おに/Doppelgangers]]|アリスシャッハと魔法の楽団|
+
 -2022/9/22 7:00をもって、以下の2曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V32.09)|h

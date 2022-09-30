@@ -1,4 +1,5 @@
-*ESCAPE FROM CRISIS [#title]
+*&ruby(エスケープ){ESCAPE}; &ruby(フロム){FROM}; &ruby(クライシス){CRISIS}; [#title]
+-PS2用ソフト「''[[クリティカルベロシティ>ゲーム別収録曲#crivelo]]''」のBGM。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
@@ -10,16 +11,16 @@
 -BPMは180。
 
 ***その他 [#other]
--楽曲・タイアップ情報は[[おに譜面>難易度表/おに/ESCAPE FROM CRISIS]]を参照。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/ESCAPE FROM CRISIS#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/ESCAPE FROM CRISIS]]
 -[[ふつう>難易度表/ふつう/ESCAPE FROM CRISIS]]
 -[[おに>難易度表/おに/ESCAPE FROM CRISIS]]/[[裏譜面>難易度表/おに/ESCAPE FROM CRISIS(裏譜面)]]
-//-[[オート動画(NS2)>]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=Qx83uy6Z7zw]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(crtesc_h.png,nolink);
+&attachref(crtesc_h.png,nolink);

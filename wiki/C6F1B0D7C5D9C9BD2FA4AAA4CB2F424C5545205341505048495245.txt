@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''NS1DL''|BGCOLOR(orange):''アニメ''|★×6|''300''|''947990点''|＋連打|920点|278点|
+|''NS1DL''&br;NS2MP|BGCOLOR(orange):''アニメ''|★×6|''300''|''947990点''|＋連打|920点|278点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''998880点''}|~|COLOR(#ff3300){3020点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -24,7 +24,7 @@
 ***その他 [#other]
 -アーティストは、''HIROOMI TOSAKA''([[''三代目 J SOUL BROTHERS''>アーティスト別収録曲#jsb3]])。
 --作詞は、YVES&ADAMS・STAND ALONE。作曲は、STAND ALONE・Carlos Okabe・Yo-Sea。
--譜面作成は、[[裏譜面>難易度表/おに/BLUE SAPPHIRE(裏譜面)]]と同じく、[[''steμ''>譜面作成者一覧/steμ]]。
+-譜面作成は[[裏譜面>難易度表/おに/BLUE SAPPHIRE(裏譜面)]]と同じく、[[''steμ''>譜面作成者一覧/steμ]]。
 -曲IDは、''bluesa''。
 
 ----
@@ -40,5 +40,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-実際の小節線は、裏譜面と同じです。&br;
-&attachref(bluesa_m2.png,nolink);
+~実際の小節線は、裏譜面と同一
+~&attachref(bluesa_m2.png,nolink);

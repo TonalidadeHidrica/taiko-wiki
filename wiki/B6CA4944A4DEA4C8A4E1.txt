@@ -723,7 +723,7 @@
 |>|>|BGCOLOR(#ccc):CENTER:''F''&aname(f);|
 |f2naru|[[talking>難易度表/おに/talking]]|すべてが''Fになる''|
 |fa|[[DESERT STORM>難易度表/おに/DESERT STORM]]|F/A|
-|fads|~|~|
+|fads|~|F/A NS2以降|
 |fa3res|[[ファミレスウォーズ>難易度表/おに/ファミレスウォーズ]]||
 |faith|[[FAITH>難易度表/おに/FAITH]]||
 |fantbb|[[FANTASTIC BABY>難易度表/おに/FANTASTIC BABY]]||
