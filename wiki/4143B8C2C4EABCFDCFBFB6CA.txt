@@ -138,6 +138,7 @@
 |>|BGCOLOR(pink):|>|>|>|>|BGCOLOR(pink):CENTER:42|c
 |''Kill My Fortune''|180|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Kill My Fortune]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Kill My Fortune]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Kill My Fortune]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/Kill My Fortune]]|-|
 |''Aragami''|196|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Aragami]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Aragami]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Aragami]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Aragami]]|-|
+|''Doppelgangers''|26-208?|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Doppelgangers]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Doppelgangers]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Doppelgangers]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/Doppelgangers]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/Doppelgangers(Î¢ÉèÌÌ)]]|
 //||LEFT:60|>|>|>|>|CENTER:42|c
 //|>|>|>|>|>|>|BGCOLOR(#ded523):''¥¯¥é¥·¥Ã¥¯''&aname(classic);|
 //|>|BGCOLOR(pink):|>|>|>|>|BGCOLOR(pink):CENTER:42|c

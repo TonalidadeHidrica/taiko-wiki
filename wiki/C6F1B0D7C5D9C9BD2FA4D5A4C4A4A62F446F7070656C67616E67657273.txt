@@ -1,0 +1,27 @@
+*Doppelgangers [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.7''|BGCOLOR(lime):''バラエティ''|★×6|''253''|''?????0点''|＋連打|???0点|
+|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
+-BPMは52-208。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/Doppelgangers]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Doppelgangers]]
+-[[むずかしい>難易度表/むずかしい/Doppelgangers]]
+-[[おに>難易度表/おに/Doppelgangers]]/[[裏譜面>難易度表/おに/Doppelgangers(裏譜面)]]
+//-[[プレイ動画>]]
+
+----
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~細かいBPM・HSは[[おに裏譜面>難易度表/おに/Doppelgangers(裏譜面)]]を参照。
+~&attachref(Doppelgangers_n.png,nolink);

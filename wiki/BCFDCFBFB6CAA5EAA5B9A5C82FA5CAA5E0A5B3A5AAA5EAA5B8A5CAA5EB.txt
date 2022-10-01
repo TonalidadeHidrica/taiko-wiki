@@ -508,6 +508,7 @@
 |''Donder Time''|120|[[★×4>難易度表/かんたん/Donder Time]]|[[★×6>難易度表/ふつう/Donder Time]]|[[★×6>難易度表/むずかしい/Donder Time]]|[[★×8>難易度表/おに/Donder Time]]|-|
 |''DON'T CUT''|170|[[★×4>難易度表/かんたん/DON'T CUT]]|[[★×7>難易度表/ふつう/DON'T CUT]]|[[★×8>難易度表/むずかしい/DON'T CUT]]|[[★×8>難易度表/おに/DON'T CUT]]|[[★×9>難易度表/おに/DON'T CUT(裏譜面)]]|
 |''Don't Stop the Game''|174※|[[★×5>難易度表/かんたん/Don't Stop the Game]]|[[★×7>難易度表/ふつう/Don't Stop the Game]]|[[★×8>難易度表/むずかしい/Don't Stop the Game]]|[[★×10>難易度表/おに/Don't Stop the Game]]|-|
+|''Doppelgangers''|180-208?|[[★×4>難易度表/かんたん/Doppelgangers]]|[[★×6>難易度表/ふつう/Doppelgangers]]|[[★×6>難易度表/むずかしい/Doppelgangers]]|[[★×8>難易度表/おに/Doppelgangers]]|[[★×10>難易度表/おに/Doppelgangers(裏譜面)]]|
 |''Dragoon''|200|[[★×4>難易度表/かんたん/Dragoon]]|[[★×6>難易度表/ふつう/Dragoon]]|[[★×7>難易度表/むずかしい/Dragoon]]|[[★×9>難易度表/おに/Dragoon]]|-|
 |''Dream Tide''&br;SIZE(11){　　-夢の潮流-}|141|[[★×3>難易度表/かんたん/Dream Tide]]|[[★×5>難易度表/ふつう/Dream Tide]]|[[★×7>難易度表/むずかしい/Dream Tide]]|[[★×8>難易度表/おに/Dream Tide]]|-|
 |''D's Adventure Note''|174※|[[★×5>難易度表/かんたん/D's Adventure Note]]|[[★×7>難易度表/ふつう/D's Adventure Note]]|[[★×8>難易度表/むずかしい/D's Adventure Note]]|[[★×10>難易度表/おに/D's Adventure Note]]|-|

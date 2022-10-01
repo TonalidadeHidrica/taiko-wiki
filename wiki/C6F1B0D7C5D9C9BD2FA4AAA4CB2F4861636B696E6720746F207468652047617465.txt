@@ -10,7 +10,7 @@
 ***譜面構成・攻略 [#capture]
 -BPMは161。
 -連打秒数・・・SIZE(16){''約0.901秒''}
--序盤は8分が主体で、ゴーゴーでは16分の3連打が多く出てくるが、ほとんどが単色で複合は2回しか出て来ないため★×6にしては単純な譜面。
+-序盤は8分が主体で、ゴーゴーでは16分の3連打が多く出てくるがほとんどが単色で複合は2回しか出て来ないため、★×6にしては単純な譜面。
 -平均密度は、''約4.18打/秒''。
 
 ***その他 [#other]
@@ -28,7 +28,8 @@
 -[[かんたん>難易度表/かんたん/Hacking to the Gate]]
 -[[ふつう>難易度表/ふつう/Hacking to the Gate]]
 -[[むずかしい>難易度表/むずかしい/Hacking to the Gate]]
--[[プレイ動画>https://www.youtube.com/watch?v=iDsj8tQTLms]]
+-[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=iDsj8tQTLms]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=E5HlB-ogu9A]]
 
 ***コメント [#comment]
 #pcomment(,noname)

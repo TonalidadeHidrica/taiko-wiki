@@ -272,7 +272,7 @@
 
 ***外部リンク [#link2]
 
--[[公式ツイッター>https://twitter.com/taiko_en]]（英語）
+-[[公式ツイッター(家庭用)>https://twitter.com/taiko_en]]（英語）
 
 -[[Taiko Time>http://taikotime.blogspot.jp/]]（英語） 
 -[[太鼓之達人維基>http://zh.taiko.wikia.com/wiki/%E9%A6%96%E9%A0%81]]（中国語） 

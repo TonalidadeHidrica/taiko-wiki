@@ -1,0 +1,35 @@
+*Doppelgangers [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.7''|BGCOLOR(lime):''バラエティ''|★×8|''634''|''992840点''|＋連打|1560点|
+|~|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|
+
+***譜面構成・攻略 [#capture]
+-BPMは52-208。
+
+***その他 [#other]
+-公式MVより、この曲の正式名称は「Doppelg''&#228;''ngers」である。
+-曲名のDoppelgangers(ドッペルゲンガー)とは、自分自身の姿を自分で見る幻覚の一種で、「自己像幻視」とも呼ばれる現象である。 自分とそっくりの姿をした分身。 第2の自我、生霊の類。 同じ人物が同時に別の場所（複数の場合もある）に姿を現す現象を指すこともある（第三者が目撃するのも含む）(([[Wikipedia>https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%83%E3%83%9A%E3%83%AB%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BC]]))。
+-アーティストは、[[''アリスシャッハと魔法の楽団''>アーティスト別収録曲#alice]]。
+--作詞・歌唱は、''赤川ねね''。
+--作曲・ギター・編曲は、''南ゆに''。
+-バラエティジャンルとナムコオリジナルジャンルを併用している楽曲はこの楽曲の他には一部の東方アレンジ(東方Project×NAMCO SOUNDS)楽曲と[[Asteroid>../Asteroid]]のみ。
+
+----
+-[[かんたん>難易度表/かんたん/Doppelgangers]]
+-[[ふつう>難易度表/ふつう/Doppelgangers]]
+-[[むずかしい>難易度表/むずかしい/Doppelgangers]]
+-おに/[[裏譜面>../Doppelgangers(裏譜面)]]
+//-[[プレイ動画>]]
+
+----
+-[[公式MV>https://youtu.be/wtDb4rrWu70]]COLOR(red){【''閲覧注意''】}(([[暴力的表現が含まれているため、ご視聴の際は十分注意してください。>https://twitter.com/Alice_Orchestra/status/1575761654650142720?cxt=HHwWgIDUwYm4nd4rAAAA]]))
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~細かいBPM・HSは[[裏譜面>../Doppelgangers(裏譜面)]]を参照。
+~&attachref(Doppelgangers_3.png,nolink);

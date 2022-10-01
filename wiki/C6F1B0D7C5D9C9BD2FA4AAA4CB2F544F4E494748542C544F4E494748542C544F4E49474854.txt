@@ -10,9 +10,9 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは約178。
--黄色連打も風船連打もない''完全精度曲''。
+-''完全精度曲''のひとつ。
 -間奏以外はかなり忙しい。特に、49小節の17連打に注意。
--小節線に縁の音符が重なっている小節は19と、かなり多い。
+-小節線に縁の音符が重なっている箇所が19と多い。
 -AC9当時は、★×8アニメの発狂曲の一つだった。
 -1曲を通しての平均密度は、''約6.54打/秒''である。
 
@@ -24,8 +24,9 @@
 -[[かんたん>難易度表/かんたん/TONIGHT,TONIGHT,TONIGHT]] 
 -[[ふつう>難易度表/ふつう/TONIGHT,TONIGHT,TONIGHT]] 
 -[[むずかしい>難易度表/むずかしい/TONIGHT,TONIGHT,TONIGHT]]
--[[プレイ動画>https://www.youtube.com/watch?v=ssgcprHSwm8]]
--[[プレイ動画>https://www.youtube.com/watch?v=Hq2BNzw6Us0]]
+-[[プレイ動画(AC9)>https://www.youtube.com/watch?v=ssgcprHSwm8]]
+-[[プレイ動画(AC9)>https://www.youtube.com/watch?v=Hq2BNzw6Us0]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=jWc7luwftL4]]
 
 ***コメント [#comment]
 #pcomment(,noname)

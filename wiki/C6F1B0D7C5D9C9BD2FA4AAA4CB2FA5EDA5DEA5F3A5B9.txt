@@ -11,9 +11,9 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは146。
--連打秒数目安・・・''約1.199秒''−約1.199秒−''約1.199秒'':合計約3.596秒
+-連打秒数目安・・・''約1.199秒''−約1.199秒−''約1.199秒''：合計約3.596秒
 -16分のCOLOR(red){●●}COLOR(blue){●}が多い。
--一部の譜面に[[RARE HERO>難易度表/おに/Rare Hero]]の譜面とよく似たところがある。
+-一部の譜面に[[RARE HERO>難易度表/おに/Rare Hero]]の譜面とよく似た箇所がある。
 -iOSでも★×8のままだったが、クリアは下位クラスだろう。
 -ゴーゴータイムがやや長く、音符のある小節の約49.2%(32/65)を占める。
 -平均密度は、''約5.16打/秒''。
@@ -29,8 +29,9 @@
 -[[かんたん>難易度表/かんたん/ロマンス]]
 -[[ふつう>難易度表/ふつう/ロマンス]]
 -[[むずかしい>難易度表/むずかしい/ロマンス]]
--[[オート動画(iOS)>https://www.youtube.com/watch?v=FtOCYJSQaYA]]
 -[[プレイ動画(AC12増)>https://youtu.be/Wjsxf-neTVA]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=FtOCYJSQaYA]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=mZf85osMNzE]]
 
 ***コメント [#comment]
 #pcomment(,noname)

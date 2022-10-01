@@ -29,11 +29,13 @@
 |~||[[オレサマパイレーツ>難易度表/おに/オレサマパイレーツ]]|-|大上昌子(増渕裕二)|
 |~||[[音符のうた -English Version->難易度表/おに/音符のうた -English Version-]]|Rumiko Varnes、Eric Kelso(([[このページ>コメント/難易度表/おに/音符のうた -English Version-]]を参考にしたが、ソースは現時点では確認されていないと思われる。))|みすみゆり|
 |~||[[和蘭撫子>難易度表/おに/和蘭撫子]]|飛鳥男&#8482;|飛鳥男&#8482;(野見★隆明)|
+|~||[[河童の皿はこんなにも>難易度表/おに/河童の皿はこんなにも]]|池澤孝之|大澤めい((曲名のアーティスト欄を踏まえて暫定的に記載))|
 |~||[[傾奇者、罷り通る！>難易度表/おに/傾奇者、罷り通る！]]|かぼちゃ|かぼちゃ|
 |~||[[絡繰廻廊>難易度表/おに/絡繰廻廊]]|-|はるなば|
 |~||[[Caribbean Knight>難易度表/おに/Caribbean Knight]]|-|Taiji|
 |~||[[気焔万丈神楽>難易度表/おに/気焔万丈神楽]]|-|ぺのれり|
 |~||[[キューティー☆デモニック☆魔人エモ!!>難易度表/おに/キューティー☆デモニック☆魔人エモ!!]]|大瀬良あい|溝口ゆうま|
+|~||[[雲の彼方の大地の風>難易度表/おに/雲の彼方の大地の風]]|団地ノ宮弥子|三崎修吏((曲名のアーティスト欄を踏まえて暫定的に記載))|
 |~||[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|宮城裕紀子、涼音|宮城裕紀子|
 |~||[[恋はドント・ダウト>難易度表/おに/恋はドント・ダウト]]|yuzuki|Kawagen Kollagen|
 |~||[[Gold Armor>難易度表/おに/Gold Armor]]|singman|平井克明|
@@ -63,6 +65,7 @@
 |~||[[ニジイロバトン>難易度表/おに/ニジイロバトン]]|はぁち|Ponchi♪|
 |~||[[Hello, Worldooon!!>難易度表/おに/Hello, Worldooon!!]]|Kuroa*|Capchii|
 |~||[[ひよこ鑑定士さん>難易度表/おに/ひよこ鑑定士さん]]|ちょこ|立秋|
+|~||[[風魔モジュール6768>難易度表/おに/風魔モジュール6768]]|-|翡翠|
 |~||[[Fly again!>難易度表/おに/Fly again!]]|谷本貴義|矢野義人|
 |~||[[ぺた・PETA！？パンプキン>難易度表/おに/ぺた・PETA！？パンプキン]]|ゆと|変拍子兄さん(REONOAH)|
 |~||[[ペットショップ大戦>難易度表/おに/ペットショップ大戦]]|Focco|chacol|
@@ -75,6 +78,7 @@
 |~||[[memoria ficta>難易度表/おに/memoria ficta]]|-|Versus|
 |~||[[ユースフルコースター>難易度表/おに/ユースフルコースター]]|かずらなつ|U-ske|
 |~||[[UFO Swingin'>難易度表/おに/UFO Swingin']]|A.Dokuga|シバガキ|
+|~||[[夢うつつカタルシス>難易度表/おに/夢うつつカタルシス]]|愛原圭織|大木奏弥((曲名のアーティスト欄を踏まえて暫定的に記載))|
 |~||[[YOAKE>難易度表/おに/YOAKE]]|Uzumaki|Capchii|
 |BGCOLOR(#cbcfde):|BGCOLOR(#ff7028):|[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|初音ミク|cosMo@暴走P|
 |BGCOLOR(#ff7028):||[[螺旋周回軌道>難易度表/おに/螺旋周回軌道]]|Risa Yuzuki|BlackY|
@@ -192,6 +196,8 @@
 |~||[[そして勇者は眠りにつく>難易度表/おに/そして勇者は眠りにつく]]|-|打打だいず|[[公式音源(YouTube)>https://youtu.be/Dyy0bD2cqSU]]|ゲームSize|
 |~||[[SUPERNOVA>難易度表/おに/SUPERNOVA]]|-|USAO|[[公式音源(YouTube)>https://youtu.be/phWWx4NRhpE]]|ゲームSize|
 |~||[[神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]|-|あず♪ & Masahiro "Godspeed" Aoki|[[公式音源(YouTube)>https://youtu.be/HBc_QxP2haE]]|ゲームSize|
+|BGCOLOR(#0acc2a):|BGCOLOR(#ff7028):|[[Doppelgangers>難易度表/おに/Doppelgangers]]|赤川ねね|南ゆに|[[公式MV(YouTube)>https://youtu.be/wtDb4rrWu70]]&br;COLOR(red){【''閲覧注意''】}(([[映像には暴力的表現が含まれている。>https://twitter.com/Alice_Orchestra/status/1575761654650142720?cxt=HHwWgIDUwYm4nd4rAAAA]]))|ゲームSize((曲としては[[Full>https://twitter.com/Alice_Orchestra/status/1575757841817821184?cxt=HHwWgICz2ZHam94rAAAA]]))|
+|~|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/0XpFOVMCSQs]]|~|
 
 **収録されない可能性が高いもの [#possibility]
 |1|>|>|>|>|c

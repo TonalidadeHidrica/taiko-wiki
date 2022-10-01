@@ -25,7 +25,8 @@
 -[[かんたん>難易度表/かんたん/ALONES]]
 -[[ふつう>難易度表/ふつう/ALONES]]
 -[[むずかしい>難易度表/むずかしい/ALONES]]
--[[プレイ動画>https://www.youtube.com/watch?v=A7f6i8XaNWA]]
+-[[プレイ動画(AC10)>https://www.youtube.com/watch?v=A7f6i8XaNWA]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=RyyBhyZ7PAo]]
 
 ***コメント [#comment]
 #pcomment(,noname)

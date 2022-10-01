@@ -29,7 +29,8 @@
 -[[かんたん>難易度表/かんたん/ペガサス幻想]]
 -[[ふつう>難易度表/ふつう/ペガサス幻想]]
 -[[むずかしい>難易度表/むずかしい/ペガサス幻想]]
--[[プレイ動画>https://www.youtube.com/watch?v=x9II8pwKbT8]]
+-[[プレイ動画(AC15)>https://www.youtube.com/watch?v=x9II8pwKbT8]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=ibEEGabxwbk]]
 
 ***コメント [#comment]
 #pcomment(,noname)

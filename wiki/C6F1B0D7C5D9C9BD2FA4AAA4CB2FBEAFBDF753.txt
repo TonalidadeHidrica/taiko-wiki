@@ -11,6 +11,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは136。
+-連打秒数目安・・・0.625秒×3：合計1.875秒
 -★×7の譜面としては遅い割に複雑なフレーズがない。
 --フルコンボ狙いの場合はCOLOR(red){●}COLOR(blue){●}COLOR(red){●}COLOR(red){●}COLOR(blue){●}にだけは注意を払いたい。
 -平均密度は、''約4.35打/秒''。
@@ -25,7 +26,8 @@
 -[[かんたん>難易度表/かんたん/少女S]]
 -[[ふつう>難易度表/ふつう/少女S]]
 -[[むずかしい>難易度表/むずかしい/少女S]]
--[[プレイ動画>https://www.youtube.com/watch?v=eb3CwLPskzo]]
+-[[プレイ動画(AC13)>https://www.youtube.com/watch?v=eb3CwLPskzo]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=otiio582nfo]]
 
 ***コメント [#comment]
 #pcomment(,noname)

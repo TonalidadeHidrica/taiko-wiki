@@ -7,7 +7,7 @@
 |''CS4''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''224''|''485090点''|+連打|670点|170点|
 |米TDM|BGCOLOR(orangered):''NAMCO&br;ORIGINAL''|★×3|~|''?????0点''|~|600点|150点|
 |PSP1|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|~|''?????0点''|~|300点|100点|
-|NS1DL&br;PTB|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''345660点''|~|470点|145点|
+|NS1DL&br;PTB&br;NS2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''345660点''|~|470点|145点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''988000点''}|~|COLOR(#ff3300){4000点}|-|
 |Xbox1|~|~|~|''994560点''|~|4440点|-|
 

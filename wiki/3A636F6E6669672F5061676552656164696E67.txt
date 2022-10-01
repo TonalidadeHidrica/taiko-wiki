@@ -871,6 +871,8 @@
 -[[コメント/難易度表/おに/Don't say ”lazy”]] コメント/ナンイドオモテ/オニ/Don't say ”lazy”
 -[[コメント/難易度表/おに/Donder Time]] コメント/ナンイドオモテ/オニ/Donder Time
 -[[コメント/難易度表/おに/Doom Noiz]] コメント/ナンイドオモテ/オニ/Doom Noiz
+-[[コメント/難易度表/おに/Doppelgangers]] コメント/ナンイドオモテ/オニ/Doppelgangers
+-[[コメント/難易度表/おに/Doppelgangers(裏譜面)]] コメント/ナンイドオモテ/オニ/Doppelgangers(ウラフメン)
 -[[コメント/難易度表/おに/Dr.WILY STAGE 1]] コメント/ナンイドオモテ/オニ/Dr.WILY STAGE 1
 -[[コメント/難易度表/おに/Dragon Night]] コメント/ナンイドオモテ/オニ/Dragon Night
 -[[コメント/難易度表/おに/Dragon Soul]] コメント/ナンイドオモテ/オニ/Dragon Soul
@@ -9643,6 +9645,8 @@
 -[[難易度表/おに/Don't say ”lazy”]] ナンイドオモテ/オニ/Don't say ”lazy”
 -[[難易度表/おに/Donder Time]] ナンイドオモテ/オニ/Donder Time
 -[[難易度表/おに/Doom Noiz]] ナンイドオモテ/オニ/Doom Noiz
+-[[難易度表/おに/Doppelgangers]] ナンイドオモテ/オニ/Doppelgangers
+-[[難易度表/おに/Doppelgangers(裏譜面)]] ナンイドオモテ/オニ/Doppelgangers(ウラフメン)
 -[[難易度表/おに/Dr.WILY STAGE 1]] ナンイドオモテ/オニ/Dr.WILY STAGE 1
 -[[難易度表/おに/Dragon Night]] ナンイドオモテ/オニ/Dragon Night
 -[[難易度表/おに/Dragon Soul]] ナンイドオモテ/オニ/Dragon Soul
@@ -12146,6 +12150,7 @@
 -[[難易度表/かんたん/Don't say ”lazy”]] ナンイドオモテ/カンタン/Don't say ”lazy”
 -[[難易度表/かんたん/Donder Time]] ナンイドオモテ/カンタン/Donder Time
 -[[難易度表/かんたん/Doom Noiz]] ナンイドオモテ/カンタン/Doom Noiz
+-[[難易度表/かんたん/Doppelgangers]] ナンイドオモテ/カンタン/Doppelgangers
 -[[難易度表/かんたん/Dr.WILY STAGE 1]] ナンイドオモテ/カンタン/Dr.WILY STAGE 1
 -[[難易度表/かんたん/Dragon Night]] ナンイドオモテ/カンタン/Dragon Night
 -[[難易度表/かんたん/Dragon Soul]] ナンイドオモテ/カンタン/Dragon Soul
@@ -12505,6 +12510,7 @@
 -[[難易度表/かんたん/SUPERNOVA]] ナンイドオモテ/カンタン/SUPERNOVA
 -[[難易度表/かんたん/SURPRISE‐DRIVE]] ナンイドオモテ/カンタン/SURPRISE‐DRIVE
 -[[難易度表/かんたん/Saika]] ナンイドオモテ/カンタン/Saika
+-[[難易度表/かんたん/Savage Love]] ナンイドオモテ/カンタン/Savage Love
 -[[難易度表/かんたん/Scarlet Lance]] ナンイドオモテ/カンタン/Scarlet Lance
 -[[難易度表/かんたん/Scars of FAUNA]] ナンイドオモテ/カンタン/Scars of FAUNA
 -[[難易度表/かんたん/School Days]] ナンイドオモテ/カンタン/School Days
@@ -12928,6 +12934,7 @@
 -[[難易度表/かんたん/オクラホマミキサー]] ナンイドオモテ/カンタン/オクラホマミキサー
 -[[難易度表/かんたん/おさかな天国]] ナンイドオモテ/カンタン/オサカナテンゴク
 -[[難易度表/かんたん/おさかな毎日！さかなクン]] ナンイドオモテ/カンタン/オサカナマイニチ！サカナクン
+-[[難易度表/かんたん/修錬愛情 Practice Love]] ナンイドオモテ/カンタン/オサムアイジョウ Practice Love
 -[[難易度表/かんたん/おしえて くまとも]] ナンイドオモテ/カンタン/オシエテ クマトモ
 -[[難易度表/かんたん/おしりかじり虫]] ナンイドオモテ/カンタン/オシリカジリムシ
 -[[難易度表/かんたん/おしりの山はエベレスト]] ナンイドオモテ/カンタン/オシリノヤマハエベレスト
@@ -14780,6 +14787,7 @@
 -[[難易度表/ふつう/Don't say ”lazy”]] ナンイドオモテ/フツウ/Don't say ”lazy”
 -[[難易度表/ふつう/Donder Time]] ナンイドオモテ/フツウ/Donder Time
 -[[難易度表/ふつう/Doom Noiz]] ナンイドオモテ/フツウ/Doom Noiz
+-[[難易度表/ふつう/Doppelgangers]] ナンイドオモテ/フツウ/Doppelgangers
 -[[難易度表/ふつう/Dr.WILY STAGE 1]] ナンイドオモテ/フツウ/Dr.WILY STAGE 1
 -[[難易度表/ふつう/Dragon Night]] ナンイドオモテ/フツウ/Dragon Night
 -[[難易度表/ふつう/Dragon Soul]] ナンイドオモテ/フツウ/Dragon Soul
@@ -15143,6 +15151,7 @@
 -[[難易度表/ふつう/SUPERNOVA]] ナンイドオモテ/フツウ/SUPERNOVA
 -[[難易度表/ふつう/SURPRISE‐DRIVE]] ナンイドオモテ/フツウ/SURPRISE‐DRIVE
 -[[難易度表/ふつう/Saika]] ナンイドオモテ/フツウ/Saika
+-[[難易度表/ふつう/Savage Love]] ナンイドオモテ/フツウ/Savage Love
 -[[難易度表/ふつう/Scarlet Lance]] ナンイドオモテ/フツウ/Scarlet Lance
 -[[難易度表/ふつう/Scars of FAUNA]] ナンイドオモテ/フツウ/Scars of FAUNA
 -[[難易度表/ふつう/School Days]] ナンイドオモテ/フツウ/School Days
@@ -15566,6 +15575,7 @@
 -[[難易度表/ふつう/オクラホマミキサー]] ナンイドオモテ/フツウ/オクラホマミキサー
 -[[難易度表/ふつう/おさかな天国]] ナンイドオモテ/フツウ/オサカナテンゴク
 -[[難易度表/ふつう/おさかな毎日！さかなクン]] ナンイドオモテ/フツウ/オサカナマイニチ！サカナクン
+-[[難易度表/ふつう/修錬愛情 Practice Love]] ナンイドオモテ/フツウ/オサムアイジョウ Practice Love
 -[[難易度表/ふつう/おしえて くまとも]] ナンイドオモテ/フツウ/オシエテ クマトモ
 -[[難易度表/ふつう/おしりかじり虫]] ナンイドオモテ/フツウ/オシリカジリムシ
 -[[難易度表/ふつう/おしりの山はエベレスト]] ナンイドオモテ/フツウ/オシリノヤマハエベレスト
@@ -17099,6 +17109,7 @@
 -[[難易度表/むずかしい/Don't say ”lazy”]] ナンイドオモテ/ムズカシイ/Don't say ”lazy”
 -[[難易度表/むずかしい/Donder Time]] ナンイドオモテ/ムズカシイ/Donder Time
 -[[難易度表/むずかしい/Doom Noiz]] ナンイドオモテ/ムズカシイ/Doom Noiz
+-[[難易度表/むずかしい/Doppelgangers]] ナンイドオモテ/ムズカシイ/Doppelgangers
 -[[難易度表/むずかしい/Dr.WILY STAGE 1]] ナンイドオモテ/ムズカシイ/Dr.WILY STAGE 1
 -[[難易度表/むずかしい/Dragon Night]] ナンイドオモテ/ムズカシイ/Dragon Night
 -[[難易度表/むずかしい/Dragon Soul]] ナンイドオモテ/ムズカシイ/Dragon Soul
@@ -17456,6 +17467,7 @@
 -[[難易度表/むずかしい/SUPERNOVA]] ナンイドオモテ/ムズカシイ/SUPERNOVA
 -[[難易度表/むずかしい/SURPRISE‐DRIVE]] ナンイドオモテ/ムズカシイ/SURPRISE‐DRIVE
 -[[難易度表/むずかしい/Saika]] ナンイドオモテ/ムズカシイ/Saika
+-[[難易度表/むずかしい/Savage Love]] ナンイドオモテ/ムズカシイ/Savage Love
 -[[難易度表/むずかしい/Scarlet Lance]] ナンイドオモテ/ムズカシイ/Scarlet Lance
 -[[難易度表/むずかしい/Scars of FAUNA]] ナンイドオモテ/ムズカシイ/Scars of FAUNA
 -[[難易度表/むずかしい/School Days]] ナンイドオモテ/ムズカシイ/School Days
@@ -17875,6 +17887,7 @@
 -[[難易度表/むずかしい/オクラホマミキサー]] ナンイドオモテ/ムズカシイ/オクラホマミキサー
 -[[難易度表/むずかしい/おさかな天国]] ナンイドオモテ/ムズカシイ/オサカナテンゴク
 -[[難易度表/むずかしい/おさかな毎日！さかなクン]] ナンイドオモテ/ムズカシイ/オサカナマイニチ！サカナクン
+-[[難易度表/むずかしい/修錬愛情 Practice Love]] ナンイドオモテ/ムズカシイ/オサムアイジョウ Practice Love
 -[[難易度表/むずかしい/おしえて くまとも]] ナンイドオモテ/ムズカシイ/オシエテ クマトモ
 -[[難易度表/むずかしい/おしりかじり虫]] ナンイドオモテ/ムズカシイ/オシリカジリムシ
 -[[難易度表/むずかしい/おしりの山はエベレスト]] ナンイドオモテ/ムズカシイ/オシリノヤマハエベレスト
