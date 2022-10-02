@@ -7,7 +7,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.10.8''||BGCOLOR(cyan):''J-POP''|★×7|''407''|''979790点''|+連打|690点|183点|
-||PS4 1DL&br;NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+||PS4 1DL&br;NS1DL&br;NS2MP|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''980840点''}|~|COLOR(#ff3300){2220点}|-|
 ||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''962980点''|~|660点|150点|
 |AC16.1.0||~|~|~|''986940点''|~|2420点|-|
@@ -38,4 +38,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(sync46_m.png,nolink);
+~&attachref(sync46_m2.png,nolink);

@@ -30,4 +30,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(彼こそが海賊.png,nolink);
+&attachref(彼こそが海賊.png,nolink);
