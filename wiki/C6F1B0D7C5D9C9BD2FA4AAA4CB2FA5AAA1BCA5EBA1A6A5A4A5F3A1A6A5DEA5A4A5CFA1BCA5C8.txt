@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.7.3''|PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''704''|''1107150点''|450点|113点|
+|''AC15.7.3''|PS4 1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''704''|''1107150点''|450点|113点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1000100点''}|COLOR(#ff3300){1350点}|-|
 |AC16.1.0||~|~|~|''1001180点''|1420点|-|
 ||iOS&br;AR|~|~|~|''1106920点''|430点|100点|
@@ -22,7 +22,7 @@
 
 ***その他 [#other]
 -作詞・作曲・編曲・トラックダウンは、''ソメイヨシノ''。
---[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]の[[REDALiCE>参加アーティスト一覧/REDALiCE]]とは知り合いである。→([[ソース>https://twitter.com/redalice/status/1007593079736430592]])
+--[[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]]の[[REDALiCE>参加アーティスト一覧/REDALiCE]]とは知り合いである（[[ソース>https://twitter.com/redalice/status/1007593079736430592]]）。
 -歌唱は、[[''高木美佑''>https://twitter.com/Yukgaejang98]] (Wake Up, Girls！)。
 --また、彼女は[[CS1の頃からの太鼓ファンである>https://ameblo.jp/wakeupgirls/entry-12118699752.html]]。
 -ギターは、[[''Sassy''>参加アーティスト一覧/佐々木正明]]。

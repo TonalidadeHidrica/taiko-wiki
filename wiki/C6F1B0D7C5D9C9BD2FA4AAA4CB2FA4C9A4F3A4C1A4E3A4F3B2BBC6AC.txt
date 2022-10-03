@@ -41,9 +41,10 @@
 -[[かんたん>難易度表/かんたん/どんちゃん音頭]]
 -[[ふつう>難易度表/ふつう/どんちゃん音頭]]
 -[[むずかしい>難易度表/むずかしい/どんちゃん音頭]]
+-[[プレイ動画(旧譜面・AC2)>http://www.youtube.com/watch?v=jFhGpwEO-6s]]
 -[[オート動画(新譜面・3DS2)>https://www.youtube.com/watch?v=eha51uZRJmE]]
--[[オート動画(新譜面・iOS)>https://www.youtube.com/watch?v=5T_beniCN0Y]]
--[[プレイ動画(旧譜面)>http://www.youtube.com/watch?v=jFhGpwEO-6s]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=5T_beniCN0Y]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=WFDO_w1V0ls]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

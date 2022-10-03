@@ -7,7 +7,7 @@
 |AC12増SP-14|Wii2SP&br;Wii4SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''1202500点''}|COLOR(#ff3300){1250点}|-|
 |AC15.1.0||~|★×9|~|''1108620点''|350点|85点|
-|AC15.2.0|3DS1SP&br;3DS3DL&br;Wii U1DL&br;PS Vita1DL&br;PS4 1&br;NS1&br;PTB|~|~|~|''1108240点''|~|~|
+|AC15.2.0|3DS1SP&br;3DS3DL&br;Wii U1DL&br;PS Vita1DL&br;PS4 1&br;NS1&br;PTB&br;NS2MP|~|~|~|''1108240点''|~|~|
 |WM||BGCOLOR(orangered):''M&#250;sicas originais&br;da NAMCO''|~|~|~|~|~|
 ||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1000480点''}|COLOR(#ff3300){1040点}|-|
@@ -59,6 +59,6 @@
 ~AC15以降は★×9
 ~&attachref(extran.png,nolink);
 
-~見た目&br;
+~見た目
 ~正しい配色は上の譜面画像を参照。
 ~&ref(trance_exv.png,nolink);

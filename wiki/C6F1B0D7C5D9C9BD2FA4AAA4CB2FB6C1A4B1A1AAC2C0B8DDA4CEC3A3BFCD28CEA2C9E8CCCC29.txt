@@ -5,7 +5,7 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC12SP''-12増||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''967''|''978170点''|+連打|250点|60点|
 |AC12亜||BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
-||PS4 1DL&br;NS1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''993460点''|~|290点|63点|
+||PS4 1DL&br;NS1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''993460点''|~|290点|63点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''999020点''}|~|COLOR(#ff3300){920点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -44,8 +44,8 @@
 -[[プレイ動画(AC12増)>https://www.youtube.com/watch?v=OwrgwMModHg]]
 -[[オート動画(PS4 1)>https://www.youtube.com/watch?v=7Xp3BKL9zuU]]
 
-***コメント[#comment]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#score]
+***譜面 [#score]
 &attachref(重いお米_2.png,nolink);

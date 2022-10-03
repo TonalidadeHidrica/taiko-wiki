@@ -22,7 +22,7 @@
 -[[ふつう>難易度表/ふつう/Doppelgangers]]
 -[[むずかしい>難易度表/むずかしい/Doppelgangers]]
 -おに/[[裏譜面>../Doppelgangers(裏譜面)]]
-//-[[プレイ動画>]]
+-[[プレイ動画(キャプチャ)>https://youtu.be/Zrtk2rVen8E?t=12]]
 
 ----
 -[[公式MV>https://youtu.be/wtDb4rrWu70]]COLOR(red){【''閲覧注意''】}(([[暴力的表現が含まれているため、ご視聴の際は十分注意してください。>https://twitter.com/Alice_Orchestra/status/1575761654650142720?cxt=HHwWgIDUwYm4nd4rAAAA]]))
@@ -31,5 +31,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~細かいBPM・HSは[[裏譜面>../Doppelgangers(裏譜面)]]を参照。
+~62小節の連打は画像よりも半拍長い
+~細かいBPM・HSは[[裏譜面>../Doppelgangers(裏譜面)]]を参照
 ~&attachref(Doppelgangers_3.png,nolink);

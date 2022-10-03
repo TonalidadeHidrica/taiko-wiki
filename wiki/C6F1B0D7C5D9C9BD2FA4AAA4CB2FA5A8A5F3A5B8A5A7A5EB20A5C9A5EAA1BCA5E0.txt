@@ -7,7 +7,7 @@
 |''AC10SP''-14|Wii1&br;Wii2SP&br;Wii4&br;PSPDXDL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''765''|''1083210点''|＋連打|420点|90点|
 |AC11亜&br;AC12亜||BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|COLOR(#ff3300){''1101240点''}|~|COLOR(#ff3300){1380点}|-|
-|AC15.1.0|3DS1&br;3DS3DL&br;Wii U1DL&br;PS Vita1DL&br;PS4 1&br;NS1&br;PTB|~|★×8|~|''1046980点''|~|400点|100点|
+|AC15.1.0|3DS1&br;3DS3DL&br;Wii U1DL&br;PS Vita1DL&br;PS4 1&br;NS1&br;PTB&br;NS2MP|~|★×8|~|''1046980点''|~|400点|100点|
 |WM||BGCOLOR(orangered):''M&#250;sicas originais&br;da NAMCO''|~|~|~|~|~|~|
 ||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''997500点''}|~|COLOR(#ff3300){1250点}|-|

@@ -24,4 +24,4 @@
 
 ***譜面 [#score]
 ~細かいBPM・HSは[[おに裏譜面>難易度表/おに/Doppelgangers(裏譜面)]]を参照。
-~&attachref(Doppelgangers_e.png,nolink);
+~&attachref(Doppelgangers_e2.png,nolink);

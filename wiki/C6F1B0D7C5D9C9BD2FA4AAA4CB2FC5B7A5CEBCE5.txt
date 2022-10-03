@@ -3,13 +3,13 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.5.0''|Wii U2&br;PS Vita1&br;NS1DL|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|★×8|''828''|''1052240点''|370点|95点|
+|''AC15.5.0''|Wii U2&br;PS Vita1&br;NS1DL&br;NS2MP|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|★×8|''828''|''1052240点''|370点|95点|
 ||PS Vita1亜|BGCOLOR(silver):''VOCALOID&br;樂曲''|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1006720点''}|COLOR(#ff3300){1210点}|-|
 |AC16.1.0||BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|~|~|''1001880点''|1210点|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは約200。
+-BPMは約192-207。基本BPMは200。
 --所々に細かいBPM変化がある。
 -''完全精度曲''のひとつ。
 -[[人生リセットボタン>難易度表/おに/人生リセットボタン]]のような高速地力譜面である。
@@ -40,4 +40,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(gumiam_m.png,nolink);
+&attachref(gumiam_m.png,nolink);

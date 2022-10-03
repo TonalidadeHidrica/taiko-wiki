@@ -1,4 +1,4 @@
-*&ruby(かいかいきたん){廻廻奇譚}; [#title]
+*&ruby(かいかい){廻廻};&ruby(き){奇};&ruby(たん){譚}; [#title]
 -アニメ「[[''呪術廻戦''>アニメ別収録曲#jujutu]]」のOP1。
 
 ***詳細 [#more]
@@ -34,4 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(evekai_m.png,nolink);
+&attachref(evekai_m.png,nolink);
