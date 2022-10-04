@@ -5,7 +5,7 @@
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
 |AC13|''Wii2SP''&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''567''|''1002390点''|530点|120点|
-|AC15.7.4|Wii5&br;NS1DL|~|~|~|''1000580点''|540点|140点|
+|AC15.7.4|Wii5&br;NS1DL&br;NS2MP|~|~|~|''1000580点''|540点|140点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1000490点''}|COLOR(#ff3300){1730点}|-|
 |AC16.1.0||~|~|~|''1005090点''|1770点|-|
 
@@ -49,4 +49,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(sora2x_m.png,nolink);
+&attachref(sora2x_m.png,nolink);

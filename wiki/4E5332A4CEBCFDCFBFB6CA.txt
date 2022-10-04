@@ -20,7 +20,7 @@
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
 |BGCOLOR(cyan):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(darkgray):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
-|''10'' 曲&br;(約13.2%)|''11'' 曲&br;(約14.5%)|''7'' 曲&br;(約9.2%)|''6'' 曲&br;(約7.9%)|''6'' 曲&br;(約7.9%)|''9'' 曲&br;(約11.8%)|''27'' 曲&br;(約35.5%)|
+|''10'' 曲&br;(約13.2%)|''11'' 曲&br;(約14.5%)|''8'' 曲&br;(約9.2%)|''7'' 曲&br;(約7.9%)|''6'' 曲&br;(約7.9%)|''10'' 曲&br;(約11.8%)|''37'' 曲&br;(約35.5%)|
 
 //-凡例&br;''隠''・・・隠し曲&br;''DL''・・・ダウンロード曲
 
