@@ -2,25 +2,28 @@
 -[[2020年の楽曲公募>太鼓の達人　楽曲募集だドン！2020]]の採用曲のひとつ。
 
 ***詳細 [#more]
-|>|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
-|''AC16.2.12SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''321''|''1000410点''|＋連打|3110点|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC16.2.12SP''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×6|''321''|''1000410点''|＋連打|3110点|-|
+||NS2MP|~|~|~|''?????0点''|~|??0点|???点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){??0点}|-|
 
 ***譜面構成・攻略 [#capture]
--BPMは250。
+-BPMは''250''。
 -109小節の大音符は、付点8分音符である上位2コースと異なり''6分音符''となっているので注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/LECIEL GLISSANDO]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/LECIEL GLISSANDO#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/LECIEL GLISSANDO]]
 -[[むずかしい>難易度表/むずかしい/LECIEL GLISSANDO]]
 -[[おに>難易度表/おに/LECIEL GLISSANDO]]
 //-[[プレイ動画>]]
+-[[オート動画(NS2)>https://youtu.be/VunNAXogme4]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(LECIEL GLISSANDO_n.png,nolink);
+&attachref(LECIEL GLISSANDO_n.png,nolink);
