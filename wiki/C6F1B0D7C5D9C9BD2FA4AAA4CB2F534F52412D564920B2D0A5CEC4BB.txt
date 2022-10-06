@@ -5,7 +5,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.3.1''|Wii U1SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''666''|''1087640点''|+連打|480点|125点|
-||3DS3SP&br;PS4 1DL&br;NS RPG SP|~|~|~|''1094390点''|~|490点|~|
+||3DS3SP&br;PS4 1DL&br;NS RPG SP&br;NS2MP|~|~|~|''1094390点''|~|490点|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''992250点''}|~|COLOR(#ff3300){1470点}|-|
 |AC16.1.0||~|~|~|''992340点''|~|1490点|-|
 
@@ -46,4 +46,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(sora6x_m.png,nolink);
+&attachref(sora6x_m.png,nolink);

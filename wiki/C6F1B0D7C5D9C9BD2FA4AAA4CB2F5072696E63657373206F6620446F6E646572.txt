@@ -38,6 +38,7 @@
 -[[ふつう>難易度表/ふつう/Princess of Donder]]
 -[[むずかしい>難易度表/むずかしい/Princess of Donder]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=xhauga87TPc&t=14s]]
+-[[オート動画(NS2)>https://youtu.be/UptloiUdlnc]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

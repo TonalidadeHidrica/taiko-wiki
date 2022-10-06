@@ -39,6 +39,7 @@
 -[[ふつう>難易度表/ふつう/Goldfish City]]
 -[[むずかしい>難易度表/むずかしい/Goldfish City]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=5g0sQy5hb7Y&t=11s]]
+-[[オート動画(NS2)>https://youtu.be/gdIKG2-VtFM]]
 
 ***コメント [#comment]
 -''段位道場の話題は荒れやすいので[[コメント時の注意>ページ作成・リクエスト時の注意等#manualForComment]]の範囲内で行ってください。荒れた場合は当該コメントを非表示、削除することがあります。''

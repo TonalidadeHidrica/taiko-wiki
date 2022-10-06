@@ -30,5 +30,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~正確なHS・BPMは[[おに譜面>難易度表/おに/千の夜をこえて#score]]を参照
+~正確なHS・BPM変化は[[おに譜面>難易度表/おに/千の夜をこえて#score]]を参照
 ~&ref(1000nights.png,nolink);

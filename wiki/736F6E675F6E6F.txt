@@ -779,7 +779,7 @@
 |656|BGCOLOR(#ccc):[[Swan>難易度表/おに/Swan]]|BGCOLOR(#49d5eb):J-POP|-|-|BGCOLOR(#ccc):alxswn|BGCOLOR(#ccc):〜19/10/24　サヨナラ曲|
 |657|BGCOLOR(#ccc):[[ス・マ・イ・ル>難易度表/おに/ス・マ・イ・ル]]|BGCOLOR(orange):アニメ|-|-|BGCOLOR(#ccc):hanakp|BGCOLOR(#ccc):〜20/9/23　サヨナラ曲|
 |658|BGCOLOR(#ccc):[[ゆーがらお友達>難易度表/おに/ゆーがらお友達]]|BGCOLOR(orange):アニメ|-|-|BGCOLOR(#ccc):ywyugr|BGCOLOR(#ccc):〜21/10/20　サヨナラ曲|
-|659|[[EXCITE>難易度表/おに/EXCITE]]|BGCOLOR(orange):アニメ|-|-|krexd||
+|659|[[EXCITE>難易度表/おに/EXCITE]]|BGCOLOR(orange):アニメ|-|-|krexd|〜22/10/23　サヨナラ曲|
 |660|[[エイリアンエイリアン>難易度表/おに/エイリアンエイリアン]]|BGCOLOR(#cbcfde):ボカロ|-|-|mikuaa||
 |661|[[スーパードラゴンボールヒーローズ　テーマソング>難易度表/おに/スーパードラゴンボールヒーローズ テーマソング]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|dhero5||
 |662|[[ヒカリノカナタヘ>難易度表/おに/ヒカリノカナタヘ]]|BGCOLOR(#ff7028):ナムオリ|-|-|w2bs2x||

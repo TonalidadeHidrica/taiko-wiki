@@ -29,6 +29,11 @@
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/わら得る2000]]を参照。
 -割れない風船の打数721は、[[ドンカマ2000>難易度表/むずかしい/ドンカマ2000]]の「何ッ！？」に因んでいると思われる。
+-177〜179小節を縦に並べると、「2000」という文字が浮かび上がる。&br;
+177：&color(red){●●};&color(white){○○};&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};&br;
+178：&color(white){○○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&br;
+179：&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};
+--[[おに譜面>難易度表/おに/わら得る2000]]の同じ箇所にも似た演出がある。
 -iOS/ARでは配点が低く、基本天井点の90万点に到達するためには全良に加えて''約20.9打/秒''以上の速度で連打する必要がある。
 --同様の現象は全難易度で発生している。
 

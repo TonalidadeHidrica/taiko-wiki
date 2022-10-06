@@ -30,7 +30,7 @@ COLOR(red){こちらが新設された''AC16''の難易度順です。}
 |>|>|>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|>|>|''難易度ごとの曲数''(難易度を選択すると移動します)|h
 |COLOR(#FF3300):CENTER:BGCOLOR(#d00):[[COLOR(white):%%%超難関%%%>#mostdifficult]]|CENTER:BGCOLOR(silver):[[COLOR(red):%%%難関%%%>#false]]|CENTER:BGCOLOR(#FFCCCC):[[%%%強%%%>#difficult]]|CENTER:BGCOLOR(#CCFFCC):[[%%%中%%%>#normal]]|CENTER:BGCOLOR(#CCCCFF):[[%%%弱%%%>#easy]]|CENTER:BGCOLOR(#CCFFFF):[[%%%逆詐称%%%>#untifalse]]|CENTER:BGCOLOR(lime):[[%%%逆詐称−%%%>#safety]]|CENTER:BGCOLOR(Black):[[COLOR(white):%%%対象外%%%>#extra]]|CENTER:BGCOLOR(black):[[COLOR(#FFFFFF):%%%議論禁止%%%>#extra2]]|CENTER:合計|
-|18|38|53|73|45|18|6|4|0|255|
+|18|38|53|73|46|18|6|4|0|255|
 
 //曲を移動するときに↑も更新してください。議論中の曲は数に含めていません。
 ----

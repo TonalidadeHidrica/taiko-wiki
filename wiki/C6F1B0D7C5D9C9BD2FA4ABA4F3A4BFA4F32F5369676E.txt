@@ -5,7 +5,7 @@
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''DS3''|BGCOLOR(orange):''アニメ''|★×3|''86''|''310710点''|＋連打|950点|340点|
-|NS2MP|~|~|~|''?????0点''|~|780点|220点|
+|NS2MP|~|~|~|''324840点''|~|780点|220点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){???0点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -24,10 +24,12 @@
 -[[ふつう>難易度表/ふつう/Sign]]
 -[[むずかしい>難易度表/むずかしい/Sign]]
 -[[おに>難易度表/おに/Sign]]
--[[オート動画(直撮り)>http://www.youtube.com/watch?v=FPBztz0eQ7o]]
+-[[オート動画(DS3・直撮り)>https://youtu.be/FPBztz0eQ7o]]
+-[[オート動画(NS2)>https://youtu.be/t74m5tWub_I]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&ref(sign.png,nolink);
+~63小節目の後の白線は存在しない
+~&ref(sign.png,nolink);

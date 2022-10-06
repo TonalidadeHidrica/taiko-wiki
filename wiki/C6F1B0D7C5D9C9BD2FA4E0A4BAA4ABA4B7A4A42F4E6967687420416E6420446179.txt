@@ -4,14 +4,14 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.6.0SP|''3DS2''&br;Wii U3&br;NS RPG|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|''481''|''895060点''|＋連打|560点|155点|
+|AC15.6.0SP|''3DS2''&br;Wii U3&br;NS RPG&br;NS2MP|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|''481''|''895060点''|＋連打|560点|155点|
 ||3DS2韓|BGCOLOR(darkorchid):COLOR(white){''&#44172;&#51076; &#51020;&#50501;''}|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''995520点''}|~|COLOR(#ff3300){2040点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1000480点''|~|2080点|-|
 |AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは140。
+-BPMは約140。
 -黄色連打が多い連打曲である。
 -全体的に付点配置が多く、リズムが取りづらい。
 -速度は少し遅めだが、全体的に16分がかなり多い。
@@ -23,13 +23,13 @@
 -平均密度は、''約3.84打/秒''。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Night And Day]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Night And Day#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Night And Day]]
 -[[ふつう>難易度表/ふつう/Night And Day]]
 -[[おに>難易度表/おに/Night And Day]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=uPOj-h7EuNE]] 
+-[[オート動画(Wii U3)>https://youtu.be/uPOj-h7EuNE]] 
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -37,4 +37,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(N and D.png,nolink);
+~正確なBPM変化は[[おに譜面>難易度表/おに/Night And Day#score]]を参照
+~&attachref(N and D.png,nolink);

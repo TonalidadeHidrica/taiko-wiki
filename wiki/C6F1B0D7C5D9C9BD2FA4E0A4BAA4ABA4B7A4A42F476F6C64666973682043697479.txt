@@ -20,6 +20,7 @@
 -[[ふつう>難易度表/ふつう/Goldfish City]]
 -[[おに>難易度表/おに/Goldfish City]]
 -[[プレイ動画>https://www.youtube.com/watch?v=GObvBODzN4U]]
+-[[オート動画(NS2)>https://youtu.be/4i0idiXt1OE]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

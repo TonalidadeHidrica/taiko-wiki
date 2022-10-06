@@ -23,6 +23,7 @@
 -[[ふつう>難易度表/ふつう/Clotho クロートー]]
 -[[おに>難易度表/おに/Clotho クロートー]]
 -[[プレイ動画>https://www.youtube.com/watch?v=knj-KqGdm74]]
+-[[オート動画(NS2)>https://youtu.be/L4GAtOMvUbQ]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
