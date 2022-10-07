@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.9.0SP|''3DS3DL''&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''932''|''1203220点''|+連打|380点|95点|
+|AC15.9.0SP|''3DS3DL''&br;PS4 1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''932''|''1203220点''|+連打|380点|95点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1002760点''}|~|COLOR(#ff3300){1060点}|-|
 ||iOS&br;AR|~|~|~|''1199360点''|~|320点|90点|
 |AC16.1.0||~|~|~|''997240点''|~|1070点|-|
@@ -41,10 +41,10 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(ex_ryuhim_m.png,nolink);
+~&attachref(ex_ryuhim_m.png,nolink);
 
-~見た目重視~
-&attachref(ex_ryuhim_m_look.png,nolink);
+~見た目重視
+~&attachref(ex_ryuhim_m_look.png,nolink);
 
-~半速画像~
-&attachref(裏竜姫半速.png,nolink);
+~半速画像
+~&attachref(裏竜姫半速.png,nolink);

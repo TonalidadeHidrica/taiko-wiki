@@ -76,7 +76,7 @@
 
 **未確定だが可能性のある作品 [#possible]
 --ゲームミュージック
----[[MEGALOVANIA>難易度表/おに/MEGALOVANIA]]
+---[[MEGALOVANIA>難易度表/おに/MEGALOVANIA]] / [[裏譜面>難易度表/おに/MEGALOVANIA(裏譜面)]]
 --ナムコオリジナル
 ---[[まださいたま2000>難易度表/おに/まださいたま2000]]
 
