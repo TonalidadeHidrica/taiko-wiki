@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.5.0|''3DS2SP''&br;Wii U2SP&br;PS Vita1SP&br;PS4 1&br;NS1DL&br;NS RPG&br;PTB|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|★×9|''753''|''1096840点''|＋連打|400点|103点|
+|AC15.5.0|''3DS2SP''&br;Wii U2SP&br;PS Vita1SP&br;PS4 1&br;NS1DL&br;NS RPG&br;PTB&br;NS2MP|BGCOLOR(silver):''ボーカロ&br;イド&#8482;曲''|★×9|''753''|''1096840点''|＋連打|400点|103点|
 ||PS Vita1亜SP|BGCOLOR(silver):''VOCALOID&br;樂曲''|~|~|~|~|~|~|
 ||3DS2韓SP|BGCOLOR(silver):''&#48372;&#52972;&#47196;&#51060;&#46300;''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''997500点''}|~|COLOR(#ff3300){1250点}|-|

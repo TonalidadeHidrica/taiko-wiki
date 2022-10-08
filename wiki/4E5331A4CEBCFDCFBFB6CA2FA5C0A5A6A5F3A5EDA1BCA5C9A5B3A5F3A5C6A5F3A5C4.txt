@@ -55,7 +55,7 @@
 |BGCOLOR(orange):25|[[''1・2・3''>難易度表/おに/1・2・3]]&br;　　SIZE(11){After the Rain（そらる×まふまふ）&br;「ポケットモンスター」より}|2020/8/20|165円||
 |BGCOLOR(cyan):26|[[''ただ君に晴れ''>難易度表/おに/ただ君に晴れ]]&br;　　SIZE(11){ヨルシカ}|2020/9/10|165円||
 |BGCOLOR(darkorchid):27|[[''JOIN THE PAC -太鼓の達人 Ver.-''>難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]&br;　　SIZE(11){パックマン40周年公式テーマ楽曲}|2020/9/10|165円||
-|BGCOLOR(darkorchid):28|[[''BORN ON DREAM! 〜HANABI☆NIGHT〜''>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]&br;　　SIZE(11){「アイドルマスター ミリオンライブ！ シアターデイズ」より}|2020/10/8〜2022/10/6|165円||
+|BGCOLOR(darkorchid):28|BGCOLOR(beige):[[''BORN ON DREAM! 〜HANABI☆NIGHT〜''>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]&br;　　SIZE(11){「アイドルマスター ミリオンライブ！ シアターデイズ」より}|BGCOLOR(beige):2020/10/8|BGCOLOR(beige):165円|BGCOLOR(beige):2022/10/6まで配信|
 |BGCOLOR(darkorchid):29|[[''にひきはネコトモ！''>難易度表/おに/にひきはネコトモ！]]&br;　　SIZE(11){「ネコ・トモ」エンディング曲}|2020/11/19|無料||
 |BGCOLOR(cyan):30|[[''LAST CHRISTMAS''>難易度表/おに/LAST CHRISTMAS]]|2020/12/3|165円||
 |BGCOLOR(cyan):31|[[''夜に駆ける''>難易度表/おに/夜に駆ける]]&br;　　SIZE(11){YOASOBI}|2020/12/3|165円||

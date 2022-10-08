@@ -930,7 +930,7 @@
 --[[僕の→地球 僕らの地球>難易度表/おに/僕の地球 僕らの地球]]
 --[[塊オンザロック〜メインテーマ>難易度表/おに/塊オンザロック]]
 --[[たのしい太鼓道場(裏譜面)>難易度表/おに/たのしい太鼓道場(裏譜面)]]
---[[BORN ON DREAM! 〜HANABI☆NIGHT〜>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]
+--[[BORN ON DREAM! 〜HANABI☆NIGHT〜>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]※
 --[[にひきはネコトモ！>難易度表/おに/にひきはネコトモ！]]
 -ナムコオリジナル
 --[[void setup>難易度表/おに/void setup]]

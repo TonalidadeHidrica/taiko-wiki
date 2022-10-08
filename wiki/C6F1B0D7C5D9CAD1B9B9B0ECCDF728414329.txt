@@ -734,7 +734,7 @@
 |>|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|
 |[[馬と鹿>難易度表/おに/馬と鹿]]|COLOR(red){★×5→★×6}|
 
-***新筐体(ニジイロ) [#acgreen]
+***新筐体(ニジイロ) [#acniji]
 ||CENTER:|c
 |CENTER:曲名|変更|h
 |>|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|

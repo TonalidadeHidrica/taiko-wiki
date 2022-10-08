@@ -749,7 +749,7 @@
 |||''Reason!!''&br;　　SIZE(11){「アイドルマスター SideM」より}|190|[[★×1>難易度表/かんたん/Reason!!]]|[[★×2>難易度表/ふつう/Reason!!]]|[[★×3>難易度表/むずかしい/Reason!!]]|[[★×6>難易度表/おに/Reason!!]]|-|
 |||''GLORIOUS RO@D''&br;　　SIZE(11){「アイドルマスター SideM」より}|128|[[★×2>難易度表/かんたん/GLORIOUS RO@D]]|[[★×3>難易度表/ふつう/GLORIOUS RO@D]]|[[★×3>難易度表/むずかしい/GLORIOUS RO@D]]|[[★×7>難易度表/おに/GLORIOUS RO@D]]|-|
 |>|>|>|>|>|>|>|>|BGCOLOR(#0acc2a):''バラエティ''&aname(variety);|
-|''22/10/1''|''NEW''|''Doppelgangers''&br;　　SIZE(11){アリスシャッハと魔法の楽団}|52-208?|[[★×4>難易度表/かんたん/Doppelgangers]]|[[★×6>難易度表/ふつう/Doppelgangers]]|[[★×6>難易度表/むずかしい/Doppelgangers]]|[[★×8>難易度表/おに/Doppelgangers]]|[[★×10>難易度表/おに/Doppelgangers(裏譜面)]]|
+|''22/10/1''|''NEW''|''Doppelgangers''&br;　　SIZE(11){アリスシャッハと魔法の楽団}|52-208|[[★×4>難易度表/かんたん/Doppelgangers]]|[[★×6>難易度表/ふつう/Doppelgangers]]|[[★×6>難易度表/むずかしい/Doppelgangers]]|[[★×8>難易度表/おに/Doppelgangers]]|[[★×10>難易度表/おに/Doppelgangers(裏譜面)]]|
 |''22/5/21''|''NEW''|''Kill My Fortune''&br;　　SIZE(11){アリスシャッハと魔法の楽団}|180|[[★×4>難易度表/かんたん/Kill My Fortune]]|[[★×5>難易度表/ふつう/Kill My Fortune]]|[[★×5>難易度表/むずかしい/Kill My Fortune]]|[[★×7>難易度表/おに/Kill My Fortune]]&br; &color(#000000,#87CEEB){''[[初段>段位道場/ニジイロ2022/初段]]''};|-|
 |||''もぺもぺ''&br;　　SIZE(11){LeaF}|6.25-300|[[★×4>難易度表/かんたん/もぺもぺ]]|[[★×5>難易度表/ふつう/もぺもぺ]]|[[★×7>難易度表/むずかしい/もぺもぺ]]|[[★×10>難易度表/おに/もぺもぺ]]|-|
 |''COLOR(red){どん}''&br;(COLOR(#00b8e6){''夏''})|''NEW''|''Aragami''&br;　　SIZE(11){xi}|65?-196|[[★×4>難易度表/かんたん/Aragami]]|[[★×7>難易度表/ふつう/Aragami]]|[[★×8>難易度表/むずかしい/Aragami]]|[[★×10>難易度表/おに/Aragami]]&br; &color(#000000,#FF9BF1){''[[十段>段位道場/ニジイロ2022/十段]]''};|-|

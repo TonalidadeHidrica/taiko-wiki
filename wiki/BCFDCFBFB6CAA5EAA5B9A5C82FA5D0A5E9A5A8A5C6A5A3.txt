@@ -157,7 +157,7 @@
 |''D絶対！SAMURAIインザレイン''|220|[[★×3>難易度表/かんたん/D絶対！SAMURAIインザレイン]]|[[★×4>難易度表/ふつう/D絶対！SAMURAIインザレイン]]|[[★×6>難易度表/むずかしい/D絶対！SAMURAIインザレイン]]|[[★×8>難易度表/おに/D絶対！SAMURAIインザレイン]]|[[★×10>難易度表/おに/D絶対！SAMURAIインザレイン(裏譜面)]]|
 |''Dive to Blue''|60-186※|[[★×2>難易度表/かんたん/Dive to Blue]]|[[★×2>難易度表/ふつう/Dive to Blue]]|[[★×3>難易度表/むずかしい/Dive to Blue]]|[[★×8>難易度表/おに/Dive to Blue]]|-|
 |''Dogbite''|195|[[★×4>難易度表/かんたん/Dogbite]]|[[★×6>難易度表/ふつう/Dogbite]]|[[★×7>難易度表/むずかしい/Dogbite]]|[[★×10>難易度表/おに/Dogbite]]|-|
-|''Doppelgangers''|180-208?|[[★×4>難易度表/かんたん/Doppelgangers]]|[[★×6>難易度表/ふつう/Doppelgangers]]|[[★×6>難易度表/むずかしい/Doppelgangers]]|[[★×8>難易度表/おに/Doppelgangers]]|[[★×10>難易度表/おに/Doppelgangers(裏譜面)]]|
+|''Doppelgangers''|52-208|[[★×4>難易度表/かんたん/Doppelgangers]]|[[★×6>難易度表/ふつう/Doppelgangers]]|[[★×6>難易度表/むずかしい/Doppelgangers]]|[[★×8>難易度表/おに/Doppelgangers]]|[[★×10>難易度表/おに/Doppelgangers(裏譜面)]]|
 |''Dreadnought''|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|
 |''Endless Seeker''|163※|[[★×3>難易度表/かんたん/Endless Seeker]]|[[★×5>難易度表/ふつう/Endless Seeker]]|[[★×6>難易度表/むずかしい/Endless Seeker]]|[[★×8>難易度表/おに/Endless Seeker]]|-|
 |''EXCITE''|151|[[★×2>難易度表/かんたん/EXCITE]]|[[★×3>難易度表/ふつう/EXCITE]]|[[★×5>難易度表/むずかしい/EXCITE]]|[[★×7>難易度表/おに/EXCITE]]|-|
