@@ -481,9 +481,10 @@
 |BGCOLOR(#49d5eb):|恋|[[332>難易度表/おに/恋]]|[[81>難易度表/おに/恋(裏譜面)]]((双打1P側81、2P側96))|
 |BGCOLOR(#fe90d2):|DANZEN! ふたりはプリキュア〜唯一無二の光たち〜|[[361>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|[[331>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜(裏譜面)]]|
 |BGCOLOR(#cbcfde):|六兆年と一夜物語|[[846>難易度表/おに/六兆年と一夜物語]]|[[753>難易度表/おに/六兆年と一夜物語(裏譜面)]]|
-|BGCOLOR(#cc8aeb):|THE IDOLM@STER|[[765>難易度表/おに/THE IDOLM@STER]]|[[555>難易度表/おに/THE IDOLM@STER(裏譜面)]]|
+|BGCOLOR(#cc8aeb):|Garakuta Doll Play|[[750>難易度表/おに/Garakuta Doll Play]]|[[715>難易度表/おに/Garakuta Doll Play(裏譜面)]]((双打1P側526、2P側516))|
+|~|THE IDOLM@STER|[[765>難易度表/おに/THE IDOLM@STER]]|[[555>難易度表/おに/THE IDOLM@STER(裏譜面)]]|
 |~|shiny smile|[[555>難易度表/おに/shiny smile]]|[[475>難易度表/おに/shiny smile(裏譜面)]]|
-|~|Garakuta Doll Play|[[750>難易度表/おに/Garakuta Doll Play]]|[[715>難易度表/おに/Garakuta Doll Play(裏譜面)]]((双打1P側526、2P側516))|
+|~|たのしい太鼓道場|[[558>難易度表/おに/たのしい太鼓道場]]|[[360>難易度表/おに/たのしい太鼓道場(裏譜面)]]|
 |BGCOLOR(#ff7028):|Agent Hustle & Dr. Hassle|[[693>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|[[518>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|
 |~|旋風ノ舞【天】|[[616>難易度表/おに/旋風ノ舞【天】]]|[[599>難易度表/おに/旋風ノ舞【天】(裏譜面)]]((2人用1P側599、2P側599))|
 |~|双竜ノ乱|[[970>難易度表/おに/双竜ノ乱]]|[[448>難易度表/おに/双竜ノ乱(裏譜面)]]((双打1P側448、2P側603))|
