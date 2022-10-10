@@ -1,0 +1,118 @@
+[[太鼓の達人 新筐体の収録曲]]
+
+*きせかえ一覧[#title]
+#contents
+----
+-&size(22){ドンだーひろばの[[ごほうび一覧(きせかえ)>http://donderhiroba.jp/reward_kisekae.php]]に出現しているきせかえのみ掲載してください。};
+-会議室で案が出ていたのでひとまず作成してみました。追加・編集宜しくお願いします。
+--現段階ではあまり情報が揃っていません。コメント欄での情報提供もよろしくお願いします。
+
+-きせかえはドンだーひろばのごほうび一覧の順に載せており、順番が確定しているものには「〇」を付けています。「〇」が付いていないものはまだ順番があやふやなので、確認でき次第編集をお願いします。
+
+-表の背景が灰色(COLOR(grey){■})のきせかえは存在はしているが、Ver.32.09現在''獲得不可能''な条件のきせかえであることを表す。
+-表の背景がグレー(COLOR(silver){■})のきせかえは存在はしているが、Ver.32.09現在''一時獲得不可能''な条件のきせかえであることを表す。
+
+**リスト [#x98ffd21]
+|CENTER:1|160|>||||c
+|CENTER:順番|CENTER:きせかえ|>|CENTER:獲得条件|CENTER:備考|h
+|>|>|>|>|BGCOLOR(gold):CENTER:''きぐるみ''|
+||段位道場|>|[[段位道場]]に合格する|段位に応じて見た目が変化していく&br;その年の段位道場が終わるときせかえも剥奪される|
+|〇|お祭りハッピ|>|初めてバナパスポートカード等を使って遊ぶ||
+|BGCOLOR(silver):|BGCOLOR(silver):とら|BGCOLOR(silver):1プレイ内全て中高生向けアニメ曲を選んでクリア|BGCOLOR(silver):「ごほうびザクザク2022」中に2回プレイ|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):オニに金棒|BGCOLOR(silver):	2013年2月に太鼓の達人をプレイ&br;どんちゃん着せ替え獲得キャンペーンで獲得|BGCOLOR(silver):「スタートダッシュ2020」中に7回プレイ&br;「ごほうびザクザク2022」中に55回プレイ|BGCOLOR(silver):|
+|〇|AIどん（青）|>|[[AIバトル演奏]]で75回勝利する||
+|〇|AIどん（桃）|>|[[AIバトル演奏]]で350回勝利する|~|
+|〇|AIどん（黄）|>|[[AIバトル演奏]]で765回勝利する|~|
+|〇|初音ミク|>|公式の初音ミク曲をクリア|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|GUMI|>|GUMI曲をクリア|~|
+|〇|IA|>|IA曲をクリア|~|
+|〇|ミューズポリスC|>|[[COLOR(blue):Extreme MGG★★★>難易度表/おに/Extreme MGG★★★]]をクリア||
+|〇|ミューズポリスM|>|[[COLOR(blue):ミュージック・リボルバー>難易度表/おに/ミュージック・リボルバー]]をクリア|~|
+|〇|ゴールデンボンバー|>|[[COLOR(blue):女々しくて>難易度表/おに/女々しくて]]をプレイ|~|
+|〇|パズドラ ティラ|>|[[COLOR(blue):Walking Through the Towers>難易度表/おに/Walking Through The Towers]]をプレイ|~|
+|〇|ジバニャン|>|妖怪ウォッチの曲をプレイ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|ブレイブネコシリーズ|>|[[COLOR(blue):モンスターハンター4 メドレー>難易度表/おに/モンスターハンター4 メドレー]]をプレイ||
+|〇|くまモン|>|[[COLOR(blue):くまもとサプライズ！>難易度表/おに/くまもとサプライズ！]]をプレイ|~|
+|〇|博麗霊夢|>|東方Projectアレンジ楽曲をプレイ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|コマさん|>|コマさんが踊り子として登場している、妖怪ウォッチの曲をプレイ|~|
+|〇|パズドラ たまドラ|>|[[COLOR(blue):決戦!!>難易度表/おに/決戦!!]]をプレイ||
+|〇|アイドルマスター|>|アイドルマスターの曲をクリア|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|霧雨魔理沙|>|東方Projectアレンジ楽曲をクリア|~|
+|〇|さちさち|>|[[COLOR(blue):さちさちにしてあげる♪>難易度表/おに/さちさちにしてあげる♪]]をプレイ||
+|〇|フィーナとピリカ|>|チェインクロニクルの曲をプレイ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|まうちゅー|>|スタジオジブリアニメの曲をプレイ|~|
+|〇|さかなクン|>|[[COLOR(blue):おさかな毎日！さかなクン>難易度表/おに/おさかな毎日！さかなクン]]をプレイ||
+|〇|星のカービィ|>|[[COLOR(blue):星のカービィメドレー>難易度表/おに/星のカービィメドレー]]をプレイ|~|
+|〇|ティア＆ポポカカ|>|[[COLOR(blue):世界はいつでもミステリー>難易度表/おに/世界はいつでもミステリー]]をプレイ|~|
+|〇|ハイキュー!!|>|[[COLOR(blue):ヒカリアレ>難易度表/おに/ヒカリアレ]]をプレイ|~|
+|〇|スプラトゥーン ガール|>|[[COLOR(blue):シオカラ節>難易度表/おに/シオカラ節]]をプレイ|~|
+|〇|メタナイト|>|[[COLOR(blue):メタナイトの逆襲メドレー>難易度表/おに/メタナイトの逆襲メドレー]]をプレイ|~|
+|〇|リンク オブ ザ ワイルド|>|[[COLOR(blue):ゼルダの伝説 ブレス オブ ザ ワイルド メドレー>難易度表/おに/ゼルダの伝説 ブレス オブ ザ ワイルド メドレー]]をプレイ|~|
+|〇|マリオオデッセイ|>|[[COLOR(blue):Jump Up, Super Star! Short Version>難易度表/おに/Jump Up, Super Star! Short Version]]をプレイ|~|
+|〇|スプラトゥーン ボーイ|>|[[COLOR(blue):スプラトゥーン2 メドレー>難易度表/おに/スプラトゥーン2 メドレー]]をプレイ|~|
+|BGCOLOR(grey):|BGCOLOR(grey):仮面ライダーゴースト|>|BGCOLOR(grey):[[COLOR(blue):我ら思う、故に我ら在り>難易度表/おに/我ら思う、故に我ら在り]]をプレイ|BGCOLOR(grey):|
+|BGCOLOR(grey):|BGCOLOR(grey):仮面ライダーエグゼイド|>|BGCOLOR(grey):[[COLOR(blue):EXCITE>難易度表/おに/EXCITE]]をプレイ|~|
+|BGCOLOR(grey):|BGCOLOR(grey):仮面ライダービルド|>|BGCOLOR(grey):[[COLOR(blue):Be The One>難易度表/おに/Be The One]]をプレイ|~|
+|BGCOLOR(grey):|BGCOLOR(grey):仮面ライダージオウ＆ゲイツ|>|BGCOLOR(grey):[[COLOR(blue):Over “Quartzer”>難易度表/おに/Over “Quartzer”]]をプレイ|~|
+|BGCOLOR(grey):|BGCOLOR(grey):仮面ライダーゼロワン|>|BGCOLOR(grey):[[COLOR(blue):REAL×EYEZ>難易度表/おに/REAL×EYEZ]]をプレイ|~|
+|BGCOLOR(grey):|BGCOLOR(grey):仮面ライダーセイバー|>|BGCOLOR(grey):[[COLOR(blue):ALMIGHTY〜仮面の約束 feat.川上洋平>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]をプレイ|~|
+|〇|仮面ライダーリバイス|>|[[COLOR(blue):liveDevil>難易度表/おに/liveDevil]]をプレイ||
+|>|>|>|>|BGCOLOR(gold):CENTER:''あたま''|
+|〇|チックン|>|[[COLOR(blue):超時空アドベンチャー>難易度表/おに/超時空アドベンチャー]]をプレイ||
+|〇|きょうじゅ|>|サカモト教授作曲・編曲の曲をフルコンボ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|リラ・ダ・ガンバ|>|[[COLOR(blue):希望へのメロディー>難易度表/おに/希望へのメロディー]]をプレイ||
+|BGCOLOR(silver):|BGCOLOR(silver):さくら|BGCOLOR(silver):2014年4月に太鼓の達人をプレイ|BGCOLOR(silver):「スタートダッシュ2020」中に3回プレイ&br;「ごほうびザクザク2022」中に52回プレイ|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):にんじゃ|BGCOLOR(silver):2014年7月19日〜8月1日までにごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に6回プレイ&br;「ごほうびザクザク2022」中に52回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):レースカー|BGCOLOR(silver):2014年5月にごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に11回プレイ&br;「ごほうびザクザク2022」中に58回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):かたつむり|BGCOLOR(silver):2014年6月にごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に14回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):げっけいじゅ|BGCOLOR(silver):2014年7月26日〜8月8日までにごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に18回プレイ|~|
+|>|>|>|>|BGCOLOR(gold):CENTER:''からだ''|
+|BGCOLOR(silver):|BGCOLOR(silver):クレープやたい|>|BGCOLOR(silver):500かつメダルで購入|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):ドドドド|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):皇帝|>|~|~|
+|BGCOLOR(grey):|BGCOLOR(grey):パワーアーム|>|BGCOLOR(grey):どれか1曲で叩けた総数((良+可+連打数))が1000以上|BGCOLOR(grey):|
+|〇|タックンライド|>|[[COLOR(blue):超時空アドベンチャー>難易度表/おに/超時空アドベンチャー]]をプレイ||
+|〇|こおりのドレス|>|[[COLOR(blue):Let It Go〜ありのままで〜>難易度表/おに/Let It Go〜ありのままで〜]]をフルコンボ|~|
+|〇|メイプルライド|>|[[COLOR(blue):希望へのメロディー>難易度表/おに/希望へのメロディー]]をプレイ|~|
+|〇|世界一決定戦2016(どん)|>|1P側で「[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]」の新規課題曲として登場した新曲をプレイ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|世界一決定戦2016(かつ)|>|2P側で「[[ドンだー！世界一決定戦2016>太鼓の達人 ドンだー！世界一決定戦2016]]」の新規課題曲として登場した新曲をプレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):さくらもち|BGCOLOR(silver):2014年4月にごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に2回プレイ&br;「ごほうびザクザク2022」中に51回プレイ|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):にんじゃ|BGCOLOR(silver):2014/7/19〜8/1の間に[[COLOR(blue):らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん]]をクリア|BGCOLOR(silver):「スタートダッシュ2020」中に5回プレイ|~|
+|>|>|>|>|BGCOLOR(gold):CENTER:''メイク''|
+|BGCOLOR(silver):|BGCOLOR(silver):イケイケサングラス|BGCOLOR(silver):グリーンver.までにごほうびショップで交換|BGCOLOR(silver):「ごほうびザクザク2022」中に6回プレイ|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):芸者|BGCOLOR(silver):2015年1月にごほうびショップで交換|BGCOLOR(silver):「ごほうびザクザク2022」中に12回プレイ|BGCOLOR(silver):|
+|>|>|>|>|BGCOLOR(gold):CENTER:''ぷちキャラ''|
+|BGCOLOR(silver):|BGCOLOR(silver):博麗霊夢|>|BGCOLOR(silver):「東方Project×太鼓の達人コラボキャンペーン」で交換|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):霧雨魔理沙|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):十六夜咲夜|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):アリス・マーガトロイド|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):レミリア・スカーレット|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):チルノ|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):堀川雷鼓|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):フランドール・スカーレット|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):藤原妹紅|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):古明地さとり|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):古明地こいし|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):宇佐見蓮子&マエリベリー・ハーン|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):射命丸文|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):魂魄妖夢|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):東風谷早苗|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):日焼けしたチルノ|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):鈴仙・優曇華院・イナバ|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):秦こころ|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):博麗霊夢&霧雨魔理沙|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):八雲紫|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):レミリア・スカーレット&十六夜咲夜|>|~|~|
+|BGCOLOR(silver):|BGCOLOR(silver):洩矢諏訪子|>|~|~|
+|BGCOLOR(grey):|BGCOLOR(grey):粗品|>|BGCOLOR(grey):AI粗品バトル演奏で5回勝利する|BGCOLOR(grey):|
+|BGCOLOR(grey):|BGCOLOR(grey):AI粗品|>|BGCOLOR(grey):AI粗品バトル演奏で10回勝利する|~|
+|〇|AIどん|>|[[AIバトル演奏]]で25回勝利する||
+|〇|まきな|>|[[AIバトル演奏]]で175回勝利する|~|
+|〇|まきな（学生ver.）|>|[[AIバトル演奏]]で876回勝利する|~|
+
+
+**コメント[#commnt]
+-COLOR(red){''情報提供用のコメント欄です。雑談などは控えてください。''}
+
+#pcomment(,20,noname,reply)
+-ツリー形式になっています。COLOR(red){''返信をする際は、返信先のコメント横にあるボタンにチェックを入れて下さい。また、ツリーミスをしないよう気をつけてコメントしましょう。''}

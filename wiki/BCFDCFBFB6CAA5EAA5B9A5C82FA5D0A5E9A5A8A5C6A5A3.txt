@@ -138,7 +138,7 @@
 |>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''わ行''&aname(wagyo);|
 |''渡る世間は鬼ばかり テーマ''|131※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/渡る世間は鬼ばかり テーマ]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/渡る世間は鬼ばかり テーマ]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/渡る世間は鬼ばかり テーマ]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/渡る世間は鬼ばかり テーマ]]|-|
 
-**A~Z [#az]
+**アルファベット [#az]
 |||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(アルファベット順)|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
 |>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(A〜F)''&aname(alphabetaf);|
@@ -170,7 +170,7 @@
 |''Hand Over (Prod. TEMPLIME)''|140|[[★×3>難易度表/かんたん/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/ふつう/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/むずかしい/Hand Over (Prod. TEMPLIME)]]|[[★×9>難易度表/おに/Hand Over (Prod. TEMPLIME)]]|-|
 |''Help me, ERINNNNNN!!''|183※|[[★×3>難易度表/かんたん/Help me, ERINNNNNN!!]]|[[★×4>難易度表/ふつう/Help me, ERINNNNNN!!]]|[[★×7>難易度表/むずかしい/Help me, ERINNNNNN!!]]|[[★×8>難易度表/おに/Help me, ERINNNNNN!!]]|-|
 |''「HERO」 -Main Title-''|130|[[★×3>難易度表/かんたん/「HERO」 -Main Title-]]|[[★×4>難易度表/ふつう/「HERO」 -Main Title-]]|[[★×6>難易度表/むずかしい/「HERO」 -Main Title-]]|[[★×8>難易度表/おに/「HERO」 -Main Title-]]|-|
-|''He's a Pirate''|140|[[★×4>難易度表/かんたん/He's a Pirate]]|[[★×5>難易度表/ふつう/He's a Pirate]]|[[★×7>難易度表/むずかしい/He's a Pirate]]|[[★×7>難易度表/おに/He's a Pirate]]|-|
+|''He's A Pirate''|140|[[★×4>難易度表/かんたん/He's a Pirate]]|[[★×5>難易度表/ふつう/He's a Pirate]]|[[★×7>難易度表/むずかしい/He's a Pirate]]|[[★×7>難易度表/おに/He's a Pirate]]|-|
 |''Hyper Bass (feat. Yunomi)''|178|[[★×2>難易度表/かんたん/Hyper Bass (feat. Yunomi)]]|[[★×2>難易度表/ふつう/Hyper Bass (feat. Yunomi)]]|[[★×5>難易度表/むずかしい/Hyper Bass (feat. Yunomi)]]|[[★×9>難易度表/おに/Hyper Bass (feat. Yunomi)]]|-|
 |''I'm A Slave 4 U''|110|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/I'm A Slave 4 U]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/I'm A Slave 4 U]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/I'm A Slave 4 U]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/I'm A Slave 4 U]]|-|
 |''Inscrutable Battle''|141|[[★×4>難易度表/かんたん/Inscrutable Battle]]|[[★×5>難易度表/ふつう/Inscrutable Battle]]|[[★×7>難易度表/むずかしい/Inscrutable Battle]]|[[★×9>難易度表/おに/Inscrutable Battle]]|-|

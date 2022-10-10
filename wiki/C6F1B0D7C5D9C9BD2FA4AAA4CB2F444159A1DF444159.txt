@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''Wii U3''&br;3DS3DL|BGCOLOR(orange):''アニメ''|★×8|''502''|''1045930点''|＋連打|590点|158点|
+|''Wii U3''&br;3DS3DL&br;NS2MP|BGCOLOR(orange):''アニメ''|★×8|''502''|''1045930点''|＋連打|590点|158点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''??????点''}|~|COLOR(#ff3300){1850点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -26,7 +26,7 @@
 -[[かんたん>難易度表/かんたん/DAY×DAY]]
 -[[ふつう>難易度表/ふつう/DAY×DAY]]
 -[[むずかしい>難易度表/むずかしい/DAY×DAY]]
--[[オート動画>https://www.youtube.com/watch?v=hJ6gEQ5zdVE]]
+-[[オート動画(Wii U3)>https://www.youtube.com/watch?v=hJ6gEQ5zdVE]]
 
 ***コメント [#comment]
 #pcomment(,noname)

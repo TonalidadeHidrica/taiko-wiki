@@ -17,9 +17,9 @@
 
 -[[公式サイト>http://app.taiko-ch.net/]]
 -[[公式Twitter>https://twitter.com/taikosp]]
--[[アップデート履歴>iOSの収録曲/アップデート履歴]]
 -[[楽曲取り放題>iOSの収録曲/楽曲取り放題]]
 -[[システム詳細>CSの歴史#ios]]
+-[[アップデート履歴>iOSの収録曲/アップデート履歴]]
 -[[AppStore>https://itunes.apple.com/jp/app/id366956158]]
 -[[配信パック>iOSの収録曲/配信パック]]
 -[[お楽しみ>iOSの収録曲/お楽しみ]]

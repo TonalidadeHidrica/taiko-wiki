@@ -23,13 +23,12 @@
 
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/冒険日和#other]]を参照。
--PSP2では魂に達すると演奏画面下でCS7の宣伝が出る。
 
 ----
 -[[かんたん>難易度表/かんたん/冒険日和]]
 -[[むずかしい>難易度表/むずかしい/冒険日和]]
 -[[おに>難易度表/おに/冒険日和]]
--[[オート動画(CS7,キャプチャ)>http://www.youtube.com/watch?v=KTeFo44Pr28]]
+-[[オート動画(CS7)>http://www.youtube.com/watch?v=KTeFo44Pr28]]
 
 ***コメント [#comment]
 #pcomment(,noname)

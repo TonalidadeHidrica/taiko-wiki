@@ -24,7 +24,8 @@
 -[[かんたん>難易度表/かんたん/コネクト]]
 -[[むずかしい>難易度表/むずかしい/コネクト]]
 -[[おに>難易度表/おに/コネクト]]
--[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=qHIu4pS9Vc4]]
+//-[[プレイ動画>]]
+-[[オート動画(PS4 1)>https://youtu.be/nmD8T-BkBBk]]
 
 ***コメント [#comment]
 #pcomment(,noname)

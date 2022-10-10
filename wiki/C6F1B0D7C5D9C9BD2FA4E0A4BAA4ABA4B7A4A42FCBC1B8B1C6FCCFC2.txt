@@ -21,7 +21,6 @@
 
 ***その他 [#other]
 -楽曲情報は[[おに譜面>難易度表/おに/冒険日和#other]]を参照。
--PSP2では魂に達すると演奏画面下でCS7の宣伝が出る。
 -CS7では14〜16、24〜25小節に若干変更が加えられている。
 --NS2ではこちらのCS7譜面が採用されている。
 
@@ -29,8 +28,8 @@
 -[[かんたん>難易度表/かんたん/冒険日和]]
 -[[ふつう>難易度表/ふつう/冒険日和]]
 -[[おに>難易度表/おに/冒険日和]]
--[[オート動画(CS7,キャプチャ)>http://www.youtube.com/watch?v=jQgdO-wbZew]]
--[[オート動画(PSP2,キャプチャ)>https://www.youtube.com/watch?v=w1Te_fx36Tc]]
+-[[オート動画(CS7)>http://www.youtube.com/watch?v=jQgdO-wbZew]]
+-[[オート動画(PSP2)>https://www.youtube.com/watch?v=w1Te_fx36Tc]]
 
 ***コメント [#comment]
 #pcomment(,noname)

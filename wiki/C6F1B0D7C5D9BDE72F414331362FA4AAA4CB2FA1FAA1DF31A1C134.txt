@@ -29,7 +29,7 @@
 |>|>|>|>|>|>|>|>|>|''難易度ごとの曲数''(各難易度の曲数を選択すると移動します)|h
 |難易度|COLOR(#FF3300):CENTER:BGCOLOR(yellow):詐称+|COLOR(#FF3300):CENTER:BGCOLOR(silver):詐称|CENTER:BGCOLOR(#FFCCCC):強|CENTER:BGCOLOR(#CCFFCC):中|CENTER:BGCOLOR(#CCCCFF):弱|CENTER:BGCOLOR(#CCFFFF):逆詐称&br;(入門＋)|CENTER:BGCOLOR(lime):逆詐称−&br;(入門)|CENTER:BGCOLOR(Black):COLOR(white):%%%対象外%%%|合計|
 |★×4|[[3>#danger4]]|[[1>#false4]]|[[1>#difficult4]]|[[2>#normal4]]|[[1>#easy4]]|[[1>#untifalse4]]|[[3>#safety4]]| 0[[ >#extra4]]|12|
-|★×3|[[2>#danger3]]| 0[[ >#false3]]| 0[[ >#difficult3]]|[[1>#normal3]]| 0[[ >#easy3]]|[[1>#untifalse3]]|[[1>#safety3]]|0|5|
+|★×3|[[2>#danger3]]| 0[[ >#false3]]| 0[[ >#difficult3]]|[[1>#normal3]]| [[1>#easy3]]|[[1>#untifalse3]]|[[1>#safety3]]|0|6|
 |★×2|[[1>#danger2]]| 0[[ >#false2]]|[[1>#difficult2]]|[[1>#normal2]]|[[2>#easy2]]| 0[[ >#untifalse2]]|[[1>#safety2]]|0|6|
 |★×1|[[1>#danger1]]|[[1>#false1]]| 0[[ >#difficult1]]|[[1>#normal1]]|[[1>#easy1]]| 0[[ >#untifalse1]]| 0[[ >#safety1]]|0|4|
 
@@ -74,6 +74,7 @@
 |>|>|>|>|>|CENTER:BGCOLOR(#FFCCCC):強&aname(difficult3);|
 |>|>|>|>|>|CENTER:BGCOLOR(#CCFFCC):中&aname(normal3);|
 |>|>|>|>|>|CENTER:BGCOLOR(#CCCCFF):弱&aname(easy3);|
+|BGCOLOR(#fdc000):|[[Cheers! デリシャスパーティ・プリキュア>難易度表/おに/Cheers!デリシャスパーティ・プリキュア]]|182|8分主体|8分主体でその複合も長くて4打だが、16分も単色3連打ながら数回含まれている。&br;平均密度:約3.22打/秒|''274''|
 |>|>|>|>|>|CENTER:BGCOLOR(#CCFFFF):逆詐称&aname(untifalse3);|
 |BGCOLOR(#fdc000):|[[ぐでたまテーマソング>難易度表/おに/ぐでたまテーマソング]]|128|12分主体|[[ケラケラホーのうた>難易度表/おに/ケラケラホーのうた]]と同じく、12分主体のハネリズム譜面。BPMもあちらと同じであるが、あちらと違い、12分は2連打までである。&br;平均密度:約2.49打/秒|''217''|
 |>|>|>|>|>|CENTER:BGCOLOR(lime):逆詐称−&aname(safety3);|
