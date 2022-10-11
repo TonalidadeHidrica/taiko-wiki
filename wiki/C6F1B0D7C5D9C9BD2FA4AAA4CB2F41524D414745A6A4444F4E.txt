@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.10.9''|PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''999''|''1209540点''|340点|85点|
+|''AC15.10.9''|PS4DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''999''|''1209540点''|340点|85点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1006080点''}|COLOR(#ff3300){960点}|-|
 |AC16.1.0||~|~|~|''1008990点''|1010点|-|
 
@@ -42,7 +42,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(私の頭の中MAGEΔDON_.png,nolink);
+~&attachref(私の頭の中MAGEΔDON_.png,nolink);
 
 ~あべこべ
 ~&attachref(ARUMAGEΔDONあべこべ.png,nolink);

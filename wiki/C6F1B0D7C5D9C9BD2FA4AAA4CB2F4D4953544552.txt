@@ -21,11 +21,12 @@
 ---2016年1月15日に残りの3人の契約満了及び再契約しないという発表がされ、これによりKARAは事実上の解散となった。
 -作詞は、''Song Soo Yoon''・''Han Jae-Ho''、''Kim Seung Soo''、''Natsumi Watanabe''、''PA-NON''。
 -作曲は、''Han Jae-Ho''・''Kim Seung Soo''。
--曲IDは、''mister''。
 -Wii4では歌詞のハングル文字が非対応なため、歌詞が表示されない。
 -''2014年4月10日(木)午前7:00をもって、新筐体のすべてのバージョンからサヨナラとなった。''
 --新筐体収録及び新筐体新曲のバラエティでは、初のサヨナラ曲となった。
 --現在は、この曲が収録されている家庭用作品でしかプレイできない。
+-曲IDは、''mister''。
+
 ----
 -[[かんたん>難易度表/かんたん/MISTER]]
 -[[ふつう>難易度表/ふつう/MISTER]]
@@ -38,4 +39,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(mister_m.png,nolink);
+&attachref(mister_m.png,nolink);

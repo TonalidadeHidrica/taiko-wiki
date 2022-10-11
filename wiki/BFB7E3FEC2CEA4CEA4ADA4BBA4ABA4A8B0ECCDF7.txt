@@ -3,7 +3,7 @@
 *きせかえ一覧[#title]
 #contents
 ----
--&size(22){ドンだーひろばの[[ごほうび一覧(きせかえ)>http://donderhiroba.jp/reward_kisekae.php]]に出現しているきせかえのみ掲載してください。};
+-&size(22){ドンだーひろばの[[ごほうび一覧(きせかえ)>http://donderhiroba.jp/reward_kisekae.php]]に出現しているもののみ掲載してください。};
 -会議室で案が出ていたのでひとまず作成してみました。追加・編集宜しくお願いします。
 --現段階ではあまり情報が揃っていません。コメント欄での情報提供もよろしくお願いします。
 
@@ -16,6 +16,9 @@
 |CENTER:1|160|>||||c
 |CENTER:順番|CENTER:きせかえ|>|CENTER:獲得条件|CENTER:備考|h
 |>|>|>|>|BGCOLOR(gold):CENTER:''きぐるみ''|
+|〇|ヘリコプター|>|-||
+|〇|おみこし|>|~|~|
+|〇|ブーケ|>|~|~|
 ||段位道場|>|[[段位道場]]に合格する|段位に応じて見た目が変化していく&br;その年の段位道場が終わるときせかえも剥奪される|
 |〇|お祭りハッピ|>|初めてバナパスポートカード等を使って遊ぶ||
 |BGCOLOR(silver):|BGCOLOR(silver):とら|BGCOLOR(silver):1プレイ内全て中高生向けアニメ曲を選んでクリア|BGCOLOR(silver):「ごほうびザクザク2022」中に2回プレイ|BGCOLOR(silver):|
@@ -58,6 +61,9 @@
 |BGCOLOR(grey):|BGCOLOR(grey):仮面ライダーセイバー|>|BGCOLOR(grey):[[COLOR(blue):ALMIGHTY〜仮面の約束 feat.川上洋平>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]をプレイ|~|
 |〇|仮面ライダーリバイス|>|[[COLOR(blue):liveDevil>難易度表/おに/liveDevil]]をプレイ||
 |>|>|>|>|BGCOLOR(gold):CENTER:''あたま''|
+|〇|はなかざり|>|-||
+|〇|むしゃ|>|~|~|
+|〇|ちょんまげ|>|~|~|
 |〇|チックン|>|[[COLOR(blue):超時空アドベンチャー>難易度表/おに/超時空アドベンチャー]]をプレイ||
 |〇|きょうじゅ|>|サカモト教授作曲・編曲の曲をフルコンボ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
 |〇|リラ・ダ・ガンバ|>|[[COLOR(blue):希望へのメロディー>難易度表/おに/希望へのメロディー]]をプレイ||
@@ -67,6 +73,9 @@
 |BGCOLOR(silver):|BGCOLOR(silver):かたつむり|BGCOLOR(silver):2014年6月にごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に14回プレイ|~|
 |BGCOLOR(silver):|BGCOLOR(silver):げっけいじゅ|BGCOLOR(silver):2014年7月26日〜8月8日までにごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に18回プレイ|~|
 |>|>|>|>|BGCOLOR(gold):CENTER:''からだ''|
+|〇|ビッグリボン|>|-||
+|〇|むしゃ|>|~|~|
+|〇|ねこと杓子|>|~|~|
 |BGCOLOR(silver):|BGCOLOR(silver):クレープやたい|>|BGCOLOR(silver):500かつメダルで購入|BGCOLOR(silver):|
 |BGCOLOR(silver):|BGCOLOR(silver):ドドドド|>|~|~|
 |BGCOLOR(silver):|BGCOLOR(silver):皇帝|>|~|~|
@@ -109,6 +118,14 @@
 |〇|AIどん|>|[[AIバトル演奏]]で25回勝利する||
 |〇|まきな|>|[[AIバトル演奏]]で175回勝利する|~|
 |〇|まきな（学生ver.）|>|[[AIバトル演奏]]で876回勝利する|~|
+
+----
+
+//追加に使ってください。
+//||???|>|???|??|
+//[[COLOR(blue):???>難易度表/おに/???]]をプレイ
+//BGCOLOR(silver):
+//BGCOLOR(grey):
 
 
 **コメント[#commnt]
