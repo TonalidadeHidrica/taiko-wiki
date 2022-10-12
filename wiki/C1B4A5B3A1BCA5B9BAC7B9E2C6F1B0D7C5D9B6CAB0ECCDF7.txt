@@ -99,12 +99,13 @@
 |''わら得る2000''|13.5-216|[[★×5>難易度表/かんたん/わら得る2000]]|[[★×7>難易度表/ふつう/わら得る2000]]|[[★×8>難易度表/むずかしい/わら得る2000]]|[[★×10>難易度表/おに/わら得る2000]]|-|
 
 ***旧基準 [#kfe1641a]
-|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
-|>|>|>|>|>|>|LEFT:BGCOLOR(#cc8aeb):''ゲームミュージック''|
-|''初音ミクの激唱(裏譜面)''|200※|BGCOLOR(silver):[[★×5>難易度表/かんたん/初音ミクの激唱(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/初音ミクの激唱(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/初音ミクの激唱(裏譜面)]]|[[★×10>難易度表/おに/初音ミクの激唱(裏譜面)]]|-|
-|>|>|>|>|>|>|LEFT:BGCOLOR(#ff7028):''ナムコオリジナル''|
-|''Black Rose Apostle(裏譜面)''|102-204|BGCOLOR(silver):[[★×5>難易度表/かんたん/Black Rose Apostle(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/Black Rose Apostle(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/Black Rose Apostle(裏譜面)]]|[[★×10>難易度表/おに/Black Rose Apostle(裏譜面)]]|-|
-|''Rotter Tarmination(裏譜面)''|200|BGCOLOR(silver):[[★×5>難易度表/かんたん/Rotter Tarmination(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/Rotter Tarmination(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/Rotter Tarmination(裏譜面)]]|[[★×10>難易度表/おに/Rotter Tarmination(裏譜面)]]|-|
+|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
+|>|>|>|>|>|LEFT:BGCOLOR(#cc8aeb):''ゲームミュージック''|
+|''初音ミクの激唱(裏譜面)''|200※|BGCOLOR(silver):[[★×5>難易度表/かんたん/初音ミクの激唱(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/初音ミクの激唱(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/初音ミクの激唱(裏譜面)]]|[[★×10>難易度表/おに/初音ミクの激唱(裏譜面)]]|
+|>|>|>|>|>|LEFT:BGCOLOR(#ff7028):''ナムコオリジナル''|
+|''Black Rose Apostle(裏譜面)''|102-204|BGCOLOR(silver):[[★×5>難易度表/かんたん/Black Rose Apostle(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/Black Rose Apostle(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/Black Rose Apostle(裏譜面)]]|[[★×10>難易度表/おに/Black Rose Apostle(裏譜面)]]|
+|''Rotter Tarmination(裏譜面)''|200|BGCOLOR(silver):[[★×5>難易度表/かんたん/Rotter Tarmination(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/Rotter Tarmination(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/Rotter Tarmination(裏譜面)]]|[[★×10>難易度表/おに/Rotter Tarmination(裏譜面)]]|
 
 **降格などにより全コース最高難易度ではなくなった曲 [#losthighestdifficulty]
 -強調表示されている譜面はもう最高難易度ではなくなったもの。

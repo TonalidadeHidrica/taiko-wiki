@@ -84,3 +84,6 @@
 
 ***譜面 [#score]
 ~&attachref(uheart_m.png,nolink);
+
+~達人譜面のみ
+~&attachref(uhear2.png,nolink);

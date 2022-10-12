@@ -633,6 +633,7 @@
 |〇|BGCOLOR(gold):|神竜を討伐せしもの|[[COLOR(blue):神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|Myth Breaker|[[COLOR(blue):神竜 〜Shinryu〜(裏)>難易度表/おに/神竜 〜Shinryu〜(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|Doppelganger|[[COLOR(blue):Doppelgangers(裏)>難易度表/おに/Doppelgangers(裏譜面)]]をフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):Aleph-0>難易度表/おに/Aleph-0]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):RAINBOW SKY>難易度表/おに/RAINBOW SKY]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):共奏鼓祭>難易度表/おに/共奏鼓祭]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):アンチェイン・ガール！>難易度表/おに/アンチェイン・ガール！]]を難易度おにでフルコンボ|~|
@@ -644,7 +645,6 @@
 //|〇|BGCOLOR(gold):||[[COLOR(blue):どんちゃんしたい！>難易度表/おに/どんちゃんしたい！]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):LΔchesis>難易度表/おに/LΔchesis]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):ヘイラ>難易度表/おに/ヘイラ]]を難易度おにでフルコンボ|~|
-//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|

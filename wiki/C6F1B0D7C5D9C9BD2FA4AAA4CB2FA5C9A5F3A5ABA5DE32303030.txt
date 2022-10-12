@@ -90,7 +90,8 @@
 -[[プレイ動画(キミドリ V2.06以前)>https://youtu.be/k1qLmrkS94M?t=11]]
 -[[プレイ動画(キミドリ V0.12仕様)>https://youtu.be/bJOd3fiwgHQ?t=6]]
 -[[オート動画(Wii U2)>https://youtu.be/cPVyIqgEtxs]]
--[[歌詞紹介>https://s.awa.fm/track/14e9b851e30448b71703]]
+//-[[歌詞紹介>https://s.awa.fm/track/14e9b851e30448b71703]]
+//↑歌詞がなぜか見れなくなったため非表示
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

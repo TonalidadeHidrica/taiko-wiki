@@ -69,8 +69,8 @@
 |200|100||c
 |CENTER:BGCOLOR(#0099FF):''正式名称''|CENTER:BGCOLOR(#0099FF):''通称''|CENTER:BGCOLOR(#0099FF):''由来等''|h
 //|[[ソウルキャリバーII>難易度表/おに/ソウルキャリバーII]]|ソルキャリII|''ソ''ウ''ルキャリ''バー''II''|
-|[[KAGEKIYO 源平討魔伝メドレー>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|景清|曲名及び源平討魔伝の主人公の名前から|
-|[[KAGEKIYO 源平討魔伝メドレー(裏譜面)>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|裏清|~|
+|[[KAGEKIYO>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|景清|曲名及び源平討魔伝の主人公の名前から|
+|[[KAGEKIYO(裏譜面)>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|裏清|~|
 |[[Dr.WILY STAGE 1>難易度表/おに/Dr.WILY STAGE 1]]|ワイリー|曲名にもなっているキャラクター「Dr.''ワイリー''」|
 |[[No Way Back>難易度表/おに/No Way Back]]|農営|日本語読み「''ノーウェイ''バック」|
 |[[Wings of Tomorrow (Tatsujin Mix)>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]|スンマセーン|曲中の空耳|

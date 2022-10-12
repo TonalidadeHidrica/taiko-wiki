@@ -42,7 +42,8 @@
 -[[公式曲紹介>https://www.youtube.com/watch?v=Q41oHqPmbQM]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=XOlFc10BKKY&t=12s]]
 -[[オート動画(NS1)>https://youtu.be/rmFv7Id9Zxw]]
--[[歌詞紹介>https://s.awa.fm/track/f7e629307bf0c427e057]]
+//-[[歌詞紹介>https://s.awa.fm/track/f7e629307bf0c427e057]]
+//↑歌詞がなぜか見れなくなったため非表示
 
 ***コメント [#comment]
 #pcomment(,noname)

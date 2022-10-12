@@ -38,7 +38,8 @@
 -[[ふつう>難易度表/ふつう/クルクルクロックル]]
 -[[むずかしい>難易度表/むずかしい/クルクルクロックル]]
 -[[オート動画(Wii U2)>http://www.youtube.com/watch?v=_bxSsAGZvH4]]
--[[歌詞紹介>https://s.awa.fm/track/7c1bb2a4010ed3f7de96]]
+//-[[歌詞紹介>https://s.awa.fm/track/7c1bb2a4010ed3f7de96]]
+//↑歌詞がなぜか見れなくなったため非表示
 
 ***コメント [#comment]
 #pcomment(,noname)

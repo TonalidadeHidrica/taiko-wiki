@@ -540,6 +540,7 @@
 |[[Reason!!>難易度表/おに/Reason!!]]|999100|1000900|18|
 |[[GLORIOUS RO@D>難易度表/おに/GLORIOUS RO@D]]|990800|1001400 or 1001500|106 or 107|
 |>|>|>|BGCOLOR(#0acc2a):''バラエティ''&aname(variety);|
+//|[[Aleph-0>難易度表/おに/Aleph-0]]||||
 |[[Doppelgangers>難易度表/おに/Doppelgangers]]|992840|||
 |[[Doppelgangers(裏譜面)>難易度表/おに/Doppelgangers(裏譜面)]]|1005920|||
 |[[Kill My Fortune>難易度表/おに/Kill My Fortune]]|996930|||

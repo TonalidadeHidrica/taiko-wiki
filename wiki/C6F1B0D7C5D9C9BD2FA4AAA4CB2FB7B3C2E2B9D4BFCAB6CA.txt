@@ -23,7 +23,7 @@
 -[[かんたん>難易度表/かんたん/軍隊行進曲]]
 -[[ふつう>難易度表/ふつう/軍隊行進曲]]
 -[[むずかしい>難易度表/むずかしい/軍隊行進曲]]
--[[オート動画>https://www.youtube.com/watch?v=542k8Yq5V4Q]]
+-[[オート動画(CS6)>https://www.youtube.com/watch?v=542k8Yq5V4Q]]
 
 ***コメント [#comment]
 #pcomment(,noname)

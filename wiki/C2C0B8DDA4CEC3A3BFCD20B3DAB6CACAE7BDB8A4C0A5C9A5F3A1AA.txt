@@ -10,18 +10,18 @@
 -以下の8曲。いずれも[[PSPDX>PSPDXの収録曲]]のDL楽曲として配信され、新筐体にも追加収録された(収録時に曲名表記が変更されている場合がある)。
 
 |CENTER:No.|''曲名''|作曲者|h
-|>|>|CENTER:BGCOLOR(orangered):''オリジナルインスト部門''|
+|>|>|CENTER:BGCOLOR(#ff7028):''オリジナルインスト部門''|
 |CENTER:92|[[''3piece-JazzParty!''>難易度表/おに/3piece-JazzParty!]]|ミハイル|
 |CENTER:174|[[''昔むかし、遠き国の王様は''>難易度表/おに/風の国の龍と騎士]]|リューイッティ|
 |CENTER:330|[[''DIMENSIONS - プログレロック''>難易度表/おに/DIMENSIONS]]|DUNKEL|
-|>|>|CENTER:BGCOLOR(orangered):''オリジナルボーカル部門''|
+|>|>|CENTER:BGCOLOR(#ff7028):''オリジナルボーカル部門''|
 |CENTER:60|[[''ドキドキ胸きゅん おまつりタイム''>難易度表/おに/ドキドキ胸きゅん おまつりタイム]]|MOES|
 |CENTER:87|[[''花オト裏拍子''>難易度表/おに/花オト裏拍子]]|はるなば|
 |CENTER:131|[[''ムネがどきどき！恋の処方箋！''>難易度表/おに/恋の処方箋]]|bona|
 |CENTER:141|[[''20111218_2mix''>難易度表/おに/和蘭撫子]]|（仮名）スズキタロウ|
-|>|>|CENTER:BGCOLOR(darkorchid):''アレンジインスト部門''|
+|>|>|CENTER:BGCOLOR(#cc8aeb):''アレンジインスト部門''|
 |>|>|CENTER:該当なし|
-|>|>|CENTER:BGCOLOR(darkorchid):''アレンジボーカル部門''|
+|>|>|CENTER:BGCOLOR(#cc8aeb):''アレンジボーカル部門''|
 |CENTER:15|[[''RAGE v. self''>難易度表/おに/RAGE v. self]]|Joe [F-Lives]|
 
 ***その他 [#etc]

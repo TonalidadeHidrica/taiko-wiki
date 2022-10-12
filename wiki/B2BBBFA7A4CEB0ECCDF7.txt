@@ -1,6 +1,6 @@
 *音色の一覧[#title]
 
-#region(音色の一覧)
+#region(音色の一覧(クリックorタップで表示))
 #contents
 #endregion
 

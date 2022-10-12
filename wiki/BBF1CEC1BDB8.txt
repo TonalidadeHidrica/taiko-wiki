@@ -140,7 +140,7 @@
 
 **¥¯¥ê¥¢Æñ°×ÅÙ½ç (¿·ãþÂÎ) [#level]
 
--[[Æñ°×ÅÙ½ç¤Ë¤Ä¤¤¤Æ>Æñ°×ÅÙ½ç]]
+-[[¥¯¥ê¥¢Æñ°×ÅÙ½ç(¿·ãþÂÎ)¤Ë¤Ä¤¤¤Æ>Æñ°×ÅÙ½ç]]
 -[[¥¯¥ê¥¢Æñ°×ÅÙ µÄÏÀ½ê(ÅöWiki¤È¤ÏÊÌ¤ÎWiki)>https://wikiwiki.jp/taiko-giron/]]
 -[[Æñ°×ÅÙÅùµÄÏÀWiki(ÅöWiki¤È¤ÏÊÌ¤ÎWiki)>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]
 --¾¾(Æñ°×ÅÙ:¤à¤º¤«¤·¤¤)°Ê²¼¤ÎÆñ°×ÅÙ¤Ï[[¤³¤Á¤é>https://w.atwiki.jp/kjdr2bo/pages/1.html]]¤ò»²¾È

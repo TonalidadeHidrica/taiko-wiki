@@ -40,7 +40,8 @@
 -[[オート動画(PS4 1)>https://m.youtube.com/watch?v=okCdchVRD_8&feature=youtu.be&t=3s]]
 -[[プレイ動画(PS4 1)>https://youtu.be/5zozxMfBHDc]]
 -[[オート動画(PS4 1)>https://youtu.be/VSTr-OGCAG0]]
--[[歌詞紹介>https://s.awa.fm/track/f9cee8e209b1b6b17556]]
+//-[[歌詞紹介>https://s.awa.fm/track/f9cee8e209b1b6b17556]]
+//↑歌詞がなぜか見れなくなったため非表示
 
 ***コメント [#comment]
 #pcomment(,noname)

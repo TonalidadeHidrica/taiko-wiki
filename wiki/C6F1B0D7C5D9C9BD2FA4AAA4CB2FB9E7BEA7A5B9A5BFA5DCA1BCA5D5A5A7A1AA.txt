@@ -37,7 +37,8 @@
 -[[むずかしい>難易度表/むずかしい/合唱スタボーフェ！]]
 -[[オート動画>https://www.youtube.com/watch?v=Ti5lckjWEMM]]
 -[[オート動画(PS4 1)>https://youtu.be/2dCkFKJm-Po]]
--[[歌詞紹介>https://s.awa.fm/track/3021d83a23b980719060]]
+//-[[歌詞紹介>https://s.awa.fm/track/3021d83a23b980719060]]
+//↑歌詞がなぜか見れなくなったため非表示
 
 ***コメント [#comment]
 #pcomment(,noname)
