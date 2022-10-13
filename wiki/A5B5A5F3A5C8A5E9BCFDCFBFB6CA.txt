@@ -7,11 +7,11 @@
 ~｜[[アルファベット(A~H)>#alphabetah]]｜[[アルファベット(I~R)>#alphabetir]]｜[[アルファベット(S~Z)>#alphabetsz]]｜[[数字>#number]]｜
 -[[サントラ未収録曲]]
 
-**リスト 全505曲 [#list]
+**リスト 全509曲 [#list]
 |>|>|>|>|>|CENTER:99|c
 |>|>|>|>|>|''ジャンルごとの曲数((メインジャンル(表における一番左にあるジャンル)のみをカウントしています。))''|h
 |BGCOLOR(#42c0d3):''ポップス''|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|BGCOLOR(#1bc739):''バラエティ''|BGCOLOR(#cac001):''クラシック''|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|
-|''1'' 曲|''15'' 曲|''38'' 曲|''9'' 曲|''35'' 曲|''407'' 曲|
+|''1'' 曲|''15'' 曲|''38'' 曲|''9'' 曲|''35'' 曲|''411'' 曲|
 //|BGCOLOR(#fe90d2):''アニメ''    |''0'' 曲
 //BGCOLOR(magenta):''どうよう''|     ''2'' 曲|
 
@@ -32,6 +32,8 @@
 |最強乱舞|[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「最強×乱舞コレクション」>https://nex-tone.link/A00094226]]|EDM|[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「EDMコレクション」>https://nex-tone.link/A00095925]]|
 |エレエモ|[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「エレクトロニックエモーションコレクション」>https://nex-tone.link/A00097319]]|青春|[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「青春ソングコレクション」>https://nex-tone.link/A00098645]]|
 |キテレツ|[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「キテレツコレクション」>https://nex-tone.link/A00099789]]|高速コア|[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「高速コアコレクション」>https://nex-tone.link/mk4Tx7KU3]]|
+|ATB|太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「オールタイムベストコレクション」|||
+//[[太鼓の達人&br;ナムコオリジナルサウンドトラック&br;「オールタイムベストコレクション」>]]
 #endregion
 
 |1|1||||55||c
@@ -116,7 +118,7 @@
 |~||[[合体！ドンレンジャーロボ>難易度表/おに/合体！ドンレンジャーロボ]]|水木一郎|LindaAI-CUE|アニスペ|フルVer.|
 |~||[[カッティアワールの宝剣>難易度表/おに/カッティアワールの宝剣]]|-|山本由貴子|もろこし||
 |~||[[かつとマリ子の絵かきうた>難易度表/おに/かつとマリ子の絵かきうた]]|ならはしみき|高橋みなも|アニスペ||
-|~||[[カナデア>難易度表/おに/カナデア]]|佐藤美香|増渕裕二|ドンダ||
+|~||[[カナデア>難易度表/おに/カナデア]]|佐藤美香|増渕裕二|ドンダ&br;ATB|[[自動生成音源(YouTube)>https://youtu.be/juEl4TJnzO0]]|
 |~||[[花漾>難易度表/おに/花漾 〜Flourishing Blossoms〜]]|-|�蚋�偉|フルコン||
 |~||[[カラフル>難易度表/おに/カラフル]]|-|しょご/野村渉悟|高速コア|[[自動生成音源(YouTube)>https://youtu.be/RULw8qgJqCw]]|
 |BGCOLOR(#cbcfde):|BGCOLOR(#ff7028):|[[カラ鞠の花>難易度表/おに/カラ鞠の花]]|結月ゆかり|はるなば|たこやき&br;エレエモ|[[自動生成音源(YouTube)>https://youtu.be/fpWqdvdr0_w]]|
@@ -136,7 +138,7 @@
 |~||[[キミと響くハーモニー>難易度表/おに/キミと響くハーモニー]]|ソプラノ姫(CV:東山奈央)|佐藤たかふみ|ちびドラ&br;りんご|ちびドラはアレンジが多数収録|
 |~||[[キミにタッチ！>難易度表/おに/キミにタッチ！]]|大上昌子|大上昌子|2008||
 |~||[[君に、ロマンティック。>難易度表/おに/君に、ロマンティック。]]|佐野信義|矢野義人|ブルー||
-|~||[[きみのあかり>難易度表/おに/きみのあかり]]|安田彩乃|渡辺量|ドンダ||
+|~||[[きみのあかり>難易度表/おに/きみのあかり]]|安田彩乃|渡辺量|ドンダ&br;ATB|[[自動生成音源(YouTube)>https://youtu.be/JGGSHq0GcUM]]|
 |~||[[君のプラネット>難易度表/おに/君のプラネット]]|霜月はるか|駒場雅信|ドンダ&br;ソライロ|ソライロはプロトタイプも収録|
 |~||[[きょうはたいこ曜日>難易度表/おに/きょうはたいこ曜日]]|みすみゆり|みすみゆり|2008|[[公式音源(YouTube)>https://youtu.be/w3mKFOMJ7YY]]|
 |~||[[今日のご飯は太鼓盛り！>難易度表/おに/今日のご飯は太鼓盛り！]]|ならはしみき|みすみゆり|アニスペ||
@@ -169,6 +171,7 @@
 |~|~|[[珈琲の味と>難易度表/おに/珈琲の味と]]|GUMI|はるなば|たこやき&br;エレエモ|[[自動生成音源(YouTube)>https://youtu.be/G4pEvfHoQqc]]|
 |BGCOLOR(#1bc739):|~|[[深緋の心臓 ‐SCARLET HEART‐>難易度表/おに/深緋の心臓 ‐SCARLET HEART‐]]|あさな／IOSYS|ZUN／上海アリス幻樂団(kyo)|かきごお||
 |BGCOLOR(#ff7028):||[[黒神クロニクル>難易度表/おに/黒神クロニクル]]|葉月ゆら|Drop|ラムネ||
+|~||[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]|-|あず♪|ATB|[[自動生成音源(YouTube)>https://youtu.be/EiNM1EdimQc]]|
 |~||[[ココロボ>難易度表/おに/ココロボ]]|-|Ujico*|かきごお|[[公式音源(YouTube)>https://youtu.be/ndStpXsj6ek]]|
 |~||[[コナモノ☆>難易度表/おに/コナモノ☆]]|郷拓郎|郷拓郎|りんご||
 |~||[[今夜はホーミー>難易度表/おに/今夜はホーミー]]|落合祐香里|矢野義人|アニスペ||
@@ -260,6 +263,7 @@
 |~||[[蓄勢>難易度表/おに/蓄勢 〜GEAR UP〜]]|-|�蚋�偉|ドンダ&br;超ごうか|超ごうかは「トントンたたいてナルトを切りまくれ！」というタイトルで一部収録|
 |BGCOLOR(#cac001):|BGCOLOR(#ff7028):|[[千鼓千鼓>難易度表/おに/千鼓千鼓]]|-|ゼキーニャ・ジ・アブレウ(田島勝朗)|カステラ|出典:「ティコ・ティコ・ノ・フバ」より|
 |BGCOLOR(#ff7028):||[[地平線のエオリア>難易度表/おに/地平線のエオリア]]|なつみ／Silver Forest|岩瀬望|ドンダ||
+|~||[[魑魅魍魎>難易度表/おに/魑魅魍魎]]|-|Laur|ATB|[[自動生成音源(YouTube)>https://youtu.be/VpMkBnX_ipQ]]|
 |BGCOLOR(#cac001):|BGCOLOR(#ff7028):|[[チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]|-|モンティ(田島勝朗)|カステラ|出典:「チャルダッシュ」より|
 |BGCOLOR(#ff7028):||[[超時空アドベンチャー>難易度表/おに/超時空アドベンチャー]]|寺井沙織|トリ音|たこやき||
 |~||[[超絶技巧系少女>難易度表/おに/超絶技巧系少女]]|武士猫|xi|わたがし|[[公式音源(YouTube)>https://youtu.be/MeL-RUYoEqg]]|
@@ -345,7 +349,7 @@
 |BGCOLOR(#ff7028):||[[幕末維新譚>難易度表/おに/幕末維新譚]]|-|黒沢ダイスケ × Masahiro "Godspeed" Aoki|最強乱舞|[[自動生成音源(YouTube)>https://youtu.be/RXJXXQsfH4Y]]|
 |~|~|~|~|~|~|[[BLACK ALBUM 3>https://kuro-music.com/blackalbum3/]]にボーナストラックが収録されている。|
 |~||[[化物月夜>難易度表/おに/化物月夜]]|-|くにきち|かたぬき||
-|~||[[パステル ドリーム>難易度表/おに/パステル ドリーム]]|たかみつようこ|岡部啓一|ドンダ||
+|~||[[パステル ドリーム>難易度表/おに/パステル ドリーム]]|たかみつようこ|岡部啓一|ドンダ&br;ATB|[[自動生成音源(YouTube)>https://youtu.be/nestuvVBQ68]]|
 |~||[[はたラク2000>難易度表/おに/はたラク2000]]|LindaAI-CUE|LindaAI-CUE|ドンダ||
 |BGCOLOR(#cbcfde):|BGCOLOR(#ff7028):|[[初音ミクの消失 ‐劇場版‐>難易度表/おに/初音ミクの消失‐劇場版‐]]|初音ミク|cosMo＠暴走P|ドンダ&br;エレエモ|[[公式MV(ニコニコ動画)>https://nico.ms/sm16417324]]|
 |~|~|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/0LtYsPynJKQ]]|
@@ -371,7 +375,8 @@
 |BGCOLOR(#ff7028):||[[ファミレスウォーズ>難易度表/おに/ファミレスウォーズ]]|愛原圭織|みらゐ|わたがし||
 |BGCOLOR(#cc8aeb):||[[ファンタジーゾーン OPA-OPA! -GMT remix->難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]|-|Hiro|もろこし||
 |BGCOLOR(#ff7028):||[[風雲志士>難易度表/おに/風雲志士]]|-|西込加久見|ドンダ||
-|~||[[風雲！バチお先生>難易度表/おに/風雲！バチお先生]]|-|椎名豪|レッド&br;もろこし|もろこしはロングVer.|
+|~||[[風雲！バチお先生>難易度表/おに/風雲！バチお先生]]|-|椎名豪|レッド&br;もろこし&br;ATB|もろこしとATBはロングVer.|
+|~|~|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/wsCPxLqZmV8]]&br;(ロングVer.)|
 |BGCOLOR(#cac001):|BGCOLOR(#ff7028):|[[プチポチ>難易度表/おに/プチポチ]]|-|ショパン(田島勝朗)|カステラ|出典:「ワルツ第6番 変ニ長調 作品64-1『小犬のワルツ』」より|
 |~||[[フニクリ・フニクラ>難易度表/おに/フニクリ・フニクラ]]|湯川晃|ルイージ・デンツァ(みすみゆり)|2008|[[AC7公式サイト>https://web.archive.org/web/20060422042755/http://www.bandainamcogames.co.jp/aa/am/vg/taikono-tatsujin7/special/present/]]で聴ける。|
 |BGCOLOR(#ff7028):||[[フューチャー・ラボ>難易度表/おに/フューチャー・ラボ]]|山本由貴子|山本由貴子|ドンダ|フルVer.|
@@ -396,6 +401,7 @@
 |>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''ま行''&aname(magyo);|
 |BGCOLOR(#ff7028):||[[マーブルハート>難易度表/おに/マーブルハート]]|サリヤ人|サリヤ人|フルコン||
 |~||[[迷子のUFO>難易度表/おに/迷子のUFO]]|真理絵|セガール|りんご||
+|~||[[まいにちがドンダフル>難易度表/おに/まいにちがドンダフル]]|Joelle & Carol&#x44;iane, BN boys and girls choir|Cory Tarrow|ATB|[[自動生成音源(YouTube)>https://youtu.be/1fCPlruVLhg]]|
 |BGCOLOR(#cac001):|BGCOLOR(#ff7028):|[[まおぅ>難易度表/おに/まおぅ]]|結羽(プラムソニック)|シューベルト(濱本理央)|カステラ|出典:「魔王(シューベルト)」より|
 |~|~|~|~|~|~|[[公式音源(YouTube)>https://youtu.be/brgr_m7CRuk]]|
 |BGCOLOR(#ff7028):||[[マオウのショウタイム>難易度表/おに/マオウのショウタイム]]|マオウ(CV:佐藤たかふみ)|佐藤たかふみ|ちびドラ&br;りんご|ちびドラは「マオウが現れたドン！」というタイトルで一部収録|
@@ -554,7 +560,7 @@
 |~||[[poxei&#9830;DOON>難易度表/おに/poxei◆DOON]]|-|かねこちはる|よみぃ&br;高速コア|[[自動生成音源(YouTube)>https://youtu.be/OlLQw7Xg2Fk]]|
 |~|~|~|~|~|~|よみぃは[[ピアノアレンジ版>https://youtu.be/uUOE1pZbiwA]]を収録|
 |~||[[Princess of Donder>難易度表/おに/Princess of Donder]]|海保えりか|MOES|わたがし||
-|~||[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|彩音|世阿弥|ラムネ||
+|~||[[Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|彩音|世阿弥|ラムネ&br;ATB|[[自動生成音源(YouTube)>https://youtu.be/lgq1yNXbkyU]]|
 |BGCOLOR(#cc8aeb):||[[RAGE v. self>難易度表/おに/RAGE v. self]]|Joe Kiyoshi|Joe Kiyoshi、大久保博|もろこし||
 |BGCOLOR(#ff7028):||[[Red Rose Evangel>難易度表/おに/Red Rose Evangel]]|彩音|世阿弥|フルコン||
 |~||[[R.I.>難易度表/おに/R.I.]]|-|大和、黒沢ダイスケ|かたぬき|[[公式MV(YouTube)>https://youtu.be/3YCQI2ShKgc]]|
@@ -578,7 +584,7 @@
 |~||[[super star shooter>難易度表/おに/super star shooter]]|武井麻里子|とんCHAN&ショック太郎|ガールズ&br;たこやき|ガールズはフル、太鼓音入り、オフボーカルも収録|
 |~||[[Sweet Lay>難易度表/おに/Sweet Lay]]|Kyah|佐々木宏人|フルコン|フルVer.|
 |~||[[Sweet Sweet Magic>難易度表/おに/Sweet Sweet Magic]]|葉月ゆら、月子|Claire|ドンダ||
-|~||[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|siroa|steμ|かきごお||
+|~||[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|siroa|steμ|かきごお&br;ATB|[[自動生成音源(YouTube)>https://youtu.be/ZSSAptCrFHY]]|
 |~||[[Taiko Session>難易度表/おに/Taiko Session〜Live Version〜]]|-|自営山|ブルー||
 |BGCOLOR(#cc8aeb):||[[TE-20>難易度表/おに/TE-20]]|-|相原隆行|フルコン||
 |BGCOLOR(#ff7028):||[[The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]|-|遠山明孝|2008&br;EDM|[[自動生成音源(YouTube)>https://youtu.be/AldLGbQwWJs]]|
@@ -598,7 +604,8 @@
 |>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''数字''&aname(number);|
 |BGCOLOR(#ff7028):||[[3piece-JazzParty!>難易度表/おに/3piece-JazzParty!]]|-|ミハイル|かきごお&br;よみぃ|よみぃはピアノアレンジ版を収録|
 |~||[[3Q-4U-AC00>難易度表/おに/3Q-4U-AC00]]|おおがみまさこ|大上昌子|ドンダ||
-|~||[[8OROCHI>難易度表/おに/8OROCHI]]|-|REDALiCE|ラムネ&br;高速コア|[[自動生成音源(YouTube)>https://youtu.be/g6I2p1kZdFI]]|
+|BGCOLOR(#cbcfde):|BGCOLOR(#ff7028):|[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|初音ミク|cosMo@暴走P|ATB|[[自動生成音源(YouTube)>https://youtu.be/WTWvlavcpoI]]|
+|BGCOLOR(#ff7028):||[[8OROCHI>難易度表/おに/8OROCHI]]|-|REDALiCE|ラムネ&br;高速コア|[[自動生成音源(YouTube)>https://youtu.be/g6I2p1kZdFI]]|
 
 //|BGCOLOR():||[[>難易度表/おに/]]|||&br;||
 

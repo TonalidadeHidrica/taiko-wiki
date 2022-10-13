@@ -2,7 +2,7 @@
 -ナムコオリジナル、BNSI((BANDAI NAMCO Studios Inc.))が関わったクラシックやゲームミュージックなどの中で、サウンドトラックに収録されていないものをまとめました。
 --版権曲は含みません。
 
-//2022/10/12までの収録曲はたぶんすべて入れました。
+//2022/10/13までの収録曲はたぶんすべて入れました。
 #contents
 -[[サントラ収録曲]]
 
@@ -73,7 +73,6 @@
 |~||[[Hold me tight>難易度表/おに/Hold me tight]]|musica、パークマンサー|Tatsh|
 |~||[[ボクらのまえに道はある>難易度表/おに/ボクらのまえに道はある]]|HONOKA|岡田徹(ショック太郎)|
 |~||[[PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]|まめこ|オッカ|
-|~||[[まいにちがドンダフル>難易度表/おに/まいにちがドンダフル]]|Joelle & Carol&#x44;iane, BN boys and girls choir|Cory Tarrow|
 |~||[[魔法式逃走奇譚☆ミ>難易度表/おに/魔法式逃走奇譚☆ミ]]|海保えりか|MOES|
 |~||[[Mr.ランナー>難易度表/おに/Mr.ランナー]]|singman|MOES|
 |~||[[memoria ficta>難易度表/おに/memoria ficta]]|-|Versus|
@@ -81,9 +80,9 @@
 |~||[[UFO Swingin'>難易度表/おに/UFO Swingin']]|A.Dokuga|シバガキ|
 |~||[[夢うつつカタルシス>難易度表/おに/夢うつつカタルシス]]|愛原圭織|大木奏弥((曲名のアーティスト欄を踏まえて暫定的に記載))|
 |~||[[YOAKE>難易度表/おに/YOAKE]]|Uzumaki|Capchii|
-|BGCOLOR(#cbcfde):|BGCOLOR(#ff7028):|[[4+1のそれぞれの未来>難易度表/おに/4+1のそれぞれの未来]]|初音ミク|cosMo@暴走P|
-|BGCOLOR(#ff7028):||[[螺旋周回軌道>難易度表/おに/螺旋周回軌道]]|Risa Yuzuki|BlackY|
+|~||[[螺旋周回軌道>難易度表/おに/螺旋周回軌道]]|Risa Yuzuki|BlackY|
 |~||[[ラパスの虹>難易度表/おに/ラパスの虹]]|-|Le&#78;oir|
+|~||[[リトルホワイトウィッチ>難易度表/おに/リトルホワイトウィッチ]]|愛原圭織|塚越雄一朗|
 |~||[[LECIEL GLISSANDO>難易度表/おに/LECIEL GLISSANDO]]|-|よみぃ|
 |~||[[What's in the box?>難易度表/おに/What's in the box?]]|-|Ujico*|
 |~||[[わら得る2000>難易度表/おに/わら得る2000]]|LindaAI-CUE|LindaAI-CUE|
@@ -168,9 +167,7 @@
 |~||[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|-|黒沢ダイスケ|BLACK ALBUM 4|ゲームSize|
 |~|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/T_yYS58h5Nk]]|~|
 |~||[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]|-|山本真央樹|[[公式音源(YouTube)>https://youtu.be/MPSFYRniqlU]]|ゲームSize|
-|~||[[刻竜 〜Kokuryu〜>難易度表/おに/刻竜 〜Kokuryu〜]]|-|あず♪|[[公式音源(YouTube)>https://youtu.be/tCx-yzsR4os]]|ゲームSize|
 |~||[[†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|大瀬良あい、まるもこ|溝口ゆうま|[[公式音源(YouTube)>https://youtu.be/DX5MHgtM3eI]]|ゲームSize|
-|~||[[魑魅魍魎>難易度表/おに/魑魅魍魎]]|-|Laur|[[公式音源(YouTube)>https://youtu.be/WwJe9k9sVZA]]|ゲームSize|
 |~||[[憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]|-|t+pazolite|[[公式音源(YouTube)>https://youtu.be/ZvEpbVG99gw]]|ゲームSize|
 |~||[[一世風靡>難易度表/おに/一世風靡]]|ヤジュール宮嶋|西込加久見|[[公式音源(YouTube)>https://youtu.be/u629fZSJLS0]]|ゲームSize|
 |~||[[平等院鳳凰ドン vs 鳥獣戯カッ>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|miko|コバヤシユウヤ|[[公式音源(YouTube)>https://youtu.be/nEuwDbI1akk]]|ゲームSize|

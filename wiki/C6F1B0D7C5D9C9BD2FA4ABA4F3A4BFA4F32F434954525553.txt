@@ -1,4 +1,4 @@
-*CITRUS [#title]
+*&ruby(シトラス){CITRUS}; [#title]
 -日本テレビ系ドラマ「''極主夫道''」主題歌。
 
 ***詳細 [#more]
@@ -13,17 +13,17 @@
 
 
 ***その他 [#other]
--楽曲情報は[[おに>難易度表/おに/CITRUS#other]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/CITRUS#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/CITRUS]]
 -[[むずかしい>難易度表/むずかしい/CITRUS]]
 -[[おに>難易度表/おに/CITRUS]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=pUTT6a2Ih_s]]
+-[[プレイ動画(AC16)>https://www.youtube.com/watch?v=pUTT6a2Ih_s]]
 
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(CITRUS_e.png,nolink);
+&attachref(CITRUS_e.png,nolink);

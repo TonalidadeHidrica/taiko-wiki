@@ -7,7 +7,7 @@
 |''AC12増''||BGCOLOR(cyan):''J-POP''|★×7|''390''|''978510点''|＋連打|760点|170点|
 ||iOS|BGCOLOR(cyan):''ポップス''|~|~|''978920点''|~|750点|~|
 ||Wii U3DL|BGCOLOR(cyan):''J-POP''|~|~|''991740点''|~|800点|218点|
-||NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+||NS1DL&br;NS2MP|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''990200点''}|~|COLOR(#ff3300){2430点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -47,7 +47,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~AC・Wii U3・NS1は28小節目の4拍目から内部的にゴーゴーになっている。
+~AC・Wii U3・NS1・2は28小節目の4拍目から内部的にゴーゴーになっている。
 ~&attachref(366d.png,nolink);
 
 ~見た目重視

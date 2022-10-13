@@ -53,11 +53,12 @@
 |''B.B.K.K.B.K.K.''&br;SIZE(11){nora2r}|170|[[★×4>難易度表/かんたん/B.B.K.K.B.K.K.]]|[[★×6>難易度表/ふつう/B.B.K.K.B.K.K.]]|[[★×7>難易度表/むずかしい/B.B.K.K.B.K.K.]]|[[★×9>難易度表/おに/B.B.K.K.B.K.K.]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=152&event=88]]|
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=410&event=104]]|
 
-***[[LeaF>参加アーティスト一覧/LeaF]] (2曲) [#leaf]
+***[[LeaF>参加アーティスト一覧/LeaF]] (3曲) [#leaf]
 |CENTER:|CENTER:78|>|>|>|>|CENTER:42|CENTER:53|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|作品記事|h
 |''もぺもぺ''&br;SIZE(11){LeaF}|6.25-200|[[★×4>難易度表/かんたん/もぺもぺ]]|[[★×5>難易度表/ふつう/もぺもぺ]]|[[★×7>難易度表/むずかしい/もぺもぺ]]|[[★×10>難易度表/おに/もぺもぺ]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116]]|
 |''Calamity Fortune''&br;SIZE(11){LeaF}|200|[[★×4>難易度表/かんたん/Calamity Fortune]]|[[★×6>難易度表/ふつう/Calamity Fortune]]|[[★×7>難易度表/むずかしい/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune(裏譜面)]]|[[BMS>http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45]]|
+|''Aleph-0''&br;SIZE(11){LeaF}|10.48-399?|[[★×5>難易度表/かんたん/Aleph-0]]|[[★×7>難易度表/ふつう/Aleph-0]]|[[★×8>難易度表/むずかしい/Aleph-0]]|[[★×10>難易度表/おに/Aleph-0]]|-|[[BMS>https://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110]]|
 
 **初出イベント別 [#event]
 ***BMS OF FIGHTERSシリーズ [#bof]
@@ -66,15 +67,17 @@
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|>|順位(個人戦)|h
 |~|~|~|~|~|~|~|スコア|中央値|h
 |>|>|>|>|>|>|>|>|BGCOLOR(skyblue):''THE BMS OF FIGHTERS 2011 - Intersection of conflict -''&aname(bof2011);|
-|&color(red){''conflict''};&br;SIZE(11){siromaru + cranky}|160|[[★×4>難易度表/かんたん/conflict]]|[[★×5>難易度表/ふつう/conflict]]|[[★×7>難易度表/むずかしい/conflict]]|[[★×9>難易度表/おに/conflict]]|-|&color(red){''1位''};|&color(red){''1位''};|
+|&color(red){''conflict''};&br;SIZE(11){siromaru + cranky}|160|[[★×4>難易度表/かんたん/conflict]]|[[★×5>難易度表/ふつう/conflict]]|[[★×7>難易度表/むずかしい/conflict]]|[[★×9>難易度表/おに/conflict]]|-|COLOR(red):''1位''|COLOR(red):''1位''|
 |''Parousia''&br;SIZE(11){xi}|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|-|''3位''|9位|
 |>|>|>|>|>|>|>|>|BGCOLOR(brown):COLOR(white):''konzertsaal - THE BMS OF FIGHTERS 2013 -''&aname(bof2013);|
-|&color(red){''B.B.K.K.B.K.K.''};&br;SIZE(11){nora2r}|170|[[★×4>難易度表/かんたん/B.B.K.K.B.K.K.]]|[[★×6>難易度表/ふつう/B.B.K.K.B.K.K.]]|[[★×7>難易度表/むずかしい/B.B.K.K.B.K.K.]]|[[★×9>難易度表/おに/B.B.K.K.B.K.K.]]|-|&color(red){''1位''};|''3位''|
+|&color(red){''B.B.K.K.B.K.K.''};&br;SIZE(11){nora2r}|170|[[★×4>難易度表/かんたん/B.B.K.K.B.K.K.]]|[[★×6>難易度表/ふつう/B.B.K.K.B.K.K.]]|[[★×7>難易度表/むずかしい/B.B.K.K.B.K.K.]]|[[★×9>難易度表/おに/B.B.K.K.B.K.K.]]|-|COLOR(red):''1位''|''3位''|
 |>|>|>|>|>|>|>|>|BGCOLOR(#ff7028):''G2R2014 "GO BACK 2 YOUR ROOTS" - THE BMS OF FIGHTERS 2004 RELOADED -''&aname(g2r2014);|
-|&color(red){''Altale''};&br;SIZE(11){削除}|83-180※|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|[[★×10>難易度表/おに/Altale(裏譜面)]]|&color(red){''1位''};|''2位''|
+|&color(red){''Altale''};&br;SIZE(11){削除}|83-180※|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|[[★×10>難易度表/おに/Altale(裏譜面)]]|COLOR(red):''1位''|''2位''|
 |''Aragami''&br;SIZE(11){xi}|65?-196|[[★×4>難易度表/かんたん/Aragami]]|[[★×7>難易度表/ふつう/Aragami]]|[[★×8>難易度表/むずかしい/Aragami]]|[[★×10>難易度表/おに/Aragami]]|-|''2位''|''4位''|
 |>|>|>|>|>|>|>|>|BGCOLOR(black):COLOR(red):''大血戦 -THE BMS OF FIGHTERS ULTIMATE-''&aname(bofu2015);|
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|''5位''|''4位''|
+|>|>|>|>|>|>|>|>|BGCOLOR(forestgreen):COLOR(white):''BOFU2016 -Legendary Again-''&aname(bofu2017);|
+|&color(red){''Aleph-0''};&br;SIZE(11){LeaF}|10.48-399?|[[★×5>難易度表/かんたん/Aleph-0]]|[[★×7>難易度表/ふつう/Aleph-0]]|[[★×8>難易度表/むずかしい/Aleph-0]]|[[★×10>難易度表/おに/Aleph-0]]|-|COLOR(red):''1位''|13位|
 |>|>|>|>|>|>|>|>|BGCOLOR(goldenrod):''BOFU2017 -LEGENDA EST A MYTH-''&aname(bofu2017);|
 |''もぺもぺ''&br;SIZE(11){LeaF}|6.25-200|[[★×4>難易度表/かんたん/もぺもぺ]]|[[★×5>難易度表/ふつう/もぺもぺ]]|[[★×7>難易度表/むずかしい/もぺもぺ]]|[[★×10>難易度表/おに/もぺもぺ]]|-|''3位''|421位|
 

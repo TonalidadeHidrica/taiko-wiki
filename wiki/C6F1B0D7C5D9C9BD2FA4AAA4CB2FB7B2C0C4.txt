@@ -26,8 +26,9 @@
 -[[かんたん>難易度表/かんたん/群青]]
 -[[ふつう>難易度表/ふつう/群青]]
 -[[むずかしい>難易度表/むずかしい/群青]]
--[[プレイ動画>https://m.youtube.com/watch?v=jGYfRJs8QKU]]
+//-[[プレイ動画>]]
 -[[オート動画(NS1)>https://youtu.be/jGYfRJs8QKU]]
+-[[オート動画(NS2・カバー音源)>https://youtu.be/dXUa8UhoZiM]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -1,0 +1,26 @@
+*We are PAC-MAN! [#title]
+-''[[パックマン>ゲーム別収録曲#pac]]公式テーマソング''。
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''NS2MP''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×5|''139''|''?????0点''|＋連打|1100点|428点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){6060点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは138。
+
+***その他 [#other]
+-楽曲情報は[[おに譜面>難易度表/おに/We are PAC-MAN!]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/We are PAC-MAN!]]
+-[[むずかしい>難易度表/むずかしい/We are PAC-MAN!]]
+-[[おに>難易度表/おに/We are PAC-MAN!]]
+//-[[オート動画(NS2)>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(pacmte_n.png,nolink);

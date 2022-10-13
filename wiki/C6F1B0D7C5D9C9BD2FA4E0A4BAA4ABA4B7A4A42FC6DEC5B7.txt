@@ -24,7 +24,8 @@
 -[[かんたん>難易度表/かんたん/曇天]]
 -[[ふつう>難易度表/ふつう/曇天]]
 -[[おに>難易度表/おに/曇天]]
--[[オート動画(iOS,キャプチャ)>http://www.youtube.com/watch?v=IEZ3n1bo97s]]
+-[[オート動画(iOS)>http://www.youtube.com/watch?v=IEZ3n1bo97s]]
+-[[オート動画(NS2)>https://youtu.be/fYQAoxbJcB8]]
 
 ***コメント [#comment]
 #pcomment(,noname)
