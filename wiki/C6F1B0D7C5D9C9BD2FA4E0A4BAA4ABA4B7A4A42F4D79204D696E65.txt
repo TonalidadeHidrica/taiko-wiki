@@ -21,20 +21,17 @@
 -平均密度(1〜96小節)は''約3.10打/秒''。
 
 ***その他 [#other]
--作詞は、''アリヤ''。作曲は、[[MintJam>http://www.mintjam.net/mj/index.html]]の''setzer''。歌唱は、''月乃紫音''。リードギターは、''しょご''。
---ちなみに、月乃紫音はニコニコ動画「歌ってみた」の投稿者である。
--曲IDは、''mymine''。
--略称は''マイマイ''など。
--ACでは、第1回アップデートまで曲名が''My mine''となっていた。
+-楽曲情報は[[おに譜面>難易度表/おに/My Mine#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/My Mine]]
 -[[ふつう>難易度表/ふつう/My Mine]]
 -[[おに>難易度表/おに/My Mine]]
--[[オート動画(Wii4, キャプチャ)>http://www.youtube.com/watch?v=O1qR2Z1qAQg]]
+-[[オート動画(Wii4)>http://www.youtube.com/watch?v=O1qR2Z1qAQg]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
 ~BPMは177
-&attachref(MM_H.png,nolink);
+~&attachref(MM_H.png,nolink);

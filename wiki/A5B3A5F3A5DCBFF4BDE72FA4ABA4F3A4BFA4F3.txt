@@ -317,16 +317,17 @@
 |Wii U1|375|[[〆ドレー2000＋>難易度表/かんたん/〆ドレー2000＋]]|
 |3DS2|365|[[Hurtling Boys>難易度表/かんたん/Hurtling Boys]]|
 |Wii U2|375|[[〆ドレー2000＋>難易度表/かんたん/〆ドレー2000＋]]|
-|PSVita1&br;Wii U3|481|[[幽玄ノ乱>難易度表/かんたん/幽玄ノ乱]]|
+|PS Vita1&br;Wii U3|481|[[幽玄ノ乱>難易度表/かんたん/幽玄ノ乱]]|
 |PS Vita MS 赤|187|[[私はアイドル>難易度表/かんたん/私はアイドル]]|
 |PS Vita MS 青|206|[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/かんたん/Honey Heartbeat 〜10 Stars Mix〜]]|
 |3DS3|481|[[幽玄ノ乱>難易度表/かんたん/幽玄ノ乱]]|
-|PS4|497|[[Infinite Rebellion>難易度表/かんたん/Infinite Rebellion]]|
+|PS4 1|497|[[Infinite Rebellion>難易度表/かんたん/Infinite Rebellion]]|
 |NS1|398|[[ヒプノシスマイク -Division Battle Anthem->難易度表/かんたん/ヒプノシスマイク -Division Battle Anthem-]]|
 |NSRPG&br;(3DS2)|342|[[ドンカマ2000>難易度表/かんたん/ドンカマ2000]]|
 |NSRPG&br;(3DS3)|323|[[まださいたま2000>難易度表/かんたん/まださいたま2000]]|
 |PTB|301|[[The Future of the 太鼓ドラム>難易度表/かんたん/The Future of the 太鼓ドラム]]|
 |Xbox1|267|[[FREEDOM DiVE↓>難易度表/かんたん/FREEDOM DiVE↓]]|
+|NS2|497|[[Infinite Rebellion>難易度表/かんたん/Infinite Rebellion]]|
 
 ***CS作品別最低コンボ数 [#csmin]
 |CENTER:79|CENTER:46||c
@@ -368,6 +369,7 @@
 |NSRPG&br;(3DS3)|36|[[XY＆Z>難易度表/かんたん/XY＆Z]]|
 |PTB|43|[[Baby Shark>難易度表/かんたん/Baby Shark]]|
 |Xbox1|56|[[炎>難易度表/かんたん/炎]]|
+|iOS&br;AR|24|[[マスカット>難易度表/かんたん/マスカット]]|
 
 **★の数別、ジャンル別 最高・最低 コンボ数 [#stge]
 ***★の数別最高コンボ数[#stmax]

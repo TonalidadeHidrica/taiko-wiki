@@ -291,6 +291,10 @@
 |>|>|>|CENTER:''10/13 配信曲''|h
 |BGCOLOR(#0acc2a):''バラエティ''|COLOR(red):''新''|[[''Aleph-0''>難易度表/おに/Aleph-0]]|LeaF|
 
+|CENTER:100|CENTER:50||250|c
+|>|>|>|CENTER:''10/15 配信曲''|h
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''DANCE MONKEY''>難易度表/おに/DANCE MONKEY]]||
+
 
 -2022/9/22 7:00をもって、以下の2曲がサヨナラとなった。
 |CENTER:100|||c

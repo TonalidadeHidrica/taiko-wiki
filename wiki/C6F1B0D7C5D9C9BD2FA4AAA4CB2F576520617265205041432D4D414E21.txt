@@ -4,11 +4,13 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''NS2MP''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|''432''|''?????0点''|+連打|650点|175点|
-|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){2170点}|-|
+|''NS2MP''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|''432''|''1005040点''|＋連打|650点|175点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1001490点''}|~|COLOR(#ff3300){2170点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは138。
+-連打秒数目安・・・約1.486秒
+-平均密度は、''4.60打/秒''。
 
 ***その他 [#other]
 -作詞は、''[[矢野義人>参加アーティスト一覧/矢野義人]]''、''&ruby(うでつ かずひと){宇出津和仁};''。
@@ -20,8 +22,8 @@
 -[[かんたん>難易度表/かんたん/We are PAC-MAN!]]
 -[[ふつう>難易度表/ふつう/We are PAC-MAN!]]
 -[[むずかしい>難易度表/むずかしい/We are PAC-MAN!]]
--[[公式MV>https://www.youtube.com/watch?v=5_JzxszEpmc]]
 -[[オート動画(NS2)>https://www.youtube.com/watch?v=xmj5lYFYlE0]]
+-[[公式MV>https://www.youtube.com/watch?v=5_JzxszEpmc]]
 
 ***コメント [#comment]
 #pcomment(,noname)

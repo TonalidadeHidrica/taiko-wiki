@@ -21,21 +21,18 @@
 -フルコン難易度は妥当だが、8分が単色しかないのでクリアは下位クラスだろう。
 
 ***その他 [#other]
--作詞は、''アリヤ''。作曲は、''setzer''。歌唱は、''月乃紫音''。リードギターは、''しょご''。
---ちなみに、月乃紫音はニコニコ動画「歌ってみた」の投稿者である。
--曲IDは、''mymine''。
--略称は''マイマイ''など。
--ACでは、第1回アップデートまで曲名が「My ''M''ine」となっていた。
+-楽曲情報は[[おに譜面>難易度表/おに/My Mine#other]]を参照。
 -[[キミドリVer.段位道場>過去の段位道場#kimidori]]の八級1曲目課題曲となった。
+
 ----
 -[[かんたん>難易度表/かんたん/My Mine]]
 -[[むずかしい>難易度表/むずかしい/My Mine]]
 -[[おに>難易度表/おに/My Mine]]
--[[オート動画(Wii4, キャプチャ)>http://www.youtube.com/watch?v=8mt30SmSN38]]
+-[[オート動画(Wii4)>http://www.youtube.com/watch?v=8mt30SmSN38]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~難易度は、ふつう★★★★★☆☆
-&attachref(mymine_n.png,nolink);
+~正しい難易度はふつう ★★★★★☆☆
+~&attachref(mymine_n.png,nolink);

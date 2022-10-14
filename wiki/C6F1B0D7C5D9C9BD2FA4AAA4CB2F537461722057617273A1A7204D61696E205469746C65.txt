@@ -22,7 +22,7 @@
 -[[かんたん>難易度表/かんたん/Star Wars： Main Title]]
 -[[ふつう>難易度表/ふつう/Star Wars： Main Title]]
 -[[むずかしい>難易度表/むずかしい/Star Wars： Main Title]]
--[[オート動画>https://www.youtube.com/watch?v=g-K3rvz8Tek]]
+-[[オート動画(NS1)>https://www.youtube.com/watch?v=g-K3rvz8Tek]]
 
 ***コメント [#comment]
 #pcomment(,noname)

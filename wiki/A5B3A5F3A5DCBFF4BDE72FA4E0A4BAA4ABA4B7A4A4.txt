@@ -382,8 +382,9 @@
 |PS4 1&br;NS1|1229|[[ヒプノシスマイク -Division Battle Anthem->難易度表/むずかしい/ヒプノシスマイク -Division Battle Anthem-]]|
 |NS RPG&br;(3DS2)|647|[[SAMURAI ROCKET>難易度表/むずかしい/SAMURAI ROCKET]]|
 |NS RPG&br;(3DS3)|763|[[ギガンティックO. T. N>難易度表/むずかしい/ギガンティックO. T. N]]|
-|PTB|682|[[ギミチョコ！！>難易度表/むずかしい/ギミチョコ！！]]|
+|PTB|733|[[Ridge Racer>難易度表/おに/Ridge Racer#hard]]|
 |Xbox1|703|[[魔界村(平地BGM)>難易度表/むずかしい/魔界村(平地BGM)]]|
+|NS2|920|[[Infinite Rebellion>難易度表/むずかしい/Infinite Rebellion]]|
 
 ***CS作品別最低コンボ数 [#csmin]
 |CENTER:79|CENTER:46||c
@@ -425,6 +426,7 @@
 |NS RPG&br;(3DS3)|140|[[紅蓮華>難易度表/むずかしい/紅蓮華]]|
 |PTB|132|[[津軽海峡・冬景色>難易度表/むずかしい/津軽海峡・冬景色]]|
 |Xbox1|108|[[炎>難易度表/むずかしい/炎]]|
+|NS2|76|[[マスカット>難易度表/むずかしい/マスカット]]|
 
 **★の数別、ジャンル別 最高・最低 コンボ数 [#stge]
 ***★の数別最高コンボ数 [#stmax]
