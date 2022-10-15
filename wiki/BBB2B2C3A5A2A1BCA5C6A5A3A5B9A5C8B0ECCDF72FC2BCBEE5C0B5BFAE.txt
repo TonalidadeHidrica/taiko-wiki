@@ -18,7 +18,7 @@
 
 
 --ゲームミュージック
----[[KAGEKIYO 源平討魔伝メドレー>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]
+---[[KAGEKIYO>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]
 ---[[L・O・V・E>難易度表/おに/L・O・V・E]]
 ---[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]]
 ---[[たのしい太鼓道場>難易度表/おに/たのしい太鼓道場]]

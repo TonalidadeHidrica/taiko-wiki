@@ -671,7 +671,7 @@
 ----
 
 *コメント [#comment]
--COLOR(#33f){''収録曲や追加機能等の予想や希望に関する話題はお控えください。公式へのお問い合わせは[[こちら>https://bnfaq-support.channel.or.jp/inquiry/TT_dondafulf_NSW_net/input]]から。''}
--COLOR(#00b050){''質問をする前にまずは自身で調べましょう。''}[[よくあるご質問>https://dondafulfestival-20th.taiko-ch.net/qa/faq.php]]や[[ご利用の際の注意>https://dondafulfestival-20th.taiko-ch.net/popup/attention.php]]をまずは見てみましょう。
+-COLOR(#33f){''収録曲や追加機能等の予想や希望に関する話題はお控えください。''}
+-COLOR(#00b050){''質問をする前にまずは自身で調べましょう。''}[[%%%''よくあるご質問''%%%>https://dondafulfestival-20th.taiko-ch.net/qa/faq.php]]や[[%%%''ご利用の際の注意''%%%>https://dondafulfestival-20th.taiko-ch.net/popup/attention.php]]をまずは見てみましょう。&br;COLOR(#33f){''公式へのお問い合わせは[[%%%こちら%%%>https://bnfaq-support.channel.or.jp/inquiry/TT_dondafulf_NSW_net/input]]から。''}
 
 #pcomment(,10,noname,reply)

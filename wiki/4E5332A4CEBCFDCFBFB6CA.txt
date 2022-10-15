@@ -141,7 +141,7 @@
 ||''激運！七福ハッピークルー''&br;　　SIZE(11){コバヤシユウヤ(IOSYS) feat. 山本椛 (monotone)}|180|[[★×4>難易度表/かんたん/激運！七福ハッピークルー]]|[[★×5>難易度表/ふつう/激運！七福ハッピークルー]]|[[★×7>難易度表/むずかしい/激運！七福ハッピークルー]]|[[★×9>難易度表/おに/激運！七福ハッピークルー]]|-|
 
 *コメント [#comment]
--COLOR(#33f){''収録曲や追加機能等の予想や希望に関する話題はお控えください。公式へのお問い合わせは[[こちら>https://bnfaq-support.channel.or.jp/inquiry/TT_dondafulf_NSW_net/input]]から。''}
--COLOR(#00b050){''質問をする前にまずは自身で調べましょう。''}[[よくあるご質問>https://dondafulfestival-20th.taiko-ch.net/qa/faq.php]]をまずは見てみましょう。
+-COLOR(#33f){''収録曲や追加機能等の予想や希望に関する話題はお控えください。''}
+-COLOR(#00b050){''質問をする前にまずは自身で調べましょう。''}[[%%%''よくあるご質問''%%%>https://dondafulfestival-20th.taiko-ch.net/qa/faq.php]]をまずは見てみましょう。COLOR(#33f){''公式へのお問い合わせは[[%%%こちら%%%>https://bnfaq-support.channel.or.jp/inquiry/TT_dondafulf_NSW_net/input]]から。''}
 
 #pcomment(,10,noname,reply)

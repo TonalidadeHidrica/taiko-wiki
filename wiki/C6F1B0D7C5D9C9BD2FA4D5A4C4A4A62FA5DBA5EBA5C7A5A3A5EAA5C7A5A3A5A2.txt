@@ -30,4 +30,4 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-&attachref(clshol_normal.png,nolink);
+&attachref(ホル♂ディリディア.png,nolink);

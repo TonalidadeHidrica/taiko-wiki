@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.9.0SP''|PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''546''|''1103050点''|600点|155点|
+|''AC15.9.0SP''|PS4 1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''546''|''1103050点''|600点|155点|
 ||iOS&br;AR|~|~|~|''1104120点''|~|130点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1002800点''}|COLOR(#ff3300){1760点}|-|
 |AC16.1.0||~|~|~|''1001580点''|1830点|-|
@@ -45,7 +45,7 @@
 -[[かんたん>難易度表/かんたん/さよならワーリャ]]
 -[[ふつう>難易度表/ふつう/さよならワーリャ]]
 -[[むずかしい>難易度表/むずかしい/さよならワーリャ]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=41dhsB-uo0c&t=16s]]
+//-[[プレイ動画>]]
 -[[オート動画(PS4 1)>https://m.youtube.com/watch?v=sbQ7NJBcE-Y&feature=youtu.be&t=3s]]
 -[[公式曲紹介>https://www.youtube.com/watch?v=1ggdWLY4hqU]]
 
@@ -55,10 +55,10 @@
 ***譜面 [#score]
 ~&attachref(warya_m.png,nolink);
 
-~見た目重視~
-~最後の低速部分は適当~
-&attachref(347rya_look.png,nolink);
+~見た目重視
+~最後の低速部分は適当
+~&attachref(347rya_look.png,nolink);
 
-~BPM240部分の半速画像~
-~最後の低速部分は省略~
-&attachref(347rya_reg120.png,nolink);
+~BPM240部分の半速画像
+~最後の低速部分は省略
+~&attachref(347rya_reg120.png,nolink);

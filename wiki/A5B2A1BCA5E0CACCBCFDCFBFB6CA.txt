@@ -89,7 +89,7 @@
 ***富士皮蒜帕 [#genpei]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''妒叹''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(微)''|h
-|''KAGEKIYO 富士皮蒜帕メドレ〖''|130ⅷ|[[→∵4>岂白刨山/かんたん/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵5>岂白刨山/ふつう/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵7>岂白刨山/むずかしい/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵8>岂白刨山/おに/KAGEKIYO 富士皮蒜帕メドレ〖]]|-|
+|''KAGEKIYO''|130ⅷ|[[→∵4>岂白刨山/かんたん/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵5>岂白刨山/ふつう/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵7>岂白刨山/むずかしい/KAGEKIYO 富士皮蒜帕メドレ〖]]|[[→∵8>岂白刨山/おに/KAGEKIYO 富士皮蒜帕メドレ〖]]|-|
 |~|~|BGCOLOR(silver):[[→∵4>岂白刨山/かんたん/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|BGCOLOR(silver):[[→∵5>岂白刨山/ふつう/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|BGCOLOR(silver):[[→∵7>岂白刨山/むずかしい/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|-|[[→∵10>岂白刨山/おに/KAGEKIYO 富士皮蒜帕メドレ〖(微设烫)]]|
 |''SAMURAI ROCKET''((リッジレ〖サ〖シリ〖ズの弛妒だが、富士皮蒜帕のBGMのアレンジであるためこちらにも淡很))|136|[[→∵4>岂白刨山/かんたん/SAMURAI ROCKET]]|[[→∵5>岂白刨山/ふつう/SAMURAI ROCKET]]|[[→∵7>岂白刨山/むずかしい/SAMURAI ROCKET]]|[[→∵8>岂白刨山/おに/SAMURAI ROCKET]]|-|
 |~|~|BGCOLOR(silver):[[→∵5>岂白刨山/かんたん/SAMURAI ROCKET(微设烫)]]|BGCOLOR(silver):[[→∵7>岂白刨山/ふつう/SAMURAI ROCKET(微设烫)]]|BGCOLOR(silver):[[→∵8>岂白刨山/むずかしい/SAMURAI ROCKET(微设烫)]]|-|[[→∵9>岂白刨山/おに/SAMURAI ROCKET(微设烫)]]|

@@ -3,14 +3,14 @@
 -[[洋楽一覧>#title]]
 --[[西洋音楽>#west]]
 ---[[西洋ポピュラー楽曲>#west_pops]]
----[[インスト曲>#west_bgm]]
+---[[インスト曲>#west_instrumental]]
 ---[[日本語訳された曲>#west_japanese_lyric]]
 ---[[TDM限定>#west_only_tdm]]
 ---[[米TDM限定>#west_only_american_tdm]]
 --[[東洋音楽>#east]]
 ---[[K-POP>#east_kpop]]
 ---[[C-POP>#east_cpop]]
----[[C-POP(海外限定)>#east_cpop_only_asia]]
+---[[C-POP(海外限定)>#east_cpop_only_overseas]]
 --[[コメント>#comment]]
 
 -太鼓の達人に収録されている楽曲のうち、日本国外で生まれた楽曲の一覧です。
@@ -23,9 +23,9 @@
 ***西洋ポピュラー楽曲 [#west_pops]
 ||LEFT:65|>|>|>|>|CENTER:44|c
 |''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(white):''かん&br;たん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|h
-|>|>|>|>|>|>|BGCOLOR(cyan):''ポップス''|
+|>|>|>|>|>|>|BGCOLOR(#49d5eb):''ポップス''|
 |''bad guy''|120-135|[[★×3>難易度表/かんたん/bad guy]]|[[★×5>難易度表/ふつう/bad guy]]|[[★×6>難易度表/むずかしい/bad guy]]|[[★×7>難易度表/おに/bad guy]]|-|
-//|''DANCE MONKEY''|98|[[★×>難易度表/かんたん/DANCE MONKEY]]|[[★×>難易度表/ふつう/DANCE MONKEY]]|[[★×>難易度表/むずかしい/DANCE MONKEY]]|[[★×>難易度表/おに/DANCE MONKEY]]|-|
+|''DANCE MONKEY''|98|[[★×2>難易度表/かんたん/DANCE MONKEY]]|[[★×2>難易度表/ふつう/DANCE MONKEY]]|[[★×5>難易度表/むずかしい/DANCE MONKEY]]|[[★×7>難易度表/おに/DANCE MONKEY]]|-|
 |''I Want You Back''|98|[[★×3>難易度表/かんたん/I Want You Back]]|[[★×3>難易度表/ふつう/I Want You Back]]|[[★×5>難易度表/むずかしい/I Want You Back]]|[[★×8>難易度表/おに/I Want You Back]]|-|
 |''LAST CHRISTMAS''|107|[[★×4>難易度表/かんたん/LAST CHRISTMAS]]|[[★×5>難易度表/ふつう/LAST CHRISTMAS]]|[[★×5>難易度表/むずかしい/LAST CHRISTMAS]]|[[★×7>難易度表/おに/LAST CHRISTMAS]]|-|
 |''Sugar''|120|[[★×1>難易度表/かんたん/Sugar]]|[[★×3>難易度表/ふつう/Sugar]]|[[★×4>難易度表/むずかしい/Sugar]]|[[★×7>難易度表/おに/Sugar]]|-|

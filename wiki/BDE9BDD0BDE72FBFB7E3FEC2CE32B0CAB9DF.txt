@@ -104,6 +104,7 @@
 |~|~|''I LOVE...''&br;　　SIZE(11){official髭男dism}|86|[[★×2>難易度表/かんたん/I LOVE...]]|[[★×3>難易度表/ふつう/I LOVE...]]|[[★×4>難易度表/むずかしい/I LOVE...]]|[[★×7>難易度表/おに/I LOVE...]]|-|
 |''ニジイロ''|''2022/9/28''|''修錬愛情 Practice Love''|67.5|[[★×2>難易度表/かんたん/修錬愛情 Practice Love]]|[[★×3>難易度表/ふつう/修錬愛情 Practice Love]]|[[★×5>難易度表/むずかしい/修錬愛情 Practice Love]]|[[★×7>難易度表/おに/修錬愛情 Practice Love]]|-|
 |~|~|''Savage Love''|150|[[★×2>難易度表/かんたん/Savage Love]]|[[★×3>難易度表/ふつう/Savage Love]]|[[★×4>難易度表/むずかしい/Savage Love]]|[[★×6>難易度表/おに/Savage Love]]|-|
+|''ニジイロ''|''2022/10/15''|''DANCE MONKEY''|67.5|[[★×2>難易度表/かんたん/DANCE MONKEY]]|[[★×2>難易度表/ふつう/DANCE MONKEY]]|[[★×5>難易度表/むずかしい/DANCE MONKEY]]|[[★×7>難易度表/おに/DANCE MONKEY]]|-|
 |>|>|>|>|>|>|>|>|BGCOLOR(#fdc000):''キッズ''&aname(kids);|
 |''ニジイロ''|''2020/3/24''|''HIMAWARI HAPPY''&br;　　SIZE(11){HIMAWARIちゃんねる}|114-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|-|
 |~|~|''今''&br;　　SIZE(11){HIKAKIN & SEIKIN}|128|[[★×2>難易度表/かんたん/今]]|[[★×3>難易度表/ふつう/今]]|[[★×3>難易度表/むずかしい/今]]|[[★×5>難易度表/おに/今]]|-|

@@ -19,7 +19,7 @@
 ---[[シンフォニック モトス>難易度表/おに/シンフォニック モトス]] 
 
 --原曲を''源平討魔伝''とするもの
----[[KAGEKIYO >難易度表/おに/KAGEKIYO 源平討魔伝メドレー]][[源平討魔伝メドレー>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]
+---[[KAGE>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]][[KIYO>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]
 ---[[SAMURAI >難易度表/おに/SAMURAI ROCKET]][[ROCKET>難易度表/おに/SAMURAI ROCKET(裏譜面)]]
 ---[[KAGYUKIYO>難易度表/おに/KAGYUKIYO]]
 ---[[SHOGYO MUJO>難易度表/おに/SHOGYO MUJO]]

@@ -1,0 +1,24 @@
+*DANCE MONKEY [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.6''|BGCOLOR(cyan):''ポップス''|★×5|''292''|''?????0点''|+連打|???0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは98。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/DANCE MONKEY]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/DANCE MONKEY]]
+-[[ふつう>難易度表/ふつう/DANCE MONKEY]]
+-[[おに>難易度表/おに/DANCE MONKEY]]
+//-[[プレイ動画>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(DANCE MONKEY_h.png,nolink);

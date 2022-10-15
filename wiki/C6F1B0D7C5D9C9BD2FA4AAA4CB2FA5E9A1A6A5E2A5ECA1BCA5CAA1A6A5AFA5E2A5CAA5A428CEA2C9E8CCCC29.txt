@@ -40,6 +40,7 @@
 -[[プレイ動画(PS4 1)>https://www.youtube.com/watch?v=AF93PQ5c068]]
 -[[オート動画(PS4 1)>https://youtu.be/gxk1eCwyY6k]]
 -[[オート動画(iOS)>https://www.youtube.com/watch?v=bMrR6C1Y0Hw]]
+-[[自動生成音源(YouTube)>https://youtu.be/-1oW-o4aGqM]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
