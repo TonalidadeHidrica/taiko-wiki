@@ -35,13 +35,13 @@
 -[[かんたん>難易度表/かんたん/テトラリュトモスフォビア]]
 -[[ふつう>難易度表/ふつう/テトラリュトモスフォビア]]
 -[[むずかしい>難易度表/むずかしい/テトラリュトモスフォビア]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=KawQ1wwPVC4&t=8s]]
+-[[プレイ動画(AC16)>https://www.youtube.com/watch?v=KawQ1wwPVC4&t=8s]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(tetra_m0.png,nolink);
-
-~見える小節線のみ表示(ラスト以外)
 ~&attachref(tetra_m.png,nolink);
+
+~内部小節込み
+~&attachref(tetra_m0.png,nolink);

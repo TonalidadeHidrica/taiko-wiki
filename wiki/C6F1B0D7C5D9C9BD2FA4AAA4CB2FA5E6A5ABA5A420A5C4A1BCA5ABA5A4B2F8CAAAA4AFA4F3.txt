@@ -26,10 +26,10 @@
 -[[ふつう>難易度表/ふつう/ユカイ ツーカイ怪物くん]]
 -[[むずかしい>難易度表/むずかしい/ユカイ ツーカイ怪物くん]]
 -[[プレイ動画(1080p,60fps)>https://youtu.be/l4breW1Nq50]]
--[[オート動画(480p)>https://www.youtube.com/watch?v=DHDyx7C71kY]]
+-[[オート動画(720p)>https://www.youtube.com/watch?v=uYG8_ACm138]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(kaibut.png,nolink);
+&attachref(kaibut_2.png,nolink);

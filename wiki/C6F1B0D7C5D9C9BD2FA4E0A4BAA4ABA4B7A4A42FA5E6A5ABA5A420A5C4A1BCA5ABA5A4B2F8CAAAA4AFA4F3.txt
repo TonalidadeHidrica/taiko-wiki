@@ -18,4 +18,4 @@
 #pcomment(,noname)
 
 *** ÉèÌÌ [#d872aa28]
-&ref(kaibut.png,nolink);
+&ref(kaibutsu_h2.png,nolink);

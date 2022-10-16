@@ -38,7 +38,7 @@
 
 |CENTER:1|CENTER:|CENTER:66|CENTER:66|CENTER:66|CENTER:60|>|c
 |song_no|曲|ジャンル1|ジャンル2|ジャンル3|曲ID|CENTER:備考|h
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''1〜100''&aname(n100);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''1〜100''&aname(n100);|
 |1|[[てんぢく2000>難易度表/おに/てんぢく2000]]|BGCOLOR(#ff7028):ナムオリ|-|-|10jiku||
 |2|[[天体観測>難易度表/おに/天体観測]]|BGCOLOR(#49d5eb):J-POP|-|-|10tai||
 |3|[[願いはエスペラント>難易度表/おに/願いはエスペラント]]|BGCOLOR(#ff7028):ナムオリ|-|-|espera|17/3/15〜|
@@ -157,7 +157,7 @@
 |98|[[おおブレネリ>難易度表/おに/おおブレネリ]]|BGCOLOR(magenta):どうよう|-|-|clshol||
 |99|[[ウィリアム・テル序曲>難易度表/おに/ウィリアム・テル序曲]]|BGCOLOR(#ded523):クラシック|-|-|clsw||
 |100|[[迅風丸>難易度表/おに/迅風丸]]|BGCOLOR(#ff7028):ナムオリ|-|-|cna4||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''101〜200''&aname(n200);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''101〜200''&aname(n200);|
 |101|[[ココロ転がせっ！>難易度表/おに/ココロ転がせっ！]]|BGCOLOR(#0acc2a):バラエティ|-|-|coro3||
 |102|BGCOLOR(#ccc):[[あたりまえ体操>難易度表/おに/あたりまえ体操]]|BGCOLOR(#0acc2a):バラエティ|-|-|BGCOLOR(#ccc):cowcow|BGCOLOR(#ccc):〜17/12/6　サヨナラ曲|
 |103|[[Sunset Runaway>難易度表/おに/Sunset Runaway]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|crtsun||
@@ -269,7 +269,7 @@
 |198|[[READY!!>難易度表/おに/READY!!]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|imasop||
 |199|[[お願い！シンデレラ>難易度表/おに/お願い！シンデレラ]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|imconc||
 |200|[[Star!!>難易度表/おに/Star!!]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|imcstr||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''201〜300''&aname(n300);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''201〜300''&aname(n300);|
 |201|BGCOLOR(#ccc):[[IMITATION BLACK>難易度表/おに/IMITATION BLACK]]|BGCOLOR(#cbcfde):ボカロ|-|-|BGCOLOR(#ccc):imibla|BGCOLOR(#ccc):〜17/12/6　サヨナラ曲|
 |202|[[Honey Heartbeat 〜10 Stars Mix〜>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|imshhb||
 |203|[[自分REST@RT>難易度表/おに/自分REST@RT]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|imsjbr||
@@ -389,7 +389,7 @@
 |298|[[夢幻の蒼空>難易度表/おに/夢幻の蒼空]]|BGCOLOR(#ff7028):ナムオリ|-|-|mugens||
 |299|[[無慈悲な王>難易度表/おに/無慈悲な王]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|mujihi||
 |300|[[Mulberry>難易度表/おに/Mulberry]]|BGCOLOR(#ff7028):ナムオリ|-|-|mulber||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''301〜400''&aname(n400);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''301〜400''&aname(n400);|
 |301|[[My Mine>難易度表/おに/My Mine]]|BGCOLOR(#ff7028):ナムオリ|-|-|mymine||
 |302|[[名乗り（天上）>難易度表/おに/名乗り（天上）]]|BGCOLOR(#cc8aeb):G & V|-|-|nanori||
 |303|[[夏祭り>難易度表/おに/夏祭り]]|BGCOLOR(#49d5eb):J-POP|-|-|natsu||
@@ -501,7 +501,7 @@
 |398|[[カナデア>難易度表/おに/カナデア]]|BGCOLOR(#ff7028):ナムオリ|-|-|stmic8||
 |399|[[ピコピコ ルイン>難易度表/おに/ピコピコ ルイン]]|BGCOLOR(#ff7028):ナムオリ|-|-|stru8b||
 |400|[[セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]|BGCOLOR(#ff7028):ナムオリ|-|-|struin||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''401〜500''&aname(n500);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''401〜500''&aname(n500);|
 |401|[[スーハー2000>難易度表/おに/スーハー2000]]|BGCOLOR(#ff7028):ナムオリ|-|-|suha2k||
 |402|[[Rotter Tarmination>難易度表/おに/Rotter Tarmination]]|BGCOLOR(#ff7028):ナムオリ|-|-|sweep1||
 |403|[[らんぶる乱舞>難易度表/おに/らんぶる乱舞]]|BGCOLOR(#ff7028):ナムオリ|-|-|sweep2||
@@ -613,7 +613,7 @@
 |498|[[Ladystar Wandering>難易度表/おに/Ladystar Wandering]]|BGCOLOR(#0acc2a):バラエティ|-|-|thnnak||
 |499|[[ノるどん2000>難易度表/おに/ノるどん2000]]|BGCOLOR(#ff7028):ナムオリ|-|-|nrdn2k||
 |500|[[希望へのメロディー>難易度表/おに/希望へのメロディー]]|BGCOLOR(#ff7028):ナムオリ|-|-|vt1op||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''501〜600''&aname(n600);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''501〜600''&aname(n600);|
 |501|[[クロス・ブルー>難易度表/おに/クロス・ブルー]]|BGCOLOR(#ff7028):ナムオリ|-|-|crosbl||
 |502|[[女帝 〜インバラトゥーラ〜>難易度表/おに/女帝 〜インバラトゥーラ〜]]|BGCOLOR(#ff7028):ナムオリ|-|-|invara||
 |503|[[チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]|BGCOLOR(#ded523):クラシック|-|-|clscds||
@@ -718,7 +718,7 @@
 |598|BGCOLOR(#ccc):[[みんながみんな英雄>難易度表/おに/みんながみんな英雄]]|BGCOLOR(#49d5eb):J-POP|-|-|BGCOLOR(#ccc):minau|BGCOLOR(#ccc):〜21/6/23　サヨナラ曲|
 |599|BGCOLOR(#ccc):[[365日の紙飛行機>難易度表/おに/365日の紙飛行機]]|BGCOLOR(#49d5eb):J-POP|-|-|BGCOLOR(#ccc):akb365|BGCOLOR(#ccc):〜21/6/23　サヨナラ曲|
 |600|BGCOLOR(#ccc):[[キミに100パーセント>難易度表/おに/キミに100パーセント]]|BGCOLOR(orange):アニメ|-|-|BGCOLOR(#ccc):kim100|BGCOLOR(#ccc):〜19/6/27　サヨナラ曲|
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''601〜700''&aname(n700);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''601〜700''&aname(n700);|
 |601|[[スプラトゥーン2 メドレー>難易度表/おに/スプラトゥーン2 メドレー]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|spl2md|18/3/15〜|
 |~|BGCOLOR(#ccc):[[いけないボーダーライン>難易度表/おに/いけないボーダーライン]]|BGCOLOR(orange):アニメ|-|-|BGCOLOR(#ccc):mcrdbl|BGCOLOR(#ccc):〜17/12/6　サヨナラ曲|
 |602|BGCOLOR(#ccc):[[Butter-Fly>難易度表/おに/Butter-Fly]]|BGCOLOR(orange):アニメ|-|-|BGCOLOR(#ccc):digmon|BGCOLOR(#ccc):〜19/6/27　サヨナラ曲|
@@ -823,7 +823,7 @@
 |698|[[怒槌>難易度表/おに/怒槌]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|ikazu7||
 |699|[[Scarlet Lance>難易度表/おに/Scarlet Lance]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|slance||
 |700|[[Taiko Drum Monster>難易度表/おに/Taiko Drum Monster]]|BGCOLOR(#ff7028):ナムオリ|-|-|tdm||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''701〜800''&aname(n800);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''701〜800''&aname(n800);|
 |701|[[つながれ！ひろがれ！打ち上がれ！>難易度表/おに/つながれ！ひろがれ！打ち上がれ！]]|BGCOLOR(#ff7028):ナムオリ|-|-|psf1op||
 |702|[[懐中庭園を持つ少女>難易度表/おに/懐中庭園を持つ少女]]|BGCOLOR(#ff7028):ナムオリ|-|-|kteien||
 |703|[[コナモノ☆>難易度表/おに/コナモノ☆]]|BGCOLOR(#ff7028):ナムオリ|-|-|57mono||
@@ -924,7 +924,7 @@
 |798|[[あの日出会えたキセキ>難易度表/おに/あの日出会えたキセキ]]|BGCOLOR(#ff7028):ナムオリ|-|-|anohid||
 |799|[[こ・き・く・くる・くる・くれ・こ！>難易度表/おに/こ・き・く・くる・くる・くれ・こ！]]|BGCOLOR(#ff7028):ナムオリ|-|-|kokiku||
 |800|[[トラストゲーム>難易度表/おに/トラストゲーム]]|BGCOLOR(#ff7028):ナムオリ|-|-|trustg||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''801〜900''&aname(n900);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''801〜900''&aname(n900);|
 |801|[[世界はあなたに笑いかけている>難易度表/おに/世界はあなたに笑いかけている]]|BGCOLOR(#49d5eb):J-POP|-|-|lgmsek||
 |802|BGCOLOR(#ccc):[[ADAMAS>難易度表/おに/ADAMAS]]|BGCOLOR(orange):アニメ|-|-|BGCOLOR(#ccc):saoali|BGCOLOR(#ccc):〜22/1/24　サヨナラ曲|
 |803|[[FREEDOM DiVE↓>難易度表/おに/FREEDOM DiVE↓]]|BGCOLOR(#0acc2a):バラエティ|-|-|fdive||
@@ -1025,7 +1025,7 @@
 |898|[[God knows...>難易度表/おに/God knows...]]|BGCOLOR(#fe90d2):アニメ|-|-|godkno||
 |899|[[【双打】 恋>難易度表/おに/【双打】 恋]]|BGCOLOR(#49d5eb):ポップス|-|-|2ge8jixx||
 |900|[[【双打】 双竜ノ乱>難易度表/おに/双竜ノ乱(裏譜面)]]|BGCOLOR(#ff7028):ナムオリ|-|-|souryuxx||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''901〜1000''&aname(n1000);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''901〜1000''&aname(n1000);|
 |901|BGCOLOR(#ccc):[[【双打】 WE WILL ROCK YOU>難易度表/おに/We Will Rock You#twop]]|BGCOLOR(#49d5eb):ポップス|BGCOLOR(#cc8aeb):G & V|-|BGCOLOR(#ccc):rockxx|BGCOLOR(#ccc):〜22/5/21　サヨナラ曲|
 |902|[[【双打】 もりのくまさん>難易度表/おに/【双打】 もりのくまさん]]|BGCOLOR(#fdc000):キッズ|-|-|kumaxx||
 |903|[[【双打】 ミュージック・リボルバー>難易度表/おに/【双打】 ミュージック・リボルバー]]|BGCOLOR(#cc8aeb):G & V|-|-|mggrevxx||
@@ -1126,7 +1126,7 @@
 |998|[[Connected World>難易度表/おに/Connected World]]|BGCOLOR(#0acc2a):バラエティ|-|-|?||
 |999|[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|BGCOLOR(#ff7028):ナムオリ|-|-|dogma2||
 |1000|[[しょうゆ de Show you! >難易度表/おに/しょうゆ de Show you!]]|BGCOLOR(#ff7028):ナムオリ|-|-|?||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''1001〜1100''&aname(n1100);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''1001〜1100''&aname(n1100);|
 |1001|[[なんどでも笑おう>難易度表/おに/なんどでも笑おう]]|BGCOLOR(#cc8aeb):ゲーミュ|-|-|?||
 |1002|[[うっせぇわ>難易度表/おに/うっせぇわ]]|BGCOLOR(#49d5eb):ポップス|-|-|adusse||
 |1003|[[猫>難易度表/おに/猫]]|BGCOLOR(#49d5eb):ポップス|-|-|nekods||
@@ -1227,7 +1227,7 @@
 |1098|[[SORA-V コズミックバード>難易度表/おに/SORA-V コズミックバード]]|BGCOLOR(#ff7028):ナムオリ|-|-|cosmb||
 |1099|[[Challengers>難易度表/おに/Challengers]]|BGCOLOR(#ff7028):ナムオリ|-|-|?||
 |1100|[[Kill My Fortune>難易度表/おに/Kill My Fortune]]|BGCOLOR(#0acc2a):バラエティ|-|-|?||
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''1101〜''&aname(n1200);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''1101〜''&aname(n1200);|
 |1101|[[一途>難易度表/おに/一途]]|BGCOLOR(#49d5eb):ポップス|BGCOLOR(#fe90d2):アニメ|-|?||
 |1102|[[俺こそオンリーワン>難易度表/おに/俺こそオンリーワン]]|BGCOLOR(#fdc000):キッズ|-|-|?||
 |1103|[[神っぽいな>難易度表/おに/神っぽいな]]|BGCOLOR(#cbcfde):ボカロ|-|-|?||

@@ -71,4 +71,5 @@
 
 ***譜面 [#score]
 ~大音符のHSは0.5
+~内部小節線を含んだ譜面画像 [[玄人>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=chrace_xe0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A5%C1%A5%AD%A5%F3%A5%EC%A1%BC%A5%B9%28%CE%A2%C9%E8%CC%CC%29]]・[[達人>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=chrace_xm0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A5%C1%A5%AD%A5%F3%A5%EC%A1%BC%A5%B9%28%CE%A2%C9%E8%CC%CC%29]]
 ~&attachref(chrace_x2.png,nolink);

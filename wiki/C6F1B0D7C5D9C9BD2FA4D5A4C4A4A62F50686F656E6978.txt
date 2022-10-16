@@ -5,7 +5,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.3.0''|Wii U1SP&br;NS1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''240''|''567310点''|+連打|680点|198点|
+|''AC15.3.0''|Wii U1SP&br;NS1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''240''|''567310点''|+連打|680点|198点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''975130点''}|~|COLOR(#ff3300){3570点}|-|
 |AC16.1.0|Xbox1|~|~|~|''993000点''|~|4130点|-|
 
@@ -20,16 +20,17 @@
 -序盤で少し出てくる8分の複合2連打(COLOR(blue){○}COLOR(red){●})に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Phoenix]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Phoenix#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/Phoenix]]
 -[[むずかしい>難易度表/むずかしい/Phoenix]]
 -[[おに>難易度表/おに/Phoenix]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=URHuJXPp0dE]]
+-[[オート動画(Wii U1)>https://www.youtube.com/watch?v=URHuJXPp0dE]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~BPMは[[おに譜面>難易度表/おに/Phoenix]]を参照
+~正確なBPM変化は[[おに譜面>難易度表/おに/Phoenix#score]]を参照
 ~&attachref(Phoenix.png,nolink);

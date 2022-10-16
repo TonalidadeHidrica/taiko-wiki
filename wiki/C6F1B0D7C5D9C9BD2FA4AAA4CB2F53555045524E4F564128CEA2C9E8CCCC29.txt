@@ -22,14 +22,14 @@
 #region(詳細)
 |CENTER:180|CENTER:90|CENTER:120|c
 |元の譜面|採用バージョン|本曲の小節|h
-|[[Black Rose Apostle(裏譜面)>../Black Rose Apostle(裏譜面)]]|BGCOLOR(#cc8aeb):[[''ムラサキ''>段位道場/ムラサキ/玄人]]|18〜20, 108小節|
-|[[きたさいたま2000>../きたさいたま2000]]|BGCOLOR(white):[[''ホワイト''>段位道場/ホワイト/玄人]]|22〜24, 109小節|
-|[[ゴーストマスク>../ゴーストマスク]]|BGCOLOR(#e60033):[[COLOR(white):''レッド''>段位道場/レッド/玄人]]|26〜28, 110小節|
+|[[Black Rose Apostle(裏譜面)>../Black Rose Apostle(裏譜面)]]|BGCOLOR(#cc8aeb):[[''ムラサキ''>段位道場/ムラサキ/玄人]]|18〜20・108小節|
+|[[きたさいたま2000>../きたさいたま2000]]|BGCOLOR(white):[[''ホワイト''>段位道場/ホワイト/玄人]]|22〜24・109小節|
+|[[ゴーストマスク>../ゴーストマスク]]|BGCOLOR(#e60033):[[COLOR(white):''レッド''>段位道場/レッド/玄人]]|26〜28・110小節|
 |[[FUJIN Rumble>../FUJIN Rumble]]|BGCOLOR(#ffff00):[[''イエロー''>段位道場/イエロー/玄人]]|30〜33, 111小節|
-|[[Toon Town's Toys' Tune>../Toon Town's Toys' Tune]]((HSなし))|BGCOLOR(#0067c0):[[COLOR(white):''ブルー''>段位道場/ブルー/玄人]]|50〜52, 112小節|
-|[[気焔万丈神楽>../気焔万丈神楽]]|BGCOLOR(#0acc2a):[[COLOR(white):''グリーン''>段位道場/グリーン/玄人]]|54〜56, 113小節|
-|[[Stick Trick ShowTime!!>../Stick Trick ShowTime!!]]|BGCOLOR(#ffffea):[[''COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2020''>段位道場/ニジイロ2020/玄人]]|58〜61, 114小節|
-|[[刻竜 〜Kokuryu〜>../刻竜 〜Kokuryu〜]]|BGCOLOR(#ffffea):[[''COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2021''>段位道場/ニジイロ2022/玄人]]|104〜106, 115小節|
+|[[Toon Town's Toys' Tune>../Toon Town's Toys' Tune]]((HSなし))|BGCOLOR(#0067c0):[[COLOR(white):''ブルー''>段位道場/ブルー/玄人]]|50〜52・112小節|
+|[[気焔万丈神楽>../気焔万丈神楽]]|BGCOLOR(#0acc2a):[[COLOR(white):''グリーン''>段位道場/グリーン/玄人]]|54〜56・113小節|
+|[[Stick Trick ShowTime!!>../Stick Trick ShowTime!!]]|BGCOLOR(#ffffea):[[''COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2020''>段位道場/ニジイロ2020/玄人]]|58〜61・114小節|
+|[[刻竜 〜Kokuryu〜>../刻竜 〜Kokuryu〜]]|BGCOLOR(#ffffea):[[''COLOR(#e1637f){ニ}COLOR(#ffb83e){ジ}COLOR(#91eb4f){イ}COLOR(#80c4ff){ロ}2021''>段位道場/ニジイロ2022/玄人]]|104〜106・115小節|
 #endregion
 -この譜面をフルコンボすると、''称号''「''SUPERNOVA EXpert''」を獲得できる。
 -[[ニジイロVer.段位道場2022>段位道場#normal]]の[[玄人>段位道場/ニジイロ2022/玄人]]3曲目課題曲となった。

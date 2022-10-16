@@ -20,7 +20,7 @@
 -[[かんたん>難易度表/かんたん/リトルホワイトウィッチ]]
 -[[ふつう>難易度表/ふつう/リトルホワイトウィッチ]]
 -[[むずかしい>難易度表/むずかしい/リトルホワイトウィッチ]]
--[[オート動画(NS2)>https://www.youtube.com/watch?v=0GV9pWY82RM]]
+-[[オート動画(NS2)>https://youtu.be/0GV9pWY82RM]]
 
 ***コメント [#comment]
 #pcomment(,noname)
@@ -37,3 +37,6 @@
 
 ~124〜140小節の拡大図(4倍)
 ~&attachref(kakudai_241-256.png,nolink);
+
+~見た目重視(小節線ギミック省略)
+~&attachref(lwitch_m_mitame.png,nolink);

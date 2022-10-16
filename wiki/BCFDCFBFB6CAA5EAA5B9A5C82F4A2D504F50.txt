@@ -9,9 +9,9 @@
 ~｜[[アルファベット(A〜H)>#alphabetah]]｜[[アルファベット(I〜P)>#alphabetip]]｜[[アルファベット(Q〜Z)>#alphabetqz]]｜
 
 **あ行〜わ行 [#awa]
-|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+||LEFT:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''あ行''&aname(agyo);|
+|>|>|>|>|>|BGCOLOR(cyan):CENTER:''あ行''&aname(agyo);|
 |''愛のうた''|75|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/愛のうた]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/愛のうた]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/愛のうた]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/愛のうた]]|
 |''青い珊瑚礁''|136|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/青い珊瑚礁]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/青い珊瑚礁]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/青い珊瑚礁]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/青い珊瑚礁]]|
 |''青いベンチ''|106|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/青いベンチ]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/青いベンチ]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/青いベンチ]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/青いベンチ]]|
@@ -31,7 +31,7 @@
 |''笑顔にカンパイ！''|218|[[★×3>難易度表/かんたん/笑顔にカンパイ！]]|[[★×4>難易度表/ふつう/笑顔にカンパイ！]]|[[★×6>難易度表/むずかしい/笑顔にカンパイ！]]|[[★×6>難易度表/おに/笑顔にカンパイ！]]|
 |''お願い！セニョリータ''|160-185※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/お願い！セニョリータ]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/お願い！セニョリータ]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/お願い！セニョリータ]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/お願い！セニョリータ]]|
 |''お祭り忍者''|130|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/お祭り忍者]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/お祭り忍者]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/お祭り忍者]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/お祭り忍者]]|
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''か行''&aname(kagyo);|
+|>|>|>|>|>|BGCOLOR(cyan):CENTER:CENTER:''か行''&aname(kagyo);|
 |''学園天国''|176|BGCOLOR(#ccc):-|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/学園天国]]|BGCOLOR(#ccc):[[★×3>難易度表/おに/学園天国]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/学園天国]]|
 |''風になりたい''|113|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/風になりたい]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/風になりたい]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/風になりたい]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/風になりたい]]|
 |''風は吹いている''|110|[[★×2>難易度表/かんたん/風は吹いている]]|[[★×3>難易度表/ふつう/風は吹いている]]|[[★×4>難易度表/むずかしい/風は吹いている]]|[[★×5>難易度表/おに/風は吹いている]]|
@@ -52,7 +52,7 @@
 |''ここにいるぜぇ！''|211|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/ここにいるぜぇ！]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/ここにいるぜぇ！]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/ここにいるぜぇ！]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/ここにいるぜぇ！]]|
 |''ここにいるよ feat.青山テルマ''|89|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/ここにいるよ　feat.青山テルマ]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ここにいるよ　feat.青山テルマ]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/ここにいるよ　feat.青山テルマ]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/ここにいるよ　feat.青山テルマ]]|
 |''ココロオドル''|113|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/ココロオドル]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ココロオドル]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/ココロオドル]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/ココロオドル]]|
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''さ行''&aname(sagyo);|
+|>|>|>|>|>|BGCOLOR(cyan):CENTER:''さ行''&aname(sagyo);|
 |''佐賀県''|187|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/佐賀県]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/佐賀県]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/佐賀県]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/佐賀県]]|
 |''サマーれげぇ！レインボー''|107|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/サマーれげぇ！レインボー]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/サマーれげぇ！レインボー]]|BGCOLOR(#ccc):[[★×2>難易度表/むずかしい/サマーれげぇ！レインボー]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/サマーれげぇ！レインボー]]|
 |''シーソーゲーム 〜勇敢な恋の歌〜''|135|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/シーソーゲーム]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/シーソーゲーム]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/シーソーゲーム]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/シーソーゲーム]]|
@@ -63,7 +63,7 @@
 |''純情〜スンジョン〜''|137|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/純情〜スンジョン〜]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/純情〜スンジョン〜]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/純情〜スンジョン〜]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/純情〜スンジョン〜]]|
 |''そうだ！We're ALIVE''|120|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/そうだ！We're ALIVE]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/そうだ！We're ALIVE]]|BGCOLOR(#ccc):[[★×3>難易度表/おに/そうだ！We're ALIVE]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/そうだ！We're ALIVE]]|
 |''そばにいるね''|80|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/そばにいるね]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/そばにいるね]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/そばにいるね]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/そばにいるね]]|
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''た行''&aname(tagyo);|
+|>|>|>|>|>|BGCOLOR(cyan):CENTER:''た行''&aname(tagyo);|
 |''大器晩成''|146※|[[★×3>難易度表/かんたん/大器晩成]]|[[★×4>難易度表/ふつう/大器晩成]]|[[★×5>難易度表/むずかしい/大器晩成]]|[[★×7>難易度表/おに/大器晩成]]|
 |''大切なもの''|205|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/大切なもの]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/大切なもの]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/大切なもの]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/大切なもの]]|
 |''大迷惑''|187|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/大迷惑]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/大迷惑]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/大迷惑]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/大迷惑]]|
@@ -80,7 +80,7 @@
 |''ディープ・クレンジング''|128|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/ディープ・クレンジング]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/ディープ・クレンジング]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/ディープ・クレンジング]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/ディープ・クレンジング]]|
 |''伝説の男〜ビバ・ガッツ〜''|77-187|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/伝説の男　〜ビバ・ガッツ〜]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/伝説の男　〜ビバ・ガッツ〜]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/伝説の男　〜ビバ・ガッツ〜]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/伝説の男　〜ビバ・ガッツ〜]]|
 |''時の足音''|81.5|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/時の足音]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/時の足音]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/時の足音]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/時の足音]]|
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''な行''&aname(nagyo);|
+|>|>|>|>|>|BGCOLOR(cyan):CENTER:''な行''&aname(nagyo);|
 |''泣かないで''|164|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/泣かないで]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/泣かないで]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/泣かないで]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/泣かないで]]|
 |''涙そうそう''|76|[[★×2>難易度表/かんたん/涙そうそう]]|[[★×3>難易度表/ふつう/涙そうそう]]|[[★×4>難易度表/むずかしい/涙そうそう]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/涙そうそう]]|
 |''夏色''|122|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/夏色]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/夏色]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/夏色]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/夏色]]|
@@ -92,7 +92,7 @@
 |''にんげんっていいな''(ガガガDX)|165|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/にんげんっていいな（ガガガDXver.）]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/にんげんっていいな（ガガガDXver.）]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/にんげんっていいな（ガガガDXver.）]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/にんげんっていいな（ガガガDXver.）]]|
 |''ね〜え？''|169|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/ね〜え？]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/ね〜え？]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/ね〜え？]]|BGCOLOR(#ccc):[[★×3>難易度表/おに/ね〜え？]]|
 |''ネオメロドラマティック''|126|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/ネオメロドラマティック]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ネオメロドラマティック]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/ネオメロドラマティック]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/ネオメロドラマティック]]|
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''は行''&aname(hagyo);|
+|>|>|>|>|>|BGCOLOR(cyan):CENTER:''は行''&aname(hagyo);|
 |''バイマイメロディー''|130|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/バイマイメロディー]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/バイマイメロディー]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/バイマイメロディー]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/バイマイメロディー]]|
 |''箱根八里の半次郎''|74|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/箱根八里の半次郎]]|BGCOLOR(#ccc):[[★×2>難易度表/おに/箱根八里の半次郎]]|BGCOLOR(#ccc):-|BGCOLOR(#ccc):[[★×2>難易度表/おに/箱根八里の半次郎]]|
 |''初恋列車''|75-117|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/初恋列車]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/初恋列車]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/初恋列車]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/初恋列車]]|
@@ -101,13 +101,13 @@
 |''パラダイス銀河''|155|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/パラダイス銀河]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/パラダイス銀河]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/パラダイス銀河]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/パラダイス銀河]]|
 |''ヒーロー''|121※|[[★×3>難易度表/かんたん/ヒーロー]]|[[★×4>難易度表/ふつう/ヒーロー]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/ヒーロー]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/ヒーロー]]|
 |''瞳をとじて''|72|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/瞳をとじて]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/瞳をとじて]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/瞳をとじて]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/瞳をとじて]]|
-|''ひまわり''|92|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/ひまわり]]|[[★×4>難易度表/ふつう/ひまわり]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/ひまわり]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/ひまわり]]|
+|''ひまわり''|92|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/ひまわり]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ひまわり]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/ひまわり]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/ひまわり]]|
 |''ファミリードンドン''|122((おにのみ244))|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/ファミリードンドン]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ファミリードンドン]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/ファミリードンドン]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/ファミリードンドン]]|
 |''ファミリーパーティー''|142|[[★×2>難易度表/かんたん/ファミリーパーティー]]|[[★×4>難易度表/ふつう/ファミリーパーティー]]|[[★×6>難易度表/むずかしい/ファミリーパーティー]]|[[★×8>難易度表/おに/ファミリーパーティー]]|
 |''プレイバックPart2''|124|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/プレイバックPart2]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/プレイバックPart2]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/プレイバックPart2]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/プレイバックPart2]]|
 |''僕のキモチ''|124.9|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/僕のキモチ]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/僕のキモチ]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/僕のキモチ]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/僕のキモチ]]|
 |''炎と森のカーニバル''|116|[[★×3>難易度表/かんたん/炎と森のカーニバル]]|[[★×4>難易度表/ふつう/炎と森のカーニバル]]|[[★×6>難易度表/むずかしい/炎と森のカーニバル]]|[[★×7>難易度表/おに/炎と森のカーニバル]]|
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''ま行''&aname(magyo);|
+|>|>|>|>|>|BGCOLOR(cyan):CENTER:''ま行''&aname(magyo);|
 |''負けないで''|125|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/負けないで]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/負けないで]]|BGCOLOR(#ccc):[[★×2>難易度表/おに/負けないで]]|BGCOLOR(#ccc):[[★×2>難易度表/おに/負けないで]]|
 |''マタアイマショウ''|101|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/マタアイマショウ]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/マタアイマショウ]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/マタアイマショウ]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/マタアイマショウ]]|
 |''また君に恋してる''|93※|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/また君に恋してる]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/また君に恋してる]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/また君に恋してる]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/また君に恋してる]]|
@@ -120,25 +120,25 @@
 |''無敵のガールフレンド''|133|[[★×2>難易度表/かんたん/無敵のガールフレンド]]|[[★×3>難易度表/ふつう/無敵のガールフレンド]]|[[★×4>難易度表/むずかしい/無敵のガールフレンド]]|[[★×5>難易度表/おに/無敵のガールフレンド]]|
 |''メーデー''|140|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/メーデー]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/メーデー]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/メーデー]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/メーデー]]|
 |''モンキー・マジック''|115|[[★×3>難易度表/かんたん/モンキー・マジック]]|[[★×3>難易度表/ふつう/モンキー・マジック]]|[[★×5>難易度表/むずかしい/モンキー・マジック]]|[[★×7>難易度表/おに/モンキー・マジック]]|
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''や行''&aname(yagyo);|
+|>|>|>|>|>|BGCOLOR(cyan):CENTER:''や行''&aname(yagyo);|
 |''夜の踊り子''|134|[[★×3>難易度表/かんたん/夜の踊り子]]|[[★×4>難易度表/ふつう/夜の踊り子]]|[[★×5>難易度表/むずかしい/夜の踊り子]]|[[★×8>難易度表/おに/夜の踊り子]]|
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''ら行''&aname(ragyo);|
+|>|>|>|>|>|BGCOLOR(cyan):CENTER:''ら行''&aname(ragyo);|
 |''ラブレター''|91|[[★×2>難易度表/かんたん/ラブレター]]|[[★×2>難易度表/ふつう/ラブレター]]|[[★×2>難易度表/むずかしい/ラブレター]]|[[★×5>難易度表/おに/ラブレター]]|
 |''リルラ リルハ''|137※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/リルラリルハ]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/リルラリルハ]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/リルラリルハ]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/リルラリルハ]]|
 |''恋愛レボリューション21''|133|BGCOLOR(#ccc):-|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/恋愛レボリューション21]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/恋愛レボリューション21]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/恋愛レボリューション21]]|
 |''ロコローション''|140|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/ロコローション]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ロコローション]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/ロコローション]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/ロコローション]]|
 |''ロマンスの神様''|126|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/ロマンスの神様]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/ロマンスの神様]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/ロマンスの神様]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/ロマンスの神様]]|
-|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''わ行''&aname(wagyo);|
+//|>|>|>|>|>|BGCOLOR(cyan):CENTER:''わ行''&aname(wagyo);|
 
 
 **アルファベット [#az]
-|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+||LEFT:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(アルファベット順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(A〜H)''&aname(alphabetah);|
+|>|>|>|>|>|>|BGCOLOR(cyan):CENTER:''アルファベット(A〜H)''&aname(alphabetah);|
 |''A Perfect Sky''|95|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/A Perfect Sky]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/A Perfect Sky]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/A Perfect Sky]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/A Perfect Sky]]|-|
 |''BE ALL RIGHT!''|179|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/BE ALL RIGHT!]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/BE ALL RIGHT!]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/BE ALL RIGHT!]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/BE ALL RIGHT!]]|-|
 |''Be your wings''|138|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Be your wings]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Be your wings]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Be your wings]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Be your wings]]|-|
-|''Butterfly(倖田來未)''|138|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Butterfly]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Butterfly]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Butterfly]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Butterfly]]|-|
+|''Butterfly''(倖田來未)|138|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Butterfly]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Butterfly]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Butterfly]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Butterfly]]|-|
 |''DANCE2 feat.ソイソース''|140|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DANCE2 feat.ソイソース]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/DANCE2 feat.ソイソース]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/DANCE2 feat.ソイソース]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/DANCE2 feat.ソイソース]]|-|
 |''Dance My Generation''|133|[[★×2>難易度表/かんたん/Dance My Generation]]|[[★×3>難易度表/ふつう/Dance My Generation]]|[[★×6>難易度表/むずかしい/Dance My Generation]]|[[★×7>難易度表/おに/Dance My Generation]]|[[★×7>難易度表/おに/Dance My Generation]]((双打譜面で1人プレイの時は表と同じ))|
 |''Darling''|132.1|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Darling]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Darling]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Darling]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Darling]]|-|
@@ -148,11 +148,11 @@
 |''FIREWORKS''|113|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/FIREWORKS]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/FIREWORKS]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/FIREWORKS]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/FIREWORKS]]|-|
 |''Flower Song''|110|[[★×2>難易度表/かんたん/Flower Song]]|[[★×3>難易度表/ふつう/Flower Song]]|[[★×5>難易度表/むずかしい/Flower Song]]|[[★×5>難易度表/おに/Flower Song]]|-|
 |''GLAMOROUS SKY''|150※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/GLAMOROUS SKY]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/GLAMOROUS SKY]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/GLAMOROUS SKY]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/GLAMOROUS SKY]]|-|
-|''GOLDFINGER'99''|180|BGCOLOR(#ccc):-|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/GOLDFINGER'99]]|BGCOLOR(#ccc):-|BGCOLOR(#ccc):-|-|
+|''GOLDFINGER'99''|180|-|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/GOLDFINGER'99]]|-|-|-|
 |''GOOD BYE 夏男''|159((おには159-318))|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/GOOD BYE 夏男]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/GOOD BYE 夏男]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/GOOD BYE 夏男]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/GOOD BYE 夏男]]|-|
 |''Hello,world!''|211|[[★×4>難易度表/かんたん/Hello,world!]]|[[★×5>難易度表/ふつう/Hello,world!]]|[[★×6>難易度表/むずかしい/Hello,world!]]|[[★×7>難易度表/おに/Hello,world!]]|-|
-|''HOTEL PACIFIC''|158|BGCOLOR(#ccc):-|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/HOTEL PACIFIC]]|BGCOLOR(#ccc):-|BGCOLOR(#ccc):-|-|
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(I〜P)''&aname(alphabetip);|
+|''HOTEL PACIFIC''|158|:-|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/HOTEL PACIFIC]]|-|-|-|
+|>|>|>|>|>|>|BGCOLOR(cyan):CENTER:''アルファベット(I〜P)''&aname(alphabetip);|
 |''independent''|149|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/independent]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/independent]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/independent]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/independent]]|-|
 |''I SHOULD BE SO LUCKY''|118|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/I SHOULD BE SO LUCKY]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/I SHOULD BE SO LUCKY]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/I SHOULD BE SO LUCKY]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/I SHOULD BE SO LUCKY]]|-|
 |''July 1st''|128|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/July 1st]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/July 1st]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/July 1st]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/July 1st]]|-|
@@ -172,7 +172,7 @@
 |''Precious''|75|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Precious]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Precious]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Precious]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Precious]]|-|
 |''Prisoner Of Love''|97|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Prisoner Of Love]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Prisoner Of Love]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Prisoner Of Love]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Prisoner Of Love]]|-|
 |''Pure''|111|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Pure]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Pure]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Pure]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/Pure]]|-|
-|>|>|>|>|>|>|BGCOLOR(#ccc):CENTER:''アルファベット(Q〜Z)''&aname(alphabetqz);|
+|>|>|>|>|>|>|BGCOLOR(cyan):CENTER:''アルファベット(Q〜Z)''&aname(alphabetqz);|
 |''Real voice''|131※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Real voice]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Real voice]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Real voice]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Real voice]]|-|
 |''Ring a Ding Dong''|175|[[★×3>難易度表/かんたん/Ring a Ding Dong]]|[[★×4>難易度表/ふつう/Ring a Ding Dong]]|[[★×4>難易度表/むずかしい/Ring a Ding Dong]]|[[★×7>難易度表/おに/Ring a Ding Dong]]|-|
 |''Rising Sun''|127|[[★×3>難易度表/かんたん/Rising Sun]]|[[★×3>難易度表/ふつう/Rising Sun]]|[[★×3>難易度表/むずかしい/Rising Sun]]|[[★×5>難易度表/おに/Rising Sun]]|-|

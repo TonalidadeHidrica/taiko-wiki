@@ -48,4 +48,5 @@
  〜0.01ずつ加速(小節線以外は0.5)〜
  57小節：1.06
  58小節：0.5
-&attachref(chrace_m.png,nolink);
+~内部小節線を含んだ譜面画像は[[こちら>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=chrace_m0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A5%C1%A5%AD%A5%F3%A5%EC%A1%BC%A5%B9]]
+~&attachref(chrace_m.png,nolink);

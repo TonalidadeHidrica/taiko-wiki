@@ -1,0 +1,758 @@
+*五十音順 収録曲一覧（英数字） [#title]
+-[[五十音順（あ〜わ）>五十音順]]
+
+
+-双打譜面、むずかしい以下の裏譜面、TDM・RT・亜洲版限定、仕分けやその他イベント限定曲を除く
+-背景が灰色の譜面は難易度が新基準でないもの。
+-曲名が変更されたものは、変更後の名前で記載している。
+
+
+
+//↓↓↓テンプレートです。コピペして使ってください。↓↓↓
+//-|''曲名''|BPM|[[★×>難易度表/かんたん/曲名]]|[[★×>難易度表/ふつう/曲名]]|[[★×>難易度表/むずかしい/曲名]]|[[★×>難易度表/おに/曲名]]|-|
+
+//曲を追加した際に、各項目の曲数も変更してください。
+
+#contents
+
+|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|c
+|[[あ>五十音順#aa]]|[[か>五十音順#ka]]|[[さ>五十音順#sa]]|[[た>五十音順#ta]]|[[な>五十音順#na]]|[[は>五十音順#ha]]|[[ま>五十音順#ma]]|[[や>五十音順#ya]]|[[ら>五十音順#ra]]|[[わ>五十音順#wa]]|
+|[[い>五十音順#ii]]|[[き>五十音順#ki]]|[[し>五十音順#shi]]|[[ち>五十音順#chi]]|[[に>五十音順#ni]]|[[ひ>五十音順#hi]]|[[み>五十音順#mi]]|-|[[り>五十音順#ri]]|-|
+|[[う>五十音順#uu]]|[[く>五十音順#ku]]|[[す>五十音順#su]]|[[つ>五十音順#tsu]]|[[ぬ>五十音順#nu]]|[[ふ>五十音順#fu]]|[[む>五十音順#mu]]|[[ゆ>五十音順#yu]]|[[る>五十音順#ru]]|を|
+|[[え>五十音順#ee]]|[[け>五十音順#ke]]|[[せ>五十音順#se]]|[[て>五十音順#te]]|[[ね>五十音順#ne]]|[[へ>五十音順#he]]|[[め>五十音順#me]]|-|[[れ>五十音順#re]]|-|
+|[[お>五十音順#oo]]|[[こ>五十音順#ko]]|[[そ>五十音順#so]]|[[と>五十音順#to]]|[[の>五十音順#no]]|[[ほ>五十音順#ho]]|[[も>五十音順#mo]]|[[よ>五十音順#yo]]|[[ろ>五十音順#ro]]|ん|
+
+|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|c
+|[[A>#AAA]]|[[B>#BBB]]|[[C>#CCC]]|[[D>#DDD]]|[[E>#EEE]]|[[F>#FFF]]|[[G>#GGG]]|
+|[[H>#HHH]]|[[I>#III]]|[[J>#JJJ]]|[[K>#KKK]]|[[L>#LLL]]|[[M>#MMM]]|[[N>#NNN]]|
+|[[O>#OOO]]|[[P>#PPP]]|[[Q>#QQQ]]|[[R>#RRR]]|[[S>#SSS]]|[[T>#TTT]]|[[U>#UUU]]|
+|[[V>#VVV]]|[[W>#WWW]]|[[X>#XXX]]|[[Y>#YYY]]|Z|[[数字>#NUMBER]]|-|
+
+
+**アルファベット [#alphabet]
+***A〜G [#AG]
+||LEFT:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''A''(全 33 曲)&aname(AAA);|
+|''Abandoned Temple Final 2nd''|276|[[★×3>難易度表/かんたん/Abandoned Temple Final 2nd]]|[[★×4>難易度表/ふつう/Abandoned Temple Final 2nd]]|[[★×6>難易度表/むずかしい/Abandoned Temple Final 2nd]]|[[★×9>難易度表/おに/Abandoned Temple Final 2nd]]|-|
+|''ABCの歌''|129|[[★×2>難易度表/かんたん/ABCの歌]]|[[★×2>難易度表/ふつう/ABCの歌]]|[[★×2>難易度表/むずかしい/ABCの歌]]|[[★×7>難易度表/おに/ABCの歌]]|-|
+|''Abyss of hell''|165※|[[★×5>難易度表/かんたん/Abyss of hell]]|[[★×7>難易度表/ふつう/Abyss of hell]]|[[★×8>難易度表/むずかしい/Abyss of hell]]|[[★×8>難易度表/おに/Abyss of hell]]|[[★×10>難易度表/おに/Abyss of hell(裏譜面)]]|
+|''Act! Addict! Actors!''|86-172|[[★×2>難易度表/かんたん/Act! Addict! Actors!]]|[[★×3>難易度表/ふつう/Act! Addict! Actors!]]|[[★×4>難易度表/むずかしい/Act! Addict! Actors!]]|[[★×5>難易度表/おに/Act! Addict! Actors!]]|[[★×8>難易度表/おに/Act! Addict! Actors!(裏譜面)]]|
+|''ADAMAS''|191|[[★×4>難易度表/かんたん/ADAMAS]]|[[★×4>難易度表/ふつう/ADAMAS]]|[[★×4>難易度表/むずかしい/ADAMAS]]|[[★×8>難易度表/おに/ADAMAS]]|-|
+|''Agent Hustle & Dr. Hassle''|240|[[★×4>難易度表/かんたん/Agent Hustle ＆ Dr. Hassle]]|[[★×5>難易度表/ふつう/Agent Hustle ＆ Dr. Hassle]]|[[★×6>難易度表/むずかしい/Agent Hustle ＆ Dr. Hassle]]|[[★×10>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]|[[★×9>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|
+|''AIAIAI (feat. 中田ヤスタカ)''|128|[[★×3>難易度表/かんたん/AIAIAI (feat.中田ヤスタカ)]]|[[★×3>難易度表/ふつう/AIAIAI (feat.中田ヤスタカ)]]|[[★×4>難易度表/むずかしい/AIAIAI (feat.中田ヤスタカ)]]|[[★×7>難易度表/おに/AIAIAI (feat.中田ヤスタカ)]]|-|
+|''Aleph-0''|9.38-399?|[[★×5>難易度表/かんたん/Aleph-0]]|[[★×7>難易度表/ふつう/Aleph-0]]|[[★×8>難易度表/むずかしい/Aleph-0]]|[[★×10>難易度表/おに/Aleph-0]]|-|
+|''Alice or Guilty''|178|[[★×4>難易度表/かんたん/Alice or Guilty]]|[[★×5>難易度表/ふつう/Alice or Guilty]]|[[★×5>難易度表/むずかしい/Alice or Guilty]]|[[★×8>難易度表/おに/Alice or Guilty]]|-|
+|''ALiVE''|170|[[★×3>難易度表/かんたん/ALiVE]]|[[★×4>難易度表/ふつう/ALiVE]]|[[★×6>難易度表/むずかしい/ALiVE]]|[[★×9>難易度表/おに/ALiVE]]|-|
+|''Allegro Cantabile''|168|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Allegro Cantabile]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Allegro Cantabile]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Allegro Cantabile]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Allegro Cantabile]]|-|
+|''ALMIGHTY〜仮面の約束''|154|[[★×1>難易度表/かんたん/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×1>難易度表/ふつう/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×4>難易度表/むずかしい/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×6>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]|-|
+|''Aloft in the wind''|201|[[★×3>難易度表/かんたん/Aloft in the wind]]|[[★×5>難易度表/ふつう/Aloft in the wind]]|[[★×6>難易度表/むずかしい/Aloft in the wind]]|[[★×7>難易度表/おに/Aloft in the wind]]|-|
+|''ALONES''|190※|[[★×3>難易度表/かんたん/ALONES]]|[[★×4>難易度表/ふつう/ALONES]]|[[★×6>難易度表/むずかしい/ALONES]]|[[★×7>難易度表/おに/ALONES]]|-|
+|''ALRIGHT*''|184|[[★×3>難易度表/かんたん/ALRIGHT*]]|[[★×5>難易度表/ふつう/ALRIGHT*]]|[[★×5>難易度表/むずかしい/ALRIGHT*]]|[[★×8>難易度表/おに/ALRIGHT*]]|-|
+|''Alright! ハートキャッチプリキュア！''|177|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/Alright! ハートキャッチプリキュア！]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Alright! ハートキャッチプリキュア！]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Alright! ハートキャッチプリキュア！]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Alright! ハートキャッチプリキュア！]]|-|
+|''Altale''|83-180|[[★×4>難易度表/かんたん/Altale]]|[[★×4>難易度表/ふつう/Altale]]|[[★×6>難易度表/むずかしい/Altale]]|[[★×8>難易度表/おに/Altale]]|[[★×10>難易度表/おに/Altale(裏譜面)]]|
+|''Amanda''|123|[[★×3>難易度表/かんたん/Amanda]]|[[★×4>難易度表/ふつう/Amanda]]|[[★×5>難易度表/むずかしい/Amanda]]|[[★×8>難易度表/おに/Amanda]]|-|
+|''Amber Light''|252|[[★×5>難易度表/かんたん/Amber Light]]|[[★×7>難易度表/ふつう/Amber Light]]|[[★×8>難易度表/むずかしい/Amber Light]]|[[★×9>難易度表/おに/Amber Light]]|-|
+|''A New Journey''|137|[[★×3>難易度表/かんたん/A New Journey]]|[[★×5>難易度表/ふつう/A New Journey]]|[[★×5>難易度表/むずかしい/A New Journey]]|[[★×7>難易度表/おに/A New Journey]]|-|
+|''Angel Halo''|224|[[★×5>難易度表/かんたん/Angel Halo]]|[[★×7>難易度表/ふつう/Angel Halo]]|[[★×8>難易度表/むずかしい/Angel Halo]]|[[★×10>難易度表/おに/Angel Halo]]|-|
+|''Angelic Angel''|160※|[[★×3>難易度表/かんたん/Angelic Angel]]|[[★×4>難易度表/ふつう/Angelic Angel]]|[[★×4>難易度表/むずかしい/Angelic Angel]]|[[★×7>難易度表/おに/Angelic Angel]]|-|
+|''ANiMA''|183.5|[[★×5>難易度表/かんたん/ANiMA]]|[[★×6>難易度表/ふつう/ANiMA]]|[[★×7>難易度表/むずかしい/ANiMA]]|[[★×10>難易度表/おに/ANiMA]]|-|
+|''ANTI-HERO''|105※|[[★×3>難易度表/かんたん/ANTI-HERO]]|[[★×4>難易度表/ふつう/ANTI-HERO]]|[[★×5>難易度表/むずかしい/ANTI-HERO]]|[[★×8>難易度表/おに/ANTI-HERO]]|[[★×9>難易度表/おに/ANTI-HERO(裏譜面)]]|
+|''A Perfect Sky''|95|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/A Perfect Sky]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/A Perfect Sky]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/A Perfect Sky]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/A Perfect Sky]]|-|
+|''Aragami''|196|[[★×4>難易度表/かんたん/Aragami]]|[[★×7>難易度表/ふつう/Aragami]]|[[★×8>難易度表/むずかしい/Aragami]]|[[★×10>難易度表/おに/Aragami]]|-|
+|''arcadia''|85-180|[[★×4>難易度表/かんたん/arcadia]]|[[★×5>難易度表/ふつう/arcadia]]|[[★×6>難易度表/むずかしい/arcadia]]|[[★×9>難易度表/おに/arcadia]]|-|
+|''Argent Memories''|152|[[★×4>難易度表/かんたん/Argent Memories]]|[[★×6>難易度表/ふつう/Argent Memories]]|[[★×7>難易度表/むずかしい/Argent Memories]]|[[★×9>難易度表/おに/Argent Memories]]|-|
+|''ARMAGEΔDON''|190|[[★×5>難易度表/かんたん/ARMAGEΔDON]]|[[★×7>難易度表/ふつう/ARMAGEΔDON]]|[[★×8>難易度表/むずかしい/ARMAGEΔDON]]|[[★×10>難易度表/おに/ARMAGEΔDON]]|-|
+|''Armor Break''|136?|[[★×3>難易度表/かんたん/Armor Break]]|[[★×4>難易度表/ふつう/Armor Break]]|[[★×4>難易度表/むずかしい/Armor Break]]|[[★×7>難易度表/おに/Armor Break]]|-|
+|''Asteroid''|144-288|[[★×5>難易度表/かんたん/Asteroid]]|[[★×7>難易度表/ふつう/Asteroid]]|[[★×8>難易度表/むずかしい/Asteroid]]|[[★×9>難易度表/おに/Asteroid]]|-|
+|''AWAKE 〜マッスル目覚めのテーマ〜''|182|[[★×3>難易度表/かんたん/AWAKE]]|[[★×4>難易度表/ふつう/AWAKE]]|[[★×4>難易度表/むずかしい/AWAKE]]|[[★×7>難易度表/おに/AWAKE]]|-|
+|''AWAY''|136|[[★×2>難易度表/かんたん/AWAY]]|[[★×4>難易度表/ふつう/AWAY]]|[[★×4>難易度表/むずかしい/AWAY]]|[[★×6>難易度表/おに/AWAY]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''B''(全 36 曲)&aname(BBB);|
+|''Baby Shark（ベイビー・シャーク）''|111-139|[[★×1>難易度表/かんたん/Baby Shark（ベイビー・シャーク）]]|[[★×1>難易度表/ふつう/Baby Shark（ベイビー・シャーク）]]|[[★×3>難易度表/むずかしい/Baby Shark（ベイビー・シャーク）]]|[[★×4>難易度表/おに/Baby Shark（ベイビー・シャーク）]]|-|
+|''Baby Shark''|111-139|[[★×1>難易度表/かんたん/Baby Shark]]|[[★×1>難易度表/ふつう/Baby Shark]]|[[★×3>難易度表/むずかしい/Baby Shark]]|[[★×4>難易度表/おに/Baby Shark]]|-|
+|''Bad Apple!! feat.nomico''|138※|[[★×3>難易度表/かんたん/Bad Apple!! feat.nomico]]|[[★×5>難易度表/ふつう/Bad Apple!! feat.nomico]]|[[★×6>難易度表/むずかしい/Bad Apple!! feat.nomico]]|[[★×8>難易度表/おに/Bad Apple!! feat.nomico]]|-|
+|''bad guy''|120-135|[[★×3>難易度表/かんたん/bad guy]]|[[★×5>難易度表/ふつう/bad guy]]|[[★×6>難易度表/むずかしい/bad guy]]|[[★×7>難易度表/おに/bad guy]]|-|
+|''Baladium's drive''|120|[[★×3>難易度表/かんたん/Baladium's drive]]|[[★×5>難易度表/ふつう/Baladium's drive]]|[[★×6>難易度表/むずかしい/Baladium's drive]]|[[★×7>難易度表/おに/Baladium's drive]]|[[★×9>難易度表/おに/Baladium's drive(裏譜面)]]|
+|''Battaille D&#233;cisive''|150|[[★×3>難易度表/かんたん/Battaille Decisive]]|[[★×3>難易度表/ふつう/Battaille Decisive]]|[[★×5>難易度表/むずかしい/Battaille Decisive]]|[[★×7>難易度表/おに/Battaille Decisive]]|-|
+|''BATTLE NO.1''|200|[[★×4>難易度表/かんたん/BATTLE NO.1]]|[[★×6>難易度表/ふつう/BATTLE NO.1]]|[[★×6>難易度表/むずかしい/BATTLE NO.1]]|[[★×10>難易度表/おに/BATTLE NO.1]]|-|
+|''B.B.K.K.B.K.K.''|170|[[★×4>難易度表/かんたん/B.B.K.K.B.K.K.]]|[[★×6>難易度表/ふつう/B.B.K.K.B.K.K.]]|[[★×7>難易度表/むずかしい/B.B.K.K.B.K.K.]]|[[★×9>難易度表/おに/B.B.K.K.B.K.K.]]|-|
+|''BE ALL RIGHT!''|179|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/BE ALL RIGHT!]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/BE ALL RIGHT!]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/BE ALL RIGHT!]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/BE ALL RIGHT!]]|-|
+|''Behemoth''|160-190|[[★×5>難易度表/かんたん/Behemoth]]|[[★×7>難易度表/ふつう/Behemoth]]|[[★×8>難易度表/むずかしい/Behemoth]]|[[★×10>難易度表/おに/Behemoth]]|-|
+|''believe in you''|127|[[★×4>難易度表/かんたん/believe in you]]|[[★×5>難易度表/ふつう/believe in you]]|[[★×6>難易度表/むずかしい/believe in you]]|[[★×7>難易度表/おに/believe in you]]|-|
+|''Believe in yourself''|171|[[★×3>難易度表/かんたん/Believe in yourself]]|[[★×4>難易度表/ふつう/Believe in yourself]]|[[★×4>難易度表/むずかしい/Believe in yourself]]|[[★×6>難易度表/おに/Believe in yourself]]|-|
+|''Be Somewhere''|153|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Be Somewhere]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/Be Somewhere]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/Be Somewhere]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/Be Somewhere]]|-|
+|''BE THE ACE''|133|[[★×4>難易度表/かんたん/BE THE ACE]]|[[★×5>難易度表/ふつう/BE THE ACE]]|[[★×6>難易度表/むずかしい/BE THE ACE]]|[[★×6>難易度表/おに/BE THE ACE]]|[[★×9>難易度表/おに/BE THE ACE(裏譜面)]]|
+|''Be The One''|136|[[★×1>難易度表/かんたん/Be The One]]|[[★×2>難易度表/ふつう/Be The One]]|[[★×4>難易度表/むずかしい/Be The One]]|[[★×5>難易度表/おに/Be The One]]|-|
+|''Be your wings''|138|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Be your wings]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Be your wings]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Be your wings]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Be your wings]]|-|
+|''Black Rose Apostle''|102-204|[[★×5>難易度表/かんたん/Black Rose Apostle]]|[[★×6>難易度表/ふつう/Black Rose Apostle]]|[[★×8>難易度表/むずかしい/Black Rose Apostle]]|[[★×10>難易度表/おに/Black Rose Apostle]]|[[★×10>難易度表/おに/Black Rose Apostle(裏譜面)]]|
+|''BLAZING''|151-190|[[★×4>難易度表/かんたん/BLAZING]]|[[★×6>難易度表/ふつう/BLAZING]]|[[★×6>難易度表/むずかしい/BLAZING]]|[[★×7>難易度表/おに/BLAZING]]|-|
+|''BLAZING VORTEX''|173|[[★×5>難易度表/かんたん/BLAZING VORTEX]]|[[★×6>難易度表/ふつう/BLAZING VORTEX]]|[[★×7>難易度表/むずかしい/BLAZING VORTEX]]|[[★×7>難易度表/おに/BLAZING VORTEX]]|[[★×10>難易度表/おに/BLAZING VORTEX(裏譜面)]]|
+|''Blessed Bouquet Buskers''|188|[[★×4>難易度表/かんたん/Blessed Bouquet Buskers]]|[[★×5>難易度表/ふつう/Blessed Bouquet Buskers]]|[[★×6>難易度表/むずかしい/Blessed Bouquet Buskers]]|[[★×10>難易度表/おに/Blessed Bouquet Buskers]]|-|
+|''Blood Rage''|162|[[★×3>難易度表/かんたん/Blood Rage]]|[[★×5>難易度表/ふつう/Blood Rage]]|[[★×5>難易度表/むずかしい/Blood Rage]]|[[★×7>難易度表/おに/Blood Rage]]|-|
+|''Blue Rose Ruin''|185|[[★×5>難易度表/かんたん/Blue Rose Ruin]]|[[★×7>難易度表/ふつう/Blue Rose Ruin]]|[[★×8>難易度表/むずかしい/Blue Rose Ruin]]|[[★×8>難易度表/おに/Blue Rose Ruin]]|-|
+|''BLUE SAPPHIRE''|99|[[★×2>難易度表/かんたん/BLUE SAPPHIRE]]|[[★×3>難易度表/ふつう/BLUE SAPPHIRE]]|[[★×6>難易度表/むずかしい/BLUE SAPPHIRE]]|[[★×6>難易度表/おに/BLUE SAPPHIRE]]|[[★×8>難易度表/おに/BLUE SAPPHIRE(裏譜面)]]|
+|''BLUE TOPAZ''|130.6|[[★×4>難易度表/かんたん/BLUE TOPAZ]]|[[★×5>難易度表/ふつう/BLUE TOPAZ]]|[[★×7>難易度表/むずかしい/BLUE TOPAZ]]|[[★×8>難易度表/おに/BLUE TOPAZ]]|-|
+|''BON VOYAGE!''|135|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/BON VOYAGE!]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/BON VOYAGE!]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/BON VOYAGE!]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/BON VOYAGE!]]|-|
+|''BORDERLESS''|184|[[★×4>難易度表/かんたん/BORDERLESS]]|[[★×6>難易度表/ふつう/BORDERLESS]]|[[★×5>難易度表/むずかしい/BORDERLESS]]|[[★×8>難易度表/おに/BORDERLESS]]|-|
+|''BORN ON DREAM! 〜HANABI☆NIGHT〜''|152|[[★×3>難易度表/かんたん/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|[[★×3>難易度表/ふつう/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|[[★×5>難易度表/むずかしい/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|[[★×8>難易度表/おに/BORN ON DREAM! 〜HANABI☆NIGHT〜]]|-|
+|''Brand New Theater!''|177|[[★×3>難易度表/かんたん/Brand New Theater!]]|[[★×4>難易度表/ふつう/Brand New Theater!]]|[[★×6>難易度表/むずかしい/Brand New Theater!]]|[[★×8>難易度表/おに/Brand New Theater!]]|-|
+|''BRAND NEW WORLD''|160|[[★×3>難易度表/かんたん/BRAND NEW WORLD]]|[[★×5>難易度表/ふつう/BRAND NEW WORLD]]|[[★×4>難易度表/むずかしい/BRAND NEW WORLD]]|[[★×5>難易度表/おに/BRAND NEW WORLD]]|-|
+|''Brand-new World''|205|[[★×4>難易度表/かんたん/Brand-new World]]|[[★×5>難易度表/ふつう/Brand-new World]]|[[★×6>難易度表/むずかしい/Brand-new World]]|[[★×8>難易度表/おに/Brand-new World]]|-|
+|''Bravely You''|150|[[★×3>難易度表/かんたん/Bravely You]]|[[★×4>難易度表/ふつう/Bravely You]]|[[★×5>難易度表/むずかしい/Bravely You]]|[[★×8>難易度表/おに/Bravely You]]|-|
+|''Break the Chain''|110|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Break the Chain]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Break the Chain]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Break the Chain]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Break the Chain]]|-|
+|''Brightdown''|194-197|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Brightdown]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Brightdown]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Brightdown]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Brightdown]]|-|
+|''Butterfly''(木村カエラ)|111※|[[★×2>難易度表/かんたん/Butterfly(木村カエラ)]]|[[★×3>難易度表/ふつう/Butterfly(木村カエラ)]]|[[★×4>難易度表/むずかしい/Butterfly(木村カエラ)]]|[[★×6>難易度表/おに/Butterfly(木村カエラ)]]|-|
+|''Butterfly''(倖田來未)|138|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Butterfly]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Butterfly]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Butterfly]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Butterfly]]|-|
+|''Butter-Fly''|165|[[★×4>難易度表/かんたん/Butter-Fly]]|[[★×5>難易度表/ふつう/Butter-Fly]]|[[★×5>難易度表/むずかしい/Butter-Fly]]|[[★×7>難易度表/おに/Butter-Fly]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''C''(全 31 曲)&aname(CCC);|
+|''Calamity Fortune''|200|[[★×4>難易度表/かんたん/Calamity Fortune]]|[[★×6>難易度表/ふつう/Calamity Fortune]]|[[★×7>難易度表/むずかしい/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune(裏譜面)]]|
+|''Calculator''|150-300|[[★×4>難易度表/かんたん/Calculator]]|[[★×7>難易度表/ふつう/Calculator]]|[[★×8>難易度表/むずかしい/Calculator]]|[[★×10>難易度表/おに/Calculator]]|-|
+|''Can Do''|200※|[[★×2>難易度表/かんたん/Can Do]]|[[★×3>難易度表/ふつう/Can Do]]|[[★×4>難易度表/むずかしい/Can Do]]|[[★×6>難易度表/おに/Can Do]]|-|
+|''CANDY CANDY''|130※|[[★×3>難易度表/かんたん/CANDY CANDY]]|[[★×4>難易度表/ふつう/CANDY CANDY]]|[[★×6>難易度表/むずかしい/CANDY CANDY]]|[[★×7>難易度表/おに/CANDY CANDY]]|-|
+|''Candy Pop''|174|[[★×1>難易度表/かんたん/Candy Pop]]|[[★×2>難易度表/ふつう/Candy Pop]]|[[★×3>難易度表/むずかしい/Candy Pop]]|[[★×6>難易度表/おに/Candy Pop]]|-|
+|''CAPTAIN NEO''|146-230※|[[★×5>難易度表/かんたん/CAPTAIN NEO]]|[[★×6>難易度表/ふつう/CAPTAIN NEO]]|[[★×7>難易度表/むずかしい/CAPTAIN NEO]]|[[★×8>難易度表/おに/CAPTAIN NEO]]|-|
+|''Caribbean Knight''|135-300|[[★×5>難易度表/かんたん/Caribbean Knight]]|[[★×7>難易度表/ふつう/Caribbean Knight]]|[[★×7>難易度表/むずかしい/Caribbean Knight]]|[[★×10>難易度表/おに/Caribbean Knight]]|-|
+|''CAT'S EYE''|145※|[[★×2>難易度表/かんたん/CAT'S EYE]]|[[★×4>難易度表/ふつう/CAT'S EYE]]|[[★×6>難易度表/むずかしい/CAT'S EYE]]|[[★×7>難易度表/おに/CAT'S EYE]]|-|
+|''Central Dogma Pt.1''|190-284|[[★×5>難易度表/かんたん/Central Dogma Pt.1]]|[[★×7>難易度表/ふつう/Central Dogma Pt.1]]|[[★×8>難易度表/むずかしい/Central Dogma Pt.1]]|[[★×10>難易度表/おに/Central Dogma Pt.1]]|[[★×10>難易度表/おに/Central Dogma Pt.1(裏譜面)]]|
+|''Central Dogma Pt.2''|189?-284?|[[★×5>難易度表/かんたん/Central Dogma Pt.2]]|[[★×6>難易度表/ふつう/Central Dogma Pt.2]]|[[★×8>難易度表/むずかしい/Central Dogma Pt.2]]|[[★×10>難易度表/おに/Central Dogma Pt.2]]|-|
+|''CHA-LA HEAD-CHA-LA''|154|[[★×3>難易度表/かんたん/CHA-LA HEAD-CHA-LA]]|[[★×4>難易度表/ふつう/CHA-LA HEAD-CHA-LA]]|[[★×5>難易度表/むずかしい/CHA-LA HEAD-CHA-LA]]|[[★×6>難易度表/おに/CHA-LA HEAD-CHA-LA]]|-|
+|''Challengers''|250?|[[★×5>難易度表/かんたん/Challengers]]|[[★×7>難易度表/ふつう/Challengers]]|[[★×8>難易度表/むずかしい/Challengers]]|[[★×10>難易度表/おに/Challengers]]|-|
+|''CHANGE!!!!''|170|[[★×3>難易度表/かんたん/CHANGE!!!!]]|[[★×5>難易度表/ふつう/CHANGE!!!!]]|[[★×6>難易度表/むずかしい/CHANGE!!!!]]|[[★×7>難易度表/おに/CHANGE!!!!]]|-|
+|''CHAOS RINGS''|108-143※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/CHAOS RINGS]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/CHAOS RINGS]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/CHAOS RINGS]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/CHAOS RINGS]]|-|
+|''Checkmate!?''|137|[[★×3>難易度表/かんたん/Checkmate!?]]|[[★×5>難易度表/ふつう/Checkmate!?]]|[[★×6>難易度表/むずかしい/Checkmate!?]]|[[★×8>難易度表/おに/Checkmate!?]]|-|
+|''Cheers！デリシャスパーティ&#9825;プリキュア''|182|[[★×1>難易度表/かんたん/Cheers!デリシャスパーティ・プリキュア]]|[[★×2>難易度表/ふつう/Cheers!デリシャスパーティ・プリキュア]]|[[★×2>難易度表/むずかしい/Cheers!デリシャスパーティ・プリキュア]]|[[★×3>難易度表/おに/Cheers!デリシャスパーティ・プリキュア]]|-|
+|''Choco Chiptune.''|210|[[★×4>難易度表/かんたん/Choco Chiptune.]]|[[★×6>難易度表/ふつう/Choco Chiptune.]]|[[★×7>難易度表/むずかしい/Choco Chiptune.]]|[[★×8>難易度表/おに/Choco Chiptune.]]|-|
+|''Choo Choo TRAIN''|115|[[★×2>難易度表/かんたん/Choo Choo TRAIN]]|[[★×3>難易度表/ふつう/Choo Choo TRAIN]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Choo Choo TRAIN]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/Choo Choo TRAIN]]|-|
+|''CHU-BURA''|180|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/CHU-BURA]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/CHU-BURA]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/CHU-BURA]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/CHU-BURA]]|-|
+|''Circle of Seasons''|168|[[★×2>難易度表/かんたん/Circle of Seasons]]|[[★×4>難易度表/ふつう/Circle of Seasons]]|[[★×4>難易度表/むずかしい/Circle of Seasons]]|[[★×6>難易度表/おに/Circle of Seasons]]|-|
+|''CITRUS''|82|[[★×2>難易度表/かんたん/CITRUS]]|[[★×3>難易度表/ふつう/CITRUS]]|[[★×5>難易度表/むずかしい/CITRUS]]|[[★×7>難易度表/おに/CITRUS]]|-|
+|''Climax Jump''|170|[[★×2>難易度表/かんたん/Climax Jump]]|[[★×2>難易度表/ふつう/Climax Jump]]|[[★×5>難易度表/むずかしい/Climax Jump]]|[[★×8>難易度表/おに/Climax Jump]]|-|
+|''Clotho クロートー''|185|[[★×5>難易度表/かんたん/Clotho クロートー]]|[[★×7>難易度表/ふつう/Clotho クロートー]]|[[★×7>難易度表/むずかしい/Clotho クロートー]]|[[★×10>難易度表/おに/Clotho クロートー]]|-|
+|''Colorful Days (12 Colors)''|159|[[★×3>難易度表/かんたん/Colorful Days(12 Colors)]]|[[★×4>難易度表/ふつう/Colorful Days(12 Colors)]]|[[★×5>難易度表/むずかしい/Colorful Days(12 Colors)]]|[[★×6>難易度表/おに/Colorful Days(12 Colors)]]|-|
+|''Comona''|138|[[★×3>難易度表/かんたん/Comona]]|[[★×5>難易度表/ふつう/Comona]]|[[★×7>難易度表/むずかしい/Comona]]|[[★×9>難易度表/おに/Comona]]|-|
+|''conflict''|160|[[★×4>難易度表/かんたん/conflict]]|[[★×5>難易度表/ふつう/conflict]]|[[★×7>難易度表/むずかしい/conflict]]|[[★×9>難易度表/おに/conflict]]|-|
+|''Connected World''|160|[[★×4>難易度表/かんたん/Connected World]]|[[★×5>難易度表/ふつう/Connected World]]|[[★×5>難易度表/むずかしい/Connected World]]|[[★×8>難易度表/おに/Connected World]]|-|
+|''Coquette''|200|[[★×5>難易度表/かんたん/Coquette]]|[[★×7>難易度表/ふつう/Coquette]]|[[★×8>難易度表/むずかしい/Coquette]]|[[★×10>難易度表/おに/Coquette]]|-|
+|''crossing field''|179|[[★×2>難易度表/かんたん/crossing field]]|[[★×4>難易度表/ふつう/crossing field]]|[[★×4>難易度表/むずかしい/crossing field]]|[[★×6>難易度表/おに/crossing field]]|-|
+|''Cry Baby''|100|[[★×2>難易度表/かんたん/Cry Baby]]|[[★×3>難易度表/ふつう/Cry Baby]]|[[★×5>難易度表/むずかしい/Cry Baby]]|[[★×8>難易度表/おに/Cry Baby]]|-|
+|''CYBERgenicALICE''|185|[[★×4>難易度表/かんたん/CYBERgenicALICE]]|[[★×5>難易度表/ふつう/CYBERgenicALICE]]|[[★×6>難易度表/むずかしい/CYBERgenicALICE]]|[[★×9>難易度表/おに/CYBERgenicALICE]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''D''(全 56 曲)&aname(DDD);|
+|''DADDY MULK''|152.59|[[★×4>難易度表/かんたん/DADDY MULK]]|[[★×6>難易度表/ふつう/DADDY MULK]]|[[★×7>難易度表/むずかしい/DADDY MULK]]|[[★×8>難易度表/おに/DADDY MULK]]|-|
+|''DANCE!おジャ魔女''|152|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DANCE!おジャ魔女]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/DANCE!おジャ魔女]]|BGCOLOR(#ccc):[[★×2>難易度表/むずかしい/DANCE!おジャ魔女]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/DANCE!おジャ魔女]]|-|
+|''DANCE2 feat.ソイソース''|140|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DANCE2 feat.ソイソース]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/DANCE2 feat.ソイソース]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/DANCE2 feat.ソイソース]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/DANCE2 feat.ソイソース]]|-|
+|''Dance My Generation''|133|[[★×2>難易度表/かんたん/Dance My Generation]]|[[★×3>難易度表/ふつう/Dance My Generation]]|[[★×6>難易度表/むずかしい/Dance My Generation]]|[[★×7>難易度表/おに/Dance My Generation]]|[[★×7>難易度表/おに/Dance My Generation]]|
+|''DANCE MONKEY''|98|[[★×2>難易度表/かんたん/DANCE MONKEY]]|[[★×2>難易度表/ふつう/DANCE MONKEY]]|[[★×5>難易度表/むずかしい/DANCE MONKEY]]|[[★×7>難易度表/おに/DANCE MONKEY]]|-|
+|''dance storm''|190|[[★×4>難易度表/かんたん/dance storm]]|[[★×6>難易度表/ふつう/dance storm]]|[[★×6>難易度表/むずかしい/dance storm]]|[[★×7>難易度表/おに/dance storm]]|[[★×9>難易度表/おに/dance storm(裏譜面)]]|
+|''Dang Dang''|183|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/Dang Dang]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Dang Dang]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Dang Dang]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Dang Dang]]|-|
+|''DANZEN! ふたりはプリキュア''|167|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DANZEN! ふたりはプリキュア]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/DANZEN! ふたりはプリキュア]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/DANZEN! ふたりはプリキュア]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/DANZEN! ふたりはプリキュア]]|-|
+|''DANZEN! ふたりはプリキュア(Ver.Max Heart)''|~|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/DANZEN! ふたりはプリキュア (Ver.Max Heart)]]|-|
+|''DANZEN! ふたりはプリキュア〜唯一無二の光たち〜''|168|[[★×1>難易度表/かんたん/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|[[★×2>難易度表/ふつう/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|[[★×4>難易度表/むずかしい/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|[[★×6>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|[[★×5>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜(裏譜面)]]|
+|''Darling''|132.1|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Darling]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Darling]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Darling]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Darling]]|-|
+|''database feat.TAKUMA(10-FEET)''|177|[[★×4>難易度表/かんたん/database feat.TAKUMA(10-FEET)]]|[[★×6>難易度表/ふつう/database feat.TAKUMA(10-FEET)]]|[[★×6>難易度表/むずかしい/database feat.TAKUMA(10-FEET)]]|[[★×7>難易度表/おに/database feat.TAKUMA(10-FEET)]]|-|
+|''DAYBREAK'S BELL''|156|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DAYBREAK'S BELL]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/DAYBREAK'S BELL]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/DAYBREAK'S BELL]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/DAYBREAK'S BELL]]|-|
+|''DAY×DAY''|193|[[★×4>難易度表/かんたん/DAY×DAY]]|[[★×5>難易度表/ふつう/DAY×DAY]]|[[★×6>難易度表/むずかしい/DAY×DAY]]|[[★×8>難易度表/おに/DAY×DAY]]|-|
+|''Day by Day!''|161|[[★×3>難易度表/かんたん/Day by Day!]]|[[★×5>難易度表/ふつう/Day by Day!]]|[[★×7>難易度表/むずかしい/Day by Day!]]|[[★×8>難易度表/おに/Day by Day!]]|-|
+|''Daydream caf&eacute;''|150|[[★×3>難易度表/かんたん/Daydream cafe]]|[[★×5>難易度表/ふつう/Daydream cafe]]|[[★×6>難易度表/むずかしい/Daydream cafe]]|[[★×7>難易度表/おに/Daydream cafe]]|-|
+|''Day of the future''|158|[[★×3>難易度表/かんたん/Day of the future]]|[[★×4>難易度表/ふつう/Day of the future]]|[[★×5>難易度表/むずかしい/Day of the future]]|[[★×9>難易度表/おに/Day of the future]]|-|
+|''DDU-DU DDU-DU''|140|[[★×2>難易度表/かんたん/DDU-DU DDU-DU]]|[[★×2>難易度表/ふつう/DDU-DU DDU-DU]]|[[★×4>難易度表/むずかしい/DDU-DU DDU-DU]]|[[★×7>難易度表/おに/DDU-DU DDU-DU]]|-|
+|''DEBSTEP!''|130※|[[★×5>難易度表/かんたん/DEBSTEP!]]|[[★×7>難易度表/ふつう/DEBSTEP!]]|[[★×8>難易度表/むずかしい/DEBSTEP!]]|[[★×10>難易度表/おに/DEBSTEP!]]|-|
+|''Dejavina (Japanese ver.)''|123.33-128|[[★×3>難易度表/かんたん/Dejavina (Japanese ver.)]]|[[★×4>難易度表/ふつう/Dejavina (Japanese ver.)]]|[[★×5>難易度表/むずかしい/Dejavina (Japanese ver.)]]|[[★×8>難易度表/おに/Dejavina (Japanese ver.)]]|-|
+|''DESERT STORM''|138※|[[★×4>難易度表/かんたん/DESERT STORM]]|[[★×5>難易度表/ふつう/DESERT STORM]]|[[★×6>難易度表/むずかしい/DESERT STORM]]|[[★×8>難易度表/おに/DESERT STORM]]|-|
+|''Desire''|122※|[[★×3>難易度表/かんたん/Desire]]|[[★×3>難易度表/ふつう/Desire]]|[[★×7>難易度表/むずかしい/Desire]]|[[★×8>難易度表/おに/Desire]]|-|
+|''DIAMOND''|147|[[★×3>難易度表/かんたん/DIAMOND]]|[[★×4>難易度表/ふつう/DIAMOND]]|[[★×5>難易度表/むずかしい/DIAMOND]]|[[★×7>難易度表/おに/DIAMOND]]|-|
+|''DIAMONDS -ダイアモンド-''|111|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DIAMONDS -ダイアモンド-]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/DIAMONDS -ダイアモンド-]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/DIAMONDS -ダイアモンド-]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/DIAMONDS -ダイアモンド-]]|-|
+|''DIGITAL HORIZON''|154|[[★×4>難易度表/かんたん/DIGITAL HORIZON]]|[[★×6>難易度表/ふつう/DIGITAL HORIZON]]|[[★×7>難易度表/むずかしい/DIGITAL HORIZON]]|[[★×9>難易度表/おに/DIGITAL HORIZON]]|-|
+|''DIMENSIONS''|252※|[[★×4>難易度表/かんたん/DIMENSIONS]]|[[★×6>難易度表/ふつう/DIMENSIONS]]|[[★×8>難易度表/むずかしい/DIMENSIONS]]|[[★×9>難易度表/おに/DIMENSIONS]]|-|
+|''DiSCOVER THE FUTURE''|180|[[★×2>難易度表/かんたん/DiSCOVER THE FUTURE]]|[[★×4>難易度表/ふつう/DiSCOVER THE FUTURE]]|[[★×4>難易度表/むずかしい/DiSCOVER THE FUTURE]]|[[★×5>難易度表/おに/DiSCOVER THE FUTURE]]|-|
+|''distance''|198.5|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/distance]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/distance]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/distance]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/distance]]|-|
+|''Diver''|136|[[★×3>難易度表/かんたん/Diver]]|[[★×5>難易度表/ふつう/Diver]]|[[★×6>難易度表/むずかしい/Diver]]|[[★×9>難易度表/おに/Diver]]|-|
+|''Dive to Blue''|72.74-186|[[★×2>難易度表/かんたん/Dive to Blue]]|[[★×2>難易度表/ふつう/Dive to Blue]]|[[★×3>難易度表/むずかしい/Dive to Blue]]|[[★×8>難易度表/おに/Dive to Blue]]|-|
+|''DIVE TO WORLD''|147|[[★×3>難易度表/かんたん/DIVE TO WORLD]]|[[★×5>難易度表/ふつう/DIVE TO WORLD]]|[[★×5>難易度表/むずかしい/DIVE TO WORLD]]|[[★×9>難易度表/おに/DIVE TO WORLD]]|-|
+|''Diving Drive''|193|[[★×5>難易度表/かんたん/Diving Drive]]|[[★×7>難易度表/ふつう/Diving Drive]]|[[★×8>難易度表/むずかしい/Diving Drive]]|[[★×10>難易度表/おに/Diving Drive]]|-|
+|''Do-Dai''|171|[[★×4>難易度表/かんたん/Do-Dai]]|[[★×5>難易度表/ふつう/Do-Dai]]|[[★×5>難易度表/むずかしい/Do-Dai]]|[[★×7>難易度表/おに/Do-Dai]]|-|
+|''Dogbite''|195|[[★×4>難易度表/かんたん/Dogbite]]|[[★×6>難易度表/ふつう/Dogbite]]|[[★×7>難易度表/むずかしい/Dogbite]]|[[★×10>難易度表/おに/Dogbite]]|-|
+|''Do it! Now''|96|BGCOLOR(#ccc):[[★×1>難易度表/かんたん/Do it! Now]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Do it! Now]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/Do it! Now]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/Do it! Now]]|-|
+|''Dokkin◇魔法つかいプリキュア！''|176|[[★×1>難易度表/かんたん/Dokkin 魔法つかいプリキュア！]]|[[★×2>難易度表/ふつう/Dokkin 魔法つかいプリキュア！]]|[[★×4>難易度表/むずかしい/Dokkin 魔法つかいプリキュア！]]|[[★×5>難易度表/おに/Dokkin 魔法つかいプリキュア！]]|-|
+|''Donder Time''|120|[[★×4>難易度表/かんたん/Donder Time]]|[[★×6>難易度表/ふつう/Donder Time]]|[[★×6>難易度表/むずかしい/Donder Time]]|[[★×8>難易度表/おに/Donder Time]]|-|
+|''DON'T CUT''|170|[[★×4>難易度表/かんたん/DON'T CUT]]|[[★×7>難易度表/ふつう/DON'T CUT]]|[[★×8>難易度表/むずかしい/DON'T CUT]]|[[★×8>難易度表/おに/DON'T CUT]]|[[★×9>難易度表/おに/DON'T CUT(裏譜面)]]|
+|''Don't say "lazy"''|45.25-181|[[★×3>難易度表/かんたん/Don't say ”lazy”]]|[[★×4>難易度表/ふつう/Don't say ”lazy”]]|[[★×5>難易度表/むずかしい/Don't say ”lazy”]]|[[★×7>難易度表/おに/Don't say ”lazy”]]|-|
+|''Don't Stop the Game''|174※|[[★×5>難易度表/かんたん/Don't Stop the Game]]|[[★×7>難易度表/ふつう/Don't Stop the Game]]|[[★×8>難易度表/むずかしい/Don't Stop the Game]]|[[★×10>難易度表/おに/Don't Stop the Game]]|-|
+|''Doom Noiz''|160※|[[★×5>難易度表/かんたん/Doom Noiz]]|[[★×6>難易度表/ふつう/Doom Noiz]]|[[★×8>難易度表/むずかしい/Doom Noiz]]|[[★×10>難易度表/おに/Doom Noiz]]|-|
+|''Doppelgangers''|52-208|[[★×4>難易度表/かんたん/Doppelgangers]]|[[★×6>難易度表/ふつう/Doppelgangers]]|[[★×6>難易度表/むずかしい/Doppelgangers]]|[[★×8>難易度表/おに/Doppelgangers]]|[[★×10>難易度表/おに/Doppelgangers(裏譜面)]]|
+|''Dragon Night''|124※|[[★×3>難易度表/かんたん/Dragon Night]]|[[★×4>難易度表/ふつう/Dragon Night]]|[[★×5>難易度表/むずかしい/Dragon Night]]|[[★×8>難易度表/おに/Dragon Night]]|-|
+|''Dragon Soul''|162|[[★×2>難易度表/かんたん/Dragon Soul]]|[[★×1>難易度表/ふつう/Dragon Soul]]|[[★×4>難易度表/むずかしい/Dragon Soul]]|[[★×6>難易度表/おに/Dragon Soul]]|-|
+|''Dragoon''|200|[[★×4>難易度表/かんたん/Dragoon]]|[[★×6>難易度表/ふつう/Dragoon]]|[[★×7>難易度表/むずかしい/Dragoon]]|[[★×9>難易度表/おに/Dragoon]]|-|
+|''Dreadnought''|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|
+|''DREAMERS' PARADISE''|126|[[★×3>難易度表/かんたん/DREAMERS' PARADISE]]|[[★×4>難易度表/ふつう/DREAMERS' PARADISE]]|[[★×6>難易度表/むずかしい/DREAMERS' PARADISE]]|[[★×7>難易度表/おに/DREAMERS' PARADISE]]|-|
+|''Dreamin' World''|118|[[★×2>難易度表/かんたん/Dreamin' World]]|[[★×3>難易度表/ふつう/Dreamin' World]]|[[★×5>難易度表/むずかしい/Dreamin' World]]|[[★×6>難易度表/おに/Dreamin' World]]|-|
+|''Dream Tide''&br;SIZE(11){　　-夢の潮流-}|141|[[★×3>難易度表/かんたん/Dream Tide]]|[[★×5>難易度表/ふつう/Dream Tide]]|[[★×7>難易度表/むずかしい/Dream Tide]]|[[★×8>難易度表/おに/Dream Tide]]|-|
+|''DRIVE A LIVE''|140|[[★×3>難易度表/かんたん/DRIVE A LIVE]]|[[★×4>難易度表/ふつう/DRIVE A LIVE]]|[[★×5>難易度表/むずかしい/DRIVE A LIVE]]|[[★×7>難易度表/おに/DRIVE A LIVE]]|-|
+|''Dr.WILY STAGE 1''|110-180|[[★×4>難易度表/かんたん/Dr.WILY STAGE 1]]|[[★×6>難易度表/ふつう/Dr.WILY STAGE 1]]|[[★×7>難易度表/むずかしい/Dr.WILY STAGE 1]]|[[★×8>難易度表/おに/Dr.WILY STAGE 1]]|-|
+|''D's Adventure Note''|174※|[[★×5>難易度表/かんたん/D's Adventure Note]]|[[★×7>難易度表/ふつう/D's Adventure Note]]|[[★×8>難易度表/むずかしい/D's Adventure Note]]|[[★×10>難易度表/おに/D's Adventure Note]]|-|
+|''D-tecnoLife''|168|[[★×4>難易度表/かんたん/D-tecnoLife]]|[[★×5>難易度表/ふつう/D-tecnoLife]]|[[★×6>難易度表/むずかしい/D-tecnoLife]]|[[★×8>難易度表/おに/D-tecnoLife]]|-|
+|''Dual Moon''|145※|[[★×4>難易度表/かんたん/Dual Moon]]|[[★×6>難易度表/ふつう/Dual Moon]]|[[★×7>難易度表/むずかしい/Dual Moon]]|[[★×9>難易度表/おに/Dual Moon]]|-|
+|''Du-Du-Wa DO IT!!''|83-210|[[★×2>難易度表/かんたん/Du-Du-Wa DO IT!!]]|[[★×3>難易度表/ふつう/Du-Du-Wa DO IT!!]]|[[★×7>難易度表/むずかしい/Du-Du-Wa DO IT!!]]|[[★×7>難易度表/おに/Du-Du-Wa DO IT!!]]|-|
+|''D絶対！SAMURAIインザレイン''|220|[[★×3>難易度表/かんたん/D絶対！SAMURAIインザレイン]]|[[★×4>難易度表/ふつう/D絶対！SAMURAIインザレイン]]|[[★×6>難易度表/むずかしい/D絶対！SAMURAIインザレイン]]|[[★×8>難易度表/おに/D絶対！SAMURAIインザレイン]]|[[★×10>難易度表/おに/D絶対！SAMURAIインザレイン(裏譜面)]]|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''E''(全 16 曲)&aname(EEE);|
+|''EAT'EM UP!''|152|[[★×3>難易度表/かんたん/EAT'EM UP!]]|[[★×5>難易度表/ふつう/EAT'EM UP!]]|[[★×6>難易度表/むずかしい/EAT'EM UP!]]|[[★×8>難易度表/おに/EAT'EM UP!]]|-|
+|''edeN''|145|[[★×3>難易度表/かんたん/edeN]]|[[★×5>難易度表/ふつう/edeN]]|[[★×6>難易度表/むずかしい/edeN]]|[[★×8>難易度表/おに/edeN]]|-|
+|''EDY ‐エレクトリカルダンシングヨガ‐''|133|[[★×4>難易度表/かんたん/EDY -エレクトリカルダンシングヨガ-]]|[[★×6>難易度表/ふつう/EDY -エレクトリカルダンシングヨガ-]]|[[★×7>難易度表/むずかしい/EDY -エレクトリカルダンシングヨガ-]]|[[★×9>難易度表/おに/EDY -エレクトリカルダンシングヨガ-]]|-|
+|''EkiBEN2000''|194|[[★×5>難易度表/かんたん/EkiBEN2000]]|[[★×7>難易度表/ふつう/EkiBEN2000]]|[[★×8>難易度表/むずかしい/EkiBEN2000]]|[[★×10>難易度表/おに/EkiBEN2000]]|-|
+|''Emma''|166.5-333|[[★×3>難易度表/かんたん/Emma]]|[[★×5>難易度表/ふつう/Emma]]|[[★×5>難易度表/むずかしい/Emma]]|[[★×7>難易度表/おに/Emma]]|-|
+|''Endless Seeker''|163※|[[★×3>難易度表/かんたん/Endless Seeker]]|[[★×5>難易度表/ふつう/Endless Seeker]]|[[★×6>難易度表/むずかしい/Endless Seeker]]|[[★×8>難易度表/おに/Endless Seeker]]|-|
+|''ESCAPE FROM CRISIS''|180|[[★×5>難易度表/かんたん/ESCAPE FROM CRISIS]]|[[★×6>難易度表/ふつう/ESCAPE FROM CRISIS]]|[[★×6>難易度表/むずかしい/ESCAPE FROM CRISIS]]|[[★×8>難易度表/おに/ESCAPE FROM CRISIS]]|[[★×10>難易度表/おに/ESCAPE FROM CRISIS(裏譜面)]]|
+|''ETERNAL BLAZE''|103-156※|[[★×3>難易度表/かんたん/ETERNAL BLAZE]]|[[★×3>難易度表/ふつう/ETERNAL BLAZE]]|[[★×5>難易度表/むずかしい/ETERNAL BLAZE]]|[[★×7>難易度表/おに/ETERNAL BLAZE]]|-|
+|''Eternal bond''|170|[[★×5>難易度表/かんたん/Eternal bond]]|[[★×6>難易度表/ふつう/Eternal bond]]|[[★×8>難易度表/むずかしい/Eternal bond]]|[[★×8>難易度表/おに/Eternal bond]]|-|
+|''Eter&#78;al Ring''|224|[[★×4>難易度表/かんたん/EterNal Ring]]|[[★×6>難易度表/ふつう/EterNal Ring]]|[[★×7>難易度表/むずかしい/EterNal Ring]]|[[★×10>難易度表/おに/EterNal Ring]]|-|
+|''Everyday、カチューシャ''|172.04|[[★×3>難易度表/かんたん/Everyday、カチューシャ]]|[[★×2>難易度表/ふつう/Everyday、カチューシャ]]|[[★×4>難易度表/むずかしい/Everyday、カチューシャ]]|[[★×6>難易度表/おに/Everyday、カチューシャ]]|-|
+|''Evidence of evil''|180|[[★×5>難易度表/かんたん/Evidence of evil]]|[[★×7>難易度表/ふつう/Evidence of evil]]|[[★×8>難易度表/むずかしい/Evidence of evil]]|[[★×10>難易度表/おに/Evidence of evil]]|-|
+|''ex寅 Trap!!''|150|[[★×4>難易度表/かんたん/ex寅 Trap!!]]|[[★×6>難易度表/ふつう/ex寅 Trap!!]]|[[★×7>難易度表/むずかしい/ex寅 Trap!!]]|[[★×10>難易度表/おに/ex寅 Trap!!]]|-|
+|''EXCITE''|151|[[★×2>難易度表/かんたん/EXCITE]]|[[★×3>難易度表/ふつう/EXCITE]]|[[★×5>難易度表/むずかしい/EXCITE]]|[[★×7>難易度表/おに/EXCITE]]|-|
+|''Extreme MGG★★★''|120-240|[[★×3>難易度表/かんたん/Extreme MGG★★★]]|[[★×3>難易度表/ふつう/Extreme MGG★★★]]|[[★×3>難易度表/むずかしい/Extreme MGG★★★]]|[[★×5>難易度表/おに/Extreme MGG★★★]]|[[★×9>難易度表/おに/Extreme MGG★★★(裏譜面)]]|
+|''EZ DO DANCE''|140|[[★×3>難易度表/かんたん/EZ DO DANCE]]|[[★×4>難易度表/ふつう/EZ DO DANCE]]|[[★×6>難易度表/むずかしい/EZ DO DANCE]]|[[★×8>難易度表/おに/EZ DO DANCE]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''F''(全 24 曲)&aname(FFF);|
+|''FAITH''|144|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/FAITH]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/FAITH]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/FAITH]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/FAITH]]|-|
+|''FANTASTIC BABY''|130|[[★×3>難易度表/かんたん/FANTASTIC BABY]]|[[★×3>難易度表/ふつう/FANTASTIC BABY]]|[[★×5>難易度表/むずかしい/FANTASTIC BABY]]|[[★×7>難易度表/おに/FANTASTIC BABY]]|-|
+|''Favorite Days''|140|[[★×2>難易度表/かんたん/Favorite Days]]|[[★×3>難易度表/ふつう/Favorite Days]]|[[★×7>難易度表/むずかしい/Favorite Days]]|[[★×8>難易度表/おに/Favorite Days]]|-|
+|''Feed A''|262※|[[★×4>難易度表/かんたん/Feed A]]|[[★×6>難易度表/ふつう/Feed A]]|[[★×7>難易度表/むずかしい/Feed A]]|[[★×9>難易度表/おに/Feed A]]|-|
+|''Feel fine!''|151|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Feel fine!]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/Feel fine!]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Feel fine!]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Feel fine!]]|-|
+|''Feel Special''|129|[[★×2>難易度表/かんたん/Feel Special]]|[[★×4>難易度表/ふつう/Feel Special]]|[[★×5>難易度表/むずかしい/Feel Special]]|[[★×7>難易度表/おに/Feel Special]]|-|
+|''Fighter's Honor(Flying Remix)''|146|[[★×3>難易度表/かんたん/Fighter's Honor (Flying Remix)]]|[[★×3>難易度表/ふつう/Fighter's Honor (Flying Remix)]]|[[★×4>難易度表/むずかしい/Fighter's Honor (Flying Remix)]]|[[★×7>難易度表/おに/Fighter's Honor (Flying Remix)]]|-|
+|''Fight the Fanatics''|156|[[★×4>難易度表/かんたん/Fight the Fanatics]]|[[★×5>難易度表/ふつう/Fight the Fanatics]]|[[★×7>難易度表/むずかしい/Fight the Fanatics]]|[[★×8>難易度表/おに/Fight the Fanatics]]|-|
+|''FIREWORKS''|113|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/FIREWORKS]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/FIREWORKS]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/FIREWORKS]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/FIREWORKS]]|-|
+|''FLOWER''|346|[[★×5>難易度表/かんたん/FLOWER]]|[[★×7>難易度表/ふつう/FLOWER]]|[[★×8>難易度表/むずかしい/FLOWER]]|[[★×9>難易度表/おに/FLOWER]]|[[★×10>難易度表/おに/FLOWER(裏譜面)]]|
+|''Flower Song''|110|[[★×2>難易度表/かんたん/Flower Song]]|[[★×3>難易度表/ふつう/Flower Song]]|[[★×5>難易度表/むずかしい/Flower Song]]|[[★×5>難易度表/おに/Flower Song]]|-|
+|''Fly again!''|200|[[★×2>難易度表/かんたん/Fly again!]]|[[★×3>難易度表/ふつう/Fly again!]]|[[★×4>難易度表/むずかしい/Fly again!]]|[[★×7>難易度表/おに/Fly again!]]|-|
+|''Fly away''|200|[[★×4>難易度表/かんたん/Fly away]]|[[★×5>難易度表/ふつう/Fly away]]|[[★×5>難易度表/むずかしい/Fly away]]|[[★×7>難易度表/おに/Fly away]]|-|
+|''Follow Me''|143|[[★×3>難易度表/かんたん/Follow Me]]|[[★×5>難易度表/ふつう/Follow Me]]|[[★×6>難易度表/むずかしい/Follow Me]]|[[★×7>難易度表/おに/Follow Me]]|-|
+|''&#x0046;ooFooカセット''|175|[[★×4>難易度表/かんたん/FooFooカセット]]|[[★×6>難易度表/ふつう/FooFooカセット]]|[[★×6>難易度表/むずかしい/FooFooカセット]]|[[★×9>難易度表/おに/FooFooカセット]]|-|
+|''FREEDOM DiVE↓''|222.22|[[★×4>難易度表/かんたん/FREEDOM DiVE↓]]|[[★×6>難易度表/ふつう/FREEDOM DiVE↓]]|[[★×7>難易度表/むずかしい/FREEDOM DiVE↓]]|[[★×10>難易度表/おに/FREEDOM DiVE↓]]|-|
+|''Freeway3234''|145※|[[★×4>難易度表/かんたん/Freeway3234]]|[[★×6>難易度表/ふつう/Freeway3234]]|[[★×7>難易度表/むずかしい/Freeway3234]]|[[★×8>難易度表/おに/Freeway3234]]|-|
+|''FUJIN Rumble''|192|[[★×5>難易度表/かんたん/FUJIN Rumble]]|[[★×6>難易度表/ふつう/FUJIN Rumble]]|[[★×8>難易度表/むずかしい/FUJIN Rumble]]|[[★×10>難易度表/おに/FUJIN Rumble]]|-|
+|''Fun!Fun!Fun! 〜夢∞〜''|165|[[★×2>難易度表/かんたん/Fun!Fun!Fun! 〜夢∞〜]]|[[★×3>難易度表/ふつう/Fun!Fun!Fun! 〜夢∞〜]]|[[★×5>難易度表/むずかしい/Fun!Fun!Fun! 〜夢∞〜]]|[[★×6>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|-|
+|''Fun!Fun!★ふぁんたじー''|136|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Fun!Fun!★ふぁんたじー]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/Fun!Fun!★ふぁんたじー]]|BGCOLOR(#ccc):[[★×2>難易度表/むずかしい/Fun!Fun!★ふぁんたじー]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Fun!Fun!★ふぁんたじー]]|-|
+|''FUNKASTIC''|125|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/FUNKASTIC]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/FUNKASTIC]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/FUNKASTIC]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/FUNKASTIC]]|-|
+|''future beat''|143|[[★×4>難易度表/かんたん/future beat]]|[[★×6>難易度表/ふつう/future beat]]|[[★×7>難易度表/むずかしい/future beat]]|[[★×9>難易度表/おに/future beat]]|-|
+|''FUTURE FISH''|163|[[★×3>難易度表/かんたん/FUTURE FISH]]|[[★×5>難易度表/ふつう/FUTURE FISH]]|[[★×5>難易度表/むずかしい/FUTURE FISH]]|[[★×6>難易度表/おに/FUTURE FISH]]|-|
+|''Future Melody - 心から未来へ -''|154|[[★×3>難易度表/かんたん/Future Melody - 心から未来へ -]]|[[★×6>難易度表/ふつう/Future Melody - 心から未来へ -]]|[[★×7>難易度表/むずかしい/Future Melody - 心から未来へ -]]|[[★×8>難易度表/おに/Future Melody - 心から未来へ -]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''G''(全 33 曲)&aname(GGG);|
+|''Galaga'88''|140※|-|BGCOLOR(#ccc):BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Galaga'88]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Galaga'88]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Galaga'88]]|-|
+|''GALAXY EXPRESS 999''|142|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/GALAXY EXPRESS 999]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/GALAXY EXPRESS 999]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/GALAXY EXPRESS 999]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/GALAXY EXPRESS 999]]|-|
+|''Garakuta Doll Play''|256|[[★×4>難易度表/かんたん/Garakuta Doll Play]]|[[★×6>難易度表/ふつう/Garakuta Doll Play]]|[[★×8>難易度表/むずかしい/Garakuta Doll Play]]|[[★×9>難易度表/おに/Garakuta Doll Play]]|[[★×10>難易度表/おに/Garakuta Doll Play(裏譜面)]]|
+|''GAT-TAI''|120-128|[[★×4>難易度表/かんたん/GAT-TAI]]|[[★×5>難易度表/ふつう/GAT-TAI]]|[[★×6>難易度表/むずかしい/GAT-TAI]]|[[★×7>難易度表/おに/GAT-TAI]]|-|
+|''GEEDの証''|158|[[★×3>難易度表/かんたん/GEEDの証]]|[[★×3>難易度表/ふつう/GEEDの証]]|[[★×4>難易度表/むずかしい/GEEDの証]]|[[★×7>難易度表/おに/GEEDの証]]|-|
+|''GERBERA''|205.02|[[★×4>難易度表/かんたん/GERBERA]]|[[★×7>難易度表/ふつう/GERBERA]]|[[★×8>難易度表/むずかしい/GERBERA]]|[[★×10>難易度表/おに/GERBERA]]|-|
+|''GERMINATION''|160-192※|[[★×5>難易度表/かんたん/GERMINATION]]|[[★×6>難易度表/ふつう/GERMINATION]]|[[★×7>難易度表/むずかしい/GERMINATION]]|[[★×7>難易度表/おに/GERMINATION]]|-|
+|''Get Wild''|133|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Get Wild]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Get Wild]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/Get Wild]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Get Wild]]|-|
+|''GLAMOROUS SKY''|150※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/GLAMOROUS SKY]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/GLAMOROUS SKY]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/GLAMOROUS SKY]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/GLAMOROUS SKY]]|-|
+|''Gloria''|222|[[★×5>難易度表/かんたん/Gloria]]|[[★×7>難易度表/ふつう/Gloria]]|[[★×7>難易度表/むずかしい/Gloria]]|[[★×10>難易度表/おに/Gloria]]|-|
+|''GLORIOUS RO@D''|128|[[★×2>難易度表/かんたん/GLORIOUS RO@D]]|[[★×3>難易度表/ふつう/GLORIOUS RO@D]]|[[★×3>難易度表/むずかしい/GLORIOUS RO@D]]|[[★×7>難易度表/おに/GLORIOUS RO@D]]|-|
+|''GO''|130|[[★×2>難易度表/かんたん/GO]]|[[★×4>難易度表/ふつう/GO]]|[[★×5>難易度表/むずかしい/GO]]|[[★×7>難易度表/おに/GO]]|-|
+|''GO!!!''|134|[[★×4>難易度表/かんたん/GO!!!]]|[[★×4>難易度表/ふつう/GO!!!]]|[[★×5>難易度表/むずかしい/GO!!!]]|[[★×8>難易度表/おに/GO!!!]]|-|
+|''God knows...''|150※|[[★×3>難易度表/かんたん/God knows...]]|[[★×4>難易度表/ふつう/God knows...]]|[[★×4>難易度表/むずかしい/God knows...]]|[[★×7>難易度表/おに/God knows...]]|[[★×9>難易度表/おに/God knows...(裏譜面)]]|
+|''God Ray''|73.5-172|[[★×5>難易度表/かんたん/God Ray]]|[[★×6>難易度表/ふつう/God Ray]]|[[★×7>難易度表/むずかしい/God Ray]]|[[★×10>難易度表/おに/God Ray]]|-|
+|''GO GET'EM!''|146|[[★×4>難易度表/かんたん/GO GET'EM!]]|[[★×7>難易度表/ふつう/GO GET'EM!]]|[[★×8>難易度表/むずかしい/GO GET'EM!]]|[[★×9>難易度表/おに/GO GET'EM!]]|[[★×9>難易度表/おに/GO GET'EM!(裏譜面)]]|
+|''GO-GO たまごっち！''|135|[[★×1>難易度表/かんたん/GO-GO たまごっち！]]|[[★×2>難易度表/ふつう/GO-GO たまごっち！]]|[[★×4>難易度表/むずかしい/GO-GO たまごっち！]]|[[★×7>難易度表/おに/GO-GO たまごっち！]]|-|
+|''GOIN'!!!''|178|[[★×3>難易度表/かんたん/GOIN’!!!]]|[[★×4>難易度表/ふつう/GOIN’!!!]]|[[★×5>難易度表/むずかしい/GOIN’!!!]]|[[★×6>難易度表/おに/GOIN’!!!]]|[[★×8>難易度表/おに/GOIN’!!!(裏譜面)]]|
+|''GOING TO LUNATEA''|248|[[★×2>難易度表/かんたん/GOING TO LUNATEA]]|[[★×4>難易度表/ふつう/GOING TO LUNATEA]]|[[★×6>難易度表/むずかしい/GOING TO LUNATEA]]|[[★×8>難易度表/おに/GOING TO LUNATEA]]|-|
+|''Gold Armor''|140|[[★×4>難易度表/かんたん/Gold Armor]]|[[★×5>難易度表/ふつう/Gold Armor]]|[[★×6>難易度表/むずかしい/Gold Armor]]|[[★×8>難易度表/おに/Gold Armor]]|-|
+|''Goldfish City''|200|[[★×4>難易度表/かんたん/Goldfish City]]|[[★×7>難易度表/ふつう/Goldfish City]]|[[★×8>難易度表/むずかしい/Goldfish City]]|[[★×10>難易度表/おに/Goldfish City]]|-|
+|''GOLDFINGER'99''|180|-|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/GOLDFINGER'99]]|-|-|-|
+|''GO MY WAY!!''|180※|[[★×3>難易度表/かんたん/GO MY WAY!!]]|[[★×5>難易度表/ふつう/GO MY WAY!!]]|[[★×5>難易度表/むずかしい/GO MY WAY!!]]|[[★×7>難易度表/おに/GO MY WAY!!]]|[[★×7>難易度表/おに/GO MY WAY!!(裏譜面)]]|
+|''GOOD BYE 夏男''|159((おには159-318))|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/GOOD BYE 夏男]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/GOOD BYE 夏男]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/GOOD BYE 夏男]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/GOOD BYE 夏男]]|-|
+|''Good-bye my earth''|106.67-160※|[[★×3>難易度表/かんたん/Good-bye my earth]]|[[★×5>難易度表/ふつう/Good-bye my earth]]|[[★×7>難易度表/むずかしい/Good-bye my earth]]|[[★×8>難易度表/おに/Good-bye my earth]]|-|
+|''GO ON 〜未来へ〜''|133-266|[[★×2>難易度表/かんたん/GO ON 〜未来へ〜]]|[[★×3>難易度表/ふつう/GO ON 〜未来へ〜]]|[[★×5>難易度表/むずかしい/GO ON 〜未来へ〜]]|[[★×8>難易度表/おに/GO ON 〜未来へ〜]]|-|
+|''Got more raves?''|266|[[★×5>難易度表/かんたん/Got more raves?]]|[[★×7>難易度表/ふつう/Got more raves?]]|[[★×8>難易度表/むずかしい/Got more raves?]]|[[★×9>難易度表/おに/Got more raves?]]|[[★×10>難易度表/おに/Got more raves?(裏譜面)]]|
+|''Grip!''|120|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Grip!]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/Grip!]]|BGCOLOR(#ccc):[[★×2>難易度表/むずかしい/Grip!]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/Grip!]]|-|
+|''Grip & Break down !! -達人Edit.-''|160※|[[★×4>難易度表/かんたん/Grip ＆ Break down !! -達人Edit.-]]|[[★×5>難易度表/ふつう/Grip ＆ Break down !! -達人Edit.-]]|[[★×6>難易度表/むずかしい/Grip ＆ Break down !! -達人Edit.-]]|[[★×7>難易度表/おに/Grip ＆ Break down !! -達人Edit.-]]|[[★×9>難易度表/おに/Grip ＆ Break down !! -達人Edit.-(裏譜面)]]|
+|''Groovy Duel''|141※|[[★×3>難易度表/かんたん/Groovy Duel]]|[[★×5>難易度表/ふつう/Groovy Duel]]|[[★×7>難易度表/むずかしい/Groovy Duel]]|[[★×10>難易度表/おに/Groovy Duel]]|-|
+|''Growing of my heart''|125|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Growing of my heart]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Growing of my heart]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Growing of my heart]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Growing of my heart]]|-|
+|''Growing Up''|190|[[★×3>難易度表/かんたん/Growing Up]]|[[★×5>難易度表/ふつう/Growing Up]]|[[★×5>難易度表/むずかしい/Growing Up]]|[[★×6>難易度表/おに/Growing Up]]|-|
+|''G意識過剰''|200|[[★×5>難易度表/かんたん/G意識過剰]]|[[★×6>難易度表/ふつう/G意識過剰]]|[[★×7>難易度表/むずかしい/G意識過剰]]|[[★×9>難易度表/おに/G意識過剰]]|-|
+
+***H〜N [#HN]
+||LEFT:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''H''(全 35 曲)&aname(HHH);|
+|''Hacking to the Gate''|161|[[★×2>難易度表/かんたん/Hacking to the Gate]]|[[★×2>難易度表/ふつう/Hacking to the Gate]]|[[★×3>難易度表/むずかしい/Hacking to the Gate]]|[[★×6>難易度表/おに/Hacking to the Gate]]|-|
+|''Hand Over (Prod. TEMPLIME)''|140|[[★×3>難易度表/かんたん/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/ふつう/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/むずかしい/Hand Over (Prod. TEMPLIME)]]|[[★×9>難易度表/おに/Hand Over (Prod. TEMPLIME)]]|-|
+|''HANDS UP!''|130|[[★×3>難易度表/かんたん/HANDS UP!]]|[[★×5>難易度表/ふつう/HANDS UP!]]|[[★×6>難易度表/むずかしい/HANDS UP!]]|[[★×7>難易度表/おに/HANDS UP!]]|-|
+|''Happy & Peace''|169|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/Happy ＆ Peace]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Happy ＆ Peace]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Happy ＆ Peace]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Happy ＆ Peace]]|-|
+|''Happy Go Lucky! ドキドキ！プリキュア''|170|[[★×2>難易度表/かんたん/Happy Go Lucky! ドキドキ！プリキュア]]|[[★×2>難易度表/ふつう/Happy Go Lucky! ドキドキ！プリキュア]]|[[★×4>難易度表/むずかしい/Happy Go Lucky! ドキドキ！プリキュア]]|[[★×5>難易度表/おに/Happy Go Lucky! ドキドキ！プリキュア]]|-|
+|''HARDCOREノ心得''|47.25-380|[[★×5>難易度表/かんたん/HARDCOREノ心得]]|[[★×7>難易度表/ふつう/HARDCOREノ心得]]|[[★×8>難易度表/むずかしい/HARDCOREノ心得]]|[[★×10>難易度表/おに/HARDCOREノ心得]]|-|
+|''Hard Knock Days''|184|[[★×3>難易度表/かんたん/Hard Knock Days]]|[[★×4>難易度表/ふつう/Hard Knock Days]]|[[★×5>難易度表/むずかしい/Hard Knock Days]]|[[★×6>難易度表/おに/Hard Knock Days]]|-|
+|''Heat Haze Shadow 2''|172|[[★×4>難易度表/かんたん/Heat Haze Shadow 2]]|[[★×6>難易度表/ふつう/Heat Haze Shadow 2]]|[[★×7>難易度表/むずかしい/Heat Haze Shadow 2]]|[[★×9>難易度表/おに/Heat Haze Shadow 2]]|-|
+|''Heavenly Visitor''|188|[[★×3>難易度表/かんたん/Heavenly Visitor]]|[[★×3>難易度表/ふつう/Heavenly Visitor]]|[[★×3>難易度表/むずかしい/Heavenly Visitor]]|[[★×6>難易度表/おに/Heavenly Visitor]]|[[★×9>難易度表/おに/Heavenly Visitor(裏譜面)]]|
+|''Heaven's Rider''|150|[[★×5>難易度表/かんたん/Heaven's Rider]]|[[★×6>難易度表/ふつう/Heaven's Rider]]|[[★×8>難易度表/むずかしい/Heaven's Rider]]|[[★×9>難易度表/おに/Heaven's Rider]]|-|
+|''“HELLO!!”''|173|[[★×3>難易度表/かんたん/“HELLO!!”]]|[[★×4>難易度表/ふつう/“HELLO!!”]]|[[★×5>難易度表/むずかしい/“HELLO!!”]]|[[★×8>難易度表/おに/“HELLO!!”]]|-|
+|''Hello, Morning''|160|[[★×3>難易度表/かんたん/Hello, Morning]]|[[★×4>難易度表/ふつう/Hello, Morning]]|[[★×5>難易度表/むずかしい/Hello, Morning]]|[[★×7>難易度表/おに/Hello, Morning]]|[[★×8>難易度表/おに/Hello, Morning(裏譜面)]]|
+|''Hello, Mr.JOKER''|185-275|[[★×4>難易度表/かんたん/Hello, Mr.JOKER]]|[[★×7>難易度表/ふつう/Hello, Mr.JOKER]]|[[★×8>難易度表/むずかしい/Hello, Mr.JOKER]]|[[★×10>難易度表/おに/Hello, Mr.JOKER]]|-|
+|''Hello,world!''|211|[[★×4>難易度表/かんたん/Hello,world!]]|[[★×5>難易度表/ふつう/Hello,world!]]|[[★×6>難易度表/むずかしい/Hello,world!]]|[[★×7>難易度表/おに/Hello,world!]]|-|
+|''Hello, Worldooon!!''|256|[[★×3>難易度表/かんたん/Hello, Worldooon!!]]|[[★×5>難易度表/ふつう/Hello, Worldooon!!]]|[[★×6>難易度表/むずかしい/Hello, Worldooon!!]]|[[★×7>難易度表/おに/Hello, Worldooon!!]]|-|
+|''Help me, ERINNNNNN!!''|183※|[[★×3>難易度表/かんたん/Help me, ERINNNNNN!!]]|[[★×4>難易度表/ふつう/Help me, ERINNNNNN!!]]|[[★×7>難易度表/むずかしい/Help me, ERINNNNNN!!]]|[[★×8>難易度表/おに/Help me, ERINNNNNN!!]]|-|
+|''Here I Am''|134※|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Here I Am]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Here I Am]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Here I Am]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Here I Am]]|-|
+|''Hero''|98-125|[[★×2>難易度表/かんたん/Hero]]|[[★×3>難易度表/ふつう/Hero]]|[[★×3>難易度表/むずかしい/Hero]]|[[★×7>難易度表/おに/Hero]]|-|
+|''「HERO」 -Main Title-''|130|[[★×3>難易度表/かんたん/「HERO」 -Main Title-]]|[[★×4>難易度表/ふつう/「HERO」 -Main Title-]]|[[★×6>難易度表/むずかしい/「HERO」 -Main Title-]]|[[★×8>難易度表/おに/「HERO」 -Main Title-]]|-|
+|''Hero's Come Back!!''|104|[[★×3>難易度表/かんたん/Hero's Come Back!!]]|[[★×4>難易度表/ふつう/Hero's Come Back!!]]|[[★×6>難易度表/むずかしい/Hero's Come Back!!]]|[[★×7>難易度表/おに/Hero's Come Back!!]]|-|
+|''He's A Pirate''|140|[[★×4>難易度表/かんたん/He's a Pirate]]|[[★×5>難易度表/ふつう/He's a Pirate]]|[[★×7>難易度表/むずかしい/He's a Pirate]]|[[★×7>難易度表/おに/He's a Pirate]]|-|
+|''Highschool love!''|138|[[★×3>難易度表/かんたん/Highschool love!]]|[[★×4>難易度表/ふつう/Highschool love!]]|[[★×6>難易度表/むずかしい/Highschool love!]]|[[★×7>難易度表/おに/Highschool love!]]|-|
+|''Highschool&#9825;love''|128|[[★×3>難易度表/かんたん/Highschool・love]]|[[★×4>難易度表/ふつう/Highschool・love]]|[[★×5>難易度表/むずかしい/Highschool・love]]|[[★×6>難易度表/おに/Highschool・love]]|-|
+|''HIMAWARI HAPPY''|114-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|-|
+|''Holding Hands''|146|[[★×3>難易度表/かんたん/Holding Hands]]|[[★×5>難易度表/ふつう/Holding Hands]]|[[★×6>難易度表/むずかしい/Holding Hands]]|[[★×7>難易度表/おに/Holding Hands]]|-|
+|''Hold me tight''|155|[[★×4>難易度表/かんたん/Hold me tight]]|[[★×6>難易度表/ふつう/Hold me tight]]|[[★×6>難易度表/むずかしい/Hold me tight]]|[[★×8>難易度表/おに/Hold me tight]]|-|
+|''Hole in the wall''|140|[[★×4>難易度表/かんたん/Hole in the wall]]|[[★×6>難易度表/ふつう/Hole in the wall]]|[[★×7>難易度表/むずかしい/Hole in the wall]]|[[★×8>難易度表/おに/Hole in the wall]]|-|
+|''Honey Heartbeat 〜10 Stars Mix〜''|142-284※|[[★×3>難易度表/かんたん/Honey Heartbeat 〜10 Stars Mix〜]]|[[★×4>難易度表/ふつう/Honey Heartbeat 〜10 Stars Mix〜]]|[[★×7>難易度表/むずかしい/Honey Heartbeat 〜10 Stars Mix〜]]|[[★×9>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]|[[★×10>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜(裏譜面)]]|
+|''Hope''|135.75-140|[[★×2>難易度表/かんたん/Hope]]|[[★×3>難易度表/ふつう/Hope]]|[[★×5>難易度表/むずかしい/Hope]]|[[★×7>難易度表/おに/Hope]]|-|
+|''HOT LIMIT''|138|[[★×3>難易度表/かんたん/HOT LIMIT]]|[[★×4>難易度表/ふつう/HOT LIMIT]]|[[★×6>難易度表/むずかしい/HOT LIMIT]]|[[★×7>難易度表/おに/HOT LIMIT]]|-|
+|''HOTEL PACIFIC''|158|:-|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/HOTEL PACIFIC]]|-|-|-|
+|''HOWEVER''|80-87※|[[★×2>難易度表/かんたん/HOWEVER]]|[[★×3>難易度表/ふつう/HOWEVER]]|[[★×3>難易度表/むずかしい/HOWEVER]]|[[★×6>難易度表/おに/HOWEVER]]|-|
+|''Howling''|100-200|[[★×3>難易度表/かんたん/Howling]]|[[★×3>難易度表/ふつう/Howling]]|[[★×5>難易度表/むずかしい/Howling]]|[[★×7>難易度表/おに/Howling]]|-|
+|''Hurtling Boys''|195|[[★×5>難易度表/かんたん/Hurtling Boys]]|[[★×7>難易度表/ふつう/Hurtling Boys]]|[[★×8>難易度表/むずかしい/Hurtling Boys]]|[[★×10>難易度表/おに/Hurtling Boys]]|-|
+|''Hyper Bass (feat. Yunomi)''|178|[[★×2>難易度表/かんたん/Hyper Bass (feat. Yunomi)]]|[[★×2>難易度表/ふつう/Hyper Bass (feat. Yunomi)]]|[[★×5>難易度表/むずかしい/Hyper Bass (feat. Yunomi)]]|[[★×9>難易度表/おに/Hyper Bass (feat. Yunomi)]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''I''(全 23 曲)&aname(III);|
+|''ideal white''|180|[[★×4>難易度表/かんたん/ideal white]]|[[★×5>難易度表/ふつう/ideal white]]|[[★×6>難易度表/むずかしい/ideal white]]|[[★×7>難易度表/おに/ideal white]]|-|
+|''IDOL POWER RAINBOW''|160|[[★×3>難易度表/かんたん/IDOL POWER RAINBOW]]|[[★×4>難易度表/ふつう/IDOL POWER RAINBOW]]|[[★×4>難易度表/むずかしい/IDOL POWER RAINBOW]]|[[★×6>難易度表/おに/IDOL POWER RAINBOW]]|-|
+|''Ignis Danse''|61.9-246|[[★×4>難易度表/かんたん/Ignis Danse]]|[[★×7>難易度表/ふつう/Ignis Danse]]|[[★×8>難易度表/むずかしい/Ignis Danse]]|[[★×10>難易度表/おに/Ignis Danse]]|-|
+|''ignited-イグナイテッド-''|155|[[★×4>難易度表/かんたん/ignited-イグナイテッド-]]|[[★×4>難易度表/ふつう/ignited-イグナイテッド-]]|[[★×5>難易度表/むずかしい/ignited-イグナイテッド-]]|[[★×7>難易度表/おに/ignited-イグナイテッド-]]|-|
+|''I LOVE...''|86|[[★×2>難易度表/かんたん/I LOVE...]]|[[★×3>難易度表/ふつう/I LOVE...]]|[[★×4>難易度表/むずかしい/I LOVE...]]|[[★×7>難易度表/おに/I LOVE...]]|-|
+|''I'm A Slave 4 U''|110|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/I'm A Slave 4 U]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/I'm A Slave 4 U]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/I'm A Slave 4 U]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/I'm A Slave 4 U]]|-|
+|''IMITATION BLACK''|230※|[[★×3>難易度表/かんたん/IMITATION BLACK]]|[[★×5>難易度表/ふつう/IMITATION BLACK]]|[[★×5>難易度表/むずかしい/IMITATION BLACK]]|[[★×7>難易度表/おに/IMITATION BLACK]]|[[★×9>難易度表/おに/IMITATION BLACK(裏譜面)]]|
+|''I★my★me★mine''|182|[[★×2>難易度表/かんたん/I★my★me★mine]]|[[★×3>難易度表/ふつう/I★my★me★mine]]|[[★×5>難易度表/むずかしい/I★my★me★mine]]|[[★×6>難易度表/おに/I★my★me★mine]]|-|
+|''I my moko''|140|[[★×3>難易度表/かんたん/I my moko]]|[[★×5>難易度表/ふつう/I my moko]]|[[★×6>難易度表/むずかしい/I my moko]]|[[★×8>難易度表/おに/I my moko]]|-|
+|''independent''|149|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/independent]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/independent]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/independent]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/independent]]|-|
+|''Infinite Rebellion''|5-300|[[★×5>難易度表/かんたん/Infinite Rebellion]]|[[★×7>難易度表/ふつう/Infinite Rebellion]]|[[★×8>難易度表/むずかしい/Infinite Rebellion]]|[[★×10>難易度表/おに/Infinite Rebellion]]|-|
+|''Inscrutable Battle''|141|[[★×4>難易度表/かんたん/Inscrutable Battle]]|[[★×5>難易度表/ふつう/Inscrutable Battle]]|[[★×7>難易度表/むずかしい/Inscrutable Battle]]|[[★×9>難易度表/おに/Inscrutable Battle]]|-|
+|''INSIDE IDENTITY''|186※|[[★×4>難易度表/かんたん/INSIDE IDENTITY]]|[[★×4>難易度表/ふつう/INSIDE IDENTITY]]|[[★×5>難易度表/むずかしい/INSIDE IDENTITY]]|[[★×8>難易度表/おに/INSIDE IDENTITY]]|-|
+|''INSPION''|296|[[★×5>難易度表/かんたん/INSPION]]|[[★×6>難易度表/ふつう/INSPION]]|[[★×8>難易度表/むずかしい/INSPION]]|[[★×10>難易度表/おに/INSPION]]|-|
+|''∫-integral-''|210|[[★×4>難易度表/かんたん/∫-integral-]]|[[★×6>難易度表/ふつう/∫-integral-]]|[[★×6>難易度表/むずかしい/∫-integral-]]|[[★×9>難易度表/おに/∫-integral-]]|-|
+|''IN THE ZONE''|172※|[[★×4>難易度表/かんたん/IN THE ZONE]]|[[★×6>難易度表/ふつう/IN THE ZONE]]|[[★×8>難易度表/むずかしい/IN THE ZONE]]|[[★×9>難易度表/おに/IN THE ZONE]]|-|
+|''Into the Unknown''|117|[[★×1>難易度表/かんたん/Into the Unknown]]|[[★×2>難易度表/ふつう/Into the Unknown]]|[[★×5>難易度表/むずかしい/Into the Unknown]]|[[★×7>難易度表/おに/Into the Unknown]]|-|
+|''Irodoru&#9825;Future''|194|[[★×3>難易度表/かんたん/Irodoru・Future]]|[[★×4>難易度表/ふつう/Irodoru・Future]]|[[★×4>難易度表/むずかしい/Irodoru・Future]]|[[★×8>難易度表/おに/Irodoru・Future]]|-|
+|''I SHOULD BE SO LUCKY''|118|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/I SHOULD BE SO LUCKY]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/I SHOULD BE SO LUCKY]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/I SHOULD BE SO LUCKY]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/I SHOULD BE SO LUCKY]]|-|
+|''I Want''|178※|[[★×3>難易度表/かんたん/I Want]]|[[★×5>難易度表/ふつう/I Want]]|[[★×6>難易度表/むずかしい/I Want]]|[[★×8>難易度表/おに/I Want]]|-|
+|''I Want You Back''|98|[[★×3>難易度表/かんたん/I Want You Back]]|[[★×3>難易度表/ふつう/I Want You Back]]|[[★×5>難易度表/むずかしい/I Want You Back]]|[[★×8>難易度表/おに/I Want You Back]]|-|
+|''I Was Born To Love You''|139.3|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/I Was Born To Love You]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/I Was Born To Love You]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/I Was Born To Love You]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/I Was Born To Love You]]|-|
+|''I Wish For You''|119|[[★×2>難易度表/かんたん/I Wish For You]]|[[★×2>難易度表/ふつう/I Wish For You]]|[[★×5>難易度表/むずかしい/I Wish For You]]|[[★×5>難易度表/おに/I Wish For You]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''J''(全 10 曲)&aname(JJJ);|
+|''JOINT''|170※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/JOINT]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/JOINT]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/JOINT]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/JOINT]]|-|
+|''JOIN THE PAC -太鼓の達人 Ver.-''|114?-205|[[★×3>難易度表/かんたん/JOIN THE PAC -太鼓の達人 Ver.-]]|[[★×3>難易度表/ふつう/JOIN THE PAC -太鼓の達人 Ver.-]]|[[★×6>難易度表/むずかしい/JOIN THE PAC -太鼓の達人 Ver.-]]|[[★×9>難易度表/おに/JOIN THE PAC -太鼓の達人 Ver.-]]|-|
+|''JOIN US''|132※|[[★×2>難易度表/かんたん/JOIN US]]|[[★×3>難易度表/ふつう/JOIN US]]|[[★×3>難易度表/むずかしい/JOIN US]]|[[★×7>難易度表/おに/JOIN US]]|-|
+|''Journey through the Decade''|170|[[★×2>難易度表/かんたん/Journey through the Decade]]|[[★×3>難易度表/ふつう/Journey through the Decade]]|[[★×5>難易度表/むずかしい/Journey through the Decade]]|[[★×6>難易度表/おに/Journey through the Decade]]|-|
+|''July 1st''|128|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/July 1st]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/July 1st]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/July 1st]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/July 1st]]|-|
+|''Jump Up, Super Star! Short Version''|204※|[[★×3>難易度表/かんたん/Jump Up, Super Star! Short Version]]|[[★×4>難易度表/ふつう/Jump Up, Super Star! Short Version]]|[[★×5>難易度表/むずかしい/Jump Up, Super Star! Short Version]]|[[★×8>難易度表/おに/Jump Up, Super Star! Short Version]]|-|
+|''junction''|135|[[★×4>難易度表/かんたん/junction]]|[[★×5>難易度表/ふつう/junction]]|[[★×6>難易度表/むずかしい/junction]]|[[★×9>難易度表/おに/junction]]|-|
+|''Jungle P''|145|[[★×2>難易度表/かんたん/Jungle P]]|[[★×2>難易度表/ふつう/Jungle P]]|[[★×5>難易度表/むずかしい/Jungle P]]|[[★×7>難易度表/おに/Jungle P]]|-|
+|''Just Awake''|191|[[★×3>難易度表/かんたん/Just Awake]]|[[★×4>難易度表/ふつう/Just Awake]]|[[★×5>難易度表/むずかしい/Just Awake]]|[[★×8>難易度表/おに/Just Awake]]|-|
+|''JUST LIVE MORE''|190|[[★×2>難易度表/かんたん/JUST LIVE MORE]]|[[★×3>難易度表/ふつう/JUST LIVE MORE]]|[[★×5>難易度表/むずかしい/JUST LIVE MORE]]|[[★×7>難易度表/おに/JUST LIVE MORE]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''K''(全 10 曲)&aname(KKK);|
+|''KAGEKIYO''|130※|[[★×4>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー]]|[[★×5>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]|[[★×7>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]|[[★×8>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|[[★×10>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|
+|''KAGYUKIYO''|65-130|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/KAGYUKIYO]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/KAGYUKIYO]]|BGCOLOR(#ccc):[[★×8>難易度表/むずかしい/KAGYUKIYO]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/KAGYUKIYO]]|-|
+|''Kamikaze Remix''|158※|[[★×3>難易度表/かんたん/Kamikaze Remix]]|[[★×6>難易度表/ふつう/Kamikaze Remix]]|[[★×8>難易度表/むずかしい/Kamikaze Remix]]|[[★×10>難易度表/おに/Kamikaze Remix]]|-|
+|''KARMA(Tatsujin Mix)''|145※|[[★×4>難易度表/かんたん/KARMA(Tatsujin Mix)]]|[[★×6>難易度表/ふつう/KARMA(Tatsujin Mix)]]|[[★×7>難易度表/むずかしい/KARMA(Tatsujin Mix)]]|[[★×9>難易度表/おに/KARMA(Tatsujin Mix)]]|-|
+|''Kill My Fortune''|180|[[★×4>難易度表/かんたん/Kill My Fortune]]|[[★×5>難易度表/ふつう/Kill My Fortune]]|[[★×5>難易度表/むずかしい/Kill My Fortune]]|[[★×7>難易度表/おに/Kill My Fortune]]|-|
+|''KING''|166|[[★×2>難易度表/かんたん/KING]]|[[★×5>難易度表/ふつう/KING]]|[[★×6>難易度表/むずかしい/KING]]|[[★×8>難易度表/おに/KING]]|-|
+|''KIRA☆Power''|139|[[★×3>難易度表/かんたん/KIRA☆Power]]|[[★×4>難易度表/ふつう/KIRA☆Power]]|[[★×6>難易度表/むずかしい/KIRA☆Power]]|[[★×6>難易度表/おに/KIRA☆Power]]|-|
+|''KISS KISS BANG BANG''|154|[[★×4>難易度表/かんたん/KISS KISS BANG BANG]]|[[★×4>難易度表/ふつう/KISS KISS BANG BANG]]|[[★×5>難易度表/むずかしい/KISS KISS BANG BANG]]|[[★×5>難易度表/おに/KISS KISS BANG BANG]]|-|
+|''Kosmos, Cosmos''|132|[[★×3>難易度表/かんたん/Kosmos, Cosmos]]|[[★×4>難易度表/ふつう/Kosmos, Cosmos]]|[[★×5>難易度表/むずかしい/Kosmos, Cosmos]]|[[★×8>難易度表/おに/Kosmos, Cosmos]]|-|
+|''KUSANAGI''|180|[[★×5>難易度表/かんたん/KUSANAGI]]|[[★×6>難易度表/ふつう/KUSANAGI]]|[[★×7>難易度表/むずかしい/KUSANAGI]]|[[★×9>難易度表/おに/KUSANAGI]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''L''(全 38 曲)&aname(LLL);|
+|''Ladystar Wandering''|130|[[★×4>難易度表/かんたん/Ladystar Wandering]]|[[★×6>難易度表/ふつう/Ladystar Wandering]]|[[★×7>難易度表/むずかしい/Ladystar Wandering]]|[[★×8>難易度表/おに/Ladystar Wandering]]|-|
+|''LAST CHRISTMAS''|107|[[★×4>難易度表/かんたん/LAST CHRISTMAS]]|[[★×5>難易度表/ふつう/LAST CHRISTMAS]]|[[★×5>難易度表/むずかしい/LAST CHRISTMAS]]|[[★×7>難易度表/おに/LAST CHRISTMAS]]|-|
+|''LECIEL GLISSANDO''|250|[[★×5>難易度表/かんたん/LECIEL GLISSANDO]]|[[★×6>難易度表/ふつう/LECIEL GLISSANDO]]|[[★×7>難易度表/むずかしい/LECIEL GLISSANDO]]|[[★×10>難易度表/おに/LECIEL GLISSANDO]]|-|
+|''Lemon''|87|[[★×2>難易度表/かんたん/Lemon]]|[[★×3>難易度表/ふつう/Lemon]]|[[★×5>難易度表/むずかしい/Lemon]]|[[★×7>難易度表/おに/Lemon]]|-|
+|''Let It Go''|137|[[★×2>難易度表/かんたん/Let It Go]]|[[★×2>難易度表/ふつう/Let It Go]]|[[★×2>難易度表/むずかしい/Let It Go]]|[[★×4>難易度表/おに/Let It Go]]|-|
+|''Let It Go〜ありのままで〜''|~|[[★×2>難易度表/かんたん/Let It Go〜ありのままで〜]]|[[★×2>難易度表/ふつう/Let It Go〜ありのままで〜]]|[[★×2>難易度表/むずかしい/Let It Go〜ありのままで〜]]|[[★×4>難易度表/おに/Let It Go〜ありのままで〜]]|-|
+|''Let's貢献！ 〜恋の懲役は1,000,000年〜''|128|[[★×4>難易度表/かんたん/Let's 貢献！〜恋の懲役は1,000,000年〜]]|[[★×6>難易度表/ふつう/Let's 貢献！〜恋の懲役は1,000,000年〜]]|[[★×6>難易度表/むずかしい/Let's 貢献！〜恋の懲役は1,000,000年〜]]|[[★×6>難易度表/おに/Let's 貢献！〜恋の懲役は1,000,000年〜]]|[[★×8>難易度表/おに/Let's 貢献！〜恋の懲役は1,000,000年〜(裏譜面)]]|
+|''Let's!フレッシュプリキュア！''|173|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Let's!フレッシュプリキュア！]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Let's!フレッシュプリキュア！]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Let's!フレッシュプリキュア！]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/Let's!フレッシュプリキュア！]]|-|
+|''Let's!フレッシュプリキュア！ 〜Hybrid ver.〜''|173|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Let's!フレッシュプリキュア！ 〜Hybrid ver.〜]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Let's!フレッシュプリキュア！　〜Hybrid ver.〜]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Let's!フレッシュプリキュア！　〜Hybrid ver.〜]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/Let's!フレッシュプリキュア！ 〜Hybrid ver.〜]]|-|
+|''Let's go!スマイルプリキュア！''|172|[[★×1>難易度表/かんたん/Let's go! スマイルプリキュア！]]|[[★×1>難易度表/ふつう/Let's go! スマイルプリキュア！]]|[[★×3>難易度表/むずかしい/Let's go! スマイルプリキュア！]]|[[★×4>難易度表/おに/Let's go! スマイルプリキュア！]]|-|
+|''LET'S GO OUT''|178|[[★×3>難易度表/かんたん/LET'S GO OUT]]|[[★×3>難易度表/ふつう/LET'S GO OUT]]|[[★×4>難易度表/むずかしい/LET'S GO OUT]]|[[★×6>難易度表/おに/LET'S GO OUT]]|-|
+|''Leviathan''|110-185|[[★×4>難易度表/かんたん/Leviathan]]|[[★×7>難易度表/ふつう/Leviathan]]|[[★×7>難易度表/むずかしい/Leviathan]]|[[★×9>難易度表/おに/Leviathan]]|-|
+|''Libera Ray''|116-232|[[★×4>難易度表/かんたん/Libera Ray]]|[[★×5>難易度表/ふつう/Libera Ray]]|[[★×7>難易度表/むずかしい/Libera Ray]]|[[★×10>難易度表/おに/Libera Ray]]|-|
+|''LIFE''|127|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/LIFE]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/LIFE]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/LIFE]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/LIFE]]|-|
+|''Life is SHOW TIME''|152|[[★×2>難易度表/かんたん/Life is SHOW TIME]]|[[★×2>難易度表/ふつう/Life is SHOW TIME]]|[[★×3>難易度表/むずかしい/Life is SHOW TIME]]|[[★×6>難易度表/おに/Life is SHOW TIME]]|-|
+|''Lifetime Respect -女編-''|86|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Lifetime Respect -女編-]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Lifetime Respect -女編-]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Lifetime Respect -女編-]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Lifetime Respect -女編-]]|-|
+|''Life Will Change''|132|[[★×3>難易度表/かんたん/Life Will Change]]|[[★×4>難易度表/ふつう/Life Will Change]]|[[★×6>難易度表/むずかしい/Life Will Change]]|[[★×8>難易度表/おに/Life Will Change]]|-|
+|''Lightning Dance''|153|[[★×4>難易度表/かんたん/Lightning Dance]]|[[★×5>難易度表/ふつう/Lightning Dance]]|[[★×7>難易度表/むずかしい/Lightning Dance]]|[[★×8>難易度表/おに/Lightning Dance]]|-|
+|''LISTEN TO THE STEREO!!''|55-182※|[[★×3>難易度表/かんたん/LISTEN TO THE STEREO!!]]|[[★×5>難易度表/ふつう/LISTEN TO THE STEREO!!]]|[[★×5>難易度表/むずかしい/LISTEN TO THE STEREO!!]]|[[★×7>難易度表/おに/LISTEN TO THE STEREO!!]]|[[★×7>難易度表/おに/LISTEN TO THE STEREO!!]]|
+|''Little Match Girl''|135|[[★×3>難易度表/かんたん/Little Match Girl]]|[[★×5>難易度表/ふつう/Little Match Girl]]|[[★×6>難易度表/むずかしい/Little Match Girl]]|[[★×8>難易度表/おに/Little Match Girl]]|-|
+|''livE''|143|[[★×3>難易度表/かんたん/livE]]|[[★×4>難易度表/ふつう/livE]]|[[★×4>難易度表/むずかしい/livE]]|[[★×8>難易度表/おに/livE]]|-|
+|''liveDevil''|164|[[★×2>難易度表/かんたん/liveDevil]]|[[★×3>難易度表/ふつう/liveDevil]]|[[★×5>難易度表/むずかしい/liveDevil]]|[[★×6>難易度表/おに/liveDevil]]|-|
+|''L・O・B・M''|170|[[★×3>難易度表/かんたん/L・O・B・M]]|[[★×4>難易度表/ふつう/L・O・B・M]]|[[★×6>難易度表/むずかしい/L・O・B・M]]|[[★×8>難易度表/おに/L・O・B・M]]|-|
+|''LOSER''|121|[[★×3>難易度表/かんたん/LOSER]]|[[★×5>難易度表/ふつう/LOSER]]|[[★×6>難易度表/むずかしい/LOSER]]|[[★×8>難易度表/おに/LOSER]]|-|
+|''L・O・V・E''|172|[[★×4>難易度表/かんたん/L・O・V・E]]|[[★×6>難易度表/ふつう/L・O・V・E]]|[[★×6>難易度表/むずかしい/L・O・V・E]]|[[★×8>難易度表/おに/L・O・V・E]]|-|
+|''LOVE 2000''|170|[[★×3>難易度表/かんたん/LOVE 2000]]|[[★×4>難易度表/ふつう/LOVE 2000]]|[[★×5>難易度表/むずかしい/LOVE 2000]]|[[★×6>難易度表/おに/LOVE 2000]]|-|
+|''LOVE&ENERGY''|180|[[★×2>難易度表/かんたん/LOVE＆ENERGY]]|[[★×2>難易度表/ふつう/LOVE＆ENERGY]]|[[★×5>難易度表/むずかしい/LOVE＆ENERGY]]|[[★×7>難易度表/おに/LOVE＆ENERGY]]|-|
+|''LOVE戦!!''|180|[[★×3>難易度表/かんたん/LOVE戦!!]]|[[★×5>難易度表/ふつう/LOVE戦!!]]|[[★×7>難易度表/むずかしい/LOVE戦!!]]|[[★×8>難易度表/おに/LOVE戦!!]]|-|
+|''LOVEオーダーメイド''|137|[[★×3>難易度表/かんたん/LOVEオーダーメイド]]|[[★×4>難易度表/ふつう/LOVEオーダーメイド]]|[[★×4>難易度表/むずかしい/LOVEオーダーメイド]]|[[★×6>難易度表/おに/LOVEオーダーメイド]]|-|
+|''LOVEずっきゅん''|150|[[★×4>難易度表/かんたん/LOVEずっきゅん]]|[[★×4>難易度表/ふつう/LOVEずっきゅん]]|[[★×6>難易度表/むずかしい/LOVEずっきゅん]]|[[★×8>難易度表/おに/LOVEずっきゅん]]|-|
+|''LOVE涙色''|118|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/LOVE涙色]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/LOVE涙色]]|BGCOLOR(#ccc):[[★×3>難易度表/おに/LOVE涙色]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/LOVE涙色]]|-|
+|''LOVEマシーン''|131|[[★×4>難易度表/かんたん/LOVEマシーン]]|[[★×5>難易度表/ふつう/LOVEマシーン]]|[[★×5>難易度表/むずかしい/LOVEマシーン]]|[[★×5>難易度表/おに/LOVEマシーン]]|-|
+|''Love Forever''|120|[[★×2>難易度表/かんたん/Love Forever]]|[[★×2>難易度表/ふつう/Love Forever]]|[[★×2>難易度表/むずかしい/Love Forever]]|[[★×6>難易度表/おに/Love Forever]]|-|
+|''LOVE RAIN 〜恋の雨〜''|110|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/LOVE RAIN 〜恋の雨〜]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/LOVE RAIN 〜恋の雨〜]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/LOVE RAIN 〜恋の雨〜]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/LOVE RAIN 〜恋の雨〜]]|-|
+|''Love so sweet''|140|[[★×3>難易度表/かんたん/Love so sweet]]|[[★×4>難易度表/ふつう/Love so sweet]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Love so sweet]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Love so sweet]]|-|
+|''Lovin' Life''|96|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Lovin' Life]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Lovin' Life]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Lovin' Life]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Lovin' Life]]|-|
+|''LUCKYSTAR''|188|[[★×3>難易度表/かんたん/LUCKYSTAR]]|[[★×3>難易度表/ふつう/LUCKYSTAR]]|[[★×5>難易度表/むずかしい/LUCKYSTAR]]|[[★×6>難易度表/おに/LUCKYSTAR]]|-|
+|''Lunar Maria''|136|[[★×3>難易度表/かんたん/Lunar Maria]]|[[★×4>難易度表/ふつう/Lunar Maria]]|[[★×5>難易度表/むずかしい/Lunar Maria]]|[[★×6>難易度表/おに/Lunar Maria]]|[[★×8>難易度表/おに/Lunar Maria(裏譜面)]]|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''M''(全 36 曲)&aname(MMM);|
+|''M@STERPIECE''|111-128|[[★×2>難易度表/かんたん/M@STERPIECE]]|[[★×3>難易度表/ふつう/M@STERPIECE]]|[[★×4>難易度表/むずかしい/M@STERPIECE]]|[[★×6>難易度表/おに/M@STERPIECE]]|-|
+|''Machine&#71;un Kiss''|178|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/MachineGun Kiss]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/MachineGun Kiss]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/MachineGun Kiss]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/MachineGun Kiss]]|-|
+|''MAGICAL SOUND SHOWER''|125|[[★×4>難易度表/かんたん/MAGICAL SOUND SHOWER]]|[[★×6>難易度表/ふつう/MAGICAL SOUND SHOWER]]|[[★×7>難易度表/むずかしい/MAGICAL SOUND SHOWER]]|[[★×9>難易度表/おに/MAGICAL SOUND SHOWER]]|-|
+|''Magi&#67;atz''|134-233※|[[★×2>難易度表/かんたん/MagiCatz]]|[[★×3>難易度表/ふつう/MagiCatz]]|[[★×6>難易度表/むずかしい/MagiCatz]]|[[★×10>難易度表/おに/MagiCatz]]|-|
+|''Make debut!''|90-180|[[★×3>難易度表/かんたん/Make debut!]]|[[★×5>難易度表/ふつう/Make debut!]]|[[★×4>難易度表/むずかしい/Make debut!]]|[[★×7>難易度表/おに/Make debut!]]|-|
+|''Make it!''|172|[[★×2>難易度表/かんたん/Make it!]]|[[★×4>難易度表/ふつう/Make it!]]|[[★×4>難易度表/むずかしい/Make it!]]|[[★×7>難易度表/おに/Make it!]]|-|
+|''Mani Mani(Prod. TAKU INOUE)''|134|[[★×2>難易度表/かんたん/Mani Mani(Prod. TAKU INOUE)]]|[[★×4>難易度表/ふつう/Mani Mani(Prod. TAKU INOUE)]]|[[★×6>難易度表/むずかしい/Mani Mani(Prod. TAKU INOUE)]]|[[★×8>難易度表/おに/Mani Mani(Prod. TAKU INOUE)]]|-|
+|''MANKAI☆開花宣言''|172|[[★×2>難易度表/かんたん/MANKAI☆開花宣言]]|[[★×4>難易度表/ふつう/MANKAI☆開花宣言]]|[[★×4>難易度表/むずかしい/MANKAI☆開花宣言]]|[[★×5>難易度表/おに/MANKAI☆開花宣言]]|-|
+|''Many wow bang!''|134|[[★×4>難易度表/かんたん/Many wow bang!]]|[[★×4>難易度表/ふつう/Many wow bang!]]|[[★×7>難易度表/むずかしい/Many wow bang!]]|[[★×7>難易度表/おに/Many wow bang!]]|[[★×9>難易度表/おに/Many wow bang!(裏譜面)]]|
+|''Marine Mirage''|170|[[★×1>難易度表/かんたん/Marine Mirage]]|[[★×2>難易度表/ふつう/Marine Mirage]]|[[★×3>難易度表/むずかしい/Marine Mirage]]|[[★×6>難易度表/おに/Marine Mirage]]|-|
+|''Marionette -マリオネット-''|159|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Marionette]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Marionette]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Marionette]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Marionette]]|-|
+|''MATSURI D／A''|130|[[★×5>難易度表/かんたん/MATSURI D／A]]|[[★×7>難易度表/ふつう/MATSURI D／A]]|[[★×8>難易度表/むずかしい/MATSURI D／A]]|[[★×8>難易度表/おに/MATSURI D／A]]|-|
+|''maximum the hormone''|108-201※|[[★×5>難易度表/かんたん/maximum the hormone]]|[[★×6>難易度表/ふつう/maximum the hormone]]|[[★×7>難易度表/むずかしい/maximum the hormone]]|[[★×8>難易度表/おに/maximum the hormone]]|-|
+|''MEGALOVANIA''|240|[[★×4>難易度表/かんたん/MEGALOVANIA]]|[[★×5>難易度表/ふつう/MEGALOVANIA]]|[[★×7>難易度表/むずかしい/MEGALOVANIA]]|[[★×9>難易度表/おに/MEGALOVANIA]]|[[★×10>難易度表/おに/MEGALOVANIA(裏譜面)]]|
+|''MEGARE!''|180|[[★×3>難易度表/かんたん/MEGARE!]]|[[★×4>難易度表/ふつう/MEGARE!]]|[[★×4>難易度表/むずかしい/MEGARE!]]|[[★×7>難易度表/おに/MEGARE!]]|-|
+|''MEKADON''&br;SIZE(11){　　〜宇宙に消えたメカ太鼓〜}|118|-|BGCOLOR(#ccc):BGCOLOR(#ccc):[[★×4>難易度表/ふつう/MEKADON]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/MEKADON]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/MEKADON]]|-|
+|''memoria ficta''|125-250|[[★×4>難易度表/かんたん/memoria ficta]]|[[★×6>難易度表/ふつう/memoria ficta]]|[[★×7>難易度表/むずかしい/memoria ficta]]|[[★×10>難易度表/おに/memoria ficta]]|-|
+|''mint tears''|188|[[★×4>難易度表/かんたん/mint tears]]|[[★×6>難易度表/ふつう/mint tears]]|[[★×7>難易度表/むずかしい/mint tears]]|[[★×10>難易度表/おに/mint tears]]|-|
+|''Miracle Go!プリンセスプリキュア''|171※|[[★×3>難易度表/かんたん/Miracle Go! プリンセスプリキュア]]|[[★×4>難易度表/ふつう/Miracle Go! プリンセスプリキュア]]|[[★×3>難易度表/むずかしい/Miracle Go! プリンセスプリキュア]]|[[★×8>難易度表/おに/Miracle Go! プリンセスプリキュア]]|-|
+|''MISTER''|126|[[★×3>難易度表/かんたん/MISTER]]|[[★×4>難易度表/ふつう/MISTER]]|[[★×5>難易度表/むずかしい/MISTER]]|[[★×7>難易度表/おに/MISTER]]|-|
+|''MOIL''|100|[[★×2>難易度表/かんたん/MOIL]]|[[★×2>難易度表/ふつう/MOIL]]|[[★×3>難易度表/むずかしい/MOIL]]|[[★×7>難易度表/おに/MOIL]]|-|
+|''MOSKAU''|131.5|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/MOSKAU]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/MOSKAU]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/MOSKAU]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/MOSKAU]]|-|
+|''Mr.ランナー''|160-199|[[★×4>難易度表/かんたん/Mr.ランナー]]|[[★×6>難易度表/ふつう/Mr.ランナー]]|[[★×7>難易度表/むずかしい/Mr.ランナー]]|[[★×9>難易度表/おに/Mr.ランナー]]|-|
+|''Mr.Moonlight 愛のビッグバンド''|183|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/Mr.Moonlight 愛のビッグバンド]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Mr.Moonlight 愛のビッグバンド]]|BGCOLOR(#ccc):[[★×1>難易度表/おに/Mr.Moonlight 愛のビッグバンド]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/Mr.Moonlight 愛のビッグバンド]]|-|
+|''M.S.S.Planet''|145|[[★×3>難易度表/かんたん/M.S.S.Planet]]|[[★×5>難易度表/ふつう/M.S.S.Planet]]|[[★×7>難易度表/むずかしい/M.S.S.Planet]]|[[★×8>難易度表/おに/M.S.S.Planet]]|-|
+|''Mulberry''|170|[[★×4>難易度表/かんたん/Mulberry]]|[[★×6>難易度表/ふつう/Mulberry]]|[[★×6>難易度表/むずかしい/Mulberry]]|[[★×7>難易度表/おに/Mulberry]]|-|
+|''MUSIC♪''|138|[[★×4>難易度表/かんたん/MUSIC♪]]|[[★×5>難易度表/ふつう/MUSIC♪]]|[[★×6>難易度表/むずかしい/MUSIC♪]]|[[★×6>難易度表/おに/MUSIC♪]]|[[★×8>難易度表/おに/MUSIC♪(裏譜面)]]|
+|''My Little Pony Theme Song''|115-220|[[★×2>難易度表/かんたん/My Little Pony Theme Song]]|[[★×2>難易度表/ふつう/My Little Pony Theme Song]]|[[★×2>難易度表/むずかしい/My Little Pony Theme Song]]|[[★×3>難易度表/おに/My Little Pony Theme Song]]|-|
+|''My Mine''|177|[[★×4>難易度表/かんたん/My Mine]]|[[★×5>難易度表/ふつう/My Mine]]|[[★×4>難易度表/むずかしい/My Mine]]|[[★×6>難易度表/おに/My Mine]]|-|
+|''My Muscle Heart''|140-195|[[★×3>難易度表/かんたん/My Muscle Heart]]|[[★×4>難易度表/ふつう/My Muscle Heart]]|[[★×5>難易度表/むずかしい/My Muscle Heart]]|[[★×9>難易度表/おに/My Muscle Heart]]|-|
+|''My Revolution''|129|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/My Revolution]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/My Revolution]]|BGCOLOR(#ccc):[[★×2>難易度表/むずかしい/My Revolution]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/My Revolution]]|-|
+|''my song''|85-104|[[★×1>難易度表/かんたん/my song]]|[[★×2>難易度表/ふつう/my song]]|[[★×5>難易度表/むずかしい/my song]]|[[★×7>難易度表/おに/my song]]|-|
+|''My Soul, Your Beats!''|145※|[[★×3>難易度表/かんたん/My Soul,Your Beats!]]|[[★×4>難易度表/ふつう/My Soul,Your Beats!]]|[[★×7>難易度表/むずかしい/My Soul,Your Beats!]]|[[★×8>難易度表/おに/My Soul,Your Beats!]]|-|
+|''My Sweet Darlin'''|157|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/My Sweet Darlin']]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/My Sweet Darlin']]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/My Sweet Darlin']]|BGCOLOR(#ccc):[[★×6>難易度表/おに/My Sweet Darlin']]|-|
+|''Mythmaker''|114|[[★×3>難易度表/かんたん/Mythmaker]]|[[★×5>難易度表/ふつう/Mythmaker]]|[[★×6>難易度表/むずかしい/Mythmaker]]|[[★×8>難易度表/おに/Mythmaker]]|-|
+|''My Way''|100|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/My Way]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/My Way]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/My Way]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/My Way]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''N''(全 18 曲)&aname(NNN);|
+|''Naked Glow''|133.05|[[★×4>難易度表/かんたん/Naked Glow]]|[[★×6>難易度表/ふつう/Naked Glow]]|[[★×7>難易度表/むずかしい/Naked Glow]]|[[★×9>難易度表/おに/Naked Glow]]|-|
+|''NATSU☆しようぜ！''|150|[[★×2>難易度表/かんたん/NATSU☆しようぜ！]]|[[★×2>難易度表/ふつう/NATSU☆しようぜ！]]|[[★×3>難易度表/むずかしい/NATSU☆しようぜ！]]|[[★×6>難易度表/おに/NATSU☆しようぜ！]]|-|
+|''NECOLOGY''|150|[[★×3>難易度表/かんたん/NECOLOGY]]|[[★×5>難易度表/ふつう/NECOLOGY]]|[[★×7>難易度表/むずかしい/NECOLOGY]]|[[★×8>難易度表/おに/NECOLOGY]]|-|
+|''Ne&#x47;a/Posi*ラブ/コール''|166-169|[[★×3>難易度表/かんたん/NeGa／PoSi* ラブ／コール]]|[[★×4>難易度表/ふつう/NeGa／PoSi* ラブ／コール]]|[[★×6>難易度表/むずかしい/NeGa／PoSi* ラブ／コール]]|[[★×6>難易度表/おに/NeGa／PoSi* ラブ／コール]]|[[★×8>難易度表/おに/NeGa／PoSi* ラブ／コール(裏譜面)]]|
+|''Nesin Amatias''|200|[[★×5>難易度表/かんたん/Nesin Amatias]]|[[★×6>難易度表/ふつう/Nesin Amatias]]|[[★×6>難易度表/むずかしい/Nesin Amatias]]|[[★×7>難易度表/おに/Nesin Amatias]]|-|
+|''Never say never''|156|[[★×3>難易度表/かんたん/Never say never]]|[[★×4>難易度表/ふつう/Never say never]]|[[★×5>難易度表/むずかしい/Never say never]]|[[★×8>難易度表/おに/Never say never]]|-|
+|''New スーパーマリオブラザーズ Wii''|97-155※|[[★×3>難易度表/かんたん/New スーパーマリオブラザーズ Wii]]|[[★×4>難易度表/ふつう/New スーパーマリオブラザーズ Wii]]|[[★×6>難易度表/むずかしい/New スーパーマリオブラザーズ Wii]]|[[★×8>難易度表/おに/New スーパーマリオブラザーズ Wii]]|-|
+|''New Stranger''|190|[[★×4>難易度表/かんたん/New Stranger]]|[[★×6>難易度表/ふつう/New Stranger]]|[[★×7>難易度表/むずかしい/New Stranger]]|[[★×8>難易度表/おに/New Stranger]]|-|
+|''New World''|177※|[[★×3>難易度表/かんたん/New World]]|[[★×6>難易度表/ふつう/New World]]|[[★×7>難易度表/むずかしい/New World]]|[[★×9>難易度表/おに/New World]]|-|
+|''NEXT LEVEL''|172|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/NEXT LEVEL]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/NEXT LEVEL]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/NEXT LEVEL]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/NEXT LEVEL]]|-|
+|''Next Life''|147|[[★×3>難易度表/かんたん/Next Life]]|[[★×4>難易度表/ふつう/Next Life]]|[[★×7>難易度表/むずかしい/Next Life]]|[[★×10>難易度表/おに/Next Life]]|-|
+|''Night And Day''|140※|[[★×4>難易度表/かんたん/Night And Day]]|[[★×6>難易度表/ふつう/Night And Day]]|[[★×8>難易度表/むずかしい/Night And Day]]|[[★×9>難易度表/おに/Night And Day]]|-|
+|''NIGHT OF FIRE''|155|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/NIGHT OF FIRE]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/NIGHT OF FIRE]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/NIGHT OF FIRE]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/NIGHT OF FIRE]]|-|
+|''Ninja Batman''|140|[[★×4>難易度表/かんたん/Ninja Batman]]|[[★×4>難易度表/ふつう/Ninja Batman]]|[[★×5>難易度表/むずかしい/Ninja Batman]]|[[★×6>難易度表/おに/Ninja Batman]]|-|
+|''No buts!''|183|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/No buts!]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/No buts!]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/No buts!]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/No buts!]]|-|
+|''NO DOUBT''|128|[[★×1>難易度表/かんたん/NO DOUBT]]|[[★×2>難易度表/ふつう/NO DOUBT]]|[[★×4>難易度表/むずかしい/NO DOUBT]]|[[★×7>難易度表/おに/NO DOUBT]]|-|
+|''No Gravity''|142※|[[★×4>難易度表/かんたん/No Gravity]]|[[★×6>難易度表/ふつう/No Gravity]]|[[★×7>難易度表/むずかしい/No Gravity]]|[[★×10>難易度表/おに/No Gravity]]|-|
+|''NO MORE CRY''|138|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/NO MORE CRY]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/NO MORE CRY]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/NO MORE CRY]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/NO MORE CRY]]|-|
+|''No Way Back''|158※|[[★×4>難易度表/かんたん/No Way Back]]|[[★×6>難易度表/ふつう/No Way Back]]|[[★×7>難易度表/むずかしい/No Way Back]]|[[★×8>難易度表/おに/No Way Back]]|[[★×9>難易度表/おに/No Way Back(裏譜面)]]|
+
+***O〜U [#OU]
+||LEFT:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''O''(全 16 曲)&aname(OOO);|
+|''O2''|170|[[★×3>難易度表/かんたん/O2]]|[[★×4>難易度表/ふつう/O2]]|[[★×5>難易度表/むずかしい/O2]]|[[★×7>難易度表/おに/O2]]|-|
+|''OK I'm blue rat''|128|[[★×4>難易度表/かんたん/OK I’m blue rat]]|[[★×6>難易度表/ふつう/OK I’m blue rat]]|[[★×8>難易度表/むずかしい/OK I’m blue rat]]|[[★×10>難易度表/おに/OK I’m blue rat]]|-|
+|''OLA!!''|115|[[★×4>難易度表/かんたん/OLA!!]]|[[★×4>難易度表/ふつう/OLA!!]]|[[★×6>難易度表/むずかしい/OLA!!]]|[[★×7>難易度表/おに/OLA!!]]|-|
+|''OLGA BREEZE [太陽シーン]''|140.55-165.56※|[[★×4>難易度表/かんたん/OLGA BREEZE ［太陽シーン］]]|[[★×5>難易度表/ふつう/OLGA BREEZE ［太陽シーン］]]|[[★×6>難易度表/むずかしい/OLGA BREEZE ［太陽シーン］]]|[[★×8>難易度表/おに/OLGA BREEZE ［太陽シーン］]]|-|
+|''Onaraはずかしくないよ''|173|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Onaraはずかしくないよ]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Onaraはずかしくないよ]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Onaraはずかしくないよ]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Onaraはずかしくないよ]]|-|
+|''One day''|89|[[★×2>難易度表/かんたん/One day]]|[[★×3>難易度表/ふつう/One day]]|[[★×5>難易度表/むずかしい/One day]]|[[★×6>難易度表/おに/One day]]|-|
+|''One Night Carnival''|135|[[★×3>難易度表/かんたん/One Night Carnival]]|[[★×5>難易度表/ふつう/One Night Carnival]]|[[★×6>難易度表/むずかしい/One Night Carnival]]|[[★×8>難易度表/おに/One Night Carnival]]|-|
+|''ONLY MY NOTE''|182|[[★×3>難易度表/かんたん/ONLY MY NOTE]]|[[★×4>難易度表/ふつう/ONLY MY NOTE]]|[[★×6>難易度表/むずかしい/ONLY MY NOTE]]|[[★×6>難易度表/おに/ONLY MY NOTE]]|-|
+|''only my railgun''|143|[[★×3>難易度表/かんたん/only my railgun]]|[[★×5>難易度表/ふつう/only my railgun]]|[[★×6>難易度表/むずかしい/only my railgun]]|[[★×7>難易度表/おに/only my railgun]]|-|
+|''ON SAY GO SAY''|130|[[★×4>難易度表/かんたん/ON SAY GO SAY]]|[[★×6>難易度表/ふつう/ON SAY GO SAY]]|[[★×7>難易度表/むずかしい/ON SAY GO SAY]]|[[★×8>難易度表/おに/ON SAY GO SAY]]|[[★×10>難易度表/おに/ON SAY GO SAY(裏譜面)]]|
+|''Original Color Girls!!!!''|130?|[[★×3>難易度表/かんたん/Original Color Girls!!!!]]|[[★×4>難易度表/ふつう/Original Color Girls!!!!]]|[[★×6>難易度表/むずかしい/Original Color Girls!!!!]]|[[★×8>難易度表/おに/Original Color Girls!!!!]]|-|
+|''ouroboros -twin stroke of the end-''|188|[[★×5>難易度表/かんたん/ouroboros -twin stroke of the end-]]|[[★×7>難易度表/ふつう/ouroboros -twin stroke of the end-]]|[[★×8>難易度表/むずかしい/ouroboros -twin stroke of the end-]]|[[★×10>難易度表/おに/ouroboros -twin stroke of the end-]]|-|
+|''Outride a Crisis''|170.5|[[★×4>難易度表/かんたん/Outride a Crisis]]|[[★×6>難易度表/ふつう/Outride a Crisis]]|[[★×7>難易度表/むずかしい/Outride a Crisis]]|[[★×9>難易度表/おに/Outride a Crisis]]|-|
+|''Over Clock 〜開放〜''|180|[[★×3>難易度表/かんたん/Over Clock 〜開放〜]]|[[★×6>難易度表/ふつう/Over Clock 〜開放〜]]|[[★×7>難易度表/むずかしい/Over Clock 〜開放〜]]|[[★×8>難易度表/おに/Over Clock 〜開放〜]]|-|
+|''Over “Quartzer”''|133|[[★×1>難易度表/かんたん/Over “Quartzer”]]|[[★×1>難易度表/ふつう/Over “Quartzer”]]|[[★×2>難易度表/むずかしい/Over “Quartzer”]]|[[★×7>難易度表/おに/Over “Quartzer”]]|-|
+|''Over the Future''|147|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Over the Future]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Over the Future]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Over the Future]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Over the Future]]|-|
+|''OVER THE TOP''|106-212|[[★×1>難易度表/かんたん/OVER THE TOP]]|[[★×2>難易度表/ふつう/OVER THE TOP]]|[[★×2>難易度表/むずかしい/OVER THE TOP]]|[[★×6>難易度表/おに/OVER THE TOP]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''P''(全 31 曲)&aname(PPP);|
+|''PAC-MAN CHAMPIONSHIP EDITION 2''|150|[[★×4>難易度表/かんたん/PAC‐MAN CHAMPIONSHIP EDITION 2]]|[[★×6>難易度表/ふつう/PAC‐MAN CHAMPIONSHIP EDITION 2]]|[[★×7>難易度表/むずかしい/PAC‐MAN CHAMPIONSHIP EDITION 2]]|[[★×9>難易度表/おに/PAC‐MAN CHAMPIONSHIP EDITION 2]]|-|
+|''Pa&#80;a&#80;a Love''|169|[[★×3>難易度表/かんたん/PaPaPa Love]]|[[★×5>難易度表/ふつう/PaPaPa Love]]|[[★×6>難易度表/むずかしい/PaPaPa Love]]|[[★×8>難易度表/おに/PaPaPa Love]]|-|
+|''Paradisus-Paradoxum''|201|[[★×3>難易度表/かんたん/Paradisus-Paradoxum]]|[[★×5>難易度表/ふつう/Paradisus-Paradoxum]]|[[★×6>難易度表/むずかしい/Paradisus-Paradoxum]]|[[★×8>難易度表/おに/Paradisus-Paradoxum]]|-|
+|''Parousia''|79-158|[[★×4>難易度表/かんたん/Parousia]]|[[★×6>難易度表/ふつう/Parousia]]|[[★×6>難易度表/むずかしい/Parousia]]|[[★×10>難易度表/おに/Parousia]]|-|
+|''Pastel Sealane''|142|[[★×5>難易度表/かんたん/Pastel Sealane]]|[[★×7>難易度表/ふつう/Pastel Sealane]]|[[★×8>難易度表/むずかしい/Pastel Sealane]]|[[★×9>難易度表/おに/Pastel Sealane]]|-|
+|''PEACH''|147|[[★×3>難易度表/かんたん/PEACH]]|[[★×3>難易度表/ふつう/PEACH]]|[[★×4>難易度表/むずかしい/PEACH]]|[[★×6>難易度表/おに/PEACH]]|-|
+|''PECORI&#9829;NIGHT''|159|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/PECORI NIGHT]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/PECORI NIGHT]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/PECORI NIGHT]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/PECORI NIGHT]]|-|
+|''PENETRATION''|147|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/PENETRATION]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/PENETRATION]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/PENETRATION]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/PENETRATION]]|-|
+|''PERFECT HUMAN''|128|[[★×2>難易度表/かんたん/PERFECT HUMAN]]|[[★×3>難易度表/ふつう/PERFECT HUMAN]]|[[★×4>難易度表/むずかしい/PERFECT HUMAN]]|[[★×8>難易度表/おに/PERFECT HUMAN]]|-|
+|''Phantom Rider''|268※|[[★×4>難易度表/かんたん/Phantom Rider]]|[[★×6>難易度表/ふつう/Phantom Rider]]|[[★×7>難易度表/むずかしい/Phantom Rider]]|[[★×8>難易度表/おに/Phantom Rider]]|[[★×9>難易度表/おに/Phantom Rider(裏譜面)]]|
+|''Phoenix''|168|[[★×4>難易度表/かんたん/Phoenix]]|[[★×5>難易度表/ふつう/Phoenix]]|[[★×6>難易度表/むずかしい/Phoenix]]|[[★×7>難易度表/おに/Phoenix]]|-|
+|''PHOENIX''|137|[[★×3>難易度表/かんたん/PHOENIX]]|[[★×4>難易度表/ふつう/PHOENIX]]|[[★×5>難易度表/むずかしい/PHOENIX]]|[[★×8>難易度表/おに/PHOENIX]]|-|
+|''PIECES OF A DREAM''|105|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/PIECES OF A DREAM]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/PIECES OF A DREAM]]|BGCOLOR(#ccc):[[★×2>難易度表/むずかしい/PIECES OF A DREAM]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/PIECES OF A DREAM]]|-|
+|''Pixel Galaxy''|300|[[★×4>難易度表/かんたん/Pixel Galaxy]]|[[★×5>難易度表/ふつう/Pixel Galaxy]]|[[★×6>難易度表/むずかしい/Pixel Galaxy]]|[[★×9>難易度表/おに/Pixel Galaxy]]|-|
+|''Player's High''|255|[[★×5>難易度表/かんたん/Player's High]]|[[★×7>難易度表/ふつう/Player's High]]|[[★×8>難易度表/むずかしい/Player's High]]|[[★×10>難易度表/おに/Player's High]]|-|
+|''PONPOKO RHYTHM''|170|[[★×4>難易度表/かんたん/PONPOKO RHYTHM]]|[[★×6>難易度表/ふつう/PONPOKO RHYTHM]]|[[★×6>難易度表/むずかしい/PONPOKO RHYTHM]]|[[★×7>難易度表/おに/PONPOKO RHYTHM]]|-|
+|''PON PON PON''|128|[[★×3>難易度表/かんたん/PON PON PON]]|[[★×4>難易度表/ふつう/PON PON PON]]|[[★×4>難易度表/むずかしい/PON PON PON]]|[[★×6>難易度表/おに/PON PON PON]]|-|
+|''POP STAR''|140|[[★×3>難易度表/かんたん/POP STAR]]|[[★×3>難易度表/ふつう/POP STAR]]|[[★×4>難易度表/むずかしい/POP STAR]]|[[★×7>難易度表/おに/POP STAR]]|-|
+|''POP TEAM EPIC''|142|[[★×2>難易度表/かんたん/POP TEAM EPIC]]|[[★×3>難易度表/ふつう/POP TEAM EPIC]]|[[★×4>難易度表/むずかしい/POP TEAM EPIC]]|[[★×8>難易度表/おに/POP TEAM EPIC]]|-|
+|''poxei&#9830;DOON''|62.5-310|[[★×5>難易度表/かんたん/poxei◆DOON]]|[[★×7>難易度表/ふつう/poxei◆DOON]]|[[★×8>難易度表/むずかしい/poxei◆DOON]]|[[★×10>難易度表/おに/poxei◆DOON]]|-|
+|''Precious''|75|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Precious]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Precious]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Precious]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Precious]]|-|
+|''Preserved Roses''|167|[[★×3>難易度表/かんたん/Preserved Roses]]|[[★×6>難易度表/ふつう/Preserved Roses]]|[[★×6>難易度表/むずかしい/Preserved Roses]]|[[★×7>難易度表/おに/Preserved Roses]]|-|
+|''Pretender''|92|[[★×2>難易度表/かんたん/Pretender]]|[[★×2>難易度表/ふつう/Pretender]]|[[★×4>難易度表/むずかしい/Pretender]]|[[★×5>難易度表/おに/Pretender]]|-|
+|''Princess of Donder''|200-210|[[★×4>難易度表/かんたん/Princess of Donder]]|[[★×5>難易度表/ふつう/Princess of Donder]]|[[★×5>難易度表/むずかしい/Princess of Donder]]|[[★×9>難易度表/おに/Princess of Donder]]|-|
+|''Prism Melody''|182|[[★×2>難易度表/かんたん/Prism Melody]]|[[★×4>難易度表/ふつう/Prism Melody]]|[[★×4>難易度表/むずかしい/Prism Melody]]|[[★×7>難易度表/おに/Prism Melody]]|-|
+|''Prisoner Of Love''|97|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/Prisoner Of Love]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Prisoner Of Love]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Prisoner Of Love]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Prisoner Of Love]]|-|
+|''Promise''|150|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Promise]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Promise]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Promise]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Promise]]|-|
+|''Punishment''|212※|[[★×4>難易度表/かんたん/Punishment]]|[[★×4>難易度表/ふつう/Punishment]]|[[★×8>難易度表/むずかしい/Punishment]]|[[★×9>難易度表/おに/Punishment]]|-|
+|''punk bastards''|225|[[★×5>難易度表/かんたん/punk bastards]]|[[★×6>難易度表/ふつう/punk bastards]]|[[★×7>難易度表/むずかしい/punk bastards]]|[[★×9>難易度表/おに/punk bastards]]|-|
+|''Pure''|111|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Pure]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Pure]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Pure]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/Pure]]|-|
+|''Purple Rose Fusion''|185-250|[[★×5>難易度表/かんたん/Purple Rose Fusion]]|[[★×7>難易度表/ふつう/Purple Rose Fusion]]|[[★×8>難易度表/むずかしい/Purple Rose Fusion]]|[[★×10>難易度表/おに/Purple Rose Fusion]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''Q''(全 1 曲)&aname(QQQ);|
+|''QUESTION''|177|[[★×3>難易度表/かんたん/QUESTION]]|[[★×5>難易度表/ふつう/QUESTION]]|[[★×6>難易度表/むずかしい/QUESTION]]|[[★×7>難易度表/おに/QUESTION]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''R''(全 32 曲)&aname(RRR);|
+|''Racing the Storm''|148|[[★×4>難易度表/かんたん/Racing the Storm]]|[[★×5>難易度表/ふつう/Racing the Storm]]|[[★×7>難易度表/むずかしい/Racing the Storm]]|[[★×8>難易度表/おに/Racing the Storm]]|-|
+|''RAGE v. self''|144|[[★×3>難易度表/かんたん/RAGE v. self]]|[[★×4>難易度表/ふつう/RAGE v. self]]|[[★×6>難易度表/むずかしい/RAGE v. self]]|[[★×8>難易度表/おに/RAGE v. self]]|-|
+|''RAINMAKER''|165|[[★×3>難易度表/かんたん/RAINMAKER]]|[[★×4>難易度表/ふつう/RAINMAKER]]|[[★×5>難易度表/むずかしい/RAINMAKER]]|[[★×8>難易度表/おに/RAINMAKER]]|-|
+|''Raise your flag''|145|[[★×2>難易度表/かんたん/Raise your flag]]|[[★×4>難易度表/ふつう/Raise your flag]]|[[★×5>難易度表/むずかしい/Raise your flag]]|[[★×8>難易度表/おに/Raise your flag]]|-|
+|''RARE HERO''|136.35※|[[★×5>難易度表/かんたん/Rare Hero]]|[[★×7>難易度表/ふつう/Rare Hero]]|[[★×7>難易度表/むずかしい/Rare Hero]]|[[★×8>難易度表/おに/Rare Hero]]|-|
+|''READY!!''|174|[[★×3>難易度表/かんたん/READY!!]]|[[★×2>難易度表/ふつう/READY!!]]|[[★×4>難易度表/むずかしい/READY!!]]|[[★×6>難易度表/おに/READY!!]]|-|
+|''REAL×EYEZ''|187-188|[[★×2>難易度表/かんたん/REAL×EYEZ]]|[[★×2>難易度表/ふつう/REAL×EYEZ]]|[[★×3>難易度表/むずかしい/REAL×EYEZ]]|[[★×4>難易度表/おに/REAL×EYEZ]]|-|
+|''Realize''|206|[[★×3>難易度表/かんたん/Realize]]|[[★×5>難易度表/ふつう/Realize]]|[[★×6>難易度表/むずかしい/Realize]]|[[★×7>難易度表/おに/Realize]]|-|
+|''Real voice''|131※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Real voice]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Real voice]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Real voice]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Real voice]]|-|
+|''Reason!!''|190|[[★×1>難易度表/かんたん/Reason!!]]|[[★×2>難易度表/ふつう/Reason!!]]|[[★×3>難易度表/むずかしい/Reason!!]]|[[★×6>難易度表/おに/Reason!!]]|-|
+|''Red Rose Evangel''|178|[[★×5>難易度表/かんたん/Red Rose Evangel]]|[[★×7>難易度表/ふつう/Red Rose Evangel]]|[[★×7>難易度表/むずかしい/Red Rose Evangel]]|[[★×9>難易度表/おに/Red Rose Evangel]]|-|
+|''relations''|142|[[★×3>難易度表/かんたん/relations]]|[[★×5>難易度表/ふつう/relations]]|[[★×6>難易度表/むずかしい/relations]]|[[★×8>難易度表/おに/relations]]|-|
+|''Re:member''|172|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Re：member]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Re：member]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Re：member]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Re：member]]|-|
+|''RESTART''|140-280|[[★×2>難易度表/かんたん/RESTART]]|[[★×3>難易度表/ふつう/RESTART]]|[[★×4>難易度表/むずかしい/RESTART]]|[[★×8>難易度表/おに/RESTART]]|-|
+|''RHYTHM AND POLICE''|141|[[★×3>難易度表/かんたん/Rhythm and Police]]|[[★×5>難易度表/ふつう/Rhythm and Police]]|[[★×6>難易度表/むずかしい/Rhythm and Police]]|[[★×7>難易度表/おに/Rhythm and Police]]|-|
+|''R.I.''|190|[[★×5>難易度表/かんたん/R.I.]]|[[★×7>難易度表/ふつう/R.I.]]|[[★×8>難易度表/むずかしい/R.I.]]|[[★×10>難易度表/おに/R.I.]]|-|
+|''Ridge Racer''|140※|[[★×4>難易度表/かんたん/Ridge Racer]]|[[★×7>難易度表/ふつう/Ridge Racer]]|[[★×8>難易度表/おに/Ridge Racer]]|[[★×8>難易度表/おに/Ridge Racer]]|[[★×9>難易度表/おに/Ridge Racer(裏譜面)]]|
+|''Ridge racer(RIDGE RACER USA MIX)''|232|[[★×4>難易度表/かんたん/Ridge racer (RIDGE RACER USA MIX)]]|[[★×6>難易度表/ふつう/Ridge racer (RIDGE RACER USA MIX)]]|[[★×7>難易度表/むずかしい/Ridge racer (RIDGE RACER USA MIX)]]|[[★×9>難易度表/おに/Ridge racer (RIDGE RACER USA MIX)]]|-|
+|''RIDGE RACER STEPS -GMT remix-''|240|[[★×4>難易度表/かんたん/RIDGE RACER STEPS -GMT remix-]]|[[★×6>難易度表/ふつう/RIDGE RACER STEPS -GMT remix-]]|[[★×7>難易度表/むずかしい/RIDGE RACER STEPS -GMT remix-]]|[[★×9>難易度表/おに/RIDGE RACER STEPS -GMT remix-]]|-|
+|''Ring a Ding Dong''|175|[[★×3>難易度表/かんたん/Ring a Ding Dong]]|[[★×4>難易度表/ふつう/Ring a Ding Dong]]|[[★×4>難易度表/むずかしい/Ring a Ding Dong]]|[[★×7>難易度表/おに/Ring a Ding Dong]]|-|
+|''RISE''|165|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/RISE]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/RISE]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/RISE]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/RISE]]|-|
+|''Rising''|146|[[★×4>難易度表/かんたん/Rising]]|[[★×6>難易度表/ふつう/Rising]]|[[★×7>難易度表/むずかしい/Rising]]|[[★×9>難易度表/おに/Rising]]|-|
+|''Rising Hope''|190|[[★×4>難易度表/かんたん/Rising Hope]]|[[★×6>難易度表/ふつう/Rising Hope]]|[[★×6>難易度表/むずかしい/Rising Hope]]|[[★×7>難易度表/おに/Rising Hope]]|-|
+|''Rising Sun''|127|[[★×3>難易度表/かんたん/Rising Sun]]|[[★×3>難易度表/ふつう/Rising Sun]]|[[★×3>難易度表/むずかしい/Rising Sun]]|[[★×5>難易度表/おに/Rising Sun]]|-|
+|''RIVER''|106.5|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/RIVER]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/RIVER]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/RIVER]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/RIVER]]|-|
+|''Roca Roja''|160|[[★×4>難易度表/かんたん/Roca Roja]]|[[★×6>難易度表/ふつう/Roca Roja]]|[[★×7>難易度表/むずかしい/Roca Roja]]|[[★×9>難易度表/おに/Roca Roja]]|-|
+|''ROCKET DIVE''|182.99|[[★×3>難易度表/かんたん/ROCKET DIVE]]|[[★×4>難易度表/ふつう/ROCKET DIVE]]|[[★×3>難易度表/むずかしい/ROCKET DIVE]]|[[★×6>難易度表/おに/ROCKET DIVE]]|-|
+|''Romanticが止まらない''|146|[[★×3>難易度表/かんたん/Romanticが止まらない]]|[[★×5>難易度表/ふつう/Romanticが止まらない]]|[[★×6>難易度表/むずかしい/Romanticが止まらない]]|[[★×6>難易度表/おに/Romanticが止まらない]]|-|
+|''ROTTERDAM NATION(FOO MIX)''|185-221|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(#ccc):[[★×10>難易度表/おに/ROTTERDAM NATION(FOO MIX)]]|-|
+|''Rotter Tarmination''|200|[[★×4>難易度表/かんたん/Rotter Tarmination]]|[[★×6>難易度表/ふつう/Rotter Tarmination]]|[[★×7>難易度表/むずかしい/Rotter Tarmination]]|[[★×8>難易度表/おに/Rotter Tarmination]]|[[★×10>難易度表/おに/Rotter Tarmination(裏譜面)]]|
+|''RPG''|135|[[★×3>難易度表/かんたん/RPG]]|[[★×3>難易度表/ふつう/RPG]]|[[★×4>難易度表/むずかしい/RPG]]|[[★×6>難易度表/おに/RPG]]|-|
+|''R.Y.U.S.E.I.''|128|[[★×3>難易度表/かんたん/R.Y.U.S.E.I.]]|[[★×5>難易度表/ふつう/R.Y.U.S.E.I.]]|[[★×7>難易度表/むずかしい/R.Y.U.S.E.I.]]|[[★×8>難易度表/おに/R.Y.U.S.E.I.]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''S''(全 70 曲)&aname(SSS);|
+|''S''|212|[[★×3>難易度表/かんたん/S]]|[[★×4>難易度表/ふつう/S]]|[[★×5>難易度表/むずかしい/S]]|[[★×9>難易度表/おに/S]]|-|
+|''Saika''|128|[[★×3>難易度表/かんたん/Saika]]|[[★×4>難易度表/ふつう/Saika]]|[[★×6>難易度表/むずかしい/Saika]]|[[★×8>難易度表/おに/Saika]]|-|
+|''sakura''|138|[[★×3>難易度表/かんたん/sakura]]|[[★×4>難易度表/ふつう/sakura]]|[[★×6>難易度表/むずかしい/sakura]]|[[★×7>難易度表/おに/sakura]]|-|
+|''SAKURA EXHAUST''|178|[[★×3>難易度表/かんたん/SAKURA EXHAUST]]|[[★×6>難易度表/ふつう/SAKURA EXHAUST]]|[[★×7>難易度表/むずかしい/SAKURA EXHAUST]]|[[★×9>難易度表/おに/SAKURA EXHAUST]]|-|
+|''SAMURAI ROCKET''|136|[[★×4>難易度表/かんたん/SAMURAI ROCKET]]|[[★×5>難易度表/ふつう/SAMURAI ROCKET]]|[[★×7>難易度表/むずかしい/SAMURAI ROCKET]]|[[★×8>難易度表/おに/SAMURAI ROCKET]]|[[★×9>難易度表/おに/SAMURAI ROCKET(裏譜面)]]|
+|''Savage Love''|150|[[★×2>難易度表/かんたん/Savage Love]]|[[★×3>難易度表/ふつう/Savage Love]]|[[★×4>難易度表/むずかしい/Savage Love]]|[[★×6>難易度表/おに/Savage Love]]|-|
+|''Scarlet Lance''|185|[[★×5>難易度表/かんたん/Scarlet Lance]]|[[★×7>難易度表/ふつう/Scarlet Lance]]|[[★×8>難易度表/むずかしい/Scarlet Lance]]|[[★×10>難易度表/おに/Scarlet Lance]]|-|
+|''Scars of FAUNA''|165|[[★×4>難易度表/かんたん/Scars of FAUNA]]|[[★×5>難易度表/ふつう/Scars of FAUNA]]|[[★×7>難易度表/むずかしい/Scars of FAUNA]]|[[★×9>難易度表/おに/Scars of FAUNA]]|-|
+|''School Days''|140|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/School Days]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/School Days]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/School Days]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/School Days]]|-|
+|''Scream out! -達人Edit.-''|165|[[★×3>難易度表/かんたん/Scream out! -達人Edit.-]]|[[★×5>難易度表/ふつう/Scream out! -達人Edit.-]]|[[★×6>難易度表/むずかしい/Scream out! -達人Edit.-]]|[[★×8>難易度表/おに/Scream out! -達人Edit.-]]|[[★×9>難易度表/おに/Scream out! -達人Edit.-(裏譜面)]]|
+|''Seize the day''|210|[[★×4>難易度表/かんたん/Seize the day]]|[[★×5>難易度表/ふつう/Seize the day]]|[[★×7>難易度表/むずかしい/Seize the day]]|[[★×9>難易度表/おに/Seize the day]]|-|
+|''SEVENTH HEAVEN''|130|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/SEVENTH HEAVEN]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/SEVENTH HEAVEN]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/SEVENTH HEAVEN]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/SEVENTH HEAVEN]]|-|
+|''SHAKE''|130|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/SHAKE]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/SHAKE]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/SHAKE]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/SHAKE]]|-|
+|''Sha la la -アヤカシNIGHT-''|137|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Sha la la -アヤカシNIGHT-]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Sha la la -アヤカシNIGHT-]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Sha la la -アヤカシNIGHT-]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Sha la la -アヤカシNIGHT-]]|-|
+|''Shine''|127|[[★×3>難易度表/かんたん/Shine]]|[[★×4>難易度表/ふつう/Shine]]|[[★×3>難易度表/むずかしい/Shine]]|[[★×6>難易度表/おに/Shine]]|-|
+|''Shine!!''|174|[[★×3>難易度表/かんたん/Shine!!]]|[[★×4>難易度表/ふつう/Shine!!]]|[[★×5>難易度表/むずかしい/Shine!!]]|[[★×6>難易度表/おに/Shine!!]]|[[★×9>難易度表/おに/Shine!!(裏譜面)]]|
+|''SHINE!! キラキラ☆プリキュアアラモード''|174|[[★×2>難易度表/かんたん/SHINE!! キラキラ☆プリキュアアラモード]]|[[★×3>難易度表/ふつう/SHINE!! キラキラ☆プリキュアアラモード]]|[[★×4>難易度表/むずかしい/SHINE!! キラキラ☆プリキュアアラモード]]|[[★×6>難易度表/おに/SHINE!! キラキラ☆プリキュアアラモード]]|-|
+|''Shining Lights (feat. PSYQUI)''|169|[[★×2>難易度表/かんたん/Shining Lights (feat. PSYQUI)]]|[[★×2>難易度表/ふつう/Shining Lights (feat. PSYQUI)]]|[[★×6>難易度表/むずかしい/Shining Lights (feat. PSYQUI)]]|[[★×9>難易度表/おに/Shining Lights (feat. PSYQUI)]]|-|
+|''SHINING LINE*''|134-150|[[★×2>難易度表/かんたん/SHINING LINE*]]|[[★×2>難易度表/ふつう/SHINING LINE*]]|[[★×4>難易度表/むずかしい/SHINING LINE*]]|[[★×6>難易度表/おに/SHINING LINE*]]|-|
+|''SHINY''(境界のRINNE)|175|[[★×3>難易度表/かんたん/SHINY]]|[[★×4>難易度表/ふつう/SHINY]]|[[★×5>難易度表/むずかしい/SHINY]]|[[★×7>難易度表/おに/SHINY]]|-|
+|''SHINY(モアナ)''|146※|[[★×1>難易度表/かんたん/SHINY(モアナ)]]|[[★×2>難易度表/ふつう/SHINY(モアナ)]]|[[★×4>難易度表/むずかしい/SHINY(モアナ)]]|[[★×5>難易度表/おに/SHINY(モアナ)]]|-|
+|''Shiny Kung-fu Revival''|222.2|[[★×4>難易度表/かんたん/Shiny Kung-fu Revival]]|[[★×6>難易度表/ふつう/Shiny Kung-fu Revival]]|[[★×7>難易度表/むずかしい/Shiny Kung-fu Revival]]|[[★×9>難易度表/おに/Shiny Kung-fu Revival]]|-|
+|''shiny smile''|170※|[[★×3>難易度表/かんたん/shiny smile]]|[[★×4>難易度表/ふつう/shiny smile]]|[[★×4>難易度表/むずかしい/shiny smile]]|[[★×8>難易度表/おに/shiny smile]]|[[★×7>難易度表/おに/shiny smile(裏譜面)]]|
+|''SHOGYO MUJO''|148|[[★×2>難易度表/かんたん/SHOGYO MUJO]]|[[★×3>難易度表/ふつう/SHOGYO MUJO]]|[[★×7>難易度表/むずかしい/SHOGYO MUJO]]|[[★×9>難易度表/おに/SHOGYO MUJO]]|-|
+|''Shooting Star''|116|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Shooting Star]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Shooting Star]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Shooting Star]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Shooting Star]]|-|
+|''Sign''|74-178|[[★×3>難易度表/かんたん/Sign]]|[[★×5>難易度表/ふつう/Sign]]|[[★×6>難易度表/むずかしい/Sign]]|[[★×7>難易度表/おに/Sign]]|-|
+|''Silent Jealousy''|183|[[★×4>難易度表/かんたん/Silent Jealousy]]|[[★×6>難易度表/ふつう/Silent Jealousy]]|[[★×7>難易度表/むずかしい/Silent Jealousy]]|[[★×8>難易度表/おに/Silent Jealousy]]|[[★×10>難易度表/おに/Silent Jealousy(裏譜面)]]|
+|''S(mile)ING!''|178|[[★×2>難易度表/かんたん/S(mile)ING!]]|[[★×4>難易度表/ふつう/S(mile)ING!]]|[[★×4>難易度表/むずかしい/S(mile)ING!]]|[[★×6>難易度表/おに/S(mile)ING!]]|-|
+|''Smile! Smile! Smile!''|280|[[★×2>難易度表/かんたん/Smile! Smile! Smile!]]|[[★×2>難易度表/ふつう/Smile! Smile! Smile!]]|[[★×4>難易度表/むずかしい/Smile! Smile! Smile!]]|[[★×5>難易度表/おに/Smile! Smile! Smile!]]|[[★×9>難易度表/おに/Smile! Smile! Smile!(裏譜面)]]|
+|''SMILY''|154|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/SMILY]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/SMILY]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/SMILY]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/SMILY]]|-|
+|''SMOKY THRILL''|146|[[★×4>難易度表/かんたん/SMOKY THRILL]]|[[★×5>難易度表/ふつう/SMOKY THRILL]]|[[★×6>難易度表/むずかしい/SMOKY THRILL]]|[[★×8>難易度表/おに/SMOKY THRILL]]|-|
+|''Snow halation''|173|[[★×3>難易度表/かんたん/Snow halation]]|[[★×4>難易度表/ふつう/Snow halation]]|[[★×5>難易度表/むずかしい/Snow halation]]|[[★×6>難易度表/おに/Snow halation]]|-|
+|''Solitude Star''|178|[[★×5>難易度表/かんたん/Solitude Star]]|[[★×6>難易度表/ふつう/Solitude Star]]|[[★×7>難易度表/むずかしい/Solitude Star]]|[[★×9>難易度表/おに/Solitude Star]]|-|
+|''SORA-I アースライズ''|134|[[★×3>難易度表/かんたん/SORA-I アースライズ]]|[[★×5>難易度表/ふつう/SORA-I アースライズ]]|[[★×7>難易度表/むずかしい/SORA-I アースライズ]]|[[★×8>難易度表/おに/SORA-I アースライズ]]|-|
+|''SORA-II グリーゼ581''|144|[[★×3>難易度表/かんたん/SORA-II グリーゼ581]]|[[★×3>難易度表/ふつう/SORA-II グリーゼ581]]|[[★×7>難易度表/むずかしい/SORA-II グリーゼ581]]|[[★×7>難易度表/おに/SORA-II グリーゼ581]]|-|
+|''SORA-III ヘリオポーズ''|135※|[[★×4>難易度表/かんたん/SORA-III ヘリオポーズ]]|[[★×6>難易度表/ふつう/SORA-III ヘリオポーズ]]|[[★×7>難易度表/むずかしい/SORA-III ヘリオポーズ]]|[[★×9>難易度表/おに/SORA-III ヘリオポーズ]]|-|
+|''SORA-IV ブンパソング''|130|[[★×4>難易度表/かんたん/SORA-IV ブンパソング]]|[[★×5>難易度表/ふつう/SORA-IV ブンパソング]]|[[★×5>難易度表/むずかしい/SORA-IV ブンパソング]]|[[★×8>難易度表/おに/SORA-IV ブンパソング]]|-|
+|''SORA-V コズミックバード''|135|[[★×3>難易度表/かんたん/SORA-V コズミックバード]]|[[★×4>難易度表/ふつう/SORA-V コズミックバード]]|[[★×6>難易度表/むずかしい/SORA-V コズミックバード]]|[[★×8>難易度表/おに/SORA-V コズミックバード]]|-|
+|''SORA-VI 火ノ鳥''|169|[[★×5>難易度表/かんたん/SORA-VI 火ノ鳥]]|[[★×5>難易度表/ふつう/SORA-VI 火ノ鳥]]|[[★×7>難易度表/むずかしい/SORA-VI 火ノ鳥]]|[[★×9>難易度表/おに/SORA-VI 火ノ鳥]]|-|
+|''SORA-VII シグナスウォール''|180|[[★×4>難易度表/かんたん/SORA-VII シグナスウォール]]|[[★×6>難易度表/ふつう/SORA-VII シグナスウォール]]|[[★×7>難易度表/むずかしい/SORA-VII シグナスウォール]]|[[★×10>難易度表/おに/SORA-VII シグナスウォール]]|-|
+|''Soup''|84|[[★×3>難易度表/かんたん/Soup]]|[[★×5>難易度表/ふつう/Soup]]|[[★×6>難易度表/むずかしい/Soup]]|[[★×8>難易度表/おに/Soup]]|-|
+|''SPARKING 鉄拳5''|115|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/SPARKING 鉄拳5]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/SPARKING 鉄拳5]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/SPARKING 鉄拳5]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/SPARKING 鉄拳5]]|-|
+|''Spectral Rider''|172-258|[[★×5>難易度表/かんたん/Spectral Rider]]|[[★×6>難易度表/ふつう/Spectral Rider]]|[[★×7>難易度表/むずかしい/Spectral Rider]]|[[★×10>難易度表/おに/Spectral Rider]]|-|
+|''SPEED KING''|205|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/SPEED KING]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/SPEED KING]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/SPEED KING]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/SPEED KING]]|-|
+|''SPLENDOR''|155|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/SPLENDOR]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/SPLENDOR]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/SPLENDOR]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/SPLENDOR]]|-|
+|''Spread the Wings!!''|170|[[★×3>難易度表/かんたん/Spread the Wings!!]]|[[★×4>難易度表/ふつう/Spread the Wings!!]]|[[★×4>難易度表/むずかしい/Spread the Wings!!]]|[[★×6>難易度表/おに/Spread the Wings!!]]|-|
+|''SstTAarR*''|200|[[★×5>難易度表/かんたん/SstTAarR*]]|[[★×7>難易度表/ふつう/SstTAarR*]]|[[★×8>難易度表/むずかしい/SstTAarR*]]|[[★×10>難易度表/おに/SstTAarR*]]|-|
+|''STAGE 0.ac11''|138|[[★×5>難易度表/かんたん/STAGE 0.ac11]]|[[★×7>難易度表/ふつう/STAGE 0.ac11]]|[[★×8>難易度表/むずかしい/STAGE 0.ac11]]|[[★×9>難易度表/おに/STAGE 0.ac11]]|-|
+|''Stairway Generation''|153|[[★×3>難易度表/かんたん/Stairway Generation]]|[[★×4>難易度表/ふつう/Stairway Generation]]|[[★×6>難易度表/むずかしい/Stairway Generation]]|[[★×7>難易度表/おに/Stairway Generation]]|-|
+|''Star!!''|178|[[★×3>難易度表/かんたん/Star!!]]|[[★×4>難易度表/ふつう/Star!!]]|[[★×5>難易度表/むずかしい/Star!!]]|[[★×6>難易度表/おに/Star!!]]|[[★×9>難易度表/おに/Star!!(裏譜面)]]|
+|''START!!''|94-376|[[★×3>難易度表/かんたん/START!!]]|[[★×4>難易度表/ふつう/START!!]]|[[★×5>難易度表/むずかしい/START!!]]|[[★×8>難易度表/おに/START!!]]|-|
+|''START DASH SENSATION''|170※|[[★×2>難易度表/かんたん/START DASH SENSATION]]|[[★×3>難易度表/ふつう/START DASH SENSATION]]|[[★×4>難易度表/むずかしい/START DASH SENSATION]]|[[★×5>難易度表/おに/START DASH SENSATION]]|-|
+|''Star Wars: Main Title''|56-107※|[[★×3>難易度表/かんたん/Star Wars： Main Title]]|[[★×4>難易度表/ふつう/Star Wars： Main Title]]|[[★×6>難易度表/むずかしい/Star Wars： Main Title]]|[[★×8>難易度表/おに/Star Wars： Main Title]]|-|
+|''STAY TUNE''|123※|[[★×2>難易度表/かんたん/STAY TUNE]]|[[★×3>難易度表/ふつう/STAY TUNE]]|[[★×5>難易度表/むずかしい/STAY TUNE]]|[[★×7>難易度表/おに/STAY TUNE]]|-|
+|''STEPPING WIND 風のクロノア2''|164|-|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/STEPPING WIND]]|BGCOLOR(#ccc):[[★×1>難易度表/むずかしい/STEPPING WIND]]|BGCOLOR(#ccc):[[★×3>難易度表/おに/STEPPING WIND]]|-|
+|''Stick Trick Show&#84;ime!!''|173|[[★×5>難易度表/かんたん/Stick Trick ShowTime!!]]|[[★×6>難易度表/ふつう/Stick Trick ShowTime!!]]|[[★×8>難易度表/むずかしい/Stick Trick ShowTime!!]]|[[★×10>難易度表/おに/Stick Trick ShowTime!!]]|-|
+|''Streamer''|126|[[★×2>難易度表/かんたん/Streamer]]|[[★×3>難易度表/ふつう/Streamer]]|[[★×5>難易度表/むずかしい/Streamer]]|[[★×7>難易度表/おに/Streamer]]|-|
+|''Sugar''|120|[[★×1>難易度表/かんたん/Sugar]]|[[★×3>難易度表/ふつう/Sugar]]|[[★×4>難易度表/むずかしい/Sugar]]|[[★×7>難易度表/おに/Sugar]]|-|
+|''Summer Dude''|133|[[★×3>難易度表/かんたん/Summer Dude]]|[[★×5>難易度表/ふつう/Summer Dude]]|[[★×6>難易度表/むずかしい/Summer Dude]]|[[★×8>難易度表/おに/Summer Dude]]|-|
+|''Sunny Day Sunday''|170|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/Sunny Day Sunday]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Sunny Day Sunday]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/Sunny Day Sunday]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Sunny Day Sunday]]|-|
+|''Sunset Runaway''|154※|[[★×4>難易度表/かんたん/Sunset Runaway]]|[[★×6>難易度表/ふつう/Sunset Runaway]]|[[★×8>難易度表/むずかしい/Sunset Runaway]]|[[★×9>難易度表/おに/Sunset Runaway]]|-|
+|''SUPERNOVA''|212|[[★×5>難易度表/かんたん/SUPERNOVA]]|[[★×7>難易度表/ふつう/SUPERNOVA]]|[[★×8>難易度表/むずかしい/SUPERNOVA]]|[[★×10>難易度表/おに/SUPERNOVA]]|[[★×10>難易度表/おに/SUPERNOVA(裏譜面)]]|
+|''super star shooter''|170|[[★×4>難易度表/かんたん/super star shooter]]|[[★×6>難易度表/ふつう/super star shooter]]|[[★×7>難易度表/むずかしい/super star shooter]]|[[★×8>難易度表/おに/super star shooter]]|-|
+|''Surf Zapping''|100-200|[[★×4>難易度表/かんたん/Surf Zapping]]|[[★×6>難易度表/ふつう/Surf Zapping]]|[[★×7>難易度表/むずかしい/Surf Zapping]]|[[★×10>難易度表/おに/Surf Zapping]]|-|
+|''SURPRISE‐DRIVE''|180|[[★×3>難易度表/かんたん/SURPRISE‐DRIVE]]|[[★×4>難易度表/ふつう/SURPRISE‐DRIVE]]|[[★×6>難易度表/むずかしい/SURPRISE‐DRIVE]]|[[★×7>難易度表/おに/SURPRISE‐DRIVE]]|-|
+|''Swan''|141※|[[★×3>難易度表/かんたん/Swan]]|[[★×4>難易度表/ふつう/Swan]]|[[★×6>難易度表/むずかしい/Swan]]|[[★×8>難易度表/おに/Swan]]|-|
+|''Sweet Lay''|140|[[★×4>難易度表/かんたん/Sweet Lay]]|[[★×5>難易度表/ふつう/Sweet Lay]]|[[★×6>難易度表/むずかしい/Sweet Lay]]|[[★×8>難易度表/おに/Sweet Lay]]|-|
+|''Sweet Sweet Magic''|179|[[★×4>難易度表/かんたん/Sweet Sweet Magic]]|[[★×5>難易度表/ふつう/Sweet Sweet Magic]]|[[★×5>難易度表/むずかしい/Sweet Sweet Magic]]|[[★×7>難易度表/おに/Sweet Sweet Magic]]|-|
+|''Switch On!''|190|[[★×1>難易度表/かんたん/Switch On!]]|[[★×1>難易度表/ふつう/Switch On!]]|[[★×3>難易度表/むずかしい/Switch On!]]|[[★×3>難易度表/おに/Switch On!]]|[[★×9>難易度表/おに/Switch On!(裏譜面)]]|
+|''Synchronicity''|130|[[★×3>難易度表/かんたん/Synchronicity]]|[[★×3>難易度表/ふつう/Synchronicity]]|[[★×6>難易度表/むずかしい/Synchronicity]]|[[★×8>難易度表/おに/Synchronicity]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''T''(全 45 曲)&aname(TTT);|
+|''Taiko Drum Monster''|199.5-266|[[★×3>難易度表/かんたん/Taiko Drum Monster]]|[[★×5>難易度表/ふつう/Taiko Drum Monster]]|[[★×7>難易度表/むずかしい/Taiko Drum Monster]]|[[★×10>難易度表/おに/Taiko Drum Monster]]|[[★×10>難易度表/おに/Taiko Drum Monster(裏譜面)]]|
+|''Taiko Session''&br;SIZE(11){　　〜Live Version〜}|140|[[★×3>難易度表/かんたん/Taiko Session〜Live Version〜]]|[[★×4>難易度表/ふつう/Taiko Session〜Live Version〜]]|[[★×6>難易度表/おに/Taiko Session〜Live Version〜]]|[[★×7>難易度表/おに/Taiko Session〜Live Version〜]]|[[★×9>難易度表/おに/Taiko Session〜Live Version〜(裏譜面)]]|
+|''talking''|140|[[★×3>難易度表/かんたん/talking]]|[[★×5>難易度表/ふつう/talking]]|[[★×5>難易度表/むずかしい/talking]]|[[★×8>難易度表/おに/talking]]|-|
+|''Tank!''|138※|[[★×5>難易度表/かんたん/Tank!]]|[[★×5>難易度表/ふつう/Tank!]]|[[★×7>難易度表/むずかしい/Tank!]]|[[★×9>難易度表/おに/Tank!]]|[[★×9>難易度表/おに/Tank!(裏譜面)]]|
+|''TD - 28619029byte remix -''|150.11|[[★×5>難易度表/かんたん/TD -28619029byte remix-]]|[[★×7>難易度表/ふつう/TD -28619029byte remix-]]|[[★×8>難易度表/むずかしい/TD -28619029byte remix-]]|[[★×9>難易度表/おに/TD -28619029byte remix-]]|-|
+|''TE-20''|168※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/TE-20]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/TE-20]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/TE-20]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/TE-20]]|-|
+|''tear''|107-145|[[★×3>難易度表/かんたん/tear]]|[[★×4>難易度表/ふつう/tear]]|[[★×5>難易度表/むずかしい/tear]]|[[★×7>難易度表/おに/tear]]|-|
+|''Telecastic fake show''|144-215※|[[★×4>難易度表/かんたん/Telecastic fake show]]|[[★×6>難易度表/ふつう/Telecastic fake show]]|[[★×7>難易度表/むずかしい/Telecastic fake show]]|[[★×10>難易度表/おに/Telecastic fake show]]|-|
+|''Tell Your World''|150※|[[★×3>難易度表/かんたん/Tell Your World]]|[[★×2>難易度表/ふつう/Tell Your World]]|[[★×5>難易度表/むずかしい/Tell Your World]]|[[★×6>難易度表/おに/Tell Your World]]|-|
+|''TEMPLATE''|100-200※|[[★×3>難易度表/かんたん/TEMPLATE]]|[[★×5>難易度表/ふつう/TEMPLATE]]|[[★×6>難易度表/むずかしい/TEMPLATE]]|[[★×8>難易度表/おに/TEMPLATE]]|-|
+|''Thank You!''|177|[[★×3>難易度表/かんたん/Thank You!]]|[[★×4>難易度表/ふつう/Thank You!]]|[[★×5>難易度表/むずかしい/Thank You!]]|[[★×8>難易度表/おに/Thank You!]]|-|
+|''The Carnivorous Carnival''|168|[[★×4>難易度表/かんたん/The Carnivorous Carnival]]|[[★×6>難易度表/ふつう/The Carnivorous Carnival]]|[[★×7>難易度表/むずかしい/The Carnivorous Carnival]]|[[★×9>難易度表/おに/The Carnivorous Carnival]]|-|
+|''THE DAY''|186|[[★×2>難易度表/かんたん/THE DAY]]|[[★×4>難易度表/ふつう/THE DAY]]|[[★×6>難易度表/むずかしい/THE DAY]]|[[★×8>難易度表/おに/THE DAY]]|-|
+|''The Future of the 太鼓ドラム''|79-350|[[★×5>難易度表/かんたん/The Future of the 太鼓ドラム]]|[[★×7>難易度表/ふつう/The Future of the 太鼓ドラム]]|[[★×8>難易度表/むずかしい/The Future of the 太鼓ドラム]]|[[★×10>難易度表/おに/The Future of the 太鼓ドラム]]|[[★×10>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|
+|''THE IDOLM@STER''|165|[[★×3>難易度表/かんたん/THE IDOLM@STER]]|[[★×4>難易度表/ふつう/THE IDOLM@STER]]|[[★×4>難易度表/むずかしい/THE IDOLM@STER]]|[[★×8>難易度表/おに/THE IDOLM@STER]]|[[★×8>難易度表/おに/THE IDOLM@STER(裏譜面)]]|
+|''THE IDOLM@STER 2nd-mix''|168|[[★×3>難易度表/かんたん/THE IDOLM@STER 2nd-mix]]|[[★×4>難易度表/ふつう/THE IDOLM@STER 2nd-mix]]|[[★×5>難易度表/むずかしい/THE IDOLM@STER 2nd-mix]]|[[★×8>難易度表/おに/THE IDOLM@STER 2nd-mix]]|-|
+|''The Magician's Dream''|191|[[★×4>難易度表/かんたん/The Magician's Dream]]|[[★×6>難易度表/ふつう/The Magician's Dream]]|[[★×7>難易度表/むずかしい/The Magician's Dream]]|[[★×8>難易度表/おに/The Magician's Dream]]|-|
+|''Theme of Ryu''|137※|[[★×3>難易度表/かんたん/Theme of Ryu]]|[[★×5>難易度表/ふつう/Theme of Ryu]]|[[★×6>難易度表/むずかしい/Theme of Ryu]]|[[★×8>難易度表/おに/Theme of Ryu]]|-|
+|''The Orb Festival''|163|[[★×4>難易度表/かんたん/The Orb Festival]]|[[★×6>難易度表/ふつう/The Orb Festival]]|[[★×6>難易度表/むずかしい/The Orb Festival]]|[[★×8>難易度表/おに/The Orb Festival]]|-|
+|''The Other self''|150※|[[★×3>難易度表/かんたん/The Other self]]|[[★×4>難易度表/ふつう/The Other self]]|[[★×6>難易度表/むずかしい/The Other self]]|[[★×8>難易度表/おに/The Other self]]|-|
+|''THE POLiCY''|126|[[★×2>難易度表/かんたん/THE POLiCY]]|[[★×4>難易度表/ふつう/THE POLiCY]]|[[★×6>難易度表/むずかしい/THE POLiCY]]|[[★×8>難易度表/おに/THE POLiCY]]|-|
+|''The Power Of Love''|118.7-119|[[★×2>難易度表/かんたん/The Power Of Love]]|[[★×3>難易度表/ふつう/The Power Of Love]]|[[★×4>難易度表/むずかしい/The Power Of Love]]|[[★×6>難易度表/おに/The Power Of Love]]|-|
+|''The Windmill Song''|125|[[★×4>難易度表/かんたん/The Windmill Song]]|[[★×6>難易度表/ふつう/The Windmill Song]]|[[★×6>難易度表/むずかしい/The Windmill Song]]|[[★×8>難易度表/おに/The Windmill Song]]|-|
+|''The world is all one !!''|167※|[[★×3>難易度表/かんたん/The world is all one !!]]|[[★×4>難易度表/ふつう/The world is all one !!]]|[[★×4>難易度表/むずかしい/The world is all one !!]]|[[★×5>難易度表/おに/The world is all one !!]]|[[★×8>難易度表/おに/The world is all one !!(裏譜面)]]|
+|''Thinking 〜Must Mix〜''|171-342※|[[★×5>難易度表/かんたん/Thinking 〜Must Mix〜]]|[[★×6>難易度表/ふつう/Thinking 〜Must Mix〜]]|[[★×7>難易度表/むずかしい/Thinking 〜Must Mix〜]]|[[★×8>難易度表/おに/Thinking 〜Must Mix〜]]|[[★×10>難易度表/おに/Thinking 〜Must Mix〜(裏譜面)]]|
+|''Time to dine''|145|[[★×5>難易度表/かんたん/Time to dine]]|[[★×6>難易度表/ふつう/Time to dine]]|[[★×7>難易度表/むずかしい/Time to dine]]|[[★×9>難易度表/おに/Time to dine]]|-|
+|''Together''|137※|[[★×2>難易度表/かんたん/Together]]|[[★×2>難易度表/ふつう/Together]]|[[★×4>難易度表/むずかしい/Together]]|[[★×4>難易度表/おに/Together]]|-|
+|''TOKIMEKIエスカレート''|140|[[★×2>難易度表/かんたん/TOKIMEKIエスカレート]]|[[★×3>難易度表/ふつう/TOKIMEKIエスカレート]]|[[★×5>難易度表/むずかしい/TOKIMEKIエスカレート]]|[[★×6>難易度表/おに/TOKIMEKIエスカレート]]|[[★×9>難易度表/おに/TOKIMEKIエスカレート(裏譜面)]]|
+|''TOKIMEKI&#9825;ですとろいやー！！''|200|[[★×4>難易度表/かんたん/TOKIMEKI・ですとろいやー！！]]|[[★×5>難易度表/ふつう/TOKIMEKI・ですとろいやー！！]]|[[★×7>難易度表/むずかしい/TOKIMEKI・ですとろいやー！！]]|[[★×9>難易度表/おに/TOKIMEKI・ですとろいやー！！]]|-|
+|''TO MAKE THE END OF BATTLE''|232.4|[[★×4>難易度表/かんたん/TO MAKE THE END OF BATTLE]]|[[★×5>難易度表/ふつう/TO MAKE THE END OF BATTLE]]|[[★×7>難易度表/むずかしい/TO MAKE THE END OF BATTLE]]|[[★×7>難易度表/おに/TO MAKE THE END OF BATTLE]]|-|
+|''TONIGHT,TONIGHT,TONIGHT''|178※|[[★×3>難易度表/かんたん/TONIGHT,TONIGHT,TONIGHT]]|[[★×5>難易度表/ふつう/TONIGHT,TONIGHT,TONIGHT]]|[[★×8>難易度表/むずかしい/TONIGHT,TONIGHT,TONIGHT]]|[[★×8>難易度表/おに/TONIGHT,TONIGHT,TONIGHT]]|-|
+|''Toon Town's Toys' Tune''|8.5-136|[[★×4>難易度表/かんたん/Toon Town's Toys' Tune]]|[[★×5>難易度表/ふつう/Toon Town's Toys' Tune]]|[[★×6>難易度表/むずかしい/Toon Town's Toys' Tune]]|[[★×10>難易度表/おに/Toon Town's Toys' Tune]]|-|
+|''Touch off''|200|[[★×4>難易度表/かんたん/Touch off]]|[[★×6>難易度表/ふつう/Touch off]]|[[★×7>難易度表/むずかしい/Touch off]]|[[★×9>難易度表/おに/Touch off]]|-|
+|''Town 〜Must Mix〜''|200|[[★×2>難易度表/かんたん/Town 〜Must Mix〜]]|[[★×3>難易度表/ふつう/Town 〜Must Mix〜]]|[[★×3>難易度表/むずかしい/Town 〜Must Mix〜]]|[[★×7>難易度表/おに/Town 〜Must Mix〜]]|-|
+|''Toxic''|144|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Toxic]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Toxic]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Toxic]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Toxic]]|-|
+|''TRAIN-TRAIN''|166-195※|[[★×4>難易度表/かんたん/TRAIN-TRAIN]]|[[★×5>難易度表/ふつう/TRAIN-TRAIN]]|[[★×4>難易度表/むずかしい/TRAIN-TRAIN]]|[[★×5>難易度表/おに/TRAIN-TRAIN]]|-|
+|''traveling''|117|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/traveling]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/traveling]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/traveling]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/traveling]]|-|
+|''TRIAL DANCE''|139|[[★×3>難易度表/かんたん/TRIAL DANCE]]|[[★×5>難易度表/ふつう/TRIAL DANCE]]|[[★×5>難易度表/むずかしい/TRIAL DANCE]]|[[★×8>難易度表/おに/TRIAL DANCE]]|-|
+|''true blue''|130|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/true blue]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/true blue]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/true blue]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/true blue]]|-|
+|''TRUTH''|152|[[★×4>難易度表/かんたん/TRUTH]]|[[★×6>難易度表/ふつう/TRUTH]]|[[★×7>難易度表/むずかしい/TRUTH]]|[[★×7>難易度表/おに/TRUTH]]|-|
+|''TT -Japanese ver.-''|130|[[★×3>難易度表/かんたん/TT -Japanese ver.-]]|[[★×5>難易度表/ふつう/TT -Japanese ver.-]]|[[★×5>難易度表/むずかしい/TT -Japanese ver.-]]|[[★×7>難易度表/おに/TT -Japanese ver.-]]|-|
+|''Tulip''|154|[[★×3>難易度表/かんたん/Tulip]]|[[★×3>難易度表/ふつう/Tulip]]|[[★×5>難易度表/むずかしい/Tulip]]|[[★×6>難易度表/おに/Tulip]]|[[★×9>難易度表/おに/Tulip(裏譜面)]]|
+|''Turquoise Tachometer''|164|[[★×4>難易度表/かんたん/Turquoise Tachometer]]|[[★×6>難易度表/ふつう/Turquoise Tachometer]]|[[★×8>難易度表/むずかしい/Turquoise Tachometer]]|[[★×9>難易度表/おに/Turquoise Tachometer]]|-|
+|''twinkle night (feat. somunia)''|174|[[★×3>難易度表/かんたん/twinkle night (feat. somunia)]]|[[★×4>難易度表/ふつう/twinkle night (feat. somunia)]]|[[★×5>難易度表/むずかしい/twinkle night (feat. somunia)]]|[[★×7>難易度表/おに/twinkle night (feat. somunia)]]|[[★×9>難易度表/おに/twinkle night (feat. somunia)(裏譜面)]]|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''U''(全 12 曲)&aname(UUU);|
+|''UFO''|164|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/UFO]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/UFO]]|BGCOLOR(#ccc):[[★×3>難易度表/おに/UFO]]|BGCOLOR(#ccc):[[★×2>難易度表/おに/UFO]]|-|
+|''UFO Swingin&#39;''|62-274|[[★×5>難易度表/かんたん/UFO Swingin']]|[[★×7>難易度表/ふつう/UFO Swingin']]|[[★×8>難易度表/むずかしい/UFO Swingin']]|[[★×10>難易度表/おに/UFO Swingin']]|-|
+|''ultra soul''|127|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/ultra soul]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/ultra soul]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/ultra soul]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/ultra soul]]|-|
+|''UNDEAD HEART(怒りのWarriors)''|210|[[★×5>難易度表/かんたん/UNDEAD HEART(怒りのWarriors)]]|[[★×7>難易度表/ふつう/UNDEAD HEART(怒りのWarriors)]]|[[★×8>難易度表/むずかしい/UNDEAD HEART(怒りのWarriors)]]|[[★×10>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|-|
+|''Undying Legend''|148-158|[[★×4>難易度表/かんたん/Undying Legend]]|[[★×4>難易度表/ふつう/Undying Legend]]|[[★×6>難易度表/むずかしい/Undying Legend]]|[[★×8>難易度表/おに/Undying Legend]]|-|
+|''UNITE!''|138|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/UNITE!]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/UNITE!]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/UNITE!]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/UNITE!]]|-|
+|''Unite The Force''|156|[[★×2>難易度表/かんたん/Unite The Force]]|[[★×4>難易度表/ふつう/Unite The Force]]|[[★×7>難易度表/むずかしい/Unite The Force]]|[[★×8>難易度表/おに/Unite The Force]]|-|
+|''URBAN FRAGMENTS''|144※|[[★×4>難易度表/かんたん/URBAN FRAGMENTS]]|[[★×4>難易度表/ふつう/URBAN FRAGMENTS]]|[[★×6>難易度表/むずかしい/URBAN FRAGMENTS]]|[[★×8>難易度表/おに/URBAN FRAGMENTS]]|-|
+|''Urban Striker''|147|[[★×3>難易度表/かんたん/Urban Striker]]|[[★×4>難易度表/ふつう/Urban Striker]]|[[★×6>難易度表/むずかしい/Urban Striker]]|[[★×8>難易度表/おに/Urban Striker]]|-|
+|''URBAN TRAIL''|152-163※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/URBAN TRAIL]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/URBAN TRAIL]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/URBAN TRAIL]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/URBAN TRAIL]]|-|
+|''U.S.A.''|139.6|[[★×2>難易度表/かんたん/U.S.A.]]|[[★×3>難易度表/ふつう/U.S.A.]]|[[★×5>難易度表/むずかしい/U.S.A.]]|[[★×6>難易度表/おに/U.S.A.]]|-|
+|''UZA''|138|[[★×3>難易度表/かんたん/UZA]]|[[★×5>難易度表/ふつう/UZA]]|[[★×5>難易度表/むずかしい/UZA]]|[[★×6>難易度表/おに/UZA]]|-|
+
+***V〜Z、数字 [#VZ_number]
+||LEFT:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+|''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''V''(全 14 曲)&aname(VVV);|
+|''V （ボルト）''|200|[[★×2>難易度表/かんたん/V（ボルト）]]|[[★×3>難易度表/ふつう/V（ボルト）]]|[[★×6>難易度表/むずかしい/V（ボルト）]]|[[★×8>難易度表/おに/V（ボルト）]]|-|
+|''VALENTI''|103|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/VALENTI]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/VALENTI]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/VALENTI]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/VALENTI]]|-|
+|''VAMOLA! キョウリュウジャー''|148※|[[★×2>難易度表/かんたん/VAMOLA!キョウリュウジャー]]|[[★×3>難易度表/ふつう/VAMOLA!キョウリュウジャー]]|[[★×5>難易度表/むずかしい/VAMOLA!キョウリュウジャー]]|[[★×6>難易度表/おに/VAMOLA!キョウリュウジャー]]|-|
+|''Vault That Borderline!''|170|[[★×3>難易度表/かんたん/Vault That Borderline!]]|[[★×5>難易度表/ふつう/Vault That Borderline!]]|[[★×5>難易度表/むずかしい/Vault That Borderline!]]|[[★×7>難易度表/おに/Vault That Borderline!]]|-|
+|''Venomous''|224※|[[★×5>難易度表/かんたん/Venomous]]|[[★×6>難易度表/ふつう/Venomous]]|[[★×7>難易度表/むずかしい/Venomous]]|[[★×9>難易度表/おに/Venomous]]|[[★×10>難易度表/おに/Venomous(裏譜面)]]|
+|''VERTeX''|237|[[★×5>難易度表/かんたん/VERTeX]]|[[★×7>難易度表/ふつう/VERTeX]]|[[★×8>難易度表/むずかしい/VERTeX]]|[[★×10>難易度表/おに/VERTeX]]|-|
+|''via lactea''|172|[[★×3>難易度表/かんたん/via lactea]]|[[★×5>難易度表/ふつう/via lactea]]|[[★×6>難易度表/むずかしい/via lactea]]|[[★×7>難易度表/おに/via lactea]]|-|
+|''VICTORIA''|185|[[★×5>難易度表/かんたん/VICTORIA]]|[[★×7>難易度表/ふつう/VICTORIA]]|[[★×8>難易度表/むずかしい/VICTORIA]]|[[★×10>難易度表/おに/VICTORIA]]|-|
+|''VICTORY''|130|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/VICTORY]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/VICTORY]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/VICTORY]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/VICTORY]]|-|
+|''V.I.P''|185|[[★×4>難易度表/かんたん/V.I.P]]|[[★×5>難易度表/ふつう/V.I.P]]|[[★×4>難易度表/むずかしい/V.I.P]]|[[★×6>難易度表/おに/V.I.P]]|-|
+|''Viva! Spark!トロピカル〜ジュ！プリキュア''|132|[[★×1>難易度表/かんたん/Viva! Spark!トロピカル〜ジュ！プリキュア]]|[[★×2>難易度表/ふつう/Viva! Spark!トロピカル〜ジュ！プリキュア]]|[[★×3>難易度表/むずかしい/Viva! Spark!トロピカル〜ジュ！プリキュア]]|[[★×4>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア]]|[[★×7>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア(裏譜面)]]|
+|''VIVIVIVID''|178|[[★×3>難易度表/かんたん/VIVIVIVID]]|[[★×5>難易度表/ふつう/VIVIVIVID]]|[[★×6>難易度表/むずかしい/VIVIVIVID]]|[[★×10>難易度表/おに/VIVIVIVID]]|-|
+|''Vixtory''|243|[[★×5>難易度表/かんたん/Vixtory]]|[[★×7>難易度表/ふつう/Vixtory]]|[[★×7>難易度表/むずかしい/Vixtory]]|[[★×10>難易度表/おに/Vixtory]]|[[★×10>難易度表/おに/Vixtory(裏譜面)]]|
+|''void setup''|140|[[★×4>難易度表/かんたん/void setup]]|[[★×5>難易度表/ふつう/void setup]]|[[★×6>難易度表/むずかしい/void setup]]|[[★×8>難易度表/おに/void setup]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''W''(全 26 曲)&aname(WWW);|
+|''waitin' for u''|180|[[★×5>難易度表/かんたん/waitin' for u]]|[[★×6>難易度表/ふつう/waitin' for u]]|[[★×6>難易度表/むずかしい/waitin' for u]]|[[★×10>難易度表/おに/waitin' for u]]|-|
+|''Wake up!''|176|[[★×3>難易度表/かんたん/Wake up!]]|[[★×5>難易度表/ふつう/Wake up!]]|[[★×5>難易度表/むずかしい/Wake up!]]|[[★×6>難易度表/おに/Wake up!]]|-|
+|''Walking Through The Towers''|150|[[★×3>難易度表/かんたん/Walking Through The Towers]]|[[★×4>難易度表/ふつう/Walking Through The Towers]]|[[★×5>難易度表/むずかしい/Walking Through The Towers]]|[[★×7>難易度表/おに/Walking Through The Towers]]|-|
+|''Walking with you''|185|[[★×2>難易度表/かんたん/Walking with you]]|[[★×4>難易度表/ふつう/Walking with you]]|[[★×5>難易度表/むずかしい/Walking with you]]|[[★×8>難易度表/おに/Walking with you]]|-|
+|''WARNING×WARNING×WARNING''|172|[[★×2>難易度表/かんたん/WARNING×WARNING×WARNING]]|[[★×4>難易度表/ふつう/WARNING×WARNING×WARNING]]|[[★×5>難易度表/むずかしい/WARNING×WARNING×WARNING]]|[[★×9>難易度表/おに/WARNING×WARNING×WARNING]]|-|
+|''Wasabi Body Blow''|180|[[★×3>難易度表/かんたん/Wasabi Body Blow]]|[[★×4>難易度表/ふつう/Wasabi Body Blow]]|[[★×6>難易度表/むずかしい/Wasabi Body Blow]]|[[★×9>難易度表/おに/Wasabi Body Blow]]|-|
+|''Wavy Baby''|210|[[★×4>難易度表/かんたん/Wavy Baby]]|[[★×6>難易度表/ふつう/Wavy Baby]]|[[★×7>難易度表/むずかしい/Wavy Baby]]|[[★×9>難易度表/おに/Wavy Baby]]|-|
+|''W-B-X 〜W‐Boiled Extreme〜''|140※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/W-B-X 〜W‐Boiled　Extreme〜]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/W-B-X 〜W‐Boiled　Extreme〜]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/W-B-X 〜W‐Boiled　Extreme〜]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/W-B-X 〜W‐Boiled　Extreme〜]]|-|
+|''We are PAC-MAN!''|138|[[★×3>難易度表/かんたん/We are PAC-MAN!]]|[[★×5>難易度表/ふつう/We are PAC-MAN!]]|[[★×6>難易度表/むずかしい/We are PAC-MAN!]]|[[★×7>難易度表/おに/We are PAC-MAN!]]|-|
+|''WE ARE THE CHAMP〜THE NAME OF THE GAME〜 ''|101.5-123|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/WE ARE THE CHAMP]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/WE ARE THE CHAMP]]|BGCOLOR(#ccc):[[★×2>難易度表/おに/WE ARE THE CHAMP]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/WE ARE THE CHAMP]]|-|
+|''We are the ONE 〜僕らはひとつ〜''|162|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/We are the ONE 〜僕らはひとつ〜]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/We are the ONE 〜僕らはひとつ〜]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/We are the ONE 〜僕らはひとつ〜]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/We are the ONE〜僕らはひとつ〜]]|-|
+|''We can!! HUGっと！プリキュア''|160-172|[[★×1>難易度表/かんたん/We can!! HUGっと！プリキュア]]|[[★×2>難易度表/ふつう/We can!! HUGっと！プリキュア]]|[[★×2>難易度表/むずかしい/We can!! HUGっと！プリキュア]]|[[★×2>難易度表/おに/We can!! HUGっと！プリキュア]]|-|
+|''We Have A Dream''|175|[[★×3>難易度表/かんたん/We Have A Dream]]|[[★×4>難易度表/ふつう/We Have A Dream]]|[[★×6>難易度表/むずかしい/We Have A Dream]]|[[★×8>難易度表/おに/We Have A Dream]]|-|
+|''Welcome to the Taiko Stadium!''|140|[[★×3>難易度表/かんたん/Welcome to the Taiko Stadium!]]|[[★×5>難易度表/ふつう/Welcome to the Taiko Stadium!]]|[[★×6>難易度表/むずかしい/Welcome to the Taiko Stadium!]]|[[★×8>難易度表/おに/Welcome to the Taiko Stadium!]]|-|
+|''WE WILL ROCK YOU''|162※|[[★×2>難易度表/かんたん/We Will Rock You]]|[[★×2>難易度表/ふつう/We Will Rock You]]|[[★×3>難易度表/むずかしい/We Will Rock You]]|[[★×5>難易度表/おに/We Will Rock You]]|-|
+|''What's in the box?''|227|[[★×3>難易度表/かんたん/What's in the box?]]|[[★×5>難易度表/ふつう/What's in the box?]]|[[★×7>難易度表/むずかしい/What's in the box?]]|[[★×10>難易度表/おに/What's in the box?]]|-|
+|''Where is the Target?''|229.89※|[[★×4>難易度表/かんたん/Where is the Target？]]|[[★×6>難易度表/ふつう/Where is the Target？]]|[[★×8>難易度表/むずかしい/Where is the Target？]]|[[★×9>難易度表/おに/Where is the Target？]]|-|
+|''White Rose Insanity''|138|[[★×5>難易度表/かんたん/White Rose Insanity]]|[[★×5>難易度表/ふつう/White Rose Insanity]]|[[★×6>難易度表/むずかしい/White Rose Insanity]]|[[★×7>難易度表/おに/White Rose Insanity]]|[[★×8>難易度表/おに/White Rose Insanity(裏譜面)]]|
+|''WINDING ROAD''|88|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/WINDING ROAD]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/WINDING ROAD]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/WINDING ROAD]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/WINDING ROAD]]|-|
+|''Winding Road''|132|[[★×3>難易度表/かんたん/Winding Road]]|[[★×4>難易度表/ふつう/Winding Road]]|[[★×5>難易度表/むずかしい/Winding Road]]|[[★×7>難易度表/おに/Winding Road]]|-|
+|''Wings of Tomorrow(Tatsujin Mix)''|160※|[[★×4>難易度表/かんたん/Wings of Tomorrow (Tatsujin Mix)]]|[[★×6>難易度表/ふつう/Wings of Tomorrow (Tatsujin Mix)]]|[[★×6>難易度表/むずかしい/Wings of Tomorrow (Tatsujin Mix)]]|[[★×9>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]|-|
+|''Wish upon a shooting star''|128|[[★×4>難易度表/かんたん/Wish upon a shooting star]]|[[★×5>難易度表/ふつう/Wish upon a shooting star]]|[[★×6>難易度表/むずかしい/Wish upon a shooting star]]|[[★×9>難易度表/おに/Wish upon a shooting star]]|-|
+|''WiSH VOYAGE''|150|[[★×2>難易度表/かんたん/WiSH VOYAGE]]|[[★×3>難易度表/ふつう/WiSH VOYAGE]]|[[★×4>難易度表/むずかしい/WiSH VOYAGE]]|[[★×6>難易度表/おに/WiSH VOYAGE]]|-|
+|''wonderful ROUTINE''|160-240|[[★×5>難易度表/かんたん/wonderful ROUTINE]]|[[★×6>難易度表/ふつう/wonderful ROUTINE]]|[[★×8>難易度表/むずかしい/wonderful ROUTINE]]|[[★×10>難易度表/おに/wonderful ROUTINE]]|-|
+|''WON'T BE LONG''|104|[[★×3>難易度表/かんたん/WON'T BE LONG]]|[[★×4>難易度表/ふつう/WON'T BE LONG]]|[[★×4>難易度表/むずかしい/WON'T BE LONG]]|[[★×6>難易度表/おに/WON'T BE LONG]]|-|
+|''World of GENPEI TOMADEN''|160|[[★×4>難易度表/かんたん/World of GENPEI TOMADEN]]|[[★×6>難易度表/ふつう/World of GENPEI TOMADEN]]|[[★×6>難易度表/むずかしい/World of GENPEI TOMADEN]]|[[★×8>難易度表/おに/World of GENPEI TOMADEN]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''X''(全 5 曲)&aname(XXX);|
+|''Xa''|290|[[★×5>難易度表/かんたん/Xa]]|[[★×6>難易度表/ふつう/Xa]]|[[★×7>難易度表/むずかしい/Xa]]|[[★×9>難易度表/おに/Xa]]|[[★×10>難易度表/おに/Xa(裏譜面)]]|
+|''X-DAY2000''|190|[[★×5>難易度表/かんたん/X-DAY2000]]|[[★×7>難易度表/ふつう/X-DAY2000]]|[[★×8>難易度表/むずかしい/X-DAY2000]]|[[★×10>難易度表/おに/X-DAY2000]]|-|
+|''Xevel''|175-185|[[★×5>難易度表/かんたん/Xevel]]|[[★×7>難易度表/ふつう/Xevel]]|[[★×8>難易度表/むずかしい/Xevel]]|[[★×10>難易度表/おに/Xevel]]|-|
+|''XEVIOUS ''（細野晴臣 監修）|156|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/XEVIOUS]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/XEVIOUS]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/XEVIOUS]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/XEVIOUS]]|-|
+|''XY&Z''|254|[[★×1>難易度表/かんたん/XY＆Z]]|[[★×2>難易度表/ふつう/XY＆Z]]|[[★×5>難易度表/むずかしい/XY＆Z]]|[[★×9>難易度表/おに/XY＆Z]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''Y''(全 9 曲)&aname(YYY);|
+|''Yeah!めっちゃホリディ''|140|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Yeah!めっちゃホリディ]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Yeah!めっちゃホリディ]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Yeah!めっちゃホリディ]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Yeah!めっちゃホリディ]]|-|
+|''YES or YES''|138|[[★×2>難易度表/かんたん/YES or YES]]|[[★×4>難易度表/ふつう/YES or YES]]|[[★×4>難易度表/むずかしい/YES or YES]]|[[★×6>難易度表/おに/YES or YES]]|-|
+|''Yes we are''|128|[[★×1>難易度表/かんたん/Yes we are]]|[[★×1>難易度表/ふつう/Yes we are]]|[[★×3>難易度表/むずかしい/Yes we are]]|[[★×7>難易度表/おに/Yes we are]]|-|
+|''YOAKE''|202|[[★×4>難易度表/かんたん/YOAKE]]|[[★×7>難易度表/ふつう/YOAKE]]|[[★×8>難易度表/むずかしい/YOAKE]]|[[★×10>難易度表/おに/YOAKE]]|-|
+|''YONA YONA DANCE''|145|[[★×2>難易度表/かんたん/YONA YONA DANCE]]|[[★×5>難易度表/ふつう/YONA YONA DANCE]]|[[★×5>難易度表/むずかしい/YONA YONA DANCE]]|[[★×8>難易度表/おに/YONA YONA DANCE]]|-|
+|''You&#84;ubeテーマソング''|128|[[★×3>難易度表/かんたん/YouTubeテーマソング]]|[[★×4>難易度表/ふつう/YouTubeテーマソング]]|[[★×5>難易度表/むずかしい/YouTubeテーマソング]]|[[★×7>難易度表/おに/YouTubeテーマソング]]|-|
+|''YOU往MY進！''|161|[[★×4>難易度表/かんたん/YOU往MY進！]]|[[★×5>難易度表/ふつう/YOU往MY進！]]|[[★×7>難易度表/むずかしい/YOU往MY進！]]|[[★×8>難易度表/おに/YOU往MY進！]]|-|
+|''Your World''|195※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/Your World]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Your World]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/Your World]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Your World]]|-|
+|''You've Got a Friend in Me''|84-118※|[[★×2>難易度表/かんたん/You've Got a Friend in Me]]|[[★×3>難易度表/ふつう/You've Got a Friend in Me]]|[[★×4>難易度表/むずかしい/You've Got a Friend in Me]]|[[★×7>難易度表/おに/You've Got a Friend in Me]]|-|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''数字''(全 20 曲)&aname(NUMBER);|
+|''1・2・3''(After the Rain)|182|[[★×2>難易度表/かんたん/1・2・3]]|[[★×4>難易度表/ふつう/1・2・3]]|[[★×5>難易度表/むずかしい/1・2・3]]|[[★×7>難易度表/おに/1・2・3]]|-|
+|''1・2・3''(サトシ＆ゴウ)|182|[[★×1>難易度表/かんたん/1・2・3(サトシ＆ゴウ)]]|[[★×1>難易度表/ふつう/1・2・3(サトシ＆ゴウ)]]|[[★×4>難易度表/むずかしい/1・2・3(サトシ＆ゴウ)]]|[[★×6>難易度表/おに/1・2・3(サトシ＆ゴウ)]]|-|
+|''1・2・さんしのでドンドカッカッ！''|142|[[★×1>難易度表/かんたん/1・2・さんしのでドンドカッカッ！]]|[[★×1>難易度表/ふつう/1・2・さんしのでドンドカッカッ！]]|[[★×4>難易度表/むずかしい/1・2・さんしのでドンドカッカッ！]]|[[★×7>難易度表/おに/1・2・さんしのでドンドカッカッ！]]|[[★×9>難易度表/おに/1・2・さんしのでドンドカッカッ！(裏譜面)]]|
+|''1/2 〜inside me''|184-217|[[★×4>難易度表/かんたん/1／2 〜inside me]]|[[★×6>難易度表/ふつう/1／2 〜inside me]]|[[★×7>難易度表/むずかしい/1／2 〜inside me]]|[[★×9>難易度表/おに/1／2 〜inside me]]|-|
+|''1 2 3〜恋がはじまる〜''|158|[[★×3>難易度表/かんたん/1 2 3〜恋がはじまる〜]]|[[★×4>難易度表/ふつう/1 2 3〜恋がはじまる〜]]|[[★×4>難易度表/むずかしい/1 2 3〜恋がはじまる〜]]|[[★×6>難易度表/おに/1 2 3〜恋がはじまる〜]]|-|
+|''142トキノワタリドリ''|9.64-212.67|[[★×5>難易度表/かんたん/142トキノワタリドリ]]|[[★×6>難易度表/ふつう/142トキノワタリドリ]]|[[★×7>難易度表/むずかしい/142トキノワタリドリ]]|[[★×8>難易度表/おに/142トキノワタリドリ]]|-|
+|''1 ドリーム''|132|[[★×2>難易度表/かんたん/1 ドリーム]]|[[★×3>難易度表/ふつう/1 ドリーム]]|[[★×3>難易度表/むずかしい/1 ドリーム]]|[[★×5>難易度表/おに/1 ドリーム]]|-|
+|''241ディープラーニング''|105|[[★×4>難易度表/かんたん/241ディープラーニング]]|[[★×7>難易度表/ふつう/241ディープラーニング]]|[[★×8>難易度表/むずかしい/241ディープラーニング]]|[[★×9>難易度表/おに/241ディープラーニング]]|[[★×9>難易度表/おに/241ディープラーニング(裏譜面)]]|
+|''24karats TRIBE OF GOLD''|103|[[★×3>難易度表/かんたん/24karats TRIBE OF GOLD]]|[[★×4>難易度表/ふつう/24karats TRIBE OF GOLD]]|[[★×4>難易度表/むずかしい/24karats TRIBE OF GOLD]]|[[★×7>難易度表/おに/24karats TRIBE OF GOLD]]|-|
+|''360°''|158|[[★×2>難易度表/かんたん/360°]]|[[★×3>難易度表/ふつう/360°]]|[[★×5>難易度表/むずかしい/360°]]|[[★×7>難易度表/おに/360°]]|-|
+|''365日の紙飛行機''|106|[[★×3>難易度表/かんたん/365日の紙飛行機]]|[[★×3>難易度表/ふつう/365日の紙飛行機]]|[[★×4>難易度表/むずかしい/365日の紙飛行機]]|[[★×5>難易度表/おに/365日の紙飛行機]]|-|
+|''365日のラブストーリー。''|124※|[[★×3>難易度表/かんたん/365日のラブストーリー。]]|[[★×3>難易度表/ふつう/365日のラブストーリー。]]|[[★×3>難易度表/むずかしい/365日のラブストーリー。]]|[[★×6>難易度表/おに/365日のラブストーリー。]]|-|
+|''366日''|76|[[★×2>難易度表/かんたん/366日]]|[[★×3>難易度表/ふつう/366日]]|[[★×5>難易度表/むずかしい/366日]]|[[★×7>難易度表/おに/366日]]|-|
+|''3piece-Jazz&#80;arty!''|160|[[★×4>難易度表/かんたん/3piece-JazzParty!]]|[[★×5>難易度表/ふつう/3piece-JazzParty!]]|[[★×7>難易度表/むずかしい/3piece-JazzParty!]]|[[★×9>難易度表/おに/3piece-JazzParty!]]|-|
+|''3Q-4U-AC00''|168|[[★×3>難易度表/かんたん/3Q-4U-AC00]]|[[★×6>難易度表/ふつう/3Q-4U-AC00]]|[[★×4>難易度表/むずかしい/3Q-4U-AC00]]|[[★×7>難易度表/おに/3Q-4U-AC00]]|-|
+|''3年目の浮気''|100|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/3年目の浮気]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/3年目の浮気]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/3年目の浮気]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/3年目の浮気]]|-|
+|''4+1のそれぞれの未来''|255|[[★×5>難易度表/かんたん/4+1のそれぞれの未来]]|[[★×7>難易度表/ふつう/4+1のそれぞれの未来]]|[[★×8>難易度表/むずかしい/4+1のそれぞれの未来]]|[[★×10>難易度表/おに/4+1のそれぞれの未来]]|-|
+|''8月の坂''|130|[[★×2>難易度表/かんたん/8月の坂]]|[[★×3>難易度表/ふつう/8月の坂]]|[[★×5>難易度表/むずかしい/8月の坂]]|[[★×7>難易度表/おに/8月の坂]]|-|
+|''88''|175|[[★×3>難易度表/かんたん/88]]|[[★×4>難易度表/ふつう/88]]|[[★×4>難易度表/むずかしい/88]]|[[★×8>難易度表/おに/88]]|-|
+|''8OROCHI''|200.8|[[★×5>難易度表/かんたん/8OROCHI]]|[[★×7>難易度表/ふつう/8OROCHI]]|[[★×8>難易度表/むずかしい/8OROCHI]]|[[★×10>難易度表/おに/8OROCHI]]|[[★×10>難易度表/おに/8OROCHI(裏譜面)]]|
+
+**コメント[#comment]
+見やすくするため追加・修正された曲は非表示にします。
+#pcomment(コメント/五十音順,noname)

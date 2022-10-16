@@ -32,4 +32,4 @@
 
 ***譜面 [#score]
 イモ連打、風船の長さは暫定&br;黄色連打は下の画像より48分音符1つ分短い
-&attachref(kaibutsu_n.png,nolink);
+&attachref(kaibutsu_n2.png,nolink);
