@@ -20,7 +20,7 @@
 --1拍区切りにした場合、24分音符を挟むごとに入り手が逆になるので、BPM的にも逆手を使えないとかなり厳しい。
 ---そうすると、
 COLOR(red){●}　COLOR(blue){○○}/COLOR(red){●●●}COLOR(blue){○○}/COLOR(blue){○○}COLOR(red){●●}/COLOR(red){●}COLOR(blue){○○○}/COLOR(red){●●●}COLOR(blue){○}/COLOR(red){●●}COLOR(blue){○○○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●}COLOR(blue){○○}/COLOR(red){●●●●}/COLOR(blue){○}COLOR(red){●●●}/COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(blue){○} /COLOR(blue){○}とできる。
--AC15では、開幕の連打2本で計100打、ゴーゴー内の連打で計113打、発狂後の連打で計7打を入れて全良すると、''111万1110点''となる。(→[[参考動画>http://www.youtube.com/watch?v=A_EHxPhAhak]])
+-AC15では、開幕の連打2本で計100打、ゴーゴー内の連打で計113打、発狂後の連打で計7打を入れて全良すると、''111万1110点''となる（[[参考動画>http://www.youtube.com/watch?v=A_EHxPhAhak]]）。
 -1番とラストの間奏、メロディ、サビでの構成。曲の長さが約2分30秒と、アニメでは演奏時間が長い。
 --1曲を通しての平均密度は、''約5.78打/秒''である。
 
