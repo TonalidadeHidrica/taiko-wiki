@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|AC15.11.6((アジア版))|''PS4 1DL''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''605''|''875140点''|＋連打((＋721打風船))|420点|108点|
+|AC15.11.6((アジア版))|''PS4 1DL''&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''605''|''875140点''|＋連打((＋721打風船))|420点|108点|
 |COLOR(#f30):真打||~|~|~|COLOR(#f30):''977960点''|~|COLOR(#f30):1510点|-|
 |AC16.1.1||~|~|~|''995600点''|~|1640点|-|
 ||iOS&br;AR|~|~|~|''840940点''|~|590点|70点|
@@ -27,13 +27,13 @@
 -平均密度は、''約5.08打/秒''。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/わら得る2000]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/わら得る2000#other]]を参照。
 -割れない風船の打数721は、[[ドンカマ2000>難易度表/むずかしい/ドンカマ2000]]の「何ッ！？」に因んでいると思われる。
 -177〜179小節を縦に並べると、「2000」という文字が浮かび上がる。&br;
 177：&color(red){●●};&color(white){○○};&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};&br;
 178：&color(white){○○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&color(red){●};&color(white){○};&br;
 179：&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};&color(red){●●●};&color(white){○};
---[[おに譜面>難易度表/おに/わら得る2000]]の同じ箇所にも似た演出がある。
+--[[おに譜面>難易度表/おに/わら得る2000#score]]の同じ箇所にも似た演出がある。
 -iOS/ARでは配点が低く、基本天井点の90万点に到達するためには全良に加えて''約20.9打/秒''以上の速度で連打する必要がある。
 --同様の現象は全難易度で発生している。
 
@@ -41,17 +41,16 @@
 -[[かんたん>難易度表/かんたん/わら得る2000]]
 -[[ふつう>難易度表/ふつう/わら得る2000]]
 -[[おに>難易度表/おに/わら得る2000]]
--[[オート動画>https://www.youtube.com/watch?v=Er4eSLO8ZEU]]
-
+-[[オート動画(PS4 1)>https://www.youtube.com/watch?v=Er4eSLO8ZEU]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~本家譜面~
-~152〜154小節の風船は4打~
-&attachref(waraeru_h4.png,nolink);
+~本家譜面
+~152〜154小節の風船は4打
+~&attachref(waraeru_h4.png,nolink);
 
-~BPM216固定・HSなし・見えている小節線のみ~
-開幕の小節線、割れる風船の長さは適当~
-&attachref(藁難.png,nolink);
+~BPM216固定・HSなし・見えている小節線のみ
+~開幕の小節線、割れる風船の長さは適当
+~&attachref(藁難.png,nolink);

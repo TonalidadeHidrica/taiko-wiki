@@ -304,7 +304,7 @@
 |''Honey Heartbeat 〜10 Stars Mix〜''|142-284※|[[★×3>難易度表/かんたん/Honey Heartbeat 〜10 Stars Mix〜]]|[[★×4>難易度表/ふつう/Honey Heartbeat 〜10 Stars Mix〜]]|[[★×7>難易度表/むずかしい/Honey Heartbeat 〜10 Stars Mix〜]]|[[★×9>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜]]|[[★×10>難易度表/おに/Honey Heartbeat 〜10 Stars Mix〜(裏譜面)]]|
 |''Hope''|135.75-140|[[★×2>難易度表/かんたん/Hope]]|[[★×3>難易度表/ふつう/Hope]]|[[★×5>難易度表/むずかしい/Hope]]|[[★×7>難易度表/おに/Hope]]|-|
 |''HOT LIMIT''|138|[[★×3>難易度表/かんたん/HOT LIMIT]]|[[★×4>難易度表/ふつう/HOT LIMIT]]|[[★×6>難易度表/むずかしい/HOT LIMIT]]|[[★×7>難易度表/おに/HOT LIMIT]]|-|
-|''HOTEL PACIFIC''|158|:-|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/HOTEL PACIFIC]]|-|-|-|
+|''HOTEL PACIFIC''|158|-|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/HOTEL PACIFIC]]|-|-|-|
 |''HOWEVER''|80-87※|[[★×2>難易度表/かんたん/HOWEVER]]|[[★×3>難易度表/ふつう/HOWEVER]]|[[★×3>難易度表/むずかしい/HOWEVER]]|[[★×6>難易度表/おに/HOWEVER]]|-|
 |''Howling''|100-200|[[★×3>難易度表/かんたん/Howling]]|[[★×3>難易度表/ふつう/Howling]]|[[★×5>難易度表/むずかしい/Howling]]|[[★×7>難易度表/おに/Howling]]|-|
 |''Hurtling Boys''|195|[[★×5>難易度表/かんたん/Hurtling Boys]]|[[★×7>難易度表/ふつう/Hurtling Boys]]|[[★×8>難易度表/むずかしい/Hurtling Boys]]|[[★×10>難易度表/おに/Hurtling Boys]]|-|
