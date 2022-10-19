@@ -7,7 +7,7 @@
 |AC7|''CS5''&br;PSP1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''682''|''1252400点''|＋連打|-|-|''ゴーゴー&br;バグあり''|
 ||PSP2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''1192800点''|~|530点|120点|~|
 |AC9||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|~|''1101270点''|~|590点|100点||
-||Wii U2&br;PS4 1DL&br;PTB|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|~|''1048930点''|~|470点|123点||
+||Wii U2&br;PS4 1DL&br;PTB&br;NS2MP|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×8|~|''1048930点''|~|470点|123点||
 ||iOS&br;AR|~|~|~|''1052370点''|~|430点|110点|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''999570点''}|~|COLOR(#ff3300){1430点}|-||
 |AC16.1.0SP||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1002540点''|~|1470点|-||
@@ -55,4 +55,4 @@
 
 ***譜面 [#score]
 ~新基準では★×8
-&attachref($.png,nolink);
+~&attachref($.png,nolink);

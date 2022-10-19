@@ -11,7 +11,7 @@
 ||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}&br;COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1000000点''}|~|COLOR(#ff3300){1600点}|-|
 |AC15.1.0-AC15.8.3|Wii U2DL|BGCOLOR(cyan):''J-POP''|~|~|''997490点''|~|490点|130点|
-||NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+||NS1DL&br;NS2MP|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
 ||DS1|BGCOLOR(cyan):''J-POP''|~|''619''|''901280点''||440点|100点|
 //|BGCOLOR(silver):もばいる||★×3||''??????0点''||380点|80点|
 

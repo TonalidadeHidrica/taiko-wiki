@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''PS4 1DL''&br;NS1DL|BGCOLOR(orange):''アニメ''|★×9|''491''|''1093630点''|＋連打|670点|178点|
+|''PS4 1DL''&br;NS1DL&br;NS2MP|BGCOLOR(orange):''アニメ''|★×9|''491''|''1093630点''|＋連打|670点|178点|
 |COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''994800点''}|~|COLOR(#ff3300){1940点}|-|
 
 ***譜面構成・攻略 [#capture]
@@ -23,7 +23,6 @@
 -[[ふつう>難易度表/ふつう/Touch off]]
 -[[むずかしい>難易度表/むずかしい/Touch off]]
 -[[オート動画(PS4 1)>https://www.youtube.com/watch?v=l7TSNrRx9dI]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/EZZDv0RDujw]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -42,7 +42,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~擬似32分などの内部小節を含んだ譜面画像は[[こちら>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=lapaz_x0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A5%E9%A5%D1%A5%B9%A4%CE%C6%FA%28%CE%A2%C9%E8%CC%CC%29]]
+~擬似32分などの内部小節線を含んだ譜面画像は[[こちら>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=lapaz_x0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%A5%E9%A5%D1%A5%B9%A4%CE%C6%FA%28%CE%A2%C9%E8%CC%CC%29]]
 ~&attachref(lapaz_x.png,nolink);
 
 ~見た目BPM156統一

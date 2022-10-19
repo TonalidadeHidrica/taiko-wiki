@@ -9,7 +9,7 @@
 ||PSP1DL|~|~|~|''838800点''|~|400点|~|~|
 ||PSP2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|~|
 |AC9||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''850110点''|~|510点|90点||
-||Wii U2&br;PS4 1DL&br;PTB|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''853290点''|~|440点|113点||
+||Wii U2&br;PS4 1DL&br;PTB&br;NS2MP|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''853290点''|~|440点|113点||
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1002450点''}|~|COLOR(#ff3300){1630点}|-||
 ||iOS&br;AR|~|~|~|''850820点''|~|420点|100点|~|
 |AC16.1.0SP||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''1001550点''|~|1650点|-||
@@ -28,16 +28,16 @@
 -平均密度は約5.27打/秒。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/ドルアーガの塔メドレー]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/ドルアーガの塔メドレー#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/ドルアーガの塔メドレー]]
 -[[ふつう>難易度表/ふつう/ドルアーガの塔メドレー]]
 -[[おに>難易度表/おに/ドルアーガの塔メドレー]]
--[[オート動画(Wii U2,キャプチャ)>http://www.youtube.com/watch?v=TDZQqYOIHrQ]]
+-[[オート動画(Wii U2)>http://www.youtube.com/watch?v=TDZQqYOIHrQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
-~&attachref(druaga_hard_2.png,nolink);
+***譜面 [#score]
+&attachref(druaga_hard_2.png,nolink);
