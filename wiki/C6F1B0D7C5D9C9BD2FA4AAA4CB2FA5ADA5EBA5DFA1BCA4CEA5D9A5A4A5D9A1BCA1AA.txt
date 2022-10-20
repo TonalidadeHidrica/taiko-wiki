@@ -4,9 +4,9 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.2.0''&br;AC15.6.0((アジア版))|3DS2DL&br;PS Vita1DL&br;Wii U3DL&br;PS4 1DL|BGCOLOR(orange):''アニメ''|★×9|''596''|''1103010点''|＋連打|550点|140点|
-||PSPDXDL|~|~|~|''1104900点''|~|530点|120点|
+|''AC15.2.0''&br;AC15.6.0((アジア版))|3DS2DL&br;PS Vita1DL&br;Wii U3DL&br;PS4 1DL&br;NS2MP|BGCOLOR(orange):''アニメ''|★×9|''596''|''1103010点''|＋連打|550点|140点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1000730点''}|~|COLOR(#ff3300){1590点}|-|
+||PSPDXDL|~|~|~|''1104900点''|~|530点|120点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは200。
@@ -45,7 +45,7 @@
 -[[かんたん>難易度表/かんたん/キルミーのベイベー！]]
 -[[ふつう>難易度表/ふつう/キルミーのベイベー！]]
 -[[むずかしい>難易度表/むずかしい/キルミーのベイベー！]]
--[[プレイ動画(キャプチャ)>http://www.youtube.com/watch?v=mQSz4IrL0XQ]]
+-[[プレイ動画(AC15)>http://www.youtube.com/watch?v=mQSz4IrL0XQ]]
 -[[オート動画(Wii U3)>https://www.youtube.com/watch?v=63BGwXfsHFM]]
 
 ***コメント [#comment]
@@ -54,4 +54,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(kmbaby_m2.png,nolink);
+&attachref(kmbaby_m2.png,nolink);

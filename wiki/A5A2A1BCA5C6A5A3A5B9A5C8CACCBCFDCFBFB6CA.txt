@@ -1838,6 +1838,13 @@
 |''オー！リバル''|129|[[★×4>難易度表/かんたん/オー！リバル]]|[[★×4>難易度表/ふつう/オー！リバル]]|[[★×7>難易度表/むずかしい/オー！リバル]]|[[★×8>難易度表/おに/オー！リバル]]|
 |''THE DAY''|186|[[★×2>難易度表/かんたん/THE DAY]]|[[★×4>難易度表/ふつう/THE DAY]]|[[★×6>難易度表/むずかしい/THE DAY]]|[[★×8>難易度表/おに/THE DAY]]|
 
+***hololive IDOL PROJECT (2曲) [#hololive]
+||68|>|>|>|CENTER:64|c
+|''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
+|>|>|>|>|>|BGCOLOR(#49d5eb):''ポップス''|
+|''Prism Melody''|182|[[★×2>難易度表/かんたん/Prism Melody]]|[[★×4>難易度表/ふつう/Prism Melody]]|[[★×4>難易度表/むずかしい/Prism Melody]]|[[★×7>難易度表/おに/Prism Melody]]|
+|''ホロメン音頭''|96|[[★×2>難易度表/かんたん/ホロメン音頭]]|[[★×3>難易度表/ふつう/ホロメン音頭]]|[[★×5>難易度表/むずかしい/ホロメン音頭]]|[[★×6>難易度表/おに/ホロメン音頭]]|
+
 ***Bon-Bon Blanco (2曲) [#bbbl]
 ||68|>|>|>|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h

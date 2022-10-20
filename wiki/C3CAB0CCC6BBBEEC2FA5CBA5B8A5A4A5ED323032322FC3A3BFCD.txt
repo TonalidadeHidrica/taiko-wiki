@@ -49,7 +49,7 @@
 &br;135.136小節：2回来るCOLOR(red){●●}COLOR(blue){○}COLOR(red){●}  COLOR(red){●}COLOR(blue){○}を正攻法、他16分を2-2
 &br;137小節：16分全てを2-2
 &br;138小節：(COLOR(red){●●})  (COLOR(red){●}COLOR(blue){○})(COLOR(red){●●})(COLOR(red){●}COLOR(blue){○}) (COLOR(red){●} COLOR(blue){○}) (COLOR(red){●}COLOR(blue){○})(COLOR(red){●}COLOR(blue){○})(COLOR(red){●}COLOR(blue){○})(COLOR(red){●}COLOR(blue){○})COLOR(red){●}と16分、12分共に2-2
----''131&#12316;134小節以外dk処理無し(1-2やシングル要素強め)''
+---''131〜134小節以外dk処理無し(1-2やシングル要素強め)''
 ~&attachref(7AB2D8F1-3B31-46C2-A4B3-21120B3E68EA.png,nolink);
 &br;125小説：正攻法。
 &br;126小説：16分を2-2処理。

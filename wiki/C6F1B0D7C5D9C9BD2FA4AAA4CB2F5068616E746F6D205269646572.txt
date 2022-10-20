@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.2.0SP''|Wii5SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''697''|''1054870点''|470点|110点|
+|''AC15.2.0SP''|Wii5SP&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''697''|''1054870点''|470点|110点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1006900点''}|COLOR(#ff3300){1350点}|-|
 |AC16.1.0|Xbox1DL|~|~|~|''1004810点''|1430点|-|
 ||iOS&br;AR|~|~|~|''1051780点''|420点|100点|
@@ -32,7 +32,7 @@
 -[[ふつう>難易度表/ふつう/Phantom Rider]]
 -[[むずかしい>難易度表/むずかしい/Phantom Rider]]
 -おに/[[裏譜面>難易度表/おに/Phantom Rider(裏譜面)]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=q9iIyNUDnNo&t=11s]]
+-[[プレイ動画(AC15)>https://www.youtube.com/watch?v=q9iIyNUDnNo&t=11s]]
 -[[オート動画(Wii5)>https://www.youtube.com/watch?v=_TU_Q0ZyzAI]]
 //-[[オート動画(Wii5)>https://www.youtube.com/watch?v=j_ecSJXsgyQ]]
 
@@ -40,7 +40,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(phride.png,nolink);
+~&attachref(phride.png,nolink);
 
 ~半速表記
 &attachref(phantom_hs0.5.png,nolink);

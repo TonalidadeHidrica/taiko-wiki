@@ -32,6 +32,7 @@
 
 #region(3区間の曲一覧)
 -&color(black,#49d5eb){''ポップス''};
+--ホロメン音頭
 --Just Awake
 --Savage Love
 --ミックスナッツ

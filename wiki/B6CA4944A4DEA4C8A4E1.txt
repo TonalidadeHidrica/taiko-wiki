@@ -936,7 +936,8 @@
 |hkyell|[[星影のエール>難易度表/おに/星影のエール]]||
 |hoku|[[愛をとりもどせ!!>難易度表/おに/愛をとりもどせ！！]]|北斗の拳|
 |hold|[[今夜はホーミー>難易度表/おに/今夜はホーミー]]|ホーミー→Hold me→hold|
-|holprs|[[Prism Melody>難易度表/おに/Prism Melody]]|ホロライブ|
+|holond|[[ホロメン音頭>難易度表/おに/ホロメン音頭]]|ホロライブ|
+|holprs|[[Prism Melody>難易度表/おに/Prism Melody]]|~|
 |holtmp|[[TEMPLATE>難易度表/おに/TEMPLATE]]|~|
 |honey|[[上海ハニー>難易度表/おに/上海ハニー]]||
 |honnou|[[本能寺の変>難易度表/おに/本能寺の変]]||
