@@ -5,7 +5,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 ||''PSPDXDL''&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''624''|''1044650点''|+連打|440点|110点|
-|AC15.2.6SP|Wii U2SP|~|~|~|''1051490点''|~|510点|120点|
+|AC15.2.6SP|Wii U2SP&br;NS2MP|~|~|~|''1051490点''|~|510点|120点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1000780点''}|~|COLOR(#ff3300){1480点}|-|
 |AC16.1.0||~|~|~|''1003260点''|~|1590点|-|
 
@@ -24,7 +24,7 @@
 -新筐体でこの曲をクリアすると、称号「''風を翔る騎士''」が手に入る(難易度不問)。
 -[[キミドリVer.段位道場>過去の段位道場#kimidori]]の四段2曲目課題曲となった。
 -新規配信終了日は以下の通り。
---PSPDX:2015年9月30日(火)
+--PSPDX：2015年9月30日(火)
 -曲IDは、''ryukis''。
 
 ----
@@ -32,7 +32,8 @@
 -[[ふつう>難易度表/ふつう/風の国の龍と騎士]]
 -[[むずかしい>難易度表/むずかしい/風の国の龍と騎士]]
 -[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20170715121148/http://taikoblog.namco-ch.net/blog/2012/11/post_330.html]]
--[[オート動画>https://www.youtube.com/watch?v=MZbbjHyaaWA]]
+-[[オート動画(PSPDX)>https://www.youtube.com/watch?v=MZbbjHyaaWA]]
+-[[オート動画(Wii U2)>https://youtube.com/watch?v=A1mdS2oKIsg&feature=share]]
 
 ***コメント [#comment]
 #pcomment(,noname)

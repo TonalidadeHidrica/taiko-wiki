@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.10.8''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''978''|''1207800点''|360点|85点|
+|''AC15.10.8''|NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''978''|''1207800点''|360点|85点|
 |COLOR(#f30){真打}||~|~|~|COLOR(#f30){''1008230点''}|COLOR(#f30){1010点}|-|
 ||iOS&br;AR|~|~|~|''1202990点''|310点|80点|
 |AC16.1.0||~|~|~|''1007540点''|1030点|-|
@@ -44,7 +44,7 @@
 -[[かんたん>難易度表/かんたん/まるくてはやくてすさまじいリズム]]
 -[[ふつう>難易度表/ふつう/まるくてはやくてすさまじいリズム]]
 -[[むずかしい>難易度表/むずかしい/まるくてはやくてすさまじいリズム]]
--[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=QL6Avaz49wg&t=6s]]
+-[[プレイ動画(AC15)>https://m.youtube.com/watch?feature=youtu.be&v=QL6Avaz49wg&t=6s]]
 -[[オート動画(iOS)>https://www.youtube.com/watch?v=4zFGe_taYtY]]
 
 ***コメント [#comment]
@@ -53,4 +53,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(maru9t_m.png,nolink);
+&attachref(maru9t_m.png,nolink);

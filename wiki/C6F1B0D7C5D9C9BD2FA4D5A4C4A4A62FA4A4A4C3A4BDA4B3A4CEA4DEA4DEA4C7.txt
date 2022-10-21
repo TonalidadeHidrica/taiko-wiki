@@ -11,16 +11,16 @@
 -BPMは190。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/いっそこのままで]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/いっそこのままで#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/いっそこのままで]]
 -[[むずかしい>難易度表/むずかしい/いっそこのままで]]
 -[[おに>難易度表/おに/いっそこのままで]]
--[[プレイ動画>https://www.youtube.com/watch?v=PjFL3B_Qw8M]]
+-[[プレイ動画(AC16)>https://www.youtube.com/watch?v=PjFL3B_Qw8M]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(いっそふつう_2.png,nolink);
+&attachref(いっそふつう_2.png,nolink);

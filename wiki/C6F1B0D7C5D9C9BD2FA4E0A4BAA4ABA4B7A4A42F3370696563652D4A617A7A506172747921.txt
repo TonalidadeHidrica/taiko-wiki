@@ -5,7 +5,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 ||''PSPDXDL''&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''289''|''835000点''|+連打|740点|200点|
-|AC15.2.6SP|Wii U1SP|~|~|~|''842800点''|~|810点|245点|
+|AC15.2.6SP|Wii U1SP&br;NS2MP|~|~|~|''842800点''|~|810点|245点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''993440点''}|~|COLOR(#ff3300){2970点}|-|
 |AC16.1.0||~|~|~|''997950点''|~|3450点|-|
 
@@ -22,12 +22,13 @@
 -[[おに>難易度表/おに/3piece-JazzParty!]]とは違って黄色連打があるが、前述の通りかなりのリズム難であり、PSPDX・iOS・AR・Wii U1の基本天井点である85万点に乗せるのは至難である。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/3piece-JazzParty!]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/3piece-JazzParty!#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/3piece-JazzParty!]]
 -[[ふつう>難易度表/ふつう/3piece-JazzParty!]]
 -[[おに>難易度表/おに/3piece-JazzParty!]]
--[[オート動画>http://www.youtube.com/watch?v=zN3fZYiW400]]
+-[[オート動画(Wii U1)>http://www.youtube.com/watch?v=zN3fZYiW400]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -35,4 +36,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(3piece_h.png,nolink);
+&attachref(3piece_h.png,nolink);

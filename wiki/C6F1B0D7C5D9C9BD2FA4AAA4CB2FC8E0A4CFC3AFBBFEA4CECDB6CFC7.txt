@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.9.9SP''|PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''553''|''1090680点''|+連打|600点|130点|
+|''AC15.9.9SP''|PS4DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''553''|''1090680点''|+連打|600点|130点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''990250点''}|~|COLOR(#ff3300){1570点}|-|
 ||iOS&br;AR|~|~|~|''1075740点''|~|580点|110点|
 |AC16.1.0||~|~|~|''988680点''|~|1760点|-|
@@ -34,7 +34,7 @@
 -[[むずかしい>難易度表/むずかしい/彼は誰時の誘惑]]
 -おに/[[裏譜面>難易度表/おに/彼は誰時の誘惑(裏譜面)]]
 -[[プレイ動画(AC15)>http://www.youtube.com/watch?v=YuNn2KJk9KQ]]
--[[オート動画(PS4 1)>https://m.youtube.com/watch?v=_yJHQxqTPHw&feature=youtu.be&t=3s]]
+-[[オート動画(PS4)>https://m.youtube.com/watch?v=_yJHQxqTPHw&feature=youtu.be&t=3s]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -42,7 +42,7 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(drtk_m5.png,nolink,);
+~&attachref(drtk_m5.png,nolink,);
 
 ~見た目重視
-&attachref(彼はf.png,nolink,);
+~&attachref(彼はf.png,nolink,);
