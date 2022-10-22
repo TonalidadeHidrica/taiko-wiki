@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.5.0SP''|PS Vita1SP&br;Wii U3SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''614''|''1049390点''|+連打|530点|133点|
+|''AC15.5.0SP''|PS Vita1SP&br;Wii U3SP&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''614''|''1049390点''|+連打|530点|133点|
 ||PS Vita1亜SP|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1001900点''}|~|COLOR(#ff3300){1540点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1048560点''|~|470点|120点|
@@ -49,7 +49,8 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(dokuro_o3.png,nolink);
+~&attachref(dokuro_o3.png,nolink);
 
-見た目(に近い)&br;HSは0.975(出力の関係で0.98となっています)
+~見た目(に近い)
+~HSは0.98
 ~&attachref(dokuro_o_v5.png,nolink);

@@ -994,10 +994,10 @@
 |867|[[うちゅうひこうし冒険譚>難易度表/おに/うちゅうひこうし冒険譚]]|BGCOLOR(#ff7028):ナムオリ|-|-|uchubk||
 |868|[[モノクロボイス>難易度表/おに/モノクロボイス]]|BGCOLOR(#ff7028):ナムオリ|-|-|csmmon||
 |869|[[森羅万象>難易度表/おに/森羅万象]]|BGCOLOR(#ff7028):ナムオリ|-|-|sinrab||
-|870|[[OVER THE TOP>難易度表/おに/OVER THE TOP]]|BGCOLOR(orange):アニメ|-|-|1psovt||
-|871|[[ミルミル 〜未来ミエル〜>難易度表/おに/ミルミル 〜未来ミエル〜]]|BGCOLOR(orange):アニメ|-|-|3ru3ru||
-|872|[[REAL×EYEZ>難易度表/おに/REAL×EYEZ]]|BGCOLOR(orange):アニメ|-|-|kr01||
-|873|[[馬と鹿>難易度表/おに/馬と鹿]]|BGCOLOR(#49d5eb):J-POP|-|-|ynzums||
+|870|[[OVER THE TOP>難易度表/おに/OVER THE TOP]]|BGCOLOR(orange):アニメ|-|-|1psovt|〜22/11/22　サヨナラ曲|
+|871|[[ミルミル 〜未来ミエル〜>難易度表/おに/ミルミル 〜未来ミエル〜]]|BGCOLOR(orange):アニメ|-|-|3ru3ru|~|
+|872|[[REAL×EYEZ>難易度表/おに/REAL×EYEZ]]|BGCOLOR(orange):アニメ|-|-|kr01|~|
+|873|[[馬と鹿>難易度表/おに/馬と鹿]]|BGCOLOR(#49d5eb):J-POP|-|-|ynzums|~|
 |874|[[撥条少女時計>難易度表/おに/撥条少女時計]]|BGCOLOR(#cbcfde):ボカロ|-|-|mikuzs||
 |875|[[グラーヴェ>難易度表/おに/グラーヴェ]]|BGCOLOR(#cbcfde):ボカロ|-|-|mikugv||
 |876|[[Act! Addict! Actors!>難易度表/おに/Act! Addict! Actors!]]|BGCOLOR(orange):アニメ|-|-|a3aaa||

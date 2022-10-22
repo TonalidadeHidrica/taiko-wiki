@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.5.0SP''|PS Vita1SP&br;Wii U3SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''170''|''369150点''|+連打|650点|195点|
+|''AC15.5.0SP''|PS Vita1SP&br;Wii U3SP&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''170''|''369150点''|+連打|650点|195点|
 ||PS Vita1亜SP|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''990700点''}|~|COLOR(#ff3300){4990点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''348850点''|~|590点|140点|
@@ -19,13 +19,13 @@
 -付点4分が主体の譜面で、中盤には8分の面2連打も存在する。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/がしゃどくろ]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/がしゃどくろ#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/がしゃどくろ]]
 -[[むずかしい>難易度表/むずかしい/がしゃどくろ]]
 -[[おに>難易度表/おに/がしゃどくろ]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=HRdO38JL78o]]
+-[[オート動画(Wii U3)>https://www.youtube.com/watch?v=HRdO38JL78o]]
 
 ***コメント [#comment]
 #pcomment(,noname)
@@ -33,5 +33,6 @@
 ***譜面 [#score]
 ~黄色連打は下の画像より48分音符1つ分短い
 ~&attachref(dokuro_e3.png,nolink);
+
 ~見た目(に近い) HSは0.9です
 ~&attachref(dokuro_ev2.png,nolink);

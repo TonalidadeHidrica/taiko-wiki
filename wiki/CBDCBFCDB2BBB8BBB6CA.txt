@@ -246,6 +246,7 @@
 
 ***hololive IDOL PROJECT [#hololive]
 -[[Prism Melody>難易度表/おに/Prism Melody]]
+-[[ホロメン音頭>難易度表/おに/ホロメン音頭]]
 
 ***King Gnu [#kingnu]
 -[[一途>難易度表/おに/一途]]

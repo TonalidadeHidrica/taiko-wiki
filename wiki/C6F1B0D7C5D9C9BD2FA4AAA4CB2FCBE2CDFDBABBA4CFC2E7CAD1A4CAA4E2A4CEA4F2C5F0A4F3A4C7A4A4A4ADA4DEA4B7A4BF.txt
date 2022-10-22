@@ -28,7 +28,7 @@
 |''ブクレシュティの人形師''&br;SIZE(11){「東方妖々夢 〜 Perfect Cherry Blossom.」}|
 |''人形裁判 〜 人の形弄びし少女''&br;SIZE(11){「東方妖々夢 〜 Perfect Cherry Blossom.」}|
 |''春色小径 〜 Colorful Path''&br;SIZE(11){「東方花映塚 〜 Phantasmagoria of Flower View.」}|
--アレンジ(編曲)は、''IOSYS''の[[ARM>参加アーティスト一覧/ARM]]。作詞は、ARM with "loving" YOUNO((夕野ヨシミの別名義))。
+-アレンジ(編曲)は、''IOSYS''のARM。作詞は、ARM with "loving" YOUNO((夕野ヨシミの別名義))。
 --歌唱は、[[''藤咲かりん''>アーティスト別収録曲#miko]]((mikoの旧名義))。
 -曲名の元ネタは、映画「ルパン三世 カリオストロの城」で登場する銭形警部のセリフから。
 -曲IDは、''thmrs''。

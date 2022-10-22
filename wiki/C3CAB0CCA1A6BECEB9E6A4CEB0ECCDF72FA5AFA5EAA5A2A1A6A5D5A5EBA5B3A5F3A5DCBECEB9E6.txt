@@ -333,8 +333,8 @@
 |~|[[COLOR(blue):キューティー☆デモニック☆魔人エモ!!>難易度表/おに/キューティー☆デモニック☆魔人エモ!!]]|おに|世界をエモに染めるエモ！||
 |~|[[COLOR(blue):頂>難易度表/おに/頂]]|おに|頂に 至りて望む 景色かな||
 |~|[[COLOR(blue):ユースフルコースター>難易度表/おに/ユースフルコースター]]|おに|光陰ジェットコースターの如し||
-|~|[[COLOR(blue):GO GET'EM!(裏譜面)>難易度表/おに/GO GET'EM!(裏譜面)]]|裏譜面|リズミカルドンだー||
 |~|[[COLOR(blue):GO GET'EM!>難易度表/おに/GO GET'EM!]]|おに|メロディアスドンだー||
+|~|[[COLOR(blue):GO GET'EM!(裏譜面)>難易度表/おに/GO GET'EM!(裏譜面)]]|裏譜面|リズミカルドンだー||
 |~|[[COLOR(blue):ARMAGEΔDON>難易度表/おに/ARMAGEΔDON]]|おに|ARMAGEΔDONDER||
 |~|[[COLOR(blue):カラフル>難易度表/おに/カラフル]]|おに|色鮮やかなバチさばき||
 |~|[[COLOR(blue):うちゅうひこうし冒険譚>難易度表/おに/うちゅうひこうし冒険譚]]|おに|１人と１台の大冒険||
@@ -353,6 +353,7 @@
 |~|[[COLOR(blue):愛と浄罪の森>難易度表/おに/愛と浄罪の森]]|おに|罪深き歓びの譜を歌いし者||
 |~|[[COLOR(blue):Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|おに|寒空に咲く花たちへ||
 |~|[[COLOR(blue):OK I’m blue rat>難易度表/おに/OK I’m blue rat]]|おに|Taiko rumble||
+|~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
 |~|[[COLOR(blue):8OROCHI>難易度表/おに/8OROCHI]]|おに|10TSUKANOTSURUGI||
 |~|[[COLOR(blue):8OROCHI(裏譜面)>難易度表/おに/8OROCHI(裏譜面)]]|裏譜面|AMANOMURAKUMO||
 |~|[[COLOR(blue):Asteroid>難易度表/おに/Asteroid]]|おに|Asteroid Trackers||
@@ -363,9 +364,9 @@
 |~|[[COLOR(blue):天狗囃子>難易度表/おに/天狗囃子]]|おに|天狗の仕業||
 |~|[[COLOR(blue):カグツチ>難易度表/おに/カグツチ]]|おに|猛炎の紅蓮神||
 |~|[[COLOR(blue):KUSANAGI>難易度表/おに/KUSANAGI]]|おに|神薙ぐ御剣||
+|~|[[COLOR(blue):もしもし神様>難易度表/おに/もしもし神様]]|おに|かしこみもまおせ||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]|おに|全力疾走の達人||
-|~|[[COLOR(blue):もしもし神様>難易度表/おに/もしもし神様]]|おに|かしこみもまおせ||
 |~|[[COLOR(blue):闇の魔法少女>難易度表/おに/闇の魔法少女]]|おに|黒の存在理由||
 |~|[[COLOR(blue):ピコピコ ルイン>難易度表/おに/ピコピコ ルイン]]|-|教授のきもち|サカモト教授作曲・編曲の曲をどれか一つフルコンボで獲得|
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
@@ -388,8 +389,10 @@
 |~|[[COLOR(blue):SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|おに|北天の星雲を翔し者||
 |~|[[COLOR(blue):Rotter Tarmination(裏譜面)>難易度表/おに/Rotter Tarmination(裏譜面)]]|裏譜面|なんじゃこりゃああ！||
 |~|[[COLOR(blue):燎原ノ舞>難易度表/おに/燎原ノ舞]]|おに|燎原の覇王||
-|~|[[COLOR(blue):Black Rose Apostle>難易度表/おに/Black Rose Apostle]]|おに|黒薔薇の使徒||
-|~|[[COLOR(blue):White Rose Insanity>難易度表/おに/White Rose Insanity]]|おに|白薔薇の狂気||
+|~|[[COLOR(blue):Black Rose Apostle>難易度表/おに/Black Rose Apostle]]|おに|黒薔薇の使徒|表譜面・裏譜面どちらでも可|
+|~|[[COLOR(blue):Black Rose Apostle(裏譜面)>難易度表/おに/Black Rose Apostle(裏譜面)]]|裏譜面|黒薔薇の使徒|表譜面・裏譜面どちらでも可|
+|~|[[COLOR(blue):White Rose Insanity>難易度表/おに/White Rose Insanity]]|おに|白薔薇の狂気|表譜面・裏譜面どちらでも可|
+|~|[[COLOR(blue):White Rose Insanity(裏譜面)>難易度表/おに/White Rose Insanity(裏譜面)]]|裏譜面|白薔薇の狂気|表譜面・裏譜面どちらでも可|
 |~|[[COLOR(blue):Red Rose Evangel>難易度表/おに/Red Rose Evangel]]|おに|赤薔薇の福音||
 |~|[[COLOR(blue):Blue Rose Ruin>難易度表/おに/Blue Rose Ruin]]|おに|青薔薇の破滅||
 |~|[[COLOR(blue):Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|おに|薔薇を統べし者||
@@ -475,7 +478,7 @@
 |~|[[COLOR(blue):PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]|おに|祭囃子の達人||
 |~|[[COLOR(blue):Fly again!>難易度表/おに/Fly again!]]|おに|僕らはもっと翔べる||
 |~|[[COLOR(blue):さいたま2000>難易度表/おに/さいたま2000]]|おに|さいたまの達人||
-|~|[[COLOR(blue):White Rose Insanity>難易度表/おに/White Rose Insanity]]|おに|白薔薇の狂気||
+|~|[[COLOR(blue):White Rose Insanity>難易度表/おに/White Rose Insanity]]|おに|白薔薇の狂気|表譜面・裏譜面どちらでも可|
 |~★x8|[[COLOR(blue):Irodoru&#9825;Future>難易度表/おに/Irodoru・Future]]|おに|君と彩るミライの音||
 |~|[[COLOR(blue):テルミービート>難易度表/おに/テルミービート]]|おに|恋のビートも攻略中||
 |~|[[COLOR(blue):Eternal bond>難易度表/おに/Eternal bond]]|おに|永遠の絆||
@@ -512,6 +515,7 @@
 |~|[[COLOR(blue):ボクハシンセ>難易度表/おに/ボクハシンセ]]|おに|ハローマイフレンどん！||
 |~|[[COLOR(blue):桜花爛漫>難易度表/おに/桜花爛漫]]|おに|三者三様の桜咲く||
 |~|[[COLOR(blue):Blue Rose Ruin>難易度表/おに/Blue Rose Ruin]]|おに|青薔薇の破滅||
+|~|[[COLOR(blue):White Rose Insanity(裏譜面)>難易度表/おに/White Rose Insanity(裏譜面)]]|裏譜面|白薔薇の狂気|表譜面・裏譜面どちらでも可|
 |~|[[COLOR(blue):愛想笑い>難易度表/おに/愛想笑い]]|おに|仮面の下の真実||
 |~★x9|[[COLOR(blue):シン・ゾンビ>難易度表/おに/シン・ゾンビ]]|おに|シン・ゾンビの達人||
 |~|[[COLOR(blue):さんぽ(裏譜面)>難易度表/おに/さんぽ(裏譜面)]]|裏譜面|さんぽの達人||
@@ -553,10 +557,11 @@
 |~|[[COLOR(blue):ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|おに|不可ハイネガ〜！||
 |~|[[COLOR(blue):トラストゲーム>難易度表/おに/トラストゲーム]]|おに|簡単に超えた長いハイステージ||
 |~|[[COLOR(blue):ユースフルコースター>難易度表/おに/ユースフルコースター]]|おに|光陰ジェットコースターの如し||
-|~|[[COLOR(blue):GO GET'EM!(裏譜面)>難易度表/おに/GO GET'EM!(裏譜面)]]|裏譜面|リズミカルドンだー||
 |~|[[COLOR(blue):GO GET'EM!>難易度表/おに/GO GET'EM!]]|おに|メロディアスドンだー||
+|~|[[COLOR(blue):GO GET'EM!(裏譜面)>難易度表/おに/GO GET'EM!(裏譜面)]]|裏譜面|リズミカルドンだー||
 |~|[[COLOR(blue):マジカル・パフェ>難易度表/おに/マジカル・パフェ]]|おに|Perfect Parfait||
 |~|[[COLOR(blue):マオウのショウタイム>難易度表/おに/マオウのショウタイム]]|おに|自称・世界でイチバン人気者||
+|~|[[COLOR(blue):Asteroid>難易度表/おに/Asteroid]]|おに|Asteroid Trackers||
 |~|[[COLOR(blue):天狗囃子>難易度表/おに/天狗囃子]]|おに|天狗の仕業||
 |~|[[COLOR(blue):カグツチ>難易度表/おに/カグツチ]]|おに|猛炎の紅蓮神||
 |~|[[COLOR(blue):KUSANAGI>難易度表/おに/KUSANAGI]]|おに|神薙ぐ御剣||
@@ -713,6 +718,7 @@
 |~|[[COLOR(blue):愛と浄罪の森>難易度表/おに/愛と浄罪の森]]|おに|罪深き歓びの譜を歌いし者||
 |~|[[COLOR(blue):Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|おに|寒空に咲く花たちへ||
 |~|[[COLOR(blue):OK I’m blue rat>難易度表/おに/OK I’m blue rat]]|おに|Taiko rumble||
+|~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
 |~|[[COLOR(blue):8OROCHI>難易度表/おに/8OROCHI]]|おに|10TSUKANOTSURUGI||
 |~|[[COLOR(blue):8OROCHI(裏譜面)>難易度表/おに/8OROCHI(裏譜面)]]|裏譜面|AMANOMURAKUMO||
 |~|[[COLOR(blue):UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|おに|不死のドン魂||
@@ -732,7 +738,8 @@
 |~|[[COLOR(blue):SORA-VII シグナスウォール>難易度表/おに/SORA-VII シグナスウォール]]|おに|北天の星雲を翔し者||
 |~|[[COLOR(blue):Rotter Tarmination(裏譜面)>難易度表/おに/Rotter Tarmination(裏譜面)]]|裏譜面|なんじゃこりゃああ！||
 |~|[[COLOR(blue):燎原ノ舞>難易度表/おに/燎原ノ舞]]|おに|燎原の覇王||
-|~|[[COLOR(blue):Black Rose Apostle>難易度表/おに/Black Rose Apostle]]|おに|黒薔薇の使徒||
+|~|[[COLOR(blue):Black Rose Apostle>難易度表/おに/Black Rose Apostle]]|おに|黒薔薇の使徒|表譜面・裏譜面どちらでも可|
+|~|[[COLOR(blue):Black Rose Apostle(裏譜面)>難易度表/おに/Black Rose Apostle(裏譜面)]]|裏譜面|黒薔薇の使徒|表譜面・裏譜面どちらでも可|
 |~|[[COLOR(blue):Purple Rose Fusion>難易度表/おに/Purple Rose Fusion]]|おに|薔薇を統べし者||
 |~|[[COLOR(blue):幽玄ノ乱>難易度表/おに/幽玄ノ乱]]|おに|幽玄を極めし者||
 |~|[[COLOR(blue):双竜ノ乱>難易度表/おに/双竜ノ乱]]|おに|双竜を討ちし者|裏譜面では不可|
@@ -753,9 +760,9 @@
 |~|[[COLOR(blue):!!!カオスタイム!!!>難易度表/おに/!!!カオスタイム!!!]]|おに|スーパーカオスタイム||
 |~|[[COLOR(blue):彼は誰時の誘惑(裏譜面)>難易度表/おに/彼は誰時の誘惑(裏譜面)]]|裏譜面|スキル：完全魅了耐性||
 |~|[[COLOR(blue):秘ナルメジェドノ悲ナル憂鬱>難易度表/おに/秘ナルメジェドノ悲ナル憂鬱]]|おに|メジェド様の信徒||
-|~|[[COLOR(blue):Infinite Rebellion>難易度表/おに/Infinite Rebellion]]|おに|無限を究めし者||
-|~|[[COLOR(blue):パン vs ごはん！ 大決戦！(裏譜面)>難易度表/おに/パン vs ごはん！ 大決戦！(裏譜面)]]|裏譜面|ごはん派の達人||
 |~|[[COLOR(blue):パン vs ごはん！ 大決戦！>難易度表/おに/パン vs ごはん！ 大決戦！]]|おに|パン派の達人||
+|~|[[COLOR(blue):パン vs ごはん！ 大決戦！(裏譜面)>難易度表/おに/パン vs ごはん！ 大決戦！(裏譜面)]]|裏譜面|ごはん派の達人||
+|~|[[COLOR(blue):Infinite Rebellion>難易度表/おに/Infinite Rebellion]]|おに|無限を究めし者||
 |~|[[COLOR(blue):濃紅>難易度表/おに/濃紅]]|おに|濃紅が紡ぐ邂逅||
 |~|[[COLOR(blue):R.I.>難易度表/おに/R.I.]]|おに|R．I．M．||
 |~|[[COLOR(blue):第六天魔王>難易度表/おに/第六天魔王]]|おに|天魔覆滅||
