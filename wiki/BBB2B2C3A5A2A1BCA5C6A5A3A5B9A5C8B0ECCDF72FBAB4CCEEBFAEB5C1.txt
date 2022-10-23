@@ -15,7 +15,7 @@
 ---[[タイコタイム>難易度表/おに/タイコタイム]]
 ---[[ボクハシンセ>難易度表/おに/ボクハシンセ]]★
 --ゲームミュージック
----[[Rare Hero>難易度表/おに/Rare Hero]]
+---[[RARE HERO>難易度表/おに/Rare Hero]]
 -太鼓の達人に収録されていない他の作品
 --Space Harrier Main Theme(Reborn)
 --Playball

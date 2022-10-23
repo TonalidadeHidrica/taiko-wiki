@@ -27,4 +27,6 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(¿À·â¤Îµæ¶ËÎµ.png,nolink);
+~&attachref(MusicScore15_03_x2.png,nolink);
+~È¾Â®É½µ­
+~&attachref(MusicScore15_03.png,nolink);

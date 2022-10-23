@@ -141,3 +141,4 @@
 -Doppelgangersを追加。Doppelgangers表・裏、Kill My Fortuneの天井点追加。Kill My Fortune、もぺもぺを現時点の選曲位置へ修正 --  &new{2022-10-01 (土) 20:09:00};
 -Aleph-0を追加 --  &new{2022-10-13 (木) 09:06:31};
 -DANCE MONKEY追加 --  &new{2022-10-15 (土) 07:35:57};
+-EXCITEをサヨナラ曲欄へ移しました --  &new{2022-10-23 (日) 09:35:39};

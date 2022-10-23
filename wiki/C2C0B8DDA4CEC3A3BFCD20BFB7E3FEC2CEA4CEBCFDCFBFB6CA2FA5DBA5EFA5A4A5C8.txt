@@ -3,12 +3,12 @@
 *太鼓の達人 ホワイトVer. の収録曲(V11.01) [#title]
 -最新Ver.としての稼働期間：2015 年 12 月 10 日〜 2016 年 7 月 13 日
 
--旧曲 ''459'' ＋ 新曲 ''57'' ＋ 隠し曲・ドンチャレ解禁曲・ごほうびショップ解禁曲 ''52'' − サヨナラ曲 ''89'' ＝ SIZE(20){''425''} 曲((段位道場のみプレイ可能の曲除く))
+-旧曲 ''459'' ＋ 新曲 ''57'' ＋ 隠し曲・ドンチャレ解禁曲・ごほうびショップ解禁曲 ''52'' − サヨナラ曲 ''90'' ＝ SIZE(20){''424''} 曲((段位道場のみプレイ可能の曲除く))
 
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
 |BGCOLOR(cyan):~[[&color(black){%%%J-POP%%%};>#jpop]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(darkgray):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(magenta):~[[&color(black){%%%どうよう%%%};>#doyo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
-|''20'' 曲&br;(約4.9%)|''23'' 曲&br;(約6.4%)|''25'' 曲&br;(約5.9%)|''2'' 曲&br;(約0.5%)|''22'' 曲&br;(約5.2%)|''21'' 曲&br;(約4.9%)|''95'' 曲&br;(約22.4%)|''212'' 曲&br;(約49.9%)|
+|''20'' 曲&br;(約4.7%)|''22'' 曲&br;(約5.1%)|''25'' 曲&br;(約5.8%)|''2'' 曲&br;(約0.4%)|''22'' 曲&br;(約5.1%)|''21'' 曲&br;(約4.9%)|''95'' 曲&br;(約22.4%)|''212'' 曲&br;(約50.0%)|
 
 -[[システム詳細>ACの歴史(新筐体)#white]]
 -[[アップデート履歴(ホワイト)>太鼓の達人 新筐体 アップデート履歴/ホワイト]]
@@ -145,7 +145,7 @@
 |BGCOLOR(#ccc):''18/3/15&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''Daydream caf&eacute;''&br;　　SIZE(11){「ご注文はうさぎですか？」より}|BGCOLOR(#ccc):150|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Daydream cafe]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Daydream cafe]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Daydream cafe]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Daydream cafe]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/10/13&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''紅蓮の弓矢''&br;　　SIZE(11){「進撃の巨人」より}|BGCOLOR(#ccc):181※|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/紅蓮の弓矢]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/紅蓮の弓矢]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/紅蓮の弓矢]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/紅蓮の弓矢]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''19/6/27&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''イマジネーション''&br;　　SIZE(11){「ハイキュー!!」より}|BGCOLOR(#ccc):204|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/イマジネーション]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/イマジネーション]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/イマジネーション]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/イマジネーション]]|BGCOLOR(#ccc):-|
-|''22/7/16&br;サ''||''君の知らない物語''&br;　　SIZE(11){「化物語」より}|165|[[★×3>難易度表/かんたん/君の知らない物語]]|[[★×4>難易度表/ふつう/君の知らない物語]]|[[★×3>難易度表/むずかしい/君の知らない物語]]|[[★×7>難易度表/おに/君の知らない物語]]|-|
+|BGCOLOR(#ccc):''22/7/16&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''君の知らない物語''&br;　　SIZE(11){「化物語」より}|BGCOLOR(#ccc):165|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/君の知らない物語]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/君の知らない物語]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/君の知らない物語]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/君の知らない物語]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/3/29&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''FUTURE FISH''&br;　　SIZE(11){「Free! -Eternal Summer-」より}|BGCOLOR(#ccc):163|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/FUTURE FISH]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/FUTURE FISH]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/FUTURE FISH]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/FUTURE FISH]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/10/13&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''マジLOVE2000%''&br;　　SIZE(11){「うたの☆プリンスさまっ♪マジLOVE2000%」より}|BGCOLOR(#ccc):141|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/マジLOVE2000％]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/マジLOVE2000%]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/マジLOVE2000％]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/マジLOVE2000％]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/3/29&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''Preserved Roses''&br;　　SIZE(11){T.M.Revolution×水樹奈々「革命機ヴァルヴレイヴ」より}|BGCOLOR(#ccc):167|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Preserved Roses]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/Preserved Roses]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Preserved Roses]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Preserved Roses]]|BGCOLOR(#ccc):-|

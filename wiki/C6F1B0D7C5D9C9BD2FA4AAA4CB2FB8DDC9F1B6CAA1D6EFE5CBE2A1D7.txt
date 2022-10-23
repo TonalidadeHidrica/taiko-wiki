@@ -45,3 +45,6 @@
 
 ***譜面 [#score]
 ~&attachref(kobenm_m.png,nolink);
+
+~見た目重視（黄色連打除く）
+~&attachref(「It is ''Enma''.」is back.png,nolink);

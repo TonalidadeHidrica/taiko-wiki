@@ -31,9 +31,9 @@
 -平均密度は、''約5.82打/秒''。
 
 ***その他 [#other]
--作詞・作曲は、BMSの[[Angel dust>https://manbow.nothing.sh/event/event.cgi?action=More_def&num=34&event=36]]で有名な''[[LV.4>参加アーティスト一覧/LV.4]]''。
--編曲は、''[[LV.4>参加アーティスト一覧/LV.4]]''、''[[K Masera>参加アーティスト一覧/K Masera]]''。
--歌唱は、[[''みゆ''>参加アーティスト一覧/みゆ]]。
+-作詞・作曲は、BMSのAngel dustで有名な''[[LV.4>https://mobile.twitter.com/lv4]]''。
+-編曲は、''[[LV.4>https://mobile.twitter.com/lv4]]''、''[[K Masera>参加アーティスト一覧/K Masera]]''。
+-歌唱は、[[''みゆ''>https://vgmdb.net/artist/2519]]。
 --トラックダウンは、''[[K Masera>参加アーティスト一覧/K Masera]]''。
 --[[JBG音楽院>http://www.jbg-ongakuin.com/]]が初めて提供した楽曲である。
 -譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。

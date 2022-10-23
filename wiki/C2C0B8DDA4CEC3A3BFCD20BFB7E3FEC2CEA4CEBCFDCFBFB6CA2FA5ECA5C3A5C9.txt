@@ -3,12 +3,12 @@
 *太鼓の達人 レッドVer. の収録曲(V10.01) [#title]
 -最新Ver.としての稼働期間：2016 年 7 月 14 日〜 2017 年 3 月 14 日
 
--旧曲 ''526'' ＋ 新曲 ''67'' ＋ 隠し曲・ドンチャレ解禁曲・ごほうびショップ解禁曲 ''48'' − 期間限定曲 ''4'' − サヨナラ曲 ''80'' ＝ SIZE(20){''453''} 曲((段位道場のみプレイ可能の曲除く))
+-旧曲 ''526'' ＋ 新曲 ''67'' ＋ 隠し曲・ドンチャレ解禁曲・ごほうびショップ解禁曲 ''48'' − 期間限定曲 ''4'' − サヨナラ曲 ''159'' ＝ SIZE(20){''478''} 曲((段位道場のみプレイ可能の曲除く))
 
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
 |BGCOLOR(cyan):~[[&color(black){%%%J-POP%%%};>#jpop]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(darkgray):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(magenta):~[[&color(black){%%%どうよう%%%};>#doyo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
-|''26'' 曲&br;(約5.6%)|''35'' 曲&br;(約7.2%)|''28'' 曲&br;(約5.6%)|''4'' 曲&br;(約0.8%)|''32'' 曲&br;(約6.4%)|''22'' 曲&br;(約4.4%)|''117''  曲&br;(約23.3%)|''235'' 曲&br;(約46.8%)|
+|''21'' 曲&br;(約4.3%)|''27'' 曲&br;(約5.6%)|''28'' 曲&br;(約5.8%)|''4'' 曲&br;(約0.8%)|''27'' 曲&br;(約5.6%)|''22'' 曲&br;(約4.6%)|''114''  曲&br;(約23.8%)|''235'' 曲&br;(約49.1%)|
 
 -[[システム詳細>ACの歴史(新筐体)#red]]
 -[[アップデート履歴(レッド)>太鼓の達人 新筐体 アップデート履歴/レッド]]
@@ -119,7 +119,7 @@
 |BGCOLOR(#ccc):''16/12/20&br;~&br;18/11/20''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''花丸◎日和！''&br;　　SIZE(11){「刀剣乱舞-花丸-」より}|BGCOLOR(#ccc):184|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/花丸◎日和！]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/花丸◎日和！]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/花丸◎日和！]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/花丸◎日和！]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/11/15&br;~&br;20/9/22''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''ス・マ・イ・ル''&br;　　SIZE(11){「はなかっぱ」より}|BGCOLOR(#ccc):166|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/ス・マ・イ・ル]]&br;SIZE(10){(S)}|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/ス・マ・イ・ル]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/ス・マ・イ・ル]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/ス・マ・イ・ル]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/11/15&br;~&br;21/10/19''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''ゆーがらお友達''&br;　　SIZE(11){「妖怪ウォッチ」より}|BGCOLOR(#ccc):150|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/ゆーがらお友達]]&br;SIZE(10){(S)}|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ゆーがらお友達]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/ゆーがらお友達]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/ゆーがらお友達]]|BGCOLOR(#ccc):-|
-|''16/11/15&br;~&br;22/10/23''|''新''|''EXCITE''&br;　　SIZE(11){「仮面ライダーエグゼイド」より}|151|[[★×2>難易度表/かんたん/EXCITE]]&br;SIZE(10){(S)}|[[★×3>難易度表/ふつう/EXCITE]]|[[★×5>難易度表/むずかしい/EXCITE]]|[[★×7>難易度表/おに/EXCITE]]|-|
+|BGCOLOR(#ccc):''16/11/15&br;~&br;22/10/22''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''EXCITE''&br;　　SIZE(11){「仮面ライダーエグゼイド」より}|BGCOLOR(#ccc):151|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/EXCITE]]&br;SIZE(10){(S)}|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/EXCITE]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/EXCITE]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/EXCITE]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/10/13&br;~&br;19/6/26''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''ウィーキャン！''&br;　　SIZE(11){「ワンピース」より}|BGCOLOR(#ccc):180|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/ウィーキャン！]]&br;SIZE(10){(S)}|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ウィーキャン！]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/ウィーキャン！]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/ウィーキャン！]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/9/14&br;~&br;19/3/13''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''Paradisus-Paradoxum''&br;　　SIZE(11){「Re:ゼロから始める異世界生活」より}|BGCOLOR(#ccc):201|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Paradisus-Paradoxum]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Paradisus-Paradoxum]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Paradisus-Paradoxum]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Paradisus-Paradoxum]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/9/14&br;~&br;17/12/5''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''とんかつDJアゲ太郎''&br;　　SIZE(11){-太鼓の達人Mix-}|BGCOLOR(#ccc):101-120|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/とんかつDJアゲ太郎]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/とんかつDJアゲ太郎]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/とんかつDJアゲ太郎]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/とんかつDJアゲ太郎]]|BGCOLOR(#ccc):-|
@@ -161,7 +161,7 @@
 |BGCOLOR(#ccc):''18/3/15&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''Daydream caf&eacute;''&br;　　SIZE(11){「ご注文はうさぎですか？」より}|BGCOLOR(#ccc):150|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Daydream cafe]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Daydream cafe]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Daydream cafe]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Daydream cafe]]|BGCOLOR(#ccc):-|
 |||''紅蓮の弓矢''&br;　　SIZE(11){「進撃の巨人」より}|181※|[[★×5>難易度表/かんたん/紅蓮の弓矢]]|[[★×6>難易度表/ふつう/紅蓮の弓矢]]|[[★×6>難易度表/むずかしい/紅蓮の弓矢]]|[[★×8>難易度表/おに/紅蓮の弓矢]]|-|
 |BGCOLOR(#ccc):''19/6/27&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''イマジネーション''&br;　　SIZE(11){「ハイキュー！！」より}|BGCOLOR(#ccc):204|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/イマジネーション]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/イマジネーション]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/イマジネーション]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/イマジネーション]]|BGCOLOR(#ccc):-|
-|''22/7/16&br;サ''||''君の知らない物語''&br;　　SIZE(11){「化物語」より}|165|[[★×3>難易度表/かんたん/君の知らない物語]]|[[★×4>難易度表/ふつう/君の知らない物語]]|[[★×3>難易度表/むずかしい/君の知らない物語]]|[[★×7>難易度表/おに/君の知らない物語]]|-|
+|BGCOLOR(#ccc):''22/7/16&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''君の知らない物語''&br;　　SIZE(11){「化物語」より}|BGCOLOR(#ccc):165|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/君の知らない物語]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/君の知らない物語]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/君の知らない物語]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/君の知らない物語]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/10/13&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''マジLOVE2000%''&br;　　SIZE(11){「うたの☆プリンスさまっ♪マジLOVE2000%」より}|BGCOLOR(#ccc):141|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/マジLOVE2000％]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/マジLOVE2000%]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/マジLOVE2000％]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/マジLOVE2000％]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''17/12/6&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''ETERNAL BLAZE''&br;　　SIZE(11){水樹奈々}|BGCOLOR(#ccc):105-155|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/ETERNAL BLAZE]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/ETERNAL BLAZE]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/ETERNAL BLAZE]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/ETERNAL BLAZE]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''17/3/15&br;サ''|BGCOLOR(#ccc):|BGCOLOR(#ccc):''Wake up!''&br;　　SIZE(11){「ワンピース」より}|BGCOLOR(#ccc):176|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Wake up!]]&br;SIZE(10){(S)}|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Wake up!]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Wake up!]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Wake up!]]|BGCOLOR(#ccc):-|
