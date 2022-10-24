@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.5.2''|PS Vita1SP&br;Wii U3DL&br;3DS3DL&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''468''|''843140点''|+連打|520点|145点|
+|''AC15.5.2''|PS Vita1SP&br;Wii U3DL&br;3DS3DL&br;PS4 1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''468''|''843140点''|+連打|520点|145点|
 ||PS Vita1亜SP|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''991020点''}|~|COLOR(#ff3300){1990点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''832860点''|~|510点|120点|
@@ -23,7 +23,7 @@
 -総合的に見て、''★×7では強めの部類に入るため注意。''
 
 ***その他 [#other]
--楽曲情報は[[おに(表)譜面>難易度表/おに/Xa]]を参照。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/Xa#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Xa]]
@@ -38,5 +38,6 @@
 
 ***譜面 [#score]
 ~&attachref(xa_h1.png,nolink);
+
 ~半速表記
 ~&attachref(xa_hm.png,nolink);

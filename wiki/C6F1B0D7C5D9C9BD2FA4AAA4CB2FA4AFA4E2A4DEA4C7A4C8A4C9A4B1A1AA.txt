@@ -1,10 +1,11 @@
 *くもまでとどけ！ [#title]
 -「''太鼓の達人 ぽ〜たぶる2''」のテーマ曲。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差||h
 |''PSP2''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''375''|''1055350点''|950点|180点|''ゴーゴーバグあり''|
-|NS1DL|~|~|~|''1052910点''|840点|238点||
+|NS1DL&br;NS2MP|~|~|~|''1052910点''|840点|238点||
 |COLOR(#f30){真打}|~|~|~|COLOR(#f30){''1002960点''}|COLOR(#f30){2560点}|-|~|
 
 ***譜面構成・攻略 [#capture]
@@ -28,10 +29,10 @@
 -[[オート動画(PSP2)>https://www.youtube.com/watch?v=djkalSSuXmU]]
 -[[オート動画(NS1)>https://youtu.be/UbihPPafJgg]]
 
-***コメント[#comment]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#score]
+***譜面 [#score]
 ~&attachref(p.png,nolink);
 
 ~倍速表記

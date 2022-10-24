@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.5.2''|PS Vita1SP&br;Wii U3DL&br;3DS3DL&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''222''|''367130点''|+連打|460点|150点|
+|''AC15.5.2''|PS Vita1SP&br;Wii U3DL&br;3DS3DL&br;PS4 1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''222''|''367130点''|+連打|460点|150点|
 ||PS Vita1亜SP|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''990360点''}|~|COLOR(#ff3300){3930点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''357440点''|~|440点|120点|
@@ -22,7 +22,7 @@
 -序盤で2回出てくる4分の複合2連打に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに(表)譜面>難易度表/おに/Xa]]を参照。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/Xa#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/Xa]]
@@ -38,5 +38,6 @@
 ***譜面 [#score]
 ~黄色連打は下の画像より48分音符1つ分短い
 ~&attachref(Xa_e.png,nolink);
+
 ~半速表記
 ~&attachref(Xa_eh.png,nolink);

@@ -1,8 +1,8 @@
 *蒼紅華之舞 [#title]
 -Cygamesのスマートフォンアプリ「''グランブルーファンタジー''」のキャラクターソング。
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''オイラ''|★×6|''239''|''???点''|＋連打|660点|170点|
 
@@ -17,8 +17,9 @@
 ----
 -[[NORMAL>難易度表/ふつう/蒼紅華之舞]]
 -[[プレイ動画>https://www.youtube.com/watch?v=8pEGYuX5erk]]
+
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(grblak_h.png,nolink);
+&attachref(MusicScore13_02.png,nolink);

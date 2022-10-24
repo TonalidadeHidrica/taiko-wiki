@@ -1,8 +1,8 @@
 *カフェdeパーリナイ SIZE(16){ダンチョのお悩み俺らがまるっと秒で解決編SP} [#title]
 -Cygamesのスマートフォンアプリ「''グランブルーファンタジー''」のキャラクターソング。
+
 ***詳細・攻略 [#more]
--詳細は以下の通り：
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''オイラ''|★×3|''81''|''???点''|＋連打|2100点|560点|
 
@@ -20,3 +20,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
+~&attachref(MusicScore12_01.png,nolink);

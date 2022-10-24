@@ -54,5 +54,5 @@
 
 ***譜面 [#score]
 ~BPM変化
- 1小節:156.61 → 147.92
+ 1小節：156.61 → 147.92
 ~&attachref(godkno_x_3.png,nolink);

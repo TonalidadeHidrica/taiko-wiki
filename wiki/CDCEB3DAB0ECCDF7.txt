@@ -105,8 +105,8 @@
 |''Are You Gonna Be My Girl''|210|[[★×2>難易度表/かんたん/Are You Gonna Be My Girl]]|[[★×4>難易度表/ふつう/Are You Gonna Be My Girl]]|[[★×5>難易度表/おに/Are You Gonna Be My Girl]]|[[★×5>難易度表/おに/Are You Gonna Be My Girl]]|
 |''My Sharona''|146|[[★×3>難易度表/かんたん/My Sharona]]|[[★×3>難易度表/ふつう/My Sharona]]|[[★×5>難易度表/おに/My Sharona]]|[[★×5>難易度表/おに/My Sharona]]|
 |>|>|>|>|>|BGCOLOR(orange):''Anime/TV''|
-|''Bowling For Soup''|202|[[★×2>難易度表/かんたん/Bowling For Soup]]|[[★×3>難易度表/ふつう/Bowling For Soup]]|[[★×4>難易度表/おに/Bowling For Soup]]|[[★×4>難易度表/おに/Bowling For Soup]]|
-|''Rock the Dragon''|108-216|[[★×4>難易度表/かんたん/Rock the Dragon]]|[[★×2>難易度表/ふつう/Rock the Dragon]]|[[★×5>難易度表/おに/Rock the Dragon]]|[[★×4>難易度表/おに/Rock the Dragon]]|
+|''Bowling For Soup - Jimmy Neutron Theme''|202|[[★×2>難易度表/かんたん/Bowling For Soup]]|[[★×3>難易度表/ふつう/Bowling For Soup]]|[[★×4>難易度表/おに/Bowling For Soup]]|[[★×4>難易度表/おに/Bowling For Soup]]|
+|''Rock the Dragon - Dragon Z Theme''|108-216|[[★×4>難易度表/かんたん/Rock the Dragon]]|[[★×2>難易度表/ふつう/Rock the Dragon]]|[[★×5>難易度表/おに/Rock the Dragon]]|[[★×4>難易度表/おに/Rock the Dragon]]|
 
 **東洋音楽 [#east]
 
@@ -128,6 +128,7 @@
 ||LEFT:65|>|>|>|>|CENTER:44|c
 |''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(white):''かん&br;たん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|h
 |>|>|>|>|>|>|BGCOLOR(#49d5eb):''ポップス''|
+|''AWAY''|136|[[★×2>難易度表/かんたん/AWAY]]|[[★×4>難易度表/ふつう/AWAY]]|[[★×4>難易度表/むずかしい/AWAY]]|[[★×6>難易度表/おに/AWAY]]|-|
 |''以後別做朋友 The Distance of Love''|94?-132|[[★×2>難易度表/かんたん/以後別做朋友 The Distance of Love]]|[[★×2>難易度表/ふつう/以後別做朋友 The Distance of Love]]|[[★×4>難易度表/むずかしい/以後別做朋友 The Distance of Love]]|[[★×6>難易度表/おに/以後別做朋友 The Distance of Love]]|-|
 |''修錬愛情 Practice Love''|67.5|[[★×2>難易度表/かんたん/修錬愛情 Practice Love]]|[[★×3>難易度表/ふつう/修錬愛情 Practice Love]]|[[★×5>難易度表/むずかしい/修錬愛情 Practice Love]]|[[★×7>難易度表/おに/修錬愛情 Practice Love]]|-|
 
