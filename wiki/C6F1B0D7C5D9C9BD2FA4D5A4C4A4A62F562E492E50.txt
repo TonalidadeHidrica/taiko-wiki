@@ -1,4 +1,5 @@
-*V.I.P [#title]
+*&ruby(ブイアイピー){V.I.P}; [#title]
+-アニメ「''マギ（第1期）''」のOP1。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -17,17 +18,19 @@
 -4分の複合と8分が何度も出てくる6〜9小節と57〜60小節に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに>難易度表/おに/V.I.P#other]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/V.I.P#other]]を参照。
 -[[ソライロVer.段位道場>過去の段位道場#sorairo]]の三級1曲目課題曲となった。
+
 ----
 -[[かんたん>難易度表/かんたん/V.I.P]]
 -[[むずかしい>難易度表/むずかしい/V.I.P]]
 -[[おに>難易度表/おに/V.I.P]]
--[[プレイ動画>https://www.youtube.com/watch?v=i5j8PVnJdCs]]
+-[[プレイ動画(AC15)>https://www.youtube.com/watch?v=i5j8PVnJdCs_I]]
+-[[オート動画(NS2)>https://youtube.com/watch?v=eAv03lH0fYQ_I]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(vipn.png,nolink);
+&attachref(vipn.png,nolink);

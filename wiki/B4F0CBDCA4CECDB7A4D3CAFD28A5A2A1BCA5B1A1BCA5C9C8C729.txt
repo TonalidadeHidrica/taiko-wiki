@@ -21,6 +21,8 @@
 ''&color(white,#007bbb){　}; 新筐体(画像 : イエローVer.)''
 
 ~&attachref(http://taiko-ch.net/urgybrhm3ukw/blog/wp-content/uploads/2017/01/f0339176a4959cb35f1be5432e80a581.jpg);
+RIGHT:&size(4){&color(#007bbb){● };(画像出典：[[「太鼓の達人　公式ブログ/大型バージョンアップとJAEPOと公式生放送のお知らせ(2017/1/19)」>https://taiko-ch.net/blog/?p=977]])};
+RIGHT:&size(4){　　<Taiko no Tatsujin&#8482;Series & &#169;Bandai Namco Entertainment Inc.>};
 -ナンバリングがない(15代目にあたる)。
 -画面は液晶ディスプレイ(画面アスペクト比16:9)。
 -バチは足元の袋に入っている。
@@ -30,6 +32,8 @@
 ''&color(white,#007bbb){　}; 新筐体2(画像 : ニジイロVer.((正式名称は2020年3月Ver.)))''
 
 ~&attachref(太鼓の達人　ニジイロVer．.jpeg);
+RIGHT:&size(4){&color(#007bbb){● };(画像出典：[[「太鼓の達人　公式ブログ/JAEPO2020 おさらい＆楽曲公募ティザーサイト紹介！(2020/2/13)」>https://taiko-ch.net/blog/?p=4124]])};
+RIGHT:&size(4){　　<Taiko no Tatsujin&#8482;Series & &#169;Bandai Namco Entertainment Inc.>};
 -新筐体同様、ナンバリングがない(16代目にあたる)。
 -モニターは新筐体では60fpsだったのに対し新筐体2では120fpsとなっており、叩いてからの反応速度も速くなっている。
 
@@ -196,7 +200,8 @@
 **演奏[#play]
 ***演奏画面について [#ui]
 ~&attachref(pic_01.png);
-RIGHT:&size(11){&color(#007bbb){● };画像は[[こちら:https://taiko.namco-ch.net/taiko/howto/index.php#gamen]]から引用｡};
+RIGHT:&size(4){&color(#007bbb){● };(画像出典：[[「遊び方 太鼓の達人（ゲームセンター向け） | バンダイナムコアミューズメント」>https://taiko.namco-ch.net/taiko/howto/index.php#gamen]])};
+RIGHT:&size(4){　　<Taiko no Tatsujin&#8482;Series & &#169;Bandai Namco Entertainment Inc.>};
 
 &color(#bfbfc8){&size(20){&#10102;};}; ''スコア''
 -現在のスコアを表している。
@@ -223,6 +228,8 @@ RIGHT:&size(11){&color(#007bbb){● };画像は[[こちら:https://taiko.namco-ch.net/t
 ''&color(white,#007bbb){　}; 音符の種類と叩き方''
 
 ~&attachref(20210917_1353_41181_1.png);
+RIGHT:&size(4){&color(#007bbb){● };(画像出典：「太鼓の達人 2020年3月 Ver.」)};
+RIGHT:&size(4){　　<Taiko no Tatsujin&#8482;Series & &#169;Bandai Namco Entertainment Inc.>};
 //-赤い音符は&color(#fe4711){面};、青い音符は&color(#63d1ca){縁};、黄色の長い音符は流れている間太鼓を&color(#f2b600){連打};、ふうせん･くすだま音符は割れるまで&color(#f2b600){面を連打};する。
 -''&color(#007bbb){【注意】};%%%必要以上の強さで叩くのはセンサーの反応が悪くなる原因%%%になり、嫌われるので控えること。また、%%%太鼓の&color(#996644){胴};の部分は危険なので絶対に叩かない%%%こと。&color(#63d1ca){縁};と&color(#996644){胴};は別の場所である。''
 
@@ -240,6 +247,8 @@ RIGHT:&size(11){&color(#007bbb){● };画像は[[こちら:https://taiko.namco-ch.net/t
 
 -演奏終了時に画面右上((2人プレイ時に右側の太鼓を使ったプレイヤーは画面右下))の「魂ゲージ」が黄色くなるまで溜まっているとノルアクリアとなり「COLOR(#f23b08){''クリア成功''}」の文字が出る。
 ~&attachref(Screenshot_20210917-220727~2.png);
+RIGHT:&size(4){&color(#007bbb){● };(画像出典：「太鼓の達人 2020年3月 Ver.」)};
+RIGHT:&size(4){　　<Taiko no Tatsujin&#8482;Series & &#169;Bandai Namco Entertainment Inc.>};
 --不可を1つも出さなかった場合はフルコンボとなり「COLOR(#f23b08){''クリア成功''}」の後に「COLOR(#fbc000){''フルコンボ!!''}」の文字が出る。
 --可や不可を1つも出さずに全て良で叩けた場合にドンダフルコンボ(全良)となり「COLOR(#f23b08){''クリア成功''}」の後に「''COLOR(#db5f7c){ド}COLOR(#f7ba3f){ン}COLOR(#d2fc1d){ダ}COLOR(#82ff80){フ}COLOR(#83fcf7){ル}COLOR(#8997ff){コ}COLOR(#ac4df6){ン}COLOR(#ea4afb){ボ}COLOR(#ee3ec6){!}COLOR(#ef399f){!}''」の文字が出る。
 -文字が出てくるまではまだ音符が流れてくる可能性があるので注意。

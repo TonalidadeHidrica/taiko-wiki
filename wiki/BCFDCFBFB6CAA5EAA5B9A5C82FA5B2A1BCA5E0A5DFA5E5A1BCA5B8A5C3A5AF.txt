@@ -360,7 +360,7 @@
 |''Sunset Runaway''|154※|[[★×4>難易度表/かんたん/Sunset Runaway]]|[[★×6>難易度表/ふつう/Sunset Runaway]]|[[★×8>難易度表/むずかしい/Sunset Runaway]]|[[★×9>難易度表/おに/Sunset Runaway]]|-|
 |''Surf Zapping''|100-200|[[★×4>難易度表/かんたん/Surf Zapping]]|[[★×6>難易度表/ふつう/Surf Zapping]]|[[★×7>難易度表/むずかしい/Surf Zapping]]|[[★×10>難易度表/おに/Surf Zapping]]|-|
 |''Synchronicity''|130|[[★×3>難易度表/かんたん/Synchronicity]]|[[★×3>難易度表/ふつう/Synchronicity]]|[[★×6>難易度表/むずかしい/Synchronicity]]|[[★×8>難易度表/おに/Synchronicity]]|-|
-|''Take me☆Take you''|180|[[★×3>難易度表/かんたん/Take me☆Take you]]|[[★×3>難易度表/ふつう/Take me☆Take you]]|[[★×5>難易度表/むずかしい/Take me☆Take you]]|-|-|
+//|''Take me☆Take you''|180|[[★×3>難易度表/かんたん/Take me☆Take you]]|[[★×3>難易度表/ふつう/Take me☆Take you]]|[[★×5>難易度表/むずかしい/Take me☆Take you]]|-|-|
 |''TD - 28619029byte remix -''|150.11|[[★×5>難易度表/かんたん/TD -28619029byte remix-]]|[[★×7>難易度表/ふつう/TD -28619029byte remix-]]|[[★×8>難易度表/むずかしい/TD -28619029byte remix-]]|[[★×9>難易度表/おに/TD -28619029byte remix-]]|-|
 |''TE-20''|168※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/TE-20]]|BGCOLOR(#ccc):[[★×6>難易度表/ふつう/TE-20]]|BGCOLOR(#ccc):[[★×7>難易度表/むずかしい/TE-20]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/TE-20]]|-|
 |''tear''|107-145|[[★×3>難易度表/かんたん/tear]]|[[★×4>難易度表/ふつう/tear]]|[[★×5>難易度表/むずかしい/tear]]|[[★×7>難易度表/おに/tear]]|-|

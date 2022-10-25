@@ -1,11 +1,11 @@
 *&ruby(カリビアン){Caribbean}; &ruby(ナイト){Knight}; [#title]
 
 ***詳細 [#more]
-|>|>|>|>|>|>|>|CENTER:|c
-|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.11.12''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''806''|''1203330点''|＋連打|440点|110点|
-|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''1000350点''}|~|COLOR(#ff3300){1170点}|-|
-|AC16.1.0|~|~|~|''999440点''|~|1240点|-|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''AC15.11.12''|NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''806''|''1203330点''|＋連打|440点|110点|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1000350点''}|~|COLOR(#ff3300){1170点}|-|
+|AC16.1.0||~|~|~|''999440点''|~|1240点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは135-''300''。
@@ -34,17 +34,17 @@
 -[[かんたん>難易度表/かんたん/Caribbean Knight]]
 -[[ふつう>難易度表/ふつう/Caribbean Knight]]
 -[[むずかしい>難易度表/むずかしい/Caribbean Knight]]
--[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?v=lwYH4NdJk2k&feature=youtu.be&t=7s]]
+-[[プレイ動画(AC15)>https://m.youtube.com/watch?v=lwYH4NdJk2k&feature=youtu.be&t=7s]]
 -[[オート動画(NS2)>https://www.youtube.com/watch?v=A5iS2LQtyik]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-拍数
+~拍数
  162-166小節：3/32
  167小節：1/32
-&attachref(caribb_m.png,nolink);
+~&attachref(caribb_m.png,nolink);
 
-~162〜167小節の拡大(4倍)~
-&attachref(caribb_162-167.png,nolink);
+~162〜167小節の拡大(4倍)
+~&attachref(caribb_162-167.png,nolink);

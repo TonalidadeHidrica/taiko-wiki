@@ -1,4 +1,5 @@
-*V.I.P [#title]
+*&ruby(ブイアイピー){V.I.P}; [#title]
+-アニメ「''マギ（第1期）''」のOP1。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -17,17 +18,19 @@
 -8分の複合が何度も出てくる11〜19小節と44〜51小節に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに>難易度表/おに/V.I.P#other]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/V.I.P#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/V.I.P]]
 -[[ふつう>難易度表/ふつう/V.I.P]]
 -[[おに>難易度表/おに/V.I.P]]
--[[プレイ動画>https://www.youtube.com/watch?v=IMXJZm6wtng]]
+-[[プレイ動画(AC15)>https://www.youtube.com/watch?v=IMXJZm6wtng_I]]
+-[[オート動画(NS2)>https://youtube.com/watch?v=QQnUkYO-jvQ_I]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 ~連打の長さは適当
 ~&attachref(V.I.P.png,nolink);

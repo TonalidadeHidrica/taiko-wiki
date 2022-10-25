@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.5.7''|Wii U2DL&br;NS1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''765''|''1094770点''|+連打|390点|98点|
+|''AC15.5.7''|Wii U2DL&br;NS1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''765''|''1094770点''|+連打|390点|98点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''993330点''}|~|COLOR(#ff3300){1170点}|-|
 |AC16.1.0||~|~|~|''994500点''|~|1300点|-|
 ||iOS&br;AR|~|~|~|''1092940点''|~|340点|90点|
@@ -26,11 +26,11 @@
 -1曲を通しての平均密度は、''約6.30打/秒''である。
 
 ***その他 [#other]
--2015年1月のドンチャレによる先行解禁曲である。
 -アーティスト、作曲・編曲は、[[''t+pazolite''>参加アーティスト一覧/t+pazolite]]([[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]])。
 --同氏は過去に「Kung-fu」を冠する曲を2曲((「[[Kick-ass Kung-fu Carnival>https://youtu.be/-neIXB2a8mQ]]」と「[[Rumble Kung-fu Showdown>https://youtu.be/zq8XQw8hHNM]]」))制作しており、この曲は3曲目にあたる。
 -譜面作成は、[[''エトウ''>譜面作成者一覧/エトウ]]。
 -余談だが、氏のソロアルバム「[[Ponko2 Girlish>https://youtube.com/playlist?list=PLkE33Kq890I8yHAwxDH4WTbR5PV4mq6rS]]」に[[この曲のロングバージョン>https://youtu.be/6KXm3am5yzA]]と[[aran氏によるリミックス>https://youtu.be/lStISpnZbuA]]が収録されている。
+-2015年1月のドンチャレによる先行解禁曲である。
 -Wii U2では、2023年3月28日をもって新規DLができなくなる。
 -曲IDは、''shinyk''。
 
