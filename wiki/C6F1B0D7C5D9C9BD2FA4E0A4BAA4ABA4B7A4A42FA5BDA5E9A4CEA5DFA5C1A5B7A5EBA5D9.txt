@@ -37,4 +37,4 @@
 ~&attachref(gbfsora_h.png,nolink);
 
 ~「オイラ」譜面
-~&attachref(grblsm_h(oira).png,nolink,);
+~&attachref(MusicScore03_02.png,nolink,);

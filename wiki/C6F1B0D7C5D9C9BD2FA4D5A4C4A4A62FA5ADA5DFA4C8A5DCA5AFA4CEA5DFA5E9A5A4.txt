@@ -36,3 +36,6 @@
 ~風船、くすだまの長さは暫定
 ~BPMは[[おに譜面>難易度表/おに/キミとボクのミライ]]を参照
 ~&ref(gbfkimi_n.png,nolink);
+
+~「オイラ」譜面
+~&attachref(MusicScore02_01.png,nolink,);

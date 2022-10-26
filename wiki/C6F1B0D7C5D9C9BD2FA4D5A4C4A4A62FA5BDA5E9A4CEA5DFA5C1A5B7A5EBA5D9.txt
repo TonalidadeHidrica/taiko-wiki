@@ -37,3 +37,6 @@
 ~風船、くすだまの長さは暫定
 ~BPMは[[おに譜面>難易度表/おに/ソラのミチシルベ]]を参照
 ~&attachref(gbfsora_n.png,nolink);
+
+~「オイラ」譜面
+~&attachref(MusicScore03_01.png,nolink,);

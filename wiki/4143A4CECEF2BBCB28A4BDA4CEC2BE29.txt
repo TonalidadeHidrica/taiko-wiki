@@ -90,7 +90,7 @@
 |~|[[EZ DO DANCE>難易度表/むずかしい/EZ DO DANCE]]|TRF|
 
 **VAMPS『AHEAD / REPLAY』発売記念〜夏だ！浴衣だ！七夕祭り！！〜[#vamps]
--2013/7/3に東京・Zepp DiverCity TOKYOで開催された、VAMPSのシングル「AHEAD / REPLAY」のリリース記念イベントで使用された。
+-2013/7/3に東京・Zepp &#x44;iverCity TOKYOで開催された、VAMPSのシングル「AHEAD / REPLAY」のリリース記念イベントで使用された。
 -[[参考>http://www.barks.jp/news/?id=1000091965]]
 -ソライロVer.の筐体であるが、収録曲は''AHEAD''のみ。
 
@@ -641,9 +641,9 @@
 
 |>|>|CENTER:''先行楽曲''|h
 |BGCOLOR(cyan):CENTER:''J-POP''|[[''Hero''>難易度表/おに/Hero]]|安室奈美恵|
-|BGCOLOR(cyan):CENTER:''J-POP''|[[''ダンシング・ヒーロー(Eat You Up)''>難易度表/おに/ダンシング・ヒーロー(Eat You Up)]]|荻野目洋子|
+|~|[[''ダンシング・ヒーロー(Eat You Up)''>難易度表/おに/ダンシング・ヒーロー(Eat You Up)]]|荻野目洋子|
 |BGCOLOR(orange):CENTER:''アニメ''|[[''Hope''>難易度表/おに/Hope]]|安室奈美恵 「ワンピース」より|
-|BGCOLOR(orange):CENTER:''アニメ''|[[''POP TEAM EPIC''>難易度表/おに/POP TEAM EPIC]]|TVアニメ「ポプテピピック」OPテーマ|
+|~|[[''POP TEAM EPIC''>難易度表/おに/POP TEAM EPIC]]|TVアニメ「ポプテピピック」OPテーマ|
 |BGCOLOR(lime):CENTER:''バラエティ''|[[''YouTubeテーマソング''>難易度表/おに/YouTubeテーマソング]]|HIKAKIN & SEIKIN|
 |BGCOLOR(darkorchid):CENTER:''ゲーム&br;ミュージック''|[[''スプラトゥーン2 メドレー''>難易度表/おに/スプラトゥーン2 メドレー]]|-|
 
@@ -653,7 +653,7 @@
 
 |>|>|CENTER:''先行楽曲''|h
 |BGCOLOR(cyan):CENTER:''J-POP''|[[''虹''>難易度表/おに/虹]]|Fischer's-フィッシャーズ-|
-|BGCOLOR(cyan):CENTER:''J-POP''|[[''JOIN US''>難易度表/おに/JOIN US]]|UUUMコラボユニット|
+|~|[[''JOIN US''>難易度表/おに/JOIN US]]|UUUMコラボユニット|
 
 **第五回博麗神社 秋季例大祭 [#rtssp5]
 -2018/10/14 10:30~16:00に開催された秋季例大祭5用の特別バージョン。
@@ -696,11 +696,11 @@
 
 |>|>|CENTER:''先行楽曲''|h
 |BGCOLOR(cyan):CENTER:''J-POP''|[[''LOSER''>難易度表/おに/LOSER]]|米津玄師|
-|BGCOLOR(cyan):CENTER:''J-POP''|[[''アイノカタチ feat.HIDE(GReeeeN)''>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|-|
-|BGCOLOR(cyan):CENTER:''J-POP''|[[''Candy Pop''>難易度表/おに/Candy Pop]]|-|
+|~|[[''アイノカタチ feat.HIDE(GReeeeN)''>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|-|
+|~|[[''Candy Pop''>難易度表/おに/Candy Pop]]|-|
 |BGCOLOR(darkgray):CENTER:''ボーカロイド&#8482;曲''|[[''雨とペトラ''>難易度表/おに/雨とペトラ]]|バルーン feat.flower|
-|BGCOLOR(darkgray):CENTER:''ボーカロイド&#8482;曲''|[[''バイオレンストリガー''>難易度表/おに/バイオレンストリガー]]|八王子P feat.初音ミク&br; 　　「戦闘摂理解析システム#コンパス」より|
-|BGCOLOR(darkgray):CENTER:''ボーカロイド&#8482;曲''|[[''残響''>難易度表/おに/残響]]|164 feat.GUMI&br;　　「戦闘摂理解析システム#コンパス」より|
+|~|[[''バイオレンストリガー''>難易度表/おに/バイオレンストリガー]]|八王子P feat.初音ミク&br; 　　「戦闘摂理解析システム#コンパス」より|
+|~|[[''残響''>難易度表/おに/残響]]|164 feat.GUMI&br;　　「戦闘摂理解析システム#コンパス」より|
 |BGCOLOR(orange):CENTER:''アニメ''|[[''only my railgun''>難易度表/おに/only my railgun]]|「とある科学の超電磁砲」より|
 |BGCOLOR(darkorchid):CENTER:''ゲーム&br;ミュージック''|[[''ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ''>難易度表/おに/ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ]]|-|
 |BGCOLOR(orangered):CENTER:''ナムコ&br;オリジナル''|[[''こ・き・く・くる・くる・くれ・こ！''>難易度表/おに/こ・き・く・くる・くる・くれ・こ！]]|諸星なな・加藤はるか|
@@ -719,12 +719,12 @@
 
 |>|>|CENTER:''先行楽曲''|h
 |BGCOLOR(#49d5eb):CENTER:''ポップス''|[[''Pretender''>難易度表/おに/Pretender]]|Official髭男dism|
-|BGCOLOR(#49d5eb):CENTER:''ポップス''|[[''ピースサイン''>難易度表/おに/ピースサイン]]|米津玄師|
-|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|[[''乙女解剖''>難易度表/おに/乙女解剖]]|DECO*27 feat.初音ミク|
+|~|[[''ピースサイン''>難易度表/おに/ピースサイン]]|米津玄師|
+|BGCOLOR(#cbcfde):CENTER:''ボーカロイド&#8482;曲''|[[''乙女解剖''>難易度表/おに/乙女解剖]]|DECO*27 feat.初音ミク|
 |BGCOLOR(#fe90d2):CENTER:''アニメ''|[[''愛にできることはまだあるかい''>難易度表/おに/愛にできることはまだあるかい]]|「天気の子」より|
-|BGCOLOR(#fe90d2):CENTER:''アニメ''|[[''サクリファイス''>難易度表/おに/サクリファイス]]|まふまふ ／TVアニメ「かつて神だった獣たちへ」より|
+|~|[[''サクリファイス''>難易度表/おに/サクリファイス]]|まふまふ ／TVアニメ「かつて神だった獣たちへ」より|
 |BGCOLOR(#cc8aeb):CENTER:''ゲーム&br;ミュージック''|[[''MEGALOVANIA''>難易度表/おに/MEGALOVANIA]]|「UNDERTALE」より|
-|BGCOLOR(#cc8aeb):CENTER:''ゲーム&br;ミュージック''|[[''夢と希望''>難易度表/おに/夢と希望]]|「UNDERTALE」より|
+|~|[[''夢と希望''>難易度表/おに/夢と希望]]|「UNDERTALE」より|
 |BGCOLOR(#ff7028):CENTER:''ナムコ&br;オリジナル''|[[''ハロー！どんちゃん''>難易度表/おに/ハロー！どんちゃん]]|-|
 
 **第七回博麗神社秋季例大祭 [#rtssp7]

@@ -40,4 +40,4 @@
 ~&ref(gbfkimi_h.png,nolink);
 
 ~「オイラ」譜面
-~&attachref(grblkm_h(oira).png,nolink,);
+~&attachref(MusicScore02_02.png,nolink,);

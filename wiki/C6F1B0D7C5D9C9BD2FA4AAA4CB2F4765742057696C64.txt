@@ -1,12 +1,11 @@
 *Get Wild [#title]
 -アニメ「''シティーハンター''」のED。
---1987年4月から1988年3月まで放送された。
 
 ***詳細 [#more]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|>|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|h
-|''AC5''-6||★×8|''381''|''614500点''|
-||CS3|~|~|''636500点''|
+|>|>|>|>|>|CENTER:|c
+|>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|h
+|''AC5''-6||''アニメ''|★×8|''381''|''614500点''|
+||CS3|~|~|~|''636500点''|
 
 ***譜面構成・攻略 [#capture]
 -BPMは133。
@@ -15,10 +14,11 @@
 -平均密度は、''約4.63打/秒''。
 
 ***その他 [#other]
--ジャンルは「''アニメ''」だが((AC6の曲から選ぶ！では「''キッズ・アニメ''」))、[[公式の>https://taiko.namco-ch.net/music/tkcs3.html]][[収録曲>https://taiko.namco-ch.net/music/tk5.html]][[リスト>https://taiko.namco-ch.net/music/tk6.html]]では「''J-POP''」となっている。
 -アーティストは、''TM NETWORK''。
 --作詞は、小室みつ子。作曲・編曲は、小室哲哉。
+-上記の通りジャンルは「''アニメ''」だが((AC6の曲から選ぶ！では「''キッズ・アニメ''」))、[[公式の>https://taiko.namco-ch.net/music/tkcs3.html]][[収録曲>https://taiko.namco-ch.net/music/tk5.html]][[リスト>https://taiko.namco-ch.net/music/tk6.html]]では「''J-POP''」となっている。
 -曲IDは、''get''。
+
 ----
 -[[かんたん>難易度表/かんたん/Get Wild]]
 -[[ふつう>難易度表/ふつう/Get Wild]]

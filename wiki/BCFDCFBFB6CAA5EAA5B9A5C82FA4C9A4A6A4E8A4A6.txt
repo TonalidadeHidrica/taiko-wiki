@@ -2,8 +2,8 @@
 #contents
 背景が灰色の譜面は難易度が新基準でないもの。
 
-**あ〜わ [#awa]
-|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+**あ行〜わ行 [#awa]
+||LEFT:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |''アイアイ''|106|BGCOLOR(#ccc):[[★×1>難易度表/かんたん/アイアイ]]|BGCOLOR(#ccc):[[★×1>難易度表/ふつう/アイアイ]]|BGCOLOR(#ccc):[[★×1>難易度表/おに/アイアイ]]|BGCOLOR(#ccc):[[★×1>難易度表/おに/アイアイ]]|
 |''アルプス一万尺''|106※-115|BGCOLOR(#ccc):[[★×1>難易度表/かんたん/アルプス一万尺]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/アルプス一万尺]]|BGCOLOR(#ccc):[[★×1>難易度表/むずかしい/アルプス一万尺]]|BGCOLOR(#ccc):[[★×2>難易度表/おに/アルプス一万尺]]|
@@ -19,7 +19,7 @@
 |''わらべ歌メドレー''|92|BGCOLOR(#ccc):[[★×1>難易度表/かんたん/わらべ歌メドレー]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/わらべ歌メドレー]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/わらべ歌メドレー]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/わらべ歌メドレー]]|
 
 **RT版限定曲 [#rt]
-|||CENTER:64|CENTER:64|c
+||LEFT:64|CENTER:64|CENTER:64|c
 |''曲名''(五十音順)|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|h
 |''雨降りお月''|92|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/雨降りお月]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/雨降りお月]]|
 |''うめぼしのうた''|110|BGCOLOR(#ccc):[[★×1>難易度表/かんたん/うめぼしのうた]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/うめぼしのうた]]|
@@ -39,7 +39,7 @@
 |''我は海の子''|88|BGCOLOR(#ccc):[[★×1>難易度表/かんたん/我は海の子]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/我は海の子]]|
 
 **亜洲版限定曲 [#asyuu]
-|||CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
+||LEFT:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(五十音順)|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|h
 |''王老先生有塊地''|112|BGCOLOR(#ccc):[[★×1>難易度表/かんたん/王老先生有塊地]]|BGCOLOR(#ccc):[[★×1>難易度表/ふつう/王老先生有塊地]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/王老先生有塊地]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/王老先生有塊地]]|
 |''郷下老鼠''|79-101|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/郷下老鼠]]|BGCOLOR(#ccc):[[★×1>難易度表/ふつう/郷下老鼠]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/郷下老鼠]]|BGCOLOR(#ccc):[[★×3>難易度表/おに/郷下老鼠]]|

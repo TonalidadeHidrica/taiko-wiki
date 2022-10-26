@@ -7,6 +7,7 @@
 |''AC14SP''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''156''|''324870点''|＋連打|510点|140点|
 |COLOR(#f30):真打モード||~|~|~|COLOR(#f30):''?????0点''|~|COLOR(#f30):1720点|-|
 ||Wii5SP|~|~|~|''343500点''|~|580点|195点|
+|AC16.3.6SP||~|~|~|''??????0点''|~|???0点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約130。
@@ -26,10 +27,10 @@
 -[[ふつう>難易度表/ふつう/SORA-IV ブンパソング]]
 -[[むずかしい>難易度表/むずかしい/SORA-IV ブンパソング]]
 -[[おに>難易度表/おに/SORA-IV ブンパソング]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=uZsVk6aYfxY]]
+-[[オート動画(Wii5)>https://www.youtube.com/watch?v=uZsVk6aYfxY]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#Fumen]
-~&attachref(sora4x_e.png,nolink);
+***譜面 [#score]
+&attachref(sora4x_e.png,nolink);
