@@ -10,7 +10,7 @@
 |AC11亜&br;AC12亜||BGCOLOR(cyan):''日本流行音樂''|~|~|~|~|~|~|
 ||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}&br;COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1000000点''}|~|COLOR(#ff3300){1600点}|-|
-|AC15.1.0-AC15.8.3|Wii U2DL|BGCOLOR(cyan):''J-POP''|~|~|''997490点''|~|490点|130点|
+|AC15.1.0-&br;AC15.8.3|Wii U2DL|BGCOLOR(cyan):''J-POP''|~|~|''997490点''|~|490点|130点|
 ||NS1DL&br;NS2MP|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
 ||DS1|BGCOLOR(cyan):''J-POP''|~|''619''|''901280点''||440点|100点|
 //|BGCOLOR(silver):もばいる||★×3||''??????0点''||380点|80点|
@@ -49,7 +49,6 @@
 -[[かんたん>難易度表/かんたん/気分上々↑↑]]
 -[[ふつう>難易度表/ふつう/気分上々↑↑]]
 -[[むずかしい>難易度表/むずかしい/気分上々↑↑]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/7utwbkC-lFg]]
 -[[オート動画(Wii U2)>https://www.youtube.com/watch?v=0c2Ljf6pA6k]]
 -[[オート動画(DS1限定譜面)>https://www.youtube.com/watch?v=tUqCrtIVCG8]]
 

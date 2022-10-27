@@ -2,9 +2,10 @@
 -アニメ「''ワールドトリガー''」のOP2。
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''Wii U3''&br;3DS3DL|CENTER:★×3|CENTER:''111''|CENTER:''488930点''|CENTER:＋連打|CENTER:1200点|CENTER:588点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''989580点''}|~|CENTER:COLOR(#ff3300){7770点}|CENTER:-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''Wii U3''&br;3DS3DL&br;NS2MP|BGCOLOR(orange):''アニメ''|★×3|''111''|''488930点''|+連打|1200点|588点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''989580点''}|~|COLOR(#ff3300){7770点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは120。
@@ -16,12 +17,13 @@
 -4分の複合と8分が何度も出てくる34〜43小節に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/アシタノヒカリ]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/アシタノヒカリ#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/アシタノヒカリ]]
 -[[むずかしい>難易度表/むずかしい/アシタノヒカリ]]
 -[[おに>難易度表/おに/アシタノヒカリ]]
--[[オート動画>http://www.youtube.com/watch?v=O3l2xJOMDoE]]
+-[[オート動画(Wii U3)>http://www.youtube.com/watch?v=O3l2xJOMDoE]]
 
 ***コメント [#comment]
 #pcomment(,noname)
