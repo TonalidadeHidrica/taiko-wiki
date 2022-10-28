@@ -722,8 +722,8 @@
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):飛行兄弟の夢！|BGCOLOR(grey):2014/8/23〜9/5の間に[[COLOR(blue):ナイトメア・サバイバー>難易度表/おに/ナイトメア・サバイバー]]をクリア|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ひこうき}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):時空大決戦！|BGCOLOR(grey):2014/8/30〜9/12の間に[[COLOR(blue):The Carnivorous Carnival>難易度表/おに/The Carnivorous Carnival]]をクリア|BGCOLOR(grey):きせかえ(からだ)「COLOR(red){ガーディアン}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):梨の妖精|BGCOLOR(grey):[[COLOR(blue):ぶぎ ぶぎ ふなっしー♪>難易度表/おに/ぶぎ ぶぎ ふなっしー♪]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){ふなっしー}」を獲得|
-|BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):白き覚醒者|BGCOLOR(grey):残り時間を奇数ゾロ目,22,44のいずれかに止まるように選択して[[COLOR(blue):セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]をフルコンボ|BGCOLOR(grey):きせかえ「COLOR(red){白の覚醒}」を獲得&br;難易度を選択してから1カウントは動くので、狙っている時間+1で決定すると良い|
-|BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):黒き覚醒者|BGCOLOR(grey):オプション「あべこべ」を付けて、残り時間を66か88に止まるように選択して[[COLOR(blue):セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]をフルコンボ|BGCOLOR(grey):きせかえ「COLOR(red){黒の覚醒}」を獲得&br;難易度を選択してから1カウントは動くので、狙っている時間+1で決定すると良い|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):白き覚醒者|BGCOLOR(grey):残り時間を奇数ゾロ目,22,44のいずれかに止まるように選択して[[COLOR(blue):セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]をフルコンボ|BGCOLOR(grey):きせかえ「COLOR(red){白の覚醒}」を獲得&br;難易度を選択してから1カウントは動くので、狙っている時間+1で決定すると良い|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):黒き覚醒者|BGCOLOR(grey):オプション「あべこべ」を付けて、残り時間を66か88に止まるように選択して[[COLOR(blue):セイクリッド ルイン>難易度表/おに/セイクリッド ルイン]]をフルコンボ|BGCOLOR(grey):きせかえ「COLOR(red){黒の覚醒}」を獲得&br;難易度を選択してから1カウントは動くので、狙っている時間+1で決定すると良い|
 |〇|BGCOLOR(pink):|博麗神社の巫女|東方Projectアレンジ楽曲をプレイ|きせかえ「COLOR(red){博麗霊夢}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
 |〇|BGCOLOR(pink):|もんげー！|コマさんが踊り子として登場している、妖怪ウォッチの曲をプレイ|きせかえ「COLOR(red){コマさん}」を獲得&br;対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
 |〇|BGCOLOR(pink):|能力覚醒！|[[COLOR(blue):決戦!!>難易度表/おに/決戦!!]]をプレイ|きせかえ「COLOR(red){パズドラ たまドラ}」を獲得|
@@ -763,12 +763,18 @@
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):世界最強の社長|BGCOLOR(grey):[[COLOR(blue):REAL×EYEZ>難易度表/おに/REAL×EYEZ]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーゼロワン}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):文豪にして剣豪|BGCOLOR(grey):[[COLOR(blue):ALMIGHTY〜仮面の約束 feat.川上洋平>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーセイバー}」を獲得|
 |〇|BGCOLOR(pink):|ヒーローと悪魔が相棒|[[COLOR(blue):liveDevil>難易度表/おに/liveDevil]]をプレイ|きせかえ「COLOR(red){仮面ライダーリバイス}」を獲得|
-|〇|BGCOLOR(pink):|ドンダフルフェスティバル！|[[COLOR(blue):まいにちがドンダフル>難易度表/おに/まいにちがドンダフル]]をプレイ||
 //|〇|BGCOLOR(pink):||[[COLOR(blue):Trust・Last>難易度表/おに/Trust・Last]]をプレイ|きせかえ「COLOR(red){仮面ライダーギイツ}」を獲得|
 |BGCOLOR(grey):〇||BGCOLOR(grey):麦わらの一味|BGCOLOR(grey):2021/10/20〜11/30にワンピースバトル演奏でカイドウに30勝する|BGCOLOR(grey):|
-|BGCOLOR(grey):|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝参加|BGCOLOR(grey):2022/1/17〜2022/2/19に太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンラインの課題曲をプレイ|BGCOLOR(grey):|
-||BGCOLOR(pink):|だめだっていったのに|[[このQRコード>https://mobile.twitter.com/taiko_team/status/1509697054313881600]]を読み込み後、そのゲーム内の曲をプレイ|リンク先のQRコードを読み込まない場合はもらえない|
-||BGCOLOR(pink):|うらへのしょうたい|~|~|
+|BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝参加|BGCOLOR(grey):2022/1/17〜2022/2/19に太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンラインの課題曲をプレイ|BGCOLOR(grey):|
+|〇|BGCOLOR(pink):|だめだっていったのに|[[このQRコード>https://mobile.twitter.com/taiko_team/status/1509697054313881600]]を読み込み後、そのゲーム内の曲をプレイ|リンク先のQRコードを読み込まない場合はもらえない|
+|〇|BGCOLOR(pink):|うらへのしょうたい|~|~|
+|〇|BGCOLOR(pink):|ドンダフルフェスティバル！|[[COLOR(blue):まいにちがドンダフル>難易度表/おに/まいにちがドンダフル]]をプレイ||
+|〇|BGCOLOR(red):|永遠の巫女|「東方Project×太鼓の達人 2022」の「称号交換」で獲得|プレートには博麗霊夢が描かれている|
+|〇|BGCOLOR(red):|奇妙な魔法使い|~|プレートには霧雨魔理沙が描かれている|
+|〇|BGCOLOR(red):|紅魔館のメイド|~|プレートには十六夜咲夜が描かれている|
+|〇|BGCOLOR(red):|永遠に幼い紅い月|~|プレートにはレミリア・スカーレットが描かれている|
+|〇|BGCOLOR(red):|悪魔の妹|~|プレートにはフランドール・スカーレットが描かれている|
+|〇|BGCOLOR(pink):|東方太鼓祭 2022|「東方project×太鼓の達人 2022」開催中に、[[このQRコード>https://twitter.com/taikotimeblog/status/1584415050231558144/photo/2]]を読み込みプレイ|プレートには博麗霊夢が描かれている|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):ＧＡＭＥ ＭＵＳＩＣ ＴＲＩＡＮＧＬＥＲ|BGCOLOR(grey):2014/4/17〜4/30の間に[[電車で電車でGO!GO!GO!GC! -GMT remix->難易度表/おに/電車で電車でGO!GO!GO!GC! -GMT remix-]]と[[ファンタジーゾーン OPA-OPA! -GMT remix->難易度表/おに/ファンタジーゾーン OPA-OPA! -GMT remix-]]と[[RIDGE RACER STEPS -GMT remix->難易度表/おに/RIDGE RACER STEPS -GMT remix-]]を全てプレイ(1プレイ内でなくても可)|BGCOLOR(grey):|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):GMT MASTER|BGCOLOR(grey):2014/5/8〜5/21の間に[[電車で電車で OPA!OPA!OPA! -GMT mashup->難易度表/おに/電車で電車で OPA!OPA!OPA! -GMT mashup-]]と[[オパ！オパ！RACER -GMT mashup->難易度表/おに/オパ！オパ！RACER -GMT mashup-]]と[[リッジでリッジで GO!GO!GO! -GMT mashup->難易度表/おに/リッジでリッジで GO!GO!GO! -GMT mashup-]]を全てプレイ(1プレイ内でなくても可)|~|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):いいじゃないの〜|BGCOLOR(grey):2015/4/28〜8/31の間に太鼓の達人をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){細貝さん}」、音色「COLOR(pink){細貝さん}」を獲得|
@@ -784,7 +790,7 @@
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):マッスルマッスル！|~|BGCOLOR(grey):きせかえ「COLOR(red){十四ドン}」を獲得&br;曲をプレイするたび、まだ入手していない同曲のプレイ称号（＋きせかえ）からランダム1つ貰える|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):トッティ|~|BGCOLOR(grey):きせかえ「COLOR(red){トドドン}」を獲得&br;曲をプレイするたび、まだ入手していない同曲のプレイ称号（＋きせかえ）からランダム1つ貰える|
 |BGCOLOR(grey):〇|BGCOLOR(peru):|BGCOLOR(grey):ドンだー！日本一決定戦2013|BGCOLOR(grey):「ドンだー祭り モモイロの陣」に参加|BGCOLOR(grey):きせかえ「COLOR(red){世阿弥どん}」を獲得&br;ふつう、むずかしい、おにに関係なく貰える|
-||BGCOLOR(gold):|ガールズポップマニア|1プレイ内全てサウンドトラック「ガールズポップマニア」収録曲をフルコンボ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
+|〇|BGCOLOR(gold):|ガールズポップマニア|1プレイ内全てサウンドトラック「ガールズポップマニア」収録曲をフルコンボ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):きのたけ合戦参戦|BGCOLOR(grey):2014/12/9〜2015/1/28の間に「きのたけ合戦」に参戦|BGCOLOR(grey):|
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):きのこ軍 （階級）|BGCOLOR(grey):2014/12/9〜2015/1/28の間に「きのたけ合戦」に参戦し、きのこ軍に所属していた|BGCOLOR(grey):きのたけ合戦で得た最高階級が(階級)に表示される|
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):たけのこ軍 （階級）|BGCOLOR(grey):2014/12/9〜2015/1/28の間に「きのたけ合戦」に参戦し、たけのこ軍に所属していた|~|
