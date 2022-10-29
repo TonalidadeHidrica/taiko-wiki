@@ -24,15 +24,39 @@
 -[[段位道場>段位道場]]をプレイしても、曲ごとの称号やそれに対応する着せ替えは入手できない。
 -演奏スキップを使ってしまうと、ごほうびがもらえないので注意。特に、プレイ称号が欲しい場合は、面倒でも演奏画面の「クリア成功」または「クリア失敗」の表示が出るまで待つようにしよう。
 -[[称号対象曲>段位・称号の一覧/称号対象曲]]
--[[称号ガシャパーツ一覧]]
+-[[称号パーツ>称号ガシャパーツ一覧]]
 -[[段位道場]]
 
 
 ***ニジイロVer.33.05 [#newac]
 -称号はドンだーひろばのごほうび一覧の順に載せており、順番が確定しているものには「〇」を付けています。「〇」が付いていないものはまだ順番があやふやなので、確認でき次第編集をお願いします。
 
+#region(称号の色)
+|CENTER:色|CENTER:主な意味|CENTER:画像|h
+|>|>|BGCOLOR(#cbcfde):CENTER:''通常の色''|
+||何もつけていない時|&ref(赤.png,nolink);|
+|BGCOLOR(peru):|クリア称号や&br;演奏回数称号|&ref(木.png,nolink);|
+|BGCOLOR(#fe90d2):|プレイ称号や&br;ショップで手に入る称号|&ref(虹.png,nolink);|
+|BGCOLOR(#FFD700):|フルコン称号や&br;大会で入手できる称号|&ref(金.png,nolink);|
+|BGCOLOR(#cc8aeb):|大会優勝など|&ref(紫.png,nolink);|
+|>|>|BGCOLOR(#cbcfde):CENTER:''特別な色''|
+|BGCOLOR(#20b2aa):|[[AIバトル演奏]]関連|&ref(AI-1.png,nolink);&br;&ref(AI-2.png,nolink);&br;&ref(AI-3.png,nolink);&br;&ref(AI-4.png,nolink);|
+|BGCOLOR(#0067c0):|''「麦わらの一味」''限定|&ref(ルフィ.png,nolink);|
+|BGCOLOR(#e60033):|''「永遠の巫女」''限定|&ref(紅霊夢png.png,nolink);|
+|~|''「奇妙な魔法使い」''限定|&ref(紅魔理沙.png,nolink);|
+|~|''「紅魔館のメイド」''限定|&ref(紅咲夜.png,nolink);|
+|~|''「永遠に紅い幼き月」''限定|&ref(紅レミリア.png,nolink);|
+|~|''「悪魔の妹」''限定|&ref(紅フラン.png,nolink);|
+|BGCOLOR(#fe90d2):|''「東方太鼓祭 2022」''限定|&ref(虹霊夢.png,nolink);|
+|>|>|BGCOLOR(#cbcfde):CENTER:''その他''|
+||「ユーザー検索」で称号未設定のユーザーを閲覧したときに表示される|&ref(青.png,nolink);|
+
+#endregion
+
 -表の背景が灰色(COLOR(grey){■})の称号は存在はしているが、Ver.33.05現在''獲得不可能''な条件の称号であることを表す。
 -表の背景がグレー(COLOR(silver){■})の称号は存在はしているが、Ver.33.05現在''一時獲得不可能''な条件の称号であることを表す。
+
+
 
 |CENTER:||160||||c
 |CENTER:順番|CENTER:色|CENTER:称号|CENTER:獲得条件|CENTER:備考＆ご褒美|h
@@ -763,8 +787,8 @@
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):世界最強の社長|BGCOLOR(grey):[[COLOR(blue):REAL×EYEZ>難易度表/おに/REAL×EYEZ]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーゼロワン}」を獲得|
 |BGCOLOR(grey):〇|BGCOLOR(pink):|BGCOLOR(grey):文豪にして剣豪|BGCOLOR(grey):[[COLOR(blue):ALMIGHTY〜仮面の約束 feat.川上洋平>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]をプレイ|BGCOLOR(grey):きせかえ「COLOR(red){仮面ライダーセイバー}」を獲得|
 |〇|BGCOLOR(pink):|ヒーローと悪魔が相棒|[[COLOR(blue):liveDevil>難易度表/おに/liveDevil]]をプレイ|きせかえ「COLOR(red){仮面ライダーリバイス}」を獲得|
-//|〇|BGCOLOR(pink):||[[COLOR(blue):Trust・Last>難易度表/おに/Trust・Last]]をプレイ|きせかえ「COLOR(red){仮面ライダーギイツ}」を獲得|
-|BGCOLOR(grey):〇||BGCOLOR(grey):麦わらの一味|BGCOLOR(grey):2021/10/20〜11/30にワンピースバトル演奏でカイドウに30勝する|BGCOLOR(grey):|
+//|〇|BGCOLOR(pink):||[[COLOR(blue):Trust・Last>難易度表/おに/Trust・Last]]をプレイ|きせかえ「COLOR(red){仮面ライダーギーツ}」を獲得|
+|BGCOLOR(grey):〇|BGCOLOR(blue):|BGCOLOR(grey):麦わらの一味|BGCOLOR(grey):2021/10/20〜11/30にワンピースバトル演奏でカイドウに30勝する|BGCOLOR(grey):|
 |BGCOLOR(grey):〇|BGCOLOR(gold):|BGCOLOR(grey):ドンだー！世界一決定戦2021外伝参加|BGCOLOR(grey):2022/1/17〜2022/2/19に太鼓の達人 ドンだー！世界一決定戦2021【外伝】@オンラインの課題曲をプレイ|BGCOLOR(grey):|
 |〇|BGCOLOR(pink):|だめだっていったのに|[[このQRコード>https://mobile.twitter.com/taiko_team/status/1509697054313881600]]を読み込み後、そのゲーム内の曲をプレイ|リンク先のQRコードを読み込まない場合はもらえない|
 |〇|BGCOLOR(pink):|うらへのしょうたい|~|~|
@@ -965,7 +989,7 @@
 |〇|BGCOLOR(skyblue):|デウス・エクス・マキナ|[[AIバトル演奏]]で10000回勝利|~|
 
 ***ソライロVer.以前 [#sorairo]
--[[段位・称号の一覧(KATSU-DON・ソライロ)]]を参照
+-[[称号の一覧(KATSU-DON・ソライロ)>段位・称号の一覧(KATSU-DON・ソライロ)]]を参照
 
 
 //追加に使ってください。

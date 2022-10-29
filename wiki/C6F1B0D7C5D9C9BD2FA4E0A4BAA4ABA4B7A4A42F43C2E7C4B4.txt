@@ -12,6 +12,8 @@
 -[[かんたん>難易度表/かんたん/C大調]]
 -[[ふつう>難易度表/ふつう/C大調]]
 -[[おに>難易度表/おに/C大調]]
+-[[プレイ動画>https://www.youtube.com/watch?v=YpqI4jIr1HU]]
+
 ***コメント[#Comment]
 #pcomment(,noname)
 ***譜面[#Fumen]

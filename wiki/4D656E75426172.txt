@@ -193,7 +193,6 @@
 -[[設置店舗情報>https://taiko.namco-ch.net/taiko/location/]]
 --[[旧筐体設置店舗情報>https://w.atwiki.jp/q-taiko/]]
 -[[開発日記 (旧公式ブログ)>https://web.archive.org/web/20170707175213/http://taikoblog.namco-ch.net/]] (アーカイブ)
-//--[[歌詞紹介 (一部の曲のみ)>https://web.archive.org/web/20170906233336/http://taikoblog.namco-ch.net:80/lyrics.html]] (アーカイブ)
 
 **Wiki編集関連 [#other]
 -雑談所関連
