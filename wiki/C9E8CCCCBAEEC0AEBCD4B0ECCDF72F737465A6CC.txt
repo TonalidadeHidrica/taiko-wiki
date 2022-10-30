@@ -61,7 +61,6 @@
 ---[[Aleph-0>難易度表/おに/Aleph-0]]
 --ナムコオリジナル
 ---[[Clotho クロートー>難易度表/おに/Clotho クロートー]]
----[[ex寅 Trap!!>難易度表/おに/ex寅 Trap!!]]
 
 **コメント [#comment]
 #pcomment(,noname)

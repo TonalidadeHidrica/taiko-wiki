@@ -1,4 +1,4 @@
-*&ruby(サムライ){SAMURAI}; &ruby(ロケット){ROCKET};(裏譜面) [#title]
+*SAMURAI ROCKET(裏譜面) [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -9,7 +9,7 @@
 ||3DS2韓SP|BGCOLOR(darkorchid):COLOR(white){''&#44172;&#51076; &#51020;&#50501;''}|~|~|~|~|~|~|
 |COLOR(#f30){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#f30){''1005000点''}|~|COLOR(#f30){1100点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''1000560点''|~|1120点|-|
-|AC16.2.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
+|AC16.2.0|Xbox1DL|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは136。

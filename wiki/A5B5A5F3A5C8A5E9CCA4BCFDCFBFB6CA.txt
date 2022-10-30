@@ -2,7 +2,7 @@
 -ナムコオリジナル、BNSI((BANDAI NAMCO Studios Inc.))が関わったクラシックやゲームミュージックなどの中で、サウンドトラックに収録されていないものをまとめました。
 --版権曲は含みません。
 
-//2022/10/13までの収録曲はたぶんすべて入れました。
+//2022/10/29までの収録曲はたぶんすべて入れました。
 #contents
 -[[サントラ収録曲]]
 
@@ -10,12 +10,10 @@
 |1|1|>|>|>|c
 |>|CENTER:BGCOLOR(#0099FF):ジャンル|CENTER:BGCOLOR(#0099FF):曲名(50音順)|CENTER:BGCOLOR(#0099FF):歌唱|CENTER:BGCOLOR(#0099FF):作曲(編曲)|h
 |BGCOLOR(#ff7028):||[[Argent Memories>難易度表/おに/Argent Memories]]|YuusA|K Masera|
-|~||[[赤と白薔薇の魔女>難易度表/おに/赤と白薔薇の魔女]]|羽鳥玲|Dokuwaki|
 |~||[[あの日出会えたキセキ>難易度表/おに/あの日出会えたキセキ]]|大瀬良あい、miko|溝口ゆうま|
 |~||[[あまてらすJK>難易度表/おに/あまてらすJK]]|さちこ|Takahiro Akuta|
 |~||[[アムピト&#9826;リーテー>難易度表/おに/アムピト◇リーテー]]|-|かねこちはる|
 |~||[[或ル不和>難易度表/おに/或ル不和]]|-|aran|
-|~||[[Aloft in the wind>難易度表/おに/Aloft in the wind]]|-|Qutabire|
 |~||[[Amber Light>難易度表/おに/Amber Light]]|-|中鶴潤一|
 |~||[[意識のワーゼ>難易度表/おに/意識のワーゼ]]|翡翠|翡翠|
 |~||[[頂>難易度表/おに/頂]]|-|CHUBAY|
@@ -36,7 +34,7 @@
 |~||[[Caribbean Knight>難易度表/おに/Caribbean Knight]]|-|Taiji|
 |~||[[気焔万丈神楽>難易度表/おに/気焔万丈神楽]]|-|ぺのれり|
 |~||[[キューティー☆デモニック☆魔人エモ!!>難易度表/おに/キューティー☆デモニック☆魔人エモ!!]]|大瀬良あい|溝口ゆうま|
-|~||[[雲の彼方の大地の風>難易度表/おに/雲の彼方の大地の風]]|団地ノ宮弥子|三崎修吏((曲名のアーティスト欄を踏まえて暫定的に記載))|
+|~||[[雲の彼方の大地の風>難易度表/おに/雲の彼方の大地の風]]|団地ノ宮弥子|三崎修吏|
 |~||[[限界クリエイター応援歌>難易度表/おに/限界クリエイター応援歌]]|宮城裕紀子、涼音|宮城裕紀子|
 |~||[[恋はドント・ダウト>難易度表/おに/恋はドント・ダウト]]|yuzuki|Kawagen Kollagen|
 |~||[[Gold Armor>難易度表/おに/Gold Armor]]|singman|平井克明|
@@ -48,7 +46,6 @@
 |~||[[シャイニング☆アブラカタブラ>難易度表/おに/シャイニング☆アブラカタブラ]]|葉月ゆら|Drop|
 |~||[[しょうゆ de Show you!>難易度表/おに/しょうゆ de Show you!]]|矢野義人、船田純一、steμ|矢野義人|
 |~||[[Stick Trick ShowTime!!>難易度表/おに/Stick Trick ShowTime!!]]|みそみぃる|みそみぃる|
-|~||[[星河一天>難易度表/おに/星河一天]]|-|打打だいず|
 |~||[[零の交響曲>難易度表/おに/零の交響曲]]|サリヤ人|kyo|
 |~||[[続・〆ドレー2000>難易度表/おに/続・〆ドレー2000]]|-|LindaAI-CUE(増渕裕二)|
 |~||[[Diving Drive>難易度表/おに/Diving Drive]]|Mu&#77;enkyo.|Tanchiky|
@@ -162,10 +159,13 @@
 |~||[[Central Dogma Pt.1>難易度表/おに/Central Dogma Pt.1]]|-|黒沢ダイスケ|BLACK ALBUM 4|ゲームSize|
 |~|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/N1Ne3BZZ_m4]]|~|
 |~|~|~|~|~|[[公式音源(YouTube)>https://youtu.be/M10-k9fa_rI?t=1100]]((Pt.2へのつなぎあり))|~|
+|~||[[星河一天>難易度表/おに/星河一天]]|-|打打だいず|星屑物語|ロングVer.|
+|~||[[赤と白薔薇の魔女>難易度表/おに/赤と白薔薇の魔女]]|羽鳥玲|Dokuwaki|黒き眠りの魔女|ロングVer.|
 |~||[[彁>難易度表/おに/彁]]|-|LeaF|[[公式MV(YouTube)>https://youtu.be/EsOU0V2kpUI]]&br;COLOR(red){【''閲覧注意''】}|ゲームSize|
 |~|~|~|~|~|[[公式音源(SoundCloud)>https://soundcloud.com/leaf-7/dgzjay4fbuid]]|~|
 |~||[[Central Dogma Pt.2>難易度表/おに/Central Dogma Pt.2]]|-|黒沢ダイスケ|BLACK ALBUM 4|ゲームSize|
 |~|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/T_yYS58h5Nk]]|~|
+|~||[[Aloft in the wind>難易度表/おに/Aloft in the wind]]|-|Qutabire|Starry Avenue|ロングVer.|
 |~||[[鼓舞曲「閻魔」>難易度表/おに/鼓舞曲「閻魔」]]|-|山本真央樹|[[公式音源(YouTube)>https://youtu.be/MPSFYRniqlU]]|ゲームSize|
 |~||[[†バチ!ムチ!?マッスルキングダム†>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|大瀬良あい、まるもこ|溝口ゆうま|[[公式音源(YouTube)>https://youtu.be/DX5MHgtM3eI]]|ゲームSize|
 |~||[[憎悪と醜悪の花束>難易度表/おに/憎悪と醜悪の花束]]|-|t+pazolite|[[公式音源(YouTube)>https://youtu.be/ZvEpbVG99gw]]|ゲームSize|
@@ -192,6 +192,7 @@
 |~||[[Challengers>難易度表/おに/Challengers]]|-|まるろん|[[公式音源(YouTube)>https://youtu.be/IsoYizhw-Dc]]|ゲームSize|
 |~||[[狂瀾怒濤>難易度表/おに/狂瀾怒濤]]|-|xi|[[公式音源(YouTube)>https://youtu.be/n5ihQvx3mlc]]|ゲームSize|
 |~||[[そして勇者は眠りにつく>難易度表/おに/そして勇者は眠りにつく]]|-|打打だいず|[[公式音源(YouTube)>https://youtu.be/Dyy0bD2cqSU]]|ゲームSize|
+|~|~|~|~|~|星屑物語|ロングVer.|
 |~||[[SUPERNOVA>難易度表/おに/SUPERNOVA]]|-|USAO|[[公式音源(YouTube)>https://youtu.be/phWWx4NRhpE]]|ゲームSize|
 |~||[[神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]|-|あず♪ & Masahiro "Godspeed" Aoki|[[公式音源(YouTube)>https://youtu.be/HBc_QxP2haE]]|ゲームSize|
 |BGCOLOR(#0acc2a):|BGCOLOR(#ff7028):|[[Doppelgangers>難易度表/おに/Doppelgangers]]|赤川ねね|南ゆに|[[公式MV(YouTube)>https://youtu.be/wtDb4rrWu70]]&br;COLOR(red){【''閲覧注意''】}(([[映像には暴力的表現が含まれている。>https://twitter.com/Alice_Orchestra/status/1575761654650142720?cxt=HHwWgIDUwYm4nd4rAAAA]]))|ゲームSize((曲としては[[Full>https://twitter.com/Alice_Orchestra/status/1575757841817821184?cxt=HHwWgICz2ZHam94rAAAA]]))|

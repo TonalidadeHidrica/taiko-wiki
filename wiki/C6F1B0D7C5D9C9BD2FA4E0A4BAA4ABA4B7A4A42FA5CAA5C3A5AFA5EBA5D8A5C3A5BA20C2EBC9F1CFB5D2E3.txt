@@ -8,7 +8,7 @@
 |AC15.4.2SP|Wii U3SP|~|~|~|''844960点''|~|540点|138点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''996000点''}|~|COLOR(#ff3300){2000点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):&COLOR(white){''ゲーム&&br;バラエティ''};|~|~|''998480点''|~|2240点|-|
-|AC16.2.12||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
+|AC16.2.12|Xbox1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 ||DS3|~|~|''409''|''840330点''|~|540点|130点|
 
 ***譜面構成・攻略 [#capture]

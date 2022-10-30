@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.6.6''|PS Vita1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''509''|''841760点''|+連打|480点|120点|
+|''AC15.6.6''|PS Vita1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''509''|''841760点''|+連打|480点|120点|
 ||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''993450点''}|~|COLOR(#ff3300){1850点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''834300点''|~|400点|110点|
@@ -21,16 +21,16 @@
 -また、[[ふつう>難易度表/ふつう/ブレイクライン]]以下と違い、ラストの大連打の後に音符が3つあるので忘れないように。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/ブレイクライン]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/ブレイクライン#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/ブレイクライン]]
 -[[ふつう>難易度表/ふつう/ブレイクライン]]
 -[[おに>難易度表/おに/ブレイクライン]]
--[[オート動画(キャプチャ)>https://youtube.com/watch?v=yKhuOaLRonA]]
+-[[オート動画(iOS)>https://youtube.com/watch?v=yKhuOaLRonA]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(breakline_h.png,nolink);
+&attachref(breakline_h.png,nolink);
