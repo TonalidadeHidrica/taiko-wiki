@@ -26,7 +26,7 @@
 -[[かんたん>難易度表/かんたん/Romanticが止まらない]]
 -[[ふつう>難易度表/ふつう/Romanticが止まらない]]
 -[[むずかしい>難易度表/むずかしい/Romanticが止まらない]]
--[[オート動画>http://www.youtube.com/watch?v=WcOW5ck_Q5g]]
+-[[オート動画(iOS)>http://www.youtube.com/watch?v=WcOW5ck_Q5g]]
 
 ***コメント [#comment]
 #pcomment(,noname)

@@ -8,7 +8,7 @@
 ||PS Vita1亜DL|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1203650点''|350点|90点|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1003440点''}|COLOR(#ff3300){1130点}|-|
-|AC16.1.0||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|
+|AC16.1.0|Xbox1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約130。

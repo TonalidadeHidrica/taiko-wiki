@@ -16,7 +16,7 @@
 --全可でも普通譜面を維持できない。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Romanticが止まらない]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Romanticが止まらない#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Romanticが止まらない]]
@@ -24,8 +24,8 @@
 -[[おに>難易度表/おに/Romanticが止まらない]]
 -[[オート動画(iOS)>http://www.youtube.com/watch?v=D4aG45MAZpw]]
 
-***コメント[#comment]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#fumen]
+***譜面 [#score]
 &ref(r.png,nolink);
