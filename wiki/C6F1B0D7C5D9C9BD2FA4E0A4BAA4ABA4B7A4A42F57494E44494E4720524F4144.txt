@@ -7,9 +7,10 @@
 |''AC10''|BGCOLOR(cyan):''J-POP''|★×4|''135''|''?????0点''|＋連打|1420点|420点|
 
 ***2人用譜面 [#double]
-|CENTER:バージョン|CENTER:ジャンル|CENTER:難易度||CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC10''|CENTER:BGCOLOR(cyan):''J-POP''|CENTER:★×4|CENTER:1P|CENTER:''139''|CENTER:''?????0点''|CENTER:＋連打|CENTER:???0点|CENTER:???点|
-|~|~|~|CENTER:2P|CENTER:''136''|CENTER:''?????0点''|~|~|~|
+|>|>|>|>|>|>|>|>|CENTER:|c
+|バージョン|ジャンル|難易度||最大コンボ数|>|天井スコア|初項|公差|h
+|''AC10''|BGCOLOR(cyan):''J-POP''|★×4|1P|''139''|''?????0点''|＋連打|???0点|???点|
+|~|~|~|2P|''136''|''?????0点''|~|~|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは88。
@@ -24,25 +25,21 @@
 -2人用譜面が存在する。1人用譜面以上にリズム難となっているので注意。
 
 ***その他 [#other]
--曲名の読み方は、''ワインディング ロード''。
---「曲がりくねった道」という意味である。
--アーティストは、''絢香×コブクロ''。
---作詞・作曲は、絢香・小渕健太郎・黒田俊介。編曲は、松浦晃久。
+-楽曲情報は[[おに譜面>難易度表/おに/WINDING ROAD#other]]を参照。
 -[[MAN WITH A MISSION>アーティスト別収録曲#mwam]]の[[Winding Road>難易度表/むずかしい/Winding Road]]との混同に注意。
--曲IDは、''windin''。
 
 ----
 -[[かんたん>難易度表/かんたん/WINDING ROAD]]
 -[[ふつう>難易度表/ふつう/WINDING ROAD]]
 -[[おに>難易度表/おに/WINDING ROAD]]
--[[プレイ動画(キャプチャ,1人用)>http://www.youtube.com/watch?v=NOrDWp3F5IQ]]
--[[プレイ動画(キャプチャ,2人用)>https://www.youtube.com/watch?v=vE98PAEkd98]]
+-[[プレイ動画(1人用)>http://www.youtube.com/watch?v=NOrDWp3F5IQ]]
+-[[プレイ動画(2人用)>https://www.youtube.com/watch?v=vE98PAEkd98]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
-&ref(windin_h.png,nolink);
+***譜面 [#score]
+~&ref(windin_h.png,nolink);
 
 ~2人用譜面
-&ref(windin_hd.png,nolink);
+~&ref(windin_hd.png,nolink);

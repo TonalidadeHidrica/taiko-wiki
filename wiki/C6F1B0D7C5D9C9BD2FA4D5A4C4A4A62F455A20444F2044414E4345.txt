@@ -9,7 +9,7 @@
 |''AC10''||BGCOLOR(cyan):''J-POP''|★×4|''134''|''512720点''|＋連打|1010点|270点|
 ||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''512420点''|~|~|~|
 |AC15(テレ朝8)|3DS3DL|BGCOLOR(cyan):''J-POP''|~|~|''534650点''|~|1070点|393点|
-||NS1DL|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+||NS1DL&br;NS2MP|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''986960点''}|~|COLOR(#ff3300){6040点}|-|
 ||Wii5|BGCOLOR(cyan):''J-POP''|~|''135''|''534810点''|~|1060点|390点|
 
@@ -32,7 +32,6 @@
 -[[かんたん>難易度表/かんたん/EZ DO DANCE]]
 -[[むずかしい>難易度表/むずかしい/EZ DO DANCE]]
 -[[おに>難易度表/おに/EZ DO DANCE]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/TCLK_ZjxoYQ]]
 -[[プレイ動画(AC10・直撮り)>http://www.youtube.com/watch?v=3rnlGqt5Bec]]
 -[[オート動画(Wii5)>http://www.youtube.com/watch?v=3HB9qPXXt30]]
 

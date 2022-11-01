@@ -37,5 +37,6 @@
 ***譜面 [#score]
 ~実際の処理
 ~&ref(mikan_n.png,nolink);
+
 ~見た目重視
 ~&ref(mikan_n_view.png,nolink);

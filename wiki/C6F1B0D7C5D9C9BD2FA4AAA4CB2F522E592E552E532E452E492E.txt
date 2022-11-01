@@ -5,7 +5,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.6.4''|PS Vita1DL&br;Wii U3DL&br;3DS3DL|BGCOLOR(cyan):''J-POP''|★×8|''371''|''1033940点''|+連打|760点|220点|
-||NS1|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+||NS1&br;NS2MP|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''987070点''}|~|COLOR(#ff3300){2390点}|-|
 ||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|''1023150点''|~|710点|180点|
 |AC16.1.0||~|~|~|''990570点''|~|2670点|-|
@@ -54,4 +54,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(ryusei_m.png,nolink);
+&attachref(ryusei_m.png,nolink);

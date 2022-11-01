@@ -16,17 +16,16 @@
 -8分音符は面の3連打しかなく、逆詐称気味。
 
 ***その他 [#other]
--アーティストは、[[''大塚愛''>アーティスト別収録曲#ai]]。
--曲IDは、''frieng''。
+-楽曲情報は[[おに譜面>難易度表/おに/フレンジャー#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/フレンジャー]]
 -[[むずかしい>難易度表/むずかしい/フレンジャー]]
 -[[おに>難易度表/おに/フレンジャー]]
--[[オート動画>https://www.youtube.com/watch?v=MyOxIJ7vcU0]]
+-[[オート動画(CS7)>https://www.youtube.com/watch?v=MyOxIJ7vcU0]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
+***譜面 [#score]
 &ref(f.png,nolink);

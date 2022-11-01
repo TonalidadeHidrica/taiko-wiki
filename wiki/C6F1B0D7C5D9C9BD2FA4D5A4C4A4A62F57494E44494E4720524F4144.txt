@@ -24,25 +24,21 @@
 --また、全良狙いの人はリズムが取りづらくなっている21小節と25小節にも注意したいところ。
 
 ***その他 [#other]
--曲名の読み方は、''ワインディング ロード''。
---「曲がりくねった道」という意味である。
--アーティストは、''絢香×コブクロ''。
---作詞・作曲は、絢香・小渕健太郎・黒田俊介。編曲は、松浦晃久。
+-楽曲情報は[[おに譜面>難易度表/おに/WINDING ROAD#other]]を参照。
 -[[MAN WITH A MISSION>アーティスト別収録曲#mwam]]の[[Winding Road>難易度表/ふつう/Winding Road]]との混同に注意。
--曲IDは、''windin''。
 
 ----
 -[[かんたん>難易度表/かんたん/WINDING ROAD]]
 -[[むずかしい>難易度表/むずかしい/WINDING ROAD]]
 -[[おに>難易度表/おに/WINDING ROAD]]
--[[プレイ動画(キャプチャ,1人用)>http://www.youtube.com/watch?v=GcDRm36UozE]]
--[[プレイ動画(キャプチャ,2人用)>https://www.youtube.com/watch?v=p166ACd7cTQ]]
+-[[プレイ動画(1人用)>http://www.youtube.com/watch?v=GcDRm36UozE]]
+-[[プレイ動画(2人用)>https://www.youtube.com/watch?v=p166ACd7cTQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#fumen]
-&attachref(windn2.png,nolink);
+***譜面 [#score]
+~&attachref(windn2.png,nolink);
 
 ~2人用譜面
-&attachref(windn2d.png,nolink);
+~&attachref(windn2d.png,nolink);

@@ -8,6 +8,8 @@
 |AC12亜||BGCOLOR(cyan):''日本&br;流行音樂''|~|~|~|~|~|~|
 ||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
 ||Wii U3|BGCOLOR(cyan):''J-POP''|~|~|''894450点''|~|1090点|343点|
+||NS2MP|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){??0点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは81。
