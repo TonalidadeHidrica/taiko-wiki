@@ -6,7 +6,7 @@
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.3.0''||BGCOLOR(orange):''アニメ''|★×8|''459''|''1046740点''|+連打|610点|168点|
 |COLOR(#ff3300){真打}||~|~|~|''COLOR(#ff3300){998450点''}|~|COLOR(#ff3300){1890点}|-|
-||iOS&br;AR|~|~|~|''?????0点''|~|??0点|???点|
+||iOS&br;AR|~|~|~|''1041110点''|~|590点|140点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約186。
@@ -33,6 +33,7 @@
 -[[ふつう>難易度表/ふつう/INSIDE IDENTITY]]
 -[[むずかしい>難易度表/むずかしい/INSIDE IDENTITY]]
 -[[プレイ動画>https://www.youtube.com/watch?v=iF7dVCwOJgM]]
+-[[オート動画(iOS)>https://youtu.be/XT59vzrTl6U]]
 
 ***コメント [#comment]
 #pcomment(,noname)

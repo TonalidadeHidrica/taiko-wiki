@@ -7,11 +7,11 @@
 |''AC14SP''||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×7|''245''|''692200点''|＋連打|700点|180点|
 ||PSPDX|~|~|~|''691000点''|~|~|~|
 |COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''696200点''}|~|COLOR(#ff3300){2400点}|-|
-|AC15.10.4|NS1DL|~|★×6|~|''644900点''|~|CENTER:710点|200点|
+||Wii5SP|~|★×6|''246''|''643450点''|~|710点|200点|
+|AC15.10.4|NS1DL&br;NS2MP|~|~|''245''|''644900点''|~|~|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''995160点''}|~|COLOR(#ff3300){3520点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''998350点''|~|4030点|‐|
 |AC16.2.12|Xbox1DL|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
-||Wii5SP|~|~|''246''|''643450点''|~|710点|200点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは約145。
@@ -28,18 +28,19 @@
 --そのことが反映されたのか、Wii5で★×6に降格した。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/KARMA(Tatsujin Mix)]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/KARMA(Tatsujin Mix)#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/KARMA(Tatsujin Mix)]]
 -[[むずかしい>難易度表/むずかしい/KARMA(Tatsujin Mix)]]
 -[[おに>難易度表/おに/KARMA(Tatsujin Mix)]]
--[[オート動画(Wii5,キャプチャ)>http://www.youtube.com/watch?v=qfyOzRmBUCc]]
--[[プレイ動画(AC15,キャプチャ)>http://www.youtube.com/watch?v=LaYSSVAqiao]]
+-[[オート動画(Wii5)>http://www.youtube.com/watch?v=qfyOzRmBUCc]]
+-[[プレイ動画(AC15)>http://www.youtube.com/watch?v=LaYSSVAqiao]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-40小節の大音符は巨大音符（Wii5のみ）&br;イモ連打の長さは暫定
-&ref(karma_n.png,nolink);
+~40小節の大音符は巨大音符((Wii5のみ))
+~イモ連打の長さは暫定
+~&ref(karma_n.png,nolink);
