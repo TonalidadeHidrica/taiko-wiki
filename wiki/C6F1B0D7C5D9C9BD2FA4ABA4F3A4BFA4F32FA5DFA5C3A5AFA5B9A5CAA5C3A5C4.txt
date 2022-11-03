@@ -1,4 +1,5 @@
 *ミックスナッツ [#title]
+-アニメ「''SPY×FAMILY''」のOP1。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
@@ -10,18 +11,18 @@
 -BPMは約150。
 
 ***その他 [#other]
--楽曲・タイアップ情報は[[おに>難易度表/おに/ミックスナッツ]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/ミックスナッツ#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/ミックスナッツ]]
 -[[むずかしい>難易度表/むずかしい/ミックスナッツ]]
 -[[おに>難易度表/おに/ミックスナッツ]]
--[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=NQo_13P_nh8]]
+-[[プレイ動画(AC16)>https://www.youtube.com/watch?v=NQo_13P_nh8]]
 
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~BPMは暫定。
+~BPMは暫定
 ~&attachref(Mixed Nuts_e.png,nolink);

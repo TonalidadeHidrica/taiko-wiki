@@ -35,4 +35,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(aumtkt_m.png,nolink,);
+~&attachref(aumtkt_m_2.png,nolink,);

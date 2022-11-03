@@ -3,7 +3,7 @@
 *きせかえ一覧[#title]
 #contents
 ----
--&size(22){ドンだーひろばの[[ごほうび一覧(きせかえ)>http://donderhiroba.jp/reward_kisekae.php]]に出現しているもののみ掲載してください。};
+-&size(22){ドンだーひろばの[[ごほうび一覧>http://donderhiroba.jp/reward_kisekae.php]]に出現しているもののみ掲載してください。};
 -会議室で案が出ていたのでひとまず作成してみました。追加・編集宜しくお願いします。
 --現段階ではあまり情報が揃っていません。コメント欄での情報提供もよろしくお願いします。
 
@@ -19,10 +19,14 @@
 |〇|ヘリコプター|>|-||
 |〇|おみこし|>|~|~|
 |〇|ブーケ|>|~|~|
-||段位道場|>|[[段位道場]]に合格する|段位に応じて見た目が変化していく&br;その年の段位道場が終わるときせかえも剥奪される|
+|〇|段位道場|>|[[段位道場]]に合格する|段位に応じて見た目が変化していく&br;その年の段位道場が終わるときせかえも剥奪される|
 |〇|お祭りハッピ|>|初めてバナパスポートカード等を使って遊ぶ||
 |BGCOLOR(silver):|BGCOLOR(silver):とら|BGCOLOR(silver):1プレイ内全て中高生向けアニメ曲を選んでクリア|BGCOLOR(silver):「ごほうびザクザク2022」中に2回プレイ|BGCOLOR(silver):|
-|BGCOLOR(silver):|BGCOLOR(silver):オニに金棒|BGCOLOR(silver):	2013年2月に太鼓の達人をプレイ&br;どんちゃん着せ替え獲得キャンペーンで獲得|BGCOLOR(silver):「スタートダッシュ2020」中に7回プレイ&br;「ごほうびザクザク2022」中に55回プレイ|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):せんすいかん|BGCOLOR(silver):クラシックを10回プレイする|BGCOLOR(silver):「ごほうびザクザク2022」中に14回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):かえる|BGCOLOR(silver):2013年6月にプレイ|BGCOLOR(silver):「ごほうびザクザク2022」中に20回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):ゴースト|BGCOLOR(silver):2013年8月にプレイ|BGCOLOR(silver):「ごほうびザクザク2022」中に45回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):オニに金棒|BGCOLOR(silver):2013年2月にプレイ&br;どんちゃん着せ替え獲得キャンペーンで獲得|BGCOLOR(silver):「スタートダッシュ2020」中に7回プレイ&br;「ごほうびザクザク2022」中に55回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):月見だんご|BGCOLOR(silver):2012年9月にプレイ&br;どんちゃん着せ替え獲得キャンペーンで獲得|BGCOLOR(silver):「スタートダッシュ2020」中に40回プレイ&br;「ごほうびザクザク2022」中に81回プレイ|~|
 |〇|AIどん（青）|>|[[AIバトル演奏]]で75回勝利する||
 |〇|AIどん（桃）|>|[[AIバトル演奏]]で350回勝利する|~|
 |〇|AIどん（黄）|>|[[AIバトル演奏]]で765回勝利する|~|
@@ -67,7 +71,7 @@
 |〇|チックン|>|[[COLOR(blue):超時空アドベンチャー>難易度表/おに/超時空アドベンチャー]]をプレイ||
 |〇|きょうじゅ|>|サカモト教授作曲・編曲の曲をフルコンボ|対象となる曲は[[称号対象曲>段位・称号の一覧/称号対象曲]]を参照|
 |〇|リラ・ダ・ガンバ|>|[[COLOR(blue):希望へのメロディー>難易度表/おに/希望へのメロディー]]をプレイ||
-|BGCOLOR(silver):|BGCOLOR(silver):さくら|BGCOLOR(silver):2014年4月に太鼓の達人をプレイ|BGCOLOR(silver):「スタートダッシュ2020」中に3回プレイ&br;「ごほうびザクザク2022」中に52回プレイ|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):さくら|BGCOLOR(silver):2014年4月にプレイ|BGCOLOR(silver):「スタートダッシュ2020」中に3回プレイ&br;「ごほうびザクザク2022」中に52回プレイ|BGCOLOR(silver):|
 |BGCOLOR(silver):|BGCOLOR(silver):にんじゃ|BGCOLOR(silver):2014年7月19日〜8月1日までにごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に6回プレイ&br;「ごほうびザクザク2022」中に52回プレイ|~|
 |BGCOLOR(silver):|BGCOLOR(silver):レースカー|BGCOLOR(silver):2014年5月にごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に11回プレイ&br;「ごほうびザクザク2022」中に58回プレイ|~|
 |BGCOLOR(silver):|BGCOLOR(silver):かたつむり|BGCOLOR(silver):2014年6月にごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に14回プレイ|~|
@@ -88,8 +92,13 @@
 |BGCOLOR(silver):|BGCOLOR(silver):さくらもち|BGCOLOR(silver):2014年4月にごほうびショップで交換|BGCOLOR(silver):「スタートダッシュ2020」中に2回プレイ&br;「ごほうびザクザク2022」中に51回プレイ|BGCOLOR(silver):|
 |BGCOLOR(silver):|BGCOLOR(silver):にんじゃ|BGCOLOR(silver):2014/7/19〜8/1の間に[[COLOR(blue):らいとにんぐ ぱっしょん>難易度表/おに/らいとにんぐ ぱっしょん]]をクリア|BGCOLOR(silver):「スタートダッシュ2020」中に5回プレイ|~|
 |>|>|>|>|BGCOLOR(gold):CENTER:''メイク''|
-|BGCOLOR(silver):|BGCOLOR(silver):イケイケサングラス|BGCOLOR(silver):グリーンver.までにごほうびショップで交換|BGCOLOR(silver):「ごほうびザクザク2022」中に6回プレイ|BGCOLOR(silver):|
-|BGCOLOR(silver):|BGCOLOR(silver):芸者|BGCOLOR(silver):2015年1月にごほうびショップで交換|BGCOLOR(silver):「ごほうびザクザク2022」中に12回プレイ|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):男気まゆげ|BGCOLOR(silver):グリーンver.までにごほうびショップで交換|BGCOLOR(silver):「ごほうびザクザク2022」中に19回プレイ|BGCOLOR(silver):|
+|BGCOLOR(silver):|BGCOLOR(silver):眼帯|~|BGCOLOR(silver):「ごほうびザクザク2022」中に44回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):ヘビメタ|BGCOLOR(silver):500かつメダルで購入|BGCOLOR(silver):「ごほうびザクザク2022」中に48回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):イケイケサングラス|BGCOLOR(silver):グリーンver.までにごほうびショップで交換|BGCOLOR(silver):「ごほうびザクザク2022」中に6回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):もえる目|~|BGCOLOR(silver):「ごほうびザクザク2022」中に26回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):ぐるぐるほっぺ|~|BGCOLOR(silver):「ごほうびザクザク2022」中に36回プレイ|~|
+|BGCOLOR(silver):|BGCOLOR(silver):芸者|BGCOLOR(silver):2015年1月にごほうびショップで交換|BGCOLOR(silver):「ごほうびザクザク2022」中に12回プレイ|~|
 |>|>|>|>|BGCOLOR(gold):CENTER:''ぷちキャラ''|
 ||博麗霊夢|>|「東方Project×太鼓の達人コラボキャンペーン」で交換||
 ||霧雨魔理沙|>|~|~|
@@ -113,8 +122,8 @@
 ||レミリア・スカーレット&十六夜咲夜|>|~|~|
 ||八雲紫|>|~|~|
 ||洩矢諏訪子|>|~|~|
-|BGCOLOR(grey):|BGCOLOR(grey):粗品|>|BGCOLOR(grey):AI粗品バトル演奏で5回勝利する|BGCOLOR(grey):|
-|BGCOLOR(grey):|BGCOLOR(grey):AI粗品|>|BGCOLOR(grey):AI粗品バトル演奏で10回勝利する|~|
+|BGCOLOR(grey):|BGCOLOR(grey):粗品|>|BGCOLOR(grey):AI粗品バトル演奏で1回勝利する|BGCOLOR(grey):|
+|BGCOLOR(grey):|BGCOLOR(grey):AI粗品|>|BGCOLOR(grey):AI粗品バトル演奏で5回勝利する|~|
 |〇|AIどん|>|[[AIバトル演奏]]で25回勝利する||
 |〇|まきな|>|[[AIバトル演奏]]で175回勝利する|~|
 |〇|まきな（学生ver.）|>|[[AIバトル演奏]]で876回勝利する|~|

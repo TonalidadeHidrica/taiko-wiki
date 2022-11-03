@@ -162,7 +162,7 @@
 |~|[[COLOR(blue):グレート！アニマルカイザー!!>難易度表/おに/グレート!アニマルカイザー!!]]|-|百獣王者どんちゃん||
 |~|[[COLOR(blue):チェインクロニクル 最終決戦メドレー>難易度表/おに/チェインクロニクル 最終決戦メドレー]]|-|クロニクルの使い手||
 |~|[[COLOR(blue):PAC-MAN CHAMPIONSHIP EDITION 2>https://www.wikihouse.com/taiko/index.php?%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2FPAC%A1%BEMAN%20CHAMPIONSHIP%20EDITION%202]]|おに|ドットイートの達人||
-|~|COLOR(blue):[[TD -28619029byte remix->難易度表/おに/TD -28619029byte remix-]]|おに|技術習得度100.0%||
+|~|[[COLOR(blue):TD -28619029byte remix->難易度表/おに/TD -28619029byte remix-]]|おに|技術習得度100.0%||
 |BGCOLOR(#0acc2a):~バラエティ|[[COLOR(blue):Aleph-0>難易度表/おに/Aleph-0]]|おに|Aleph-0を理解せし者||
 |~|[[COLOR(blue):Aragami>難易度表/おに/Aragami]]|おに|荒ぶる神を鎮めし者||
 |~|[[COLOR(blue):BATTLE NO.1>難易度表/おに/BATTLE NO.1]]|おに|俺たちのBATTLEはこれからだ！||
@@ -807,7 +807,7 @@
 |''1P側1人プレイ''で、1クレ内全て【[[COLOR(blue):Rotter Tarmination(裏譜面)>難易度表/おに/Rotter Tarmination(裏譜面)]]、[[COLOR(blue):ドドンガド〜ン(裏譜面)>難易度表/おに/ドドンガド〜ン(裏譜面)]]、[[COLOR(blue):dance storm(裏譜面)>難易度表/おに/dance storm(裏譜面)]]】のみをフルコンボ|ガッガッガッ||
 |''2P側1人プレイ''で、1クレ内全て【[[COLOR(blue):サンバ アレグリーア(裏譜面)>難易度表/おに/サンバ アレグリーア(裏譜面)]]、[[COLOR(blue):らんぶる乱舞(裏譜面)>難易度表/おに/らんぶる乱舞(裏譜面)]]、[[COLOR(blue):らいとにんぐ ぱっしょん(裏譜面)>難易度表/おに/らいとにんぐ ぱっしょん(裏譜面)]]】のみを1クレ内全てフルコンボ|あふれるパッション||
 |[[COLOR(blue):クロス・ブルー>難易度表/おに/クロス・ブルー]]、[[COLOR(blue):女帝 〜インバラトゥーラ〜>難易度表/おに/女帝 〜インバラトゥーラ〜]]、[[COLOR(blue):チャーリー ダッシュ！>難易度表/おに/チャーリー ダッシュ！]]、[[COLOR(blue):Abyss of hell>難易度表/おに/Abyss of hell]]を難易度おにですべてフルコンボ済みにする|鈍行に乗るドン！|条件を満たしたプレイ後取得&br;Abyss of hellは表か裏譜面の片方だけフルコンボでも良い|
-|[[COLOR(blue):竜シリーズ>シリーズ曲一覧#ryu]]の裏譜面を全てフルコンボ済みにする|春夏秋冬の竜を統べし者|条件を満たしたプレイ後取得|
+|[[COLOR(blue):春竜 〜Haryu〜(裏譜面)>難易度表/おに/春竜 〜Haryu〜(裏譜面)]]、[[COLOR(blue):夏竜 〜Karyu〜(裏譜面)>難易度表/おに/夏竜 〜Karyu〜(裏譜面)]]、[[COLOR(blue):秋竜 〜Shiuryu〜(裏譜面)>難易度表/おに/秋竜 〜Shiuryu〜(裏譜面)]]、[[COLOR(blue):冬竜 〜Toryu〜(裏譜面)>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]を全てフルコンボ済みにする|春夏秋冬の竜を統べし者|条件を満たしたプレイ後取得|
 |GO GET'EM!の[[COLOR(blue):表譜面>難易度表/おに/GO GET'EM!]]と[[COLOR(blue):裏譜面>難易度表/おに/GO GET'EM!(裏譜面)]]を二人プレイでフルコンボする|セッションマスター||
 
 **コメント [#comment]

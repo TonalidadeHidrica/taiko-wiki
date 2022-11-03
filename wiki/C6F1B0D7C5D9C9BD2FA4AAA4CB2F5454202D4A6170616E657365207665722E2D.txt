@@ -40,4 +40,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(twitt_m.png,nolink,);
+~&attachref(twitt_m2.png,nolink,);

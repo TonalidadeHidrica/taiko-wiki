@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.9.5''|PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''950''|''1174270点''|+連打|350点|83点|
+|''AC15.9.5''|PS4 1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''950''|''1174270点''|+連打|350点|83点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''971850点''}|~|COLOR(#ff3300){930点}|-|
 |AC16.1.0||~|~|~|''978500点''|~|1030点|-|
 
@@ -32,9 +32,9 @@
 -[[かんたん>難易度表/かんたん/濃紅]]
 -[[ふつう>難易度表/ふつう/濃紅]]
 -[[むずかしい>難易度表/むずかしい/濃紅]]
+-[[プレイ動画(AC15)>https://m.youtube.com/watch?feature=youtu.be&v=V_DdFPcu5v8&t=20s]]
+-[[オート動画(PS4)>https://youtu.be/8kTkzRfSdmY&t=3s]]
 -[[歌詞>https://twitter.com/taiko_team/status/901022250018553856]]
--[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=V_DdFPcu5v8&t=20s]]
--[[オート動画(PS4 1)>https://youtu.be/8kTkzRfSdmY&t=3s]]
 -[[公式曲紹介>https://www.youtube.com/watch?v=O9IBf2S_cWo]]
 
 ***コメント [#comment]
@@ -43,4 +43,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(koikre.png,nolink);
+&attachref(koikre.png,nolink);

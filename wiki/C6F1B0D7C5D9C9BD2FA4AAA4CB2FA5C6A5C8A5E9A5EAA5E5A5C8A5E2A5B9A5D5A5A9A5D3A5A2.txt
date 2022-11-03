@@ -43,5 +43,5 @@
 ***譜面 [#score]
 ~&attachref(tetra_m.png,nolink);
 
-~内部小節込み
+~内部小節線込み
 ~&attachref(tetra_m0.png,nolink);
