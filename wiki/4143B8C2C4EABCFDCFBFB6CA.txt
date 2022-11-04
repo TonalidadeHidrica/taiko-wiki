@@ -11,9 +11,9 @@
 -背景がピンク色(COLOR(pink){■})の曲・・・ニジイロVer.24.08以降の限定曲
 
 //|''''||[[★×>難易度表/かんたん/]]|[[★×>難易度表/ふつう/]]|[[★×>難易度表/むずかしい/]]|[[★×>難易度表/おに/]]|[[★×>難易度表/おに/]]|
-|>|>|>|>|>|>|CENTER:74|c
-|>|>|>|>|>|>|ジャンル名を選択するとそのジャンルに移動します|h
-|BGCOLOR(#49d5eb):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(#fdc000):~[[&color(black){%%%キッズ%%%};>#kids]]|BGCOLOR(#fe90d2):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(#cbcfde):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(#cc8aeb):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(#0acc2a):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(#ff7028):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
+|>|>|>|>|>|>|>|CENTER:74|c
+|>|>|>|>|>|>|>|ジャンル名を選択するとそのジャンルに移動します|h
+|BGCOLOR(#49d5eb):~[[&color(black){%%%ポップス%%%};>#pops]]|BGCOLOR(#fdc000):~[[&color(black){%%%キッズ%%%};>#kids]]|BGCOLOR(#fe90d2):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(#cbcfde):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(#cc8aeb):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(#0acc2a):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(#ded523):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(#ff7028):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
 
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|h
@@ -194,9 +194,10 @@
 |''Doppelgangers''|52-208|[[★×4>難易度表/かんたん/Doppelgangers]]|[[★×6>難易度表/ふつう/Doppelgangers]]|[[★×6>難易度表/むずかしい/Doppelgangers]]|[[★×8>難易度表/おに/Doppelgangers]]|[[★×10>難易度表/おに/Doppelgangers(裏譜面)]]|
 |''Aleph-0''|10?-397.5?|[[★×5>難易度表/かんたん/Aleph-0]]|[[★×7>難易度表/ふつう/Aleph-0]]|[[★×8>難易度表/むずかしい/Aleph-0]]|[[★×10>難易度表/おに/Aleph-0]]|-|
 |''スカーレット警察のゲットーパトロール24時''|160※|[[★×2>難易度表/かんたん/スカーレット警察のゲットーパトロール24時]]|[[★×2>難易度表/ふつう/スカーレット警察のゲットーパトロール24時]]|[[★×5>難易度表/むずかしい/スカーレット警察のゲットーパトロール24時]]|[[★×8>難易度表/おに/スカーレット警察のゲットーパトロール24時]]|-|
-//||LEFT:60|>|>|>|>|CENTER:42|c
-//|>|>|>|>|>|>|BGCOLOR(#ded523):''クラシック''&aname(classic);|
-//|>|BGCOLOR(pink):|>|>|>|>|BGCOLOR(pink):CENTER:42|c
+||LEFT:60|>|>|>|>|CENTER:42|c
+|>|>|>|>|>|>|BGCOLOR(#ded523):''クラシック''&aname(classic);|
+|>|BGCOLOR(pink):|>|>|>|>|BGCOLOR(pink):CENTER:42|c
+|''河内音頭 &#12316;ふしづくし&#12316;''|138?|[[★×2>難易度表/かんたん/河内音頭 〜ふしづくし〜]]|[[★×2>難易度表/すたう/河内音頭 〜ふしづくし〜]]|[[★×3>難易度表/むずかしい/河内音頭 〜ふしづくし〜]]|[[★×6>難易度表/おに/河内音頭 〜ふしづくし〜]]|-|
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |>|>|>|>|>|>|BGCOLOR(#ff7028):''ナムコオリジナル''&aname(namco);|
 |''&#x0046;ooFooカセット''|175-176|[[★×4>難易度表/かんたん/FooFooカセット]]|[[★×6>難易度表/ふつう/FooFooカセット]]|[[★×6>難易度表/むずかしい/FooFooカセット]]|[[★×9>難易度表/おに/FooFooカセット]]|-|

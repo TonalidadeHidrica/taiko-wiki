@@ -1,4 +1,4 @@
-*Surf Zapping [#title]
+*&ruby(サーフ){Surf}; &ruby(ザッピング){Zapping}; [#title]
 -バンダイナムコエンターテインメント「''[[シンクロニカ>ゲーム別収録曲#synchronica]]''」のオリジナル楽曲のひとつ。
 
 ***詳細 [#more]
@@ -19,18 +19,17 @@
 -終盤で1回だけ出てくる8分の単色7連打と、2回出てくる8分の単色5連打に注意。
 
 ***その他 [#other]
--アーティストは、[[''t+pazolite''>参加アーティスト一覧/t+pazolite]]([[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]])。
--譜面作成は、[[''すえP''>譜面作成者一覧/すえP]]。
+-楽曲情報は[[おに譜面>難易度表/おに/Surf Zapping#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Surf Zapping]]
 -[[むずかしい>難易度表/むずかしい/Surf Zapping]]
 -[[おに>難易度表/おに/Surf Zapping]]
--[[オート動画>http://www.youtube.com/watch?v=s0EHX2F1Sa4]]
+-[[オート動画(3DS3)>http://www.youtube.com/watch?v=s0EHX2F1Sa4]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-風船、HSは適当
-&attachref(雅ふつう2.png,nolink);
+~風船、HSは適当
+~&attachref(雅ふつう2.png,nolink);

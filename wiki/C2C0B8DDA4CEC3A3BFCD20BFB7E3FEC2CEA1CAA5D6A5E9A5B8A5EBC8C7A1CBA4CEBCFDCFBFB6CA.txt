@@ -6,6 +6,7 @@ https://www.adibra.com.br/Content/upload/downloads/634/manual-wadaiko.pdf
 ----
 -バージョン： SIZE(20){''モモイロ（1.03）''}
 -全 SIZE(20){''32''} 曲
+
 -動作動画　https://www.youtube.com/watch?v=PKeUnsiNomw
 -[[コメント>#comment]]
 
