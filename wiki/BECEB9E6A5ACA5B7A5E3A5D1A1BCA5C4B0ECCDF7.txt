@@ -1036,12 +1036,12 @@
 |BGCOLOR(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):ÎëÀç|~|
 |BGCOLOR(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):¤³¤³¤í|~|
 |BGCOLOR(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):­©|~|
-|BGCOLOR(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):¥¹¥Ú¥ë¥«¡¼¥É|~|
-|BGCOLOR(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):£Ì£õ£î£á£ô£é£ã|~|
-|BGCOLOR(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):Åö¤¿¤êÈ½Äê|~|
-|BGCOLOR(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):¥°¥ì¥¤¥º|~|
-|BGCOLOR(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):»ç|~|
-|BGCOLOR(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):¿ÛË¬»Ò|~|
+|(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):¥¹¥Ú¥ë¥«¡¼¥É|~|
+|(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):£Ì£õ£î£á£ô£é£ã|~|
+|(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):Åö¤¿¤êÈ½Äê|~|
+|(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):¥°¥ì¥¤¥º|~|
+|(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):»ç|~|
+|(silver):¡»|BGCOLOR(pink):|BGCOLOR(silver):¿ÛË¬»Ò|~|
 ***¥Ñ¡¼¥ÄB [#partsb]
 |CENTER:26|CENTER:26|||c
 |½çÈÖ|¿§|CENTER:¾Î¹æ|CENTER:³ÍÆÀ¾ò·ï|h

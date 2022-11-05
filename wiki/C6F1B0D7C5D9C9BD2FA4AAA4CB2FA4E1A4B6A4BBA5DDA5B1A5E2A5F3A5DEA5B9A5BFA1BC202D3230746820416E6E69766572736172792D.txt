@@ -13,7 +13,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは120-''240''。
--連打秒数目安・・・SIZE(16){約0.708秒}−約0.458秒×2−SIZE(16){''約2.208秒''}−SIZE(16){''約3.625秒''}：合計約7.457秒
+-連打秒数・・・SIZE(16){約0.708秒}−約0.458秒×2−SIZE(16){''約2.208秒''}−SIZE(16){''約3.625秒''}:合計約7.457秒
 -ボーカルに沿った音符配置であるため、原曲を知っていると演奏しやすく感じるだろう。
 -大音符が多く、''50個''(約16.55%)ある。
 -開幕・終盤に登場する複合はCOLOR(red){●●}COLOR(blue){○○}COLOR(red){●●}COLOR(blue){○}やCOLOR(blue){○○}COLOR(red){●●}COLOR(blue){○○}COLOR(red){●}といった基本的なものがほとんどである。
@@ -41,7 +41,6 @@
 -おに/[[裏譜面>../めざせポケモンマスター -20th Anniversary-(裏譜面)]]
 -[[プレイ動画>https://m.youtube.com/watch?feature=youtu.be&v=Y3V9jHBsgSc&t=6s]]
 -[[オート動画(NS1)>https://youtu.be/qhMHDGQSxts]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/LVW_rSa9Cj0]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
@@ -51,5 +50,5 @@
 ***譜面 [#score]
 ~&attachref(pk20th5_m.png,nolink);
 
-HS表記
+~HS表記
 ~&attachref(pk20th5_m_hs.png,nolink);

@@ -22,5 +22,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~40小節の風船は44小節の8拍目まで
-~&attachref(kumokn_e_2.png,nolink);
+~&attachref(kumokn_e_3.png,nolink);

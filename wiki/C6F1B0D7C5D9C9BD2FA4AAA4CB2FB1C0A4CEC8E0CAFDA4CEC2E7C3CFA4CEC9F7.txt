@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(kumokn_m_2.png,nolink);
+~&attachref(kumokn_m_3.png,nolink);

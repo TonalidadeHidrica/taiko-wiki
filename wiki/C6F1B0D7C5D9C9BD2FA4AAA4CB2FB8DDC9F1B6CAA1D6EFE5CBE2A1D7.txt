@@ -41,7 +41,6 @@
 -[[公式音源動画>https://youtu.be/MPSFYRniqlU]]
 
 ***コメント [#comment]
--''段位道場の話題は荒れやすいので[[コメント時の注意>ページ作成・リクエスト時の注意等#manualForComment]]の範囲内で行ってください。荒れた場合は当該コメントを非表示、削除することがあります。''
 #pcomment(noname)
 
 ***譜面 [#score]

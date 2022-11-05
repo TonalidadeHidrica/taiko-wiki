@@ -21,9 +21,9 @@
 -平均密度は、''約5.09打/秒''。
 
 ***その他 [#other]
+-作曲は、[[''桜庭統''>参加アーティスト一覧/桜庭統]]。
 -88小節以降に流れているのは、戦闘に勝利した際に流れるファンファーレ部分である。
 --サウンドトラックでは『Victory!』という曲名になっている。
--作曲は、[[''桜庭統''>参加アーティスト一覧/桜庭統]]。
 -[[ニジイロVer.段位道場2022>段位道場#normal]]の[[三段>段位道場/ニジイロ2022/三段]]3曲目課題曲となった。
 -曲IDは、''toabs''。
 
@@ -34,8 +34,8 @@
 -[[オート動画(Wii U3)>https://www.youtube.com/watch?v=MFvXBTY6eZY]]
 -[[プレイ動画(AC15)>https://www.youtube.com/watch?v=dHetp__Oyoc]]
 
-***コメント[#comment]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#score]
+***譜面 [#score]
 &attachref(toabs_2.png,nolink);
