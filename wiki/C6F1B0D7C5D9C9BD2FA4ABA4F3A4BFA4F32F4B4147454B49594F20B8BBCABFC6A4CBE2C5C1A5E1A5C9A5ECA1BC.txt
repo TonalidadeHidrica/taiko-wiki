@@ -1,4 +1,4 @@
-*&ruby(カゲキヨ){KAGEKIYO}; SIZE(16){&ruby(げんぺいとうまでん){源平討魔伝};メドレー} [#title]
+*KAGEKIYO SIZE(16){&ruby(げんぺいとうまでん){源平討魔伝};メドレー} [#title]
 
 ***1人用譜面 [#one]
 ***詳細 [#more]
@@ -17,14 +17,14 @@
 ||iOS&br;AR|BGCOLOR(darkorchid):&COLOR(white){''ゲーム&br;ミュージック''};|~|~|''331470点''|~|~|~|
 |COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''349980点''}|~|COLOR(#ff3300){1990点}|-|
 |AC15.1.0||~|~|~|''?????0点''|~|650点|245点|
-|AC15.2.0|Wii U3&br;PS4 1&br;NS1DL&br;PTB|~|~|~|''348280点''|~|~|248点|
+|AC15.2.0|Wii U3&br;PS4 1&br;NS1DL&br;PTB&br;NS2MP|~|~|~|''348280点''|~|~|248点|
 |WM||BGCOLOR(darkorchid):COLOR(white){''M&#250;sicas de&br;Jogos Eletr&#244;nicos''}|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''988100点''}|~|COLOR(#ff3300){5700点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):&color(white){''ゲーム＆&br;バラエティ''};|~|~|''994300点''|~|6020点|-|
 |AC16.2.0||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは約130。開幕で細かく変化している。
+-BPMは約130。
 -旧譜面は[[ふつう(新譜面)>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]とほぼ同一。
 -新譜面では[[おに>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]とのコンボ数の差は丁度600コンボである。
 -黄色連打が多い連打曲で、1本あたりの長さも長い。
@@ -37,24 +37,24 @@
 --8分も16分も単色の2連打しかなく、そのほとんどが単発である。
 --また、4分の複合は3連打（COLOR(red){●}COLOR(blue){○}COLOR(red){●}）が2回しか出て来ない。
 -16分があるのでフルコンボ難易度は少し高めだが、全体的にスカスカなのでクリアは簡単な方である。
--[[オート動画(新譜面)>https://www.youtube.com/watch?v=2ys2ZxxuHQc]]
--[[オート動画(旧譜面)>http://www.youtube.com/watch?v=b2n1sNfWhsc]]
 
 ***2人用譜面 [#two]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|難易度||最大コンボ数|>|天井スコア|初項|公差|h
 |''米TDMSP''&br;TDMSP|★×4|1P|''214''|''?????0点''|＋連打|700点|180点|
 |~|~|2P|''211''|''?????0点''|~|~|~|
--[[プレイ動画>http://www.youtube.com/watch?v=b08jBNksS7U]]
 
 ***その他 [#other]
--楽曲情報は[[おに(表)譜面>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]を参照。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/KAGEKIYO 源平討魔伝メドレー#other]]を参照。
 
 ----
 -かんたん/[[裏譜面>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅い方>難易度表/かんたん/KAGYUKIYO]]
 -[[ふつう>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅い方>難易度表/ふつう/KAGYUKIYO]]
 -[[むずかしい>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅い方>難易度表/むずかしい/KAGYUKIYO]]
 -[[おに>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅い方>難易度表/おに/KAGYUKIYO]]
+-[[オート動画(新譜面)>https://www.youtube.com/watch?v=2ys2ZxxuHQc]]
+-[[オート動画(旧譜面)>http://www.youtube.com/watch?v=b2n1sNfWhsc]]
+-[[プレイ動画(二人用)>http://www.youtube.com/watch?v=b08jBNksS7U]]
 
 ***コメント [#comment]
 #pcomment(,noname)
