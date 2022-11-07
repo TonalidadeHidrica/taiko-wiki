@@ -31,7 +31,7 @@
 --ギターは、[[''後藤貴徳''>参加アーティスト一覧/後藤貴徳]]。
 -譜面作成は、[[''アリーホット''>譜面作成者一覧/アリーホット]]。
 -[[ホワイトVer.段位道場>過去の段位道場#white]]の五段2曲目課題曲となった。
--曲IDは、''thnnak''(''東方''Project×''N''AMCO SOUNDS ''中''鶴潤一)。
+-曲IDは、''thnnak''((''東方''Project×''N''AMCO SOUNDS ''中''鶴潤一))。
 
 ----
 -[[かんたん>難易度表/かんたん/Ladystar Wandering]]
@@ -44,4 +44,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(thnnak_m.png,nolink);
+&attachref(thnnak_m.png,nolink);

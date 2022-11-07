@@ -56,7 +56,7 @@
 
 |>|>|>|>|>|>|>|CENTER:74|c
 |BGCOLOR(#42c0d3):~[[&color(black){%%%POP&br;&br;%%%};>#pops]]|BGCOLOR(#fdc000):~[[&color(black){%%%Kids'&br;&br;%%%};>#kids]]|BGCOLOR(#fe90d2):~[[&color(black){%%%Anime&br;&br;%%%};>#anime]]|BGCOLOR(#cbcfde):~[[&color(black){%%%VOCALOID&#8482;&br;Music&br;&br;%%%};>#vocalo]]|BGCOLOR(#cc8aeb):~[[&color(black){%%%Game Music&br;&br;%%%};>#gamemusic]]|BGCOLOR(#1bc739):~[[&color(black){%%%Variety&br;&br;%%%};>#variety]]|BGCOLOR(#cac001):~[[&color(black){%%%Classical&br;&br;%%%};>#classic]]|BGCOLOR(#ff7028):~[[&color(black){%%%NAMCO Original&br;&br;%%%};>#namco]]|
-|''112''|''75''|''90''|''66''|''156''|''66''|''31''|''457''|
+|''112''|''75''|''90''|''66''|''156''|''66''|''31''|''478''|
 ~
 |RIGHT:1|>|>|>|>|>|>|>|>|>|>|CENTER:15|c
 |¡ú¡ß|''1''|''2''|''3''|''4''|''5''|''6''|''7''|''8''|''9''|''10''|''Total''|h

@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.1.2''|PS Vita1&br;PS4 1DL&br;NS1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''188''|''590620点''|+連打|960点|343点|
+|''AC15.1.2''|PS Vita1&br;PS4 1DL&br;NS1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''188''|''590620点''|+連打|960点|343点|
 ||PS Vita1亜|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''993460点''}|~|COLOR(#ff3300){4880点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''577350点''|~|950点|250点|
@@ -22,13 +22,12 @@
 -Wii5とその他の作品では、8小節目が少し違っている。
 
 ***その他 [#other]
--楽曲情報は[[おに(表)譜面>難易度表/おに/冬竜 〜Toryu〜]]を参照。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/冬竜 〜Toryu〜#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/冬竜 〜Toryu〜]]
 -[[むずかしい>難易度表/むずかしい/冬竜 〜Toryu〜]]
 -[[おに>難易度表/おに/冬竜 〜Toryu〜]]/[[裏譜面>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]
--[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2012/03/post_283.html]]
 -[[オート動画(現行譜面)>https://youtube.com/watch?v=mi0AQzCwJiE]]
 -[[オート動画(Wii5)>https://www.youtube.com/watch?v=jnuXXtsFxPI]]
 
@@ -39,5 +38,6 @@
 ~Wii5以外
 ~&attachref(furyu_n_ac.png,nolink);
 
-~Wii5譜面 ただし、8小節目のドン(大)は巨大音符です。
+~Wii5譜面
+~8小節目のドン(大)は巨大音符
 ~&attachref(furyu_n.png,nolink);

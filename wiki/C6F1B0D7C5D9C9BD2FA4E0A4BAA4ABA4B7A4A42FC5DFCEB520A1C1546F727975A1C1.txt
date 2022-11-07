@@ -5,7 +5,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC15.1.2''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''355''|''850440点''|＋連打|740点|213点|
-|AC15.2.0|Wii5SP&br;PS Vita1&br;PS4 1DL&br;NS1DL|~|~|~|''846740点''|~|730点|~|
+|AC15.2.0|Wii5SP&br;PS Vita1&br;PS4 1DL&br;NS1DL&br;NS2MP|~|~|~|''846740点''|~|730点|~|
 ||PS Vita1亜|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''999000点''}|~|COLOR(#ff3300){2700点}|CENTER:-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''844220点''|~|660点|180点|
@@ -21,14 +21,13 @@
 -16分が何度も出てくるラストに注意。
 
 ***その他 [#other]
--楽曲情報は[[おに(表)譜面>難易度表/おに/冬竜 〜Toryu〜]]を参照。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/冬竜 〜Toryu〜#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/冬竜 〜Toryu〜]]
 -[[ふつう>難易度表/ふつう/冬竜 〜Toryu〜]]
 -[[おに>難易度表/おに/冬竜 〜Toryu〜]]/[[裏譜面>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]
--[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2012/03/post_283.html]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=AS2NukOO6W0]]
+-[[オート動画(Wii5)>https://www.youtube.com/watch?v=AS2NukOO6W0]]
 
 ***コメント [#comment]
 #pcomment(,noname)

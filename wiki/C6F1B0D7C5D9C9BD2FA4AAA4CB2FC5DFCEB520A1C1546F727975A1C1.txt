@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.1.2''|Wii5SP&br;PS Vita1&br;PS4 1DL&br;NS1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''541''|''1050400点''|600点|160点|
+|''AC15.1.2''|Wii5SP&br;PS Vita1&br;PS4 1DL&br;NS1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''541''|''1050400点''|600点|160点|
 ||PS Vita1亜|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1000930点''}|COLOR(#ff3300){1810点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1051110点''|550点|140点|
@@ -36,8 +36,8 @@
 -[[ふつう>難易度表/ふつう/冬竜 〜Toryu〜]]
 -[[むずかしい>難易度表/むずかしい/冬竜 〜Toryu〜]]
 -おに/[[裏譜面>難易度表/おに/冬竜 〜Toryu〜(裏譜面)]]
--[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20160726010945/http://taikoblog.namco-ch.net/blog/2012/03/post_283.html]]
 -[[オート動画(Wii5)>https://www.youtube.com/watch?v=z6iPQGB503I]]
+-[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20160726010945/http://taikoblog.namco-ch.net/blog/2012/03/post_283.html]]
 
 ***コメント [#comment]
 #pcomment(,noname)

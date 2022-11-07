@@ -59,17 +59,17 @@
 ~ランク表
 |CENTER:40|CENTER:80|CENTER:80|CENTER:50|150|c
 |ランク|演奏難易度|リーグ|必要pts|備考|h
-//|BGCOLOR(gold):~S+|BGCOLOR(#af1e7f):COLOR(#fff):おに|達人リーグ|||
-//|BGCOLOR(gold):~S|~|達人リーグ|2100||
-|BGCOLOR(lightblue):~A+|BGCOLOR(#297ba3):COLOR(#fff):むずかしい|太鼓リーグ|1800||
-|BGCOLOR(lightblue):~A|~|~|1500||
-|BGCOLOR(lightblue):~A-|~|~|1200||
-|BGCOLOR(palegreen):~B+|BGCOLOR(#769e11):COLOR(#fff):ふつう|~|900||
-|BGCOLOR(palegreen):~B|~|~|600||
-|BGCOLOR(palegreen):~B-|~|~|300||
+|BGCOLOR(gold):~S+|BGCOLOR(#af1e7f):COLOR(#fff):おに|達人リーグ|2400||
+|BGCOLOR(gold):~S|~|~|2100||
+|BGCOLOR(silver):~A+|BGCOLOR(#297ba3):COLOR(#fff):むずかしい|太鼓リーグ|1800||
+|BGCOLOR(silver):~A|~|~|1500||
+|BGCOLOR(silver):~A-|~|~|1200||
+|BGCOLOR(silver):~B+|BGCOLOR(#769e11):COLOR(#fff):ふつう|~|900||
+|BGCOLOR(silver):~B|~|~|600||
+|BGCOLOR(silver):~B-|~|~|300||
 |BGCOLOR(salmon):~C|BGCOLOR(#d52700):COLOR(#fff):かんたん|~|0|レート0が初期値|
 
-※A+より上は現時点で到達者が居ないため不明。
+※S+より上は現時点で到達者が居ないため不明。
 
 **オンラインルームマッチ [#room]
 ***概要 [#morerm]
