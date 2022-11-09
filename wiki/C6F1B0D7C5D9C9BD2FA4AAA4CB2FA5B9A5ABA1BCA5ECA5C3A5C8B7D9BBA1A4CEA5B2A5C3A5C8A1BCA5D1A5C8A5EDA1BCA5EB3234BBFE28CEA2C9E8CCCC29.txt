@@ -41,5 +41,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~最後のBPMは暫定。
+~最後のBPMは暫定
 ~&attachref(SCARLET POLICE on GHETTO PATROL_EX_7.png,nolink);
