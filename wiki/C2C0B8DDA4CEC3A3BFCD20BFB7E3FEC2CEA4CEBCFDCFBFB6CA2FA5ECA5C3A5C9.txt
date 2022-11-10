@@ -38,7 +38,7 @@
 |>|CENTER:1||LEFT:60|>|>|>|>|CENTER:42|c
 |>||''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|h
 |>|>|>|>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop);|
-|''16/12/20''|''新''|''ワタリドリ''&br;　　SIZE(11){[Alexandros]}|135|[[★×3>難易度表/かんたん/ワタリドリ]]|[[★×4>難易度表/ふつう/ワタリドリ]]|[[★×6>難易度表/むずかしい/ワタリドリ]]|[[★×9>難易度表/おに/ワタリドリ]]|-|
+|''16/12/20&br;~&br;22/12/10''|''新''|''ワタリドリ''&br;　　SIZE(11){[Alexandros]}|135|[[★×3>難易度表/かんたん/ワタリドリ]]|[[★×4>難易度表/ふつう/ワタリドリ]]|[[★×6>難易度表/むずかしい/ワタリドリ]]|[[★×9>難易度表/おに/ワタリドリ]]|-|
 |BGCOLOR(#ccc):''16/11/15&br;~&br;19/10/23''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''Soup''|BGCOLOR(#ccc): 84|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Soup]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Soup]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Soup]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Soup]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/11/15&br;~&br;19/10/23''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''Swan''&br;　　SIZE(11){[Alexandros]}|BGCOLOR(#ccc): 141※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Swan]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Swan]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Swan]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Swan]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/9/14&br;~&br;21/8/23''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''サイレントマジョリティー''|BGCOLOR(#ccc):123|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/サイレントマジョリティー]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/サイレントマジョリティー]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/サイレントマジョリティー]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/サイレントマジョリティー]]|BGCOLOR(#ccc):-|

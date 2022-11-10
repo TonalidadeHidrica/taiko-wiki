@@ -90,6 +90,7 @@
 ***マイバトル曲として選べない曲 [#unselectable]
 #region
 -&color(black,cyan){''ポップス''};
+--[[I Want You Back>難易度表/おに/I Want You Back]]
 --[[踊>難易度表/おに/踊]]
 --[[シル・ヴ・プレジデント>難易度表/おに/シル・ヴ・プレジデント]]
 --[[HIMAWARI HAPPY>難易度表/おに/HIMAWARI HAPPY]]
