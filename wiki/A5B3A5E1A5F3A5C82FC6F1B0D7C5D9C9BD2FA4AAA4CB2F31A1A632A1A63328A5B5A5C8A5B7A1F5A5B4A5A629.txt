@@ -39,3 +39,4 @@
 -NS2に入ったのこっちのバージョン？ --  &new{2022-11-10 (木) 08:24:17};
 -↑正解 --  &new{2022-11-10 (木) 14:53:57};
 -[[原曲Ver.の小節線が残ってますね>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=pkm121_m0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F1%A1%A62%A1%A63%28%A5%B5%A5%C8%A5%B7%A1%F5%A5%B4%A5%A6%29]] --  &new{2022-11-10 (木) 15:13:40};
+-NS2 初項630 公差165 --  &new{2022-11-11 (金) 18:38:28};

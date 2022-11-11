@@ -35,7 +35,8 @@
 -[[かんたん>難易度表/かんたん/ザストゥールの魔導書]]
 -[[ふつう>難易度表/ふつう/ザストゥールの魔導書]]
 -[[むずかしい>難易度表/むずかしい/ザストゥールの魔導書]]
--[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2011/09/post_248.html]]
+//-[[楽曲紹介>http://taikoblog.namco-ch.net/blog/2011/09/post_248.html]]
+//↑ページが見つからないため非表示
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=IAgf4ZWdzkk&t=13s]]
 -[[オート動画(NS RPG)>https://youtu.be/8QA9Im41QLI]]
 
