@@ -660,21 +660,29 @@
 |¡»|BGCOLOR(gold):|Doppelganger|[[COLOR(blue):Doppelgangers(Î¢)>Æñ°×ÅÙÉ½/¤ª¤Ë/Doppelgangers(Î¢ÉèÌÌ)]]¤ò¥Õ¥ë¥³¥ó¥Ü|~|
 |¡»|BGCOLOR(gold):|Aleph-0¤òÍý²ò¤»¤·¼Ô|[[COLOR(blue):Aleph-0>Æñ°×ÅÙÉ½/¤ª¤Ë/Aleph-0]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 |¡»|BGCOLOR(gold):|¥¹¥«¡¼¥ì¥Ã¥È·Ù»¡¡¢½ÐÆ°¡ª¡ª|[[COLOR(blue):¥¹¥«¡¼¥ì¥Ã¥È·Ù»¡¤Î¥²¥Ã¥È¡¼¥Ñ¥È¥í¡¼¥ë24»þ(Î¢)>Æñ°×ÅÙÉ½/¤ª¤Ë/¥¹¥«¡¼¥ì¥Ã¥È·Ù»¡¤Î¥²¥Ã¥È¡¼¥Ñ¥È¥í¡¼¥ë24»þ(Î¢ÉèÌÌ)]]¤ò¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):Ï»ËÜ¤Îé¬é¯¤ÈºÓ¤Î²Î>Æñ°×ÅÙÉ½/¤ª¤Ë/Ï»ËÜ¤Îé¬é¯¤ÈºÓ¤Î²Î]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):L¦¤chesis>Æñ°×ÅÙÉ½/¤ª¤Ë/L¦¤chesis]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):¥Ø¥¤¥é>Æñ°×ÅÙÉ½/¤ª¤Ë/¥Ø¥¤¥é]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):Illusion Flare>Æñ°×ÅÙÉ½/¤ª¤Ë/Illusion Flare]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):RAINBOW SKY>Æñ°×ÅÙÉ½/¤ª¤Ë/RAINBOW SKY]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):¶¦ÁÕ¸Ýº×>Æñ°×ÅÙÉ½/¤ª¤Ë/¶¦ÁÕ¸Ýº×]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):¥¢¥ó¥Á¥§¥¤¥ó¡¦¥¬¡¼¥ë¡ª>Æñ°×ÅÙÉ½/¤ª¤Ë/¥¢¥ó¥Á¥§¥¤¥ó¡¦¥¬¡¼¥ë¡ª]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):Space-Time Emergency>Æñ°×ÅÙÉ½/¤ª¤Ë/Space-Time Emergency]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):Destination 2F29>Æñ°×ÅÙÉ½/¤ª¤Ë/Destination 2F29]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
-//|¡»|BGCOLOR(gold):||[[COLOR(blue):Illusion Flare>Æñ°×ÅÙÉ½/¤ª¤Ë/Illusion Flare]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):ÇòÆüÌ´¡¢Ì¸±«¤ËÍÏ¤±¤Æ>Æñ°×ÅÙÉ½/¤ª¤Ë/ÇòÆüÌ´¡¢Ì¸±«¤ËÍÏ¤±¤Æ]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):¥¹¥ê¥±¥ó¥é¥ó¥Ê¡¼>Æñ°×ÅÙÉ½/¤ª¤Ë/¥¹¥ê¥±¥ó¥é¥ó¥Ê¡¼]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):¤É¤ó¤Á¤ã¤ó¤·¤¿¤¤¡ª>Æñ°×ÅÙÉ½/¤ª¤Ë/¤É¤ó¤Á¤ã¤ó¤·¤¿¤¤¡ª]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
-//|¡»|BGCOLOR(gold):||[[COLOR(blue):L¦¤chesis>Æñ°×ÅÙÉ½/¤ª¤Ë/L¦¤chesis]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
-//|¡»|BGCOLOR(gold):||[[COLOR(blue):¥Ø¥¤¥é>Æñ°×ÅÙÉ½/¤ª¤Ë/¥Ø¥¤¥é]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):»íëðÅÆÍÉÆ¢ÅÆ>Æñ°×ÅÙÉ½/¤ª¤Ë/»íëðÅÆÍÉÆ¢ÅÆ]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):>Æñ°×ÅÙÉ½/¤ª¤Ë/]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):>Æñ°×ÅÙÉ½/¤ª¤Ë/]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):>Æñ°×ÅÙÉ½/¤ª¤Ë/]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
 //|¡»|BGCOLOR(gold):||[[COLOR(blue):>Æñ°×ÅÙÉ½/¤ª¤Ë/]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):>Æñ°×ÅÙÉ½/¤ª¤Ë/]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):>Æñ°×ÅÙÉ½/¤ª¤Ë/]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):>Æñ°×ÅÙÉ½/¤ª¤Ë/]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):(Î¢)>Æñ°×ÅÙÉ½/¤ª¤Ë/(Î¢ÉèÌÌ)]]¤ò¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):>Æñ°×ÅÙÉ½/¤ª¤Ë/]]¤òÆñ°×ÅÙ¤ª¤Ë¤Ç¥Õ¥ë¥³¥ó¥Ü|~|
+//|¡»|BGCOLOR(gold):||[[COLOR(blue):(Î¢)>Æñ°×ÅÙÉ½/¤ª¤Ë/(Î¢ÉèÌÌ)]]¤ò¥Õ¥ë¥³¥ó¥Ü|~|
 |BGCOLOR(grey):¡»|BGCOLOR(gold):|BGCOLOR(grey):¤Þ¤ê¤â¸¦µæ½ê ¿¦°÷|BGCOLOR(grey):ÂÀ¸Ý¥Á¡¼¥à¤«¤é¤ÎÄ©Àï¡ª­¡¤ò¥¯¥ê¥¢|BGCOLOR(grey):|
 |BGCOLOR(grey):¡»|BGCOLOR(gold):|BGCOLOR(grey):¾ô²½¤Þ¤Ç¤¢¤È3ÉÃ|BGCOLOR(grey):RED 5.08¤ÇÂÀ¸Ý¥Á¡¼¥à¤«¤é¤ÎÄ©Àï¡ª­£¤ò¥¯¥ê¥¢|~|
 |BGCOLOR(grey):¡»|BGCOLOR(gold):|BGCOLOR(grey):3500¥³¥ó¥ÜÃ£À®!!|BGCOLOR(grey):Ä©Àï¡ª3500¥³¥ó¥Ü¡ª¡ª¤ò¥¯¥ê¥¢|~|

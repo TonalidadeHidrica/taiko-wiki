@@ -14,7 +14,7 @@
 ||DS2SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''279640点''|~|300点|80点|
 |COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''374000点''}|~|COLOR(#ff3300){1360点}|-|
 |AC15.1.0||~|~|~|''371380点''|~|430点|125点|
-|AC15.2.0|Wii U1SP&br;3DS2&br;PS Vita1&br;PS4 1&br;NS1DL&br;PTB|~|~|~|''371360点''|~|~|~|
+|AC15.2.0|Wii U1SP&br;3DS2&br;PS Vita1&br;PS4 1&br;NS1DL&br;PTB&br;NS RPG&br;NS2MP|~|~|~|''371360点''|~|~|~|
 |WM||BGCOLOR(orangered):''M&#250;sicas originais&br;da NAMCO''|~|~|~|~|~|~|
 ||PS Vita1亜|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''992750点''}|~|COLOR(#ff3300){3610点}|-|
