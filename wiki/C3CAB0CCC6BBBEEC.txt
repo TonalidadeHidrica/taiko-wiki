@@ -157,6 +157,7 @@
 
 ***COLOR(#d0284d){ニ}COLOR(#ffaf25){ジ}COLOR(#74e621){イ}COLOR(#4dacff){ロ}COLOR(#8060fe){Ver.} 段位道場2022 本編 [#normal]
 -2022年6月4日より全世界同時((日本版・アジア版同時))にスタートし十段まで先行登場。玄人以上のお題は2022年9月19日のアップデートにて全世界同時追加。
+-[[最高段位分布>https://twitter.com/taiko_team/status/1591744436173967360?cxt=HHwWgMDUtbPIgZcsAAAA]] ※2022年10月31日時点
 
 |CENTER:10|CENTER:150|CENTER:100|CENTER:75|>|>|>|CENTER:60|c
 |>|>|>|''課題曲情報''|>|>|>|''お題''|h

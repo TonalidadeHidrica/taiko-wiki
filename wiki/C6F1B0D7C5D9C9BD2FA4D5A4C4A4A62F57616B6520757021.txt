@@ -1,5 +1,5 @@
 *Wake up! [#title]
--「[[''ワンピース''>アニメ別収録曲#onepiece]]」OP17。
+-アニメ「[[''ONE PIECE''>アニメ別収録曲#onepiece]]」のOP17。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -19,12 +19,13 @@
 -ゴーゴーでたまに出てくる8分の2連打ラッシュに注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Wake up!]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Wake up!#other]]を参照。
 
+----
 -[[かんたん>難易度表/かんたん/Wake up!]]
 -[[むずかしい>難易度表/むずかしい/Wake up!]]
 -[[おに>難易度表/おに/Wake up!]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=hWZFE_HMMeo]]
+-[[オート動画(Wii U2)>http://www.youtube.com/watch?v=hWZFE_HMMeo]]
 
 ***コメント [#comment]
 #pcomment(,noname)

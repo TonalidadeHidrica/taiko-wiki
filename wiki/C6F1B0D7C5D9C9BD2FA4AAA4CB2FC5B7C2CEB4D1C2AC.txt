@@ -32,7 +32,7 @@
 
 ***その他 [#other]
 -アーティストは、[[''BUMP OF CHICKEN''>アーティスト別収録曲#bump]]。
---作詞・作曲は、藤原基央。
+--作詞・作曲は、藤原基央。編曲は、BUMP OF CHICKEN。
 -譜面作成は、[[''キジキジ''>譜面作成者一覧/キジキジ]]。
 -21小節付近の公式歌詞は「ベルト''に''」であるが、太鼓の達人に収録されている現行音源のカバーでは「ベルト''の''」と歌い間違いがある。
 --CS4以前の旧音源のカバーでは、「ベルト''に''」と正しく歌われている。
@@ -54,7 +54,7 @@
 -[[ふつう>難易度表/ふつう/天体観測]]
 -[[むずかしい>難易度表/むずかしい/天体観測]]
 -[[プレイ動画(新譜面・AC15)>https://www.youtube.com/watch?v=Oem2v0aJbag]]
--[[オート動画(新譜面・WiiU2)>https://www.youtube.com/watch?v=p2ajyzoZtOw]]
+-[[オート動画(新譜面・Wii U2)>https://www.youtube.com/watch?v=p2ajyzoZtOw]]
 -[[プレイ動画(旧譜面・CS4)>https://www.youtube.com/watch?v=x9qaJBDgxik]]
 
 ***コメント [#comment]
