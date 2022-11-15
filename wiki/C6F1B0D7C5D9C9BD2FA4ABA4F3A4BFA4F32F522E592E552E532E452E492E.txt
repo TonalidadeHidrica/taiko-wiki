@@ -1,5 +1,4 @@
 *R.Y.U.S.E.I. [#title]
--「''TCK(東京シティ競馬)2014''」キャンペーンソング。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -21,7 +20,7 @@
 -序盤とラストで1回ずつ出てくる4分の複合4連打(COLOR(blue){○○○}COLOR(red){●})に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/R.Y.U.S.E.I.#other]]を参照。
+-楽曲情報は[[おに>難易度表/おに/R.Y.U.S.E.I.#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/R.Y.U.S.E.I.]]
@@ -34,4 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&ref(ryusei_e.png,nolink);
+~&ref(ryusei_e.png,nolink);

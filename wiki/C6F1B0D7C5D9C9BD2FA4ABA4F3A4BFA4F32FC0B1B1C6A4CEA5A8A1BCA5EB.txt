@@ -30,4 +30,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(hkyell_e.png,nolink);
+~&attachref(hkyell_e.png,nolink);
