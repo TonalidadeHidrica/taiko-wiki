@@ -46,7 +46,8 @@
 |''AIAIAI (feat. 中田ヤスタカ)''|128|[[★×3>難易度表/かんたん/AIAIAI (feat.中田ヤスタカ)]]|[[★×3>難易度表/ふつう/AIAIAI (feat.中田ヤスタカ)]]|[[★×4>難易度表/むずかしい/AIAIAI (feat.中田ヤスタカ)]]|[[★×7>難易度表/おに/AIAIAI (feat.中田ヤスタカ)]]|-|
 |''Aleph-0''|9.38-399?|[[★×5>難易度表/かんたん/Aleph-0]]|[[★×7>難易度表/ふつう/Aleph-0]]|[[★×8>難易度表/むずかしい/Aleph-0]]|[[★×10>難易度表/おに/Aleph-0]]|-|
 |''Alice or Guilty''|178|[[★×4>難易度表/かんたん/Alice or Guilty]]|[[★×5>難易度表/ふつう/Alice or Guilty]]|[[★×5>難易度表/むずかしい/Alice or Guilty]]|[[★×8>難易度表/おに/Alice or Guilty]]|-|
-|''ALiVE''|170|[[★×3>難易度表/かんたん/ALiVE]]|[[★×4>難易度表/ふつう/ALiVE]]|[[★×6>難易度表/むずかしい/ALiVE]]|[[★×9>難易度表/おに/ALiVE]]|-|
+|''ALIVE''(リコイス・リコイル)|174-180|[[★×2>難易度表/かんたん/ALIVE]]|[[★×3>難易度表/ふつう/ALIVE]]|[[★×5>難易度表/むずかしい/ALIVE]]|[[★×6>難易度表/おに/ALIVE]]|-|
+|''ALiVE''(REDALiCE)|170|[[★×3>難易度表/かんたん/ALiVE]]|[[★×4>難易度表/ふつう/ALiVE]]|[[★×6>難易度表/むずかしい/ALiVE]]|[[★×9>難易度表/おに/ALiVE]]|-|
 |''Allegro Cantabile''|168|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Allegro Cantabile]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Allegro Cantabile]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Allegro Cantabile]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Allegro Cantabile]]|-|
 |''ALMIGHTY〜仮面の約束''|154|[[★×1>難易度表/かんたん/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×1>難易度表/ふつう/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×4>難易度表/むずかしい/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×6>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]|-|
 |''Aloft in the wind''|201|[[★×3>難易度表/かんたん/Aloft in the wind]]|[[★×5>難易度表/ふつう/Aloft in the wind]]|[[★×6>難易度表/むずかしい/Aloft in the wind]]|[[★×7>難易度表/おに/Aloft in the wind]]|-|

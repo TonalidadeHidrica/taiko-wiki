@@ -338,6 +338,7 @@
 |''Act! Addict! Actors!''|86-172|[[★×2>難易度表/かんたん/Act! Addict! Actors!]]|[[★×3>難易度表/ふつう/Act! Addict! Actors!]]|[[★×4>難易度表/むずかしい/Act! Addict! Actors!]]|[[★×5>難易度表/おに/Act! Addict! Actors!]]|[[★×8>難易度表/おに/Act! Addict! Actors!(裏譜面)]]|
 |''ADAMAS''|191|[[★×4>難易度表/かんたん/ADAMAS]]|[[★×4>難易度表/ふつう/ADAMAS]]|[[★×4>難易度表/むずかしい/ADAMAS]]|[[★×8>難易度表/おに/ADAMAS]]|-|
 |''AIAIAI (feat. 中田ヤスタカ)''|128|[[★×3>難易度表/かんたん/AIAIAI (feat.中田ヤスタカ)]]|[[★×3>難易度表/ふつう/AIAIAI (feat.中田ヤスタカ)]]|[[★×4>難易度表/むずかしい/AIAIAI (feat.中田ヤスタカ)]]|[[★×7>難易度表/おに/AIAIAI (feat.中田ヤスタカ)]]|-|
+|''ALIVE''|174-180|[[★×2>難易度表/かんたん/ALIVE]]|[[★×3>難易度表/ふつう/ALIVE]]|[[★×5>難易度表/むずかしい/ALIVE]]|[[★×6>難易度表/おに/ALIVE]]|-|
 |''Allegro Cantabile''|168|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Allegro Cantabile]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Allegro Cantabile]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Allegro Cantabile]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/Allegro Cantabile]]|-|
 |''ALMIGHTY〜仮面の約束''|154|[[★×1>難易度表/かんたん/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×1>難易度表/ふつう/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×4>難易度表/むずかしい/ALMIGHTY〜仮面の約束 feat.川上洋平]]|[[★×6>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]|-|
 |''ALONES''|190※|[[★×3>難易度表/かんたん/ALONES]]|[[★×4>難易度表/ふつう/ALONES]]|[[★×6>難易度表/むずかしい/ALONES]]|[[★×7>難易度表/おに/ALONES]]|-|

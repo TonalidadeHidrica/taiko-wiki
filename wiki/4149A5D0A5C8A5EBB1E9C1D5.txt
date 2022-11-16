@@ -32,6 +32,7 @@
 
 #region(3区間の曲一覧)
 -&color(black,#49d5eb){''ポップス''};
+--恋ゲバ
 --ホロメン音頭
 --Just Awake
 --Savage Love
@@ -149,6 +150,7 @@
 --ロックン・ハート！
 --みらくる☆トラベル
 -&color(white,#fe90d2){''アニメ''};
+--ALIVE
 --チキチキバンバン
 --Just Awake
 --THE POLiCY

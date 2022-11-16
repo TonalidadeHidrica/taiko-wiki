@@ -17,7 +17,7 @@
 -[[かんたん>難易度表/かんたん/CANDY CANDY]]
 -[[むずかしい>難易度表/むずかしい/CANDY CANDY]]
 -[[おに>難易度表/おに/CANDY CANDY]]
--[[オート動画(niconico)>http://www.nicovideo.jp/watch/sm33922841?from=107]]
+-[[オート動画(niconico(1:40&#12316;))>http://www.nicovideo.jp/watch/sm33922841?from=107]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

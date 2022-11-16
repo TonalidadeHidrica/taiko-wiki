@@ -24,6 +24,7 @@
 -アーティストは、[[''REDALiCE''>参加アーティスト一覧/REDALiCE]]([[HARDCORE TANO*C>参加アーティスト一覧/HARDCORE TANO*C]])。
 -譜面作成は、[[''まりも研究所''>譜面作成者一覧/まりも研究所]]。
 --同氏の作成譜面が判明するのは約3年2ヶ月ぶりである。
+-アニメの[[ALIVE>難易度表/おに/ALIVE]]との混同に注意。
 -この譜面をフルコンボすると、''称号''「''太鼓は生き甲斐''」を獲得できる。
 -曲IDは、''ralive''。
 
@@ -33,7 +34,7 @@
 -[[むずかしい>難易度表/むずかしい/ALiVE]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=UzdY0vsYyds&t=9s]]
 -[[公式音源動画>https://www.youtube.com/watch?v=Igw7x_q_SY8]]
--[[楽曲・譜面紹介>https://taiko-ch.net/blog/?m=20200814]]
+-[[楽曲・譜面紹介>https://taiko-ch.net/blog/?p=4697]]
 
 ***コメント [#comment]
 #pcomment(,noname)

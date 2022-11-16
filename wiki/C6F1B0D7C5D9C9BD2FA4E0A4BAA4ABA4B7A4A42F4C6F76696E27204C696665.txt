@@ -1,8 +1,11 @@
-*Lovin' Life [#title]
-***詳細・攻略 [#more]
--詳細は以下の通り：
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''AC10''-12増|CENTER:★×5|CENTER:''289''|CENTER:''750520点''|CENTER:720点|CENTER:200点|
+*&ruby(ラビン){Lovin'}; &ruby(ライフ){Life}; [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC10''-12増|BGCOLOR(cyan):''J-POP''|★×5|''289''|''750520点''|720点|200点|
+
+***譜面構成・攻略 [#more]
 -BPMは96。
 --速度が遅いので「ばいそく」を付けた方がやりやすいかもしれない。
 -''完全精度曲''のひとつ。
@@ -16,15 +19,13 @@
 -以上のことからフルコン難易度は高く、''下手な★×6よりも難しいので注意''。
 
 ***その他 [#other]
--曲名の読み方は、''ラビン ライフ''。
--アーティストは、''FUNKY MONKEY BABYS''。
---作曲は、FUNKY MONKEY BABYS・菅谷豊・クボケンジ。
---メンバーの一人、DJケミカルが実家のお寺の住職になるための準備で音楽活動が困難となるため、2013年6月1日・2日に行われた東京ドームのラストコンサートをもって解散した。
--曲IDは、''lovin''
+-楽曲情報は[[おに譜面>難易度表/おに/Lovin' Life#other]]を参照。
+
+----
 -[[かんたん>難易度表/かんたん/Lovin' Life]]
 -[[ふつう>難易度表/ふつう/Lovin' Life]]
 -[[おに>難易度表/おに/Lovin' Life]]
--[[プレイ動画>http://www.youtube.com/watch?v=CqwJSXbCwFA]]
+-[[プレイ動画(AC10)>http://www.youtube.com/watch?v=CqwJSXbCwFA]]
 
 ***コメント [#comment]
 #pcomment(,noname)
