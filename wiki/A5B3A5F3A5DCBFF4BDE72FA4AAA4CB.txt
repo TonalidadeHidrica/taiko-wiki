@@ -900,7 +900,7 @@
 |PS4 1&br;NS1|1608|[[ヒプノシスマイク -Division Battle Anthem->難易度表/おに/ヒプノシスマイク -Division Battle Anthem-]]|
 |NS RPG&br;(3DS2)|1000|[[弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|
 |NS RPG&br;(3DS3)|1408|[[Silent Jealousy(裏譜面)>難易度表/おに/Silent Jealousy(裏譜面)]]|
-|PTB|1400|[[The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|
+|PTB|1400|[[The Future of the 太鼓ドラム(裏譜面)>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]||
 |Xbox1|1160|[[ネクロファンタジア 〜 Arr.Demetori>難易度表/おに/ネクロファンタジア 〜 Arr.Demetori]]|
 |NS2|1487|[[そつおめしき・ふる>難易度表/おに/そつおめしき・ふる]]|
 
@@ -1012,7 +1012,7 @@
 |BGCOLOR(#cc8aeb):&color(white){ゲーム&br;ミュージック};|1194|[[怒槌>難易度表/おに/怒槌]]|1208|[[BLAZING VORTEX>難易度表/おに/BLAZING VORTEX(裏譜面)]]||
 |BGCOLOR(#0acc2a):バラエティ|1608|[[ヒプノシスマイク -Division Battle Anthem->難易度表/おに/ヒプノシスマイク -Division Battle Anthem-]]|1217|[[Calamity Fortune>難易度表/おに/Calamity Fortune(裏譜面)]]||
 |BGCOLOR(#ded523):クラシック|1000|[[弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|1038|[[美しく忙しきドナウ>難易度表/おに/美しく忙しきドナウ(裏譜面)]]|表裏共にAC16ではナムコオリジナルにも属する|
-|BGCOLOR(#ff7028):ナムコ&br;オリジナル|1487|[[そつおめしき・ふる>難易度表/おに/そつおめしき・ふる]]|1305|[[モノクロボイス>難易度表/おに/モノクロボイス(裏譜面)]]|裏：AC16ではボーカロイド曲にも属する|
+|BGCOLOR(#ff7028):ナムコ&br;オリジナル|1487|[[そつおめしき・ふる>難易度表/おに/そつおめしき・ふる]]|1400|[[The Future of the 太鼓ドラム>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]||
 |BGCOLOR(#fdc000):キッズ|1062|[[オーブの祈り>難易度表/おに/オーブの祈り]]|1035|[[ウルトラマンX>難易度表/おに/ウルトラマンX(裏譜面)]]|表裏共にAC15グリーンVer.以前のジャンルはアニメ|
 
 **ジャンル別最低コンボ数[#gemin]

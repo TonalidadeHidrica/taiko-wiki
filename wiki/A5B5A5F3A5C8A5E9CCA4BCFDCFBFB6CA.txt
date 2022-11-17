@@ -2,7 +2,7 @@
 -ナムコオリジナル、BNSI((BANDAI NAMCO Studios Inc.))が関わったクラシックやゲームミュージックなどの中で、サウンドトラックに収録されていないものをまとめました。
 --版権曲は含みません。
 
-//2022/11/09までの収録曲はたぶんすべて入れました。
+//2022/11/17までの収録曲はたぶんすべて入れました。
 #contents
 -[[サントラ収録曲]]
 
@@ -198,6 +198,7 @@
 |~||[[神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]|-|あず♪ & Masahiro "Godspeed" Aoki|[[公式音源(YouTube)>https://youtu.be/HBc_QxP2haE]]|ゲームSize|
 |BGCOLOR(#0acc2a):|BGCOLOR(#ff7028):|[[Doppelgangers>難易度表/おに/Doppelgangers]]|赤川ねね|南ゆに|[[公式MV(YouTube)>https://youtu.be/wtDb4rrWu70]]&br;COLOR(red){【''閲覧注意''】}(([[映像には暴力的表現が含まれている。>https://twitter.com/Alice_Orchestra/status/1575761654650142720?cxt=HHwWgIDUwYm4nd4rAAAA]]))|ゲームSize((曲としては[[Full>https://twitter.com/Alice_Orchestra/status/1575757841817821184?cxt=HHwWgICz2ZHam94rAAAA]]))|
 |~|~|~|~|~|[[自動生成音源(YouTube)>https://youtu.be/0XpFOVMCSQs]]|~|
+|BGCOLOR(#ff7028):||[[六本の薔薇と采の歌>難易度表/おに/六本の薔薇と采の歌]]|薔薇★Dice|steμ|[[公式MV(YouTube)>https://youtu.be/YGjP9j5IxDc]]|ロングVer.|
 
 **収録されない可能性が高いもの [#possibility]
 |1|>|>|>|>|c

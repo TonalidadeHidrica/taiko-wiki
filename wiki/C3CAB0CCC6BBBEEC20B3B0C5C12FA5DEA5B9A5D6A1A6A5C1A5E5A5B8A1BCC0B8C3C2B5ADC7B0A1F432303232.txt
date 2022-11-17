@@ -14,7 +14,7 @@
 |>|>|>|>|CENTER:|c
 |||条件1|条件2|条件3|条件4(連打数)|h
 |''【粋】''|BGCOLOR(red):COLOR(black):''合格条件''|''魂ゲージ76%以上''|''スコア1976726点以上'' |||
-|~|BGCOLOR(gold):COLOR(black):''金合格条件''|''魂ゲージ100%以上''|''スコア2230501~2230910点のどれか((はっきりした数値は未確定。ソースはプライバシーの問題もあると思われるため非表示))以上''|||
+|~|BGCOLOR(gold):COLOR(black):''金合格条件''|''魂ゲージ98%以上''|''スコア2230000点以上''|||
 //[[ソース1>https://youtu.be/Uht1XIxocy0?t=311]]、[[ソース2>https://youtu.be/7nyLB05xEnM?t=120]]
 |BGCOLOR(#eeeeee):''【雅】''|BGCOLOR(red):COLOR(black):''合格条件''|BGCOLOR(#eeeeee):''魂ゲージ98%以上''|BGCOLOR(#eeeeee):''可726未満''|BGCOLOR(#eeeeee):''叩けた数1976以上''||
 |~|BGCOLOR(gold):COLOR(black):''金合格条件''|BGCOLOR(#eeeeee):''魂ゲージ100%以上''|BGCOLOR(#eeeeee): ''可490~520のどれか((はっきりした数値は未確定。ソースはプライバシーの問題もあると思われるため非表示))未満''|BGCOLOR(#eeeeee):''叩けた数2000以上''||

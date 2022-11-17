@@ -31,3 +31,6 @@
 
 ***譜面 [#score]
 ~&attachref(kirby3_m.png,nolink);
+
+~見た目重視
+~&attachref(kirby3_mitame.png,nolink);

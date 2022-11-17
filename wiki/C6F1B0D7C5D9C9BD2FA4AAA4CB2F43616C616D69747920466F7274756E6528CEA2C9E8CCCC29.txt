@@ -6,7 +6,7 @@
 |''AC15.11.9''|PS4 1DL|BGCOLOR(lime):''バラエティ''|★×10|''1217''|''1205850点''|＋連打|290点|68点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1001300点''}|~|COLOR(#ff3300){800点}|-|
 |AC16.1.0||BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|~|''998140点''|~|820点|-|
-|AC16.2.0||BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
+|AC16.2.0|Xbox1DL|BGCOLOR(lime):''バラエティ''|~|~|~|~|~|~|
 ||iOS&br;AR|~|~|~|''1207110点''|~|220点|70点|
 
 ***譜面構成・攻略 [#capture]
@@ -51,7 +51,8 @@
 
 ***コメント [#comment]
 -COLOR(#33f){''必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
--COLOR(red){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
+-COLOR(red){''難易度比較のコメントが特に発生しやすいページなので注意してください。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
