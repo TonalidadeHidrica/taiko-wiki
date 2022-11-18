@@ -13,20 +13,20 @@
 -平均密度は、''約3.58打/秒''。
 
 ***その他 [#other]
--ACには収録されていないが、何故か[[公式サイトの太鼓の達人6の収録曲リスト>https://taiko.namco-ch.net/music/tk6.html]]にこの曲の名前がある。
 -作曲は、''[[ビゼー>作曲家別収録曲#bizet]]''。
 --[[カルメン 組曲一番終曲>../カルメン組曲一番終曲]]と同じく、オペラ「カルメン」で演奏される楽曲である。
 -「カルメン」の原作者は''メリメ''。
+-ACには収録されていないが、何故か[[公式サイトの太鼓の達人6の収録曲リスト>https://taiko.namco-ch.net/music/tk6.html]]にこの曲の名前がある。
 -曲IDは、''clsc2''。
 
 ----
 -[[かんたん>難易度表/かんたん/「カルメン」より闘牛士の歌]]
 -[[ふつう>難易度表/ふつう/「カルメン」より闘牛士の歌]]
 -[[むずかしい>難易度表/むずかしい/「カルメン」より闘牛士の歌]]
--[[プレイ動画>https://www.youtube.com/watch?v=zWrZ1IKQPMA]]
+-[[プレイ動画(CS4)>https://www.youtube.com/watch?v=zWrZ1IKQPMA]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(clsc2.png,nolink);
+~&attachref(clsc2_2.png,nolink);

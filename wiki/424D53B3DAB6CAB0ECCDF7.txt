@@ -58,7 +58,7 @@
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かん&br;たん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずか&br;しい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに&br;(裏)''|作品記事|h
 |''もぺもぺ''&br;SIZE(11){LeaF}|6.25-200|[[★×4>難易度表/かんたん/もぺもぺ]]|[[★×5>難易度表/ふつう/もぺもぺ]]|[[★×7>難易度表/むずかしい/もぺもぺ]]|[[★×10>難易度表/おに/もぺもぺ]]|-|[[BMS>http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116]]|
 |''Calamity Fortune''&br;SIZE(11){LeaF}|200|[[★×4>難易度表/かんたん/Calamity Fortune]]|[[★×6>難易度表/ふつう/Calamity Fortune]]|[[★×7>難易度表/むずかしい/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune]]|[[★×10>難易度表/おに/Calamity Fortune(裏譜面)]]|[[BMS>http://yaruki0.sakura.ne.jp/event/ondanyugi5/impression.cgi?no=45]]|
-|''Aleph-0''&br;SIZE(11){LeaF}|10.48-399?|[[★×5>難易度表/かんたん/Aleph-0]]|[[★×7>難易度表/ふつう/Aleph-0]]|[[★×8>難易度表/むずかしい/Aleph-0]]|[[★×10>難易度表/おに/Aleph-0]]|-|[[BMS>https://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110]]|
+|''Aleph-0''&br;SIZE(11){LeaF}|10?-397.5?|[[★×5>難易度表/かんたん/Aleph-0]]|[[★×7>難易度表/ふつう/Aleph-0]]|[[★×8>難易度表/むずかしい/Aleph-0]]|[[★×10>難易度表/おに/Aleph-0]]|-|[[BMS>https://manbow.nothing.sh/event/event.cgi?action=More_def&num=498&event=110]]|
 
 **初出イベント別 [#event]
 ***BMS OF FIGHTERSシリーズ [#bof]
@@ -77,7 +77,7 @@
 |>|>|>|>|>|>|>|>|BGCOLOR(black):COLOR(red):''大血戦 -THE BMS OF FIGHTERS ULTIMATE-''&aname(bofu2015);|
 |''Dreadnought''&br;SIZE(11){Mastermind(xi+nora2r)}|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|''5位''|''4位''|
 |>|>|>|>|>|>|>|>|BGCOLOR(forestgreen):COLOR(white):''BOFU2016 -Legendary Again-''&aname(bofu2017);|
-|&color(red){''Aleph-0''};&br;SIZE(11){LeaF}|10.48-399?|[[★×5>難易度表/かんたん/Aleph-0]]|[[★×7>難易度表/ふつう/Aleph-0]]|[[★×8>難易度表/むずかしい/Aleph-0]]|[[★×10>難易度表/おに/Aleph-0]]|-|COLOR(red):''1位''|13位|
+|&color(red){''Aleph-0''};&br;SIZE(11){LeaF}|10?-397.5?|[[★×5>難易度表/かんたん/Aleph-0]]|[[★×7>難易度表/ふつう/Aleph-0]]|[[★×8>難易度表/むずかしい/Aleph-0]]|[[★×10>難易度表/おに/Aleph-0]]|-|COLOR(red):''1位''|13位|
 |>|>|>|>|>|>|>|>|BGCOLOR(goldenrod):''BOFU2017 -LEGENDA EST A MYTH-''&aname(bofu2017);|
 |''もぺもぺ''&br;SIZE(11){LeaF}|6.25-200|[[★×4>難易度表/かんたん/もぺもぺ]]|[[★×5>難易度表/ふつう/もぺもぺ]]|[[★×7>難易度表/むずかしい/もぺもぺ]]|[[★×10>難易度表/おに/もぺもぺ]]|-|''3位''|421位|
 

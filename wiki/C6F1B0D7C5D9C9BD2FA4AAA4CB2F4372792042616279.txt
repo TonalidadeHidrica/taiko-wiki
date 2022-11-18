@@ -11,7 +11,7 @@
 -BPMは100。
 
 ***その他 [#other]
--アーティストは、[[''Official髭男dism''>アーティスト別収録曲#hige]]。
+-アーティストは、[[''Official髭男dism''>アーティスト別収録曲#higedan]]。
 --作詞・作曲は、藤原聡。編曲は、Official髭男dism。
 --''[[本人音源>本人音源曲]]''である。
 -曲IDは、''ohdcry''。
@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(ohdcry_m.png,nolink);
+&attachref(ohdcry_m.png,nolink);
