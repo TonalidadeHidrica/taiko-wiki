@@ -1,5 +1,4 @@
 *&ruby(ステイ){STAY}; &ruby(チューン){TUNE}; [#title]
--ホンダ「''VEZEL 「世界ヴェゼル」篇''」CMソング。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -19,13 +18,13 @@
 -フルコンボ難易度は妥当だが、速度が少し遅いのでクリアは下位クラスだろう。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/STAY TUNE#other]]を参照。
+-楽曲情報は[[おに>難易度表/おに/STAY TUNE#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/STAY TUNE]]
 -[[ふつう>難易度表/ふつう/STAY TUNE]]
 -[[おに>難易度表/おに/STAY TUNE]]
--[[オート動画(4:15〜)>http://www.youtube.com/watch?v=AxLMy3T3P6Y]]
+-[[オート動画(iOS,4:15〜)>http://www.youtube.com/watch?v=AxLMy3T3P6Y]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

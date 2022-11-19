@@ -9,7 +9,7 @@
 ||iOS&br;AR|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||BGCOLOR(cyan):''J-POP''|~|~|COLOR(#ff3300){''1108800点''}|COLOR(#ff3300){1100点}|-|
 |AC15.1.0|Wii U1DL&br;3DS2DL&br;3DS3DL&br;PS Vita1DL|~|★×8|~|''1054380点''|330点|78点|
-||PS4 1&br;NS2|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|
+||PS4 1&br;NS2&br;PTB|BGCOLOR(cyan):''ポップス''|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1008000点''}|COLOR(#ff3300){1000点}|-|
 |AC16.1.0||BGCOLOR(cyan):''ポップス''|~|~|''1008990点''|1010点|-|
 

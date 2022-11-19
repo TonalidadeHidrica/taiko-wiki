@@ -51,6 +51,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~1小節の前に3/4拍子の非表示小節あり
-~最後の小節線は4/4
-&attachref(Scars of FAUNA_小節線修正.png,nolink);
+~1小節目の前に3/4拍子の非表示の小節線がある
+~最後の小節線は4/4拍子
+~&attachref(Scars of FAUNA_小節線修正.png,nolink);

@@ -20,13 +20,13 @@
 --この8連打は大音符なので、iOS/ARでは1個でも特良を逃すと痛い失点になる可能性がある。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/STAY TUNE#other]]を参照。
+-楽曲情報は[[おに>難易度表/おに/STAY TUNE#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/STAY TUNE]]
 -[[むずかしい>難易度表/むずかしい/STAY TUNE]]
 -[[おに>難易度表/おに/STAY TUNE]]
--[[オート動画(2:08〜)>http://www.youtube.com/watch?v=AxLMy3T3P6Y]]
+-[[オート動画(iOS,2:08〜)>http://www.youtube.com/watch?v=AxLMy3T3P6Y]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

@@ -796,6 +796,7 @@
 |gdm2|[[僕たちの行方>難易度表/おに/僕たちの行方]]|~|
 |gdm3|[[哀戦士>難易度表/おに/哀戦士]]|~|
 |gdmbld|[[セルリアン>難易度表/おに/セルリアン]]|~|
+|gdmchr|[[シャアが来る>難易度表/おに/シャアが来る]]|~|
 |gdmorp|[[Raise your flag>難易度表/おに/Raise your flag]]|~|
 |gdmrec|[[BLAZING>難易度表/おに/BLAZING]]|~|
 |gdmtb|[[Groovy Duel>難易度表/おに/Groovy Duel]]|~|
