@@ -7,7 +7,7 @@
 
 -凡例&br;COLOR(red){''新''} ・・・新曲&br;COLOR(blue){''初''} ・・・AC初収録曲&br;COLOR(orange){''再''} ・・・復活曲
 **過去のアップデート履歴 [#kako]
--''AC15　（COLOR(orangered){無印} 〜 COLOR(#029a43){グリーンVer.}）''
+-''AC15　（COLOR(#ff7028){無印} 〜 COLOR(#029a43){グリーンVer.}）''
 --[[太鼓の達人 新筐体 アップデート履歴(無印)>太鼓の達人 新筐体 アップデート履歴/初代]]
 --[[太鼓の達人 新筐体 アップデート履歴(KATSU-DON)>太鼓の達人 新筐体 アップデート履歴/KATSU-DON]]
 --[[太鼓の達人 新筐体 アップデート履歴(ソライロ)>太鼓の達人 新筐体 アップデート履歴/ソライロ]]
@@ -33,12 +33,12 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V12.22)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''宿命''>難易度表/おに/宿命]]|Official髭男dism|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''宿命''>難易度表/おに/宿命]]|Official髭男dism|
 |~|COLOR(orange):''再''|[[''それが大事''>難易度表/おに/それが大事]]||
 |BGCOLOR(hotpink):''アニメ''|COLOR(red):''新''|[[''Realize''>難易度表/おに/Realize]]|「Re:ゼロから始める異世界生活」より|
-|BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''テオ''>難易度表/おに/テオ]]|Omoi feat.初音ミク|
-|BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''テーマ・オブ・半沢直樹 〜Main Title〜''>難易度表/おに/テーマ・オブ・半沢直樹 〜Main Title〜]]|TBS系日曜劇場「半沢直樹」より|
-|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''あまてらすJK''>難易度表/おに/あまてらすJK]]|Takahiro Akuta feat. さちこ|
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''テオ''>難易度表/おに/テオ]]|Omoi feat.初音ミク|
+|BGCOLOR(#0acc2a):''バラエティ''|COLOR(red):''新''|[[''テーマ・オブ・半沢直樹 〜Main Title〜''>難易度表/おに/テーマ・オブ・半沢直樹 〜Main Title〜]]|TBS系日曜劇場「半沢直樹」より|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''あまてらすJK''>難易度表/おに/あまてらすJK]]|Takahiro Akuta feat. さちこ|
 |~|COLOR(red):''新''|[[''赤と白薔薇の魔女''>難易度表/おに/赤と白薔薇の魔女]]|Dokuwaki|
 |~|COLOR(red):''新''|[[''傾奇者、罷り通る！''>難易度表/おに/傾奇者、罷り通る！]]|かぼちゃ|
 |~|COLOR(red):''新''|[[''LECIEL GLISSANDO''>難易度表/おに/LECIEL GLISSANDO]]|よみぃ|
@@ -100,7 +100,7 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/1配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''彁''>難易度表/おに/彁]]|LeaF|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''彁''>難易度表/おに/彁]]|LeaF|
 
 -2021年4月1日に[[公開されたQRコード>https://twitter.com/taiko_team/status/1377425481855799299]]をコードリーダーで読み込むことで、この楽曲の入ったフォルダ「''ぼつでーた''」が登場する。
 --エイプリルフールネタだが、現時点((2021年4月1日時点))でQRコードは無期限で使用可能とされている。なお、一度本曲を遊ぶと常駐解禁となり、QRコードは不要になる。
@@ -115,17 +115,17 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/10配信曲''|h
-|BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''テルミービート''>難易度表/おに/テルミービート]]|キノシタ feat. 鏡音リン|
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''テルミービート''>難易度表/おに/テルミービート]]|キノシタ feat. 鏡音リン|
 
 **第123回アップデート GAME VERSION:13.15(2021/4/21実施) [#update123]
 -楽曲配信99。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V13.15)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''うっせぇわ''>難易度表/おに/うっせぇわ]]|Ado|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''うっせぇわ''>難易度表/おに/うっせぇわ]]|Ado|
 |~|COLOR(blue):''初''|[[''猫''>難易度表/おに/猫]]||
 |BGCOLOR(hotpink):''アニメ''|COLOR(blue):''初''|[[''廻廻奇譚''>難易度表/おに/廻廻奇譚]]|TVアニメ『呪術廻戦』第1クールオープニングテーマ|
-|BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''twinkle night (feat. somunia)''>難易度表/おに/twinkle night (feat. somunia)]]／[[''(裏譜面)''>難易度表/おに/twinkle night (feat. somunia)(裏譜面)]]|nyankobrq & yaca|
+|BGCOLOR(#0acc2a):''バラエティ''|COLOR(red):''新''|[[''twinkle night (feat. somunia)''>難易度表/おに/twinkle night (feat. somunia)]]／[[''(裏譜面)''>難易度表/おに/twinkle night (feat. somunia)(裏譜面)]]|nyankobrq & yaca|
 |~|COLOR(red):''新''|[[''Connected World''>難易度表/おに/Connected World]]|somunia|
 -[[アンパンマンのマーチ>難易度表/おに/アンパンマンのマーチ]]、[[ヒーリングっど&#9829;プリキュア Touch!!>難易度表/おに/ヒーリングっど・プリキュア Touch!!]]、[[ALMIGHTY〜仮面の約束>難易度表/おに/ALMIGHTY〜仮面の約束 feat.川上洋平]]が、ジャンル「アニメ」にも分類された(非告知)。
 -[[轟け！太鼓の達人>難易度表/おに/轟け！太鼓の達人]]のサブタイトルが「''太鼓 de タイムトラベル20's / steμ×マスブチ×ササオカ feat. 谷本貴義＆たかはし智秋''」に変更された(非告知)。
@@ -133,35 +133,35 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/24配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''パラレルロリポップ''>難易度表/おに/パラレルロリポップ]]|太鼓 de タイムトラベル10's / Sho Okada|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''パラレルロリポップ''>難易度表/おに/パラレルロリポップ]]|太鼓 de タイムトラベル10's / Sho Okada|
 
 **第124回アップデート GAME VERSION:14.06(2021/4/26実施) [#update124]
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''4/28配信曲''|h
-|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''なんどでも笑おう''>難易度表/おに/なんどでも笑おう]]|THE IDOLM@STER FIVE STARS!!!!!|
+|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''なんどでも笑おう''>難易度表/おに/なんどでも笑おう]]|THE IDOLM@STER FIVE STARS!!!!!|
 -[[「アイドルマスター」シリーズ 15周年コラボ>https://taiko.namco-ch.net/taiko/special/imas15th/]]の開催と同時に、一部曲の専用踊り子(アイマス)が復活した(非告知)。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''5/1配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Central Dogma Pt.2''>難易度表/おに/Central Dogma Pt.2]]|黒沢ダイスケ|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Central Dogma Pt.2''>難易度表/おに/Central Dogma Pt.2]]|黒沢ダイスケ|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''5/15配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''しょうゆ de Show you!''>難易度表/おに/しょうゆ de Show you!]]|BNSI（矢野義人） feat.steμ&フナディ|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''しょうゆ de Show you!''>難易度表/おに/しょうゆ de Show you!]]|BNSI（矢野義人） feat.steμ&フナディ|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''5/17配信曲''|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''月色Chainon''>難易度表/おに/月色Chainon]]|ももいろクローバーZ 劇場版「美少女戦士セーラームーンEternal」より|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''月色Chainon''>難易度表/おに/月色Chainon]]|ももいろクローバーZ 劇場版「美少女戦士セーラームーンEternal」より|
 
 **第125回アップデート GAME VERSION:15.11(2021/5/26実施) [#update125]
 -楽曲配信100。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V15.11)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''裸の心''>難易度表/おに/裸の心]]|TBS系 火曜ドラマ「私の家政夫ナギサさん」主題歌|
-|BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''KING''>難易度表/おに/KING]]|Kanaria feat.GUMI|
-|BGCOLOR(yellow):''キッズ''|COLOR(red):''新''|[[''Viva! Spark!トロピカル〜ジュ！プリキュア''>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア]]／[[''(裏譜面)''>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア(裏譜面)]]||
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''裸の心''>難易度表/おに/裸の心]]|TBS系 火曜ドラマ「私の家政夫ナギサさん」主題歌|
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''KING''>難易度表/おに/KING]]|Kanaria feat.GUMI|
+|BGCOLOR(#fdc000):''キッズ''|COLOR(red):''新''|[[''Viva! Spark!トロピカル〜ジュ！プリキュア''>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア]]／[[''(裏譜面)''>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア(裏譜面)]]||
 |~|COLOR(red):''新''|[[''全力全開！ゼンカイジャー''>難易度表/おに/全力全開！ゼンカイジャー]]|「機界戦隊ゼンカイジャー」より|
 
 -''アップデート翌日''に、どんメダルショップのラインナップ変更(追加) と、[[段位道場2021>段位道場]]実装 が行われた。
@@ -170,25 +170,25 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''5/27配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''Amber Light''>難易度表/おに/Amber Light]]|BNSI(中鶴潤一)|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''Amber Light''>難易度表/おに/Amber Light]]|BNSI(中鶴潤一)|
 |~|COLOR(blue):''初''|[[''ボクらのまえに道はある''>難易度表/おに/ボクらのまえに道はある]]|HONOKA|
 |~|COLOR(orange):''再''|[[''どんちゃん音頭''>難易度表/おに/どんちゃん音頭]]||
-|BGCOLOR(silver):''ボーカロイド&#8482;曲&br;(ショップ)''|COLOR(red):''新''|[[''4+1のそれぞれの未来''>難易度表/おに/4+1のそれぞれの未来]]|太鼓 de タイムトラベル00's / cosMo＠暴走P feat.初音ミク|
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲&br;(ショップ)''|COLOR(red):''新''|[[''4+1のそれぞれの未来''>難易度表/おに/4+1のそれぞれの未来]]|太鼓 de タイムトラベル00's / cosMo＠暴走P feat.初音ミク|
 
 -[[「アイドルマスター」シリーズ 15周年コラボ>https://taiko.namco-ch.net/taiko/special/imas15th/]]の開催終了日が2021年6月7日から2021年6月30日まで延長された。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''6/5配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Hold me tight''>難易度表/おに/Hold me tight]]|太鼓 de タイムトラベル90's / Tatsh&musica with パークマンサー|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Hold me tight''>難易度表/おに/Hold me tight]]|太鼓 de タイムトラベル90's / Tatsh&musica with パークマンサー|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''6/18配信曲''|h
-|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''ゆらめ''>難易度表/おに/ゆらめ]]|ミフメイ 「シンクロニカ」より|
+|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''ゆらめ''>難易度表/おに/ゆらめ]]|ミフメイ 「シンクロニカ」より|
 
 -2021/6/23 7:00をもって、以下の2曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V15.11)|h
-|BGCOLOR(cyan):''ポップス''|[[''みんながみんな英雄''>難易度表/おに/みんながみんな英雄]]|au「三太郎シリーズ」CMソング|
+|BGCOLOR(#49d5eb):''ポップス''|[[''みんながみんな英雄''>難易度表/おに/みんながみんな英雄]]|au「三太郎シリーズ」CMソング|
 |~|[[''365日の紙飛行機''>難易度表/おに/365日の紙飛行機]]||
 
 **第126回アップデート GAME VERSION:16.16(2021/6/30実施) [#update126]
@@ -196,9 +196,9 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V16.16)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''チューリングラブ feat.Sou / ナナヲアカリ''>難易度表/おに/チューリングラブ feat.Sou ／ ナナヲアカリ]]|ナユタン星人 / 「理系が恋に落ちたので証明してみた。」より|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''チューリングラブ feat.Sou / ナナヲアカリ''>難易度表/おに/チューリングラブ feat.Sou ／ ナナヲアカリ]]|ナユタン星人 / 「理系が恋に落ちたので証明してみた。」より|
 |BGCOLOR(hotpink):''アニメ''|COLOR(red):''新''|[[''Make debut!''>難易度表/おに/Make debut!]]|TVアニメ『ウマ娘 プリティーダービー』OP主題歌より|
-|BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''ベノム(feat.flower)''>難易度表/おに/ベノム(feat.flower)]]|かいりきベア|
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''ベノム(feat.flower)''>難易度表/おに/ベノム(feat.flower)]]|かいりきベア|
 
 -「むずかしさからえらぶ」機能が新要素も加わって復活した。((演奏ゲームのみ、AIバトル演奏は2021/7/28のアップデートで実装))
 --むずかしさ「おに裏」を選べるようになった。
@@ -208,26 +208,26 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''7/3配信曲''|h
-|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''駆け抜けてゆく''>難易度表/おに/駆け抜けてゆく]]|すえP 「シンクロニカ」より|
+|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''駆け抜けてゆく''>難易度表/おに/駆け抜けてゆく]]|すえP 「シンクロニカ」より|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''7/8配信曲''|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''乱数調整のリバースシンデレラ''>難易度表/おに/乱数調整のリバースシンデレラ]]／[[''(裏譜面)''>難易度表/おに/乱数調整のリバースシンデレラ(裏譜面)]] |粗品 feat. 彩宮すう(CV:竹達彩奈)|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''乱数調整のリバースシンデレラ''>難易度表/おに/乱数調整のリバースシンデレラ]]／[[''(裏譜面)''>難易度表/おに/乱数調整のリバースシンデレラ(裏譜面)]] |粗品 feat. 彩宮すう(CV:竹達彩奈)|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''7/17配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Donder Time''>難易度表/おに/Donder Time]]|太鼓 de タイムトラベル80's / おおがみまさこ feat.団地ノ宮琴子|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Donder Time''>難易度表/おに/Donder Time]]|太鼓 de タイムトラベル80's / おおがみまさこ feat.団地ノ宮琴子|
 
 **第127回アップデート GAME VERSION:17.11(2021/7/28実施) [#update127]
 -楽曲配信102。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V17.11)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''群青''>難易度表/おに/群青]]|YOASOBI|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''群青''>難易度表/おに/群青]]|YOASOBI|
 |~|COLOR(red):''新''|[[''夏祭り / ジッタリン・ジン''>難易度表/おに/夏祭り ／ ジッタリン・ジン]]／[[''(裏譜面)''>難易度表/おに/夏祭り ／ ジッタリン・ジン(裏譜面)]]||
 |~|COLOR(red):''新''|[[''睡蓮花''>難易度表/おに/睡蓮花]]||
-|BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''ヴァンパイア''>難易度表/おに/ヴァンパイア]]|DECO*27 feat.初音ミク|
-|BGCOLOR(yellow):''キッズ''|COLOR(red):''新''|[[''カラフル・パーティ''>難易度表/おに/カラフル・パーティ]]|HIMAWARIちゃんねる|
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''ヴァンパイア''>難易度表/おに/ヴァンパイア]]|DECO*27 feat.初音ミク|
+|BGCOLOR(#fdc000):''キッズ''|COLOR(red):''新''|[[''カラフル・パーティ''>難易度表/おに/カラフル・パーティ]]|HIMAWARIちゃんねる|
 
 -「むずかしさから曲をえらぶ」に機能追加が行われた。
 --むずかしさや星の数を選んでいる際に、対象曲の数が表示されるようになった。
@@ -235,25 +235,25 @@
 -一部楽曲のメインジャンルが変更された。
 |150|CENTER:75|CENTER:75|c
 |''楽曲''|''旧メインジャンル''|''新メインジャンル''|h
-|[[''HIMAWARI HAPPY''>難易度表/おに/HIMAWARI HAPPY]]|BGCOLOR(cyan):''ポップス''|BGCOLOR(yellow):''キッズ''|
+|[[''HIMAWARI HAPPY''>難易度表/おに/HIMAWARI HAPPY]]|BGCOLOR(#49d5eb):''ポップス''|BGCOLOR(#fdc000):''キッズ''|
 
 -「土用の丑の日」にちなんで、２年ぶりに「うなぎのたましいロック」が期間限定解放された。
 |CENTER:100|CENTER:50||c
 |>|>|CENTER:''7/28〜9/28限定配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(orange):''再''|[[''【限定】 うなぎのたましいロック''>難易度表/おに/うなぎのたましいロック]]|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(orange):''再''|[[''【限定】 うなぎのたましいロック''>難易度表/おに/うなぎのたましいロック]]|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''8/7配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''恋はドント・ダウト''>難易度表/おに/恋はドント・ダウト]]|太鼓 de タイムトラベル70's / Kawagen Kollagen with yuzuki|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''恋はドント・ダウト''>難易度表/おに/恋はドント・ダウト]]|太鼓 de タイムトラベル70's / Kawagen Kollagen with yuzuki|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''8/16配信曲''|h
-|BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''幻想に咲いた花''>難易度表/おに/幻想に咲いた花]]|岸田教団&THE明星ロケッツ×草野華余子 「東方ダンマクカグラ」より|
+|BGCOLOR(#0acc2a):''バラエティ''|COLOR(red):''新''|[[''幻想に咲いた花''>難易度表/おに/幻想に咲いた花]]|岸田教団&THE明星ロケッツ×草野華余子 「東方ダンマクカグラ」より|
 |~|COLOR(red):''新''|[[''マツヨイナイトバグ''>難易度表/おに/マツヨイナイトバグ]]|COOL&CREATE feat.ビートまりおとまろん 「東方ダンマクカグラ」より|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''8/23配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Hello, Worldooon!!''>難易度表/おに/Hello, Worldooon!!]]|Capchii feat. Kuroa*|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Hello, Worldooon!!''>難易度表/おに/Hello, Worldooon!!]]|Capchii feat. Kuroa*|
 |~|COLOR(red):''新''|[[''Aloft in the wind''>難易度表/おに/Aloft in the wind]]|Qutabire|
 |~|COLOR(red):''新''|[[''Emma''>難易度表/おに/Emma]]|BlackY feat. Risa Yuzuki|
 
@@ -265,18 +265,18 @@
 -2021/8/24 7:00をもって、以下の4曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V17.11)|h
-|BGCOLOR(cyan):''ポップス''|[[''U.S.A.''>難易度表/おに/U.S.A.]]||
+|BGCOLOR(#49d5eb):''ポップス''|[[''U.S.A.''>難易度表/おに/U.S.A.]]||
 |~|[[''サイレントマジョリティー''>難易度表/おに/サイレントマジョリティー]]||
 |~|[[''Lemon''>難易度表/おに/Lemon]]|米津玄師|
-|BGCOLOR(yellow):''キッズ''|[[''ププッとフムッとかいけつダンス''>難易度表/おに/ププッとフムッとかいけつダンス]]|「おしりたんてい」より|
+|BGCOLOR(#fdc000):''キッズ''|[[''ププッとフムッとかいけつダンス''>難易度表/おに/ププッとフムッとかいけつダンス]]|「おしりたんてい」より|
 
 **第128回アップデート GAME VERSION:18.13(2021/9/1実施) [#update128]
 -楽曲配信103。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V18.13)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(blue):''初''|[[''Walking with you''>難易度表/おに/Walking with you]]||
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''鼓舞曲「閻魔」''>難易度表/おに/鼓舞曲「閻魔」]]|山本真央樹|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(blue):''初''|[[''Walking with you''>難易度表/おに/Walking with you]]||
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''鼓舞曲「閻魔」''>難易度表/おに/鼓舞曲「閻魔」]]|山本真央樹|
 
 -特集フォルダ「世界大会の課題曲」が追加された。
 --カーソルを合わせた際の専用ボイスの設定もある。
@@ -296,88 +296,88 @@
 --どんメダルショップラインナップ更新に合わせて、''所持どんメダルがリセット''された。「夏」の楽曲は''引き続き交換可能''で、''必要どんメダル量が減らされた''。
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''9/8配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''刻竜 〜Kokuryu〜''>難易度表/おに/刻竜 〜Kokuryu〜]]|あず♪|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''刻竜 〜Kokuryu〜''>難易度表/おに/刻竜 〜Kokuryu〜]]|あず♪|
 |~|COLOR(red):''新''|[[''†バチ!ムチ!?マッスルキングダム†''>難易度表/おに/†バチ!ムチ!?マッスルキングダム†]]|溝口ゆうま feat. 大瀬良あい&#9825;まるもこ|
 |~|COLOR(red):''新''|[[''魑魅魍魎''>難易度表/おに/魑魅魍魎]]|Laur|
 |~|COLOR(red):''新''|[[''憎悪と醜悪の花束''>難易度表/おに/憎悪と醜悪の花束]]／[[''(裏譜面)''>難易度表/おに/憎悪と醜悪の花束(裏譜面)]]|t+pazolite|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''9/18配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''大冒険タツドン''>難易度表/おに/大冒険タツドン]]|太鼓 de タイムトラベル60's / 田島勝朗 feat. シックスティーズ・クワイヤーズ|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''大冒険タツドン''>難易度表/おに/大冒険タツドン]]|太鼓 de タイムトラベル60's / 田島勝朗 feat. シックスティーズ・クワイヤーズ|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''9/25配信曲''|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''bad guy''>難易度表/おに/bad guy]]||
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''bad guy''>難易度表/おに/bad guy]]||
 |~|COLOR(red):''新''|[[''DDU-DU DDU-DU''>難易度表/おに/DDU-DU DDU-DU]]||
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''10/2配信曲''|h
-|BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''BATTLE NO.1''>難易度表/おに/BATTLE NO.1]]|TANO*C Sound Team|
+|BGCOLOR(#0acc2a):''バラエティ''|COLOR(red):''新''|[[''BATTLE NO.1''>難易度表/おに/BATTLE NO.1]]|TANO*C Sound Team|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''10/16配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''一世風靡''>難易度表/おに/一世風靡]]|太鼓 de タイムトラベル江戸 / 西込加久見|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''一世風靡''>難易度表/おに/一世風靡]]|太鼓 de タイムトラベル江戸 / 西込加久見|
 
 **第129回アップデート GAME VERSION:19.12(2021/10/20実施) [#update129]
 -楽曲配信104。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V19.12)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''第六感''>難易度表/おに/第六感]]|Reol|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''第六感''>難易度表/おに/第六感]]|Reol|
 |~|COLOR(red):''新''|[[''怪獣少女は火を吹かない''>難易度表/おに/怪獣少女は火を吹かない]]／[[''(裏譜面)''>難易度表/おに/怪獣少女は火を吹かない(裏譜面)]]|粗品 feat. 初音ミク|
 
 -「[[''ワンピース100巻記念　太鼓の達人コラボ''>https://taiko.namco-ch.net/taiko/special/one-piece/]]　第２弾」が開始された。(11月30日まで・''日本国内のみ'')
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''11/6配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''平等院鳳凰ドン vs 鳥獣戯カッ''>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|太鼓 de タイムトラベル平安 / コバヤシユウヤ(IOSYS) feat. miko|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''平等院鳳凰ドン vs 鳥獣戯カッ''>難易度表/おに/平等院鳳凰ドン vs 鳥獣戯カッ]]|太鼓 de タイムトラベル平安 / コバヤシユウヤ(IOSYS) feat. miko|
 
 -2021/10/20 7:00をもって、以下の5曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V19.12)|h
-|BGCOLOR(cyan):''ポップス''|[[''ガラスを割れ！''>難易度表/おに/ガラスを割れ！]]||
+|BGCOLOR(#49d5eb):''ポップス''|[[''ガラスを割れ！''>難易度表/おに/ガラスを割れ！]]||
 |~|[[''じょいふる''>難易度表/おに/じょいふる]]||
 |BGCOLOR(hotpink):''アニメ''|[[''ゆーがらお友達''>難易度表/おに/ゆーがらお友達]]|「妖怪ウォッチ」より|
 |~|[[''創聖のアクエリオン''>難易度表/おに/創聖のアクエリオン]]||
-|BGCOLOR(darkorchid):''ゲームミュージック''|[[''「ポケットモンスター サン・ムーン」メドレー''>難易度表/おに/「ポケットモンスター サン・ムーン」メドレー]]||
+|BGCOLOR(#cc8aeb):''ゲームミュージック''|[[''「ポケットモンスター サン・ムーン」メドレー''>難易度表/おに/「ポケットモンスター サン・ムーン」メドレー]]||
 
 **第130回アップデート GAME VERSION:20.07(2021/11/17実施) [#update130]
 -楽曲配信105。
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V20.07)|h
-|BGCOLOR(yellow):''キッズ''|COLOR(red):''新''|[[''Baby Shark（ベイビー・シャーク）''>難易度表/おに/Baby Shark（ベイビー・シャーク）]]||
-|BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''グッバイ宣言''>難易度表/おに/グッバイ宣言]]|Chinozo feat. flower|
-|BGCOLOR(lime):''バラエティ&br;(裏譜面追加)''|COLOR(red):''新''|[[''マツヨイナイトバグ(裏譜面)''>難易度表/おに/マツヨイナイトバグ(裏譜面)]]|COOL&CREATE feat.ビートまりおとまろん 「東方ダンマクカグラ」より|
+|BGCOLOR(#fdc000):''キッズ''|COLOR(red):''新''|[[''Baby Shark（ベイビー・シャーク）''>難易度表/おに/Baby Shark（ベイビー・シャーク）]]||
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''グッバイ宣言''>難易度表/おに/グッバイ宣言]]|Chinozo feat. flower|
+|BGCOLOR(#0acc2a):''バラエティ&br;(裏譜面追加)''|COLOR(red):''新''|[[''マツヨイナイトバグ(裏譜面)''>難易度表/おに/マツヨイナイトバグ(裏譜面)]]|COOL&CREATE feat.ビートまりおとまろん 「東方ダンマクカグラ」より|
 
 -11月18日より、[[''東方コラボ 第7弾【2021】''>https://taiko.namco-ch.net/taiko/special/touhou2021/]]が開始された。（2022年1月16日まで）
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''11/18配信曲''|h
-|BGCOLOR(lime):''バラエティ''|COLOR(red):''新''|[[''ウサテイ''>難易度表/おに/ウサテイ]]|東方Projectアレンジ あまね＋ビートまりお (COOL&CREATE)|
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''大好きな太鼓の音''>難易度表/おに/大好きな太鼓の音]]／[[''(裏譜面)''>難易度表/おに/大好きな太鼓の音(裏譜面)]]|太鼓の達人20周年記念ソング / 粗品 feat. どんちゃん|
+|BGCOLOR(#0acc2a):''バラエティ''|COLOR(red):''新''|[[''ウサテイ''>難易度表/おに/ウサテイ]]|東方Projectアレンジ あまね＋ビートまりお (COOL&CREATE)|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''大好きな太鼓の音''>難易度表/おに/大好きな太鼓の音]]／[[''(裏譜面)''>難易度表/おに/大好きな太鼓の音(裏譜面)]]|太鼓の達人20周年記念ソング / 粗品 feat. どんちゃん|
 
 -延期となっている''[[ドンだー世界一決定戦2021>https://taiko.namco-ch.net/taiko/wcs2021/]]''の「エリア大会課題曲/決勝大会課題曲」で使用予定の楽曲が配信された。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''11/20配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''燃えよサファイア''>難易度表/おに/燃えよサファイア]]|庭師|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''燃えよサファイア''>難易度表/おに/燃えよサファイア]]|庭師|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''11/27配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''punk bastards''>難易度表/おに/punk bastards]]|Sobrem|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''punk bastards''>難易度表/おに/punk bastards]]|Sobrem|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''12/4配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''仮想現実のテレスコープ''>難易度表/おに/仮想現実のテレスコープ]]|deli.|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''仮想現実のテレスコープ''>難易度表/おに/仮想現実のテレスコープ]]|deli.|
 
 -「クリスマス」にちなんで、今年も「ジングルベル第765番」が期間限定解放された。
 |CENTER:100|||c
 |>|>|CENTER:''期間限定配信楽曲''(12/1〜12/25)|h
-|BGCOLOR(lime):''バラエティ''|[[''【限定】 ジングルベル第765番''>難易度表/おに/ジングルベル第765番]]|>|
+|BGCOLOR(#0acc2a):''バラエティ''|[[''【限定】 ジングルベル第765番''>難易度表/おに/ジングルベル第765番]]|>|
 
 -2021/11/22 7:00をもって、以下の2曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V20.07)|h
-|BGCOLOR(yellow):''キッズ''|[[''Over “Quartzer”''>難易度表/おに/Over “Quartzer”]]|「仮面ライダージオウ」より|
+|BGCOLOR(#fdc000):''キッズ''|[[''Over “Quartzer”''>難易度表/おに/Over “Quartzer”]]|「仮面ライダージオウ」より|
 |BGCOLOR(hotpink):''アニメ''|[[''NATSU☆しようぜ！''>難易度表/おに/NATSU☆しようぜ！]]|IDOLiSH7 feat.TRIGGER 「アイドリッシュセブン」より|
 
 **第131回アップデート GAME VERSION:21.10(2021/12/15実施) [#update131]
@@ -385,18 +385,18 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V21.10)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(blue):''初''|[[''踊''>難易度表/おに/踊]]|Ado|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(blue):''初''|[[''踊''>難易度表/おに/踊]]|Ado|
 |~|COLOR(red):''新''|[[''YONA YONA DANCE''>難易度表/おに/YONA YONA DANCE]]|和田アキ子|
 |~|COLOR(blue):''初''|[[''シル・ヴ・プレジデント''>難易度表/おに/シル・ヴ・プレジデント]]|P丸様。|
 |BGCOLOR(hotpink):''アニメ''|COLOR(red):''新''|[[''僕の戦争''>難易度表/おに/僕の戦争]]|「進撃の巨人 Final&#83;eason」より|
 |~|COLOR(red):''新''|[[''明け星''>難易度表/おに/明け星]]||
-|BGCOLOR(yellow):''キッズ''|COLOR(red):''新''|[[''Fun!Fun!Fun! 〜夢∞〜''>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|「ビッ友×戦士 キラメキパワーズ！」より|
+|BGCOLOR(#fdc000):''キッズ''|COLOR(red):''新''|[[''Fun!Fun!Fun! 〜夢∞〜''>難易度表/おに/Fun!Fun!Fun! 〜夢∞〜]]|「ビッ友×戦士 キラメキパワーズ！」より|
 |~|COLOR(red):''新''|[[''liveDevil''>難易度表/おに/liveDevil]]|「仮面ライダーリバイス」より|
 -[[Phantom Rider>難易度表/おに/Phantom Rider]]と[[Heaven’s Rider>難易度表/おに/Heaven's Rider]]にサブタイトルが追加された(非告知)。
 -一部楽曲のメインジャンルが変更された(非告知)。
 |150|CENTER:75|CENTER:75|c
 |''楽曲''|''旧メインジャンル''|''新メインジャンル''|h
-|[[''HIMAWARI HAPPY''>難易度表/おに/HIMAWARI HAPPY]]|BGCOLOR(yellow):''キッズ''|BGCOLOR(cyan):''ポップス''|
+|[[''HIMAWARI HAPPY''>難易度表/おに/HIMAWARI HAPPY]]|BGCOLOR(#fdc000):''キッズ''|BGCOLOR(#49d5eb):''ポップス''|
 -''12/16(日本のアップデート翌日)より''、[[''AI粗品バトル演奏''>https://taiko.namco-ch.net/taiko/special/ai_soshina/]]が追加された。
 --粗品(霜降り明星)の腕前を再現した「AI粗品」とバトルできるモード。
 --好きな楽曲・むずかしさで参加可能。バナパスポートも不要で、誰でも楽しめるモードである。
@@ -405,7 +405,7 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''12/18配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''たいこの2000''>難易度表/おに/たいこの2000]]|太鼓 de タイムトラベル紀元前 / LindaAI-CUE|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''たいこの2000''>難易度表/おに/たいこの2000]]|太鼓 de タイムトラベル紀元前 / LindaAI-CUE|
 
 -どんだーひろばにて、一部のプレイヤーで12/22に「プレイデータが更新されないときがある」、12/24に「楽曲一覧ページにて楽曲が表示されない」という不具合が発生した。((いずれも当日中に修正された))
 
@@ -413,18 +413,18 @@
 --どんメダルショップラインナップ更新に合わせて、''所持どんメダルがリセット''された。「秋」の楽曲は''引き続き交換可能''で、''必要どんメダル量が減らされた''。
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''12/23配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''Agent Hustle & Dr. Hassle''>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]／[[''(裏譜面)''>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|Cory Tarrow(BNSI)|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル&br;(ショップ)''|COLOR(red):''新''|[[''Agent Hustle & Dr. Hassle''>難易度表/おに/Agent Hustle ＆ Dr. Hassle]]／[[''(裏譜面)''>難易度表/おに/Agent Hustle ＆ Dr. Hassle(裏譜面)]]|Cory Tarrow(BNSI)|
 |~|COLOR(red):''新''|[[''Spectral Rider''>難易度表/おに/Spectral Rider]]|濱本理央(BNSI)|
 |~|COLOR(blue):''初''|[[''Solitude Star''>難易度表/おに/Solitude Star]]|春先 x beet|
 |~|COLOR(blue):''初''|[[''どんちゃん世界旅行''>難易度表/おに/どんちゃん 世界旅行]]||
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''2022/1/1配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''ex寅 Trap!!''>難易度表/おに/ex寅 Trap!!]]|かねこちはる|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''ex寅 Trap!!''>難易度表/おに/ex寅 Trap!!]]|かねこちはる|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''1/15配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''The Future of the 太鼓ドラム''>難易度表/おに/The Future of the 太鼓ドラム]]／[[''(裏譜面)''>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|太鼓 de タイムトラベル2765 / かめりあ|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''The Future of the 太鼓ドラム''>難易度表/おに/The Future of the 太鼓ドラム]]／[[''(裏譜面)''>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|太鼓 de タイムトラベル2765 / かめりあ|
 
 -日本時間 1/17 7:00より、「ドンだー世界一決定戦2016 出場枠争奪戦」以来、''5年7か月ぶり''に「ドンだーひろば公式大会」機能を使用した、
 &br;[[ドンだー世界一決定戦2021【外伝】@オンライン>ドンだーひろば 公式大会#taikai13]] がスタートした。(日本時間 2/19 25:59:59まで)
@@ -432,7 +432,7 @@
 -2021/12/24 7:00をもって、以下の4曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V21.10)|h
-|BGCOLOR(cyan):''ポップス''|[[''Candy Pop''>難易度表/おに/Candy Pop]]||
+|BGCOLOR(#49d5eb):''ポップス''|[[''Candy Pop''>難易度表/おに/Candy Pop]]||
 |~|[[''アイノカタチ feat.HIDE(GReeeeN)''>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]||
 |~|[[''LOSER''>難易度表/おに/LOSER]]|米津玄師|
 |BGCOLOR(hotpink):''アニメ''|[[''ミッション！ 健・康・第・イチ''>難易度表/おに/ミッション！ 健・康・第・イチ]]|「はたらく細胞」より|
@@ -440,7 +440,7 @@
 -2022/1/24 7:00をもって、以下の2曲がサヨナラとなった。
 |CENTER:100|||c
 |>|>|CENTER:''サヨナラ曲''(V21.10)|h
-|BGCOLOR(yellow):''キッズ''|[[''アローラ!!''>難易度表/おに/アローラ!!]]|「ポケットモンスター サン＆ムーン」より|
+|BGCOLOR(#fdc000):''キッズ''|[[''アローラ!!''>難易度表/おに/アローラ!!]]|「ポケットモンスター サン＆ムーン」より|
 |BGCOLOR(hotpink):''アニメ''|[[''ADAMAS''>難易度表/おに/ADAMAS]]|「ソードアート・オンライン アリシゼーション」より|
 
 **第132回アップデート GAME VERSION:22.11(2022/1/26実施) [#update132]
@@ -448,7 +448,7 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V22.11)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''スキスキ星人''>難易度表/おに/スキスキ星人]]|すとぷり / ナユタン星人|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''スキスキ星人''>難易度表/おに/スキスキ星人]]|すとぷり / ナユタン星人|
 
 -「ランダムに曲をえらぶ」機能の拡張が行われた。
 --従来は「むずかしさからえらぶ」フォルダ内でしか使用できなかった本機能が、使用できる場所が増えた。
@@ -461,23 +461,23 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''1/29配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Hello, Mr.JOKER''>難易度表/おに/Hello, Mr.JOKER]]|打打だいず|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''Hello, Mr.JOKER''>難易度表/おに/Hello, Mr.JOKER]]|打打だいず|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''2/5配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''アンリミテッドゲームズ''>難易度表/おに/アンリミテッドゲームズ]]|Ponchi♪ feat. はぁち|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''アンリミテッドゲームズ''>難易度表/おに/アンリミテッドゲームズ]]|Ponchi♪ feat. はぁち|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''2/12配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''晨星ト鵺''>難易度表/おに/晨星ト鵺]]|Silentroom|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''晨星ト鵺''>難易度表/おに/晨星ト鵺]]|Silentroom|
 
 **第133回アップデート GAME VERSION:23.04(2022/2/16実施) [#update133]
 -楽曲配信108。
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''バージョンアップ配信曲''(V23.04)|h
-|BGCOLOR(cyan):''ポップス''|COLOR(red):''新''|[[''ストロベリー☆プラネット！''>難易度表/おに/ストロベリー☆プラネット！]]|すとぷり / ナユタン星人|
-|BGCOLOR(silver):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''シンデレラ''>難易度表/おに/シンデレラ]]／[[''(裏譜面)''>難易度表/おに/シンデレラ(裏譜面)]]|DECO*27 feat. 初音ミク|
+|BGCOLOR(#49d5eb):''ポップス''|COLOR(red):''新''|[[''ストロベリー☆プラネット！''>難易度表/おに/ストロベリー☆プラネット！]]|すとぷり / ナユタン星人|
+|BGCOLOR(#cbcfde):''ボーカロイド&#8482;曲''|COLOR(red):''新''|[[''シンデレラ''>難易度表/おに/シンデレラ]]／[[''(裏譜面)''>難易度表/おに/シンデレラ(裏譜面)]]|DECO*27 feat. 初音ミク|
 
 -上記の配信曲が追加されていないという不具合が確認された。
 --筐体の再起動で修正される。
@@ -486,8 +486,8 @@
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''2/21配信曲''|h
-|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''GO ON 〜未来へ〜''>難易度表/おに/GO ON 〜未来へ〜]]|太鼓 de タイムトラベル2022 / steμ respecting タイムトラベラーズ|
+|BGCOLOR(#ff7028):''ナムコ&br;オリジナル''|COLOR(red):''新''|[[''GO ON 〜未来へ〜''>難易度表/おに/GO ON 〜未来へ〜]]|太鼓 de タイムトラベル2022 / steμ respecting タイムトラベラーズ|
 
 |CENTER:100|CENTER:50||250|c
 |>|>|>|CENTER:''3/3配信曲''|h
-|BGCOLOR(darkorchid):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''業 -善なる神とこの世の悪について-''>難易度表/おに/業 -善なる神とこの世の悪について-]]／[[''(裏譜面)''>難易度表/おに/業 -善なる神とこの世の悪について-(裏譜面)]]|光吉猛修 VS 穴山大輔 「CHUNITHM」より|
+|BGCOLOR(#cc8aeb):''ゲーム&br;ミュージック''|COLOR(red):''新''|[[''業 -善なる神とこの世の悪について-''>難易度表/おに/業 -善なる神とこの世の悪について-]]／[[''(裏譜面)''>難易度表/おに/業 -善なる神とこの世の悪について-(裏譜面)]]|光吉猛修 VS 穴山大輔 「CHUNITHM」より|
