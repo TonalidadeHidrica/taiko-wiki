@@ -18,9 +18,8 @@
 -普通→達人→達人→達人→達人→達人→普通→以降達人維持で最もコンボ数が多くなる(不可も含めた場合)。
 
 ***その他 [#other]
--楽曲情報は[[表譜面>難易度表/むずかしい/DON'T CUT]]を参照。
--略称は、''裏切るな''(DON'T CUT(切るな)の裏譜面であるため)。
--曲IDは、''exgoth''。
+-楽曲情報は[[おに(裏)譜面>難易度表/むずかしい/DON'T CUT(裏譜面)#other]]を参照。
+
 ----
 -[[表譜面>難易度表/かんたん/DON'T CUT]]/[[かんたん>難易度表/かんたん/DON'T CUT(裏譜面)]]
 -[[表譜面>難易度表/ふつう/DON'T CUT]]/[[ふつう>難易度表/ふつう/DON'T CUT(裏譜面)]]
@@ -29,8 +28,8 @@
 -オート動画
 --[[COLOR(#666){普通譜面}>https://www.youtube.com/watch?v=31ZIxUsqhWA]]/[[COLOR(#069){玄人譜面}>https://www.youtube.com/watch?v=31ZIxUsqhWA&t=141]]/[[COLOR(#909){達人譜面}>https://www.youtube.com/watch?v=31ZIxUsqhWA&t=295]]
 
-***コメント[#comment]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面[#score]
+***譜面 [#score]
 &attachref(exgoth_hard.png,nolink);

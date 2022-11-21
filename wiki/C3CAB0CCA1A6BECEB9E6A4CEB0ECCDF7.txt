@@ -36,18 +36,18 @@
 |>|>|BGCOLOR(#cbcfde):CENTER:''通常の色''|
 ||何もつけていない時|&ref(赤.png,nolink);|
 |BGCOLOR(peru):|クリア称号や&br;演奏回数称号|&ref(木.png,nolink);|
-|BGCOLOR(#fe90d2):|プレイ称号や&br;ショップで手に入る称号|&ref(虹.png,nolink);|
-|BGCOLOR(#FFD700):|フルコン称号や&br;大会で入手できる称号|&ref(金.png,nolink);|
-|BGCOLOR(#cc8aeb):|大会優勝など|&ref(紫.png,nolink);|
+|BGCOLOR(pink):|プレイ称号や&br;ショップで手に入る称号|&ref(虹.png,nolink);|
+|BGCOLOR(gold):|フルコン称号や&br;大会で入手できる称号|&ref(金.png,nolink);|
+|BGCOLOR(purple):|大会優勝など|&ref(紫.png,nolink);|
 |>|>|BGCOLOR(#cbcfde):CENTER:''特別な色''|
-|BGCOLOR(#20b2aa):|[[AIバトル演奏]]関連|&ref(AI-1.png,nolink);&br;&ref(AI-2.png,nolink);&br;&ref(AI-3.png,nolink);&br;&ref(AI-4.png,nolink);|
+|BGCOLOR(skyblue):|[[AIバトル演奏]]関連|&ref(AI-1.png,nolink);&br;&ref(AI-2.png,nolink);&br;&ref(AI-3.png,nolink);&br;&ref(AI-4.png,nolink);|
 |BGCOLOR(#0067c0):|''「麦わらの一味」''限定|&ref(ルフィ.png,nolink);|
 |BGCOLOR(#e60033):|''「永遠の巫女」''限定|&ref(紅霊夢png.png,nolink);|
 |~|''「奇妙な魔法使い」''限定|&ref(紅魔理沙.png,nolink);|
 |~|''「紅魔館のメイド」''限定|&ref(紅咲夜.png,nolink);|
 |~|''「永遠に紅い幼き月」''限定|&ref(紅レミリア.png,nolink);|
 |~|''「悪魔の妹」''限定|&ref(紅フラン.png,nolink);|
-|BGCOLOR(#fe90d2):|''「東方太鼓祭 2022」''限定|&ref(虹霊夢.png,nolink);|
+|BGCOLOR(pink):|''「東方太鼓祭 2022」''限定|&ref(虹霊夢.png,nolink);|
 |>|>|BGCOLOR(#cbcfde):CENTER:''その他''|
 ||「ユーザー検索」で称号未設定のユーザーを閲覧したときに表示される|&ref(青.png,nolink);|
 
