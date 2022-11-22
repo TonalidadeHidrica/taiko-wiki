@@ -13,7 +13,7 @@
 |AC10-14|iOS&br;AR|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×7|~|''1000880点''|~|~|~|~|
 |AC11亜&br;AC12亜||BGCOLOR(darkorchid):COLOR(white){''遊戲音樂''}|~|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}&br;COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''1000980点''}|~|COLOR(#ff3300){1340点}|-|~|
-||Wii5SP&br;Wii U3SP&br;PS4 1DL&br;NS1DL|~|~|~|''1007010点''|~|420点|105点|~|
+||Wii5SP&br;Wii U3SP&br;PS4 1DL&br;NS1DL&br;NS2MP|~|~|~|''1007010点''|~|420点|105点|~|
 
 ***譜面構成・攻略 [#capture]
 -BPMは168。

@@ -552,7 +552,8 @@
 |''Infinite Rebellion''|5-302|[[→∵5>岂白刨山/かんたん/Infinite Rebellion]]|[[→∵7>岂白刨山/ふつう/Infinite Rebellion]]|[[→∵8>岂白刨山/むずかしい/Infinite Rebellion]]|[[→∵10>岂白刨山/おに/Infinite Rebellion]]|-|
 |''㈤-integral-''|210|[[→∵4>岂白刨山/かんたん/㈤-integral-]]|[[→∵6>岂白刨山/ふつう/㈤-integral-]]|[[→∵6>岂白刨山/むずかしい/㈤-integral-]]|[[→∵9>岂白刨山/おに/㈤-integral-]]|-|
 |''junction''|135|[[→∵4>岂白刨山/かんたん/junction]]|[[→∵5>岂白刨山/ふつう/junction]]|[[→∵6>岂白刨山/むずかしい/junction]]|[[→∵9>岂白刨山/おに/junction]]|-|
-|''LΔchesis''|125?-376|[[→∵4>岂白刨山/かんたん/LΔchesis]]|[[→∵6>岂白刨山/ふつう/LΔchesis]]|[[→∵7>岂白刨山/むずかしい/LΔchesis]]|[[→∵9>岂白刨山/おに/LΔchesis]]|-||''KUSANAGI''|180|[[→∵5>岂白刨山/かんたん/KUSANAGI]]|[[→∵6>岂白刨山/ふつう/KUSANAGI]]|[[→∵7>岂白刨山/むずかしい/KUSANAGI]]|[[→∵9>岂白刨山/おに/KUSANAGI]]|-|
+|''KUSANAGI''|180|[[→∵5>岂白刨山/かんたん/KUSANAGI]]|[[→∵6>岂白刨山/ふつう/KUSANAGI]]|[[→∵7>岂白刨山/むずかしい/KUSANAGI]]|[[→∵9>岂白刨山/おに/KUSANAGI]]|-|
+|''LΔchesis''|125?-376|[[→∵4>岂白刨山/かんたん/LΔchesis]]|[[→∵6>岂白刨山/ふつう/LΔchesis]]|[[→∵7>岂白刨山/むずかしい/LΔchesis]]|[[→∵9>岂白刨山/おに/LΔchesis]]|-|
 |''Ladystar Wandering''|130|[[→∵4>岂白刨山/かんたん/Ladystar Wandering]]|[[→∵6>岂白刨山/ふつう/Ladystar Wandering]]|[[→∵7>岂白刨山/むずかしい/Ladystar Wandering]]|[[→∵8>岂白刨山/おに/Ladystar Wandering]]|-|
 |''LECIEL GLISSANDO''|250|[[→∵5>岂白刨山/かんたん/LECIEL GLISSANDO]]|[[→∵6>岂白刨山/ふつう/LECIEL GLISSANDO]]|[[→∵7>岂白刨山/むずかしい/LECIEL GLISSANDO]]|[[→∵10>岂白刨山/おに/LECIEL GLISSANDO]]|-|
 |''LOVE里!!''|180|[[→∵3>岂白刨山/かんたん/LOVE里!!]]|[[→∵5>岂白刨山/ふつう/LOVE里!!]]|[[→∵7>岂白刨山/むずかしい/LOVE里!!]]|[[→∵8>岂白刨山/おに/LOVE里!!]]|[[→∵9>岂白刨山/おに/LOVE里!!(微设烫)]]|

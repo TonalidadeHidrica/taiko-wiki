@@ -663,6 +663,7 @@
 |〇|BGCOLOR(gold):|薔薇☆Diceのファン|[[COLOR(blue):六本の薔薇と采の歌>難易度表/おに/六本の薔薇と采の歌]]を難易度おにでフルコンボ|~|
 |〇|BGCOLOR(gold):|す薔薇しいドンだー|[[COLOR(blue):六本の薔薇と采の歌(裏)>難易度表/おに/六本の薔薇と采の歌(裏譜面)]]をフルコンボ|~|
 |〇|BGCOLOR(gold):|運命の糸を与えし者|[[COLOR(blue):LΔchesis>難易度表/おに/LΔchesis]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):LΔchesis(裏)>難易度表/おに/LΔchesis(裏譜面)]]をフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):ヘイラ>難易度表/おに/ヘイラ]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):Smile＆Go!!>難易度表/おに/Smile＆Go!!]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):ほめのび>難易度表/おに/ほめのび]]を難易度おにでフルコンボ|~|
@@ -676,6 +677,7 @@
 //|〇|BGCOLOR(gold):||[[COLOR(blue):スリケンランナー>難易度表/おに/スリケンランナー]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):どんちゃんしたい！>難易度表/おに/どんちゃんしたい！]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):詩謳兎揺蕩兎>難易度表/おに/詩謳兎揺蕩兎]]を難易度おにでフルコンボ|~|
+//|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|
 //|〇|BGCOLOR(gold):||[[COLOR(blue):>難易度表/おに/]]を難易度おにでフルコンボ|~|

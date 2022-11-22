@@ -17,7 +17,7 @@
 |AC11亜&br;AC12亜||BGCOLOR(darkorchid):&COLOR(white){''遊戯音樂''};|~|~|~|~|~|~|~|
 |COLOR(#ff3300){真打モード}||BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|COLOR(#ff3300){''320850点''}|~|COLOR(#ff3300){2070点}|-|~|
 |AC15.1.0||~|~|~|''?????0点''|~|670点|298点|~|
-|AC15.2.0|3DS2&br;Wii U3&br;NS1DL&br;NS RPG|~|~|~|''333410点''|~|~|~|~|
+|AC15.2.0|3DS2&br;Wii U3&br;NS1DL&br;NS RPG&br;NS2MP|~|~|~|''333410点''|~|~|~|~|
 |WM||BGCOLOR(darkorchid):COLOR(white){''M&#250;sicas de&br;Jogos Eletr&#244;nicos''}|~|~|~|~|~|~|~|
 ||3DS2韓|BGCOLOR(darkorchid):COLOR(white){''&#44172;&#51076; &#51020;&#50501;''}|~|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}||BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|COLOR(#ff3300){''993370点''}|~|COLOR(#ff3300){6170点}|-|~|

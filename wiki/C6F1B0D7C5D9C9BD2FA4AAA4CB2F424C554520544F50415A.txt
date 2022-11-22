@@ -6,7 +6,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|難易度|ジャンル|最大コンボ数|天井スコア|初項|公差||h
 ||''CS5''|★×9|BGCOLOR(orangered):''ナムコ&br;オリジナル''|COLOR(#909):''639&br;COLOR(#069):555&br;COLOR(#666):495''|''1251800点''|-|-|''ゴーゴー&br;バグあり''|
-|AC15.5.4|3DS2DL&br;Wii U3SP|★×8|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|''1054720点''|470点|123点||
+|AC15.5.4|3DS2DL&br;Wii U3SP&br;NS2MP|★×8|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|''1054720点''|470点|123点||
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1002640点''}|COLOR(#ff3300){1510点}|-|~|
 |AC16.1.0||~|BGCOLOR(darkorchid):COLOR(white){''ゲーム＆&br;バラエティ''}|~|''1003230点''|1570点|-|~|
 |AC16.2.0||~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|

@@ -1686,6 +1686,7 @@
 --[[ハッピーウェディング前ソング(裏譜面)>難易度表/おに/ハッピーウェディング前ソング(裏譜面)]](iOS、AR)
 --[[恋音と雨空>難易度表/おに/恋音と雨空]](Wii U2、iOS、AR、3DS3、PS4 1、NS RPG、NS2)
 --[[君はロックを聴かない>難易度表/おに/君はロックを聴かない]](NS1、PS4 1、iOS、AR、NS2)
+--[[馬と鹿>難易度表/おに/馬と鹿]](NS1、PS4 1)
 -アニメ
 --[[ラ♪ラ♪ラ♪スイートプリキュア♪>難易度表/おに/ラ♪ラ♪ラ♪スイートプリキュア♪]](iOS、Wii4)
 --[[バスターズ レディーゴー！>難易度表/おに/バスターズ レディーゴー！]](3DS1、Wii5)
@@ -1782,6 +1783,7 @@
 --[[V.I.P>難易度表/おに/V.I.P]](NS2)
 --[[Snow halation>難易度表/おに/Snow halation]](NS2)
 --[[INSIDE IDENTITY>難易度表/おに/INSIDE IDENTITY]](iOS、AR)
+--[[OVER THE TOP>難易度表/おに/OVER THE TOP]](NS1、Xbox1、NS2)
 -ボーカロイド&#8482;曲
 --[[Tell Your World>難易度表/おに/Tell Your World]](3DS1、iOS、AR、NS1、Xbox1、NS2)
 --[[マトリョシカ>難易度表/おに/マトリョシカ]](Wii5、PSPDX、iOS、Wii U1、3DS2、NS RPG)

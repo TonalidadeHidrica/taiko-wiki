@@ -43,7 +43,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(orange):|[[Baby Shark（ベイビー・シャーク）>難易度表/おに/Baby Shark（ベイビー・シャーク）]]|''3.051''|117.81※|317|103.90秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''3.000未満''|
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[Viva! Spark!トロピカル〜ジュ！プリキュア>難易度表/おに/Viva! Spark!トロピカル〜ジュ！プリキュア]]|''2.507''|132|204|81.36秒||
-|>|>|BGCOLOR(orange):|[[REAL×EYEZ>難易度表/おに/REAL×EYEZ]]|''2.491''|187.52※|159|63.83秒||
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[Let It Go〜ありのままで〜>難易度表/おに/Let It Go〜ありのままで〜]]|''2.476''|137|360|145.40秒||
 |BGCOLOR(hotpink):|BGCOLOR(orange):|BGCOLOR(cyan):|[[炎>難易度表/おに/炎]]|''2.040''|76|215|105.39秒||
 &br;''★×3''
@@ -106,6 +105,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[Let It Go(英語版)>難易度表/おに/Let It Go]]|''2.517''|137|366|145.40秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[隣に…>難易度表/おに/隣に･･･]]|''2.509''|122.39※|278|110.80秒||
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):[[アンパンマンたいそう>難易度表/おに/アンパンマンたいそう]]|''2.500''|135|190|76.00秒||
+|>|>|BGCOLOR(orange):|[[REAL×EYEZ>難易度表/おに/REAL×EYEZ]]|''2.491''|187.52※|159|63.83秒||
 |>|>|BGCOLOR(cyan):|[[アイノカタチ feat. HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|''2.441''|88.84※|183|74.97秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''2.000未満''|
 |BGCOLOR(cyan):|BGCOLOR(orange):|BGCOLOR(hotpink):|[[美女と野獣>難易度表/おに/美女と野獣]]|''1.441''|82.16※|140|97.13秒|動画から計算|
