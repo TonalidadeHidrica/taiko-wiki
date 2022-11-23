@@ -34,3 +34,6 @@
 
 ***譜面 [#score]
 ~&attachref(hkhime_m.png,nolink);
+
+BPM101の6/8拍子の曲として見た場合
+~&attachref(kohaku_6-8.png,nolink);
