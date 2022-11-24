@@ -13,7 +13,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは185。
--連打秒数・・・SIZE(16){''約1.108秒''}
+-連打秒数目安・・・SIZE(16){''約1.108秒''}
 -全体的に素直な譜面だが、人によっては所々コンボカッターとなりうる配置が含まれている。
 --主な所では34小節のCOLOR(red){●}COLOR(blue){○○○}COLOR(red){●}  COLOR(blue){○○}COLOR(red){●}  COLOR(red){●}、58〜59小節に掛けてのCOLOR(red){●}COLOR(blue){○○○○○○○}COLOR(red){●}、73〜74小節のCOLOR(blue){○○}COLOR(red){●}COLOR(blue){○○○}COLOR(red){●}COLOR(blue){○○○}COLOR(red){●●●●}、77〜78小節のCOLOR(blue){○○○○○○○○}COLOR(red){●}辺りだろう。
 --フルコンボや全良、極スコアを狙う際には76小節に注意。この曲唯一の付点8分となっており、少し見切りにくい。

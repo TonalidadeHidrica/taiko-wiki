@@ -1,5 +1,6 @@
-*dance storm(裏譜面) [#p465c9f9]
-***詳細 [#u0616f81]
+*dance storm(裏譜面) [#title]
+
+***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
 |''Wii4SP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''564''|''907600点''|400点|100点|
@@ -15,17 +16,17 @@
 -平均密度は、''約4.64打/秒''。
 
 ***その他 [#other]
--iOSにこの曲が収録されたが、この譜面は削除されており、裏譜面をプレイできるのはWii4のみ。
--曲IDは、''exfgod''。
+-楽曲情報は[[おに(裏)譜面>難易度表/おに/dance storm(裏譜面)#other]]を参照。
+
 ----
 -[[表譜面>難易度表/かんたん/dance storm]]/[[かんたん>難易度表/かんたん/dance storm(裏譜面)]]
 -[[表譜面>難易度表/ふつう/dance storm]]/[[ふつう>難易度表/ふつう/dance storm(裏譜面)]]
 -[[表譜面>難易度表/むずかしい/dance storm]]/むずかしい
 -[[表譜面>難易度表/おに/dance storm]]/[[おに>難易度表/おに/dance storm(裏譜面)]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=wGFjRZoZbsA]]
+-[[オート動画(Wii4)>https://www.youtube.com/watch?v=wGFjRZoZbsA]]
 
-***コメント [#p00b3dbb]
+***コメント [#comment]
 #pcomment(,noname)
 
-***譜面 [#sa85c1e2]
+***譜面 [#score]
 &ref(exfgod_h.png,nolink);

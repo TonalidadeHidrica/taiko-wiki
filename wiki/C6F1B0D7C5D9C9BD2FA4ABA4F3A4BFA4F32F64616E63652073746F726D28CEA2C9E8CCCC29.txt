@@ -1,4 +1,5 @@
 *dance storm(裏譜面) [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -15,13 +16,16 @@
 -中盤で4回出てくる8分の単色4連打に注意。
 -以上のことからフルコンボ難易度は高く、''ふつう★×5でも通用するので注意''。
 -平均密度は、''約2.11打/秒''。
--曲IDは、''exfgod''
 
+***その他 [#other]
+-楽曲情報は[[おに(裏)譜面>難易度表/おに/dance storm(裏譜面)#other]]を参照。
+
+----
 -[[表譜面>難易度表/かんたん/dance storm]]/かんたん
 -[[表譜面>難易度表/ふつう/dance storm]]/[[ふつう>難易度表/ふつう/dance storm(裏譜面)]]
 -[[表譜面>難易度表/むずかしい/dance storm]]/[[むずかしい>難易度表/むずかしい/dance storm(裏譜面)]]
 -[[表譜面>難易度表/おに/dance storm]]/[[おに>難易度表/おに/dance storm(裏譜面)]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=_PHNJxilIZQ]]
+-[[オート動画(Wii4)>http://www.youtube.com/watch?v=_PHNJxilIZQ]]
 
 ***コメント [#comment]
 #pcomment(,noname)

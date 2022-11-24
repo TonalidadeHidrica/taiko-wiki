@@ -10,7 +10,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは183。
--連打秒数・・・SIZE(16){約0.956秒}−SIZE(16){''1.448秒''}:合計約2.404秒
+-連打秒数目安・・・SIZE(16){約0.956秒}−SIZE(16){''約1.448秒''}： 合計約2.404秒
 -面の割合が''約68.4%''(733/1071)とやや高め。
 -全体的に難解で叩きにくい複合はあまり配置されておらず単色で単純なものが多いが、ほとんど休みなしに音符が流れてくる。
 -頻出する「COLOR(blue){○} COLOR(red){●} COLOR(blue){○}COLOR(red){●} COLOR(red){●}COLOR(blue){○}」(サビでは「COLOR(red){●} COLOR(blue){○} COLOR(red){●} COLOR(blue){○} COLOR(red){●} COLOR(blue){○}COLOR(red){●} COLOR(red){●}COLOR(blue){○}」の形で登場)は分業で処理してもよいだろう。

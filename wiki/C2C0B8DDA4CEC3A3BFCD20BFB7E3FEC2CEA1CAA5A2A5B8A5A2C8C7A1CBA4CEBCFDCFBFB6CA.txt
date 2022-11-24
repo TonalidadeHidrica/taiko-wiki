@@ -464,7 +464,7 @@
 |''隠''||''4+1のそれぞれの未来''&br;　　SIZE(11){太鼓 de タイムトラベル00's / cosMo＠暴走P feat.初音ミク}|255|[[★×5>難易度表/かんたん/4+1のそれぞれの未来]]|[[★×7>難易度表/ふつう/4+1のそれぞれの未来]]|[[★×8>難易度表/むずかしい/4+1のそれぞれの未来]]|[[★×10>難易度表/おに/4+1のそれぞれの未来]]|-|
 |||''テルミービート''&br;　　SIZE(11){キノシタ feat. 鏡音リン}|197|[[★×3>難易度表/かんたん/テルミービート]]|[[★×5>難易度表/ふつう/テルミービート]]|[[★×6>難易度表/むずかしい/テルミービート]]|[[★×8>難易度表/おに/テルミービート]]|-|
 |>|>|>|>|>|>|>|>|BGCOLOR(#cc8aeb):''ゲームミュージック''&aname(gamemusic);|
-||SIZE(9){''NEW''}|''GOING TO LUNATEA''&br;　　SIZE(11){「風のクロノア2　―世界が望んだ忘れもの」より}|248|[[★×2>難易度表/かんたん/GOING TO LUNATEA]]|[[★×4>難易度表/ふつう/GOING TO LUNATEA]]|[[★×6>難易度表/むずかしい/GOING TO LUNATEA]]|[[★×8>難易度表/おに/GOING TO LUNATEA]]|-|
+||SIZE(9){''NEW''}|''GOING TO LUNATEA''&br;　　SIZE(11){「風のクロノア2　~世界が望んだ忘れもの~」より}|248|[[★×2>難易度表/かんたん/GOING TO LUNATEA]]|[[★×4>難易度表/ふつう/GOING TO LUNATEA]]|[[★×6>難易度表/むずかしい/GOING TO LUNATEA]]|[[★×8>難易度表/おに/GOING TO LUNATEA]]|-|
 ||SIZE(9){''NEW''}|''Libera Ray''&br;　　SIZE(11){steμ feat. siroa 「シンクロニカ」より}|116-232|[[★×4>難易度表/かんたん/Libera Ray]]|[[★×5>難易度表/ふつう/Libera Ray]]|[[★×7>難易度表/むずかしい/Libera Ray]]|[[★×10>難易度表/おに/Libera Ray]]|-|
 ||SIZE(9){''NEW''}|''せかいのおと - sekai note -''&br;　　SIZE(11){FILTER SYSTEM「シンクロニカ」より}|160|[[★×1>難易度表/かんたん/せかいのおと - sekai note -]]|[[★×2>難易度表/ふつう/せかいのおと - sekai note -]]|[[★×4>難易度表/むずかしい/せかいのおと - sekai note -]]|[[★×8>難易度表/おに/せかいのおと - sekai note -]]|-|
 |BGCOLOR(beige):''隠''|BGCOLOR(beige):SIZE(9){''NEW''}|BGCOLOR(beige):''Racing the Storm''&br;　　SIZE(11){「クリティカルベロシティ」より}|BGCOLOR(beige):148|BGCOLOR(beige):[[★×4>難易度表/かんたん/Racing the Storm]]|BGCOLOR(beige):[[★×5>難易度表/ふつう/Racing the Storm]]|BGCOLOR(beige):[[★×7>難易度表/むずかしい/Racing the Storm]]|BGCOLOR(beige):[[★×8>難易度表/おに/Racing the Storm]]|BGCOLOR(beige):-|
