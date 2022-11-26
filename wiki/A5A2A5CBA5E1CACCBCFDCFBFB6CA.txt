@@ -639,6 +639,11 @@
 --[[レイン>難易度表/おに/レイン]] (OP5)
 
 **2曲 [#two]
+***アイマリンプロジェクト [#imarine]
+~※ジャンルは【バラエティ】併用((AC16 ニジイロVer.2020では【ゲーム＆バラエティ】併用))
+--[[Dive to Blue>難易度表/おに/Dive to Blue]]  (vol.3)
+--[[Marine Mirage>難易度表/おに/Marine Mirage]] (vol.5 第3弾)
+
 ***アストロボーイ・鉄腕アトム [#astro]
 --[[true blue>難易度表/おに/true blue]] (前期・後期OP)【J-POP】
 --[[True Blue>難易度表/おに/True Blue]] (台湾版OP)【華語流行音樂】

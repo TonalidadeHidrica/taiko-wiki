@@ -1,50 +1,20 @@
--ガラケー向けの太鼓の達人。月額315円。
+*太鼓の達人もばいるの収録曲 [#jdc91045]
+
+**目次 [#eec8b57c]
+#contents
+----
+
+**システム詳細 [#m5983006]
+ガラケー向けの太鼓の達人。月額315円。
 -毎週2曲の楽曲が追加。
 -ランキング、ミニゲーム、着せ替えなどの機能がある。
 -画面の大きさの関係で譜面のスクロール速度が遅くなっている。
 -曲の音源は打ち込みによる着メロとなっている。
-----
-''目次''
-#contents
+-もばいるの前身としてナムコアプリキャロットJに収録されている太鼓の達人があった。（2001/10/17〜）
+--[[「太鼓の達人」がケータイで遊べる! ナムコ、J-フォン端末向けにゲームを配信>https://game.watch.impress.co.jp/docs/20011010/namco.htm]]
 
-*動画リスト [#ze56f354]
-もばいるは動画自体が貴重であまり数がないので資料集代わりにここにまとめます。
--J-POP
---[[夏祭り>https://www.youtube.com/watch?v=5QrEtPc4jdo]]
--アニソン
---[[My Soul,Your Beats!>https://www.nicovideo.jp/watch/sm11853908]]
---[[翔べ! ガンダム>https://www.nicovideo.jp/watch/sm9968801]]
---[[窮地に立つガンダム>https://www.nicovideo.jp/watch/sm9968801]]
---[[God knows...>https://www.nicovideo.jp/watch/sm3877802]]
---[[アンパンマンのマーチ>https://www.youtube.com/watch?v=-c1-b3fuMOU]]
--クラシック
---[[リパブリック産歌>https://www.youtube.com/watch?v=dzBROTgaPrA]]
--バラエティ
---[[六甲おろし>https://www.youtube.com/watch?v=bl1xtEhp-qI]]
--ゲームミュージック
---[[ドルアーガの塔メドレー>https://www.youtube.com/watch?v=n03teDuujaQ]]
---[[ROTTERDAM NATION>https://www.nicovideo.jp/watch/sm3569932]]
---[[ROTTERDAM NATION>https://www.nicovideo.jp/watch/sm2012321]]
---[[もじぴったんメドレー>https://www.nicovideo.jp/watch/sm2045271]]
--ナムコオリジナル
---[[さいたま2000>https://www.youtube.com/watch?v=n03teDuujaQ]]
---[[さいたま2000(2)>https://www.nicovideo.jp/watch/sm3941591]]
---[[きたさいたま2000>https://www.youtube.com/watch?v=CANGjzAWpQI]]
---[[EkiBEN2000>https://www.youtube.com/watch?v=fY1NK3dCKo8]]
---[[はたラク2000>https://www.youtube.com/watch?v=QCqfuSvjTgc]]
---[[燎原ノ舞>https://www.nicovideo.jp/watch/sm9001113]]
---[[燎原ノ舞(簡)>https://www.youtube.com/watch?v=zsL5W4Mpc4Q]]
---[[燎原ノ舞(難)>https://www.youtube.com/watch?v=fqb1eGdTiqM]]
---[[DON'T CUT>https://www.youtube.com/watch?v=wr-kN82TcZY]]
---[[画竜点睛>https://www.youtube.com/watch?v=C5M2vmR6CJw]]
---[[スクロール・ミカ>https://www.nicovideo.jp/watch/sm3692405]]
---[[ハロー！どんちゃん>https://www.youtube.com/watch?v=Zx0da-MtSGo]]
---[[太鼓ラブ！>https://www.youtube.com/watch?v=ZCTxXCzsXHg]]
---[[フューチャー・ラボ(易)>https://www.youtube.com/watch?v=E2U7bfh5oUw]]
---[[フューチャー・ラボ>https://www.youtube.com/watch?v=E5ShgzZ91O8]]
-
-*収録曲リスト [#od22add7]
-**J-POP [#e33f4d91]
+**収録曲リスト [#od22add7]
+***J-POP [#e33f4d91]
 ~1001 LOVEマシーン
 ~1002 Mr.Moonlight〜愛のビッグバンド〜
 ~1003 ミニモニ。テレフォン！リンリンリン
@@ -283,7 +253,7 @@
 ~1279 さよなら愛しい人よ…
 ~1280 キラキラ
 ~1281 未来
-~1282 NaNaNaサマーガール
+~1282 Na&#78;a&#78;aサマーガール
 ~1283 fairyland
 ~1284 世界はそれを愛と呼ぶんだぜ
 ~1285 OCEAN
@@ -428,7 +398,7 @@
 ~1433 Love so sweet
 ~1434 君に贈る歌
 
-**アニメ [#s3dc6a63]
+***アニメ [#s3dc6a63]
 ~1010 ガッチャマンの歌
 ~1011 サザエさん一家
 ~1012 ルパン三世のテーマ’78
@@ -456,7 +426,7 @@
 ~1421 ハレ晴レユカイ
 ~1423 GOD KNOWS…
 
-**クラシック [#t5457283]
+***クラシック [#t5457283]
 ~0011 クラシックメドレー(運動会編)
 ~0012 クラシックメドレー(ロック編)
 ~0013 クラシック 新世界より
@@ -468,7 +438,7 @@
 ~5040 「天国と地獄」序曲
 ~5041 フニクリ・フニクラ
 
-**オリジナル [#mca1145d]
+***オリジナル [#mca1145d]
 ~0002 どんちゃんえかき歌
 ~0003 ハロー！どんちゃん
 ~0008 マッピー音頭
@@ -487,15 +457,15 @@
 ~5038 スクロール・ミカ
 ~5039 バーニングフォースメドレー
 
-**応援歌 [#q8fad757]
+***応援歌 [#q8fad757]
 ~1066 阪神タイガースの歌（六甲おろし）
 ~1166 燃えよドラゴンズ！
 
-**民謡 [#g2f22890]
+***民謡 [#g2f22890]
 ~0017 炭鉱節
 ~0018 ソーラン節
 
-**特撮 [#gf24ddda]
+***特撮 [#gf24ddda]
 ~1017 ハリケンジャー参上！
 ~1024 Alive A Life（仮面ライダー龍騎）
 ~1044 JustiΦ’s
@@ -504,12 +474,48 @@
 ~1306 始まりの君へ
 ~1357 ウルトラマンマックス
 
-**童謡 [#i58f993d]
+***童謡 [#i58f993d]
 ~0019 アイアイ
 ~0021 大きな古時計
 
-**その他 [#e2c32bcf]
+***その他 [#e2c32bcf]
 ~1179 TRUTH
 ~1234 吉宗評判記暴れん坊将軍BGM（劇場版）
 ~1263 銭形平次
 ~1335 ああ人生に涙あり
+
+**動画リスト [#ze56f354]
+もばいるは動画自体が貴重であまり数がないので資料集代わりにここにまとめます。
+-J-POP
+--[[夏祭り>https://www.youtube.com/watch?v=5QrEtPc4jdo]]
+-アニソン
+--[[My Soul,Your Beats!>https://www.nicovideo.jp/watch/sm11853908]]
+--[[翔べ! ガンダム>https://www.nicovideo.jp/watch/sm9968801]]
+--[[窮地に立つガンダム>https://www.nicovideo.jp/watch/sm9968801]]
+--[[God knows...>https://www.nicovideo.jp/watch/sm3877802]]
+--[[アンパンマンのマーチ>https://www.youtube.com/watch?v=-c1-b3fuMOU]]
+-クラシック
+--[[リパブリック産歌>https://www.youtube.com/watch?v=dzBROTgaPrA]]
+-バラエティ
+--[[六甲おろし>https://www.youtube.com/watch?v=bl1xtEhp-qI]]
+-ゲームミュージック
+--[[ドルアーガの塔メドレー>https://www.youtube.com/watch?v=n03teDuujaQ]]
+--[[ROTTERDAM NATION>https://www.nicovideo.jp/watch/sm3569932]]
+--[[ROTTERDAM NATION>https://www.nicovideo.jp/watch/sm2012321]]
+--[[もじぴったんメドレー>https://www.nicovideo.jp/watch/sm2045271]]
+-ナムコオリジナル
+--[[さいたま2000>https://www.youtube.com/watch?v=n03teDuujaQ]]
+--[[さいたま2000(2)>https://www.nicovideo.jp/watch/sm3941591]]
+--[[きたさいたま2000>https://www.youtube.com/watch?v=CANGjzAWpQI]]
+--[[EkiBEN2000>https://www.youtube.com/watch?v=fY1NK3dCKo8]]
+--[[はたラク2000>https://www.youtube.com/watch?v=QCqfuSvjTgc]]
+--[[燎原ノ舞>https://www.nicovideo.jp/watch/sm9001113]]
+--[[燎原ノ舞(簡)>https://www.youtube.com/watch?v=zsL5W4Mpc4Q]]
+--[[燎原ノ舞(難)>https://www.youtube.com/watch?v=fqb1eGdTiqM]]
+--[[DON'T CUT>https://www.youtube.com/watch?v=wr-kN82TcZY]]
+--[[画竜点睛>https://www.youtube.com/watch?v=C5M2vmR6CJw]]
+--[[スクロール・ミカ>https://www.nicovideo.jp/watch/sm3692405]]
+--[[ハロー！どんちゃん>https://www.youtube.com/watch?v=Zx0da-MtSGo]]
+--[[太鼓ラブ！>https://www.youtube.com/watch?v=ZCTxXCzsXHg]]
+--[[フューチャー・ラボ(易)>https://www.youtube.com/watch?v=E2U7bfh5oUw]]
+--[[フューチャー・ラボ>https://www.youtube.com/watch?v=E5ShgzZ91O8]]

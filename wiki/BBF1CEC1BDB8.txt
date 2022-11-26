@@ -15,6 +15,7 @@
 -[[全コース最高難易度曲一覧]]
 -[[本人音源曲(主に版権曲)>本人音源曲]]
 -[[踊り子一覧]]
+--[[キャラクター一覧]]
 -[[太鼓ギネス]]
 -[[曲IDまとめ]]
 -[[モールス信号]]
@@ -272,6 +273,8 @@
 -[[Bandai Namco Entertainment>https://www.youtube.com/playlist?list=PL0DnZpV_rwVvZ0g7g-Hc9YqUlwuCnhH_j]]
 
 **他のサイト [#site]
+
+-[[アソビモット>https://asobimotto.bandainamcoent.co.jp/tag/%E3%80%8E%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA%E3%80%8F%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/]]
 
 -[[「太鼓の達人」の記事(Wikipedia)>http://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA]]
 --[[「太鼓の達人の登場人物一覧」の記事(Wikipedia)>https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA%E3%81%AE%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7]]
