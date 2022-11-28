@@ -194,7 +194,7 @@
 
 ***YOASOBI [#yoasobi]
 -[[夜に駆ける>難易度表/おに/夜に駆ける]]((AC16、NS1のみ))
--[[ハルジオン>難易度表/おに/ハルジオン]]
+-[[ハルジオン>難易度表/おに/ハルジオン]]((AC16、NS1のみ))
 -[[怪物>難易度表/おに/怪物]]
 -[[群青>難易度表/おに/群青]]((AC16、NS1のみ))
 
@@ -263,6 +263,9 @@
 
 ***Fear, and Loathing in Las Vegas [#vegas]
 -[[Just Awake>難易度表/おに/Just Awake]]
+
+***フレデリック [#frederic]
+-[[オドループ>難易度表/おに/オドループ]]
 
 **COLOR(#fdc000){キッズ} [#kids]
 ***T-Pistonz+KMC [#inazumaKIDS]
@@ -489,10 +492,7 @@
 
 ***Official髭男dism [#higedanANIME]
 -[[Cry Baby>難易度表/おに/Cry Baby]]
--[[ミックスナッツ>難易度表/おに/ミックスナッツ]]
-
-***King Gnu [#kingnuANIME]
--[[一途>難易度表/おに/一途]]
+-[[ミックスナッツ>難易度表/おに/ミックスナッツ]]((AC16のみ))
 
 ***Ado [#adoANIME]
 -[[新時代>難易度表/おに/新時代]]
