@@ -8,6 +8,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは52-208。
+-連打秒数・・・約1.995秒×2−約0.697秒−SIZE(16){''2.5秒''}:合計約7.187秒
 
 ***その他 [#other]
 -公式MVより、この曲の正式名称は「Doppelg''&#228;''ngers」である(([[段位道場 外伝の特設ページ>https://taiko.namco-ch.net/taiko/special/dani_dojo_gaiden/list.php]]にある「ハッピー？ハロウィン！#2022」でも確認できる。))。
@@ -18,7 +19,7 @@
 --作曲・ギター・編曲は、''南ゆに''。
 -バラエティジャンルとナムコオリジナルジャンルを併用している楽曲は、この楽曲の他には一部の東方アレンジ(東方Project×NAMCO SOUNDS)楽曲と[[Asteroid>../Asteroid]]のみ。
 -ボーカロイド&#8482;曲の[[拝啓ドッペルゲンガー>../拝啓ドッペルゲンガー]]との混同に注意。
-
+-[[ニジイロVer.段位道場2022 外伝>段位道場#originalgaiden]]の「ハッピー？ハロウィン！#2022【雅】」の3曲目課題曲となった。
 ----
 -[[かんたん>難易度表/かんたん/Doppelgangers]]
 -[[ふつう>難易度表/ふつう/Doppelgangers]]
@@ -30,8 +31,10 @@
 -[[公式MV>https://youtu.be/wtDb4rrWu70]]COLOR(red){【''閲覧注意''】}(([[暴力的表現が含まれているため、ご視聴の際は十分注意してください。>https://twitter.com/Alice_Orchestra/status/1575761654650142720]]))
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
-~細かいBPM・HSは[[裏譜面>../Doppelgangers(裏譜面)]]を参照
+~細かいBPM・HSは[[裏譜面>../Doppelgangers(裏譜面)#score]]を参照
 ~&attachref(Doppelgangers_4.png,nolink);

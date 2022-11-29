@@ -23,4 +23,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(ウマ娘_e.png,nolink);
+~序盤のBPMは暫定
+~この譜面における全ての黄色連打は、一般的な連打と違い48分音符1個分短くなって''いない''
+~&attachref(ウマ娘_e_2.png,nolink);
