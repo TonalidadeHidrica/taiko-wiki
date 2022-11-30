@@ -50,7 +50,6 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~ブルーVer.のデータより
 #region(TJA表記)
 ''91-95小節''
 &br;#MEASURE 1/8

@@ -141,7 +141,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|0|210|CENTER:52|55|CENTER:50|RIGHT:52||c
 |>|>||曲名|平均密度|平均BPM|音符数-1|CENTER:演奏時間|備考|h
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''5.500未満''|
-|>|>|BGCOLOR(cyan):|[[ROCKET DIVE>難易度表/おに/ROCKET DIVE]]|''5.415''|182.99|411|75.91秒|COLOR(red){''全曲1位''} ・ ''ジャンル1位:COLOR(cyan):ポップス''|
+|>|>|BGCOLOR(cyan):|[[ROCKET DIVE>難易度表/おに/ROCKET DIVE]]|''5.415''|183|411|75.91秒|COLOR(red){''全曲1位''} ・ ''ジャンル1位:COLOR(cyan):ポップス''|
 |>|>|BGCOLOR(cyan):|[[じょいふる>難易度表/おに/じょいふる]]|''5.197''|159|454|87.36秒|''全曲4位''|
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[いっぱいいっぱい>難易度表/おに/いっぱいいっぱい]]|''5.086''|161|599|117.76秒|''ジャンル1位:COLOR(darkorchid):ゲームミュージック'' ・ ''新基準ジャンル1位:COLOR(hotpink):アニメ''|
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[IDOL POWER RAINBOW>難易度表/おに/IDOL POWER RAINBOW]]|''5.031''|160|558|110.91秒||
