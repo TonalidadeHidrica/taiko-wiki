@@ -29,7 +29,7 @@
 -[[かんたん>難易度表/かんたん/Happy ＆ Peace]]
 -[[ふつう>難易度表/ふつう/Happy ＆ Peace]]
 -[[むずかしい>難易度表/むずかしい/Happy ＆ Peace]]
--[[オート動画>https://www.youtube.com/watch?v=sllVrMREswA]]
+-[[オート動画(PSPDX)>https://www.youtube.com/watch?v=sllVrMREswA]]
 
 ***コメント [#comment]
 #pcomment(,noname)

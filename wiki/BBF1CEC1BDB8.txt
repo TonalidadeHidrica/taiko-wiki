@@ -2,6 +2,7 @@
 
 -太鼓の達人関連とWiki関連のお役立ち資料のページです。
 --このページに載っていないものは[[メニュー>MenuBar]]などを参考にしてください。
+--当Wikiとは別のWikiには「※」をつけています。
 
 ----
 
@@ -20,7 +21,7 @@
 -[[曲IDまとめ]]
 -[[モールス信号]]
 -[[曲の通称一覧]]
--[[太鼓の達人 歴代全一Wiki(当Wikiとは別のWiki)>https://www65.atwiki.jp/taikoranking/]]
+-[[太鼓の達人 歴代全一Wiki>https://www65.atwiki.jp/taikoranking/]]※
 
 **収録曲の並び順 [#row]
 
@@ -131,7 +132,7 @@
 -[[極スコア>難易度表/おに/新筐体/極スコア]]
 -[[難易度変更一覧(AC)]]
 -[[song_no]]
--[[太鼓の達人 設置店情報Wiki(当Wikiとは別のWiki)>http://www29.atwiki.jp/taiko13/pages/1.html]]
+-[[太鼓の達人 設置店情報Wiki>http://www29.atwiki.jp/taiko13/pages/1.html]]※
 
 **[[段位道場]] [#dani]
 
@@ -144,8 +145,8 @@
 **クリア難易度順 (新筐体) [#level]
 
 -[[クリア難易度順(新筐体)について>難易度順]]
--[[クリア難易度 議論所(当Wikiとは別のWiki)>https://wikiwiki.jp/taiko-giron/]]
--[[難易度等議論Wiki(当Wikiとは別のWiki)>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]
+-[[クリア難易度 議論所>https://wikiwiki.jp/taiko-giron/]]※
+-[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]※
 --松(難易度:むずかしい)以下の難易度は[[こちら>https://w.atwiki.jp/kjdr2bo/pages/1.html]]を参照
 -[[作成議論所>クリア難易度 ページ作成についての議論所]]
 -[[難易度別譜面数(AC16)>難易度順/AC16/おに/難易度別譜面数]]
@@ -283,8 +284,8 @@
 //**Wiki関連 [#wikicon]
 **海外関連 [#foreign] 
 
--[[太鼓の達人 新筐体（アジア版）（英語）の収録曲]]
--[[太鼓の達人 新筐体（アジア版）（中国語）の収録曲]]
+-新筐体（アジア版）の収録曲
+--[[English>太鼓の達人 新筐体（アジア版）（英語）の収録曲]] / [[中文>太鼓の達人 新筐体（アジア版）（中国語）の収録曲]]
 
 ***外部リンク [#link2]
 
@@ -320,11 +321,11 @@
 
 **その他 [#otherwiki]
 
--[[公式生放送(生配信)での専用コメントページ>コメント/雑談所/公式生放送用]]
+-[[公式生配信での専用コメントページ>コメント/雑談所/公式生放送用]]
 -[[リンク]]
 -[[お砂場(練習ページ)>SandBox]]
 -[[プラグインマニュアル>PukiWiki/1.4/Manual/Plugin]]
--[[高難易度攻略Wiki(当Wikiとは別のWiki)>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]
+-[[高難易度攻略Wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]※
 
 //-[[メニュー>MenuBar]]
 //-[[FrontPage]]

@@ -43,7 +43,6 @@
 -[[オート動画(iOS)>https://www.youtube.com/watch?v=LYINkIVdnjQ&t=5s]]
 
 ***コメント [#comment]
--''曲の題名に関する話題は控えてください''。詳しくはその他の情報をご覧ください。
 #pcomment(,noname)
 
 ***譜面 [#score]

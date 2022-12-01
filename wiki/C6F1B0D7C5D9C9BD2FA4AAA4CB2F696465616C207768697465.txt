@@ -1,4 +1,4 @@
-*ideal white [#title]
+*&ruby(アイディール){ideal}; &ruby(ホワイト){white}; [#title]
 -アニメ「''Fate/stay night [Unlimited Blade Works]''」のOP1。
 
 ***詳細 [#more]
@@ -24,7 +24,7 @@
 -[[かんたん>難易度表/かんたん/ideal white]]
 -[[ふつう>難易度表/ふつう/ideal white]]
 -[[むずかしい>難易度表/むずかしい/ideal white]]
--[[オート動画>https://www.youtube.com/watch?v=QBx_5lI7W_0]]
+-[[オート動画(PS Vita)>https://www.youtube.com/watch?v=QBx_5lI7W_0]]
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

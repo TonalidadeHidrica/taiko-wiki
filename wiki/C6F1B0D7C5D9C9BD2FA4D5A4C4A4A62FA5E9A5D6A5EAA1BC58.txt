@@ -14,6 +14,7 @@
 ||PSP2|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|~|
 ||DS3SP&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''215''|''560340点''|~|770点|180点|
 ||Wii U3SP|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|''580510点''|~|~|243点|
+|AC16.3.7SP||BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''991950点''|~|4610点|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは134。

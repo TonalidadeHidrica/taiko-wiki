@@ -1344,6 +1344,7 @@
 -[[コメント/難易度表/おに/Thinking 〜Must Mix〜]] コメント/ナンイドオモテ/オニ/Thinking 〜Must Mix〜
 -[[コメント/難易度表/おに/Thinking 〜Must Mix〜(裏譜面)]] コメント/ナンイドオモテ/オニ/Thinking 〜Must Mix〜(ウラフメン)
 -[[コメント/難易度表/おに/Time to dine]] コメント/ナンイドオモテ/オニ/Time to dine
+-[[コメント/難易度表/おに/Timing 〜タイミング〜]] コメント/ナンイドオモテ/オニ/Timing 〜タイミング〜
 -[[コメント/難易度表/おに/Together]] コメント/ナンイドオモテ/オニ/Together
 -[[コメント/難易度表/おに/Toon Town's Toys' Tune]] コメント/ナンイドオモテ/オニ/Toon Town's Toys' Tune
 -[[コメント/難易度表/おに/Touch off]] コメント/ナンイドオモテ/オニ/Touch off
@@ -7437,6 +7438,7 @@
 -[[コメント/難易度表/むずかしい/The world is all one !!]] コメント/ナンイドオモテ/ムズカシイ/The world is all one !!
 -[[コメント/難易度表/むずかしい/Thinking 〜Must Mix〜]] コメント/ナンイドオモテ/ムズカシイ/Thinking 〜Must Mix〜
 -[[コメント/難易度表/むずかしい/Time to dine]] コメント/ナンイドオモテ/ムズカシイ/Time to dine
+-[[コメント/難易度表/むずかしい/Timing 〜タイミング〜]] コメント/ナンイドオモテ/ムズカシイ/Timing 〜タイミング〜
 -[[コメント/難易度表/むずかしい/Together]] コメント/ナンイドオモテ/ムズカシイ/Together
 -[[コメント/難易度表/むずかしい/Toon Town's Toys' Tune]] コメント/ナンイドオモテ/ムズカシイ/Toon Town's Toys' Tune
 -[[コメント/難易度表/むずかしい/Town 〜Must Mix〜]] コメント/ナンイドオモテ/ムズカシイ/Town 〜Must Mix〜
@@ -9414,8 +9416,8 @@
 -[[段位道場/ニジイロ2021/十段]] ダンイドウジョウ/ニジイロ2021/ジュウダン
 -[[段位道場/ニジイロ2021/達人]] ダンイドウジョウ/ニジイロ2021/タツジン
 -[[段位道場/ニジイロ2021/超人]] ダンイドウジョウ/ニジイロ2021/チョウジン
--[[段位道場/ニジイロ2021/ニ級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/二級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
+-[[段位道場/ニジイロ2021/ニ級]] ダンイドウジョウ/ニジイロ2021/ニキュウ
 -[[段位道場/ニジイロ2021/二段]] ダンイドウジョウ/ニジイロ2021/ニダン
 -[[段位道場/ニジイロ2021/八段]] ダンイドウジョウ/ニジイロ2021/ハチダン
 -[[段位道場/ニジイロ2021/名人]] ダンイドウジョウ/ニジイロ2021/メイジン
@@ -10198,6 +10200,7 @@
 -[[難易度表/おに/Thinking 〜Must Mix〜]] ナンイドオモテ/オニ/Thinking 〜Must Mix〜
 -[[難易度表/おに/Thinking 〜Must Mix〜(裏譜面)]] ナンイドオモテ/オニ/Thinking 〜Must Mix〜(ウラフメン)
 -[[難易度表/おに/Time to dine]] ナンイドオモテ/オニ/Time to dine
+-[[難易度表/おに/Timing 〜タイミング〜]] ナンイドオモテ/オニ/Timing 〜タイミング〜
 -[[難易度表/おに/Together]] ナンイドオモテ/オニ/Together
 -[[難易度表/おに/Toon Town's Toys' Tune]] ナンイドオモテ/オニ/Toon Town's Toys' Tune
 -[[難易度表/おに/Touch off]] ナンイドオモテ/オニ/Touch off
@@ -12687,6 +12690,7 @@
 -[[難易度表/かんたん/Theme of Ryu]] ナンイドオモテ/カンタン/Theme of Ryu
 -[[難易度表/かんたん/Thinking 〜Must Mix〜]] ナンイドオモテ/カンタン/Thinking 〜Must Mix〜
 -[[難易度表/かんたん/Time to dine]] ナンイドオモテ/カンタン/Time to dine
+-[[難易度表/かんたん/Timing 〜タイミング〜]] ナンイドオモテ/カンタン/Timing 〜タイミング〜
 -[[難易度表/かんたん/Together]] ナンイドオモテ/カンタン/Together
 -[[難易度表/かんたん/Toon Town's Toys' Tune]] ナンイドオモテ/カンタン/Toon Town's Toys' Tune
 -[[難易度表/かんたん/Touch off]] ナンイドオモテ/カンタン/Touch off
@@ -15351,6 +15355,7 @@
 -[[難易度表/ふつう/Theme of Ryu]] ナンイドオモテ/フツウ/Theme of Ryu
 -[[難易度表/ふつう/Thinking 〜Must Mix〜]] ナンイドオモテ/フツウ/Thinking 〜Must Mix〜
 -[[難易度表/ふつう/Time to dine]] ナンイドオモテ/フツウ/Time to dine
+-[[難易度表/ふつう/Timing 〜タイミング〜]] ナンイドオモテ/フツウ/Timing 〜タイミング〜
 -[[難易度表/ふつう/Together]] ナンイドオモテ/フツウ/Together
 -[[難易度表/ふつう/Toon Town's Toys' Tune]] ナンイドオモテ/フツウ/Toon Town's Toys' Tune
 -[[難易度表/ふつう/Touch off]] ナンイドオモテ/フツウ/Touch off
@@ -17696,6 +17701,7 @@
 -[[難易度表/むずかしい/Theme of Ryu]] ナンイドオモテ/ムズカシイ/Theme of Ryu
 -[[難易度表/むずかしい/Thinking 〜Must Mix〜]] ナンイドオモテ/ムズカシイ/Thinking 〜Must Mix〜
 -[[難易度表/むずかしい/Time to dine]] ナンイドオモテ/ムズカシイ/Time to dine
+-[[難易度表/むずかしい/Timing 〜タイミング〜]] ナンイドオモテ/ムズカシイ/Timing 〜タイミング〜
 -[[難易度表/むずかしい/Together]] ナンイドオモテ/ムズカシイ/Together
 -[[難易度表/むずかしい/Toon Town's Toys' Tune]] ナンイドオモテ/ムズカシイ/Toon Town's Toys' Tune
 -[[難易度表/むずかしい/Touch off]] ナンイドオモテ/ムズカシイ/Touch off

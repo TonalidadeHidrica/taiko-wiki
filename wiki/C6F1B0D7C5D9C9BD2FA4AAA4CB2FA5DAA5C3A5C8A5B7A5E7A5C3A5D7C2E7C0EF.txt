@@ -21,7 +21,7 @@
 
 ***その他 [#other]
 -アーティストは、''chacol feat. Focco''。
--この譜面をフルコンボすると、''称号''「''Cat or Dog！''」を獲得できる。
+-新筐体でこの譜面をフルコンボすると、''称号''「''Cat or Dog！''」を獲得できる。
 -曲IDは、''pettsn''。
 
 ----
@@ -29,6 +29,7 @@
 -[[ふつう>難易度表/ふつう/ペットショップ大戦]]
 -[[むずかしい>難易度表/むずかしい/ペットショップ大戦]]
 -[[プレイ動画(キャプチャ)>https://m.youtube.com/watch?feature=youtu.be&v=BtNlEBZRhj0&t=7s]]
+-[[オート動画>https://youtu.be/PKLvN_Z-Suc]]
 -[[公式歌詞>https://twitter.com/focco10/status/1274355683576561666]]
 
 ***コメント [#comment]

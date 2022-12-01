@@ -281,7 +281,7 @@
 |''Hacking to the Gate''|161|[[★×2>難易度表/かんたん/Hacking to the Gate]]|[[★×2>難易度表/ふつう/Hacking to the Gate]]|[[★×3>難易度表/むずかしい/Hacking to the Gate]]|[[★×6>難易度表/おに/Hacking to the Gate]]|-|
 |''Hand Over (Prod. TEMPLIME)''|140|[[★×3>難易度表/かんたん/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/ふつう/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/むずかしい/Hand Over (Prod. TEMPLIME)]]|[[★×9>難易度表/おに/Hand Over (Prod. TEMPLIME)]]|-|
 |''HANDS UP!''|130|[[★×3>難易度表/かんたん/HANDS UP!]]|[[★×5>難易度表/ふつう/HANDS UP!]]|[[★×6>難易度表/むずかしい/HANDS UP!]]|[[★×7>難易度表/おに/HANDS UP!]]|-|
-|''Happy & Peace''|169|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/Happy ＆ Peace]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Happy ＆ Peace]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Happy ＆ Peace]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Happy ＆ Peace]]|-|
+|''Happy & Peace''|169|[[★×5>難易度表/かんたん/Happy ＆ Peace]]|[[★×4>難易度表/ふつう/Happy ＆ Peace]]|[[★×5>難易度表/むずかしい/Happy ＆ Peace]]|[[★×7>難易度表/おに/Happy ＆ Peace]]|-|
 |''Happy Go Lucky! ドキドキ！プリキュア''|170|[[★×2>難易度表/かんたん/Happy Go Lucky! ドキドキ！プリキュア]]|[[★×2>難易度表/ふつう/Happy Go Lucky! ドキドキ！プリキュア]]|[[★×4>難易度表/むずかしい/Happy Go Lucky! ドキドキ！プリキュア]]|[[★×5>難易度表/おに/Happy Go Lucky! ドキドキ！プリキュア]]|-|
 |''HARDCOREノ心得''|47.25-380|[[★×5>難易度表/かんたん/HARDCOREノ心得]]|[[★×7>難易度表/ふつう/HARDCOREノ心得]]|[[★×8>難易度表/むずかしい/HARDCOREノ心得]]|[[★×10>難易度表/おに/HARDCOREノ心得]]|-|
 |''Hard Knock Days''|184|[[★×3>難易度表/かんたん/Hard Knock Days]]|[[★×4>難易度表/ふつう/Hard Knock Days]]|[[★×5>難易度表/むずかしい/Hard Knock Days]]|[[★×6>難易度表/おに/Hard Knock Days]]|-|

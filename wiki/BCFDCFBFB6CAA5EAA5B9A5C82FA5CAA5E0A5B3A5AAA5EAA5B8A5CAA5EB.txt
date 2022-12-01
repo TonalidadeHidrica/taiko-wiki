@@ -540,7 +540,7 @@
 |''GO ON 〜未来へ〜''|133-266|[[★×2>難易度表/かんたん/GO ON 〜未来へ〜]]|[[★×3>難易度表/ふつう/GO ON 〜未来へ〜]]|[[★×5>難易度表/むずかしい/GO ON 〜未来へ〜]]|[[★×8>難易度表/おに/GO ON 〜未来へ〜]]|-|
 |''Growing Up''|190|[[★×3>難易度表/かんたん/Growing Up]]|[[★×5>難易度表/ふつう/Growing Up]]|[[★×5>難易度表/むずかしい/Growing Up]]|[[★×6>難易度表/おに/Growing Up]]|-|
 |''G意識過剰''|200|[[★×5>難易度表/かんたん/G意識過剰]]|[[★×6>難易度表/ふつう/G意識過剰]]|[[★×7>難易度表/むずかしい/G意識過剰]]|[[★×9>難易度表/おに/G意識過剰]]|-|
-|''Happy & Peace''|169|BGCOLOR(#ccc):[[★×5>難易度表/かんたん/Happy ＆ Peace]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Happy ＆ Peace]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/Happy ＆ Peace]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/Happy ＆ Peace]]|-|
+|''Happy & Peace''|169|[[★×5>難易度表/かんたん/Happy ＆ Peace]]|[[★×4>難易度表/ふつう/Happy ＆ Peace]]|[[★×5>難易度表/むずかしい/Happy ＆ Peace]]|[[★×7>難易度表/おに/Happy ＆ Peace]]|-|
 |''HARDCOREノ心得''|47.25-380|[[★×5>難易度表/かんたん/HARDCOREノ心得]]|[[★×7>難易度表/ふつう/HARDCOREノ心得]]|[[★×8>難易度表/むずかしい/HARDCOREノ心得]]|[[★×10>難易度表/おに/HARDCOREノ心得]]|-|
 |''Heaven's Rider''|150|[[★×5>難易度表/かんたん/Heaven's Rider]]|[[★×6>難易度表/ふつう/Heaven's Rider]]|[[★×8>難易度表/むずかしい/Heaven's Rider]]|[[★×9>難易度表/おに/Heaven's Rider]]|-|
 |''Hello, Mr.JOKER''|185-275|[[★×4>難易度表/かんたん/Hello, Mr.JOKER]]|[[★×7>難易度表/ふつう/Hello, Mr.JOKER]]|[[★×8>難易度表/むずかしい/Hello, Mr.JOKER]]|[[★×10>難易度表/おに/Hello, Mr.JOKER]]|-|
