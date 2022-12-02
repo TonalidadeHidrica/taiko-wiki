@@ -1,10 +1,12 @@
-*ideal white [#title]
+*&ruby(アイディール){ideal}; &ruby(ホワイト){white}; [#title]
 -アニメ「''Fate/stay night [Unlimited Blade Works]''」のOP1。
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×5|CENTER:''156''|CENTER:''586520点''|CENTER:＋連打|CENTER:1030点|CENTER:388点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''988590点''}|~|CENTER:COLOR(#ff3300){5470点}|CENTER:-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1''|BGCOLOR(orange):''アニメ''|★×5|''156''|''586520点''|+連打|1030点|388点|
+|''PS Vita1亜''|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''988590点''}|~|COLOR(#ff3300){5470点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは180。
@@ -18,9 +20,7 @@
 -フルコン難易度は妥当〜少し弱めだが、8分は数がそんなに多くないのでクリアは下位クラスだろう。
 
 ***その他 [#other]
--アーティストは、''綾野ましろ''。
---作詞は、meg rock。作曲は、Carlos K.・Toshi-Fj。編曲は、Carlos K.。 
--譜面作成は、''カワーゲン・コラーゲン''。
+-楽曲情報は[[おに譜面>難易度表/おに/ideal white#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/ideal white]]

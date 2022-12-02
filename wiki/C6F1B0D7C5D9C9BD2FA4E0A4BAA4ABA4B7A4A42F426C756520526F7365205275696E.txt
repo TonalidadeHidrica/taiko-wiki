@@ -5,7 +5,7 @@
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 ||''Wii4SP''&br;iOS&br;AR|BGCOLOR(orangered):''ナムコオリジナル''|★×8|''466''|''887600点''|+連打|500点|120点|
-|AC15.1.2|Wii5SP&br;PS4 1DL|~|~|~|''895470点''|~|540点|140点|
+|AC15.1.2|Wii5SP&br;PS4 1DL&br;NS2MP|~|~|~|''895470点''|~|540点|140点|
 |COLOR(#f30):真打||~|~|~|COLOR(#f30):''998160点''|~|COLOR(#f30):1890点|-|
 |AC16.1.0||~|~|~|''996780点''|~|2130点|-|
 
@@ -21,13 +21,13 @@
 -平均密度は、''約4.08打/秒''。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Blue Rose Ruin]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Blue Rose Ruin#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Blue Rose Ruin]]
 -[[ふつう>難易度表/ふつう/Blue Rose Ruin]]
 -[[おに>難易度表/おに/Blue Rose Ruin]]
--[[オート動画(Wii5,キャプチャ)>http://www.youtube.com/watch?v=KG092uUnrzo]]
+-[[オート動画(Wii5)>http://www.youtube.com/watch?v=KG092uUnrzo]]
 
 ***コメント [#comment]
 #pcomment(,noname)

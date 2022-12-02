@@ -45,10 +45,10 @@ SIZE(16){''〜サブスク楽曲のアップデート履歴〜''}
 
 |CENTER:90|||c
 |>|>|CENTER:''12月の追加楽曲''|h
-|>|>|CENTER:BGCOLOR(pink):12/22 配信|
-|BGCOLOR(cyan):''ポップス''|[[''Smile & Go!!''>難易度表/おに/Smile ＆ Go!!]]|不白火フレア|
-|~|[[''ほめのび''>難易度表/おに/ほめのび]]|白銀ノエル|
-|>|>|CENTER:BGCOLOR(pink):12/8 配信|
+//|>|>|CENTER:BGCOLOR(pink):12/22 配信予定|
+//|BGCOLOR(cyan):''ポップス''|[[''Smile & Go!!''>難易度表/おに/Smile ＆ Go!!]]|不知火フレア|
+//|~|[[''ほめのび''>難易度表/おに/ほめのび]]|白銀ノエル|
+|>|>|CENTER:BGCOLOR(pink):12/8 配信予定|
 |BGCOLOR(cyan):''ポップス''|[[''LAST CHRISTMAS''>難易度表/おに/LAST CHRISTMAS]]||
 |~|[[''Habit''>難易度表/おに/Habit]]|映画『ホリック xxxHOLiC』主題歌|
 |BGCOLOR(orange):''アニメ''|[[''明け星''>難易度表/おに/明け星]]||

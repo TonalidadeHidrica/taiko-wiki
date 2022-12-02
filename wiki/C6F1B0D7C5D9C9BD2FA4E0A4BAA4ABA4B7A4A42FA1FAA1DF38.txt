@@ -6,7 +6,7 @@
 
 |>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|''ジャンルごとの譜面数''(ジャンル名を選択するとそのジャンルに移動します)|h
-|BGCOLOR(#49d5eb):~[[&color(black){%%%J-POP%%%};>#jpop]]|BGCOLOR(#fe90d2):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(#cbcfde):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(#0acc2a):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(#ded523):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(#cc8aeb):~[[&color(black){%%%ゲームミュージック%%%};>#GAME]]|BGCOLOR(#ff7028):~[[&color(black){%%%ナムコオリジナル%%%};>#namco]]|
+|BGCOLOR(#49d5eb):~[[&color(black){%%%ポップス%%%};>#jpop]]|BGCOLOR(#fe90d2):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(#cbcfde):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(#0acc2a):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(#ded523):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(#cc8aeb):~[[&color(black){%%%ゲームミュージック%%%};>#GAME]]|BGCOLOR(#ff7028):~[[&color(black){%%%ナムコオリジナル%%%};>#namco]]|
 |''2'' 譜面&br;(約1.44%)|''2'' 譜面&br;(約1.44%)|''5'' 譜面&br;(約3.6%)|''4'' 譜面&br;(約2.88%)|''14'' 譜面&br;(約10.08%)|''23'' 譜面&br;(約16.55%)|''90'' 譜面&br;(約64.03%)|
 ----
 -凡例&br;色付き数字・・・''譜面分岐あり''&br;紫色(COLOR(#909){''■''}) 　 ・・・''達人譜面''&br;青色(COLOR(#069){''■''}) 　 ・・・''玄人譜面''&br;灰色(COLOR(#666){''■''}) 　 ・・・''普通譜面''&br;括弧内　 　・・・(''1P・2P'')

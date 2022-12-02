@@ -1,10 +1,12 @@
-*ideal white [#title]
+*&ruby(アイディール){ideal}; &ruby(ホワイト){white}; [#title]
 -アニメ「''Fate/stay night [Unlimited Blade Works]''」のOP1。
 
 ***詳細 [#more]
-|CENTER:バージョン((太字は初出))|CENTER:難易度|CENTER:最大コンボ数|>|CENTER:天井スコア|CENTER:初項|CENTER:公差|h
-|CENTER:''PS Vita1''&br;''PS Vita1亜''|CENTER:★×4|CENTER:''103''|CENTER:''335650点''|CENTER:＋連打|CENTER:890点|CENTER:408点|
-|CENTER:COLOR(#ff3300){真打}|~|~|CENTER:COLOR(#ff3300){''979080点''}|~|CENTER:COLOR(#ff3300){7620点}|CENTER:-|
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''PS Vita1''|BGCOLOR(orange):''アニメ''|★×4|''103''|''335650点''|+連打|890点|408点|
+|''PS Vita1亜''|BGCOLOR(orange):''&#21345;通動畫&br;音樂''|~|~|~|~|~|~|
+|COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''979080点''}|~|COLOR(#ff3300){7620点}|-|
 
 ***譜面構成・攻略 [#capture]
 -BPMは180。
@@ -17,15 +19,13 @@
 -ゴーゴーで2回出てくる4分の単色7連打に注意。
 
 ***その他 [#other]
--アーティストは、''綾野ましろ''。
---作詞は、meg rock。作曲は、Carlos K.・Toshi-Fj。編曲は、Carlos K.。 
--譜面作成は、''カワーゲン・コラーゲン''。
+-楽曲情報は[[おに譜面>難易度表/おに/ideal white#other]]を参照。
 
 ----
 -[[ふつう>難易度表/ふつう/ideal white]]
 -[[むずかしい>難易度表/むずかしい/ideal white]]
 -[[おに>難易度表/おに/ideal white]]
--[[オート動画(キャプチャ)>http://www.youtube.com/watch?v=VBRCS2ZnZrw]]
+-[[オート動画(PS Vita)>http://www.youtube.com/watch?v=VBRCS2ZnZrw]]
 
 ***コメント [#comment]
 #pcomment(,noname)

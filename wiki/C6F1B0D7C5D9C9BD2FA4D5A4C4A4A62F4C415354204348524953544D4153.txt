@@ -1,4 +1,5 @@
-*LAST CHRISTMAS  [#title]
+*LAST CHRISTMAS [#title]
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -10,18 +11,13 @@
 -BPMは107。
 
 ***その他 [#other]
--アーティストは、''Wham!''（''ワム！''）。
---作詞・作曲は、George Michael。
---1984年にリリースされた第3弾シングルで、日本ではクリスマスのBGMとしておなじみの楽曲である。
----2008年には[[EXILE>アーティスト別収録曲#exile]]に和訳カバーされ話題となった。
--曲IDは、''lsxmas''。
+-楽曲情報は[[おに譜面>難易度表/おに/LAST CHRISTMAS#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/LAST CHRISTMAS]]
 -[[むずかしい>難易度表/むずかしい/LAST CHRISTMAS]]
 -[[おに>難易度表/おに/LAST CHRISTMAS]]
 -[[オート動画(NS1)>https://www.youtube.com/watch?v=fZUQYB4Reyk]]
--[[オート動画(NS1・真打・歌詞付き)>https://youtu.be/Iw2vvDktjYw]]
 
 ***コメント [#comment]
 #pcomment(,noname)
