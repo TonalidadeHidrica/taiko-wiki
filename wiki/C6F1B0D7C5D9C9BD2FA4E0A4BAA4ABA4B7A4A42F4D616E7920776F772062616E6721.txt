@@ -1,10 +1,11 @@
 *&ruby(メニー){Many}; &ruby(ワオ){wow}; &ruby(バン){bang};! [#title]
 -ナムコが2008年に発表したショートアニメ「''奥のデス道''」第一回の挿入歌。
+
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
 |''AC12増''&br;AC13|Wii2SP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''326''|''849300点''|＋連打|730点|190点|
-|AC15.2.7SP|Wii U3|~|~|~|''851560点''|~|800点|225点|
+|AC15.2.7SP|Wii U3&br;NS2MP|~|~|~|''851560点''|~|800点|225点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1001300点''}|~|COLOR(#ff3300){2950点}|-|
 |AC16.1.0||~|~|~|''999160点''|~|3060点|-|
 
@@ -17,18 +18,20 @@
 -ラストで1回だけ出てくる16分の複合4連打（COLOR(blue){○○○}COLOR(red){●}）に注意。
 
 ***その他 [#other]
--楽曲情報は[[おに(表)譜面>難易度表/おに/Many wow bang!]]を参照。
+-楽曲情報は[[おに(表)譜面>難易度表/おに/Many wow bang!#other]]を参照。
+
 ----
 -[[かんたん>難易度表/かんたん/Many wow bang!]]
 -[[ふつう>難易度表/ふつう/Many wow bang!]]
 -[[おに>難易度表/おに/Many wow bang!]]/[[裏譜面>難易度表/おに/Many wow bang!(裏譜面)]]
--[[オート動画(キャプチャ)>https://www.youtube.com/watch?v=0gNpn_YyrzU]]
+-[[オート動画(Wii U3)>https://www.youtube.com/watch?v=0gNpn_YyrzU]]
 
 ***コメント [#comment]
 -COLOR(#3333ff){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
 -COLOR(#3333ff){''難易度に関する話題は[[高難易度攻略wiki>http://www.wikihouse.com/yaminokaze/index.php?%C2%C0%B8%DD%A4%CE%C3%A3%BF%CD%20%B9%E2%C6%F1%B0%D7%C5%D9%B9%B6%CE%ACwiki]]や[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
-***譜面 [#fumen]
-~連打は1拍。風船はすべて11打。
+***譜面 [#score]
+~連打は1拍
+~風船はすべて11打
 ~&attachref(many_hard.png,nolink);
