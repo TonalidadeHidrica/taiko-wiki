@@ -9,7 +9,7 @@
 |~|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|~|~|~|~|~|
 
 ***譜面構成・攻略 [#capture]
--BPMは168。
+-BPMは約168。
 
 ***その他 [#other]
 -アーティストは、''A3ders!''。
@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~&attachref(A3秋冬ふつう.png,nolink);
+~&attachref(a3cos_n.png,nolink);

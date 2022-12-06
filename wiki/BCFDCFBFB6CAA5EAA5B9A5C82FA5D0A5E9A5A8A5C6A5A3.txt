@@ -207,7 +207,7 @@
 |''waitin' for u''|180|[[★×5>難易度表/かんたん/waitin' for u]]|[[★×6>難易度表/ふつう/waitin' for u]]|[[★×6>難易度表/むずかしい/waitin' for u]]|[[★×10>難易度表/おに/waitin' for u]]|-|
 |''WARNING×WARNING×WARNING''|172|[[★×2>難易度表/かんたん/WARNING×WARNING×WARNING]]|[[★×4>難易度表/ふつう/WARNING×WARNING×WARNING]]|[[★×5>難易度表/むずかしい/WARNING×WARNING×WARNING]]|[[★×9>難易度表/おに/WARNING×WARNING×WARNING]]|-|
 |''WE ARE THE CHAMP〜THE NAME OF THE GAME〜 ''|101.5-123|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/WE ARE THE CHAMP]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/WE ARE THE CHAMP]]|BGCOLOR(#ccc):[[★×2>難易度表/おに/WE ARE THE CHAMP]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/WE ARE THE CHAMP]]|-|
-|''WE WILL ROCK YOU''|162※|[[★×2>難易度表/かんたん/We Will Rock You]]|[[★×2>難易度表/ふつう/We Will Rock You]]|[[★×3>難易度表/むずかしい/We Will Rock You]]|[[★×5>難易度表/おに/We Will Rock You]]|-|
+|''WE WILL ROCK YOU''|162.55|[[★×2>難易度表/かんたん/We Will Rock You]]|[[★×2>難易度表/ふつう/We Will Rock You]]|[[★×3>難易度表/むずかしい/We Will Rock You]]|[[★×5>難易度表/おに/We Will Rock You]]|-|
 //|>|>|>|>|>|>|BGCOLOR(#0acc2a):CENTER:''数字''&aname(number);|
 
 **TDM限定曲 [#tdm]
