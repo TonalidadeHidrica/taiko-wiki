@@ -294,8 +294,8 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 //|>|>|BGCOLOR(cyan):|[[ultra soul(仕分け∞)>難易度表/おに/ultra soul]]|''2.542''|126.5|340|133.75秒||
 |>|>|BGCOLOR(goldenrod):|[[ワルキューレの騎行>難易度表/おに/ワルキューレの騎行]]|''2.520''|100|372|147.60秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''2.500未満''|
-|>|BGCOLOR(cyan):|BGCOLOR(lime):|[[【双打】 WE WILL ROCK YOU>難易度表/おに/We Will Rock You]]|''2.407''|162.55※|207|86.00秒|1P|
-|>|BGCOLOR(cyan):|BGCOLOR(lime):|[[【双打】 WE WILL ROCK YOU>難易度表/おに/We Will Rock You]]|''2.384''|162.55※|205|86.00秒|2P|
+|>|BGCOLOR(cyan):|BGCOLOR(lime):|[[【双打】 WE WILL ROCK YOU>難易度表/おに/We Will Rock You]]|''2.407''|162.55|207|86.00秒|1P|
+|>|BGCOLOR(cyan):|BGCOLOR(lime):|[[【双打】 WE WILL ROCK YOU>難易度表/おに/We Will Rock You]]|''2.384''|162.55|205|86.00秒|2P|
 |>|>|BGCOLOR(orange):|[[VAMOLA！ キョウリュウジャー>難易度表/おに/VAMOLA!キョウリュウジャー]]|''2.320''|148.00※|222|95.67秒||
 |>|>|BGCOLOR(cyan):|[[ミセナイナミダハ、きっといつか>難易度表/おに/ミセナイナミダハ、きっといつか]]|''2.209''|83.01※|204|92.34秒||
 |>|>|BGCOLOR(cyan):|[[海の声>難易度表/おに/海の声]]|''2.167''|76|260|120.00秒||

@@ -387,6 +387,7 @@
 |''GLAMOROUS SKY''|150※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/GLAMOROUS SKY]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/GLAMOROUS SKY]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/GLAMOROUS SKY]]|BGCOLOR(#ccc):[[★×5>難易度表/おに/GLAMOROUS SKY]]|-|
 |''GOLDFINGER'99''|180|-|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/GOLDFINGER'99]]|-|-|-|
 |''GOOD BYE 夏男''|159((おには159-318))|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/GOOD BYE 夏男]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/GOOD BYE 夏男]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/GOOD BYE 夏男]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/GOOD BYE 夏男]]|-|
+|''Habit''|118|[[★×2>難易度表/かんたん/Habit]]|[[★×4>難易度表/ふつう/Habit]]|[[★×5>難易度表/むずかしい/Habit]]|[[★×7>難易度表/おに/Habit]]|[[★×8>難易度表/おに/Habit(裏譜面)]]|
 |''Hello, Morning''|160|[[★×3>難易度表/かんたん/Hello, Morning]]|[[★×4>難易度表/ふつう/Hello, Morning]]|[[★×5>難易度表/むずかしい/Hello, Morning]]|[[★×7>難易度表/おに/Hello, Morning]]|[[★×8>難易度表/おに/Hello, Morning(裏譜面)]]|
 |''Hello,world!''|211|[[★×4>難易度表/かんたん/Hello,world!]]|[[★×5>難易度表/ふつう/Hello,world!]]|[[★×6>難易度表/むずかしい/Hello,world!]]|[[★×7>難易度表/おに/Hello,world!]]|-|
 |''Hero''|98-125|[[★×2>難易度表/かんたん/Hero]]|[[★×3>難易度表/ふつう/Hero]]|[[★×3>難易度表/むずかしい/Hero]]|[[★×7>難易度表/おに/Hero]]|-|

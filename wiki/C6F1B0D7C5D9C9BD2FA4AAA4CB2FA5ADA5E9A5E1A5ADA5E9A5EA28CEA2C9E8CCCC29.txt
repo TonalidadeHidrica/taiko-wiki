@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''3DS2DL''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×9|''691''|''1104960点''|450点|118点|
+|''3DS2DL''&br;NS2MP|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×9|''691''|''1104960点''|450点|118点|
 |COLOR(#ff3300){PS Vita MSSP}|BGCOLOR(#00cc66):''MASTER&br;ARTIST''|~|~|~|~|~|
 |COLOR(red){真打}|~|~|~|COLOR(red){''1000550点''}|COLOR(red){1350点}|-|
 

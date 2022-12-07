@@ -33,5 +33,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-黄色連打は下の画像より48分音符1つ分短い
-&attachref(lovwhi_n.png,nolink);
+&attachref(lovwhi_n_2.png,nolink);

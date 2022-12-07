@@ -92,7 +92,7 @@
 |''BLAZING''|151-190|[[★×4>難易度表/かんたん/BLAZING]]|[[★×6>難易度表/ふつう/BLAZING]]|[[★×6>難易度表/むずかしい/BLAZING]]|[[★×7>難易度表/おに/BLAZING]]|-|
 |''BLAZING VORTEX''|173|[[★×5>難易度表/かんたん/BLAZING VORTEX]]|[[★×6>難易度表/ふつう/BLAZING VORTEX]]|[[★×7>難易度表/むずかしい/BLAZING VORTEX]]|[[★×7>難易度表/おに/BLAZING VORTEX]]|[[★×10>難易度表/おに/BLAZING VORTEX(裏譜面)]]|
 |''Blessed Bouquet Buskers''|188|[[★×4>難易度表/かんたん/Blessed Bouquet Buskers]]|[[★×5>難易度表/ふつう/Blessed Bouquet Buskers]]|[[★×6>難易度表/むずかしい/Blessed Bouquet Buskers]]|[[★×10>難易度表/おに/Blessed Bouquet Buskers]]|-|
-|''Blood Rage''|162|[[★×3>難易度表/かんたん/Blood Rage]]|[[★×5>難易度表/ふつう/Blood Rage]]|[[★×5>難易度表/むずかしい/Blood Rage]]|[[★×7>難易度表/おに/Blood Rage]]|-|
+|''Blood Rage''|162|[[★×3>難易度表/かんたん/Blood Rage]]|[[★×5>難易度表/ふつう/Blood Rage]]|[[★×5>難易度表/むずかしい/Blood Rage]]|[[★×7>難易度表/おに/Blood Rage]]|[[★×9>難易度表/おに/Blood Rage(裏譜面)]]|
 |''Blue Rose Ruin''|185|[[★×5>難易度表/かんたん/Blue Rose Ruin]]|[[★×7>難易度表/ふつう/Blue Rose Ruin]]|[[★×8>難易度表/むずかしい/Blue Rose Ruin]]|[[★×8>難易度表/おに/Blue Rose Ruin]]|-|
 |''BLUE SAPPHIRE''|99|[[★×2>難易度表/かんたん/BLUE SAPPHIRE]]|[[★×3>難易度表/ふつう/BLUE SAPPHIRE]]|[[★×6>難易度表/むずかしい/BLUE SAPPHIRE]]|[[★×6>難易度表/おに/BLUE SAPPHIRE]]|[[★×8>難易度表/おに/BLUE SAPPHIRE(裏譜面)]]|
 |''BLUE TOPAZ''|130.6|[[★×4>難易度表/かんたん/BLUE TOPAZ]]|[[★×5>難易度表/ふつう/BLUE TOPAZ]]|[[★×7>難易度表/むずかしい/BLUE TOPAZ]]|[[★×8>難易度表/おに/BLUE TOPAZ]]|-|
@@ -277,7 +277,8 @@
 ***H〜N [#HN]
 ||LEFT:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|CENTER:64|c
 |''曲名''(五十音順)|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
-|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''H''(全 35 曲)&aname(HHH);|
+|>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''H''(全 36 曲)&aname(HHH);|
+|''Habit''|118|[[★×2>難易度表/かんたん/Habit]]|[[★×4>難易度表/ふつう/Habit]]|[[★×5>難易度表/むずかしい/Habit]]|[[★×7>難易度表/おに/Habit]]|[[★×8>難易度表/おに/Habit(裏譜面)]]|
 |''Hacking to the Gate''|161|[[★×2>難易度表/かんたん/Hacking to the Gate]]|[[★×2>難易度表/ふつう/Hacking to the Gate]]|[[★×3>難易度表/むずかしい/Hacking to the Gate]]|[[★×6>難易度表/おに/Hacking to the Gate]]|-|
 |''Hand Over (Prod. TEMPLIME)''|140|[[★×3>難易度表/かんたん/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/ふつう/Hand Over (Prod. TEMPLIME)]]|[[★×4>難易度表/むずかしい/Hand Over (Prod. TEMPLIME)]]|[[★×9>難易度表/おに/Hand Over (Prod. TEMPLIME)]]|-|
 |''HANDS UP!''|130|[[★×3>難易度表/かんたん/HANDS UP!]]|[[★×5>難易度表/ふつう/HANDS UP!]]|[[★×6>難易度表/むずかしい/HANDS UP!]]|[[★×7>難易度表/おに/HANDS UP!]]|-|

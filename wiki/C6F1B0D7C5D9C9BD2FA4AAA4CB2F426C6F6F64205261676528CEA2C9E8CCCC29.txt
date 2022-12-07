@@ -1,0 +1,28 @@
+*Blood Rage(裏譜面) [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''NS2MP''|BGCOLOR(darkorchid):&color(white){''ゲーム&br;ミュージック''};|★×9|''1033''|''1102300点''|310点|73点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''??????0点''}|COLOR(#ff3300){950点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは162。
+-''精度曲''のひとつ。
+-1曲を通しての平均密度は、''約8.11打/秒''である。
+
+***その他 [#other]
+-楽曲情報は[[表譜面>難易度表/おに/Blood Rage#other]]を参照。
+
+----
+-[[かんたん>難易度表/かんたん/Blood Rage]]
+-[[ふつう>難易度表/ふつう/Blood Rage]]
+-[[むずかしい>難易度表/むずかしい/Blood Rage]]
+-[[おに>../Blood Rage]]/裏譜面
+-[[オート動画>https://www.youtube.com/watch?v=f6oii2e__ow]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(godea3_x.png,nolink);

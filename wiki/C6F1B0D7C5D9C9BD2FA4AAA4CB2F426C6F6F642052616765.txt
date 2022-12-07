@@ -4,7 +4,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''PS Vita1''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×7|''555''|''986270点''|＋連打|510点|120点|
+|''PS Vita1''&br;NS2MP|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×7|''555''|''986270点''|＋連打|510点|120点|
 |''PS Vita1亜''|BGCOLOR(darkorchid):COLOR(white){''遊戯音樂''}|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}||~|~|COLOR(#ff3300){''988860点''}|~|COLOR(#ff3300){1610点}|-|
 
@@ -26,7 +26,7 @@
 -[[かんたん>難易度表/かんたん/Blood Rage]]
 -[[ふつう>難易度表/ふつう/Blood Rage]]
 -[[むずかしい>難易度表/むずかしい/Blood Rage]]
-//-おに/[[裏譜面>難易度表/おに/Blood Rage(裏譜面)]]
+-おに/[[裏譜面>難易度表/おに/Blood Rage(裏譜面)]]
 -[[オート動画>https://www.youtube.com/watch?v=9jZRTigcLn8]]
 
 ***コメント [#comment]

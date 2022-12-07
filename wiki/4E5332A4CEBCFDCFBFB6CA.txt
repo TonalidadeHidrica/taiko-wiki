@@ -152,6 +152,6 @@
 
 *コメント [#comment]
 -COLOR(#33f){''収録曲や追加機能等の予想や希望に関する話題はお控えください。''}製品アンケートは[[%%%''こちら''%%%>https://enq.bn-ent.net/enquete.php?eid=95]]((実施期間：2022/09/22 10:00〜2022/12/22 23:59))。
--COLOR(#00b050){''質問をする前にまずは自身で調べましょう。''}[[%%%''よくあるご質問''%%%>https://dondafulfestival-20th.taiko-ch.net/qa/faq.php]]をまずは見てみましょう。COLOR(#33f){''公式へのお問い合わせは[[%%%こちら%%%>https://bnfaq-support.channel.or.jp/inquiry/TT_dondafulf_NSW_net/input]]から。''}
+-COLOR(#00b050){''質問をする前にまずは自身で調べましょう。''}[[%%%''よくあるご質問''%%%>https://dondafulfestival-20th.taiko-ch.net/qa/faq.php]]や[[%%%''コメント(過去ログ)''%%%>コメント/NS2の収録曲]]をまずは見てみましょう。COLOR(#33f){''公式へのお問い合わせは[[%%%こちら%%%>https://bnfaq-support.channel.or.jp/inquiry/TT_dondafulf_NSW_net/input]]から。''}
 
 #pcomment(,10,noname,reply)

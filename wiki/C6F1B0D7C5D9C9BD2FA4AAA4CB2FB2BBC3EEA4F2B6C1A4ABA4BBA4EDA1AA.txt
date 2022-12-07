@@ -1,0 +1,27 @@
+*音虫を響かせろ！ [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
+|''NS2MP''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''582''|''??????0点''|+連打|570点|145点|
+|COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''??????0点''}|~|COLOR(#ff3300){1640点}|-|
+
+***譜面構成・攻略 [#capture]
+-BPMは150。
+
+***その他 [#other]
+-作曲は、[[''KiWi''>参加アーティスト一覧/KiWi]]・[[''Sho Okada''>参加アーティスト一覧/Sho Okada]]。作詞は、''&#75;iWi''。
+-曲IDは、''otomuh''。
+
+----
+-[[かんたん>難易度表/かんたん/音虫を響かせろ！]]
+-[[ふつう>難易度表/ふつう/音虫を響かせろ！]]
+-[[むずかしい>難易度表/むずかしい/音虫を響かせろ！]]
+-[[オート動画>https://www.youtube.com/watch?v=CzJG0QuEnA0]]
+-[[公式MV>https://www.youtube.com/watch?v=wfFfs6KZ23Q]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+&attachref(otomuh_m.png,nolink);

@@ -229,7 +229,7 @@
 |''AWAKE ¡Á¥Ş¥Ã¥¹¥ëÌÜ³Ğ¤á¤Î¥Æ¡¼¥Ş¡Á''|182|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/AWAKE]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/AWAKE]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/AWAKE]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/AWAKE]]|-|
 |''Baladium's drive''|120|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Baladium's drive]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Baladium's drive]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Baladium's drive]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/Baladium's drive]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Baladium's drive(Î¢ÉèÌÌ)]]|
 |''BLAZING VORTEX''|173|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/BLAZING VORTEX]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/BLAZING VORTEX]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/BLAZING VORTEX]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/BLAZING VORTEX]]|[[¡ú¡ß10>Æñ°×ÅÙÉ½/¤ª¤Ë/BLAZING VORTEX(Î¢ÉèÌÌ)]]|
-|''Blood Rage''|162|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Blood Rage]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Blood Rage]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Blood Rage]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/Blood Rage]]|-|
+|''Blood Rage''|162|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Blood Rage]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Blood Rage]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Blood Rage]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/Blood Rage]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Blood Rage(Î¢ÉèÌÌ)]]|
 |''BLUE TOPAZ''|130.6|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/BLUE TOPAZ]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/BLUE TOPAZ]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/BLUE TOPAZ]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/BLUE TOPAZ]]|-|
 |''BORN ON DREAM! ¡ÁHANABI¡ùNIGHT¡Á''|152|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/BORN ON DREAM! ¡ÁHANABI¡ùNIGHT¡Á]]|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/BORN ON DREAM! ¡ÁHANABI¡ùNIGHT¡Á]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/BORN ON DREAM! ¡ÁHANABI¡ùNIGHT¡Á]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/BORN ON DREAM! ¡ÁHANABI¡ùNIGHT¡Á]]|-|
 |''Brand New Theater!''|177|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Brand New Theater!]]|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Brand New Theater!]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Brand New Theater!]]|[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤ª¤Ë/Brand New Theater!]]|-|
