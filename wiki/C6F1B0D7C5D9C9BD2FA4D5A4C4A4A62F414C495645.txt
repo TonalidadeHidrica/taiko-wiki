@@ -15,7 +15,7 @@
 -[[かんたん>難易度表/かんたん/ALIVE]]
 -[[むずかしい>難易度表/むずかしい/ALIVE]]
 -[[おに>難易度表/おに/ALIVE]]
-//-[[プレイ動画>]]
+-[[プレイ動画>https://youtu.be/IsGodKFNqL8]]
 
 ***コメント [#comment]
 #pcomment(,noname)

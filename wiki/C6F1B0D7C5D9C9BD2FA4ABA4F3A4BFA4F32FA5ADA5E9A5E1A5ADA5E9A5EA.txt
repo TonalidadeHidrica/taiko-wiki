@@ -13,7 +13,7 @@
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&&br;バラエティ''}|~|~|~|~|~|~|
 |AC16.2.0||BGCOLOR(hotpink):''アニメ''|~|~|~|~|~|~|
 |~|~|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|~|~|~|~|~|
-||''3DS2DL''|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|★×3|''140''|''291730点''|+連打|490点|160点|
+||''3DS2DL''&br;NS2MP|BGCOLOR(darkorchid):COLOR(white){''ゲーム&br;ミュージック''}|~|''140''|''291370点''|+連打|490点|160点|
 ||COLOR(#ff3300){PS Vita MS}|BGCOLOR(#00cc66):''MASTER&br;ARTIST''|~|~|~|~|~|~|
 ||COLOR(#ff3300){真打}|~|~|~|COLOR(#ff3300){''?????0点''}|~|COLOR(#ff3300){???0点}|-|
 

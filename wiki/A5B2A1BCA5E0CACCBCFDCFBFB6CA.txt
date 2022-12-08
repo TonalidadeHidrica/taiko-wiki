@@ -104,7 +104,7 @@
 |~|~|BGCOLOR(silver):[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/No Way Back(Î¢ÉèÌÌ)]]|BGCOLOR(silver):[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/No Way Back(Î¢ÉèÌÌ)]]|BGCOLOR(silver):[[¡ú¡ß8>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/No Way Back(Î¢ÉèÌÌ)]]|-|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/No Way Back(Î¢ÉèÌÌ)]]|
 |''Ìµ»üÈá¤Ê²¦''&br;¡¡¡¡SIZE(11){GOD EATER BURST}|150¢¨|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Ìµ»üÈá¤Ê²¦]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Ìµ»üÈá¤Ê²¦]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Ìµ»üÈá¤Ê²¦]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/Ìµ»üÈá¤Ê²¦]]|-|
 |''Wings of Tomorrow(Tatsujin Mix)''&br;¡¡¡¡SIZE(11){GOD EATER 2}|160¢¨|[[¡ú¡ß4>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Wings of Tomorrow (Tatsujin Mix)]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Wings of Tomorrow (Tatsujin Mix)]]|[[¡ú¡ß6>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Wings of Tomorrow (Tatsujin Mix)]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Wings of Tomorrow (Tatsujin Mix)]]|-|
-|''Blood Rage''&br;¡¡¡¡SIZE(11){GOD EATER 2 RAGE BURST}|162|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Blood Rage]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Blood Rage]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Blood Rage]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/Blood Rage]]|-|
+|''Blood Rage''&br;¡¡¡¡SIZE(11){GOD EATER 2 RAGE BURST}|162|[[¡ú¡ß3>Æñ°×ÅÙÉ½/¤«¤ó¤¿¤ó/Blood Rage]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤Õ¤Ä¤¦/Blood Rage]]|[[¡ú¡ß5>Æñ°×ÅÙÉ½/¤à¤º¤«¤·¤¤/Blood Rage]]|[[¡ú¡ß7>Æñ°×ÅÙÉ½/¤ª¤Ë/Blood Rage]]|[[¡ú¡ß9>Æñ°×ÅÙÉ½/¤ª¤Ë/Blood Rage(Î¢ÉèÌÌ)]]|
 
 ***¥¼¥Ó¥¦¥¹ [#xevious]
 ||LEFT:60|>|>|>|>|CENTER:42|c

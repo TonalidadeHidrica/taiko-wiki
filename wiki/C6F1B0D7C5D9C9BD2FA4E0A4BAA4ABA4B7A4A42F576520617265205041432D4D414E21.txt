@@ -17,7 +17,7 @@
 -[[かんたん>難易度表/かんたん/We are PAC-MAN!]]
 -[[ふつう>難易度表/ふつう/We are PAC-MAN!]]
 -[[おに>難易度表/おに/We are PAC-MAN!]]
-//-[[オート動画(NS2)>]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=MvAmt1Lg9_I]]
 
 ***コメント [#comment]
 #pcomment(,noname)

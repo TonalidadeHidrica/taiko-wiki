@@ -1,4 +1,4 @@
-*&ruby(ラビン){Lovin'}; &ruby(ライフ){Life}; [#title]
+*&ruby(ラビン){Lovin};' &ruby(ライフ){Life}; [#title]
 
 ***詳細 [#more]
 |>|>|>|>|>|>|CENTER:|c
