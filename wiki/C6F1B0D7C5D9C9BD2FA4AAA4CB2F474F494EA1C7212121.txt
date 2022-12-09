@@ -47,5 +47,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~連打の長さとHSは適当
-~&attachref(GOIN’!!!_f.png,nolink);
+~&attachref(imc5in_m.png,nolink);

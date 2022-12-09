@@ -89,10 +89,8 @@
 ***源平討魔伝 [#genpei]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
-|''KAGEKIYO''|130※|[[★×4>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー]]|[[★×5>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]|[[★×7>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]|[[★×8>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|-|
-|~|~|BGCOLOR(silver):[[★×4>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|BGCOLOR(silver):[[★×5>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|-|[[★×10>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|
-|''SAMURAI ROCKET''((リッジレーサーシリーズの楽曲だが、源平討魔伝のBGMのアレンジであるためこちらにも記載))|136|[[★×4>難易度表/かんたん/SAMURAI ROCKET]]|[[★×5>難易度表/ふつう/SAMURAI ROCKET]]|[[★×7>難易度表/むずかしい/SAMURAI ROCKET]]|[[★×8>難易度表/おに/SAMURAI ROCKET]]|-|
-|~|~|BGCOLOR(silver):[[★×5>難易度表/かんたん/SAMURAI ROCKET(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/SAMURAI ROCKET(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/SAMURAI ROCKET(裏譜面)]]|-|[[★×9>難易度表/おに/SAMURAI ROCKET(裏譜面)]]|
+|''KAGEKIYO''|130※|[[★×4>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー]]|[[★×5>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]|[[★×7>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]|[[★×8>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|[[★×10>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|
+|''SAMURAI ROCKET''((リッジレーサーシリーズの楽曲だが、源平討魔伝のBGMのアレンジであるためこちらにも記載))|136|[[★×4>難易度表/かんたん/SAMURAI ROCKET]]|[[★×5>難易度表/ふつう/SAMURAI ROCKET]]|[[★×7>難易度表/むずかしい/SAMURAI ROCKET]]|[[★×8>難易度表/おに/SAMURAI ROCKET]]|[[★×9>難易度表/おに/SAMURAI ROCKET(裏譜面)]]|
 |''KAGYUKIYO''|65-130※|BGCOLOR(silver):[[★×5>難易度表/かんたん/KAGYUKIYO]]|BGCOLOR(silver):[[★×6>難易度表/ふつう/KAGYUKIYO]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/KAGYUKIYO]]|BGCOLOR(silver):[[★×8>難易度表/おに/KAGYUKIYO]]|BGCOLOR(silver):-|
 |''SHOGYO MUJO''|148|[[★×2>難易度表/かんたん/SHOGYO MUJO]]|[[★×3>難易度表/ふつう/SHOGYO MUJO]]|[[★×7>難易度表/むずかしい/SHOGYO MUJO]]|[[★×9>難易度表/おに/SHOGYO MUJO]]|-|
 |''World of GENPEI TOMADEN''|160|[[★×4>難易度表/かんたん/World of GENPEI TOMADEN]]|[[★×6>難易度表/ふつう/World of GENPEI TOMADEN]]|[[★×6>難易度表/むずかしい/World of GENPEI TOMADEN]]|[[★×8>難易度表/おに/World of GENPEI TOMADEN]]|-|
@@ -100,8 +98,7 @@
 ***GOD EATER [#eater]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
-|''No Way Back''&br;　　SIZE(11){GOD EATER}|158※|[[★×4>難易度表/かんたん/No Way Back]]|[[★×6>難易度表/ふつう/No Way Back]]|[[★×7>難易度表/むずかしい/No Way Back]]|[[★×8>難易度表/おに/No Way Back]]|-|
-|~|~|BGCOLOR(silver):[[★×5>難易度表/かんたん/No Way Back(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/No Way Back(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/No Way Back(裏譜面)]]|-|[[★×9>難易度表/おに/No Way Back(裏譜面)]]|
+|''No Way Back''&br;　　SIZE(11){GOD EATER}|158※|[[★×4>難易度表/かんたん/No Way Back]]|[[★×6>難易度表/ふつう/No Way Back]]|[[★×7>難易度表/むずかしい/No Way Back]]|[[★×8>難易度表/おに/No Way Back]]|[[★×9>難易度表/おに/No Way Back(裏譜面)]]|
 |''無慈悲な王''&br;　　SIZE(11){GOD EATER BURST}|150※|[[★×3>難易度表/かんたん/無慈悲な王]]|[[★×6>難易度表/ふつう/無慈悲な王]]|[[★×6>難易度表/むずかしい/無慈悲な王]]|[[★×7>難易度表/おに/無慈悲な王]]|-|
 |''Wings of Tomorrow(Tatsujin Mix)''&br;　　SIZE(11){GOD EATER 2}|160※|[[★×4>難易度表/かんたん/Wings of Tomorrow (Tatsujin Mix)]]|[[★×6>難易度表/ふつう/Wings of Tomorrow (Tatsujin Mix)]]|[[★×6>難易度表/むずかしい/Wings of Tomorrow (Tatsujin Mix)]]|[[★×9>難易度表/おに/Wings of Tomorrow (Tatsujin Mix)]]|-|
 |''Blood Rage''&br;　　SIZE(11){GOD EATER 2 RAGE BURST}|162|[[★×3>難易度表/かんたん/Blood Rage]]|[[★×5>難易度表/ふつう/Blood Rage]]|[[★×5>難易度表/むずかしい/Blood Rage]]|[[★×7>難易度表/おに/Blood Rage]]|[[★×9>難易度表/おに/Blood Rage(裏譜面)]]|
@@ -229,8 +226,7 @@
 ***リッジレーサーシリーズ [#rr]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
-|''Ridge Racer''&br;　　SIZE(11){リッジレーサー}|140※|[[★×4>難易度表/かんたん/Ridge Racer]]|[[★×7>難易度表/ふつう/Ridge Racer]]|[[★×8>難易度表/おに/Ridge Racer]]|[[★×8>難易度表/おに/Ridge Racer]]|-|
-|~|~|BGCOLOR(silver):[[★×4>難易度表/かんたん/Ridge Racer(裏譜面)]]|BGCOLOR(silver):[[★×6>難易度表/ふつう/Ridge Racer(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/Ridge Racer(裏譜面)]]|-|[[★×9>難易度表/おに/Ridge Racer(裏譜面)]]|
+|''Ridge Racer''&br;　　SIZE(11){リッジレーサー}|140※|[[★×4>難易度表/かんたん/Ridge Racer]]|[[★×7>難易度表/ふつう/Ridge Racer]]|[[★×8>難易度表/おに/Ridge Racer]]|[[★×8>難易度表/おに/Ridge Racer]]|[[★×9>難易度表/おに/Ridge Racer(裏譜面)]]|
 |''RARE HERO''&br;　　SIZE(11){リッジレーサー}|136.35※|[[★×5>難易度表/かんたん/Rare Hero]]|[[★×7>難易度表/ふつう/Rare Hero]]|[[★×7>難易度表/むずかしい/Rare Hero]]|[[★×8>難易度表/おに/Rare Hero]]|-|
 |''ROTTERDAM NATION(FOO MIX)''&br;　　SIZE(11){リッジレーサー}|185-221|BGCOLOR(silver):[[★×5>難易度表/かんたん/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(silver):[[★×6>難易度表/ふつう/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(silver):[[★×7>難易度表/むずかしい/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(silver):[[★×10>難易度表/おに/ROTTERDAM NATION(FOO MIX)]]|BGCOLOR(silver):-|
 |''BLUE TOPAZ''&br;　　SIZE(11){レイブレーサー}|130.6|[[★×4>難易度表/かんたん/BLUE TOPAZ]]|[[★×5>難易度表/ふつう/BLUE TOPAZ]]|[[★×7>難易度表/むずかしい/BLUE TOPAZ]]|[[★×8>難易度表/おに/BLUE TOPAZ]]|-|
@@ -238,8 +234,7 @@
 |''URBAN FRAGMENTS''&br;　　SIZE(11){R4 -RIDGE RACER TYPE4-}|144※|[[★×4>難易度表/かんたん/URBAN FRAGMENTS]]|[[★×4>難易度表/ふつう/URBAN FRAGMENTS]]|[[★×6>難易度表/むずかしい/URBAN FRAGMENTS]]|[[★×8>難易度表/おに/URBAN FRAGMENTS]]|-|
 |''Naked Glow''&br;　　SIZE(11){R4 -RIDGE RACER TYPE4-}|133.05|[[★×4>難易度表/かんたん/Naked Glow]]|[[★×6>難易度表/ふつう/Naked Glow]]|[[★×7>難易度表/むずかしい/Naked Glow]]|[[★×9>難易度表/おに/Naked Glow]]|-|
 |''EAT'EM UP!''&br;　　SIZE(11){R4 -RIDGE RACER TYPE4-}|152|[[★×3>難易度表/かんたん/EAT'EM UP!]]|[[★×5>難易度表/ふつう/EAT'EM UP!]]|[[★×6>難易度表/むずかしい/EAT'EM UP!]]|[[★×8>難易度表/おに/EAT'EM UP!]]|-|
-|''SAMURAI ROCKET''&br;　　SIZE(11){RIDGE RACER V}|136|[[★×4>難易度表/かんたん/SAMURAI ROCKET]]|[[★×5>難易度表/ふつう/SAMURAI ROCKET]]|[[★×7>難易度表/むずかしい/SAMURAI ROCKET]]|[[★×8>難易度表/おに/SAMURAI ROCKET]]|-|
-|~|~|BGCOLOR(silver):[[★×5>難易度表/かんたん/SAMURAI ROCKET(裏譜面)]]|BGCOLOR(silver):[[★×7>難易度表/ふつう/SAMURAI ROCKET(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/むずかしい/SAMURAI ROCKET(裏譜面)]]|-|[[★×9>難易度表/おに/SAMURAI ROCKET(裏譜面)]]|
+|''SAMURAI ROCKET''&br;　　SIZE(11){RIDGE RACER V}|136|[[★×4>難易度表/かんたん/SAMURAI ROCKET]]|[[★×5>難易度表/ふつう/SAMURAI ROCKET]]|[[★×7>難易度表/むずかしい/SAMURAI ROCKET]]|[[★×8>難易度表/おに/SAMURAI ROCKET]]|[[★×9>難易度表/おに/SAMURAI ROCKET(裏譜面)]]|
 |''Kamikaze Remix''&br;　　SIZE(11){RIDGE RACERS 2}|158※|[[★×3>難易度表/かんたん/Kamikaze Remix]]|[[★×6>難易度表/ふつう/Kamikaze Remix]]|[[★×8>難易度表/むずかしい/Kamikaze Remix]]|[[★×10>難易度表/おに/Kamikaze Remix]]|-|
 |''Venomous''&br;　　SIZE(11){リッジレーサー3D}|224※|[[★×5>難易度表/かんたん/Venomous]]|[[★×6>難易度表/ふつう/Venomous]]|[[★×7>難易度表/むずかしい/Venomous]]|[[★×9>難易度表/おに/Venomous]]|[[★×10>難易度表/おに/Venomous(裏譜面)]]|
 |''Angel Halo''&br;　　SIZE(11){リッジレーサー3D}|224|[[★×5>難易度表/かんたん/Angel Halo]]|[[★×7>難易度表/ふつう/Angel Halo]]|[[★×8>難易度表/むずかしい/Angel Halo]]|[[★×10>難易度表/おに/Angel Halo]]|-|
@@ -435,12 +430,12 @@
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
 |''TO MAKE THE END OF BATTLE''&br;　　SIZE(11){イースI&IIクロニクルズ}|232.4|[[★×4>難易度表/かんたん/TO MAKE THE END OF BATTLE]]|[[★×5>難易度表/ふつう/TO MAKE THE END OF BATTLE]]|[[★×7>難易度表/むずかしい/TO MAKE THE END OF BATTLE]]|[[★×7>難易度表/おに/TO MAKE THE END OF BATTLE]]|-|
 |''Seize the day''&br;　　SIZE(11){東亰ザナドゥ}|210|[[★×4>難易度表/かんたん/Seize the day]]|[[★×5>難易度表/ふつう/Seize the day]]|[[★×7>難易度表/むずかしい/Seize the day]]|[[★×9>難易度表/おに/Seize the day]]|-|
-|''悲しき蒼穹を翔ける''&br;　　SIZE(11){ぐるみん}|140|[[★×2>難易度表/かんたん/悲しき蒼穹を翔ける]]|[[★×4>難易度表/ふつう/悲しき蒼穹を翔ける]]|[[★×6>難易度表/むずかしい/悲しき蒼穹を翔ける]]|[[★×8>難易度表/おに/悲しき蒼穹を翔ける]]|-|
+|''悲しき蒼穹を翔ける''&br;　　SIZE(11){ぐるみん}|140※|[[★×2>難易度表/かんたん/悲しき蒼穹を翔ける]]|[[★×4>難易度表/ふつう/悲しき蒼穹を翔ける]]|[[★×6>難易度表/むずかしい/悲しき蒼穹を翔ける]]|[[★×8>難易度表/おに/悲しき蒼穹を翔ける]]|-|
 
 ***英雄伝説  [#au]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
-|''銀の意志 Super Arrange Ver.''&br;　　SIZE(11){英雄伝説 空の軌跡SC}|140|[[★×4>難易度表/かんたん/銀の意志 Super Arrange Ver.]]|[[★×5>難易度表/ふつう/銀の意志 Super Arrange Ver.]]|[[★×6>難易度表/むずかしい/銀の意志 Super Arrange Ver.]]|[[★×8>難易度表/おに/銀の意志 Super Arrange Ver.]]|-|
+|''銀の意志 Super Arrange Ver.''&br;　　SIZE(11){英雄伝説 空の軌跡SC}|140※|[[★×4>難易度表/かんたん/銀の意志 Super Arrange Ver.]]|[[★×5>難易度表/ふつう/銀の意志 Super Arrange Ver.]]|[[★×6>難易度表/むずかしい/銀の意志 Super Arrange Ver.]]|[[★×8>難易度表/おに/銀の意志 Super Arrange Ver.]]|-|
 |''明日への鼓動''&br;　　SIZE(11){英雄伝説 閃の軌跡}|173|[[★×3>難易度表/かんたん/明日への鼓動]]|[[★×5>難易度表/ふつう/明日への鼓動]]|[[★×6>難易度表/むずかしい/明日への鼓動]]|[[★×6>難易度表/おに/明日への鼓動]]|-|
 |''閃光の行方''&br;　　SIZE(11){英雄伝説 閃の軌跡II}|175|[[★×3>難易度表/かんたん/閃光の行方]]|[[★×5>難易度表/ふつう/閃光の行方]]|[[★×6>難易度表/むずかしい/閃光の行方]]|[[★×7>難易度表/おに/閃光の行方]]|-|
 
@@ -448,20 +443,20 @@
 ***グランブルーファンタジー(([[''オイラ''>限定公式譜面一覧#vee]]限定曲は除く)) [#grbl]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
-|''キミとボクのミライ''|178|[[★×3>難易度表/かんたん/キミとボクのミライ]]|[[★×4>難易度表/ふつう/キミとボクのミライ]]|[[★×5>難易度表/むずかしい/キミとボクのミライ]]|[[★×6>難易度表/おに/キミとボクのミライ]]|-|
-|''ソラのミチシルベ''|160|[[★×4>難易度表/かんたん/ソラのミチシルベ]]|[[★×4>難易度表/ふつう/ソラのミチシルベ]]|[[★×5>難易度表/むずかしい/ソラのミチシルベ]]|[[★×7>難易度表/おに/ソラのミチシルベ]]|-|
+|''キミとボクのミライ''|178※|[[★×3>難易度表/かんたん/キミとボクのミライ]]|[[★×4>難易度表/ふつう/キミとボクのミライ]]|[[★×5>難易度表/むずかしい/キミとボクのミライ]]|[[★×6>難易度表/おに/キミとボクのミライ]]|-|
+|''ソラのミチシルベ''|160※|[[★×4>難易度表/かんたん/ソラのミチシルベ]]|[[★×4>難易度表/ふつう/ソラのミチシルベ]]|[[★×5>難易度表/むずかしい/ソラのミチシルベ]]|[[★×7>難易度表/おに/ソラのミチシルベ]]|-|
 
 **NHN Play&#65;rt×ドワンゴ [#nhndwg]
 ***戦闘摂理解析システム#コンパス [#compas]
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
-|''ダンスロボットダンス''|190※|[[★×3>難易度表/かんたん/ダンスロボットダンス]]|[[★×4>難易度表/ふつう/ダンスロボットダンス]]|[[★×4>難易度表/むずかしい/ダンスロボットダンス]]|[[★×9>難易度表/おに/ダンスロボットダンス]]|-|
+|''ダンスロボットダンス''|190((iOS、NS1のみ揺れあり))|[[★×3>難易度表/かんたん/ダンスロボットダンス]]|[[★×4>難易度表/ふつう/ダンスロボットダンス]]|[[★×4>難易度表/むずかしい/ダンスロボットダンス]]|[[★×9>難易度表/おに/ダンスロボットダンス]]|-|
 |''カンタービレ×パッシオーネ''|160|[[★×2>難易度表/かんたん/カンタービレ×パッシオーネ]]|[[★×3>難易度表/ふつう/カンタービレ×パッシオーネ]]|[[★×4>難易度表/むずかしい/カンタービレ×パッシオーネ]]|[[★×7>難易度表/おに/カンタービレ×パッシオーネ]]|[[★×9>難易度表/おに/カンタービレ×パッシオーネ(裏譜面)]]|
 |''バイオレンストリガー''|196|[[★×3>難易度表/かんたん/バイオレンストリガー]]|[[★×4>難易度表/ふつう/バイオレンストリガー]]|[[★×6>難易度表/むずかしい/バイオレンストリガー]]|[[★×9>難易度表/おに/バイオレンストリガー]]|-|
 |''残響''|140-280|[[★×2>難易度表/かんたん/残響]]|[[★×4>難易度表/ふつう/残響]]|[[★×5>難易度表/むずかしい/残響]]|[[★×6>難易度表/おに/残響]]|[[★×9>難易度表/おに/残響(裏譜面)]]|
 |''アルカリレットウセイ''|158|[[★×3>難易度表/かんたん/アルカリレットウセイ]]|[[★×4>難易度表/ふつう/アルカリレットウセイ]]|[[★×5>難易度表/むずかしい/アルカリレットウセイ]]|[[★×7>難易度表/おに/アルカリレットウセイ]]|-|
-|''ハイスペックニート''|220|[[★×3>難易度表/かんたん/ハイスペックニート]]|[[★×4>難易度表/ふつう/ハイスペックニート]]|[[★×6>難易度表/むずかしい/ハイスペックニート]]|[[★×8>難易度表/おに/ハイスペックニート]]|-|
-|''撥条少女時計''|90-134|[[★×2>難易度表/かんたん/撥条少女時計]]|[[★×3>難易度表/ふつう/撥条少女時計]]|[[★×4>難易度表/むずかしい/撥条少女時計]]|[[★×8>難易度表/おに/撥条少女時計]]|-|
+|''ハイスペックニート''|220※|[[★×3>難易度表/かんたん/ハイスペックニート]]|[[★×4>難易度表/ふつう/ハイスペックニート]]|[[★×6>難易度表/むずかしい/ハイスペックニート]]|[[★×8>難易度表/おに/ハイスペックニート]]|-|
+|''撥条少女時計''|88-134|[[★×2>難易度表/かんたん/撥条少女時計]]|[[★×3>難易度表/ふつう/撥条少女時計]]|[[★×4>難易度表/むずかしい/撥条少女時計]]|[[★×8>難易度表/おに/撥条少女時計]]|-|
 |''グラーヴェ''|185|[[★×2>難易度表/かんたん/グラーヴェ]]|[[★×2>難易度表/ふつう/グラーヴェ]]|[[★×4>難易度表/むずかしい/グラーヴェ]]|[[★×8>難易度表/おに/グラーヴェ]]|-|
 |''レトロマニア狂想曲''|180-220|[[★×3>難易度表/かんたん/レトロマニア狂想曲]]|[[★×5>難易度表/ふつう/レトロマニア狂想曲]]|[[★×7>難易度表/むずかしい/レトロマニア狂想曲]]|[[★×8>難易度表/おに/レトロマニア狂想曲]]|-|
 |''キレキャリオン''|170|[[★×2>難易度表/かんたん/キレキャリオン]]|[[★×3>難易度表/ふつう/キレキャリオン]]|[[★×4>難易度表/むずかしい/キレキャリオン]]|[[★×8>難易度表/おに/キレキャリオン]]|-|
@@ -558,7 +553,7 @@
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(white):''かんたん''|BGCOLOR(#769e11):COLOR(white):''ふつう''|BGCOLOR(#297ba3):COLOR(white):''むずかしい''|BGCOLOR(#af1e7f):COLOR(white):''おに''|BGCOLOR(#6042dd):COLOR(white):''おに&br;(裏)''|h
 |''拝啓、学校にて・・・''&br;　　SIZE(11){鉄拳}|132※|BGCOLOR(silver):[[★×2>難易度表/かんたん/拝啓、学校にて…]]|BGCOLOR(silver):[[★×3>難易度表/ふつう/拝啓、学校にて…]]|BGCOLOR(silver):[[★×4>難易度表/むずかしい/拝啓、学校にて…]]|BGCOLOR(silver):[[★×7>難易度表/おに/拝啓、学校にて…]]|BGCOLOR(silver):-|
 |~|~|BGCOLOR(silver):[[★×3>難易度表/かんたん/拝啓、学校にて…(裏譜面)]]|BGCOLOR(silver):[[★×5>難易度表/ふつう/拝啓、学校にて…(裏譜面)]]|BGCOLOR(silver):[[★×6>難易度表/むずかしい/拝啓、学校にて…(裏譜面)]]|BGCOLOR(silver):[[★×8>難易度表/おに/拝啓、学校にて…(裏譜面)]]|BGCOLOR(silver):-|
-|''BE THE ACE''&br;　　SIZE(11){ACE COMBAT}|133|[[★×4>難易度表/かんたん/BE THE ACE]]|[[★×5>難易度表/ふつう/BE THE ACE]]|[[★×6>難易度表/むずかしい/BE THE ACE]]|[[★×6>難易度表/おに/BE THE ACE]]|[[★×9>難易度表/おに/BE THE ACE(裏譜面)]]|
+|''BE THE ACE''&br;　　SIZE(11){ACE COMBAT}|133※|[[★×4>難易度表/かんたん/BE THE ACE]]|[[★×5>難易度表/ふつう/BE THE ACE]]|[[★×6>難易度表/むずかしい/BE THE ACE]]|[[★×6>難易度表/おに/BE THE ACE]]|[[★×9>難易度表/おに/BE THE ACE(裏譜面)]]|
 |''ラ・モレーナ・クモナイ''&br;　　SIZE(11){塊魂}|200※|[[★×4>難易度表/かんたん/ラ・モレーナ・クモナイ]]|[[★×5>難易度表/ふつう/ラ・モレーナ・クモナイ]]|[[★×7>難易度表/むずかしい/ラ・モレーナ・クモナイ]]|[[★×8>難易度表/おに/ラ・モレーナ・クモナイ]]|[[★×10>難易度表/おに/ラ・モレーナ・クモナイ(裏譜面)]]|
 |''わっふ〜音頭''&br;　　SIZE(11){風のクロノア}|150|BGCOLOR(silver):-|BGCOLOR(silver):[[★×3>難易度表/ふつう/わっふ〜音頭]]|BGCOLOR(silver):[[★×3>難易度表/むずかしい/わっふ〜音頭]]|BGCOLOR(silver):[[★×7>難易度表/おに/わっふ〜音頭]]|BGCOLOR(silver):-|
 
