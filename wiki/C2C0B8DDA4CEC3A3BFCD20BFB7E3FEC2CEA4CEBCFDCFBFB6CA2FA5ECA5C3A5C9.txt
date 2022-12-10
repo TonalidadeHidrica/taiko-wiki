@@ -3,12 +3,12 @@
 *太鼓の達人 レッドVer. の収録曲(V10.01) [#title]
 -最新Ver.としての稼働期間：2016 年 7 月 14 日〜 2017 年 3 月 14 日
 
--旧曲 ''526'' ＋ 新曲 ''67'' ＋ 隠し曲・ドンチャレ解禁曲・ごほうびショップ解禁曲 ''48'' − 期間限定曲 ''4'' − サヨナラ曲 ''159'' ＝ SIZE(20){''478''} 曲((段位道場のみプレイ可能の曲除く))
+-旧曲 ''526'' ＋ 新曲 ''67'' ＋ 隠し曲・ドンチャレ解禁曲・ごほうびショップ解禁曲 ''48'' − 期間限定曲 ''4'' − サヨナラ曲 ''160'' ＝ SIZE(20){''477''} 曲((段位道場のみプレイ可能の曲除く))
 
 |>|>|>|>|>|>|>|CENTER:74|c
 |>|>|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
 |BGCOLOR(cyan):~[[&color(black){%%%J-POP%%%};>#jpop]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|BGCOLOR(darkgray):~[[&color(black){%%%ボーカロイド&#8482;曲%%%};>#vocalo]]|BGCOLOR(magenta):~[[&color(black){%%%どうよう%%%};>#doyo]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコ&br;オリジナル%%%};>#namco]]|
-|''21'' 曲&br;(約4.3%)|''27'' 曲&br;(約5.6%)|''28'' 曲&br;(約5.8%)|''4'' 曲&br;(約0.8%)|''27'' 曲&br;(約5.6%)|''22'' 曲&br;(約4.6%)|''114''  曲&br;(約23.8%)|''235'' 曲&br;(約49.1%)|
+|''20'' 曲&br;(約4.2%)|''27'' 曲&br;(約5.7%)|''28'' 曲&br;(約5.9%)|''4'' 曲&br;(約0.8%)|''27'' 曲&br;(約5.7%)|''22'' 曲&br;(約4.6%)|''114''  曲&br;(約23.9%)|''235'' 曲&br;(約49.3%)|
 
 -[[システム詳細>ACの歴史(新筐体)#red]]
 -[[アップデート履歴(レッド)>太鼓の達人 新筐体 アップデート履歴/レッド]]
@@ -38,7 +38,7 @@
 |>|CENTER:1||LEFT:60|>|>|>|>|CENTER:42|c
 |>||''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|BGCOLOR(#63e):COLOR(#fff):''おに&br;(裏)''|h
 |>|>|>|>|>|>|>|>|BGCOLOR(cyan):''J-POP''&aname(jpop);|
-|''16/12/20&br;~&br;22/12/10''|''新''|''ワタリドリ''&br;　　SIZE(11){[Alexandros]}|135|[[★×3>難易度表/かんたん/ワタリドリ]]|[[★×4>難易度表/ふつう/ワタリドリ]]|[[★×6>難易度表/むずかしい/ワタリドリ]]|[[★×9>難易度表/おに/ワタリドリ]]|-|
+|BGCOLOR(#ccc):''16/12/20&br;~&br;22/12/10''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''ワタリドリ''&br;　　SIZE(11){[Alexandros]}|BGCOLOR(#ccc):135|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/ワタリドリ]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/ワタリドリ]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/ワタリドリ]]|BGCOLOR(#ccc):[[★×9>難易度表/おに/ワタリドリ]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/11/15&br;~&br;19/10/23''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''Soup''|BGCOLOR(#ccc): 84|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Soup]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Soup]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Soup]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Soup]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/11/15&br;~&br;19/10/23''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''Swan''&br;　　SIZE(11){[Alexandros]}|BGCOLOR(#ccc): 141※|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Swan]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Swan]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Swan]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Swan]]|BGCOLOR(#ccc):-|
 |BGCOLOR(#ccc):''16/9/14&br;~&br;21/8/23''|BGCOLOR(#ccc):''新''|BGCOLOR(#ccc):''サイレントマジョリティー''|BGCOLOR(#ccc):123|BGCOLOR(#ccc):[[★×2>難易度表/かんたん/サイレントマジョリティー]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/サイレントマジョリティー]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/サイレントマジョリティー]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/サイレントマジョリティー]]|BGCOLOR(#ccc):-|
