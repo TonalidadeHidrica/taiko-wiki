@@ -829,7 +829,7 @@
 |662|[[ヒカリノカナタヘ>難易度表/おに/ヒカリノカナタヘ]]|BGCOLOR(#ff7028):ナムオリ|-|-|w2bs2x||
 |663|[[風雲！バチお先生>難易度表/おに/風雲！バチお先生]]|BGCOLOR(#ff7028):ナムオリ|-|-|nao||
 |664|[[どん子のファーストデート>難易度表/おに/どん子のファーストデート]]|BGCOLOR(#ff7028):ナムオリ|-|-|bko2||
-|665|[[ワタリドリ>難易度表/おに/ワタリドリ]]|BGCOLOR(#49d5eb):J-POP|-|-|alxwtr|〜22/12/11　サヨナラ曲|
+|665|BGCOLOR(#ccc):[[ワタリドリ>難易度表/おに/ワタリドリ]]|BGCOLOR(#49d5eb):J-POP|-|-|BGCOLOR(#ccc):alxwtr|BGCOLOR(#ccc):〜22/12/11　サヨナラ曲|
 |666|[[ヒカリアレ>難易度表/おに/ヒカリアレ]]|BGCOLOR(orange):アニメ|-|-|haiky2||
 |667|BGCOLOR(#ccc):[[花丸◎日和！>難易度表/おに/花丸◎日和！]]|BGCOLOR(orange):アニメ|-|-|BGCOLOR(#ccc):touken|BGCOLOR(#ccc):〜18/11/21　サヨナラ曲|
 |668|[[ペンパイナッポーアッポーペン(PPAP)>難易度表/おに/ペンパイナッポーアッポーペン(PPAP)]]|BGCOLOR(#0acc2a):バラエティ|-|-|ppap||
@@ -1044,7 +1044,7 @@
 |873|BGCOLOR(#ccc):[[馬と鹿>難易度表/おに/馬と鹿]]|BGCOLOR(#49d5eb):J-POP|-|-|BGCOLOR(#ccc):ynzums|~|
 |874|[[撥条少女時計>難易度表/おに/撥条少女時計]]|BGCOLOR(#cbcfde):ボカロ|-|-|mikuzs||
 |875|[[グラーヴェ>難易度表/おに/グラーヴェ]]|BGCOLOR(#cbcfde):ボカロ|-|-|mikugv||
-|876|[[Act! Addict! Actors!>難易度表/おに/Act! Addict! Actors!]]|BGCOLOR(orange):アニメ|-|-|a3aaa|〜22/12/11　サヨナラ曲|
+|876|BGCOLOR(#ccc):[[Act! Addict! Actors!>難易度表/おに/Act! Addict! Actors!]]|BGCOLOR(orange):アニメ|-|-|BGCOLOR(#ccc):a3aaa|BGCOLOR(#ccc):〜22/12/11　サヨナラ曲|
 |877|[[刀剣乱舞>難易度表/おに/刀剣乱舞]]|BGCOLOR(#49d5eb):J-POP|-|-|toukem||
 |878|[[Caribbean Knight>難易度表/おに/Caribbean Knight]]|BGCOLOR(#ff7028):ナムオリ|-|-|caribb||
 |879|[[タイコロール>難易度表/おに/タイコロール]]|BGCOLOR(#ff7028):ナムオリ|-|-|tkroll||
