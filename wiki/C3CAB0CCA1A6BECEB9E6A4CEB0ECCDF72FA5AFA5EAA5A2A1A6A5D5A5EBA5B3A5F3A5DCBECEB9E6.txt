@@ -274,7 +274,7 @@
 |~|[[COLOR(blue):ニジイロバトン>難易度表/おに/ニジイロバトン]]|おに|Everyone,"Donder"||
 |~|[[COLOR(blue):Diving Drive>難易度表/おに/Diving Drive]]|おに|暴走ビート・免許皆伝||
 |~|[[COLOR(blue):ぺた・PETA！？パンプキン>難易度表/おに/ぺた・PETA！？パンプキン]]|おに|ペルソナレタス||
-|~|[[COLOR(blue):PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]|おに|祭囃子の達人||
+|~|[[COLOR(blue):PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]|おに|狸囃子の達人||
 |~|[[COLOR(blue):ラパスの虹>難易度表/おに/ラパスの虹]]|おに|融け合う虹色の表現者||
 |~|[[COLOR(blue):ラパスの虹(裏譜面)>難易度表/おに/ラパスの虹(裏譜面)]]|裏譜面|解け合う光色の表現者||
 |~|[[COLOR(blue):星河一天>難易度表/おに/星河一天]]|おに|一念、天に通ず||
@@ -481,7 +481,7 @@
 |~|[[COLOR(blue):Emma>難易度表/おに/Emma]]|おに|It is "Emma".||
 |~|[[COLOR(blue):Hello, Worldooon!!>難易度表/おに/Hello, Worldooon!!]]|おに|マイフレンド・オーバーワールドン!!||
 |~|[[COLOR(blue):どんちゃん音頭>難易度表/おに/どんちゃん音頭]]|おに|どんちゃん音頭で踊ろうよ||
-|~|[[COLOR(blue):PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]|おに|祭囃子の達人||
+|~|[[COLOR(blue):PONPOKO RHYTHM>難易度表/おに/PONPOKO RHYTHM]]|おに|狸囃子の達人||
 |~|[[COLOR(blue):Fly again!>難易度表/おに/Fly again!]]|おに|僕らはもっと翔べる||
 |~|[[COLOR(blue):さいたま2000>難易度表/おに/さいたま2000]]|おに|さいたまの達人||
 |~|[[COLOR(blue):White Rose Insanity>難易度表/おに/White Rose Insanity]]|おに|白薔薇の狂気|表譜面・裏譜面どちらでも可|
