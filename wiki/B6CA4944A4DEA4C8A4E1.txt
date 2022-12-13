@@ -2395,10 +2395,6 @@
 |zzchro|[[Battle For Justice>難易度表/むずかしい/Battle For Justice]]((ニコ生限定))|Chain ''Chro''nicle|
 |zzernc|[[Help me, ERINNNNNN!! -Cranky remix->難易度表/おに/Help me, ERINNNNNN!! -Cranky remix-]]((超会議2016、例大祭13、秋季例大祭'16限定))||
 |zzespe|[[願いはエスペラント>難易度表/おに/願いはエスペラント]]|ショート(お試し)Ver.|
-|zzryuh|[[竜と黒炎の姫君>難易度表/おに/竜と黒炎の姫君]]|~|
-|zzta5t|[[Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]|~|
-|zzuhea|[[UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|~|
-|zzwary|[[さよならワーリャ>難易度表/おに/さよならワーリャ]]|~|
 |zzff14|[[極タイタン討滅戦>難易度表/むずかしい/極タイタン討滅戦]]((ニコ生、超会議2015限定))|''F''INAL ''F''ANTASY ''XIV''|
 |zzgbfk|[[キミとボクのミライ>難易度表/おに/キミとボクのミライ]]|グラブル生放送Ver.|
 |zzgbfs|[[ソラのミチシルベ>難易度表/おに/ソラのミチシルベ]]|~|
@@ -2406,9 +2402,13 @@
 |zzmnst|[[ヒッパレ！モンスターストライク>難易度表/むずかしい/ヒッパレ！モンスターストライク]]((ニコ生限定))|''モン''スター''スト''ライク|
 |zzoern|[[Help me, ERINNNNNN!! 小林幸子ver.>難易度表/おに/Help me, ERINNNNNN!! 小林幸子ver.]]((秋季例大祭'15限定))||
 |zzoroc|[[8OROCHI>難易度表/おに/8OROCHI]]|第三回天下一音ゲ祭決勝大会譜面|
+|zzryuh|[[竜と黒炎の姫君>難易度表/おに/竜と黒炎の姫君]]|ショート(お試し)Ver.|
 |zzsnkn|[[黒猫＆白猫メドレー>難易度表/むずかしい/黒猫＆白猫メドレー]]((ニコ生限定))||
+|zzta5t|[[Turquoise Tachometer>難易度表/おに/Turquoise Tachometer]]|ショート(お試し)Ver.|
 |zzthas|[[仙酌絶唱のファンタジア>難易度表/おに/仙酌絶唱のファンタジア]]|超会議2016、例大祭13Ver.|
+|zzuhea|[[UNDEAD HEART(怒りのWarriors)>難易度表/おに/UNDEAD HEART(怒りのWarriors)]]|ショート(お試し)Ver.|
 |zzv9m|[[忙しい人のための「新曲」メドレー>難易度表/おに/忙しい人のための「新曲」メドレー]]((闘会議2017限定))||
+|zzwary|[[さよならワーリャ>難易度表/おに/さよならワーリャ]]|ショート(お試し)Ver.|
 
 **コメント [#comment]
 #pcomment(,noname)
