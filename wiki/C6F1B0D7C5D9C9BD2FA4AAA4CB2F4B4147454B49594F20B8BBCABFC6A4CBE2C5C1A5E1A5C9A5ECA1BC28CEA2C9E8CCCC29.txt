@@ -102,10 +102,10 @@
 --（[[上記ソース>https://taiko-ch.net/blog/?p=4267]]）
 
 ----
--[[かんたん>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅いバージョン>難易度表/かんたん/KAGYUKIYO]]
--[[ふつう>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅いバージョン>難易度表/ふつう/KAGYUKIYO]]
--[[むずかしい>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[遅いバージョン>難易度表/むずかしい/KAGYUKIYO]]
--[[おに>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]/裏譜面/[[遅いバージョン>難易度表/おに/KAGYUKIYO]]
+-[[かんたん>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/かんたん/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[0.5倍速アレンジ>難易度表/かんたん/KAGYUKIYO]]
+-[[ふつう>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/ふつう/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[0.5倍速アレンジ>難易度表/ふつう/KAGYUKIYO]]
+-[[むずかしい>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]/[[裏譜面>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]/[[0.5倍速アレンジ>難易度表/むずかしい/KAGYUKIYO]]
+-[[おに>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]/裏譜面/[[0.5倍速アレンジ>難易度表/おに/KAGYUKIYO]]
 -[[プレイ動画(キャプチャ)>https://www.youtube.com/watch?v=jDhmQieX5HM&t=12s]]
 -オート動画([[普通譜面>https://www.youtube.com/watch?v=g6NUistw40E&t=4s]] / [[玄人譜面>https://www.youtube.com/watch?v=t4r5aAzr1HM&t=2s]] / [[達人譜面>https://www.youtube.com/watch?v=0inLoJfXWDI]])
 -[[オート動画(2人用譜面)>https://www.youtube.com/watch?v=ODySX1kA5Yw&t=5s]]

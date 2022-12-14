@@ -1,6 +1,5 @@
 *さいたま2000 [#title]
 -[[2000シリーズ>シリーズ曲一覧#nisen]]第1弾。
-
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
@@ -115,7 +114,7 @@
 -おに/[[速いバージョン>../はやさいたま2000]]/[[逆再生>../Nesin Amatias]]
 -[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20160503161850/http://taikoblog.namco-ch.net/blog/2007/08/20002000.html]]
 -[[楽曲紹介(譜面編)(アーカイブ)>https://web.archive.org/web/20161021114748/http://taikoblog.namco-ch.net/blog/2007/08/20002000_1.html]]
--オート動画(新譜面)([[普通譜面>http://www.youtube.com/watch?v=l2G8ufgjLwI]]/[[達人譜面>https://www.youtube.com/watch?v=wpB7BChyKmk]])
+-オート動画(新譜面)([[普通譜面>http://www.youtube.com/watch?v=l2G8ufgjLwI]]/[[達人譜面>https://www.youtube.com/watch?v=mKqHd-YG8wQ]])
 
 ***コメント [#comment]
 -COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}

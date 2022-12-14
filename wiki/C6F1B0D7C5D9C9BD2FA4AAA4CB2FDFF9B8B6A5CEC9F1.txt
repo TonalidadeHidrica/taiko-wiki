@@ -7,7 +7,7 @@
 |''AC12増SP''-14|Wii2&br;Wii4SP&br;iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×10|''822''|''1202490点''|+連打|410点|100点|
 |COLOR(#ff3300){真打モード}||~|~|~|COLOR(#ff3300){''1208420点''}|~|COLOR(#ff3300){1420点}|-|
 |AC15.1.0||~|~|~|''1205460点''|~|450点|110点|
-|AC15.2.0|Wii U1DL&br;PS4 1DL|~|~|~|''1205310点''|~|~|~|
+|AC15.2.0|Wii U1DL&br;PS4 1DL&br;NS2MP|~|~|~|''1205310点''|~|~|~|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''1004180点''}|~|COLOR(#ff3300){1180点}|-|
 |AC16.1.0||~|~|~|''1002840点''|~|1220点|-|
 
@@ -63,8 +63,8 @@
 -[[かんたん>難易度表/かんたん/燎原ノ舞]]
 -[[ふつう>難易度表/ふつう/燎原ノ舞]]
 -[[むずかしい>難易度表/むずかしい/燎原ノ舞]]
--[[プレイ動画(AC16)>https://m.youtube.com/watch?v=gYtq3rdnfS8&feature=youtu.be&t=8s]] 
--[[オート動画(Wii U1)>https://www.youtube.com/watch?v=Rn0YvjRp6ZQ]] ((仕様により、HS1.05が掛かった見た目になっています))
+-[[プレイ動画(AC16)>https://youtu.be/gYtq3rdnfS8?t=8]] 
+-[[オート動画(Wii U1)>https://youtu.be/Rn0YvjRp6ZQ]]((仕様により、HS1.05が掛かった見た目になっています))
 -[[楽曲紹介(アーカイブ)>https://web.archive.org/web/20160214104905/http://taikoblog.namco-ch.net/blog/2009/10/post_123.html]]
 
 ***コメント [#comment]
