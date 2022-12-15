@@ -94,7 +94,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(cyan):|[[ホロメン音頭>難易度表/おに/ホロメン音頭]]|''3.804''|96|359|94.38秒||
 |>|>|BGCOLOR(cyan):|[[スキスキ星人>難易度表/おに/スキスキ星人]]|''3.784''|185|397|104.92秒||
 |>|>|BGCOLOR(orange):|[[全力全開！ゼンカイジャー>難易度表/おに/全力全開！ゼンカイジャー]]|''3.731''|176|248|66.48秒||
-|>|BGCOLOR(hotpink):|BGCOLOR(darkorchid):|[[Circle of Seasons>難易度表/おに/Circle of Seasons]]|''3.726''|168.02※|318|85.38秒|動画から計算|
+|>|BGCOLOR(hotpink):|BGCOLOR(darkorchid):|[[Circle of Seasons>難易度表/おに/Circle of Seasons]]|''3.726''|168.03※|318|85.34秒||
 |>|>|BGCOLOR(cyan):|[[だから僕は音楽を辞めた>難易度表/おに/だから僕は音楽を辞めた]]|''3.695''|125.01※|274|74.15秒|本人音源|
 |>|>|BGCOLOR(orangered):|[[おばけのお仕事>難易度表/おに/おばけのお仕事]]|''3.672''|150|426|116.00秒||
 |>|BGCOLOR(hotpink):|BGCOLOR(darkorchid):|[[Heavenly Visitor>難易度表/おに/Heavenly Visitor]]|''3.655''|188|340|93.03秒||
@@ -159,6 +159,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[Colorful Days (12 Colors)>難易度表/おに/Colorful Days(12 Colors)]]|''4.659''|159|520|111.60秒||
 |>|BGCOLOR(hotpink):|BGCOLOR(orange):|[[ラヴァーズ>難易度表/おに/ラヴァーズ]]|''4.658''|164|409|87.80秒||
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[DANZEN！ ふたりはプリキュア 〜唯一無二の光たち〜>難易度表/おに/DANZEN! ふたりはプリキュア〜唯一無二の光たち〜]]|''4.645''|168|360|77.50秒||
+|>|>|BGCOLOR(cyan):|[[喝采>難易度表/おに/喝采]]|''4.637''|167.02※|643|138.67秒||
 |>|>|BGCOLOR(hotpink):|[[桃源郷エイリアン>難易度表/おに/桃源郷エイリアン]]|''4.531''|170|403|88.94秒||
 |>|>|BGCOLOR(cyan):|[[PEACH>難易度表/おに/PEACH]]|''4.520''|147|309|68.37秒||
 |>|>|BGCOLOR(hotpink):|[[LET’S GO OUT>難易度表/おに/LET'S GO OUT]]|''4.508''|178|351|77.87秒||

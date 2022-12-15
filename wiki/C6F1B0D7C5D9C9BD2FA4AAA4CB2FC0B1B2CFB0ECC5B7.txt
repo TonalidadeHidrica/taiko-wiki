@@ -28,12 +28,12 @@
 -[[かんたん>難易度表/かんたん/星河一天]]
 -[[ふつう>難易度表/ふつう/星河一天]]
 -[[むずかしい>難易度表/むずかしい/星河一天]]
--[[プレイ動画(AC16)>https://www.youtube.com/watch?v=X_uXuEPUnS0&t=9s]]
--[[オート動画(iOS)>https://www.youtube.com/watch?v=yRiZvALLbvc&t=5s]]
+-[[プレイ動画(AC16)>https://youtu.be/X_uXuEPUnS0?t=9]]
+-[[オート動画(iOS)>https://youtu.be/yRiZvALLbvc?t=5]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~60小節目の風船は7打。
+~60小節目の風船は7打
 ~&attachref(星河一天_3.png,nolink);

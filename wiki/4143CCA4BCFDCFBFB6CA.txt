@@ -989,6 +989,7 @@
 --[[LAST CHRISTMAS>岂白刨山/おに/LAST CHRISTMAS]]
 --[[Habit>岂白刨山/おに/Habit]]ⅴ
 --[[Habit(微设烫)>岂白刨山/おに/Habit(微设烫)]]ⅴ
+--[[冲河>岂白刨山/おに/冲河]]ⅴ
 -アニメ
 --[[Into the Unknown>岂白刨山/おに/Into the Unknown]]
 --[[Cry Baby>岂白刨山/おに/Cry Baby]]
