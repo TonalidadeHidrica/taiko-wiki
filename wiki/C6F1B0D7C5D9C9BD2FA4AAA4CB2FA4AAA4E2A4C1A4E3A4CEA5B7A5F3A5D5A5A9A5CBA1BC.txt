@@ -23,8 +23,8 @@
 --''実の分岐点は35小節目の3拍目。''
 --CS6とPSP2では、34小節目を叩いた瞬間に分岐する。
 --PSP2の「きままにドンカツ」では、35小節目が分岐点となっているため、玄人は460コンボ、達人は487コンボになる。
----NS1で譜面変更され、35小節の頭から分岐するようになった。ゴーゴータイムも同様。しかし達人譜面は47小節のCOLOR(blue){●●●}が削除されているため、484コンボになる。
--ちなみに、『COLOR(blue){●} COLOR(red){●}　　　　COLOR(blue){●} COLOR(red){●}』の下の文字が『カッコ　　　カッコ』になっている所がある。
+---NS1で譜面変更され、35小節の頭から分岐するようになった。ゴーゴータイムも同様。しかし達人譜面は47小節のCOLOR(blue){○○○}が削除されているため、484コンボになる。
+-ちなみに、『COLOR(blue){○} COLOR(red){●}　　　　COLOR(blue){○} COLOR(red){●}』の下の文字が『カッコ　　　カッコ』になっている所がある。
 
 -[[オート動画(NS1)>https://www.youtube.com/watch?v=-yJi0vl4SSY]]
 -[[オート動画(Wii3)>https://www.youtube.com/watch?v=RbJTOIVnQhE]]
@@ -53,14 +53,18 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-35小節の1,2拍目の玄人,達人譜面は「きままにドンカツ」のみ分岐できる。通常は3拍目で分岐するのでCOLOR(red){●}　 　COLOR(blue){●} COLOR(blue){●} COLOR(red){●} COLOR(red){●}COLOR(red){●}COLOR(blue){●} COLOR(blue){●}の形になる。
-&attachref(clstoyf.png,nolink);
+~新譜面
+~&attachref(clstoy_m_NS1.png,nolink);
+
+~旧譜面
+~35小節の1,2拍目の玄人,達人譜面は「きままにドンカツ」のみ分岐できる。通常は3拍目で分岐するのでCOLOR(red){●}　 　COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(red){●}COLOR(red){●}COLOR(blue){○} COLOR(blue){○}の形になる。
+~&attachref(clstoyf.png,nolink);
 
 ~二人用譜面(COLOR(#909){達人譜面})
-&attachref(clstoy_odm.png,nolink);
+~&attachref(clstoy_odm.png,nolink);
 
 ~二人用譜面(COLOR(#069){玄人譜面})
-&attachref(clstoy_ode.png,nolink);
+~&attachref(clstoy_ode.png,nolink);
 
 ~二人用譜面(COLOR(#666){普通譜面})
-&attachref(clstoy_odn.png,nolink);
+~&attachref(clstoy_odn.png,nolink);

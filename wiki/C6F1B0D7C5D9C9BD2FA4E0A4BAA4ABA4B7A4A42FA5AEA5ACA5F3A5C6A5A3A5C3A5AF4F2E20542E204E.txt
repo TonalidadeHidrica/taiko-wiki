@@ -32,8 +32,9 @@
 -[[かんたん>難易度表/かんたん/ギガンティックO. T. N]]
 -[[ふつう>難易度表/ふつう/ギガンティックO. T. N]]
 -[[おに>難易度表/おに/ギガンティックO. T. N]]/[[裏譜面>難易度表/おに/ギガンティックO. T. N(裏譜面)]]
--[[プレイ動画(AC15)>http://www.youtube.com/watch?v=i0_WyS5pTX4]]
--[[プレイ動画(全良)>https://www.youtube.com/watch?v=nfoQ47oXGvI]]
+//-[[プレイ動画(AC15)>http://www.youtube.com/watch?v=i0_WyS5pTX4]]
+//-[[プレイ動画(全良)>https://www.youtube.com/watch?v=nfoQ47oXGvI]]
+-[[オート動画(iOS)>https://www.youtube.com/watch?v=nHVI44l_F08]]
 
 ***コメント [#comment]
 #pcomment(,noname)

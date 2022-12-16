@@ -1,4 +1,5 @@
 *素直になれたら [#title]
+-Spontaniaのシングル「君のすべてに」のアンサーソング。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
@@ -16,8 +17,9 @@
 -平均密度は、''約2.72打/秒''。
 
 ***その他 [#other]
--アーティストは、''JUJU''。
+-アーティストは、''JUJU feat. Spontania''。
 --作詞は、JUJU・Spontania・Jeff Miyahara。作曲は、JUJU・Spontania・Jeff Miyahara・RYLL。編曲は、Jeff Miyahara・RYLL。
+-曲IDは、''sunaon''。
 
 ----
 -[[かんたん>難易度表/かんたん/素直になれたら]]
