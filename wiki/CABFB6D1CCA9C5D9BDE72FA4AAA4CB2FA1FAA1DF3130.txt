@@ -209,6 +209,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|>|BGCOLOR(darkorchid):|[[VERTeX>難易度表/おに/VERTeX]]|''7.114''|237|805|113.16秒||
 |>|>|BGCOLOR(orangered):|[[哀 want U>難易度表/おに/哀 want U]]|''7.104''|140.65※|948|133.45秒||
 |>|>|BGCOLOR(orangered):|[[晨星ト鵺>難易度表/おに/晨星ト鵺]]|''7.075''|220|903|127.64秒||
+|>|>|BGCOLOR(orangered):|[[Illusion Flare>難易度表/おに/Illusion Flare]]|''7.067''|180|765|108.25秒||
 |>|>|BGCOLOR(orangered):|[[X-DAY2000>難易度表/おに/X-DAY2000]]|''7.053''|190|764|108.32秒||
 |>|>|BGCOLOR(orangered):|[[トイマチック☆パレード!!>難易度表/おに/トイマチック☆パレード!!]]|''7.050''|250.33※|850|120.56秒||
 |>|>|BGCOLOR(orangered):|[[D's Adventure Note>難易度表/おに/D's Adventure Note]]|''7.026''|174.00※|871|123.96秒||

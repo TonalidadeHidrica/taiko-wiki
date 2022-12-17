@@ -191,8 +191,8 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
-//|BGCOLOR(#ff7028):~ナムオリ|[[COLOR(blue):Illusion Flare>難易度表/おに/Illusion Flare]]|おに|||
-|BGCOLOR(#ff7028):~ナムオリ|[[COLOR(blue):ヘイラ>難易度表/おに/ヘイラ]]|おに|正義をかたる者||
+|BGCOLOR(#ff7028):~ナムオリ|[[COLOR(blue):Illusion Flare>難易度表/おに/Illusion Flare]]|おに|光炎の魔術師||
+|~|[[COLOR(blue):ヘイラ>難易度表/おに/ヘイラ]]|おに|正義をかたる者||
 |~|[[COLOR(blue):LΔchesis>難易度表/おに/LΔchesis]]|おに|運命の糸を与えし者||
 |~|[[COLOR(blue):六本の薔薇と采の歌>難易度表/おに/六本の薔薇と采の歌]]|おに|薔薇☆Diceのファン||
 |~|[[COLOR(blue):六本の薔薇と采の歌(裏譜面)>難易度表/おに/六本の薔薇と采の歌(裏譜面)]]|裏譜面|す薔薇しいドンだー||
@@ -542,7 +542,6 @@
 |~|[[COLOR(blue):Pixel Galaxy>難易度表/おに/Pixel Galaxy]]|おに|Pixel Galaxy Voyager||
 |~|[[COLOR(blue):Asteroid>難易度表/おに/Asteroid]]|おに|Asteroid Trackers||
 |~|[[COLOR(blue):サクラ・シークレット>難易度表/おに/サクラ・シークレット]]|おに|悠然なる管理者||
-//|~|[[COLOR(blue):Illusion Flare>難易度表/おに/Illusion Flare]]|おに|||
 |~|[[COLOR(blue):ヘイラ>難易度表/おに/ヘイラ]]|おに|正義をかたる者||
 |~|[[COLOR(blue):LΔchesis>難易度表/おに/LΔchesis]]|おに|運命の糸を与えし者||
 |~|[[COLOR(blue):ヒカリノカナタヘ>難易度表/おに/ヒカリノカナタヘ]]|おに|ヒカリヘミチビケ||
@@ -633,6 +632,7 @@
 |~|[[COLOR(blue):弩蚊怒夏>難易度表/おに/弩蚊怒夏]]|おに|蚊取り光線の達人||
 |~|[[COLOR(blue):プチポチ>難易度表/おに/プチポチ]]|おに|小犬のワルツの達人||
 |~|[[COLOR(blue):ハンロック>難易度表/おに/ハンロック]]|おに|ハンロックの達人||
+|~|[[COLOR(blue):Illusion Flare>難易度表/おに/Illusion Flare]]|おに|光炎の魔術師||
 |~|[[COLOR(blue):六本の薔薇と采の歌(裏譜面)>難易度表/おに/六本の薔薇と采の歌(裏譜面)]]|裏譜面|す薔薇しいドンだー||
 |~|[[COLOR(blue):Doppelgangers(裏譜面)>難易度表/おに/Doppelgangers(裏譜面)]]|裏譜面|Doppelganger||
 |~|[[COLOR(blue):神竜 〜Shinryu〜>難易度表/おに/神竜 〜Shinryu〜]]|おに|神竜を討伐せしもの||

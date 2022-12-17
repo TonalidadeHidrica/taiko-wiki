@@ -104,7 +104,7 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[Let It Go〜ありのままで〜>難易度表/おに/Let It Go〜ありのままで〜]]|''2.524''|137|367|145.40秒|3DS2|
 |>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[Let It Go(英語版)>難易度表/おに/Let It Go]]|''2.517''|137|366|145.40秒||
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[隣に…>難易度表/おに/隣に･･･]]|''2.509''|122.39※|278|110.80秒||
-|>|BGCOLOR(orange):|BGCOLOR(hotpink):[[アンパンマンたいそう>難易度表/おに/アンパンマンたいそう]]|''2.500''|135|190|76.00秒||
+|>|BGCOLOR(orange):|BGCOLOR(hotpink):|[[アンパンマンたいそう>難易度表/おに/アンパンマンたいそう]]|''2.500''|135|190|76.00秒||
 |>|>|BGCOLOR(orange):|[[REAL×EYEZ>難易度表/おに/REAL×EYEZ]]|''2.491''|187.52※|159|63.83秒||
 |>|>|BGCOLOR(cyan):|[[アイノカタチ feat. HIDE(GReeeeN)>難易度表/おに/アイノカタチ feat.HIDE(GReeeeN)]]|''2.441''|88.84※|183|74.97秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''2.000未満''|

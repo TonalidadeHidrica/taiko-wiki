@@ -18,7 +18,7 @@
 -[[ふつう>難易度表/ふつう/フォニイ]]
 -[[むずかしい>難易度表/むずかしい/フォニイ]]
 -[[おに>../フォニイ]]/裏譜面
--[[オート動画>https://www.youtube.com/watch?v=7pYNmcYpu0Y]]
+-[[オート動画(NS2)>https://www.youtube.com/watch?v=7pYNmcYpu0Y]]
 
 ***コメント [#comment]
 #pcomment(,noname)

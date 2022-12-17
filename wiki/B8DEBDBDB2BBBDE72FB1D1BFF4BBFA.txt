@@ -97,6 +97,7 @@
 |''BRAND NEW WORLD''|160|[[★×3>難易度表/かんたん/BRAND NEW WORLD]]|[[★×5>難易度表/ふつう/BRAND NEW WORLD]]|[[★×4>難易度表/むずかしい/BRAND NEW WORLD]]|[[★×5>難易度表/おに/BRAND NEW WORLD]]|-|
 |''Brand-new World''|205|[[★×4>難易度表/かんたん/Brand-new World]]|[[★×5>難易度表/ふつう/Brand-new World]]|[[★×6>難易度表/むずかしい/Brand-new World]]|[[★×8>難易度表/おに/Brand-new World]]|-|
 |''Bravely You''|150|[[★×3>難易度表/かんたん/Bravely You]]|[[★×4>難易度表/ふつう/Bravely You]]|[[★×5>難易度表/むずかしい/Bravely You]]|[[★×8>難易度表/おに/Bravely You]]|-|
+|''Brave Sword, Braver Soul''|150※|[[★×3>難易度表/かんたん/ソウルキャリバーII]]|[[★×5>難易度表/ふつう/ソウルキャリバーII]]|[[★×5>難易度表/むずかしい/ソウルキャリバーII]]|[[★×7>難易度表/おに/ソウルキャリバーII]]|[[★×7>難易度表/おに/ソウルキャリバーII]]|
 |''Break the Chain''|110|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Break the Chain]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/Break the Chain]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Break the Chain]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/Break the Chain]]|-|
 |''Brightdown''|194-197|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/Brightdown]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/Brightdown]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/Brightdown]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/Brightdown]]|-|
 |''Butterfly''(木村カエラ)|111※|[[★×2>難易度表/かんたん/Butterfly(木村カエラ)]]|[[★×3>難易度表/ふつう/Butterfly(木村カエラ)]]|[[★×4>難易度表/むずかしい/Butterfly(木村カエラ)]]|[[★×6>難易度表/おに/Butterfly(木村カエラ)]]|-|
@@ -168,18 +169,18 @@
 |''DIVE TO WORLD''|147|[[★×3>難易度表/かんたん/DIVE TO WORLD]]|[[★×5>難易度表/ふつう/DIVE TO WORLD]]|[[★×5>難易度表/むずかしい/DIVE TO WORLD]]|[[★×9>難易度表/おに/DIVE TO WORLD]]|-|
 |''Diving Drive''|193|[[★×5>難易度表/かんたん/Diving Drive]]|[[★×7>難易度表/ふつう/Diving Drive]]|[[★×8>難易度表/むずかしい/Diving Drive]]|[[★×10>難易度表/おに/Diving Drive]]|-|
 |''Do-Dai''|171|[[★×4>難易度表/かんたん/Do-Dai]]|[[★×5>難易度表/ふつう/Do-Dai]]|[[★×5>難易度表/むずかしい/Do-Dai]]|[[★×7>難易度表/おに/Do-Dai]]|-|
-|''Dogbite''|195|[[★×4>難易度表/かんたん/Dogbite]]|[[★×6>難易度表/ふつう/Dogbite]]|[[★×7>難易度表/むずかしい/Dogbite]]|[[★×10>難易度表/おに/Dogbite]]|-|
+|''Dogbite''|195※|[[★×4>難易度表/かんたん/Dogbite]]|[[★×6>難易度表/ふつう/Dogbite]]|[[★×7>難易度表/むずかしい/Dogbite]]|[[★×10>難易度表/おに/Dogbite]]|-|
 |''Do it! Now''|96|BGCOLOR(#ccc):[[★×1>難易度表/かんたん/Do it! Now]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/Do it! Now]]|BGCOLOR(#ccc):[[★×3>難易度表/むずかしい/Do it! Now]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/Do it! Now]]|-|
 |''Dokkin◇魔法つかいプリキュア！''|176|[[★×1>難易度表/かんたん/Dokkin 魔法つかいプリキュア！]]|[[★×2>難易度表/ふつう/Dokkin 魔法つかいプリキュア！]]|[[★×4>難易度表/むずかしい/Dokkin 魔法つかいプリキュア！]]|[[★×5>難易度表/おに/Dokkin 魔法つかいプリキュア！]]|-|
 |''Donder Time''|120|[[★×4>難易度表/かんたん/Donder Time]]|[[★×6>難易度表/ふつう/Donder Time]]|[[★×6>難易度表/むずかしい/Donder Time]]|[[★×8>難易度表/おに/Donder Time]]|-|
 |''DON'T CUT''|170|[[★×4>難易度表/かんたん/DON'T CUT]]|[[★×7>難易度表/ふつう/DON'T CUT]]|[[★×8>難易度表/むずかしい/DON'T CUT]]|[[★×8>難易度表/おに/DON'T CUT]]|[[★×9>難易度表/おに/DON'T CUT(裏譜面)]]|
 |''Don't say "lazy"''|45.25-181|[[★×3>難易度表/かんたん/Don't say ”lazy”]]|[[★×4>難易度表/ふつう/Don't say ”lazy”]]|[[★×5>難易度表/むずかしい/Don't say ”lazy”]]|[[★×7>難易度表/おに/Don't say ”lazy”]]|-|
-|''Don't Stop the Game''|174※|[[★×5>難易度表/かんたん/Don't Stop the Game]]|[[★×7>難易度表/ふつう/Don't Stop the Game]]|[[★×8>難易度表/むずかしい/Don't Stop the Game]]|[[★×10>難易度表/おに/Don't Stop the Game]]|-|
+|''Don't Stop the Game''|175|[[★×5>難易度表/かんたん/Don't Stop the Game]]|[[★×7>難易度表/ふつう/Don't Stop the Game]]|[[★×8>難易度表/むずかしい/Don't Stop the Game]]|[[★×10>難易度表/おに/Don't Stop the Game]]|-|
 |''Doom Noiz''|160※|[[★×5>難易度表/かんたん/Doom Noiz]]|[[★×6>難易度表/ふつう/Doom Noiz]]|[[★×8>難易度表/むずかしい/Doom Noiz]]|[[★×10>難易度表/おに/Doom Noiz]]|-|
 |''Doppelgangers''|52-208|[[★×4>難易度表/かんたん/Doppelgangers]]|[[★×6>難易度表/ふつう/Doppelgangers]]|[[★×6>難易度表/むずかしい/Doppelgangers]]|[[★×8>難易度表/おに/Doppelgangers]]|[[★×10>難易度表/おに/Doppelgangers(裏譜面)]]|
 |''Dragon Night''|124※|[[★×3>難易度表/かんたん/Dragon Night]]|[[★×4>難易度表/ふつう/Dragon Night]]|[[★×5>難易度表/むずかしい/Dragon Night]]|[[★×8>難易度表/おに/Dragon Night]]|-|
 |''Dragon Soul''|162|[[★×2>難易度表/かんたん/Dragon Soul]]|[[★×1>難易度表/ふつう/Dragon Soul]]|[[★×4>難易度表/むずかしい/Dragon Soul]]|[[★×6>難易度表/おに/Dragon Soul]]|-|
-|''Dragoon''|200|[[★×4>難易度表/かんたん/Dragoon]]|[[★×6>難易度表/ふつう/Dragoon]]|[[★×7>難易度表/むずかしい/Dragoon]]|[[★×9>難易度表/おに/Dragoon]]|-|
+|''Dragoon''|200※|[[★×4>難易度表/かんたん/Dragoon]]|[[★×6>難易度表/ふつう/Dragoon]]|[[★×7>難易度表/むずかしい/Dragoon]]|[[★×9>難易度表/おに/Dragoon]]|-|
 |''Dreadnought''|96-384|[[★×4>難易度表/かんたん/Dreadnought]]|[[★×6>難易度表/ふつう/Dreadnought]]|[[★×6>難易度表/むずかしい/Dreadnought]]|[[★×9>難易度表/おに/Dreadnought]]|[[★×10>難易度表/おに/Dreadnought(裏譜面)]]|
 |''DREAMERS' PARADISE''|126|[[★×3>難易度表/かんたん/DREAMERS' PARADISE]]|[[★×4>難易度表/ふつう/DREAMERS' PARADISE]]|[[★×6>難易度表/むずかしい/DREAMERS' PARADISE]]|[[★×7>難易度表/おに/DREAMERS' PARADISE]]|-|
 |''Dreamin' World''|118|[[★×2>難易度表/かんたん/Dreamin' World]]|[[★×3>難易度表/ふつう/Dreamin' World]]|[[★×5>難易度表/むずかしい/Dreamin' World]]|[[★×6>難易度表/おに/Dreamin' World]]|-|
@@ -190,7 +191,7 @@
 |''D-tecnoLife''|168|[[★×4>難易度表/かんたん/D-tecnoLife]]|[[★×5>難易度表/ふつう/D-tecnoLife]]|[[★×6>難易度表/むずかしい/D-tecnoLife]]|[[★×8>難易度表/おに/D-tecnoLife]]|-|
 |''Dual Moon''|145※|[[★×4>難易度表/かんたん/Dual Moon]]|[[★×6>難易度表/ふつう/Dual Moon]]|[[★×7>難易度表/むずかしい/Dual Moon]]|[[★×9>難易度表/おに/Dual Moon]]|-|
 |''Du-Du-Wa DO IT!!''|83-210|[[★×2>難易度表/かんたん/Du-Du-Wa DO IT!!]]|[[★×3>難易度表/ふつう/Du-Du-Wa DO IT!!]]|[[★×7>難易度表/むずかしい/Du-Du-Wa DO IT!!]]|[[★×7>難易度表/おに/Du-Du-Wa DO IT!!]]|-|
-|''D絶対！SAMURAIインザレイン''|220|[[★×3>難易度表/かんたん/D絶対！SAMURAIインザレイン]]|[[★×4>難易度表/ふつう/D絶対！SAMURAIインザレイン]]|[[★×6>難易度表/むずかしい/D絶対！SAMURAIインザレイン]]|[[★×8>難易度表/おに/D絶対！SAMURAIインザレイン]]|[[★×10>難易度表/おに/D絶対！SAMURAIインザレイン(裏譜面)]]|
+|''D絶対！SAMURAIインザレイン''|220※|[[★×3>難易度表/かんたん/D絶対！SAMURAIインザレイン]]|[[★×4>難易度表/ふつう/D絶対！SAMURAIインザレイン]]|[[★×6>難易度表/むずかしい/D絶対！SAMURAIインザレイン]]|[[★×8>難易度表/おに/D絶対！SAMURAIインザレイン]]|[[★×10>難易度表/おに/D絶対！SAMURAIインザレイン(裏譜面)]]|
 |>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''E''&aname(EEE);|
 |''EAT'EM UP!''|152|[[★×3>難易度表/かんたん/EAT'EM UP!]]|[[★×5>難易度表/ふつう/EAT'EM UP!]]|[[★×6>難易度表/むずかしい/EAT'EM UP!]]|[[★×8>難易度表/おに/EAT'EM UP!]]|-|
 |''edeN''|145|[[★×3>難易度表/かんたん/edeN]]|[[★×5>難易度表/ふつう/edeN]]|[[★×6>難易度表/むずかしい/edeN]]|[[★×8>難易度表/おに/edeN]]|-|
@@ -439,6 +440,7 @@
 |''Nesin Amatias''|200|[[★×5>難易度表/かんたん/Nesin Amatias]]|[[★×6>難易度表/ふつう/Nesin Amatias]]|[[★×6>難易度表/むずかしい/Nesin Amatias]]|[[★×7>難易度表/おに/Nesin Amatias]]|-|
 |''Never say never''|156|[[★×3>難易度表/かんたん/Never say never]]|[[★×4>難易度表/ふつう/Never say never]]|[[★×5>難易度表/むずかしい/Never say never]]|[[★×8>難易度表/おに/Never say never]]|-|
 |''New スーパーマリオブラザーズ Wii''|97-155※|[[★×3>難易度表/かんたん/New スーパーマリオブラザーズ Wii]]|[[★×4>難易度表/ふつう/New スーパーマリオブラザーズ Wii]]|[[★×6>難易度表/むずかしい/New スーパーマリオブラザーズ Wii]]|[[★×8>難易度表/おに/New スーパーマリオブラザーズ Wii]]|-|
+|''New Legend''|155※|[[★×4>難易度表/かんたん/ソウルキャリバーIII]]|[[★×6>難易度表/ふつう/ソウルキャリバーIII]]|[[★×7>難易度表/むずかしい/ソウルキャリバーIII]]|[[★×8>難易度表/おに/ソウルキャリバーIII]]|-|
 |''New Stranger''|190|[[★×4>難易度表/かんたん/New Stranger]]|[[★×6>難易度表/ふつう/New Stranger]]|[[★×7>難易度表/むずかしい/New Stranger]]|[[★×8>難易度表/おに/New Stranger]]|-|
 |''New World''|177※|[[★×3>難易度表/かんたん/New World]]|[[★×6>難易度表/ふつう/New World]]|[[★×7>難易度表/むずかしい/New World]]|[[★×9>難易度表/おに/New World]]|-|
 |''NEXT LEVEL''|172|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/NEXT LEVEL]]|BGCOLOR(#ccc):[[★×3>難易度表/ふつう/NEXT LEVEL]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/NEXT LEVEL]]|BGCOLOR(#ccc):[[★×6>難易度表/おに/NEXT LEVEL]]|-|
@@ -628,6 +630,7 @@
 |''The Future of the 太鼓ドラム''|79-350|[[★×5>難易度表/かんたん/The Future of the 太鼓ドラム]]|[[★×7>難易度表/ふつう/The Future of the 太鼓ドラム]]|[[★×8>難易度表/むずかしい/The Future of the 太鼓ドラム]]|[[★×10>難易度表/おに/The Future of the 太鼓ドラム]]|[[★×10>難易度表/おに/The Future of the 太鼓ドラム(裏譜面)]]|
 |''THE IDOLM@STER''|165|[[★×3>難易度表/かんたん/THE IDOLM@STER]]|[[★×4>難易度表/ふつう/THE IDOLM@STER]]|[[★×4>難易度表/むずかしい/THE IDOLM@STER]]|[[★×8>難易度表/おに/THE IDOLM@STER]]|[[★×8>難易度表/おに/THE IDOLM@STER(裏譜面)]]|
 |''THE IDOLM@STER 2nd-mix''|168|[[★×3>難易度表/かんたん/THE IDOLM@STER 2nd-mix]]|[[★×4>難易度表/ふつう/THE IDOLM@STER 2nd-mix]]|[[★×5>難易度表/むずかしい/THE IDOLM@STER 2nd-mix]]|[[★×8>難易度表/おに/THE IDOLM@STER 2nd-mix]]|-|
+|''The Invincible Blade''|140※|[[★×3>難易度表/かんたん/ソウルキャリバーV]]|[[★×4>難易度表/ふつう/ソウルキャリバーV]]|[[★×5>難易度表/むずかしい/ソウルキャリバーV]]|[[★×7>難易度表/おに/ソウルキャリバーV]]|-|
 |''The Magician's Dream''|191|[[★×4>難易度表/かんたん/The Magician's Dream]]|[[★×6>難易度表/ふつう/The Magician's Dream]]|[[★×7>難易度表/むずかしい/The Magician's Dream]]|[[★×8>難易度表/おに/The Magician's Dream]]|-|
 |''Theme of Ryu''|137※|[[★×3>難易度表/かんたん/Theme of Ryu]]|[[★×5>難易度表/ふつう/Theme of Ryu]]|[[★×6>難易度表/むずかしい/Theme of Ryu]]|[[★×8>難易度表/おに/Theme of Ryu]]|-|
 |''The Orb Festival''|163|[[★×4>難易度表/かんたん/The Orb Festival]]|[[★×6>難易度表/ふつう/The Orb Festival]]|[[★×6>難易度表/むずかしい/The Orb Festival]]|[[★×8>難易度表/おに/The Orb Festival]]|-|

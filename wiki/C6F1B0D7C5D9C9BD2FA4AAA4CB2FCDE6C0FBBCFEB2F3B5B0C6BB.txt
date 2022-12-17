@@ -38,8 +38,7 @@
 
 ***譜面 [#score]
 ~内部小節線は除外。
-~28・36小節の連打は画像よりも半拍長い。
-~&attachref(螺旋表_2.png,nolink);
+~&attachref(rasens_m.png,nolink);
 
 ~見た目重視
 ~&attachref(螺旋表半_3.png,nolink);
