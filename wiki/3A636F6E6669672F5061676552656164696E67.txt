@@ -3421,6 +3421,7 @@
 -[[コメント/難易度表/かんたん/Hello, Mr.JOKER]] コメント/ナンイドオモテ/カンタン/Hello, Mr.JOKER
 -[[コメント/難易度表/かんたん/Hello,world!]] コメント/ナンイドオモテ/カンタン/Hello,world!
 -[[コメント/難易度表/かんたん/Help me, ERINNNNNN!!]] コメント/ナンイドオモテ/カンタン/Help me, ERINNNNNN!!
+-[[コメント/難易度表/かんたん/Here I Am]] コメント/ナンイドオモテ/カンタン/Here I Am
 -[[コメント/難易度表/かんたん/Hero]] コメント/ナンイドオモテ/カンタン/Hero
 -[[コメント/難易度表/かんたん/Hero's Come Back!!]] コメント/ナンイドオモテ/カンタン/Hero's Come Back!!
 -[[コメント/難易度表/かんたん/Highschool love!]] コメント/ナンイドオモテ/カンタン/Highschool love!
@@ -3620,6 +3621,7 @@
 -[[コメント/難易度表/かんたん/Shine!!]] コメント/ナンイドオモテ/カンタン/Shine!!
 -[[コメント/難易度表/かんたん/Shining Lights (feat. PSYQUI)]] コメント/ナンイドオモテ/カンタン/Shining Lights (feat. PSYQUI)
 -[[コメント/難易度表/かんたん/Shiny Kung-fu Revival]] コメント/ナンイドオモテ/カンタン/Shiny Kung-fu Revival
+-[[コメント/難易度表/かんたん/Sign]] コメント/ナンイドオモテ/カンタン/Sign
 -[[コメント/難易度表/かんたん/Silent Jealousy]] コメント/ナンイドオモテ/カンタン/Silent Jealousy
 -[[コメント/難易度表/かんたん/Smile! Smile! Smile!]] コメント/ナンイドオモテ/カンタン/Smile! Smile! Smile!
 -[[コメント/難易度表/かんたん/Snow halation]] コメント/ナンイドオモテ/カンタン/Snow halation
@@ -7192,6 +7194,7 @@
 -[[コメント/難易度表/むずかしい/INSIDE IDENTITY]] コメント/ナンイドオモテ/ムズカシイ/INSIDE IDENTITY
 -[[コメント/難易度表/むずかしい/INSPION]] コメント/ナンイドオモテ/ムズカシイ/INSPION
 -[[コメント/難易度表/むずかしい/Ignis Danse]] コメント/ナンイドオモテ/ムズカシイ/Ignis Danse
+-[[コメント/難易度表/むずかしい/Illusion Flare]] コメント/ナンイドオモテ/ムズカシイ/Illusion Flare
 -[[コメント/難易度表/むずかしい/Infinite Rebellion]] コメント/ナンイドオモテ/ムズカシイ/Infinite Rebellion
 -[[コメント/難易度表/むずかしい/Inscrutable Battle]] コメント/ナンイドオモテ/ムズカシイ/Inscrutable Battle
 -[[コメント/難易度表/むずかしい/Into the Unknown]] コメント/ナンイドオモテ/ムズカシイ/Into the Unknown
@@ -12412,6 +12415,7 @@
 -[[難易度表/かんたん/INSIDE IDENTITY]] ナンイドオモテ/カンタン/INSIDE IDENTITY
 -[[難易度表/かんたん/INSPION]] ナンイドオモテ/カンタン/INSPION
 -[[難易度表/かんたん/Ignis Danse]] ナンイドオモテ/カンタン/Ignis Danse
+-[[難易度表/かんたん/Illusion Flare]] ナンイドオモテ/カンタン/Illusion Flare
 -[[難易度表/かんたん/Infinite Rebellion]] ナンイドオモテ/カンタン/Infinite Rebellion
 -[[難易度表/かんたん/Inscrutable Battle]] ナンイドオモテ/カンタン/Inscrutable Battle
 -[[難易度表/かんたん/Into the Unknown]] ナンイドオモテ/カンタン/Into the Unknown
@@ -15078,6 +15082,7 @@
 -[[難易度表/ふつう/INSIDE IDENTITY]] ナンイドオモテ/フツウ/INSIDE IDENTITY
 -[[難易度表/ふつう/INSPION]] ナンイドオモテ/フツウ/INSPION
 -[[難易度表/ふつう/Ignis Danse]] ナンイドオモテ/フツウ/Ignis Danse
+-[[難易度表/ふつう/Illusion Flare]] ナンイドオモテ/フツウ/Illusion Flare
 -[[難易度表/ふつう/Infinite Rebellion]] ナンイドオモテ/フツウ/Infinite Rebellion
 -[[難易度表/ふつう/Inscrutable Battle]] ナンイドオモテ/フツウ/Inscrutable Battle
 -[[難易度表/ふつう/Into the Unknown]] ナンイドオモテ/フツウ/Into the Unknown
@@ -17433,6 +17438,7 @@
 -[[難易度表/むずかしい/INSIDE IDENTITY]] ナンイドオモテ/ムズカシイ/INSIDE IDENTITY
 -[[難易度表/むずかしい/INSPION]] ナンイドオモテ/ムズカシイ/INSPION
 -[[難易度表/むずかしい/Ignis Danse]] ナンイドオモテ/ムズカシイ/Ignis Danse
+-[[難易度表/むずかしい/Illusion Flare]] ナンイドオモテ/ムズカシイ/Illusion Flare
 -[[難易度表/むずかしい/Infinite Rebellion]] ナンイドオモテ/ムズカシイ/Infinite Rebellion
 -[[難易度表/むずかしい/Inscrutable Battle]] ナンイドオモテ/ムズカシイ/Inscrutable Battle
 -[[難易度表/むずかしい/Into the Unknown]] ナンイドオモテ/ムズカシイ/Into the Unknown

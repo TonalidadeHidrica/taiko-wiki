@@ -1,0 +1,24 @@
+*&ruby(イリュージョン){Illusion}; &ruby(フレア){Flare}; [#title]
+
+***詳細 [#more]
+|>|>|>|>|>|>|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|h
+|''AC16.3.9''|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×4|''92''|''?????0点''|+連打|???0点|
+
+***譜面構成・攻略 [#capture]
+-BPMは180。
+
+***その他 [#other]
+-楽曲情報は[[おに>難易度表/おに/Illusion Flare]]を参照。
+
+----
+-[[ふつう>難易度表/ふつう/Illusion Flare]]
+-[[むずかしい>難易度表/むずかしい/Illusion Flare]]
+-[[おに>難易度表/おに/Illusion Flare]]
+//-[[プレイ動画(キャプチャ)>]]
+
+***コメント [#comment]
+#pcomment(,noname)
+
+***譜面 [#score]
+~&attachref(Illusion Flare_e.png,nolink);

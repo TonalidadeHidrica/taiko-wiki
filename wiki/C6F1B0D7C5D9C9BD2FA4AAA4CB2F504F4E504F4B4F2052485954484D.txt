@@ -1,10 +1,10 @@
-*&ruby(ポンポコ){PONPOKO}; &ruby(リズム){RHYTHM}; [#title]
+*PONPOKO &ruby(リズム){RHYTHM}; [#title]
 -[[楽曲募集2020>太鼓の達人　楽曲募集だドン！2020]]の採用曲のひとつ。
 
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC16.1.8''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''554''|''997200点''|＋連打|1800点|-|
+|''AC16.1.8''||BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''554''|''997200点''|+連打|1800点|-|
 |AC15.11.9((アジア版))|NS2|~|~|~|''1000000点''|~|480点|125点|
 |COLOR(#ff3300){真打}||~|~|~|COLOR(#ff3300){''998520点''}|~|COLOR(#ff3300){1590点}|-|
 
@@ -13,14 +13,15 @@
 -連打秒数目安・・・SIZE(16){約0.676秒}ーSIZE(16){約1.206秒}：合計約1.882秒
 -縁の方が多く、''298個''(約53.79%)ある。
 -大音符が多く、''74個''(約13.35%)ある。
+-黄色連打の2本はいずれも大連打にも関わらず、AC16の天井点は真打より1320点低い。更に1打あたりの点数が200点ではなく100点のため1000000点到達には2本合わせて28打とやや厳しい。
 -1曲を通しての平均密度は、''約4.99打/秒''である。
 
 ***その他 [#other]
--アーティストは、''[[Mamyukka>https://twitter.com/Mamyukka_info]]''。
---作曲・編曲・ギターは、''[[オッカ>https://mobile.twitter.com/okka_boo]]''。
---歌唱は、''[[まめこ>https://twitter.com/munimuni_mameko]]''。
---作詞は、''[[未羽>https://twitter.com/miuzin]]''。
--この曲は公募の段階では「''[[PONPOKO RYTHM>https://faithcreation.jp/taikonotatsujin/result/index.html]]''」という表記であったが、本収録時にスペルミスが修正された。
+-アーティストは、[[''Mamyukka''>https://twitter.com/Mamyukka_info]]。
+--作詞は、[[''未羽''>https://twitter.com/miuzin]]。
+--作曲・編曲・ギターは、[[''オッカ''>https://mobile.twitter.com/okka_boo]]。
+--歌唱は、[[''まめこ''>https://twitter.com/munimuni_mameko]]。
+-この曲は公募の段階では「[[''PONPOKO RYTHM''>https://faithcreation.jp/taikonotatsujin/result/index.html]]」という表記であったが、本収録時にスペルミスが修正された。
 -新筐体でこの譜面をフルコンボすると、''称号''「''狸囃子の達人''」を獲得できる。
 -[[ニジイロVer.段位道場2022>段位道場#normal]]の[[三段>段位道場/ニジイロ2022/三段]]1曲目課題曲となった。
 -曲IDは、''ponpok''。
@@ -33,6 +34,8 @@
 -[[オート動画(NS2)>https://www.youtube.com/watch?v=ybmZvNi4vu8]]
 
 ***コメント [#comment]
+-COLOR(#33f){''このページを初めてご利用になる方は、必ず[[''コメント時の注意''>ページ作成・リクエスト時の注意等#manualForComment]]に目を通してからコメントをするようにしてください。''}
+-COLOR(#33f){''難易度に関する話題は[[難易度等議論Wiki>https://www65.atwiki.jp/taikodifficulty/pages/1.html]]にてお願いします。''}
 #pcomment(,noname)
 
 ***譜面 [#score]
