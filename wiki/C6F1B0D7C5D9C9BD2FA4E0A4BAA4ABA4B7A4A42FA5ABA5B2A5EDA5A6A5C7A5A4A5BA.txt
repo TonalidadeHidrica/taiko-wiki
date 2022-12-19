@@ -34,5 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~BPM、連打の長さは暫定です。
-~&attachref(カゲロウデイズ_h.png,nolink);
+~&attachref(mikukg_h.png,nolink);

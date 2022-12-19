@@ -31,4 +31,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-&attachref(女王.png,nolink);
+くす玉音符→DS3 でんでん音符、NS1・NS2 こづち音符
+&attachref(sbnelc_e.png,nolink);

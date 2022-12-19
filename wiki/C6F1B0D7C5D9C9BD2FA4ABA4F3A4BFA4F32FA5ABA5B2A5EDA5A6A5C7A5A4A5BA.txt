@@ -34,5 +34,4 @@
 #pcomment(,noname)
 
 ***譜面 [#fumen]
-~BPM、連打の長さは暫定です。
-~&attachref(カゲロウデイズ_e.png,nolink);
+~&attachref(mikukg_e.png,nolink);

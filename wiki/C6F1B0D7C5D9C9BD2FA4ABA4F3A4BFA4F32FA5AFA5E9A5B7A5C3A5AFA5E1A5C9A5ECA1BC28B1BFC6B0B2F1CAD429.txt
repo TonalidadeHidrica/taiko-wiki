@@ -28,4 +28,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(clsu.png,nolink);
+&attachref(clsu_2.png,nolink);

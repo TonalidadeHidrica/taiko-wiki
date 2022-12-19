@@ -26,4 +26,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-&attachref(sango.png,nolink);
+&attachref(sango_2.png,nolink);
