@@ -21,4 +21,4 @@
 #pcomment(,noname)
 
 ***ÉèÌÌ [#score]
-~&attachref(Illusion Flare_e.png,nolink);
+~&attachref(Illusion Flare_e2.png,nolink);

@@ -3444,6 +3444,7 @@
 -[[コメント/難易度表/かんたん/INSIDE IDENTITY]] コメント/ナンイドオモテ/カンタン/INSIDE IDENTITY
 -[[コメント/難易度表/かんたん/INSPION]] コメント/ナンイドオモテ/カンタン/INSPION
 -[[コメント/難易度表/かんたん/Ignis Danse]] コメント/ナンイドオモテ/カンタン/Ignis Danse
+-[[コメント/難易度表/かんたん/Illusion Flare]] コメント/ナンイドオモテ/カンタン/Illusion Flare
 -[[コメント/難易度表/かんたん/Infinite Rebellion]] コメント/ナンイドオモテ/カンタン/Infinite Rebellion
 -[[コメント/難易度表/かんたん/Inscrutable Battle]] コメント/ナンイドオモテ/カンタン/Inscrutable Battle
 -[[コメント/難易度表/かんたん/Into the Unknown]] コメント/ナンイドオモテ/カンタン/Into the Unknown
@@ -5300,6 +5301,7 @@
 -[[コメント/難易度表/ふつう/INSIDE IDENTITY]] コメント/ナンイドオモテ/フツウ/INSIDE IDENTITY
 -[[コメント/難易度表/ふつう/INSPION]] コメント/ナンイドオモテ/フツウ/INSPION
 -[[コメント/難易度表/ふつう/Ignis Danse]] コメント/ナンイドオモテ/フツウ/Ignis Danse
+-[[コメント/難易度表/ふつう/Illusion Flare]] コメント/ナンイドオモテ/フツウ/Illusion Flare
 -[[コメント/難易度表/ふつう/Infinite Rebellion]] コメント/ナンイドオモテ/フツウ/Infinite Rebellion
 -[[コメント/難易度表/ふつう/Inscrutable Battle]] コメント/ナンイドオモテ/フツウ/Inscrutable Battle
 -[[コメント/難易度表/ふつう/Into the Unknown]] コメント/ナンイドオモテ/フツウ/Into the Unknown

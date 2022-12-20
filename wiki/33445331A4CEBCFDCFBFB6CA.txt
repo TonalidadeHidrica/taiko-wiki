@@ -3,6 +3,8 @@
 -デフォルト ''46'' 曲 ＋ 隠し曲 ''9'' 曲 ＝ ''55'' 曲
 --裏譜面 ''5'' 曲
 
+----
+
 -[[公式サイト>https://web.archive.org/web/20170420225634/http://taiko3ds.namco-ch.net/]]（アーカイブ）
 --[[あんごう>https://web.archive.org/web/20211128102810/https://taiko3ds.namco-ch.net/howto/howto5.html]]（アーカイブ）
 -[[開発日記>https://web.archive.org/web/20161110125329/http://taikoblog.namco-ch.net/blog/cat30]]（アーカイブ）
@@ -13,6 +15,13 @@
 --[[演奏オプション一覧]]
 --[[音色の一覧]]
 //-[[難易度順(おに)>http://www52.atwiki.jp/taikolevel/pages/82.html]]
+
+
+----
+|>|>|>|>|>|CENTER:74|c
+|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
+|BGCOLOR(cyan):~[[&color(black){%%%J-POP%%%};>#jpop]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコオリジナル%%%};>#namco]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|
+|''8'' 曲&br;(約14.5%)|''3'' 曲&br;(約5.5%)|''16'' 曲&br;(約29.1%)|''9'' 曲&br;(約16.4%)|''7'' 曲&br;(約12.7%)|''12'' 曲&br;(約21.8%)|
 
 ----
 ***隠し曲の解禁条件 [#hiddensongs]
@@ -35,11 +44,6 @@
 |BGCOLOR(orange):|''さんぽ（裏）''|''太鼓カウンター10000''|
 #endregion
 
-----
-|>|>|>|>|>|CENTER:74|c
-|>|>|>|>|>|''ジャンルごとの曲数''(ジャンル名を選択するとそのジャンルに移動します)|h
-|BGCOLOR(cyan):~[[&color(black){%%%J-POP%%%};>#jpop]]|BGCOLOR(lime):~[[&color(black){%%%バラエティ%%%};>#variety]]|BGCOLOR(orangered):~[[&color(black){%%%ナムコオリジナル%%%};>#namco]]|BGCOLOR(darkorchid):~[[&color(black){%%%ゲーム&br;ミュージック%%%};>#game]]|BGCOLOR(gold):~[[&color(black){%%%クラシック%%%};>#classic]]|BGCOLOR(orange):~[[&color(black){%%%アニメ%%%};>#anime]]|
-|''8'' 曲&br;(約14.5%)|''3'' 曲&br;(約5.5%)|''16'' 曲&br;(約29.1%)|''9'' 曲&br;(約16.4%)|''7'' 曲&br;(約12.7%)|''12'' 曲&br;(約21.8%)|
 ----
 |CENTER:1||LEFT:67|>|>|>|CENTER:61|c
 ||''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#f30):COLOR(#111):''かん&br;たん''|BGCOLOR(#8c2):COLOR(#111):''ふつう''|BGCOLOR(#3ab):COLOR(#111):''むずか&br;しい''|BGCOLOR(#f2c):COLOR(#000):''おに''|h
