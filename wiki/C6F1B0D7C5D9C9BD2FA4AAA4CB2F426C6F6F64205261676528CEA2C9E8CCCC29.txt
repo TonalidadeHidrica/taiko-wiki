@@ -18,6 +18,7 @@
 
 ***その他 [#other]
 -楽曲情報は[[表譜面>../Blood Rage#other]]を参照。
+-4桁ノーツの★×9は[[闇の魔法少女>../闇の魔法少女]]、[[ヒプノシスマイク -Division Battle Anthem->難易度表/おに/ヒプノシスマイク -Division Battle Anthem-]]に次いで3譜面目である。
 --裏譜面に限れば、[[''おに★×9最多コンボ''>コンボ数順/おに#stmax]]である(表譜面を含めると[[ヒプノシスマイク -Division Battle Anthem-(1608コンボ)>難易度表/おに/ヒプノシスマイク -Division Battle Anthem-]]が1位)。
 
 ----

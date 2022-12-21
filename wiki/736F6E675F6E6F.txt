@@ -1304,7 +1304,7 @@
 |1130|[[SORA-IV ブンパソング>難易度表/おに/SORA-IV ブンパソング]]|BGCOLOR(#ff7028):ナムオリ|-|-|sora4x||
 |1131|[[ラブリーX>難易度表/おに/ラブリーX]]|BGCOLOR(#ff7028):ナムオリ|-|-|lvx||
 |1132|[[まいにちがドンダフル>難易度表/おに/まいにちがドンダフル]]|BGCOLOR(#ff7028):ナムオリ|-|-|sw2op||
-|1133|[[Doppelgangers>難易度表/おに/Doppelgangers]]|BGCOLOR(#0acc2a):バラエティ|BGCOLOR(#ff7028):ナムオリ|-|?||
+|1133|[[Doppelgangers>難易度表/おに/Doppelgangers]]|BGCOLOR(#ff7028):ナムオリ|BGCOLOR(#0acc2a):バラエティ|-|?||
 |1134|[[Aleph-0>難易度表/おに/Aleph-0]]|BGCOLOR(#0acc2a):バラエティ|-|-|?||
 |1135|[[河内音頭 〜ふしづくし〜>難易度表/おに/河内音頭 〜ふしづくし〜]]|BGCOLOR(#ded523):クラシック|-|-|?||
 |1136|[[ホロメン音頭>難易度表/おに/ホロメン音頭]]|BGCOLOR(#49d5eb):ポップス|-|-|holond||
@@ -1319,10 +1319,10 @@
 |1145|[[LΔchesis>難易度表/おに/LΔchesis]]|BGCOLOR(#ff7028):ナムオリ|-|-|?||
 |1146|[[ヘイラ>難易度表/おに/ヘイラ]]|BGCOLOR(#ff7028):ナムオリ|-|-|?||
 |1147|[[Illusion Flare>難易度表/おに/Illusion Flare]]|BGCOLOR(#ff7028):ナムオリ|-|-|?||
-|1148|[[非公開]]|BGCOLOR(#49d5eb):ポップス|-|-|?||
-|1149|[[非公開]]|BGCOLOR(#49d5eb):ポップス|-|-|?||
-|1150|[[非公開]]|BGCOLOR(#49d5eb):ポップス|BGCOLOR(#fe90d2):アニメ|BGCOLOR(#fdc000):キッズ|?||
-|1151|[[非公開]]|BGCOLOR(#fdc000):キッズ|-|-|?||
+|1148|[[Habit>難易度表/おに/Habit]]|BGCOLOR(#49d5eb):ポップス|-|-|skohab||
+|1149|[[フォニイ>難易度表/おに/フォニイ]]|BGCOLOR(#49d5eb):ポップス|-|-|kfphon||
+|1150|[[残響散歌>難易度表/おに/残響散歌]]|BGCOLOR(#fe90d2):アニメ|BGCOLOR(#49d5eb):ポップス|BGCOLOR(#fdc000):キッズ|kimznk||
+|1151|[[Trust・Last>難易度表/おに/Trust・Last]]|BGCOLOR(#fdc000):キッズ|-|-|?||
 |1152|[[非公開]]|BGCOLOR(#49d5eb):ポップス|-|-|?||
 |1153|[[非公開]]|BGCOLOR(#49d5eb):ポップス|-|-|?||
 |1154|[[非公開]]|BGCOLOR(#ff7028):ナムオリ|-|-|?||
