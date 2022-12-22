@@ -1270,7 +1270,7 @@
 |kkkill|[[きらきらキラー>難易度表/おに/きらきらキラー]]||
 |kkrobo|[[ココロボ>難易度表/おに/ココロボ]]||
 |kktmhp|[[ここたまハッピ〜パラダイス！>難易度表/おに/ここたまハッピ〜パラダイス！]]||
-//|kl2gtl|[[GOING TO LUNATEA>難易度表/おに/GOING TO LUNATEA]]|風のクロノア2|
+|kl2gtl|[[GOING TO LUNATEA>難易度表/おに/GOING TO LUNATEA]]|風のクロノア2|
 |klbala|[[Baladium's drive>難易度表/おに/Baladium's drive]]|風のクロノア|
 |klono|[[STEPPING WIND>難易度表/おに/STEPPING WIND]]|~|
 |klwind|[[The Windmill Song>難易度表/おに/The Windmill Song]]|~|

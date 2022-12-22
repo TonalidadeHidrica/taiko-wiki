@@ -5,8 +5,9 @@
 -[[公式サイト（アーカイブ）>https://web.archive.org/web/20180917173130/https://product.bandainamco-am.co.jp/am/vg/taikono-tatsujin/]]
 -[[システム詳細>ACの歴史(AC14まで)#ac1]]
 -[[ジャンル別収録曲リスト(見やすさ重視)>AC1の収録曲/ジャンル別]]
--[[コンボ数>AC1 /コンボ数]]
+-[[コンボ数>AC1の収録曲/+コンボ数]]
 
+**収録曲リスト [#list]
 ||LEFT:65|>|>|CENTER:65|c
 |''曲名''|BPM((※があるものは細かなBPM変化がある))|BGCOLOR(#c2381c):COLOR(#fff):''かんたん''|BGCOLOR(#457338):COLOR(#fff):''ふつう''|BGCOLOR(#115273):COLOR(#fff):''むずかしい''|h
 |''ドラえもん音頭''&br;ジャンル．音頭|112|[[★×1>難易度表/かんたん/ドラえもん音頭]]|-|-|

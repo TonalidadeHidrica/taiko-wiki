@@ -161,7 +161,6 @@
 |''Lunar Maria''|136|[[★×3>難易度表/かんたん/Lunar Maria]]|[[★×4>難易度表/ふつう/Lunar Maria]]|[[★×5>難易度表/むずかしい/Lunar Maria]]|[[★×6>難易度表/おに/Lunar Maria]]|[[★×8>難易度表/おに/Lunar Maria(裏譜面)]]|
 |''せかいのおと - sekai note -''|160|[[★×1>難易度表/かんたん/せかいのおと - sekai note -]]|[[★×2>難易度表/ふつう/せかいのおと - sekai note -]]|[[★×4>難易度表/むずかしい/せかいのおと - sekai note -]]|[[★×8>難易度表/おに/せかいのおと - sekai note -]]|-|
 |''Libera Ray''|116-232|[[★×4>難易度表/かんたん/Libera Ray]]|[[★×5>難易度表/ふつう/Libera Ray]]|[[★×7>難易度表/むずかしい/Libera Ray]]|[[★×10>難易度表/おに/Libera Ray]]|-|
-|''GOING TO LUNATEA''|248|[[★×2>難易度表/かんたん/GOING TO LUNATEA]]|[[★×4>難易度表/ふつう/GOING TO LUNATEA]]|[[★×6>難易度表/むずかしい/GOING TO LUNATEA]]|[[★×8>難易度表/おに/GOING TO LUNATEA]]|-|
 ||LEFT:60|>|>|>|>|CENTER:42|c
 |>|>|>|>|>|>|BGCOLOR(#0acc2a):''バラエティ''&aname(variety);|
 |''Ne&#71;a/Po&#83;i*ラブ/コール''|166-169|[[★×3>難易度表/かんたん/NeGa／PoSi* ラブ／コール]]|[[★×4>難易度表/ふつう/NeGa／PoSi* ラブ／コール]]|[[★×6>難易度表/むずかしい/NeGa／PoSi* ラブ／コール]]|[[★×6>難易度表/おに/NeGa／PoSi* ラブ／コール]]|[[★×8>難易度表/おに/NeGa／PoSi* ラブ／コール(裏譜面)]]|
