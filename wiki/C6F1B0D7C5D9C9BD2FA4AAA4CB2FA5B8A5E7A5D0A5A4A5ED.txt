@@ -1,10 +1,10 @@
 *ジョバイロ [#title]
 -TBS系ドラマ「''今夜ひとりのベッドで''」主題歌。
 
-***詳細 [#detail]
-|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
-|バージョン((太字は初出))|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC8''|★×7|''547''|''1004400点''|700点|110点|
+***詳細 [#more]
+|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|CENTER:|c
+|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
+|''AC8''|BGCOLOR(cyan):''J-POP''|★×7|''547''|''1004400点''|700点|110点|
 
 ***譜面構成・攻略 [#capture]
 -BPMは126。
