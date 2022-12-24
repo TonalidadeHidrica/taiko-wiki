@@ -337,10 +337,10 @@
 ||68|>|>|>|>|CENTER:64|c
 |''曲名''|BPM|BGCOLOR(#d52700):COLOR(#fff):''かんたん''|BGCOLOR(#769e11):COLOR(#fff):''ふつう''|BGCOLOR(#297ba3):COLOR(#fff):''むずかしい''|BGCOLOR(#af1e7f):COLOR(#fff):''おに''|BGCOLOR(#6042dd):COLOR(#fff):''おに(裏)''|h
 |>|>|>|>|>|>|BGCOLOR(#fe90d2):''アニメ''|
-|''Snow halation''|173|[[★×3>難易度表/かんたん/Snow halation]]|[[★×4>難易度表/ふつう/Snow halation]]|[[★×5>難易度表/むずかしい/Snow halation]]|[[★×6>難易度表/おに/Snow halation]]|-|
 |''僕らは今のなかで''|196|[[★×4>難易度表/かんたん/僕らは今のなかで]]|[[★×6>難易度表/ふつう/僕らは今のなかで]]|[[★×6>難易度表/むずかしい/僕らは今のなかで]]|[[★×8>難易度表/おに/僕らは今のなかで]]|-|
 |''それは僕たちの奇跡''|180|[[★×3>難易度表/かんたん/それは僕たちの奇跡]]|[[★×5>難易度表/ふつう/それは僕たちの奇跡]]|[[★×6>難易度表/むずかしい/それは僕たちの奇跡]]|[[★×7>難易度表/おに/それは僕たちの奇跡]]|-|
 |''Angelic Angel''|160※|[[★×3>難易度表/かんたん/Angelic Angel]]|[[★×4>難易度表/ふつう/Angelic Angel]]|[[★×4>難易度表/むずかしい/Angelic Angel]]|[[★×7>難易度表/おに/Angelic Angel]]|-|
+|''Snow halation''|173|[[★×3>難易度表/かんたん/Snow halation]]|[[★×4>難易度表/ふつう/Snow halation]]|[[★×5>難易度表/むずかしい/Snow halation]]|[[★×6>難易度表/おに/Snow halation]]|-|
 |>|>|>|>|>|>|BGCOLOR(#0acc2a):''バラエティ''|
 |''Marine Mirage''|170|[[★×1>難易度表/かんたん/Marine Mirage]]|[[★×2>難易度表/ふつう/Marine Mirage]]|[[★×3>難易度表/むずかしい/Marine Mirage]]|[[★×6>難易度表/おに/Marine Mirage]]|-|
 |''Dive to Blue''|72.74-186|[[★×2>難易度表/かんたん/Dive to Blue]]|[[★×2>難易度表/ふつう/Dive to Blue]]|[[★×3>難易度表/むずかしい/Dive to Blue]]|[[★×8>難易度表/おに/Dive to Blue]]|-|

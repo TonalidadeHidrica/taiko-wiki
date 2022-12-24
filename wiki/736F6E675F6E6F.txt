@@ -155,7 +155,7 @@
 |56|[[Blue Rose Ruin>難易度表/おに/Blue Rose Ruin]]|BGCOLOR(#ff7028):ナムオリ|-|-|blrose||
 |57|BGCOLOR(#ccc):[[黒い猫の歌>難易度表/おに/黒い猫の歌]]|BGCOLOR(#49d5eb):J-POP|-|-|BGCOLOR(#ccc):rudolf|BGCOLOR(#ccc):17/3/15〜19/12/2　サヨナラ曲|
 |~|BGCOLOR(#ccc):[[ブルーバード>難易度表/おに/ブルーバード]]|BGCOLOR(#49d5eb):J-POP|-|-|BGCOLOR(#ccc):blurb|BGCOLOR(#ccc):〜16/10/13　サヨナラ曲|
-|58|[[クリスマスソング>難易度表/おに/クリスマスソング]]|BGCOLOR(#49d5eb):J-POP|-|-|bnxmas|17/3/15〜|
+|58|[[クリスマスソング>難易度表/おに/クリスマスソング]]|BGCOLOR(#49d5eb):J-POP|-|-|bnxmas|17/3/15〜23/1/23　サヨナラ曲|
 |~|BGCOLOR(#ccc):[[ブラック★ロックシューター>難易度表/おに/ブラック★ロックシューター]]|BGCOLOR(#cbcfde):ボカロ|-|-|BGCOLOR(#ccc):brs|BGCOLOR(#ccc):〜16/10/13　サヨナラ曲|
 |59|[[僕らの世界にダンスを>難易度表/おに/僕らの世界にダンスを]]|BGCOLOR(#cbcfde):ボカロ|-|-|bsdanc||
 |60|[[夜桜謝肉祭>難易度表/おに/夜桜謝肉祭]]|BGCOLOR(#ff7028):ナムオリ|-|-|btu5ar||
@@ -1051,9 +1051,9 @@
 |880|[[夢と希望>難易度表/おに/夢と希望]]|BGCOLOR(#cc8aeb):G & V|-|-|udtymt||
 |881|[[MEGALOVANIA>難易度表/おに/MEGALOVANIA]]|BGCOLOR(#cc8aeb):G & V|-|-|udtmgl||
 |882|[[乙女解剖>難易度表/おに/乙女解剖]]|BGCOLOR(#cbcfde):ボカロ|-|-|mikuot||
-|883|[[サクリファイス>難易度表/おに/サクリファイス]]|BGCOLOR(#fe90d2):アニメ|BGCOLOR(#49d5eb):ポップス|-|ka2kam||
+|883|[[サクリファイス>難易度表/おに/サクリファイス]]|BGCOLOR(#fe90d2):アニメ|BGCOLOR(#49d5eb):ポップス|-|ka2kam|〜23/1/23　サヨナラ曲|
 |884|[[愛にできることはまだあるかい>難易度表/おに/愛にできることはまだあるかい]]|BGCOLOR(#fe90d2):アニメ|BGCOLOR(#49d5eb):ポップス|-|tnkai2||
-|885|[[Pretender>難易度表/おに/Pretender]]|BGCOLOR(#49d5eb):ポップス|-|-|ohdpre||
+|885|[[Pretender>難易度表/おに/Pretender]]|BGCOLOR(#49d5eb):ポップス|-|-|ohdpre|〜23/1/23　サヨナラ曲|
 |886|[[ハロー！どんちゃん>難易度表/おに/ハロー！どんちゃん]]|BGCOLOR(#ff7028):ナムオリ|-|-|hello2||
 |887|[[ナマハゲノウタ>難易度表/おに/ナマハゲノウタ]]|BGCOLOR(#ff7028):ナムオリ|-|-|7ma8ge||
 |888|[[クラシックメドレー(ロック編)>難易度表/おに/クラシックメドレー(ロック編)]]|BGCOLOR(#ded523):クラシック|BGCOLOR(#ff7028):ナムオリ|-|clsr||
@@ -1061,7 +1061,7 @@
 |890|[[わら得る2000>難易度表/おに/わら得る2000]]|BGCOLOR(#ff7028):ナムオリ|-|-|wara2k||
 |891|[[カッティアワールの宝剣>難易度表/おに/カッティアワールの宝剣]]|BGCOLOR(#ff7028):ナムオリ|-|-|ymyrp3||
 |892|[[幕末維新譚>難易度表/おに/幕末維新譚]]|BGCOLOR(#ff7028):ナムオリ|-|-|ba9ma2||
-|893|[[ピースサイン>難易度表/おに/ピースサイン]]|BGCOLOR(#49d5eb):ポップス|-|-|ynzpcs||
+|893|[[ピースサイン>難易度表/おに/ピースサイン]]|BGCOLOR(#49d5eb):ポップス|-|-|ynzpcs|〜23/1/23　サヨナラ曲|
 |894|[[今>難易度表/おに/今]]|BGCOLOR(#49d5eb):ポップス|BGCOLOR(#fdc000):キッズ|-|umima||
 |895|[[HIMAWARI HAPPY>難易度表/おに/HIMAWARI HAPPY]]|BGCOLOR(#49d5eb):ポップス|BGCOLOR(#fdc000):キッズ|-|umhmwr||
 |896|[[続・〆ドレー2000>難易度表/おに/続・〆ドレー2000]]|BGCOLOR(#ff7028):ナムオリ|-|-|medl22||
