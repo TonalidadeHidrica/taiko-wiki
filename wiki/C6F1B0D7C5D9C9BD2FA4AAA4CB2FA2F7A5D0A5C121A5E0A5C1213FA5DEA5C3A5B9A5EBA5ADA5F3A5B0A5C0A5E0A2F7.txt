@@ -9,7 +9,7 @@
 
 ***譜面構成・攻略 [#capture]
 -BPMは5-''300''。
--連打秒数目安・・・約0.673秒ー約0.283秒ー約0.083秒×2ー約0.378秒：合計約1.5秒
+-連打秒数目安・・・約0.673秒−約0.283秒−約0.083秒×2−約0.378秒：合計約1.5秒
 -全体的に譜面が忙しくかつ見づらいため捌きにくい箇所も多い。
 --特に、27小節は見た目が急に遅くなるため見極めづらい。&br;COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}&br;と面が全て利き手になるので動きを覚えてリズムを合わせたり&br;COLOR(red){●}(COLOR(red){●})COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○} COLOR(red){●} COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}COLOR(red){●}COLOR(blue){○} COLOR(blue){○} COLOR(blue){○}&br;とカッコ枠のように32分間隔で面を加えて32分を利き手で叩けるようにアレンジすると良い。
 ---ちなみに、ドンの間隔はBPM160の4分でカッの間隔はBPM160の14分である。(見た目もそのようになっている)

@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.5.3''|PS Vita1&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''608''|''1050860点''|+連打|490点|118点|
+|''AC15.5.3''|PS Vita1&br;PS4 1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×8|''608''|''1050860点''|+連打|490点|118点|
 ||PS Vita1亜|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''998390点''}|~|COLOR(#ff3300){1470点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1051700点''|~|500点|100点|
@@ -28,16 +28,17 @@
 --ギターは、''[[宮路一昭>https://twitter.com/miyajikazuaki]]''。
 --トラックダウンは、''[[渡辺紀明>https://twitter.com/nwrecordings]]''。
 -譜面作成は、[[''アリーホット''>譜面作成者一覧/アリーホット]]。
--49小節等が[[タイコロール>../タイコロール]]の51〜52小節に引用された。
 -アニメの[[&ruby(デイバイデイ){DAY×DAY};>難易度表/おに/DAY×DAY]]との混同に注意。
--曲IDは、''daybyd''。
+-49小節等が[[タイコロール>../タイコロール]]の51〜52小節に引用された。
 -[[グリーンVer.段位道場 外伝>過去の段位道場#green-gaiden]]の「チャレンジ！グリーン外伝�ァ廚�2曲目課題曲となった。
+-曲IDは、''daybyd''。
 
 ----
 -[[かんたん>難易度表/かんたん/Day by Day!]]
 -[[ふつう>難易度表/ふつう/Day by Day!]]
 -[[むずかしい>難易度表/むずかしい/Day by Day!]]
--[[プレイ動画>https://www.youtube.com/watch?v=FPpcPd1E1kM]]
+-[[プレイ動画(AC15)>https://www.youtube.com/watch?v=FPpcPd1E1kM]]
+-[[オート動画(PS4)>https://youtube.com/watch?v=Fvwgx2f4euI]]
 
 ***コメント [#comment]
 #pcomment(,noname)

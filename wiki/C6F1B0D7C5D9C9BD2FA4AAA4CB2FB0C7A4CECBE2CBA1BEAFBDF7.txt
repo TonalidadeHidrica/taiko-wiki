@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|天井スコア|初項|公差|h
-|''AC15.5.6''|PS Vita1&br;3DS3&br;PS4 1DL&br;NS RPG|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''1158''|''1101180点''|260点|60点|
+|''AC15.5.6''|PS Vita1&br;3DS3&br;PS4 1DL&br;NS RPG&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×9|''1158''|''1101180点''|260点|60点|
 ||PS Vita1亜|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''1111600点''|230点|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1004200点''}|COLOR(#ff3300){780点}|-|

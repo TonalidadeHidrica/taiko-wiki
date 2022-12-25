@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.5.3''|PS Vita1&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''524''|''849760点''|+連打|450点|110点|
+|''AC15.5.3''|PS Vita1&br;PS4 1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×7|''524''|''849760点''|+連打|450点|110点|
 ||PS Vita1亜|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''997970点''}|~|COLOR(#ff3300){1690点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''849600点''|~|400点|100点|
@@ -21,18 +21,19 @@
 -ゴーゴーは休みがほとんどないので、適正者は体力切れに注意したいところ。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Day by Day!]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Day by Day!#other]]を参照。
 -[[ホワイトVer.段位道場>過去の段位道場#white]]の一級3曲目課題曲となった。
 
 ----
 -[[かんたん>難易度表/かんたん/Day by Day!]]
 -[[ふつう>難易度表/ふつう/Day by Day!]]
 -[[おに>難易度表/おに/Day by Day!]]
--[[オート動画(キャプチャ)>https://youtube.com/watch?v=yiIdlV1857s]]
+-[[オート動画(PS4)>https://youtube.com/watch?v=qc8lwV542a0]]
 
 ***コメント [#comment]
 #pcomment(,noname)
 
 ***譜面 [#score]
-~実際は92小節まで&br;黄色連打は下の画像より48分音符一つ分短い
+~実際は92小節まで
+~黄色連打は下の画像より48分音符一つ分短い
 ~&attachref(Dayby_h.png,nolink);

@@ -3,7 +3,7 @@
 ***詳細 [#more]
 |>|>|>|>|>|>|>|>|CENTER:|c
 |>|バージョン((太字は初出))|ジャンル|難易度|最大コンボ数|>|天井スコア|初項|公差|h
-|''AC15.5.3''|PS Vita1&br;PS4 1DL|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''320''|''601120点''|+連打|490点|130点|
+|''AC15.5.3''|PS Vita1&br;PS4 1DL&br;NS2MP|BGCOLOR(orangered):''ナムコ&br;オリジナル''|★×5|''320''|''601120点''|+連打|490点|130点|
 ||PS Vita1亜|BGCOLOR(orangered):''NAMCO&br;原創音樂''|~|~|~|~|~|~|
 |COLOR(#ff3300){真打}|||~|~|COLOR(#ff3300){''1000740点''}|~|COLOR(#ff3300){2640点}|-|
 ||iOS&br;AR|BGCOLOR(orangered):''ナムコ&br;オリジナル''|~|~|''597600点''|~|470点|110点|
@@ -23,13 +23,13 @@
 --全て大音符なので、特良逃しには注意したいところ。
 
 ***その他 [#other]
--楽曲情報は[[おに譜面>難易度表/おに/Day by Day!]]を参照。
+-楽曲情報は[[おに譜面>難易度表/おに/Day by Day!#other]]を参照。
 
 ----
 -[[かんたん>難易度表/かんたん/Day by Day!]]
 -[[むずかしい>難易度表/むずかしい/Day by Day!]]
 -[[おに>難易度表/おに/Day by Day!]]
--[[オート動画(キャプチャ)>https://youtube.com/watch?v=kLhcpHRnM6s]]
+-[[オート動画(PS4)>https://youtube.com/watch?v=QI43hXfEqTw]]
 
 ***コメント [#comment]
 #pcomment(,noname)
