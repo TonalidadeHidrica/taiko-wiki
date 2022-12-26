@@ -55,6 +55,7 @@
 
 ***譜面 [#score]
 ~80小節目を含めた後に、3本非表示の小節線があります
+~内部小節線を含めた譜面画像は[[こちら>https://www.wikihouse.com/taiko/index.php?plugin=attach&pcmd=open&file=struck_m0.png&refer=%C6%F1%B0%D7%C5%D9%C9%BD%2F%A4%AA%A4%CB%2F%C0%B1%B6%FD%A5%B9%A5%C8%A5%E9%A5%C3%A5%AF]]
 ~&attachref(★星屑ストラック★.png,nolink);
 
 ~見た目重視
