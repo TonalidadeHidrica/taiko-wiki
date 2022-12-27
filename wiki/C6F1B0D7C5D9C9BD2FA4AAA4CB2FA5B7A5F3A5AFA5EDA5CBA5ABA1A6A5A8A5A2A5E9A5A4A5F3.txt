@@ -34,6 +34,7 @@
 -新筐体でこの譜面をフルコンボすると、''称号''「''シンクロニカは眠らない''」を獲得できる。
 --曲タイトルのもう1つの候補として挙がったものが由来であり、シンクロニカにおいても2人でTECHNICALでFULL MULTI-COMBOをすると獲得できるクラウンになっている。
 -[[ニジイロVer.段位道場2022 外伝>段位道場#originalgaiden]]の「すえPからの挑戦状#1」の3曲目課題曲となった。
+//-余談だが、新筐体の英語表記では曲名が「[[Synchronica Airlines>https://taiko.namco-ch.net/taiko/en/special/dani_dojo_gaiden/list.php]]」だが、中国語表記では「[[Synchronica Airline>https://taiko.namco-ch.net/taiko/tc/special/dani_dojo_gaiden/list.php]]」となっており、曲名が一致していない。
 -曲IDは、''syairl''。
 
 ----

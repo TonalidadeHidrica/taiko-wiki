@@ -262,6 +262,10 @@
 |>|BGCOLOR(pink):|>|>|>|>|BGCOLOR(pink):CENTER:42|c
 |''【双打】 WE WILL ROCK YOU''|163|[[★×2>難易度表/かんたん/【双打】 WE WILL ROCK YOU]]|-|-|-|-|
 ||LEFT:60|>|>|>|>|CENTER:42|c
+|>|>|>|>|>|>|BGCOLOR(#ded523):''クラシック''&aname(classic);|
+|>|BGCOLOR(pink):|>|>|>|>|BGCOLOR(pink):CENTER:42|c
+|''カルメン 組曲一番終曲''|120※|-|-|-|-|[[★×10>難易度表/おに/カルメン組曲一番終曲(裏譜面)]]((段位道場限定))|
+||LEFT:60|>|>|>|>|CENTER:42|c
 |>|>|>|>|>|>|BGCOLOR(#ff7028):''ナムコオリジナル''&aname(namco);|
 |>|BGCOLOR(pink):|>|>|>|>|BGCOLOR(pink):CENTER:42|c
 |''Rotter Tarmination''|200|[[★×4>難易度表/かんたん/Rotter Tarmination]]((二人用譜面))|-|-|-|-|

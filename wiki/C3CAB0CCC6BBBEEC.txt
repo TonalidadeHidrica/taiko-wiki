@@ -253,6 +253,34 @@
 |>|CENTER:10|CENTER:150|CENTER:100|CENTER:75|>|>|>|CENTER:60|c
 ||>|>|>|''課題曲情報''|>|>|>|''お題''|h
 |''解放期間''|>|''楽曲名''|''むずかしさ''|''ノーツ数''|>|>|>|''&color(black){ 合格条件&br;上段：};&color(#f23b08){赤合格　};&color(black){下段：};&color(#b77900){金合格 };''|h
+|''22/12/27〜''|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''あっぱれ三代目からの挑戦状#1【粋】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/あっぱれ三代目からの挑戦状＃1【粋】]]|BGCOLOR(#f7e5b7):SIZE(16){''1396''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|BGCOLOR(#f7e5b7):-|
+|~|1st|[[カルメン 組曲一番終曲>難易度表/むずかしい/カルメン組曲一番終曲]]|むずかしい★×5|388コンボ|COLOR(red){99%以上}&br;COLOR(#cccc33){''??%以上''}|COLOR(red){30未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){43打以上}&br;COLOR(#cccc33){''??打以上''}|-|
+|~|2nd|[[KAGEKIYO>難易度表/むずかしい/KAGEKIYO 源平討魔伝メドレー]]|むずかしい★×7|616コンボ|~|~|COLOR(red){36打以上}&br;COLOR(#cccc33){''??打以上''}|~|
+|~|3rd|[[メカデス。>難易度表/むずかしい/メカデス。]]|むずかしい★×7|392コンボ|~|~|COLOR(red){63打以上}&br;COLOR(#cccc33){''??打以上''}|~|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''あっぱれ三代目からの挑戦状#1【雅】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/あっぱれ三代目からの挑戦状＃1【雅】]]|BGCOLOR(#f7e5b7):SIZE(16){''1766''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|BGCOLOR(#f7e5b7):-|
+|~|1st|[[カルメン 組曲一番終曲>難易度表/おに/カルメン組曲一番終曲]]|おに★×7|518コンボ|COLOR(red){99%以上}&br;COLOR(#cccc33){''??%以上''}|COLOR(red){20未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){36打以上}&br;COLOR(#cccc33){''??打以上''}|-|
+|~|2nd|[[メカデス。>難易度表/おに/メカデス。]]|おに★×7|483コンボ|~|~|COLOR(red){99打以上}&br;COLOR(#cccc33){''??打以上''}|~|
+|~|3rd|[[KAGEKIYO>難易度表/おに/KAGEKIYO 源平討魔伝メドレー]]|おに★×8|765コンボ|~|~|COLOR(red){43打以上}&br;COLOR(#cccc33){''??打以上''}|~|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''あっぱれ三代目からの挑戦状#1【極】''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/あっぱれ三代目からの挑戦状＃1【極】]]|BGCOLOR(#f7e5b7):SIZE(16){''2953&br;〜&br;2955''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|BGCOLOR(#f7e5b7):-|
+|~|1st|[[KAGEKIYO''(裏)''>難易度表/おに/KAGEKIYO 源平討魔伝メドレー(裏譜面)]]|おに★×10|COLOR(#909):999コンボ&br;COLOR(#069):998コンボ&br;COLOR(#666):997コンボ|COLOR(red){99%以上}&br;COLOR(#cccc33){''??%以上''}|COLOR(red){50未満}&br;COLOR(#cccc33){''??打未満''}|&br;COLOR(red){43打以上}&br;COLOR(#cccc33){''??打以上''}|-|
+|~|2nd|[[メカデス。''(裏)''>難易度表/おに/メカデス。(裏譜面)]]|おに★×10|999コンボ|~|~|COLOR(red){60打以上}&br;COLOR(#cccc33){''??打以上''}|~|
+|~|3rd|[[カルメン 組曲一番終曲''(裏)''>難易度表/おに/カルメン組曲一番終曲(裏譜面)]]|おに★×10|957コンボ|~|~|COLOR(red){26打以上}&br;COLOR(#cccc33){''??打以上''}|~|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''ドコドン！ボーカル曲祭り#1''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/ドコドン！ボーカル曲祭り＃1]]|BGCOLOR(#f7e5b7):SIZE(16){''1631''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''叩けた数''|BGCOLOR(#f7e5b7):-|BGCOLOR(#f7e5b7):-|
+|~|1st|[[なんどでも笑おう>難易度表/おに/なんどでも笑おう]]|おに★×7|515コンボ|COLOR(red){98%以上}&br;COLOR(#cccc33){''??%以上''}|COLOR(red){2165打以上}&br;COLOR(#cccc33){''????打以上''}|-|-|
+|~|2nd|[[竜と黒炎の姫君>難易度表/おに/竜と黒炎の姫君]]|おに★×8|569コンボ|~|~|~|~|
+|~|3rd|[[Hold me tight>難易度表/おに/Hold me tight]]|おに★×8|547コンボ|~|~|~|~|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''ドコドン！ボーカル曲祭り#2''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/ドコドン！ボーカル曲祭り＃2]]|BGCOLOR(#f7e5b7):SIZE(16){''2106''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''叩けた数''|BGCOLOR(#f7e5b7):-|BGCOLOR(#f7e5b7):-|
+|~|1st|[[ブルちゃんのおや2>難易度表/おに/ブルちゃんのおや2]]|おに★×8|575コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){2551打以上}&br;COLOR(#cccc33){''????打以上''}|-|-|
+|~|2nd|[[Solitude Star>難易度表/おに/Solitude Star]]|おに★×9|766コンボ|~|~|~|~|
+|~|3rd|[[EDY ‐エレクトリカルダンシングヨガ‐>難易度表/おに/EDY -エレクトリカルダンシングヨガ-]]|おに★×9|765コンボ|~|~|~|~|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''えむけぴからの挑戦状#1''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/えむけぴからの挑戦状＃1]]|BGCOLOR(#f7e5b7):SIZE(16){''1530''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|
+|~|1st|[[Saika>難易度表/おに/Saika]]|おに★×8|593コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){330未満}&br;COLOR(#cccc33){''???未満''}|COLOR(red){20未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){95打以上}&br;COLOR(#cccc33){''??打以上''}|
+|~|2nd|[[GO GET’EM！>難易度表/むずかしい/GO GET'EM!]]|むずかしい★×8|384コンボ|~|~|~|COLOR(red){104打以上}&br;COLOR(#cccc33){''???打以上''}|
+|~|3rd|[[彼は誰時の誘惑>難易度表/おに/彼は誰時の誘惑]]|おに★×9|553コンボ|~|~|~|COLOR(red){251打以上}&br;COLOR(#cccc33){''???打以上''}|
+|~|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''えむけぴからの挑戦状#2''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/えむけぴからの挑戦状＃2]]|BGCOLOR(#f7e5b7):SIZE(16){''2333''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|
+|~|1st|[[神様の言うとおりに''(裏)''>難易度表/おに/神様の言うとおりに(裏譜面)]]|おに★×9|833コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){250未満}&br;COLOR(#cccc33){''???未満''}|COLOR(red){13未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){5打以上}&br;COLOR(#cccc33){''?打以上''}|
+|~|2nd|[[Dreadnought>難易度表/むずかしい/Dreadnought]]|おに★×9|632コンボ|~|~|~|COLOR(red){265打以上}&br;COLOR(#cccc33){''???打以上''}|
+|~|3rd|[[Blessed Bouquet Buskers>難易度表/おに/Blessed Bouquet Buskers]]|おに★×10|868コンボ|~|~|~|COLOR(red){142打以上}&br;COLOR(#cccc33){''???打以上''}|
 |''22/10/22〜''|>|BGCOLOR(#f7e5b7):CENTER:SIZE(16){''すえPからの挑戦状#1''}|BGCOLOR(#f7e5b7):RIGHT:SIZE(16){''総音符数''}&br;[[動画>]]　[[攻略>段位道場 外伝/すえPからの挑戦状＃1]]|BGCOLOR(#f7e5b7):SIZE(16){''2462''}|BGCOLOR(#f7e5b7):''魂ゲージ''|BGCOLOR(#f7e5b7):''可の数''|BGCOLOR(#f7e5b7):''不可の数''|BGCOLOR(#f7e5b7):''連打数''|
 |~|1st|[[God knows...''(裏)''>難易度表/おに/God knows...(裏譜面)]]|おに★×9|938コンボ|COLOR(red){100%以上}&br;COLOR(#cccc33){''100%以上''}|COLOR(red){78未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){12未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){310打以上}&br;COLOR(#cccc33){''???打以上''}|
 |~|2nd|[[いっそこのままで>難易度表/おに/いっそこのままで]]|おに★×9|765コンボ|~|COLOR(red){73未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){11未満}&br;COLOR(#cccc33){''??未満''}|COLOR(red){32打以上}&br;COLOR(#cccc33){''??打以上''}|

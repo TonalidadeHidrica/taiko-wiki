@@ -24,11 +24,11 @@
 --BPMが遅い上に、終盤以外スカスカで8分がメインであることからこの数値となっており、★×9としては相当低い値。
 
 ***その他 [#other]
--アーティストは、''SUi''。
 -曲名は直訳で「流れ星に願いを」という意味。
+-アーティストは、''SUi''。
 -DEEMOとのコラボレーション第2弾における2つ目の配信曲である。
--曲IDは、''demwis''。
 -[[Shooting Star>難易度表/おに/Shooting Star]]との混同に注意。
+-曲IDは、''demwis''。
 
 ----
 -[[かんたん>難易度表/かんたん/Wish upon a shooting star]]
@@ -41,5 +41,5 @@
 #pcomment(,noname)
 
 ***譜面 [#score]
-~1個目の風船は3打。~
+~1個目の風船は3打
 ~&attachref(Wish upon a shooting star.png,nolink);
