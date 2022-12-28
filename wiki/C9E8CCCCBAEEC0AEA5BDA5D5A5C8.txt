@@ -5,4 +5,5 @@
 -どんすこあ！
 -[[v0.181>http://ux.getuploader.com/rocktyt/download/1/donscore0181.7z]]
 -[[v0.15>http://wada314.jp/tcf/donscore/donscore.zip]]（繋がらない際はこのページの添付ファイルから）
+//そろそろ新バージョンがほしい
 --半角英数字が透過されてしまう時はCleartypeをONにすると直るようです。

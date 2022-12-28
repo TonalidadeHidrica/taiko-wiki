@@ -18,11 +18,11 @@
 ||[[れ>五十音順/は行〜わ行#re]]||[[め>五十音順/は行〜わ行#me]]|[[へ>五十音順/は行〜わ行#he]]|[[ね>五十音順#ne]]|[[て>五十音順#te]]|[[せ>五十音順#se]]|[[け>五十音順#ke]]|[[え>五十音順#ee]]|
 |ん|[[ろ>五十音順/は行〜わ行#ro]]|[[よ>五十音順/は行〜わ行#yo]]|[[も>五十音順/は行〜わ行#mo]]|[[ほ>五十音順/は行〜わ行#ho]]|[[の>五十音順#no]]|[[と>五十音順#to]]|[[そ>五十音順#so]]|[[こ>五十音順#ko]]|[[お>五十音順#oo]]|
 
-|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|c
-|[[A>#AAA]]|[[B>#BBB]]|[[C>#CCC]]|[[D>#DDD]]|[[E>#EEE]]|[[F>#FFF]]|[[G>#GGG]]|
-|[[H>#HHH]]|[[I>#III]]|[[J>#JJJ]]|[[K>#KKK]]|[[L>#LLL]]|[[M>#MMM]]|[[N>#NNN]]|
-|[[O>#OOO]]|[[P>#PPP]]|[[Q>#QQQ]]|[[R>#RRR]]|[[S>#SSS]]|[[T>#TTT]]|[[U>#UUU]]|
-|[[V>#VVV]]|[[W>#WWW]]|[[X>#XXX]]|[[Y>#YYY]]|Z|[[数字>#NUMBER]]||
+|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|CENTER:16|c
+|[[A>#AAA]]|[[B>#BBB]]|[[C>#CCC]]|[[D>#DDD]]|[[E>#EEE]]|[[F>#FFF]]|[[G>#GGG]]|[[H>#HHH]]|[[I>#III]]|
+|[[J>#JJJ]]|[[K>#KKK]]|[[L>#LLL]]|[[M>#MMM]]|[[N>#NNN]]|[[O>#OOO]]|[[P>#PPP]]|[[Q>#QQQ]]|[[R>#RRR]]|
+|[[S>#SSS]]|[[T>#TTT]]|[[U>#UUU]]|[[V>#VVV]]|[[W>#WWW]]|[[X>#XXX]]|[[Y>#YYY]]|Z|[[数字>#NUMBER]]|
+
 
 ----
 
@@ -113,9 +113,9 @@
 |''Caribbean Knight''|135-300|[[★×5>難易度表/かんたん/Caribbean Knight]]|[[★×7>難易度表/ふつう/Caribbean Knight]]|[[★×7>難易度表/むずかしい/Caribbean Knight]]|[[★×10>難易度表/おに/Caribbean Knight]]|-|
 |''CAT'S EYE''|145※|[[★×2>難易度表/かんたん/CAT'S EYE]]|[[★×4>難易度表/ふつう/CAT'S EYE]]|[[★×6>難易度表/むずかしい/CAT'S EYE]]|[[★×7>難易度表/おに/CAT'S EYE]]|-|
 |''Central Dogma Pt.1''|190-284|[[★×5>難易度表/かんたん/Central Dogma Pt.1]]|[[★×7>難易度表/ふつう/Central Dogma Pt.1]]|[[★×8>難易度表/むずかしい/Central Dogma Pt.1]]|[[★×10>難易度表/おに/Central Dogma Pt.1]]|[[★×10>難易度表/おに/Central Dogma Pt.1(裏譜面)]]|
-|''Central Dogma Pt.2''|189?-284?|[[★×5>難易度表/かんたん/Central Dogma Pt.2]]|[[★×6>難易度表/ふつう/Central Dogma Pt.2]]|[[★×8>難易度表/むずかしい/Central Dogma Pt.2]]|[[★×10>難易度表/おに/Central Dogma Pt.2]]|-|
+|''Central Dogma Pt.2''|189-284|[[★×5>難易度表/かんたん/Central Dogma Pt.2]]|[[★×6>難易度表/ふつう/Central Dogma Pt.2]]|[[★×8>難易度表/むずかしい/Central Dogma Pt.2]]|[[★×10>難易度表/おに/Central Dogma Pt.2]]|-|
 |''CHA-LA HEAD-CHA-LA''|154|[[★×3>難易度表/かんたん/CHA-LA HEAD-CHA-LA]]|[[★×4>難易度表/ふつう/CHA-LA HEAD-CHA-LA]]|[[★×5>難易度表/むずかしい/CHA-LA HEAD-CHA-LA]]|[[★×6>難易度表/おに/CHA-LA HEAD-CHA-LA]]|-|
-|''Challengers''|250?|[[★×5>難易度表/かんたん/Challengers]]|[[★×7>難易度表/ふつう/Challengers]]|[[★×8>難易度表/むずかしい/Challengers]]|[[★×10>難易度表/おに/Challengers]]|-|
+|''Challengers''|125-343.75|[[★×5>難易度表/かんたん/Challengers]]|[[★×7>難易度表/ふつう/Challengers]]|[[★×8>難易度表/むずかしい/Challengers]]|[[★×10>難易度表/おに/Challengers]]|-|
 |''CHANGE!!!!''|170|[[★×3>難易度表/かんたん/CHANGE!!!!]]|[[★×5>難易度表/ふつう/CHANGE!!!!]]|[[★×6>難易度表/むずかしい/CHANGE!!!!]]|[[★×7>難易度表/おに/CHANGE!!!!]]|-|
 |''CHAOS RINGS''|108-143※|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/CHAOS RINGS]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/CHAOS RINGS]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/CHAOS RINGS]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/CHAOS RINGS]]|-|
 |''Checkmate!?''|137|[[★×3>難易度表/かんたん/Checkmate!?]]|[[★×5>難易度表/ふつう/Checkmate!?]]|[[★×6>難易度表/むずかしい/Checkmate!?]]|[[★×8>難易度表/おに/Checkmate!?]]|-|
@@ -123,7 +123,7 @@
 |''Choco Chiptune.''|210|[[★×4>難易度表/かんたん/Choco Chiptune.]]|[[★×6>難易度表/ふつう/Choco Chiptune.]]|[[★×7>難易度表/むずかしい/Choco Chiptune.]]|[[★×8>難易度表/おに/Choco Chiptune.]]|-|
 |''Choo Choo TRAIN''|115|[[★×2>難易度表/かんたん/Choo Choo TRAIN]]|[[★×3>難易度表/ふつう/Choo Choo TRAIN]]|BGCOLOR(#ccc):[[★×4>難易度表/むずかしい/Choo Choo TRAIN]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/Choo Choo TRAIN]]|-|
 |''CHU-BURA''|180|BGCOLOR(#ccc):[[★×4>難易度表/かんたん/CHU-BURA]]|BGCOLOR(#ccc):[[★×5>難易度表/ふつう/CHU-BURA]]|BGCOLOR(#ccc):[[★×5>難易度表/むずかしい/CHU-BURA]]|BGCOLOR(#ccc):[[★×7>難易度表/おに/CHU-BURA]]|-|
-|''Circle of Seasons''|168|[[★×2>難易度表/かんたん/Circle of Seasons]]|[[★×4>難易度表/ふつう/Circle of Seasons]]|[[★×4>難易度表/むずかしい/Circle of Seasons]]|[[★×6>難易度表/おに/Circle of Seasons]]|-|
+|''Circle of Seasons''|168※|[[★×2>難易度表/かんたん/Circle of Seasons]]|[[★×4>難易度表/ふつう/Circle of Seasons]]|[[★×4>難易度表/むずかしい/Circle of Seasons]]|[[★×6>難易度表/おに/Circle of Seasons]]|-|
 |''CITRUS''|82|[[★×2>難易度表/かんたん/CITRUS]]|[[★×3>難易度表/ふつう/CITRUS]]|[[★×5>難易度表/むずかしい/CITRUS]]|[[★×7>難易度表/おに/CITRUS]]|-|
 |''Climax Jump''|170|[[★×2>難易度表/かんたん/Climax Jump]]|[[★×2>難易度表/ふつう/Climax Jump]]|[[★×5>難易度表/むずかしい/Climax Jump]]|[[★×8>難易度表/おに/Climax Jump]]|-|
 |''Clotho クロートー''|185|[[★×5>難易度表/かんたん/Clotho クロートー]]|[[★×7>難易度表/ふつう/Clotho クロートー]]|[[★×7>難易度表/むずかしい/Clotho クロートー]]|[[★×10>難易度表/おに/Clotho クロートー]]|-|
@@ -136,7 +136,7 @@
 |''Cry Baby''|100|[[★×2>難易度表/かんたん/Cry Baby]]|[[★×3>難易度表/ふつう/Cry Baby]]|[[★×5>難易度表/むずかしい/Cry Baby]]|[[★×8>難易度表/おに/Cry Baby]]|-|
 |''CYBERgenicALICE''|185|[[★×4>難易度表/かんたん/CYBERgenicALICE]]|[[★×5>難易度表/ふつう/CYBERgenicALICE]]|[[★×6>難易度表/むずかしい/CYBERgenicALICE]]|[[★×9>難易度表/おに/CYBERgenicALICE]]|-|
 |>|>|>|>|>|>|BGCOLOR(black):COLOR(#fff):CENTER:''D''&aname(DDD);|
-|''DADDY MULK''|152.59|[[★×4>難易度表/かんたん/DADDY MULK]]|[[★×6>難易度表/ふつう/DADDY MULK]]|[[★×7>難易度表/むずかしい/DADDY MULK]]|[[★×8>難易度表/おに/DADDY MULK]]|-|
+|''DADDY MULK''|152.63※|[[★×4>難易度表/かんたん/DADDY MULK]]|[[★×6>難易度表/ふつう/DADDY MULK]]|[[★×7>難易度表/むずかしい/DADDY MULK]]|[[★×8>難易度表/おに/DADDY MULK]]|-|
 |''DANCE!おジャ魔女''|152|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DANCE!おジャ魔女]]|BGCOLOR(#ccc):[[★×2>難易度表/ふつう/DANCE!おジャ魔女]]|BGCOLOR(#ccc):[[★×2>難易度表/むずかしい/DANCE!おジャ魔女]]|BGCOLOR(#ccc):[[★×4>難易度表/おに/DANCE!おジャ魔女]]|-|
 |''DANCE2 feat.ソイソース''|140|BGCOLOR(#ccc):[[★×3>難易度表/かんたん/DANCE2 feat.ソイソース]]|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/DANCE2 feat.ソイソース]]|BGCOLOR(#ccc):[[★×6>難易度表/むずかしい/DANCE2 feat.ソイソース]]|BGCOLOR(#ccc):[[★×8>難易度表/おに/DANCE2 feat.ソイソース]]|-|
 |''Dance My Generation''|133|[[★×2>難易度表/かんたん/Dance My Generation]]|[[★×3>難易度表/ふつう/Dance My Generation]]|[[★×6>難易度表/むずかしい/Dance My Generation]]|[[★×7>難易度表/おに/Dance My Generation]]|[[★×7>難易度表/おに/Dance My Generation]]|
@@ -152,7 +152,7 @@
 |''DAY×DAY''|193|[[★×4>難易度表/かんたん/DAY×DAY]]|[[★×5>難易度表/ふつう/DAY×DAY]]|[[★×6>難易度表/むずかしい/DAY×DAY]]|[[★×8>難易度表/おに/DAY×DAY]]|-|
 |''Day by Day!''|161|[[★×3>難易度表/かんたん/Day by Day!]]|[[★×5>難易度表/ふつう/Day by Day!]]|[[★×7>難易度表/むずかしい/Day by Day!]]|[[★×8>難易度表/おに/Day by Day!]]|-|
 |''Daydream caf&eacute;''|150|[[★×3>難易度表/かんたん/Daydream cafe]]|[[★×5>難易度表/ふつう/Daydream cafe]]|[[★×6>難易度表/むずかしい/Daydream cafe]]|[[★×7>難易度表/おに/Daydream cafe]]|-|
-|''Day of the future''|158|[[★×3>難易度表/かんたん/Day of the future]]|[[★×4>難易度表/ふつう/Day of the future]]|[[★×5>難易度表/むずかしい/Day of the future]]|[[★×9>難易度表/おに/Day of the future]]|-|
+|''Day of the future''|104-158|[[★×3>難易度表/かんたん/Day of the future]]|[[★×4>難易度表/ふつう/Day of the future]]|[[★×5>難易度表/むずかしい/Day of the future]]|[[★×9>難易度表/おに/Day of the future]]|-|
 |''DDU-DU DDU-DU''|140|[[★×2>難易度表/かんたん/DDU-DU DDU-DU]]|[[★×2>難易度表/ふつう/DDU-DU DDU-DU]]|[[★×4>難易度表/むずかしい/DDU-DU DDU-DU]]|[[★×7>難易度表/おに/DDU-DU DDU-DU]]|-|
 |''DEBSTEP!''|130※|[[★×5>難易度表/かんたん/DEBSTEP!]]|[[★×7>難易度表/ふつう/DEBSTEP!]]|[[★×8>難易度表/むずかしい/DEBSTEP!]]|[[★×10>難易度表/おに/DEBSTEP!]]|-|
 |''Dejavina (Japanese ver.)''|123.33-128|[[★×3>難易度表/かんたん/Dejavina (Japanese ver.)]]|[[★×4>難易度表/ふつう/Dejavina (Japanese ver.)]]|[[★×5>難易度表/むずかしい/Dejavina (Japanese ver.)]]|[[★×8>難易度表/おに/Dejavina (Japanese ver.)]]|-|

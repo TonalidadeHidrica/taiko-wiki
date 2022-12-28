@@ -146,7 +146,6 @@ BPMは小数点以下の0を省略する。「001」等の場合は「00」と表記。
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[いっぱいいっぱい>難易度表/おに/いっぱいいっぱい]]|''5.086''|161|599|117.76秒|''ジャンル1位:COLOR(darkorchid):ゲームミュージック'' ・ ''新基準ジャンル1位:COLOR(hotpink):アニメ''|
 |>|BGCOLOR(darkorchid):|BGCOLOR(hotpink):|[[IDOL POWER RAINBOW>難易度表/おに/IDOL POWER RAINBOW]]|''5.031''|160|558|110.91秒||
 |>|>|>|>|>|>|>|>|BGCOLOR(#cfd6e0):CENTER:''5.000未満''|
-|>|>|BGCOLOR(orange):|[[ハム太郎とっとこうた(2005)>難易度表/おに/ハム太郎とっとこうた2005]]|''4.965''|140|400|80.57秒||
 |>|>|BGCOLOR(hotpink):|[[Can Do>難易度表/おに/Can Do]]|''4.959''|199.98※|427|86.11秒||
 |>|>|BGCOLOR(cyan):|[[LOVE 2000>難易度表/おに/LOVE 2000]]|''4.918''|170|499|101.47秒||
 |>|>|BGCOLOR(cyan):|[[Romanticが止まらない>難易度表/おに/Romanticが止まらない]]|''4.911''|146|330|67.19秒||

@@ -394,7 +394,7 @@
 |''Hello, Morning''|160|[[★×3>難易度表/かんたん/Hello, Morning]]|[[★×4>難易度表/ふつう/Hello, Morning]]|[[★×5>難易度表/むずかしい/Hello, Morning]]|[[★×7>難易度表/おに/Hello, Morning]]|[[★×8>難易度表/おに/Hello, Morning(裏譜面)]]|
 |''Hello,world!''|211|[[★×4>難易度表/かんたん/Hello,world!]]|[[★×5>難易度表/ふつう/Hello,world!]]|[[★×6>難易度表/むずかしい/Hello,world!]]|[[★×7>難易度表/おに/Hello,world!]]|-|
 |''Hero''|98-125|[[★×2>難易度表/かんたん/Hero]]|[[★×3>難易度表/ふつう/Hero]]|[[★×3>難易度表/むずかしい/Hero]]|[[★×7>難易度表/おに/Hero]]|-|
-|''Highschool&#9825;love''|128|[[★×3>難易度表/かんたん/Highschool・love]]|[[★×4>難易度表/ふつう/Highschool・love]]|[[★×6>難易度表/むずかしい/Highschool・love]]|[[★×7>難易度表/おに/Highschool・love]]|-|
+|''Highschool &#9825; love''|128|[[★×3>難易度表/かんたん/Highschool・love]]|[[★×4>難易度表/ふつう/Highschool・love]]|[[★×6>難易度表/むずかしい/Highschool・love]]|[[★×7>難易度表/おに/Highschool・love]]|-|
 |''HIMAWARI HAPPY''|114-125|[[★×1>難易度表/かんたん/HIMAWARI HAPPY]]|[[★×1>難易度表/ふつう/HIMAWARI HAPPY]]|[[★×2>難易度表/むずかしい/HIMAWARI HAPPY]]|[[★×2>難易度表/おに/HIMAWARI HAPPY]]|-|
 |''Hope''|135.75-140|[[★×2>難易度表/かんたん/Hope]]|[[★×3>難易度表/ふつう/Hope]]|[[★×5>難易度表/むずかしい/Hope]]|[[★×7>難易度表/おに/Hope]]|-|
 |''HOTEL PACIFIC''|158|-|BGCOLOR(#ccc):[[★×4>難易度表/ふつう/HOTEL PACIFIC]]|-|-|-|
